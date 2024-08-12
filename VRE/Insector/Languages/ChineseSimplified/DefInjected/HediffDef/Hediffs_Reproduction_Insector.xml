@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chestburst pregnancy -->
+  <VRE_ChestburstPregnancy_Victim.label>破胸胎儿</VRE_ChestburstPregnancy_Victim.label>
+  <!-- EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. -->
+  <VRE_ChestburstPregnancy_Victim.description>此单位体内已被植入了破胸胎儿。如果胎儿的妊娠进度达到100%，或此单位在妊娠进度达到90%以上时死亡，胎儿便会从胸口处破体而出。胎儿发育完全需要15天。</VRE_ChestburstPregnancy_Victim.description>
+  <!-- EN: egg -->
+  <VRE_ChestburstPregnancy_Victim.stages.egg.label>卵</VRE_ChestburstPregnancy_Victim.stages.egg.label>
+  <!-- EN: larva -->
+  <VRE_ChestburstPregnancy_Victim.stages.larva.label>幼体</VRE_ChestburstPregnancy_Victim.stages.larva.label>
+  <!-- EN: pupa -->
+  <VRE_ChestburstPregnancy_Victim.stages.pupa.label>结蛹</VRE_ChestburstPregnancy_Victim.stages.pupa.label>
+  <!-- EN: juvenile -->
+  <VRE_ChestburstPregnancy_Victim.stages.juvenile.label>成体</VRE_ChestburstPregnancy_Victim.stages.juvenile.label>
+  
+  <!-- EN: chestburst pregnancy -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>破胸胎儿</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <!-- EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically. -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>此单位体内已被植入了破胸胎儿。如果胎儿的妊娠进度达到100%，或此单位在妊娠进度达到90%以上时死亡，胎儿便会从胸口处破体而出。胎儿发育完全需要15天。\n\n由于已发育到中晚期阶段，破胸胎儿现在无法通过手术移除了。</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <!-- EN: egg -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.egg.label>卵</VRE_ChestburstPregnancy_Victim_Hidden.stages.egg.label>
+  <!-- EN: larva -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.larva.label>幼体</VRE_ChestburstPregnancy_Victim_Hidden.stages.larva.label>
+  <!-- EN: pupa -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.pupa.label>结蛹</VRE_ChestburstPregnancy_Victim_Hidden.stages.pupa.label>
+  <!-- EN: juvenile -->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.juvenile.label>成体</VRE_ChestburstPregnancy_Victim_Hidden.stages.juvenile.label>
+  
+  <!-- EN: chestburst pregnancy needs implantation -->
+  <VRE_ChestburstPregnancyHediff.label>破胸胎儿（待植入）</VRE_ChestburstPregnancyHediff.label>
+  <!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_ChestburstPregnancyHediff.description>此人在拥有“破胸妊娠”基因的情况下怀孕，需要将胎儿植入其他生物体内。当胎儿发育完全后，便会从胸口处破体而出，被植入者将在痛苦中死去。如果胎儿长时间未被植入（6天），则此状态会自动终止。</VRE_ChestburstPregnancyHediff.description>
+  
+  <!-- EN: parthenogenesis -->
+  <VRE_Parthenogenesis.label>孤雌生殖</VRE_Parthenogenesis.label>
+  <!-- EN: This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously. -->
+  <VRE_Parthenogenesis.description>此人能在不与异性结合的情况下自行怀孕。由生殖器官创造的胎儿会被储存在与产卵器相似的生物结构中，一直到分娩前为止。</VRE_Parthenogenesis.description>
+  
+</LanguageData>

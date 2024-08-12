@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hazard protection -->
+  <VAE_HazardProtection.label>生化防护</VAE_HazardProtection.label>
+  <!-- EN: Develop suits resistant to high toxicity and radiation. -->
+  <VAE_HazardProtection.description>解锁制作能抵御毒素、辐射和心灵攻击的防护套装。</VAE_HazardProtection.description>
+  <!-- EN:
+    <li>subject->environmental safeguarding</li>
+    <li>subject_story->engineered suits that turn toxic wastelands into walkable lands</li>
+    <li>subject_story->developed radiation shields woven into the fabric of uniforms</li>
+    <li>subject_story->created attire that allows safe research in deadly environments</li>
+    <li>subject_gerund->enhancing hazard resistance</li>
+  -->
+  <VAE_HazardProtection.generalRules.rulesStrings>
+    <li>subject->环境安全防护</li>
+    <li>subject_story->设计了能在毒污废土上行走的防护服</li>
+    <li>subject_story->研发了织入制服中的防辐射层</li>
+    <li>subject_story->制作了能保障在致命环境中安全研究的衣物</li>
+    <li>subject_gerund->强化险境抗性</li>
+  </VAE_HazardProtection.generalRules.rulesStrings>
+  
+  <!-- EN: leather tanning -->
+  <VAE_LeatherTanning.label>鞣制皮革</VAE_LeatherTanning.label>
+  <!-- EN: Learn the process of tanning to craft more thicker and durable armors. -->
+  <VAE_LeatherTanning.description>学习如何对皮革进行鞣制，解锁制作更厚实耐用的护甲。</VAE_LeatherTanning.description>
+  <!-- EN:
+    <li>subject->art of leathercraft</li>
+    <li>subject_story->rediscovered ancient tanning recipes for unmatched durability</li>
+    <li>subject_story->introduced waterproofing techniques that defy harsh weathers</li>
+    <li>subject_story->crafted armors that blend tradition with battlefield necessity</li>
+    <li>subject_gerund->mastering leather tanning</li>
+  -->
+  <VAE_LeatherTanning.generalRules.rulesStrings>
+    <li>subject->制革技艺</li>
+    <li>subject_story->重新发现了能让皮革变得极其耐用的远古鞣制技术</li>
+    <li>subject_story->引入了能抵挡恶劣天气的防水技术</li>
+    <li>subject_story->制造了兼顾传统与战场需求的护具</li>
+    <li>subject_gerund->掌握鞣制皮革技术</li>
+  </VAE_LeatherTanning.generalRules.rulesStrings>
+  
+  <!-- EN: military camouflage -->
+  <VAE_MlitaryCamouflage.label>军用伪装</VAE_MlitaryCamouflage.label>
+  <!-- EN: Craft special military apparel allowing users to resemble the background environment such as foliage. -->
+  <VAE_MlitaryCamouflage.description>解锁制作能让士兵融入环境的服饰，例如迷彩涂装和吉利服等。</VAE_MlitaryCamouflage.description>
+  <!-- EN:
+    <li>subject->stealth and mimicry</li>
+    <li>subject_story->designed gear that mimics the environment, making soldiers invisible</li>
+    <li>subject_story->studied animals' camouflage to apply their patterns to military apparel</li>
+    <li>subject_story->outfitted scouts with wear that blends seamlessly into surroundings</li>
+    <li>subject_gerund->camouflaging the forces</li>
+  -->
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings>
+    <li>subject->隐蔽与伪装</li>
+    <li>subject_story->设计了能让士兵隐匿于环境中的伪装装备</li>
+    <li>subject_story->研究了动物的拟态伪装，以将其应用于军用衣物上</li>
+    <li>subject_story->为侦察兵配备了能无缝融入周围环境的衣物</li>
+    <li>subject_gerund->伪装部队</li>
+  </VAE_MlitaryCamouflage.generalRules.rulesStrings>
+  
+  <!-- EN: siegebreaker armor -->
+  <VAE_SiegebreakerArmor.label>破袭者装甲</VAE_SiegebreakerArmor.label>
+  <!-- EN: Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components. -->
+  <VAE_SiegebreakerArmor.description>解锁制作「破袭者装甲」，一种虽然会显著减缓穿戴者的移动速度，但能承受大量伤害的重型动力装甲。此外，它还内置有护盾发生器。\n\n注意：制作时需要高级零部件。</VAE_SiegebreakerArmor.description>
+  <!-- EN:
+    <li>subject->fortified march</li>
+    <li>subject_story->forged armor that withstands artillery, turning soldiers into walking tanks</li>
+    <li>subject_story->integrated advanced tech for unmatched endurance on the battlefield</li>
+    <li>subject_story->developed exoskeletons that bear the brunt, safeguarding the wearer</li>
+    <li>subject_gerund->constructing siegebreaker defenses</li>
+  -->
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings>  
+    <li>subject->强化挺进</li>
+    <li>subject_story->锻造了能承受火炮打击并将士兵变成人形坦克的装甲</li>
+    <li>subject_story->集成了能在战场上保持极强耐力的高级科技</li>
+    <li>subject_story->研发了能保护穿戴者免受攻击的外骨骼</li>
+    <li>subject_gerund->制作破袭者装甲</li>
+  </VAE_SiegebreakerArmor.generalRules.rulesStrings>
+  
+  <!-- EN: trooper armor -->
+  <VAE_TrooperArmor.label>游骑兵装甲</VAE_TrooperArmor.label>
+  <!-- EN: Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components. -->
+  <VAE_TrooperArmor.description>解锁制作「游骑兵装甲」，一种能穿在外套内侧的轻型半动力装甲。生产成本低。\n\n注意：制作时需要高级零部件。</VAE_TrooperArmor.description>
+  <!-- EN:
+    <li>subject->agile protection</li>
+    <li>subject_story->innovated with lightweight materials for rapid troop deployment</li>
+    <li>subject_story->balanced protection with mobility, setting new standards for combat gear</li>
+    <li>subject_story->pioneered the use of semi-powered armor in skirmishes</li>
+    <li>subject_gerund->equipping rapid response units</li>
+  -->
+  <VAE_TrooperArmor.generalRules.rulesStrings>
+    <li>subject->机动防护</li>
+    <li>subject_story->为快速部署部队而革新使用了轻型材料</li>
+    <li>subject_story->平衡了防护与机动性，为战斗装备设立了新标准</li>
+    <li>subject_story->在遭遇战中开创使用了半动力装甲</li>
+    <li>subject_gerund->武装快速反应部队</li>
+  </VAE_TrooperArmor.generalRules.rulesStrings>
+  
+</LanguageData>

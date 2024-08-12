@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: assassin -->
+  <Assassin.label>夺命刺客</Assassin.label>
+  <!-- EN: The subject has become capable of landing very precise hits even in frantic melee or from very long range, knowing exactly where to aim in order to target the brain or the heart. -->
+  <Assassin.description>即便是在疯狂的混战中，能力者也能非常精准地击中目标的大脑或心脏。</Assassin.description>
+  <!-- EN: All attacks hit vital organs (brain and heart). -->
+  <Assassin.effectDescription>所有攻击都会命中目标的重要器官(如大脑或心脏)。</Assassin.effectDescription>
+  
+  <!-- EN: blast resistance -->
+  <BlastResistance.label>爆炸抗性</BlastResistance.label>
+  <!-- EN: The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel. -->
+  <BlastResistance.description>能力者的皮肤变得如同非牛顿流体一般，当暴露在极高的冲击力(如手雷爆炸)下时，皮肤将会迅速变硬以进行抵挡。</BlastResistance.description>
+  <!-- EN: Takes no damage from explosions. -->
+  <BlastResistance.effectDescription>不会受到爆炸造成的伤害(包括反粒子)。</BlastResistance.effectDescription>
+  
+  <!-- EN: bulletproof skin -->
+  <BulletproofSkin.label>防弹皮肤</BulletproofSkin.label>
+  <!-- EN: The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking. -->
+  <BulletproofSkin.description>能力者皮肤与肌肉纤维的密度经受了极大幅度的强化，任何利器攻击都无法对其造成伤害。不过这无法阻挡钝器攻击造成的瘀伤或骨折。</BulletproofSkin.description>
+  <!-- EN: All sharp damage dealt to this pawn changes into blunt damage. -->
+  <BulletproofSkin.effectDescription>所有受到的利器伤害都会转化为钝器伤害。</BulletproofSkin.effectDescription>
+  
+  <!-- EN: celebrity -->
+  <Celebrity.label>社交达人</Celebrity.label>
+  <!-- EN: The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are. -->
+  <Celebrity.description>能力者的社交水平与大众亲和力俨然已成为了传说。</Celebrity.description>
+  <!-- EN: All social interactions are Kind Words. People tend to like Celebrity pawn 2x as much. -->
+  <Celebrity.effectDescription>所有的社交互动都会变成溢美之辞，人们会更喜欢加拥有社交达人能力的殖民者。</Celebrity.effectDescription>
+  
+  <!-- EN: cold resistance -->
+  <ColdResistance.label>寒冷抗性</ColdResistance.label>
+  <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep. -->
+  <ColdResistance.description>能力者浑身上下长出的微小的结节能驱散寒冷。它们会通过过度刺激肌肉来产生热量，这种感觉有些类似于全身都在不停地痉挛，但并不会影响正常的睡眠。</ColdResistance.description>
+  <!-- EN: Will never suffer hypothermia. Does not suffer Slept in Cold debuff. -->
+  <ColdResistance.effectDescription>不会获得“低温症”状态以及“在寒冷中睡觉”的负面情绪。</ColdResistance.effectDescription>
+  
+  <!-- EN: darkvision -->
+  <Darkvision.label>暗夜视觉</Darkvision.label>
+  <!-- EN: The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight. -->
+  <Darkvision.description>能力者的眼睛后面长出了一层能够发出微弱生物光的反射膜，瞳孔的形状也变成了一条竖长的细缝。这意味着能力者即使在黑暗环境下也能看得一清二楚。</Darkvision.description>
+  <!-- EN: No darkness penalty or mood debuff. -->
+  <Darkvision.effectDescription>不会获得任何因黑暗带来的属性惩罚或心情减益。</Darkvision.effectDescription>
+  
+  <!-- EN: eagle eye -->
+  <EagleEye.label>鹰眼视觉</EagleEye.label>
+  <!-- EN: The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible. -->
+  <EagleEye.description>能力者的深层感知与反应速度都得到了极大幅度的提升，可通过快速调整射击角度来以两倍于其他可能的距离击中目标。</EagleEye.description>
+  <!-- EN: Ranged weapon range doubled. -->
+  <EagleEye.effectDescription>远程武器的射程翻倍。</EagleEye.effectDescription>
+  
+  <!-- EN: efficient builder -->
+  <EfficientBuilder.label>高效建造</EfficientBuilder.label>
+  <!-- EN: The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity. -->
+  <EfficientBuilder.description>能力者可以感知并预测出建筑结构的应力，这样便有50%的几率在不危及结构完整性的情况下节省出25%的建造资源。</EfficientBuilder.description>
+  <!-- EN: 50% chance that building something will refund 25% resources used to build it. -->
+  <EfficientBuilder.effectDescription>建造完毕时，有50%的几率退还25%的建造资源。</EfficientBuilder.effectDescription>
+  
+  <!-- EN: heat resistance -->
+  <HeatResistance.label>炎热抗性</HeatResistance.label>
+  <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty. -->
+  <HeatResistance.description>能力者浑身上下长出的微小的结节能驱散炎热。它们会通过过度刺激汗腺来达到排汗散热的目的，能力者既不会中暑，也不会被点燃，更不会在意自己是否流了汗。</HeatResistance.description>
+  <!-- EN: Will never suffer heat stroke. Does not suffer Sweaty debuff. Cannot be set on fire. -->
+  <HeatResistance.effectDescription>不会获得“中暑”状态以及“在炎热中睡觉”的负面情绪。无法被点燃。</HeatResistance.effectDescription>
+  
+  <!-- EN: loner -->
+  <Loner.label>独来独往</Loner.label>
+  <!-- EN: The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude. -->
+  <Loner.description>能力者独处时，会进入一种坐禅冥想的状态以达到自娱自乐的目的。</Loner.description>
+  <!-- EN: Recreation replenishes if alone in the room. -->
+  <Loner.effectDescription>独自呆在房间里会缓缓增长娱乐值。</Loner.effectDescription>
+  
+  <!-- EN: marksmanship -->
+  <Marksmanship.label>弹无虚发</Marksmanship.label>
+  <!-- EN: The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons. -->
+  <Marksmanship.description>能力者的深层感知与视觉敏锐度都得到了极大幅度的提升，能用远程武器完美精确地锁定目标。</Marksmanship.description>
+  
+  <!-- EN: martial artist -->
+  <MartialArtist.label>武术大师</MartialArtist.label>
+  <!-- EN: The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements. -->
+  <MartialArtist.description>能力者的反应速度与手眼协调能力都得到了极大幅度的提升，在近身战斗时必定能够命中目标，且永远不会被敌人的近身攻击命中。</MartialArtist.description>
+  <!-- EN: Never misses melee attacks. Always dodges melee attacks. -->
+  <MartialArtist.effectDescription>近战攻击必定命中，且必定闪避敌人的近战攻击。</MartialArtist.effectDescription>
+  
+  <!-- EN: masterful craft -->
+  <MasterfulCraft.label>娴熟匠人</MasterfulCraft.label>
+  <!-- EN: The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers. -->
+  <MasterfulCraft.description>能力者的触觉敏感性与手眼协调能力都得到了极大幅度的提升，其精湛手艺制作出的物品要比同类工匠高出2个质量品级。</MasterfulCraft.description>
+  <!-- EN: Items crafted are always 2 quality levels higher, capped at Legendary. -->
+  <MasterfulCraft.effectDescription>制作物品时拥有+2质量偏移，最高可达传奇级。</MasterfulCraft.effectDescription>
+  
+  <!-- EN: master hacker -->
+  <MasterHacker.label>王牌黑客</MasterHacker.label>
+  <!-- EN: The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously. -->
+  <MasterHacker.description>能力者非同寻常的敏捷思维使其能够轻易地破解计算机代码。</MasterHacker.description>
+  <!-- EN: All hacking operations initiated by this pawn are instant. -->
+  <MasterHacker.effectDescription>所有的破解操作都会瞬间完成。</MasterHacker.effectDescription>
+  
+  <!-- EN: plasteel skeleton -->
+  <PlasteelSkeleton.label>钢筋铁骨</PlasteelSkeleton.label>
+  <!-- EN: The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken. -->
+  <PlasteelSkeleton.description>能力者的骨架结构已被缓慢且完全地替换成了坚固无比的玻璃钢。</PlasteelSkeleton.description>
+  <!-- EN: Immune to cracks and broken bones. -->
+  <PlasteelSkeleton.effectDescription>不会出现骨折或破裂伤口。</PlasteelSkeleton.effectDescription>
+  
+  <!-- EN: promising candidate -->
+  <PromisingCandidate.label>适格者</PromisingCandidate.label>
+  <!-- EN: For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure. -->
+  <PromisingCandidate.description>能力者完善的基因具有完全可塑性，对它们进行修改不会出现任何问题或关键实验失败的风险。</PromisingCandidate.description>
+  <!-- EN: Chances of Experiment failed are always reduced to 0%. -->
+  <PromisingCandidate.effectDescription>实验失败几率降至0%。</PromisingCandidate.effectDescription>
+  
+  <!-- EN: redundant stomach -->
+  <RedundantStomach.label>胃部冗余</RedundantStomach.label>
+  <!-- EN: The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation. -->
+  <RedundantStomach.description>能力者变得擅长从环境中汲取能量，其进食需求已被消除。这些能量可能来源于毒素、电磁干扰场、阳光、静电或辐射。</RedundantStomach.description>
+  <!-- EN: Regenerate hunger passively, removing the need to eat completely. -->
+  <RedundantStomach.effectDescription>自身的饮食值会自动补满，且不再需要通过吃东西来摄取能量。</RedundantStomach.effectDescription>
+  
+  <!-- EN: regenerating limbs -->
+  <RegeneratingLimbs.label>肢体再生</RegeneratingLimbs.label>
+  <!-- EN: The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing. -->
+  <RegeneratingLimbs.description>能力者的身体已突变成了“菌兽”，可通过“记忆”来再生出缺失的器官或肢体。</RegeneratingLimbs.description>
+  <!-- EN: Missing limbs and organs will grow back after some time has passed. -->
+  <RegeneratingLimbs.effectDescription>缺失的肢体和器官会在一段时间后再生。</RegeneratingLimbs.effectDescription>
+  
+  <!-- EN: self resurrection -->
+  <SelfResurrection.label>起死回生</SelfResurrection.label>
+  <!-- EN: The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining. -->
+  <SelfResurrection.description>能力者如同僵尸一般，当肉体与精神机能都停止运作时，会进入一种假死状态。3天时间过后，能力者会原地复活，而身上的伤口也将愈合如初。</SelfResurrection.description>
+  <!-- EN: This pawn cannot die, and as long as the body exists, a few moments after dying, the pawn will spring back to live with no wounds at all. -->
+  <SelfResurrection.effectDescription>死亡后，经过3天时间即可自动复活，身上的伤口也会完全愈合。\n注：将尸体埋进坟墓或装入棺材会导致此能力失效。</SelfResurrection.effectDescription>
+  
+  <!-- EN: super strength -->
+  <SuperStrength.label>力大无比</SuperStrength.label>
+  <!-- EN: The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity. -->
+  <SuperStrength.description>能力者的肌肉已被连有致密弹性纤维的传动轴承所强化，其力量得到了大幅提升。</SuperStrength.description>
+  <!-- EN: Doubled melee damage. Doubled Caravan inventory size. Doubled local map inventory size. -->
+  <SuperStrength.effectDescription>近战伤害、携带能力以及载重能力翻倍。</SuperStrength.effectDescription>
+  
+</LanguageData>

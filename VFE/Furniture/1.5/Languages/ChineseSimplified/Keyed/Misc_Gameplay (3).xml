@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- Gas pipe system -->
+	<!-- EN: Pipes not connected to generator or tanks -->
+  <VPE_PipesNotConnected>未接入输气管道。</VPE_PipesNotConnected>
+	<!-- EN: Pipe grid excess/stored: {0} ml / {1} ml-d -->
+  <VPE_PipeConnectedRateStored>管道输气/蓄气: {0} mL / {1} mL-d</VPE_PipeConnectedRateStored>
+	<!-- EN: Gas stored -->
+  <VPE_LiquidTankStored>储气</VPE_LiquidTankStored>
+	<!-- EN: Tank efficiency -->
+  <VPE_LiquidTankEfficiency>蓄气效率</VPE_LiquidTankEfficiency>
+	<!-- EN: Minimum sealant leakage -->
+  <VPE_TankLeakage>最小密封胶泄漏量</VPE_TankLeakage>
+	<!-- EN: Gas needed -->
+  <VPE_NutrientNeeded>天然气消耗</VPE_NutrientNeeded>
+	<!-- EN: Gas output -->
+  <VPE_LiquidOutput>天然气输出</VPE_LiquidOutput>
+	<!-- EN: This building must be placed on top of a helixien gas geyser -->
+  <VPE_MustPlaceOnGasGeyser>必须直接放置于燃气间歇喷泉上</VPE_MustPlaceOnGasGeyser>
+	<!-- EN: Fill hole -->
+  <VPE_PlugHole>填埋洞口</VPE_PlugHole>
+	<!-- EN: Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space. -->
+  <VPE_PlugHoleDesc>用泥土填埋洞口。警告：这将移除间歇泉或油田。务必确定你不再需要它或者它妨碍了建筑规划。</VPE_PlugHoleDesc>
+	<!-- EN: Cancel fill hole -->
+  <VPE_CancelPlugHole>取消填埋洞口</VPE_CancelPlugHole>
+	<!-- EN: Cancels the hole filling job. -->
+  <VPE_CancelPlugHoleDesc>取消填埋洞口作业。</VPE_CancelPlugHoleDesc>
+	<!-- EN: Gas powered buildings must be placed adjacent to gas pipes, not on top -->
+  <VPE_MustPlaceAdjacentToPipe>天然气相关建筑应紧贴天然气管道建造，而不是建在管道上上。</VPE_MustPlaceAdjacentToPipe>
+	<!-- EN: Deconstruct Gas Network -->
+  <VPE_DeconstructGasPipes>拆除天然气管道网络</VPE_DeconstructGasPipes>
+	<!-- EN: Deconstruct only gas pipes and subterranean gas pipes -->
+  <VPE_DeconstructGasPipesDesc>仅拆除天然气管道</VPE_DeconstructGasPipesDesc>
+	<!-- EN: Disable Helixien gas path calculations (use to reduce lag) -->
+  <VPE_DisableGasPathCalculations>禁用天然气路径测算机制（减少卡顿）</VPE_DisableGasPathCalculations>
+
+
+	<!-- EN: Gas excess (stored) in network: {0} ({1}) -->
+  <Fluffy.GasNetwork.GasNetworkInspectString>天然气管道网络中超出需求的量（天然气储量）： {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+	<!-- EN: Gas stored: {0}/{1} -->
+  <Fluffy.GasNetwork.Stored>已储存的天然气：{0}/{1}</Fluffy.GasNetwork.Stored>
+	<!-- EN: Gas produced: {0} -->
+  <Fluffy.GasNetwork.Production>天然气产出：{0}</Fluffy.GasNetwork.Production>
+	<!-- EN: Gas consumed: {0} -->
+  <Fluffy.GasNetwork.Consumption>天然气消耗：{0}</Fluffy.GasNetwork.Consumption>
+	<!-- EN: Gas turned off. -->
+  <Fluffy.GasNetwork.GasOff>天然气关闭。</Fluffy.GasNetwork.GasOff>
+	<!-- EN: Not connected to gas network. -->
+  <Fluffy.GasNetwork.NoNetwork>未连接到天然气管道网络。</Fluffy.GasNetwork.NoNetwork>
+	<!-- EN: Valve is open. -->
+  <Fluffy.GasNetwork.ValveOpen>气阀开启。</Fluffy.GasNetwork.ValveOpen>
+	<!-- EN: Valve is closed. -->
+  <Fluffy.GasNetwork.ValveClosed>气阀关闭。</Fluffy.GasNetwork.ValveClosed>
+	<!-- EN: Toggle gas flow -->
+  <Fluffy.GasNetwork.CommandToggleGas.Label>通断气流</Fluffy.GasNetwork.CommandToggleGas.Label>
+	<!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>决定气流是否流通。殖民者会迅速过来开关。</Fluffy.GasNetwork.CommandToggleGas.Desc>
+	<!-- EN: Target gas storage: {0}/{1} -->
+  <Fluffy.GasNetwork.DesiredBuffer>目标储气量：{0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+	<!-- EN: Gas storage turned off. -->
+  <Fluffy.GasNetwork.BufferOff>储气罐已关闭。</Fluffy.GasNetwork.BufferOff>
+
+	<!-- EN: Preferred unit of wind speed -->
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>风速单位</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+	<!-- EN: Wind Simulation -->
+  <Fluffy.GasNetwork.Settings.Wind.Category>风模拟</Fluffy.GasNetwork.Settings.Wind.Category>
+
+	<!-- Nucular Reactor -->
+	<!-- EN: Warning: Reactor producing radiation in a {0} meters radius -->
+  <VPE_RadiationProduced>警告：反应堆产生的辐射半径为{0}米</VPE_RadiationProduced>
+	<!-- EN: Temperature in reactor room: {0}ºC -->
+  <VPE_TempInReactorRoom>反应堆温度：{0}ºC</VPE_TempInReactorRoom>
+	<!-- EN: Warning: Temperature in reactor room: {0}ºC -->
+  <VPE_TempInReactorRoomCritical>警告：反应堆温度：{0}ºC</VPE_TempInReactorRoomCritical>
+	<!-- EN: Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of -->
+  <VPE_Meltdown>警告：由于高温熔毁。在维修之前，反应堆会杀死波及范围内的所有生命。</VPE_Meltdown>
+	<!-- EN: Reactor Meltdown -->
+  <VPE_MeltdownLetterLabel>反应堆熔毁</VPE_MeltdownLetterLabel>
+	<!-- EN: A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours. -->
+  <VPE_MeltdownLetter>高温导致反应堆部分熔化！在维修之前，此反应堆对波及范围内的生命将极为有害。\n\n掉以轻心很可能导致游戏结束结。</VPE_MeltdownLetter>
+	<!-- EN: Reactor room must be a roofed, enclosed space -->
+  <VPE_NoReactorRoom>反应堆必须放置在有屋顶的室内。</VPE_NoReactorRoom>
+
+	<!-- Misc -->
+	<!-- EN: This building needs to be placed in an indoors, roofed area -->
+  <VPE_MustPlaceRoofed>该建筑物需要放置在室内屋顶区域。</VPE_MustPlaceRoofed>
+
+	<!-- Violence Generator -->
+	<!-- EN: Souls stored for:  -->
+  <VPE_SoulsTime>储存的灵能用于：</VPE_SoulsTime>
+	<!-- EN: Producing {0} W of electricity -->
+  <VPE_Producing>产生{0} W的电能</VPE_Producing>
+	<!-- EN: No souls absorbed. The Machine Gods are hungry for human souls. -->
+  <VPE_NotProducing>没有灵能可吸收。机器渴望人类的灵能。</VPE_NotProducing>
+	<!-- EN: Switch Generator -->
+  <VPE_ToggleViolenceGenerator>开关灵能电池</VPE_ToggleViolenceGenerator>
+	<!-- EN: Switch Generator between a working and an inactive state -->
+  <VPE_ToggleViolenceGeneratorDesc>激活或关闭灵能电池。</VPE_ToggleViolenceGeneratorDesc>
+	<!-- EN: Violence generator is toggled off and inactive right now -->
+  <VPE_GeneratorIsOff>灵能电池已关闭并停止运作。</VPE_GeneratorIsOff>
+
+	<!-- Lightning Generator -->
+	<!-- EN: Lightning energy stored for:  -->
+  <VPE_LightningTime>储存的闪电能量用于：</VPE_LightningTime>
+
+	<!-- EN: Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm. -->
+  <VPE_NotLightningProducing>闪电能量耗尽。看来您必须等待下一场雷暴。</VPE_NotLightningProducing>
+
+	<!-- Gas pipe kaboom -->
+
+	<!-- EN: a gas pipe -->
+  <VPE_AGasPipe>天然气管道</VPE_AGasPipe>
+	<!-- EN: A fault in {0} has caused a gas explosion. -->
+  <VPE_GasExplosion>{0}的故障引起了瓦斯爆炸。</VPE_GasExplosion>
+	<!-- EN: A fault in {0} has caused a gas explosion which started a fire. -->
+  <VPE_GasExplosionStartedFire>{0}的故障引起了瓦斯爆炸并引发了火灾。</VPE_GasExplosionStartedFire>
+	<!-- EN: All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion. -->
+  <VPE_GasExplosionLostGas>所连接的所有储气罐内储存的{0} L-d天然气全部在瓦斯爆炸中释放出来。</VPE_GasExplosionLostGas>
+	<!-- EN: This large amount of gas has created an explosion of considerable size. -->
+  <VPE_GasExplosionLWasLarge>储存的大量天然气造成了一场规模可观的爆炸。</VPE_GasExplosionLWasLarge>
+	<!-- EN: That really is a huge explosion. Wow. -->
+  <VPE_GasExplosionLWasHuge>这爆炸的规模可超级大啊，哇！</VPE_GasExplosionLWasHuge>
+	<!-- EN: Kaboom! -->
+  <VPE_LetterLabelGasExplosion>Boom！</VPE_LetterLabelGasExplosion>
+
+	<!-- Chemfuel Pond -->
+
+	<!-- EN: This chemfuel pond has {0} units of chemfuel left -->
+  <VPE_PondHasFuel>该油田剩余{0}单位化合燃料</VPE_PondHasFuel>
+	<!-- EN: This chemfuel pond is depleted -->
+  <VPE_PondNoFuel>该油田已开采殆尽</VPE_PondNoFuel>
+	<!-- EN: The chemfuel pump needs to be built on top of a chemfuel pond -->
+  <VPE_MustPlaceOnChemfuelPond>油井必须直接放置于油田上</VPE_MustPlaceOnChemfuelPond>
+	<!-- EN: The pump will produce {0} units of chemfuel in {1} -->
+  <VPE_PumpProducing>油井每{1}可产{0}单位化合燃料</VPE_PumpProducing>
+
+	<!-- Tidal power plant -->
+
+	<!-- EN: This power plant must be built on water -->
+  <VPE_NeedsWater>此发电机必须在水上建造。</VPE_NeedsWater>
+	<!-- EN: Tidal power plants must be built with at least 40 tiles of separation of each other -->
+  <VPE_NeedsDistance>潮汐发电机之间必须相隔40格才能建造。</VPE_NeedsDistance>
+
+	<!-- Update Letter -->
+
+	<!-- EN: Power Mod Update -->
+  <VPE_GasUpdateNoticeLetterLabel>原版电力扩展更新</VPE_GasUpdateNoticeLetterLabel>
+	<!-- EN: The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free. -->
+  <VPE_GasUpdateNoticeLetterText>感谢Fluffy提供的代码支援。\n\n注意：旧存档的天然气管道网格若出现不兼容，可采用开发者模式替换为新版天然气管道网格。</VPE_GasUpdateNoticeLetterText>
+
+
+</LanguageData>

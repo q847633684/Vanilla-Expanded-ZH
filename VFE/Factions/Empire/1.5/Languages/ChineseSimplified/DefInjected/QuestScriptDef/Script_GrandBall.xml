@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_GrandBall.questNameRules.rulesStrings.0>questName-&gt;[lodgerIndef] 想要一个盛大的球</VFEE_GrandBall.questNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questNameRules.rulesStrings.1>lodgerIndef-&gt;皇家</VFEE_GrandBall.questNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questNameRules.rulesStrings.2>lodgerIndef-&gt;贵族</VFEE_GrandBall.questNameRules.rulesStrings.2>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;贵族</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;贵族</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;你将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>他们的HisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>他们的HisHer(nobleCount&gt;=2)-&gt;他们的</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount==1)-&gt;原为</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>lodgersWasWere(nobleCount&gt;=2)-&gt;是</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>appreciateAppreciates(nobleCount==1)-&gt;欣赏</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 希望您组织一场盛大的舞会。这是一个传播贵族八卦以及与帝国贵族其他成员建立关系的绝佳机会。\n你的殖民地需要有一个舞厅。如果舞厅在任何时候被摧毁或其中的乐器无法使用，盛大舞会将被取消\n[asker_nameFull]已向您转发受邀参加舞会的贵族名单，并将乘坐航天飞机抵达：\n [noblesDetailList]\n\n您需要确保客人在舞会期间安全舒适。如果任何客人发生任何意外，盛大的舞会将被取消。 \n逃兵可能会利用这个机会发动暗杀企图。
+</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_GrandBall.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_GrandBall.questContentRules.rulesStrings.0>
+  <VFEE_GrandBall.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;最后</VFEE_GrandBall.questContentRules.rulesStrings.1>
+  <VFEE_GrandBall.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_GrandBall.questContentRules.rulesStrings.2>
+  <VFEE_GrandBall.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_GrandBall.questContentRules.rulesStrings.3>
+  <VFEE_GrandBall.questContentRules.rulesStrings.4>decidedToLeave-&gt;立即离开，并且不会深切地记住此事件！</VFEE_GrandBall.questContentRules.rulesStrings.4>
+  <VFEE_GrandBall.questContentRules.rulesStrings.5>oneOfThe-&gt;您邀请参加盛大舞会的贵族之一</VFEE_GrandBall.questContentRules.rulesStrings.5>
+  <VFEE_GrandBall.questContentRules.rulesStrings.6>questOver-&gt;任务“[resolvedQuestName]”已结束。</VFEE_GrandBall.questContentRules.rulesStrings.6>
+  <VFEE_GrandBall.questContentRules.rulesStrings.7>CeremonyFailedLetterLabel-&gt;GrandBall 失败</VFEE_GrandBall.questContentRules.rulesStrings.7>
+  <VFEE_GrandBall.questContentRules.rulesStrings.8>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能举办一场愉快的舞会感到失望。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开</VFEE_GrandBall.questContentRules.rulesStrings.8>
+  <VFEE_GrandBall.questContentRules.rulesStrings.9>CeremonyTimeoutLetterLabel-&gt;GrandBall 失败</VFEE_GrandBall.questContentRules.rulesStrings.9>
+  <VFEE_GrandBall.questContentRules.rulesStrings.10>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始舞会。 [asker_pronoun] 将与 [asker_possessive] 位客人一起离开。</VFEE_GrandBall.questContentRules.rulesStrings.10>
+  <VFEE_GrandBall.questContentRules.rulesStrings.11>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}，[oneOfThe]。</VFEE_GrandBall.questContentRules.rulesStrings.11>
+  <VFEE_GrandBall.questContentRules.rulesStrings.12>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕</VFEE_GrandBall.questContentRules.rulesStrings.12>
+  <VFEE_GrandBall.questContentRules.rulesStrings.13>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.13>
+  <VFEE_GrandBall.questContentRules.rulesStrings.14>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</VFEE_GrandBall.questContentRules.rulesStrings.14>
+  <VFEE_GrandBall.questContentRules.rulesStrings.15>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</VFEE_GrandBall.questContentRules.rulesStrings.15>
+  <VFEE_GrandBall.questContentRules.rulesStrings.16>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.16>
+  <VFEE_GrandBall.questContentRules.rulesStrings.17>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</VFEE_GrandBall.questContentRules.rulesStrings.17>
+  <VFEE_GrandBall.questContentRules.rulesStrings.18>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</VFEE_GrandBall.questContentRules.rulesStrings.18>
+  <VFEE_GrandBall.questContentRules.rulesStrings.19>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.19>
+  <VFEE_GrandBall.questContentRules.rulesStrings.20>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架了。</VFEE_GrandBall.questContentRules.rulesStrings.20>
+  <VFEE_GrandBall.questContentRules.rulesStrings.21>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</VFEE_GrandBall.questContentRules.rulesStrings.21>
+  <VFEE_GrandBall.questContentRules.rulesStrings.22>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.22>
+  <VFEE_GrandBall.questContentRules.rulesStrings.23>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</VFEE_GrandBall.questContentRules.rulesStrings.23>
+  <VFEE_GrandBall.questContentRules.rulesStrings.24>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</VFEE_GrandBall.questContentRules.rulesStrings.24>
+  <VFEE_GrandBall.questContentRules.rulesStrings.25>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.25>
+  <VFEE_GrandBall.questContentRules.rulesStrings.26>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</VFEE_GrandBall.questContentRules.rulesStrings.26>
+  <VFEE_GrandBall.questContentRules.rulesStrings.27>ShuttleDestroyedLabel-&gt;航天飞机已损坏：球已取消</VFEE_GrandBall.questContentRules.rulesStrings.27>
+  <VFEE_GrandBall.questContentRules.rulesStrings.28>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.28>
+  <VFEE_GrandBall.questContentRules.rulesStrings.29>raidArrivedLetterLabel-&gt;逃兵暗杀企图</VFEE_GrandBall.questContentRules.rulesStrings.29>
+  <VFEE_GrandBall.questContentRules.rulesStrings.30>raidArrivedLetterText-&gt;一群逃兵已抵达，试图扰乱盛大舞会并刺杀皇室成员\n\n[asker_nameFull] 不关心威胁并要求舞会继续进行！  [asker_possessive] 希望你也保证他们的安全并对付“农民”。</VFEE_GrandBall.questContentRules.rulesStrings.30>
+  <VFEE_GrandBall.questContentRules.rulesStrings.31>BallSuccessLetterLetterLabel-&gt;GrandBall 成功</VFEE_GrandBall.questContentRules.rulesStrings.31>
+  <VFEE_GrandBall.questContentRules.rulesStrings.32>BallSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 客人出发。总体而言，活动取得了成功，每个人都安全返回。</VFEE_GrandBall.questContentRules.rulesStrings.32>
+
+
+</LanguageData>

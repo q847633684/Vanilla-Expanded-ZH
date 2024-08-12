@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: questDescription(askerIsNull==true)->We've obtained encrypted information about an incoming mechanoid ship, planning to touch down not far from [map_definite]. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->我们解码了一条信息，里面提到一艘机械体飞船即将着陆于[map_definite]附近。该飞船的协议禁止飞船降落在敌占区。该地有大量机械体守卫，但如果四座航标均被摧毁的话，降落计划将被取消。\n\n如果任务失败，飞船将会成功着陆，增强星球上机械体的活跃程度。</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>
+  <!-- EN: questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid ship intending to land not too far from our area. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_faction_name]的[asker_faction_leaderTitle] [asker_nameDef]，告诉了我们一艘机械体飞船正准备降落在附近。该飞船的协议禁止飞船降落在敌占区。该地有大量机械体守卫，但如果四座航标均被摧毁的话，降落计划将被取消。\n\n如果任务失败，飞船将会成功着陆，增强星球上机械体的活跃程度。</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>
+  <!-- EN: questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [landing] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>questName(priority=1)->来自[asker_nameDef]，有关机械体[landing]的[intel]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>
+  <!-- EN: questName->Mechanoid [landing] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>questName->机械体[landing]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>
+  <!-- EN: intel->Intel -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>intel->情报</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>
+  <!-- EN: intel->Clue -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>intel->线索</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>
+  <!-- EN: intel->Advice -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>intel->提议</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>
+  <!-- EN: intel->Information -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>intel->信息</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>
+  <!-- EN: landing->Landing Zone -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>landing->登陆点</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>
+  <!-- EN: landing->Landing Pad -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>landing->降落台</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>
+  <!-- EN: landing->Imminent Ship Touchdown -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>landing->着陆点</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>
+  <!-- EN: landing->Landing Site -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>landing->登陆地</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>
+  <!-- EN: landing->Ship Incoming -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>landing->飞船着陆</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>
+  <!-- EN: Landing beacons Destroyed -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>登陆航标已被摧毁</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: All landing beacons have been destroyed. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>所有登陆航标都已被摧毁</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest expired (failed to destroy beacons 1 ): [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务过期：[resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>机械体飞船已经成功着陆。任务[resolvedQuestName]已经过期。</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest expired (failed to destroy beacons 2): [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>任务过期：[resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
+  <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>机械体飞船已经成功着陆。任务[resolvedQuestName]已经过期。</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

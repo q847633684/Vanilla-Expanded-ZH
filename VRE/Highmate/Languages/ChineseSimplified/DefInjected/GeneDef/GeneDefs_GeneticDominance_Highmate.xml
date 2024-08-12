@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dominant genome -->
+  <VRE_DominantGenome.label>显性遗传</VRE_DominantGenome.label>
+  <!-- EN: Carriers of this gene inherently pass on all their traits to offspring, as this gene overpowers the genetic contributions of the other parent during reproduction. If both partners have dominant genome gene, the genes passed down will be randomized. -->
+  <VRE_DominantGenome.description>这种基因的携带者会将自身所有基因遗传给后代。如果父母双方都拥有此基因，则会像原版一样仅将系谱基因遗传给后代。</VRE_DominantGenome.description>
+  
+  <!-- EN: recessive genome -->
+  <VRE_RecessiveGenome.label>隐性遗传</VRE_RecessiveGenome.label>
+  <!-- EN: Carriers of this gene have a unique genetic makeup that recedes during reproduction, resulting in none of their traits being passed on to their offspring. If both partners have recessive genome gene, the genes passed down will be randomized. -->
+  <VRE_RecessiveGenome.description>这种基因的携带者不会将自身任何基因遗传给后代。如果父母双方都拥有此基因，则会像原版一样仅将系谱基因遗传给后代。</VRE_RecessiveGenome.description>
+  
+</LanguageData>

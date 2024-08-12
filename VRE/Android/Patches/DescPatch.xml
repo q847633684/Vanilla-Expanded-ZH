@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Races Expanded - Android</li>
+		</mods>
+		
+		<match Class="PatchOperationSequence">
+	    <success>Always</success>
+			
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/VREAndroids.AndroidGeneDef[defName="VREA_SolarFlareVulnerability"]</xpath>
+					<value>
+                        <customEffectDescriptions>
+                           <li>与太阳耀斑相同，电磁干扰场也能触发这种子程序的效果。</li>
+                        </customEffectDescriptions>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/VREAndroids.AndroidGeneDef[defName="VREA_SolarPowered"]</xpath>
+					<value>
+                        <customEffectDescriptions>
+                           <li>与太阳耀斑相同，电磁干扰场也能触发这种子程序的效果。</li>
+                           <li>在日光下为反应堆补充的能量与消耗的能量正好相抵，而太阳耀斑发生时补充的能量将多于消耗的能量。</li>
+                        </customEffectDescriptions>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/VREAndroids.AndroidGeneDef[defName="VREA_SelfDestructProtocols"]</xpath>
+					<value>
+                        <customEffectDescriptions>
+                           <li>自爆的范围取决于反应堆超载时总共消耗了多少能量，但伤害则是固定不变的。</li>
+                        </customEffectDescriptions>
+					</value>
+				</li>
+			</operations>
+
+	
+		</match>
+		
+	</Operation>
+</Patch>

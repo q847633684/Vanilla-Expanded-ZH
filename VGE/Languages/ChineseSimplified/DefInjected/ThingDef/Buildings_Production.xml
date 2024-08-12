@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: electrowomb -->
+  <GR_ElectroWomb.label>电力孵化器</GR_ElectroWomb.label>
+  <!-- EN: A relatively small machine designed to simulate the environment of a mother’s womb. Once a Growthcell has been inserted, the embryo can start growing all the way to its adult life stage before being released. Provides limited growing room for specimens.\n\n<color=#E5E54C>Gameplay notes:</color> This electrowomb is very cheap to build, but will produce a failure if the inserted creature has a body size bigger than 1. -->
+  <GR_ElectroWomb.description>用于模拟雌性生物体内子宫环境的小型设备。向其中装入孵化单元后，其内部的胚胎将会持续增殖、分化并发育至成年体状态。能为实验样本提供较为有限的成长空间。</GR_ElectroWomb.description>
+  
+  <!-- EN: genomorpher -->
+  <GR_GenePod.label>基因塑造仪</GR_GenePod.label>
+  <!-- EN: A machine where the miracle - or horror - of birth happens using automated procedures, a little genetic hand-waving and a great heaping dose of lost sleep. The inserted Genoframe is influenced by two genomes, one dominant and one recessive, and can be modified with optional boosters.\n\nThe process isn’t perfect, due to material contamination, missing chromosomes or simple bad luck, and can result in something completely unwanted being developed. For the machine, it makes no difference whether it’s trying to grow an animal or a comically large fruit. The resulting growth cell has a limited lifespan as the embryonic fluid will start breaking down if not allowed to gestate properly.\n\n<color=#E5E54C>Gameplay notes:</color> If the process to deliver ingredients to the genomorpher is interrupted, the ingredients that have already been inserted in it will deteriorate and be lost. -->
+  <GR_GenePod.description>只需将各种不同的基因物质随意混合，再不眠不休地等上那么一阵子，这台设备就能自动培养出精妙绝伦...或丑恶无比的新生命。塑造孵化单元需要消耗一个基因构造框架和两个分别作为主体性状和嵌合性状的基因物质，你也可以酌情装入改良剂以进行进一步的调整。\n\n由于实验材料遭到污染、染色体缺失或单纯的运气不佳，这种培养方法实际上并不完美，你可能会得到与预期相差甚远的...怪东西。对这台设备而言，试图培养一种生物或一种滑天下之大稽的巨型水果是毫无区别的。因此塑造出的孵化单元不仅寿命有限，无法正常发育的更是会从胚胎液开始逐渐崩坏。\n\n&lt;color=#E5E54C>游戏小贴士：&lt;/color>如果殖民者向基因塑造仪运送实验素材时被打断，那么已装入的素材将会迅速分解且无法回收。</GR_GenePod.description>
+  
+  <!-- EN: genome recombinator -->
+  <GR_GeneRecombinator.label>基因复制仪</GR_GeneRecombinator.label>
+  <!-- EN: A specialized extraction module that is equipped to extract the genomes from a subject’s corpse. The material is converted into a soupish-mixture which is then condensed into an extremely complex genome. Completely useless by itself, but functions as a template which can be compared to another genome. The procedure removes any excess genetic information and renders them completely identical.\n\nBear in mind that this machine cannot duplicate some genomes, such as colossal. -->
+  <GR_GeneRecombinator.description>用于从尸体中提取基因物质的特殊工作设备。这些素材会先被转换成略似羹状的混合物，然后再通过冷凝处理变为相当混杂的基因物质。虽然它们本身用处不大，但作为复制其他基因物质的模板来说再合适不过了。复制操作会剔除模板中所有冗余的遗传信息，最终使两者变得完全一致。\n\n&lt;color=#E5E54C>游戏小贴士：&lt;/color>这种设备无法复制某些高等级的基因物质（例如秘兽基因物质）。</GR_GeneRecombinator.description>
+  
+  <!-- EN: genome extractor table -->
+  <GR_GeneticExtractionTable.label>基因提取台</GR_GeneticExtractionTable.label>
+  <!-- EN: A specialized extraction module that is equipped to extract the genomes from a subject’s corpse. The material is converted into a soupish-mixture which is then condensed into the relevant genome. Processing speed is influenced by intelligence, as it relies on knowing which button to press, when to press it and where to find it under the intimidating number of submenus.\n\n<color=#E5E54C>Gameplay effect:</color> The genome extractor table will only work for tier 1 genomes. For tier 2 (insectoids, reptiles, equines) and tier 3 (colossals) you will need genome excavators, built on the genetics tinkering table or found on abandoned labs. -->
+  <GR_GeneticExtractionTable.description>用于从尸体中提取基因物质的特殊工作设备。这些素材会先被转换成略似羹状的混合物，然后再通过冷凝处理变为对应种类的基因物质。\n\n提取速度取决于殖民者的智识技能等级，而愚笨的家伙想必只会被令人眼花缭乱的按键与选项搞的晕头转向。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>基因提取台只能用来生产1级基因物质。2级基因物质（例如虫族基因物质、爬行类基因物质、马类基因物质）和3级基因物质（例如秘兽基因物质）则需要使用基因抽取器。基因抽取器可以在基因工作台上制作，也能在废弃实验基地里搜刮到。</GR_GeneticExtractionTable.description>
+  
+  <!-- EN: genetics tinkering table -->
+  <GR_GeneticsTinkeringTable.label>基因工作台</GR_GeneticsTinkeringTable.label>
+  <!-- EN: An advanced and specialized workbench capable of manufacturing medical-grade implants and mixing genetic boosters specifically tuned to Genomorphers. These include but aren’t limited to boosters that improve the safety or stability of hybrids and even micro-controllers that enable direct user-input. -->
+  <GR_GeneticsTinkeringTable.description>用于制作基因抽取器和调配基因改良剂的高级工作台。从提高实验安全性或稳定性的改良剂再到能够直接操控混种生物的微型控制器，这台设备里内置了各种各样的配方。</GR_GeneticsTinkeringTable.description>
+  
+  <!-- EN: large electrowomb -->
+  <GR_LargeElectroWomb.label>大型电力孵化器</GR_LargeElectroWomb.label>
+  <!-- EN: A larger machine designed to simulate the environment of a mother’s womb. Once a Growthcell has been inserted, the embryo can start growing all the way to its adult life stage before being released. Provides more growing room for larger specimens. -->
+  <GR_LargeElectroWomb.description>用于模拟雌性生物体内子宫环境的大型设备。向其中装入孵化单元后，其内部的胚胎将会持续增殖、分化并发育至成年体状态。能为更大的实验样本提供更宽敞的成长空间。</GR_LargeElectroWomb.description>
+  
+  <!-- EN: nutrient vat -->
+  <GR_NutrientVat.label>养分贮存罐</GR_NutrientVat.label>
+  <!-- EN: A slurry of liquefied organic pulp fills this reinforced glass vat. This solution is used by genetic experiments, and increases work speed when placed near a Vanilla Genetics Expanded workbench. One workbench can use to up to two nutrient vats. -->
+  <GR_NutrientVat.description>内部装满了液化生物有机浆质的加固玻璃罐，可为各种基因实验提供一定的工作速度加成。需要放置在原版基因扩展新增的工作台附近。一个工作台最多可以同时连接两个养分贮存罐。</GR_NutrientVat.description>
+  
+  <!-- EN: tissue grinder -->
+  <GR_TissueGrinder.label>生物组织粉碎机</GR_TissueGrinder.label>
+  <!-- EN: A workplace accident waiting to happen, the Tissue Grinder takes the corpses of animals and carefully rips and tears them to pieces in order to extract useful genetic data in the form of Genoframes. The hardware is also capable of combining two identical frames into a superior form by comparing and improving upon latent and inferior genetic material.\n\nWorkspeed is influenced by someone who actually knows what they’re looking for in order to skip some of the more routine tasks, and possibly shouldn’t be placed into the hands of someone with no concept of ethics, morality or conscience.\n\n<color=#E5E54C>Gameplay notes:</color> Bear in mind that the cost in corpses effectively doubles for each quality level, making a legendary genoframe prohibitive. The main usefulness of these recipes is to convert two genoframes of a given quality to a higher one, but your main source of genoframes shouldn't be hand crafting them. Go out there and explore abandoned labs! -->
+  <GR_TissueGrinder.description>用于制作基因构造框架的工作设备，可以将生物尸体细细粉碎以提取出所需的基因数据。此外，这台设备还能将两个相同的基因构造框架放在一起进行比照，把两者中的瑕疵和无用隐性基因悉数剔除后，再通过融合的方式来提升品质。\n\n工作速度取决于殖民者的智识技能等级，但最好不要将这些活交给那些效率不高或毫无道德伦理观念的人去做。\n\n&lt;color=#E5E54C>游戏小贴士：&lt;/color>制作一个较差品质的基因构造框架需要两个极差品质的基因构造框架，制作一个普通品质的基因构造框架需要两个较差品质的基因构造框架...那么得到传奇品质会消耗多少人力物力也可想而知。单凭手搓可并非明智之举，为什么不试着多派出远行队到废弃实验基地里探索一番呢？</GR_TissueGrinder.description>
+  
+  <!-- EN: implant augmentator -->
+  <GR_TissueGrowingVat.label>植入物培养机</GR_TissueGrowingVat.label>
+  <!-- EN: This particular machine can be explained as a simplified and miniaturized version of a Genomorpher, using only a single genome which influences an inserted Genoframe. Instead of trying to create an entire animal, it instead creates very specific limbs or organs. Due to the vastly simplified process and minimal variables, no complications arise during the process and the resulting product is similarly influenced by the quality of the Genoframe.\n\nThe Implant Augmentator can be used to create implants for animals - not just hybrids - with the quality of Genoframe dictating the deficits or bonuses those implants provide. Not all implants are created equal, some being inferior replacements and others providing new capabilities provided the animal in question can support them. Human implants are also a possibility. -->
+  <GR_TissueGrowingVat.description>可视作极简型基因塑造仪的特殊工作设备。由于其设计目的是为了培养单独的肢体器官而不是整只生物，耗材也基本仅需要一个基因构造框架和一个基因物质。工序的简化意味着变量的影响会降至最小，在培养时既不会出现各种事故与纰漏，最终得到的植入物也依旧会受到基因构造框架品质的影响。\n\n这台设备可以培养出所有动物都能使用的植入物，它们提供的属性增益与减益数值取决于基因构造框架的品质。植入物的功能多种多样，有些仅仅是普通肢体与器官的下位替代品，而有些则会为植入者提供奇特的新能力。你问有没有给人类准备的植入物？那当然！不过在培养时需要额外消耗一个人类基因物质。</GR_TissueGrowingVat.description>
+  
+</LanguageData>

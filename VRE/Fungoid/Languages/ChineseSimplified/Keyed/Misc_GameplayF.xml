@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- EN: Gene infection ({0}), {1} -->
+  <VRE_InfectionLabel>基因感染（{0}：{1}）</VRE_InfectionLabel>
+	<!-- EN: Infection caused by the contact with a {0}. Upon reaching 100%, colonist will turn into a {0} -->
+  <VRE_InfectionDescription>{0}的抓挠或撕咬使此人患上了基因感染。当严重程度达到100%后，就会被同化成新的{0}。</VRE_InfectionDescription>
+	<!-- EN: Gene infection chance -->
+  <VRE_InfectionChance>基因感染几率</VRE_InfectionChance>
+	<!-- EN: Chance of the gene infection to infect the target. By default it is 20%. Bear in mind this only applies to claw and teeth attacks, if the person with a gene infector gene carries melee weapons this will reduce infection chances. -->
+  <VRE_InfectionChanceDesc>调整基因感染触发的几率。默认值为20%。基因感染仅可通过抓挠、撕咬之类的近战攻击方式传播，而手持近战武器则会降低感染触发的几率。</VRE_InfectionChanceDesc>
+	<!-- EN: Gene infected ({0} days) -->
+  <VRE_InfectedLabel>基因感染（完全：{0}天）</VRE_InfectedLabel>
+
+
+</LanguageData>

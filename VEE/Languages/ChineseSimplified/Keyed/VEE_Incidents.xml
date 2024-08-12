@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Animal transport pod crash -->
+    <!-- EN: Animal transport pod crash -->
+  <LetterLabelAnimalPodCrash>动物运输舱坠毁</LetterLabelAnimalPodCrash>
+    <!-- EN: A crate with a {PAWN_kind} called {PAWN_nameDef} is crashing in a transport pod nearby. If it survives the crash it will be badly wounded.
+
+If rescued, it can freely join the colony, or go back to living in the wild. -->
+  <AnimalPodCrash>一个运输舱在附近坠毁了，里面载有名叫{PAWN_nameDef}的{PAWN_kind}。\n\n即使在撞击后活了下来，它也会受重伤。如果你救援，它可能会加入，也可能回归野生状态。</AnimalPodCrash>
+
+    <!-- EN: Rescued animal join -->
+  <AJLabel>获救动物加入</AJLabel>
+    <!-- EN: The animal you rescued is joining the colony -->
+  <AJLetter>你救助的动物加入殖民地了。</AJLetter>
+    <!-- EN: Rescued animal don't join -->
+  <ADJLabel>获救动物不加入</ADJLabel>
+    <!-- EN: The animal you rescued isn't joining the colony -->
+  <ADJLetter>你救助的动物未加入殖民地。</ADJLetter>
+    <!-- Traitor -->
+    <!-- EN: Traitor! -->
+  <TraitorLabel>背叛者！</TraitorLabel>
+    <!-- EN: A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.
+
+You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <Traitor>之前加入你殖民地的{PAWN_nameDef}，实际上是敌对派系{PAWN_factionName}的卧底！你可以为了招募或奴役而俘虏{PAWN_factionName}。</Traitor>
+
+    <!-- Space Battle -->
+    <!-- EN: Space battle -->
+  <SpaceBattleLabel>太空战</SpaceBattleLabel>
+    <!-- EN: Several massive spaceships have engaged in combat in the planet's orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+  <SpaceBattle>数支舰队正在此星球的上空激战。流弹和碎片残骸可能会坠落至此地区，并引发大规模的火灾。</SpaceBattle>
+
+    <!-- Shuttle Crash -->
+    <!-- EN: Shuttle Crash -->
+  <ShuttleCrashLabel>穿梭机坠毁</ShuttleCrashLabel>
+    <!-- EN: A planet-bound shuttle is crashing nearby. If the crew survives the impact, they will be badly wounded. The crashed ship can be deconstructed for useful resources.
+
+The crew is not affiliated with any faction, which means they can be rescued and may join you freely, or captured for recruitment or slavery purposes. -->
+  <ShuttleCrash>一艘穿梭机在附近坠毁了。即使有幸存者在撞击后活了下来，也会受重伤。你或许能在残骸中找到不少有用的东西。\n\n幸存者们不属于任何派系。你可以救援他们并希望其加入，或是为了招募或奴役而俘虏他们。</ShuttleCrash>
+
+    <!-- Earthquake -->
+    <!-- EN: Earthquake -->
+  <EarthquakeLabel>局部地震</EarthquakeLabel>
+    <!-- EN: Changes in the planet's crust caused a small scale localised earthquake. Some structures can become damaged and roofs can collapse. -->
+  <Earthquake>这颗星球的自然地壳运动引发了小规模的局部地震。这可能会导致屋顶倒塌且部分建筑受损。</Earthquake>
+
+    <!-- Cargo pods (weapons) -->
+    <!-- EN: Cargo pods (weapons) -->
+  <CPWLabel>货舱坠毁（武器）</CPWLabel>
+    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage. -->
+  <CPW>你侦测到了一组货舱在附近坠毁了。\n\n你或许能在残骸中找到不少有用的东西。</CPW>
+
+    <!-- Cargo pods (apparel) -->
+    <!-- EN: Cargo pods (apparel) -->
+  <CPALabel>货舱坠毁（装备）</CPALabel>
+    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage. -->
+  <CPA>你侦测到了一组货舱在附近坠毁了。\n\n你或许能在残骸中找到不少有用的东西。</CPA>
+
+    <!-- Caravan animals wander in -->
+    <!-- EN: Caravan animals wander in -->
+  <CAWILabel>游荡的驮运动物</CAWILabel>
+    <!-- EN: A group of {PAWN_kind}, abandoned or lost, wanders in.
+
+They seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days. -->
+  <CAWI>一群被遗弃或迷路的{PAWN_kind}游荡到本地区。\n\n他们似乎曾属于某个商队，而且仍然随身携带贵重物品。如果你驯服或杀死它们，就可以得到这些物品。否则，它们将在几天后离开。</CAWI>
+
+    <!-- Crop sprout -->
+    <!-- EN: Crop sprout -->
+  <CSLabel>作物萌芽</CSLabel>
+    <!-- EN: A large field of -->
+  <CS1>一大片</CS1>
+    <!-- EN: has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear. -->
+  <CS2>在附近发芽了。如果静待它们长至成熟，便可以收获大量的食物！\n\n如果未及时收获，这些作物将会缓慢枯萎。</CS2>
+
+    <!-- Battle animals wander in -->
+    <!-- EN: Battle animals wander in -->
+  <BAWILabel>游荡的战兽</BAWILabel>
+    <!-- EN: A group of {0}, abandoned or lost, wanders in.
+
+They seem accustomed to human contact and are joining the colony. -->
+  <BAWI>一群被遗弃或迷路的{0}游荡到本地区。\n\n它们似乎习惯与人类相处，并且加入了殖民地。</BAWI>
+
+    <!-- wild men wander in -->
+    <!-- EN: Wild men wander in -->
+  <WMWILabel>游荡的野人</WMWILabel>
+    <!-- EN: A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them. -->
+  <WMWI>一支处于前石器时代的小型野人部落游荡到本地区，你可以试着驯服他们。</WMWI>
+
+    <!-- Hunting party -->
+    <!-- EN: Hunting party -->
+  <HPLabel>狩猎小队</HPLabel>
+    <!-- EN: A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on. -->
+  <HP>一群来自{0}的猎人正经过这个地区。他们会在这里狩猎逗留数小时，然后继续前进。</HP>
+
+    <!-- EN: Decaying due to drought. -->
+  <VEE_Decay>因旱灾肆虐而变得贫瘠。</VEE_Decay>
+    <!-- EN: Adjusted fertility due to drought: {0} -->
+  <VEE_DroughtGui>肥沃度因旱灾降低至：{0}</VEE_DroughtGui>
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Acceleration rate: {0}
+Current speed: {1} c/s -->
+  <VVE_StatsReport_AccelerationRate>加速度：{0}\n当前速度{1}格/秒</VVE_StatsReport_AccelerationRate>
+	<!-- EN: {VEHICLE_nameDef} will not have enough room to decelerate and will need to use the handbrake. This will cause damage to the tires. -->
+  <VVE_HandbrakeWarning>{VEHICLE_nameDef}没有足够空间正常减速，它会进行急刹，这会对轮胎造成伤害。</VVE_HandbrakeWarning>
+	<!-- EN: Open -->
+  <VVE_Open>打开</VVE_Open>
+	<!-- EN: Close -->
+  <VVE_Close>关闭</VVE_Close>
+	<!-- EN: Designate the garage door to be opened. -->
+  <VVE_OpenDescription>保持车库门打开</VVE_OpenDescription>
+	<!-- EN: Designate the garage door to be closed. -->
+  <VVE_CloseDescription>保持车库门关闭</VVE_CloseDescription>
+	<!-- EN: Open the auto garage door. -->
+  <VVE_OpenDescription_AutoDoor>打开自动车库门</VVE_OpenDescription_AutoDoor>
+	<!-- EN: Close the auto garage door. -->
+  <VVE_CloseDescription_AutoDoor>关闭自动车库门</VVE_CloseDescription_AutoDoor>
+	<!-- EN: Vehicle is blocking garage. -->
+  <VVE_VehicleObstructingClosingGarage>有载具堵住在门中</VVE_VehicleObstructingClosingGarage>
+	
+	<!-- Vehicle stats -->
+	
+	<!-- EN: Tier -->
+  <VVE_VehicleTier>载具等级</VVE_VehicleTier>
+	<!-- EN: Tier 0 -->
+  <VVE_Tier0>T0</VVE_Tier0>
+	<!-- EN: Tier 1 -->
+  <VVE_Tier1>T1</VVE_Tier1>
+	<!-- EN: Tier 2 -->
+  <VVE_Tier2>T2</VVE_Tier2>
+	<!-- EN: Tier 3 -->
+  <VVE_Tier3>T3</VVE_Tier3>
+	<!-- EN: Tier 3 -->
+  <VVE_Tier4>T4</VVE_Tier4>
+	
+	
+	<!-- Stats Descriptions -->
+	
+	<!-- EN: Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or neither. -->
+  <VVE_Tier0Desc>T0载具是最简单最基础的载具。制造它们不需要太多资源，也不需要专门的研究项目。</VVE_Tier0Desc>
+	<!-- EN: Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game. -->
+  <VVE_Tier1Desc>T1载具需要基础的研究项目，以及少量资源才能制造。它们效率低，各有明显的缺点，但在游戏早期算是便宜划算的了。</VVE_Tier1Desc>
+	<!-- EN: Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles. -->
+  <VVE_Tier2Desc>T2载具需要专业的研究项目和一定的后期资源，T2可以被看作接近现实载具的基准。</VVE_Tier2Desc>
+	<!-- EN: Tier 3 vehicles are only obtainable if a specific condition is met - for example, they are first found in their wrecked form and restored. They require late game resources and generally serve a very specific purpose. -->
+  <VVE_Tier3Desc>T3载具获取的路径相当稀有，一般只能通过发现已有的残骸并修复才能获得。它们需要游戏后期才有的资源且本身的定位非常特化。</VVE_Tier3Desc>
+	<!-- EN: Tier 4 vehicles are not able to be constructed by the player, but they can still be found, purchased or otherwise spawned. They generally represent technology beyond of what's achievable in the Rimworld setting. -->
+  <VVE_Tier4Desc>T4载具不能被玩家制造，但仍然可以出现，购买，或者在其它途径生成。它们一般代表着边缘世界达不到的科技水平。</VVE_Tier4Desc>
+
+  <VVE_RestoreWreck>重建残骸</VVE_RestoreWreck>
+	<VVE_RestoreWreckDesc>带来所需的零件，将载具残骸重建成可以正常运行的载具。</VVE_RestoreWreckDesc>
+	<VVE_WreckNotRestored>{0}还没被重建</VVE_WreckNotRestored>
+	<VVE_CannotBeResearched>{0}目前无法被研究，需要你将对应载具的残骸成功重建</VVE_CannotBeResearched>
+	<VVE_Reload>给{0}装填{AMMO_label}</VVE_Reload>
+	<VVE_CannotReloadNotEnoughAmmo>无法给{0}装填{1}（{1}的数量不足）</VVE_CannotReloadNotEnoughAmmo>
+	<VVE_CannotReloadFullAmmo>无法给{0}装填{1}（容量已满）</VVE_CannotReloadFullAmmo>
+</LanguageData>

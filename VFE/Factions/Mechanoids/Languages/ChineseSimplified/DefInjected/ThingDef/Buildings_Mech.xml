@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechanoid foundry -->
+  <VFE_AssemblyFoundry.label>机械体铸造厂</VFE_AssemblyFoundry.label>
+  <!-- EN: A spaceship module containing a large scale mechanoid foundry. It is capable of generating large squads of mechanoids at great speed, but it is incapable of constructing larger, more complex variants. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_AssemblyFoundry.description>一个包含大型机械体铸造厂的飞船模块。它能够以极快的速度生成机械体小队，但它无法建造更大、更复杂的高级版。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_AssemblyFoundry.description>
+  
+  <!-- EN: mechanoid assembly pod -->
+  <VFE_AssemblyPod.label>机械体组装舱</VFE_AssemblyPod.label>
+  <!-- EN: A spaceship module containing a mechanoid factory. It is capable of transforming raw resources directly into different types of mechanoids, and it creates them continuously until destroyed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_AssemblyPod.description>一个包含机械体工厂的飞船模块。它能够将原材料直接转化为不同类型的机械体，并不断地创造它们，直到被摧毁。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_AssemblyPod.description>
+  
+  <!-- EN: charge railgun shot -->
+  <VFE_Bullet_ChargeRailgun.label>电荷轨道炮弹</VFE_Bullet_ChargeRailgun.label>
+  
+  <!-- EN: inferno artillery shell -->
+  <VFE_Bullet_InfernoArtillery.label>地狱火炮弹</VFE_Bullet_InfernoArtillery.label>
+  
+  <!-- EN: ship-mounted low shield -->
+  <VFE_BulletShield.label>舰载低角护盾</VFE_BulletShield.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to low angles, so it will block ground-level projectiles like bullets. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <VFE_BulletShield.description>一个能产生动量排斥场的设备。能够向外射击，但无法射入。\n\n这一种被调整为低角度场，所以它能阻挡地表附近类似子弹的投射物。\n\n这个设备能被EMP伤害暂时禁用，也可以通过震动装置本身或者使用EMP炮弹来暂时影响护盾。这种元件通常是更大的船的一部分。</VFE_BulletShield.description>
+  
+  <!-- EN: cargo container -->
+  <VFE_CargoContainer.label>货物集装罐</VFE_CargoContainer.label>
+  <!-- EN: A cargo module containing various raw resources often used by mechanoid swarms to fix existing units or construct new ones. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_CargoContainer.description>一个包含各种原材料的货物模块，经常被机械体集群用来修复现有单位或建造新单位。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_CargoContainer.description>
+  
+  <!-- EN: cargo hold -->
+  <VFE_CargoHold.label>货物储存点</VFE_CargoHold.label>
+  <!-- EN: A ship-based cargo module containing a vast amount of raw materials for the mechanoid ship to function properly. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_CargoHold.description>舰载货物模块，内含大量原材料，供机械体飞船正常运行。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_CargoHold.description>
+  
+  <!-- EN: climate adjuster -->
+  <VFE_ClimateAdjuster.label>气候调节器</VFE_ClimateAdjuster.label>
+  <!-- EN: An ultratech ship-mounted device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_ClimateAdjuster.description>一个极致时代用于控制气候的设备。它利用化学物质和奇异的磁场来影响大气，从而改变这块区域的温度。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_ClimateAdjuster.description>
+  
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.label>电磁干扰器</VFE_EMIDynamo.label>
+  <!-- EN: A massive, ship-mounted electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_EMIDynamo.description>一个能产生巨大电磁干扰的设备，它能够干扰或者关闭附近区域的电气设备。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_EMIDynamo.description>
+  
+  <!-- EN: auto mortar cannon -->
+  <VFE_Gun_AutoMortarCannon.label>自动迫击炮</VFE_Gun_AutoMortarCannon.label>
+  <!-- EN: A mechanoid-tech automatic mortar. -->
+  <VFE_Gun_AutoMortarCannon.description>一种机械体技术的自动迫击炮。</VFE_Gun_AutoMortarCannon.description>
+  <!-- EN: auto mortar cannon -->
+  <VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>自动迫击炮</VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge blaster -->
+  <VFE_Gun_ChargeBlasterCannon.label>电荷冲击炮</VFE_Gun_ChargeBlasterCannon.label>
+  <!-- EN: A mechanoid-tech charge blaster. -->
+  <VFE_Gun_ChargeBlasterCannon.description>一种机械体技术的电荷冲击炮。</VFE_Gun_ChargeBlasterCannon.description>
+  <!-- EN: charge blaster -->
+  <VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>电荷冲击炮</VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge lance -->
+  <VFE_Gun_ChargeLanceCannon.label>电荷标枪</VFE_Gun_ChargeLanceCannon.label>
+  <!-- EN: A mechanoid-tech charge lance. -->
+  <VFE_Gun_ChargeLanceCannon.description>一种机械体技术的电荷标枪。</VFE_Gun_ChargeLanceCannon.description>
+  <!-- EN: charge lance -->
+  <VFE_Gun_ChargeLanceCannon.verbs.Verb_Shoot.label>电荷标枪</VFE_Gun_ChargeLanceCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge railgun -->
+  <VFE_Gun_ChargeRailgun.label>电荷轨道炮</VFE_Gun_ChargeRailgun.label>
+  <!-- EN: A powerful, mechanoid-tech charge railgun. -->
+  <VFE_Gun_ChargeRailgun.description>一种机械体技术的电荷轨道炮。</VFE_Gun_ChargeRailgun.description>
+  <!-- EN: charge railgun -->
+  <VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>电荷轨道炮</VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno artillery -->
+  <VFE_Gun_InfernoArtillery.label>地狱火重炮</VFE_Gun_InfernoArtillery.label>
+  <!-- EN: A mechanoid-tech inferno artillery. -->
+  <VFE_Gun_InfernoArtillery.description>一种机械体技术的地狱火重炮。</VFE_Gun_InfernoArtillery.description>
+  <!-- EN: inferno artillery -->
+  <VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>地狱火重炮</VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>
+  
+  <!-- EN: orbital bombardment targeter -->
+  <VFE_Gun_OrbitalBombardmentTargeter.label>轨道轰炸瞄准器</VFE_Gun_OrbitalBombardmentTargeter.label>
+  <!-- EN: An antenna capable of summoning an orbital bombardment. -->
+  <VFE_Gun_OrbitalBombardmentTargeter.description>能够召唤轨道轰炸的天线。</VFE_Gun_OrbitalBombardmentTargeter.description>
+  <!-- EN: orbital bombardment targeter -->
+  <VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>轨道轰炸瞄准器</VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>
+  
+  <!-- EN: heavy machinery -->
+  <VFE_HeavyMachinery.label>重型机械</VFE_HeavyMachinery.label>
+  <!-- EN: A number of complex machinery, motors, support systems and other mysterious apparatus hidden underneath a thick layer of plasteel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_HeavyMachinery.description>一些复杂的机械、电机、支撑系统等神秘仪器隐藏在厚厚的玻璃钢保护层下。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_HeavyMachinery.description>
+  
+  <!-- EN: hull repair module -->
+  <VFE_HullRepairModule.label>船体维修模块</VFE_HullRepairModule.label>
+  <!-- EN: A nanite container module capable of reinforcing the damaged hull of the ship. Unless destroyed, this module will constantly regenerate any damage done to other ship modules. This element is usually a part of a much larger ship. -->
+  <VFE_HullRepairModule.description>一个纳米机器人储存模块，能不断修复受损的船体。除非被摧毁，否则这个模块将不断地修复其他飞船模块受到的任何伤害。这种元件通常是更大的船的一部分。</VFE_HullRepairModule.description>
+  
+  <!-- EN: mechanoid barrier -->
+  <VFE_MechanoidBarrier.label>机械体屏障</VFE_MechanoidBarrier.label>
+  <!-- EN: A block of nearly impenetrable plasteel shield, usually used within the ship hull to protect the most vital apparatus. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBarrier.description>一块坚不可摧的玻璃钢护盾结构，通常用于船体内部，以保护最重要的设备。这种元件通常是更大的船的一部分。</VFE_MechanoidBarrier.description>
+  
+  <!-- EN: heavy structural beam -->
+  <VFE_MechanoidBeamHeavy.label>重型结构梁</VFE_MechanoidBeamHeavy.label>
+  <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBeamHeavy.description>一块建造飞船的结构梁。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidBeamHeavy.description>
+  
+  <!-- EN: light structural beam -->
+  <VFE_MechanoidBeamLight.label>轻型结构梁</VFE_MechanoidBeamLight.label>
+  <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBeamLight.description>一块建造飞船的结构梁。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidBeamLight.description>
+  
+  <!-- EN: Mechanoid ship engines -->
+  <VFE_MechanoidEngines.label>机械体飞船引擎</VFE_MechanoidEngines.label>
+  <!-- EN: A set of Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidEngines.description>一个机械体飞船的约翰逊田中发动机。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidEngines.description>
+  
+  <!-- EN: Small mechanoid ship engines -->
+  <VFE_MechanoidEnginesSmall.label>小型机械体飞船引擎</VFE_MechanoidEnginesSmall.label>
+  <!-- EN: A set of small Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidEnginesSmall.description>一个机械体飞船的约翰逊田中发动机。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidEnginesSmall.description>
+  
+  <!-- EN: reactor -->
+  <VFE_MechanoidReactor.label>机械体反应堆</VFE_MechanoidReactor.label>
+  <!-- EN: A mechanoid power generation unit. The gigantic vanometric power core will run forever, extracting energy from quantum foam fluctuations. Despite the huge power output, effort has been made to stabilise it. If enough damage is dealt to the plasteel shell surrounding the core, a huge explosion will wipe out the local area. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidReactor.description>一个机械体发电装置。巨大的虚空能量核心会永久运转，从量子泡沫波动中提取能量。尽管输出的能量非常多，但维持其稳定也要做出很多努力。如果核心周围的玻璃钢外壳受到了足够的伤害，巨大的爆炸将摧毁一整片区域。这种元件通常是更大的船的一部分。</VFE_MechanoidReactor.description>
+  
+  <!-- EN: terraformer -->
+  <VFE_MechanoidTerraformer.label>地表改造器</VFE_MechanoidTerraformer.label>
+  <!-- EN: An ultratech device of mass destruction, mechanoid terraformer harvests available oxygen and extracts toxic fumes in its place. Poison leaking into the ground around it slowly turns the planet into a barren wasteland. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidTerraformer.description>一种用于大规模破坏的极致时代设备。机械体地表改造器会吸收地表的可用氧气并在其位置注入污染性的腐蚀毒气。毒气会慢慢渗透到周围的地面，将该地变成一片荒芜的废墟。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidTerraformer.description>
+  
+  <!-- EN: uplink module -->
+  <VFE_MechanoidUplink.label>上行链路模块</VFE_MechanoidUplink.label>
+  <!-- EN: An uplink module, directly connected to the mechanoid swarm. It is responsible for obtaining order updates from war programmers in orbit. It greatly enhances mechanoid capabilities in range, but destroying it will sever the connection with the fleet, greatly harming the mechanoid forces.  It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidUplink.description>一个直连机械集群的上行链路。它负责从轨道上的战争程序员那里获取命令更新。它能极大地增强范围内的机械体的能力，但摧毁它将切断与舰队的联系，极大地破坏机械体部队。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_MechanoidUplink.description>
+  
+  <!-- EN: mechanoid landing beacon -->
+  <VFE_MechLandingBeacon.label>机械体航标</VFE_MechLandingBeacon.label>
+  <!-- EN: This advanced, spacer tech beacon serves as a guide for a surface-bound mechanoid ship. -->
+  <VFE_MechLandingBeacon.description>一种先进的太空科技信标，是地表的机械体飞船的信标。</VFE_MechLandingBeacon.description>
+  
+  <!-- EN: ship-mounted high shield -->
+  <VFE_MortarShield.label>舰载高角护盾</VFE_MortarShield.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to high angles, so it will block mortar rounds. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <VFE_MortarShield.description>一个能产生动量排斥场的设备。能够向外射击，但无法射入。\n\n这一种被调整为高角度场，所以它能阻挡高处射入的迫击炮弹。\n\n这个设备能被EMP伤害暂时禁用，也可以通过震动装置本身或者使用EMP炮弹来暂时影响护盾。这种元件通常是更大的船的一部分。</VFE_MortarShield.description>
+  
+  <!-- EN: psychic droner -->
+  <VFE_PsychicDroner.label>心灵干扰器</VFE_PsychicDroner.label>
+  <!-- EN: A ship-mounted archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_PsychicDroner.description>一个传递发疯的超级智能思维的超凡科技设备。它放射一个巨大的心灵场在星球上一个区域内影响所有特定的性别。这个性别的人会受到这种影响的干扰，心情会持续低落，并可能因此发疯。这种影响会因为个人的心灵敏感度而有所不同。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_PsychicDroner.description>
+  
+  <!-- EN: psychic suppressor -->
+  <VFE_PsychicSuppressor.label>心灵抑制器</VFE_PsychicSuppressor.label>
+  <!-- EN: A ship-mounted archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_PsychicSuppressor.description>一个能产生影响特定性别的巨大心灵抑制场的超凡科技设备。这种性别的人心灵活跃度会受到抑制，这会降低他们的意识。这种影响会因为个人的心灵敏感度有所不同。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_PsychicSuppressor.description>
+  
+  <!-- EN: trooper storage -->
+  <VFE_TrooperStorage.label>部队贮存舱</VFE_TrooperStorage.label>
+  <!-- EN: A small-sized trooper transport bay, potentially filled with combat-ready mechanoids. It seems to be dormant at the moment, but any kind of damage done to the structure will most likely deploy defensive units. This element is usually a part of a much larger ship. -->
+  <VFE_TrooperStorage.description>一个小规模的部队运输舱，里面有可能装满了可供作战的机械体。它目前似乎处于休眠状态，但任何一种对该结构的破坏都很可能会将其激活。这种元件通常是更大的船的一部分。</VFE_TrooperStorage.description>
+  
+  <!-- EN: auto-mortar cannon -->
+  <VFE_Turret_AutoMortarCannon.label>自动迫击炮</VFE_Turret_AutoMortarCannon.label>
+  <!-- EN: A large, ship-mounted artillery piece, auto-mortar is capable of firing explosive shells over a long distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_AutoMortarCannon.description>一种大型舰载火炮，能够远距离发射爆炸弹。这种元件通常是更大的船的一部分。</VFE_Turret_AutoMortarCannon.description>
+  
+  <!-- EN: charge blaster cannon -->
+  <VFE_Turret_ChargeBlasterCannon.label>电荷冲击炮</VFE_Turret_ChargeBlasterCannon.label>
+  <!-- EN: A ship-mounted charge blaster point defense cannon. It is capable of laying suppressive fire over medium distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeBlasterCannon.description>一种舰载电荷冲击点防御加农炮。它能够在中距离内进行压制射击。这种元件通常是更大的船的一部分。</VFE_Turret_ChargeBlasterCannon.description>
+  
+  <!-- EN: charge lance cannon -->
+  <VFE_Turret_ChargeLanceCannon.label>电荷标枪炮</VFE_Turret_ChargeLanceCannon.label>
+  <!-- EN: A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeLanceCannon.description>一种舰载电荷标枪炮。它能在远距离发射增压电荷轨道炮。发射这种元件通常是更大的船的一部分。</VFE_Turret_ChargeLanceCannon.description>
+  
+  <!-- EN: charge railgun -->
+  <VFE_Turret_ChargeRailgun.label>电荷轨道炮</VFE_Turret_ChargeRailgun.label>
+  <!-- EN: A large ship mounted railgun, often used to punch holes in hostile capital ships. This cannon has incredible range and fires charged explosive rounds, allowing it to deal devastating losses before the enemy even gets in range. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeRailgun.description>一种大型舰载轨道炮，通常用于在敌对主力舰上开洞穿甲。种大炮射程惊人，发射电荷爆炸弹，使其在敌人进入射程之前就能造成毁灭性的损失。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_Turret_ChargeRailgun.description>
+  
+  <!-- EN: inferno launcher artillery -->
+  <VFE_Turret_InfernoLauncherArtillery.label>地狱火重炮</VFE_Turret_InfernoLauncherArtillery.label>
+  <!-- EN: A massive, triple barreled inferno launcher, usually mounted on spaceships to deal devastating damage to any organic matter onboard hostile crafts. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_InfernoLauncherArtillery.description>巨大的三管地狱火发射器，通常安装在宇宙飞船上，对敌对飞船上的任何有机物造成毁灭性伤害。这种元件通常是更大的船的一部分。</VFE_Turret_InfernoLauncherArtillery.description>
+  
+  <!-- EN: orbital bombardment uplink -->
+  <VFE_Turret_OrbitalBombardmentUplink.label>轨道轰炸上行链路</VFE_Turret_OrbitalBombardmentUplink.label>
+  <!-- EN: An uplink module connected to a local orbital strike satellite. It will light up any enemies in range for the orbital bombardment, however long realignment period makes it inefficient for longer encounters. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_OrbitalBombardmentUplink.description>一个连接到本地轨道攻击卫星的上行模块。它将标记范围内的任何敌人然后进行轨道轰炸，然而较长的调整期使得它在长时间的遭遇战中效率不高。它可以被摧毁以获得宝贵的稀有资源。这种元件通常是更大的船的一部分。</VFE_Turret_OrbitalBombardmentUplink.description>
+  
+</LanguageData>

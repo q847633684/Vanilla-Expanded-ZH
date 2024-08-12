@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: \n\n{PAWN_pronoun} would like to do some work. -->
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun}想要奋力工作。</VSIE.WorkFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to join a caravan and venture into the world. -->
+  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun}想要加入远行队外出探险。</VSIE.GoFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to go on a hunt. -->
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun}想要外出打猎。</VSIE.ShootingFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to close a trade. -->
+  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun}想要完成1笔交易。</VSIE.InspiredTradeBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to recruit a prisoner. -->
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun}想要招募1名囚犯。</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to try and tame an animal. -->
+  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun}想要试着驯服1只动物。</VSIE.InspiredTamingBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to perform a surgery. -->
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun}想要主刀1次手术。</VSIE.InspiredSurgeryBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to create a masterwork or legendary item. -->
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun}想要制作1个大师或传奇级物品。</VSIE.InspiredCreativityBeginLetterContinue>
+
+  <!-- EN: {PAWN_nameDef} obtained {0} trait -->
+  <VSIE.TraitChangeTitle>{PAWN_nameDef}获得特性：{0}</VSIE.TraitChangeTitle>
+  <!-- EN: When you recruited {PAWN_nameDef}, it turned out that {PAWN_pronoun} has the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePrisonerRecruited>当{PAWN_nameDef}被招募时，殖民者们察觉到{PAWN_pronoun}还拥有一项隐藏的特性：{0}。\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+  <!-- EN: When {PAWN_nameDef} died and got brought back to life,  noticed that they now have the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePawnResurrected>当{PAWN_nameDef}死而复生时，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.TraitChangePawnResurrected>
+  <!-- EN: When {PAWN_nameDef} succumbed to the catatonic mental breakdown, {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePawnHasCatatonicBreakdown>当{PAWN_nameDef}陷入紧张性木僵时，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+  <!-- EN: When {PAWN_nameDef}’s family member died, {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangeFamilyMemberDied>当{PAWN_nameDef}因亲人去世而受到刺激时，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+  <!-- EN: {PAWN_nameDef}’s extreme mental break caused a permanent character change, as {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.CatarhisAfterMentalBreak>{PAWN_nameDef}因极度的精神崩溃而发生了性格上的变化，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+  <!-- EN: The time {PAWN_nameDef} spent fighting the deadly illness was enough time for a self-reflection, as {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.RecoveredAfterDeadlyDisease>当{PAWN_nameDef}与可怕的病魔作斗争时，也对自己重新审视并反省了一番，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+  <!-- EN: {PAWN_nameDef} took a moment to reflect upon themself on their birthday, which resulted in developing the {0} trait.\n\n{1} -->
+  <VSIE.BirthdayEvent>当{PAWN_nameDef}在过生日时，也对自己重新审视并反省了一番，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.BirthdayEvent>
+  <!-- EN: Possibly the greatest moment in {PAWN_nameDef}’s life, a bestowing ceremony, allowed them to develop the {0} trait.\n\n{1} -->
+  <VSIE.BestowingCeremony>被授予新头衔的{PAWN_nameDef}认为这是自己一生中最伟大的时刻，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.BestowingCeremony>
+  <!-- EN: After recent events and the difficult raid the colony faced, {PAWN_nameDef} reflected upon themself and developed the {0} trait.\n\n{1} -->
+  <VSIE.ToughtRaidEvent>当解决掉殖民地最近面临的事件和袭击时，{PAWN_nameDef}对自己重新审视并反省了一番，殖民者们察觉到{PAWN_pronoun}拥有了一项新特性：{0}。\n\n{1}</VSIE.ToughtRaidEvent>
+
+  <!-- EN: A group social fight has broke out. -->
+  <VSIE.Discord>一场群体性的斗殴爆发了。</VSIE.Discord>
+  <!-- EN: One night stand -->
+  <VSIE.OneNightStandTitle>一夜情</VSIE.OneNightStandTitle>
+  <!-- EN: {INITIATOR_nameDef} engages in a one night stand with {PARTNER_nameDef}. Whilst both pawns receive all the benefits of regular lovin’, they are not a couple. -->
+  <VSIE.OneNightStandText>{INITIATOR_nameDef}与{PARTNER_nameDef}发生了一夜情。虽然两个小人会进行经常性的约炮，但他们不是情侣或者夫妻。</VSIE.OneNightStandText>
+
+  <!-- EN: Enable memories -->
+  <VSIE.EnableMemories>启用“印象看法”机制</VSIE.EnableMemories>
+  <!-- EN: Enable inspirations -->
+  <VSIE.EnableInspirations>启用“灵感激励”机制</VSIE.EnableInspirations>
+  <!-- EN: Enable aspirations -->
+  <VSIE.EnableAspirations>启用“愿望”机制（灵感激励的附加目标完成与否会对殖民者的心情造成影响）</VSIE.EnableAspirations>
+  <!-- EN: Enable obtaining new traits -->
+  <VSIE.EnableObtainingNewTraits>启用“新特性”机制（殖民者在经历一些事件时可能会获得新特性）</VSIE.EnableObtainingNewTraits>
+  <!-- EN: Enable venting -->
+  <VSIE.EnableVenting>启用“倾诉”机制（殖民者会向朋友倾诉）</VSIE.EnableVenting>
+  <!-- EN: Enable best friend -->
+  <VSIE.EnableBestFriend>启用“密友”机制（殖民者可以拥有一名关系最要好的朋友）</VSIE.EnableBestFriend>
+  <!-- EN: Enable teaching -->
+  <VSIE.EnableTeaching>启用“教导”机制（殖民者会相互教导以获得技能经验）</VSIE.EnableTeaching>
+  <!-- EN: Enable many hands make light work -->
+  <VSIE.EnableManyHandsMakeLightWork>启用“众人拾柴火焰高”机制（多名殖民者在一起做同类型的工作时，工作效率会得到提升）</VSIE.EnableManyHandsMakeLightWork>
+  <!-- EN: Enable discord -->
+  <VSIE.EnableDiscord>启用“社交纷争”机制</VSIE.EnableDiscord>
+  <!-- EN: Enable group activities -->
+  <VSIE.EnableGroupActivities>启用“群体活动”机制</VSIE.EnableGroupActivities>
+  <!-- EN: Enable dating -->
+  <VSIE.EnableDating>启用“约会”机制</VSIE.EnableDating>
+  <!-- EN: Enable united we stand -->
+  <VSIE.EnableUnitedWeStand>启用“同舟共济”机制（抵御袭击事件的成功与否会对殖民者的心情造成影响）</VSIE.EnableUnitedWeStand>
+  <!-- EN: Enable social environment thoughts -->
+  <VSIE.EnableSocialEnvironmentThoughts>启用“殖民者声望”机制（殖民者会在意其他人对自己的看法）</VSIE.EnableSocialEnvironmentThoughts>
+  <!-- EN: Enable one night stand -->
+  <VSIE.EnableOneNightStand>启用“一夜情”机制</VSIE.EnableOneNightStand>
+
+</LanguageData>

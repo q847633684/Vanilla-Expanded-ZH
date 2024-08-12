@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Races Expanded - Waster</li>
+		</mods>
+		
+		<match Class="PatchOperationSequence">
+	    <success>Always</success>
+			
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/GeneDef[defName="VRE_Instability_Progressive"]</xpath>
+					<value>
+                        <customEffectDescriptions>
+                           <li>这种基因会对当前携带者的细胞失稳基因进行等级鉴定，并使其后代获得下一等级的细胞失稳基因（顺序为：无→细胞失稳→细胞失衡→细胞失控→细胞崩解）。</li>
+                           <li>举例来说，如果一个殖民者拥有细胞渐溃和细胞失衡基因，那么他的后代将会拥有更严重的细胞失控基因。</li>
+                        </customEffectDescriptions>
+					</value>
+				</li>
+			</operations>
+
+	
+		</match>
+		
+	</Operation>
+</Patch>

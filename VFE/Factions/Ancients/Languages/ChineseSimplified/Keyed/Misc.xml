@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Solar flare power up -->
+  <VFEAncients.SolarPowerUp>太阳耀斑供能</VFEAncients.SolarPowerUp>
+    <!-- EN: Powers -->
+  <VFEAncients.TabPowers>能力</VFEAncients.TabPowers>
+    <!-- EN: Superpowers -->
+  <VFEAncients.Superpowers>超能力</VFEAncients.Superpowers>
+    <!-- EN: Weaknesses -->
+  <VFEAncients.Weaknesses>弱点</VFEAncients.Weaknesses>
+    <!-- EN: Effects: -->
+  <VFEAncients.Effects>效果：</VFEAncients.Effects>
+    <!-- EN: Give ability: {0} -->
+  <VFEAncients.Effect.AddAbility>获得能力：{0}</VFEAncients.Effect.AddAbility>
+    <!-- EN: Add health condition: {0} -->
+  <VFEAncients.Effect.AddHediff>添加健康状况：{0}</VFEAncients.Effect.AddHediff>
+    <!-- EN: Nullify thought: {0} -->
+  <VFEAncients.Effect.NullThought>抵消想法：{0}</VFEAncients.Effect.NullThought>
+    <!-- EN: 100% (Marksmanship) -->
+  <VFEAncients.MarksmanshipTooltip>100%（弹无虚发）</VFEAncients.MarksmanshipTooltip>
+    <!-- EN: Reason: Killed someone -->
+  <VFEAncients.Reason.KilledSomeone>原因：杀了人</VFEAncients.Reason.KilledSomeone>
+    <!-- EN: Reason: Rebuffed by {0} -->
+  <VFEAncients.Reason.Rejected>原因：被{0}拒绝</VFEAncients.Reason.Rejected>
+    <!-- EN: Cannot prioritize: {0} is audacious -->
+  <VFEAncients.CannotPrioritizeAudacious>无法优先（{0}拥有“我行我素”弱点）</VFEAncients.CannotPrioritizeAudacious>
+    <!-- EN: Caused by power: {0} -->
+  <VFEAncients.IncapableOfTooltipPower>由能力引起：{0}</VFEAncients.IncapableOfTooltipPower>
+    <!-- EN: Not in mental state -->
+  <VFEAncients.NotInMentalState>目标没有精神状态</VFEAncients.NotInMentalState>
+    <!-- EN: Not an animal -->
+  <VFEAncients.NotAnimal>目标不是动物</VFEAncients.NotAnimal>
+    <!-- EN: Not applicable to tame animals -->
+  <VFEAncients.Tame>对已驯服的动物无效</VFEAncients.Tame>
+    <!-- EN: No possible targets -->
+  <VFEAncients.NoTargets>没有合适的目标</VFEAncients.NoTargets>
+    <!-- EN: Refills in {0} -->
+  <VFEAncients.RefillsIn>重新填充{0}</VFEAncients.RefillsIn>
+    <!-- EN: Enter gene-tailoring pod -->
+  <VFEAncients.EnterGeneTailoringPod>进入基因剪裁舱</VFEAncients.EnterGeneTailoringPod>
+    <!-- EN: Carry {0} to gene-tailoring pod -->
+  <VFEAncients.CarryToGeneTailoringPod>把{0}送入基因剪裁舱</VFEAncients.CarryToGeneTailoringPod>
+    <!-- EN: Carry {0} to bio battery -->
+  <VFEAncients.CarryToBioBattery>把{0}送入生物电池缸</VFEAncients.CarryToBioBattery>
+    <!-- EN: Add superpower -->
+  <VFEAncients.Empower>进行超能力改造</VFEAncients.Empower>
+    <!-- EN: Remove weakness -->
+  <VFEAncients.RemoveWeakness>移除弱点</VFEAncients.RemoveWeakness>
+    <!-- EN: Experiment Success: {0} -->
+  <VFEAncients.Empowered.Label>实验成功：{0}</VFEAncients.Empowered.Label>
+    <!-- EN: The experiment in the gene-tailoring pod has been a success! {0} has gained the power {1}. However, they have also gained the weakness {2}. -->
+  <VFEAncients.Empowered.Text>基因剪裁舱的实验很成功！{0}已经获得了超能力 {1}。然而，{0}也同时获得了弱点 {2}。</VFEAncients.Empowered.Text>
+    <!-- EN: Experiment Success: {0} -->
+  <VFEAncients.RemoveWeakness.Label>实验成功：{0}</VFEAncients.RemoveWeakness.Label>
+    <!-- EN: The experiment in the gene-tailoring pod has been a success! {0} has lost the weakness {1}. -->
+  <VFEAncients.RemoveWeakness.Text>基因剪裁舱的实验很成功！{0}已经移除了弱点 {1}。</VFEAncients.RemoveWeakness.Text>
+    <!-- EN: Start Operation -->
+  <VFEAncients.StartOperation>开始运行</VFEAncients.StartOperation>
+    <!-- EN: Current operation -->
+  <VFEAncients.CurrentOperation>正在运行</VFEAncients.CurrentOperation>
+    <!-- EN: Experiment failed -->
+  <VFEAncients.ExperimentFailed>实验失败</VFEAncients.ExperimentFailed>
+    <!-- EN: Death -->
+  <VFEAncients.Death>死亡</VFEAncients.Death>
+    <!-- EN: Subject has died and the experiment failed. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.Death>受试者已死亡，实验失败了。没有获得新的能力。</VFEAncients.ExperimentFailed.Death>
+    <!-- EN: Berserk -->
+  <VFEAncients.Berserk>狂暴</VFEAncients.Berserk>
+    <!-- EN: Subject has suffered severe brain damage and has gone mad. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.Berserk>受试者因遭受了严重的脑损伤而陷入疯狂。没有获得新的能力。</VFEAncients.ExperimentFailed.Berserk>
+    <!-- EN: Brain death -->
+  <VFEAncients.BrainDeath>脑死亡</VFEAncients.BrainDeath>
+    <!-- EN: Subject has suffered complete failure of brain functions and is now brain dead. No new powers were granted. -->
+  <VFEAncients.ExperimentFailed.BrainDeath>受试者的大脑完全衰竭，已经进入了脑死亡状态。没有获得新的能力。</VFEAncients.ExperimentFailed.BrainDeath>
+    <!-- EN: Launch Supplies -->
+  <VFEAncients.LaunchSupplies>发射补给</VFEAncients.LaunchSupplies>
+    <!-- EN: Self-destructs in {0} -->
+  <VFEAncients.ExpiryIn>在{0}后自毁</VFEAncients.ExpiryIn>
+    <!-- EN: No warden is capable of this recruitment. -->
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>没有能胜任招募工作的狱卒。</VFEAncients.MessageNoWardenCapableOfRecruitment>
+    <!-- EN: Interrogation Success -->
+  <VFEAncients.InterrogationSuccess>审讯成功</VFEAncients.InterrogationSuccess>
+    <!-- EN: {0} has successfully interrogated {1}, who has revealed the location of {2}. -->
+  <VFEAncients.InterrogationSuccessDetail>{0}已成功对{1}进行了审讯。{1}向我们揭示了地点{2}。</VFEAncients.InterrogationSuccessDetail>
+    <!-- EN: Interrogation failed! -->
+  <VFEAncients.InterrogationFailure>审讯失败！</VFEAncients.InterrogationFailure>
+    <!-- EN: uncontained -->
+  <VFEAncients.DeterioratingUncontained>不稳定</VFEAncients.DeterioratingUncontained>
+    <!-- EN: Fire at drop pods -->
+  <VFEAncients.FireAtPods>攻击空投舱</VFEAncients.FireAtPods>
+    <!-- EN: Fire at enemies -->
+  <VFEAncients.FireAtPawns>攻击敌人</VFEAncients.FireAtPawns>
+    <!-- EN: Fire at explosive projectiles -->
+  <VFEAncients.FireAtProjectiles>攻击爆炸投射物</VFEAncients.FireAtProjectiles>
+    <!-- EN: Allow the point-defense turret to fire at incoming drop pods that contain enemy raiders. -->
+  <VFEAncients.FireAtPodsDesc>允许点防御炮塔向装有敌人的空投舱开火。</VFEAncients.FireAtPodsDesc>
+    <!-- EN: Allow the point-defense turret to fire at enemy pawns within range, like a normal turret would. -->
+  <VFEAncients.FireAtPawnsDesc>允许点防御炮塔向射程范围内的敌人开火。</VFEAncients.FireAtPawnsDesc>
+    <!-- EN: Allow the point-defense turret to fire at incoming explosive projectiles, such as rockets and mortar shells. -->
+  <VFEAncients.FireAtProjectilesDesc>允许点防御炮塔向袭来的爆炸投射物(如火箭和迫击炮弹)开火。</VFEAncients.FireAtProjectilesDesc>
+    <!-- EN: The process of injecting super-nanites has finished. Because your lab equipment includes a nanite sampler, you may now select between the two power and weakness pairs for {0} to obtain. -->
+  <VFEAncients.PowerChoice>超能纳米机械已注射完成。由于实验室中装有纳米机械采样器，你可以在{0}即将获得的两组能力中做出选择。</VFEAncients.PowerChoice>
+    <!-- EN: Select -->
+  <VFEAncients.Select>选择</VFEAncients.Select>
+    <!-- EN: Mass Left: {0} / {1} ({2}) -->
+  <VFEAncients.MassLeft>剩余质量：{0} / {1} ({2})</VFEAncients.MassLeft>
+    <!-- EN: Already in an animal form -->
+  <VFEAncients.AlreadyMetaMorph>已经是动物形态了</VFEAncients.AlreadyMetaMorph>
+    <!-- EN: Cancel operation -->
+  <VFEAncients.CancelOp>取消运行</VFEAncients.CancelOp>
+    <!-- EN: This supply slingshot contains the pawn {PAWN_labelShort}. You will not be able to get {PAWN_pronoun} back if you send {PAWN_pronoun} away. Launch anyway? -->
+  <VFEAncients.ConfirmSendPawn>这台补给弹射器里装载了{PAWN_labelShort}。如果把{PAWN_pronoun}送走，你将无法再见到{PAWN_pronoun}。是否继续发射？</VFEAncients.ConfirmSendPawn>
+    <!-- EN: Decide not to do an operation on {PAWN} and eject {PAWN_pronoun} from the gene-tailroing pod. -->
+  <VFEAncients.CancelOpDesc>取消运行，将{PAWN}从基因剪裁舱中弹出。</VFEAncients.CancelOpDesc>
+    <!-- EN: Running this experiment has a {0} chance of failure. This is due to:{4}\n\nThis could be reduced by finding and installing some of these buildings:\n{1}\n\nThe experiment will take {2} and cannot be stopped once started. This is affected by:{3} -->
+  <VFEAncients.ExperimentFailureWarning>进行此实验的失败几率为{0}。这是由于：{4}\n\n失败几率可通过寻找并安装这些设备装置来降低：\n{1}\n\n实验将花费{2}，且一旦开始就无法停止。花费时间受以下因素影响：{3}</VFEAncients.ExperimentFailureWarning>
+	<!-- EN: A supply crate is touching down nearby. It's a trade from another vault, and will contain items of equal value to the items you've sent -->
+  <VFEAncients.SupplyCrateArrived>一个物资箱降落在了附近，看起来像是其他避难所发射过来的。里面装有的物品与你先前用补给弹射器发射的物品是等价的。</VFEAncients.SupplyCrateArrived>
+	<!-- EN: Enable glory kill music -->
+  <VFEAncients.EnableGloryKillMusic>启用“壮烈击杀”超能力的BGM</VFEAncients.EnableGloryKillMusic>
+	<!-- EN: Gene-tailoring pod is not fueled. -->
+  <VFEAncient.GeneTailorNoFuel>基因剪裁舱需要燃料</VFEAncient.GeneTailorNoFuel>
+	<!-- EN: Must be human -->
+  <VFEAncient.MustBeHumanlike>必须为人类</VFEAncient.MustBeHumanlike>
+	<!-- EN: Gene-tailoring pod is occupied. -->
+  <VFEAncient.GeneTailorOccupied>基因剪裁舱已被占用。</VFEAncient.GeneTailorOccupied>
+	<!-- EN: Available operations cannot be applied on -->
+  <VFEAncient.AvailableOperationsCannotBeApplied>运行操作无法适用于</VFEAncient.AvailableOperationsCannotBeApplied>
+    <!-- EN: Repair item -->
+  <VFEAncients.RepairMat>修理材料</VFEAncients.RepairMat>
+    <!-- EN: What material must be used to repair this at a mending table. -->
+  <VFEAncients.MatForRepair>在修理台进行修理时所需的材料。</VFEAncients.MatForRepair>
+    <!-- EN: Resurrects in -->
+  <VFEAncients.ResurrectsIn>剩余复活时间:</VFEAncients.ResurrectsIn>
+</LanguageData>

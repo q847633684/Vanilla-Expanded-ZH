@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: discord -->
+  <VSIE_Discord.label>争执</VSIE_Discord.label>
+  <!-- EN: r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic]. -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef][insulted][target]的[PersonalCharacteristic]。</VSIE_Discord.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison]. -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]将[target]比作[insultcomparison]。</VSIE_Discord.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison]. -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]把[target]称作[insultcomparison]。</VSIE_Discord.logRulesInitiator.rulesStrings.2>
+  <!-- EN: target(p=4)->[RECIPIENT_nameDef] -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</VSIE_Discord.logRulesInitiator.rulesStrings.3>
+  <!-- EN: target->[RECIPIENT_nameDef]'s [PersonFamily] -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef]的[PersonFamily]</VSIE_Discord.logRulesInitiator.rulesStrings.4>
+  <!-- EN: insulted(p=3)->insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.5>insulted(p=3)->insulted</VSIE_Discord.logRulesInitiator.rulesStrings.5>
+  <!-- EN: insulted->openly insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.6>insulted->公开侮辱</VSIE_Discord.logRulesInitiator.rulesStrings.6>
+  <!-- EN: insulted->loudly insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.7>insulted->大声侮辱</VSIE_Discord.logRulesInitiator.rulesStrings.7>
+  <!-- EN: insulted->flagrantly insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.8>insulted->悍然咒骂</VSIE_Discord.logRulesInitiator.rulesStrings.8>
+  <!-- EN: insulted->directly insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.9>insulted->直接攻击</VSIE_Discord.logRulesInitiator.rulesStrings.9>
+  <!-- EN: insulted->viciously insulted -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.10>insulted->恶言中伤</VSIE_Discord.logRulesInitiator.rulesStrings.10>
+  <!-- EN: insulted->flagrantly disrespected -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.11>insulted->蛮横无理</VSIE_Discord.logRulesInitiator.rulesStrings.11>
+  <!-- EN: insulted->slandered -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.12>insulted->诽谤</VSIE_Discord.logRulesInitiator.rulesStrings.12>
+  <!-- EN: insulted->hurled invective about -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.13>insulted->大声谩骂</VSIE_Discord.logRulesInitiator.rulesStrings.13>
+  <!-- EN: insulted->derided -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.14>insulted->嘲弄</VSIE_Discord.logRulesInitiator.rulesStrings.14>
+  <!-- EN: insultcomparison(p=2)->[Animal] -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</VSIE_Discord.logRulesInitiator.rulesStrings.15>
+  <!-- EN: insultcomparison->[Enemy] -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</VSIE_Discord.logRulesInitiator.rulesStrings.16>
+  
+</LanguageData>

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: compound bow -->
+  <VWE_CompoundBow.label>复合弓</VWE_CompoundBow.label>
+  <!-- EN: Construct compound bows, which use industrial-era components to silently fire arrows with greater efficiency. -->
+  <VWE_CompoundBow.description>解锁制作强力且无声的「复合弓」。制作时需要零部件。</VWE_CompoundBow.description>
+  <!-- EN:
+    <li>subject->silent efficiency</li>
+    <li>subject_story->integrated modern technology to craft silent, deadly weapons</li>
+    <li>subject_story->pushed the boundaries of archery into the industrial era</li>
+    <li>subject_story->employed advanced materials for unmatched bow strength and flexibility</li>
+    <li>subject_story->optimized designs for ergonomic use and increased firing rates</li>
+    <li>subject_gerund->refining the art of stealth and precision in hunting and warfare</li>
+  -->
+  <VWE_CompoundBow.generalRules.rulesStrings>
+    <li>subject->无声高效</li>
+    <li>subject_story->集成了现代科技以打造无声且致命的武器</li>
+    <li>subject_story->推动弓艺进步至工业时代</li>
+    <li>subject_story->使用了高级材料来为弓赋予极高的强度和弹性</li>
+    <li>subject_story->优化了结构设计以符合人体工程学和提高射速</li>
+    <li>subject_gerund->在狩猎和战斗中精进隐蔽与精准的技艺</li>
+  </VWE_CompoundBow.generalRules.rulesStrings>
+  
+  <!-- EN: crossbow -->
+  <VWE_Crossbow.label>弩</VWE_Crossbow.label>
+  <!-- EN: Construct crossbows, a medieval ranged weapon effective against armored enemies. -->
+  <VWE_Crossbow.description>解锁制作能有效击穿敌人护甲的「弩」。</VWE_Crossbow.description>
+  <!-- EN:
+    <li>subject->mechanical advantage</li>
+    <li>subject_story->merged the precision of archery with the power of mechanics</li>
+    <li>subject_story->developed crossbows that pierce the defenses of the armored</li>
+    <li>subject_story->innovated locking mechanisms for quicker reloads under pressure</li>
+    <li>subject_story->integrated advanced sighting systems to improve accuracy</li>
+    <li>subject_gerund->advancing siege warfare with innovation in armament</li>
+  -->
+  <VWE_Crossbow.generalRules.rulesStrings>
+    <li>subject->省力机械结构</li>
+    <li>subject_story->融合了弓艺的精准和机械结构的力量</li>
+    <li>subject_story->研制了能击穿护甲的弩</li>
+    <li>subject_story->为能在高压情况下快速重新装填而改进了锁闭机械结构</li>
+    <li>subject_story->为提高精度而集成了更高级的瞄具</li>
+    <li>subject_gerund->通过改进武器来推进攻城战的进步</li>
+  </VWE_Crossbow.generalRules.rulesStrings>
+  
+  <!-- EN: marksman rifle -->
+  <VWE_DesignatedMarksmanRifle.label>射手步枪</VWE_DesignatedMarksmanRifle.label>
+  <!-- EN: Construct semi-automatic marksman rifles, for use in long-distance engagements. -->
+  <VWE_DesignatedMarksmanRifle.description>解锁制作用于远距离交火的半自动「射手步枪」。</VWE_DesignatedMarksmanRifle.description>
+  <!-- EN:
+    <li>subject->long-distance overwatch</li>
+    <li>subject_story->bridged the gap between sniper precision and rifle agility</li>
+    <li>subject_story->empowered sharpshooters with semi-automatic precision</li>
+    <li>subject_story->developed stabilization systems for unmatched accuracy on the move</li>
+    <li>subject_story->adapted rifles for various environments, from urban to wilderness</li>
+    <li>subject_gerund->shaping the future of engagement with marksman rifles</li>
+  -->
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+    <li>subject->远距掩射</li>
+    <li>subject_story->拉近了狙击手的精准与步枪的灵敏度之间的距离</li>
+    <li>subject_story->赋予了精确射手半自动的精度</li>
+    <li>subject_story->研发了即使在移动时也具有极高精度的稳定系统</li>
+    <li>subject_story->适应了在从都市到野外等各种环境下使用步枪</li>
+    <li>subject_gerund->塑造使用射手步枪作战的未来</li>
+  </VWE_DesignatedMarksmanRifle.generalRules.rulesStrings>
+  
+  <!-- EN: flamethrower -->
+  <VWE_Flamethrower.label>火焰喷射器</VWE_Flamethrower.label>
+  <!-- EN: Construct flamethrowers, weapons that project a long, controllable stream of fire. Their lethality has lead to bans on many civilized worlds. -->
+  <VWE_Flamethrower.description>解锁制作能喷射出火焰长舌的「火焰喷射器」。这种武器因残忍且致命而在很多文明世界中被禁用。</VWE_Flamethrower.description>
+  <!-- EN:
+    <li>subject->fiery dominion</li>
+    <li>subject_story->harnessed fire in warfare to cleanse and conquer</li>
+    <li>subject_story->introduced a weapon feared for its psychological and physical impact</li>
+    <li>subject_story->innovated with fuel mixtures for longer range and burn times</li>
+    <li>subject_story->developed safety mechanisms to protect the operator from backlash</li>
+    <li>subject_gerund->spreading the flames of innovation and terror on the battlefield</li>
+  -->
+  <VWE_Flamethrower.generalRules.rulesStrings>
+    <li>subject->火焰掌控</li>
+    <li>subject_story->在战斗中利用火焰来净化和征服</li>
+    <li>subject_story->引入了能对身心造成双重打击的武器</li>
+    <li>subject_story->创新使用了能燃烧更长时间和更远距离的混合燃料</li>
+    <li>subject_story->研发了能保护使用者免受后坐力影响的安全机械结构</li>
+    <li>subject_gerund->在战场上喷射创新与恐惧的火舌</li>
+  </VWE_Flamethrower.generalRules.rulesStrings>
+  
+  <!-- EN: gunpowder -->
+  <VWE_Gunpowder.label>火药</VWE_Gunpowder.label>
+  <!-- EN: Synthesize gunpowder, the earliest known chemical explosive. -->
+  <VWE_Gunpowder.description>解锁合成火药的方法，这是最早被人类发现的化学爆炸物。</VWE_Gunpowder.description>
+  <!-- EN:
+    <li>subject->the spark of revolution</li>
+    <li>subject_story->unleashed the potential of chemical reactions for explosive results</li>
+    <li>subject_story->transformed warfare and mining with the discovery of gunpowder</li>
+    <li>subject_story->revolutionized siege tactics with the introduction of cannons</li>
+    <li>subject_story->facilitated the creation of small arms, changing personal defense and hunting</li>
+    <li>subject_gerund->pioneering the era of explosives and ballistic weaponry</li>
+  -->
+  <VWE_Gunpowder.generalRules.rulesStrings>
+    <li>subject->革命的星火</li>
+    <li>subject_story->释放了利用化学反应引发爆炸的潜力</li>
+    <li>subject_story->通过发现火药改变了战斗和采矿</li>
+    <li>subject_story->通过引入火炮来革新攻城战术</li>
+    <li>subject_story->通过推动小型火器的创造来改变个人防卫和狩猎的方式</li>
+    <li>subject_gerund->引领炸药和弹道武器的新时代</li>
+  </VWE_Gunpowder.generalRules.rulesStrings>
+  
+  <!-- EN: heavy weapons -->
+  <VWE_HeavyWeapons.label>重型武器</VWE_HeavyWeapons.label>
+  <!-- EN: Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding. -->
+  <VWE_HeavyWeapons.description>解锁制作能提供压倒性火力的重型武器，但使用者需要拥有极强的体能。</VWE_HeavyWeapons.description>
+  <!-- EN:
+    <li>subject->the weight of power</li>
+    <li>subject_story->developed weapons that bring unparalleled firepower to the battlefield</li>
+    <li>subject_story->balanced the scales of warfare with heavy, decisive armaments</li>
+    <li>subject_story->created training programs for specialized units to operate these weapons</li>
+    <li>subject_story->engineered mobility solutions to transport and deploy heavy armaments</li>
+    <li>subject_gerund->mastering the art of destruction with heavy weapons</li>
+  -->
+  <VWE_HeavyWeapons.generalRules.rulesStrings>
+    <li>subject->火力的重量</li>
+    <li>subject_story->研发了能在战场上火力全开的武器</li>
+    <li>subject_story->用沉稳的重型武器平衡战斗的规模</li>
+    <li>subject_story->为特殊部队拟定了操作这些武器的训练项目</li>
+    <li>subject_story->制定了运输和部署重型武器的机动性解决方案</li>
+    <li>subject_gerund->掌握用重型武器进行破坏的技艺</li>
+  </VWE_HeavyWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: laser targeting systems -->
+  <VWE_LaserTargetingSystems.label>激光靶向系统</VWE_LaserTargetingSystems.label>
+  <!-- EN: Adapt laser targeting systems for accurate and swift delivery of charged warheads. -->
+  <VWE_LaserTargetingSystems.description>解锁制作能精准、迅速地引导弹头的激光靶向系统。</VWE_LaserTargetingSystems.description>
+  <!-- EN:
+    <li>subject->pinpoint accuracy</li>
+    <li>subject_story->revolutionized precision strikes with advanced laser guidance</li>
+    <li>subject_story->enabled real-time target acquisition and adjustment</li>
+    <li>subject_story->integrated systems with existing weaponry for enhanced combat effectiveness</li>
+    <li>subject_story->developed compact, portable laser designators for field operations</li>
+    <li>subject_gerund->honing the edge of warfare with technology</li>
+  -->
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <li>subject->顶尖精度</li>
+    <li>subject_story->用高级激光制导革新了精准打击</li>
+    <li>subject_story->实现了实时目标锁定和校准</li>
+    <li>subject_story->集成了能提高现有武器战斗效率的系统</li>
+    <li>subject_story->为野外行动研发了紧凑便携的激光指示器</li>
+    <li>subject_gerund->用科技磨砺战斗的锋芒</li>
+  </VWE_LaserTargetingSystems.generalRules.rulesStrings>
+  
+  <!-- EN: longbow -->
+  <VWE_Longbow.label>长弓</VWE_Longbow.label>
+  <!-- EN: Craft longbows, a neolithic equivalent to the sniper rifle. -->
+  <VWE_Longbow.description>解锁制作「长弓」，石器时代的“狙击枪”。</VWE_Longbow.description>
+  <!-- EN:
+    <li>subject->precision archery</li>
+    <li>subject_story->refined the craft of longbow making, maximizing range and accuracy</li>
+    <li>subject_story->redefined warfare with the introduction of the sniper's bow</li>
+    <li>subject_story->inspired legends through feats of marksmanship that turned the tide of battles</li>
+    <li>subject_story->developed techniques that allowed rapid, precise shots over great distances</li>
+    <li>subject_gerund->enhancing long-range engagements with traditional craftsmanship</li>
+  -->
+  <VWE_Longbow.generalRules.rulesStrings>
+    <li>subject->精准弓艺</li>
+    <li>subject_story->为提高最大射程和精度而精进了制作长弓的技艺</li>
+    <li>subject_story->通过引入狙击之弓重新定义了战斗</li>
+    <li>subject_story->利用高超射艺扭转战斗走向从而创造了传说</li>
+    <li>subject_story->研发了能远距离精确快速射击的科技</li>
+    <li>subject_gerund->利用传统技艺强化远距离交战</li>
+  </VWE_Longbow.generalRules.rulesStrings>
+  
+  <!-- EN: specialized firearms -->
+  <VWE_SpecializedFirearms.label>专精化枪械</VWE_SpecializedFirearms.label>
+  <!-- EN: Craft specialized guns for demanding combat scenarios. -->
+  <VWE_SpecializedFirearms.description>解锁制作适用于特定战斗场合和环境的专精化枪械。</VWE_SpecializedFirearms.description>
+  <!-- EN:
+    <li>subject->precision engineering</li>
+    <li>subject_story->crafted firearms designed for specific, challenging combat scenarios</li>
+    <li>subject_story->elevated the standards of gunsmithing to meet niche demands</li>
+    <li>subject_story->integrated cutting-edge optics for enhanced targeting accuracy</li>
+    <li>subject_story->customized weapons to suit individual user preferences and tactics</li>
+    <li>subject_gerund->tailoring firepower to the intricate needs of warfare</li>
+  -->
+  <VWE_SpecializedFirearms.generalRules.rulesStrings>
+    <li>subject->精密设计</li>
+    <li>subject_story->制造为特定且极具挑战性的战斗场合而设计的武器</li>
+    <li>subject_story->为满足商业需求而抬高了枪械制造的标准</li>
+    <li>subject_story->集成了能强化瞄准精度的尖端瞄准镜</li>
+    <li>subject_story->为满足私人客户的喜好和战术需求而定制武器</li>
+    <li>subject_gerund->依照战斗的复杂需求而调整武器威力</li>
+  </VWE_SpecializedFirearms.generalRules.rulesStrings>
+  
+  <!-- EN: tactical grenades -->
+  <VWE_TacticalGrenades.label>战术手榴弹</VWE_TacticalGrenades.label>
+  <!-- EN: Craft specialized grenades, useful in a variety of engagements. -->
+  <VWE_TacticalGrenades.description>解锁制作专精化手榴弹，能够适应各种情况瞬息万变的战斗场合。</VWE_TacticalGrenades.description>
+  <!-- EN:
+    <li>subject->explosive versatility</li>
+    <li>subject_story->expanded the arsenal with grenades for every combat situation</li>
+    <li>subject_story->innovated with non-lethal options for crowd control and deterrence</li>
+    <li>subject_story->enhanced fuse mechanisms for precise timing and effect</li>
+    <li>subject_story->customized payloads for specific tactical needs</li>
+    <li>subject_gerund->arming troops with the right tools for any engagement</li>
+  -->
+  <VWE_TacticalGrenades.generalRules.rulesStrings>
+    <li>subject->多功能爆炸</li>
+    <li>subject_story->为应对每种战斗态势而用手榴弹扩充了军备库</li>
+    <li>subject_story->为控制和震慑人群而引入了非致命选项</li>
+    <li>subject_story->改良出了能精准定时和起效的引信</li>
+    <li>subject_story->为特殊战术需求而调整了装药量</li>
+    <li>subject_gerund->用能在所有交战环境中发挥作用的正确工具武装部队</li>
+  </VWE_TacticalGrenades.generalRules.rulesStrings>
+  
+  <!-- EN: trench warfare -->
+  <VWE_TrenchWarfare.label>堑壕战</VWE_TrenchWarfare.label>
+  <!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat. -->
+  <VWE_TrenchWarfare.description>准备好近距战斗装备，推行堑壕战作战方针。</VWE_TrenchWarfare.description>
+  <!-- EN:
+    <li>subject->entrenched defense</li>
+    <li>subject_story->adopted age-old strategies to modern combat, ensuring survival</li>
+    <li>subject_story->innovated in close-quarters battle tactics within the trenches</li>
+    <li>subject_story->engineered fortifications that blend with the landscape for surprise attacks</li>
+    <li>subject_story->developed communication lines within trenches to coordinate assaults</li>
+    <li>subject_gerund->fortifying positions with strategic ingenuity in warfare</li>
+  -->
+  <VWE_TrenchWarfare.generalRules.rulesStrings>
+    <li>subject->牢固防御</li>
+    <li>subject_story->为保证生存而在现代作战中采用了古老战略</li>
+    <li>subject_story->革新了在战壕内近距离作战的战术</li>
+    <li>subject_story->为发动奇袭而设计了嵌合地形的防御工事</li>
+    <li>subject_story->研发了用于在战壕内协调突击的通讯线路</li>
+    <li>subject_gerund->在战斗中用战略独创性强化阵地</li>
+  </VWE_TrenchWarfare.generalRules.rulesStrings>
+  
+</LanguageData>

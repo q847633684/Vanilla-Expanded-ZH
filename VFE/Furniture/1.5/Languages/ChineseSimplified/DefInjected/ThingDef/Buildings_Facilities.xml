@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>生命体征监测仪</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>放置在毗邻医疗床或手术台的位置时，可以提高医疗质量、手术成功率，以及免疫速度。只对医疗床或手术台有效，普通床不会获得加成。在同一个医疗床或手术台旁放置多个生命体征监测仪不会产生叠加效果。</VitalsMonitor.description>
+
+  <!-- EN: intravenous drip stand -->
+  <Facility_IVDrip.label>静脉滴注架</Facility_IVDrip.label>
+  <!-- EN: An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect. -->
+  <Facility_IVDrip.description>静脉滴注架，用于快速向患者补充液体，放置在毗邻医疗床或手术台的位置时，可以帮助患者提高免疫速度和从失血状态中恢复过来。只对医疗床或手术台有效，普通床不会获得加成。在同一个医疗床或手术台旁放置多个静脉滴注架不会产生叠加效果。</Facility_IVDrip.description>
+  
+  <!-- EN: research counter -->
+  <Facility_ResearchCounter.label>研究柜</Facility_ResearchCounter.label>
+  <!-- EN: A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times. -->
+  <Facility_ResearchCounter.description>齐腰高的消毒柜，常用于进行敏感研究。小幅提高研究速度与房间的清洁度。需要放置在研究台附近。一个研究台最多可以同时连接二十个研究柜。</Facility_ResearchCounter.description>
+  
+  <!-- EN: vitals centre -->
+  <Facility_VitalsCentre.label>生命体征控制中心</Facility_VitalsCentre.label>
+  <!-- EN: A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. -->
+  <Facility_VitalsCentre.description>大型生命体征控制中心，用于同时监测多个患者的生命体征。放置在毗邻医疗床或手术台的位置时，可以提高医疗质量、手术成功率，以及免疫速度。只对医疗床或手术台有效，普通床不会获得加成。在同一个医疗床或手术台旁放置多个生命体征控制中心不会产生叠加效果。</Facility_VitalsCentre.description>
+  
+</LanguageData>

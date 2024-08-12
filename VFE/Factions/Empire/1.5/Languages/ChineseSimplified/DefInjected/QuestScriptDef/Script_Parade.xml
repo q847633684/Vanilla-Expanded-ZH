@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_Parade.questNameRules.rulesStrings.0>questName-&gt;群星飞升</VFEE_Parade.questNameRules.rulesStrings.0>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;高贵</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;贵族</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.4>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.5>他们的他她(nobleCount&gt;=2)-&gt;他们的</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.6>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.8>lodgersWasWere(nobleCount==1)-&gt;原为</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount&gt;=2)-&gt;是</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.10>appreciateAppreciates(nobleCount==1)-&gt;欣赏</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.11>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.12>questDescription-&gt;[stellarch_nameFull] 已经达到了他们从边缘世界表面所能达到的顶峰。为了在宏伟的等级制度中取得进一步的进步并成为皇帝 [emperor_nameFull] 的左膀右臂，[stellarch_nameFull] 需要参加传统的升天游行，之后他们将乘坐航天飞机出发并加入皇帝的行列。\n如此规模的游行势必会引起逃兵的注意。\n接受此任务后，你将有5天的时间准备阅兵。考虑加强防御并制定应急计划，因为很难说游行队伍将向哪个方向移动。无论何时，你都必须确保游行队伍免受伤害。\n留意 [stellarch_nameFull] 的任何竞争对手或敌人，因为他们可能会认为现在是采取行动并为自己夺取权力的好时机。\n航天飞机将带着最高级别的贵族参加游行。您将负责为活动提供安全保障。游行开始后，它将在地图上缓慢移动12小时，之后包括[stellarch_nameFull]在内的所有人将登上航天飞机并出发。
+</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_Parade.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_Parade.questContentRules.rulesStrings.0>
+  <VFEE_Parade.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;最后</VFEE_Parade.questContentRules.rulesStrings.1>
+  <VFEE_Parade.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_Parade.questContentRules.rulesStrings.2>
+  <VFEE_Parade.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_Parade.questContentRules.rulesStrings.3>
+  <VFEE_Parade.questContentRules.rulesStrings.4>decidedToLeave-&gt;立即离开，不会深切地记住这一事件！</VFEE_Parade.questContentRules.rulesStrings.4>
+  <VFEE_Parade.questContentRules.rulesStrings.5>oneOfThe-&gt;参加游行的贵族之一</VFEE_Parade.questContentRules.rulesStrings.5>
+  <VFEE_Parade.questContentRules.rulesStrings.6>questOver-&gt;任务“[resolvedQuestName]”已结束。</VFEE_Parade.questContentRules.rulesStrings.6>
+  <VFEE_Parade.questContentRules.rulesStrings.7>CeremonyFailedLetterLabel-&gt;游行失败</VFEE_Parade.questContentRules.rulesStrings.7>
+  <VFEE_Parade.questContentRules.rulesStrings.8>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能打造一次愉快的游行感到失望。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开</VFEE_Parade.questContentRules.rulesStrings.8>
+  <VFEE_Parade.questContentRules.rulesStrings.9>CeremonyTimeoutLetterLabel-&gt;游行失败</VFEE_Parade.questContentRules.rulesStrings.9>
+  <VFEE_Parade.questContentRules.rulesStrings.10>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始游行。 [asker_pronoun] 将与 [asker_possessive] 位客人一起离开。</VFEE_Parade.questContentRules.rulesStrings.10>
+  <VFEE_Parade.questContentRules.rulesStrings.11>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}，[oneOfThe]。</VFEE_Parade.questContentRules.rulesStrings.11>
+  <VFEE_Parade.questContentRules.rulesStrings.12>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕</VFEE_Parade.questContentRules.rulesStrings.12>
+  <VFEE_Parade.questContentRules.rulesStrings.13>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.13>
+  <VFEE_Parade.questContentRules.rulesStrings.14>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</VFEE_Parade.questContentRules.rulesStrings.14>
+  <VFEE_Parade.questContentRules.rulesStrings.15>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</VFEE_Parade.questContentRules.rulesStrings.15>
+  <VFEE_Parade.questContentRules.rulesStrings.16>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.16>
+  <VFEE_Parade.questContentRules.rulesStrings.17>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</VFEE_Parade.questContentRules.rulesStrings.17>
+  <VFEE_Parade.questContentRules.rulesStrings.18>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</VFEE_Parade.questContentRules.rulesStrings.18>
+  <VFEE_Parade.questContentRules.rulesStrings.19>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.19>
+  <VFEE_Parade.questContentRules.rulesStrings.20>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架了。</VFEE_Parade.questContentRules.rulesStrings.20>
+  <VFEE_Parade.questContentRules.rulesStrings.21>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 绑架：出发</VFEE_Parade.questContentRules.rulesStrings.21>
+  <VFEE_Parade.questContentRules.rulesStrings.22>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.22>
+  <VFEE_Parade.questContentRules.rulesStrings.23>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</VFEE_Parade.questContentRules.rulesStrings.23>
+  <VFEE_Parade.questContentRules.rulesStrings.24>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 驱逐：出发</VFEE_Parade.questContentRules.rulesStrings.24>
+  <VFEE_Parade.questContentRules.rulesStrings.25>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.25>
+  <VFEE_Parade.questContentRules.rulesStrings.26>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</VFEE_Parade.questContentRules.rulesStrings.26>
+  <VFEE_Parade.questContentRules.rulesStrings.27>ShuttleDestroyedLabel-&gt;航天飞机被毁：游行失败</VFEE_Parade.questContentRules.rulesStrings.27>
+  <VFEE_Parade.questContentRules.rulesStrings.28>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.28>
+  <VFEE_Parade.questContentRules.rulesStrings.29>raidArrivedLetterLabel-&gt;逃兵暗杀企图</VFEE_Parade.questContentRules.rulesStrings.29>
+  <VFEE_Parade.questContentRules.rulesStrings.30>raidArrivedLetterText-&gt;一群逃兵已抵达，试图扰乱游行并刺杀[stellarch_nameFull]\n\n游行不得以任何理由中断！</VFEE_Parade.questContentRules.rulesStrings.30>
+  <VFEE_Parade.questContentRules.rulesStrings.31>ParadeSuccessLetterLetterLabel-&gt;游行成功</VFEE_Parade.questContentRules.rulesStrings.31>
+  <VFEE_Parade.questContentRules.rulesStrings.32>ParadeSuccessLetterText-&gt;航天飞机已准备好与所有以 [stellarch_nameFull] 上升的乘客一起出发。它将按照您的命令出发！</VFEE_Parade.questContentRules.rulesStrings.32>
+
+
+</LanguageData>

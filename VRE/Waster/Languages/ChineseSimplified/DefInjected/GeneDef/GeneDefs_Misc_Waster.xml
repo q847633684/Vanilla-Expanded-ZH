@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extreme cell instability -->
+  <VRE_Instability_Extreme.label>细胞崩解</VRE_Instability_Extreme.label>
+  <!-- EN: Carriers of this gene need very little metabolic energy to stay alive, at the cost of extremely-reduced stability in their cell-replication machinery. -->
+  <VRE_Instability_Extreme.description>这种基因的携带者相较正常人维生所需进食量大幅减少，但代价是其细胞复制能力崩解失稳。</VRE_Instability_Extreme.description>
+  
+  <!-- EN: nominal cell instability -->
+  <VRE_Instability_Nominal.label>细胞失稳</VRE_Instability_Nominal.label>
+  <!-- EN: Carriers of this gene need slightly less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
+  <VRE_Instability_Nominal.description>这种基因的携带者相较正常人维生所需进食量略微减少，但代价是其细胞复制能力轻微失稳。</VRE_Instability_Nominal.description>
+  
+  <!-- EN: progressive cell instability -->
+  <VRE_Instability_Progressive.label>细胞渐溃</VRE_Instability_Progressive.label>
+  <!-- EN: Carriers of this gene have their genetic code becoming progressively more unstable with every new generation. -->
+  <VRE_Instability_Progressive.description>这种基因的携带者的遗传密码会随着后代不断诞生而变得愈发不稳定。</VRE_Instability_Progressive.description>
+
+  <!-- EN: tox absorption -->
+  <VRE_ToxAbsorption.label>毒气吸收</VRE_ToxAbsorption.label>
+  <!-- EN: Carriers of this gene have the extraordinary ability to directly absorb toxic gases through their skin. This gene does not have any effect in itself, but it does increase the speed at which pollution is satisfied for various pollution-related genes. -->
+  <VRE_ToxAbsorption.description>这种基因的携带者有着可通过皮肤直接吸收毒气的奇特能力。这种基因本身并不具有任何效果，需要与突变类污染基因相搭配才能发挥作用。</VRE_ToxAbsorption.description>
+  <!-- EN: Pawns with this gene benefit from inhaling tox gas. If the pawn is standing on a cell with tox gas, Every 60 ticks (1 sec), pawn with the gene will increase in stimulus severity of any Pollution genes by additional +2.22%. This is separate from the increase based on standing on polluted terrain when having the pollution stimulus mutation / gene. -->
+  <VRE_ToxAbsorption.customEffectDescriptions.0>吸收毒气并从中获益。当暴露于毒气中时，能像站在受污染地形上一样获得由污染基因提供的属性强化，但达到最大强化幅度所需时间要更长一些（两者可叠加）。</VRE_ToxAbsorption.customEffectDescriptions.0>
+
+</LanguageData>

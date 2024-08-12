@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [AnimalsTopic]. -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][AnimalsTopic]。</VSIE_Teaching_Animals.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [AnimalsTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][AnimalsTopic]。</VSIE_Teaching_Animals.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [AnimalsTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[AnimalsTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Animals.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Animals.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Animals.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Animals.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Animals.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Animals.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Animals.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Animals.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Animals.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Animals.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Animals.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Animals.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Animals.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Animals.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ArtTopic]. -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][ArtTopic]。</VSIE_Teaching_Artistic.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [ArtTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][ArtTopic]。</VSIE_Teaching_Artistic.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ArtTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[ArtTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Artistic.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Artistic.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Artistic.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Artistic.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Artistic.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Artistic.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Artistic.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Artistic.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Artistic.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Artistic.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Artistic.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Artistic.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Artistic.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ConstructionTopic]. -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][ConstructionTopic]。</VSIE_Teaching_Construction.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [ConstructionTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][ConstructionTopic]。</VSIE_Teaching_Construction.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ConstructionTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[ConstructionTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Construction.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Construction.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Construction.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Construction.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Construction.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Construction.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Construction.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Construction.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Construction.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Construction.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Construction.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Construction.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Construction.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Construction.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [CookingTopic] [TalkTopicLight]. -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][CookingTopic]。</VSIE_Teaching_Cooking.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [CookingTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][CookingTopic]。</VSIE_Teaching_Cooking.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CookingTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[CookingTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Cooking.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Cooking.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Cooking.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Cooking.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Cooking.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Cooking.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Cooking.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Cooking.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Cooking.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Cooking.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Cooking.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Cooking.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Cooking.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [CraftingTopic]. -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][CraftingTopic]。</VSIE_Teaching_Crafting.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [CraftingTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][CraftingTopic]。</VSIE_Teaching_Crafting.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CraftingTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[CraftingTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Crafting.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Crafting.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Crafting.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Crafting.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Crafting.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Crafting.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Crafting.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Crafting.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Crafting.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Crafting.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Crafting.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Crafting.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Crafting.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [IntellectualTopic]. -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][IntellectualTopic]。</VSIE_Teaching_Intellectual.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [IntellectualTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][IntellectualTopic]。</VSIE_Teaching_Intellectual.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [IntellectualTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[IntellectualTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Intellectual.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Intellectual.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Intellectual.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Intellectual.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Intellectual.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Intellectual.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Intellectual.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Intellectual.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Intellectual.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Intellectual.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Intellectual.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Intellectual.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Intellectual.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MedicalTopic]. -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][MedicalTopic]。</VSIE_Teaching_Medicine.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [MedicalTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][MedicalTopic]。</VSIE_Teaching_Medicine.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MedicalTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[MedicalTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Medicine.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Medicine.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Medicine.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Medicine.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Medicine.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Medicine.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Medicine.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Medicine.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Medicine.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Medicine.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Medicine.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Medicine.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Medicine.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MeleeTopic]. -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][MeleeTopic]。</VSIE_Teaching_Melee.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [MeleeTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][MeleeTopic]。</VSIE_Teaching_Melee.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MeleeTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[MeleeTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Melee.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Melee.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Melee.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Melee.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Melee.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Melee.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Melee.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Melee.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Melee.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Melee.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Melee.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Melee.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Melee.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Melee.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MiningTopic]. -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][MiningTopic]。</VSIE_Teaching_Mining.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [MiningTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][MiningTopic]。</VSIE_Teaching_Mining.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MiningTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[MiningTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Mining.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Mining.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Mining.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Mining.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Mining.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Mining.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Mining.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Mining.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Mining.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Mining.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Mining.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Mining.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Mining.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Mining.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [GrowingTopic]. -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][GrowingTopic]。</VSIE_Teaching_Plants.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [GrowingTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][GrowingTopic]。</VSIE_Teaching_Plants.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [GrowingTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[GrowingTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Plants.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Plants.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Plants.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Plants.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Plants.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Plants.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Plants.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Plants.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Plants.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Plants.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Plants.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Plants.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Plants.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Plants.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ShootingTopic]. -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][ShootingTopic]。</VSIE_Teaching_Shooting.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [ShootingTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][ShootingTopic]。</VSIE_Teaching_Shooting.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ShootingTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[ShootingTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Shooting.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Shooting.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Shooting.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Shooting.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Shooting.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Shooting.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Shooting.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Shooting.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Shooting.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Shooting.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Shooting.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Shooting.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Shooting.rulePack.rulesStrings.14>
+  
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SocialTopic]. -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SocialTopic]。</VSIE_Teaching_Social.rulePack.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [SocialTopic] with [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][SocialTopic]。</VSIE_Teaching_Social.rulePack.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SocialTopic] to [RECIPIENT_nameDef]. -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[SocialTopic]的经验与[RECIPIENT_nameDef][commentedabout]。</VSIE_Teaching_Social.rulePack.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.3>talkedabout(p=4)->交流</VSIE_Teaching_Social.rulePack.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.4>talkedabout->分享了经验关于</VSIE_Teaching_Social.rulePack.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.5>talkedabout->谈到</VSIE_Teaching_Social.rulePack.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.6>talkedabout->闲谈了</VSIE_Teaching_Social.rulePack.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.7>talkedabout->孜孜不倦地讨论</VSIE_Teaching_Social.rulePack.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Teaching_Social.rulePack.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Teaching_Social.rulePack.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.10>commentedabout->交流了很多</VSIE_Teaching_Social.rulePack.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.11>commentedabout->聊了很多</VSIE_Teaching_Social.rulePack.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.12>commentedabout->梳理了很多</VSIE_Teaching_Social.rulePack.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.13>commentedabout->说了很多</VSIE_Teaching_Social.rulePack.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Teaching_Social.rulePack.rulesStrings.14>commentedabout->幽默地讲了很多</VSIE_Teaching_Social.rulePack.rulesStrings.14>
+  
+</LanguageData>

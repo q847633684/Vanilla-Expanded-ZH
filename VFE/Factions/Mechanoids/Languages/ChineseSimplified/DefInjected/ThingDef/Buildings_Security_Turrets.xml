@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <VFE_AutoMortar.label>自动迫击炮</VFE_AutoMortar.label>
+  <!-- EN: Automatic mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <VFE_AutoMortar.description>自动迫击炮弹发射器。能越墙射击。准度堪忧，但射程远。</VFE_AutoMortar.description>
+  <!-- EN: auto-mortar -->
+  <VFE_AutoMortar.verbs.Verb_Shoot.label>自动迫击炮</VFE_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: lightning bolt -->
+  <VFE_Bullet_TeslaProjectile.label>闪电束</VFE_Bullet_TeslaProjectile.label>
+  
+  <!-- EN: auto charge blaster -->
+  <VFE_Gun_AutoChargeBlaster.label>自动电荷冲击炮</VFE_Gun_AutoChargeBlaster.label>
+  <!-- EN: A salvaged mechanoid charge blaster made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeBlaster.description>回收的机械体电荷冲击炮，可以安装在炮塔上。</VFE_Gun_AutoChargeBlaster.description>
+  <!-- EN: auto charge blaster -->
+  <VFE_Gun_AutoChargeBlaster.verbs.Verb_Shoot.label>自动电荷冲击炮</VFE_Gun_AutoChargeBlaster.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge lance -->
+  <VFE_Gun_AutoChargeLance.label>自动电荷标枪</VFE_Gun_AutoChargeLance.label>
+  <!-- EN: A salvaged mechanoid charge lance made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeLance.description>回收的机械体电荷标枪，可以安装在炮塔上。</VFE_Gun_AutoChargeLance.description>
+  <!-- EN: auto charge lance -->
+  <VFE_Gun_AutoChargeLance.verbs.Verb_Shoot.label>自动电荷标枪</VFE_Gun_AutoChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto inferno cannon -->
+  <VFE_Gun_AutoInfernoCannon.label>自动地狱火加农炮</VFE_Gun_AutoInfernoCannon.label>
+  <!-- EN: A salvaged mechanoid inferno cannon made to be mounted on a turret. -->
+  <VFE_Gun_AutoInfernoCannon.description>回收的机械体地狱火加农炮，可以安装在炮塔上。</VFE_Gun_AutoInfernoCannon.description>
+  <!-- EN: auto inferno cannon -->
+  <VFE_Gun_AutoInfernoCannon.verbs.Verb_Shoot.label>自动地狱火加农炮</VFE_Gun_AutoInfernoCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto tesla blaster -->
+  <VFE_Gun_AutoTesla.label>磁暴线圈</VFE_Gun_AutoTesla.label>
+  <!-- EN: Practically part mechanoid in and of itself, the Auto-tesla is a utility turret designed to slow down a Mechanoid without it being able to adapt to the effects. Four capacitors are charged to release a bolt of electricity that is carefully modulated by the internal targeting system before release. Upon impact, the power surge affects the unit’s power module and siphons off any reserves before seeking to jump to a nearby machine, gradually weakening. This can occur twice before the initially modulated current becomes too similar to the hosts, upon which the safety overrides ground the excess power. -->
+  <VFE_Gun_AutoTesla.description>该防御塔本身带有部分机械体的特征。自动线圈塔旨在不让机械体适应攻击的情况下拖慢它们的速度。内部的火控单元会用四个电容器释放出精心调制的一束电流。在击中时会在目标的电源模块中造成电涌现象，吸走储备中的所有能量，随后会跳向下一个目标。两次条约后该电流就会被机械体所完全解析，因此会被直接接地。</VFE_Gun_AutoTesla.description>
+  <!-- EN: auto tesla blaster -->
+  <VFE_Gun_AutoTesla.verbs.Verb_Shoot.label>磁暴线圈</VFE_Gun_AutoTesla.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge blaster turret -->
+  <VFE_Turret_AutoChargeBlaster.label>电荷冲击炮塔</VFE_Turret_AutoChargeBlaster.label>
+  <!-- EN: A burst-fire charge turret capable of concentrating fire on nearby enemy targets at medium ranges. Unarmored targets are unlikely to survive more than a few bursts. -->
+  <VFE_Turret_AutoChargeBlaster.description>能够在中距离集中火力攻击附近敌方目标的突击炮塔。没有护甲的目标可经受不住它的几次连发射击。</VFE_Turret_AutoChargeBlaster.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>电池电量</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>射击至电池用尽</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>电池用尽</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: charge lance turret -->
+  <VFE_Turret_AutoChargeLance.label>电荷标枪炮塔</VFE_Turret_AutoChargeLance.label>
+  <!-- EN: A highly accurate, albeit slightly weaker version of the charge lance mounted on a simple-minded turret. Targets in power armor still must be cautious, as a single lucky shot is still more than capable of piercing through plasteel carapace. -->
+  <VFE_Turret_AutoChargeLance.description>高精度，威力稍弱的电荷标枪，安装在一个思维简单的炮塔上。即使是穿着动力装甲的人也必须谨慎对抗电荷标枪炮塔，因为一发幸运的子弹仍然有能力击穿玻璃钢护甲。</VFE_Turret_AutoChargeLance.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>电池电量</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>射击至电池用尽</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>电池用尽</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: inferno cannon turret -->
+  <VFE_Turret_AutoInfernoCannon.label>地狱火加农炮塔</VFE_Turret_AutoInfernoCannon.label>
+  <!-- EN: A short range cannon capable of spewing streams of fire. These turrets are usually deployed in short-ranged urban warfare. -->
+  <VFE_Turret_AutoInfernoCannon.description>一种能够喷出火流的短程炮。这些炮塔通常部署在短程城市战中。</VFE_Turret_AutoInfernoCannon.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>电池电量</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>射击至电池用尽</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>电池用尽</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto-mortar -->
+  <VFE_Turret_AutoMortar.label>自动迫击炮</VFE_Turret_AutoMortar.label>
+  <!-- EN: An automatic mortar and range finder capable of processing simple coordinates and weather conditions to deliver a constant bombardment of pre-loaded mortar rounds. -->
+  <VFE_Turret_AutoMortar.description>自带测距仪的自动迫击炮，能分析处理简单的坐标和天气情况，以提供预装迫击炮弹的持续轰炸。</VFE_Turret_AutoMortar.description>
+  <!-- EN: Shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelGizmoLabel>炮弹</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>剩馀的炮弹</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>炮弹用尽</VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: auto tesla turret -->
+  <VFE_Turret_AutoTesla.label>自动线圈塔</VFE_Turret_AutoTesla.label>
+  <!-- EN: A mechanized version of the heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but it cannot fire at close-up targets. Due to the abundance of electrical components, the turret may blast an EMP shock when damaged enough. -->
+  <VFE_Turret_AutoTesla.description>机械化版的重型炮塔。它的大口径炮弹拥有卓越的射程和威力，但无法瞄准近处的目标。内部丰富的电子组件会在受到一定伤害时释放一股电磁脉冲。</VFE_Turret_AutoTesla.description>
+  
+</LanguageData>

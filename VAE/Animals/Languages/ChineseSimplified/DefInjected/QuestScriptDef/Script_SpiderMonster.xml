@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions]</li>
+  -->
+  <VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+    <li>questDescription->据[asker_nameFull]，[asker_faction_name]的[asker_faction_leaderTitle]所称，他们的牲畜似乎正在以惊人的速度消失。通常只剩下一堆黏稠的蛛丝，这意味着失踪事件的背后有一个贪婪的毒噬巨蛛巢穴。\n\n如果我们成功破解了这个谜团，[allRewardsDescriptions]</li>
+  </VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[asker_nameDef]'s [monster] [contract]</li>
+    <li>monster->spider</li>
+    <li>monster->ancient giant spider</li>
+    <li>monster->arachnid</li>
+    <li>monster->gargantuan spider</li>
+    <li>contract->contract</li>
+    <li>contract->mission</li>
+    <li>contract->arrangement</li>
+    <li>contract->undertaking</li>
+    <li>contract->holy task</li>
+  -->
+  <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
+    <li>questName->[asker_nameDef]的[monster][contract]</li>
+    <li>monster->蜘蛛</li>
+    <li>monster-远古巨蛛</li>
+    <li>monster->蛛形动物</li>
+    <li>monster->巨大的蜘蛛</li>
+    <li>contract->契约</li>
+    <li>contract->任务</li>
+    <li>contract->合约</li>
+    <li>contract->业务</li>
+    <li>contract->圣战</li>
+  </VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired. -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>这群蜘蛛已经离开了这个区域，在它们找到下一个受害者之前你不会收到它们的消息。任务[resolvedQuestName]已经失效。</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>奖励已送达</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the spiders!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>你已经击败了蜘蛛群！\n\n来自[asker_faction_name]的奖励已经送达。</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
+  <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>殖民者们成功的完成了[resolvedQuestName]这项任务。 [asker_definite]想要知道谁应该接受这[royalFavorReward_amount] x [asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+  
+</LanguageData>

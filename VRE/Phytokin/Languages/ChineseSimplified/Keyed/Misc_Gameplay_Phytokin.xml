@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Progressive attunement gene -->
+  <VRE_ProgressiveAttunementOffset>心灵趋协基因</VRE_ProgressiveAttunementOffset>
+	<!-- EN: Sapling child -->
+  <VRE_SaplingBirthReady>育苗准备</VRE_SaplingBirthReady>
+	<!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_SaplingBirthReadyDesc>当拥有育苗基因的殖民者怀孕时，她们需要指定一个地方来种植后代。如果在妊娠中期开始前（怀孕6天内）种植，妊娠将会被终止。</VRE_SaplingBirthReadyDesc>
+	<!-- EN: Plant saplingchild -->
+  <VRE_PlantSaplingchild>种植婴苗</VRE_PlantSaplingchild>
+	<!-- EN: Plant a saplingchild. If this isn't done before the second semester begins (6 days since pregnancy) it will count as a miscarriage. The saplingchild will need to be protected. -->
+  <VRE_PlantSaplingchildDesc>种植一颗婴苗。如果在妊娠中期开始前（怀孕6天内）种植，将会视为流产。婴苗需要受到保护。</VRE_PlantSaplingchildDesc>
+	<!-- EN: Saplingchild needs to be planted on soil -->
+  <VRE_SaplingNeedsSoil>婴苗需要种植在土壤上</VRE_SaplingNeedsSoil>
+	<!-- EN: Saplingchild needs to be planted -->
+  <VRE_SaplingchildNeedsToBePlanted>婴苗需要种植</VRE_SaplingchildNeedsToBePlanted>
+	<!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to plant their saplingchild:\n\n{0} -->
+  <VRE_SaplingchildNeedsToBePlantedDesc>当拥有育苗基因的殖民者怀孕时，她们需要指定一个地方来种植后代。如果在妊娠中期开始前（怀孕6天内）种植，妊娠将会被终止。以下殖民者需要种植她们的婴苗：\n\n{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+	<!-- EN: Mother xenotype: {0} -->
+  <VRE_MotherXenotype>异种人母亲：{0}</VRE_MotherXenotype>
+	<!-- EN:  has been destroyed by temperature -->
+  <VRE_DestroyedByTemp>已被温度破坏</VRE_DestroyedByTemp>
+	<!-- EN: {0} has hatched from a sapling! -->
+  <VRE_SaplingHatched>{0}已从婴苗中生长出来！</VRE_SaplingHatched>
+	<!-- EN: {0} hatched! -->
+  <VRE_SaplingHatchedLabel>{0}已生长！</VRE_SaplingHatchedLabel>
+	<!-- EN: Time until birth: {0} -->
+  <VRE_TimeToHatch>剩余出生时间：{0}</VRE_TimeToHatch>
+	<!-- EN: Unlocked via Anima Affinity gene -->
+  <VRE_UnlockedByGeneAnima>通过仙树亲和基因解锁</VRE_UnlockedByGeneAnima>
+	<!-- EN: Unlocked via Gauranlen Affinity gene -->
+  <VRE_UnlockedByGeneGau>通过母树亲和基因解锁</VRE_UnlockedByGeneGau>
+	<!-- EN: This ability needs to be used on an anima tree -->
+  <VRE_CanOnlyBeUsedOnAnimaTree>能力需要在仙树上使用</VRE_CanOnlyBeUsedOnAnimaTree>
+	<!-- EN: This ability needs to be used on terrain with fertility of at least 0.05 -->
+  <VRE_CanOnlyBePlantedOnFertile>能力需要在肥沃度至少为0.05的地形上使用</VRE_CanOnlyBePlantedOnFertile>
+	<!-- EN: A maximum of two dryads per colonist with Gauranlen affinity can be alive at the same time -->
+  <VRE_TwoPreviousDryadsMustBeDead>具有母树亲和基因的殖民者最多可同时召唤2个树精</VRE_TwoPreviousDryadsMustBeDead>
+	<!-- EN: Anima Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCount>仙树亲和基因</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+	<!-- EN: Gauranlen Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>母树亲和基因</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+
+</LanguageData>

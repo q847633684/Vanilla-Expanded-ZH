@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: makeshift LMG bullet -->
+  <VWE_Bullet_MakeshiftLMG.label>土制轻机枪子弹</VWE_Bullet_MakeshiftLMG.label>
+  
+  <!-- EN: makeshift pistol bullet -->
+  <VWE_Bullet_MakeshiftPistol.label>土制手枪子弹</VWE_Bullet_MakeshiftPistol.label>
+  
+  <!-- EN: makeshift rifle bullet -->
+  <VWE_Bullet_MakeshiftRifle.label>土制步枪子弹</VWE_Bullet_MakeshiftRifle.label>
+  
+  <!-- EN: makeshift shotgun pellet -->
+  <VWE_Bullet_MakeshiftShotgun.label>土制霰弹枪子弹</VWE_Bullet_MakeshiftShotgun.label>
+  
+  <!-- EN: makeshift SMG bullet -->
+  <VWE_Bullet_MakeshiftSMG.label>土制冲锋枪子弹</VWE_Bullet_MakeshiftSMG.label>
+  
+  <!-- EN: makeshift LMG -->
+  <VWE_Gun_MakeshiftLMG.label>土制轻机枪</VWE_Gun_MakeshiftLMG.label>
+  <!-- EN: An improvised, gas-operated light machine gun. Unwieldy and inaccurate, it is also very prone to jamming. Its long bursts of fire are effective against groups of enemies, but their shot counts are completely random. -->
+  <VWE_Gun_MakeshiftLMG.description>一把手工制作的导气式轻机枪。笨重，没准头，容易卡壳。它的长点射可以用于压制大量敌人，但每一次的子弹数量都是随机的。</VWE_Gun_MakeshiftLMG.description>
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftLMG.tools.stock.label>枪托</VWE_Gun_MakeshiftLMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftLMG.tools.barrel.label>枪管</VWE_Gun_MakeshiftLMG.tools.barrel.label>
+  <!-- EN: makeshift LMG -->
+  <VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>土制轻机枪</VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>
+  
+  <!-- EN: makeshift pistol -->
+  <VWE_Gun_MakeshiftPistol.label>土制手枪</VWE_Gun_MakeshiftPistol.label>
+  <!-- EN: An improvised, rough, ancient-design pattern blowback-operated self-loading pistol. It lacks stopping power and range and is prone to jamming. -->
+  <VWE_Gun_MakeshiftPistol.description>一把自由枪机半自动手枪，结构非常古旧，质量非常粗糙。威力和射程都不高而且容易卡壳。</VWE_Gun_MakeshiftPistol.description>
+  <!-- EN: grip -->
+  <VWE_Gun_MakeshiftPistol.tools.grip.label>握把</VWE_Gun_MakeshiftPistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftPistol.tools.barrel.label>枪管</VWE_Gun_MakeshiftPistol.tools.barrel.label>
+  <!-- EN: makeshift pistol -->
+  <VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>土制手枪</VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>
+  
+  <!-- EN: makeshift rifle -->
+  <VWE_Gun_MakeshiftRifle.label>土制步枪</VWE_Gun_MakeshiftRifle.label>
+  <!-- EN: A general-purpose gas-operated improvised assault rifle, utilising various salvaged components mounted on a militia rifle receiver. It has good range, decent power, and good accuracy, but is prone to jamming. -->
+  <VWE_Gun_MakeshiftRifle.description>一把导气式突击步枪，集成了大量手工零件和一把民兵步枪的机匣。射程，威力和精度都还可以，不过还是会卡壳。</VWE_Gun_MakeshiftRifle.description>
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftRifle.tools.stock.label>枪托</VWE_Gun_MakeshiftRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftRifle.tools.barrel.label>枪管</VWE_Gun_MakeshiftRifle.tools.barrel.label>
+  <!-- EN: makeshift rifle -->
+  <VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>土制步枪</VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>
+  
+  <!-- EN: makeshift shotgun -->
+  <VWE_Gun_MakeshiftShotgun.label>土制霰弹枪</VWE_Gun_MakeshiftShotgun.label>
+  <!-- EN: An improvised design powerful shotgun that emits a large barrage of pellets. Deadly, but short range. Due to numerous faults in design, the amount of pellets fired varies shot by shot. -->
+  <VWE_Gun_MakeshiftShotgun.description>一把结构简单的大口径霰弹枪。威力惊人，但射程极短。因为手工拼凑的零件很不可靠，每一发打出来的弹丸数量都不固定。</VWE_Gun_MakeshiftShotgun.description>
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftShotgun.tools.stock.label>枪托</VWE_Gun_MakeshiftShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftShotgun.tools.barrel.label>枪管</VWE_Gun_MakeshiftShotgun.tools.barrel.label>
+  <!-- EN: makeshift shotgun -->
+  <VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>土制霰弹枪</VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>
+  
+  <!-- EN: makeshift SMG -->
+  <VWE_Gun_MakeshiftSMG.label>土制冲锋枪</VWE_Gun_MakeshiftSMG.label>
+  <!-- EN: A small, home-made micro-submachine gun. It's short range and very prone to jamming due to the rough design and faulty elements. Its rate of fire tends to make up for its weakness. -->
+  <VWE_Gun_MakeshiftSMG.description>一把小型自制冲锋枪。射程很短，而且由于工艺粗糙很容易卡壳。但是它的射速可以部分弥补短板。</VWE_Gun_MakeshiftSMG.description>
+  <!-- EN: grip -->
+  <VWE_Gun_MakeshiftSMG.tools.grip.label>握把</VWE_Gun_MakeshiftSMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftSMG.tools.barrel.label>枪管</VWE_Gun_MakeshiftSMG.tools.barrel.label>
+  <!-- EN: makeshift SMG -->
+  <VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>土制冲锋枪</VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>
+  
+</LanguageData>

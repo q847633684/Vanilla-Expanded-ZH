@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Shield -->
+	<!-- EN: Equip {0} as shield -->
+  <VanillaFactionsExpanded.EquipShield>将{0}当作盾牌装备</VanillaFactionsExpanded.EquipShield>
+	<!-- EN: (unusable with {0}) -->
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>（{0}将无法与盾牌一同使用）</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+	<!-- EN: ({0} will be unusable) -->
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>（{0}将无法与此武器一同使用）</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+	<!-- EN: Protects -->
+  <VanillaFactionsExpanded.Protects>防护部位</VanillaFactionsExpanded.Protects>
+	<!-- EN: What body parts the shield protects. -->
+  <VanillaFactionsExpanded.Protects_Desc>盾牌能对哪些身体部位起到防护作用。</VanillaFactionsExpanded.Protects_Desc>
+
+	<!-- Scenario parts -->
+	<!-- EN: Faction relation modifiers -->
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>派系关系修正</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+	<!-- EN: {0} to {1} -->
+  <VanillaFactionsExpanded.NumberRange>{0}至{1}</VanillaFactionsExpanded.NumberRange>
+	<!-- EN: All factions -->
+  <VanillaFactionsExpanded.AllFactions>所有派系</VanillaFactionsExpanded.AllFactions>
+	<!-- EN: All factions including hidden -->
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>所有派系（包括隐藏派系）</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+	<!-- EN: Always hostile -->
+  <VanillaFactionsExpanded.AlwaysHostile>永久敌对</VanillaFactionsExpanded.AlwaysHostile>
+	<!-- EN: Affect hidden -->
+  <VanillaFactionsExpanded.AffectHiddenFactions>隐藏影响</VanillaFactionsExpanded.AffectHiddenFactions>
+	<!-- EN: Starting -->
+  <VanillaFactionsExpanded.StartingGoodwill>开局好感度</VanillaFactionsExpanded.StartingGoodwill>
+	<!-- EN: Natural -->
+  <VanillaFactionsExpanded.NaturalGoodwill>顺其自然</VanillaFactionsExpanded.NaturalGoodwill>
+
+	<!-- Stat Draw Entries -->
+	<!-- EN: Usable with shields -->
+  <VanillaFactionsExpanded.UsableWithShield>可与盾牌一同装备</VanillaFactionsExpanded.UsableWithShield>
+	<!-- EN: Whether or not this weapon can be used if the character also has a shield equipped. -->
+  <VanillaFactionsExpanded.UsableWithShield_Desc>在角色装备盾牌时，该武器是否可以使用。</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+	<!-- New Faction Spawning -->
+	<!-- EN: New faction: {FactionName} -->
+  <VanillaFactionsExpanded.FactionTitle>新派系：{FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<!-- EN: This faction is added by {ModName} and not currently present in your game. -->
+  <VanillaFactionsExpanded.ModInfo>此派系由 {ModName} 添加，目前不存在于您的游戏中。</VanillaFactionsExpanded.ModInfo>
+	<!-- EN: an unknown mod -->
+  <VanillaFactionsExpanded.AnUnknownMod>一个未知Mod</VanillaFactionsExpanded.AnUnknownMod>
+	<!-- EN: This is a hidden faction and won't show up in your faction list. -->
+  <VanillaFactionsExpanded.HiddenFactionInfo>这是一个隐藏的派系，不会出现在你的派系列表中。</VanillaFactionsExpanded.HiddenFactionInfo>
+	<!-- EN: It is marked as required by {ModName}. -->
+  <VanillaFactionsExpanded.RequiredFactionInfo>其按{ModName}的设定标记。</VanillaFactionsExpanded.RequiredFactionInfo>
+	<!-- EN: This faction is marked as non-spawning and you should probably just ignore it. -->
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>这个派系被标记为不生成，你也许应该忽略它。</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<!-- EN: Please select how to proceed: -->
+  <VanillaFactionsExpanded.FactionSelectOption>请继续选择：</VanillaFactionsExpanded.FactionSelectOption>
+	<!-- EN: Add the faction -->
+  <VanillaFactionsExpanded.FactionButtonAdd>生成派系</VanillaFactionsExpanded.FactionButtonAdd>
+	<!-- EN: Add the faction with settlements -->
+  <VanillaFactionsExpanded.FactionButtonAddFull>生成具有定居点的派系</VanillaFactionsExpanded.FactionButtonAddFull>
+	<!-- EN: Do nothing -->
+  <VanillaFactionsExpanded.FactionButtonSkip>忽略</VanillaFactionsExpanded.FactionButtonSkip>
+	<!-- EN: Don't ask for this faction again -->
+  <VanillaFactionsExpanded.FactionButtonIgnore>不再生成这个派系</VanillaFactionsExpanded.FactionButtonIgnore>
+	<!-- EN: Failed to add the faction. -->
+  <VanillaFactionsExpanded.FactionMessageFailed>无法生成派系。</VanillaFactionsExpanded.FactionMessageFailed>
+	<!-- EN: Failed to create a faction with settlements. -->
+  <VanillaFactionsExpanded.FactionMessageFailedFull>无法生成具有定居点的派系。</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<!-- EN: Added {FactionName} with {Amount} settlements. -->
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>已生成有{Amount}个定居点的{FactionName}。</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<!-- EN: Added {FactionName}. -->
+  <VanillaFactionsExpanded.FactionMessageSuccess>已生成{FactionName}。</VanillaFactionsExpanded.FactionMessageSuccess>
+
+	<!-- EN: Settlements to spawn (recommended are {0}): {1} -->
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>生成的定居点数：{1}（建议值：{0}）</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<!-- EN: The minimum distance from player bases (recommended are {0}): {1} -->
+  <VanillaFactionsExpanded.FactionMinDistance>与玩家基地的最短距离：{1}（建议值：{0}）</VanillaFactionsExpanded.FactionMinDistance>
+	<!-- EN: Spawn -->
+  <VanillaFactionsExpanded.FactionButtonSpawn>生成</VanillaFactionsExpanded.FactionButtonSpawn>
+	<!-- EN: Cancel -->
+  <VanillaFactionsExpanded.FactionButtonCancel>撤销</VanillaFactionsExpanded.FactionButtonCancel>
+
+	<!-- EN: Reinforcements -->
+  <VSE.Reinforcements>增援</VSE.Reinforcements>
+	<!-- EN: Seeing that your forces suffered losses, {FACTION_name} has decided to reinforce their raiding force -->
+  <VSE.ReinforcementsDesc>看到你们的部队遭受损失，{FACTION_name}决定增援他们的袭击部队。</VSE.ReinforcementsDesc>
+	<!-- EN: cost: {0} goodwill -->
+  <VSE.CostGoodwill>花费: {0}友好度</VSE.CostGoodwill>
+
+	<!-- EN: Weapon warm-up -->
+  <VWEL_ToggleHotshotLabel>武器预热</VWEL_ToggleHotshotLabel>
+	<!-- EN: Shots fired when standing still warm-up the weapon allowing for increased firing speed. Overheating can lead to detonation. -->
+  <VWEL_ToggleHotshotDesc>站立不动时射击可以给武器预热，从而提高射击速度。 过热会导致爆炸。</VWEL_ToggleHotshotDesc>
+
+	<!-- EN: Deep drill cannot be used with {0}. -->
+  <VFE_DeepDrillNo>{0}无法使用深钻井。</VFE_DeepDrillNo>
+	
+    <!-- EN: Teleport to {0} -->
+  <VEF.TeleportTo>传送至{0}</VEF.TeleportTo>
+</LanguageData>

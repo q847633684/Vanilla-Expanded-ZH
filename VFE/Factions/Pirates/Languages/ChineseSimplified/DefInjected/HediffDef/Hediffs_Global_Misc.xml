@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hypothermic slowdown -->
+  <VFEP_HypothermicSlowdown.label>低温冻结</VFEP_HypothermicSlowdown.label>
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+  <VFEP_HypothermicSlowdown.description>长时间暴露于急冻粒子下导致的患者体内温度平衡失调状态。低温冻结会在患者进入温暖的地方后随着时间的推移自然恢复。但如果患者继续暴露在急冻粒子下，低温冻结会变得更严重，直到患者死亡。</VFEP_HypothermicSlowdown.description>
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>轻微</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>较轻</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <VFEP_HypothermicSlowdown.stages.moderate.label>中等</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <VFEP_HypothermicSlowdown.stages.serious.label>严重</VFEP_HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <VFEP_HypothermicSlowdown.stages.extreme.label>极重</VFEP_HypothermicSlowdown.stages.extreme.label>
+  
+  <!-- EN: kill itself -->
+  <VFEP_KillItself.label>自爆</VFEP_KillItself.label>
+  <!-- EN: . -->
+  <VFEP_KillItself.description>。</VFEP_KillItself.description>
+  <!-- EN: minor -->
+  <VFEP_KillItself.stages.minor.label>轻微</VFEP_KillItself.stages.minor.label>
+  
+  <!-- EN: drank rum based cocktail -->
+  <VFEP_RumAsIngredient.label>喝了带朗姆酒的鸡尾酒</VFEP_RumAsIngredient.label>
+  <!-- EN: This colonist drank a cocktail that had rum as one of its ingredients. Reduces hunger rate by 15%. -->
+  <VFEP_RumAsIngredient.description>喝了一杯原料含有朗姆酒的鸡尾酒。减少15%的饥饿度。</VFEP_RumAsIngredient.description>
+  
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Upon completing all medieval research projects, advance to industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToIndustrial_Outcome.description>作为进阶奖励，你可以获得一项独特的“文明基石”，它能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET_AdvanceToIndustrial_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToIndustrial_Outcome.comps.0.label>参与者数量</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
+  
+  <!-- EN: Upon completing all neolithic research projects, advance to medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToMedieval_Outcome.description>作为进阶奖励，你可以获得一项独特的“文明基石”，它能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET_AdvanceToMedieval_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToMedieval_Outcome.comps.0.label>参与者数量</VFET_AdvanceToMedieval_Outcome.comps.0.label>
+  
+  <!-- EN: Upon completing all pre-neolithic research projects, advance to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToNeolithic_Outcome.description>作为进阶奖励，你可以获得一项独特的“文明基石”，它能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET_AdvanceToNeolithic_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToNeolithic_Outcome.comps.0.label>参与者数量</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
+  
+  <!-- EN: Upon completing all industrial research projects, advance to spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToSpacer_Outcome.description>作为进阶奖励，你可以获得一项独特的“文明基石”，它能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET_AdvanceToSpacer_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToSpacer_Outcome.comps.0.label>参与者数量</VFET_AdvanceToSpacer_Outcome.comps.0.label>
+  
+  <!-- EN: Upon completing all spacer research projects, advance to ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToUltra_Outcome.description>作为进阶奖励，你可以获得一项独特的“文明基石”，它能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET_AdvanceToUltra_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToUltra_Outcome.comps.0.label>参与者数量</VFET_AdvanceToUltra_Outcome.comps.0.label>
+  
+  <!-- EN: Depending on ritual quality, participants will receive between 2 and 12 research points per participant, divided between the available research projects at the moment. Animal technology level projects will be prioritized, and no points will be allocated to neolithic projects until all animal ones are finished.\n\nAdditionally, positive results have a chance for a wild man or farm animals to be attracted to the colony. -->
+  <VFET_TribalGathering_Outcome.description>每名参与者都将获得2到12个研究进度点数，这取决于仪式的效果。如果事先指定了某个研究项目，则所得的研究进度点数会优先分配给它。在「茹毛饮血」技术级别的研究项目全部完成前，所得的研究进度点数将不会分配给「石器时代」技术级别的研究项目。当派系的技术级别进阶至「中世纪」后，部落集会仪式将无法再举行。\n\n除此之外，只要仪式的结果为积极的，就有几率吸引野人或家养动物加入殖民地。</VFET_TribalGathering_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_TribalGathering_Outcome.comps.0.label>参与者数量</VFET_TribalGathering_Outcome.comps.0.label>
+  <!-- EN: Total intellectual skill -->
+  <VFET_TribalGathering_Outcome.comps.1.label>智识技能等级总和</VFET_TribalGathering_Outcome.comps.1.label>
+  <!-- EN: started at campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.label>由篝火开始仪式</VFET_TribalGathering_Outcome.comps.2.label>
+  <!-- EN: a campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>一堆篝火</VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>
+  <!-- EN: Ineffective -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.label>收效甚微的</VFET_TribalGathering_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was ineffective! We tried to discuss some new developments in the tribe, but it devolved into petty bickering about food and shelter...\n\n2 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.description>{0}没起到什么作用！参与者们本想为部落探寻新的发展之道，但最后却演变成了围绕衣食住行的琐碎争吵...\n\n每名参与者都获得了2个研究进度点数，它们会被随机分配给当前可用的研究项目。</VFET_TribalGathering_Outcome.outcomeChances.0.description>
+  <!-- EN: Uninspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.label>平淡无奇的</VFET_TribalGathering_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was uninspiring. There were some new ideas floating around, but not much of substance. At least it was kinda entertaining.\n\n4 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.description>{0}平淡无奇。虽然参与者们交换了几个新点子，但无法解决更实质性的问题。不过...至少还是起到了一定作用的。\n\n每名参与者都获得了4个研究进度点数，它们会被随机分配给当前可用的研究项目。</VFET_TribalGathering_Outcome.outcomeChances.1.description>
+  <!-- EN: Encouraging -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.label>令人满意的</VFET_TribalGathering_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was encouraging. Some of the ideas discussed were pretty great! We are probably unto something here.\n\n8 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.description>{0}令人满意。参与者们提出了不少相当有趣的点子！它们会派上用场的。\n\n每名参与者都获得了8个研究进度点数，它们会被随机分配给当前可用的研究项目。</VFET_TribalGathering_Outcome.outcomeChances.2.description>
+  <!-- EN: Inspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.label>思如泉涌的</VFET_TribalGathering_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was inspiring! The tribe is close to a breakthrough!\n\n12 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.description>{0}思如泉涌！参与者们的部落正在逐步迈向突破。\n\n每名参与者都获得了12个研究进度点数，它们会被随机分配给当前可用的研究项目。</VFET_TribalGathering_Outcome.outcomeChances.3.description>
+  
+</LanguageData>

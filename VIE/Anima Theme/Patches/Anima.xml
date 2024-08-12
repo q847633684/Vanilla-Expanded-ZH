@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Carrier"]/description</xpath>
+      <value>
+         <description>一个专门负责搬运物品的树精品种。在人为控制下，它可以帮忙将东西拖到需要的地方去。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Clawer"]/description</xpath>
+      <value>
+         <description>一个有着巨大爪子的树精品种，十分擅长与敌人战斗。虽然它可以造成巨大的伤害，但其本身则较为脆弱。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Barkskin"]/description</xpath>
+      <value>
+         <description>一个专门在战斗中承受伤害的树精品种。盾皮树精被厚实的树皮状皮甲覆盖，部分由灵枢仙树本身形成。在人为控制下，它可以充当吸收伤害的战斗单位。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Woodmaker"]/description</xpath>
+      <value>
+         <description>一个缓慢、笨手笨脚的树精品种，专门从事木材的生产。与它的灵枢仙树一起，这种树精可以持续生成一种类似木头的材料。然而，它在工作或战斗中的帮助是缓慢且无用的。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Medicinemaker"]/description</xpath>
+      <value>
+         <description>一个专门负责生产药材的树精品种。与它的灵枢仙树一起，这种树精可以持续产出药草。然而，它在工作或战斗中的帮助是缓慢且无用的。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Berrymaker"]/description</xpath>
+      <value>
+         <description>一个专门从事食材生产的树精品种。与它的灵枢仙树一起，树精可以不断地产出富含营养的莓果。然而，它在工作或战斗中的帮助是缓慢且无用的。</description>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/GauranlenTreeModeDef[defName="Gaumaker"]/description</xpath>
+      <value>
+         <description>一个拥有独特能力的树精品种，可以生产出仙灵荚囊，并繁育出灵枢仙树的共生体——树精女王。为了做到这一点，必须要有三个共生树精进行缓慢的融合。</description>
+      </value>
+   </Operation>
+
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThoughtDef[defName="GauranlenConnectionDesired"]/stages</xpath>
+      <value>
+         <stages>
+            <li>
+               <label>灵枢仙树共鸣</label>
+               <description>我很高兴能与一棵灵枢仙树相连。</description>
+               <baseMoodEffect>3</baseMoodEffect>
+            </li>
+            <li>
+               <label>渴望灵枢仙树共鸣</label>
+               <description>没有与灵枢仙树的连接，我感觉自己与自然脱节。</description>
+               <baseMoodEffect>0</baseMoodEffect>
+            </li>
+            <li>
+               <label>渴望灵枢仙树共鸣</label>
+               <description>没有与灵枢仙树的连接，我感觉自己与自然脱节。</description>
+               <baseMoodEffect>-1</baseMoodEffect>
+            </li>
+            <li>
+               <label>渴望灵枢仙树共鸣</label>
+               <description>没有与灵枢仙树的连接，我感觉自己与自然脱节。</description>
+               <baseMoodEffect>-2</baseMoodEffect>
+            </li>
+            <li>
+               <label>渴望灵枢仙树共鸣</label>
+               <description>没有与灵枢仙树的连接，我感觉自己与自然脱节。</description>
+               <baseMoodEffect>-4</baseMoodEffect>
+            </li>
+            <li>
+               <label>渴望灵枢仙树共鸣</label>
+               <description>没有与灵枢仙树的连接，我感觉自己与自然脱节。</description>
+               <baseMoodEffect>-6</baseMoodEffect>
+            </li>
+         </stages>
+      </value>
+   </Operation>
+   
+   <Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThoughtDef[defName="ConnectedTreeDied"]/stages</xpath>
+      <value>
+         <stages>
+            <li>
+               <label>灵枢仙树死亡</label>
+               <description>呃...我的灵枢仙树...它平静的存在变成了纯粹的痛苦，然后变得沉默。它的苦难在我的脑海中回响。</description>
+               <baseMoodEffect>-15</baseMoodEffect>
+            </li>
+         </stages>
+      </value>
+   </Operation>
+
+   
+</Patch>

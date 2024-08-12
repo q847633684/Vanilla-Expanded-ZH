@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.label>投石机</VFES_Artillery_Catapult.label>
+  <!-- EN: A catapult is a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+  <VFES_Artillery_Catapult.description>一种无须借助火药就能将石块投射至远处的弹射装置。作为一种战争利器，投石机的使用历史漫长而广泛。</VFES_Artillery_Catapult.description>
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>投石机</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <!-- EN: massive boulder -->
+  <VFES_Artillery_Rock.label>巨石</VFES_Artillery_Rock.label>
+  
+  <!-- EN: ballista bolt -->
+  <VFES_Bullet_Ballista.label>弩箭</VFES_Bullet_Ballista.label>
+  
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.label>弩箭</VFES_Gun_BallistaTurret.label>
+  <!-- EN: An ancient military siege engine in a form of a crossbow mounted on a wooden construct. -->
+  <VFES_Gun_BallistaTurret.description>弩炮所使用的弩箭。</VFES_Gun_BallistaTurret.description>
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>弩箭</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ballista -->
+  <VFES_Turret_Ballista.label>弩炮</VFES_Turret_Ballista.label>
+  <!-- EN: An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. -->
+  <VFES_Turret_Ballista.description>一种安装在木制结构上的十字弩形的古代军事围攻机械，从这台机器上射出的弩箭撞击目标后会爆炸成碎片。</VFES_Turret_Ballista.description>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>弩箭</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>剩余弩箭</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>需要弩箭</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: catapult -->
+  <VFES_Turret_Catapult.label>投石机</VFES_Turret_Catapult.label>
+  <!-- EN: A catapult is a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+  <VFES_Turret_Catapult.description>一种无须借助火药就能将石块投射至远处的弹射装置。作为一种战争利器，投石机的使用历史漫长而广泛。</VFES_Turret_Catapult.description>
+  
+</LanguageData>

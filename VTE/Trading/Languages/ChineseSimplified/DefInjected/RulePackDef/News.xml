@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a bad earnings report. Price is expected to move down.</li>
+  -->
+  <VTE_BadEarnings.rulePack.rulesStrings>
+    <li>root->边缘股市：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份较为糟糕的利润报表。他们的股价预计将会下跌。</li>
+  </VTE_BadEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a below average earnings report. Price is expected to drop slightly.</li>
+  -->
+  <VTE_BelowAverageEarnings.rulePack.rulesStrings>  
+    <li>root->边缘股市：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份低于均值的利润报表。他们的股价预计将会小幅下跌。</li>
+  </VTE_BelowAverageEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported budget cuts. Share price is bound to decrease in the long term.</li>
+  -->
+  <VTE_CompanyDecline.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份有关公司预算缩减的报告。以长远眼光来看，他们的股价必定会因此下跌。</li>
+  </VTE_CompanyDecline.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported steady growth. Share price is bound to increase in the long term.</li>
+  -->
+  <VTE_CompanyGrowth.rulePack.rulesStrings>  
+    <li>root->财经头条：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份有关利润稳步增长的报告。以长远眼光来看，他们的股价必定会因此上涨。</li>
+  </VTE_CompanyGrowth.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a decent earnings report. Price is expected to move slightly up.</li>
+  -->
+  <VTE_DecentEarnings.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份较为体面的利润报表。他们的股价预计将会小幅上涨。</li>
+  </VTE_DecentEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted an excellent earnings report. Price is expected to jump up.</li>
+  -->
+  <VTE_ExcellentEarnings.rulePack.rulesStrings>  
+    <li>root->财经头条：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份非常出色的利润报表。他们的股价预计将会大幅上涨。</li>
+  </VTE_ExcellentEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[FACTION_name] has finally dealt with their infestations and decided to sell their excess jelly.</li>
+    <li>root->[FACTION_name] looted the insectoid caves and will sell the jelly on the market.</li>
+    <li>root->[FACTION_name] got a hold of a large supply of insect jelly and plans to sell it.</li>
+  -->
+  <VTE_FactionInfestationLoot.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：[FACTION_name]成功消灭了定居点附近的虫害，他们决定卖出富余的虫胶。</li>
+    <li>root->财经头条：[FACTION_name]成功清剿了一处大型虫族洞穴，近几日他们将会在市场上大量售卖虫胶。</li>
+    <li>root->摸鱼财经：由于存储的虫胶过多，[FACTION_name]正计划着一次清仓大卖活动。</li>
+  </VTE_FactionInfestationLoot.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[FACTION_name] plans for a number of siege operations and began stockpiling ammo and weapons.</li>
+    <li>root->[FACTION_name] is preparing for war and will stockpile ammo and weapons.</li>
+    <li>root->[FACTION_name] buys excess amounts of weapons and mortar shells.</li>
+  -->
+  <VTE_FactionSiegePlan.rulePack.rulesStrings>  
+    <li>root->边缘导报：[FACTION_name]似乎正策划着几次围攻行动，他们已经大幅扩充了各个定居点的军备。</li>
+    <li>root->边缘导报：[FACTION_name]正在积极备战，他们将会批量收购各种武器与弹药。</li>
+    <li>root->泰南时报：有报告称，[FACTION_name]因未知缘由购买了超量的武器与迫击炮弹。</li>
+  </VTE_FactionSiegePlan.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] is rumored to announce bankruptcy. Share price can either crash or skyrocket.</li>
+  -->
+  <VTE_FearOfBankruptcy.rulePack.rulesStrings>  
+    <li>root->边缘股市：据传言，&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;即将宣布破产。他们的股价可能会崩盘，也可能会暴涨。</li>
+  </VTE_FearOfBankruptcy.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a good earnings report. Price is expected to move slightly up.</li>
+  -->
+  <VTE_GoodEarnings.rulePack.rulesStrings>  
+    <li>root->边缘股市：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份令人满意的利润报表。他们的股价预计将会小幅上涨。</li>
+  </VTE_GoodEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a great earnings report. Price is expected to move up.</li>
+  -->
+  <VTE_GreatEarnings.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份令人满意的利润报表。他们的股价预计将会上涨。</li>
+  </VTE_GreatEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a mediocre earnings report. Price is expected to move sideways.</li>
+  -->
+  <VTE_MediocreEarnings.rulePack.rulesStrings>  
+    <li>root->边缘股市：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份中规中矩的利润报表。他们的股价预计将会横盘一段时间。</li>
+  </VTE_MediocreEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has purchased a brand new low orbit trading ship. Share price should go up in the long term.</li>
+  -->
+  <VTE_NewShipPurchased.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;新购入了一艘近地轨道商船。以长远眼光来看，他们的股价可能会因此上涨。</li>
+  </VTE_NewShipPurchased.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted an outstanding earnings report. Price is expected to skyrocket.</li>
+  -->
+  <VTE_OutstandingEarnings.rulePack.rulesStrings>  
+    <li>root->财经头条：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份极其出彩的利润报表。他们的股价预计将会暴涨。</li>
+  </VTE_OutstandingEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] is struggling with a pack of alphabeavers, and purchases a large quantity of wood.</li>
+    <li>root->[SETTLEMENT_label] ran out of wood and will buy it in bulk.</li>
+    <li>root->[SETTLEMENT_label] requires copious amounts of wood for their project.</li>
+  -->
+  <VTE_SettlementAlphabeavers.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：由于阿尔法海狸的集体迁徙，[SETTLEMENT_label]附近的森林惨遭荼毒。他们正在大量购入木材以应对此问题。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]的大型木柴发电厂项目已竣工。他们正准备批量购入作为燃料的木材。</li>
+    <li>root->汉化组通讯社：由于化合燃料供不应求，[SETTLEMENT_label]的精炼厂正计划签下大量木材进口订单。</li>
+  </VTE_SettlementAlphabeavers.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has gotten rid of the beaver pack that troubled them, and now sell excess wood.</li>
+    <li>root->[SETTLEMENT_label] sells their excess wood.</li>
+    <li>root->[SETTLEMENT_label] cut down a large chunk of the forest with the intent to sell wood.</li>
+  -->
+  <VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]已成功处理掉前几日集体迁徙的阿尔法海狸。他们正准备抛售库存中富余的木材。</li>
+    <li>root->泰南时报：由于基因工程实验出现意外，[SETTLEMENT_label]周边的树木已泛滥成灾。他们正在寻找需要大量木材供应的买家。</li>
+    <li>root->鸽子新闻网：今日上午，[SETTLEMENT_label]伐木场的扩建工程已基本完成。据场长所说，他们将在未来加大木材的出口量。</li>
+  </VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of apparel.</li>
+  -->
+  <VTE_SettlementApparelPurchase.rulePack.rulesStrings>  
+    <li>root->边缘导报：因织物仓库在与机械族的战斗中被毁，[SETTLEMENT_label]正派出多支远行队四处购买用于过冬的衣物。</li>
+  </VTE_SettlementApparelPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of apparel.</li>
+  -->
+  <VTE_SettlementApparelSellOff.rulePack.rulesStrings>  
+    <li>root->边缘导报：[SETTLEMENT_label]今年迎来了棉花大丰收。当地的服装厂已额外开设了新的衣物生产线。</li>
+  </VTE_SettlementApparelSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of armor.</li>
+  -->
+  <VTE_SettlementArmorPurchase.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]决定扩组当地的防御部队。他们正在寻找卖家以商谈护甲订购事宜。</li>
+  </VTE_SettlementArmorPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of armor.</li>
+  -->
+  <VTE_SettlementArmorSellOff.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]在几天前的定居点防守战中缴获了大量的护甲装备。他们正打算把这些战利品卖掉。</li>
+  </VTE_SettlementArmorSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has had an amazing harvest and sells off their food supplies.</li>
+    <li>root->[SETTLEMENT_label] plans to sell large quantities of food.</li>
+    <li>root->[SETTLEMENT_label] has had a fortunate harvest and will sell the excess food.</li>
+  -->
+  <VTE_SettlementBigHarvest.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]今年迎来了粮食大丰收。他们正在寻找需要食物供应的买家。</li>
+    <li>root->鸽子新闻网：因库存爆仓，[SETTLEMENT_label]决定向附近的定居点大量兜售食物。</li>
+    <li>root->边缘导报：[SETTLEMENT_label]种植的第一代基因工程改良作物取得了不小的成功。当地的粮食局正打算售出富余的食物。</li>
+  </VTE_SettlementBigHarvest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has suffered a terrible blight and buys off large quantities of food.</li>
+    <li>root->[SETTLEMENT_label] has had their food stockpile burn down.</li>
+    <li>root->[SETTLEMENT_label] plans to purchase large quantity of food.</li>
+  -->
+  <VTE_SettlementBlight.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：前几日的机械集群突袭对[SETTLEMENT_label]造成了沉重的打击。他们正派出多支远行队四处收购食物。</li>
+    <li>root->汉化组通讯社：因几个熊孩子的调皮捣蛋，[SETTLEMENT_label]的粮仓被大火焚毁。目前暂未收到有人员伤亡的报告。</li>
+    <li>root->泰南时报：[SETTLEMENT_label]正在组织一年一度的粮食大采购计划。</li>
+  </VTE_SettlementBlight.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of body parts.</li>
+  -->
+  <VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]当地的实验室正以“医学研究”的名义大量收购器官部件与仿生体。</li>
+  </VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of body parts.</li>
+  -->
+  <VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]正在市场中大量上架器官部件与仿生体。这些东西的来源我们暂且还不得而知。</li>
+  </VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has been struck with coldsnap, ruining their food supply.</li>
+    <li>root->[SETTLEMENT_label] has lost their food supply.</li>
+    <li>root->[SETTLEMENT_label] buys food in bulk.</li>
+  -->
+  <VTE_SettlementColdSnap.rulePack.rulesStrings>  
+    <li>root->边缘导报：昨日，突如其来的猛烈寒流毁掉了[SETTLEMENT_label]的所有作物。当地居民正在为粮食供应而发愁。</li>
+    <li>root->边缘导报：近几天来，持续不断的寒流已对[SETTLEMENT_label]的农业造成了毁灭性的打击。当地农业局正在想办法解决粮食供应问题。</li>
+    <li>root->泰南时报：近期肆虐的寒流已对许多地区造成了影响。[SETTLEMENT_label]正准备批量购入食物以防患于未然。</li>
+  </VTE_SettlementColdSnap.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] buys off large amounts of weapons due to an emergency.</li>
+    <li>root->[SETTLEMENT_label] prepares to go to war and will purchase weapons.</li>
+    <li>root->[SETTLEMENT_label] requires a large amount of weapons quite urgently. Prices are expected to go up.</li>
+  -->
+  <VTE_SettlementCombatEmergency.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：由于近日敌对派系动作频繁，处于前线的[SETTLEMENT_label]正在紧急购入大量武器。</li>
+    <li>root->汉化组通讯社：因战事吃紧，[SETTLEMENT_label]正在向其所处派系的其他定居点请求武器支援。因通讯遭到敌方干扰，他们不得不临时派出远行队到附近的盟友定居点处购置武器。</li>
+    <li>root->鸽子新闻网：[SETTLEMENT_label]正在为组织反机械集群作战而四处采购军备。武器的价格预计将会上涨。</li>
+  </VTE_SettlementCombatEmergency.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of drugs.</li>
+  -->
+  <VTE_SettlementDrugsPurchase.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：一年一度的狂欢盛宴即将开始。为了能够圆满举办，[SETTLEMENT_label]正在市场中大量收购成瘾品。</li>
+  </VTE_SettlementDrugsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of drugs.</li>
+  -->
+  <VTE_SettlementDrugsSellOff.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]今年迎来了精神叶大丰收。当地生产的大量成瘾品正在冲击市场。</li>
+  </VTE_SettlementDrugsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] is struggling with a plague. Medicine purchasing frenzy began.</li>
+    <li>root->[SETTLEMENT_label] is recovering after a raid. Medicine will be purchased in bulk.</li>
+    <li>root->[SETTLEMENT_label] is in dire need of medicine, which means the price will go up.</li>
+  -->
+  <VTE_SettlementGotPlague.rulePack.rulesStrings>  
+    <li>root->泰南时报：一场突如其来的瘟疫席卷了[SETTLEMENT_label]。当地医院正在大量购入医疗药品以缓解库存压力。</li>
+    <li>root->泰南时报：两天前的袭击使[SETTLEMENT_label]元气大伤。处于恢复阶段的他们正急需大量医疗药品。</li>
+    <li>root->边缘导报：由于与机械族间的战斗陷入胶着状态，[SETTLEMENT_label]正在市场中大量收购医疗药品以支援前线。医疗药品的价格将会因此上涨。</li>
+  </VTE_SettlementGotPlague.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] was recently raided. Rebuilding is underway.</li>
+    <li>root->[SETTLEMENT_label] suffered a natural disaster and will purchase building materials.</li>
+    <li>root->[SETTLEMENT_label] plans to expand, but will require building materials to do so.</li>
+  -->
+  <VTE_SettlementGotRaided.rulePack.rulesStrings>  
+    <li>root->边缘导报：[SETTLEMENT_label]半数的居住区毁于不久前的袭击中。重建工作已提上日程。</li>
+    <li>root->边缘导报：几天前，[SETTLEMENT_label]所在的地区发生了一场级别未知的地震。目前重建工作正在稳步进行中，他们也为此购入了大量的建筑材料。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]于昨日公布了新的定居点扩张计划。他们正在努力与其它派系的建筑材料批发商进行沟通。</li>
+  </VTE_SettlementGotRaided.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has suffered a terrible heat wave and decided to sell off their food before it rots.</li>
+    <li>root->[SETTLEMENT_label] has had a freezer malfunction and sells food before it rots.</li>
+    <li>root->[SETTLEMENT_label] sells their food stockpile.</li>
+  -->
+  <VTE_SettlementHeatWave.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：可怖的热浪正席卷[SETTLEMENT_label]所处的地区。他们正想办法兜售有腐烂风险的食物。</li>
+    <li>root->汉化组通讯社：由于镇内的冷库发生故障，[SETTLEMENT_label]正在市场上大量售卖不易储存的食物。</li>
+    <li>root->汉化组通讯社：据悉，机械族已在[SETTLEMENT_label]附近部署了带有电磁干扰器的机械集群。由于不具备击败机械集群的兵力，他们已向所处派系的其他定居点求援。当地居民已开始自发组建售卖易腐烂食物的远行队。</li>
+  </VTE_SettlementHeatWave.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of leathers.</li>
+    <li>root->[SETTLEMENT_label] buys leathers in bulk.</li>
+    <li>root->[SETTLEMENT_label] acquires copious amounts of various leathers.</li>
+  -->
+  <VTE_SettlementLeatherPurchase.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：因棉花收成不佳，[SETTLEMENT_label]正准备大量购入皮革以进行弥补。</li>
+    <li>root->鸽子新闻网：[SETTLEMENT_label]新建的沙发厂于昨日开工，他们已和多家皮革商签订了供货协议。</li>
+    <li>root->泰南时报：[SETTLEMENT_label]新建的服装厂于今日开工，他们已和多家皮革商签订了供货协议。</li>
+  </VTE_SettlementLeatherPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of leathers.</li>
+  -->
+  <VTE_SettlementLeatherSellOff.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]已于近日建立了多个狩猎工作站。他们正在和附近的盟友定居点商讨皮革出口协议。</li>
+  </VTE_SettlementLeatherSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells off large quantities of meat they obtained from a manhunter pack.</li>
+    <li>root->[SETTLEMENT_label] had a very bountiful hunting trip and will sell excess meat.</li>
+    <li>root->[SETTLEMENT_label] no longer requires their meat and will soon flood the market with it.</li>
+  -->
+  <VTE_SettlementManhunterMeat.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]先前派出的狩猎小队已于今日满载而归。他们正准备在市场上大量兜售各种鲜肉。</li>
+    <li>root->泰南时报：[SETTLEMENT_label]已于近日扩建了新的牧场。他们将在未来加大肉类的出口量。</li>
+    <li>root->鸽子新闻网：[SETTLEMENT_label]已在集市中上架大量来源不明的肉类。有传言说，当地的实验室正在进行秘密的基因工程实验。</li>
+  </VTE_SettlementManhunterMeat.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has dealt with Defoliator ships and now sell excess plasteel.</li>
+    <li>root->[SETTLEMENT_label] has mined a large amount of plasteel and plans to sell it.</li>
+    <li>root->[SETTLEMENT_label] sells unused plasteel.</li>
+  -->
+  <VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：昨日，[SETTLEMENT_label]已成功清除了多艘坠落在附近的机械族枯萎飞船。由于拆解出的玻璃钢还有富余，他们正打算向其他定居点出售一些。</li>
+    <li>root->鸽子新闻网：据悉，[SETTLEMENT_label]当地的矿业公司意外开采到了大片的压埋玻璃钢。据专家推测，那里很可能曾是大规模的远古遗迹群。矿业公司的老板正计划将这些玻璃钢出售给其他派系的工厂。</li>
+    <li>root->边缘导报：[SETTLEMENT_label]已于昨日出售了大量未使用的玻璃钢。搜刮机械族的飞船残骸使他们赚的盆丰钵满。</li>
+  </VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] dealt with their plague and now sells excess medicine.</li>
+    <li>root->[SETTLEMENT_label] sells off excess medicine.</li>
+    <li>root->[SETTLEMENT_label] no longer has any need for their medicine stockpiles.</li>
+  -->
+  <VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>  
+    <li>root->边缘导报：[SETTLEMENT_label]已成功挺过了这次爆发的瘟疫。由于先前购入的医疗药品过多，为了腾出库存，他们正打算倒卖掉一些。</li>
+    <li>root->边缘导报：由于产能过剩，[SETTLEMENT_label]的制药厂正打算大量抛售盈余的医疗药品。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]已成功挺过了这次爆发的流感。由于先前购入的医疗药品过多，为了腾出库存，他们正打算倒卖掉一些。</li>
+  </VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has decided to upgrade their defenses with a new set of powered armors. They buy Plasteel in bulk.</li>
+    <li>root->[SETTLEMENT_label] requires plasteel and plans to buy a lot of it in bulk.</li>
+    <li>root->[SETTLEMENT_label] improves their defenses and plans to obtain plasteel, steel and components.</li>
+  -->
+  <VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：[SETTLEMENT_label]正打算制造一些新的动力甲以强化当地的守卫部队。他们已派出多支远行队四处购买玻璃钢。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]已于近日宣布增建新工厂的计划。他们正打算大量购入玻璃钢。</li>
+    <li>root->泰南时报：[SETTLEMENT_label]已决定全面升级当地的防御工事。他们正在寻找批量出售玻璃钢、钢铁和零部件的卖家。</li>
+  </VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] had a prison break. They promise to step up the security.</li>
+    <li>root->[SETTLEMENT_label] is stockpiling weapons.</li>
+    <li>root->[SETTLEMENT_label] plans to equip everyone with new weapons.</li>
+  -->
+  <VTE_SettlementPrisonBreak.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]爆发了一次大规模越狱事故。他们的典狱长称将会进一步加强防卫与安保系统。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]正在大规模扩充军备。当地官员未就此事发表相关声明。</li>
+    <li>root->鸽子新闻网：为了应对其它派系定居点的威胁，[SETTLEMENT_label]正计划为镇内的所有人装备新武器。</li>
+  </VTE_SettlementPrisonBreak.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] had a prison break which failed dramatically. They decided to sell excess weaponry and armor.</li>
+    <li>root->[SETTLEMENT_label] decided not to go to war. They will sell their weapons and armors.</li>
+    <li>root->[SETTLEMENT_label] will sell their old weapons and armors.</li>
+  -->
+  <VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]于上周镇压了一次大规模越狱。此次事件过后，他们已将监狱的防卫系统完全升级，并大量采用了无人安保设备。他们的典狱长称，此次革新余出的武器护甲将会卖给附近的盟友定居点。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]所处的派系已和敌对派系签订了长期休战协定。他们正打算出售用不上的武器和护甲。</li>
+    <li>root->泰南时报：近日，[SETTLEMENT_label]已完成了新的军备迭代。他们正打算把旧的武器与护甲低价卖给其他派系。</li>
+  </VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] was recently raided. Looters sell off whatever they stole.</li>
+    <li>root->[SETTLEMENT_label] scavenged a lot of useful junk and will soon flood the market with it.</li>
+    <li>root->[SETTLEMENT_label] plans to empty the stockpiles.</li>
+  -->
+  <VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]因前几日的大规模袭击而变得破败不堪。掠夺者们已把抢来的东西尽数卖出，[SETTLEMENT_label]所处派系的领袖表示将会让他们血债血偿。</li>
+    <li>root->泰南时报：今日上午，[SETTLEMENT_label]派出的拾荒远行队已顺利归来。他们从各地的远古残骸中收集了许多仍具利用价值的废旧物品，并正在寻找潜在的买家。</li>
+    <li>root->汉化组通讯社：在例行清点库存后，[SETTLEMENT_label]决定统一低价抛售仓库中的老旧物品。他们已在市场上挂出了“童叟无欺，物所超值”的广告标语。</li>
+  </VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of stone blocks.</li>
+  -->
+  <VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：[SETTLEMENT_label]决定大力推进雕塑产业的发展。他们已于昨日和附近盟友派系的定居点签下了大宗的石砖订单。</li>
+  </VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of stone blocks.</li>
+  -->
+  <VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：目前，[SETTLEMENT_label]的采石业仍处于蓬勃发展阶段。据相关人士表示，他们已经定下了加大石砖出口量的计划。</li>
+  </VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of techprints.</li>
+  -->
+  <VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：[SETTLEMENT_label]当地的实验室宣布研究陷入瓶颈。他们准备通过大量购入科技蓝图来寻找突破口。</li>
+  </VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of techprints.</li>
+  -->
+  <VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>  
+    <li>root->鸽子新闻网：本周，[SETTLEMENT_label]从多处远古遗迹中发掘出大量的科技蓝图。目前已有数家科研公司正在和他们商讨收购事宜。</li>
+  </VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of textiles.</li>
+    <li>root->[SETTLEMENT_label] plans to supply their tailors with copious amounts of textiles.</li>
+    <li>root->[SETTLEMENT_label] buys textiles in bulk.</li>
+  -->
+  <VTE_SettlementTextilePurchase.rulePack.rulesStrings>  
+    <li>root->边缘导报：[SETTLEMENT_label]决定大力推进地毯产业的发展。他们已于昨日和附近盟友派系的定居点签下了大宗的织物订单。</li>
+    <li>root->鸽子新闻网：[SETTLEMENT_label]产出的衣物素来以结实耐用而闻名。当地正在考虑增建厂房并提高织物的进口量。</li>
+    <li>root->鸽子新闻网：[SETTLEMENT_label]新建的服装厂于今日开工，他们已和多家织物商签订了供货协议。</li>
+  </VTE_SettlementTextilePurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of textiles.</li>
+  -->
+  <VTE_SettlementTextileSellOff.rulePack.rulesStrings>  
+    <li>root->泰南时报：因基因工程研究大获成功，[SETTLEMENT_label]的棉花田现已产量翻倍。他们正打算批量出售富余的织物。</li>
+  </VTE_SettlementTextileSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of melee weapons.</li>
+  -->
+  <VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]正在组建多支特殊的近战部队。据相关人士称，他们准备将新的机械族反制策略付诸实战。</li>
+  </VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of melee weapons.</li>
+  -->
+  <VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：[SETTLEMENT_label]已于昨日建成了两座新的锻造工坊。他们正打算扩大对其他部落派系的近战武器出口生意。</li>
+  </VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of ranged weapons.</li>
+  -->
+  <VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>  
+    <li>root->汉化组通讯社：据可靠消息，[SETTLEMENT_label]正准备对附近的几处大型虫族巢穴发动清剿。当地签下的大量远程武器订单已对市场价格造成了影响。</li>
+  </VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of ranged weapons.</li>
+  -->
+  <VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>  
+    <li>root->边缘导报：[SETTLEMENT_label]在几天前的定居点攻坚战中缴获了大量的远程武器。他们正打算把这些战利品卖掉。</li>
+  </VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of wools.</li>
+    <li>root->[SETTLEMENT_label] buys large amounts of various wools.</li>
+  -->
+  <VTE_SettlementWoolsPurchase.rulePack.rulesStrings>  
+    <li>root->边缘导报：因棉花产业惨遭机械族蚀叶器的破坏，[SETTLEMENT_label]当地的服装厂已计划大量收购各种毛料作为替代。</li>
+    <li>root->边缘导报：[SETTLEMENT_label]产出的毛衣素来以质量优良而闻名。当地正在考虑增建厂房并提高毛料的进口量。</li>
+  </VTE_SettlementWoolsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of wools.</li>
+  -->
+  <VTE_SettlementWoolsSellOff.rulePack.rulesStrings>  
+    <li>root->泰南时报：[SETTLEMENT_label]已于近日扩建了新的牧场。他们将在未来加大毛料的出口量。</li>
+  </VTE_SettlementWoolsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] suffered a Zzzt, and now plans to purchase a large amount of building materials to rebuild.</li>
+    <li>root->[SETTLEMENT_label] suffered a gas explosion and will need building materials to rebuild.</li>
+    <li>root->[SETTLEMENT_label] plans an expansion and will acquire building resources. Prices are bound to go up.</li>
+  -->
+  <VTE_SettlementZzzt.rulePack.rulesStrings>  
+    <li>root->泰南时报：昨日，[SETTLEMENT_label]的工业区发生了大规模的瓦斯爆炸。重建工作已提上日程。</li>
+    <li>root->汉化组通讯社：[SETTLEMENT_label]的燃油库与精炼厂于昨日被敌对派系炸毁。他们急需大量建筑材料以进行重建工作。</li>
+    <li>root->边缘导报：[SETTLEMENT_label]于昨日公布了新的据点增建计划，他们已为此购入了大量的建筑材料。这必定会导致物价因此上涨。</li>
+  </VTE_SettlementZzzt.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported that one of their ships has crashed. Share price should go down.</li>
+  -->
+  <VTE_ShipCrashed.rulePack.rulesStrings>  
+    <li>root->财经头条：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;的一艘轨道商船被机械族击落了。他们的股价可能会因此下跌。</li>
+  </VTE_ShipCrashed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a subpar earnings report. Price is expected to drop slightly.</li>
+  -->
+  <VTE_SubParEarnings.rulePack.rulesStrings>  
+    <li>root->边缘股市：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份低于预期的利润报表。他们的股价预计将会小幅下跌。</li>
+  </VTE_SubParEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a terrible earnings report. Price is expected to crash.</li>
+  -->
+  <VTE_TerribleEarnings.rulePack.rulesStrings>  
+    <li>root->财经头条：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布的利润报表简直一塌糊涂。他们的股价预计将会暴跌。</li>
+  </VTE_TerribleEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a very bad earnings report. Price is expected to fall sharply.</li>
+  -->
+  <VTE_VeryBadEarnings.rulePack.rulesStrings>  
+    <li>root->摸鱼财经：&lt;color=#3d99ff&gt;[COMPANY]&lt;/color&gt;发布了一份十分糟糕的利润报表。他们的股价预计将会大幅下跌。</li>
+  </VTE_VeryBadEarnings.rulePack.rulesStrings>
+  
+</LanguageData>

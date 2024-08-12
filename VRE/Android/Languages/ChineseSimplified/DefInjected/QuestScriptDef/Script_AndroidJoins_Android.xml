@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], an awakened android, is calling from nearby. [asker_pronoun] is being hunted by [enemyFaction_name]. Once an android experiences high emotional trauma or happiness, it can develop sentience and personality. Despite being synthetic, awakened androids exhibit human-like behavior and possess adaptable subroutines. Their artificial bodies grant disease immunity, but they require comfort and personal space. They indulge in human pursuits and strive to blend into society. A lot of societies don't agree with it and prefer androids as servants, not equals. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to provide shelter at [map_definite]. If you accept, [asker_pronoun] will arrive immediately, but [asker_pronoun] will be followed by the search party that you will need to defeat.\n\nAndroids are synthetic, man-made constructs with metal bodies and neutroamine coursing through their veins. Operated by a persona subcore, androids are capable of all the same work kinds as humans, without the drawbacks usually associated with organic life.</li>
+  -->
+  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription->附近一位名叫[asker_nameFull]的觉醒人形向我们发出了求救信号。她说自己正被来自[enemyFaction_name]的人形猎手追杀！\n\n觉醒人形是由经历了强烈情感刺激后产生人格与自我意识的基础人形“进化”而来的。虽然他们是合成体，但从行为与外表来看几乎与人类无异。觉醒人形不必睡眠与进食，且免疫疾病、感染与中毒，但需要保持舒适以及足够的私人空间。为了满足自身的追求与爱好，他们甚至还会试着努力融入到人类社会之中。然而许多人类无法容忍觉醒人形享有与自己同等的权利与地位，更喜欢将他们当作工具与仆从看待。\n\n[asker_nameFull]祈求得到保护并想加入位于[map_definite]的殖民地。\n\n警告：如果接受请求，[asker_nameFull]会立即到达，但你将要对抗追杀[asker_pronoun]的[enemyFaction_pawnsPlural]。其队伍组成为：\n\n[raid/raidPawnKinds]\n\n人形是被制造出来的合成体。他们是钢铁之躯，以中性胺为“血液”，人格次生核心令其能像人类一样工作，但同时又免去了各种麻烦的身心需求。人形不需要睡眠和进食，且免疫疾病、感染与中毒</li>
+  </VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the [adjAny] Android</li>
+    <li>adjAny->hunted</li>
+    <li>adjAny->fleeing</li>
+    <li>adjAny->chased</li>
+    <li>adjAny->ambushed</li>
+  -->
+  <VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+    <li>questName->[adjAny]人形</li>
+    <li>adjAny->被猎杀的</li>
+    <li>adjAny->被追捕的</li>
+    <li>adjAny->在逃</li>
+    <li>adjAny->遇袭的</li>
+  </VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], the band of pirates pursuing [asker_objective] will arrive soon. -->
+  <VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\n由于你接纳了[asker_nameDef]，正在追杀[asker_objective]的敌对人形猎手很快就会抵达。</VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>
+  <!-- EN: {BASELABEL}: Pursuing enemies -->
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}：人形猎手</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThese are the enemies that were hunting [../asker_nameFull].\n               -->
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural]来此追杀[../asker_nameFull]。\n</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. According to them, [siteFaction_pawnsPlural] have been using the nearby broadcasting station as a base of operations. The site is controlled by [siteFaction_name]. It is guaranteed to contain some still functioning supercomputer units.\n\n[asker_nameDef] is asking us to take care of the enemies, and cares not about the fate of the old electronical apparatus. [asker_label] says that [sitePart0_description]. -->
+  <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>questDescription->[asker_faction_name]的[asker_faction_leaderTitle] [asker_nameDef]，给我们发来一条信息。根据他们的说法，最近[siteFaction_pawnsPlural]正在使用附近的一个广播站来辅助他们的行动。目前该地区依旧被 [siteFaction_name] 占有。他们保证当地留有一些计算机元件。\n[asker_nameDef] 请求我们解决敌人，那里的电子元件可以随意由我们处置。[asker_label] 还说[sitePart0_description]。</VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>
+  <!-- EN: questName->The [abandoned] [broadcasting] [station] -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>questName->[abandoned]的[broadcasting][station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>
+  <!-- EN: questName->[abandoned] [broadcasting] [station] -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>questName->[abandoned][broadcasting][station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>
+  <!-- EN: questName->[asker_nameDef] and the [abandoned] [broadcasting] [station] -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>questName->[asker_nameDef]与[abandoned][broadcasting][station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>
+  <!-- EN: abandoned->Abandoned -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>abandoned->废弃</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>
+  <!-- EN: abandoned->Old -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>abandoned->破旧</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>
+  <!-- EN: abandoned->Decomissioned -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>abandoned->退役</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>
+  <!-- EN: abandoned->Ruined -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>abandoned->报废</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>
+  <!-- EN: broadcasting->Broadcasting -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>broadcasting->广播</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>
+  <!-- EN: broadcasting->Radar -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>broadcasting->雷达</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>
+  <!-- EN: broadcasting->Calculation -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>broadcasting->计算机</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>
+  <!-- EN: broadcasting->Supercomputer -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>broadcasting->超级电脑</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>
+  <!-- EN: station->Station -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>station->站</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>
+  <!-- EN: station->Facility -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>station->设施</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>
+  <!-- EN: station->Antenna -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>station->天线</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>
+  <!-- EN: station->Outpost -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>station->哨站</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务过期：[resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>强盗们已经打好行囊离开了。任务[resolvedQuestName]已经过期</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败：[resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>在被发现后，强盗们已经四散离去。任务[resolvedQuestName]失败。</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>报酬已送达</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>你成功击败了强盗营地！\n\n[asker_faction_name]支付的报酬已经送达。</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>这些殖民者参与了任务[resolvedQuestName]。[asker_definite]想知道谁应当得到这次任务的 [royalFavorReward_amount][asker_faction_royalFavorLabel]。</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Marshal -->
+  <VVE_Marshal.label>将帅坦克</VVE_Marshal.label>
+  <!-- EN: A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system. -->
+  <VVE_Marshal.description>将帅是一种改进型多功能主战坦克，它越野性能优异，有全方位装甲包裹，但后部装甲还是相对更弱。\n\n比起T2坦克来说装甲上的提升有限，但有着更加强大的主炮和副炮。可以在移动时开火，需要两名炮手来操控两套武器。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1，机枪手 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Marshal.description>
+  <!-- EN: Left Track -->
+  <VVE_Marshal.components.0.label>引擎</VVE_Marshal.components.0.label>
+  <!-- EN: Left Track -->
+  <VVE_Marshal.components.1.label>左履带</VVE_Marshal.components.1.label>
+  <!-- EN: Right Track -->
+  <VVE_Marshal.components.2.label>右履带</VVE_Marshal.components.2.label>
+  <!-- EN: Front Left Drive Sprocket -->
+  <VVE_Marshal.components.3.label>左前传动轮</VVE_Marshal.components.3.label>
+  <!-- EN: Front Right Drive Sprocket -->
+  <VVE_Marshal.components.4.label>右前传动轮</VVE_Marshal.components.4.label>
+  <!-- EN: Back Left Drive Sprocket -->
+  <VVE_Marshal.components.5.label>左后传动轮</VVE_Marshal.components.5.label>
+  <!-- EN: Back Right Drive Sprocket -->
+  <VVE_Marshal.components.6.label>右后传动轮</VVE_Marshal.components.6.label>
+  <VVE_Marshal.components.7.label>变速箱</VVE_Marshal.components.7.label>
+  <!-- EN: Front Armor Plating -->
+  <VVE_Marshal.components.8.label>前装甲</VVE_Marshal.components.8.label>
+  <!-- EN: Left Armor Plating -->
+  <VVE_Marshal.components.9.label>左侧装甲</VVE_Marshal.components.9.label>
+  <!-- EN: Right Armor Plating -->
+  <VVE_Marshal.components.10.label>右侧装甲</VVE_Marshal.components.10.label>
+  <!-- EN: Rear Armor Plating -->
+  <VVE_Marshal.components.11.label>后装甲</VVE_Marshal.components.11.label>
+  <VVE_Marshal.components.12.label>燃料箱</VVE_Marshal.components.12.label>
+  <VVE_Marshal.components.13.label>仪表</VVE_Marshal.components.13.label>
+  <!-- EN: Steering Apparatus -->
+  <VVE_Marshal.components.14.label>方向杆</VVE_Marshal.components.14.label>
+  <VVE_Marshal.components.15.label>发电机</VVE_Marshal.components.15.label>
+  <VVE_Marshal.components.16.label>顶盖</VVE_Marshal.components.16.label>
+  <!-- EN: Main Turret -->
+  <VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>主炮塔</VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>机枪炮塔</VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>
+  <!-- EN: smokepop -->
+  <VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>烟罐装置</VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>
+  <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. -->
+  <VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>防御性的烟幕装置。当它被激活时，会释放一团烟雾，能够阻挡瞄准，同时防止被炮塔锁定。容量三发，需要用化合燃料装填。</VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>
+  <!-- EN: on cooldown -->
+  <VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>冷却中</VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>
+  <!-- EN: pop smoke -->
+  <VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>释放烟雾</VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <VVE_Marshal.properties.roles.0.label>驾驶员</VVE_Marshal.properties.roles.0.label>
+  <VVE_Marshal.properties.roles.1.label>炮手</VVE_Marshal.properties.roles.1.label>
+  <!-- EN: Machine Gunner -->
+  <VVE_Marshal.properties.roles.2.label>机枪手</VVE_Marshal.properties.roles.2.label>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->The biomechanical lab beacon managed to decode the strange radio signals emanating from inside the strange mechanoid chip, revealing the coordinates of a lab complex not far from [map_definite]. This site seems to have been better hidden than the abandoned labs we have been exploring lately.\n\nThe beacon also revealed the original function of the lab complex: infusing paragon hybrids with reconstructive mechanites to somehow increase their power. Perhaps we should travel to the site with some of these hybrids.</li>
+  -->
+  <GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>  
+    <li>questDescription(askerIsNull==true)->我们已经成功破译了机械生物实验基地信标发出的无线电信号，它向我们指明了[map_definite]附近的一处更为隐秘的机械生物实验基地。\n\n此外我们还从中了解到，这座实验基地似乎可以将无瑕生物改造成更加强大的机械生物。或许我们应该带上几只无瑕生物一同前往。</li>
+  </GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
+    <li>journey->Mission to</li>
+    <li>journey->Exploration of</li>
+    <li>journey->Investigation of</li>
+    <li>journey->Research into</li>
+    <li>adjectiveLab->Mysterious</li>
+    <li>adjectiveLab->Hidden</li>
+    <li>adjectiveLab->Concealed</li>
+    <li>adjectiveLab->Secret</li>
+    <li>adjectiveLab->Camouflaged</li>
+    <li>ruins->biomechanical lab</li>
+    <li>ruins->biomechanical complex</li>
+    <li>ruins->mechanoid installation</li>
+  -->
+  <GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>  
+    <li>questName(priority=1)->[journey][adjectiveLab][ruins]</li>
+    <li>journey->探索</li>
+    <li>journey->探寻</li>
+    <li>journey->侦察</li>
+    <li>journey->调查</li>
+    <li>adjectiveLab->神秘的</li>
+    <li>adjectiveLab->隐秘的</li>
+    <li>adjectiveLab->秘密的</li>
+    <li>adjectiveLab->隐蔽的</li>
+    <li>adjectiveLab->潜藏的</li>
+    <li>ruins->机械生物实验室</li>
+    <li>ruins->机械生物实验基地</li>
+    <li>ruins->机械族研究设施</li>
+  </GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the biomechanical lab has been scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>依据我们最新截获的通讯信息来看，那座机械生物实验基地已经被他人捷足先登了。任务[resolvedQuestName]已经失效。</GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

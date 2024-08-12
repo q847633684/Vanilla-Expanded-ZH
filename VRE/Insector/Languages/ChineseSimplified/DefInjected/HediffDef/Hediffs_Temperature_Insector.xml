@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heatshock -->
+  <VRE_HeatshockHediff.label>热休克</VRE_HeatshockHediff.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area. -->
+  <VRE_HeatshockHediff.description>长时间暴露于高温和日晒的环境下导致的患者体内温度平衡失调状态。此时的患者会合成一种特殊的热休克蛋白，使其可以在最为酷热的环境中生存和活动，但所需进食量也相应增加了。热休克会在患者进入凉快的地方后随着时间的推移自然恢复。</VRE_HeatshockHediff.description>
+  <!-- EN: initial -->
+  <VRE_HeatshockHediff.stages.initial-0.label>轻微</VRE_HeatshockHediff.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VRE_HeatshockHediff.stages.initial-1.label>较轻</VRE_HeatshockHediff.stages.initial-1.label>
+  <!-- EN: minor -->
+  <VRE_HeatshockHediff.stages.minor.label>中等</VRE_HeatshockHediff.stages.minor.label>
+  <!-- EN: serious -->
+  <VRE_HeatshockHediff.stages.serious.label>严重</VRE_HeatshockHediff.stages.serious.label>
+  <!-- EN: extreme -->
+  <VRE_HeatshockHediff.stages.extreme.label>极重</VRE_HeatshockHediff.stages.extreme.label>
+  
+  <!-- EN: heatstress -->
+  <VRE_HeatstressHediff.label>热应激</VRE_HeatstressHediff.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness. -->
+  <VRE_HeatstressHediff.description>长时间暴露于高温和日晒的环境下导致的患者体内温度平衡失调状态。这不仅会引起蛋白质变性、烧伤、疼痛以及严重恐火，还会降低意识和移动能力。</VRE_HeatstressHediff.description>
+  <!-- EN: initial -->
+  <VRE_HeatstressHediff.stages.initial-0.label>轻微</VRE_HeatstressHediff.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VRE_HeatstressHediff.stages.initial-1.label>较轻</VRE_HeatstressHediff.stages.initial-1.label>
+  <!-- EN: minor -->
+  <VRE_HeatstressHediff.stages.minor.label>中等</VRE_HeatstressHediff.stages.minor.label>
+  <!-- EN: serious -->
+  <VRE_HeatstressHediff.stages.serious.label>严重</VRE_HeatstressHediff.stages.serious.label>
+  <!-- EN: extreme -->
+  <VRE_HeatstressHediff.stages.extreme.label>极重</VRE_HeatstressHediff.stages.extreme.label>
+  
+  <!-- EN: hypothermic hibernation -->
+  <VRE_HypothermicHibernationHediff.label>低温冬眠</VRE_HypothermicHibernationHediff.label>
+  <!-- EN: This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything. -->
+  <VRE_HypothermicHibernationHediff.description>此人因暴露于低温中而陷入了“低温冬眠”状态，其身体机能会逐渐丧失，直到完全沉睡。虽然能使此人不被冻伤，但也会失去行动能力。</VRE_HypothermicHibernationHediff.description>
+  <!-- EN: shivering -->
+  <VRE_HypothermicHibernationHediff.stages.shivering.label>轻微</VRE_HypothermicHibernationHediff.stages.shivering.label>
+  <!-- EN: initial -->
+  <VRE_HypothermicHibernationHediff.stages.initial.label>较轻</VRE_HypothermicHibernationHediff.stages.initial.label>
+  <!-- EN: drowsy -->
+  <VRE_HypothermicHibernationHediff.stages.drowsy.label>倦乏</VRE_HypothermicHibernationHediff.stages.drowsy.label>
+  <!-- EN: sleep -->
+  <VRE_HypothermicHibernationHediff.stages.sleep.label>昏睡</VRE_HypothermicHibernationHediff.stages.sleep.label>
+  <!-- EN: deep sleep -->
+  <VRE_HypothermicHibernationHediff.stages.deep_sleep.label>沉睡</VRE_HypothermicHibernationHediff.stages.deep_sleep.label>
+
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>低温迟缓</HypothermicSlowdown.label>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>一种特殊的生理状态，被少数生物用于在极冷的环境中生存。尽管气温严寒，但这种生物的体内循环系统会自动适应这个环境，以防止自身的体液结冰。处于此状态的生物的身体机能会减弱，直到气温回暖。生物学家通常称它为“一种醒着的冬眠”。</HypothermicSlowdown.description>
+  
+</LanguageData>

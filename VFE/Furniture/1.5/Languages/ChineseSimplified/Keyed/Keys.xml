@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- Submersible -->
+    <!-- EN: submerged -->
+  <VFESecurity.Submerged>水域</VFESecurity.Submerged>
+
+    <!-- Long-range artillery -->
+    <!-- EN: World tile range -->
+  <VFESecurity.WorldTileRange>世界地图区格范围</VFESecurity.WorldTileRange>
+
+    <!-- EN: Target world tile -->
+  <VFESecurity.TargetWorldTile>选择目标区格</VFESecurity.TargetWorldTile>
+    <!-- EN: Select a world tile for this {0} to fire at. -->
+  <VFESecurity.TargetWorldTile_Description>为{0}选择一个打击目标。</VFESecurity.TargetWorldTile_Description>
+    <!-- EN: Select a world tile to fire at. -->
+  <VFESecurity.TargetWorldTile_DescriptionShort>选择一个区格进行打击。</VFESecurity.TargetWorldTile_DescriptionShort>
+    <!-- EN: This {0} does not have any suitable artillery. -->
+  <VFESecurity.CommandTargetTileFailNoArtillery>没有合适的炮台{0}。</VFESecurity.CommandTargetTileFailNoArtillery>
+
+    <!-- EN: Tile is out of range. -->
+  <VFESecurity.TargetWorldTileOutOfRange>目标区格超出最远打击范围。</VFESecurity.TargetWorldTileOutOfRange>
+    <!-- EN: Target map -->
+  <VFESecurity.TargetMap>目标区格</VFESecurity.TargetMap>
+    <!-- EN: Target peace talks -->
+  <VFESecurity.TargetPeaceTalks>目标和平谈判</VFESecurity.TargetPeaceTalks>
+    <!-- EN: Target settlement -->
+  <VFESecurity.TargetSettlement>目标派系基地</VFESecurity.TargetSettlement>
+    <!-- EN: Target outpost -->
+  <VFESecurity.TargetOutpost>目标据点</VFESecurity.TargetOutpost>
+    <!-- EN: Target site -->
+  <VFESecurity.TargetSite>目标地点</VFESecurity.TargetSite>
+    <!-- EN: Target area (will have no effect) -->
+  <VFESecurity.TargetWorldTileEmpty>目标空地（不会有任何效果）</VFESecurity.TargetWorldTileEmpty>
+    <!-- EN: Cannot target flying objects. -->
+  <VFESecurity.TargetWorldFlyingObject>无法瞄准飞行物体。</VFESecurity.TargetWorldFlyingObject>
+    <!-- EN: Cannot target the same tile. -->
+  <VFESecurity.TargetWorldTileSameTile>不能瞄准同一区格。</VFESecurity.TargetWorldTileSameTile>
+
+    <!-- EN: Targeted area is invalid. -->
+  <VFESecurity.MessageTargetWorldTileInvalid>目标区格无效。</VFESecurity.MessageTargetWorldTileInvalid>
+    <!-- EN: settlement -->
+  <VFESecurity.Settlement>派系基地</VFESecurity.Settlement>
+    <!-- EN: Targeted area is out of the {0}'s range. -->
+  <VFESecurity.MessageTargetWorldTileOutOfRange>目标区域不在{0}的范围内</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+    <!-- Messages -->
+    <!-- EN: attacked by artillery -->
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>遭到炮火袭击</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+    <!-- EN: {0} from {1} have stopped bombarding your settlements. -->
+  <VFESecurity.Message_ArtilleryBombardmentEnded>来自{1}的{0}已经停止轰炸你们的派系基地</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+    <!-- Letters -->
+    <!-- EN: Provoked {0} -->
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>激怒了{0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+    <!-- EN: By sending an artillery strike at their peace talks negotiation party, relations between you and {0} have soured. They may send a raiding party in retaliation. -->
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>由于你向和平谈判地点发射炮弹，你和{0}之间的关系已经恶化。他们可能会派出远征队进行报复。</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+    <!-- EN: Artillery retaliation -->
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>火炮回击</VFESecurity.ArtilleryStrikeSettlement_Letter>
+    <!-- EN: Due to your provocation via artillery strike, the {0} at {1} have decided to return fire at your settlements using their own artillery!\n\nThis bombardment will go on for a few days, or until you destroy the settlement. -->
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>由于你炮击挑衅，{1}的{0}决定用他们自己的火炮向你的派系基地回击!\n\n轰炸将持续几天，或者直到你摧毁其火炮发射基地。</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+    <!-- EN: The enemy base {0} has been destroyed. -->
+  <VFESecurity.LetterFactionBaseDefeatedStrike>敌人的基地{0}已摧毁</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+    <!-- Psychic pylon -->
+    <!-- EN: Psychic pylon exposure -->
+  <VFESecurity.PsychicPylonExposure>暴露于心灵塔</VFESecurity.PsychicPylonExposure>
+
+    <!-- Ammo crate -->
+    <!-- EN: Ammo crate -->
+  <VFESecurity.AmmoCrate>弹药箱</VFESecurity.AmmoCrate>
+
+    <!-- Rearmable traps -->
+    <!-- EN: Armed -->
+  <VFESecurity.Armed>引爆</VFESecurity.Armed>
+    <!-- EN: Needs rearming -->
+  <VFESecurity.NeedsRearming>需要重新布置</VFESecurity.NeedsRearming>
+    <!-- EN: Rearm -->
+  <VFESecurity.DesignatorRearmTraps>重置</VFESecurity.DesignatorRearmTraps>
+    <!-- EN: Mark unarmed rearmable traps to be rearmed by your colonists. -->
+  <VFESecurity.DesignatorRearmTraps_Description>标记没有重置的陷阱使你的殖民者去重置</VFESecurity.DesignatorRearmTraps_Description>
+    <!-- EN: Must designate unarmed rearmable traps. -->
+  <VFESecurity.MessageMustDesignateRearmables>必须指定没有重置的陷阱</VFESecurity.MessageMustDesignateRearmables>
+    <!-- EN: Artillery shell has hit the {0} location. ({1} destruction). -->
+  <VFESecurity.ArtileryHitMessage>火炮发射的炮弹击中了{0}。（已摧毁{1}）</VFESecurity.ArtileryHitMessage>
+    <!-- EN: {0} destruction from artillery -->
+  <VFESecurity.ArtileryDestruction>已被火炮摧毁{0}</VFESecurity.ArtileryDestruction>
+    <!-- EN: Artillery shell has destroyed the {0} location. -->
+  <VFESecurity.ArtileryHitDestroyedMessage>火炮发射的炮弹令{0}覆灭了。</VFESecurity.ArtileryHitDestroyedMessage>
+
+</LanguageData>

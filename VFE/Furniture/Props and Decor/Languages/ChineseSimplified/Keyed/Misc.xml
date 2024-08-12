@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- EN: Select prop category: -->
+  <VFE_ChoosePropCategory>选择装饰道具分类：</VFE_ChoosePropCategory>
+	<!-- EN: Go back -->
+  <VFE_GoBack>返回</VFE_GoBack>
+	<!-- EN: Search -->
+  <VFE_PrefabSearch>查找</VFE_PrefabSearch>
+	<!-- EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop -->
+  <VFE_NoSilver>白银不足。至少需要备置{0}银才能放置此装饰道具。</VFE_NoSilver>
+	<!-- EN: Prop cost multiplier -->
+  <VFE_PropCostMultiplier>装饰道具价格乘数</VFE_PropCostMultiplier>
+	<!-- EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs. -->
+  <VFE_PropCostMultiplierDesc>默认情况下，装饰道具的价格取决于大小、耐久等属性。你可以通过修改此项以让装饰道具变得更便宜或更贵。设为0时则免费。</VFE_PropCostMultiplierDesc>
+	<!-- EN: Silver return multiplier -->
+  <VFE_SilverReturnMultiplier>白银返还乘数</VFE_SilverReturnMultiplier>
+	<!-- EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting. -->
+  <VFE_SilverReturnMultiplierDesc>默认情况下，装饰道具被拆除或摧毁后会返还所有白银。你可以通过修改此项来调整返还倍率。</VFE_SilverReturnMultiplierDesc>
+	<!-- EN: Reset -->
+  <VFE_Reset>重设</VFE_Reset>
+	<!-- EN: Built -->
+  <VPE_NeedsMats>建造</VPE_NeedsMats>
+	<!-- EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves -->
+  <VPE_NeedsMatsDesc>这种装饰道具需要由殖民者来建造，且消耗的是寻常的建筑材料而非白银。</VPE_NeedsMatsDesc>
+	<!-- EN: build props -->
+  <VFEPD_BuildProps>放置道具</VFEPD_BuildProps>
+	<!-- EN: Open a menu to build props with a silver cost. -->
+  <VFEPD_BuildPropsDesc>浏览所有可放置的装饰道具。放置时仅需要消耗白银。</VFEPD_BuildPropsDesc>
+	<!-- EN: Can't be built until {0} has been researched by the colony -->
+  <VFEPD_ResearchNeeded>需要先完成研究项目“{0}”后才能放置此装饰道具。</VFEPD_ResearchNeeded>
+	<!-- EN: Make copy -->
+  <VFEPD_MakeCopy>复制道具</VFEPD_MakeCopy>
+	<!-- EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles. -->
+  <VFEPD_MakeCopyDesc>复制当前的装饰道具。需要备置有足够的白银。</VFEPD_MakeCopyDesc>
+
+	
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spidermine -->
+  <VFEP_Mech_Spidermine.label>蜘蛛雷</VFEP_Mech_Spidermine.label>
+  <!-- EN: Semi-autonomous combat drone with onboard pathfinding capability. Equipped with a self-destruction module and tracking system, designed to be launched as a payload and then seek out enemy targets. If no nearby targets can be acquired, it will immediately detonate in order to prevent future accidents. -->
+  <VFEP_Mech_Spidermine.description>搭载了索敌与自爆系统的半自律型无人机，可以自动追踪并迅速接近周围的敌人。如果附近区域已没有敌人，它们会当即自爆以避免出现可能的安全隐患。</VFEP_Mech_Spidermine.description>
+  <!-- EN: frame -->
+  <VFEP_Mech_Spidermine.tools.frame.label>机体框架</VFEP_Mech_Spidermine.tools.frame.label>
+  
+  <!-- EN: wardrone -->
+  <VFEP_Mech_Wardrone.label>战斗无人机</VFEP_Mech_Wardrone.label>
+  <!-- EN: Semi-autonomous flying combat drone with limited combat functionality. Equipped with a lightweight semi-automatic miniturret due to limited recoil absorption and an onboard self-destruction module to both prevent enemy capture and defense against melee attackers. -->
+  <VFEP_Mech_Wardrone.description>拥有一定战斗能力半自律型无人机，可以自动攻击射程内的敌人。由于无法承受太高的后坐力，因此只安装了重量极轻的小型炮塔。额外搭载的自爆系统也可以有效防止被敌人俘获并抵挡近战单位的攻击。</VFEP_Mech_Wardrone.description>
+  <!-- EN: Explodes in -->
+  <VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>自爆剩余时间</VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>
+  <!-- EN: turret -->
+  <VFEP_Mech_Wardrone.tools.turret.label>炮塔</VFEP_Mech_Wardrone.tools.turret.label>
+  
+</LanguageData>

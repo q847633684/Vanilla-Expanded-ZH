@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cannon -->
+  <VFEP_Artillery_Cannon.label>加农炮</VFEP_Artillery_Cannon.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Artillery_Cannon.description>一种中世纪技术级别的便携式长程加农炮，基座上的旋轴使它能向正前方180度以内的目标发射金属炮弹。虽然精准性一言难尽，但预热与冷却速度都相当之快，从各方面来讲都比古老的弩炮强得多。</VFEP_Artillery_Cannon.description>
+  <!-- EN: cannon -->
+  <VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>加农炮</VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>
+  
+  <!-- EN: field gun -->
+  <VFEP_Artillery_FieldGun.label>野战炮</VFEP_Artillery_FieldGun.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Artillery_FieldGun.description>一个发射所有种类炮弹的野战炮。作为改进型号，野战炮不仅继承了迫击炮所有的优劣之处，其射击预热速度也是它的两倍快——不过代价则是只有不到90度的锥形射击角。</VFEP_Artillery_FieldGun.description>
+  <!-- EN: field gun -->
+  <VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>野战炮</VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>
+  
+  <!-- EN: cannonball -->
+  <VFEP_Bullet_Cannonball.label>炮弹</VFEP_Bullet_Cannonball.label>
+  
+  <!-- EN: cannon -->
+  <VFEP_Turret_Cannon.label>加农炮</VFEP_Turret_Cannon.label>
+  <!-- EN: A portable medieval cannon mounted on a 180 degree swivel that launches roughly-rounded balls of steel at a considerable range. The accuracy is rather lacking, but it is a vast improvement compared to catapults while also having a considerably faster fire rate. -->
+  <VFEP_Turret_Cannon.description>一种中世纪技术级别的便携式长程加农炮，基座上的旋轴使它能向正前方180度以内的目标发射金属炮弹。虽然精准性一言难尽，但预热与冷却速度都相当之快，从各方面来讲都比古老的弩炮强得多。</VFEP_Turret_Cannon.description>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>炮弹</VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>炮弹</VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs a cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>无法射击：需要新炮弹</VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: field gun -->
+  <VFEP_Turret_FieldGun.label>野战炮</VFEP_Turret_FieldGun.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Turret_FieldGun.description>一个发射所有种类炮弹的野战炮。作为改进型号，野战炮不仅继承了迫击炮所有的优劣之处，其射击预热速度也是它的两倍快——不过代价则是只有不到90度的锥形射击角。</VFEP_Turret_FieldGun.description>
+  
+</LanguageData>

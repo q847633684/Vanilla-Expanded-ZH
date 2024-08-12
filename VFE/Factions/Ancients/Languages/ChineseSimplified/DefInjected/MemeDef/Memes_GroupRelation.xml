@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: isolationist -->
+  <VFEA_Isolationist.label>孤立主义</VFEA_Isolationist.label>
+  <!-- EN: Trust is a resource in low supply, as everyone we meet is the enemy. -->
+  <VFEA_Isolationist.description>信任乃弥足珍贵之物，除我们以外的家伙皆为敌人。</VFEA_Isolationist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Isolationist)        ->The people of the [place_summary] [place_name] squabbled endlessly among themselves, and [deity0_name] became tired of discord and anointed [memberNamePlural] as the only rightful rulers of every living being.</li>
+    <li>episode(uses=1,tag=meme_Isolationist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, for they are your enemy, and peace with them was never an option"</li>
+    <li>intro(tag=meme_Isolationist)           ->The people of the [place_summary] [place_name] worshipped [deity0_name]. [deity0_pronoun] saw that they were suited for [memeConcept], and ordained that they shall be the only faction worthy of ascension.</li>
+    <li>conflict(tag=meme_Isolationist)        ->A [foeLeader] passed a law forbidding [memberNamePlural] from rising to the ruling classes of [place_name]. As such, [memberNamePlural] began to conspire and create hidden, secret alliances.</li>
+    <li>founderJoin(tag=meme_Isolationist)     ->A warrior named [founderName] used [place_massWeapon] to destroy a [place_community]. [deity0_name] saw [founderName]'s ruthlessness told [founder_objective] to lead a life of isolation and secrecy.</li>
+    <li>victory(tag=meme_Isolationist)         ->[founderName] destroyed the capital of [place_name] with [place_massWeapon], killing the [foeLeader]. [founder_pronoun] did not take [founder_possessive] place as ruler of [place_name] - instead, [founderName] went into hiding.</li>
+    <li>setup(tag=meme_Isolationist)           ->[founderName] built an army that spread [founder_possessive] power and glory across the land, placing those who refused to follow rightly at the end of [founder_possessive] knife.</li>
+    <li>story(uses=1,tag=meme_Isolationist)    ->[founderName] instructed all outsiders to fight to the death, as peace was never an option. When the first city refused and begged to join [founder_objective], [founder_pronoun] used [place_massWeapon] to kill everyone inside.</li>
+    <li>lessonIntro(tag=meme_Isolationist)         ->I looked at this [foeLeader], with [foeLeader_possessive] pitiful [foeSoldiers], all that power left fallow. I tried to convince [foeLeader_objective] that</li>
+    <li>lesson(tag=meme_Isolationist)              ->we've long since proven that we have the strength to strike from the shadows, isolated but not weakened</li>
+    <li>lessonReinforcement(tag=meme_Isolationist) ->That's why we're proud to express the strength of our hearts using the edges of our blades and the heads of our hammers.</li>
+    <li>archistBasis(tag=meme_Isolationist)    ->It took the most superior humans to create the archotechs. With being as powerful as them, it's only proper that we hide in the shadows.</li>
+    <li>archistFact(tag=meme_Isolationist)     ->The archotechs can wipe us out without hesitation - just as we should wipe out our enemies.</li>
+    <li>archistProphecy(tag=meme_Isolationist) ->The archotechs will never take us to join them - and we should never give this opportunity to our enemies.</li>
+    <li>animistFact(tag=meme_Isolationist)     ->Powerful spirits of [spiritElement] decide who is fit to rule, and lend power to their chosen when they slay others.</li>
+    <li>animistProphecy(tag=meme_Isolationist) ->[itIsSaid] that a new order will be created when one supreme ruler emerges from the shadows on a planet filled to the brim with blood and viscera.</li>
+  -->
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Isolationist)        ->[place_summary][place_name]上的人们一直持续着无止境的争吵，[deity0_name]厌倦了这种纷争，并指定[memberNamePlural]们成为万物的唯一合法统治者。</li>
+    <li>episode(uses=1,tag=meme_Isolationist)  ->忠实的信徒们与那些毫无信仰的人们战斗着，[deity0_name]说：“与他们战斗吧。和平共处从来都不是一种选择。”</li>
+    <li>intro(tag=meme_Isolationist)           ->住在[place_summary][place_name]上的人们崇拜着[deity0_name]。[deity0_pronoun]发现这些人很适合[memeConcept]，于是便钦定他们为唯一有资格升天的派系。</li>
+    <li>conflict(tag=meme_Isolationist)        ->[foeLeader]通过了一部律法，以此来禁止[memberNamePlural]们进入[place_name]的统治阶层中。因此，[memberNamePlural]开始密谋并组建了秘密结社。</li>
+    <li>founderJoin(tag=meme_Isolationist)     ->名为[founderName]的战士用[place_massWeapon]毁灭了[place_community]。[deity0_name]察觉到了[founderName]的残忍无情，告诉[founder_objective]要过一种与世隔绝的隐蔽生活。</li>
+    <li>victory(tag=meme_Isolationist)         ->[founderName]用[place_massWeapon]毁灭了[place_name]的首都，并杀死了[foeLeader]。[founder_pronoun]没有取而代之成为[place_name]的统治者——相反，[founderName]隐藏了起来。</li>
+    <li>setup(tag=meme_Isolationist)           ->[founderName]组建了军队，以此将[founder_possessive]的力量与荣耀散播至各地，并杀死那些愚昧的反对者。</li>
+    <li>story(uses=1,tag=meme_Isolationist)    ->[founderName]命令所有的外来者血战至死，因为和平共处从来都不是一种选择。当第一座城市恳求加入[founder_objective]时，[founder_pronoun]用[place_massWeapon]杀死了城里所有的人。</li>
+    <li>lessonIntro(tag=meme_Isolationist)         ->我看向了[foeLeader]。[foeLeader_possessive][foeSoldiers]可怜而又卑微，[foeLeader_possessive]权力早已不复存在。我试着说服[foeLeader_objective]</li>
+    <li>lesson(tag=meme_Isolationist)              ->我们早已证明了自己有能力从暗处发动突袭。我们虽然孤立，但并不弱小</li>
+    <li>lessonReinforcement(tag=meme_Isolationist) ->这就是为什么我们会骄傲地用刀刃与锤头来展现心中强大的力量。</li>
+    <li>archistBasis(tag=meme_Isolationist)    ->最卓越的人类制造出了超凡智能。如果要想像他们一样强大，我们必须藏匿于暗处。</li>
+    <li>archistFact(tag=meme_Isolationist)     ->超凡智能可以毫不犹豫地绞杀我们——就像我们应该绞杀敌人一样。</li>
+    <li>archistProphecy(tag=meme_Isolationist) ->超凡智能永远不会让我们加入祂——我们也永远不该给敌人这个机会。</li>
+    <li>animistFact(tag=meme_Isolationist)     ->强大的[spiritElement]之魂会决定谁更适合统治，当他们杀死别人时，[spiritElement]之魂也会给予他们力量。</li>
+    <li>animistProphecy(tag=meme_Isolationist) ->[itIsSaid]当一位至高统治者从充满了鲜血内脏星球的暗处中浮现时，一个崭新的秩序将被建立。</li>
+  </VFEA_Isolationist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->isolated</li>
+    <li>memeAdjective->hidden</li>
+    <li>memeAdjective->lone</li>
+    <li>memeAdjective->secluded</li>
+    <li>memeAdjective->exceptional</li>
+    <li>memeAdjective->superior</li>
+    <li>memeAdjective->detached</li>
+    <li>memeCreed->army</li>
+    <li>memeCreed->nation</li>
+    <li>memeHyphenPrefix->hidden</li>
+    <li>memeConcept->war</li>
+    <li>memeConcept->isolation</li>
+    <li>memeConcept->loneliness</li>
+    <li>memeLeaderNoun->general</li>
+    <li>memeLeaderNoun->commander</li>
+    <li>memeLeaderNoun->marshal</li>
+    <li>memeLeaderNoun->captain</li>
+    <li>memeLeaderNoun->sergeant</li>
+    <li>memeLeaderNoun->dictator</li>
+    <li>memeLeaderNoun->president</li>
+    <li>memeLeaderNoun->leader</li>
+  -->
+  <VFEA_Isolationist.generalRules.rulesStrings>
+    <li>memeAdjective->孤立</li>
+    <li>memeAdjective->隐蔽</li>
+    <li>memeAdjective->孤寂</li>
+    <li>memeAdjective->隔绝</li>
+    <li>memeAdjective->优越</li>
+    <li>memeAdjective->卓越</li>
+    <li>memeAdjective->冷漠</li>
+    <li>memeCreed->军队</li>
+    <li>memeCreed->国家</li>
+    <li>memeHyphenPrefix->隐蔽</li>
+    <li>memeConcept->战争</li>
+    <li>memeConcept->孤立</li>
+    <li>memeConcept->独狼</li>
+    <li>memeLeaderNoun->将军</li>
+    <li>memeLeaderNoun->指挥官</li>
+    <li>memeLeaderNoun->元帅</li>
+    <li>memeLeaderNoun->上校</li>
+    <li>memeLeaderNoun->中士</li>
+    <li>memeLeaderNoun->独裁者</li>
+    <li>memeLeaderNoun->总统</li>
+    <li>memeLeaderNoun->领袖</li>
+  </VFEA_Isolationist.generalRules.rulesStrings>
+  <!-- EN: isolated -->
+  <VFEA_Isolationist.symbolPacks.0.adjective>孤立</VFEA_Isolationist.symbolPacks.0.adjective>
+  <!-- EN: isolator -->
+  <VFEA_Isolationist.symbolPacks.0.member>孤立主义者</VFEA_Isolationist.symbolPacks.0.member>
+  <!-- EN: isolation -->
+  <VFEA_Isolationist.symbolPacks.0.theme>孤立</VFEA_Isolationist.symbolPacks.0.theme>
+  <!-- EN: secluded -->
+  <VFEA_Isolationist.symbolPacks.1.adjective>隐蔽</VFEA_Isolationist.symbolPacks.1.adjective>
+  <!-- EN: secludist -->
+  <VFEA_Isolationist.symbolPacks.1.member>隐蔽者</VFEA_Isolationist.symbolPacks.1.member>
+  <!-- EN: seclusion -->
+  <VFEA_Isolationist.symbolPacks.1.theme>隐蔽</VFEA_Isolationist.symbolPacks.1.theme>
+  <!-- EN: secret -->
+  <VFEA_Isolationist.symbolPacks.2.adjective>神秘</VFEA_Isolationist.symbolPacks.2.adjective>
+  <!-- EN: secret -->
+  <VFEA_Isolationist.symbolPacks.2.member>隐秘者</VFEA_Isolationist.symbolPacks.2.member>
+  <!-- EN: secret -->
+  <VFEA_Isolationist.symbolPacks.2.theme>隐秘</VFEA_Isolationist.symbolPacks.2.theme>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] thanked [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] laughed playfully with [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and thanked [INITIATOR_nameDef] for the compliment.</li>
+  -->
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>  
+    <li>sent->[RECIPIENT_nameDef]对[INITIATOR_nameDef]表示感谢。</li>
+    <li>sent->[RECIPIENT_nameDef]与[INITIATOR_nameDef]嬉笑了起来。</li>
+    <li>sent->[RECIPIENT_nameDef]受到了鼓舞，并对[INITIATOR_nameDef]表示感谢。</li>
+  </VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] ignored the compliment.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the flirt.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] scolded [INITIATOR_objective].</li>
+  -->
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>  
+    <li>sent->[RECIPIENT_nameDef]无动于衷。</li>
+    <li>sent->[RECIPIENT_nameDef]无视了[RECIPIENT_possessive]挑逗。</li>
+    <li>sent->[RECIPIENT_nameDef]没有理睬[RECIPIENT_pronoun]。</li>
+    <li>sent->[RECIPIENT_nameDef]扭头走开了。</li>
+    <li>sent->[RECIPIENT_nameDef]只是草草敷衍了两句。</li>
+    <li>sent->[RECIPIENT_nameDef]没有理会。</li>
+    <li>sent->[RECIPIENT_nameDef]斥责了[INITIATOR_objective]。</li>
+  </VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

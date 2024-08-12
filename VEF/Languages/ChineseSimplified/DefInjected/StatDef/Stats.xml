@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body size multiplier -->
+  <VEF_BodySize_Multiplier.label>体型乘数</VEF_BodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_BodySize_Multiplier.description>单位的体型会乘以此项的值。</VEF_BodySize_Multiplier.description>
+  
+  <!-- EN: body size offset -->
+  <VEF_BodySize_Offset.label>体型偏移</VEF_BodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_BodySize_Offset.description>单位的体型会根据此项的值偏移。</VEF_BodySize_Offset.description>
+  
+  <!-- EN: cosmetic body size multiplier -->
+  <VEF_CosmeticBodySize_Multiplier.label>外观体型乘数</VEF_CosmeticBodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_CosmeticBodySize_Multiplier.description>单位的体型会乘以此项的值。</VEF_CosmeticBodySize_Multiplier.description>
+  
+  <!-- EN: cosmetic body size offset -->
+  <VEF_CosmeticBodySize_Offset.label>外观体型偏移</VEF_CosmeticBodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_CosmeticBodySize_Offset.description>单位的体型会根据此项的值偏移。</VEF_CosmeticBodySize_Offset.description>
+  
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxApparel.label>护盾能量上限</VEF_EnergyShieldEnergyMaxApparel.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxApparel.description>护盾发生器所能拥有的能量最大值。能量越多，可以吸收的伤害就越多。</VEF_EnergyShieldEnergyMaxApparel.description>
+  
+  <!-- EN: Shield max energy factor -->
+  <VEF_EnergyShieldEnergyMaxFactor.label>护盾能量上限系数</VEF_EnergyShieldEnergyMaxFactor.label>
+  <!-- EN: Factor of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxFactor.description>使用者的护盾能量上限系数可以通过各种各样的方式来提高。</VEF_EnergyShieldEnergyMaxFactor.description>
+  
+  <!-- EN: Shield max energy offset -->
+  <VEF_EnergyShieldEnergyMaxOffset.label>护盾能量上限偏移</VEF_EnergyShieldEnergyMaxOffset.label>
+  <!-- EN: Offset of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxOffset.description>使用者的护盾能量上限偏移可以通过各种各样的方式来提高。</VEF_EnergyShieldEnergyMaxOffset.description>
+  
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxPawn.label>护盾能量上限</VEF_EnergyShieldEnergyMaxPawn.label>
+  <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+  <VEF_EnergyShieldEnergyMaxPawn.description>护盾发生器所能拥有的能量最大值。能量越多，可以吸收的伤害就越多。</VEF_EnergyShieldEnergyMaxPawn.description>
+  
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusApparel.label>护盾半径</VEF_EnergyShieldRadiusApparel.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusApparel.description>启动时，能量护盾的作用范围。</VEF_EnergyShieldRadiusApparel.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusApparel.formatString>{0}地图格</VEF_EnergyShieldRadiusApparel.formatString>
+  
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusPawn.label>护盾半径</VEF_EnergyShieldRadiusPawn.label>
+  <!-- EN: The area covered when the energy shield is active. -->
+  <VEF_EnergyShieldRadiusPawn.description>启动时，能量护盾的作用范围。</VEF_EnergyShieldRadiusPawn.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusPawn.formatString>{0}地图格</VEF_EnergyShieldRadiusPawn.formatString>
+  
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRateApparel.label>护盾充能速率</VEF_EnergyShieldRechargeRateApparel.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRateApparel.description>护盾破裂前的充能速率。</VEF_EnergyShieldRechargeRateApparel.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0}/秒</VEF_EnergyShieldRechargeRateApparel.formatString>
+  
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRatePawn.label>护盾充能速率</VEF_EnergyShieldRechargeRatePawn.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRatePawn.description>护盾破裂前的充能速率。</VEF_EnergyShieldRechargeRatePawn.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/秒</VEF_EnergyShieldRechargeRatePawn.formatString>
+  
+  <!-- EN: body food capacity multiplier -->
+  <VEF_FoodCapacityMultiplier.label>饮食值上限偏移</VEF_FoodCapacityMultiplier.label>
+  <!-- EN: Increases the size of the pawn's hunger bar. This does not affect hunger -->
+  <VEF_FoodCapacityMultiplier.description>单位的饮食值上限会根据此项的值偏移。不会影响饥饿度。</VEF_FoodCapacityMultiplier.description>
+  
+  <!-- EN: growth point multiplier -->
+  <VEF_GrowthPointMultiplier.label>成长点数乘数</VEF_GrowthPointMultiplier.label>
+  <!-- EN: Increases the amount of growth points accumulated by children when learning -->
+  <VEF_GrowthPointMultiplier.description>儿童通过学习获得的成长点数会乘以此项的值。</VEF_GrowthPointMultiplier.description>
+  
+  <!-- EN: head size multiplier -->
+  <VEF_HeadSize_Cosmetic.label>头型乘数</VEF_HeadSize_Cosmetic.label>
+  
+  <!-- EN: Mass carry capacity -->
+  <VEF_MassCarryCapacity.label>负重能力</VEF_MassCarryCapacity.label>
+  <!-- EN: Total mass carrying capacity of the pawn in caravans. -->
+  <VEF_MassCarryCapacity.description>单位在远行队中时总共能携带多重的物品。</VEF_MassCarryCapacity.description>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
+  
+  <!-- EN: melee attack damage factor -->
+  <VEF_MeleeAttackDamageFactor.label>近战攻击伤害系数</VEF_MeleeAttackDamageFactor.label>
+  <!-- EN: A multiplier on melee attack damage. -->
+  <VEF_MeleeAttackDamageFactor.description>近战攻击造成的伤害会乘以此项的值。</VEF_MeleeAttackDamageFactor.description>
+  
+  <!-- EN: melee attack speed factor -->
+  <VEF_MeleeAttackSpeedFactor.label>近战攻击速度系数</VEF_MeleeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on melee attack speed. -->
+  <VEF_MeleeAttackSpeedFactor.description>近战攻击的速度会乘以此项的值。</VEF_MeleeAttackSpeedFactor.description>
+  
+  <!-- EN: pawn render offset -->
+  <VEF_PawnRenderPosOffset.label>单位渲染偏移</VEF_PawnRenderPosOffset.label>
+  <!-- EN: Modifies the pawn's rendered position in y-axis. -->
+  <VEF_PawnRenderPosOffset.description>单位的渲染位置会根据此项的值偏移（Y轴）。</VEF_PawnRenderPosOffset.description>
+  
+  <!-- EN: range attack damage factor -->
+  <VEF_RangeAttackDamageFactor.label>远程攻击伤害系数</VEF_RangeAttackDamageFactor.label>
+  <!-- EN: A multiplier on range attack damage. -->
+  <VEF_RangeAttackDamageFactor.description>远程攻击造成的伤害会乘以此项的值。</VEF_RangeAttackDamageFactor.description>
+  
+  <!-- EN: range attack speed factor -->
+  <VEF_RangeAttackSpeedFactor.label>远程攻击速度系数</VEF_RangeAttackSpeedFactor.label>
+  <!-- EN: A multiplier on range attack speed. -->
+  <VEF_RangeAttackSpeedFactor.description>远程攻击的速度会乘以此项的值。</VEF_RangeAttackSpeedFactor.description>
+  
+  <!-- EN: ranged cooldown factor -->
+  <VEF_RangedCooldownFactor.label>远程冷却时间系数</VEF_RangedCooldownFactor.label>
+  <!-- EN: The cooldown on ranged weapons of the wearer is multiplied by this value. -->
+  <VEF_RangedCooldownFactor.description>穿戴者的远程武器冷却时间会乘以此项的值。</VEF_RangedCooldownFactor.description>
+  
+  <!-- EN: verb cooldown factor -->
+  <VEF_VerbCooldownFactor.label>动态冷却时间系数</VEF_VerbCooldownFactor.label>
+  <!-- EN: The cooldown on weapons is multiplied by this value. -->
+  <VEF_VerbCooldownFactor.description>使用者的武器冷却时间会乘以此项的值。</VEF_VerbCooldownFactor.description>
+  <!-- EN: verb cooldown factor (people) -->
+  <VEF_VerbCooldownFactor.labelForFullStatList>动态冷却时间系数（人）</VEF_VerbCooldownFactor.labelForFullStatList>
+  
+  <!-- EN: verb range factor -->
+  <VEF_VerbRangeFactor.label>动态射程系数</VEF_VerbRangeFactor.label>
+  <!-- EN: The range on weapons is multiplied by this value. -->
+  <VEF_VerbRangeFactor.description>使用者的武器射程会乘以此项的值。</VEF_VerbRangeFactor.description>
+  <!-- EN: verb range factor (people) -->
+  <VEF_VerbRangeFactor.labelForFullStatList>动态射程系数（人）</VEF_VerbRangeFactor.labelForFullStatList>
+  
+</LanguageData>

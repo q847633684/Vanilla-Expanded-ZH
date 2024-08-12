@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Badger -->
+  <VVE_Badger.label>獾式步兵战车</VVE_Badger.label>
+  <!-- EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks. -->
+  <VVE_Badger.description>獾式是一种履带式步兵战车，可以运输步兵并提供压制性的火力支援。加固侧装甲，烟罐装置和那一门强大的反步兵自动炮让它在小规模冲突中能够稳占上风。它对后侧攻击依旧缺乏防御，而且主炮的射程较短，在面对主战坦克时依旧难以对抗。\n\n比起T2运兵车，这种步兵战车擅长快速部署步兵前往战地并提供轻型火力支援。武器低下的穿甲能力让它难以对抗敌方的坦克。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1，乘客 x4\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Badger.description>
+  <VVE_Badger.components.0.label>引擎</VVE_Badger.components.0.label>
+  <!-- EN: Left Track -->
+  <VVE_Badger.components.1.label>左履带</VVE_Badger.components.1.label>
+  <!-- EN: Right Track -->
+  <VVE_Badger.components.2.label>右履带</VVE_Badger.components.2.label>
+  <!-- EN: Front Left Drive Sprocket -->
+  <VVE_Badger.components.3.label>左前传动轮</VVE_Badger.components.3.label>
+  <!-- EN: Front Right Drive Sprocket -->
+  <VVE_Badger.components.4.label>右前传动轮</VVE_Badger.components.4.label>
+  <!-- EN: Back Left Drive Sprocket -->
+  <VVE_Badger.components.5.label>左后传动轮</VVE_Badger.components.5.label>
+  <!-- EN: Back Right Drive Sprocket -->
+  <VVE_Badger.components.6.label>右后传动轮</VVE_Badger.components.6.label>
+  <VVE_Badger.components.7.label>变速箱</VVE_Badger.components.7.label>
+  <VVE_Badger.components.8.label>左侧装甲</VVE_Badger.components.8.label>
+  <VVE_Badger.components.9.label>右侧装甲</VVE_Badger.components.9.label>
+  <VVE_Badger.components.10.label>前装甲</VVE_Badger.components.10.label>
+  <VVE_Badger.components.11.label>后装甲</VVE_Badger.components.11.label>
+  <VVE_Badger.components.12.label>燃料箱</VVE_Badger.components.12.label>
+  <VVE_Badger.components.13.label>仪表</VVE_Badger.components.13.label>
+  <!-- EN: Steering Apparatus -->
+  <VVE_Badger.components.14.label>方向杆</VVE_Badger.components.14.label>
+  <VVE_Badger.components.15.label>发电机</VVE_Badger.components.15.label>
+  <VVE_Badger.components.16.label>顶盖</VVE_Badger.components.16.label>
+  <!-- EN: Main Turret -->
+  <VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>主炮塔</VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <!-- EN: smokepop -->
+  <VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>烟罐装置</VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>
+  <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. -->
+  <VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>防御性的烟幕装置。当它被激活时，会释放一团烟雾，能够阻挡瞄准，同时防止被炮塔锁定。容量三发，需要用化合燃料装填。</VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>
+  <!-- EN: on cooldown -->
+  <VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>冷却中</VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>
+  <!-- EN: pop smoke -->
+  <VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>释放烟雾</VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <!-- EN: Driver -->
+  <VVE_Badger.properties.roles.0.label>驾驶员</VVE_Badger.properties.roles.0.label>
+  <!-- EN: Gunner -->
+  <VVE_Badger.properties.roles.1.label>炮手</VVE_Badger.properties.roles.1.label>
+  <!-- EN: Passenger -->
+  <VVE_Badger.properties.roles.2.label>乘客</VVE_Badger.properties.roles.2.label>
+  
+</LanguageData>

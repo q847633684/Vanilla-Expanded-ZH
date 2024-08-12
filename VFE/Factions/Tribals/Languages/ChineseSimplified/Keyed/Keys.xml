@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Available cornerstone point -->
+  <VFET.AvailableCornerstonePoint>有文明基石点数可用</VFET.AvailableCornerstonePoint>
+	<!-- EN: Available cornerstone points: {0} -->
+  <VFET.AvailableCornerstonePoints>可用的文明基石点数：{0}</VFET.AvailableCornerstonePoints>
+	<!-- EN: You can spend a cornerstone point to gain a permanent, colony-wide buff that will help you shape your civilization. -->
+  <VFET.AvailableCornerstonePointDesc>文明基石能为所有属于你派系的殖民者、动物和机械体提供永久的额外属性加成。\n\n打开屏幕下方的“派系”选项卡，点击左上方的“文明基石”按钮即可进行选择。</VFET.AvailableCornerstonePointDesc>
+	<!-- EN: Cornerstones -->
+  <VFET.Cornerstones>文明基石</VFET.Cornerstones>
+	<!-- EN: Customize cornerstones -->
+  <VFET.CustomizeCornerstones>定制文明基石</VFET.CustomizeCornerstones>
+	<!-- EN: Ethos -->
+  <VFET.Ethos>思潮</VFET.Ethos>
+	<!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently off. The ethos text can auto-regenerate. -->
+  <VFET.EthosUnlocked>锁定或解锁派系的思潮。锁定后，思潮的文本将不会因为选择了文明基石而自动改变。\n\n思潮目前处于锁定状态。</VFET.EthosUnlocked>
+	<!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently on. The ethos text will not auto-regenerate. -->
+  <VFET.EthosLocked>锁定或解锁派系的思潮。锁定后，思潮的文本将不会因为选择了文明基石而自动改变。\n\n思潮目前处于解锁状态。</VFET.EthosLocked>
+	<!-- EN: Gain cornerstone points by advancing to next tech levels -->
+  <VFET.CornerstonesExplanation>通过进阶派系技术级别以赢得文明基石点数</VFET.CornerstonesExplanation>
+	<!-- EN: The core ethos of your faction. This text has no gameplay impact, but associated cornerstones do. -->
+  <VFET.EthosTooltip>属于你派系的核心思潮。选择文明基石会改变这段文本，但它并不会对游戏性产生任何影响。</VFET.EthosTooltip>
+	<!-- EN: Edit ethos -->
+  <VFET.EditEthos>编辑思潮</VFET.EditEthos>
+	<!-- EN: Unlock cornerstone -->
+  <VFET.UnlockCornerstone>解锁文明基石</VFET.UnlockCornerstone>
+	<!-- EN: Relevant cornerstones -->
+  <VFET.StatsReport_Cornerstones>文明基石加成</VFET.StatsReport_Cornerstones>
+	<!-- EN: Research {0} to unlock it -->
+  <VFET.WorkDisabledByMissingResearch>需要研究“{0}”后解锁</VFET.WorkDisabledByMissingResearch>
+	<!-- EN: Form ideology -->
+  <VFET.FormIdeology>创建文化</VFET.FormIdeology>
+	<!-- EN: What should your colonists believe? These beliefs affect gameplay and visuals. You will be able to recruit others to your beliefs, or take on their beliefs.\n\n
+Choosing classic will allow you to play without the ideology system. All Ideology expansion content remains active.\n\n
+Choosing fluid will allow you to start with a basic ideology and develop it over time.\n\n
+Choosing fixed allows you to customize the ideology and every aspect of it. This may take some time. -->
+  <VFET.FormIdeologyDesc>你的殖民者该信仰什么样的文化？这些文化会影响游戏性和视觉效果，你能够招募其他人加入你的文化，或者接受他们的文化。\n\n经典：不激活文化系统的经典游戏模式。适合你最初的几场游戏或者不希望特立独行。所有的文化DLC相关内容仍然有效。\n\n演进：从简单的文化形态开始，随着时间推移发展为复杂的文化形态。\n\n自定义：定制一个新的文化形态，并且调整每一项细节。这可能会消耗一些时间。</VFET.FormIdeologyDesc>
+	<!-- EN: Due to the small number of wild men, they have decided to join you. -->
+  <VFET.WildMenJoin>由于人数上并不占优，野人们在讨论过后决定加入你的殖民地。</VFET.WildMenJoin>
+	<!-- EN: Due to the uncertainty of being able to best you, wild men have decided to retreat. -->
+  <VFET.WildMenRetreat>由于无法确定能否击败你，野人们决定撤退了。</VFET.WildMenRetreat>
+	<!-- EN: Wild men ask to join -->
+  <VFET.WildMenJoinTitle>野人加入请求</VFET.WildMenJoinTitle>
+	<!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they are requesting to join you. They believe that together, you stand a better chance against the elements.\n\nYou can refuse them, but they may retaliate as a result. -->
+  <VFET.WildMenJoinDesc>附近聚落的野人发现了{0}的存在。人数上并不占优的他们决定加入你的殖民地。他们认为只有互帮互助才能更好地生存下去。\n\n你也可以选择拒绝这些野人，但他们有可能会回以报复。</VFET.WildMenJoinDesc>
+	<!-- EN: Wild men raid -->
+  <VFET.WildMenRaid>野人袭击</VFET.WildMenRaid>
+	<!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they have decided to raid you. You might be able to capture and recruit any survivors. -->
+  <VFET.WildMenRaidDesc>附近聚落的野人发现了{0}的存在。人数上占优的他们决定对你的殖民地发起袭击。或许你可以趁机俘虏并招募几名幸存者。</VFET.WildMenRaidDesc>
+	<!-- EN: Reject -->
+  <VFET.Reject>拒绝</VFET.Reject>
+	<!-- EN: {0} work type -->
+  <VFET.WorkTypeName>{0}工作</VFET.WorkTypeName>
+	<!-- EN: Wild man joins -->
+  <VFET_WildmanLetterLabel>野人加入</VFET_WildmanLetterLabel>
+	<!-- EN: A wild man wanders in and decides to join your colony -->
+  <VFET_WildmanLetter>一名野人已游荡到本地区，并决定加入你的殖民地。</VFET_WildmanLetter>
+	<!-- EN: Farm animals wander in -->
+  <VFET_AnimalsLetterLabel>家养动物加入</VFET_AnimalsLetterLabel>
+	<!-- EN: A group of farm animals has been attracted and will join the colony -->
+  <VFET_AnimalsLetter>一群被遗弃或迷路的家养动物已游荡到本地区。\n\n它们似乎习惯与人类相处，并且加入了殖民地。</VFET_AnimalsLetter>
+	<!-- EN: Discovered {0}! -->
+  <VFET_DiscoveryLabel>已理解：{0}！</VFET_DiscoveryLabel>
+	<!-- EN: A new research project has been discovered in a tribal gathering: {0}!\n\n{1} -->
+  <VFET_Discovery>通过部落集会上的讨论，殖民者们理解了新的研究项目：「{0}」！\n\n{1}</VFET_Discovery>
+	<!-- EN: Animal trap has sprung on {0} -->
+  <VFET.AnimalTrapSprung>{0}触发了猎兽陷阱。</VFET.AnimalTrapSprung>
+	<!-- EN: Light large fire -->
+  <VFET.LightLargeFire>点燃大篝火</VFET.LightLargeFire>
+	<!-- EN: Extinguish large fire -->
+  <VFET.ExtinguishLargeFire>扑灭大篝火</VFET.ExtinguishLargeFire>
+	<!-- EN: When burning, large fire emits blindsmoke and has a chance to encourage wild men from the local area to wander in. It's very unstable and may set things around it on fire. -->
+  <VFET.LightLargeFireDesc>大篝火点燃后产生的冲天火光格外引人注目，这会提高袭击与野人加入事件的几率。它燃烧时迸出的火花有引起火灾的风险，请务必提前做好防火措施。</VFET.LightLargeFireDesc>
+	<!-- EN: Some Animal tech research must still be completed. -->
+  <VFET.ResearchLeft_Neolithic>部分「茹毛饮血」技术级别的研究项目仍未完成。</VFET.ResearchLeft_Neolithic>
+	
+	<!--These are needed for Ideology compat -->
+	
+	<!-- EN: optional -->
+  <Optional>可选项</Optional>
+	<!-- EN: Any gathering spot, like a table -->
+  <RitualTargetGatherSpotInfo>任意集合点，比如桌子</RitualTargetGatherSpotInfo>
+	
+	<!-- EN: Must be placed on a floor or stony terrain. -->
+  <VFET.MustPlaceOnFloorOrStonyTerrain>必须放置在地板或岩石地面上。</VFET.MustPlaceOnFloorOrStonyTerrain>
+	<!-- EN: Beauty multiplier for colony {0} tech level -->
+  <VFET.StatsReport_BeautyMultiplier>派系技术级别乘数（{0}）</VFET.StatsReport_BeautyMultiplier>
+	<!-- EN: Requirements not met: Not all research projects of the previous tech level have been researched. -->
+  <VFET.NotAllReseachProjectsResearched>需求未满足：必须完成所有当前技术级别的研究项目。</VFET.NotAllReseachProjectsResearched>
+	<!-- EN: Wild man in black -->
+  <VFET.ManInBlackLabelReplacement>黑衣野人</VFET.ManInBlackLabelReplacement>
+	<!-- EN: Customize NPC ideoligion -->
+  <VFET.CustomizeNPCIdeologion>自定义NPC文化</VFET.CustomizeNPCIdeologion>
+	<!-- EN: Your ideology will be customized upon researching Culture. -->
+  <VFET.CustomizeNPCIdeologionDesc>你需要先完成研究项目“文明”后才能创建自己的文化。</VFET.CustomizeNPCIdeologionDesc>
+
+</LanguageData>

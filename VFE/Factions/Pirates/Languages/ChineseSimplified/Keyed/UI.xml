@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Select Your Curses -->
+  <VFEP.ChooseCurses>选择诅咒</VFEP.ChooseCurses>
+    <!-- EN: The more curses you select, the more pawns your storyteller will allow you to have, and the rarer big threat events will be. -->
+  <VFEP.ChooseCurses.Desc>你承担的诅咒越多，叙述者允许你拥有的殖民者就越多，大型威胁事件发生的频率也越低。</VFEP.ChooseCurses.Desc>
+    <!-- EN: Desired population max: {0} -->
+  <VFEP.DesiredPopMax>最大殖民者数量：{0}</VFEP.DesiredPopMax>
+    <!-- EN: Days between Big Threats: {0} -->
+  <VFEP.DaysBigThreats>大型威胁事件间隔天数：{0}</VFEP.DaysBigThreats>
+    <!-- EN: Warcasket Customization -->
+  <VFEP.WarcasketCustom>机体定制</VFEP.WarcasketCustom>
+    <!-- EN: When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin
+assembling a warcasket. The speed of the assembly depends on the crafting skill of your crafter.
+Once the process is completed, a warcasket will leave the platform. Be careful, as the pawn
+on the platform can still die of hunger when on the platform - you should prioritize the warcasket
+assembly over other tasks. -->
+  <VFEP.WarcasketText>当按下了“接受”选项后，你指定的组装者将会把所需资源带到铸造厂处以开始组装无畏战棺。组装的速度取决于铸造者的手工技能等级。\n组装完成后，新的无畏战棺将会离开铸造厂。请注意：进入铸造厂的殖民者仍然会感到饥饿——为了避免出现饿死事故，你应该优先完成无畏战棺的组装。</VFEP.WarcasketText>
+    <!-- EN: Work Amount: -->
+  <VFEP.WorkAmount>工作量：</VFEP.WorkAmount>
+    <!-- EN: Crafter: -->
+  <VFEP.Crafter>组装者：</VFEP.Crafter>
+    <!-- EN: Helmet: -->
+  <VFEP.Helmet>头盔：</VFEP.Helmet>
+    <!-- EN: Shoulderpads: -->
+  <VFEP.Shoulderpads>护肩：</VFEP.Shoulderpads>
+    <!-- EN: Armor frame: -->
+  <VFEP.ArmorFrame>装甲主体：</VFEP.ArmorFrame>
+    <!-- EN: Total Cost: -->
+  <VFEP.TotalCost>总消耗：</VFEP.TotalCost>
+    <!-- EN: Resource Cost: -->
+  <VFEP.ResourceCost>资源消耗：</VFEP.ResourceCost>
+    <!-- EN: Research more warcasket technology to unlock more armor pieces. -->
+  <VFEP.ResearchText>需要研究更高级的无畏战棺科技才能解锁更多的装甲部件。</VFEP.ResearchText>
+    <!-- EN: Research warcaskets to learn how to use the foundry. -->
+  <VFEP.NoWarcaskets>需要研究「基础型无畏战棺」科技才能使用。</VFEP.NoWarcaskets>
+	<!-- EN: Not enough chemfuel for power jump. -->
+  <VFEP.NotEnoughFuel>没有足够的燃料来进行超级跳跃。</VFEP.NotEnoughFuel>
+	<!-- EN: Siege mode off -->
+  <VFEP.SiegeModeOff>攻城模式</VFEP.SiegeModeOff>
+	<!-- EN: Siege mode on -->
+  <VFEP.SiegeModeOn>攻城模式</VFEP.SiegeModeOn>
+	<!-- EN: Cannot entomb in warcasket: {0} -->
+  <VFEPirates.CannotEntomb>无法进入铸造厂：{0}</VFEPirates.CannotEntomb>
+	<!-- EN: Entomb in warcasket -->
+  <VFEPirates.EntombInWarcasket>进入铸造厂</VFEPirates.EntombInWarcasket>
+	<!-- EN:  (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.) -->
+  <VFEP.EntombInIncapableOfViolenceWarning>(警告：{PAWN_nameDef}无法从事暴力，这会使{PAWN_objective}失效。)</VFEP.EntombInIncapableOfViolenceWarning>
+	<!-- EN: Activate shield field -->
+  <VFEP.ActivateShield>投射护盾</VFEP.ActivateShield>
+	<!-- EN: Click to activate the shield field. It has 10 seconds of active mode and then 90 seconds cooldown. -->
+  <VFEP.ActivateShieldDesc>立即投射一个可以持续10秒左右的移动型低角护盾。</VFEP.ActivateShieldDesc>
+	<!-- EN: Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds. -->
+  <VFEP.DeployWarDrone>开启后背舱口，部署正处于待命状态的战斗无人机，提供用于暂时牵制敌人的压制火力。战斗无人机将会在1分钟后自爆。</VFEP.DeployWarDrone>
+	<!-- EN: Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them. -->
+  <VFEP.DeploySpidermineDesc>部署可以自动追踪并迅速接近周围的敌人的自爆蜘蛛雷。</VFEP.DeploySpidermineDesc>
+	<!-- EN: Cancel -->
+  <VFEP.Cancel>取消</VFEP.Cancel>
+	<!-- EN: Children cannot use this. -->
+  <VFEP.ChildrenCannotUseThis>儿童无法使用。</VFEP.ChildrenCannotUseThis>
+</LanguageData>

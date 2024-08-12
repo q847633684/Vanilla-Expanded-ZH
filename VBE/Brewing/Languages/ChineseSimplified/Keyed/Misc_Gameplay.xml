@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<!-- EN: Syrup to Insert -->
+		<VBE_InsertSyrupDesc>加入糖浆</VBE_InsertSyrupDesc>
+		<!-- EN: Bring Syrup -->
+		<VBE_StartInsertion>添加糖浆</VBE_StartInsertion>
+		<!-- EN: Bring a syrup to the soda fountain to start processing -->
+		<VBE_StartInsertionDesc>往该汽水机添加糖浆以开始加工。</VBE_StartInsertionDesc>
+		<!-- EN: Cancel Bringing Syrup -->
+		<VBE_CancelBringingSyrup>取消添加糖浆</VBE_CancelBringingSyrup>
+		<!-- EN: Cancel bringing syrup to the soda fountain. -->
+		<VBE_CancelBringingSyrupDesc>取消往该汽水机添加糖浆。</VBE_CancelBringingSyrupDesc>
+		<!-- EN: The soda has spoiled due to a power failure in the soda fountain -->
+		<VBE_SyrupFailurePower>由于汽水机断电，汽水已经腐烂。</VBE_SyrupFailurePower>
+		
+		<!-- EN: Must to Insert -->
+		<VBE_InsertAmbMustDesc>加入原浆</VBE_InsertAmbMustDesc>
+		<!-- EN: Bring Must -->
+		<VBE_StartInsertionAmbMust>添加原浆</VBE_StartInsertionAmbMust>
+		<!-- EN: Bring ambrandy must to the ambrandy distillery to start fermentation -->
+		<VBE_StartInsertionAmbMustDesc>往该仙馐酒蒸馏机加入仙馐果原浆以开始酿造。</VBE_StartInsertionAmbMustDesc>
+		<!-- EN: Cancel Bringing Must -->
+		<VBE_CancelBringingAmbMust>取消添加原浆</VBE_CancelBringingAmbMust>
+		<!-- EN: Cancel bringing ambrandy must to the ambrandy distillery. -->
+		<VBE_CancelBringingAmbMustDesc>取消往该仙馐酒蒸馏机加入仙馐果原浆。</VBE_CancelBringingAmbMustDesc>
+		<!-- EN: The ambrandy has spoiled due to a power failure in the ambrandy distillery -->
+		<VBE_AmbrandyFailurePower>由于仙馐酒蒸馏器断电，仙馐酒已经腐烂。</VBE_AmbrandyFailurePower>
+		<!-- EN: Remove Ambrandy ({0}) -->
+		<VBE_RemoveAmbrandy>移除仙馐酒（{0}）</VBE_RemoveAmbrandy>
+		<!-- EN: Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0}) -->
+		<VBE_RemoveAmbrandyDesc>从仙馐酒蒸馏器移除仙馐酒。该仙馐酒会在{0}质量完成。</VBE_RemoveAmbrandyDesc>
+		
+		<!-- EN: Mash or Whiskey to Insert -->
+		<VBE_InsertMustOrWhiskeyDesc>加入原浆或威士忌</VBE_InsertMustOrWhiskeyDesc>
+		<!-- EN: Bring Mash or Whiskey -->
+		<VBE_StartInsertionMustOrWhiskey>添加原浆或威士忌</VBE_StartInsertionMustOrWhiskey>
+		<!-- EN: Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process -->
+		<VBE_StartInsertionMustOrWhiskeyDesc>往该威士忌发酵桶添加威士忌原浆以开始酿造威士忌或添加威士忌以双重酿造。</VBE_StartInsertionMustOrWhiskeyDesc>
+		<!-- EN: Cancel bringing mash or whiskey must to the whiskey cask. -->
+		<VBE_CancelBringingMustOrWhiskey>取消添加原浆或威士忌</VBE_CancelBringingMustOrWhiskey>
+		
+		<!-- EN: Must to Insert -->
+		<VBE_InsertTequilaMustDesc>加入原浆</VBE_InsertTequilaMustDesc>
+		<!-- EN: Bring Must -->
+		<VBE_StartInsertionTequilaMust>添加原浆</VBE_StartInsertionTequilaMust>
+		<!-- EN: Bring tequila must to the tequila barrel to start fermentation process -->
+		<VBE_StartInsertionTequilaMustDesc>往该龙舌兰发酵桶添加龙舌兰原浆以开始酿造。</VBE_StartInsertionTequilaMustDesc>
+		<!-- EN: Cancel Bringing Must -->
+		<VBE_CancelBringingTequilaMust>取消添加原浆</VBE_CancelBringingTequilaMust>
+		<!-- EN: Cancel bringing tequila must to the tequila barrel. -->
+		<VBE_CancelBringingTequilaMustDesc>取消往该龙舌兰发酵桶添加龙舌兰原浆。</VBE_CancelBringingTequilaMustDesc>
+		
+		<!-- EN: Mash to Insert -->
+		<VBE_InsertVodkaMustDesc>加入原浆</VBE_InsertVodkaMustDesc>
+		<!-- EN: Bring Mash -->
+		<VBE_StartInsertionVodkaMust>添加原浆</VBE_StartInsertionVodkaMust>
+		<!-- EN: Bring vodka mash to the vodka drum to start fermentation process -->
+		<VBE_StartInsertionVodkaMustDesc>往该伏特加发酵桶添加伏特加原浆以开始酿造。</VBE_StartInsertionVodkaMustDesc>
+		<!-- EN: Cancel Bringing Mash -->
+		<VBE_CancelBringingVodkaMust>取消添加原浆</VBE_CancelBringingVodkaMust>
+		<!-- EN: Cancel bringing vodka mash to the vodka drum. -->
+		<VBE_CancelBringingVodkaMustDesc>取消往该伏特加发酵桶添加伏特加原浆</VBE_CancelBringingVodkaMustDesc>
+		
+		<!-- EN: Mush to Insert -->
+		<VBE_InsertGinMushDesc>加入原浆</VBE_InsertGinMushDesc>
+		<!-- EN: Bring Mush -->
+		<VBE_StartInsertionGinMush>添加原浆</VBE_StartInsertionGinMush>
+		<!-- EN: Bring gin mush to the gin still to start fermentation process -->
+		<VBE_StartInsertionGinMushDesc>往该琴酒蒸馏器添加琴酒原浆以开始酿造。</VBE_StartInsertionGinMushDesc>
+		<!-- EN: Cancel Bringing Mush -->
+		<VBE_CancelBringingGinMush>取消添加原浆</VBE_CancelBringingGinMush>
+		<!-- EN: Cancel bringing gin mush to the gin still. -->
+		<VBE_CancelBringingGinMushDesc>取消往该琴酒蒸馏器添加琴酒原浆</VBE_CancelBringingGinMushDesc>
+		
+		
+		<!-- EN: Mush ripening -->
+		<VBE_MushRipening>果糊成熟中</VBE_MushRipening>
+		<!-- EN: This mush is frozen and will not ripen into ambrandy must -->
+		<VBE_MushCurrentlyFrozen>该果糊已被冷冻，不会成熟为仙馐酒原浆</VBE_MushCurrentlyFrozen>
+		<!-- EN: This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0}) -->
+		<VBE_MushCurrentlyRefrigerated>该果糊已被冷藏，成熟为仙馐酒原浆的过程减缓（{0}后成熟）</VBE_MushCurrentlyRefrigerated>
+		<!-- EN: This mush is ripening into ambrandy must correctly (ripens in {0}) -->
+		<VBE_MushDryingCorrectly>该果糊正在顺利成熟为仙馐酒原浆（{0}后成熟）</VBE_MushDryingCorrectly>
+		
+		<!-- EN: Cider maturing -->
+		<VBE_CiderMaturing>果酒成熟中</VBE_CiderMaturing>
+		<!-- EN: This unfermented cider is frozen and will not mature into cider -->
+		<VBE_CiderCurrentlyFrozen>该生果酒已被冷冻，不会成熟为果酒</VBE_CiderCurrentlyFrozen>
+		<!-- EN: This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0}) -->
+		<VBE_CiderCurrentlyRefrigerated>该生果酒已被冷藏，成熟为果酒的过程减缓（{0}后成熟）</VBE_CiderCurrentlyRefrigerated>
+		<!-- EN: This unfermented cider is maturing into cider correctly (matures in {0}) -->
+		<VBE_CiderMaturingCorrectly>该生果酒正在顺利成熟为果酒（{0}后成熟）</VBE_CiderMaturingCorrectly>
+		
+		<!-- EN: Unforbid dropped fruit -->
+		<VBE_UnforbidDroppedFruit>自动解禁自然掉落的水果</VBE_UnforbidDroppedFruit>
+		
+		<!-- EN: Never -->
+		<VBE_Never>永不</VBE_Never>
+		<!-- EN: Never unforbid automatically dropped fruit -->
+		<VBE_NeverDesc>永不解禁自然掉落的水果</VBE_NeverDesc>
+		<!-- EN: Home area -->
+		<VBE_HomeArea>仅限居住区</VBE_HomeArea>
+		<!-- EN: Only unforbid automatically dropped fruit if the tree is in the home area -->
+		<VBE_HomeAreaDesc>自动解禁居住区中的果树自然掉落的水果</VBE_HomeAreaDesc>
+		<!-- EN: Always -->
+		<VBE_Always>总是</VBE_Always>
+		<!-- EN: Always unforbid automatically dropped fruit -->
+		<VBE_AlwaysDesc>自动解禁整个地区自然掉落的水果</VBE_AlwaysDesc>
+
+		<!-- Condiment stats (using code from AnimalBehaviours) -->
+		<!-- EN: Consuming meals that include this condiment increases social impact by 10%. -->
+		<VCE_CondimentEffectsMint>使用带有该调料的食物会增强10%的社交效果。</VCE_CondimentEffectsMint>
+	</LanguageData>

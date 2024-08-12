@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Sort by -->
+  <VTE.SortBy>排序依据</VTE.SortBy>
+	<!-- EN: Search -->
+  <VTE.Search>查找</VTE.Search>
+	<!-- EN: Name -->
+  <VTE.Name>名字</VTE.Name>
+	<!-- EN: Item -->
+  <VTE.Item>物品</VTE.Item>
+	<!-- EN: Market Value -->
+  <VTE.MarketValue>市场价值</VTE.MarketValue>
+	<!-- EN: Current Value -->
+  <VTE.CurrentValue>现行价值</VTE.CurrentValue>
+	<!-- EN: Change -->
+  <VTE.Change>总变动</VTE.Change>
+	<!-- EN: Recent Change -->
+  <VTE.RecentChange>近期变动</VTE.RecentChange>
+	
+	<!-- EN: View prices -->
+  <VTE.ViewMarketPrices>查看价格</VTE.ViewMarketPrices>
+	<!-- EN: View news -->
+  <VTE.ViewNews>查看新闻</VTE.ViewNews>
+	<!-- EN: Contact {0} -->
+  <VTE.Contact>联络{0}</VTE.Contact>
+	<!-- EN: Imperial Bank -->
+  <VTE.EmpireBankName>帝国银行</VTE.EmpireBankName>
+	<!-- EN: Bank of {FACTION_name} -->
+  <VTE.BaseBankName>{FACTION_name}银行</VTE.BaseBankName>
+	<!-- EN: Bank of {FACTION_name} -->
+  <VTE.OutlanderCivilBankName>{FACTION_name}银行</VTE.OutlanderCivilBankName>
+	
+	<!-- EN: Local funds: {0} -->
+  <VTE.LocalFunds>殖民地资产：{0}</VTE.LocalFunds>
+	<!-- EN: Bank balance: {0} -->
+  <VTE.BankBalance>存款余额：{0}</VTE.BankBalance>
+	<!-- EN: Bank fees: {0}% -->
+  <VTE.BankFees>银行手续费：{0}%</VTE.BankFees>
+	<!-- EN: Based on {0} goodwill with {FACTION_name} -->
+  <VTE.BankFeesBasedOn>取决于与{FACTION_name}间的友好度：{0}</VTE.BankFeesBasedOn>
+	<!-- EN: Deposit or Withdraw -->
+  <VTE.DepositOrWithdraw>存款 / 取款</VTE.DepositOrWithdraw>
+	<!-- EN: Positive numbers deposit. Negative numbers withdraw. -->
+  <VTE.DepositOrWithdrawDesc>正数存款，负数取款。</VTE.DepositOrWithdrawDesc>
+	<!-- EN: Are you sure that you want to deposit {0} silver? -->
+  <VTE.AreYouSureYouWantToDeposit>你确定要存入{0}白银吗？</VTE.AreYouSureYouWantToDeposit>
+	<!-- EN: Are you sure that you want to withdraw {0} silver? -->
+  <VTE.AreYouSureYouWantToWithdraw>你确定要取出{0}白银吗？</VTE.AreYouSureYouWantToWithdraw>
+	<!-- EN: Breakdown -->
+  <VTE.Breakdown>统计信息</VTE.Breakdown>
+	<!-- EN: Performing transactions will incur a charge based on current Bank fee -->
+  <VTE.BreakdownBankDesc>办理存取款业务时，银行将会收取手续费</VTE.BreakdownBankDesc>
+	<!-- EN: Buying shares of Trading ships can be risky. Follow the news closely to know how the company you're invested in is doing. -->
+  <VTE.BreakdownStockMarketDesc>投资莫贪心，入股需谨慎。购买轨道商船的股票具有一定风险，请通过定期查看新闻以关注你投资的公司的动向。</VTE.BreakdownStockMarketDesc>
+	
+	<!-- EN: Amount to deposit / withdraw -->
+  <VTE.AmountToDepositWithdraw>存款/取款金额</VTE.AmountToDepositWithdraw>
+	<!-- EN: Amount to deposit -->
+  <VTE.AmountToDeposit>存款金额</VTE.AmountToDeposit>
+	<!-- EN: Amount to withdraw -->
+  <VTE.AmountToWithdraw>取款金额</VTE.AmountToWithdraw>
+	<!-- EN: Fees to pay -->
+  <VTE.FeesToPay>手续费</VTE.FeesToPay>
+	<!-- EN: Total -->
+  <VTE.Total>总计</VTE.Total>
+	<!-- EN: Loans -->
+  <VTE.Loans>贷款</VTE.Loans>
+	<!-- EN: Quick Cash loan -->
+  <VTE.QuickCashLoan>快速贷款</VTE.QuickCashLoan>
+	<!-- EN: Short Term loan -->
+  <VTE.ShortTermLoan>短期贷款</VTE.ShortTermLoan>
+	<!-- EN: Long Term loan -->
+  <VTE.LongTermLoan>长期贷款</VTE.LongTermLoan>
+	<!-- EN: Mortgage loan -->
+  <VTE.MortgageLoan>抵押贷款</VTE.MortgageLoan>
+	<!-- EN: Unlocks after putting your money on the deposit -->
+  <VTE.LoanOptionsUnlockText>于存款后解锁</VTE.LoanOptionsUnlockText>
+	<!-- EN: Repay -->
+  <VTE.Repay>还贷金额：</VTE.Repay>
+	<!-- EN: By {0} ({1}) -->
+  <VTE.RepayDate>还贷期限：{0}（{1}）</VTE.RepayDate>
+	<!-- EN: By {0} ({1} left) -->
+  <VTE.RepayDateDaysLeft>还贷期限：{0}（剩余{1}）</VTE.RepayDateDaysLeft>
+	<!-- EN: By {0} (overdue) -->
+  <VTE.RepayDateOverdue>还贷期限：{0}（已逾期）</VTE.RepayDateOverdue>
+
+	<!-- EN: Take loan -->
+  <VTE.TakeLoan>贷款</VTE.TakeLoan>
+	<!-- EN: Repay from balance -->
+  <VTE.RepayFromBalance>用存款余额还贷</VTE.RepayFromBalance>
+	<!-- EN: Loans can only be paid back using bank balance. Make sure to have enough money in your bank when the loan time runs out, or repay it in full beforehand. Failing to have enough silver in your bank account and stocks can result in losing goodwill of the bank faction, as well as incur other consequences until the debt is settled. -->
+  <VTE.LoanExplanation>你只能用存款余额来还贷。在还款日期截止前，请确保银行账户中拥有足够的存款余额，或是提前进行缴清。还贷期限截止后，若银行账户或股票中仍然没有足够的白银，则会大幅损害你与银行所处派系间的友好度，在贷款缴清前还会招致其他可怕的后果。</VTE.LoanExplanation>
+	<!-- EN: Relations with {FACTION_name} became hostile due to being indebted to their bank. -->
+  <VTE.IndebtedMessage>由于未能及时缴清贷款，我们和{FACTION_name}的关系已彻底决裂。他们现在与你为敌。</VTE.IndebtedMessage>
+	<!-- EN: Collectors -->
+  <VTE.CollectorsLabel>讨债者</VTE.CollectorsLabel>
+	<!-- EN: A group of mercenaries have arrived nearby.
+
+They have been hired by {FACTION_name} to encourage you to pay off your debt. -->
+  <VTE.CollectorsText>一群雇佣兵已到达附近。\n\n他们的雇主{FACTION_name}正催促你乖乖还贷。</VTE.CollectorsText>
+	<!-- EN: Pay off your debt using a trading terminal to stop them from coming back. -->
+  <VTE.CollectorsTextPartTwo>你可以使用贸易终端缴清贷款以阻止他们卷土重来。</VTE.CollectorsTextPartTwo>
+	
+	<!-- EN: Local News -->
+  <VTE.LocalNews>世界新闻</VTE.LocalNews>
+	<!-- EN: Filter by -->
+  <VTE.FilterBy>筛选依据</VTE.FilterBy>
+	<!-- EN: All -->
+  <VTE.All>所有</VTE.All>
+	<!-- EN: Only specific category -->
+  <VTE.OnlySpecificCategory>仅看指定种类</VTE.OnlySpecificCategory>
+	<!-- EN: Only trader ship -->
+  <VTE.OnlyTradeShips>仅看商船</VTE.OnlyTradeShips>
+	<!-- EN: Only bullish -->
+  <VTE.OnlyBullish>仅看上涨</VTE.OnlyBullish>
+	<!-- EN: Only bearish -->
+  <VTE.OnlyBearish>仅看下跌</VTE.OnlyBearish>
+	<!-- EN: News -->
+  <VTE.News>新闻</VTE.News>
+	<!-- EN: Date -->
+  <VTE.Date>日期</VTE.Date>
+	<!-- EN: Price history of {0} -->
+  <VTE.PriceHistory>{0}的价值变动记录</VTE.PriceHistory>
+	<!-- EN: Price of {0} is squeezing. -->
+  <VTE.SqueezeMessage>{0}的价值正在暴涨。</VTE.SqueezeMessage>
+	<!-- EN: Price of {0} is crashing. -->
+  <VTE.CrashMessage>{0}的价值正在暴跌。</VTE.CrashMessage>
+	<!-- EN: Open stock market -->
+  <VTE.OpenStockMarket>查看股票市场</VTE.OpenStockMarket>
+	<!-- EN: Company -->
+  <VTE.Company>公司</VTE.Company>
+	<!-- EN: Value -->
+  <VTE.Value>股价</VTE.Value>
+	<!-- EN: Shares held -->
+  <VTE.SharesHeld>持股数量</VTE.SharesHeld>
+	<!-- EN: Shares -->
+  <VTE.Shares>持股数量</VTE.Shares>
+	<!-- EN: Profit -->
+  <VTE.Profit>利润</VTE.Profit>
+	<!-- EN: Profit/Loss -->
+  <VTE.ProfitLoss>盈利/亏损</VTE.ProfitLoss>
+	<!-- EN: Chart history of {0} -->
+  <VTE.ChartHistory>{0}的股价涨跌记录</VTE.ChartHistory>
+	<!-- EN: Positive numbers buy.
+Negative numbers sell. -->
+  <VTE.SharesTransactionHeader>正数买入，负数卖出。</VTE.SharesTransactionHeader>
+	<!-- EN: Follow news -->
+  <VTE.FollowNews>关注新闻</VTE.FollowNews>
+	<!-- EN: Money in banks: {0} -->
+  <VTE.MoneyInBanks>银行存款余额：{0}</VTE.MoneyInBanks>
+	<!-- EN: Transaction cost -->
+  <VTE.TransactionCost>交易支出</VTE.TransactionCost>
+	<!-- EN: Transaction gain -->
+  <VTE.TransactionGain>交易获利</VTE.TransactionGain>
+	<!-- EN: Money in banks after -->
+  <VTE.MoneyInBanksAfter>存款余额</VTE.MoneyInBanksAfter>
+	<!-- EN: Select bank deposits to pay for shares -->
+  <VTE.BankDepositsToSpend>要使用哪个银行账户付款？</VTE.BankDepositsToSpend>
+	<!-- EN: Select bank deposits to put money from shares -->
+  <VTE.BankDepositsToGain>要使用哪个银行账户收款？</VTE.BankDepositsToGain>
+	<!-- EN: Transaction cost to pay: {0} -->
+  <VTE.TransactionCostToPay>交易支出：{0}</VTE.TransactionCostToPay>
+	<!-- EN: Money to spend: {0} -->
+  <VTE.MoneyToSpend>转出金额：{0}</VTE.MoneyToSpend>
+	<!-- EN: Transaction gain to transfer: {0} -->
+  <VTE.TransactionGainToTransfer>交易获利：{0}</VTE.TransactionGainToTransfer>
+	<!-- EN: Money to transfer: {0} -->
+  <VTE.MoneyToTransfer>转入金额：{0}</VTE.MoneyToTransfer>
+	<!-- EN: Open contracts -->
+  <VTE.OpenContracts>查看期货合约</VTE.OpenContracts>
+	<!-- EN: Contracts -->
+  <VTE.Contracts>期货合约</VTE.Contracts>
+	<!-- EN: Completing contracts will have the funds transferred to your bank account(s) and the items removed from your inventory. You need to be quick, as higher mark-up indicates that the contract is popular, and it might be snatched before the items are ready. -->
+  <VTE.ContractsExplanation>只有放置在存储区内的物品才能用于“交货”。发布期货合约的买方将会派遣远行队来上门取货。完成期货合约后，作为报酬的白银将会直接转入至你的银行账户中。加价倍率高的期货合约往往十分抢手，若是磨磨蹭蹭的话则要小心被其他人捷足先登。</VTE.ContractsExplanation>
+	<!-- EN: Contract -->
+  <VTE.Contract>期货合约</VTE.Contract>
+	<!-- EN: Reward -->
+  <VTE.Reward>酬金</VTE.Reward>
+	<!-- EN: Mark-up -->
+  <VTE.Markup>加价倍率</VTE.Markup>
+	<!-- EN: Time until the end -->
+  <VTE.TimeUntilTheEnd>剩余时间</VTE.TimeUntilTheEnd>
+	<!-- EN: Your Contracts -->
+  <VTE.YourContracts>你的期货合约</VTE.YourContracts>
+	<!-- EN: Complete contract -->
+  <VTE.CompleteContract>交货</VTE.CompleteContract>
+	<!-- EN: Insufficient asset -->
+  <VTE.InsufficientAsset>物品不足</VTE.InsufficientAsset>
+	<!-- EN: Cancel contract -->
+  <VTE.CancelContract>取消期货合约</VTE.CancelContract>
+	<!-- EN: Submit contract -->
+  <VTE.SubmitContract>发布期货合约</VTE.SubmitContract>
+	<!-- EN: Select item -->
+  <VTE.SelectItem>选择物品</VTE.SelectItem>
+	<!-- EN: You can submit your own contracts. Specify the amount of the item, the mark-up and the duration. Longer contracts with higher mark-up have a higher chance of being completed. Not having enough money in the bank accounts to cover the contract reward will automatically cancel the contract. -->
+  <VTE.YourContractsExplanation>你可以发布自己的期货合约。发布前应设定好所需物品数量、加价倍率以及合约期限。加价倍率越高，合约期限越长，被其他人接取的概率就越大。若银行账户中没有足够的白银以支付酬金，期货合约将会自动取消。</VTE.YourContractsExplanation>
+	<!-- EN: The caravan will arrive to pick up the contracted items in 3 days. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.ContractCompletedMessage>买方的远行队将会在3天后上门取货。在他们到达前，请妥善保管好需要交付的物品。当远行队拿到所有货物并安全离开殖民地后，酬金将会直接转入至你的银行账户中。</VTE.ContractCompletedMessage>
+	<!-- EN: Due to the fact that your location has become dangerous, the caravan that arrived for the contracted items left the map. They will return for the items when it is safe.
+	
+Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.CaravanContractWillReturnMessage>由于殖民地所在地区出现危险情况，前来上门取货的远行队离开了地图。他们会等到一切安全后再折返回来。</VTE.CaravanContractWillReturnMessage>
+	<!-- EN: A caravan from {0} is approaching. They are collecting contracted items. -->
+  <VTE.LetterTraderCaravanArrival>一队来自{0}的远行队正在接近，他们是前来上门取货的。\n\n如果他们死亡，期货合约将无法完成。请一定要确保他们的安全。</VTE.LetterTraderCaravanArrival>
+	<!-- EN: The caravan didn’t find the promised goods and leaves the area. You will not receive any payment. -->
+  <VTE.CaravanDidNotCollectAllItems>买方的远行队没有拿到合约指定的任何物品。根据先前签订的期货合约协议，他们将不会支付任何酬金。</VTE.CaravanDidNotCollectAllItems>
+	<!-- EN: Select bank deposits to put reward for completed contract -->
+  <VTE.BankDepositsToPutContractReward>要使用哪个银行账户收款？</VTE.BankDepositsToPutContractReward>
+	<!-- EN: The caravan could not obtain all of the items. They will pay {0} of the contract reward - total of {1} silver. Select bank deposits to put reward. -->
+  <VTE.BankDepositsToPutContractRewardPartially>买方的远行队没有拿到合约指定的全部物品。根据先前签订的期货合约协议，他们将支付酬金的{0}——总计{1}白银。要使用哪个银行账户收款？</VTE.BankDepositsToPutContractRewardPartially>
+	<!-- EN: Select -->
+  <VTE.Select>选择</VTE.Select>
+	<!-- EN: Select stuff -->
+  <VTE.SelectStuff>选择材质</VTE.SelectStuff>
+	<!-- EN: Contract on {0} is fulfilled. Pay money from bank deposits to retrieve the goods. -->
+  <VTE.PayMoneyForContract>有卖方想要履行{0}的期货合约。将酬金转给他们后，物品将通过空投舱送达。要使用哪个银行账户付款？</VTE.PayMoneyForContract>
+	<!-- EN: Contract fulfilled -->
+  <VTE.ContractFullfilled>期货合约已履行</VTE.ContractFullfilled>
+	<!-- EN: A contract has been fulfilled by an interested party. The funds required have been transferred to them.
+Cargo pods are arriving containing:
+ -->
+  <VTE.ContractFullfilledDesc>卖方已履行期货合约，酬金已直接转入至他们的银行账户中。\n包含有下列物品的空投舱已到达：\n</VTE.ContractFullfilledDesc>
+	<!-- EN: How often news will appear: -->
+  <VTE.NewsSpawnOption>新闻发生的频率：</VTE.NewsSpawnOption>
+	<!-- EN: Player transaction impact multiplier on price fluctuation: -->
+  <VTE.PlayerTransactionImpactMultiplierOption>玩家对价值波动的交易影响乘数：</VTE.PlayerTransactionImpactMultiplierOption>
+	<!-- EN: Player contract fulfilment chance multiplier: -->
+  <VTE.PlayerContractFulfilmentChanceMultiplier>玩家期货合约履行几率乘数：</VTE.PlayerContractFulfilmentChanceMultiplier>
+	<!-- EN: NPC contract fulfilment chance multiplier: -->
+  <VTE.NPCContractFulfilmentChanceMultiplier>NPC期货合约履行几率乘数：</VTE.NPCContractFulfilmentChanceMultiplier>
+	<!-- EN: Max available NPC contract count: -->
+  <VTE.MaxNPCContractCount>可接取NPC期货合约的最大数量：</VTE.MaxNPCContractCount>
+	<!-- EN: Max trade company count: -->
+  <VTE.MaxCompanyCount>商船贸易公司的最大数量：</VTE.MaxCompanyCount>
+	<!-- EN: Maximum mark-up on NPC contract: -->
+  <VTE.MaximumMarkupOnNPCContract>NPC发布期货合约时的最高加价倍率：</VTE.MaximumMarkupOnNPCContract>
+	<!-- EN: Multiplier of how much news affect the market: -->
+  <VTE.NewsPriceImpactMultiplier>新闻对市场物品价值的影响乘数：</VTE.NewsPriceImpactMultiplier>
+	<!-- EN: Amount of random item price fluctuations: -->
+  <VTE.AmountOfRandomItemsToFluctuate>物品价值发生随机波动时的波动倍率：</VTE.AmountOfRandomItemsToFluctuate>
+	<!-- EN: Reset price fluctuations -->
+  <VTE.ResetPriceChanges>重设所有的价值波动</VTE.ResetPriceChanges>
+	<!-- EN: You can only take this loan again on {0}. -->
+  <VTE.YouCanTakeThisLoanOn>贷款正在冷却。下次可贷款的日期：{0}</VTE.YouCanTakeThisLoanOn>
+	<!-- EN: Blacklist collectibles (Eggs, Meat, Leather and Wool) for contracts -->
+  <VTE.ContractBlackListCollectibles>启用期货合约黑名单（蛋类、肉类、皮革和动物毛不会作为需交付的货物出现）</VTE.ContractBlackListCollectibles>
+	<!-- EN: Caravan-less contract item pickup -->
+  <VTE.CaravanLessContractItemPickup>NPC不需要派遣远行队就能收取货物</VTE.CaravanLessContractItemPickup>
+	<!-- EN: Maximum value of NPC contracts in silver: -->
+  <VTE.MaximumMarketValueOfItemsInContracts>NPC期货合约最高价值（白银）：</VTE.MaximumMarketValueOfItemsInContracts>
+	<!-- EN: Maximum value of NPC contracts in percentage of wealth: -->
+  <VTE.MaximumMarketValueOfItemsPerPlayerWealth>NPC期货合约最高价值（财富值百分比）：</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+	<!-- EN: Price fluctuation limitations -->
+  <VTE.MaximumPriceFluctuations>价值波动上限</VTE.MaximumPriceFluctuations>
+	<!-- EN: Negative change: {0} -->
+  <VTE.MinimumOfMarketValue>下跌：{0}</VTE.MinimumOfMarketValue>
+	<!-- EN: Positive change: {0} -->
+  <VTE.MaximumOfMarketValue>上涨：{0}</VTE.MaximumOfMarketValue>
+</LanguageData>

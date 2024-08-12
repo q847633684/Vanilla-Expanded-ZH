@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adrenaline rush -->
+  <GR_AdrenalineBurst.label>肾上腺素激发</GR_AdrenalineBurst.label>
+  <!-- EN: Adrenaline rush greatly increases the speed of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_AdrenalineBurst.description>使肾上腺超负荷运转，大幅提升自身的移动速度。效果结束后会陷入长达半天的力竭状态。</GR_AdrenalineBurst.description>
+  <!-- EN: exhausted -->
+  <GR_AdrenalineBurst.stages.exhausted.label>力竭</GR_AdrenalineBurst.stages.exhausted.label>
+  
+  <!-- EN: victim of blood frenzy -->
+  <GR_BloodFrenzy.label>遭受嗜血狂猎攻击</GR_BloodFrenzy.label>
+  <!-- EN: This creature has been victim of a frenzied attack. -->
+  <GR_BloodFrenzy.description>此单位已被拥有“嗜血狂猎”能力的生物攻击了。</GR_BloodFrenzy.description>
+  
+  <!-- EN: burrowing underground -->
+  <GR_Burrowing.label>潜入地下</GR_Burrowing.label>
+  <!-- EN: Burrows underground to be able to move while being almost impervious to attacks. This ability needs to be recharged to be used again. -->
+  <GR_Burrowing.description>挖洞潜入地下，极大幅提升自身的防御力。</GR_Burrowing.description>
+  <!-- EN: recovering -->
+  <GR_Burrowing.stages.recovering.label>正在恢复</GR_Burrowing.stages.recovering.label>
+  
+  <!-- EN: cat reflexes -->
+  <GR_CatReflexes.label>猫之本能</GR_CatReflexes.label>
+  <!-- EN: Cat reflexes greatly increases the speed and melee dodge chance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_CatReflexes.description>激发猫科生物的本能，提升自身的移动速度与近战闪避几率。</GR_CatReflexes.description>
+  <!-- EN: exhausted -->
+  <GR_CatReflexes.stages.exhausted.label>正在恢复</GR_CatReflexes.stages.exhausted.label>
+  
+  <!-- EN: recently invoked the insanity of That Which Man Is Not Meant to Know -->
+  <GR_CausedHorror.label>释放疯狂迷雾</GR_CausedHorror.label>
+  <!-- EN: Releases an insanity cloud that reduces sanity of anyone passing through it, and then it needs to be recharged to be used again. -->
+  <GR_CausedHorror.description>向四周散布大量能使生物逐渐丧失理智的迷雾。</GR_CausedHorror.description>
+  <!-- EN: recovering -->
+  <GR_CausedHorror.stages.recovering.label>正在恢复</GR_CausedHorror.stages.recovering.label>
+  
+  <!-- EN: recently released poison cloud -->
+  <GR_CausedPoisonCloud.label>释放毒气</GR_CausedPoisonCloud.label>
+  <!-- EN: Releases a poison cloud that harms anyone passing through it, except reptilians, and then it needs to be recharged to be used again. -->
+  <GR_CausedPoisonCloud.description>向四周散布大量能使生物中毒的毒气。</GR_CausedPoisonCloud.description>
+  <!-- EN: recovering -->
+  <GR_CausedPoisonCloud.stages.recovering.label>正在恢复</GR_CausedPoisonCloud.stages.recovering.label>
+  
+  <!-- EN: warping -->
+  <GR_DistortionHediff.label>扭曲伤</GR_DistortionHediff.label>
+  <!-- EN: This body part has been terribly warped by being exposed to a dangerous spatial distortion. Warping is very painful, and warped body parts are often lost. -->
+  <GR_DistortionHediff.description>空间扭曲弹造成的扭曲伤口。</GR_DistortionHediff.description>
+  <!-- EN: warped scar -->
+  <GR_DistortionHediff.comps.HediffComp_GetsPermanent.permanentLabel>扭曲疤痕</GR_DistortionHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to warping -->
+  <GR_DistortionHediff.injuryProps.destroyedLabel>被粉碎</GR_DistortionHediff.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <GR_DistortionHediff.labelNounPretty>{1}中的{0}</GR_DistortionHediff.labelNounPretty>
+  
+  <!-- EN: brain extracted -->
+  <GR_ExtractedBrain.label>大脑被抽取</GR_ExtractedBrain.label>
+  <!-- EN: The brain or neural center of this creature has been extracted and refined into genetic material. -->
+  <GR_ExtractedBrain.description>此单位的大脑已被基因抽取器转化成了基因物质。</GR_ExtractedBrain.description>
+  
+  <!-- EN: frenzied -->
+  <GR_Frenzied.label>嗜血狂暴</GR_Frenzied.label>
+  <!-- EN: The smell of its enemies' blood has filled this hybrid with a frenzy. -->
+  <GR_Frenzied.description>此单位正因敌人鲜血的气味而变得愈发狂暴。</GR_Frenzied.description>
+  
+  <!-- EN: suffocating damage -->
+  <GR_HairballDamage.label>窒息</GR_HairballDamage.label>
+  <!-- EN: Genetically altered hairballs are suffocating this creature. This negatively affects breathing and can even cause unconsciousness. -->
+  <GR_HairballDamage.description>被基因工程改造过的毛团包裹了脸部。此单位的呼吸能力会逐渐降低，严重时还会呕吐或昏迷。</GR_HairballDamage.description>
+  <!-- EN: initial-hidden -->
+  <GR_HairballDamage.stages.initialhidden.label>轻微</GR_HairballDamage.stages.initialhidden.label>
+  <!-- EN: initial -->
+  <GR_HairballDamage.stages.initial.label>轻微</GR_HairballDamage.stages.initial.label>
+  <!-- EN: minor -->
+  <GR_HairballDamage.stages.minor.label>较轻</GR_HairballDamage.stages.minor.label>
+  <!-- EN: moderate -->
+  <GR_HairballDamage.stages.moderate.label>中等</GR_HairballDamage.stages.moderate.label>
+  <!-- EN: serious -->
+  <GR_HairballDamage.stages.serious.label>严重</GR_HairballDamage.stages.serious.label>
+  <!-- EN: extreme -->
+  <GR_HairballDamage.stages.extreme.label>极重</GR_HairballDamage.stages.extreme.label>
+  <!-- EN: nauseating -->
+  <GR_HairballDamage.stages.nauseating.label>恶心</GR_HairballDamage.stages.nauseating.label>
+  
+  <!-- EN: highly flammable -->
+  <GR_HighlyFlammable.label>高度易燃</GR_HighlyFlammable.label>
+  <!-- EN: This creature will die quickly if set on fire. -->
+  <GR_HighlyFlammable.description>此单位极易受到火焰伤害。</GR_HighlyFlammable.description>
+  
+  <!-- EN: releasing insect clouds -->
+  <GR_InsectClouds.label>释放嗜杀虫群</GR_InsectClouds.label>
+  <!-- EN: Releases insect clouds that damage anyone crossing through them, except insectoids, and then it needs to be recharged to be used again. -->
+  <GR_InsectClouds.description>释放大量环绕在自身附近的嗜杀虫群，任何靠近的生物都会遭到它们的攻击。</GR_InsectClouds.description>
+  <!-- EN: recovering -->
+  <GR_InsectClouds.stages.recovering.label>正在恢复</GR_InsectClouds.stages.recovering.label>
+  
+  <!-- EN: sudden detonation -->
+  <GR_Kamikaze.label>突然引爆</GR_Kamikaze.label>
+  <!-- EN: Boom. -->
+  <GR_Kamikaze.description>Boom！</GR_Kamikaze.description>
+  <!-- EN: initial-hidden -->
+  <GR_Kamikaze.stages.initialhidden.label>轻微</GR_Kamikaze.stages.initialhidden.label>
+  <!-- EN: critical -->
+  <GR_Kamikaze.stages.critical.label>极重</GR_Kamikaze.stages.critical.label>
+  
+  <!-- EN: keen senses -->
+  <GR_KeenSenses.label>感官敏化</GR_KeenSenses.label>
+  <!-- EN: Keen senses greatly increases sight and conciousness of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_KeenSenses.description>洞察周围的环境，大幅提升自身的视觉能力、意识与近战命中率。</GR_KeenSenses.description>
+  <!-- EN: exhausted -->
+  <GR_KeenSenses.stages.exhausted.label>疲乏</GR_KeenSenses.stages.exhausted.label>
+  
+  <!-- EN: needs very little sleep -->
+  <GR_LowRest.label>不眠不休</GR_LowRest.label>
+  <!-- EN: This creature has very little need for sleep, and can stay awake for a long time. -->
+  <GR_LowRest.description>此单位几乎不需要睡眠，可以长时间保持清醒状态。</GR_LowRest.description>
+  
+  <!-- EN: melee dodging -->
+  <GR_MeleeDodge.label>近战闪避</GR_MeleeDodge.label>
+  <!-- EN: This hybrid is very agile and receives a considerable bonus to melee dodge. -->
+  <GR_MeleeDodge.description>此单位拥有一定的近战闪避几率加成。</GR_MeleeDodge.description>
+  
+  <!-- EN: no pain sensitivity -->
+  <GR_NoPain.label>无惧疼痛</GR_NoPain.label>
+  <!-- EN: This hybrid has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <GR_NoPain.description>此单位几乎感受不到任何疼痛。</GR_NoPain.description>
+  
+  <!-- EN: pack tactics -->
+  <GR_PackTactics.label>狼群战术</GR_PackTactics.label>
+  <!-- EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+  <GR_PackTactics.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTactics.description>
+  
+  <!-- EN: pack tactics -->
+  <GR_PackTacticsBuff.label>狼群战术</GR_PackTacticsBuff.label>
+  <!-- EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+  <GR_PackTacticsBuff.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTacticsBuff.description>
+  
+  <!-- EN: permanent burn -->
+  <GR_PermanentBurn.label>永久性烧伤</GR_PermanentBurn.label>
+  <!-- EN: A permanent burn scar that cannot be treated. -->
+  <GR_PermanentBurn.description>永久性烧伤伤口。</GR_PermanentBurn.description>
+  <!-- EN: permanent burn -->
+  <GR_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>永久性烧伤</GR_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <GR_PermanentBurn.injuryProps.destroyedLabel>被烧毁</GR_PermanentBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <GR_PermanentBurn.injuryProps.destroyedOutLabel>被烧掉</GR_PermanentBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a permanent burn -->
+  <GR_PermanentBurn.labelNoun>永久性烧伤</GR_PermanentBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <GR_PermanentBurn.labelNounPretty>{1}中的{0}</GR_PermanentBurn.labelNounPretty>
+  
+  <!-- EN: victim of rabid slash -->
+  <GR_RabidSlash.label>遭受嗜血收割攻击</GR_RabidSlash.label>
+  <!-- EN: This creature has been victim of a rabid slash. -->
+  <GR_RabidSlash.description>此单位已被拥有“嗜血收割”能力的生物攻击了。</GR_RabidSlash.description>
+  
+  <!-- EN: recently hatched -->
+  <GR_RecentlyHatched.label>初生</GR_RecentlyHatched.label>
+  <!-- EN: This creature has recently hatched from an incubator. -->
+  <GR_RecentlyHatched.description>此单位最近刚从孵化器中诞生。</GR_RecentlyHatched.description>
+  
+  <!-- EN: research drive -->
+  <GR_ResearchDrive.label>研究激励</GR_ResearchDrive.label>
+  <!-- EN: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
+  <GR_ResearchDrive.description>向周围的殖民者分享自身对科研项目的独到见解，提高他们的研究速度。</GR_ResearchDrive.description>
+  
+  <!-- EN: research drive -->
+  <GR_ResearchDriveBuff.label>研究激励</GR_ResearchDriveBuff.label>
+  <!-- EN: Being offered investigative insights.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
+  <GR_ResearchDriveBuff.description>研究速度得到了提高。</GR_ResearchDriveBuff.description>
+  
+  <!-- EN: sadistic adrenaline -->
+  <GR_SadisticAdrenaline.label>肾上腺素激发-施虐</GR_SadisticAdrenaline.label>
+  <!-- EN: The lizardman has slaughtered a colony prisoner in cold blood, triggering the release of a potent hormone complex that is making it faster and stronger. This will last for a few hours. -->
+  <GR_SadisticAdrenaline.description>此单位残忍地宰杀了一名囚犯或殖民地动物，其体内释放的强效肾上腺素大幅提升了各项属性。</GR_SadisticAdrenaline.description>
+  
+  <!-- EN: increased stamina -->
+  <GR_Stamina.label>耐力强化</GR_Stamina.label>
+  <!-- EN: Increased stamina greatly increases the armor and pain resistance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_Stamina.description>大幅提升自身的防御力，并降低痛觉中枢的敏感度。</GR_Stamina.description>
+  <!-- EN: exhausted -->
+  <GR_Stamina.stages.exhausted.label>疲乏</GR_Stamina.stages.exhausted.label>
+  
+  <!-- EN: stampeding -->
+  <GR_Stampeding.label>秘兽疾驰</GR_Stampeding.label>
+  <!-- EN: The stampeding ability increases the hybrid's speed and releases clouds of dust that block ranged visibility. Once used, this ability needs to be recharged to be used again. -->
+  <GR_Stampeding.description>大幅提升自身的移动速度，并扬起能够遮蔽瞄准视线的烟尘。</GR_Stampeding.description>
+  <!-- EN: recovering -->
+  <GR_Stampeding.stages.recovering.label>正在恢复</GR_Stampeding.stages.recovering.label>
+  
+  <!-- EN: toxic damage -->
+  <GR_ToxicDamage.label>中毒</GR_ToxicDamage.label>
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with toxic damage can be eaten. -->
+  <GR_ToxicDamage.description>流淌在血液里的毒素。来源可能是：来自环境的毒素、有毒生物的叮咬、或有毒的武器。\n毒素的积聚是致命的，即使是低剂量，它也能引发癌症。\n\n与游戏本体的中毒效果相反，死于这种毒性伤害的生物可以被吃掉。</GR_ToxicDamage.description>
+  <!-- EN: initial-hidden -->
+  <GR_ToxicDamage.stages.initialhidden.label>轻微</GR_ToxicDamage.stages.initialhidden.label>
+  <!-- EN: initial -->
+  <GR_ToxicDamage.stages.initial.label>轻微</GR_ToxicDamage.stages.initial.label>
+  <!-- EN: minor -->
+  <GR_ToxicDamage.stages.minor.label>较轻</GR_ToxicDamage.stages.minor.label>
+  <!-- EN: moderate -->
+  <GR_ToxicDamage.stages.moderate.label>中等</GR_ToxicDamage.stages.moderate.label>
+  <!-- EN: serious -->
+  <GR_ToxicDamage.stages.serious.label>严重</GR_ToxicDamage.stages.serious.label>
+  <!-- EN: extreme -->
+  <GR_ToxicDamage.stages.extreme.label>极重</GR_ToxicDamage.stages.extreme.label>
+  
+  <!-- EN: recently vented exhaust gasses -->
+  <GR_VentedExhaust.label>热气排出</GR_VentedExhaust.label>
+  <!-- EN: Vents exhaust fumes on the 8 adjacent tiles, burning anyone unlucky enough to be in melee, and then it needs to be recharged to be used again. -->
+  <GR_VentedExhaust.description>主动排出内部积攒的高热气体，对作用范围内的所有生物造成高额伤害。</GR_VentedExhaust.description>
+  <!-- EN: recovering -->
+  <GR_VentedExhaust.stages.recovering.label>正在恢复</GR_VentedExhaust.stages.recovering.label>
+  
+  <!-- EN: needs very little sleep -->
+  <GR_VeryLowRest.label>不眠不休</GR_VeryLowRest.label>
+  <!-- EN: This creature has very little need for sleep, and can stay awake for a long time. -->
+  <GR_VeryLowRest.description>此单位几乎不需要睡眠，可以长时间保持清醒状态。</GR_VeryLowRest.description>
+  
+</LanguageData>

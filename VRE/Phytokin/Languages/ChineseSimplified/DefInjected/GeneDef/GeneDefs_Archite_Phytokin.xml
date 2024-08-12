@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: photosynthesis -->
+  <VRE_Photosynthesis.label>光合作用</VRE_Photosynthesis.label>
+  <!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
+  <VRE_Photosynthesis.description>这种基因的携带者的皮肤由特殊基因组成，能够将太阳能转化为化学能。如果他们沐浴于阳光下，将不会感到饥饿。</VRE_Photosynthesis.description>
+  <!-- EN: photo -->
+  <VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>光合</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: synthesis -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>作用</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>植物</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: polux affinity -->
+  <VRE_PoluxAffinity.label>粹树亲和</VRE_PoluxAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger. -->
+  <VRE_PoluxAffinity.description>这种基因的携带者与粹树有着特殊的联系，这种联系使其能够放大粹树的特殊能力。他们每年可种植一颗会逐渐生长的粹灌木，他们的存在也会加强粹灌木的清污效果。他们也可以食用有毒垃圾，如果没有有毒垃圾可以食用，那他们将会不开心。食用有毒垃圾并不会缓解他们的饥饿。</VRE_PoluxAffinity.description>
+  <!-- EN: All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map. -->
+  <VRE_PoluxAffinity.customEffectDescriptions.0>地图内每存在一个粹树亲和基因的携带者，粹灌木的半径就会+2。</VRE_PoluxAffinity.customEffectDescriptions.0>
+  <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
+  <VRE_PoluxAffinity.resourceDescription>{PAWN_nameDef}需要食用有毒垃圾</VRE_PoluxAffinity.resourceDescription>
+  <!-- EN: wastepacks -->
+  <VRE_PoluxAffinity.resourceLabel>有毒垃圾</VRE_PoluxAffinity.resourceLabel>
+  <!-- EN: pol -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>粹树</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: polux -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>粹树</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: saplingbirth -->
+  <VRE_SaplingBirth.label>育苗</VRE_SaplingBirth.label>
+  <!-- EN: Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it. -->
+  <VRE_SaplingBirth.description>这种基因的携带者并非通过怀孕而是以种植名叫婴苗的植物来繁衍后代。当婴苗完全成熟时，就可以从中获得一个孩子。</VRE_SaplingBirth.description>
+  <!-- EN: Plants saplingchild instead of pregnancy and live birth. -->
+  <VRE_SaplingBirth.customEffectDescriptions.0>由胎生变为种植婴苗繁殖。</VRE_SaplingBirth.customEffectDescriptions.0>
+  <!-- EN: Planting a saplingchild makes the pawn temporarily infertile. -->
+  <VRE_SaplingBirth.customEffectDescriptions.1>种下婴苗后会暂时陷入不育疲劳期。</VRE_SaplingBirth.customEffectDescriptions.1>
+  <!-- EN: sapling -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>育苗</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: spawn -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>生长</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: seed -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>种子</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

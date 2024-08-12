@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFED_AmmoBox_UraniumSlug.label>uranium slug ammo box</VFED_AmmoBox_UraniumSlug.label>
+  <VFED_AmmoBox_UraniumSlug.description>A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged.</VFED_AmmoBox_UraniumSlug.description>
+  <VFED_AmmoBox_UraniumSlug_Blueprint.label>uranium slug ammo box (blueprint)</VFED_AmmoBox_UraniumSlug_Blueprint.label>
+  <VFED_AmmoBox_UraniumSlug_Frame.label>uranium slug ammo box (building)</VFED_AmmoBox_UraniumSlug_Frame.label>
+  <VFED_AmmoBox_UraniumSlug_Frame.description>A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged.</VFED_AmmoBox_UraniumSlug_Frame.description>
+
+  <VFED_AmmoBox_Autocannon.label>autocannon ammo box</VFED_AmmoBox_Autocannon.label>
+  <VFED_AmmoBox_Autocannon.description>A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged.</VFED_AmmoBox_Autocannon.description>
+  <VFED_AmmoBox_Autocannon_Blueprint.label>autocannon ammo box (blueprint)</VFED_AmmoBox_Autocannon_Blueprint.label>
+  <VFED_AmmoBox_Autocannon_Frame.label>autocannon ammo box (building)</VFED_AmmoBox_Autocannon_Frame.label>
+  <VFED_AmmoBox_Autocannon_Frame.description>A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged.</VFED_AmmoBox_Autocannon_Frame.description>
+
+  <VFED_AmmoBox_Missile.label>missile ammo box</VFED_AmmoBox_Missile.label>
+  <VFED_AmmoBox_Missile.description>A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged.</VFED_AmmoBox_Missile.description>
+  <VFED_AmmoBox_Missile_Blueprint.label>missile ammo box (blueprint)</VFED_AmmoBox_Missile_Blueprint.label>
+  <VFED_AmmoBox_Missile_Frame.label>missile ammo box (building)</VFED_AmmoBox_Missile_Frame.label>
+  <VFED_AmmoBox_Missile_Frame.description>A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged.</VFED_AmmoBox_Missile_Frame.description>
+
+  <VFED_SupplyCrate.label>supply crate</VFED_SupplyCrate.label>
+  <VFED_SupplyCrate.description>A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while.\n\nAny attempt to destroy it will destroy the items as well.</VFED_SupplyCrate.description>
+
+  <VFED_BiosecuredCrate.label>biosecured crate</VFED_BiosecuredCrate.label>
+  <VFED_BiosecuredCrate.description>A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it.\n\nAny attempt to destroy it will destroy the items as well.</VFED_BiosecuredCrate.description>
+
+  <VFED_SurveillancePillar.label>surveillance pillar</VFED_SurveillancePillar.label>
+  <VFED_SurveillancePillar.description>A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid.</VFED_SurveillancePillar.description>
+
+  <VFED_AerodroneMunitionsCrate.label>aerodrone munitions crate</VFED_AerodroneMunitionsCrate.label>
+  <VFED_AerodroneMunitionsCrate.description>A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions.</VFED_AerodroneMunitionsCrate.description>
+
+  <VFED_AerodroneBatteryPack.label>aerodrone battery pack</VFED_AerodroneBatteryPack.label>
+  <VFED_AerodroneBatteryPack.description>A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses.</VFED_AerodroneBatteryPack.description>
+
+  <VFED_Aerodrone.label>aerodrone</VFED_Aerodrone.label>
+  <VFED_Aerodrone.description>Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle.</VFED_Aerodrone.description>
+
+  <VFED_ImperialMaxpack.label>imperial maxpack</VFED_ImperialMaxpack.label>
+  <VFED_ImperialMaxpack.description>The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield.</VFED_ImperialMaxpack.description>
+
+  <VFED_StrikeBuoy.label>strike buoy</VFED_StrikeBuoy.label>
+  <VFED_StrikeBuoy.description>A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location.</VFED_StrikeBuoy.description>
+
+  <VFED_FuelTank.label>fuel tank</VFED_FuelTank.label>
+  <VFED_FuelTank.description>A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction.</VFED_FuelTank.description>
+
+  <VFED_SurveillanceStation.label>surveillance console</VFED_SurveillanceStation.label>
+  <VFED_SurveillanceStation.description>A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector.</VFED_SurveillanceStation.description>
+
+  <VFED_SurveillanceDisplayBank.label>surveillance display bank</VFED_SurveillanceDisplayBank.label>
+  <VFED_SurveillanceDisplayBank.description>An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector.</VFED_SurveillanceDisplayBank.description>
+
+  <VFED_Techprinter.label>techprinter</VFED_Techprinter.label>
+  <VFED_Techprinter.description>The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies.</VFED_Techprinter.description>
+
+  <VFED_TechiteDiscStack.label>techite disc stack</VFED_TechiteDiscStack.label>
+  <VFED_TechiteDiscStack.description>A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames.</VFED_TechiteDiscStack.description>
+
+  <VFED_ImperialUnderfarm.label>imperial underfarm</VFED_ImperialUnderfarm.label>
+  <VFED_ImperialUnderfarm.description>An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate.</VFED_ImperialUnderfarm.description>
+
+  <VFED_WaterMain.label>总水管</VFED_WaterMain.label>
+  <VFED_WaterMain.description>连接所有附近水管的大型节点。农场运行所需。</VFED_WaterMain.description>
+
+  <VFED_CrashedAerodrone.label>坠毁的飞机</VFED_CrashedAerodrone.label>
+  <VFED_CrashedAerodrone.description>一架坠毁的帝国飞机。</VFED_CrashedAerodrone.description>
+
+  <VFED_ImperialMegaHighShield.label>帝国巨型高盾</VFED_ImperialMegaHighShield.label>
+  <VFED_ImperialMegaHighShield.description>帝国巨型高盾是一种先进的防护装置，可投射出巨大的动量斥力场，允许子弹射出，但阻止任何子弹进入。它专门针对高角度进行了校准，擅长偏转来袭的迫击炮弹、无人机攻击甚至轨道切片光束。该装置可以通过 EMP 攻击暂时瘫痪，可以通过电击投影仪装置本身，或在护盾上使用 EMP 弹药。消耗巨大的能量。</VFED_ImperialMegaHighShield.description>
+  <VFED_ImperialMegaHighShield_Blueprint_Install.label>帝国巨型高盾（蓝图）</VFED_ImperialMegaHighShield_Blueprint_Install.label>
+
+  <VFED_ZeusCannonControlStation.label>宙斯大炮控制站</VFED_ZeusCannonControlStation.label>
+  <VFED_ZeusCannonControlStation.description>此终端用作操作 Zeus Cannon 电池的主要接口。宙斯大炮控制站配备了先进的控制和瞄准系统，可确保部署宙斯大炮的强大火力时的精确性和协调性。操作员需要在其半径内才能控制它。</VFED_ZeusCannonControlStation.description>
+
+  <VFED_ZeusCannonCapacitorBank.label>宙斯大炮电容器组</VFED_ZeusCannonCapacitorBank.label>
+  <VFED_ZeusCannonCapacitorBank.description>将电能转化为宙斯大炮原始能源的电容器组。被摧毁时会释放出巨大的电磁脉冲冲击波，可能会导致宙斯大炮本身失效。</VFED_ZeusCannonCapacitorBank.description>
+
+  <VFED_ZeusCannon.label>宙斯大炮</VFED_ZeusCannon.label>
+  <VFED_ZeusCannon.description>宙斯大炮是古代索菲亚蒙丹技术的遗物，是帝国严密保守的秘密。这种强大的火炮具有将大量电力转化为强大能量爆炸的独特能力。它具有无与伦比的射程，可以穿透大气层瞄准并摧毁轨道上的物体。它是失去工程才华的证明，它既是武器，也是帝国力量的象征。\n\n它有很长的充电周期，之后它将瞄准目标并释放毁灭性的能量爆炸。</VFED_ZeusCannon.description>
+
+  <VFED_BurnoutIntelScraper.label>倦怠英特尔刮刀</VFED_BurnoutIntelScraper.label>
+  <VFED_BurnoutIntelScraper.description>能够拦截帝国通讯的逃兵装置。激活后，它将开始情报抓取，定期发出脉冲。每个脉冲都有机会产生少量情报，但也可能增加你的可见度，甚至警告帝国打击部队。 10 个脉冲后，机器烧毁并引发剧烈爆炸。</VFED_BurnoutIntelScraper.description>
+  <VFED_BurnoutIntelScraper_Blueprint.label>燃尽英特尔刮刀（蓝图）</VFED_BurnoutIntelScraper_Blueprint.label>
+  <VFED_BurnoutIntelScraper_Blueprint_Install.label>烧毁英特尔刮刀（蓝图）</VFED_BurnoutIntelScraper_Blueprint_Install.label>
+  <VFED_BurnoutIntelScraper_Frame.label>倦怠英特尔刮刀（建筑）</VFED_BurnoutIntelScraper_Frame.label>
+  <VFED_BurnoutIntelScraper_Frame.description>能够拦截帝国通讯的逃兵装置。激活后，它将开始情报抓取，定期发出脉冲。每个脉冲都有机会产生少量情报，但它也可能会增加你的可见度，甚至警告帝国打击部队。 10 个脉冲后，机器烧毁并引发剧烈爆炸。</VFED_BurnoutIntelScraper_Frame.description>
+
+
+</LanguageData>

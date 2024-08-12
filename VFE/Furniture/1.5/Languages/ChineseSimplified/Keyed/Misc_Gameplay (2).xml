@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Current light radius -->
+  <TargetLightRadius>当前照明范围</TargetLightRadius>
+  <!-- EN: Current intensity -->
+  <CurrentLightOpacity>当前亮度</CurrentLightOpacity>
+  
+  <!-- EN: Increase the current radius. -->
+  <CommandRaiseLightRDesc>增加照明范围</CommandRaiseLightRDesc>
+  <!-- EN: Decrease the current radius. -->
+  <CommandLowerLightRDesc>减少照明范围</CommandLowerLightRDesc>
+  
+  <!-- EN: Increase the current intensity. -->
+  <CommandRaiseLightIntDesc>增加亮度</CommandRaiseLightIntDesc>
+  <!-- EN: Lower the current intensity. -->
+  <CommandLowerLightIntDesc>减少亮度</CommandLowerLightIntDesc>
+  
+  <!-- EN: % Intensity. -->
+  <LightIntensityPercent>%亮度。</LightIntensityPercent>
+  <!-- EN:  Cell radius. -->
+  <LightRadiusCells>地格半径。</LightRadiusCells>
+  
+  <!-- EN: Switch light colour to  -->
+  <SwitchedColourDesc>切换灯光颜色至 </SwitchedColourDesc>
+  <!-- EN: Red -->
+  <LightColourRed>红</LightColourRed>
+  <!-- EN: Green -->
+  <LightColourGreen>绿</LightColourGreen>
+  <!-- EN: Blue -->
+  <LightColourBlue>蓝</LightColourBlue>
+  <!-- EN: White -->
+  <LightColourWhite>白</LightColourWhite>
+
+  <!-- EN: Enable auto-forbid -->
+  <EnableAutoForbid>开启自动禁用</EnableAutoForbid>
+  <!-- EN: Weapons and apparel stored here will be automatically forbidden until they reach their full HP -->
+  <EnableAutoForbidExplanation>存放在此处的武器装备将被自动标记禁用，直到它们被完全修复</EnableAutoForbidExplanation>
+</LanguageData>

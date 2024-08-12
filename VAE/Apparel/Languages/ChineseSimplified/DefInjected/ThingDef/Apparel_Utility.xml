@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ammo pack -->
+  <VAEA_Apparel_AmmoPack.label>弹药包</VAEA_Apparel_AmmoPack.label>
+  <!-- EN: Bandolier with ammunition. -->
+  <VAEA_Apparel_AmmoPack.description>用于携带弹药的背包。穿戴者持有任何远程武器时，其远程冷却时间将减少25%。</VAEA_Apparel_AmmoPack.description>
+  
+  <!-- EN: backpack -->
+  <VAEA_Apparel_Backpack.label>背包</VAEA_Apparel_Backpack.label>
+  <!-- EN: A simple roomy backpack. Greatly increases the carry weight of the wearer. -->
+  <VAEA_Apparel_Backpack.description>内部宽敞的简易背包。可以有效提高穿戴者的负重能力。</VAEA_Apparel_Backpack.description>
+  
+  <!-- EN: battle banner -->
+  <VAEA_Apparel_BattleBanner.label>战旗</VAEA_Apparel_BattleBanner.label>
+  <!-- EN: A battle banner. Gives the wearer a fighting spirit and confidence. -->
+  <VAEA_Apparel_BattleBanner.description>能使穿戴者士气高涨、信心百倍的战旗。也可以提高疼痛休克阈值。</VAEA_Apparel_BattleBanner.description>
+  
+  <!-- EN: explosive belt -->
+  <VAEA_Apparel_ExplosiveBelt.label>自爆腰带</VAEA_Apparel_ExplosiveBelt.label>
+  <!-- EN: A belt with explosives. -->
+  <VAEA_Apparel_ExplosiveBelt.description>绑满了爆炸物的腰带。一旦穿戴者死亡，它便会立即引爆。</VAEA_Apparel_ExplosiveBelt.description>
+  
+  <!-- EN: medic bag -->
+  <VAEA_Apparel_MedicBag.label>医疗包</VAEA_Apparel_MedicBag.label>
+  <!-- EN: A bag with everything needed to provide medical treatment. -->
+  <VAEA_Apparel_MedicBag.description>装有医用工具和物资的小包。可以提高穿戴者的治疗质量和手术成功率。</VAEA_Apparel_MedicBag.description>
+  
+  <!-- EN: mini-turret pack -->
+  <VAEA_Apparel_MiniTurretPack.label>小型自动机枪背包</VAEA_Apparel_MiniTurretPack.label>
+  <!-- EN: A small pack of ammunition and components that control a shoulder mounted mini-turret. -->
+  <VAEA_Apparel_MiniTurretPack.description>装满了弹药和零部件的背包，附带有可供穿戴者控制的肩载小型自动机枪。</VAEA_Apparel_MiniTurretPack.description>
+  <!-- EN: A simple automatic gun made to be mounted on a shoulder. -->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>挂载于肩膀上的简易自动机枪。</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>
+  <!-- EN: mini-turret gun -->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>小型自动机枪背包</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.chargeNoun>炮塔</VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.chargeNoun>
+  <VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.cooldownGerund>正在冷却</VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.cooldownGerund>
+  <VAEA_Apparel_MiniTurretPack.verbs.Gun.label>枪</VAEA_Apparel_MiniTurretPack.verbs.Gun.label>
+  <!-- EN: quiver -->
+  <VAEA_Apparel_Quiver.label>箭袋</VAEA_Apparel_Quiver.label>
+  <!-- EN: Small quiver for arrows. -->
+  <VAEA_Apparel_Quiver.description>装满了箭的小袋子。穿戴者持有石器时代或中世纪级别的远程武器时，其远程冷却时间将减少50%。</VAEA_Apparel_Quiver.description>
+  
+  <!-- EN: ranged shield belt -->
+  <VAEA_Apparel_RangedShieldBelt.label>远程护盾腰带</VAEA_Apparel_RangedShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <VAEA_Apparel_RangedShieldBelt.description>一个单人用的能量护盾装置。它可以拦截袭来的投射物或弹片，但无法阻挡近战攻击、高温以及火焰。与寻常的护盾腰带不同，它的穿戴者可以从内向外开火射击。\n\n护盾腰带遭受EMP打击后会立即耗尽能量。</VAEA_Apparel_RangedShieldBelt.description>
+  
+  <!-- EN: ressurector belt -->
+  <VAEA_Apparel_RessurectorBelt.label>复活腰带</VAEA_Apparel_RessurectorBelt.label>
+  <!-- EN: A belt containing a dose of resurrector serum. Injects the serum immediately after death. -->
+  <VAEA_Apparel_RessurectorBelt.description>装有一剂复活机械液的腰带。一旦穿戴者死亡，它便会立即为其注射机械液。</VAEA_Apparel_RessurectorBelt.description>
+  
+  <!-- EN: tool belt -->
+  <VAEA_Apparel_ToolBelt.label>工具腰带</VAEA_Apparel_ToolBelt.label>
+  <!-- EN: A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances. -->
+  <VAEA_Apparel_ToolBelt.description>做工简易的工具腰带，里面装有钉木板或修理电器所需的工具和物资。</VAEA_Apparel_ToolBelt.description>
+  
+</LanguageData>

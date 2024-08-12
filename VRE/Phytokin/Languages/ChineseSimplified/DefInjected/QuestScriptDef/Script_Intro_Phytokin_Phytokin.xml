@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.</li>
+  -->
+  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull]是一个强大的树人种，她正在附近向你发起请求。她因提供了错误的情报而被[enemyFaction_name]驱逐并正被一支搜查队追捕中。[enemyFaction_pawnsPlural]的搜查队由以下人员组成：\n\n[raid/raidPawnKinds]\n\n[asker_nameFull]希望你能在[map_definite]保护她的安全。如果你同意请求，她将会马上到达，但你需要打败紧随她而来的的搜查队。\n\n树人种是以植物为基础的异种人，她们强调和谐与互助。她们仅依靠阳光生存的能力和对所有植物都有异常亲和力，特别适合帮助那些新建立不久的殖民地或者表现不佳的工业化农场。</li>
+  </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the [adjAny] Phytokin</li>
+    <li>adjAny->hunted</li>
+    <li>adjAny->fleeing</li>
+    <li>adjAny->solitary</li>
+    <li>adjAny->ambushed</li>
+  -->
+  <VRE_Intro_Phytokin.questNameRules.rulesStrings>
+    <li>questName->[adjAny]树人种</li>
+    <li>adjAny->惊恐的</li>
+    <li>adjAny->逃跑的</li>
+    <li>adjAny->孤零零的</li>
+    <li>adjAny->中埋伏的</li></VRE_Intro_Phytokin.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], the band of pirates pursuing her will arrive soon. -->
+  <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\n因为你同意了[asker_nameDef]的请求，追捕她的搜查队即将到来。</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+  <!-- EN: {BASELABEL}: Pursuing pirates -->
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}：搜查队</VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThese are the pirates that were hunting [../asker_nameFull].\n               -->
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\n这些人是在追捕[asker_nameFull]的搜查队。\n</VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

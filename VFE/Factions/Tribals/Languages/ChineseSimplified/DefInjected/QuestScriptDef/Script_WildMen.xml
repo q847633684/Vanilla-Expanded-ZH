@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription-> [asker_nameFull] of [asker_faction_name], found out about an existence of a small tribe of wild men near [map_definite]. Wild men most likely mean us no harm, and are gathering together hoping to that the numbers will help them survive.\n\nWe may decide to venture to the gathering in order to crush the wild men. Alternatively, we may leave them be. In time, these wild men may find their way to us - depending on their numbers, they may choose to join us, or attack us instead. [asker_nameFull] has a feeling that the small tribe consists of [ListofPawns].</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_faction_name]的[asker_nameFull]，发现[map_definite]附近出现了一个由野人组成的小聚落。这些野人打算以抱团取暖的方式生存下去，不过对我们而言很难称得上是威胁。\n\n我们可以冒险前去铲除这些野人，或者就此放任不管。随着时间的推移，他们也有几率主动与我们接触——通过权衡双方的人数，这些野人可能会加入我们，也可能会袭击我们。\n\n根据[asker_nameFull]的推测，这个聚落大约有[ListofPawns]。</li>
+  </VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [wildmen] [tribe]</li>
+    <li>questName->Nearby [wildmen] [tribe]</li>
+    <li>wildmen->Wild men</li>
+    <li>wildmen->Wildling</li>
+    <li>wildmen->Savage</li>
+    <li>wildmen->Wandering</li>
+    <li>wildmen->Rising</li>
+    <li>wildmen->New</li>
+    <li>tribe->Tribe</li>
+    <li>tribe->Gathering</li>
+    <li>tribe->Group</li>
+    <li>tribe->Circle</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>  
+    <li>questName->[wildmen][tribe]</li>
+    <li>questName->附近的[wildmen][tribe]</li>
+    <li>wildmen->野人</li>
+    <li>wildmen->蛮人</li>
+    <li>wildmen->原始人</li>
+    <li>wildmen->原人</li>
+    <li>wildmen->新生</li>
+    <li>wildmen->新兴</li>
+    <li>tribe->部落</li>
+    <li>tribe->聚落</li>
+    <li>tribe->群体</li>
+    <li>tribe->聚居地</li>
+  </VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: {0} screeches something only saurids could understand into the microphone and disconnects. -->
+  <VRESaurids_FactionGreetingHostile>{0}发出只有爬蜥种才能听懂的尖叫声，然后切断了通讯。</VRESaurids_FactionGreetingHostile>
+	<!-- EN: Hissing and screeching angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nHissing an insult, {0_pronoun} disconnects. -->
+  <VRESaurids_FactionGreetingHostileAppreciative>{0}愤怒地尖叫着，{0_pronoun}要你做出一些和好的表示，例如向{0_possessive}一个定居点送点礼物，或者着安全释放{0_pronoun}所在派系的囚犯。在你做出这些之前，{0_pronoun}不愿说话。\n\n{0_pronoun}在发出侮辱性的嘶嘶声后切断了通讯。</VRESaurids_FactionGreetingHostileAppreciative>
+	<!-- EN: {0} hisses a greeting and asks what business you need done. -->
+  <VRESaurids_FactionGreetingWary>{0}发出嘶嘶声表示问候，并询问你需要些什么。</VRESaurids_FactionGreetingWary>
+	<!-- EN: Barks out enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
+  <VRESaurids_FactionGreetingWarm>{0}非常热情，大叫着向{NEGOTIATOR_labelShort}打招呼并询问{LEADER_pronoun}有什么能够帮到你。</VRESaurids_FactionGreetingWarm>
+	<!-- EN: {0} agrees to send saurid fighters to help you. -->
+  <VRESaurids_MilitaryAidSent>{0}同意派遣爬蜥种战士来帮助你。</VRESaurids_MilitaryAidSent>
+
+	<!-- EN: {0} laid an egg! -->
+  <VRESaurids.EggLaidLabel>{0}产下一颗蛋！</VRESaurids.EggLaidLabel>
+	<!-- EN: {0} has laid an egg due to being oviparous. Make sure to keep the egg in a safe environment, under the roof and between 0°C - 50°C. After some time the egg will hatch into a child. {0} will be unable to lay another egg until their body recovers from this process. -->
+  <VRESaurids.EggLaidDesc>由于{0}是卵生动物所以产下了一颗蛋。请确保异种人蛋在一个安全的环境中，如温度在0℃和50℃之间的室内。经过一段时间后，蛋将会孵化出异种人孩子。{0}已进入产后不育期，在身体恢复前将无法再次产卵。</VRESaurids.EggLaidDesc>
+	<!-- EN: {0}'s egg hatched! -->
+  <VRESaurids.EggHatchedLabel>{0}的蛋孵化了！</VRESaurids.EggHatchedLabel>
+	<!-- EN: {0}'s egg has hatched successfully, adding a new baby to the colony! Remember to take care of them and ensure they grow up healthy. -->
+  <VRESaurids.EggHatchedDesc>{0}的蛋已经成功孵化，殖民地又增加了一个新的宝宝！记得照顾好他们，确保他们健康成长。</VRESaurids.EggHatchedDesc>
+	<!-- EN: oviparous -->
+  <VRESaurids.CannotOviparous>卵生</VRESaurids.CannotOviparous>
+	<!-- EN: Cold-blooded Danger! -->
+  <VRESaurids.ColdBloodedDanger>有变温者处于危险！</VRESaurids.ColdBloodedDanger>
+	<!-- EN: Cold-blooded pawns will fall to extreme temperatures much easier and faster than others, these pawns are currently at risk -->
+  <VRESaurids.ColdBloodedDangerExplanation>拥有“变温动物”基因的人会比其他人更容易降到极端温度，他们目前处于危险之中</VRESaurids.ColdBloodedDangerExplanation>
+
+</LanguageData>

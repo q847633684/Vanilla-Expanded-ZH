@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vent -->
+  <VSIE_Vent.label>交谈</VSIE_Vent.label>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight]. -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</VSIE_Vent.logRulesInitiator.rulesStrings.0>
+  <!-- EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef]. -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</VSIE_Vent.logRulesInitiator.rulesStrings.1>
+  <!-- EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef]. -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]就[TalkTopicLight]的话题与[RECIPIENT_nameDef][commentedabout]。</VSIE_Vent.logRulesInitiator.rulesStrings.2>
+  <!-- EN: talkedabout(p=4)->chatted about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->闲聊</VSIE_Vent.logRulesInitiator.rulesStrings.3>
+  <!-- EN: talkedabout->shared a word about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.4>talkedabout->分享了话题关于</VSIE_Vent.logRulesInitiator.rulesStrings.4>
+  <!-- EN: talkedabout->spoke about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.5>talkedabout->谈到</VSIE_Vent.logRulesInitiator.rulesStrings.5>
+  <!-- EN: talkedabout->gabbed about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.6>talkedabout->喋喋不休讨论</VSIE_Vent.logRulesInitiator.rulesStrings.6>
+  <!-- EN: talkedabout->talked about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.7>talkedabout->谈论</VSIE_Vent.logRulesInitiator.rulesStrings.7>
+  <!-- EN: talkedabout->joked about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.8>talkedabout->开玩笑地说到</VSIE_Vent.logRulesInitiator.rulesStrings.8>
+  <!-- EN: talkedabout->quipped about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.9>talkedabout->打趣地聊到</VSIE_Vent.logRulesInitiator.rulesStrings.9>
+  <!-- EN: commentedabout->said something about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.10>commentedabout->聊了很多</VSIE_Vent.logRulesInitiator.rulesStrings.10>
+  <!-- EN: commentedabout->said a word about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.11>commentedabout->说了几句</VSIE_Vent.logRulesInitiator.rulesStrings.11>
+  <!-- EN: commentedabout->made a comment about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.12>commentedabout->进行了点评</VSIE_Vent.logRulesInitiator.rulesStrings.12>
+  <!-- EN: commentedabout->commented about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.13>commentedabout->讨论</VSIE_Vent.logRulesInitiator.rulesStrings.13>
+  <!-- EN: commentedabout->told a joke about -->
+  <VSIE_Vent.logRulesInitiator.rulesStrings.14>commentedabout->开了个玩笑</VSIE_Vent.logRulesInitiator.rulesStrings.14>
+  
+</LanguageData>

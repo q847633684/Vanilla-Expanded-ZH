@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- EN: Enable "Cat genes" on Highmates (requires game restart) -->
+  <VRE_EnableCatHighmates>优侣种拥有“魅猫耳”和“魅猫尾巴”基因</VRE_EnableCatHighmates>
+	<!-- EN: Disabling this toggle will make newly created Highmates appear without the Feline ears and Feline tail genes. Bear in mind this will have no effect on already existing Highmates. Will require a game reload. -->
+  <VRE_EnableCatHighmatesDescription>如果禁用此项，则优侣种的基因组合将不会出现魅猫耳和魅猫尾巴这两个基因。更改此项对存档内已有的优侣种无效。需要重启游戏来使更改生效。</VRE_EnableCatHighmatesDescription>
+	<!-- EN: Demands lovin' -->
+  <VRE_NotEnoughLovin>渴求滚床单</VRE_NotEnoughLovin>
+	<!-- EN: Lovin' need -->
+  <VRE_LovinNeed>需要滚床单</VRE_LovinNeed>
+	<!-- EN: These people have a too low lovin' need (less than 50%). If they reach 0% lovin' in approximately 15 days, they will attempt to leave the colony:\n\n{0} -->
+  <VRE_LovinNeedDesc>以下殖民者的爱爱需求已经过低（少于50%），需要通过滚床单来平息欲火。如果爱爱值在约15天内达到0%，他们极有可能会放弃并离开殖民地：\n\n{0}</VRE_LovinNeedDesc>
+	<!-- EN: This ability can't be used on members of other factions -->
+  <VRE_MessageCantUseLovinOnOtherFactions>无法对其他派系成员使用此能力。</VRE_MessageCantUseLovinOnOtherFactions>
+	<!-- EN: This ability can't be used on enemies -->
+  <VRE_MessageCantUseLovinOnResistingPersons>无法对敌人使用此能力。</VRE_MessageCantUseLovinOnResistingPersons>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} has too low opinion of {0} (Opinion of {0}: {2}) -->
+  <VRE_CantUseLovinLowOpinion>由于{1}对{0}的看法低下，{0}无法与{1}滚床单（对{0}的评价：{2}）。</VRE_CantUseLovinLowOpinion>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is too young. -->
+  <VRE_TooYoungForLovin>由于{1}年龄太小，{0}无法与{1}滚床单。</VRE_TooYoungForLovin>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {0} is too young. -->
+  <VRE_TooYoungForLovinCaster>由于{0}年龄太小，{0}无法与{1}滚床单。</VRE_TooYoungForLovinCaster>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is Asexual. -->
+  <VRE_CantUseLovinWithTraitAsexual>由于{1}拥有“无性恋”特性，{0}无法与{1}滚床单。</VRE_CantUseLovinWithTraitAsexual>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is a Prude. -->
+  <VRE_CantUseLovinWithTraitPrude>由于{1}拥有“专一”特性，{0}无法与{1}滚床单。</VRE_CantUseLovinWithTraitPrude>
+	<!-- EN: {0} will initiate lovin’ with {1}, despite being in a relationship with {2}. This will result in a break up. -->
+  <VRE_RelationshipWillBreak>{0}将立即与{1}滚床单。但由于{0}与{2}已经是情人或伴侣，此举会导致其关系破裂。</VRE_RelationshipWillBreak>
+	<!-- EN: {0} will initiate lovin’ with {1}, despite the target, {1}, being in a relationship with {2}. This will result in a break up. -->
+  <VRE_RelationshipWillBreakTarget>{0}将立即与{1}滚床单。但由于{1}与{2}已经是情人或伴侣，此举会导致其关系破裂。</VRE_RelationshipWillBreakTarget>
+	<!-- EN: {0} can't initiate lovin’ with {1}, as they are blood relatives. -->
+  <VRE_CantUseOnFamily>由于具有亲戚关系，{0}无法与{1}滚床单。</VRE_CantUseOnFamily>
+	<!-- EN: Psychic conception (pregnancy guaranteed) -->
+  <VRE_PsychicConceptionDesc>心灵授种（必定怀孕）</VRE_PsychicConceptionDesc>
+	<!-- EN: Lovin’ for pleasure (pregnancy chance x0%) -->
+  <VRE_LovinForPleasureDesc>寻欢爱爱（怀孕几率 x0%）</VRE_LovinForPleasureDesc>
+	<!-- EN: No psychic conception -->
+  <VRE_NoPsychicConceptionDesc>取消心灵授种</VRE_NoPsychicConceptionDesc>
+	<!-- EN: Normal lovin' -->
+  <VRE_NoLovinForPleasureDesc>普通爱爱</VRE_NoLovinForPleasureDesc>
+	<!-- EN: Awarded Highmate -->
+  <VRE_AwardedHighmate>晋升奖励：优侣种</VRE_AwardedHighmate>
+	<!-- EN: Due to the newly acquired Baron rank, the Empire has awarded {0} with the presence of a Highmate, who will immediately join the colony.\n\nDesigned companions and concubines with a unique ability to psychically bond with a mate, highmates are empathic, beautiful, cheerful, and talented in social matters. They are also inept at manual tasks, physically weak, and mentally incapable of violence. -->
+  <VRE_AwardedHighmateDesc>为庆祝{0}晋升至男爵头衔，帝国将赐予其一名优侣种以作奖励。优侣种将会立刻乘坐运输舱到达。\n\n关于优侣种：\n优侣种是被定制的伴侣或是爱人，能够与另一个人建立维系终生的心灵纽带。优侣种感情丰富，身体优美，在社交事务上有不错的天赋。他们的肉体虚弱，不擅长体力劳动，精神也不能忍受任何暴力。</VRE_AwardedHighmateDesc>
+</LanguageData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge LMG shot -->
+  <VWE_Bullet_ChargeLMG.label>电荷轻机枪子弹</VWE_Bullet_ChargeLMG.label>
+  
+  <!-- EN: charge minigun shot -->
+  <VWE_Bullet_ChargeMinigun.label>电荷速射机枪子弹</VWE_Bullet_ChargeMinigun.label>
+  
+  <!-- EN: charge pistol shot -->
+  <VWE_Bullet_ChargePistol.label>电荷手枪子弹</VWE_Bullet_ChargePistol.label>
+  
+  <!-- EN: charge shotgun blast -->
+  <VWE_Bullet_ChargeShotgun.label>电荷霰弹枪子弹</VWE_Bullet_ChargeShotgun.label>
+  
+  <!-- EN: rapid charge shot -->
+  <VWE_Bullet_ChargeSMG.label>电荷冲锋枪子弹</VWE_Bullet_ChargeSMG.label>
+  
+  <!-- EN: charge sniper shot -->
+  <VWE_Bullet_ChargeSniperRifle.label>电荷狙击枪子弹</VWE_Bullet_ChargeSniperRifle.label>
+  
+  <!-- EN: charge LMG -->
+  <VWE_Gun_ChargeLMG.label>电荷轻机枪</VWE_Gun_ChargeLMG.label>
+  <!-- EN: A charged-shot light machine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCharge light machine gun fires a volley of projectiles at extreme speed which makes it ideal for area denial. -->
+  <VWE_Gun_ChargeLMG.description>发射高能电荷弹的轻机枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n能迅速连续地开火，用火力压制一小片区域。</VWE_Gun_ChargeLMG.description>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeLMG.tools.barrel.label>枪管</VWE_Gun_ChargeLMG.tools.barrel.label>
+  <!-- EN: charge LMG -->
+  <VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>电荷轻机枪</VWE_Gun_ChargeLMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge minigun -->
+  <VWE_Gun_ChargeMinigun.label>电荷速射机枪</VWE_Gun_ChargeMinigun.label>
+  <!-- EN: A charged-shot minigun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nCapable of covering the entire area in volley of anti-armor rounds, this minigun is often used by glitterworld mercenaries during their infamous raids. -->
+  <VWE_Gun_ChargeMinigun.description>发射高能电荷弹的速射机枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n可以用穿甲子弹覆盖一整片区域，常配于闪耀世界雇佣军，在突袭时造成巨大伤亡。</VWE_Gun_ChargeMinigun.description>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargeMinigun.tools.stock.label>枪托</VWE_Gun_ChargeMinigun.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeMinigun.tools.barrel.label>枪管</VWE_Gun_ChargeMinigun.tools.barrel.label>
+  <!-- EN: charge minigun -->
+  <VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>电荷速射机枪</VWE_Gun_ChargeMinigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge pistol -->
+  <VWE_Gun_ChargePistol.label>电荷手枪</VWE_Gun_ChargePistol.label>
+  <!-- EN: A charged-shot pistol. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nThis three round burst pistol is a very effective sidearm deployed across all regiments of imperial commandos. -->
+  <VWE_Gun_ChargePistol.description>发射高能电荷弹的手枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n这种三连发手枪是极佳的副武器，几乎所有帝国军官都人手一把。</VWE_Gun_ChargePistol.description>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargePistol.tools.barrel.label>枪管</VWE_Gun_ChargePistol.tools.barrel.label>
+  <!-- EN: charge pistol -->
+  <VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>电荷手枪</VWE_Gun_ChargePistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge shotgun -->
+  <VWE_Gun_ChargeShotgun.label>电荷霰弹枪</VWE_Gun_ChargeShotgun.label>
+  <!-- EN: A charged-shot slug thrower. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDeadly in close range, this shotgun has been banned by the imperial military for inflicting unmeasurable pain. -->
+  <VWE_Gun_ChargeShotgun.description>发射高能电荷弹的霰弹枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n在近距离十分致命，通常会造成惨无人道的伤痛，已被帝国军队禁止使用。</VWE_Gun_ChargeShotgun.description>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeShotgun.tools.barrel.label>枪管</VWE_Gun_ChargeShotgun.tools.barrel.label>
+  <!-- EN: charge shotgun -->
+  <VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>电荷霰弹枪</VWE_Gun_ChargeShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge SMG -->
+  <VWE_Gun_ChargeSMG.label>电荷冲锋枪</VWE_Gun_ChargeSMG.label>
+  <!-- EN: A charged-shot submachine gun. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nFires rapidly but requires to close the distance between the target. -->
+  <VWE_Gun_ChargeSMG.description>发射高能电荷弹的冲锋枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n擅长在近距离急速射击目标。</VWE_Gun_ChargeSMG.description>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeSMG.tools.barrel.label>枪管</VWE_Gun_ChargeSMG.tools.barrel.label>
+  <!-- EN: charge SMG -->
+  <VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>电荷冲锋枪</VWE_Gun_ChargeSMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge sniper rifle -->
+  <VWE_Gun_ChargeSniperRifle.label>电荷狙击步枪</VWE_Gun_ChargeSniperRifle.label>
+  <!-- EN: A charged-shot triple barreled sniper rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.\n\nDue to three separate barrels firing simultaneously, weapon power is reduced and rate of fire is decreased. -->
+  <VWE_Gun_ChargeSniperRifle.description>发射高能电荷弹的狙击步枪。电荷弹科技使得每发子弹在离开枪管时都由不稳定能量进行充能，并且在击中物体的时候完全释放出来，大大增加了子弹的伤害。\n\n拥有三个分开但能同时开火的枪管，整体威力强劲，但每一个枪管的射速和分配到的能量都有所减少。</VWE_Gun_ChargeSniperRifle.description>
+  <!-- EN: stock -->
+  <VWE_Gun_ChargeSniperRifle.tools.stock.label>枪托</VWE_Gun_ChargeSniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_ChargeSniperRifle.tools.barrel.label>枪管</VWE_Gun_ChargeSniperRifle.tools.barrel.label>
+  <!-- EN: charge sniper rifle -->
+  <VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>电荷狙击步枪</VWE_Gun_ChargeSniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

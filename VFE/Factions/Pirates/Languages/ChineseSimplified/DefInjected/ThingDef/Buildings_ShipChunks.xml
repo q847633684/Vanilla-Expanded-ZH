@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel puddle -->
+  <VFEP_Filth_Fuel.label>化学液体</VFEP_Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <VFEP_Filth_Fuel.description>一滩可燃的化学燃料。</VFEP_Filth_Fuel.description>
+  
+  <!-- EN: ship chunk battery -->
+  <VFEP_ShipChunkBattery.label>飞船残骸（蓄电池）</VFEP_ShipChunkBattery.label>
+  <!-- EN: The mangled remains of ship-borne battery, used to power systems with high power draw for short periods. It was leaps and bounds about Rimworld battery technology but it can no longer be recharged and yields decent salvage once it’s stored charge has run out. -->
+  <VFEP_ShipChunkBattery.description>载有蓄电池的飞船残骸，可用于在短期内为高功耗设备供电。这种蓄电池无疑是边缘世界的先进科研结晶，不过一旦积蓄的电力完全耗尽，它就无法继续充能。可以拆出有用的材料。</VFEP_ShipChunkBattery.description>
+  
+  <!-- EN: ship chunk cryptosleep casket -->
+  <VFEP_ShipChunkCryptosleepCasket.label>飞船残骸（低温休眠舱）</VFEP_ShipChunkCryptosleepCasket.label>
+  <!-- EN: A self-powered cryptosleep casket caught in the remains of their ship’s hull. The occupant can still be recovered from the module, but most of the material is worth less than scrap metal and offers little salvage. -->
+  <VFEP_ShipChunkCryptosleepCasket.description>载有能够自主供电的低温休眠舱的飞船残骸。虽然仍能正常运作，但无法拆出太多有用的材料。</VFEP_ShipChunkCryptosleepCasket.description>
+  
+  <!-- EN: ship chunk debris -->
+  <VFEP_ShipChunkDebris.label>飞船残骸</VFEP_ShipChunkDebris.label>
+  <!-- EN: A chunk of a combat-grade spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon. It is densely packed with double-layer armor plating and control systems, which can be acquired by deconstructing it. -->
+  <VFEP_ShipChunkDebris.description>太空战机的一部分，被厚实的双层装甲板与控制模块覆盖着。它看起来像是受到引力影响或者被某些武器攻击而坠落的。可以拆出有用的材料。</VFEP_ShipChunkDebris.description>
+  
+  <!-- EN: ship chunk fuel tank -->
+  <VFEP_ShipChunkFuelTank.label>飞船残骸（燃料罐）</VFEP_ShipChunkFuelTank.label>
+  <!-- EN: A tank of Chemfuel, punctured by the hull of its ship’s hull. Some of the fluid can be recovered while the majority is filled with grime, leaking out and creating a fire hazard. A prime target for any pyromaniac wanting to watch the world burn. -->
+  <VFEP_ShipChunkFuelTank.description>载有燃料罐的飞船残骸，里面的化合燃料正从被船体划破的裂口处滴落。拆除后可回收一定量的化合燃料。</VFEP_ShipChunkFuelTank.description>
+  
+  <!-- EN: ship chunk gauntlet turret -->
+  <VFEP_ShipChunkGauntletTurret.label>飞船残骸（电荷加农炮）</VFEP_ShipChunkGauntletTurret.label>
+  <!-- EN: The remains of the housing for the Gauntlet charge cannon. Powered externally, the ammunition storage is wrecked and cannot be replaced. Once the turret empties its magazine, it is still valuable salvage worth recovery. -->
+  <VFEP_ShipChunkGauntletTurret.description>载有电荷加农炮的飞船残骸，需要接入外部电源才能维持运作。由于供弹系统损坏，弹药消耗完后将无法重新装填。可以拆出许多有用的材料。</VFEP_ShipChunkGauntletTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>炮管耐久度</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>射击直到炮管报废</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>无法射击：供弹系统损坏</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
+  
+  <!-- EN: ship chunk reactor -->
+  <VFEP_ShipChunkReactor.label>飞船残骸（核能反应堆）</VFEP_ShipChunkReactor.label>
+  <!-- EN: The remains of a combat-grade spacecraft’s nuclear reactor, low-yield and designed to operate alongside energy storage. Surprisingly, the reactor is fully functional with no structural damage, so it can be safely used for ground operations. -->
+  <VFEP_ShipChunkReactor.description>载有核能反应堆的飞船残骸，虽然发电量较低，但它实际上是作为后备电力源与其他储电设备一同使用的。这个核能反应堆的完好性实在是出人意料，因此可以安全的用来为殖民地供电。</VFEP_ShipChunkReactor.description>
+  
+  <!-- EN: ship chunk volatile engine -->
+  <VFEP_ShipChunkVolatileEngine.label>飞船残骸（不稳定引擎）</VFEP_ShipChunkVolatileEngine.label>
+  <!-- EN: Self-powered turbo engines for a combat-grade spacecraft, designed for atmospheric use. The control and safety system are damaged and the turbines are unable to take in enough air to cool itself. If not properly dismantled, the accumulating energy will tear itself apart. -->
+  <VFEP_ShipChunkVolatileEngine.description>载有能够自主供电的涡轮引擎的飞船残骸，主要为飞船在大气层航行时提供动力。由于引擎的安全控制系统损坏，它无法通过空气循环进行自我冷却。如果不及时拆除的话，引擎积蓄的过载能量会引发一场大爆炸。</VFEP_ShipChunkVolatileEngine.description>
+  
+  <!-- EN: ship medical crate -->
+  <VFEP_ShipMedicalCrate.label>飞船补给箱（医药）</VFEP_ShipMedicalCrate.label>
+  <!-- EN: A now-unsealed crate containing first-aid supplies. The pallet can be dismantled for steel along with recovering the supplies. -->
+  <VFEP_ShipMedicalCrate.description>装有医药的物资补给箱，外层包装似乎在坠落过程中意外开封了。补给箱的底盘可以拆出一些有用的钢铁。</VFEP_ShipMedicalCrate.description>
+  
+  <!-- EN: ship nutrient paste crate -->
+  <VFEP_ShipNutrientPasteCrate.label>飞船补给箱（营养膏）</VFEP_ShipNutrientPasteCrate.label>
+  <!-- EN: A now-unsealed crate containing emergency food rations. The pallet can be dismantled for steel along with recovering the supplies. -->
+  <VFEP_ShipNutrientPasteCrate.description>装有营养膏的物资补给箱，外层包装似乎在坠落过程中意外开封了。补给箱的底盘可以拆出一些有用的钢铁。</VFEP_ShipNutrientPasteCrate.description>
+  
+</LanguageData>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid blood -->
+  <VRE_AcidBlood.label>酸毒血液</VRE_AcidBlood.label>
+  <!-- EN: Carriers of this gene have a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid. -->
+  <VRE_AcidBlood.description>这种基因的携带者血液中蕴含剧毒。当他们流血时会释放大量毒气，且死亡后会像质溶器一样溶解与身体接触的装备。</VRE_AcidBlood.description>
+  
+  <!-- EN: dormant -->
+  <VRE_Dormant.label>蛰眠</VRE_Dormant.label>
+  <!-- EN: Carriers of this gene have reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive. -->
+  <VRE_Dormant.description>这种基因的携带者大部分时间都处于“蛰眠”状态。他们变得不再活跃和好斗，陷入精神崩溃时也必定为非暴力类型。他们的新陈代谢比正常人更慢，所需进食量也相应降低了。</VRE_Dormant.description>
+
+  <!-- EN: heatstress -->
+  <VRE_Heatstress.label>热应激</VRE_Heatstress.label>
+  <!-- EN: Carriers of this gene experience heat stress when temperatures exceed their optimal range for physiological processes. This can lead to cellular damage, including denaturation of proteins, burn damage and a severe fear of fire. They will lose consciousness when exposed to extreme heat even for a short duration. -->
+  <VRE_Heatstress.description>这种基因的携带者暴露于高温时，将陷入“热应激”状态。这不仅会引起蛋白质变性、烧伤、疼痛以及严重恐火，还会降低意识和移动能力。</VRE_Heatstress.description>
+  
+  <!-- EN: hypothermic hibernation -->
+  <VRE_HypothermicHibernation.label>低温冬眠</VRE_HypothermicHibernation.label>
+  <!-- EN: Carriers of this gene enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything. -->
+  <VRE_HypothermicHibernation.description>这种基因的携带者暴露于低温时，将陷入“低温冬眠”状态。他们的身体机能会逐渐丧失，直到完全沉睡。虽然能使他们不被冻伤，但也会失去行动能力。</VRE_HypothermicHibernation.description>
+  
+  <!-- EN: immunodeficiency -->
+  <VRE_Immunodeficiency.label>免疫缺陷</VRE_Immunodeficiency.label>
+  <!-- EN: Carriers of this gene regenerate their tissue half as fast as normal and are much more likely to die from infection due to low immunity. -->
+  <VRE_Immunodeficiency.description>这种基因的携带者伤口愈合速度只有正常人的一半，且因免疫能力较差而更容易死于感染和疾病。</VRE_Immunodeficiency.description>
+  <!-- EN: weak -->
+  <VRE_Immunodeficiency.labelShortAdj>病弱</VRE_Immunodeficiency.labelShortAdj>
+  <!-- EN: brittle -->
+  <VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>多病</VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: inefficient midgut -->
+  <VRE_InefficientMidgut.label>虚弱中肠</VRE_InefficientMidgut.label>
+  <!-- EN: Carriers of this gene have a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more. -->
+  <VRE_InefficientMidgut.description>这种基因的携带者长有虚弱且低效的中肠，很难消化食物并吸收营养。他们比正常人饿的更快，但能吃下更多的食物。</VRE_InefficientMidgut.description>
+  
+  <!-- EN: inflexible joints -->
+  <VRE_InflexibleJoints.label>关节僵化</VRE_InflexibleJoints.label>
+  <!-- EN: Carriers of this gene have hardened, less flexible joints, making it much harder to move and even harder to navigate difficult terrain. -->
+  <VRE_InflexibleJoints.description>这种基因的携带者因关节僵化而无法灵活移动，且受地形带来的移动速度惩罚将变为原本的两倍。</VRE_InflexibleJoints.description>
+  <!-- EN: slow -->
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>缓慢</VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slug -->
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>迟缓</VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: letho -->
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>缓速</VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: inflexi -->
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>慢腾</VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: plodder -->
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>缓行者</VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: slugger -->
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>慢步者</VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: slimer -->
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>跛行者</VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: low grey matter -->
+  <VRE_LowGreyMatter.label>灰质稀少</VRE_LowGreyMatter.label>
+  <!-- EN: Carriers of this gene are unable to process new information and are incapable of evaluating their decisions and learning from them. They are incredibly slow at learning new skills and knowledge, and have greatly lowered psychic sensitivity. -->
+  <VRE_LowGreyMatter.description>这种基因的携带者大脑灰质含量稀少，难以接收新信息、评估自己做出的决定以及从中吸取经验。他们的学习速度要比正常人慢得多，且心灵敏感度也大幅降低了。</VRE_LowGreyMatter.description>
+  <!-- EN: thag -->
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>愚笨</VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: grunt -->
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>怠学</VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: stupid -->
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>愚钝</VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dull -->
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>愚蠢</VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dumb -->
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>痴愚</VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: low octopamine -->
+  <VRE_LowOctopamine.label>章胺稀少</VRE_LowOctopamine.label>
+  <!-- EN: Carriers of this gene produce very little octopamine, causing decreased arousal and reducing their activity level. The lack of this neurotransmitter will also make them much more depressed. -->
+  <VRE_LowOctopamine.description>这种基因的携带者只能分泌极少量的章胺。这不仅会使他们性欲衰退，还会感到非常抑郁。</VRE_LowOctopamine.description>
+  
+  <!-- EN: ocelli eyes -->
+  <VRE_OcelliEyes.label>单眼</VRE_OcelliEyes.label>
+  <!-- EN: Carriers of this gene have an optical arrangement composed of a single lens and without an elaborate retina, making them almost blind. -->
+  <VRE_OcelliEyes.description>这种基因的携带者感光器官仅由单一的晶状体组成，他们不具有结构精细的视网膜，几乎与盲人无异。</VRE_OcelliEyes.description>
+  <!-- EN: blind -->
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>盲目</VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ocelli -->
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>单眼</VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: blind -->
+  <VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>失明</VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: blind -->
+  <VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>盲眼</VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: pollution dependency -->
+  <VRE_PollutionDependency.label>污染依赖</VRE_PollutionDependency.label>
+  <!-- EN: Carriers of this gene need to be affected by pollution on a regular basis to survive. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die. -->
+  <VRE_PollutionDependency.description>这种基因的携带者需定期暴露于污染环境中才能够生存。如果5天没有接触污染，他们就会因缺乏污染而感到痛苦。在30天后基因携带者会陷入昏迷。在60天后基因携带者会死亡。</VRE_PollutionDependency.description>
+  
+  <!-- EN: porous skin -->
+  <VRE_PorousSkin.label>坑洼皮肤</VRE_PorousSkin.label>
+  <!-- EN: Carriers of this gene have hollow pores in their skin, making them look extremely unappealing. -->
+  <VRE_PorousSkin.description>这种基因的携带者皮肤表面布满了坑坑洼洼的毛孔，看起来丑陋至极。</VRE_PorousSkin.description>
+  
+  <!-- EN: protein denaturation -->
+  <VRE_ProteinDenaturation.label>蛋白质变性</VRE_ProteinDenaturation.label>
+  <!-- EN: Carriers of this gene have disrupted cellular processes caused by denatured proteins that react dangerously to UV radiation. They are intensely sensitive to sunlight and have very dry chitin that’s susceptible to fire. -->
+  <VRE_ProteinDenaturation.description>这种基因的携带者体内蛋白质极容易因紫外线照射而变性，从而扰乱细胞的生理过程。他们对日光非常敏感，且皮肤表面干燥轻薄的甲壳质更容易受火焰引燃。</VRE_ProteinDenaturation.description>
+  <!-- EN: dry -->
+  <VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>干燥</VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: rapid life cycle -->
+  <VRE_RapidLifeCycle.label>短生命期</VRE_RapidLifeCycle.label>
+  <!-- EN: Carriers of this gene have a short life cycle and will suffer age related illnesses sooner than others. The older they get, the more rapidly they will age. -->
+  <VRE_RapidLifeCycle.description>这种基因的携带者会比正常人更早患上癌症肿瘤、背痛、白内障、阿尔茨海默症等老年疾病，且年龄越大，衰老速度就越快。</VRE_RapidLifeCycle.description>
+  
+  <!-- EN: stenothermic -->
+  <VRE_Stenothermic.label>狭温生物</VRE_Stenothermic.label>
+  <!-- EN: Carriers of this gene can only tolerate a very narrow range of temperatures. -->
+  <VRE_Stenothermic.description>这种基因的携带者最高/低舒适温度范围狭窄，很容易受到温度变化的影响。</VRE_Stenothermic.description>
+  
+  <!-- EN: vestigial tubules -->
+  <VRE_VestigialTubules.label>萎缩小管</VRE_VestigialTubules.label>
+  <!-- EN: Carriers of this gene lack any capability to filter out toxins as their tubules have become functionless. They are much more likely to die due to any sort of toxicity in their environment. -->
+  <VRE_VestigialTubules.description>这种基因的携带者体内长有因萎缩退化而丧失机能的马氏小管，无法正常滤净毒素。他们身处有毒环境中时更容易死亡。</VRE_VestigialTubules.description>
+  
+  <!-- EN: vocal chitters -->
+  <VRE_VocalChitters.label>残音尖鸣</VRE_VocalChitters.label>
+  <!-- EN: Carriers of this gene have their vocal chords changed into little openings in the bones, resulting in them being unable to speak, unless someone understands the loud whistling that they can now produce. -->
+  <VRE_VocalChitters.description>这种基因的携带者声带结构收窄成小口，并附在了骨头上。他们丧失了正常的语言能力，只能发出难以理解的尖鸣声。</VRE_VocalChitters.description>
+  <!-- EN: quiet -->
+  <VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>哑巴</VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mute -->
+  <VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>缄默</VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: mute -->
+  <VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>哑口</VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: chitter -->
+  <VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>尖鸣</VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: weakened chitin -->
+  <VRE_WeakenedChitin.label>薄脆甲壳</VRE_WeakenedChitin.label>
+  <!-- EN: Carriers of this gene have their exoskeleton consisting of thin, porous and brittle chitin, and are prone to damage. The light weight of their carapace, however, allows for a slightly faster movement speed. -->
+  <VRE_WeakenedChitin.description>这种基因的携带者长有较薄、坑洼且脆弱的甲壳质外骨骼，他们对各种伤害的抗性大幅降低，但能以更快的速度移动。</VRE_WeakenedChitin.description>
+  
+</LanguageData>

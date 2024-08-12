@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene infector -->
+  <VRE_GeneInfector.label>基因感染</VRE_GeneInfector.label>
+  <!-- EN: Carriers of this gene implant a copy of their xenogerm into another person through attacks with their claws or teeth. This in turn triggers a progressing infection in the victim, which if left untreated will apply the carrier’s xenogerm to them. -->
+  <VRE_GeneInfector.description>这种基因的携带者可通过抓挠、撕咬等近战攻击方式将自身的异种基因植入他人体内，从而触发“基因感染”状态。受感染者如果未能得到及时有效的治疗，则其异种基因很快就会被完全同化。</VRE_GeneInfector.description>
+  <!-- EN: Won't affect anyone who already has this gene. -->
+  <VRE_GeneInfector.customEffectDescriptions.0>无法感染已拥有此基因的人。</VRE_GeneInfector.customEffectDescriptions.0>
+  <!-- EN: The gene infector will only transmit xenogenes. Endogenes will not be transmitted. -->
+  <VRE_GeneInfector.customEffectDescriptions.1>仅对异种基因有效。对系谱基因无效。</VRE_GeneInfector.customEffectDescriptions.1>
+  
+  <!-- EN: mind coalescence -->
+  <VRE_MindCoalescence.label>心灵并合</VRE_MindCoalescence.label>
+  <!-- EN: Carriers of this gene have a psychic connection to other carriers, allowing them to share some of the emotions with them. A portion of average happiness gets shared with mind coalescent individuals. Due to that, they also all share mental states and suffer them at the same time. -->
+  <VRE_MindCoalescence.description>这种基因的携带者与其他携带者之间会形成特殊的心灵链接，可共享一部分情感与想法。他们能获得基于所有携带者平均值的心情增益或减益，但也会因痛苦而同时陷入相同的精神崩溃状态中。</VRE_MindCoalescence.description>
+  <!-- EN: This effect is updated twice a day ingame, to avoid lag. -->
+  <VRE_MindCoalescence.customEffectDescriptions.0>为避免拖慢游戏性能，此效果一天内仅会更新两次。</VRE_MindCoalescence.customEffectDescriptions.0>
+  <!-- EN: coalescent -->
+  <VRE_MindCoalescence.labelShortAdj>共感</VRE_MindCoalescence.labelShortAdj>
+  
+</LanguageData>

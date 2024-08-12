@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_NobleVisit.questNameRules.rulesStrings.0>questName(sameQuestsCount==0)-&gt;[asker_nameDef] 访问</VFEE_NobleVisit.questNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.1>questName-&gt;托管 [lodgerIndef]</VFEE_NobleVisit.questNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.2>questName-&gt;[lodgerIndef] 访问</VFEE_NobleVisit.questNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.3>lodgerIndef(nobleCount==1)-&gt;皇家</VFEE_NobleVisit.questNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.4>lodgerIndef(nobleCount==1)-&gt;贵族</VFEE_NobleVisit.questNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.5>lodgerIndef(nobleCount&gt;=2)-&gt;皇家</VFEE_NobleVisit.questNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.6>lodgerIndef(nobleCount&gt;=2)-&gt;贵族</VFEE_NobleVisit.questNameRules.rulesStrings.6>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;贵族</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;贵族</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;你将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-&gt; 您需要满足 [lodgersLabelPlural] 可能有的任何特殊皇室需求。</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>specialNeedsExplanation-&gt;</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>他们的HisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>他们的HisHer(nobleCount&gt;=2)-&gt;他们的</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>lodgersWasWere(nobleCount==1)-&gt;原为</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>lodgersWasWere(nobleCount&gt;=2)-&gt;是</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>appreciateAppreciates(nobleCount==1)-&gt;赞赏</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要进行例行访问。邀请[asker_possessive]，满足[asker_possessive]皇室需求[shuttleDelayTicks_duration]，你将获得大量荣誉。在他们访问期间，您必须将他们的情绪保持在 [lodgersMoodThreshold_percent] 以上。这意味着提供皇家津贴，比如豪华的卧室。\n[asker_royalTitleInCurrentFaction] 将带来两名 [asker_possessive] 私人警卫并将他们置于你的指挥之下。你必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。\n你必须将访客留在 [map_definite]，而不是把他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要执行例行访问。邀请[asker_possessive]和[nobleCountLessOne]贵族的[asker_possessive]宫廷，并在[shuttleDelayTicks_duration]内满足他们的皇室需求，你将获得大量荣誉。在他们访问期间，您必须将他们的情绪保持在 [lodgersMoodThreshold_percent] 以上。这意味着提供皇家津贴，比如豪华的卧室。\n[asker_nameFull] 将带来他的两名私人卫兵，并将他们置于你的指挥之下。你必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。\n你必须将访客留在 [map_definite]，而不是把他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>allyAllies(lodgersCountMinusOne==1)-&gt;ally</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>allyAllies(lodgersCountMinusOne&gt;=2)-&gt;盟友</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_NobleVisit.questContentRules.rulesStrings.0>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;最后</VFEE_NobleVisit.questContentRules.rulesStrings.1>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_NobleVisit.questContentRules.rulesStrings.2>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_NobleVisit.questContentRules.rulesStrings.3>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.4>decidedToLeave-&gt;[othersWillNotAccept] 和 {PAWNSALIVECOUNT_multiple ？有：已}决定离开。</VFEE_NobleVisit.questContentRules.rulesStrings.4>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.5>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ？其他人是：最后[lodgersLabel]是}不愿意接受这个</VFEE_NobleVisit.questContentRules.rulesStrings.5>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.6>oneOfThe-&gt;您邀请与您同住的贵族之一</VFEE_NobleVisit.questContentRules.rulesStrings.6>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.7>questOver-&gt;任务“[resolvedQuestName]”已结束。</VFEE_NobleVisit.questContentRules.rulesStrings.7>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.8>letterIntroArrested-&gt;你逮捕了 {SUBJECT_definite}，[oneOfThe]。</VFEE_NobleVisit.questContentRules.rulesStrings.8>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.9>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕：出发</VFEE_NobleVisit.questContentRules.rulesStrings.9>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.10>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.10>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.11>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</VFEE_NobleVisit.questContentRules.rulesStrings.11>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.12>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</VFEE_NobleVisit.questContentRules.rulesStrings.12>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.13>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.13>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.14>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</VFEE_NobleVisit.questContentRules.rulesStrings.14>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.15>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</VFEE_NobleVisit.questContentRules.rulesStrings.15>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.16>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.16>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.17>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架。</VFEE_NobleVisit.questContentRules.rulesStrings.17>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.18>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</VFEE_NobleVisit.questContentRules.rulesStrings.18>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.19>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.19>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.20>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</VFEE_NobleVisit.questContentRules.rulesStrings.20>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.21>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</VFEE_NobleVisit.questContentRules.rulesStrings.21>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.22>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.22>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.23>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</VFEE_NobleVisit.questContentRules.rulesStrings.23>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.24>ShuttleDestroyedLabel-&gt;[lodgersLabel] 班车损坏：出发</VFEE_NobleVisit.questContentRules.rulesStrings.24>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.25>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.25>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.26>letterIntroBadMood-&gt;{SUBJECT_definite}，您负责保护并保持快乐的 [oneOfThe]，已经长时间低于 [lodgersMoodThreshold] 的最低情绪。</VFEE_NobleVisit.questContentRules.rulesStrings.26>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.27>nobleUnhappyLetterLabel-&gt;[lodgersLabel] 不高兴</VFEE_NobleVisit.questContentRules.rulesStrings.27>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.28>nobleUnhappyLetterText-&gt;[letterIntroBadMood]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.28>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.29>lodgerLeftNotAllHealthyLetterLabel-&gt;[lodgersLabel]：未经处理</VFEE_NobleVisit.questContentRules.rulesStrings.29>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.30>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel] 带着受伤离开了地图，并且不会为他们的访问留下美好的回忆</VFEE_NobleVisit.questContentRules.rulesStrings.30>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.31>LetterLabelShuttleArrived-&gt;班车到达</VFEE_NobleVisit.questContentRules.rulesStrings.31>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.32>LetterTextShuttleArrived-&gt;航天飞机已抵达接载 [asker_nameFull] 和他们的球场</VFEE_NobleVisit.questContentRules.rulesStrings.32>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.33>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] 保持健康</VFEE_NobleVisit.questContentRules.rulesStrings.33>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.34>lodgersLeavingLetterText-&gt;[asker_nameFull] 感谢您邀请他们在 [map_definite] 住宿 [questDurationTicks_duration]。</VFEE_NobleVisit.questContentRules.rulesStrings.34>
+
+
+</LanguageData>

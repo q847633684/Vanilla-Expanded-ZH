@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+    <ThingDef ParentName="WoolBase">
+    <defName>WoolCamel</defName>
+    <label>骆驼毛</label>
+    <description>骆驼的毛。隔热性能出色。</description>
+    <graphicData>
+      <color>(211,179,118)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Insulation_Cold>10</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>26</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(219,214,209)</color>
+      <commonality>0.14</commonality>
+    </stuffProps>
+  </ThingDef>
+
+</Defs>

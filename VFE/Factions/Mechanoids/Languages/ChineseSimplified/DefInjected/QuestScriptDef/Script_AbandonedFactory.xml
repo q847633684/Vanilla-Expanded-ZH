@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>questName->[abandoned]的[factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>questName->[abandoned][factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>questName->[asker_nameDef]与[abandoned][factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>abandoned->废弃</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>abandoned->破旧</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>abandoned->退役</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>abandoned->报废</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>factory->工厂</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>factory->生产线</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>factory->自动工厂</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>
+		<VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>factory->生产设施</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>
+		<VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>questDescription->[asker_faction_name]的[asker_faction_leaderTitle] [asker_nameDef] 给我们发来一条信息。最近一个由 [siteFaction_name] 控制的废弃工厂经常派出[siteFaction_pawnsPlural]骚扰他们的商队。如果能占领这座工厂，可以获得大量包括机械体零件在内的资源。\n[asker_nameDef]请求我们消灭这一威胁，那里的废铜烂铁可以随意由我们处置。[asker_label] 还说[sitePart0_description]。</VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务失效：[resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>强盗们已经把资源打包离开了工厂。任务[resolvedQuestName]已经失效</VFE_OpportunitySite_AbandonedFactory.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败：[resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>在被发现后，强盗们已经打包好资源四散奔逃。任务[resolvedQuestName]已经失败</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>报酬已到达</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>你成功击败了强盗！[asker_faction_name]的报酬已经到了。</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+		<VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>这些殖民者参与了任务[resolvedQuestName]。[asker_definite]想要知道谁应当获得 [royalFavorReward_amount][asker_faction_royalFavorLabel]。</VFE_OpportunitySite_AbandonedFactory.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+	</LanguageData>

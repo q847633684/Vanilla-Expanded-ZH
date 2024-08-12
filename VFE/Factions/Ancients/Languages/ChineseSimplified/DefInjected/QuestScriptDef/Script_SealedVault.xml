@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a sealed vault not far from [map_definite]. The site is full of ancient technology and relics.\n\nIt seems that it is still defended by ancient soldiers.</li>
+  -->
+  <VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->我们截获了一组信息，似乎在[map_definite]的不远处有一座尘封的避难所。避难所中可能充满了远古技术与遗物。\n\n看起来这里仍然被古代士兵守卫着。</li>
+  </VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[journey] to the [ruins]</li>
+    <li>journey->Journey</li>
+    <li>journey->Expedition</li>
+    <li>journey->Treasure hunt</li>
+    <li>journey->Adventure</li>
+    <li>ruins->Sealed vault</li>
+    <li>ruins->Locked vault</li>
+    <li>ruins->Ancient vault</li>
+    <li>ruins->Secured vault</li>
+    <li>ruins->Hidden vault</li>
+  -->
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[ruins][journey]</li>
+    <li>journey->旅行</li>
+    <li>journey->探索</li>
+    <li>journey->寻宝</li>
+    <li>journey->冒险</li>
+    <li>ruins->尘封避难所</li>
+    <li>ruins->密闭避难所</li>
+    <li>ruins->远古避难所</li>
+    <li>ruins->封闭避难所</li>
+    <li>ruins->隐蔽避难所</li>
+  </VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the sealed vault has been opened and scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>我们截获的通讯表明，尘封的避难所已被其他人开启并搜刮干净了。任务[resolvedQuestName]已经失效。</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

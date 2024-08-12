@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bleeding wounds -->
+  <VAE_BleedingWound.label>血流不止</VAE_BleedingWound.label>
+  <!-- EN: A bleeding wound that continues to cause blood loss for quite some time after the initial attack. -->
+  <VAE_BleedingWound.description>流血的伤口，在受伤后相当长的一段时间内血流不止。</VAE_BleedingWound.description>
+  <!-- EN: bleeding wounds, minor -->
+  <VAE_BleedingWound.stages.bleeding_wounds_minor.label>较轻</VAE_BleedingWound.stages.bleeding_wounds_minor.label>
+  <!-- EN: bleeding wounds, moderate -->
+  <VAE_BleedingWound.stages.bleeding_wounds_moderate.label>中等</VAE_BleedingWound.stages.bleeding_wounds_moderate.label>
+  <!-- EN: bleeding wounds, serious -->
+  <VAE_BleedingWound.stages.bleeding_wounds_serious.label>严重</VAE_BleedingWound.stages.bleeding_wounds_serious.label>
+  
+  <!-- EN: no pain sensitivity -->
+  <VAE_NoPain.label>无惧疼痛</VAE_NoPain.label>
+  <!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VAE_NoPain.description>此单位几乎感受不到任何疼痛。</VAE_NoPain.description>
+  
+  <!-- EN: open wound -->
+  <VAE_OpenWound.label>皮开肉绽</VAE_OpenWound.label>
+  <!-- EN: An open wound. -->
+  <VAE_OpenWound.description>皮开肉绽的伤口。</VAE_OpenWound.description>
+  <!-- EN: stab scar -->
+  <VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>刺伤疤痕</VAE_OpenWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <VAE_OpenWound.injuryProps.destroyedLabel>被切除</VAE_OpenWound.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <VAE_OpenWound.injuryProps.destroyedOutLabel>被切除</VAE_OpenWound.injuryProps.destroyedOutLabel>
+  <!-- EN: an open wound -->
+  <VAE_OpenWound.labelNoun>皮开肉绽</VAE_OpenWound.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VAE_OpenWound.labelNounPretty>{1}中的{0}</VAE_OpenWound.labelNounPretty>
+  
+  <!-- EN: silk covered -->
+  <VAE_SilkCovered.label>蛛丝裹缠</VAE_SilkCovered.label>
+  <!-- EN: This creature has been attacked by a giant spider and is partially covered in strands of adhesive silk. -->
+  <VAE_SilkCovered.description>此生物被一只巨大的蜘蛛攻击，部分被粘性的蛛丝裹缠。</VAE_SilkCovered.description>
+  
+  <!-- EN: strengthened by bond -->
+  <VAE_StrengthenedByBond.label>牵绊加成</VAE_StrengthenedByBond.label>
+  <!-- EN: This animal is bonded to one of the colonists and it will be considerably strengtened. However, if the bonded colonist dies, the animal will leave the map and be forever lost. -->
+  <VAE_StrengthenedByBond.description>这只动物与一名殖民者产生了牵绊，并且会因此得到大量加成。但是，如果牵绊殖民者死亡，此动物将离开地图并永远消失。</VAE_StrengthenedByBond.description>
+  
+  <!-- EN: stunned by vicious attack -->
+  <VAE_StunnedByViciousAttack.label>头晕目眩</VAE_StunnedByViciousAttack.label>
+  <!-- EN: This creature has been the target of a vicious assault. -->
+  <VAE_StunnedByViciousAttack.description>此单位已被狂虫重击击晕。</VAE_StunnedByViciousAttack.description>
+  
+  <!-- EN: wallbreaker -->
+  <VAE_WallBreaker.label>墙体破坏</VAE_WallBreaker.label>
+  <!-- EN: This insectoid hulk is rampaging ravenously and will crush walls and other structures in its path. -->
+  <VAE_WallBreaker.description>这只巨魔狂虫正在肆虐，并将摧毁沿途的墙体和其他建筑物。</VAE_WallBreaker.description>
+  
+</LanguageData>

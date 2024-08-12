@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: electromagnetic shock -->
+  <VREA_ElectromagneticShock.label>机体瘫痪</VREA_ElectromagneticShock.label>
+  <!-- EN: An electromagnetic shock. -->
+  <VREA_ElectromagneticShock.description>此人形因受到EMP伤害而暂时陷入瘫痪。</VREA_ElectromagneticShock.description>
+  
+  <!-- EN: EMP burn -->
+  <VREA_EMPBurn.label>电烧伤</VREA_EMPBurn.label>
+  <!-- EN: An EMP burn. -->
+  <VREA_EMPBurn.description>EMP电烧伤伤口。</VREA_EMPBurn.description>
+  <!-- EN: EMP burn scar -->
+  <VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>电烧伤疤痕</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off (EMP) -->
+  <VREA_EMPBurn.injuryProps.destroyedLabel>被烧毁</VREA_EMPBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out (EMP) -->
+  <VREA_EMPBurn.injuryProps.destroyedOutLabel>被烧掉</VREA_EMPBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an EMP burn -->
+  <VREA_EMPBurn.labelNoun>电烧伤</VREA_EMPBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VREA_EMPBurn.labelNounPretty>{1}中的{0}</VREA_EMPBurn.labelNounPretty>
+  
+</LanguageData>

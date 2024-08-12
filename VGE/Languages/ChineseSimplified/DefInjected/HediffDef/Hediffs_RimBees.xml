@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blinding venom -->
+  <RB_BlindingBuildup.label>中毒-致盲</RB_BlindingBuildup.label>
+  <!-- EN: Blinding venom in the bloodstream. This venom is not lethal, but it will last for a while before it stops affecting sight. -->
+  <RB_BlindingBuildup.description>流淌在血液里的致盲毒素。这种毒素虽然并不致命，但会持续对视觉能力造成影响，严重时还会导致呕吐。</RB_BlindingBuildup.description>
+  <!-- EN: initial-hidden -->
+  <RB_BlindingBuildup.stages.initialhidden.label>轻微</RB_BlindingBuildup.stages.initialhidden.label>
+  <!-- EN: initial -->
+  <RB_BlindingBuildup.stages.initial.label>轻微</RB_BlindingBuildup.stages.initial.label>
+  <!-- EN: minor -->
+  <RB_BlindingBuildup.stages.minor.label>较轻</RB_BlindingBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <RB_BlindingBuildup.stages.moderate.label>中等</RB_BlindingBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <RB_BlindingBuildup.stages.serious.label>严重</RB_BlindingBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <RB_BlindingBuildup.stages.extreme.label>极重</RB_BlindingBuildup.stages.extreme.label>
+  <!-- EN: nauseating -->
+  <RB_BlindingBuildup.stages.nauseating.label>恶心</RB_BlindingBuildup.stages.nauseating.label>
+  
+  <!-- EN: injected chemfuel -->
+  <RB_ChemfuelBuildup.label>中毒-化合燃料</RB_ChemfuelBuildup.label>
+  <!-- EN: Chemfuel in the bloodstream.\n\nAt high doses, this is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with injected chemfuel can be eaten. -->
+  <RB_ChemfuelBuildup.description>流淌在血液里的化合燃料。\n化合燃料的积聚是致命的，即使是低剂量，它也能引发癌症。\n\n与游戏本体的中毒效果相反，死于这种毒性伤害的生物可以被吃掉。</RB_ChemfuelBuildup.description>
+  <!-- EN: initial -->
+  <RB_ChemfuelBuildup.stages.initial-0.label>轻微</RB_ChemfuelBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <RB_ChemfuelBuildup.stages.initial-1.label>轻微</RB_ChemfuelBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <RB_ChemfuelBuildup.stages.minor.label>较轻</RB_ChemfuelBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <RB_ChemfuelBuildup.stages.moderate.label>中等</RB_ChemfuelBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <RB_ChemfuelBuildup.stages.serious.label>严重</RB_ChemfuelBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <RB_ChemfuelBuildup.stages.extreme.label>极重</RB_ChemfuelBuildup.stages.extreme.label>
+  
+  <!-- EN: paralysis -->
+  <RB_ParalysisBuildup.label>中毒-麻痹</RB_ParalysisBuildup.label>
+  <!-- EN: A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while. -->
+  <RB_ParalysisBuildup.description>流淌在血液里的麻痹毒素，会持续降低意识。</RB_ParalysisBuildup.description>
+  <!-- EN: initial -->
+  <RB_ParalysisBuildup.stages.initial.label>轻微</RB_ParalysisBuildup.stages.initial.label>
+  <!-- EN: stunned -->
+  <RB_ParalysisBuildup.stages.stunned.label>头晕</RB_ParalysisBuildup.stages.stunned.label>
+  <!-- EN: very stunned -->
+  <RB_ParalysisBuildup.stages.very_stunned.label>晕厥</RB_ParalysisBuildup.stages.very_stunned.label>
+  <!-- EN: paralysed -->
+  <RB_ParalysisBuildup.stages.paralysed.label>瘫痪</RB_ParalysisBuildup.stages.paralysed.label>
+  
+  <!-- EN: increased stamina (from honey) -->
+  <RB_Stamina.label>耐力强化（蜂蜜）</RB_Stamina.label>
+  <!-- EN: Genetic honey is strengthening this creature's stamina. -->
+  <RB_Stamina.description>此单位因享用了基因蜂蜜而得到了小幅强化。</RB_Stamina.description>
+  
+  <!-- EN: poisoned blood -->
+  <RB_ToxicBuildup.label>中毒</RB_ToxicBuildup.label>
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+  <RB_ToxicBuildup.description>流淌在血液里的毒素。来源可能是：来自环境的毒素、有毒生物的叮咬、或有毒的武器。\n毒素的积聚是致命的，即使是低剂量，它也能引发癌症。\n\n与游戏本体的中毒效果相反，死于这种毒性伤害的生物可以被吃掉。</RB_ToxicBuildup.description>
+  <!-- EN: initial -->
+  <RB_ToxicBuildup.stages.initial-0.label>轻微</RB_ToxicBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <RB_ToxicBuildup.stages.initial-1.label>轻微</RB_ToxicBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <RB_ToxicBuildup.stages.minor.label>较轻</RB_ToxicBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <RB_ToxicBuildup.stages.moderate.label>中等</RB_ToxicBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <RB_ToxicBuildup.stages.serious.label>严重</RB_ToxicBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <RB_ToxicBuildup.stages.extreme.label>极重</RB_ToxicBuildup.stages.extreme.label>
+  
+</LanguageData>

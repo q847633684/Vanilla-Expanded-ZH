@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Engine Cover -->
+  <VVE_Highwayman_UpgradeTree.nodes.0.label>引擎护罩</VVE_Highwayman_UpgradeTree.nodes.0.label>
+  <!-- EN: Cover the engine with extended armor plating, protecting it from gunfire. -->
+  <VVE_Highwayman_UpgradeTree.nodes.0.description>将引擎用额外的装甲板遮蔽，防止在战斗中被损坏。</VVE_Highwayman_UpgradeTree.nodes.0.description>
+  <!-- EN: Reinforced Bumper -->
+  <VVE_Highwayman_UpgradeTree.nodes.1.label>重型保险杠</VVE_Highwayman_UpgradeTree.nodes.1.label>
+  <!-- EN: Reinforce the front bumper to allow this vehicle to deal more damage during collisions. -->
+  <VVE_Highwayman_UpgradeTree.nodes.1.description>强化前部保险杠，增加撞击伤害。</VVE_Highwayman_UpgradeTree.nodes.1.description>
+  <!-- EN: Larger Cabin -->
+  <VVE_Highwayman_UpgradeTree.nodes.2.label>扩容客舱</VVE_Highwayman_UpgradeTree.nodes.2.label>
+  <!-- EN: Extend the cabin by adding space for an additional passenger. -->
+  <VVE_Highwayman_UpgradeTree.nodes.2.description>增加客舱空间，可以承载更多乘客。</VVE_Highwayman_UpgradeTree.nodes.2.description>
+  <!-- EN: Off Road Tires -->
+  <VVE_Highwayman_UpgradeTree.nodes.3.label>越野轮胎</VVE_Highwayman_UpgradeTree.nodes.3.label>
+  <!-- EN: Replace the tires with deep treaded tires that provide more traction and will allow the vehicle to move significantly faster offroad. -->
+  <VVE_Highwayman_UpgradeTree.nodes.3.description>更换上有深胎纹的轮胎，提供更强的抓地力，让载具在离开道路行驶时更加方便。</VVE_Highwayman_UpgradeTree.nodes.3.description>
+  <!-- EN: Improved Turret -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.label>改进型炮塔</VVE_Highwayman_UpgradeTree.nodes.4.label>
+  <!-- EN: Improve the turret with more efficient firing mechanism and ammo feeding system, allowing it to fire more rapidly and with higher accuracy. Additionally, install smokepop canisters on a turret, allowing the vehicle to eject a smoke screen. -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.description>改进炮塔的开火机制和供弹系统，增加射速和精准度。除此之外还在炮塔上增设了烟罐发射器，允许载具发射烟幕。</VVE_Highwayman_UpgradeTree.nodes.4.description>
+  <!-- EN: smokepop -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>烟罐</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>
+  <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has three charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>种防御性的烟幕装置。当它被激活时，会释放一团烟雾，能够干扰远程武器的瞄准，并防止处于烟雾内的单位被炮塔锁定。需要化和燃料来补充使用次数，最多储存3发。右击可以装填。</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>
+  <!-- EN: on cooldown -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>冷却中</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>
+  <!-- EN: pop smoke -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>释放烟雾</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <!-- EN: Main Turret -->
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>主炮塔</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Cargo Capacity -->
+  <VVE_Highwayman_UpgradeTree.nodes.5.label>载货量</VVE_Highwayman_UpgradeTree.nodes.5.label>
+  <!-- EN: Improve the cargo capacity of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.5.description>增加少量载货量</VVE_Highwayman_UpgradeTree.nodes.5.description>
+  <VVE_Highwayman_UpgradeTree.nodes.6.label>装甲</VVE_Highwayman_UpgradeTree.nodes.6.label>
+  <!-- EN: Reinforce the armor of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.6.description>些许强化装甲</VVE_Highwayman_UpgradeTree.nodes.6.description>
+  <VVE_Highwayman_UpgradeTree.nodes.7.label>引擎</VVE_Highwayman_UpgradeTree.nodes.7.label>
+  <!-- EN: Improve the engine of the vehicle, allowing it to reach higher maximum speed. -->
+  <VVE_Highwayman_UpgradeTree.nodes.7.description>强化载具引擎，增加速度上限。</VVE_Highwayman_UpgradeTree.nodes.7.description>
+  <VVE_Highwayman_UpgradeTree.nodes.8.label>加速</VVE_Highwayman_UpgradeTree.nodes.8.label>
+  <!-- EN: Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.8.description>改进变速器的换档机制，增加少量加速度。</VVE_Highwayman_UpgradeTree.nodes.8.description>
+  <!-- EN: Fuel Consumption -->
+  <VVE_Highwayman_UpgradeTree.nodes.9.label>燃料效率</VVE_Highwayman_UpgradeTree.nodes.9.label>
+  <!-- EN: Improve the exhaust system of the vehicle, improving fuel efficiency slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.9.description>改进排气系统，增加少量燃料效率。</VVE_Highwayman_UpgradeTree.nodes.9.description>
+  <!-- EN: Fuel Capacity -->
+  <VVE_Highwayman_UpgradeTree.nodes.10.label>燃料储量</VVE_Highwayman_UpgradeTree.nodes.10.label>
+  <!-- EN: Increase the size of the chemtank slightly. -->
+  <VVE_Highwayman_UpgradeTree.nodes.10.description>增加少许燃料箱容量。</VVE_Highwayman_UpgradeTree.nodes.10.description>
+  
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: freeze -->
+  <VREA_Freeze.label>冻伤</VREA_Freeze.label>
+  <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
+  <VREA_Freeze.description>冻伤是由于寒冷潮湿作用引起的人形局部或全身损伤。冻伤非常痛苦，人形经常会被迫失去冻伤的合成部件。</VREA_Freeze.description>
+  <!-- EN: Lost to freeze -->
+  <VREA_Freeze.injuryProps.destroyedLabel>因冻伤失去</VREA_Freeze.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <VREA_Freeze.labelNounPretty>{1}中的{0}</VREA_Freeze.labelNounPretty>
+  
+  <!-- EN: freezing -->
+  <VREA_Freezing.label>部件过冷</VREA_Freezing.label>
+  <!-- EN: Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments. -->
+  <VREA_Freezing.description>长时间暴露于低温环境下导致的人形体内温度平衡失调状态。部件过冷会在人形进入温暖的地方后随着时间的推移自然恢复。但如果人形继续在低温环境中活动，自身的合成部件会持续受损，直到人形彻底毁坏。</VREA_Freezing.description>
+  <!-- EN: shivering -->
+  <VREA_Freezing.stages.shivering-0.label>轻微</VREA_Freezing.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <VREA_Freezing.stages.shivering-1.label>较轻</VREA_Freezing.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <VREA_Freezing.stages.minor.label>中等</VREA_Freezing.stages.minor.label>
+  <!-- EN: serious -->
+  <VREA_Freezing.stages.serious.label>严重</VREA_Freezing.stages.serious.label>
+  <!-- EN: extreme -->
+  <VREA_Freezing.stages.extreme.label>极重</VREA_Freezing.stages.extreme.label>
+  
+  <!-- EN: neutro loss -->
+  <VREA_NeutroLoss.label>中性胺流失</VREA_NeutroLoss.label>
+  <!-- EN: A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.\n\nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again. -->
+  <VREA_NeutroLoss.description>人形由于大量流失中性胺而导致的体内中性胺含量减少。\n轻微中性胺流失的影响相对较轻，但当情况变得严重时，人形所有的子系统都将停摆失灵，并失去移动能力。不过，中性胺流失过多并不会使人形死亡。\n人形流失的中性胺无法随着时间的推移自行恢复，必须依靠特殊的设备“中性胺灌注舱”才能补充。安装了“中性胺合成”子程序的人形虽然具有缓慢合成中性胺的能力，但会消耗大量时间与能量。</VREA_NeutroLoss.description>
+  <!-- EN: minor -->
+  <VREA_NeutroLoss.stages.minor-0.label>轻微</VREA_NeutroLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <VREA_NeutroLoss.stages.minor-1.label>较轻</VREA_NeutroLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <VREA_NeutroLoss.stages.moderate.label>中等</VREA_NeutroLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <VREA_NeutroLoss.stages.severe.label>严重</VREA_NeutroLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <VREA_NeutroLoss.stages.extreme.label>极重</VREA_NeutroLoss.stages.extreme.label>
+  
+  <!-- EN: overheating -->
+  <VREA_Overheating.label>部件过热</VREA_Overheating.label>
+  <!-- EN: A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting. -->
+  <VREA_Overheating.description>长时间暴露于高温和日晒的环境下导致的人形体内温度平衡失调状态。人形的缓存空间会以更快的速度被消耗。部件过热会在人形进入凉快的地方后随着时间的推移自然恢复。但如果人形继续在高温环境中活动，其缓存空间会迅速耗尽，频繁地重新格式化将使他们长期处于失控状态。</VREA_Overheating.description>
+  <!-- EN: initial -->
+  <VREA_Overheating.stages.initial.label>轻微</VREA_Overheating.stages.initial.label>
+  <!-- EN: minor -->
+  <VREA_Overheating.stages.minor.label>较轻</VREA_Overheating.stages.minor.label>
+  <!-- EN: serious -->
+  <VREA_Overheating.stages.serious.label>严重</VREA_Overheating.stages.serious.label>
+  <!-- EN: extreme -->
+  <VREA_Overheating.stages.extreme.label>极重</VREA_Overheating.stages.extreme.label>
+  
+  <!-- EN: Scanning sickness -->
+  <VREA_ScanningSickness.label>扫描后遗症</VREA_ScanningSickness.label>
+  <!-- EN: This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
+  <VREA_ScanningSickness.description>此人曾被分析仪扫描以生产人形次生核心。扫描设备干扰了他们的大脑，需要一定的时间来恢复。不会造成长期伤害。</VREA_ScanningSickness.description>
+  
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flamethrower shot -->
+  <VFES_Bullet_FlameTurret.label>火舌炮塔燃料</VFES_Bullet_FlameTurret.label>
+  
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.label>火焰喷射器</VFES_Gun_FlameTurret.label>
+  <!-- EN: A flamethrower made to be mounted on a turret. -->
+  <VFES_Gun_FlameTurret.description>安装在炮塔上的火焰喷射器。</VFES_Gun_FlameTurret.description>
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>火焰喷射器</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: military turret doublegun -->
+  <VFES_Gun_MilitaryTurret.label>军用双管机枪</VFES_Gun_MilitaryTurret.label>
+  <!-- EN: Two simple automatic guns made to be mounted on a turret. -->
+  <VFES_Gun_MilitaryTurret.description>安装在炮塔上的简易双管自动机枪。</VFES_Gun_MilitaryTurret.description>
+  <!-- EN: military turret doublegun -->
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>军用双管机枪</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.label>探照灯</VFES_Gun_Searchlight.label>
+  <!-- EN: A searchlight for a turret. -->
+  <VFES_Gun_Searchlight.description>安装在炮塔上的探照灯。</VFES_Gun_Searchlight.description>
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>探照灯</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  
+  <!-- EN: sentry turret gun -->
+  <VFES_Gun_SentryTurret.label>哨戒机枪</VFES_Gun_SentryTurret.label>
+  <!-- EN: A fully automatic gatling gun made to be mounted on a turret. -->
+  <VFES_Gun_SentryTurret.description>安装在炮塔上的全自动速射机枪。</VFES_Gun_SentryTurret.description>
+  <!-- EN: sentry turret gun -->
+  <VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>哨戒机枪</VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flame turret -->
+  <VFES_Turret_Flame.label>火舌炮塔</VFES_Turret_Flame.label>
+  <!-- EN: A portable flamethrower turret. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Flame.description>便携式喷火炮塔。长期使用后需要大量的钢铁维护炮管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_Flame.description>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>燃料</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>剩余燃料</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs chemfuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>需要燃料</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: military turret -->
+  <VFES_Turret_MilitaryTurret.label>军用自动机枪塔</VFES_Turret_MilitaryTurret.label>
+  <!-- EN: A military-grade double barreled automatic turret. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_MilitaryTurret.description>军用双管自动机枪塔。长期使用后需要大量的钢铁维护枪管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_MilitaryTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>枪管耐久度</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>更换枪管前剩余射击次数</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrels -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>需要新枪管</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: searchlight -->
+  <VFES_Turret_Searchlight.label>探照灯</VFES_Turret_Searchlight.label>
+  <!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+  <VFES_Turret_Searchlight.description>配备强光源和反射镜的探照灯，可以照亮目标并使其眩晕。</VFES_Turret_Searchlight.description>
+  
+  <!-- EN: sentry gun -->
+  <VFES_Turret_SentryGun.label>哨戒炮塔</VFES_Turret_SentryGun.label>
+  <!-- EN: A self-powered turret with a small gatling gun mounted on top. Light enough to be carried and deployed wherever. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_SentryGun.description>配备有小型速射机枪与内置电源的轻便自动炮塔，可以随身携带和部署到任何地方。长期使用后需要大量的钢铁维护炮管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_SentryGun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>枪管耐久度</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>更换枪管前剩余射击次数</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>需要新枪管</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

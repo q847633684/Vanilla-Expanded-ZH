@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene infected -->
+  <VRE_GeneInfected.label>基因感染（完全）</VRE_GeneInfected.label>
+  <!-- EN: This person was the victim of a gene infection that altered their xenotype. This can't be cured. -->
+  <VRE_GeneInfected.description>此人的异种基因已被完全同化，无法治愈。</VRE_GeneInfected.description>
+  <VRE_GeneInfected.descriptionCached>此人的异种基因已被完全同化，无法治愈。</VRE_GeneInfected.descriptionCached>
+  
+  <!-- EN: gene infection -->
+  <VRE_GeneInfection.label>基因感染</VRE_GeneInfection.label>
+  <!-- EN: This person was implanted a copy of a xenogerm through a melee attack. This has triggered a progressing infection which, if left untreated will apply this xenogerm to them. -->
+  <VRE_GeneInfection.description>此人已患上了基因感染。如果未能得到及时有效的治疗，则其异种基因很快就会被感染的传播者完全同化。</VRE_GeneInfection.description>
+  <!-- EN: {0} has been afflicted with a gene infection! If the infection is not treated successfully, they'll be painfully converted into the xenotype of the person who infected them. -->
+  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0}因基因感染而陷入了痛苦之中！如果未能得到及时有效的治疗，则其异种基因很快就会被感染的传播者完全同化。</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a gene infection -->
+  <VRE_GeneInfection.labelNoun>基因感染</VRE_GeneInfection.labelNoun>
+  <!-- EN: minor -->
+  <VRE_GeneInfection.stages.minor.label>较轻</VRE_GeneInfection.stages.minor.label>
+  <!-- EN: major -->
+  <VRE_GeneInfection.stages.major.label>中等</VRE_GeneInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <VRE_GeneInfection.stages.extreme-0.label>严重</VRE_GeneInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <VRE_GeneInfection.stages.extreme-1.label>极重</VRE_GeneInfection.stages.extreme-1.label>
+  
+</LanguageData>

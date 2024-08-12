@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blast off -->
+  <VFEP_BlastOff.label>发射升空</VFEP_BlastOff.label>
+  <!-- EN: Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back. -->
+  <VFEP_BlastOff.description>启动装甲背后的大型火箭推进引擎，将自身发射至大地图上的指定位置，降落在目标地点后会引发一场大爆炸。注意：装甲有限的燃料容量只能支撑单次发射。</VFEP_BlastOff.description>
+  <!-- EN: Using ability: {0} -->
+  <VFEP_BlastOff.jobReportString>使用技能：{0}</VFEP_BlastOff.jobReportString>
+  <!-- EN: 发射升空 -->
+  <VFEP_BlastOff.verbProperties.label>发射升空</VFEP_BlastOff.verbProperties.label>
+  
+  <!-- EN: grappling hook -->
+  <VFEP_GrapplingHook.label>发射抓钩</VFEP_GrapplingHook.label>
+  <!-- EN: Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again. -->
+  <VFEP_GrapplingHook.description>发射抓钩并固定在墙体或山岩上，让使用者快速抵达指定的位置。虽然发射抓钩不会消耗弹药，但还是需要一定的整备时间才能再次发射。</VFEP_GrapplingHook.description>
+  <!-- EN: Using ability: {0} -->
+  <VFEP_GrapplingHook.jobReportString>使用技能：{0}</VFEP_GrapplingHook.jobReportString>
+  <!-- EN: reload grappling hook -->
+  <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>整备抓钩</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+  <!-- EN: 发射抓钩 -->
+  <VFEP_GrapplingHook.verbProperties.label>发射抓钩</VFEP_GrapplingHook.verbProperties.label>
+  
+  <!-- EN: Power jump -->
+  <VFEP_PowerJump.label>超级跳跃</VFEP_PowerJump.label>
+  <!-- EN: Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight. -->
+  <VFEP_PowerJump.description>启动护肩上的火箭推进器，让使用者进行短程飞行。开始飞行与落地时都会引发一次小爆炸。</VFEP_PowerJump.description>
+  <!-- EN: Using ability: {0} -->
+  <VFEP_PowerJump.jobReportString>使用技能：{0}</VFEP_PowerJump.jobReportString>
+  <!-- EN: 超级跳跃 -->
+  <VFEP_PowerJump.verbProperties.label>超级跳跃</VFEP_PowerJump.verbProperties.label>
+  
+  <!-- EN: Siege Mode -->
+  <VFEP_SiegeMode.label>攻城模式</VFEP_SiegeMode.label>
+  <!-- EN: Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically. -->
+  <VFEP_SiegeMode.description>启动腿部的钻地装置，将自身变成一个稳固的火炮打击单位。使用者的武器射程与弹药装填效率将会大幅增加。</VFEP_SiegeMode.description>
+  <!-- EN: Using ability: {0} -->
+  <VFEP_SiegeMode.jobReportString>使用技能：{0}</VFEP_SiegeMode.jobReportString>
+  <!-- EN: 攻城模式 -->
+  <VFEP_SiegeMode.verbProperties.label>攻城模式</VFEP_SiegeMode.verbProperties.label>
+  
+</LanguageData>

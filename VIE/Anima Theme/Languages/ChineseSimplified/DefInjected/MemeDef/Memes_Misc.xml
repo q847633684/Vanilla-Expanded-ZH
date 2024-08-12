@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+ 
+
+  <AM_GauranlenSupremacy.label>仙树至上</AM_GauranlenSupremacy.label>
+  <AM_GauranlenSupremacy.description>人类、灵枢仙树与树精，三者间的共生关系圣洁且崇高。我们会呵护并照料它们，而它们也会守卫我们的殖民地。\n\n&lt;color=#E5E54C>组合限制：&lt;/color>\n - 此模因依赖于“灵木共鸣”或“生物腐化者”模因(需要安装Alpha Animals)。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>\n - 开始游戏后，殖民地将会获得三只无拘树精。</AM_GauranlenSupremacy.description>
+  <AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_GauranlenSupremacy)        ->[deity0_name]创造了灵枢仙树与树精，这两种共生生命与人类间有着奇妙的启灵链接。</li>
+    <li>episode(uses=1,tag=meme_GauranlenSupremacy)  ->神圣的灵枢仙树树精是[deity0_name]的子嗣，我们应该崇敬并尊重它们。</li>
+    <li>intro(tag=meme_GauranlenSupremacy)           ->一支与世隔绝已久的远古德鲁伊部落初次踏入了[memberNamePlural][place_summary][place_name]，他们在这里种下了一片圣洁美丽的仙树林，以便能够更好的敬拜[deity0_type][deity0_name]。</li>
+    <li>conflict(tag=meme_GauranlenSupremacy)        ->邪恶无比的[foeLeader]毁掉了许多灵枢仙树，并产生了树精是害兽的异端思想，[memberNamePlural]们都为被毁坏的灵枢仙树感到伤心。</li>
+    <li>founderJoin(tag=meme_GauranlenSupremacy)     ->先知[founderName]与灵枢仙树、树精间有着奇妙的联系。部落里的其他人都认为[founder_pronoun]是实力最强的德鲁伊。</li>
+    <li>victory(tag=meme_GauranlenSupremacy)         ->[founderName]发现了[foeLeader]，当即召唤所有幸存的树精来协助进攻。[foeLeader]被无数暴怒的树精围了起来，[foeLeader_pronoun]所站的位置只剩下了一些小树枝。</li>
+    <li>setup(tag=meme_GauranlenSupremacy)           ->[founderName]是一位伟大的学者，[founder_pronoun]几十年来一直在研究灵枢仙树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接。</li>
+    <li>story(uses=1,tag=meme_GauranlenSupremacy)    ->[founderName]认为，某些被遗忘在历史长河中的科学家在几个世纪前就通过生物工程构造了这种奇妙的关系。不过，他们这么做的目的是什么呢？</li>
+    <li>lessonIntro(tag=meme_GauranlenSupremacy)         ->灵枢仙树是生物基因操纵可行性的一个有趣的实例。通过分析它们的树叶，我明白了</li>
+    <li>lesson(tag=meme_GauranlenSupremacy)              ->灵枢仙树与树精间复杂的共生关系绝不可能是自然形成的现象</li>
+    <li>lessonReinforcement(tag=meme_GauranlenSupremacy) ->显而易见，这种奇妙的关系是由某些被遗忘在历史长河中的科学家因未知原因构造的</li>
+    <li>archistBasis(tag=meme_GauranlenSupremacy)    ->灵枢仙树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是超凡智能精妙的手笔。</li>
+    <li>archistFact(tag=meme_GauranlenSupremacy)     ->超凡智能在万物中选择了灵枢仙树来展现自己。</li>
+    <li>archistProphecy(tag=meme_GauranlenSupremacy) ->[inTheEnd]，只有那些能与灵枢仙树间的启灵链接产生共鸣的人才能走向超越。</li>
+    <li>animistFact(tag=meme_GauranlenSupremacy)     ->有人说，灵枢仙树是那些跟随人类穿越万千世界的自然灵魂们的家园。</li>
+    <li>animistFact(tag=meme_GauranlenSupremacy)     ->灵枢仙树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些无疑是灵魂们精妙的手笔。</li>
+    <li>serketistProphecy(tag=meme_GauranlenSupremacy)->[itIsSaid]我们将建造一个能与灵枢仙树和树精共生的人类巢穴，就像作为灵感来源的神圣虫巢一样。</li>
+    <li>chthonianProphecy(tag=meme_GauranlenSupremacy)->外神们最终会找到我们，但我们还远远没有准备好。我们将寻求灵枢仙树和树精们的帮助，这样我们才有机会与祂们抗争。</li>
+    <li>esotericismProphecy(tag=meme_GauranlenSupremacy)->灵枢仙树与树精间复杂的共生关系，以及它们与人类间神秘的启灵链接，这些都是值得我们研究的神秘学知识的来源。</li>
+    <li>eschatologismFact(tag=meme_GauranlenSupremacy)->借助灵枢仙树和树精们，我们将毁灭一切。</li>
+    <li>introMemo(tag=meme_GauranlenSupremacy)->最近新建立的灵枢仙树植物园大幅提高了公司各处的生产效率。然而，我们注意到有人正将树精作为私人工具使用，这种非计划用途是绝对不允许的。我要再次提醒各位，这种行为的后果是直接被公司开除，希望各位能严格遵守公司的规定。</li>
+  </AM_GauranlenSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeCreed->dryad</li>
+    <li>memeCreed->gauranlen tree</li>
+    <li>memeConcept->gauranlen trees</li>
+    <li>memeConcept->dryads</li>
+    <li>memeAdjective->druidic</li>
+    <li>memeAdjective->barky</li>
+    <li>memeHyphenPrefix->tree</li>
+    <li>memeHyphenPrefix->arbor</li>
+    <li>memeHyphenPrefix->dryad</li>
+    <li>memeLeaderNoun->dryadkeeper</li>
+    <li>memeLeaderNoun->arborist</li>
+    <li>memeLeaderAdjective->green</li>
+    <li>memeLeaderAdjective->root</li>
+    <li>memeLeaderAdjective->canopy</li>
+    <li>memeMoralist->druid</li>
+  -->
+  <AM_GauranlenSupremacy.generalRules.rulesStrings>
+    <li>memeCreed->树精</li>
+    <li>memeCreed->灵枢仙树</li>
+    <li>memeConcept->灵枢仙树</li>
+    <li>memeConcept->树精</li>
+    <li>memeAdjective->树精</li>
+    <li>memeAdjective->树精女王</li>
+    <li>memeHyphenPrefix->灵木</li>
+    <li>memeHyphenPrefix->灵枢仙树</li>
+    <li>memeHyphenPrefix->树精</li>
+    <li>memeLeaderNoun->树精培育者</li>
+    <li>memeLeaderNoun->树艺家</li>
+    <li>memeLeaderAdjective->翠绿</li>
+    <li>memeLeaderAdjective->根系</li>
+    <li>memeLeaderAdjective->树荫</li>
+    <li>memeMoralist->德鲁伊</li>
+  </AM_GauranlenSupremacy.generalRules.rulesStrings>
+
+</LanguageData>

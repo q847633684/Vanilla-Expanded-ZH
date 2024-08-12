@@ -1,0 +1,18 @@
+<Patch>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/label</xpath>
+        <success>Normal</success>
+        <value>
+            <label>血原包（尸体）</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/ThingDef[defName="VRE_HemogenPack_Corpse"]/description</xpath>
+        <success>Normal</success>
+        <value>
+            <description>来自尸体上污秽、腐烂的血原质。大幅度降低使用者的能力，但显著加快了血液过滤速度。</description>
+        </value>
+    </Operation>
+
+</Patch>

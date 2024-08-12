@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED.ContactDeserters>联系逃兵</VFED.ContactDeserters>
+  <VFED.Visibility>可见性：{0}</VFED.Visibility>
+  <VFED.CurrentVisibility>当前可见性：</VFED.CurrentVisibility>
+  <VFED.Effects>效果：</VFED.Effects>
+  <VFED.IntelCostModifier>英特尔成本：</VFED.IntelCostModifier>
+  <VFED.ContrabandRecieveTimeModifier>接收违禁品的时间：</VFED.ContrabandRecieveTimeModifier>
+  <VFED.ContrabandSiteTimeModifier>死点的可用性：</VFED.ContrabandSiteTimeModifier>
+  <VFED.ImperialResponseTime>帝国响应时间：</VFED.ImperialResponseTime>
+  <VFED.ImperialResponseType>英制响应类型：</VFED.ImperialResponseType>
+  <VFED.SpecialEffects>特殊效果：</VFED.SpecialEffects>
+  <VFED.NoResponse>无响应</VFED.NoResponse>
+  <VFED.None>无</VFED.None>
+  <VFED.ItemName>项目名称</VFED.ItemName>
+  <VFED.Cost>成本</VFED.Cost>
+  <VFED.Basket>Basket</VFED.Basket>
+  <VFED.ContrabandRecieveDesc>通过违禁品系统购买的物品不会通过货运舱到达您的殖民地。相反，死掉的拾取任务将在一段时间后变得可用，并且该任务只会在很短的时间内可用。您可以在这里领取购买的违禁品。</VFED.ContrabandRecieveDesc>
+  <VFED.Purchase>Purchase</VFED.Purchase>
+  <VFED.RushDelivery>加急配送</VFED.RushDelivery>
+  <VFED.TotalCost>篮子总成本</VFED.TotalCost>
+  <VFED.RushDeliveryDesc>您可以通过投递箱加急送货以立即收到物品，但这会使该订单的英特尔成本增加一倍。</VFED.RushDeliveryDesc>
+  <VFED.TimeToReceive>预计接收时间：(*DateTime){0}-{1} 天(/DateTime)</VFED.TimeToReceive>
+  <VFED.TimeToPickup>取件时间：(*DateTime){0} 天(/DateTime)</VFED.TimeToPickup>
+  <VFED.TimeLimitDesc>接收时间和提货时间取决于您购买的商品数量以及您当前的可见度级别。接收时间过后，将可以进行死亡掉落任务。它只会在“接机时间”期间有效。如果未能及时领取，物品就会消失。</VFED.TimeLimitDesc>
+  <VFED.NotEnough>不够 {0}。需要 {1}，有 {2}</VFED.NotEnough>
+  <VFED.DeserterQuestDesc>这是一个逃兵任务。它可能会提供有关破碎帝国的情报，但也可能会增加你的派系的知名度。</VFED.DeserterQuestDesc>
+  <VFED.AvailableQuests>可用任务</VFED.AvailableQuests>
+  <VFED.CriticalQuests>关键任务</VFED.CriticalQuests>
+  <VFED.QuestDescription>任务描述</VFED.QuestDescription>
+  <VFED.QuestPurchaseDesc>您可以支付情报来从逃兵网络获取任务，但是在购买之前您不会知道可以从任务中获得的奖励。</VFED.QuestPurchaseDesc>
+  <VFED.TotalQuestCost>总任务成本</VFED.TotalQuestCost>
+  <VFED.Activate>激活</VFED.Activate>
+  <VFED.OtherServices>其他服务</VFED.OtherServices>
+  <VFED.Rewards>奖励</VFED.Rewards>
+  <VFED.PlotDesc>绘图描述</VFED.PlotDesc>
+  <VFED.PlotTarget>目标：{0}</VFED.PlotTarget>
+  <VFED.CompletedOn>于 {0} 完成</VFED.CompletedOn>
+  <VFED.CombatHigh>战斗力：高</VFED.CombatHigh>
+  <VFED.CombatMedium>战斗：中</VFED.CombatMedium>
+  <VFED.CombatLow>战斗：最小</VFED.CombatLow>
+  <VFED.CombatHighDesc>期待激烈的战斗</VFED.CombatHighDesc>
+  <VFED.CombatMediumDesc>期待一些战斗</VFED.CombatMediumDesc>
+  <VFED.CombatLowDesc>预计最小战斗</VFED.CombatLowDesc>
+  <VFED.ShowActiveQuest>显示活动任务</VFED.ShowActiveQuest>
+  <VFED.Select>Select</VFED.Select>
+  <VFED.HullIntegrity>船体完整性</VFED.HullIntegrity>
+  <VFED.Flagship>旗舰</VFED.Flagship>
+  <VFED.StartMission>开始任务</VFED.StartMission>
+  <VFED.IntelAmount>供电交易信标范围内的数量为 {0}。</VFED.IntelAmount>
+
+  <!--<VFED.篮子>篮子</VFED.篮子>-->
+  <!--<VFED.购买>购买</VFED.购买>-->
+  <!--<VFED.选择>选择</VFED.选择>-->
+
+</LanguageData>

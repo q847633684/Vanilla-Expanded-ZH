@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agriculture -->
+  <VFET_Agriculture.label>农耕</VFET_Agriculture.label>
+  <!-- EN: Learn to grow various staple crops. Unlocks growing job. -->
+  <VFET_Agriculture.description>学习有关种植各种作物的基础知识，解锁「种植」工作。</VFET_Agriculture.description>
+  <!-- EN:
+    <li>subject->birth of farming</li>
+    <li>subject_story->turned from the nomadic life to sow the seeds of the future</li>
+    <li>subject_story->nurtured the earth to yield bountiful harvests, ensuring prosperity</li>
+    <li>subject_story->founded the first settlements, around which communities flourished</li>
+    <li>subject_gerund->cultivating sustenance from the soil</li>
+  -->
+  <VFET_Agriculture.generalRules.rulesStrings>  
+    <li>subject->农耕起源</li>
+    <li>subject_story->从游牧生活转向播种未来的种子</li>
+    <li>subject_story->养护大地以确保丰收繁荣</li>
+    <li>subject_story->建立了第一批定居点，让附近的社区蓬勃发展</li>
+    <li>subject_gerund->在土地上种植作物</li>
+  </VFET_Agriculture.generalRules.rulesStrings>
+
+  <!-- EN: animal handling -->
+  <VFET_AnimalHandling.label>驯兽</VFET_AnimalHandling.label>
+  <!-- EN: Acquire the knowledge to manage, tame, and accommodate animals. Unlocks handing job, as well as animal taming and slaughtering. -->
+  <VFET_AnimalHandling.description>学习有关管理、驯服、训练和宰杀动物的基础知识，解锁「驯兽」工作。</VFET_AnimalHandling.description>
+  <!-- EN:
+    <li>subject->the bond between beast and kin</li>
+    <li>subject_story->formed alliances with the animal kingdom, taming the wild for companionship and aid</li>
+    <li>subject_story->harnessed the strength of beasts, elevating their tribe's potential</li>
+    <li>subject_story->merged their destiny with that of their animal brethren, securing a mutual survival</li>
+    <li>subject_gerund->fostering the first companions</li>
+  -->
+  <VFET_AnimalHandling.generalRules.rulesStrings>  
+    <li>subject->野兽与同族间的联系</li>
+    <li>subject_story->与动物王国联盟，驯服野兽以获得陪伴与援助</li>
+    <li>subject_story->利用野兽的力量，提高部落的潜力</li>
+    <li>subject_story->将自身命运与动物交织融合，确保相互扶持生存下去</li>
+    <li>subject_gerund->培养首批伙伴</li>
+  </VFET_AnimalHandling.generalRules.rulesStrings>
+
+  <!-- EN: bow -->
+  <VFET_Bow.label>短弓</VFET_Bow.label>
+  <!-- EN: Unlock the ability to craft the staple of ranged combat - a short bow. -->
+  <VFET_Bow.description>解锁制作基础的远程武器「短弓」。</VFET_Bow.description>
+  <!-- EN:
+    <li>subject->the arc of ascendancy</li>
+    <li>subject_story->stretched the bowstring of progress, launching arrows towards the horizon</li>
+    <li>subject_story->mastered the bow, blending patience, skill, and technology</li>
+    <li>subject_story->ushered in the era of ranged combat, shifting the dynamics of the hunt and warfare</li>
+    <li>subject_gerund->extending reach beyond grasp</li>
+  -->
+  <VFET_Bow.generalRules.rulesStrings>  
+    <li>subject->弧形的优势</li>
+    <li>subject_story->拉动进步的弓弦，将箭矢射向新天地</li>
+    <li>subject_story->将耐心、技巧与科技融合，熟练掌握了弓术</li>
+    <li>subject_story->开创了远程作战的时代，使狩猎和战争快速发生变化</li>
+    <li>subject_gerund->提高可触及的范围</li>
+  </VFET_Bow.generalRules.rulesStrings>
+
+  <!-- EN: construction -->
+  <VFET_Construction.label>建造</VFET_Construction.label>
+  <!-- EN: Learn the absolute basic techniques of building and structural design. Unlocks the ability to build walls and roofs. -->
+  <VFET_Construction.description>学习有关结构设计的基础知识，解锁建造墙、栅栏、路障、地板、屋顶等结构。</VFET_Construction.description>
+  <!-- EN:
+    <li>subject->shelter and structure</li>
+    <li>subject_story->raised the first walls against the elements, crafting sanctuaries from the wild</li>
+    <li>subject_story->assembled places of gathering and rest, fostering community and safety</li>
+    <li>subject_story->embarked on the architectural journey, laying the cornerstone of progress</li>
+    <li>subject_gerund->building the cradle of civilization</li>
+  -->
+  <VFET_Construction.generalRules.rulesStrings>  
+    <li>subject->庇护所与建筑</li>
+    <li>subject_story->垒起第一面墙以隔绝恶劣天气，建造庇护所来阻挡野兽</li>
+    <li>subject_story->建造了集会与休息场所，促进交流与安全</li>
+    <li>subject_story->踏上建筑之旅，奠定进步的基石</li>
+    <li>subject_gerund->建造文明的摇篮</li>
+  </VFET_Construction.generalRules.rulesStrings>
+
+  <!-- EN: cultivation -->
+  <VFET_Cultivation.label>培植</VFET_Cultivation.label>
+  <!-- EN: Expand crop variety with more specific, difficult to grow plants, such as smokeleaf or psychoid plant. -->
+  <VFET_Cultivation.description>解锁种植「大麻叶」、「精神叶」等培养难度更高的特殊作物。</VFET_Cultivation.description>
+  <!-- EN:
+    <li>subject->diversification of crops</li>
+    <li>subject_story->explored the cultivation of exotic plants, enriching diets and medicine</li>
+    <li>subject_story->braved the cultivation of finicky crops, securing a variety of sustenance</li>
+    <li>subject_story->expanded the agricultural horizon, embracing the wealth of nature’s bounty</li>
+    <li>subject_gerund->expanding the garden of civilization</li>
+  -->
+  <VFET_Cultivation.generalRules.rulesStrings> 
+    <li>subject->作物多元化</li>
+    <li>subject_story->探究了珍稀植物的种植方法，丰富了日常饮食和药物</li>
+    <li>subject_story->冒着风险种植娇弱的作物，以获得各种食物</li>
+    <li>subject_story->扩展了农业领域，拥抱大自然的丰富馈赠</li>
+    <li>subject_gerund->扩展文明的花园</li>
+  </VFET_Cultivation.generalRules.rulesStrings>
+
+  <!-- EN: culture -->
+  <VFET_Culture.label>文明</VFET_Culture.label>
+  <!-- EN: Unlock the ability to conduct research, as well as develop ideological thoughts. Unlocks intellectual job. -->
+  <VFET_Culture.description>学习有关科研探索和艺术文化的基础知识，解锁建造「研究点」、「艺创台」和各种各样的文化建筑。</VFET_Culture.description>
+  <!-- EN:
+    <li>subject->the tapestry of thought</li>
+    <li>subject_story->wove the fabric of their culture, rich with the threads of knowledge and belief</li>
+    <li>subject_story->cultivated the growth of intellectual pursuits, seeding the future with ideas</li>
+    <li>subject_story->embarked on the quest for understanding, elevating their tribe with wisdom</li>
+    <li>subject_gerund->cultivating the mind’s garden</li>
+  -->
+  <VFET_Culture.generalRules.rulesStrings>  
+    <li>subject->思想挂毯</li>
+    <li>subject_story->用知识与信仰之线编制文明结构</li>
+    <li>subject_story->培育智识爱好的成长，播种未来的想法</li>
+    <li>subject_story->开始寻求认知理解，以智慧启发自己的部落</li>
+    <li>subject_gerund->培育精神的花园</li>
+  </VFET_Culture.generalRules.rulesStrings>
+
+  <!-- EN: fire -->
+  <VFET_Fire.label>生火</VFET_Fire.label>
+  <!-- EN: Unlock the capability to utilize and manage fire for various purposes. Unlocks firefighting job. -->
+  <VFET_Fire.description>学习有关掌控和利用火的基础知识，解锁「灭火」工作以及建造「篝火」和「火把」。</VFET_Fire.description>
+  <!-- EN:
+    <li>subject->discovery of fire</li>
+    <li>subject_story->harnessed the primal force of fire, illuminating the darkness and warming the cold</li>
+    <li>subject_story->transformed the night into a time of activity and safety, warding off predators</li>
+    <li>subject_story->laid the foundation of civilization with the control of this wild element</li>
+    <li>subject_gerund->mastering the flame</li>
+  -->
+  <VFET_Fire.generalRules.rulesStrings>  
+    <li>subject->火的发现</li>
+    <li>subject_story->利用火焰的原始力量来照亮黑暗和驱散寒冷</li>
+    <li>subject_story->用火焰驱赶捕食者，让夜晚变成可以活动的安全时段</li>
+    <li>subject_story->通过控制这种天然元素来打下文明的基础</li>
+    <li>subject_gerund->掌控火焰</li>
+  </VFET_Fire.generalRules.rulesStrings>
+
+  <!-- EN: furniture -->
+  <VFET_Furniture.label>家具</VFET_Furniture.label>
+  <!-- EN: Introduce basic furniture crafting for improved living conditions. -->
+  <VFET_Furniture.description>学习有关家具设计的基础知识，解锁建造「睡袋」、「桌子」、「凳子」等能改善居住环境的家具。</VFET_Furniture.description>
+  <!-- EN:
+    <li>subject->comforts of craftsmanship</li>
+    <li>subject_story->carved the first symbols of comfort and utility from the heartwood of nature</li>
+    <li>subject_story->transformed living spaces with the artistry of handcrafted furniture</li>
+    <li>subject_story->elevated daily life, from survival to living, through the touch of creation</li>
+    <li>subject_gerund->shaping the comforts of home</li>
+  -->
+  <VFET_Furniture.generalRules.rulesStrings>  
+    <li>subject->舒适工艺品</li>
+    <li>subject_story->用天然的心材雕刻出首批象征舒适与实用的家具</li>
+    <li>subject_story->用艺术的手工家具为起居空间增添观感</li>
+    <li>subject_story->通过创造触感来提高日常生活和生存的质量</li>
+    <li>subject_gerund->塑造如家般温馨的舒适</li>
+  </VFET_Furniture.generalRules.rulesStrings>
+
+  <!-- EN: hunting -->
+  <VFET_Hunting.label>狩猎</VFET_Hunting.label>
+  <!-- EN: Establish methods for effective hunting and resource processing. Unlocks hunting job and allows you to craft throwspikes. -->
+  <VFET_Hunting.description>学习有关狩猎和动物尸体处理的基础知识，解锁「狩猎」工作、制作「飞刺」以及建造「屠宰点」和各种陷阱。</VFET_Hunting.description>
+  <!-- EN:
+    <li>subject->the hunt’s mastery</li>
+    <li>subject_story->honed the primal dance of predator and prey, ensuring the tribe’s sustenance</li>
+    <li>subject_story->crafted the tools of the chase, bringing skill to the wild’s challenge</li>
+    <li>subject_story->secured their place atop the food chain, through cunning and craft</li>
+    <li>subject_gerund->capturing the wild’s bounty</li>
+  -->
+  <VFET_Hunting.generalRules.rulesStrings>  
+    <li>subject->狩猎精通</li>
+    <li>subject_story->磨练了捕食者和猎物的原始之舞，确保部落的食物来源</li>
+    <li>subject_story->制作了追捕猎物的工具，将技巧运用在野外挑战上</li>
+    <li>subject_story->通过狡黠与手工确保自己处于食物链顶端</li>
+    <li>subject_gerund->捕获野兽的回报</li>
+  </VFET_Hunting.generalRules.rulesStrings>
+
+  <!-- EN: medicine -->
+  <VFET_Medicine.label>医药</VFET_Medicine.label>
+  <!-- EN: Introduce basic herbal treatment methods. -->
+  <VFET_Medicine.description>解锁种植「药草」。这种植物可以产出天然的医疗药物「草药」。</VFET_Medicine.description>
+  <!-- EN:
+    <li>subject->foundations of healing</li>
+    <li>subject_story->unveiled the curative powers of nature, blending herbs into the first remedies</li>
+    <li>subject_story->soothed the ails of their kin with poultices and potions, birthed from the wild</li>
+    <li>subject_story->paved the path for the healing arts, bridging the gap between ailment and health</li>
+    <li>subject_gerund->weaving the first threads of wellness</li>
+  -->
+  <VFET_Medicine.generalRules.rulesStrings>  
+    <li>subject->医疗基础</li>
+    <li>subject_story->用草药制成首批医疗药品，展示了大自然的治愈之力</li>
+    <li>subject_story->用从野外采集的材料制成敷剂和药水，舒缓亲人的病痛</li>
+    <li>subject_story->为治疗技艺铺平了道路，弥补小病与健康间的差距</li>
+    <li>subject_gerund->编织首批健康之线</li>
+  </VFET_Medicine.generalRules.rulesStrings>
+
+  <!-- EN: mining -->
+  <VFET_Mining.label>采矿</VFET_Mining.label>
+  <!-- EN: Develop methods to extract resources from the earth using force. Unlocks mining job. -->
+  <VFET_Mining.description>学习有关挖掘和采矿的基础知识，解锁「采矿」工作。</VFET_Mining.description>
+  <!-- EN:
+    <li>subject->unearthing the earth’s secrets</li>
+    <li>subject_story->delved into the belly of the earth to claim its hidden riches</li>
+    <li>subject_story->crafted the first tools to pierce stone, revealing the minerals within</li>
+    <li>subject_story->laid the groundwork for advancements with the raw materials of progress</li>
+    <li>subject_gerund->chiseling the path to prosperity</li>
+  -->
+  <VFET_Mining.generalRules.rulesStrings>  
+    <li>subject->发掘大地的秘密</li>
+    <li>subject_story->深入地下以寻找埋藏的财富</li>
+    <li>subject_story->制造了首批能凿开岩石的工具，揭示蕴藏其中的矿物</li>
+    <li>subject_story->用进步的原材料推动发展</li>
+    <li>subject_gerund->开辟繁荣之路</li>
+  </VFET_Mining.generalRules.rulesStrings>
+
+  <!-- EN: tribalwear -->
+  <VFET_Tribalwear.label>部落装</VFET_Tribalwear.label>
+  <!-- EN: Learn to craft traditional tribal attire for various purposes. -->
+  <VFET_Tribalwear.description>解锁制作各种各样的传统部落装。</VFET_Tribalwear.description>
+  <!-- EN:
+    <li>subject->weaving identity and protection</li>
+    <li>subject_story->fashioned attire that spoke of culture and safeguarded against the harsh world</li>
+    <li>subject_story->blended functionality with tradition, clothing the spirit of their people</li>
+    <li>subject_story->crafted garments that would become the hallmark of their tribe’s identity</li>
+    <li>subject_gerund->dressing the essence of a people</li>
+  -->
+  <VFET_Tribalwear.generalRules.rulesStrings>  
+    <li>subject->编织护身衣物</li>
+    <li>subject_story->制作了既能抵御严酷环境，又能彰显文明的衣物</li>
+    <li>subject_story->将实用与传统相融合，制作能凸显人们精神面貌的衣物</li>
+    <li>subject_story->制作了象征他们部落身份的衣物</li>
+    <li>subject_gerund->装扮人们的本质</li>
+  </VFET_Tribalwear.generalRules.rulesStrings>
+
+  <!-- EN: weapons -->
+  <VFET_Weapons.label>武器</VFET_Weapons.label>
+  <!-- EN: Introduce basic weaponry for defense against enemies. -->
+  <VFET_Weapons.description>解锁制作「棍棒」、「匕首」等用于抵御外敌的基础武器。</VFET_Weapons.description>
+  <!-- EN:
+    <li>subject->the edge of survival</li>
+    <li>subject_story->forged the first weapons, steeling their tribe against threats</li>
+    <li>subject_story->balanced the scales of nature and conflict with the craft of armament</li>
+    <li>subject_story->ensured their survival through the innovation of defense and offense</li>
+    <li>subject_gerund->arming the hands of fate</li>
+  -->
+  <VFET_Weapons.generalRules.rulesStrings>  
+    <li>subject->生存之刃</li>
+    <li>subject_story->锻造了首批能让部落抵御外敌的武器</li>
+    <li>subject_story->平衡了自然材料与武器工艺间的冲突</li>
+    <li>subject_story->通过攻守兼备的革新方式确保了生存</li>
+    <li>subject_gerund->武装命运之手</li>
+  </VFET_Weapons.generalRules.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Various -->
+
+	<!-- EN: Fishing Zone -->
+  <VCEF_FishingGrowingZone>渔猎区</VCEF_FishingGrowingZone>
+	<!-- EN: Create a zone where your colonists will try to fish -->
+  <VCEF_FishingGrowingZoneDesc>创造一片区域，殖民者会尝试在这里捕鱼。</VCEF_FishingGrowingZoneDesc>
+
+	<!-- EN: Choose catch -->
+  <VCEF_ChooseFish>筛捕选项</VCEF_ChooseFish>
+	<!-- EN: Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items -->
+  <VCEF_ChooseFishDesc>选择目标渔获的尺寸。捕更小的鱼花费更少时间，但鱼的营养也更少。反之亦然。但总会有意外，偶尔会钓来一些并不符合你所选大小的鱼和一些特殊物品。</VCEF_ChooseFishDesc>
+
+
+	<!-- EN: Catch Small Fish -->
+  <VCEF_ChooseFishSmallLabel>捕抓小型鱼</VCEF_ChooseFishSmallLabel>
+	<!-- EN: Catch Medium Fish -->
+  <VCEF_ChooseFishMediumLabel>捕抓中型鱼</VCEF_ChooseFishMediumLabel>
+	<!-- EN: Catch Large Fish -->
+  <VCEF_ChooseFishLargeLabel>捕抓大型鱼</VCEF_ChooseFishLargeLabel>
+
+	<!-- EN: Allow Fishing -->
+  <VCEF_CommandAllowFishing>允许钓鱼</VCEF_CommandAllowFishing>
+	<!-- EN: Allow fishing to take place in this fishing zone -->
+  <VCEF_CommandAllowFishingDesc>允许在渔猎区钓鱼。</VCEF_CommandAllowFishingDesc>
+
+	<!-- EN: This zone is set to catch fish of size -->
+  <VCEF_ZoneSetTo>此区域渔猎区已被设置成只准捕抓指定大小的鱼：</VCEF_ZoneSetTo>
+	<!-- EN: Fish in this zone:  -->
+  <VCEF_FishesInThisZone>此渔猎区可捕抓的鱼类: </VCEF_FishesInThisZone>
+	<!-- EN: Oceanic fishing zone:  -->
+  <VCEF_IsZoneOceanZone>海洋渔猎区: </VCEF_IsZoneOceanZone>
+	<!-- EN: Yes -->
+  <VCEF_Yes>是</VCEF_Yes>
+	<!-- EN: No -->
+  <VCEF_No>否</VCEF_No>
+	<!-- EN: This zone is too small. Fishing zones need to be at least {0} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
+  <VCEF_ZoneTooSmall>这个渔猎区太小了。至少需要{0}格才能钓鱼（每过几秒就会检测一次，取消暂停才会更新检测结果）。</VCEF_ZoneTooSmall>
+
+	<!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
+  <VCEF_NoFish>此生态无鱼可钓！（可能是因为你所在的环境本身就不应该有鱼，或者你用了其他影响生态类型的Mod）</VCEF_NoFish>
+
+	<!-- EN: While fishing, {0} has caught something special: {1} -->
+  <VCEF_CaughtSpecial>{0}在垂钓时捕获了一些特别的东西：{1}</VCEF_CaughtSpecial>
+
+	<!-- Options -->
+	
+	<!-- EN: Minimum Fishing Zone size -->
+  <VCEF_minimumZoneSize>渔猎区最小尺寸</VCEF_minimumZoneSize>
+	<!-- EN: Minimum Fishing Zone size, default is 25 tiles -->
+  <VCEF_minimumZoneSizeTooltip>渔猎区的最小尺寸，默认25地图格</VCEF_minimumZoneSizeTooltip>
+	
+	<!-- EN: Base Fishing Duration in ticks -->
+  <VCEF_smallFishDurationFactor>基础渔猎时长（以ticks为单位）</VCEF_smallFishDurationFactor>
+	<!-- EN: Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa. -->
+  <VCEF_smallFishDurationFactorTooltip>钓鱼消耗的时长。默认钓小鱼占时4500，钓中型鱼占时双倍，大型鱼则是三倍。降低这个值可以增加每日的水产产出，反之亦然。</VCEF_smallFishDurationFactorTooltip>
+
+	<!-- EN: Chance to get an special item instead of fish -->
+  <VCEF_chanceForSpecials>捕捞特殊物品几率</VCEF_chanceForSpecials>
+	<!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. -->
+  <VCEF_chanceForSpecialsTooltip>单次钓鱼活动中钓到特殊物品而非鱼类的几率，默认值是1%。</VCEF_chanceForSpecialsTooltip>
+	
+	<!-- EN: Minimum map temperature for reduced fish yield -->
+  <VCEF_minMapTempForLowFish>妨害渔业的最低气温临界值</VCEF_minMapTempForLowFish>
+	<!-- EN: Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC. -->
+  <VCEF_minMapTempForLowFishTooltip>生态气温低于这个温度时，水产产量会被大幅削减。默认为0ºC.</VCEF_minMapTempForLowFishTooltip>
+	
+	<!-- EN: Maximum map temperature for reduced fish yield -->
+  <VCEF_maxMapTempForLowFish>妨害渔业的最高气温临界值</VCEF_maxMapTempForLowFish>
+	<!-- EN: Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC. -->
+  <VCEF_maxMapTempForLowFishTooltip>生态气温高于这个温度时，水产产量会被大幅削减。默认为50ºC.</VCEF_maxMapTempForLowFishTooltip>
+	
+	
+	
+	<!-- EN: Fisher drops fish on the ground instead of hauling to stockpiles -->
+  <VCEF_dropFish>渔民把鱼获放置在地上，而非立刻搬去储存区。</VCEF_dropFish>
+	
+	<!-- Miotech -->
+	
+	<!-- EN: This fishing zone is too polluted to fish -->
+  <VCEF_TooPolluted>此渔猎区污染太严重，无法捕鱼</VCEF_TooPolluted>
+
+
+
+
+
+</LanguageData>

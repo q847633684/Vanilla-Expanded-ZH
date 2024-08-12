@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aerial vehicles -->
+  <VVE_AerialVehicles.label>飞行载具</VVE_AerialVehicles.label>
+  <!-- EN: Learn to construct vehicles capable of travelling above the ground, such as a mosquito helicopter and a smuggler cargo airplane. -->
+  <VVE_AerialVehicles.description>学习制造能在空中飞行的载具，例如飞蚊直升机和贩夫运输机。</VVE_AerialVehicles.description>
+  <!-- EN:
+    <li>subject->flying machines</li>
+    <li>subject_story->created helicopters and cargo planes to fly over obstacles</li>
+    <li>subject_story->opened up new ways to explore and trade</li>
+    <li>subject_story->made air travel possible, changing how we see the world</li>
+    <li>subject_gerund->taking to the skies</li>
+  -->
+  <VVE_AerialVehicles.generalRules.rulesStrings>
+    <li>subject->大铁鸟</li>
+    <li>subject_story->造出直升飞机或固定翼飞机以飞跃天险</li>
+    <li>subject_story->开辟前所未有的道路</li>
+    <li>subject_story->从全新的角度看待这个世界</li>
+    <li>subject_gerund->天空就此触手可得</li>
+  </VVE_AerialVehicles.generalRules.rulesStrings>
+  
+  <!-- EN: basic vehicles -->
+  <VVE_BasicVehicles.label>基础载具</VVE_BasicVehicles.label>
+  <!-- EN: Learn to construct basic, inefficient vehicles, from prowler buggy to roadkill single-person tanks. -->
+  <VVE_BasicVehicles.description>学习制造最基础的简易载具，例如漫步车和路霸轻型坦克。</VVE_BasicVehicles.description>
+  <!-- EN:
+    <li>subject->first vehicles</li>
+    <li>subject_story->started making simple vehicles like buggies and single-person tanks</li>
+    <li>subject_story->changed how far we could go and what we could carry</li>
+    <li>subject_story->made travel faster than ever before</li>
+    <li>subject_gerund->inventing new ways to move</li>
+  -->
+  <VVE_BasicVehicles.generalRules.rulesStrings>
+    <li>subject->俺寻思这东西能动</li>
+    <li>subject_story->开始制造例如漫步车和单人坦克这些简易载具</li>
+    <li>subject_story->世界在我们眼中开始变小</li>
+    <li>subject_story->我们能以全新的速度游览路途</li>
+    <li>subject_gerund->出行从此不必再有脚步声</li>
+  </VVE_BasicVehicles.generalRules.rulesStrings>
+  
+  <!-- EN: combat vehicles -->
+  <VVE_CombatVehicles.label>战斗载具</VVE_CombatVehicles.label>
+  <!-- EN: Learn to construct complex combat vehicles, such as bulldog battle tanks, tango armored personnel carriers and warbird combat airplanes. -->
+  <VVE_CombatVehicles.description>学习制造复杂的专业战斗载具，例如恶犬主战坦克，悍匪装甲运兵车和军鸟战斗机。</VVE_CombatVehicles.description>
+  <!-- EN:
+    <li>subject->war vehicles</li>
+    <li>subject_story->made powerful combat vehicles like tanks and armored planes</li>
+    <li>subject_story->vehicles could now fight and defend in wars</li>
+    <li>subject_story->changed how battles are fought with these new machines</li>
+    <li>subject_gerund->building for battle</li>
+  -->
+  <VVE_CombatVehicles.generalRules.rulesStrings>
+    <li>subject->战争机器</li>
+    <li>subject_story->制造主战坦克和战斗机这些强大的战争机器</li>
+    <li>subject_story->让机器参与进人类的战争</li>
+    <li>subject_story->用这些全新的载具改变战场的形势</li>
+    <li>subject_gerund->为战而生</li>
+  </VVE_CombatVehicles.generalRules.rulesStrings>
+  
+  <!-- EN: complex vehicles -->
+  <VVE_ComplexVehicles.label>复杂载具</VVE_ComplexVehicles.label>
+  <!-- EN: Learn to construct complex vehicles, such as wagons, roadrunners and snatchers, using the components you can easily fabricate. -->
+  <VVE_ComplexVehicles.description>学习利用多种载具部件制造复杂的载具，例如轿车，跑腿卡车和掠袭运输车。</VVE_ComplexVehicles.description>
+  <!-- EN:
+    <li>subject->better vehicles</li>
+    <li>subject_story->built more complex vehicles like wagons and fast cars</li>
+    <li>subject_story->made it easier to move things and people over long distances</li>
+    <li>subject_story->vehicles became more useful and versatile</li>
+    <li>subject_gerund->improving our rides</li>
+  -->
+  <VVE_ComplexVehicles.generalRules.rulesStrings>
+    <li>subject->更快更高更强</li>
+    <li>subject_story->造出更快更好用的轿车。</li>
+    <li>subject_story->给远距离旅行带来便利</li>
+    <li>subject_story->载具从此变得更加轻便易用</li>
+    <li>subject_gerund->舒舒服服上路吧</li>
+  </VVE_ComplexVehicles.generalRules.rulesStrings>
+  
+  <!-- EN: battle tanks -->
+  <VVE_BattleTanks.label>主战坦克</VVE_BattleTanks.label>
+  <!-- EN: Learn to build heavily armored battle tanks such as the marshal, equipped with a variety of weapons. In order to research this project, a marshal wreck needs to be found and restored. -->
+  <VVE_BattleTanks.description>研究制造重型战斗载具，例如将帅坦克这一包含了多种武器东西战斗平台。需要从残骸里重建一辆将帅坦克才能研究这一科技。</VVE_BattleTanks.description>
+  <!-- EN:
+    <li>subject->battle tank production</li>
+    <li>subject_story->initiated the era of armored warfare by resurrecting the prowess of a marshal wreck</li>
+    <li>subject_story->combined devastating firepower with impenetrable armor to dominate the battlefield</li>
+    <li>subject_gerund->dominating with armored might</li>
+  -->
+  <VVE_BattleTanks.generalRules.rulesStrings>
+    <li>subject->主战坦克制造</li>
+    <li>subject_story->重建将帅坦克，让装甲铁骑的时代再度归来</li>
+    <li>subject_story->将强大的火力与坚固的装甲融为一体，所向无敌</li>
+    <li>subject_gerund->用坦克的力量主宰战场</li>
+  </VVE_BattleTanks.generalRules.rulesStrings>
+  
+  <!-- EN: big rigs -->
+  <VVE_BigRigs.label>远程物流</VVE_BigRigs.label>
+  <!-- EN: Learn to build large, long-distance trucks such as the big rig or hermano, capable of delivering large amounts of cargo over extremely long distances. In order to research this project, a big rig or hermano wreck needs to be found and restored. -->
+  <VVE_BigRigs.description>研究制造长距离大型货运载具，例如大管卡车和同袍卡车，可以将大量货物送往千里之外的目的地。需要从残骸里重建一辆大管卡车或同袍卡车才能研究这一科技。</VVE_BigRigs.description>
+  <!-- EN:
+    <li>subject->big rig trucking</li>
+    <li>subject_story->advanced to constructing monumental long-haul trucks like the big rig or hermano, following the recovery and study of a wreck</li>
+    <li>subject_story->dramatically increased cargo capacity and operational range for ground transport</li>
+    <li>subject_gerund->revolutionizing overland cargo delivery</li>
+  -->
+  <VVE_BigRigs.generalRules.rulesStrings>
+    <li>subject->远程卡车制造</li>
+    <li>subject_story->重建一辆大管卡车或同袍卡车，将先进货运的技术纳入手中</li>
+    <li>subject_story->大大增强陆路运输的载货量和有效距离</li>
+    <li>subject_gerund->成就一场陆运行业的革命</li>
+  </VVE_BigRigs.generalRules.rulesStrings>
+  
+  <!-- EN: cherokee -->
+  <VVE_Cherokee.label>重型直升机</VVE_Cherokee.label>
+  <!-- EN: Learn to build a dual-rotor cargo helicopter called cherokee, capable of delivering thousands of kilograms of resources via air routes. In order to research this project, a cherokee wreck needs to be found and restored. -->
+  <VVE_Cherokee.description>研究制造采用双引擎驱动的山民运输直升机，它可以将数千公斤的货物空运到目的地。需要从残骸里重建一架山民直升机才能研究这一科技。</VVE_Cherokee.description>
+  <!-- EN:
+    <li>subject->cherokee helicopter creation</li>
+    <li>subject_story->expanded aerial logistics capabilities by designing the cherokee, a dual-rotor cargo helicopter, requiring the reconstruction of a wreck</li>
+    <li>subject_story->facilitated the movement of massive loads via air, bypassing ground-based obstacles</li>
+    <li>subject_gerund->lifting logistics to new heights</li>
+  -->
+  <VVE_Cherokee.generalRules.rulesStrings>
+    <li>subject->重型直升机制造</li>
+    <li>subject_story->在从残骸里重建一架双引擎运输直升机——山民直升机后拓展空运物流的能力。</li>
+    <li>subject_story->不必受崎岖陆地的限制，让货物可以在空中疾行</li>
+    <li>subject_gerund->将物流行业提到新的高度</li>
+  </VVE_Cherokee.generalRules.rulesStrings>
+  
+  <!-- EN: classic cars -->
+  <VVE_ClassicCars.label>老爷车</VVE_ClassicCars.label>
+  <!-- EN: Learn to build fancy, classic cars such as the springbok. In order to research this project, a springbok wreck needs to be found and restored. -->
+  <VVE_ClassicCars.description>研究制造羚羊轿车这类经典的老爷车。需要从残骸里重建一辆羚羊轿车才能研究这一科技。</VVE_ClassicCars.description>
+  <!-- EN:
+    <li>subject->classic car restoration</li>
+    <li>subject_story->began the journey of bringing elegance back to the roads by restoring a springbok wreck</li>
+    <li>subject_story->merged timeless designs with modern engineering to recreate the charm of classic cars</li>
+    <li>subject_gerund->reviving automotive elegance</li>
+  -->
+  <VVE_ClassicCars.generalRules.rulesStrings>
+    <li>subject->复兴老爷车</li>
+    <li>subject_story->在重建一辆羚羊轿车后，将那遥远时代的优雅旅行方式唤醒</li>
+    <li>subject_story->让这超越时代的艺术感与现代工程学结合出全新的魅力</li>
+    <li>subject_gerund->让驾驶成为一种享受</li>
+  </VVE_ClassicCars.generalRules.rulesStrings>
+  
+  <!-- EN: light armored vehicles -->
+  <VVE_LightArmoredVehicles.label>轻装甲单位</VVE_LightArmoredVehicles.label>
+  <!-- EN: Learn to build light armored vehicles such as the paladin or the badger, that can transport soldiers efficiently and effectively whilst providing them with fire support. In order to research this project, a paladin or badger wreck needs to be found and restored. -->
+  <VVE_LightArmoredVehicles.description>探究制造圣骑运兵车和獾式步兵战车这类军用轻型装甲载具，他们在能高效运输士兵的同时还能提供便利的火力支援。需要从残骸里重建一辆圣骑运兵车或獾式步兵战车才能研究这一科技。</VVE_LightArmoredVehicles.description>
+  <!-- EN:
+    <li>subject->light armored mobility</li>
+    <li>subject_story->stepped into the realm of tactical versatility by restoring wrecks like the paladin or badger</li>
+    <li>subject_story->designed vehicles that balance speed, protection, and firepower to support troops on the move</li>
+    <li>subject_gerund->enhancing battlefield mobility</li>
+  -->
+  <VVE_LightArmoredVehicles.generalRules.rulesStrings>
+    <li>subject->机动装甲力量</li>
+    <li>subject_story->重建了一辆圣骑运兵车或獾式步兵战车，继而进入机动战场的时代</li>
+    <li>subject_story->设计出平衡了速度，防护和火力的战斗载具来辅助步兵</li>
+    <li>subject_gerund->让战场更加动态</li>
+  </VVE_LightArmoredVehicles.generalRules.rulesStrings>
+  
+  <!-- EN: louie -->
+  <VVE_Louie.label>运输直升机</VVE_Louie.label>
+  <!-- EN: Learn to build a large transport helicopter called louie, that can deliver both cargo and troops over long distances with ease. In order to research this project, a louie wreck needs to be found and restored. -->
+  <VVE_Louie.description>研究制造鹭式直升机，它能轻松将货物与人员通过空运送达远处的目标。需要从残骸里重建一架鹭式直升机才能研究这一科技。</VVE_Louie.description>
+  <!-- EN:
+    <li>subject->louie helicopter development</li>
+    <li>subject_story->ventured into aerial logistics by learning to build the louie, a large transport helicopter, starting from a wreck</li>
+    <li>subject_story->enabled rapid and flexible transport of cargo and troops over vast distances</li>
+    <li>subject_gerund->mastering aerial transport</li>
+  -->
+  <VVE_Louie.generalRules.rulesStrings>
+    <li>subject->运输直升机</li>
+    <li>subject_story->重建了一架鹭式直升机，步入空运物流的领域</li>
+    <li>subject_story->能在遥远的距离上快速便捷的运输人或物</li>
+    <li>subject_gerund->掌握空运的技艺</li>
+  </VVE_Louie.generalRules.rulesStrings>
+  
+  <!-- EN: offroad jeeps -->
+  <VVE_OffroadJeeps.label>越野吉普车</VVE_OffroadJeeps.label>
+  <!-- EN: Learn to build offroad jeeps such as the nomad, that can traverse any terrain with ease. In order to research this project, a nomad wreck needs to be found and restored. -->
+  <VVE_OffroadJeeps.description>研究制造牧民越野车这类拥有卓越越野性能的吉普车。需要从残骸里重建一辆牧民越野车才能研究这一科技。</VVE_OffroadJeeps.description>
+  <!-- EN:
+    <li>subject->offroad jeep construction</li>
+    <li>subject_story->started mastering the craft of building versatile offroad jeeps like the nomad, requiring the restoration of a wreck</li>
+    <li>subject_story->unlocked the potential to explore and operate in previously inaccessible terrains</li>
+    <li>subject_gerund->navigating rugged landscapes</li>
+  -->
+  <VVE_OffroadJeeps.generalRules.rulesStrings>
+    <li>subject->越野吉普车</li>
+    <li>subject_story->从残骸开始，学习制造牧民越野车这种坚实多用的越野载具</li>
+    <li>subject_story->让之前令人望而止步的地形如履平地</li>
+    <li>subject_gerund->轻松穿越崎岖坎坷</li>
+  </VVE_OffroadJeeps.generalRules.rulesStrings>
+  
+  <!-- EN: rocket artillery -->
+  <VVE_RocketArtillery.label>火箭炮</VVE_RocketArtillery.label>
+  <!-- EN: Learn to build multiple launch rocket systems with the ability to blanket a whole area with missiles. In order to research this project, a burya wreck needs to be found and restored. -->
+  <VVE_RocketArtillery.description>研究制造可以火力覆盖大片战地的多管火箭发射载具。需要从残骸里重建一辆暴风火箭炮才能研究这一科技。</VVE_RocketArtillery.description>
+  <!-- EN:
+    <li>subject->rocket artillery development</li>
+    <li>subject_story->progressed to assembling multiple launch rocket systems like the burya, necessitating the reconstruction of a wreck</li>
+    <li>subject_story->introduced area saturation capabilities with volleys of missiles, transforming area denial and suppression tactics</li>
+    <li>subject_gerund->massing aerial assault</li>
+  -->
+  <VVE_RocketArtillery.generalRules.rulesStrings>
+    <li>subject->火箭炮兵</li>
+    <li>subject_story->重建了一辆暴风火箭炮，学习制造独特的多管火箭发射系统</li>
+    <li>subject_story->一波又一波的火箭饱和打击让目标陷入火海</li>
+    <li>subject_gerund->钢铁与火焰的暴雨自天而降</li>
+  </VVE_RocketArtillery.generalRules.rulesStrings>
+  
+  <!-- EN: self-propelled artillery -->
+  <VVE_SelfpropelledArtillery.label>自行火炮</VVE_SelfpropelledArtillery.label>
+  <!-- EN: Learn to build a powerful, self-propelled artillery such as the famous udar, capable of raining artillery fire on enemies on the local map. In order to research this project, an udar wreck needs to be found and restored. -->
+  <VVE_SelfpropelledArtillery.description>研究制造拥有装甲底盘的重型火炮载具，例如重锤自行火炮，可以使用曲射火力轰炸同地图的目标。需要从残骸里重建一辆重锤自行火炮才能研究这一科技。</VVE_SelfpropelledArtillery.description>
+  <!-- EN:
+    <li>subject->self-propelled artillery construction</li>
+    <li>subject_story->embarked on creating the udar, a formidable self-propelled artillery piece, after restoring a wreck</li>
+    <li>subject_story->enhanced battlefield support with mobile artillery capable of precise, long-range bombardments on local maps</li>
+    <li>subject_gerund->deploying strategic firepower</li>
+  -->
+  <VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+    <li>subject->自行火炮制造</li>
+    <li>subject_story->重建了一辆重锤自行火炮开始制造此等强大的火力单位</li>
+    <li>subject_story->给地区战场带来精准的远程炮击</li>
+    <li>subject_gerund->一发入魂，扭转战局</li>
+  </VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+  
+  <!-- EN: siege pods -->
+  <VVE_SiegePods.label>移动堡垒</VVE_SiegePods.label>
+  <!-- EN: Learn to build powerful siege pods that act as temporary, moving bases during assaults in enemy territory. In order to research this project, a goliath wreck needs to be found and restored. -->
+  <VVE_SiegePods.description>研究制造强大如堡垒一般的运输仓。需要从残骸里重建一台巨灵运输舱才能研究这一科技。</VVE_SiegePods.description>
+  <!-- EN:
+    <li>subject->siege pod engineering</li>
+    <li>subject_story->advanced to fabricating siege pods for dynamic assault bases, following the salvage of a goliath wreck</li>
+    <li>subject_story->created mobile bases that can be deployed during assaults, providing logistical and combat support in enemy territory</li>
+    <li>subject_gerund->establishing mobile fortresses</li>
+  -->
+  <VVE_SiegePods.generalRules.rulesStrings>
+    <li>subject->移动堡垒工程学</li>
+    <li>subject_story->重建一台巨灵运输舱，让让随地投放强大的火力堡垒成为可能</li>
+    <li>subject_story->在深入敌后的土地上扎下自己的火力与后勤据点</li>
+    <li>subject_gerund->部署可以移动的堡垒</li>
+  </VVE_SiegePods.generalRules.rulesStrings>
+  
+  <!-- EN: supercars -->
+  <VVE_SuperCars.label>超级跑车</VVE_SuperCars.label>
+  <!-- EN: Learn to build fast and luxurious supercars such as the lightning. In order to research this project, a lightning wreck needs to be found and restored. -->
+  <VVE_SuperCars.description>研究制造高调奢华的超级跑车，例如闪电超跑。需要从残骸里重建一辆闪电超跑才能研究这一科技。</VVE_SuperCars.description>
+  <!-- EN:
+    <li>subject->supercar engineering</li>
+    <li>subject_story->advanced to crafting vehicles that epitomize speed and luxury, starting with the restoration of a lightning wreck</li>
+    <li>subject_story->pushed the limits of performance and aesthetics to create the ultimate driving machines</li>
+    <li>subject_gerund->crafting speed and luxury</li>
+  -->
+  <VVE_SuperCars.generalRules.rulesStrings>
+    <li>subject->超跑工程</li>
+    <li>subject_story->重建一辆闪电超跑开始，将载具的技艺推向极致的速度与奢华</li>
+    <li>subject_story->突破性能与美学的桎梏，制造出傲立于世的载具</li>
+    <li>subject_gerund->制造出是纯粹的速度</li>
+  </VVE_SuperCars.generalRules.rulesStrings>
+  
+</LanguageData>

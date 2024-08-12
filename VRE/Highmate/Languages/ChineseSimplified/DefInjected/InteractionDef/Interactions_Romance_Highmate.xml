@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flirty words -->
+  <VRE_FlirtingAttempt.label>甜言蜜语</VRE_FlirtingAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>  
+    <li>r_logentry->[INITIATOR_nameDef][wootactic]，试图以此来[wooed]。</li>
+    <li>wooed->挑逗[RECIPIENT_nameDef]</li>
+    <li>wooed->和[RECIPIENT_nameDef]调情</li>
+    <li>wooed->吸引[RECIPIENT_nameDef]</li>
+    <li>wooed->讨好[RECIPIENT_nameDef]</li>
+    <li>wooed->讨[RECIPIENT_nameDef]的欢心</li>
+    <li>wooed->追求[RECIPIENT_nameDef]</li>
+    <li>wooed->迷住[RECIPIENT_nameDef]</li>
+    <li>wooed->取悦[RECIPIENT_nameDef]</li>
+    <li>wootactic(p=4)->[complimenting][RECIPIENT_nameDef]的[PersonalCharacteristic]</li>
+    <li>wootactic->讲了个有关[TalkTopicAny]的故事</li>
+    <li>wootactic->讲了个有关[TalkTopicAny]的传说</li>
+    <li>wootactic->开了个有关[TalkTopicAny]的玩笑</li>
+    <li>wootactic->发表了对[TalkTopicAny]的看法</li>
+    <li>wootactic(p=2)->[boasting]自己的[PersonalCharacteristic]</li>
+    <li>wootactic->将[RECIPIENT_objective]比作[romantic_adj][romantic_noun]</li>
+    <li>wootactic->将[RECIPIENT_objective]称作[romantic_adj][romantic_noun]</li>
+    <li>boasting->夸耀起了</li>
+    <li>boasting->谈起了</li>
+    <li>boasting->有意无意地炫耀起了</li>
+    <li>boasting->卖弄起了</li>
+    <li>boasting->讲起了</li>
+    <li>boasting->吹嘘起了</li>
+    <li>complimenting(p=3)->赞美起了</li>
+    <li>complimenting->不经意地赞美起了</li>
+    <li>complimenting->称赞起了</li>
+    <li>complimenting->夸奖起了</li>
+    <li>complimenting->吹捧起了</li>
+    <li>complimenting(p=2)->打趣地谈起了</li>
+    <li>complimenting->开玩笑地讲起了</li>
+    <li>complimenting->半开玩笑地聊起了</li>
+    <li>complimenting->孩子气地问起了</li>
+    <li>complimenting->诙谐地调侃起了</li>
+    <li>romantic_adj->美丽的</li>
+    <li>romantic_adj->冉冉生辉的</li>
+    <li>romantic_adj->璀璨的</li>
+    <li>romantic_adj->超凡的</li>
+    <li>romantic_adj->尊贵的</li>
+    <li>romantic_adj->甜蜜的</li>
+    <li>romantic_adj->柔情的</li>
+    <li>romantic_adj->明艳动人的</li>
+    <li>romantic_adj->光彩照人的</li>
+    <li>romantic_adj->美妙的</li>
+    <li>romantic_adj->气宇不凡的</li>
+    <li>romantic_adj->令人神魂颠倒的</li>
+    <li>romantic_adj->可爱的</li>
+    <li>romantic_adj->迷人的</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->花朵</li>
+    <li>romantic_noun->春天</li>
+    <li>romantic_noun->溪流</li>
+    <li>romantic_noun->星星</li>
+    <li>romantic_noun->月亮</li>
+    <li>romantic_noun->太阳</li>
+    <li>romantic_noun->骏马</li>
+    <li>romantic_noun->极光</li>
+    <li>romantic_noun->[TreeType]树</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

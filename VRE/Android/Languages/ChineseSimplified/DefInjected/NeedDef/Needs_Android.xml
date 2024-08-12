@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It's a stub. You shouldn't see it, report if otherwise. -->
+  <VREA_FoodSuppressed.label>此需求已废弃</VREA_FoodSuppressed.label>
+  <!-- EN: Ignore it. -->
+  <VREA_FoodSuppressed.description>.</VREA_FoodSuppressed.description>
+  
+  <!-- EN: memory space -->
+  <VREA_MemorySpace.label>缓存空间</VREA_MemorySpace.label>
+  <!-- EN: Memory space is how much hard drive space is left in an Android. Over the course of the day, memory space will deplete. If it is at zero, android will enter a reformatting state until enough memory space clears up to continue. -->
+  <VREA_MemorySpace.description>人形的硬盘中预留给缓存的空间。缓存空间经过1天便会耗尽，需要通过重新格式化进行清理。只有缓存空间充足时人形才能正常运行。</VREA_MemorySpace.description>
+  
+  <!-- EN: Power -->
+  <VREA_ReactorPower.label>能量</VREA_ReactorPower.label>
+  <!-- EN: Power is how much lifespan is left in the built-in reactor of an Android. If reactor is at an end of its lifespan, it might need to be replaced. An Android without a working power source is not operational. -->
+  <VREA_ReactorPower.description>人形体内反应堆剩余的能量。反应堆是无法充能的一次性物品，能量即将耗尽时需要尽快为人形更换新的反应堆。体内反应堆停机的人形将无法执行任何操作。</VREA_ReactorPower.description>
+  
+</LanguageData>

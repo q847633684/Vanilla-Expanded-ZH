@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Persona weapon for {PAWN_nameDef} -->
+  <VPWE.GainedPersonaWeaponTitle>{PAWN_nameDef}的专属人格武器</VPWE.GainedPersonaWeaponTitle>
+	<!-- EN: Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}. -->
+  <VPWE.GainedPersonaWeaponDesc>成功晋升为{1}的{PAWN_nameDef}已在帝国中赢取了足够的影响力，并有权请求一把极致科技级别的专属人格武器了。\n\n你可以自行决定这把人格武器的种类、造型与人格。当然，你也可以暂时关掉这条通知，留待日后再议。\n\n定制完毕的人格武器将会以空投舱的形式送达至此地，并自动与{PAWN_nameDef}进行绑定。</VPWE.GainedPersonaWeaponDesc>
+	<!-- EN: Claim a {0} -->
+  <VPWE.ClaimWeapon>请求一把{0}</VPWE.ClaimWeapon>
+	<!-- EN: Postpone -->
+  <VPWE.Postpone>日后再议</VPWE.Postpone>
+	<!-- EN: Claim for {PAWN_nameDef} -->
+  <VPWE.ClaimFor>发送人格武器请求</VPWE.ClaimFor>
+	<!-- EN: Persona:  -->
+  <VPWE.Persona>武器人格：</VPWE.Persona>
+	<!-- EN: {PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon? -->
+  <VPWE.AlreadyBondedWarning>{PAWN_nameDef}已与{1}进行绑定了。你真的想要请求一把新的人格武器吗？</VPWE.AlreadyBondedWarning>
+	<!-- EN: Cargo pods (Persona weapon) -->
+  <VPWE.ReceivedWeaponTitle>人格武器空投舱到达</VPWE.ReceivedWeaponTitle>
+	<!-- EN: {0} for {PAWN_nameDef} has arrived nearby. -->
+  <VPWE.ReceivedWeaponDesc>为{PAWN_nameDef}请求的人格武器{0}已到达。</VPWE.ReceivedWeaponDesc>
+	<!-- EN: Psycast:  -->
+  <VPWE.Psycast>心灵能力：</VPWE.Psycast>
+	<!-- EN: Gives ability -->
+  <VREA.GivesAbility>赋予能力</VREA.GivesAbility>
+</LanguageData>

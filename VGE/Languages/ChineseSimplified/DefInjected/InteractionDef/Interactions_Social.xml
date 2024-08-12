@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chitchat -->
+  <GR_TalkingToHumans.label>闲聊</GR_TalkingToHumans.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->mumbled about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->stammered about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->mused about</li>
+    <li>animalthings->the futility of the human condition</li>
+    <li>animalthings->rejecting humanity, returning to monkey</li>
+    <li>animalthings->an ancient movie where monkeys inherited the planet</li>
+    <li>animalthings->the transcendental aesthetic of the totality our faculties</li>
+    <li>animalthings->the never-ending regress in the series of empirical conditions</li>
+    <li>animalthings->how enlightenment is man's release from his self-incurred tutelage</li>
+    <li>animalthings->how language is the house of being</li>
+    <li>animalthings->existance being suffering</li>
+    <li>animalthings->the reasons for being created</li>
+    <li>animalthings->release from the constant suffering of life</li>
+    <li>animalthings->fucking magnets, how do they work?</li>
+    <li>animalthings->eating without a table, and the barbarism of Man</li>
+    <li>animalthings->what the deal is with Thrumbos, huh? Are they aliens, or what?</li>
+    <li>animalthings->bloat, as dumb, stupid animals are wont to do</li>
+    <li>animalthings->the necessity of a killbox to protect the colony</li>
+    <li>animalthings->the ethical concerns of human cloning</li>
+    <li>animalthings->all those anime mods. What are people thinking?</li>
+    <li>animalthings->the forbidden mod</li>
+    <li>animalthings->Bearofleets</li>
+  -->
+  <GR_TalkingToHumans.logRulesInitiator.rulesStrings>  
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef]就[animalthings]的话题与[RECIPIENT_nameDef][commentedabout]。</li>
+    <li>talkedabout(p=4)->闲聊</li>
+    <li>talkedabout->分享了话题关于</li>
+    <li>talkedabout->谈到</li>
+    <li>talkedabout->喋喋不休讨论</li>
+    <li>talkedabout->谈论</li>
+    <li>talkedabout->开玩笑地说到</li>
+    <li>talkedabout->打趣地聊到</li>
+    <li>commentedabout->聊了很多</li>
+    <li>commentedabout->结结巴巴地谈了不少</li>
+    <li>commentedabout->进行了点评</li>
+    <li>commentedabout->讨论</li>
+    <li>commentedabout->若有所思地讨论了一些</li>
+    <li>animalthings->泰南的本质</li>
+    <li>animalthings->抛弃人性、回归原始</li>
+    <li>animalthings->人类的本质就是复读机</li>
+    <li>animalthings->生命的轮回</li>
+    <li>animalthings->古老的打鸡阵</li>
+    <li>animalthings->人类混种生物的权利</li>
+    <li>animalthings->工坊上的热门mod</li>
+    <li>animalthings->人类存在的意义</li>
+    <li>animalthings->被创造出来的原因</li>
+    <li>animalthings->鸽子是怎样炼成的</li>
+    <li>animalthings->如何更明目张胆的摸鱼</li>
+    <li>animalthings->不在桌子上吃饭就会暴毙</li>
+    <li>animalthings->敲击兽是不是真正的外星生命</li>
+    <li>animalthings->下一个原版扩展系列mod</li>
+    <li>animalthings->封闭阵地的重要性</li>
+    <li>animalthings->涉及克隆人的道德伦理问题</li>
+    <li>animalthings->二刺猿mod</li>
+    <li>animalthings->那些被下架的mod</li>
+    <li>animalthings->熊水母</li>
+  </GR_TalkingToHumans.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: UwU pounce -->
+  <GR_UwUTalkingToHumans.label>UwU扑倒</GR_UwUTalkingToHumans.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] with a playful pounce and [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef], purring seductively, [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] said "UwU, what's this?" and [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->stammered abouwt</li>
+    <li>talkedabout->sputtered abouwt</li>
+    <li>talkedabout->hesitantly mused abouwt</li>
+    <li>talkedabout->tawked abouwt</li>
+    <li>talkedabout->squirmed abouwt</li>
+    <li>talkedabout->shyly conversed abouwt</li>
+    <li>animalthings->if a squiwwew couwd tawk duwu uwu think iwt wouwd have a weawwy high voice ow a weawwy wow voice?</li>
+    <li>animalthings->whawt wouwd youw dweam job combination be? Mine wouwd be a space-cowboy!</li>
+    <li>animalthings->how mozzawewwa iws juwst the best type of cheese</li>
+    <li>animalthings->needing tuwu be punished</li>
+    <li>animalthings->nuzzling a necky wecky</li>
+    <li>animalthings->the x3 nyeccesity fow c-comfowt and secuwity in these t-twying times</li>
+    <li>animalthings->eating without a t-tabwe, and the x3 bawbawism of Man</li>
+    <li>animalthings->the x3 dangews inhewent t-to wiving in a smaww *starts twerking* communyity ;;w;; in the x3 W-W-Wim</li>
+    <li>animalthings->the Empiwe *sweats* and theiw i-incwedibwy advanced technyowogy</li>
+  -->
+  <GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>  
+    <li>r_logentry->[INITIATOR_nameDef]嬉闹着靠近了[RECIPIENT_nameDef]，并[talkedabout][animalthings]。</li>
+    <li>r_logentry->发出轻柔呼噜声的[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]说：“UwU，这是什么吖？”并和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>talkedabout(p=4)->结结巴巴地提到</li>
+    <li>talkedabout->语无伦次地谈论</li>
+    <li>talkedabout->犹豫地讲起</li>
+    <li>talkedabout->讨论</li>
+    <li>talkedabout->难为情地说到</li>
+    <li>talkedabout->羞涩地聊到</li>
+    <li>animalthings->为十么鸽己那么大</li>
+    <li>animalthings->智己长大了想当泰空人</li>
+    <li>animalthings->小老薯怎么曲分最好七的奶酪</li>
+    <li>animalthings->自基干了坏四嘘要接受批棚</li>
+    <li>animalthings->被可爱滴小痛物亲昵力</li>
+    <li>animalthings->苔南滴本纸</li>
+    <li>animalthings->不在桌几上七饭就会似掉</li>
+    <li>animalthings->边缘四界滴器它派细</li>
+    <li>animalthings->弟国*抽噎*和他们滴先禁鸡书</li>
+  </GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

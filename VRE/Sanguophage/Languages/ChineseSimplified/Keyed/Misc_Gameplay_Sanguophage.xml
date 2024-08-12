@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Animal -->
+  <VRE_Animal>动物</VRE_Animal>
+	<!-- EN: Corpse -->
+  <VRE_Corpse>尸体</VRE_Corpse>
+	<!-- EN: Sanguophage -->
+  <VRE_Sanguophage>血族</VRE_Sanguophage>
+	<!-- EN: Extract hemogen (animal) from {0} -->
+  <VRE_ExtractHemogenAnimal>从{0}处提取血原质（动物）</VRE_ExtractHemogenAnimal>
+	<!-- EN: Extract hemogen (corpse) from {0} -->
+  <VRE_ExtractHemogenCorpse>从{0}处提取血原质（尸体）</VRE_ExtractHemogenCorpse>
+	<!-- EN: Extract hemogen (sanguophage) from {0} -->
+  <VRE_ExtractHemogenSanguophage>从{0}处提取血原质（血族）</VRE_ExtractHemogenSanguophage>
+	<!-- EN: The sanguofeed ability can only be used on hemogenic people -->
+  <VRE_MessageCantUseOnNonSanguophage>只能对有血原化基因的目标使用汲血能力。</VRE_MessageCantUseOnNonSanguophage>
+	<!-- EN: The sanguofeed ability can't be used on Sanguophages completely drained of hemogen -->
+  <VRE_MessageCantUseOnDrainedSanguophage>无法对血原质消耗殆尽的血族使用汲血能力。</VRE_MessageCantUseOnDrainedSanguophage>
+	<!-- EN: Can only be used on targets with a heart -->
+  <VRE_NoHeart>只能对有心脏的目标使用。</VRE_NoHeart>
+	<!-- EN: Switches hemogen flow on/off. -->
+  <VRE_HemogenValve>指派开关阀门</VRE_HemogenValve>
+	<!-- EN: Switches hemogen flow on/off. A pawn will come open/close the valve. -->
+  <VRE_HemogenValveDesc>指定一个需要切换开关的管道阀门。一名殖民者将随后前往拧动阀门。</VRE_HemogenValveDesc>
+	<!-- EN: Ability: {0} -->
+  <VRE_Ability>能力：{0}</VRE_Ability>
+	<!-- EN: Choose ability -->
+  <VRE_DefaultAbility>选择能力</VRE_DefaultAbility>
+	<!-- EN: Carry {0} to draincasket -->
+  <VRE_CarryToDraincasket>将{0}带至血原汲取舱</VRE_CarryToDraincasket>
+	<!-- EN: Enter draincasket -->
+  <VRE_EnterDraincasket>进入血原汲取舱</VRE_EnterDraincasket>
+	<!-- EN: Eject occupant -->
+  <VRE_CommandDraincasketEject>弹出使用者</VRE_CommandDraincasketEject>
+	<!-- EN: Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss. -->
+  <VRE_CommandDraincasketEjectDesc>让使用者从血原汲取舱中弹出。此举将会中断抽取血原质，且使用者会因失血而感到头晕。</VRE_CommandDraincasketEjectDesc>
+	<!-- EN: Can't eject occupant, since draincasket is empty -->
+  <VRE_CommandDraincasketEjectFailEmpty>无法弹出使用者，这个血原汲取舱是空的。</VRE_CommandDraincasketEjectFailEmpty>
+	<!-- EN: Draincasket hemogen production (per day) -->
+  <VRE_DraincasketAmount>血原汲取舱产量（每天）</VRE_DraincasketAmount>
+	<!-- EN: Sets the amount of hemogen packs the draincaskets will produce per day. By default it is 2 hemogen packs per day. -->
+  <VRE_DraincasketAmountTooltip>设置血原汲取舱每天产出的血原包数量。默认情况为每天2份血原包。</VRE_DraincasketAmountTooltip>
+	<!-- EN: Reset -->
+  <VRE_Reset>重置</VRE_Reset>
+</LanguageData>

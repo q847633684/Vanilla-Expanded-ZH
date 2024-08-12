@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about an abandoned vault ruins not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of abandoned vault ruins not far from us. It might still be possible to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->我们截获了一组信息，似乎在[map_definite]的不远处有一座废弃的避难所遗迹。\n\n看起来[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name] 的 [asker_faction_leaderTitle]，[asker_nameDef]，告知我们附近有一座仍然值得探索的废弃避难所遗迹。\n\n[asker_label]透露：[allSitePartsDescriptionsExceptFirst]</li>
+  </VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [path] to the [ruins]</li>
+    <li>questName->[stash] in the [ruins]</li>
+    <li>path->Journey</li>
+    <li>path->Expedition</li>
+    <li>path->Adventure</li>
+    <li>ruins->Vault ruins</li>
+    <li>ruins->Ruined vault</li>
+    <li>ruins->Destroyed vault</li>
+    <li>ruins->Empty vault</li>
+    <li>stash->Stash</li>
+    <li>stash->Stockpile</li>
+    <li>stash->Treasure</li>
+  -->
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef]的[ruins][path]</li>
+    <li>questName->[ruins]中的[stash]</li>
+    <li>path->旅行</li>
+    <li>path->探索</li>
+    <li>path->冒险</li>
+    <li>ruins->避难所遗迹</li>
+    <li>ruins->废弃避难所</li>
+    <li>ruins->避难所废墟</li>
+    <li>ruins->残破避难所</li>
+    <li>stash->贮藏物</li>
+    <li>stash->物资</li>
+    <li>stash->宝物</li>
+  </VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the looted vault has been completely scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>我们截获的通讯表明，废弃的避难所已彻底被其他人搜刮完毕。任务[resolvedQuestName]已经失效。</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>
