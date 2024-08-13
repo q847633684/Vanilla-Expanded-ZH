@@ -27,7 +27,7 @@
   <VCEF_CommandAllowFishingDesc>允许在渔猎区钓鱼。</VCEF_CommandAllowFishingDesc>
 
 	<!-- EN: This zone is set to catch fish of size -->
-  <VCEF_ZoneSetTo>此区域渔猎区已被设置成只准捕抓指定大小的鱼：</VCEF_ZoneSetTo>
+  <VCEF_ZoneSetTo>该区域大小为 {0}，用于捕捞以下尺寸的鱼</VCEF_ZoneSetTo>
 	<!-- EN: Fish in this zone:  -->
   <VCEF_FishesInThisZone>此渔猎区可捕抓的鱼类: </VCEF_FishesInThisZone>
 	<!-- EN: Oceanic fishing zone:  -->
@@ -37,7 +37,7 @@
 	<!-- EN: No -->
   <VCEF_No>否</VCEF_No>
 	<!-- EN: This zone is too small. Fishing zones need to be at least {0} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
-  <VCEF_ZoneTooSmall>这个渔猎区太小了。至少需要{0}格才能钓鱼（每过几秒就会检测一次，取消暂停才会更新检测结果）。</VCEF_ZoneTooSmall>
+  <VCEF_ZoneTooSmall>该区域太小（大小为 {0}）。钓鱼区需要至少 {1} 个格才有效（此计算每隔几秒进行一次：取消暂停更新）。</VCEF_ZoneTooSmall>
 
 	<!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
   <VCEF_NoFish>此生态无鱼可钓！（可能是因为你所在的环境本身就不应该有鱼，或者你用了其他影响生态类型的Mod）</VCEF_NoFish>

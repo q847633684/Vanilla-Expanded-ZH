@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VFEE_Permit_CallTechfriar.root.nodes.8.label>技术修士到达</VFEE_Permit_CallTechfriar.root.nodes.8.label>
-  <VFEE_Permit_CallTechfriar.root.nodes.8.text>来自 [permitFaction_name] 的技术修士已经抵达。班车将在 [techfriarDurationDays] 天后来接他们。</VFEE_Permit_CallTechfriar.root.nodes.8.text>
-  <VFEE_Permit_CallTechfriar.root.nodes.10.node.nodes.2.label>班车到达</VFEE_Permit_CallTechfriar.root.nodes.10.node.nodes.2.label>
-  <VFEE_Permit_CallTechfriar.root.nodes.10.node.nodes.2.text>一架航天飞机已抵达，准备从 [permitFaction_name] 接走技术修士。</VFEE_Permit_CallTechfriar.root.nodes.10.node.nodes.2.text>
-  <VFEE_Permit_CallTechfriar.root.nodes.11.name>goodwillPenaltyPawn</VFEE_Permit_CallTechfriar.root.nodes.11.name>
-  <VFEE_Permit_CallTechfriar.root.nodes.12.name>goodwillChangeOnShuttleDestroyed</VFEE_Permit_CallTechfriar.root.nodes.12.name>
-  <VFEE_Permit_CallTechfriar.root.nodes.13.node.nodes.0.label>工人死亡：{SUBJECT_definite}</VFEE_Permit_CallTechfriar.root.nodes.13.node.nodes.0.label>
-  <VFEE_Permit_CallTechfriar.root.nodes.13.node.nodes.0.text>[permitFaction_name] 派给你的一名劳工已经死亡。您对 [permitFaction_name] 的好感度已下降 [goodwillPenaltyPawn]。</VFEE_Permit_CallTechfriar.root.nodes.13.node.nodes.0.text>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.label>技术修士到达</VFEE_Permit_CallTechfriar.root.nodes.Letter.label>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.text>来自 [permitFaction_name] 的技术修士已经抵达。班车将在 [techfriarDurationDays] 天后来接他们。</VFEE_Permit_CallTechfriar.root.nodes.Letter.text>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label>班车到达</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text>一架航天飞机已抵达，准备从 [permitFaction_name] 接走技术修士。</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text>
+  <VFEE_Permit_CallTechfriar.root.nodes.Set-0.name>goodwillPenaltyPawn</VFEE_Permit_CallTechfriar.root.nodes.Set-0.name>
+  <VFEE_Permit_CallTechfriar.root.nodes.Set-1.name>goodwillChangeOnShuttleDestroyed</VFEE_Permit_CallTechfriar.root.nodes.Set-1.name>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label>工人死亡：{SUBJECT_definite}</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text>[permitFaction_name] 派给你的一名劳工已经死亡。您对 [permitFaction_name] 的好感度已下降 [goodwillPenaltyPawn]。</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text>
   <VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Techfriar</VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>
   <VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>
 

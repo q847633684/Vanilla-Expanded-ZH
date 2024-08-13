@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.label>
-  <VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.text>Intercepted communications indicate the dead drop has been located by [empire_name]. The quest [resolvedQuestName] has expired.</VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.text>
-  <VFED_DeadDrop.questDescriptionRules.rulesStrings.0>questDescription-&gt;We have received a message from our deserter informant that our order is ready for collection not far from [map_definite]. The items we will find there are:\n\n[itemStashContents]\n\nDue to the value of the items and the fact that [empire_name] will inevitably look for them when they realize they’ve gone missing, we should make our way to the dead drop as soon as possible.\n\nWe should ensure we have enough carry capacity to bring all the items back.</VFED_DeadDrop.questDescriptionRules.rulesStrings.0>
-  <VFED_DeadDrop.questNameRules.rulesStrings.0>questName-&gt;Deserter dead drop</VFED_DeadDrop.questNameRules.rulesStrings.0>
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label>任务已过期: [resolvedQuestName]</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label>
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text>截获的通讯表明[empire_name]已找到死点。任务 [resolvedQuestName] 已过期。</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text>
+  <VFED_DeadDrop.questDescriptionRules.rulesStrings.0>questDescription->我们收到了逃兵线人发来的消息，我们的订单已准备好在距离 [map_definite] 不远的地方领取。我们会在那里找到的物品有：\n\n[itemStashContents]\n\n由于这些物品的价值以及[empire_name]在意识到它们丢失后不可避免地会寻找它们的事实，我们应该让我们的物品尽快到达死点。\n\n我们应该确保我们有足够的运载能力来带回所有物品。</VFED_DeadDrop.questDescriptionRules.rulesStrings.0>
+  <VFED_DeadDrop.questNameRules.rulesStrings.0>questName->逃兵死亡地点</VFED_DeadDrop.questNameRules.rulesStrings.0>
 
 
 </LanguageData>
