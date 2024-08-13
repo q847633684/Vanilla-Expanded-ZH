@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gattling bullet -->
+  <Bullet_GatlingGun.label>弹雨</Bullet_GatlingGun.label>
+  
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.label>加特林机枪</Gun_GatlingGun.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_GatlingGun.description>安装在炮塔上的简易加特林机枪。</Gun_GatlingGun.description>
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.verbs.Verb_Shoot.label>加特林机枪</Gun_GatlingGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: gatling gun turret -->
+  <Turret_GatlingGun.label>加特林机枪塔</Turret_GatlingGun.label>
+  <!-- EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged. -->
+  <Turret_GatlingGun.description>老式的便携机枪塔。长时间使用后需要大量的钢铁维护炮管。射击时间越长，冷却越短。损坏时可能会爆炸。</Turret_GatlingGun.description>
+  <!-- EN: Barrel durability -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>枪管耐久度</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelLabel>更换枪管前剩余射击次数</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>加特林机枪塔</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>
