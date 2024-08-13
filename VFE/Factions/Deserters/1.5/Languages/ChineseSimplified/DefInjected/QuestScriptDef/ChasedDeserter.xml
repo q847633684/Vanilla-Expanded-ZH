@@ -9,5 +9,7 @@
 \n选择逃兵一方将使帝国永久处于敌对状态，但是它也将使您可以通过通讯控制台访问逃兵网络。您将能够获得有关破碎帝国的情报，并用这些情报换取强大的帝国装备、逃兵发明和新任务。在某些时候，你将能够对狂热的帝国人物发起暗杀任务，以破坏帝国的稳定。
 \n如果你控制着一个有头衔的贵族，他们将失去所有头衔，以及对头衔的要求。然而，他们会为你生成一笔情报，情报的数量取决于他们目前在破碎帝国的排名。</VFED_ChasedDeserter.questDescriptionRules.rulesStrings.0>
   <VFED_ChasedDeserter.questNameRules.rulesStrings.0>questName-&gt;被追赶的逃兵</VFED_ChasedDeserter.questNameRules.rulesStrings.0>
-
+  <VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\n因为你接受了 [asker_nameDef]，[asker_factionName] 变得敌对。\n\n正在追捕 [asker_objective] 的忠诚小队很快就会到达。</VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>
+   <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL}：忠诚小队</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+    <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n\n这是正在狩猎的忠诚小队 [../asker_nameFull]。</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
 </LanguageData>
