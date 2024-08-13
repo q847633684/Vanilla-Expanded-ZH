@@ -7,27 +7,29 @@
   <VFE_Mechanoids_Autobroadcaster.description>一台中速，逻辑简单的轮式无人机，它会在特定的区域巡逻。它可以通过播放轻松惬意的音乐来给殖民者提供被动的娱乐，播放慷慨激昂的音乐鼓动殖民者工作，抑或是进行文化宣传和囚犯招募。</VFE_Mechanoids_Autobroadcaster.description>
   <!-- EN: head -->
   <VFE_Mechanoids_Autobroadcaster.tools.head.label>头</VFE_Mechanoids_Autobroadcaster.tools.head.label>
-  
+  <VFE_Mechanoids_Autobroadcaster.tools.body.label>身体</VFE_Mechanoids_Autobroadcaster.tools.body.label>
   <!-- EN: autocleaner -->
   <VFE_Mechanoids_Autocleaner.label>自动清洁机</VFE_Mechanoids_Autocleaner.label>
   <!-- EN: A medium speed, simple-minded, wheeled drone with large scrubbers and an intricate vacuum chamber system. When used in tandem the aforementioned tools result in a drone capable of quickly cleaning up a range of messes, be they wet or dry. Waste collected during cleaning is incinerated within shortly after while the drone is charging. -->
   <VFE_Mechanoids_Autocleaner.description>一台中速，逻辑简单的轮式无人机，有大型洗涤器和复杂的真空腔系统。当上述工具系统配合使用时，无人机能够不分干湿的快速清理一地的垃圾。清理过程中收集到的垃圾会在无人机充电时被快速焚烧掉。</VFE_Mechanoids_Autocleaner.description>
   <!-- EN: head -->
   <VFE_Mechanoids_Autocleaner.tools.head.label>头</VFE_Mechanoids_Autocleaner.tools.head.label>
-  
+  <VFE_Mechanoids_Autocleaner.tools.body.label>身体</VFE_Mechanoids_Autocleaner.tools.body.label>
   <!-- EN: autohauler -->
   <VFE_Mechanoids_Autohauler.label>自动搬运机</VFE_Mechanoids_Autohauler.label>
   <!-- EN: A treaded, simple-minded drone capable of lifting many times its weight with a hydraulic claw, while slow to move it is quite energy efficient compared to most drones. -->
   <VFE_Mechanoids_Autohauler.description>一台慢速，逻辑简单的无人机，能用液压爪盘搬运自身重量数倍的物品。虽然移动缓慢，但与大多数无人机相比，它相当节能。</VFE_Mechanoids_Autohauler.description>
   <!-- EN: head -->
   <VFE_Mechanoids_Autohauler.tools.head.label>头</VFE_Mechanoids_Autohauler.tools.head.label>
-  
+  <VFE_Mechanoids_Autohauler.tools.body.label>身体</VFE_Mechanoids_Autohauler.tools.body.label>
   <!-- EN: auto-medic -->
   <VFE_Mechanoids_AutoMedic.label>自动医疗机</VFE_Mechanoids_AutoMedic.label>
   <!-- EN: A sturdy semi-autonomous drone slightly taller than an average human. This drone comes standard with a set of diagnostic and medical apparatuses as well an advanced focal deck, capable of on-the-fly scanning and microscopic level analysis. This drone is capable of healing wounds and tending sick equal to that of an amateur level, provided that medicine is provided. -->
   <VFE_Mechanoids_AutoMedic.description>一台结实的半自律无人机，个头比人类平均略高。该无人机配有一套诊断与医疗的器械，以及一台先进的聚焦面板，让它可以即时扫描与分析伤情。在有药品供给的情况下，该无人机能够以新手医生的水平治疗伤口并照顾病人。</VFE_Mechanoids_AutoMedic.description>
   <!-- EN: head -->
   <VFE_Mechanoids_AutoMedic.tools.head.label>头</VFE_Mechanoids_AutoMedic.tools.head.label>
+  <VFE_Mechanoids_AutoMedic.tools.left_fist.label>左拳</VFE_Mechanoids_AutoMedic.tools.left_fist.label>
+  <VFE_Mechanoids_AutoMedic.tools.right_fist.label>右拳</VFE_Mechanoids_AutoMedic.tools.right_fist.label>
   
   <!-- EN: autominer -->
   <VFE_Mechanoids_Autominer.label>自动采矿机</VFE_Mechanoids_Autominer.label>
@@ -35,7 +37,8 @@
   <VFE_Mechanoids_Autominer.description>一台结构强化过的四轮机器，有一个超大的钻臂和一整套的铲削单元。这台无人机移动速度快，能够迅速地切割岩石，但它的电池容量还有待提高。它不会搬运采掘出的材料。</VFE_Mechanoids_Autominer.description>
   <!-- EN: head -->
   <VFE_Mechanoids_Autominer.tools.head.label>头</VFE_Mechanoids_Autominer.tools.head.label>
-  
+  <VFE_Mechanoids_Autominer.tools.body.label>身体</VFE_Mechanoids_Autominer.tools.body.label>
+
   <!-- EN: autostrider -->
   <VFE_Mechanoids_Autostrider.label>自动驮运机</VFE_Mechanoids_Autostrider.label>
   <!-- EN: This drone-like buildable mechanoid is slow, but has a large carrying capacity and very efficient mechanisms, making it perfect as a partner on long caravan trips. Can also be ridden by pawns to increase travel speed. Design includes a High Capacity Internal Fission Battery that can be recharged at a Dock to stay powered over long distances. -->
@@ -69,9 +72,10 @@
   <!-- EN: A simple minded melee combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them. -->
   <VFE_Mechanoids_Riot.description>一台思维简单的近战战斗无人机，比普通人要小一点。它会巡逻指定区域，检测附近的威胁，并会自动与他们交战。</VFE_Mechanoids_Riot.description>
   <!-- EN: blade -->
-  <VFE_Mechanoids_Riot.tools.blade.label>刀刃</VFE_Mechanoids_Riot.tools.blade.label>
+  <VFE_Mechanoids_Riot.tools.blade-1.label>刀刃</VFE_Mechanoids_Riot.tools.blade-1.label>
   <!-- EN: shield -->
   <VFE_Mechanoids_Riot.tools.shield.label>盾牌</VFE_Mechanoids_Riot.tools.shield.label>
+  <VFE_Mechanoids_Riot.tools.head.label>头</VFE_Mechanoids_Riot.tools.head.label>
   
   <!-- EN: mobile turret -->
   <VFE_Mechanoids_Turret.label>移动炮台</VFE_Mechanoids_Turret.label>
@@ -79,5 +83,6 @@
   <VFE_Mechanoids_Turret.description>一个简单缓慢的移动平台。上面有一个安装炮塔的位置，可以在上面牢固地安装炮塔，获得无人身危险的移动火力。</VFE_Mechanoids_Turret.description>
   <!-- EN: head -->
   <VFE_Mechanoids_Turret.tools.head.label>头</VFE_Mechanoids_Turret.tools.head.label>
+  <VFE_Mechanoids_Turret.tools.body.label>身体</VFE_Mechanoids_Turret.tools.body.label>
   
 </LanguageData>
