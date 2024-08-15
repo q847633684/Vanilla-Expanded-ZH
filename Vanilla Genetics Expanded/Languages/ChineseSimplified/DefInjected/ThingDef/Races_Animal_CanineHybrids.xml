@@ -1,83 +1,96 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: dogman -->
-  <GR_Dogman.label>人犬</GR_Dogman.label>
-  <!-- EN: Man’s best friend who is also himself? Have you ever thought that the folds on a dog’s skin can act almost as pockets? What if those folds held a knife and the dog could wield it? Well look no further, as this pup will answer those questions with violence.\n\nA canine hybrid with recessive humanoid genes. A smart hybrid capable of holding conversations with their technical superiors and will sometimes obey commands to slaughter other tamed colony animals.\n\n<color=#E5E54C>Gameplay effect:</color> Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. Dogmen will periodically obey commands to slaughter other colony (tamed) animals. -->
-  <GR_Dogman.description>你是否曾想过，人类最忠实的朋友也可以是自己？你是否曾想过，狗狗可以用皮肤上的褶皱存储物品？你是否曾想过，狗狗可以用皮肤上的褶皱握住并使用小刀？你是否曾...咳，别再问了，人犬显然只想通过暴力来回答你的问题。\n\n【性状基因I】：犬科基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人犬偶尔会主动执行已指派的“宰杀动物”命令。</GR_Dogman.description>
-  <!-- EN: left claw -->
-  <GR_Dogman.tools.left_claw.label>左爪</GR_Dogman.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Dogman.tools.right_claw.label>右爪</GR_Dogman.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Dogman.tools.head.label>头</GR_Dogman.tools.head.label>
-  
-  <!-- EN: wolfalope -->
-  <GR_Wolfalope.label>爆炸狼</GR_Wolfalope.label>
-  <!-- EN: Some insane madman thought it would be an excellent idea to strap a flamethrower to a dog and send it out into the world to see what happens. Don’t be surprised to find out this unusual hybrid started a massive forest fire trying to hunt a rabbit.\n\nA canine hybrid with recessive boomalope genes. A bit more dim-witted compared to their baseline, due to a large amount of brain processing power dedicated to the complex internal organs that permit it to spit out burning chemfuel. Excellent flankers thanks to their increased speed and ranged ability.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. -->
-  <GR_Wolfalope.description>某些以搞事为乐的疯子提出了这样一个想法：先给狗装上火焰喷射器，然后再观察它在外界会搞出怎样的乱子。爆炸狼体内的特殊器官使它们可以向前方喷射火焰，但由于大脑的处理能力基本都用在了控制化合燃料用量和火焰的强弱上，它们也因此不如其他犬科混种生物聪明。答应我，当你看到一只傻乎乎的爆炸狼为了猎捕兔子而引发了熊熊山火时，将其当作习以为常的事情看待就好。\n\n【性状基因I】：犬科基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，可训练度中等，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸狼拥有特殊能力“火焰吐息”。</GR_Wolfalope.description>
-  <!-- EN: left claw -->
-  <GR_Wolfalope.tools.left_claw.label>左爪</GR_Wolfalope.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolfalope.tools.right_claw.label>右爪</GR_Wolfalope.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolfalope.tools.head.label>头</GR_Wolfalope.tools.head.label>
-  <!-- EN: fire breath -->
-  <GR_Wolfalope.verbs.fire_breath.label>火焰吐息</GR_Wolfalope.verbs.fire_breath.label>
-  
-  <!-- EN: wolfbear -->
+
+  <!-- Wolf - Bear -->
+
   <GR_Wolfbear.label>熊狼</GR_Wolfbear.label>
-  <!-- EN: A massively muscled boi with strong claws, sharper teeth and a mean attitude. Adorable when it’s trying to jump you to lick your face, less so when those same paws are trying to restrain you so it can bite your head off.\n\nA canine hybrid with recessive ursine genes. Stronger, more aggressive and with a bigger appetite, this hybrid’s particular lethality comes from its tendency to attack the enemy’s head to try and decapitate them.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. There is a 25% chance that wolfbear attacks will target its victim's head, possibly decapitating enemies. Fun! -->
-  <GR_Wolfbear.description>哗！原来是几只肌肉结实的大只佬。有力的爪牙，高傲的神态，一看就是犬科混种生物中的极品了。当熊狼扑过来用舌头舔舐你的脸时，你可能还会觉得它们惹人喜爱；可等到它们用爪子按住并啃下你的脑袋时，你就绝对不会这么想了。\n\n【性状基因I】：犬科基因\n【性状基因II】：熊类基因\n【基本特征】：食量大，野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n熊狼有25%的几率会直接攻击敌人的头部。</GR_Wolfbear.description>
-  <!-- EN: left claw -->
-  <GR_Wolfbear.tools.left_claw.label>左爪</GR_Wolfbear.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolfbear.tools.right_claw.label>右爪</GR_Wolfbear.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolfbear.tools.head.label>头</GR_Wolfbear.tools.head.label>
-  
-  <!-- EN: wolfbeaver -->
-  <GR_Wolfbeaver.label>海狸狼</GR_Wolfbeaver.label>
-  <!-- EN: Probably an excellent example of a precursor to the alphabeaver, this beastie has an insane appetite and constantly growing teeth that it wears down by chewing on trees. Either consider creating a tree grove just for them to eat or moving to a jungle because they’re gonna be procreating a whole bunch.\n\nA canine hybrid with recessive rodent genes. Fast gestation period, highly intelligent, incredibly fast and lethal. The price for these benefits is that it has a constant hunger for trees and shares ancestry with another rapid dendrovore.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. -->
-  <GR_Wolfbeaver.description>海狸狼或许是阿尔法海狸正式诞生前最优秀实验样品的了，它们同样有着无底洞般的胃口和需要通过啃树来抑制生长的大门牙。鉴于海狸狼惊人的生育能力，我推荐你专门为它们种一片用于饱腹的树林，或者干脆直接在繁茂的热带雨林里定居。\n\n【性状基因I】：犬科基因\n【性状基因II】：啮齿类/兔类基因\n【基本特征】：食量大，野性高，可训练度高，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。</GR_Wolfbeaver.description>
-  <!-- EN: left claw -->
-  <GR_Wolfbeaver.tools.left_claw.label>左爪</GR_Wolfbeaver.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolfbeaver.tools.right_claw.label>右爪</GR_Wolfbeaver.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolfbeaver.tools.head.label>头</GR_Wolfbeaver.tools.head.label>
-  
-  <!-- EN: wolfcat -->
-  <GR_Wolfcat.label>猫狼</GR_Wolfcat.label>
-  <!-- EN: Dogs and cats are domesticated predators who are just the absolute cutest. So someone wanted to see how dangerous they could make something by combining these two proto predators. The results could be imagined but we’ll let them speak for themselves.\n\nA canine hybrid with recessive feline genes. A combination of two predators makes for an incredible loyal killing machine. Quick, lethal, low maintenance and a desire for companionship. If that wasn’t already enough, it can even randomly attack twice by lunging with both claws and teeth.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. Double slash: 25% of the time its attacks will strike twice. -->
-  <GR_Wolfcat.description>可爱的猫咪和狗狗都是人类最常饲养的捕食者型生物。此时便有人提出疑问：“如果我们把这两种动物结合在一起会怎样呢？”结果显而易见，猫狼集成了两者大部分的优点，但或许让它们亲自大显身手一番才是最具说服力的。\n\n【性状基因I】：犬科基因\n【性状基因II】：猫科基因\n【基本特征】：野性较高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫狼有25%的几率会连续攻击两次。</GR_Wolfcat.description>
-  <!-- EN: left claw -->
-  <GR_Wolfcat.tools.left_claw.label>左爪</GR_Wolfcat.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolfcat.tools.right_claw.label>右爪</GR_Wolfcat.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolfcat.tools.head.label>头</GR_Wolfcat.tools.head.label>
-  
-  <!-- EN: wolfchicken -->
+  <GR_Wolfbear.description>哗！原来是几只肌肉结实的大只佬。有力的爪牙，高傲的神态，一看就是犬科混种生物中的极品了。当熊狼扑过来用舌头舔舐你的脸时，你可能还会觉得它们惹人喜爱；可等到它们用爪子按住并啃下你的脑袋时，你就绝对不会这么想了。\n\n【性状基因I】：犬科基因\n【性状基因II】：熊类基因\n【基本特征】：食量大，野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n熊狼有25%的几率会直接攻击敌人的头部。</GR_Wolfbear.description>
+  <GR_Wolfbear.tools.0.label>left claw</GR_Wolfbear.tools.0.label>
+  <GR_Wolfbear.tools.1.label>right claw</GR_Wolfbear.tools.1.label>
+  <GR_Wolfbear.tools.3.label>head</GR_Wolfbear.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfbear_Corpse.label>wolfbear corpse</GR_Wolfbear_Corpse.label>
+  <GR_Wolfbear_Corpse.description>wolfbear corpse</GR_Wolfbear_Corpse.description>
+
+
+  <!-- Wolf - Boomalope -->
+
+  <GR_Wolfalope.label>爆炸狼</GR_Wolfalope.label>
+  <GR_Wolfalope.description>某些以搞事为乐的疯子提出了这样一个想法：先给狗装上火焰喷射器，然后再观察它在外界会搞出怎样的乱子。爆炸狼体内的特殊器官使它们可以向前方喷射火焰，但由于大脑的处理能力基本都用在了控制化合燃料用量和火焰的强弱上，它们也因此不如其他犬科混种生物聪明。答应我，当你看到一只傻乎乎的爆炸狼为了猎捕兔子而引发了熊熊山火时，将其当作习以为常的事情看待就好。\n\n【性状基因I】：犬科基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，可训练度中等，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸狼拥有特殊能力“火焰吐息”。</GR_Wolfalope.description>
+  <GR_Wolfalope.verbs.0.label>fire breath</GR_Wolfalope.verbs.0.label>
+  <GR_Wolfalope.tools.0.label>left claw</GR_Wolfalope.tools.0.label>
+  <GR_Wolfalope.tools.1.label>right claw</GR_Wolfalope.tools.1.label>
+  <GR_Wolfalope.tools.3.label>head</GR_Wolfalope.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfalope_Corpse.label>wolfalope corpse</GR_Wolfalope_Corpse.label>
+  <GR_Wolfalope_Corpse.description>wolfalope corpse</GR_Wolfalope_Corpse.description>
+
+
+  <!-- Wolf - Chicken -->
+
   <GR_Wolfchicken.label>鸡狼</GR_Wolfchicken.label>
-  <!-- EN: Not many people are familiar with just how vicious a chicken can be, with them even going so far to pick at their own wounds or actively eating each other if hungry. Combining that with the sleek hunting form of a wolf and making them vegetarian creates a deadly combo. You’d go mad too if you smelled something delicious but couldn’t stomach eating it.\n\nA canine hybrid with recessive avian genes. Very quick on their feet and very filthy, care must be taken as they are far less suited to cold temperatures. The inherent viciousness of chickens has been combined with a proper combat form, vastly boosting their speed after killing its prey.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. Blood frenzy ability: after killing prey, the wolfchicken receives 200% speed for an hour. -->
-  <GR_Wolfchicken.description>鸡实际上是一种非常可怕的生物。如果食物需求得不到满足，它们便会啄食弱小同类身上的伤口，甚至直接将其分食掉。将鸡的这份暴虐和狼优秀的捕猎本领结合起来，作战凶猛但却是食草性的鸡狼就这样诞生了。由于其体内基因对血肉的那种渴望依旧存在，杀死敌人但无法大快朵颐的它们会陷入能够大幅提升移速的“嗜血狂猎”状态。\n\n【性状基因I】：犬科基因\n【性状基因II】：禽类基因\n【基本特征】：野性较高，可训练度中等，产生的污物规模更多，移动速度快，能产蛋。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n鸡狼是草食性动物。它们在杀死敌人后会陷入使移动速度翻倍的“嗜血狂猎”状态。效果可以与“肾上腺素激发”状态叠加。</GR_Wolfchicken.description>
-  <!-- EN: left claw -->
-  <GR_Wolfchicken.tools.left_claw.label>左爪</GR_Wolfchicken.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolfchicken.tools.right_claw.label>右爪</GR_Wolfchicken.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolfchicken.tools.head.label>头</GR_Wolfchicken.tools.head.label>
-  
-  <!-- EN: wolffalo -->
+  <GR_Wolfchicken.description>鸡实际上是一种非常可怕的生物。如果食物需求得不到满足，它们便会啄食弱小同类身上的伤口，甚至直接将其分食掉。将鸡的这份暴虐和狼优秀的捕猎本领结合起来，作战凶猛但却是食草性的鸡狼就这样诞生了。由于其体内基因对血肉的那种渴望依旧存在，杀死敌人但无法大快朵颐的它们会陷入能够大幅提升移速的“嗜血狂猎”状态。\n\n【性状基因I】：犬科基因\n【性状基因II】：禽类基因\n【基本特征】：野性较高，可训练度中等，产生的污物规模更多，移动速度快，能产蛋。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n鸡狼是草食性动物。它们在杀死敌人后会陷入使移动速度翻倍的“嗜血狂猎”状态。效果可以与“肾上腺素激发”状态叠加。</GR_Wolfchicken.description>
+  <GR_Wolfchicken.tools.0.label>left claw</GR_Wolfchicken.tools.0.label>
+  <GR_Wolfchicken.tools.1.label>right claw</GR_Wolfchicken.tools.1.label>
+  <GR_Wolfchicken.tools.3.label>head</GR_Wolfchicken.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfchicken_Corpse.label>wolfchicken corpse</GR_Wolfchicken_Corpse.label>
+  <GR_Wolfchicken_Corpse.description>wolfchicken corpse</GR_Wolfchicken_Corpse.description>
+
+
+  <!-- Wolf - Muffalo -->
+
   <GR_Wolffalo.label>雪牛狼</GR_Wolffalo.label>
-  <!-- EN: While they make for a completely daft canine hybrid, they’re still smart enough not to wander off. Anyone familiar with dogs that shed enough to make another animal will feel right at home with this hybrid. Even the milk it produces comes already laden with hair for your displeasure!\n\nA canine hybrid with recessive muffalo genes. A great producer of thick wool and, regrettably, hairy milk. This allows them to survive in even more extreme colds, but they frequently make a mess, lack most of their intellect and need to eat a lot.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. -->
-  <GR_Wolffalo.description>虽然雪牛狼呆头呆脑的，但并不会像普通雪牛那样不加以看管就优哉游哉地迁徙走。那些犬类爱好者想必会对这种混种生物倍感亲切，它们产出的满是毛发的奶是不是也勾起了你因家里狗狗掉毛而恼火的不快回忆呢？\n\n【性状基因I】：犬科基因\n【性状基因II】：雪牛基因\n【基本特征】：野性高，移动速度快，产生的污物规模更多，很耐寒，能驮运，能产奶和毛。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。</GR_Wolffalo.description>
-  <!-- EN: left claw -->
-  <GR_Wolffalo.tools.left_claw.label>左爪</GR_Wolffalo.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Wolffalo.tools.right_claw.label>右爪</GR_Wolffalo.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Wolffalo.tools.head.label>头</GR_Wolffalo.tools.head.label>
-  
+  <GR_Wolffalo.description>虽然雪牛狼呆头呆脑的，但并不会像普通雪牛那样不加以看管就优哉游哉地迁徙走。那些犬类爱好者想必会对这种混种生物倍感亲切，它们产出的满是毛发的奶是不是也勾起了你因家里狗狗掉毛而恼火的不快回忆呢？\n\n【性状基因I】：犬科基因\n【性状基因II】：雪牛基因\n【基本特征】：野性高，移动速度快，产生的污物规模更多，很耐寒，能驮运，能产奶和毛。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。</GR_Wolffalo.description>
+  <GR_Wolffalo.tools.0.label>left claw</GR_Wolffalo.tools.0.label>
+  <GR_Wolffalo.tools.1.label>right claw</GR_Wolffalo.tools.1.label>
+  <GR_Wolffalo.tools.2.label>head</GR_Wolffalo.tools.2.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolffalo_Corpse.label>wolffalo corpse</GR_Wolffalo_Corpse.label>
+  <GR_Wolffalo_Corpse.description>wolffalo corpse</GR_Wolffalo_Corpse.description>
+
+
+  <!-- Wolf - Rodent -->
+
+  <GR_Wolfbeaver.label>海狸狼</GR_Wolfbeaver.label>
+  <GR_Wolfbeaver.description>海狸狼或许是阿尔法海狸正式诞生前最优秀实验样品的了，它们同样有着无底洞般的胃口和需要通过啃树来抑制生长的大门牙。鉴于海狸狼惊人的生育能力，我推荐你专门为它们种一片用于饱腹的树林，或者干脆直接在繁茂的热带雨林里定居。\n\n【性状基因I】：犬科基因\n【性状基因II】：啮齿类/兔类基因\n【基本特征】：食量大，野性高，可训练度高，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。</GR_Wolfbeaver.description>
+  <GR_Wolfbeaver.tools.0.label>left claw</GR_Wolfbeaver.tools.0.label>
+  <GR_Wolfbeaver.tools.1.label>right claw</GR_Wolfbeaver.tools.1.label>
+  <GR_Wolfbeaver.tools.3.label>head</GR_Wolfbeaver.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfbeaver_Corpse.label>wolfbeaver corpse</GR_Wolfbeaver_Corpse.label>
+  <GR_Wolfbeaver_Corpse.description>wolfbeaver corpse</GR_Wolfbeaver_Corpse.description>
+
+
+  <!-- Wolf - Cat -->
+
+  <GR_Wolfcat.label>猫狼</GR_Wolfcat.label>
+  <GR_Wolfcat.description>可爱的猫咪和狗狗都是人类最常饲养的捕食者型生物。此时便有人提出疑问：“如果我们把这两种动物结合在一起会怎样呢？”结果显而易见，猫狼集成了两者大部分的优点，但或许让它们亲自大显身手一番才是最具说服力的。\n\n【性状基因I】：犬科基因\n【性状基因II】：猫科基因\n【基本特征】：野性较高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫狼有25%的几率会连续攻击两次。</GR_Wolfcat.description>
+  <GR_Wolfcat.tools.0.label>left claw</GR_Wolfcat.tools.0.label>
+  <GR_Wolfcat.tools.1.label>right claw</GR_Wolfcat.tools.1.label>
+  <GR_Wolfcat.tools.3.label>head</GR_Wolfcat.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfcat_Corpse.label>wolfcat corpse</GR_Wolfcat_Corpse.label>
+  <GR_Wolfcat_Corpse.description>wolfcat corpse</GR_Wolfcat_Corpse.description>
+
+
+  <!-- Dog - Humanoid -->
+
+  <GR_Dogman.label>人犬</GR_Dogman.label>
+  <GR_Dogman.description>你是否曾想过，人类最忠实的朋友也可以是自己？你是否曾想过，狗狗可以用皮肤上的褶皱存储物品？你是否曾想过，狗狗可以用皮肤上的褶皱握住并使用小刀？你是否曾...咳，别再问了，人犬显然只想通过暴力来回答你的问题。\n\n【性状基因I】：犬科基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，使用后其移动速度将会在短时间内翻倍，过后则会陷入长达半天的力竭状态。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人犬偶尔会主动执行已指派的“宰杀动物”命令。</GR_Dogman.description>
+  <GR_Dogman.tools.0.label>left claw</GR_Dogman.tools.0.label>
+  <GR_Dogman.tools.1.label>right claw</GR_Dogman.tools.1.label>
+  <GR_Dogman.tools.3.label>head</GR_Dogman.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Dogman_Corpse.label>dogman corpse</GR_Dogman_Corpse.label>
+  <GR_Dogman_Corpse.description>dogman corpse</GR_Dogman_Corpse.description>
+
+
 </LanguageData>

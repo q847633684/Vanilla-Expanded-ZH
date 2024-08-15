@@ -1,60 +1,37 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bringing animals to extraction -->
-  <GR_ArchotechDNAExtraction.label>将混种生物送去提取基因物质</GR_ArchotechDNAExtraction.label>
-  <!-- EN: bringing animal to -->
-  <GR_ArchotechDNAExtraction.gerund>运送</GR_ArchotechDNAExtraction.gerund>
-  <!-- EN: bring animal to -->
-  <GR_ArchotechDNAExtraction.verb>运送</GR_ArchotechDNAExtraction.verb>
-  
-  <!-- EN: works at gene recombinator -->
-  <GR_DoBillsGeneRecombinator.label>在基因复制仪工作</GR_DoBillsGeneRecombinator.label>
-  <!-- EN: recombining genes at -->
-  <GR_DoBillsGeneRecombinator.gerund>复制基因于</GR_DoBillsGeneRecombinator.gerund>
-  <!-- EN: recombining genes -->
-  <GR_DoBillsGeneRecombinator.verb>复制基因</GR_DoBillsGeneRecombinator.verb>
-  
-  <!-- EN: works at genetics table -->
+
   <GR_DoBillsGenetics.label>在基因提取台工作</GR_DoBillsGenetics.label>
-  <!-- EN: extracting genetic material at -->
-  <GR_DoBillsGenetics.gerund>提取基因物质于</GR_DoBillsGenetics.gerund>
-  <!-- EN: extract genetic materials -->
   <GR_DoBillsGenetics.verb>提取基因物质</GR_DoBillsGenetics.verb>
-  
-  <!-- EN: works at genetics tinkering table -->
-  <GR_DoBillsGeneticsTinkeringTable.label>在基因工作台工作</GR_DoBillsGeneticsTinkeringTable.label>
-  <!-- EN: tinkering at -->
-  <GR_DoBillsGeneticsTinkeringTable.gerund>工作于</GR_DoBillsGeneticsTinkeringTable.gerund>
-  <!-- EN: tinkering -->
-  <GR_DoBillsGeneticsTinkeringTable.verb>工作</GR_DoBillsGeneticsTinkeringTable.verb>
-  
-  <!-- EN: works at tissue grinder -->
+  <GR_DoBillsGenetics.gerund>提取基因物质于</GR_DoBillsGenetics.gerund>
+
   <GR_DoBillsTissueGrinder.label>在生物组织粉碎机工作</GR_DoBillsTissueGrinder.label>
-  <!-- EN: grinding tissues at -->
-  <GR_DoBillsTissueGrinder.gerund>粉碎生物组织于</GR_DoBillsTissueGrinder.gerund>
-  <!-- EN: grinding tissues -->
   <GR_DoBillsTissueGrinder.verb>粉碎生物组织</GR_DoBillsTissueGrinder.verb>
-  
-  <!-- EN: works at tissue growing vat -->
+  <GR_DoBillsTissueGrinder.gerund>粉碎生物组织于</GR_DoBillsTissueGrinder.gerund>
+
+  <GR_DoBillsGeneticsTinkeringTable.label>在基因工作台工作</GR_DoBillsGeneticsTinkeringTable.label>
+  <GR_DoBillsGeneticsTinkeringTable.verb>工作</GR_DoBillsGeneticsTinkeringTable.verb>
+  <GR_DoBillsGeneticsTinkeringTable.gerund>工作于</GR_DoBillsGeneticsTinkeringTable.gerund>
+
+  <GR_DoBillsGeneRecombinator.label>在基因复制仪工作</GR_DoBillsGeneRecombinator.label>
+  <GR_DoBillsGeneRecombinator.verb>复制基因</GR_DoBillsGeneRecombinator.verb>
+  <GR_DoBillsGeneRecombinator.gerund>复制基因于</GR_DoBillsGeneRecombinator.gerund>
+
   <GR_DoBillsVat.label>在植入物培养机工作</GR_DoBillsVat.label>
-  <!-- EN: growing tissues at -->
-  <GR_DoBillsVat.gerund>培养植入物于</GR_DoBillsVat.gerund>
-  <!-- EN: growing tissues -->
   <GR_DoBillsVat.verb>培养植入物</GR_DoBillsVat.verb>
-  
-  <!-- EN: bringing ingredients -->
+  <GR_DoBillsVat.gerund>培养植入物于</GR_DoBillsVat.gerund>
+
   <GR_InsertIngredients.label>运送实验素材</GR_InsertIngredients.label>
-  <!-- EN: bringing ingredients to -->
-  <GR_InsertIngredients.gerund>运送实验素材至</GR_InsertIngredients.gerund>
-  <!-- EN: bring ingredients to -->
   <GR_InsertIngredients.verb>运送实验素材至</GR_InsertIngredients.verb>
-  
-  <!-- EN: bringing paragon to convert -->
+  <GR_InsertIngredients.gerund>运送实验素材至</GR_InsertIngredients.gerund>
+
+  <GR_ArchotechDNAExtraction.label>将混种生物送去提取基因物质</GR_ArchotechDNAExtraction.label>
+  <GR_ArchotechDNAExtraction.verb>运送</GR_ArchotechDNAExtraction.verb>
+  <GR_ArchotechDNAExtraction.gerund>运送</GR_ArchotechDNAExtraction.gerund>
+
   <GR_ParagonConversion.label>将无瑕生物送去改造</GR_ParagonConversion.label>
-  <!-- EN: bringing paragon to -->
-  <GR_ParagonConversion.gerund>运送</GR_ParagonConversion.gerund>
-  <!-- EN: bring paragon to -->
   <GR_ParagonConversion.verb>运送</GR_ParagonConversion.verb>
-  
+  <GR_ParagonConversion.gerund>运送</GR_ParagonConversion.gerund>
+
+
 </LanguageData>

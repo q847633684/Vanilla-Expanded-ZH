@@ -1,61 +1,85 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bearscarab -->
+
+  <!-- Bear - Insectoid -->
+
   <GR_Bearscarab.label>熊巨蛛</GR_Bearscarab.label>
-  <!-- EN: An absolute unit of an insectoid hybrid, this massive chubster is incredibly smart and hard to kill. All the excess blubber has been replaced with either chitin or muscle fibre, so don’t go making comments about their bulk.\n\nAn insectoid hybrid with recessive ursine genes. Very thick armour plating and a calm temperament make this hybrid an excellent combat animal. Requires little in the way of retraining and can dish out respectable damage as well.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Bearscarab.description>熊巨蛛拥有相当高的智力，身上厚重的甲壳质也使它们很难被干掉。或许你可能觉得它们的体型有些臃肿发胖，但我可以拍着胸脯打包票说，它们体内可都是货真价实的肌肉。\n\n【性状基因I】：虫族基因\n【性状基因II】：熊类基因\n【基本特征】：野性较高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Bearscarab.description>
-  <!-- EN: head -->
-  <GR_Bearscarab.tools.head.label>头</GR_Bearscarab.tools.head.label>
-  
-  <!-- EN: boombeetle -->
+  <GR_Bearscarab.description>熊巨蛛拥有相当高的智力，身上厚重的甲壳质也使它们很难被干掉。或许你可能觉得它们的体型有些臃肿发胖，但我可以拍着胸脯打包票说，它们体内可都是货真价实的肌肉。\n\n【性状基因I】：虫族基因\n【性状基因II】：熊类基因\n【基本特征】：野性较高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Bearscarab.description>
+  <GR_Bearscarab.tools.1.label>head</GR_Bearscarab.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Bearscarab_Corpse.label>bearscarab corpse</GR_Bearscarab_Corpse.label>
+  <GR_Bearscarab_Corpse.description>bearscarab corpse</GR_Bearscarab_Corpse.description>
+
+
+  <!-- Boomalope - Insectoid -->
+
   <GR_Boombeetle.label>爆炸甲虫</GR_Boombeetle.label>
-  <!-- EN: For lovers of xenomorphs everywhere, this bomb-ass bombadier is ready to launch sacs of acidic chemfuel at your enemies for fun and profit. Don’t expect a second pair of jaws though, that mouth is for spitting only.\n\nAn insectoid hybrid with recessive boomalope genes. Quite temperamental for a hybrid, but they prove to be worth it as they store caustic chemfuel in their sacs which can then be lobbed at a distance. Practically useless in melee, so keep them safe and provide fire support. Can be ordered to detonate auxiliary acid sacs as a defensive measure, but that will also self-harm.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Boombeetle.description>对那些异形生物狂热者而言，这些爆炸投弹手已经准备好通过向敌人发射酸性爆炸囊来赢得他们的欢心和兜里的钱了。哦别看了，它们的口器只能向你吐唾沫。\n\n【性状基因I】：虫族基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，可训练度中等。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸甲虫死亡后会产生小范围的酸蚀爆炸，它们可以向敌人发射爆炸囊，也能直接使用特殊技能“酸蚀爆破”。</GR_Boombeetle.description>
-  <!-- EN: head -->
-  <GR_Boombeetle.tools.head.label>头</GR_Boombeetle.tools.head.label>
-  <!-- EN: explosive sac -->
-  <GR_Boombeetle.verbs.explosive_sac.label>爆炸囊</GR_Boombeetle.verbs.explosive_sac.label>
-  
-  <!-- EN: chickenspider -->
+  <GR_Boombeetle.description>对那些异形生物狂热者而言，这些爆炸投弹手已经准备好通过向敌人发射酸性爆炸囊来赢得他们的欢心和兜里的钱了。哦别看了，它们的口器只能向你吐唾沫。\n\n【性状基因I】：虫族基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，可训练度中等。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸甲虫死亡后会产生小范围的酸蚀爆炸，它们可以向敌人发射爆炸囊，也能直接使用特殊技能“酸蚀爆破”。</GR_Boombeetle.description>
+  <GR_Boombeetle.verbs.0.label>explosive sac</GR_Boombeetle.verbs.0.label>
+  <GR_Boombeetle.tools.1.label>head</GR_Boombeetle.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Boombeetle_Corpse.label>boombeetle corpse</GR_Boombeetle_Corpse.label>
+  <GR_Boombeetle_Corpse.description>boombeetle corpse</GR_Boombeetle_Corpse.description>
+
+
+  <!-- Chicken - Insectoid -->
+
   <GR_Chickenspider.label>鸡甲虫</GR_Chickenspider.label>
-  <!-- EN: For the unusual connoisseur who both enjoys a healthy breakfast and the feel of silk pyjamas. A very niche market, but considering the amount of money paid for the development, people like that are too rich to be considered mad. They’re simply eccentric with refined tastes, or “tossers” as the disenfranchised call them.\n\nAn insectoid hybrid with recessive avian genes. Quite large and difficult to train for an animal that lays eggs, this particular hybrid should always be kept warm due to the various functions taking up valuable space. Capable of producing not only eggs but also valuable silk, and is protected by thin, flexible scales to resist cuts.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Chickenspider.description>对那些既喜欢享用健康早餐又喜欢穿丝绸睡衣的独特行家来说，鸡甲虫无疑开拓了新的商机。不过鉴于培养这种生物所需的资金过于高昂，很难不怀疑这些富翁们是不是疯了——他们要么只是性格有些古怪的高雅人士，要么就是可笑的暴发户罢了。\n\n【性状基因I】：虫族基因\n【性状基因II】：禽类基因\n【基本特征】：野性高，能产卵和丝绸，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n鸡甲虫的耐寒能力很差，记得为它们做好保暖措施。</GR_Chickenspider.description>
-  <!-- EN: head -->
-  <GR_Chickenspider.tools.head.label>头</GR_Chickenspider.tools.head.label>
-  
-  <!-- EN: manscarab -->
-  <GR_Manscarab.label>人蝗虫</GR_Manscarab.label>
-  <!-- EN: They say you can learn a lot by taking something apart and putting it back together again. Not this creature, it doesn’t give a damn, it just wants to take things apart because the hardest part is someone else’s problem. Some people actually prefer these chitinous creatures over actual humans as they’re not going to use up good material in a botched attempt.\n\nAn insectoid hybrid with recessive humanoid genes. Easy to train, quite resilient but not a great combatant. This particular hybrid fills the niche of fulfilling deconstruction orders around the colony, freeing up otherwise valuable manpower.\n\n<color=#E5E54C>Gameplay effect:</color> Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Menscarab will take building deconstruction orders around the colony. -->
-  <GR_Manscarab.description>总有人说，将一件东西拆开后再装回去能学到不少知识。不，其实跟这些人蝗虫一点关系都没有，他们只负责把东西拆掉，而由谁来负责那些最难最复杂的工作并不是他们所要关心的。为了不浪费上好的素材，那些科学狂人们更喜欢用这些混种生物来代替真正的人类进行实验。\n\n【性状基因I】：虫族基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人蝗虫会主动执行已指派的“拆除”命令。</GR_Manscarab.description>
-  <!-- EN: mandibles -->
-  <GR_Manscarab.tools.mandibles.label>口器</GR_Manscarab.tools.mandibles.label>
-  <!-- EN: head -->
-  <GR_Manscarab.tools.head.label>头</GR_Manscarab.tools.head.label>
-  
-  <!-- EN: muffalopede -->
+  <GR_Chickenspider.description>对那些既喜欢享用健康早餐又喜欢穿丝绸睡衣的独特行家来说，鸡甲虫无疑开拓了新的商机。不过鉴于培养这种生物所需的资金过于高昂，很难不怀疑这些富翁们是不是疯了——他们要么只是性格有些古怪的高雅人士，要么就是可笑的暴发户罢了。\n\n【性状基因I】：虫族基因\n【性状基因II】：禽类基因\n【基本特征】：野性高，能产卵和丝绸，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n鸡甲虫的耐寒能力很差，记得为它们做好保暖措施。</GR_Chickenspider.description>
+  <GR_Chickenspider.tools.1.label>head</GR_Chickenspider.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Chickenspider_Corpse.label>chickenspider corpse</GR_Chickenspider_Corpse.label>
+  <GR_Chickenspider_Corpse.description>chickenspider corpse</GR_Chickenspider_Corpse.description>
+
+
+  <!-- Muffalo - Insectoid -->
+
   <GR_Muffalopede.label>雪牛蜈蚣</GR_Muffalopede.label>
-  <!-- EN: An oversized grub with udders that extrude jelly instead of milk, its hard-headedness serves it well in both getting what it wants and nutting anyone foolish enough to think they’re better than them. Allegedly there was a case where the owner was prevented from shearing the creature for so long that the overlapping plates completely prevented it from moving, who was afterwards thanked with a kick in the nether region.\n\nAn insectoid hybrid with recessive muffalo genes. Higher metabolism compared to other insectoid hybrids as well as stubborn, any predator foolish enough to think of them as an easy meal will be responded with a headbutt like a sledgehammer. Can work as a pack animal but refuses to haul comparatively heavy loads. Regularly produces precious jelly and can be sheared for chitin, which overlaps and protects the animal well from blunt attacks.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Muffalopede.description>这些大虫子的乳腺里装的是虫胶而不是牛奶，倔强的它们也可以用坚固的脑壳锤爆那些自认为比它们强的蠢蛋。曾有一只雪牛蜈蚣因身上的甲壳质过度增生而无法正常行走，它的主人在忙活了很久后才终于替其修剪完毕。为了表示感谢，这只雪牛蜈蚣便一脚踢在了主人的裆部上。\n\n【性状基因I】：虫族基因\n【性状基因II】：雪牛基因\n【基本特征】：野性高，能驮运，能产虫胶和甲壳质。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Muffalopede.description>
-  <!-- EN: head -->
-  <GR_Muffalopede.tools.head.label>头</GR_Muffalopede.tools.head.label>
-  
-  <!-- EN: spidercat -->
-  <GR_Spidercat.label>猫巨蛛</GR_Spidercat.label>
-  <!-- EN: People really never understand what it is to have a bad hair day, and this feisty feline is gonna help teach them. As for those who don’t want to be covered in hairballs formed from silk strands and adhesive mucus, them’s the brakes, kid. Don’t wanna get spat on, then be friends with them and get over your arachnophobia.\n\nAn insectoid hybrid with recessive feline genes. Both quick and decent offensive power, this one can handle themselves in both melee combat and a blinding ranged attack. A little difficult to train, but very clever and affectionate with flexible scales to resist cuts.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Spidercat.description>人类永远搞不懂“have a bad hair day”这句短语的真正含义（正常来讲就是“烂透了的一天”的意思，不过在这里就...），那么就让这些异常兴奋的小猫来教教他们吧。至于那些不想被蛛丝和强力粘液捆成毛团的人...那就和它们成为好朋友。你说你有蜘蛛恐惧症？兄啊，克服一下吧。\n\n【性状基因I】：虫族基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫巨蛛可以向敌人发射致盲丝团。</GR_Spidercat.description>
-  <!-- EN: mandibles -->
-  <GR_Spidercat.tools.mandibles.label>口器</GR_Spidercat.tools.mandibles.label>
-  <!-- EN: head -->
-  <GR_Spidercat.tools.head.label>头</GR_Spidercat.tools.head.label>
-  <!-- EN: blinding spit -->
-  <GR_Spidercat.verbs.blinding_spit.label>致盲丝团</GR_Spidercat.verbs.blinding_spit.label>
-  
-  <!-- EN: wolfscarab -->
+  <GR_Muffalopede.description>这些大虫子的乳腺里装的是虫胶而不是牛奶，倔强的它们也可以用坚固的脑壳锤爆那些自认为比它们强的蠢蛋。曾有一只雪牛蜈蚣因身上的甲壳质过度增生而无法正常行走，它的主人在忙活了很久后才终于替其修剪完毕。为了表示感谢，这只雪牛蜈蚣便一脚踢在了主人的裆部上。\n\n【性状基因I】：虫族基因\n【性状基因II】：雪牛基因\n【基本特征】：野性高，能驮运，能产虫胶和甲壳质。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Muffalopede.description>
+  <GR_Muffalopede.tools.1.label>head</GR_Muffalopede.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Muffalopede_Corpse.label>muffalopede corpse</GR_Muffalopede_Corpse.label>
+  <GR_Muffalopede_Corpse.description>muffalopede corpse</GR_Muffalopede_Corpse.description>
+
+
+  <!-- Wolf - Insectoid -->
+
   <GR_Wolfscarab.label>狼甲虫</GR_Wolfscarab.label>
-  <!-- EN: The answer to all your worries about escaping slaves. These omnivorous vicious beasties are effectively exotic hunting dogs, and the most exotic and forbidden prey of all is humans. That is, provided they’re practically unable to defend themselves. Everyone knows you can kill as many people as you like, just don’t hurt the poor puppy trying to tear your throat out.\n\nAn insectoid hybrid with recessive canine genes. Incredibly fast and with multiple hardened jaw plates, these ferocious hunting dogs make for an excellent, intelligent combat hybrid. Unable to take much punishment but the armour plating should help against those lacking in offensive weaponry.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
-  <GR_Wolfscarab.description>殖民地里的奴隶和囚犯总是伺机逃跑？别担心，这些杂食性的凶暴生物会让他们为这件事后悔终生！虽然身上的甲壳质防护作用有限，但极快的速度与锋利的口器能让它们轻易地撕裂那些毫无防备之敌的喉咙。\n\n【性状基因I】：虫族基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Wolfscarab.description>
-  <!-- EN: head -->
-  <GR_Wolfscarab.tools.head.label>头</GR_Wolfscarab.tools.head.label>
-  
+  <GR_Wolfscarab.description>殖民地里的奴隶和囚犯总是伺机逃跑？别担心，这些杂食性的凶暴生物会让他们为这件事后悔终生！虽然身上的甲壳质防护作用有限，但极快的速度与锋利的口器能让它们轻易地撕裂那些毫无防备之敌的喉咙。\n\n【性状基因I】：虫族基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。</GR_Wolfscarab.description>
+  <GR_Wolfscarab.tools.1.label>head</GR_Wolfscarab.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Wolfscarab_Corpse.label>wolfscarab corpse</GR_Wolfscarab_Corpse.label>
+  <GR_Wolfscarab_Corpse.description>wolfscarab corpse</GR_Wolfscarab_Corpse.description>
+
+
+  <!-- Insectoid - Cat -->
+
+  <GR_Spidercat.label>猫巨蛛</GR_Spidercat.label>
+  <GR_Spidercat.description>人类永远搞不懂“have a bad hair day”这句短语的真正含义（正常来讲就是“烂透了的一天”的意思，不过在这里就...），那么就让这些异常兴奋的小猫来教教他们吧。至于那些不想被蛛丝和强力粘液捆成毛团的人...那就和它们成为好朋友。你说你有蜘蛛恐惧症？兄啊，克服一下吧。\n\n【性状基因I】：虫族基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫巨蛛可以向敌人发射致盲丝团。</GR_Spidercat.description>
+  <GR_Spidercat.verbs.0.label>blinding spit</GR_Spidercat.verbs.0.label>
+  <GR_Spidercat.tools.0.label>mandibles</GR_Spidercat.tools.0.label>
+  <GR_Spidercat.tools.1.label>head</GR_Spidercat.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Spidercat_Corpse.label>spidercat corpse</GR_Spidercat_Corpse.label>
+  <GR_Spidercat_Corpse.description>spidercat corpse</GR_Spidercat_Corpse.description>
+
+
+  <!-- Insectoid - Humanoid -->
+
+  <GR_Manscarab.label>人蝗虫</GR_Manscarab.label>
+  <GR_Manscarab.description>总有人说，将一件东西拆开后再装回去能学到不少知识。不，其实跟这些人蝗虫一点关系都没有，他们只负责把东西拆掉，而由谁来负责那些最难最复杂的工作并不是他们所要关心的。为了不浪费上好的素材，那些科学狂人们更喜欢用这些混种生物来代替真正的人类进行实验。\n\n【性状基因I】：虫族基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。它们没有繁殖功能，在塑造孵化单元时加入生育解限剂也无济于事。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人蝗虫会主动执行已指派的“拆除”命令。</GR_Manscarab.description>
+  <GR_Manscarab.tools.0.label>mandibles</GR_Manscarab.tools.0.label>
+  <GR_Manscarab.tools.1.label>head</GR_Manscarab.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Manscarab_Corpse.label>manscarab corpse</GR_Manscarab_Corpse.label>
+  <GR_Manscarab_Corpse.description>manscarab corpse</GR_Manscarab_Corpse.description>
+
+
 </LanguageData>

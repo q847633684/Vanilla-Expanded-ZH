@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RB_CentrifugeOrganicCombBulk.label>bulk extract from organic comb</RB_CentrifugeOrganicCombBulk.label>
+  <RB_CentrifugeOrganicCombBulk.description>Centrifuges an organic comb to bulk extract honey, wax and template genomes</RB_CentrifugeOrganicCombBulk.description>
+  <RB_CentrifugeOrganicCombBulk.jobString>Extracting honey, wax and template genomes</RB_CentrifugeOrganicCombBulk.jobString>
+
+  <RB_CentrifugeHybernatingCombBulk.label>bulk extract from hybernating comb</RB_CentrifugeHybernatingCombBulk.label>
+  <RB_CentrifugeHybernatingCombBulk.description>Centrifuges a hybernating comb to bulk extract genetic honey, genewax and bear genetic material</RB_CentrifugeHybernatingCombBulk.description>
+  <RB_CentrifugeHybernatingCombBulk.jobString>Extracting genetic honey, genewax and bear genetic material</RB_CentrifugeHybernatingCombBulk.jobString>
+
+  <RB_CentrifugeCluckingCombBulk.label>bulk extract from clucking comb</RB_CentrifugeCluckingCombBulk.label>
+  <RB_CentrifugeCluckingCombBulk.description>Centrifuges a clucking comb to bulk extract bee eggs, genewax and chicken genetic material</RB_CentrifugeCluckingCombBulk.description>
+  <RB_CentrifugeCluckingCombBulk.jobString>Extracting bee eggs, genewax and chicken genetic material</RB_CentrifugeCluckingCombBulk.jobString>
+
+  <RB_CentrifugeExplodingCombBulk.label>bulk extract from exploding comb</RB_CentrifugeExplodingCombBulk.label>
+  <RB_CentrifugeExplodingCombBulk.description>Centrifuges an exploding comb to bulk extract genetic honey, chemfuel, and boomalope genetic material</RB_CentrifugeExplodingCombBulk.description>
+  <RB_CentrifugeExplodingCombBulk.jobString>Extracting genetic honey, chemfuel, and boomalope genetic material</RB_CentrifugeExplodingCombBulk.jobString>
+
+  <RB_CentrifugeHornedCombBulk.label>bulk extract from horned comb</RB_CentrifugeHornedCombBulk.label>
+  <RB_CentrifugeHornedCombBulk.description>Centrifuges a horned comb to bulk extract genetic honey, genewax, and thrumbo genetic material</RB_CentrifugeHornedCombBulk.description>
+  <RB_CentrifugeHornedCombBulk.jobString>Extracting genetic honey, genewax, and thrumbo genetic material</RB_CentrifugeHornedCombBulk.jobString>
+
+  <RB_CentrifugeHoundCombBulk.label>bulk extract from hound comb</RB_CentrifugeHoundCombBulk.label>
+  <RB_CentrifugeHoundCombBulk.description>Centrifuges a hound comb to bulk extract genetic honey, genewax and canine genetic material</RB_CentrifugeHoundCombBulk.description>
+  <RB_CentrifugeHoundCombBulk.jobString>Extracting genetic honey, genewax and canine genetic material</RB_CentrifugeHoundCombBulk.jobString>
+
+
+  <!-- <RecipeDef>
+		<defName>RB_CentrifugeMechaCombBulk</defName>
+		<label>bulk extract from mecha comb</label>
+		<description>Centrifuges a mecha comb to bulk extract genetic honey, genewax and mechanoid active components</description>
+		<jobString>Extracting genetic honey, genewax and mechanoid active components</jobString>
+		<effectWorking>Cremate</effectWorking>
+		<soundWorking>Recipe_Cremate</soundWorking>
+		<workAmount>500</workAmount>
+		<recipeUsers>
+			<li>RB_Advanced_Honey_Centrifuge</li>	
+		</recipeUsers>	
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RB_Mecha_Honeycomb</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+
+		</ingredients>
+		<fixedIngredientFilter>
+
+			<thingDefs>
+				<li>RB_Mecha_Honeycomb</li>
+
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<RB_GeneticHoney>500</RB_GeneticHoney>
+			<RB_Genewax>500</RB_Genewax>
+			<GR_MechanoidGenetic>10</GR_MechanoidGenetic>
+		</products>
+		<skillRequirements>
+			<Crafting>15</Crafting>
+		</skillRequirements>
+	</RecipeDef> -->
+
+  <RB_CentrifugeMegaspideryCombBulk.label>bulk extract from megaspidery comb</RB_CentrifugeMegaspideryCombBulk.label>
+  <RB_CentrifugeMegaspideryCombBulk.description>Centrifuges a megaspidery comb to bulk extract insect jelly, genewax and insectoid genetic material</RB_CentrifugeMegaspideryCombBulk.description>
+  <RB_CentrifugeMegaspideryCombBulk.jobString>Extracting insect jelly, genewax and insectoid genetic material</RB_CentrifugeMegaspideryCombBulk.jobString>
+
+  <RB_CentrifugeMousyCombBulk.label>bulk extract from mousy comb</RB_CentrifugeMousyCombBulk.label>
+  <RB_CentrifugeMousyCombBulk.description>Centrifuges a mousy comb to bulk extract genetic honey, genewax and rodent genetic material</RB_CentrifugeMousyCombBulk.description>
+  <RB_CentrifugeMousyCombBulk.jobString>Extracting genetic honey, genewax and rodent genetic material</RB_CentrifugeMousyCombBulk.jobString>
+
+  <RB_CentrifugePurringCombBulk.label>bulk extract from purring comb</RB_CentrifugePurringCombBulk.label>
+  <RB_CentrifugePurringCombBulk.description>Centrifuges a purring comb to bulk extract genetic honey, genewax and feline genetic material</RB_CentrifugePurringCombBulk.description>
+  <RB_CentrifugePurringCombBulk.jobString>Extracting genetic honey, genewax and feline genetic material</RB_CentrifugePurringCombBulk.jobString>
+
+  <RB_CentrifugeScalyCombBulk.label>bulk extract from scaly comb</RB_CentrifugeScalyCombBulk.label>
+  <RB_CentrifugeScalyCombBulk.description>Centrifuges a scaly comb to bulk extract genetic honey, genewax and reptilian genetic material</RB_CentrifugeScalyCombBulk.description>
+  <RB_CentrifugeScalyCombBulk.jobString>Extracting genetic honey, genewax and reptilian genetic material</RB_CentrifugeScalyCombBulk.jobString>
+
+  <RB_CentrifugeCattleCombBulk.label>bulk extract from cattle comb</RB_CentrifugeCattleCombBulk.label>
+  <RB_CentrifugeCattleCombBulk.description>Centrifuges a cattle comb to bulk extract milk, wool and muffalo genetic material.</RB_CentrifugeCattleCombBulk.description>
+  <RB_CentrifugeCattleCombBulk.jobString>Extracting milk, wool and muffalo genetic material.</RB_CentrifugeCattleCombBulk.jobString>
+
+
+</LanguageData>

@@ -1,159 +1,136 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: animal Implant: bear leg -->
+
+  <!-- Legs -->
+
   <GR_BearLeg.label>动物植入物「蛮熊肢」</GR_BearLeg.label>
-  <!-- EN: A prosthetic animal leg strengthened with bear muscles, and ending in sharp bear claws that add a powerful melee attack. -->
   <GR_BearLeg.description>用熊类基因物质培养出的植入物，强健的肌肉组织与附带的锐利熊爪能够显著增强动物的近战伤害。</GR_BearLeg.description>
-  
-  <!-- EN: animal Implant: bear liver -->
-  <GR_BearLiver.label>动物植入物「蛮熊肝」</GR_BearLiver.label>
-  <!-- EN: An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens. -->
-  <GR_BearLiver.description>用熊类基因物质培养出的植入物，能够有效提高动物的血液过滤与新陈代谢。非常适合那些喜欢喝酒喝到肝硬化的家禽。</GR_BearLiver.description>
-  
-  <!-- EN: animal Implant: boomalope heart -->
-  <GR_BoomalopeHeart.label>动物植入物「爆炸羊心脏」</GR_BoomalopeHeart.label>
-  <!-- EN: An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart. -->
-  <GR_BoomalopeHeart.description>用爆炸基因物质培养出的植入物，可以借助化合燃料产生的能量来将血液泵送至全身。由于部件效率不如原生的心脏，因此只适合那些易患心脏病的老年动物。</GR_BoomalopeHeart.description>
-  
-  <!-- EN: animal Implant: boomalope stomach -->
-  <GR_BoomalopeStomach.label>动物植入物「爆炸羊胃」</GR_BoomalopeStomach.label>
-  <!-- EN: An implant that uses boomalope genes to improve function of the stomach. -->
-  <GR_BoomalopeStomach.description>用爆炸基因物质培养出的植入物，能够有效提高动物的进食能力与新陈代谢。</GR_BoomalopeStomach.description>
-  
-  <!-- EN: animal Implant: canid eye -->
-  <GR_CanidEye.label>动物植入物「犬狼眼」</GR_CanidEye.label>
-  <!-- EN: An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes. -->
-  <GR_CanidEye.description>用犬科基因物质培养出的植入物。由于部件效率不如原生的眼睛，因此只适合那些眼睛患疾或有疤痕的动物。</GR_CanidEye.description>
-  
-  <!-- EN: animal Implant: cat tail -->
-  <GR_CatTail.label>动物植入物「猫咪尾」</GR_CatTail.label>
-  <!-- EN: A tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail. Note that only creatures with a natural tail can use this. -->
-  <GR_CatTail.description>用猫科基因物质培养出的植入物，很适合那些尾巴被毁或缺失的动物。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_CatTail.description>
-  
-  <!-- EN: animal Implant: chicken brains -->
-  <GR_ChickenBrains.label>动物植入物「家禽脑」</GR_ChickenBrains.label>
-  <!-- EN: An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures. -->
-  <GR_ChickenBrains.description>用禽类基因物质培养出的植入物，能够有效修复脑部神经通路受到的损伤。由于部件效率不如原生的大脑，因此只适合那些大脑患疾或有疤痕的动物。</GR_ChickenBrains.description>
-  
-  <!-- EN: animal Implant: chicken kidney -->
-  <GR_ChickenKidney.label>动物植入物「飞禽肾」</GR_ChickenKidney.label>
-  <!-- EN: An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today. -->
-  <GR_ChickenKidney.description>用禽类基因物质培养出的植入物，能够有效提高动物的血液过滤与新陈代谢。你知道吗？由于飞翔需要消耗很多能量，鸟儿们为此进化出了非常发达的肾脏。</GR_ChickenKidney.description>
-  
-  <!-- EN: animal Implant: chitinous heart -->
-  <GR_ChitinousHeart.label>动物植入物「甲壳质心脏」</GR_ChitinousHeart.label>
-  <!-- EN: A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise. -->
-  <GR_ChitinousHeart.description>用虫族基因物质培养的仿生植入物，表面覆有坚固的甲壳质。能够有效提高动物的血液循环、操作能力与移动能力，以及增加一定护甲值。你瞧，这颗心脏可以用来“揍人/搏动”诶！咳咳，我以后再也不玩双关语了(“beating”一词既可以表示心脏搏动，也有敲打、击打之意)。</GR_ChitinousHeart.description>
-  
-  <!-- EN: animal Implant: crocodile spine -->
-  <GR_CrocodileSpine.label>动物植入物「鳄鱼脊椎」</GR_CrocodileSpine.label>
-  <!-- EN: A bionic implant adding a sturdy crocodile spine to the creature's skeletal system. -->
-  <GR_CrocodileSpine.description>用爬行类基因物质培养出的植入物，能够有效提高动物的操作能力与移动能力，以及增加一定护甲值。</GR_CrocodileSpine.description>
-  
-  <!-- EN: animal Implant: insectile eye -->
-  <GR_InsectileEye.label>动物植入物「虫族复眼」</GR_InsectileEye.label>
-  <!-- EN: A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement. -->
-  <GR_InsectileEye.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的视觉能力，以及增加少量护甲值。与寻常的生物不同，复眼类昆虫不仅拥有极为广阔的视野，还可以迅速侦测附近移动的物体并作出反应。</GR_InsectileEye.description>
-  
-  <!-- EN: animal Implant: insect mandibles -->
-  <GR_InsectMandibles.label>动物植入物「虫族口器」</GR_InsectMandibles.label>
-  <!-- EN: A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon -->
-  <GR_InsectMandibles.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的进食能力与操作能力，以及增加一定护甲值。当然，作为近战武器使用也完全可行。</GR_InsectMandibles.description>
-  
-  <!-- EN: animal Implant: pheromone receivers -->
-  <GR_InsectoidPheromones.label>动物植入物「信息素接收器」</GR_InsectoidPheromones.label>
-  <!-- EN: An implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects. -->
-  <GR_InsectoidPheromones.description>用虫族基因物质培养出的植入物，能通过侦测信息素的方式来有效提高动物的嗅觉能力与呼吸能力，以及增加少量护甲值。\n\n禽类生物和虫族(虫族还需要这东西？)无法使用这种植入物。</GR_InsectoidPheromones.description>
-  
-  <!-- EN: animal Implant: lizard leg -->
+
   <GR_LizardLeg.label>动物植入物「蜥蜴肢」</GR_LizardLeg.label>
-  <!-- EN: A bionic animal leg reinforced with tough lizard skin. -->
   <GR_LizardLeg.description>用爬行类基因物质培养出的植入物，表面覆有粗糙坚固的蜥蜴鳞片。能够有效提高动物的移动能力，以及增加一定护甲值。</GR_LizardLeg.description>
-  
-  <!-- EN: animal Implant: reinforced bionic heart -->
-  <GR_MechaHeart.label>动物植入物「秘兽心脏」</GR_MechaHeart.label>
-  <!-- EN: A bionic heart strengthened by the action of active mechanites. -->
-  <GR_MechaHeart.description>用秘兽基因物质培养出的仿生植入物，内部活跃的纳米机械能够有效提高动物的移动能力、操作能力与血液循环，以及增加一定护甲值。</GR_MechaHeart.description>
-  
-  <!-- EN: animal Implant: elephant auditory receptor -->
-  <GR_MechaReceptors.label>动物植入物「秘兽耳」</GR_MechaReceptors.label>
-  <!-- EN: This elephant auditory receptor can scan a really wide band of frequencies. -->
-  <GR_MechaReceptors.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的听觉能力，以及增加少量护甲值。</GR_MechaReceptors.description>
-  
-  <!-- EN: animal Implant: reinforced bionic spine -->
-  <GR_MechaSpine.label>动物植入物「秘兽脊椎」</GR_MechaSpine.label>
-  <!-- EN: A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system. -->
-  <GR_MechaSpine.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的操作能力与移动能力，以及增加一定护甲值。</GR_MechaSpine.description>
-  
-  <!-- EN: animal Implant: reinforced tail -->
-  <GR_MechaTail.label>动物植入物「秘兽尾」</GR_MechaTail.label>
-  <!-- EN: An advanced animal tail, even more powerful than a natural one. Note that only creatures with a natural tail can use this. -->
-  <GR_MechaTail.description>用秘兽基因物质培养出的仿生植入物，整体部件效率要比原生的尾巴强得多。此外也能增加一定护甲值。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_MechaTail.description>
-  
-  <!-- EN: animal Implant: miniature thrumbo horn -->
-  <GR_MiniatureThrumboHorn.label>动物植入物「小型秘兽角」</GR_MiniatureThrumboHorn.label>
-  <!-- EN: A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant. -->
-  <GR_MiniatureThrumboHorn.description>用秘兽基因物质培养出的仿生植入物。除了尺寸小一些外，其他方面都与敲击兽和其他秘兽的角别无二致。这种植入物甚至具有完备的呼吸功能，在近战时的表现也无需多言。此外还能增加少量护甲值。\n\n禽类生物和虫族无法使用这种植入物。</GR_MiniatureThrumboHorn.description>
-  
-  <!-- EN: animal Implant: monitor lizard brain -->
-  <GR_MonitorLizardBrain.label>动物植入物「巨蜥脑」</GR_MonitorLizardBrain.label>
-  <!-- EN: A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes. -->
-  <GR_MonitorLizardBrain.description>用爬行类基因物质培养出的仿生植入物，能够有效提高动物的意识与操作能力。聪明的巨蜥具有十分惊人的快速反应能力。</GR_MonitorLizardBrain.description>
-  
-  <!-- EN: animal Implant: moth tympanal organ -->
-  <GR_MothTympanalOrgan.label>动物植入物「飞蛾鼓膜器」</GR_MothTympanalOrgan.label>
-  <!-- EN: A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce. -->
-  <GR_MothTympanalOrgan.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的听觉能力，以及增加少量护甲值。飞蛾的鼓膜器可以捕捉到比蝙蝠叫声频率更高的声波。</GR_MothTympanalOrgan.description>
-  
-  <!-- EN: animal Implant: muffalo lung -->
-  <GR_MuffaloLung.label>动物植入物「雪牛肺」</GR_MuffaloLung.label>
-  <!-- EN: An implant that uses muffalo genes to increase breathing capacity. -->
-  <GR_MuffaloLung.description>用雪牛基因物质培养出的植入物，能够有效提高动物的呼吸能力。</GR_MuffaloLung.description>
-  
-  <!-- EN: animal Implant: muffalo spine -->
-  <GR_MuffaloSpine.label>动物植入物「雪牛脊椎」</GR_MuffaloSpine.label>
-  <!-- EN: A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines. -->
-  <GR_MuffaloSpine.description>用雪牛基因物质培养出的植入物。虽然会降低动物的移动速度，但能够有效提高动物的操作能力并增加一定护甲值。比较适合那些脊椎患疾或有疤痕的动物。</GR_MuffaloSpine.description>
-  
-  <!-- EN: animal Implant: rodent ear -->
-  <GR_RodentEar.label>动物植入物「小鼠耳」</GR_RodentEar.label>
-  <!-- EN: An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears. -->
-  <GR_RodentEar.description>用啮齿类/兔类基因物质培养出的植入物。由于部件效率不如原生的耳朵，因此只适合那些耳朵患疾或有疤痕的动物。</GR_RodentEar.description>
-  
-  <!-- EN: animal Implant: rodent nose -->
-  <GR_RodentNose.label>动物植入物「小鼠鼻」</GR_RodentNose.label>
-  <!-- EN: An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects. -->
-  <GR_RodentNose.description>用啮齿类/兔类基因物质培养出的植入物。由于部件效率不如原生的鼻子，因此只适合那些鼻子被毁或有疤痕的动物。\n\n禽类生物和虫族无法使用这种植入物。</GR_RodentNose.description>
-  
-  <!-- EN: animal Implant: scyther tail -->
-  <GR_ScytherTail.label>动物植入物「镰刃尾」</GR_ScytherTail.label>
-  <!-- EN: A scyther tail created by attaching a jury-rigged scyther blade to an animal's tail. Note that only creatures with a natural tail can use this. -->
-  <GR_ScytherTail.description>用虫族基因物质和爬行类基因物质培养出的仿生植入物。不仅整体部件效率要比原生的尾巴强得多，还可以当做强力的近战武器使用。此外也能增加少量护甲值。等等，难道不应该是用机械飞螳的镰刀来做这种植入物吗？好吧，那东西因为价值不高，早就淡出人们的视线了。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_ScytherTail.description>
-  
-  <!-- EN: animal Implant: bionic thrumbo brain -->
-  <GR_ThrumboBrain.label>动物植入物「秘兽脑」</GR_ThrumboBrain.label>
-  <!-- EN: A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes. -->
-  <GR_ThrumboBrain.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的意识与操作能力。敲击兽等秘兽拥有人类难以想象的智慧与反应能力。</GR_ThrumboBrain.description>
-  
-  <!-- EN: animal Implant: bionic thrumbo eye -->
-  <GR_ThrumboEye.label>动物植入物「秘兽眼」</GR_ThrumboEye.label>
-  <!-- EN: A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo. -->
-  <GR_ThrumboEye.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的视觉能力，以及增加少量护甲值。敲击兽等秘兽拥有机能十分强大的光感受细胞。</GR_ThrumboEye.description>
-  
-  <!-- EN: animal Implant: bionic thrumbo jaws -->
-  <GR_ThrumboJaws.label>动物植入物「秘兽颌」</GR_ThrumboJaws.label>
-  <!-- EN: A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task. -->
-  <GR_ThrumboJaws.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的进食能力与操作能力，以及增加一定护甲值。敲击兽等秘兽的颌部肌肉十分发达，这也是它们能以树木为食的原因。</GR_ThrumboJaws.description>
-  
-  <!-- EN: animal Implant: elephant leg -->
+
   <GR_ThrumboLeg.label>动物植入物「秘兽腿」</GR_ThrumboLeg.label>
-  <!-- EN: A bionic animal leg reinforced with muscle tissue from a powerful elephant. -->
   <GR_ThrumboLeg.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的移动能力，以及增加一定护甲值。</GR_ThrumboLeg.description>
-  
-  <!-- EN: animal Implant: wolf fangs -->
+
+
+  <!-- Tails -->
+
+  <GR_CatTail.label>动物植入物「猫咪尾」</GR_CatTail.label>
+  <GR_CatTail.description>用猫科基因物质培养出的植入物，很适合那些尾巴被毁或缺失的动物。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_CatTail.description>
+
+  <GR_ScytherTail.label>动物植入物「镰刃尾」</GR_ScytherTail.label>
+  <GR_ScytherTail.description>用虫族基因物质和爬行类基因物质培养出的仿生植入物。不仅整体部件效率要比原生的尾巴强得多，还可以当做强力的近战武器使用。此外也能增加少量护甲值。等等，难道不应该是用机械飞螳的镰刀来做这种植入物吗？好吧，那东西因为价值不高，早就淡出人们的视线了。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_ScytherTail.description>
+
+  <GR_MechaTail.label>动物植入物「秘兽尾」</GR_MechaTail.label>
+  <GR_MechaTail.description>用秘兽基因物质培养出的仿生植入物，整体部件效率要比原生的尾巴强得多。此外也能增加一定护甲值。\n\n只有那些天生拥有尾巴的动物才能使用这种植入物。</GR_MechaTail.description>
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>动物植入物「犬狼眼」</GR_CanidEye.label>
+  <GR_CanidEye.description>用犬科基因物质培养出的植入物。由于部件效率不如原生的眼睛，因此只适合那些眼睛患疾或有疤痕的动物。</GR_CanidEye.description>
+
+  <GR_InsectileEye.label>动物植入物「虫族复眼」</GR_InsectileEye.label>
+  <GR_InsectileEye.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的视觉能力，以及增加少量护甲值。与寻常的生物不同，复眼类昆虫不仅拥有极为广阔的视野，还可以迅速侦测附近移动的物体并作出反应。</GR_InsectileEye.description>
+
+  <GR_ThrumboEye.label>动物植入物「秘兽眼」</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的视觉能力，以及增加少量护甲值。敲击兽等秘兽拥有机能十分强大的光感受细胞。</GR_ThrumboEye.description>
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>动物植入物「小鼠耳」</GR_RodentEar.label>
+  <GR_RodentEar.description>用啮齿类/兔类基因物质培养出的植入物。由于部件效率不如原生的耳朵，因此只适合那些耳朵患疾或有疤痕的动物。</GR_RodentEar.description>
+
+  <GR_MothTympanalOrgan.label>动物植入物「飞蛾鼓膜器」</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的听觉能力，以及增加少量护甲值。飞蛾的鼓膜器可以捕捉到比蝙蝠叫声频率更高的声波。</GR_MothTympanalOrgan.description>
+
+  <GR_MechaReceptors.label>动物植入物「秘兽耳」</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的听觉能力，以及增加少量护甲值。</GR_MechaReceptors.description>
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>动物植入物「小鼠鼻」</GR_RodentNose.label>
+  <GR_RodentNose.description>用啮齿类/兔类基因物质培养出的植入物。由于部件效率不如原生的鼻子，因此只适合那些鼻子被毁或有疤痕的动物。\n\n禽类生物和虫族无法使用这种植入物。</GR_RodentNose.description>
+
+  <GR_InsectoidPheromones.label>动物植入物「信息素接收器」</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>用虫族基因物质培养出的植入物，能通过侦测信息素的方式来有效提高动物的嗅觉能力与呼吸能力，以及增加少量护甲值。\n\n禽类生物和虫族(虫族还需要这东西？)无法使用这种植入物。</GR_InsectoidPheromones.description>
+
+  <GR_MiniatureThrumboHorn.label>动物植入物「小型秘兽角」</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>用秘兽基因物质培养出的仿生植入物。除了尺寸小一些外，其他方面都与敲击兽和其他秘兽的角别无二致。这种植入物甚至具有完备的呼吸功能，在近战时的表现也无需多言。此外还能增加少量护甲值。\n\n禽类生物和虫族无法使用这种植入物。</GR_MiniatureThrumboHorn.description>
+
+
+  <!-- Jaws -->
+
   <GR_WolfJaws.label>动物植入物「犬狼牙」</GR_WolfJaws.label>
-  <!-- EN: An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws. -->
   <GR_WolfJaws.description>用犬科基因物质培养出的植入物。由于部件效率不如原生的下颌，因此只适合那些下颌被毁或有疤痕的动物。</GR_WolfJaws.description>
-  
+
+  <GR_InsectMandibles.label>动物植入物「虫族口器」</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>用虫族基因物质培养出的仿生植入物，能够有效提高动物的进食能力与操作能力，以及增加一定护甲值。当然，作为近战武器使用也完全可行。</GR_InsectMandibles.description>
+
+  <GR_ThrumboJaws.label>动物植入物「秘兽颌」</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的进食能力与操作能力，以及增加一定护甲值。敲击兽等秘兽的颌部肌肉十分发达，这也是它们能以树木为食的原因。</GR_ThrumboJaws.description>
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>动物植入物「雪牛脊椎」</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>用雪牛基因物质培养出的植入物。虽然会降低动物的移动速度，但能够有效提高动物的操作能力并增加一定护甲值。比较适合那些脊椎患疾或有疤痕的动物。</GR_MuffaloSpine.description>
+
+  <GR_CrocodileSpine.label>动物植入物「鳄鱼脊椎」</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>用爬行类基因物质培养出的植入物，能够有效提高动物的操作能力与移动能力，以及增加一定护甲值。</GR_CrocodileSpine.description>
+
+  <GR_MechaSpine.label>动物植入物「秘兽脊椎」</GR_MechaSpine.label>
+  <GR_MechaSpine.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的操作能力与移动能力，以及增加一定护甲值。</GR_MechaSpine.description>
+
+
+  <!-- Brains -->
+
+  <GR_ChickenBrains.label>动物植入物「家禽脑」</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>用禽类基因物质培养出的植入物，能够有效修复脑部神经通路受到的损伤。由于部件效率不如原生的大脑，因此只适合那些大脑患疾或有疤痕的动物。</GR_ChickenBrains.description>
+
+  <GR_MonitorLizardBrain.label>动物植入物「巨蜥脑」</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>用爬行类基因物质培养出的仿生植入物，能够有效提高动物的意识与操作能力。聪明的巨蜥具有十分惊人的快速反应能力。</GR_MonitorLizardBrain.description>
+
+  <GR_ThrumboBrain.label>动物植入物「秘兽脑」</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>用秘兽基因物质培养出的仿生植入物，能够有效提高动物的意识与操作能力。敲击兽等秘兽拥有人类难以想象的智慧与反应能力。</GR_ThrumboBrain.description>
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>动物植入物「爆炸羊心脏」</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>用爆炸基因物质培养出的植入物，可以借助化合燃料产生的能量来将血液泵送至全身。由于部件效率不如原生的心脏，因此只适合那些易患心脏病的老年动物。</GR_BoomalopeHeart.description>
+
+  <GR_ChitinousHeart.label>动物植入物「甲壳质心脏」</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>用虫族基因物质培养的仿生植入物，表面覆有坚固的甲壳质。能够有效提高动物的血液循环、操作能力与移动能力，以及增加一定护甲值。你瞧，这颗心脏可以用来“揍人/搏动”诶！咳咳，我以后再也不玩双关语了(“beating”一词既可以表示心脏搏动，也有敲打、击打之意)。</GR_ChitinousHeart.description>
+
+  <GR_MechaHeart.label>动物植入物「秘兽心脏」</GR_MechaHeart.label>
+  <GR_MechaHeart.description>用秘兽基因物质培养出的仿生植入物，内部活跃的纳米机械能够有效提高动物的移动能力、操作能力与血液循环，以及增加一定护甲值。</GR_MechaHeart.description>
+
+
+  <!-- Lungs -->
+
+  <GR_MuffaloLung.label>动物植入物「雪牛肺」</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>用雪牛基因物质培养出的植入物，能够有效提高动物的呼吸能力。</GR_MuffaloLung.description>
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>动物植入物「蛮熊肝」</GR_BearLiver.label>
+  <GR_BearLiver.description>用熊类基因物质培养出的植入物，能够有效提高动物的血液过滤与新陈代谢。非常适合那些喜欢喝酒喝到肝硬化的家禽。</GR_BearLiver.description>
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>动物植入物「飞禽肾」</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>用禽类基因物质培养出的植入物，能够有效提高动物的血液过滤与新陈代谢。你知道吗？由于飞翔需要消耗很多能量，鸟儿们为此进化出了非常发达的肾脏。</GR_ChickenKidney.description>
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>动物植入物「爆炸羊胃」</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>用爆炸基因物质培养出的植入物，能够有效提高动物的进食能力与新陈代谢。</GR_BoomalopeStomach.description>
+
+
 </LanguageData>

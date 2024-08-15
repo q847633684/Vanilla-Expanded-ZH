@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bearalope -->
+
+  <!-- Bear - Boomalope -->
+
   <GR_Bearalope.label>爆炸熊</GR_Bearalope.label>
   <!-- EN: An unusual concoction of traits that was favoured by a particular client who was obsessed on making things explode. Earned the nickname Boom-Boom as they would often make requests along the lines of “two more booms, wasn’t paying attention”.\n\nAn ursine hybrid with recessive boomalope genes. Lacking intelligence compared to a bear while also missing out on some strength and confidence in hunting. However, they can be commanded to detonate a limited amount of fuel sacks for increased combat versatility in exchange for hurting themselves intentionally.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. The "Detonate chemfuel" ability can be used to cause a powerful "Bomb" damage type explosion surrounding the hybrid. Bear in mind (pun intended) that this will damage the hybrid too! -->
   <GR_Bearalope.description>在意外受到了某些迷恋于让东西爆炸的奇怪客户的钟爱后，这种特殊的基因组合也终于开辟出了新商机。虽然爆炸熊的智力并不是很高，但它们能以伤害自身为代价主动引爆身上的爆炸囊。\n\n【性状基因I】：熊类基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，可训练度中等。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸熊死亡后产生的爆炸范围更小，但造成的伤害类型是更强的“炸伤”而不是“烧伤”。它们也能直接使用特殊能力“强力爆破”。</GR_Bearalope.description>
@@ -11,8 +12,11 @@
   <GR_Bearalope.tools.right_claw.label>右爪</GR_Bearalope.tools.right_claw.label>
   <!-- EN: head -->
   <GR_Bearalope.tools.head.label>头</GR_Bearalope.tools.head.label>
-  
-  <!-- EN: bearcat -->
+  <!-- Use Leather From: Bear_Grizzly -->
+  <!-- Use Meat From: Bear_Grizzly -->
+  <GR_Bearalope_Corpse.label>bearalope corpse</GR_Bearalope_Corpse.label>
+  <GR_Bearalope_Corpse.description>bearalope corpse</GR_Bearalope_Corpse.description>
+
   <GR_Bearcat.label>猫熊</GR_Bearcat.label>
   <!-- EN: Massive, fluffy murder babies is just one of the many “cute” nicknames made for this animal, their only downside being that they’re unable to purr. Because they’re so large, they often end up knocking over the people they’re trying to show affection to before laying on top of them for warmth.\n\nAn ursine hybrid with recessive feline genes. Retaining their intelligence and being faster and more fierce in combat, they are adorable killing machines that love to nuzzle. They prefer easier prey and can be slaughtered for a valuable pelt, you monster.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. The pelt can be sold or used in the art workbench to create rugs. -->
   <GR_Bearcat.description>“巨型毛绒杀戮宝宝”仅仅是猫熊众多“可爱”的昵称之一。或许，它们唯一的缺点就是无法像普通的猫咪一样发出呼噜声。由于体型太大，它们只能先把主人扑倒后再趴到其身上取暖。\n\n【性状基因I】：熊类基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n将猫熊屠宰后可以得到一整张毛皮,你可以将它制成地毯或直接卖掉。</GR_Bearcat.description>
@@ -22,8 +26,12 @@
   <GR_Bearcat.tools.right_claw.label>右爪</GR_Bearcat.tools.right_claw.label>
   <!-- EN: head -->
   <GR_Bearcat.tools.head.label>头</GR_Bearcat.tools.head.label>
-  
-  <!-- EN: bearchicken -->
+
+  <GR_Bearcat_Corpse.label>bearcat corpse</GR_Bearcat_Corpse.label>
+  <GR_Bearcat_Corpse.description>bearcat corpse</GR_Bearcat_Corpse.description>
+
+  <!-- Bear - Chicken -->
+
   <GR_Bearchicken.label>火鸡熊</GR_Bearchicken.label>
   <!-- EN: A surprisingly clean animal dubbed the “owl-bear” by those that find them amusing as they attempt to fly by rapidly flapping their stubby vestigial wings. That is until they get their eyes pecked out and flattened by their weight.\n\nAn ursine hybrid with recessive avian genes. Slightly dumber but easier to train, they lay eggs every couple of days and have the strength to protect their clutch. Slower than a bear but their ability to hover over terrain means they perform better in harsh terrain.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. Although too heavy to fly, it can use its wings to nullify terrain movement costs. -->
   <GR_Bearchicken.description>这种异常干净的混种生物也被戏称为“鸮熊”，很多人都觉得它们努力拍打小翅膀飞行的笨拙样子非常滑稽。直到火鸡熊用体重压扁了这些人，并啄出了他们的眼珠后，自此再也没人敢在它们面前大放厥词。\n\n【性状基因I】：熊类基因\n【性状基因II】：禽类基因\n【基本特征】：野性高，可训练度中等，能产蛋，不会受到地形带来的移动速度惩罚。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。</GR_Bearchicken.description>
@@ -34,7 +42,13 @@
   <!-- EN: head -->
   <GR_Bearchicken.tools.head.label>头</GR_Bearchicken.tools.head.label>
   
-  <!-- EN: bearffalo -->
+
+  <GR_Bearchicken_Corpse.label>bearchicken corpse</GR_Bearchicken_Corpse.label>
+  <GR_Bearchicken_Corpse.description>bearchicken corpse</GR_Bearchicken_Corpse.description>
+
+
+  <!-- Bear - Muffalo -->
+
   <GR_Bearffalo.label>雪牛熊</GR_Bearffalo.label>
   <!-- EN: A wonderful animal for those cold winter journeys, very popular as travellers snuggle into their fur at night to keep warm. Fights have even broken out over who gets to sleep with the oversized rug.\n\nAn ursine hybrid with recessive muffalo genes. Very filthy but a decently intelligent pack animal that produces good-quality wool and milk. Performs very well in cold environments and is more than capable of defending itself.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. -->
   <GR_Bearffalo.description>在寒冬远行时，有一只雪牛熊陪伴在左右是件很棒的事。商人和旅行者们都很喜欢靠在它们身上的感觉，甚至还有人会为了能盖着这些“大毯子”睡觉而争的难分难解。\n\n【性状基因I】：熊类基因\n【性状基因II】：雪牛基因\n【基本特征】：野性高，可训练度中等，能驮运，能产奶和毛。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。</GR_Bearffalo.description>
@@ -44,8 +58,11 @@
   <GR_Bearffalo.tools.right_claw.label>右爪</GR_Bearffalo.tools.right_claw.label>
   <!-- EN: head -->
   <GR_Bearffalo.tools.head.label>头</GR_Bearffalo.tools.head.label>
-  
-  <!-- EN: bearman -->
+
+  <GR_Bearffalo_Corpse.label>bearffalo corpse</GR_Bearffalo_Corpse.label>
+  <GR_Bearffalo_Corpse.description>bearffalo corpse</GR_Bearffalo_Corpse.description>
+
+
   <GR_Bearman.label>人熊</GR_Bearman.label>
   <!-- EN: A terrifying combination of the raw power of a bear and the intellect of a human, resulting in a creature that loves to abuse its prey. Not quite as strong due to the strange hand-paw shapes, but very energetic and eager to get their victims to catch these hands.\n\nAn ursine hybrid with recessive humanoid genes. Very high intellect but comparatively fragile compared to similar hybrids. Their bodies contain oversized and overstimulated adrenal glands that are found just under the surface of the skin, which can be regularly extracted for a substance analogous to Go-Juice.\n\n<color=#E5E54C>Gameplay effect:</color> Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. -->
   <GR_Bearman.description>熊类的野性加上人类的才智，造就出了这些喜欢折磨猎物的家伙。略显畸形的手爪使他们无法像其他熊类混种生物一样发挥出强大的力量，但其体内极其发达活跃的肾上腺能够分泌出如同活力水一样的液体。\n\n【性状基因I】：熊类基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高，能产活力水。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。</GR_Bearman.description>
@@ -55,8 +72,10 @@
   <GR_Bearman.tools.right_claw.label>右爪</GR_Bearman.tools.right_claw.label>
   <!-- EN: head -->
   <GR_Bearman.tools.head.label>头</GR_Bearman.tools.head.label>
-  
-  <!-- EN: bearmole -->
+
+  <GR_Bearman_Corpse.label>bearman corpse</GR_Bearman_Corpse.label>
+  <GR_Bearman_Corpse.description>bearman corpse</GR_Bearman_Corpse.description>
+
   <GR_Bearmole.label>鼹鼠熊</GR_Bearmole.label>
   <!-- EN: Not many people get to see a naked bear, and fewer still want a repeat viewing. This oversized mole-rat inspires plenty of fear with its massive teeth, but gets a lot of love and affection from those wanting a large, hairless pet that gnaws on the furniture.\n\nAn ursine hybrid with recessive rodent genes. Very slow both mentally and physically along with dietary restrictions, but very fierce in combat and immune to pain. Also they have the added benefit of having a short reproductive cycle, low metabolism and being completely fearless in hunting prey.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. No pain sensitivity. This hybrid won't be knocked down in combat due to pain. -->
   <GR_Bearmole.description>浑身光秃秃的熊可不常见，然而想反复观察它们的人也并不多。虽然这些长着巨大门牙的鼹鼠熊看起来十分可怕，但它们也很想从人类那里赢得一些关爱。\n\n【性状基因I】：熊类基因\n【性状基因II】：啮齿类/兔类基因\n【基本特征】：野性高，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。\n\n鼹鼠熊几乎感受不到疼痛。</GR_Bearmole.description>
@@ -66,8 +85,10 @@
   <GR_Bearmole.tools.right_claw.label>右爪</GR_Bearmole.tools.right_claw.label>
   <!-- EN: head -->
   <GR_Bearmole.tools.head.label>头</GR_Bearmole.tools.head.label>
-  
-  <!-- EN: bearwolf -->
+
+  <GR_Bearmole_Corpse.label>bearmole corpse</GR_Bearmole_Corpse.label>
+  <GR_Bearmole_Corpse.description>bearmole corpse</GR_Bearmole_Corpse.description>
+
   <GR_Bearwolf.label>狼熊</GR_Bearwolf.label>
   <!-- EN: Great care must be taken before considering raising this chonky boy, as they have a metabolism that matches their high ferocity and movement speed. Pretty useful in keeping egg-laying animal populations in check.\n\nAn ursine hybrid with recessive canine genes. A very fierce and intelligent combat hybrid with an incredible appetite. As they are almost constantly hungry, they will dig for berries when they’re hungry provided it’s growing season.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. -->
   <GR_Bearwolf.description>在考虑饲养这些大块头前一定要三思而行。虽然它们凶猛无比且行动迅捷，但食量也同样大的惊人。如果猎物稀缺，只要不是在植物停止生长的寒冬，它们也会自行采集莓果来充饥。\n\n【性状基因I】：熊类基因\n【性状基因II】：犬科基因\n【基本特征】：食量大，野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有以熊类基因为主体性状的混种生物在攻击时都有几率击晕敌人。\n\n在食物匮乏时，狼熊可以从地里挖出莓果。</GR_Bearwolf.description>
@@ -75,7 +96,6 @@
   <GR_Bearwolf.tools.left_claw.label>左爪</GR_Bearwolf.tools.left_claw.label>
   <!-- EN: right claw -->
   <GR_Bearwolf.tools.right_claw.label>右爪</GR_Bearwolf.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Bearwolf.tools.head.label>头</GR_Bearwolf.tools.head.label>
-  
+  <GR_Bearwolf_Corpse.label>bearwolf corpse</GR_Bearwolf_Corpse.label>
+  <GR_Bearwolf_Corpse.description>bearwolf corpse</GR_Bearwolf_Corpse.description>
 </LanguageData>

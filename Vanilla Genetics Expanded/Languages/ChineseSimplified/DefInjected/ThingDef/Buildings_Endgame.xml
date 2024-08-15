@@ -1,19 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: archocentipede former -->
-  <GR_ArchocentipedeFormer.label>超凡基因塑造仪</GR_ArchocentipedeFormer.label>
-  <!-- EN: The archotech version of the Genomorpher, this machine combines the best genetic material of all the animal branches into a single Archocentipede Growthcell. The way it functions is beyond understanding and is impossible to replicate even with the best glitterworld technology.\n\nIn order for this machine to function, it requires multiple connecting DNA Storage Banks which each have the complete genetic data from the different animal branches. Each storage bank will be completely drained in order to ensure that the resulting Growthcell is perfect in every single way.\n\nThe resulting Archocentipede Growthcell requires its own special Archowomb, as it is impossible to replicate the necessary nurturing environment.\n\nGenomes needed: -->
-  <GR_ArchocentipedeFormer.description>用于将所有种类的遗传物质融合成超凡孵化单元的大型超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。它的工作原理对我们来说仍旧是个迷，即便使用最尖端的闪耀世界科技也无法对其进行仿制。\n\n为了使这台设备能够正常运行，你必须要给每种基因物质都准备一个基因贮存库。\n\n塑造出的超凡孵化单元必须使用专门的超凡孵化器才能孵化。\n\n&lt;color=#E5E54C>所需基因物质列表：&lt;/color></GR_ArchocentipedeFormer.description>
-  
-  <!-- EN: archowomb -->
-  <GR_ArchoWomb.label>超凡孵化器</GR_ArchoWomb.label>
-  <!-- EN: A relatively massive machine designed to simulate the environment of a mother’s womb specifically for the Archocentipede. Once the Growthcell has been inserted, the embryo can start growing all the way to its adult life stage before being released.\n\nCare should be taken before beginning the process, as the resulting energy signature will force any and all hostiles to attack the colony before the monstrosity can be born. The procedure will last 15 days and once finished, the creature will be under the player’s control with peerless combat prowess. -->
-  <GR_ArchoWomb.description>用于模拟雌性生物体内子宫环境的巨型超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。向其中装入超凡孵化单元后，其内部的胚胎将会持续增殖、分化并发育至超凡机械蜈蚣的完全体。\n\n在开始孵化前，你应该做好万全的准备。一旦设备启动，其产生的高能脉冲将会席卷整个边缘世界，所有敌人都将不计代价地前来阻止你。孵化进程将会耗费大约15天，只要超凡机械蜈蚣能够顺利诞生，这世上将无人能与你抗衡。</GR_ArchoWomb.description>
-  
-  <!-- EN: DNA storage bank -->
+
   <GR_DNAStorageBank.label>基因贮存库</GR_DNAStorageBank.label>
-  <!-- EN: A vital piece of archotechnology that is part of the process in creating an Archocentipede.\n\nGenome Extractor Tables function in a very similar way to this device, except this machine requires live specimens and stores the genetic material for later use, preventing deterioration. Depending on the base Genoframe, the amount of viable genetic material extracted will vary.\n\nEach storage bank can only store the genetic material from a single animal branch, such as ursine or feline. Inserting a hybrid into the database yields half as much valuable data compared to a paragon. DNA storage banks need to be in line of sight of the archocentipede former to connect to it properly.\n\nDetailed yields for paragons (half for hybrids):\n\nAwful quality: yields 1%\nPoor quality: yields 3%\nNormal quality: yields 6%\nGood quality: yields 12%\nExcellent quality: yields 25%\nMasterwork quality: yields 50%\nLegendary quality: yields 100% -->
-  <GR_DNAStorageBank.description>用于提取和存储遗传物质的超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。\n\n这台设备的作用与基因提取台较为相似，但它的工作原理则是先将鲜活的实验样本直接转化为基因物质，然后再存入设备内部，以防老化和腐烂。每只混种生物所能提供的基因物质数量并不相同，这主要取决于在塑造孵化单元时所使用的基因构造框架的品质。\n\n一台基因贮存库里只能存放同种类生物的基因物质。无瑕生物提供的基因物质是普通混种生物的一倍。基因贮存库必须放置在超凡机械蜈蚣塑造器附近，如果二者间隔太远将无法相连接。\n\n&lt;color=#E5E54C>基因物质提供量的详细列表：&lt;/color>\n\n无瑕生物（极差）：+1%\n普通混种生物（极差）：+0.5%\n\n无瑕生物（较差）：+3%\n普通混种生物（较差）：+1.5%\n\n无瑕生物（一般）：+6%\n普通混种生物（一般）：+3%\n\n无瑕生物（良好）：+12%\n普通混种生物（良好）：+6%\n\n无瑕生物（极佳）：+25%\n普通混种生物（极佳）：+12.5%\n\n无瑕生物（大师级）：+50%\n普通混种生物（大师级）：+25%\n\n无瑕生物（传奇级）：+100%\n普通混种生物（传奇级）：+50%</GR_DNAStorageBank.description>
-  
+  <GR_DNAStorageBank.description>用于提取和存储遗传物质的超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。\n\n这台设备的作用与基因提取台较为相似，但它的工作原理则是先将鲜活的实验样本直接转化为基因物质，然后再存入设备内部，以防老化和腐烂。每只混种生物所能提供的基因物质数量并不相同，这主要取决于在塑造孵化单元时所使用的基因构造框架的品质。\n\n一台基因贮存库里只能存放同种类生物的基因物质。无瑕生物提供的基因物质是普通混种生物的一倍。基因贮存库必须放置在超凡机械蜈蚣塑造器附近，如果二者间隔太远将无法相连接。\n\n&lt;color=#E5E54C&gt;基因物质提供量的详细列表：&lt;/color&gt;\n\n无瑕生物（极差）：+1%\n普通混种生物（极差）：+0.5%\n\n无瑕生物（较差）：+3%\n普通混种生物（较差）：+1.5%\n\n无瑕生物（一般）：+6%\n普通混种生物（一般）：+3%\n\n无瑕生物（良好）：+12%\n普通混种生物（良好）：+6%\n\n无瑕生物（极佳）：+25%\n普通混种生物（极佳）：+12.5%\n\n无瑕生物（大师级）：+50%\n普通混种生物（大师级）：+25%\n\n无瑕生物（传奇级）：+100%\n普通混种生物（传奇级）：+50%</GR_DNAStorageBank.description>
+  <GR_DNAStorageBank_Blueprint_Install.label>DNA storage bank (blueprint)</GR_DNAStorageBank_Blueprint_Install.label>
+
+  <GR_ArchocentipedeFormer.label>超凡基因塑造仪</GR_ArchocentipedeFormer.label>
+  <GR_ArchocentipedeFormer.description>用于将所有种类的遗传物质融合成超凡孵化单元的大型超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。它的工作原理对我们来说仍旧是个迷，即便使用最尖端的闪耀世界科技也无法对其进行仿制。\n\n为了使这台设备能够正常运行，你必须要给每种基因物质都准备一个基因贮存库。\n\n塑造出的超凡孵化单元必须使用专门的超凡孵化器才能孵化。\n\n&lt;color=#E5E54C&gt;所需基因物质列表：&lt;/color&gt;</GR_ArchocentipedeFormer.description>
+  <GR_ArchocentipedeFormer_Blueprint_Install.label>archocentipede former (blueprint)</GR_ArchocentipedeFormer_Blueprint_Install.label>
+
+  <GR_ArchoWomb.label>超凡孵化器</GR_ArchoWomb.label>
+  <GR_ArchoWomb.description>用于模拟雌性生物体内子宫环境的巨型超凡设备，同时也是“超凡生物孵育项目”的重要组成部分之一。向其中装入超凡孵化单元后，其内部的胚胎将会持续增殖、分化并发育至超凡机械蜈蚣的完全体。\n\n在开始孵化前，你应该做好万全的准备。一旦设备启动，其产生的高能脉冲将会席卷整个边缘世界，所有敌人都将不计代价地前来阻止你。孵化进程将会耗费大约15天，只要超凡机械蜈蚣能够顺利诞生，这世上将无人能与你抗衡。</GR_ArchoWomb.description>
+  <GR_ArchoWomb_Blueprint_Install.label>archowomb (blueprint)</GR_ArchoWomb_Blueprint_Install.label>
+
+
 </LanguageData>

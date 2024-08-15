@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear -->
+
+  <GR_BearBug.label>bear bug</GR_BearBug.label>
+  <GR_BearBug.description>This tardigrade-like creature is basically a huge bed bug infused with bear genes. It consumes a large amount of food, but its paralysing attacks combined with its resilience can be very useful in a combat situation.\n\nUseful abilities: Bear bugs produce a powerful neurotoxin that can paralyse their prey, leaving them completely unable to defend themselves.</GR_BearBug.description>
+  <GR_BearBug.tools.0.label>mandibles</GR_BearBug.tools.0.label>
+  <GR_BearBug.tools.1.label>head</GR_BearBug.tools.1.label>
+  <!-- Use Leather From: AA_BedBug -->
+  <!-- Use Meat From: Bear_Grizzly -->
+  <GR_BearBug_Corpse.label>bear bug corpse</GR_BearBug_Corpse.label>
+  <GR_BearBug_Corpse.description>bear bug corpse</GR_BearBug_Corpse.description>
+
+
+  <!-- Boomalope -->
+
+  <GR_Boomalisk.label>boomalisk</GR_Boomalisk.label>
+  <GR_Boomalisk.description>The boomalisk is a boomalope / dunealisk hybrid that produces a weird spider silk know as boomthread. This silk is as strong as synthread, but it is also an excellent thermal insulator. Boomalisks also catch their prey with exploding webs, which... sounds dangerous.\n\nUseful abilities: Produces chemfuel, boomthread and attacks with explosive webs.</GR_Boomalisk.description>
+  <GR_Boomalisk.verbs.0.label>exploding web</GR_Boomalisk.verbs.0.label>
+  <GR_Boomalisk.tools.0.label>left first leg</GR_Boomalisk.tools.0.label>
+  <GR_Boomalisk.tools.1.label>right first leg</GR_Boomalisk.tools.1.label>
+  <GR_Boomalisk.tools.3.label>head</GR_Boomalisk.tools.3.label>
+  <!-- Use Leather From: AA_Dunealisk -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomalisk_Corpse.label>boomalisk corpse</GR_Boomalisk_Corpse.label>
+  <GR_Boomalisk_Corpse.description>boomalisk corpse</GR_Boomalisk_Corpse.description>
+
+
+  <!-- Chicken -->
+
+  <GR_Needlechicken.label>needlechicken</GR_Needlechicken.label>
+  <GR_Needlechicken.description>This abomination is part chicken, part sentient cactus. If cactus nuggets weren't a thing, they are now. You can think of them as solar-powered egg layers.\n\nUseful abilities: Needlechicken are decent egg layers. They can defend themselves with tiny poison barb attacks, and they almost don't need sustenance (except for a large amount of sunlight).</GR_Needlechicken.description>
+  <GR_Needlechicken.verbs.0.label>tiny venomous barb</GR_Needlechicken.verbs.0.label>
+  <GR_Needlechicken.tools.0.label>stings</GR_Needlechicken.tools.0.label>
+  <GR_Needlechicken.tools.2.label>head</GR_Needlechicken.tools.2.label>
+  <!-- Use Leather From: AA_Needlepost -->
+  <GR_Needlechicken_Meat.label>needlechicken meat</GR_Needlechicken_Meat.label>
+  <GR_Needlechicken_Meat.description>needlechicken meat</GR_Needlechicken_Meat.description>
+  <GR_Needlechicken_Corpse.label>needlechicken corpse</GR_Needlechicken_Corpse.label>
+  <GR_Needlechicken_Corpse.description>needlechicken corpse</GR_Needlechicken_Corpse.description>
+
+
+  <!-- Insect -->
+
+  <GR_Beetlefleet.label>beetlefleet</GR_Beetlefleet.label>
+  <GR_Beetlefleet.description>A chitinous, floating, hydrogen-filled monstruosity. The beetlefleet wanders the land bouncing off objects in its path, seeking prey to consume.\n\nUseful abilities: Beetlefleet produce insect jelly, explode on death violently, and reproduce asexually.</GR_Beetlefleet.description>
+  <GR_Beetlefleet.tools.1.label>tentacles</GR_Beetlefleet.tools.1.label>
+  <!-- Use Leather From: AA_Aerofleet -->
+  <!-- Use Meat From: Megaspider -->
+  <GR_Beetlefleet_Corpse.label>beetlefleet corpse</GR_Beetlefleet_Corpse.label>
+  <GR_Beetlefleet_Corpse.description>beetlefleet corpse</GR_Beetlefleet_Corpse.description>
+
+
+  <!-- Muffalo -->
+
+  <GR_Groundffalo.label>groundffalo</GR_Groundffalo.label>
+  <GR_Groundffalo.description>The horned groundffalo is a great pack beast (albeit a bit slow) capable of producing milk and wool, as well as mining for your colony. Compared to a Groundrunner it won't be as efficient on its mining work, but the other characteristics make up for this.\n\nUseful abilities: Produces wool, milk, acts as a pack beast and  mines rocks and minerals.</GR_Groundffalo.description>
+  <GR_Groundffalo.tools.0.label>left claw</GR_Groundffalo.tools.0.label>
+  <GR_Groundffalo.tools.1.label>right claw</GR_Groundffalo.tools.1.label>
+  <GR_Groundffalo.tools.2.label>horns</GR_Groundffalo.tools.2.label>
+  <GR_Groundffalo.tools.3.label>head</GR_Groundffalo.tools.3.label>
+  <!-- Use Leather From: Muffalo -->
+  <!-- Use Meat From: Muffalo -->
+  <GR_Groundffalo_Corpse.label>groundffalo corpse</GR_Groundffalo_Corpse.label>
+  <GR_Groundffalo_Corpse.description>groundffalo corpse</GR_Groundffalo_Corpse.description>
+
+
+  <!-- Reptile -->
+
+  <GR_MeadowLizard.label>meadow lizard</GR_MeadowLizard.label>
+  <GR_MeadowLizard.description>The meadow lizard is a beast bred for speed. Even though they are naturally slower than meadow aves, they can be trained to be incredibly fast mounts.\n\nUseful abilities: if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Lizards move 100% faster when used as mounts). They are also venomous.</GR_MeadowLizard.description>
+  <GR_MeadowLizard.tools.0.label>claws</GR_MeadowLizard.tools.0.label>
+  <GR_MeadowLizard.tools.2.label>head</GR_MeadowLizard.tools.2.label>
+  <!-- Use Leather From: AA_MeadowAve -->
+  <!-- Use Meat From: Iguana -->
+  <GR_MeadowLizard_Corpse.label>meadow lizard corpse</GR_MeadowLizard_Corpse.label>
+  <GR_MeadowLizard_Corpse.description>meadow lizard corpse</GR_MeadowLizard_Corpse.description>
+
+
+  <!-- Rodent -->
+
+  <GR_AnimusHare.label>animus hare</GR_AnimusHare.label>
+  <GR_AnimusHare.description>The Animus Hare is a small leporid with latent psionic abilities. Quite intelligent for an animal, but not intelligent enough to properly use psionics. It will however quickly bond with human beings and reach with his mind to make happy everyone that treats it well.\n\nUseful abilities: they will often use a psionic nuzzle on colonists, keeping everyone happier. They also breed very fast.</GR_AnimusHare.description>
+  <GR_AnimusHare.tools.0.label>left claw</GR_AnimusHare.tools.0.label>
+  <GR_AnimusHare.tools.1.label>right claw</GR_AnimusHare.tools.1.label>
+  <GR_AnimusHare.tools.3.label>head</GR_AnimusHare.tools.3.label>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <GR_AnimusHare_Corpse.label>animus hare corpse</GR_AnimusHare_Corpse.label>
+  <GR_AnimusHare_Corpse.description>animus hare corpse</GR_AnimusHare_Corpse.description>
+
+
+  <!-- Thrumbo -->
+
+  <GR_Nighthrumbo.label>nighthrumbo</GR_Nighthrumbo.label>
+  <GR_Nighthrumbo.description>The nighthrumbo is a fearsome predator. Armed with strong jaws and its horn, as well as ranged quill attacks, it will make quick work of any prey it decides to attack. It is also a nocturnal animal, sleeping during the day and being active at night.\n\nUseful abilities: Ranged quill attacks.</GR_Nighthrumbo.description>
+  <GR_Nighthrumbo.verbs.0.label>huge quill</GR_Nighthrumbo.verbs.0.label>
+  <GR_Nighthrumbo.tools.0.label>horn</GR_Nighthrumbo.tools.0.label>
+  <GR_Nighthrumbo.tools.1.label>left claw</GR_Nighthrumbo.tools.1.label>
+  <GR_Nighthrumbo.tools.2.label>right claw</GR_Nighthrumbo.tools.2.label>
+  <GR_Nighthrumbo.tools.4.label>head</GR_Nighthrumbo.tools.4.label>
+  <!-- Use Leather From: AA_Nightling -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Nighthrumbo_Corpse.label>nighthrumbo corpse</GR_Nighthrumbo_Corpse.label>
+  <GR_Nighthrumbo_Corpse.description>nighthrumbo corpse</GR_Nighthrumbo_Corpse.description>
+
+
+  <!-- Wolf -->
+
+  <GR_WolfShrimp.label>wolf shrimp</GR_WolfShrimp.label>
+  <GR_WolfShrimp.description>A terrifyingly alien creature, the wolf shrimp is keenly intelligent like its wolf forefather, slithering in blinding speed towards its prey.\n\nUseful abilities: Extremely fast regenerative capabilities.</GR_WolfShrimp.description>
+  <GR_WolfShrimp.tools.0.label>head</GR_WolfShrimp.tools.0.label>
+  <GR_WolfShrimp.tools.2.label>left blade</GR_WolfShrimp.tools.2.label>
+  <GR_WolfShrimp.tools.3.label>right blade</GR_WolfShrimp.tools.3.label>
+  <!-- Use Leather From: AA_RaptorShrimp -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_WolfShrimp_Corpse.label>wolf shrimp corpse</GR_WolfShrimp_Corpse.label>
+  <GR_WolfShrimp_Corpse.description>wolf shrimp corpse</GR_WolfShrimp_Corpse.description>
+
+
+</LanguageData>

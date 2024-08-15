@@ -1,120 +1,152 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: mechabear -->
+
+  <!-- Mechanoid - Bear -->
+
   <GR_Mechabear.label>机械熊</GR_Mechabear.label>
-  <!-- EN: This cybernetic beast has been mutated far beyond its original form. Heavily armoured to withstand heavy fire, and armed with a terrifying plasma cannon.\n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mechabear an effective weapons platform, akin to a rocket turret. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechabear.description>这种经过纳米机械改造的半机械野兽远比最初的形态更加强大。厚重的装甲能为它们挡下枪林弹雨，搭载的等离子加农炮也能有效摧毁敌人的防御工事。\n\n【原型基因】：熊类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械熊可以向敌人发射等离子爆破弹。</GR_Mechabear.description>
-  <!-- EN: head -->
-  <GR_Mechabear.tools.head.label>头</GR_Mechabear.tools.head.label>
-  <!-- EN: plasma burst -->
-  <GR_Mechabear.verbs.plasma_burst.label>等离子加农炮</GR_Mechabear.verbs.plasma_burst.label>
-  
-  <!-- EN: mechacat -->
-  <GR_Mechacat.label>机械猫</GR_Mechacat.label>
-  <!-- EN: The tail of this robotic creature has been crafted from an amalgamation of scyther blade structures and mechanite self-replicators. This allows the mechacat to use its tail as a throwable weapon, and quickly regenerate it to use it again. \n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mechacat capable of attacking with slashing attacks from a range. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechacat.description>机械猫的尾部结构与机械飞螳的镰刃十分相似。归功于纳米机械强大的自我复制能力，它们可以不断生成新的尾巴并射向敌人。\n\n【原型基因】：猫科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械猫可以向敌人发射自己的钐镰尾。</GR_Mechacat.description>
-  <!-- EN: head -->
-  <GR_Mechacat.tools.head.label>头</GR_Mechacat.tools.head.label>
-  <!-- EN: razor tail -->
-  <GR_Mechacat.verbs.razor_tail.label>钐镰尾</GR_Mechacat.verbs.razor_tail.label>
-  
-  <!-- EN: mecha-chicken -->
-  <GR_Mechachicken.label>机械鸡</GR_Mechachicken.label>
-  <!-- EN: This cybernetic organism is adept at reconnaissance and infiltration, due to its small size and speed. It is armed with a small sniper flechette gun. \n\n<color=#E5E54C>Gameplay effect:</color> Mechanoid hybrids are always created with a controller booster, making the mecha-chicken an effective weapons platform with very long range sniper attacks. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechachicken.description>这些体型小巧且行动迅速的半机械生物可是侦察与渗透方面的专家。它们搭载的小型钢镖狙击步枪可以无声无息地干掉远处的敌人。\n\n【原型基因】：禽类基因\n\n【基本特征】：野性高，可训练度高，移动速度快，能产机械蛋。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械鸡可以向敌人发射钢镖狙击弹。</GR_Mechachicken.description>
-  <!-- EN: head -->
-  <GR_Mechachicken.tools.head.label>头</GR_Mechachicken.tools.head.label>
-  <!-- EN: sniper flechette -->
-  <GR_Mechachicken.verbs.sniper_flechette.label>钢镖狙击弹</GR_Mechachicken.verbs.sniper_flechette.label>
-  
-  <!-- EN: mecha-horse -->
-  <GR_Mechahorse.label>机械马</GR_Mechahorse.label>
-  <!-- EN: More machine than horse, the mecha-horse has an agile frame covered by ablative panels. Though well-liked by riders for its speed and agility, it has a significant design flaw: it heats up considerably during extended travels, needing to periodically vent excess heated air generated on their internal machinery.\n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mecha-horse capable of using its "vent heated exhaust" ability to scorch enemies on the surrounding tiles. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechahorse.description>机械马的整体结构相当高级：纳米机械已将它们的主体骨架改造成了阻力更小的流线型设计，身上则覆有轻巧与坚固兼备的抗烧蚀装甲板。虽然它们的迅捷赢得了骑手们的青睐，但冷却系统上的一些小小缺陷使它们必须在长距离移动时定期停下来，以排出内部积攒的高热气体。\n\n【原型基因】：马类基因\n\n【基本特征】：野性高，可训练度高，能驮运，能骑乘，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械马拥有特殊技能“热气排出”。</GR_Mechahorse.description>
-  <!-- EN: head -->
-  <GR_Mechahorse.tools.head.label>头</GR_Mechahorse.tools.head.label>
-  <!-- EN: left hoof -->
-  <GR_Mechahorse.tools.left_hoof.label>左蹄</GR_Mechahorse.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <GR_Mechahorse.tools.right_hoof.label>右蹄</GR_Mechahorse.tools.right_hoof.label>
-  
-  <!-- EN: mechalope -->
+  <GR_Mechabear.description>这种经过纳米机械改造的半机械野兽远比最初的形态更加强大。厚重的装甲能为它们挡下枪林弹雨，搭载的等离子加农炮也能有效摧毁敌人的防御工事。\n\n【原型基因】：熊类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械熊可以向敌人发射等离子爆破弹。</GR_Mechabear.description>
+  <GR_Mechabear.verbs.0.label>plasma burst</GR_Mechabear.verbs.0.label>
+  <GR_Mechabear.tools.0.label>head</GR_Mechabear.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechabear_Corpse.label>mechabear corpse</GR_Mechabear_Corpse.label>
+  <GR_Mechabear_Corpse.description>mechabear corpse</GR_Mechabear_Corpse.description>
+
+
+  <!-- Mechanoid - Boomalope -->
+
   <GR_Mechalope.label>机械爆炸羊</GR_Mechalope.label>
-  <!-- EN: This cybernetic boomalope has been outfitted with four mechanized chemfuel reservoirs. The creature can use these reservoirs to produce a jet of burning fuel similar to a flamethrower, not incredibly harmful, but perfect for starting huge fires.\n\n<color=#E5E54C>Gameplay effect:</color> Mechanoid hybrids are always created with a controller booster, making the mechalope an effective weapons platform, akin to a flamethrower. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechalope.description>机械爆炸羊的背部搭载了四台化合燃料贮存器。借助这些装置，它们可以尽情地向敌人喷射火焰。虽然伤害有限，但也足以制造出很难扑灭的大火。\n\n【原型基因】：爆炸基因\n\n【基本特征】：野性高，可训练度高，能产化合燃料。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n机械爆炸羊可以向敌人喷射火焰。</GR_Mechalope.description>
-  <!-- EN: head -->
-  <GR_Mechalope.tools.head.label>头</GR_Mechalope.tools.head.label>
-  <!-- EN: chemfuel flamethrower -->
-  <GR_Mechalope.verbs.chemfuel_flamethrower.label>火焰喷射</GR_Mechalope.verbs.chemfuel_flamethrower.label>
-  
-  <!-- EN: mecha-mime -->
-  <GR_Mechamime.label>机械小丑</GR_Mechamime.label>
-  <!-- EN: The ultimate violation of all ethical concerns in genetic engineering: a humanlike mechanoid creature with obvious malevolence. Created by warping humanoid genes into a dangerous Mime, and then further modifying it with self-replicating mechanites by using forgotten technology, the mecha-mime will need to be kept in a short leash, lest its IFF system goes haywire and decides to enact its very own judgement day.\n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster. The mecha-mime has lost the infiltration abilities of a regular mime, but in exchange it possesses a powerful spatial warping cannon that ignores enemy's armor. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control.\n\n<color=#E5E54C>Warning:</color> A mecha-mime's IFF sensors will fail in only 2 days, instead of 5. -->
-  <GR_Mechamime.description>那些星际道德伦理委员会的成员们或许会被这种半机械生物吓得半死：这些罪恶的集合体显然对人类抱有明显的敌意。他们完全就是小丑（来自Alpha Animals的生物）的改进增强版，虽然没有了原本的渗透伪装能力，但其手上搭载的空间扭曲加农炮可以轻易毁灭任何挡路的敌人。如果不能加以控制这些机械小丑，他们很快就会像“终结者”一样对殖民地降下审判日。\n\n【原型基因】：人类基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械小丑的敌我识别系统需要进行更频繁的更新同步，如果缺少机械生物信号塔，他们最终会在2天后陷入“猎杀人类”的狂暴状态。他们可以向敌人发射威力巨大的空间扭曲弹。</GR_Mechamime.description>
-  <!-- EN: left fist -->
-  <GR_Mechamime.tools.left_fist.label>左拳</GR_Mechamime.tools.left_fist.label>
-  <!-- EN: right fist -->
-  <GR_Mechamime.tools.right_fist.label>右拳</GR_Mechamime.tools.right_fist.label>
-  <!-- EN: teeth -->
-  <GR_Mechamime.tools.teeth.label>牙齿</GR_Mechamime.tools.teeth.label>
-  <!-- EN: head -->
-  <GR_Mechamime.tools.head.label>头</GR_Mechamime.tools.head.label>
-  <!-- EN: spatial distortion -->
-  <GR_Mechamime.verbs.spatial_distortion.label>空间扭曲弹</GR_Mechamime.verbs.spatial_distortion.label>
-  
-  <!-- EN: mecha-muffalo -->
-  <GR_Mechamuffalo.label>机械雪牛</GR_Mechamuffalo.label>
-  <!-- EN: This hulking cybernetic organism has been reinforced with an adaptive plasteel mesh, enabling it to carry an incredible amount of stuff. The mecha-muffalo is the perfect pack animal, but it is quite useless in an offensive role. Defensively, however, it is armed with a smoke cannon that it can use to cover the battlefield in a dense cloud of dust.\n\n<color=#E5E54C>Gameplay effect:</color> Mechanoid hybrids are always created with a controller booster, making the mecha-muffalo capable of laying a screen of smoke for defensive purposes. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechamuffalo.description>得益于纳米机械的全面改造，这些半机械生物能够驮起相当数量的货物。虽然缺乏强力的进攻型武器，但其搭载的烟雾弹加农炮也能在战斗中发挥不小的辅助作用。虽然听起来有些奇怪，但机械雪牛还能产出机械奶与机械毛。\n\n【原型基因】：雪牛基因\n\n【基本特征】：野性高，可训练度高，能驮运，能产奶和毛。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械雪牛可以发射烟雾弹。</GR_Mechamuffalo.description>
-  <!-- EN: head -->
-  <GR_Mechamuffalo.tools.head.label>头</GR_Mechamuffalo.tools.head.label>
-  <!-- EN: smoke cannon -->
-  <GR_Mechamuffalo.verbs.smoke_cannon.label>烟雾弹</GR_Mechamuffalo.verbs.smoke_cannon.label>
-  
-  <!-- EN: mecha-rat -->
-  <GR_Mecharat.label>机械鼠</GR_Mecharat.label>
-  <!-- EN: This tiny cybernetic organism can be mass-produced as a kind of "suicide weapon". It is very fast, and armed with a short ranged stun gun, so hordes of mecha-rats can be sent to the front lines to keep enemies stunned and in check. \n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, allowing the colonists to send the mecha-rat to the front lines to quickly stun enemies. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mecharat.description>机械鼠是非常适合大批量生产的“自杀式武器”。这些小巧敏捷的家伙可以快速接近敌人身旁，并用搭载的电击枪麻痹他们。\n\n【原型基因】：啮齿类/兔类基因\n\n【基本特征】：野性高，可训练度中等，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械鼠可以向敌人发射电击弹。</GR_Mecharat.description>
-  <!-- EN: head -->
-  <GR_Mecharat.tools.head.label>头</GR_Mecharat.tools.head.label>
-  <!-- EN: stun bolt -->
-  <GR_Mecharat.verbs.stun_bolt.label>电击弹</GR_Mecharat.verbs.stun_bolt.label>
-  
-  <!-- EN: mechaspider -->
+  <GR_Mechalope.description>机械爆炸羊的背部搭载了四台化合燃料贮存器。借助这些装置，它们可以尽情地向敌人喷射火焰。虽然伤害有限，但也足以制造出很难扑灭的大火。\n\n【原型基因】：爆炸基因\n\n【基本特征】：野性高，可训练度高，能产化合燃料。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n机械爆炸羊可以向敌人喷射火焰。</GR_Mechalope.description>
+  <GR_Mechalope.verbs.0.label>chemfuel flamethrower</GR_Mechalope.verbs.0.label>
+  <GR_Mechalope.tools.0.label>head</GR_Mechalope.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechalope_Corpse.label>mechalope corpse</GR_Mechalope_Corpse.label>
+  <GR_Mechalope_Corpse.description>mechalope corpse</GR_Mechalope_Corpse.description>
+
+
+  <!-- Mechanoid - Chicken -->
+
+  <GR_Mechachicken.label>机械鸡</GR_Mechachicken.label>
+  <GR_Mechachicken.description>这些体型小巧且行动迅速的半机械生物可是侦察与渗透方面的专家。它们搭载的小型钢镖狙击步枪可以无声无息地干掉远处的敌人。\n\n【原型基因】：禽类基因\n\n【基本特征】：野性高，可训练度高，移动速度快，能产机械蛋。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械鸡可以向敌人发射钢镖狙击弹。</GR_Mechachicken.description>
+  <GR_Mechachicken.verbs.0.label>sniper flechette</GR_Mechachicken.verbs.0.label>
+  <GR_Mechachicken.tools.0.label>head</GR_Mechachicken.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechachicken_Corpse.label>mecha-chicken corpse</GR_Mechachicken_Corpse.label>
+  <GR_Mechachicken_Corpse.description>mecha-chicken corpse</GR_Mechachicken_Corpse.description>
+
+
+  <!-- Mechanoid - Insectoid -->
+
   <GR_Mechaspider.label>机械蛛</GR_Mechaspider.label>
-  <!-- EN: This cybernetic organism has traits from both its insectoid and mechanoid origins. The mechaspider is armed with a powerful twin-coiled laser machine gun, perfect to obliterate enemies in a rain of laser fire.\n\n<color=#E5E54C>Gameplay effect:</color> Mechanoid hybrids are always created with a controller booster, making the mechaspider an effective weapons platform with a very high fire rate. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechaspider.description>这些半机械生物身上搭载威力十足的双联激光机枪，任何胆敢靠近的敌人都会被它们射成筛子。天哪，我的蜘蛛恐惧症又要发作了。\n\n【原型基因】：虫族基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械蛛可以用搭载的双联激光机枪扫射敌人。</GR_Mechaspider.description>
-  <!-- EN: head -->
-  <GR_Mechaspider.tools.head.label>头</GR_Mechaspider.tools.head.label>
-  <!-- EN: twin-coiled laser -->
-  <GR_Mechaspider.verbs.twincoiled_laser.label>激光扫射</GR_Mechaspider.verbs.twincoiled_laser.label>
-  
-  <!-- EN: mechathrumbo -->
-  <GR_Mechathrumbo.label>机械敲击兽</GR_Mechathrumbo.label>
-  <!-- EN: This hulking cybernetic behemoth is why you don't need tanks in the Rim. Its huge plasteel carapace hides a miniaturized synchrotron that constantly generates small amounts of antimatter, which is instantly used to fill a miniature antigrain warhead. Slow, but quite effective.\n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mechathrumbo effective mobile artillery. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechathrumbo.description>为什么边缘世界中没有坦克？因为我们有机械敲击兽。它们厚重的玻璃钢装甲板保护着内部的质子同步加速器，这种装置可以源源不断地为其背部的大口径火炮产出威力惊人的反粒子弹头。\n\n【原型基因】：秘兽基因\n\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械敲击兽向敌人发射反粒子弹头。</GR_Mechathrumbo.description>
-  <!-- EN: head -->
-  <GR_Mechathrumbo.tools.head.label>头</GR_Mechathrumbo.tools.head.label>
-  <!-- EN: antigrain artillery -->
-  <GR_Mechathrumbo.verbs.antigrain_artillery.label>反粒子弹头</GR_Mechathrumbo.verbs.antigrain_artillery.label>
-  
-  <!-- EN: mechaturtle -->
+  <GR_Mechaspider.description>这些半机械生物身上搭载威力十足的双联激光机枪，任何胆敢靠近的敌人都会被它们射成筛子。天哪，我的蜘蛛恐惧症又要发作了。\n\n【原型基因】：虫族基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械蛛可以用搭载的双联激光机枪扫射敌人。</GR_Mechaspider.description>
+  <GR_Mechaspider.verbs.0.label>twin-coiled laser</GR_Mechaspider.verbs.0.label>
+  <GR_Mechaspider.tools.0.label>head</GR_Mechaspider.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechaspider_Corpse.label>mechaspider corpse</GR_Mechaspider_Corpse.label>
+  <GR_Mechaspider_Corpse.description>mechaspider corpse</GR_Mechaspider_Corpse.description>
+
+
+  <!-- Mechanoid - Muffalo -->
+
+  <GR_Mechamuffalo.label>机械雪牛</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.description>得益于纳米机械的全面改造，这些半机械生物能够驮起相当数量的货物。虽然缺乏强力的进攻型武器，但其搭载的烟雾弹加农炮也能在战斗中发挥不小的辅助作用。虽然听起来有些奇怪，但机械雪牛还能产出机械奶与机械毛。\n\n【原型基因】：雪牛基因\n\n【基本特征】：野性高，可训练度高，能驮运，能产奶和毛。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械雪牛可以发射烟雾弹。</GR_Mechamuffalo.description>
+  <GR_Mechamuffalo.verbs.0.label>smoke cannon</GR_Mechamuffalo.verbs.0.label>
+  <GR_Mechamuffalo.tools.0.label>head</GR_Mechamuffalo.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechamuffalo_Corpse.label>mecha-muffalo corpse</GR_Mechamuffalo_Corpse.label>
+  <GR_Mechamuffalo_Corpse.description>mecha-muffalo corpse</GR_Mechamuffalo_Corpse.description>
+
+
+  <!-- Mechanoid - Rodent -->
+
+  <GR_Mecharat.label>机械鼠</GR_Mecharat.label>
+  <GR_Mecharat.description>机械鼠是非常适合大批量生产的“自杀式武器”。这些小巧敏捷的家伙可以快速接近敌人身旁，并用搭载的电击枪麻痹他们。\n\n【原型基因】：啮齿类/兔类基因\n\n【基本特征】：野性高，可训练度中等，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械鼠可以向敌人发射电击弹。</GR_Mecharat.description>
+  <GR_Mecharat.verbs.0.label>stun bolt</GR_Mecharat.verbs.0.label>
+  <GR_Mecharat.tools.0.label>head</GR_Mecharat.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mecharat_Corpse.label>mecha-rat corpse</GR_Mecharat_Corpse.label>
+  <GR_Mecharat_Corpse.description>mecha-rat corpse</GR_Mecharat_Corpse.description>
+
+
+  <!-- Mechanoid - Reptile -->
+
   <GR_Mechaturtle.label>机械龟</GR_Mechaturtle.label>
-  <!-- EN: This slow, cybernetic beast is heavily armoured with a plasteel-encased biomechanical shell. It is armed with a poison spitting cannon.\n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mechaturtle an effective weapons platform that fires venomous projectiles. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechaturtle.description>作为一种攻守兼备的半机械生物，机械龟不仅拥有极其坚固的玻璃钢装甲壳，其搭载的毒素加农炮也能对敌人造成可观的伤害。\n\n【原型基因】：爬行类基因\n\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械龟可以向敌人发射毒素弹。</GR_Mechaturtle.description>
-  <!-- EN: head -->
-  <GR_Mechaturtle.tools.head.label>头</GR_Mechaturtle.tools.head.label>
-  <!-- EN: poison blast -->
-  <GR_Mechaturtle.verbs.poison_blast.label>毒素弹</GR_Mechaturtle.verbs.poison_blast.label>
-  
-  <!-- EN: mechawolf -->
+  <GR_Mechaturtle.description>作为一种攻守兼备的半机械生物，机械龟不仅拥有极其坚固的玻璃钢装甲壳，其搭载的毒素加农炮也能对敌人造成可观的伤害。\n\n【原型基因】：爬行类基因\n\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械龟可以向敌人发射毒素弹。</GR_Mechaturtle.description>
+  <GR_Mechaturtle.verbs.0.label>poison blast</GR_Mechaturtle.verbs.0.label>
+  <GR_Mechaturtle.tools.0.label>head</GR_Mechaturtle.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechaturtle_Corpse.label>mechaturtle corpse</GR_Mechaturtle_Corpse.label>
+  <GR_Mechaturtle_Corpse.description>mechaturtle corpse</GR_Mechaturtle_Corpse.description>
+
+
+  <!-- Mechanoid - Wolf -->
+
   <GR_Mechawolf.label>机械狼</GR_Mechawolf.label>
-  <!-- EN: This cybernetic beast has been augmented with a powerful synthetic structure capable of generating waves of cryogenic liquid. \n\n<color=#E5E54C>Gameplay effect:</color>Mechanoid hybrids are always created with a controller booster, making the mechawolf an effective weapons platform that fires frost projectiles. Mechanoid hybrids need very little food or rest, don't have psychic or toxic sensitivity, and have devastating ranged attacks. They have however high wildness, making them harder to keep tamed, and they will need a mechahybrid antenna to be built somewhere on the planet, or their IFF sensors will malfunction in 5 days. One antenna is needed for each five mech hybrids under the colony's control. -->
-  <GR_Mechawolf.description>在充分解析了犬科生物的身体构造后，纳米机械额外为这种半机械生物加装了液氮合成装置与一门低温加农炮。现在，是时候该让敌人尝尝极寒的滋味了。\n\n【原型基因】：犬科基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械狼可以向敌人发射低温弹。</GR_Mechawolf.description>
-  <!-- EN: head -->
-  <GR_Mechawolf.tools.head.label>头</GR_Mechawolf.tools.head.label>
-  <!-- EN: cryo cannon -->
-  <GR_Mechawolf.verbs.cryo_cannon.label>低温弹</GR_Mechawolf.verbs.cryo_cannon.label>
-  
+  <GR_Mechawolf.description>在充分解析了犬科生物的身体构造后，纳米机械额外为这种半机械生物加装了液氮合成装置与一门低温加农炮。现在，是时候该让敌人尝尝极寒的滋味了。\n\n【原型基因】：犬科基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械狼可以向敌人发射低温弹。</GR_Mechawolf.description>
+  <GR_Mechawolf.verbs.0.label>cryo cannon</GR_Mechawolf.verbs.0.label>
+  <GR_Mechawolf.tools.0.label>head</GR_Mechawolf.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechawolf_Corpse.label>mechawolf corpse</GR_Mechawolf_Corpse.label>
+  <GR_Mechawolf_Corpse.description>mechawolf corpse</GR_Mechawolf_Corpse.description>
+
+
+  <!-- Mechanoid - Thrumbo -->
+
+  <GR_Mechathrumbo.label>机械敲击兽</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.description>为什么边缘世界中没有坦克？因为我们有机械敲击兽。它们厚重的玻璃钢装甲板保护着内部的质子同步加速器，这种装置可以源源不断地为其背部的大口径火炮产出威力惊人的反粒子弹头。\n\n【原型基因】：秘兽基因\n\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械敲击兽向敌人发射反粒子弹头。</GR_Mechathrumbo.description>
+  <GR_Mechathrumbo.verbs.0.label>antigrain artillery</GR_Mechathrumbo.verbs.0.label>
+  <GR_Mechathrumbo.tools.0.label>head</GR_Mechathrumbo.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechathrumbo_Corpse.label>mechathrumbo corpse</GR_Mechathrumbo_Corpse.label>
+  <GR_Mechathrumbo_Corpse.description>mechathrumbo corpse</GR_Mechathrumbo_Corpse.description>
+
+
+  <!-- Mechanoid - Cat -->
+
+  <GR_Mechacat.label>机械猫</GR_Mechacat.label>
+  <GR_Mechacat.description>机械猫的尾部结构与机械飞螳的镰刃十分相似。归功于纳米机械强大的自我复制能力，它们可以不断生成新的尾巴并射向敌人。\n\n【原型基因】：猫科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械猫可以向敌人发射自己的钐镰尾。</GR_Mechacat.description>
+  <GR_Mechacat.verbs.0.label>razor tail</GR_Mechacat.verbs.0.label>
+  <GR_Mechacat.tools.0.label>head</GR_Mechacat.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechacat_Corpse.label>mechacat corpse</GR_Mechacat_Corpse.label>
+  <GR_Mechacat_Corpse.description>mechacat corpse</GR_Mechacat_Corpse.description>
+
+
+  <!-- Mechanoid - Horse -->
+
+  <GR_Mechahorse.label>机械马</GR_Mechahorse.label>
+  <GR_Mechahorse.description>机械马的整体结构相当高级：纳米机械已将它们的主体骨架改造成了阻力更小的流线型设计，身上则覆有轻巧与坚固兼备的抗烧蚀装甲板。虽然它们的迅捷赢得了骑手们的青睐，但冷却系统上的一些小小缺陷使它们必须在长距离移动时定期停下来，以排出内部积攒的高热气体。\n\n【原型基因】：马类基因\n\n【基本特征】：野性高，可训练度高，能驮运，能骑乘，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械马拥有特殊技能“热气排出”。</GR_Mechahorse.description>
+  <GR_Mechahorse.tools.0.label>head</GR_Mechahorse.tools.0.label>
+  <GR_Mechahorse.tools.1.label>left hoof</GR_Mechahorse.tools.1.label>
+  <GR_Mechahorse.tools.2.label>right hoof</GR_Mechahorse.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechahorse_Corpse.label>mecha-horse corpse</GR_Mechahorse_Corpse.label>
+  <GR_Mechahorse_Corpse.description>mecha-horse corpse</GR_Mechahorse_Corpse.description>
+
+
+  <!-- Mechanoid - Humanoid -->
+
+  <GR_Mechamime.label>机械小丑</GR_Mechamime.label>
+  <GR_Mechamime.description>那些星际道德伦理委员会的成员们或许会被这种半机械生物吓得半死：这些罪恶的集合体显然对人类抱有明显的敌意。他们完全就是小丑（来自Alpha Animals的生物）的改进增强版，虽然没有了原本的渗透伪装能力，但其手上搭载的空间扭曲加农炮可以轻易毁灭任何挡路的敌人。如果不能加以控制这些机械小丑，他们很快就会像“终结者”一样对殖民地降下审判日。\n\n【原型基因】：人类基因\n\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;机械生物可以被直接征召。它们几乎不需要休息与进食，也不会受到心灵攻击、毒物和EMP的影响，但极高的野性无疑增大了训练它们的难度。如果没有处于机械生物信号塔的控制下，它们体内的自我复制型纳米机械将无法及时认证友方单位和更新同步敌我识别系统，最终会在5天后陷入“猎杀人类”的狂暴状态。\n\n机械小丑的敌我识别系统需要进行更频繁的更新同步，如果缺少机械生物信号塔，他们最终会在2天后陷入“猎杀人类”的狂暴状态。他们可以向敌人发射威力巨大的空间扭曲弹。</GR_Mechamime.description>
+  <GR_Mechamime.verbs.0.label>spatial distortion</GR_Mechamime.verbs.0.label>
+  <GR_Mechamime.tools.0.label>left fist</GR_Mechamime.tools.0.label>
+  <GR_Mechamime.tools.1.label>right fist</GR_Mechamime.tools.1.label>
+  <GR_Mechamime.tools.2.label>teeth</GR_Mechamime.tools.2.label>
+  <GR_Mechamime.tools.3.label>head</GR_Mechamime.tools.3.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <GR_Mechamime_Corpse.label>mecha-mime corpse</GR_Mechamime_Corpse.label>
+  <GR_Mechamime_Corpse.description>mecha-mime corpse</GR_Mechamime_Corpse.description>
+
+
 </LanguageData>

@@ -1,71 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: beaverwolf -->
-  <GR_Beaverwolf.label>狼海狸</GR_Beaverwolf.label>
-  <!-- EN: An incredibly quick - mentally and physically - hunter with an overactive castoreum gland, effectively allowing them to actively convert meat and trees into vegetables. Technically vegans should be fine with it since, much like bees, it needs to be harvested and the beaverwolf will absolutely let you know if it doesn’t like you touching it.\n\nA rodent hybrid with recessive canine genes. A very quick but cautious predator, this hybrid is both intelligent and frequently looking for its next meal. Able to freely roam and doesn’t require a pen, they are both carnivorous and dendrovorous while also offering daily harvests of castoreum which functions as a vegetable in dishes.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Beaverwolf.description>狼海狸是一种头脑和身体反应速度都很快的捕食者。它们体内的香腺异常发达，能够有效地将吃下去的肉类和树木转化成素食。鉴于这种过程就像蜜蜂产蜜一样，大部分素食主义者都不会抱有意见。如果狼海狸不喜欢被人抚摸的话，它们一定会用自己锋利的爪牙好好给你上一课的。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快，繁殖速度快，能产狼海狸香。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>狼海狸产出的狼海狸香可以当做素食使用。</GR_Beaverwolf.description>
-  <!-- EN: left claw -->
-  <GR_Beaverwolf.tools.left_claw.label>左爪</GR_Beaverwolf.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Beaverwolf.tools.right_claw.label>右爪</GR_Beaverwolf.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Beaverwolf.tools.head.label>头</GR_Beaverwolf.tools.head.label>
-  
-  <!-- EN: molebear -->
+
+  <!-- Rodent - Bear -->
+
   <GR_Molebear.label>熊鼹鼠</GR_Molebear.label>
-  <!-- EN: Far too independent to be a combat animal but certainly can both dish out and take pain. Works best in the background, minding its own business and digging up metals it finds. No one is really sure why but it probably has to do with those massive whiskers.\n\nA rodent hybrid with recessive ursine genes. An independent predator with a very low metabolism and high toughness. Has an unusual behaviour where it’ll periodically dig for treasures, typically raw metals.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Molebear.description>由于天性桀骜不驯，熊鼹鼠无法担当起战斗型生物的职责。不过，它们却很擅长从地里挖出各种各样的金属。没人知道它们是怎么做到的，但很可能与那些又粗又长的胡须有关系。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>熊鼹鼠偶尔能从地里挖出一些有用的金属材料。</GR_Molebear.description>
-  <!-- EN: left claw -->
-  <GR_Molebear.tools.left_claw.label>左爪</GR_Molebear.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Molebear.tools.right_claw.label>右爪</GR_Molebear.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Molebear.tools.head.label>头</GR_Molebear.tools.head.label>
-  
-  <!-- EN: moleman -->
-  <GR_Moleman.label>人鼹鼠</GR_Moleman.label>
-  <!-- EN: A hulking monstrosity that is genuinely caring for those around them, taking great joy and actual personal pleasure through working diligently and caring for those it considers friends and family. Evidently, it was bred specifically by megacorporations to work in dangerous mines, because human greed never changes.\n\nA rodent hybrid with recessive humanoid genes. Very low hunger rate and very intelligent, these gentle giants enjoy digging with their hands. They will sometimes work mining orders given the chance but they’re very slow due to their bulk.\n\n<color=#E5E54C>Gameplay effect:</color> Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. Molemen will periodically obey commands to mine. This will also work with the Quarry mod. -->
-  <GR_Moleman.description>虽然其貌不扬，但人鼹鼠生性勤恳，他们一直都在发自真心地关爱那些被自己认定为家人和朋友的人。工作向来不是什么轻松的事情，不过他们却仍常以笑容待人。毫无疑问，这些混种生物是由多家巨企为了廉价的采矿劳动力而创造出来的。人类贪婪的本性自始至终都毫无变化。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：人类基因\n【基本特征】：野性较高，可训练度高，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人鼹鼠偶尔会执行已指派的“采矿”指令。兼容Quarry（采石场）mod。</GR_Moleman.description>
-  <!-- EN: left claw -->
-  <GR_Moleman.tools.left_claw.label>左爪</GR_Moleman.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Moleman.tools.right_claw.label>右爪</GR_Moleman.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Moleman.tools.head.label>头</GR_Moleman.tools.head.label>
-  
-  <!-- EN: rabbitcat -->
-  <GR_Rabbitcat.label>猫兔</GR_Rabbitcat.label>
-  <!-- EN: For a combination of two relatively small animals, the rabbitcat is fucking massive and has a robust physique. It knows no fear and will tackle anything it wants to eat. Some say this was the other attempt to create the Rabbit of Caerbannog, because who says geneticists don’t have a sick sense of humour.\n\nA rodent hybrid with recessive feline genes. Very intelligent considering the source material, these hybrids are fast, lethal and possess a robust physique with rapid natural regenerative capabilities. Quite stubborn so they require frequent, competent training but they aren’t afraid to show their appreciation.\n\n<color=#E5E54C>Gameplay effect:</color> Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Rabbitcat.description>作为兔子与猫咪这两种小体型生物的结合，猫兔未免有些太壮了点。这些无所畏惧的大家伙也异常执拗，他们看上的猎物无论如何也要捉到。有传言称，猫兔是为了再现“杀人兔”所创造出的实验样品之一，而立项的契机仅仅是有人嘲讽这些基因科学家一点病态的幽默感都没有。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，可训练度高，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫兔拥有一定的自愈再生能力。</GR_Rabbitcat.description>
-  <!-- EN: left claw -->
-  <GR_Rabbitcat.tools.left_claw.label>左爪</GR_Rabbitcat.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Rabbitcat.tools.right_claw.label>右爪</GR_Rabbitcat.tools.right_claw.label>
-  
-  <!-- EN: rabbitchicken -->
-  <GR_Rabbitchicken.label>鸡兔</GR_Rabbitchicken.label>
-  <!-- EN: Legends say of an ancient and vicious monster, a creature so foul, so cruel that no man yet has fought with it and lived. This was a somewhat successful attempt, as its weakness lulls the enemy into a false sense of security so that it can rip their throat out. So do you feel lucky, punk?\n\nA rodent hybrid with recessive avian genes. A tiny, weak, fast-moving pest with an insane appetite for its size. Incredibly fast gestation period and a 1% chance to instantly kill when attacking.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Rabbitchicken.description>鸡兔柔弱娇小的外表下，隐藏着另一幅极为凶狠的面孔。在敌人对这些小家伙放松警惕时，它们便会突然暴起并撕裂他们的喉咙。即使有个人侥幸活了下来，你也可以拿枪指着他的头说：“扪心自问，你觉得自己很幸运吗，崽种？”\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：禽类基因\n【基本特征】：食量大，野性高，可训练度中等，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>鸡兔在攻击时有1%的几率即死对方。</GR_Rabbitchicken.description>
-  <!-- EN: head -->
-  <GR_Rabbitchicken.tools.head.label>头</GR_Rabbitchicken.tools.head.label>
-  
-  <!-- EN: ratffalo -->
-  <GR_Ratffalo.label>雪牛鼠</GR_Ratffalo.label>
-  <!-- EN: An interesting pack animal that packs an incredible punch that also pisses and shits everywhere. That ain’t even the worst part, because these rodents of unusual size are also plague carriers with complete immunity to toxicity. Sometimes scientists just can’t leave well enough alone.\n\nA rodent hybrid with recessive muffalo genes. Quite clever, almost absurdly lethal and quick on its feet. While they are herbivores, they will still happily munch on corpses thanks to their large appetite. Not as short a gestation period compared to other primary rodent hybrids, but every bite transmits the plague.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Ratffalo.description>雪牛鼠是一种有趣的驮运动物。它们虽然是草食性，但对尸体也来者不拒。如果你觉得这些大老鼠喜欢到处排泄的习惯不够糟的话，它们还可以用带有瘟疫病菌的牙齿来夺走其它生物的性命。有时候，科学家们就是很喜欢画蛇添足。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：雪牛基因\n【基本特征】：食量大，野性高，可训练度中等，移动速度快，繁殖速度快，能驮运。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>被雪牛鼠咬伤的生物会患上瘟疫。</GR_Ratffalo.description>
-  <!-- EN: head -->
-  <GR_Ratffalo.tools.head.label>头</GR_Ratffalo.tools.head.label>
-  
-  <!-- EN: squirralope -->
+  <GR_Molebear.description>由于天性桀骜不驯，熊鼹鼠无法担当起战斗型生物的职责。不过，它们却很擅长从地里挖出各种各样的金属。没人知道它们是怎么做到的，但很可能与那些又粗又长的胡须有关系。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;熊鼹鼠偶尔能从地里挖出一些有用的金属材料。</GR_Molebear.description>
+  <GR_Molebear.tools.0.label>left claw</GR_Molebear.tools.0.label>
+  <GR_Molebear.tools.1.label>right claw</GR_Molebear.tools.1.label>
+  <GR_Molebear.tools.3.label>head</GR_Molebear.tools.3.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Molebear_Corpse.label>molebear corpse</GR_Molebear_Corpse.label>
+  <GR_Molebear_Corpse.description>molebear corpse</GR_Molebear_Corpse.description>
+
+
+  <!-- Rodent - Boomalope -->
+
   <GR_Squirralope.label>爆炸松鼠</GR_Squirralope.label>
-  <!-- EN: It’s small, it’s cute, it’s a ticking time bomb waiting for some idiot to think it looks delicious. It’s not going to be a big explosion, but that doesn’t matter much when it’s in your mouth.\n\nA rodent hybrid with recessive boomalope genes. Small, weak but fast, this hybrid suits those looking for a fuel production method in a small package. Produces chemfuel much more efficiently compared to a boomalope but it needs to be milked every day.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. -->
-  <GR_Squirralope.description>这些可爱的小家伙就像颗定时炸弹一样，任何试图捕猎它们的蠢蛋都会为此付出代价。虽然它们的爆炸范围不大，但在被捕食者吞下后，这点显得就没那么重要了。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，移动速度快，繁殖速度快，能产化合燃料，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸松鼠死亡后产生的爆炸范围更小。</GR_Squirralope.description>
-  <!-- EN: left claw -->
-  <GR_Squirralope.tools.left_claw.label>左爪</GR_Squirralope.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Squirralope.tools.right_claw.label>右爪</GR_Squirralope.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Squirralope.tools.head.label>头</GR_Squirralope.tools.head.label>
-  
+  <GR_Squirralope.description>这些可爱的小家伙就像颗定时炸弹一样，任何试图捕猎它们的蠢蛋都会为此付出代价。虽然它们的爆炸范围不大，但在被捕食者吞下后，这点显得就没那么重要了。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：爆炸基因\n【基本特征】：野性高，移动速度快，繁殖速度快，能产化合燃料，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n爆炸松鼠死亡后产生的爆炸范围更小。</GR_Squirralope.description>
+  <GR_Squirralope.tools.0.label>left claw</GR_Squirralope.tools.0.label>
+  <GR_Squirralope.tools.1.label>right claw</GR_Squirralope.tools.1.label>
+  <GR_Squirralope.tools.3.label>head</GR_Squirralope.tools.3.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Squirralope_Corpse.label>squirralope corpse</GR_Squirralope_Corpse.label>
+  <GR_Squirralope_Corpse.description>squirralope corpse</GR_Squirralope_Corpse.description>
+
+
+  <!-- Rabbit - Chicken -->
+
+  <GR_Rabbitchicken.label>鸡兔</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.description>鸡兔柔弱娇小的外表下，隐藏着另一幅极为凶狠的面孔。在敌人对这些小家伙放松警惕时，它们便会突然暴起并撕裂他们的喉咙。即使有个人侥幸活了下来，你也可以拿枪指着他的头说：“扪心自问，你觉得自己很幸运吗，崽种？”\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：禽类基因\n【基本特征】：食量大，野性高，可训练度中等，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;鸡兔在攻击时有1%的几率即死对方。</GR_Rabbitchicken.description>
+  <GR_Rabbitchicken.tools.1.label>head</GR_Rabbitchicken.tools.1.label>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <GR_Rabbitchicken_Corpse.label>rabbitchicken corpse</GR_Rabbitchicken_Corpse.label>
+  <GR_Rabbitchicken_Corpse.description>rabbitchicken corpse</GR_Rabbitchicken_Corpse.description>
+
+
+  <!-- Rat - Muffalo -->
+
+  <GR_Ratffalo.label>雪牛鼠</GR_Ratffalo.label>
+  <GR_Ratffalo.description>雪牛鼠是一种有趣的驮运动物。它们虽然是草食性，但对尸体也来者不拒。如果你觉得这些大老鼠喜欢到处排泄的习惯不够糟的话，它们还可以用带有瘟疫病菌的牙齿来夺走其它生物的性命。有时候，科学家们就是很喜欢画蛇添足。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：雪牛基因\n【基本特征】：食量大，野性高，可训练度中等，移动速度快，繁殖速度快，能驮运。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;被雪牛鼠咬伤的生物会患上瘟疫。</GR_Ratffalo.description>
+  <GR_Ratffalo.tools.1.label>head</GR_Ratffalo.tools.1.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Ratffalo_Corpse.label>ratffalo corpse</GR_Ratffalo_Corpse.label>
+  <GR_Ratffalo_Corpse.description>ratffalo corpse</GR_Ratffalo_Corpse.description>
+
+
+  <!-- Beaver - Wolf -->
+
+  <GR_Beaverwolf.label>狼海狸</GR_Beaverwolf.label>
+  <GR_Beaverwolf.description>狼海狸是一种头脑和身体反应速度都很快的捕食者。它们体内的香腺异常发达，能够有效地将吃下去的肉类和树木转化成素食。鉴于这种过程就像蜜蜂产蜜一样，大部分素食主义者都不会抱有意见。如果狼海狸不喜欢被人抚摸的话，它们一定会用自己锋利的爪牙好好给你上一课的。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快，繁殖速度快，能产狼海狸香。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;狼海狸产出的狼海狸香可以当做素食使用。</GR_Beaverwolf.description>
+  <GR_Beaverwolf.tools.0.label>left claw</GR_Beaverwolf.tools.0.label>
+  <GR_Beaverwolf.tools.1.label>right claw</GR_Beaverwolf.tools.1.label>
+  <GR_Beaverwolf.tools.3.label>head</GR_Beaverwolf.tools.3.label>
+  <!-- Use Leather From: Alphabeaver -->
+  <!-- Use Meat From: Alphabeaver -->
+  <GR_Beaverwolf_Corpse.label>beaverwolf corpse</GR_Beaverwolf_Corpse.label>
+  <GR_Beaverwolf_Corpse.description>beaverwolf corpse</GR_Beaverwolf_Corpse.description>
+
+
+  <!-- Rabbit - Cat -->
+
+  <GR_Rabbitcat.label>猫兔</GR_Rabbitcat.label>
+  <GR_Rabbitcat.description>作为兔子与猫咪这两种小体型生物的结合，猫兔未免有些太壮了点。这些无所畏惧的大家伙也异常执拗，他们看上的猎物无论如何也要捉到。有传言称，猫兔是为了再现“杀人兔”所创造出的实验样品之一，而立项的契机仅仅是有人嘲讽这些基因科学家一点病态的幽默感都没有。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，可训练度高，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫兔拥有一定的自愈再生能力。</GR_Rabbitcat.description>
+  <GR_Rabbitcat.tools.0.label>left claw</GR_Rabbitcat.tools.0.label>
+  <GR_Rabbitcat.tools.1.label>right claw</GR_Rabbitcat.tools.1.label>
+  <!-- Use Leather From: Cougar -->
+  <!-- Use Meat From: Cougar -->
+  <GR_Rabbitcat_Corpse.label>rabbitcat corpse</GR_Rabbitcat_Corpse.label>
+  <GR_Rabbitcat_Corpse.description>rabbitcat corpse</GR_Rabbitcat_Corpse.description>
+
+
+  <!-- Rodent - Humanoid -->
+
+  <GR_Moleman.label>人鼹鼠</GR_Moleman.label>
+  <GR_Moleman.description>虽然其貌不扬，但人鼹鼠生性勤恳，他们一直都在发自真心地关爱那些被自己认定为家人和朋友的人。工作向来不是什么轻松的事情，不过他们却仍常以笑容待人。毫无疑问，这些混种生物是由多家巨企为了廉价的采矿劳动力而创造出来的。人类贪婪的本性自始至终都毫无变化。\n\n【性状基因I】：啮齿类/兔类基因\n【性状基因II】：人类基因\n【基本特征】：野性较高，可训练度高，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人鼹鼠偶尔会执行已指派的“采矿”指令。兼容Quarry（采石场）mod。</GR_Moleman.description>
+  <GR_Moleman.tools.0.label>left claw</GR_Moleman.tools.0.label>
+  <GR_Moleman.tools.1.label>right claw</GR_Moleman.tools.1.label>
+  <GR_Moleman.tools.3.label>head</GR_Moleman.tools.3.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Moleman_Corpse.label>moleman corpse</GR_Moleman_Corpse.label>
+  <GR_Moleman_Corpse.description>moleman corpse</GR_Moleman_Corpse.description>
+
+
 </LanguageData>

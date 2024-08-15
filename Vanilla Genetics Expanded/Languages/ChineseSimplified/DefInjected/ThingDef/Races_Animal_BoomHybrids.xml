@@ -1,59 +1,84 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: boomabear -->
+
+  <!-- Boomalope - Bear -->
+
   <GR_Boomabear.label>熊爆炸羊</GR_Boomabear.label>
-  <!-- EN: Originally intended as a way to make boomalopes more combat viable, their powerful muscles have instead been focused on compressing its produced chemfuel as a way to store greater amounts of chemfuel without care of how dangerous it is.\n\nA boomalope hybrid with recessive ursine genes. Consumes more than twice as much compared to a boomalope but produces deepchem instead. They’re also capable of defending themselves should any predator be foolish enough to go after them. -->
-  <GR_Boomabear.description>看起来我们的实验出现了一些小小的偏差。熊类的肌肉组织没能有效增强熊爆炸羊的自卫能力，但却通过另一种方式发挥了作用——强劲的肌肉组织能将化合燃料凝缩成更浓稠的沉积原液，从而变向增加了它们身上爆炸囊的存储量。老实说，这样会大大提高熊爆炸羊的危险性，但似乎完全没人在意这些。\n\n【性状基因I】：爆炸基因\n【性状基因II】：熊类基因\n【基本特征】：食量大，野性高，能产沉积原液，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。</GR_Boomabear.description>
-  <!-- EN: head -->
-  <GR_Boomabear.tools.head.label>头</GR_Boomabear.tools.head.label>
-  
-  <!-- EN: boomachicken -->
+  <GR_Boomabear.description>看起来我们的实验出现了一些小小的偏差。熊类的肌肉组织没能有效增强熊爆炸羊的自卫能力，但却通过另一种方式发挥了作用——强劲的肌肉组织能将化合燃料凝缩成更浓稠的沉积原液，从而变向增加了它们身上爆炸囊的存储量。老实说，这样会大大提高熊爆炸羊的危险性，但似乎完全没人在意这些。\n\n【性状基因I】：爆炸基因\n【性状基因II】：熊类基因\n【基本特征】：食量大，野性高，能产沉积原液，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。</GR_Boomabear.description>
+  <GR_Boomabear.tools.1.label>head</GR_Boomabear.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomabear_Corpse.label>boomabear corpse</GR_Boomabear_Corpse.label>
+  <GR_Boomabear_Corpse.description>boomabear corpse</GR_Boomabear_Corpse.description>
+
+
+  <!-- Boomalope - Chicken -->
+
   <GR_Boomachicken.label>鸡爆炸羊</GR_Boomachicken.label>
-  <!-- EN: A biological weapon in compact form, these living, breathing, shitting bombs are ideally assembled into a massive horde and sent squawking at the enemy. Allegedly, this particular hybrid has been brought up in certain court cases as the original creator thought it would be funny to create “lethal egg timers”.\n\nA boomalope hybrid with recessive avian genes. Produces edible eggs very slowly, but can lay a clutch of explosive eggs twice a day. They’re both reasonably intelligent and quick on their feet. -->
-  <GR_Boomachicken.description>鸡爆炸羊可谓是生物武器史上的一大杰作，这些会跑会叫还会造粪的“活体炸弹”无疑会给敌人造成巨大的心理阴影。此外，它们还能主动产下会迅速爆炸的破片“蛋”，作为一份送给敌人的“惊喜大礼”简直再合适不过了。鸡爆炸羊偶尔也会在星际法庭审理的某些案件中被提及，相关的犯罪嫌疑人都很喜欢引用其创造者的一句话：“这些致命的‘煮蛋计时器’肯定会带来很多乐子！”\n\n【性状基因I】：爆炸基因\n【性状基因II】：禽类基因\n【基本特征】：野性高，可训练度中等，移动速度快，能产蛋，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n鸡爆炸羊拥有特殊能力“产出破片蛋”。</GR_Boomachicken.description>
-  <!-- EN: head -->
-  <GR_Boomachicken.tools.head.label>头</GR_Boomachicken.tools.head.label>
-  <!-- EN: bite -->
-  <GR_Boomachicken.tools.bite.label>喙</GR_Boomachicken.tools.bite.label>
-  
-  <!-- EN: booman -->
-  <GR_Booman.label>人爆炸羊</GR_Booman.label>
-  <!-- EN: Outright refuses to let anyone else milk them for their chemfuel as they view it as a violation of their humanoid rights. They make for a good conversation partner even if their stance can be a little volatile.\n\nA boomalope hybrid with recessive humanoid genes. Instead of supplying a regular amount of chemfuel, this hybrid will syphon themselves to top up a limited number of machinery powered by chemfuel, such as generators and pod launchers.\n\n<color=#E5E54C>Gameplay effect:</color> Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. Boomen periodically refuel some machines powered by chemfuel in a 10 tile radius (chemfuel generators and pod launchers). -->
-  <GR_Booman.description>人爆炸羊不会让任何人收获自己身上的化合燃料。他们常会执着地振声高呼：“人类混种也是人！我们应当享有隐私权！”嘛...如果抛开这些不谈，人爆炸羊会成为很棒的聊天对象，虽然他们的观点与态度一点都不坚定。\n\n【性状基因I】：爆炸基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人爆炸羊偶尔会主动为半径10格范围内需要化合燃料维持运行的设备（例如化合燃料发电机、运输舱发射器等）补充燃料。</GR_Booman.description>
-  <!-- EN: head -->
-  <GR_Booman.tools.head.label>头</GR_Booman.tools.head.label>
-  
-  <!-- EN: boomcat -->
-  <GR_Boomcat.label>猫爆炸羊</GR_Boomcat.label>
-  <!-- EN: Combining the frequent nuzzling of a cat and the deepchem production of a primary boomalope hybrid is surely in no way going to end badly. Better not to ignore them should they complain loudly about wanting dinner.\n\nA boomalope hybrid with recessive feline genes. They make for an interesting companion for those who desire chemfuel production but also want to be able to cuddle said creatures. They can also be butchered to retrieve an internal gland filled with deepchem.\n\n<color=#E5E54C>Gameplay effect:</color> Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. -->
-  <GR_Boomcat.description>将喜欢亲昵人类的小猫咪和生产化合燃料的爆炸羊结合在一起绝对不是什么坏事。哦，如果猫爆炸羊已经因饥饿而连连哀嚎的话，我劝你最好赶快想办法解决它们的伙食问题。\n\n【性状基因I】：爆炸基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，能产沉积原液，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫爆炸羊死亡后会产生大量使人窒息的毛团，屠宰后可以得到少量的沉积原液。</GR_Boomcat.description>
-  <!-- EN: head -->
-  <GR_Boomcat.tools.head.label>头</GR_Boomcat.tools.head.label>
-  
-  <!-- EN: boomffalo -->
+  <GR_Boomachicken.description>鸡爆炸羊可谓是生物武器史上的一大杰作，这些会跑会叫还会造粪的“活体炸弹”无疑会给敌人造成巨大的心理阴影。此外，它们还能主动产下会迅速爆炸的破片“蛋”，作为一份送给敌人的“惊喜大礼”简直再合适不过了。鸡爆炸羊偶尔也会在星际法庭审理的某些案件中被提及，相关的犯罪嫌疑人都很喜欢引用其创造者的一句话：“这些致命的‘煮蛋计时器’肯定会带来很多乐子！”\n\n【性状基因I】：爆炸基因\n【性状基因II】：禽类基因\n【基本特征】：野性高，可训练度中等，移动速度快，能产蛋，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n鸡爆炸羊拥有特殊能力“产出破片蛋”。</GR_Boomachicken.description>
+  <GR_Boomachicken.tools.0.label>head</GR_Boomachicken.tools.0.label>
+  <GR_Boomachicken.tools.1.label>bite</GR_Boomachicken.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomachicken_Corpse.label>boomachicken corpse</GR_Boomachicken_Corpse.label>
+  <GR_Boomachicken_Corpse.description>boomachicken corpse</GR_Boomachicken_Corpse.description>
+
+
+  <!-- Boomalope - Muffalo -->
+
   <GR_Boomffalo.label>雪牛爆炸羊</GR_Boomffalo.label>
-  <!-- EN: People love efficiency and having one thing to cover all their needs. Well this isn’t it, but it gets damn close. The chemfuel sacs have mixed with milk-producing glands, which make for a milk that smells like pure gasoline and could almost power a vehicle.\n\nA boomalope hybrid with recessive muffalo genes. Has a large appetite due to it producing multiple products, namely deepchem, thin wool and an unusual milk that shares properties with Chemshine. -->
-  <GR_Boomffalo.description>追求高效和一物多用或许是人类的特点之一。好吧，这个观点可能并不准确，但其实也没差啦。雪牛爆炸羊的乳腺和爆炸囊挨得很近，它们产出的奶也因此带有一股汽油味。话说，这东西是不是真的可以当成汽油用啊？\n\n【性状基因I】：爆炸基因\n【性状基因II】：雪牛基因\n【基本特征】：食量大，野性高，能产沉积原液、奶和毛，需要关在畜栏里。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。</GR_Boomffalo.description>
-  <!-- EN: head -->
-  <GR_Boomffalo.tools.head.label>头</GR_Boomffalo.tools.head.label>
-  
-  <!-- EN: boomsquirrel -->
-  <GR_Boomsquirrel.label>松鼠爆炸羊</GR_Boomsquirrel.label>
-  <!-- EN: With adorable horns and long snoots, these squeaky lads are ideal in giving your enemy a stunning surprise. Their chemfuel mixture includes other gases that create a blinding and disorienting flashbang when remotely detonated. They’ll still make a regular boom if killed though.\n\nA boomalope hybrid with recessive rodent genes. Quite fast and intelligent, these hybrids work as excellent swarm attackers. Their rapid reproduction cycle and stunning explosion make for an ideal companion to ranged masters. -->
-  <GR_Boomsquirrel.description>松鼠爆炸羊长着一对可爱的角和长长的鼻子。这些喜欢吱吱叫的小家伙与其他爆炸混种生物有些不同，它们爆炸囊内的化合燃料混有一些特殊的气体，在近距离引爆时会造成与闪光弹相似的眩晕效果。\n\n【性状基因I】：爆炸基因\n【性状基因II】：啮齿类/兔类基因\n【基本特征】：野性高，可训练度中等，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n松鼠爆炸羊死亡后会产生大范围眩晕效果，它们拥有特殊能力“眩晕爆破”。</GR_Boomsquirrel.description>
-  <!-- EN: left claw -->
-  <GR_Boomsquirrel.tools.left_claw.label>左爪</GR_Boomsquirrel.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GR_Boomsquirrel.tools.right_claw.label>右爪</GR_Boomsquirrel.tools.right_claw.label>
-  <!-- EN: head -->
-  <GR_Boomsquirrel.tools.head.label>头</GR_Boomsquirrel.tools.head.label>
-  
-  <!-- EN: boomwolf -->
+  <GR_Boomffalo.description>追求高效和一物多用或许是人类的特点之一。好吧，这个观点可能并不准确，但其实也没差啦。雪牛爆炸羊的乳腺和爆炸囊挨得很近，它们产出的奶也因此带有一股汽油味。话说，这东西是不是真的可以当成汽油用啊？\n\n【性状基因I】：爆炸基因\n【性状基因II】：雪牛基因\n【基本特征】：食量大，野性高，能产沉积原液、奶和毛，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。</GR_Boomffalo.description>
+  <GR_Boomffalo.tools.0.label>head</GR_Boomffalo.tools.0.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomffalo_Corpse.label>boomffalo corpse</GR_Boomffalo_Corpse.label>
+  <GR_Boomffalo_Corpse.description>boomffalo corpse</GR_Boomffalo_Corpse.description>
+
+
+  <!-- Boomalope - Wolf -->
+
   <GR_Boomwolf.label>狼爆炸羊</GR_Boomwolf.label>
-  <!-- EN: For those who wished they could equip their canines with explosive vests, the Boomwolf stores pressurised - almost solidified - chemfuel which can be remotely discharged as a non-explosive gas. Thanks to thermodynamics, it is extremely cold upon release and can just as easily hurt the hybrid as well as everything nearby.\n\nA boomalope hybrid with recessive canine genes. Very intelligent, fast and dangerous, they make for an interesting combat animal. One of the few canine-type hybrids that work better solo than as a pack. -->
-  <GR_Boomwolf.description>你还在使用古老的“反坦克狗”吗？为何不试试更新颖的狼爆炸羊呢？它们爆炸囊内存储的化合燃料经过加压后已趋近固态，在近距离引爆时则会以气体的形式排出，由此产生的升华过程会迅速夺走附近的热量，对人类敌人和机械族都能造成可观的伤害。不过，处于爆破中心的狼爆炸羊也会因此受到波及。\n\n【性状基因I】：爆炸基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n狼爆炸羊死亡后会产生大量低温气体，它们也可以直接使用特殊能力“低温爆破”。</GR_Boomwolf.description>
-  <!-- EN: head -->
-  <GR_Boomwolf.tools.head.label>头</GR_Boomwolf.tools.head.label>
-  
+  <GR_Boomwolf.description>你还在使用古老的“反坦克狗”吗？为何不试试更新颖的狼爆炸羊呢？它们爆炸囊内存储的化合燃料经过加压后已趋近固态，在近距离引爆时则会以气体的形式排出，由此产生的升华过程会迅速夺走附近的热量，对人类敌人和机械族都能造成可观的伤害。不过，处于爆破中心的狼爆炸羊也会因此受到波及。\n\n【性状基因I】：爆炸基因\n【性状基因II】：犬科基因\n【基本特征】：野性高，可训练度高，移动速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n狼爆炸羊死亡后会产生大量低温气体，它们也可以直接使用特殊能力“低温爆破”。</GR_Boomwolf.description>
+  <GR_Boomwolf.tools.1.label>head</GR_Boomwolf.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomwolf_Corpse.label>boomwolf corpse</GR_Boomwolf_Corpse.label>
+  <GR_Boomwolf_Corpse.description>boomwolf corpse</GR_Boomwolf_Corpse.description>
+
+
+  <!-- Boomalope - Rodent -->
+
+  <GR_Boomsquirrel.label>松鼠爆炸羊</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.description>松鼠爆炸羊长着一对可爱的角和长长的鼻子。这些喜欢吱吱叫的小家伙与其他爆炸混种生物有些不同，它们爆炸囊内的化合燃料混有一些特殊的气体，在近距离引爆时会造成与闪光弹相似的眩晕效果。\n\n【性状基因I】：爆炸基因\n【性状基因II】：啮齿类/兔类基因\n【基本特征】：野性高，可训练度中等，移动速度快，繁殖速度快。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n松鼠爆炸羊死亡后会产生大范围眩晕效果，它们拥有特殊能力“眩晕爆破”。</GR_Boomsquirrel.description>
+  <GR_Boomsquirrel.tools.0.label>left claw</GR_Boomsquirrel.tools.0.label>
+  <GR_Boomsquirrel.tools.1.label>right claw</GR_Boomsquirrel.tools.1.label>
+  <GR_Boomsquirrel.tools.3.label>head</GR_Boomsquirrel.tools.3.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomsquirrel_Corpse.label>boomsquirrel corpse</GR_Boomsquirrel_Corpse.label>
+  <GR_Boomsquirrel_Corpse.description>boomsquirrel corpse</GR_Boomsquirrel_Corpse.description>
+
+
+  <!-- Boomalope - Cat -->
+
+  <GR_Boomcat.label>猫爆炸羊</GR_Boomcat.label>
+  <GR_Boomcat.description>将喜欢亲昵人类的小猫咪和生产化合燃料的爆炸羊结合在一起绝对不是什么坏事。哦，如果猫爆炸羊已经因饥饿而连连哀嚎的话，我劝你最好赶快想办法解决它们的伙食问题。\n\n【性状基因I】：爆炸基因\n【性状基因II】：猫科基因\n【基本特征】：野性高，能产沉积原液，需要关在畜栏里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。\n\n猫爆炸羊死亡后会产生大量使人窒息的毛团，屠宰后可以得到少量的沉积原液。</GR_Boomcat.description>
+  <GR_Boomcat.tools.1.label>head</GR_Boomcat.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomcat_Corpse.label>boomcat corpse</GR_Boomcat_Corpse.label>
+  <GR_Boomcat_Corpse.description>boomcat corpse</GR_Boomcat_Corpse.description>
+
+
+  <!-- Boomalope - Humanoid -->
+
+  <GR_Booman.label>人爆炸羊</GR_Booman.label>
+  <GR_Booman.description>人爆炸羊不会让任何人收获自己身上的化合燃料。他们常会执着地振声高呼：“人类混种也是人！我们应当享有隐私权！”嘛...如果抛开这些不谈，人爆炸羊会成为很棒的聊天对象，虽然他们的观点与态度一点都不坚定。\n\n【性状基因I】：爆炸基因\n【性状基因II】：人类基因\n【基本特征】：野性高，可训练度高。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物死后都会产生爆炸，部分还会带有一些特殊效果。\n\n人类混种生物偶尔会与其他殖民者聊天，并增加大约10%的娱乐值。如果安装了文化DLC，人类混种生物也会受到新增戒律的影响。人爆炸羊偶尔会主动为半径10格范围内需要化合燃料维持运行的设备（例如化合燃料发电机、运输舱发射器等）补充燃料。</GR_Booman.description>
+  <GR_Booman.tools.1.label>head</GR_Booman.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Booman_Corpse.label>booman corpse</GR_Booman_Corpse.label>
+  <GR_Booman_Corpse.description>booman corpse</GR_Booman_Corpse.description>
+
+
 </LanguageData>

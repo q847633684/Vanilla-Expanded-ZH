@@ -1,44 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: Genoframe (Awful) -->
-  <GR_GenoframeAwful.label>基因构造框架（极差）</GR_GenoframeAwful.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nAwful genoframe will result in a hybrid with greatly decreased stats over a normal hybrid. -->
-  <GR_GenoframeAwful.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：极差\n【属性影响】：大幅降低</GR_GenoframeAwful.description>
-  
-  <!-- EN: Genoframe (Excellent) -->
-  <GR_GenoframeExcellent.label>基因构造框架（极佳）</GR_GenoframeExcellent.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nExcellent genoframe will result in a hybrid with significantly improved stats over a normal hybrid. -->
-  <GR_GenoframeExcellent.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：极佳\n【属性影响】：中幅提升</GR_GenoframeExcellent.description>
-  
-  <!-- EN: Genoframe (Good) -->
-  <GR_GenoframeGood.label>基因构造框架（良好）</GR_GenoframeGood.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nGood genoframe will result in a hybrid with slightly improved stats over a normal hybrid. -->
-  <GR_GenoframeGood.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：良好\n【属性影响】：小幅提升</GR_GenoframeGood.description>
-  
-  <!-- EN: Genoframe (Legendary) -->
-  <GR_GenoframeLegendary.label>基因构造框架（传奇级）</GR_GenoframeLegendary.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nLegendary genoframe will result in an incredibly powerful hybrid that’s eclipsing normal creatures. -->
-  <GR_GenoframeLegendary.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：传奇级\n【属性影响】：极大幅提升</GR_GenoframeLegendary.description>
-  
-  <!-- EN: Genoframe (Masterwork) -->
-  <GR_GenoframeMasterwork.label>基因构造框架（大师级）</GR_GenoframeMasterwork.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nMasterwork genoframe will result in a hybrid with superior stats over a normal hybrid. -->
-  <GR_GenoframeMasterwork.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：大师级\n【属性影响】：大幅提升</GR_GenoframeMasterwork.description>
-  
-  <!-- EN: Genoframe (Normal) -->
-  <GR_GenoframeNormal.label>基因构造框架（一般）</GR_GenoframeNormal.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nNormal genoframe will result in a hybrid with baseline stats. -->
-  <GR_GenoframeNormal.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：一般\n【属性影响】：无</GR_GenoframeNormal.description>
-  
-  <!-- EN: Genoframe (Poor) -->
-  <GR_GenoframePoor.label>基因构造框架（较差）</GR_GenoframePoor.label>
-  <!-- EN: A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nPoor genoframe will result in a hybrid with slightly decreased stats over a normal hybrid. -->
-  <GR_GenoframePoor.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：较差\n【属性影响】：小幅降低</GR_GenoframePoor.description>
-  
-  <!-- EN: unfinished genoframe -->
+
+  <!-- Genoframes -->
+
   <GR_GenoframeUnfinished.label>未完成的基因构造框架</GR_GenoframeUnfinished.label>
-  <!-- EN: An unfinished genoframe of some kind. -->
   <GR_GenoframeUnfinished.description>一个未完成的基因构造框架。</GR_GenoframeUnfinished.description>
-  
+
+  <GR_GenoframeAwful.label>基因构造框架（极差）</GR_GenoframeAwful.label>
+  <GR_GenoframeAwful.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：极差\n【属性影响】：大幅降低</GR_GenoframeAwful.description>
+
+  <GR_GenoframePoor.label>基因构造框架（较差）</GR_GenoframePoor.label>
+  <GR_GenoframePoor.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：较差\n【属性影响】：小幅降低</GR_GenoframePoor.description>
+
+  <GR_GenoframeNormal.label>基因构造框架（一般）</GR_GenoframeNormal.label>
+  <GR_GenoframeNormal.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：一般\n【属性影响】：无</GR_GenoframeNormal.description>
+
+  <GR_GenoframeGood.label>基因构造框架（良好）</GR_GenoframeGood.label>
+  <GR_GenoframeGood.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：良好\n【属性影响】：小幅提升</GR_GenoframeGood.description>
+
+  <GR_GenoframeExcellent.label>基因构造框架（极佳）</GR_GenoframeExcellent.label>
+  <GR_GenoframeExcellent.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：极佳\n【属性影响】：中幅提升</GR_GenoframeExcellent.description>
+
+  <GR_GenoframeMasterwork.label>基因构造框架（大师级）</GR_GenoframeMasterwork.label>
+  <GR_GenoframeMasterwork.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：大师级\n【属性影响】：大幅提升</GR_GenoframeMasterwork.description>
+
+  <GR_GenoframeLegendary.label>基因构造框架（传奇级）</GR_GenoframeLegendary.label>
+  <GR_GenoframeLegendary.description>这种稳定性优异的基因物质是执行混种实验所必不可缺的材料。基因构造框架的品质越好，孵化出的混种生物就越强。当孵化单元塑造完毕后，基因构造框架就会被销毁并清理掉。\n\n【品质】：传奇级\n【属性影响】：极大幅提升</GR_GenoframeLegendary.description>
+
+
 </LanguageData>
