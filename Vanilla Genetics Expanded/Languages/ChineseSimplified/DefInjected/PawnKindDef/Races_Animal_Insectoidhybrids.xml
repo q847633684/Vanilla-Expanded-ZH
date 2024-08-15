@@ -1,33 +1,74 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bearscarab -->
+
+  <!-- Bear - Insectoid -->
+
   <GR_Bearscarab.label>熊巨蛛</GR_Bearscarab.label>
-  
-  <!-- EN: boombeetle -->
+  <GR_Bearscarab.labelPlural>bearscarabs</GR_Bearscarab.labelPlural>
+  <GR_Bearscarab.labelMale>male bearscarab</GR_Bearscarab.labelMale>
+  <GR_Bearscarab.labelMalePlural>male bearscarabs</GR_Bearscarab.labelMalePlural>
+  <GR_Bearscarab.labelFemale>female bearscarab</GR_Bearscarab.labelFemale>
+  <GR_Bearscarab.labelFemalePlural>female bearscarabs</GR_Bearscarab.labelFemalePlural>
+
+
+  <!-- Boomalope - Insectoid -->
+
   <GR_Boombeetle.label>爆炸甲虫</GR_Boombeetle.label>
-  
-  <!-- EN: chickenspider -->
+  <GR_Boombeetle.labelPlural>boombeetles</GR_Boombeetle.labelPlural>
+  <GR_Boombeetle.labelMale>male boombeetle</GR_Boombeetle.labelMale>
+  <GR_Boombeetle.labelMalePlural>male boombeetles</GR_Boombeetle.labelMalePlural>
+  <GR_Boombeetle.labelFemale>female boombeetle</GR_Boombeetle.labelFemale>
+  <GR_Boombeetle.labelFemalePlural>female boombeetles</GR_Boombeetle.labelFemalePlural>
+
+
+  <!-- Chicken - Insectoid -->
+
   <GR_Chickenspider.label>鸡甲虫</GR_Chickenspider.label>
-  
-  <!-- EN: manscarab -->
-  <GR_Manscarab.label>人蝗虫</GR_Manscarab.label>
-  <!-- EN: womanscarab -->
-  <GR_Manscarab.labelFemale>女人蝗虫</GR_Manscarab.labelFemale>
-  <!-- EN: womenscarab -->
-  <GR_Manscarab.labelFemalePlural>女人蝗虫</GR_Manscarab.labelFemalePlural>
-  <!-- EN: manscarab -->
-  <GR_Manscarab.labelMale>男人蝗虫</GR_Manscarab.labelMale>
-  <!-- EN: menscarab -->
-  <GR_Manscarab.labelMalePlural>男人蝗虫</GR_Manscarab.labelMalePlural>
-  
-  <!-- EN: muffalopede -->
+  <GR_Chickenspider.labelPlural>chickenspiders</GR_Chickenspider.labelPlural>
+  <GR_Chickenspider.labelMale>male chickenspider</GR_Chickenspider.labelMale>
+  <GR_Chickenspider.labelMalePlural>male chickenspiders</GR_Chickenspider.labelMalePlural>
+  <GR_Chickenspider.labelFemale>female chickenspider</GR_Chickenspider.labelFemale>
+  <GR_Chickenspider.labelFemalePlural>female chickenspiders</GR_Chickenspider.labelFemalePlural>
+
+
+  <!-- Muffalo - Insectoid -->
+
   <GR_Muffalopede.label>雪牛蜈蚣</GR_Muffalopede.label>
-  
-  <!-- EN: spidercat -->
-  <GR_Spidercat.label>猫巨蛛</GR_Spidercat.label>
-  
-  <!-- EN: wolfscarab -->
+  <GR_Muffalopede.labelPlural>muffalopedes</GR_Muffalopede.labelPlural>
+  <GR_Muffalopede.labelMale>male muffalopede</GR_Muffalopede.labelMale>
+  <GR_Muffalopede.labelMalePlural>male muffalopedes</GR_Muffalopede.labelMalePlural>
+  <GR_Muffalopede.labelFemale>female muffalopede</GR_Muffalopede.labelFemale>
+  <GR_Muffalopede.labelFemalePlural>female muffalopedes</GR_Muffalopede.labelFemalePlural>
+
+
+  <!-- Wolf - Insectoid -->
+
   <GR_Wolfscarab.label>狼甲虫</GR_Wolfscarab.label>
-  
+  <GR_Wolfscarab.labelPlural>wolfscarabs</GR_Wolfscarab.labelPlural>
+  <GR_Wolfscarab.labelMale>male wolfscarab</GR_Wolfscarab.labelMale>
+  <GR_Wolfscarab.labelMalePlural>male wolfscarabs</GR_Wolfscarab.labelMalePlural>
+  <GR_Wolfscarab.labelFemale>female wolfscarab</GR_Wolfscarab.labelFemale>
+  <GR_Wolfscarab.labelFemalePlural>female wolfscarabs</GR_Wolfscarab.labelFemalePlural>
+
+
+  <!-- Insectoid - Cat -->
+
+  <GR_Spidercat.label>猫巨蛛</GR_Spidercat.label>
+  <GR_Spidercat.labelPlural>spidercats</GR_Spidercat.labelPlural>
+  <GR_Spidercat.labelMale>male spidercat</GR_Spidercat.labelMale>
+  <GR_Spidercat.labelMalePlural>male spidercats</GR_Spidercat.labelMalePlural>
+  <GR_Spidercat.labelFemale>female spidercat</GR_Spidercat.labelFemale>
+  <GR_Spidercat.labelFemalePlural>female spidercats</GR_Spidercat.labelFemalePlural>
+
+
+  <!-- Insectoid - Humanoid -->
+
+  <GR_Manscarab.label>人蝗虫</GR_Manscarab.label>
+  <GR_Manscarab.labelPlural>manscarabs</GR_Manscarab.labelPlural>
+  <GR_Manscarab.labelMale>男人蝗虫</GR_Manscarab.labelMale>
+  <GR_Manscarab.labelMalePlural>男人蝗虫</GR_Manscarab.labelMalePlural>
+  <GR_Manscarab.labelFemale>女人蝗虫</GR_Manscarab.labelFemale>
+  <GR_Manscarab.labelFemalePlural>女人蝗虫</GR_Manscarab.labelFemalePlural>
+
+
 </LanguageData>

@@ -1,221 +1,167 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: animal Implant: bear leg -->
+
+  <!-- Legs -->
+
   <GR_BearLeg.label>培养动物植入物「蛮熊肢」</GR_BearLeg.label>
-  <!-- EN: Craft a prosthetic animal leg strengthened with bear muscles, and ending in sharp bear claws that add a powerful melee attack. -->
   <GR_BearLeg.description>用熊类基因物质和基因构造框架来培养动物植入物「蛮熊肢」。</GR_BearLeg.description>
-  <!-- EN: Making bear leg implant. -->
   <GR_BearLeg.jobString>正在培养动物植入物「蛮熊肢」。</GR_BearLeg.jobString>
-  
-  <!-- EN: animal Implant: bear liver -->
-  <GR_BearLiver.label>培养动物植入物「蛮熊肝」</GR_BearLiver.label>
-  <!-- EN: Craft an implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens. -->
-  <GR_BearLiver.description>用熊类基因物质和基因构造框架来培养动物植入物「蛮熊肝」。</GR_BearLiver.description>
-  <!-- EN: Making bear liver implant. -->
-  <GR_BearLiver.jobString>正在培养动物植入物「蛮熊肝」。</GR_BearLiver.jobString>
-  
-  <!-- EN: animal Implant: boomalope heart -->
-  <GR_BoomalopeHeart.label>培养动物植入物「爆炸羊心脏」</GR_BoomalopeHeart.label>
-  <!-- EN: Craft an implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart. -->
-  <GR_BoomalopeHeart.description>用爆炸基因物质和基因构造框架来培养动物植入物「爆炸羊心脏」。</GR_BoomalopeHeart.description>
-  <!-- EN: Making boomalope heart implant. -->
-  <GR_BoomalopeHeart.jobString>正在培养动物植入物「爆炸羊心脏」。</GR_BoomalopeHeart.jobString>
-  
-  <!-- EN: animal Implant: boomalope stomach -->
-  <GR_BoomalopeStomach.label>培养动物植入物「爆炸羊胃」</GR_BoomalopeStomach.label>
-  <!-- EN: Craft an implant that uses boomalope genes to improve function of the stomach. -->
-  <GR_BoomalopeStomach.description>用爆炸基因物质和基因构造框架来培养动物植入物「爆炸羊胃」。</GR_BoomalopeStomach.description>
-  <!-- EN: Making boomalope stomach implant. -->
-  <GR_BoomalopeStomach.jobString>正在培养动物植入物「爆炸羊胃」。</GR_BoomalopeStomach.jobString>
-  
-  <!-- EN: animal Implant: canid eye -->
-  <GR_CanidEye.label>培养动物植入物「犬狼眼」</GR_CanidEye.label>
-  <!-- EN: Craft an eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes. -->
-  <GR_CanidEye.description>用犬科基因物质和基因构造框架来培养动物植入物「犬狼眼」。</GR_CanidEye.description>
-  <!-- EN: Making canid eye implant. -->
-  <GR_CanidEye.jobString>正在培养动物植入物「犬狼眼」。</GR_CanidEye.jobString>
-  
-  <!-- EN: animal Implant: cat tail -->
-  <GR_CatTail.label>培养动物植入物「猫咪尾」</GR_CatTail.label>
-  <!-- EN: Craft a tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail. Note that only creatures with a natural tail can use this. -->
-  <GR_CatTail.description>用猫科基因物质和基因构造框架来培养动物植入物「犬狼眼」。</GR_CatTail.description>
-  <!-- EN: Making cat tail implant. -->
-  <GR_CatTail.jobString>正在培养动物植入物「猫咪尾」。</GR_CatTail.jobString>
-  
-  <!-- EN: animal Implant: chicken brains -->
-  <GR_ChickenBrains.label>培养动物植入物「家禽脑」</GR_ChickenBrains.label>
-  <!-- EN: Craft an implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures. -->
-  <GR_ChickenBrains.description>用禽类基因物质和基因构造框架来培养动物植入物「家禽脑」。</GR_ChickenBrains.description>
-  <!-- EN: Making wolf jaws implant. -->
-  <GR_ChickenBrains.jobString>正在培养动物植入物「家禽脑」。</GR_ChickenBrains.jobString>
-  
-  <!-- EN: animal Implant: chicken kidney -->
-  <GR_ChickenKidney.label>培养动物植入物「飞禽肾」</GR_ChickenKidney.label>
-  <!-- EN: Craft an implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today. -->
-  <GR_ChickenKidney.description>用禽类基因物质和基因构造框架来培养动物植入物「飞禽肾」。</GR_ChickenKidney.description>
-  <!-- EN: Making chicken kidney implant. -->
-  <GR_ChickenKidney.jobString>正在培养动物植入物「飞禽肾」。</GR_ChickenKidney.jobString>
-  
-  <!-- EN: animal Implant: chitinous heart -->
-  <GR_ChitinousHeart.label>培养动物植入物「甲壳质心脏」</GR_ChitinousHeart.label>
-  <!-- EN: Craft a bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise. -->
-  <GR_ChitinousHeart.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「甲壳质心脏」。</GR_ChitinousHeart.description>
-  <!-- EN: Making chitinous heart implant. -->
-  <GR_ChitinousHeart.jobString>正在培养动物植入物「甲壳质心脏」。</GR_ChitinousHeart.jobString>
-  
-  <!-- EN: animal Implant: crocodile spine -->
-  <GR_CrocodileSpine.label>培养动物植入物「鳄鱼脊椎」</GR_CrocodileSpine.label>
-  <!-- EN: Craft a bionic implant adding a sturdy crocodile spine to the creature's skeletal system. -->
-  <GR_CrocodileSpine.description>用爬行类基因物质和基因构造框架来培养动物植入物「鳄鱼脊椎」。</GR_CrocodileSpine.description>
-  <!-- EN: Making crocodile spine implant. -->
-  <GR_CrocodileSpine.jobString>正在培养动物植入物「鳄鱼脊椎」。</GR_CrocodileSpine.jobString>
-  
-  <!-- EN: animal Implant: insectile eye -->
-  <GR_InsectileEye.label>培养动物植入物「虫族复眼」</GR_InsectileEye.label>
-  <!-- EN: Craft a bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement. -->
-  <GR_InsectileEye.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「虫族复眼」。</GR_InsectileEye.description>
-  <!-- EN: Making insectile eye implant. -->
-  <GR_InsectileEye.jobString>正在培养动物植入物「虫族复眼」。</GR_InsectileEye.jobString>
-  
-  <!-- EN: animal Implant: insect mandibles -->
-  <GR_InsectMandibles.label>培养动物植入物「虫族口器」</GR_InsectMandibles.label>
-  <!-- EN: Craft a bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon -->
-  <GR_InsectMandibles.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「虫族口器」。</GR_InsectMandibles.description>
-  <!-- EN: Making insect mandibles implant. -->
-  <GR_InsectMandibles.jobString>正在培养动物植入物「虫族口器」。</GR_InsectMandibles.jobString>
-  
-  <!-- EN: animal Implant: insectoid pheromones -->
-  <GR_InsectoidPheromones.label>培养动物植入物「信息素接收器」</GR_InsectoidPheromones.label>
-  <!-- EN: Craft an implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects. -->
-  <GR_InsectoidPheromones.description>用虫族基因物质和基因构造框架来培养动物植入物「信息素接收器」。</GR_InsectoidPheromones.description>
-  <!-- EN: Making insectoid pheromones implant. -->
-  <GR_InsectoidPheromones.jobString>正在培养动物植入物「信息素接收器」。</GR_InsectoidPheromones.jobString>
-  
-  <!-- EN: animal Implant: bionic lizard leg -->
+
   <GR_LizardLeg.label>培养动物植入物「蜥蜴肢」</GR_LizardLeg.label>
-  <!-- EN: Craft a bionic animal leg reinforced with tough lizard skin. -->
   <GR_LizardLeg.description>用爬行类基因物质和基因构造框架来培养动物植入物「蜥蜴肢」。</GR_LizardLeg.description>
-  <!-- EN: Making lizard leg implant. -->
   <GR_LizardLeg.jobString>正在培养动物植入物「蜥蜴肢」。</GR_LizardLeg.jobString>
-  
-  <!-- EN: animal Implant: reinforced bionic heart -->
-  <GR_MechaHeart.label>培养动物植入物「秘兽心脏」</GR_MechaHeart.label>
-  <!-- EN: Craft a bionic heart strengthened by the action of active mechanites. -->
-  <GR_MechaHeart.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽心脏」。</GR_MechaHeart.description>
-  <!-- EN: Making reinforced bionic heart implant. -->
-  <GR_MechaHeart.jobString>正在培养动物植入物「秘兽心脏」。</GR_MechaHeart.jobString>
-  
-  <!-- EN: animal Implant: elephant auditory receptor -->
-  <GR_MechaReceptors.label>培养动物植入物「秘兽耳」</GR_MechaReceptors.label>
-  <!-- EN: Craft an elephant auditory receptor that can scan a really wide band of frequencies. -->
-  <GR_MechaReceptors.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽耳」。</GR_MechaReceptors.description>
-  <!-- EN: Making elephant auditory receptor implant. -->
-  <GR_MechaReceptors.jobString>正在培养动物植入物「秘兽耳」。</GR_MechaReceptors.jobString>
-  
-  <!-- EN: animal Implant: reinforced bionic spine -->
-  <GR_MechaSpine.label>培养动物植入物「秘兽脊椎」</GR_MechaSpine.label>
-  <!-- EN: Craft a bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system. -->
-  <GR_MechaSpine.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽脊椎」。</GR_MechaSpine.description>
-  <!-- EN: Making reinforced bionic spine implant. -->
-  <GR_MechaSpine.jobString>正在培养动物植入物「秘兽脊椎」。</GR_MechaSpine.jobString>
-  
-  <!-- EN: animal Implant: reinforced tail -->
-  <GR_MechaTail.label>培养动物植入物「秘兽尾」</GR_MechaTail.label>
-  <!-- EN: Craft an advanced animal tail, even more powerful than a natural one. Note that only creatures with a natural tail can use this. -->
-  <GR_MechaTail.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽尾」。</GR_MechaTail.description>
-  <!-- EN: Making reinforced tail implant. -->
-  <GR_MechaTail.jobString>正在培养动物植入物「秘兽尾」。</GR_MechaTail.jobString>
-  
-  <!-- EN: animal Implant: miniature thrumbo horn -->
-  <GR_MiniatureThrumboHorn.label>培养动物植入物「小型秘兽角」</GR_MiniatureThrumboHorn.label>
-  <!-- EN: Craft a bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant. -->
-  <GR_MiniatureThrumboHorn.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「小型秘兽角」。</GR_MiniatureThrumboHorn.description>
-  <!-- EN: Making miniature thrumbo horn implant. -->
-  <GR_MiniatureThrumboHorn.jobString>正在培养动物植入物「小型秘兽角」。</GR_MiniatureThrumboHorn.jobString>
-  
-  <!-- EN: animal Implant: monitor lizard brain -->
-  <GR_MonitorLizardBrain.label>培养动物植入物「巨蜥脑」</GR_MonitorLizardBrain.label>
-  <!-- EN: Craft a bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes. -->
-  <GR_MonitorLizardBrain.description>用爬行类基因物质和基因构造框架来培养仿生动物植入物「巨蜥脑」。</GR_MonitorLizardBrain.description>
-  <!-- EN: Making monitor lizard brain implant. -->
-  <GR_MonitorLizardBrain.jobString>正在培养动物植入物「巨蜥脑」。</GR_MonitorLizardBrain.jobString>
-  
-  <!-- EN: animal Implant: moth tympanal organ -->
-  <GR_MothTympanalOrgan.label>培养动物植入物「飞蛾鼓膜器」</GR_MothTympanalOrgan.label>
-  <!-- EN: Craft a bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce. -->
-  <GR_MothTympanalOrgan.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「飞蛾鼓膜器」。</GR_MothTympanalOrgan.description>
-  <!-- EN: Making moth tympanal organ implant. -->
-  <GR_MothTympanalOrgan.jobString>正在培养动物植入物「飞蛾鼓膜器」。</GR_MothTympanalOrgan.jobString>
-  
-  <!-- EN: animal Implant: muffalo lung -->
-  <GR_MuffaloLung.label>培养动物植入物「雪牛肺」</GR_MuffaloLung.label>
-  <!-- EN: Craft an implant that uses muffalo genes to increase breathing capacity. -->
-  <GR_MuffaloLung.description>用雪牛基因物质和基因构造框架来培养动物植入物「雪牛肺」。</GR_MuffaloLung.description>
-  <!-- EN: Making muffalo lung implant. -->
-  <GR_MuffaloLung.jobString>正在培养动物植入物「雪牛肺」。</GR_MuffaloLung.jobString>
-  
-  <!-- EN: animal Implant: muffalo spine -->
-  <GR_MuffaloSpine.label>培养动物植入物「雪牛脊椎」</GR_MuffaloSpine.label>
-  <!-- EN: Craft a spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines. -->
-  <GR_MuffaloSpine.description>用雪牛基因物质和基因构造框架来培养动物植入物「雪牛脊椎」。</GR_MuffaloSpine.description>
-  <!-- EN: Making muffalo spine implant. -->
-  <GR_MuffaloSpine.jobString>正在培养动物植入物「雪牛脊椎」。</GR_MuffaloSpine.jobString>
-  
-  <!-- EN: animal Implant: rodent ear -->
-  <GR_RodentEar.label>培养动物植入物「小鼠耳」</GR_RodentEar.label>
-  <!-- EN: Craft an ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears. -->
-  <GR_RodentEar.description>用啮齿类/兔类基因物质和基因构造框架来培养动物植入物「小鼠耳」。</GR_RodentEar.description>
-  <!-- EN: Making rodent ear implant. -->
-  <GR_RodentEar.jobString>正在培养动物植入物「小鼠耳」。</GR_RodentEar.jobString>
-  
-  <!-- EN: animal Implant: rodent nose -->
-  <GR_RodentNose.label>培养动物植入物「小鼠鼻」</GR_RodentNose.label>
-  <!-- EN: Craft an implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects. -->
-  <GR_RodentNose.description>用啮齿类/兔类基因物质和基因构造框架来培养动物植入物「小鼠鼻」。</GR_RodentNose.description>
-  <!-- EN: Making rodent nose implant. -->
-  <GR_RodentNose.jobString>正在培养动物植入物「小鼠鼻」。</GR_RodentNose.jobString>
-  
-  <!-- EN: animal Implant: scyther tail -->
-  <GR_ScytherTail.label>培养动物植入物「镰刃尾」</GR_ScytherTail.label>
-  <!-- EN: Craft a scyther tail by attaching a scyther blade to an animal's tail. Uhmmm... where did you put all those old scyther blades? You asked around and no caravans seem to be trading them nowadays... Well, you will have to manufacture one using a cocktail of different genes. Note that only creatures with a natural tail can use this. -->
-  <GR_ScytherTail.description>用虫族基因物质、爬行类遗传物质和基因构造框架来培养仿生动物植入物「镰刃尾」。</GR_ScytherTail.description>
-  <!-- EN: Making scyther tail implant. -->
-  <GR_ScytherTail.jobString>正在培养动物植入物「镰刃尾」。</GR_ScytherTail.jobString>
-  
-  <!-- EN: animal Implant: bionic thrumbo brain -->
-  <GR_ThrumboBrain.label>培养动物植入物「秘兽脑」</GR_ThrumboBrain.label>
-  <!-- EN: Craft a bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes. -->
-  <GR_ThrumboBrain.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽脑」。</GR_ThrumboBrain.description>
-  <!-- EN: Making bionic thrumbo brain implant. -->
-  <GR_ThrumboBrain.jobString>正在培养动物植入物「秘兽脑」。</GR_ThrumboBrain.jobString>
-  
-  <!-- EN: animal Implant: bionic thrumbo eye -->
-  <GR_ThrumboEye.label>培养动物植入物「秘兽眼」</GR_ThrumboEye.label>
-  <!-- EN: Craft a bionic eye reinforced with specialized photoreceptors from a powerful thrumbo. -->
-  <GR_ThrumboEye.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽眼」。</GR_ThrumboEye.description>
-  <!-- EN: Making thrumbo eye implant. -->
-  <GR_ThrumboEye.jobString>正在培养动物植入物「秘兽眼」。</GR_ThrumboEye.jobString>
-  
-  <!-- EN: animal Implant: bionic thrumbo jaws -->
-  <GR_ThrumboJaws.label>培养动物植入物「秘兽颌」</GR_ThrumboJaws.label>
-  <!-- EN: Craft a bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task. -->
-  <GR_ThrumboJaws.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽颌」。</GR_ThrumboJaws.description>
-  <!-- EN: Making bionic thrumbo jaws implant. -->
-  <GR_ThrumboJaws.jobString>正在培养动物植入物「秘兽颌」。</GR_ThrumboJaws.jobString>
-  
-  <!-- EN: animal Implant: bionic elephant leg -->
+
   <GR_ThrumboLeg.label>培养动物植入物「秘兽腿」</GR_ThrumboLeg.label>
-  <!-- EN: Craft a bionic animal leg reinforced with muscle tissue from a powerful elephant. -->
   <GR_ThrumboLeg.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽腿」。</GR_ThrumboLeg.description>
-  <!-- EN: Making bionic elephant leg implant. -->
   <GR_ThrumboLeg.jobString>正在培养动物植入物「秘兽腿」。</GR_ThrumboLeg.jobString>
-  
-  <!-- EN: animal Implant: wolf fangs -->
+
+
+  <!-- Tail -->
+
+  <GR_CatTail.label>培养动物植入物「猫咪尾」</GR_CatTail.label>
+  <GR_CatTail.description>用猫科基因物质和基因构造框架来培养动物植入物「犬狼眼」。</GR_CatTail.description>
+  <GR_CatTail.jobString>正在培养动物植入物「猫咪尾」。</GR_CatTail.jobString>
+
+  <GR_ScytherTail.label>培养动物植入物「镰刃尾」</GR_ScytherTail.label>
+  <GR_ScytherTail.description>用虫族基因物质、爬行类遗传物质和基因构造框架来培养仿生动物植入物「镰刃尾」。</GR_ScytherTail.description>
+  <GR_ScytherTail.jobString>正在培养动物植入物「镰刃尾」。</GR_ScytherTail.jobString>
+
+  <GR_MechaTail.label>培养动物植入物「秘兽尾」</GR_MechaTail.label>
+  <GR_MechaTail.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽尾」。</GR_MechaTail.description>
+  <GR_MechaTail.jobString>正在培养动物植入物「秘兽尾」。</GR_MechaTail.jobString>
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>培养动物植入物「犬狼眼」</GR_CanidEye.label>
+  <GR_CanidEye.description>用犬科基因物质和基因构造框架来培养动物植入物「犬狼眼」。</GR_CanidEye.description>
+  <GR_CanidEye.jobString>正在培养动物植入物「犬狼眼」。</GR_CanidEye.jobString>
+
+  <GR_InsectileEye.label>培养动物植入物「虫族复眼」</GR_InsectileEye.label>
+  <GR_InsectileEye.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「虫族复眼」。</GR_InsectileEye.description>
+  <GR_InsectileEye.jobString>正在培养动物植入物「虫族复眼」。</GR_InsectileEye.jobString>
+
+  <GR_ThrumboEye.label>培养动物植入物「秘兽眼」</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽眼」。</GR_ThrumboEye.description>
+  <GR_ThrumboEye.jobString>正在培养动物植入物「秘兽眼」。</GR_ThrumboEye.jobString>
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>培养动物植入物「小鼠耳」</GR_RodentEar.label>
+  <GR_RodentEar.description>用啮齿类/兔类基因物质和基因构造框架来培养动物植入物「小鼠耳」。</GR_RodentEar.description>
+  <GR_RodentEar.jobString>正在培养动物植入物「小鼠耳」。</GR_RodentEar.jobString>
+
+  <GR_MothTympanalOrgan.label>培养动物植入物「飞蛾鼓膜器」</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「飞蛾鼓膜器」。</GR_MothTympanalOrgan.description>
+  <GR_MothTympanalOrgan.jobString>正在培养动物植入物「飞蛾鼓膜器」。</GR_MothTympanalOrgan.jobString>
+
+  <GR_MechaReceptors.label>培养动物植入物「秘兽耳」</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽耳」。</GR_MechaReceptors.description>
+  <GR_MechaReceptors.jobString>正在培养动物植入物「秘兽耳」。</GR_MechaReceptors.jobString>
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>培养动物植入物「小鼠鼻」</GR_RodentNose.label>
+  <GR_RodentNose.description>用啮齿类/兔类基因物质和基因构造框架来培养动物植入物「小鼠鼻」。</GR_RodentNose.description>
+  <GR_RodentNose.jobString>正在培养动物植入物「小鼠鼻」。</GR_RodentNose.jobString>
+
+  <GR_InsectoidPheromones.label>培养动物植入物「信息素接收器」</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>用虫族基因物质和基因构造框架来培养动物植入物「信息素接收器」。</GR_InsectoidPheromones.description>
+  <GR_InsectoidPheromones.jobString>正在培养动物植入物「信息素接收器」。</GR_InsectoidPheromones.jobString>
+
+  <GR_MiniatureThrumboHorn.label>培养动物植入物「小型秘兽角」</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「小型秘兽角」。</GR_MiniatureThrumboHorn.description>
+  <GR_MiniatureThrumboHorn.jobString>正在培养动物植入物「小型秘兽角」。</GR_MiniatureThrumboHorn.jobString>
+
+
+  <!-- Jaws -->
+
   <GR_WolfJaws.label>培养动物植入物「犬狼牙」</GR_WolfJaws.label>
-  <!-- EN: Craft an implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws. -->
   <GR_WolfJaws.description>用秘兽基因物质和基因构造框架来培养动物植入物「秘兽腿」。</GR_WolfJaws.description>
-  <!-- EN: Making wolf fangs implant. -->
   <GR_WolfJaws.jobString>正在培养动物植入物「犬狼牙」。</GR_WolfJaws.jobString>
-  
+
+  <GR_InsectMandibles.label>培养动物植入物「虫族口器」</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「虫族口器」。</GR_InsectMandibles.description>
+  <GR_InsectMandibles.jobString>正在培养动物植入物「虫族口器」。</GR_InsectMandibles.jobString>
+
+  <GR_ThrumboJaws.label>培养动物植入物「秘兽颌」</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽颌」。</GR_ThrumboJaws.description>
+  <GR_ThrumboJaws.jobString>正在培养动物植入物「秘兽颌」。</GR_ThrumboJaws.jobString>
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>培养动物植入物「雪牛脊椎」</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>用雪牛基因物质和基因构造框架来培养动物植入物「雪牛脊椎」。</GR_MuffaloSpine.description>
+  <GR_MuffaloSpine.jobString>正在培养动物植入物「雪牛脊椎」。</GR_MuffaloSpine.jobString>
+
+  <GR_CrocodileSpine.label>培养动物植入物「鳄鱼脊椎」</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>用爬行类基因物质和基因构造框架来培养动物植入物「鳄鱼脊椎」。</GR_CrocodileSpine.description>
+  <GR_CrocodileSpine.jobString>正在培养动物植入物「鳄鱼脊椎」。</GR_CrocodileSpine.jobString>
+
+  <GR_MechaSpine.label>培养动物植入物「秘兽脊椎」</GR_MechaSpine.label>
+  <GR_MechaSpine.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽脊椎」。</GR_MechaSpine.description>
+  <GR_MechaSpine.jobString>正在培养动物植入物「秘兽脊椎」。</GR_MechaSpine.jobString>
+
+
+  <!-- Brain -->
+
+  <GR_ChickenBrains.label>培养动物植入物「家禽脑」</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>用禽类基因物质和基因构造框架来培养动物植入物「家禽脑」。</GR_ChickenBrains.description>
+  <GR_ChickenBrains.jobString>正在培养动物植入物「家禽脑」。</GR_ChickenBrains.jobString>
+
+  <GR_MonitorLizardBrain.label>培养动物植入物「巨蜥脑」</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>用爬行类基因物质和基因构造框架来培养仿生动物植入物「巨蜥脑」。</GR_MonitorLizardBrain.description>
+  <GR_MonitorLizardBrain.jobString>正在培养动物植入物「巨蜥脑」。</GR_MonitorLizardBrain.jobString>
+
+  <GR_ThrumboBrain.label>培养动物植入物「秘兽脑」</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽脑」。</GR_ThrumboBrain.description>
+  <GR_ThrumboBrain.jobString>正在培养动物植入物「秘兽脑」。</GR_ThrumboBrain.jobString>
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>培养动物植入物「爆炸羊心脏」</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>用爆炸基因物质和基因构造框架来培养动物植入物「爆炸羊心脏」。</GR_BoomalopeHeart.description>
+  <GR_BoomalopeHeart.jobString>正在培养动物植入物「爆炸羊心脏」。</GR_BoomalopeHeart.jobString>
+
+  <GR_ChitinousHeart.label>培养动物植入物「甲壳质心脏」</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>用虫族基因物质和基因构造框架来培养仿生动物植入物「甲壳质心脏」。</GR_ChitinousHeart.description>
+  <GR_ChitinousHeart.jobString>正在培养动物植入物「甲壳质心脏」。</GR_ChitinousHeart.jobString>
+
+  <GR_MechaHeart.label>培养动物植入物「秘兽心脏」</GR_MechaHeart.label>
+  <GR_MechaHeart.description>用秘兽基因物质和基因构造框架来培养仿生动物植入物「秘兽心脏」。</GR_MechaHeart.description>
+  <GR_MechaHeart.jobString>正在培养动物植入物「秘兽心脏」。</GR_MechaHeart.jobString>
+
+
+  <!-- Lungs -->
+
+  <GR_MuffaloLung.label>培养动物植入物「雪牛肺」</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>用雪牛基因物质和基因构造框架来培养动物植入物「雪牛肺」。</GR_MuffaloLung.description>
+  <GR_MuffaloLung.jobString>正在培养动物植入物「雪牛肺」。</GR_MuffaloLung.jobString>
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>培养动物植入物「蛮熊肝」</GR_BearLiver.label>
+  <GR_BearLiver.description>用熊类基因物质和基因构造框架来培养动物植入物「蛮熊肝」。</GR_BearLiver.description>
+  <GR_BearLiver.jobString>正在培养动物植入物「蛮熊肝」。</GR_BearLiver.jobString>
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>培养动物植入物「飞禽肾」</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>用禽类基因物质和基因构造框架来培养动物植入物「飞禽肾」。</GR_ChickenKidney.description>
+  <GR_ChickenKidney.jobString>正在培养动物植入物「飞禽肾」。</GR_ChickenKidney.jobString>
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>培养动物植入物「爆炸羊胃」</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>用爆炸基因物质和基因构造框架来培养动物植入物「爆炸羊胃」。</GR_BoomalopeStomach.description>
+  <GR_BoomalopeStomach.jobString>正在培养动物植入物「爆炸羊胃」。</GR_BoomalopeStomach.jobString>
+
+
 </LanguageData>

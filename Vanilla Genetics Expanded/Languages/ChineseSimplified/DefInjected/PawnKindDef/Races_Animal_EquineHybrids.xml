@@ -1,92 +1,266 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bearhorse -->
+
+  <!-- Bear - Horse -->
+
   <GR_Bearhorse.label>熊马</GR_Bearhorse.label>
-  <!-- EN: bearhorse mare -->
-  <GR_Bearhorse.labelFemale>母熊马</GR_Bearhorse.labelFemale>
-  <!-- EN: bearhorse stallion -->
+  <GR_Bearhorse.labelPlural>bearhorses</GR_Bearhorse.labelPlural>
+  <GR_Bearhorse.lifeStages.0.label>bearhorse foal</GR_Bearhorse.lifeStages.0.label>
+  <GR_Bearhorse.lifeStages.0.labelPlural>bearhorse foals</GR_Bearhorse.lifeStages.0.labelPlural>
+  <GR_Bearhorse.lifeStages.0.labelMale>male bearhorse foal</GR_Bearhorse.lifeStages.0.labelMale>
+  <GR_Bearhorse.lifeStages.0.labelMalePlural>male bearhorse foals</GR_Bearhorse.lifeStages.0.labelMalePlural>
+  <GR_Bearhorse.lifeStages.0.labelFemale>female bearhorse foal</GR_Bearhorse.lifeStages.0.labelFemale>
+  <GR_Bearhorse.lifeStages.0.labelFemalePlural>female bearhorse foals</GR_Bearhorse.lifeStages.0.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.1.label>bearhorse</GR_Bearhorse.lifeStages.1.label>
+  <GR_Bearhorse.lifeStages.1.labelPlural>bearhorse</GR_Bearhorse.lifeStages.1.labelPlural>
+  <GR_Bearhorse.lifeStages.1.labelMale>bearhorse stallion</GR_Bearhorse.lifeStages.1.labelMale>
+  <GR_Bearhorse.lifeStages.1.labelMalePlural>male bearhorses</GR_Bearhorse.lifeStages.1.labelMalePlural>
+  <GR_Bearhorse.lifeStages.1.labelFemale>bearhorse mare</GR_Bearhorse.lifeStages.1.labelFemale>
+  <GR_Bearhorse.lifeStages.1.labelFemalePlural>female bearhorses</GR_Bearhorse.lifeStages.1.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.2.label>bearhorse</GR_Bearhorse.lifeStages.2.label>
+  <GR_Bearhorse.lifeStages.2.labelPlural>bearhorse</GR_Bearhorse.lifeStages.2.labelPlural>
+  <GR_Bearhorse.lifeStages.2.labelMale>bearhorse stallion</GR_Bearhorse.lifeStages.2.labelMale>
+  <GR_Bearhorse.lifeStages.2.labelMalePlural>male bearhorses</GR_Bearhorse.lifeStages.2.labelMalePlural>
+  <GR_Bearhorse.lifeStages.2.labelFemale>bearhorse mare</GR_Bearhorse.lifeStages.2.labelFemale>
+  <GR_Bearhorse.lifeStages.2.labelFemalePlural>female bearhorses</GR_Bearhorse.lifeStages.2.labelFemalePlural>
   <GR_Bearhorse.labelMale>公熊马</GR_Bearhorse.labelMale>
-  <!-- EN: bearhorse foal -->
-  <GR_Bearhorse.lifeStages.bearhorse_foal.label>熊马驹</GR_Bearhorse.lifeStages.bearhorse_foal.label>
-  
-  <!-- EN: boomhorse -->
+  <GR_Bearhorse.labelMalePlural>bearhorse stallions</GR_Bearhorse.labelMalePlural>
+  <GR_Bearhorse.labelFemale>母熊马</GR_Bearhorse.labelFemale>
+  <GR_Bearhorse.labelFemalePlural>bearhorse mares</GR_Bearhorse.labelFemalePlural>
+
+
+  <!-- Boomalope - Horse -->
+
   <GR_Boomhorse.label>爆炸马</GR_Boomhorse.label>
-  <!-- EN: boomhorse mare -->
-  <GR_Boomhorse.labelFemale>母爆炸马</GR_Boomhorse.labelFemale>
-  <!-- EN: boomhorse stallion -->
+  <GR_Boomhorse.labelPlural>boomhorses</GR_Boomhorse.labelPlural>
+  <GR_Boomhorse.lifeStages.0.label>boomhorse foal</GR_Boomhorse.lifeStages.0.label>
+  <GR_Boomhorse.lifeStages.0.labelPlural>boomhorse foals</GR_Boomhorse.lifeStages.0.labelPlural>
+  <GR_Boomhorse.lifeStages.0.labelMale>male boomhorse foal</GR_Boomhorse.lifeStages.0.labelMale>
+  <GR_Boomhorse.lifeStages.0.labelMalePlural>male boomhorse foals</GR_Boomhorse.lifeStages.0.labelMalePlural>
+  <GR_Boomhorse.lifeStages.0.labelFemale>female boomhorse foal</GR_Boomhorse.lifeStages.0.labelFemale>
+  <GR_Boomhorse.lifeStages.0.labelFemalePlural>female boomhorse foals</GR_Boomhorse.lifeStages.0.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.1.label>boomhorse</GR_Boomhorse.lifeStages.1.label>
+  <GR_Boomhorse.lifeStages.1.labelPlural>boomhorse</GR_Boomhorse.lifeStages.1.labelPlural>
+  <GR_Boomhorse.lifeStages.1.labelMale>boomhorse stallion</GR_Boomhorse.lifeStages.1.labelMale>
+  <GR_Boomhorse.lifeStages.1.labelMalePlural>male boomhorses</GR_Boomhorse.lifeStages.1.labelMalePlural>
+  <GR_Boomhorse.lifeStages.1.labelFemale>boomhorse mare</GR_Boomhorse.lifeStages.1.labelFemale>
+  <GR_Boomhorse.lifeStages.1.labelFemalePlural>female boomhorses</GR_Boomhorse.lifeStages.1.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.2.label>boomhorse</GR_Boomhorse.lifeStages.2.label>
+  <GR_Boomhorse.lifeStages.2.labelPlural>boomhorse</GR_Boomhorse.lifeStages.2.labelPlural>
+  <GR_Boomhorse.lifeStages.2.labelMale>boomhorse stallion</GR_Boomhorse.lifeStages.2.labelMale>
+  <GR_Boomhorse.lifeStages.2.labelMalePlural>male boomhorses</GR_Boomhorse.lifeStages.2.labelMalePlural>
+  <GR_Boomhorse.lifeStages.2.labelFemale>boomhorse mare</GR_Boomhorse.lifeStages.2.labelFemale>
+  <GR_Boomhorse.lifeStages.2.labelFemalePlural>female boomhorses</GR_Boomhorse.lifeStages.2.labelFemalePlural>
   <GR_Boomhorse.labelMale>公爆炸马</GR_Boomhorse.labelMale>
-  <!-- EN: boomhorse foal -->
-  <GR_Boomhorse.lifeStages.boomhorse_foal.label>爆炸马驹</GR_Boomhorse.lifeStages.boomhorse_foal.label>
-  
-  <!-- EN: cathorse -->
-  <GR_Cathorse.label>虎马</GR_Cathorse.label>
-  <!-- EN: cathorse mare -->
-  <GR_Cathorse.labelFemale>母虎马</GR_Cathorse.labelFemale>
-  <!-- EN: cathorse stallion -->
-  <GR_Cathorse.labelMale>公虎马</GR_Cathorse.labelMale>
-  <!-- EN: cathorse foal -->
-  <GR_Cathorse.lifeStages.cathorse_foal.label>虎马驹</GR_Cathorse.lifeStages.cathorse_foal.label>
-  
-  <!-- EN: chickenhorse -->
+  <GR_Boomhorse.labelMalePlural>boomhorse stallions</GR_Boomhorse.labelMalePlural>
+  <GR_Boomhorse.labelFemale>母爆炸马</GR_Boomhorse.labelFemale>
+  <GR_Boomhorse.labelFemalePlural>boomhorse mares</GR_Boomhorse.labelFemalePlural>
+
+
+  <!-- Chicken - Horse -->
+
   <GR_Chickenhorse.label>禽马</GR_Chickenhorse.label>
-  <!-- EN: chickenhorse mare -->
-  <GR_Chickenhorse.labelFemale>母禽马</GR_Chickenhorse.labelFemale>
-  <!-- EN: chickenhorse stallion -->
+  <GR_Chickenhorse.labelPlural>chickenhorses</GR_Chickenhorse.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.label>chickenhorse foal</GR_Chickenhorse.lifeStages.0.label>
+  <GR_Chickenhorse.lifeStages.0.labelPlural>chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.labelMale>male chickenhorse foal</GR_Chickenhorse.lifeStages.0.labelMale>
+  <GR_Chickenhorse.lifeStages.0.labelMalePlural>male chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.0.labelFemale>female chickenhorse foal</GR_Chickenhorse.lifeStages.0.labelFemale>
+  <GR_Chickenhorse.lifeStages.0.labelFemalePlural>female chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.1.label>chickenhorse</GR_Chickenhorse.lifeStages.1.label>
+  <GR_Chickenhorse.lifeStages.1.labelPlural>chickenhorse</GR_Chickenhorse.lifeStages.1.labelPlural>
+  <GR_Chickenhorse.lifeStages.1.labelMale>chickenhorse stallion</GR_Chickenhorse.lifeStages.1.labelMale>
+  <GR_Chickenhorse.lifeStages.1.labelMalePlural>male chickenhorses</GR_Chickenhorse.lifeStages.1.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.1.labelFemale>chickenhorse mare</GR_Chickenhorse.lifeStages.1.labelFemale>
+  <GR_Chickenhorse.lifeStages.1.labelFemalePlural>female chickenhorses</GR_Chickenhorse.lifeStages.1.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.2.label>chickenhorse</GR_Chickenhorse.lifeStages.2.label>
+  <GR_Chickenhorse.lifeStages.2.labelPlural>chickenhorse</GR_Chickenhorse.lifeStages.2.labelPlural>
+  <GR_Chickenhorse.lifeStages.2.labelMale>chickenhorse stallion</GR_Chickenhorse.lifeStages.2.labelMale>
+  <GR_Chickenhorse.lifeStages.2.labelMalePlural>male chickenhorses</GR_Chickenhorse.lifeStages.2.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.2.labelFemale>chickenhorse mare</GR_Chickenhorse.lifeStages.2.labelFemale>
+  <GR_Chickenhorse.lifeStages.2.labelFemalePlural>female chickenhorses</GR_Chickenhorse.lifeStages.2.labelFemalePlural>
   <GR_Chickenhorse.labelMale>公禽马</GR_Chickenhorse.labelMale>
-  <!-- EN: chickenhorse foal -->
-  <GR_Chickenhorse.lifeStages.chickenhorse_foal.label>禽马驹</GR_Chickenhorse.lifeStages.chickenhorse_foal.label>
-  
-  <!-- EN: crocorse -->
-  <GR_Crocorse.label>鳄马</GR_Crocorse.label>
-  <!-- EN: crocorse mare -->
-  <GR_Crocorse.labelFemale>母鳄马</GR_Crocorse.labelFemale>
-  <!-- EN: crocorse stallion -->
-  <GR_Crocorse.labelMale>公鳄马</GR_Crocorse.labelMale>
-  <!-- EN: crocorse foal -->
-  <GR_Crocorse.lifeStages.crocorse_foal.label>鳄马驹</GR_Crocorse.lifeStages.crocorse_foal.label>
-  
-  <!-- EN: hurseman -->
-  <GR_Hurseman.label>人马</GR_Hurseman.label>
-  <!-- EN: hurseman mare -->
-  <GR_Hurseman.labelFemale>女人马</GR_Hurseman.labelFemale>
-  <!-- EN: hurseman stallion -->
-  <GR_Hurseman.labelMale>男人马</GR_Hurseman.labelMale>
-  <!-- EN: hurseman foal -->
-  <GR_Hurseman.lifeStages.hurseman_foal.label>人马宝宝</GR_Hurseman.lifeStages.hurseman_foal.label>
-  
-  <!-- EN: molehorse -->
+  <GR_Chickenhorse.labelMalePlural>chickenhorse stallions</GR_Chickenhorse.labelMalePlural>
+  <GR_Chickenhorse.labelFemale>母禽马</GR_Chickenhorse.labelFemale>
+  <GR_Chickenhorse.labelFemalePlural>chickenhorse mares</GR_Chickenhorse.labelFemalePlural>
+
+
+  <!-- Cat - Horse -->
+
+  <GR_Cathorse.label>虎马</GR_Cathorse.label>
+  <GR_Cathorse.labelPlural>cathorses</GR_Cathorse.labelPlural>
+  <GR_Cathorse.lifeStages.0.label>cathorse foal</GR_Cathorse.lifeStages.0.label>
+  <GR_Cathorse.lifeStages.0.labelPlural>cathorse foals</GR_Cathorse.lifeStages.0.labelPlural>
+  <GR_Cathorse.lifeStages.0.labelMale>male cathorse foal</GR_Cathorse.lifeStages.0.labelMale>
+  <GR_Cathorse.lifeStages.0.labelMalePlural>male cathorse foals</GR_Cathorse.lifeStages.0.labelMalePlural>
+  <GR_Cathorse.lifeStages.0.labelFemale>female cathorse foal</GR_Cathorse.lifeStages.0.labelFemale>
+  <GR_Cathorse.lifeStages.0.labelFemalePlural>female cathorse foals</GR_Cathorse.lifeStages.0.labelFemalePlural>
+  <GR_Cathorse.lifeStages.1.label>cathorse</GR_Cathorse.lifeStages.1.label>
+  <GR_Cathorse.lifeStages.1.labelPlural>cathorse</GR_Cathorse.lifeStages.1.labelPlural>
+  <GR_Cathorse.lifeStages.1.labelMale>cathorse stallion</GR_Cathorse.lifeStages.1.labelMale>
+  <GR_Cathorse.lifeStages.1.labelMalePlural>male cathorses</GR_Cathorse.lifeStages.1.labelMalePlural>
+  <GR_Cathorse.lifeStages.1.labelFemale>cathorse mare</GR_Cathorse.lifeStages.1.labelFemale>
+  <GR_Cathorse.lifeStages.1.labelFemalePlural>female cathorses</GR_Cathorse.lifeStages.1.labelFemalePlural>
+  <GR_Cathorse.lifeStages.2.label>cathorse</GR_Cathorse.lifeStages.2.label>
+  <GR_Cathorse.lifeStages.2.labelPlural>cathorse</GR_Cathorse.lifeStages.2.labelPlural>
+  <GR_Cathorse.lifeStages.2.labelMale>cathorse stallion</GR_Cathorse.lifeStages.2.labelMale>
+  <GR_Cathorse.lifeStages.2.labelMalePlural>male cathorses</GR_Cathorse.lifeStages.2.labelMalePlural>
+  <GR_Cathorse.lifeStages.2.labelFemale>cathorse mare</GR_Cathorse.lifeStages.2.labelFemale>
+  <GR_Cathorse.lifeStages.2.labelFemalePlural>female cathorses</GR_Cathorse.lifeStages.2.labelFemalePlural>
+  <GR_Cathorse.labelMale>公虎马</GR_Cathorse.labelMale>
+  <GR_Cathorse.labelMalePlural>cathorse stallions</GR_Cathorse.labelMalePlural>
+  <GR_Cathorse.labelFemale>母虎马</GR_Cathorse.labelFemale>
+  <GR_Cathorse.labelFemalePlural>cathorse mares</GR_Cathorse.labelFemalePlural>
+
+
+  <!-- Mole - Horse -->
+
   <GR_Molehorse.label>鼹鼠马</GR_Molehorse.label>
-  <!-- EN: molehorse mare -->
-  <GR_Molehorse.labelFemale>母鼹鼠马</GR_Molehorse.labelFemale>
-  <!-- EN: molehorse stallion -->
+  <GR_Molehorse.labelPlural>molehorses</GR_Molehorse.labelPlural>
+  <GR_Molehorse.lifeStages.0.label>molehorse foal</GR_Molehorse.lifeStages.0.label>
+  <GR_Molehorse.lifeStages.0.labelPlural>molehorse foals</GR_Molehorse.lifeStages.0.labelPlural>
+  <GR_Molehorse.lifeStages.0.labelMale>male molehorse foal</GR_Molehorse.lifeStages.0.labelMale>
+  <GR_Molehorse.lifeStages.0.labelMalePlural>male molehorse foals</GR_Molehorse.lifeStages.0.labelMalePlural>
+  <GR_Molehorse.lifeStages.0.labelFemale>female molehorse foal</GR_Molehorse.lifeStages.0.labelFemale>
+  <GR_Molehorse.lifeStages.0.labelFemalePlural>female molehorse foals</GR_Molehorse.lifeStages.0.labelFemalePlural>
+  <GR_Molehorse.lifeStages.1.label>molehorse</GR_Molehorse.lifeStages.1.label>
+  <GR_Molehorse.lifeStages.1.labelPlural>molehorse</GR_Molehorse.lifeStages.1.labelPlural>
+  <GR_Molehorse.lifeStages.1.labelMale>molehorse stallion</GR_Molehorse.lifeStages.1.labelMale>
+  <GR_Molehorse.lifeStages.1.labelMalePlural>male molehorses</GR_Molehorse.lifeStages.1.labelMalePlural>
+  <GR_Molehorse.lifeStages.1.labelFemale>molehorse mare</GR_Molehorse.lifeStages.1.labelFemale>
+  <GR_Molehorse.lifeStages.1.labelFemalePlural>female molehorses</GR_Molehorse.lifeStages.1.labelFemalePlural>
+  <GR_Molehorse.lifeStages.2.label>molehorse</GR_Molehorse.lifeStages.2.label>
+  <GR_Molehorse.lifeStages.2.labelPlural>molehorse</GR_Molehorse.lifeStages.2.labelPlural>
+  <GR_Molehorse.lifeStages.2.labelMale>molehorse stallion</GR_Molehorse.lifeStages.2.labelMale>
+  <GR_Molehorse.lifeStages.2.labelMalePlural>male molehorses</GR_Molehorse.lifeStages.2.labelMalePlural>
+  <GR_Molehorse.lifeStages.2.labelFemale>molehorse mare</GR_Molehorse.lifeStages.2.labelFemale>
+  <GR_Molehorse.lifeStages.2.labelFemalePlural>female molehorses</GR_Molehorse.lifeStages.2.labelFemalePlural>
   <GR_Molehorse.labelMale>公鼹鼠马</GR_Molehorse.labelMale>
-  <!-- EN: molehorse foal -->
-  <GR_Molehorse.lifeStages.molehorse_foal.label>鼹鼠马驹</GR_Molehorse.lifeStages.molehorse_foal.label>
-  
-  <!-- EN: muffalohorse -->
-  <GR_Muffalohorse.label>雪牛马</GR_Muffalohorse.label>
-  <!-- EN: muffalohorse mare -->
-  <GR_Muffalohorse.labelFemale>母雪牛马</GR_Muffalohorse.labelFemale>
-  <!-- EN: muffalohorse stallion -->
-  <GR_Muffalohorse.labelMale>公雪牛马</GR_Muffalohorse.labelMale>
-  <!-- EN: muffalohorse foal -->
-  <GR_Muffalohorse.lifeStages.muffalohorse_foal.label>雪牛马驹</GR_Muffalohorse.lifeStages.muffalohorse_foal.label>
-  
-  <!-- EN: spiderhorse -->
-  <GR_Spiderhorse.label>巨蛛马</GR_Spiderhorse.label>
-  <!-- EN: spiderhorse mare -->
-  <GR_Spiderhorse.labelFemale>母巨蛛马</GR_Spiderhorse.labelFemale>
-  <!-- EN: spiderhorse stallion -->
-  <GR_Spiderhorse.labelMale>公巨蛛马</GR_Spiderhorse.labelMale>
-  
-  <!-- EN: wolfhorse -->
+  <GR_Molehorse.labelMalePlural>molehorse stallions</GR_Molehorse.labelMalePlural>
+  <GR_Molehorse.labelFemale>母鼹鼠马</GR_Molehorse.labelFemale>
+  <GR_Molehorse.labelFemalePlural>molehorse mares</GR_Molehorse.labelFemalePlural>
+
+
+  <!-- Wolf - Horse -->
+
   <GR_Wolfhorse.label>狼马</GR_Wolfhorse.label>
-  <!-- EN: wolfhorse mare -->
-  <GR_Wolfhorse.labelFemale>母狼马</GR_Wolfhorse.labelFemale>
-  <!-- EN: wolfhorse stallion -->
+  <GR_Wolfhorse.labelPlural>wolfhorses</GR_Wolfhorse.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.label>wolfhorse foal</GR_Wolfhorse.lifeStages.0.label>
+  <GR_Wolfhorse.lifeStages.0.labelPlural>wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.labelMale>male wolfhorse foal</GR_Wolfhorse.lifeStages.0.labelMale>
+  <GR_Wolfhorse.lifeStages.0.labelMalePlural>male wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.0.labelFemale>female wolfhorse foal</GR_Wolfhorse.lifeStages.0.labelFemale>
+  <GR_Wolfhorse.lifeStages.0.labelFemalePlural>female wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.1.label>wolfhorse</GR_Wolfhorse.lifeStages.1.label>
+  <GR_Wolfhorse.lifeStages.1.labelPlural>wolfhorse</GR_Wolfhorse.lifeStages.1.labelPlural>
+  <GR_Wolfhorse.lifeStages.1.labelMale>wolfhorse stallion</GR_Wolfhorse.lifeStages.1.labelMale>
+  <GR_Wolfhorse.lifeStages.1.labelMalePlural>male wolfhorses</GR_Wolfhorse.lifeStages.1.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.1.labelFemale>wolfhorse mare</GR_Wolfhorse.lifeStages.1.labelFemale>
+  <GR_Wolfhorse.lifeStages.1.labelFemalePlural>female wolfhorses</GR_Wolfhorse.lifeStages.1.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.2.label>wolfhorse</GR_Wolfhorse.lifeStages.2.label>
+  <GR_Wolfhorse.lifeStages.2.labelPlural>wolfhorse</GR_Wolfhorse.lifeStages.2.labelPlural>
+  <GR_Wolfhorse.lifeStages.2.labelMale>wolfhorse stallion</GR_Wolfhorse.lifeStages.2.labelMale>
+  <GR_Wolfhorse.lifeStages.2.labelMalePlural>male wolfhorses</GR_Wolfhorse.lifeStages.2.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.2.labelFemale>wolfhorse mare</GR_Wolfhorse.lifeStages.2.labelFemale>
+  <GR_Wolfhorse.lifeStages.2.labelFemalePlural>female wolfhorses</GR_Wolfhorse.lifeStages.2.labelFemalePlural>
   <GR_Wolfhorse.labelMale>公狼马</GR_Wolfhorse.labelMale>
-  <!-- EN: wolfhorse foal -->
-  <GR_Wolfhorse.lifeStages.wolfhorse_foal.label>狼马驹</GR_Wolfhorse.lifeStages.wolfhorse_foal.label>
-  
+  <GR_Wolfhorse.labelMalePlural>wolfhorse stallions</GR_Wolfhorse.labelMalePlural>
+  <GR_Wolfhorse.labelFemale>母狼马</GR_Wolfhorse.labelFemale>
+  <GR_Wolfhorse.labelFemalePlural>wolfhorse mares</GR_Wolfhorse.labelFemalePlural>
+
+
+  <!-- Muffalo - Horse -->
+
+  <GR_Muffalohorse.label>雪牛马</GR_Muffalohorse.label>
+  <GR_Muffalohorse.labelPlural>muffalohorses</GR_Muffalohorse.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.label>muffalohorse foal</GR_Muffalohorse.lifeStages.0.label>
+  <GR_Muffalohorse.lifeStages.0.labelPlural>muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.labelMale>male muffalohorse foal</GR_Muffalohorse.lifeStages.0.labelMale>
+  <GR_Muffalohorse.lifeStages.0.labelMalePlural>male muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.0.labelFemale>female muffalohorse foal</GR_Muffalohorse.lifeStages.0.labelFemale>
+  <GR_Muffalohorse.lifeStages.0.labelFemalePlural>female muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.1.label>muffalohorse</GR_Muffalohorse.lifeStages.1.label>
+  <GR_Muffalohorse.lifeStages.1.labelPlural>muffalohorse</GR_Muffalohorse.lifeStages.1.labelPlural>
+  <GR_Muffalohorse.lifeStages.1.labelMale>muffalohorse stallion</GR_Muffalohorse.lifeStages.1.labelMale>
+  <GR_Muffalohorse.lifeStages.1.labelMalePlural>male muffalohorses</GR_Muffalohorse.lifeStages.1.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.1.labelFemale>muffalohorse mare</GR_Muffalohorse.lifeStages.1.labelFemale>
+  <GR_Muffalohorse.lifeStages.1.labelFemalePlural>female muffalohorses</GR_Muffalohorse.lifeStages.1.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.2.label>muffalohorse</GR_Muffalohorse.lifeStages.2.label>
+  <GR_Muffalohorse.lifeStages.2.labelPlural>muffalohorse</GR_Muffalohorse.lifeStages.2.labelPlural>
+  <GR_Muffalohorse.lifeStages.2.labelMale>muffalohorse stallion</GR_Muffalohorse.lifeStages.2.labelMale>
+  <GR_Muffalohorse.lifeStages.2.labelMalePlural>male muffalohorses</GR_Muffalohorse.lifeStages.2.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.2.labelFemale>muffalohorse mare</GR_Muffalohorse.lifeStages.2.labelFemale>
+  <GR_Muffalohorse.lifeStages.2.labelFemalePlural>female muffalohorses</GR_Muffalohorse.lifeStages.2.labelFemalePlural>
+  <GR_Muffalohorse.labelMale>公雪牛马</GR_Muffalohorse.labelMale>
+  <GR_Muffalohorse.labelMalePlural>muffalohorse stallions</GR_Muffalohorse.labelMalePlural>
+  <GR_Muffalohorse.labelFemale>母雪牛马</GR_Muffalohorse.labelFemale>
+  <GR_Muffalohorse.labelFemalePlural>muffalohorse mares</GR_Muffalohorse.labelFemalePlural>
+
+
+  <!-- Reptile - Horse -->
+
+  <GR_Crocorse.label>鳄马</GR_Crocorse.label>
+  <GR_Crocorse.labelPlural>crocorses</GR_Crocorse.labelPlural>
+  <GR_Crocorse.lifeStages.0.label>crocorse foal</GR_Crocorse.lifeStages.0.label>
+  <GR_Crocorse.lifeStages.0.labelPlural>crocorse foals</GR_Crocorse.lifeStages.0.labelPlural>
+  <GR_Crocorse.lifeStages.0.labelMale>male crocorse foal</GR_Crocorse.lifeStages.0.labelMale>
+  <GR_Crocorse.lifeStages.0.labelMalePlural>male crocorse foals</GR_Crocorse.lifeStages.0.labelMalePlural>
+  <GR_Crocorse.lifeStages.0.labelFemale>female crocorse foal</GR_Crocorse.lifeStages.0.labelFemale>
+  <GR_Crocorse.lifeStages.0.labelFemalePlural>female crocorse foals</GR_Crocorse.lifeStages.0.labelFemalePlural>
+  <GR_Crocorse.lifeStages.1.label>crocorse</GR_Crocorse.lifeStages.1.label>
+  <GR_Crocorse.lifeStages.1.labelPlural>crocorse</GR_Crocorse.lifeStages.1.labelPlural>
+  <GR_Crocorse.lifeStages.1.labelMale>crocorse stallion</GR_Crocorse.lifeStages.1.labelMale>
+  <GR_Crocorse.lifeStages.1.labelMalePlural>male crocorses</GR_Crocorse.lifeStages.1.labelMalePlural>
+  <GR_Crocorse.lifeStages.1.labelFemale>crocorse mare</GR_Crocorse.lifeStages.1.labelFemale>
+  <GR_Crocorse.lifeStages.1.labelFemalePlural>female crocorses</GR_Crocorse.lifeStages.1.labelFemalePlural>
+  <GR_Crocorse.lifeStages.2.label>crocorse</GR_Crocorse.lifeStages.2.label>
+  <GR_Crocorse.lifeStages.2.labelPlural>crocorse</GR_Crocorse.lifeStages.2.labelPlural>
+  <GR_Crocorse.lifeStages.2.labelMale>crocorse stallion</GR_Crocorse.lifeStages.2.labelMale>
+  <GR_Crocorse.lifeStages.2.labelMalePlural>male crocorses</GR_Crocorse.lifeStages.2.labelMalePlural>
+  <GR_Crocorse.lifeStages.2.labelFemale>crocorse mare</GR_Crocorse.lifeStages.2.labelFemale>
+  <GR_Crocorse.lifeStages.2.labelFemalePlural>female crocorses</GR_Crocorse.lifeStages.2.labelFemalePlural>
+  <GR_Crocorse.labelMale>公鳄马</GR_Crocorse.labelMale>
+  <GR_Crocorse.labelMalePlural>crocorse stallions</GR_Crocorse.labelMalePlural>
+  <GR_Crocorse.labelFemale>母鳄马</GR_Crocorse.labelFemale>
+  <GR_Crocorse.labelFemalePlural>crocorse mares</GR_Crocorse.labelFemalePlural>
+
+
+  <!-- Insectoid - Horse -->
+
+  <GR_Spiderhorse.label>巨蛛马</GR_Spiderhorse.label>
+  <GR_Spiderhorse.labelPlural>spiderhorses</GR_Spiderhorse.labelPlural>
+  <GR_Spiderhorse.labelMale>公巨蛛马</GR_Spiderhorse.labelMale>
+  <GR_Spiderhorse.labelMalePlural>spiderhorse stallions</GR_Spiderhorse.labelMalePlural>
+  <GR_Spiderhorse.labelFemale>母巨蛛马</GR_Spiderhorse.labelFemale>
+  <GR_Spiderhorse.labelFemalePlural>spiderhorse mares</GR_Spiderhorse.labelFemalePlural>
+
+
+  <!-- Humanoid - Horse -->
+
+  <GR_Hurseman.label>人马</GR_Hurseman.label>
+  <GR_Hurseman.labelPlural>hursemans</GR_Hurseman.labelPlural>
+  <GR_Hurseman.lifeStages.0.label>hurseman foal</GR_Hurseman.lifeStages.0.label>
+  <GR_Hurseman.lifeStages.0.labelPlural>hurseman foals</GR_Hurseman.lifeStages.0.labelPlural>
+  <GR_Hurseman.lifeStages.0.labelMale>male hurseman foal</GR_Hurseman.lifeStages.0.labelMale>
+  <GR_Hurseman.lifeStages.0.labelMalePlural>male hurseman foals</GR_Hurseman.lifeStages.0.labelMalePlural>
+  <GR_Hurseman.lifeStages.0.labelFemale>female hurseman foal</GR_Hurseman.lifeStages.0.labelFemale>
+  <GR_Hurseman.lifeStages.0.labelFemalePlural>female hurseman foals</GR_Hurseman.lifeStages.0.labelFemalePlural>
+  <GR_Hurseman.lifeStages.1.label>hurseman</GR_Hurseman.lifeStages.1.label>
+  <GR_Hurseman.lifeStages.1.labelPlural>hurseman</GR_Hurseman.lifeStages.1.labelPlural>
+  <GR_Hurseman.lifeStages.1.labelMale>hurseman stallion</GR_Hurseman.lifeStages.1.labelMale>
+  <GR_Hurseman.lifeStages.1.labelMalePlural>male hursemans</GR_Hurseman.lifeStages.1.labelMalePlural>
+  <GR_Hurseman.lifeStages.1.labelFemale>hurseman mare</GR_Hurseman.lifeStages.1.labelFemale>
+  <GR_Hurseman.lifeStages.1.labelFemalePlural>female hursemans</GR_Hurseman.lifeStages.1.labelFemalePlural>
+  <GR_Hurseman.lifeStages.2.label>hurseman</GR_Hurseman.lifeStages.2.label>
+  <GR_Hurseman.lifeStages.2.labelPlural>hurseman</GR_Hurseman.lifeStages.2.labelPlural>
+  <GR_Hurseman.lifeStages.2.labelMale>hurseman stallion</GR_Hurseman.lifeStages.2.labelMale>
+  <GR_Hurseman.lifeStages.2.labelMalePlural>male hursemans</GR_Hurseman.lifeStages.2.labelMalePlural>
+  <GR_Hurseman.lifeStages.2.labelFemale>hurseman mare</GR_Hurseman.lifeStages.2.labelFemale>
+  <GR_Hurseman.lifeStages.2.labelFemalePlural>female hursemans</GR_Hurseman.lifeStages.2.labelFemalePlural>
+  <GR_Hurseman.labelMale>男人马</GR_Hurseman.labelMale>
+  <GR_Hurseman.labelMalePlural>hurseman stallions</GR_Hurseman.labelMalePlural>
+  <GR_Hurseman.labelFemale>女人马</GR_Hurseman.labelFemale>
+  <GR_Hurseman.labelFemalePlural>hurseman mares</GR_Hurseman.labelFemalePlural>
+
+
 </LanguageData>

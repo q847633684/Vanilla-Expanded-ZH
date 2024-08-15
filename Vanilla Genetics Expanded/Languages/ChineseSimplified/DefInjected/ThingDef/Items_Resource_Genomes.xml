@@ -1,69 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: avian genome -->
-  <GR_AvianGenetic.label>禽类基因物质</GR_AvianGenetic.label>
-  <!-- EN: A payload of avian genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All primary avian hybrids lay eggs. Combat avian hybrids get increased movement speed.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_AvianGenetic.description>装有禽类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分禽类混种生物都可以产蛋。战斗型的禽类混种生物拥有更快的移动速度。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器以从下列生物身上获得这种基因物质：</GR_AvianGenetic.description>
-  
-  <!-- EN: boom genome -->
-  <GR_BoomalopeGenetic.label>爆炸基因物质</GR_BoomalopeGenetic.label>
-  <!-- EN: A payload of boom genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All boom hybrids explode on death. Farm hybrids produce chemfuel, while combat hybrids can use exploding abilities.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_BoomalopeGenetic.description>装有爆炸基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有爆炸混种生物都会在死后爆炸。畜牧型的爆炸混种生物可以产出化合燃料或沉积原液。战斗型的爆炸混种生物则拥有一些特殊能力。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_BoomalopeGenetic.description>
-  
-  <!-- EN: canine genome -->
-  <GR_CanineGenetic.label>犬科基因物质</GR_CanineGenetic.label>
-  <!-- EN: A payload of canine genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All primary canine hybrids have the adrenaline rush ability. All canine hybrids have fast attack speed.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_CanineGenetic.description>装有犬科基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，且攻击速度很快。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_CanineGenetic.description>
-  
-  <!-- EN: equine genome -->
-  <GR_EquineGenetic.label>马类基因物质</GR_EquineGenetic.label>
-  <!-- EN: A payload of equine genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All equine hybrids have increased caravaning speed.\n\n<color=#E5E54C>Extraction:</color> Can only be extracted via any genome excavator from: -->
-  <GR_EquineGenetic.description>装有马类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有马类混种生物都可以提高远行队的移动速度。\n\n&lt;color=#E5E54C>来源：&lt;/color>仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_EquineGenetic.description>
-  
-  <!-- EN: feline genome -->
-  <GR_FelineGenetic.label>猫科基因物质</GR_FelineGenetic.label>
-  <!-- EN: A payload of feline genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All feline hybrids have an inherent dodge chance. Combat feline hybrids get a further increase to dodge chance.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_FelineGenetic.description>装有猫科基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。战斗型的猫科混种生物拥有更高的近战闪避几率加成。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_FelineGenetic.description>
-  
-  <!-- EN: humanoid genome -->
-  <GR_HumanoidGenetic.label>人类基因物质</GR_HumanoidGenetic.label>
-  <!-- EN: A payload of humanoid genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All humanoid hybrids have a somewhat decent level of intelligence and can do various tasks around the colony.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from any sentient humanoid. -->
-  <GR_HumanoidGenetic.description>装有人类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分人类混种生物都拥有很高的智力。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_HumanoidGenetic.description>
-  
-  <!-- EN: insectoid genome -->
-  <GR_InsectoidGenetic.label>虫族基因物质</GR_InsectoidGenetic.label>
-  <!-- EN: A payload of insectoid genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All hybrids with insectoid genome get 100% toxic resistance as well as an armor increase. Combat hybrids get a further increase to armor.\n\n<color=#E5E54C>Extraction:</color> Can only be extracted via any genome excavator from: -->
-  <GR_InsectoidGenetic.description>装有虫族基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。战斗型的虫族混种生物拥有更高的护甲值。\n\n&lt;color=#E5E54C>来源：&lt;/color>仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_InsectoidGenetic.description>
-  
-  <!-- EN: muffalo genome -->
-  <GR_MuffaloGenetic.label>雪牛基因物质</GR_MuffaloGenetic.label>
-  <!-- EN: A payload of muffalo genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All muffalo hybrid animals are pack animals, with primary muffalo hybrids getting 50% increased capacity caravaning. All muffalo hybrids have an increase to minimum comfortable temperature.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_MuffaloGenetic.description>装有雪牛基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分雪牛混种生物都是优秀且耐寒的驮运动物。所有雪牛基因物质作为主体性状的混种生物都拥有额外50%的远行队载重。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_MuffaloGenetic.description>
-  
-  <!-- EN: reptile genome -->
-  <GR_ReptileGenetic.label>爬行类基因物质</GR_ReptileGenetic.label>
-  <!-- EN: A payload of reptile genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have greatly increased minimum and maximum comfortable temperature. They also have melee and ranged venomous attacks.\n\n<color=#E5E54C>Extraction:</color> Can only be extracted via any genome excavator from: -->
-  <GR_ReptileGenetic.description>存有爬行类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分爬行类混种生物都拥有良好的耐寒耐热能力，它们的近战攻击或远程攻击都会使敌人中毒。\n\n&lt;color=#E5E54C>来源：&lt;/color>仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_ReptileGenetic.description>
-  
-  <!-- EN: rodent/leporid genome -->
-  <GR_RodentGenetic.label>啮齿类/兔类基因物质</GR_RodentGenetic.label>
-  <!-- EN: A payload of rodent genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have a reduced body size, but greatly increased reproduction rates (if fertile).\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_RodentGenetic.description>存有啮齿类和兔类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>大部分啮齿类/兔类混种生物都拥有较小的体型和很快的繁殖速度。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_RodentGenetic.description>
-  
-  <!-- EN: template genome -->
-  <GR_TemplateGenetic.label>基因物质模板</GR_TemplateGenetic.label>
-  <!-- EN: Absolutely and completely worthless, but when properly processed alongside an actual genome it can be trimmed down to an identical copy. -->
-  <GR_TemplateGenetic.description>复制其他基因物质时必不可少的模板材料。</GR_TemplateGenetic.description>
-  
-  <!-- EN: colossal genome -->
-  <GR_ThrumboGenetic.label>秘兽基因物质</GR_ThrumboGenetic.label>
-  <!-- EN: A payload of colossal genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 3 genome can only be used as primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> Extreme increase in size, health, damage and market value at the cost of slower attack speed.\n\n<color=#E5E54C>Extraction:</color> Can only be extracted via an archotech genome excavator from: -->
-  <GR_ThrumboGenetic.description>存有秘兽基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：3级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有秘兽混种生物都拥有很高的血量、伤害、体型与市场价值，但攻击速度较慢。\n\n&lt;color=#E5E54C>来源：&lt;/color>仅能通过超凡基因抽取器来从下列生物身上获得这种基因物质：</GR_ThrumboGenetic.description>
-  
-  <!-- EN: ursine genome -->
+
+  <!-- Genetic Material -->
+
   <GR_UrsineGenetic.label>熊类基因物质</GR_UrsineGenetic.label>
-  <!-- EN: A payload of ursine genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used as either a primary or secondary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All primary ursine hybrids have stunning attacks, and high body size.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table or any genome excavator from: -->
-  <GR_UrsineGenetic.description>存有熊类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C>游戏效果：&lt;/color>所有熊类基因物质作为主体性状的混种生物都拥有很高的伤害与体型。\n\n&lt;color=#E5E54C>来源：&lt;/color>能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_UrsineGenetic.description>
-  
+  <GR_UrsineGenetic.description>存有熊类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有熊类基因物质作为主体性状的混种生物都拥有很高的伤害与体型。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_UrsineGenetic.description>
+
+  <GR_AvianGenetic.label>禽类基因物质</GR_AvianGenetic.label>
+  <GR_AvianGenetic.description>装有禽类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分禽类混种生物都可以产蛋。战斗型的禽类混种生物拥有更快的移动速度。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器以从下列生物身上获得这种基因物质：</GR_AvianGenetic.description>
+
+  <GR_BoomalopeGenetic.label>爆炸基因物质</GR_BoomalopeGenetic.label>
+  <GR_BoomalopeGenetic.description>装有爆炸基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爆炸混种生物都会在死后爆炸。畜牧型的爆炸混种生物可以产出化合燃料或沉积原液。战斗型的爆炸混种生物则拥有一些特殊能力。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_BoomalopeGenetic.description>
+
+  <GR_MuffaloGenetic.label>雪牛基因物质</GR_MuffaloGenetic.label>
+  <GR_MuffaloGenetic.description>装有雪牛基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分雪牛混种生物都是优秀且耐寒的驮运动物。所有雪牛基因物质作为主体性状的混种生物都拥有额外50%的远行队载重。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_MuffaloGenetic.description>
+
+  <GR_CanineGenetic.label>犬科基因物质</GR_CanineGenetic.label>
+  <GR_CanineGenetic.description>装有犬科基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分犬科混种生物都拥有特殊能力“肾上腺素激发”，且攻击速度很快。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_CanineGenetic.description>
+
+  <GR_RodentGenetic.label>啮齿类/兔类基因物质</GR_RodentGenetic.label>
+  <GR_RodentGenetic.description>存有啮齿类和兔类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分啮齿类/兔类混种生物都拥有较小的体型和很快的繁殖速度。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_RodentGenetic.description>
+
+  <GR_FelineGenetic.label>猫科基因物质</GR_FelineGenetic.label>
+  <GR_FelineGenetic.description>装有猫科基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分猫科混种生物都拥有一定的近战闪避几率加成和较短的亲昵间隔。战斗型的猫科混种生物拥有更高的近战闪避几率加成。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_FelineGenetic.description>
+
+  <GR_HumanoidGenetic.label>人类基因物质</GR_HumanoidGenetic.label>
+  <GR_HumanoidGenetic.description>装有人类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：1级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：是\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分人类混种生物都拥有很高的智力。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;能通过基因提取台或基因抽取器来从下列生物身上获得这种基因物质：</GR_HumanoidGenetic.description>
+
+  <GR_EquineGenetic.label>马类基因物质</GR_EquineGenetic.label>
+  <GR_EquineGenetic.description>装有马类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有马类混种生物都可以提高远行队的移动速度。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_EquineGenetic.description>
+
+  <GR_InsectoidGenetic.label>虫族基因物质</GR_InsectoidGenetic.label>
+  <GR_InsectoidGenetic.description>装有虫族基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分虫族混种生物都拥有100%毒物抗性和一定护甲值。战斗型的虫族混种生物拥有更高的护甲值。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_InsectoidGenetic.description>
+
+  <GR_ReptileGenetic.label>爬行类基因物质</GR_ReptileGenetic.label>
+  <GR_ReptileGenetic.description>存有爬行类基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：2级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n在与同等级或更高等级的遗传物质组合时，可以忽略主要基因和次要基因的位置限制。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大部分爬行类混种生物都拥有良好的耐寒耐热能力，它们的近战攻击或远程攻击都会使敌人中毒。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;仅能通过基因抽取器来从下列生物身上获得这种基因物质：</GR_ReptileGenetic.description>
+
+  <GR_ThrumboGenetic.label>秘兽基因物质</GR_ThrumboGenetic.label>
+  <GR_ThrumboGenetic.description>存有秘兽基因物质的容器，可用来在基因塑造仪中塑造孵化单元。\n\n【级别】：3级\n【是否能作为主体性状基因】：是\n【是否能作为嵌合性状基因】：否\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有秘兽混种生物都拥有很高的血量、伤害、体型与市场价值，但攻击速度较慢。\n\n&lt;color=#E5E54C&gt;来源：&lt;/color&gt;仅能通过超凡基因抽取器来从下列生物身上获得这种基因物质：</GR_ThrumboGenetic.description>
+
+  <GR_TemplateGenetic.label>基因物质模板</GR_TemplateGenetic.label>
+  <GR_TemplateGenetic.description>复制其他基因物质时必不可少的模板材料。</GR_TemplateGenetic.description>
+
+
 </LanguageData>

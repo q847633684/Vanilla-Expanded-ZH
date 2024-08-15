@@ -1,186 +1,111 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: Human Implant: bear claws -->
+
+  <!-- Human Hybrid Implants -->
+
   <GR_CraftBearClaws.label>培养人类植入物「蛮熊爪」</GR_CraftBearClaws.label>
-  <!-- EN: Craft bear claws, a hybrid implant containing humanoid and bear DNA that adds a powerful melee attack. -->
   <GR_CraftBearClaws.description>用人类基因物质、熊类基因物质和基因构造框架来培养人类植入物「蛮熊爪」。</GR_CraftBearClaws.description>
-  <!-- EN: Crafting Bear Claws -->
   <GR_CraftBearClaws.jobString>正在培养人类植入物「蛮熊爪」。</GR_CraftBearClaws.jobString>
-  
-  <!-- EN: Human Implant: bear muscle tissue -->
-  <GR_CraftBearMuscleTissue.label>培养人类植入物「蛮熊肌肉组织」</GR_CraftBearMuscleTissue.label>
-  <!-- EN: Craft bear muscle tissue, a hybrid implant containing humanoid and bear DNA that adds strength and stamina. -->
-  <GR_CraftBearMuscleTissue.description>用人类基因物质、熊类基因物质和基因构造框架来培养人类植入物「蛮熊肌肉组织」。</GR_CraftBearMuscleTissue.description>
-  <!-- EN: Crafting Bear Muscle Tissue -->
-  <GR_CraftBearMuscleTissue.jobString>正在培养人类植入物「蛮熊肌肉组织」。</GR_CraftBearMuscleTissue.jobString>
-  
-  <!-- EN: Human Implant: boomalope nodules -->
-  <GR_CraftBoomalopeNodules.label>培养人类植入物「爆炸囊」</GR_CraftBoomalopeNodules.label>
-  <!-- EN: Craft boomalope nodules, a hybrid implant containing humanoid and boomalope DNA that causes a huge explosion if the subject dies violently. -->
-  <GR_CraftBoomalopeNodules.description>用人类基因物质、爆炸基因物质和基因构造框架来培养人类植入物「爆炸囊」。</GR_CraftBoomalopeNodules.description>
-  <!-- EN: Crafting boomalope nodules -->
-  <GR_CraftBoomalopeNodules.jobString>正在培养人类植入物「爆炸囊」。</GR_CraftBoomalopeNodules.jobString>
-  
-  <!-- EN: Human Implant: bunny ear -->
-  <GR_CraftBunnyEars.label>培养人类植入物「兔耳」</GR_CraftBunnyEars.label>
-  <!-- EN: Craft bunny ear. This huge leporid ear gives amazing enhanced hearing. Also, super kawaii! -->
-  <GR_CraftBunnyEars.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养人类植入物「兔耳」。</GR_CraftBunnyEars.description>
-  <!-- EN: Crafting bunny ear -->
-  <GR_CraftBunnyEars.jobString>正在培养人类植入物「兔耳」。</GR_CraftBunnyEars.jobString>
-  
-  <!-- EN: Human Implant: cat eye -->
-  <GR_CraftCatEye.label>培养人类植入物「猫咪眼」</GR_CraftCatEye.label>
-  <!-- EN: Craft cat eye. This hybrid humanoid / feline eye provides improved night vision, at the expense of a certain short-sightedness outside and during the day. Ideal for nyctophile colonists. -->
-  <GR_CraftCatEye.description>用人类基因物质、猫科基因物质和基因构造框架来培养人类植入物「猫咪眼」。</GR_CraftCatEye.description>
-  <!-- EN: Crafting cat eye -->
-  <GR_CraftCatEye.jobString>正在培养人类植入物「猫咪眼」。</GR_CraftCatEye.jobString>
-  
-  <!-- EN: Human Implant: chemfuel heart -->
-  <GR_CraftChemfuelHeart.label>培养人类植入物「化合燃料心脏」</GR_CraftChemfuelHeart.label>
-  <!-- EN: Craft chemfuel heart, a reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body. -->
-  <GR_CraftChemfuelHeart.description>用人类基因物质、爆炸基因物质和基因构造框架来培养仿生人类植入物「化合燃料心脏」。</GR_CraftChemfuelHeart.description>
-  <!-- EN: Crafting chemfuel heart -->
-  <GR_CraftChemfuelHeart.jobString>正在培养人类植入物「化合燃料心脏」。</GR_CraftChemfuelHeart.jobString>
-  
-  <!-- EN: Human Implant: chemfuel stomach -->
-  <GR_CraftChemfuelStomach.label>培养人类植入物「化合燃料胃」</GR_CraftChemfuelStomach.label>
-  <!-- EN: Craft chemfuel stomach, a reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food. -->
-  <GR_CraftChemfuelStomach.description>用人类基因物质、爆炸基因物质和基因构造框架来培养仿生人类植入物「化合燃料胃」。</GR_CraftChemfuelStomach.description>
-  <!-- EN: Crafting chemfuel stomach -->
-  <GR_CraftChemfuelStomach.jobString>正在培养人类植入物「化合燃料胃」。</GR_CraftChemfuelStomach.jobString>
-  
-  <!-- EN: Human Implant: compound eye -->
-  <GR_CraftCompoundEye.label>培养人类植入物「虫族复眼」</GR_CraftCompoundEye.label>
-  <!-- EN: Craft compound eye. This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings. -->
-  <GR_CraftCompoundEye.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「虫族复眼」。</GR_CraftCompoundEye.description>
-  <!-- EN: Crafting compound eye -->
-  <GR_CraftCompoundEye.jobString>正在培养人类植入物「虫族复眼」。</GR_CraftCompoundEye.jobString>
-  
-  <!-- EN: Human Implant: devouring jaws -->
-  <GR_CraftDevouringJaws.label>培养人类植入物「犬狼颌」</GR_CraftDevouringJaws.label>
-  <!-- EN: Craft devouring jaws, a set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though... -->
-  <GR_CraftDevouringJaws.description>用人类基因物质、犬科基因物质和基因构造框架来培养人类植入物「犬狼颌」。</GR_CraftDevouringJaws.description>
-  <!-- EN: Crafting devouring jaws -->
-  <GR_CraftDevouringJaws.jobString>正在培养人类植入物「犬狼颌」。</GR_CraftDevouringJaws.jobString>
-  
-  <!-- EN: Human Implant: digging mole claws -->
+
   <GR_CraftDiggingBearClaws.label>培养人类植入物「鼹鼠爪」</GR_CraftDiggingBearClaws.label>
-  <!-- EN: Craft digging mole claws, grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield. -->
   <GR_CraftDiggingBearClaws.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养人类植入物「鼹鼠爪」。</GR_CraftDiggingBearClaws.description>
-  <!-- EN: Crafting digging mole claws -->
   <GR_CraftDiggingBearClaws.jobString>正在培养人类植入物「鼹鼠爪」。</GR_CraftDiggingBearClaws.jobString>
-  
-  <!-- EN: Human Implant: hibernation module -->
+
+  <GR_CraftBearMuscleTissue.label>培养人类植入物「蛮熊肌肉组织」</GR_CraftBearMuscleTissue.label>
+  <GR_CraftBearMuscleTissue.description>用人类基因物质、熊类基因物质和基因构造框架来培养人类植入物「蛮熊肌肉组织」。</GR_CraftBearMuscleTissue.description>
+  <GR_CraftBearMuscleTissue.jobString>正在培养人类植入物「蛮熊肌肉组织」。</GR_CraftBearMuscleTissue.jobString>
+
   <GR_CraftHibernationModule.label>培养人类植入物「冬眠模块芯片」</GR_CraftHibernationModule.label>
-  <!-- EN: Craft hibernation module, a biochip that modifies the brain to reduce the need for sleep. -->
   <GR_CraftHibernationModule.description>用人类基因物质、熊类基因物质和基因构造框架来培养生物芯片型人类植入物「冬眠模块芯片」。</GR_CraftHibernationModule.description>
-  <!-- EN: Crafting hibernation module -->
   <GR_CraftHibernationModule.jobString>正在培养人类植入物「冬眠模块芯片」。</GR_CraftHibernationModule.jobString>
-  
-  <!-- EN: Human Implant: thrumbo horn -->
-  <GR_CraftHumanThrumboHorn.label>培养人类植入物「秘兽角」</GR_CraftHumanThrumboHorn.label>
-  <!-- EN: A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty. -->
-  <GR_CraftHumanThrumboHorn.description>用人类基因物质、秘兽基因物质和基因构造框架来培养仿生人类植入物「秘兽角」。</GR_CraftHumanThrumboHorn.description>
-  <!-- EN: Crafting thrumbo horn -->
-  <GR_CraftHumanThrumboHorn.jobString>正在培养人类植入物「秘兽角」。</GR_CraftHumanThrumboHorn.jobString>
-  
-  <!-- EN: Human Implant: iguana scales -->
-  <GR_CraftIguanaScales.label>培养人类植入物「鬣蜥鳞肤」</GR_CraftIguanaScales.label>
-  <!-- EN: Craft iguana scales, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures. -->
-  <GR_CraftIguanaScales.description>用人类基因物质、爬行类基因物质和基因构造框架来培养人类植入物「鬣蜥鳞肤」。</GR_CraftIguanaScales.description>
-  <!-- EN: Crafting venomous fangs -->
-  <GR_CraftIguanaScales.jobString>正在培养人类植入物「鬣蜥鳞肤」。</GR_CraftIguanaScales.jobString>
-  
-  <!-- EN: Human Implant: insectoid antennae -->
-  <GR_CraftInsectoidAntennae.label>培养人类植入物「虫族触须」</GR_CraftInsectoidAntennae.label>
-  <!-- EN: Craft hybrid humanoid / insectoid feeling appendages that can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload. -->
-  <GR_CraftInsectoidAntennae.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「虫族触须」。</GR_CraftInsectoidAntennae.description>
-  <!-- EN: Crafting insectoid antennae -->
-  <GR_CraftInsectoidAntennae.jobString>正在培养人类植入物「虫族触须」。</GR_CraftInsectoidAntennae.jobString>
-  
-  <!-- EN: Human Implant: kidney toxic filters -->
-  <GR_CraftKidneyToxicFilters.label>培养人类植入物「排毒肾」</GR_CraftKidneyToxicFilters.label>
-  <!-- EN: Craft kidney toxic filters, bioelectronic kidney prosthesis that greatly improve the efficiency of the subject's kidneys by using insectoid tissue, providing resistence to toxic substances. -->
-  <GR_CraftKidneyToxicFilters.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「排毒肾」。</GR_CraftKidneyToxicFilters.description>
-  <!-- EN: Crafting kidney toxic filters -->
-  <GR_CraftKidneyToxicFilters.jobString>正在培养人类植入物「排毒肾」。</GR_CraftKidneyToxicFilters.jobString>
-  
-  <!-- EN: Human Implant: mole-rat nerve dampener -->
-  <GR_CraftMoleratNerveDampener.label>培养人类植入物「鼹鼠痛感阻抑芯片」</GR_CraftMoleratNerveDampener.label>
-  <!-- EN: Craft mole-rat nerve dampener, a biochip that reduces pain sensitivity, allowing the subject to survive pain shock. -->
-  <GR_CraftMoleratNerveDampener.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养生物芯片型人类植入物「鼹鼠痛感阻抑芯片」。</GR_CraftMoleratNerveDampener.description>
-  <!-- EN: Crafting mole-rat nerve dampener -->
-  <GR_CraftMoleratNerveDampener.jobString>正在培养人类植入物「鼹鼠痛感阻抑芯片」。</GR_CraftMoleratNerveDampener.jobString>
-  
-  <!-- EN: Human Implant: mouse pheromones -->
-  <GR_CraftMousePheromones.label>培养人类植入物「小鼠信息素感知器」</GR_CraftMousePheromones.label>
-  <!-- EN: Craft mouse pheromones, a bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully. -->
-  <GR_CraftMousePheromones.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养仿生人类植入物「小鼠信息素感知器」。</GR_CraftMousePheromones.description>
-  <!-- EN: Crafting mouse pheromones -->
-  <GR_CraftMousePheromones.jobString>正在培养人类植入物「小鼠信息素感知器」。</GR_CraftMousePheromones.jobString>
-  
-  <!-- EN: Human Implant: muffalo mammaries -->
-  <GR_CraftMuffaloMammaries.label>培养人类植入物「雪牛乳腺」</GR_CraftMuffaloMammaries.label>
-  <!-- EN: By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... What the... -->
-  <GR_CraftMuffaloMammaries.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛乳腺」。</GR_CraftMuffaloMammaries.description>
-  <!-- EN: Crafting muffalo mammaries -->
-  <GR_CraftMuffaloMammaries.jobString>正在培养人类植入物「雪牛乳腺」。</GR_CraftMuffaloMammaries.jobString>
-  
-  <!-- EN: Human Implant: muffalo muscles -->
-  <GR_CraftMuffaloMuscles.label>培养人类植入物「雪牛肌肉组织」</GR_CraftMuffaloMuscles.label>
-  <!-- EN: Craft muffalo muscles, a hybrid implant containing humanoid and muffalo DNA that strengthens the subject's muscular system. -->
-  <GR_CraftMuffaloMuscles.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛肌肉组织」。</GR_CraftMuffaloMuscles.description>
-  <!-- EN: Crafting muffalo muscles -->
-  <GR_CraftMuffaloMuscles.jobString>正在培养人类植入物「雪牛肌肉组织」。</GR_CraftMuffaloMuscles.jobString>
-  
-  <!-- EN: Human Implant: muffalo skin -->
-  <GR_CraftMuffaloSkin.label>培养人类植入物「雪牛皮肤」</GR_CraftMuffaloSkin.label>
-  <!-- EN: Craft muffalo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures. -->
-  <GR_CraftMuffaloSkin.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛皮肤」。</GR_CraftMuffaloSkin.description>
-  <!-- EN: Crafting muffalo skin -->
-  <GR_CraftMuffaloSkin.jobString>正在培养人类植入物「雪牛皮肤」。</GR_CraftMuffaloSkin.jobString>
-  
-  <!-- EN: Human Implant: neuron reinforcement -->
-  <GR_CraftNeuronReinforcement.label>培养人类植入物「神经增强芯片」</GR_CraftNeuronReinforcement.label>
-  <!-- EN: Craft neuron reinforcement. A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed. -->
-  <GR_CraftNeuronReinforcement.description>用人类基因物质、啮齿类/兔类基因物质、犬科基因物质和基因构造框架来培养生物芯片型人类植入物「神经增强芯片」。</GR_CraftNeuronReinforcement.description>
-  <!-- EN: Crafting neuron reinforcement -->
-  <GR_CraftNeuronReinforcement.jobString>正在培养人类植入物「神经增强芯片」。</GR_CraftNeuronReinforcement.jobString>
-  
-  <!-- EN: Human Implant: ovipositor -->
+
   <GR_CraftOvipositor.label>培养人类植入物「禽类产卵器」</GR_CraftOvipositor.label>
-  <!-- EN: Craft an ovipositor, a hybrid implant containing humanoid and chicken DNA that... are you sure this is a good idea? Really? Free range human eggs? Ugh... -->
   <GR_CraftOvipositor.description>用人类基因物质、禽类基因物质和基因构造框架来培养人类植入物「禽类产卵器」。</GR_CraftOvipositor.description>
-  <!-- EN: Crafting Ovipositor -->
   <GR_CraftOvipositor.jobString>正在培养人类植入物「禽类产卵器」。</GR_CraftOvipositor.jobString>
-  
-  <!-- EN: Human Implant: psychic dampeners -->
-  <GR_CraftPsychicDampeners.label>培养人类植入物「心灵阻抑器」</GR_CraftPsychicDampeners.label>
-  <!-- EN: Craft psychic dampeners, artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks. -->
-  <GR_CraftPsychicDampeners.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「心灵阻抑器」。</GR_CraftPsychicDampeners.description>
-  <!-- EN: Crafting psychic dampeners -->
-  <GR_CraftPsychicDampeners.jobString>正在培养人类植入物「心灵阻抑器」。</GR_CraftPsychicDampeners.jobString>
-  
-  <!-- EN: Human Implant: thrumbo skin -->
-  <GR_CraftThrumboSkin.label>培养人类植入物「秘兽皮肤」</GR_CraftThrumboSkin.label>
-  <!-- EN: Craft thrumbo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature. -->
-  <GR_CraftThrumboSkin.description>用人类基因物质、秘兽基因物质和基因构造框架来培养人类植入物「秘兽皮肤」。</GR_CraftThrumboSkin.description>
-  <!-- EN: Crafting thrumbo horn -->
-  <GR_CraftThrumboSkin.jobString>正在培养人类植入物「秘兽皮肤」。</GR_CraftThrumboSkin.jobString>
-  
-  <!-- EN: Human Implant: venomous fangs -->
-  <GR_CraftVenomousFangs.label>培养人类植入物「毒蛇牙」</GR_CraftVenomousFangs.label>
-  <!-- EN: This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable. -->
-  <GR_CraftVenomousFangs.description>>用人类基因物质、爬行类基因物质和基因构造框架来培养人类植入物「毒蛇牙」。</GR_CraftVenomousFangs.description>
-  <!-- EN: Crafting venomous fangs -->
-  <GR_CraftVenomousFangs.jobString>正在培养人类植入物「毒蛇牙」。</GR_CraftVenomousFangs.jobString>
-  
-  <!-- EN: Human Implant: wolf muscular fibers -->
+
+  <GR_CraftMuffaloMuscles.label>培养人类植入物「雪牛肌肉组织」</GR_CraftMuffaloMuscles.label>
+  <GR_CraftMuffaloMuscles.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛肌肉组织」。</GR_CraftMuffaloMuscles.description>
+  <GR_CraftMuffaloMuscles.jobString>正在培养人类植入物「雪牛肌肉组织」。</GR_CraftMuffaloMuscles.jobString>
+
+  <GR_CraftMuffaloMammaries.label>培养人类植入物「雪牛乳腺」</GR_CraftMuffaloMammaries.label>
+  <GR_CraftMuffaloMammaries.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛乳腺」。</GR_CraftMuffaloMammaries.description>
+  <GR_CraftMuffaloMammaries.jobString>正在培养人类植入物「雪牛乳腺」。</GR_CraftMuffaloMammaries.jobString>
+
+  <GR_CraftMuffaloSkin.label>培养人类植入物「雪牛皮肤」</GR_CraftMuffaloSkin.label>
+  <GR_CraftMuffaloSkin.description>用人类基因物质、雪牛基因物质和基因构造框架来培养人类植入物「雪牛皮肤」。</GR_CraftMuffaloSkin.description>
+  <GR_CraftMuffaloSkin.jobString>正在培养人类植入物「雪牛皮肤」。</GR_CraftMuffaloSkin.jobString>
+
+  <GR_CraftBoomalopeNodules.label>培养人类植入物「爆炸囊」</GR_CraftBoomalopeNodules.label>
+  <GR_CraftBoomalopeNodules.description>用人类基因物质、爆炸基因物质和基因构造框架来培养人类植入物「爆炸囊」。</GR_CraftBoomalopeNodules.description>
+  <GR_CraftBoomalopeNodules.jobString>正在培养人类植入物「爆炸囊」。</GR_CraftBoomalopeNodules.jobString>
+
+  <GR_CraftChemfuelStomach.label>培养人类植入物「化合燃料胃」</GR_CraftChemfuelStomach.label>
+  <GR_CraftChemfuelStomach.description>用人类基因物质、爆炸基因物质和基因构造框架来培养仿生人类植入物「化合燃料胃」。</GR_CraftChemfuelStomach.description>
+  <GR_CraftChemfuelStomach.jobString>正在培养人类植入物「化合燃料胃」。</GR_CraftChemfuelStomach.jobString>
+
+  <GR_CraftChemfuelHeart.label>培养人类植入物「化合燃料心脏」</GR_CraftChemfuelHeart.label>
+  <GR_CraftChemfuelHeart.description>用人类基因物质、爆炸基因物质和基因构造框架来培养仿生人类植入物「化合燃料心脏」。</GR_CraftChemfuelHeart.description>
+  <GR_CraftChemfuelHeart.jobString>正在培养人类植入物「化合燃料心脏」。</GR_CraftChemfuelHeart.jobString>
+
   <GR_CraftWolfMuscularFibers.label>培养人类植入物「犬狼肌腱」</GR_CraftWolfMuscularFibers.label>
-  <!-- EN: Craft wolf muscular fibers, which can modify the subject's legs by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost. -->
   <GR_CraftWolfMuscularFibers.description>用人类基因物质、犬科基因物质和基因构造框架来培养人类植入物「犬狼肌腱」。</GR_CraftWolfMuscularFibers.description>
-  <!-- EN: Crafting wolf muscular fibers -->
   <GR_CraftWolfMuscularFibers.jobString>正在培养人类植入物「犬狼肌腱」。</GR_CraftWolfMuscularFibers.jobString>
-  
+
+  <GR_CraftDevouringJaws.label>培养人类植入物「犬狼颌」</GR_CraftDevouringJaws.label>
+  <GR_CraftDevouringJaws.description>用人类基因物质、犬科基因物质和基因构造框架来培养人类植入物「犬狼颌」。</GR_CraftDevouringJaws.description>
+  <GR_CraftDevouringJaws.jobString>正在培养人类植入物「犬狼颌」。</GR_CraftDevouringJaws.jobString>
+
+  <GR_CraftNeuronReinforcement.label>培养人类植入物「神经增强芯片」</GR_CraftNeuronReinforcement.label>
+  <GR_CraftNeuronReinforcement.description>用人类基因物质、啮齿类/兔类基因物质、犬科基因物质和基因构造框架来培养生物芯片型人类植入物「神经增强芯片」。</GR_CraftNeuronReinforcement.description>
+  <GR_CraftNeuronReinforcement.jobString>正在培养人类植入物「神经增强芯片」。</GR_CraftNeuronReinforcement.jobString>
+
+  <GR_CraftMousePheromones.label>培养人类植入物「小鼠信息素感知器」</GR_CraftMousePheromones.label>
+  <GR_CraftMousePheromones.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养仿生人类植入物「小鼠信息素感知器」。</GR_CraftMousePheromones.description>
+  <GR_CraftMousePheromones.jobString>正在培养人类植入物「小鼠信息素感知器」。</GR_CraftMousePheromones.jobString>
+
+  <GR_CraftMoleratNerveDampener.label>培养人类植入物「鼹鼠痛感阻抑芯片」</GR_CraftMoleratNerveDampener.label>
+  <GR_CraftMoleratNerveDampener.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养生物芯片型人类植入物「鼹鼠痛感阻抑芯片」。</GR_CraftMoleratNerveDampener.description>
+  <GR_CraftMoleratNerveDampener.jobString>正在培养人类植入物「鼹鼠痛感阻抑芯片」。</GR_CraftMoleratNerveDampener.jobString>
+
+  <GR_CraftBunnyEars.label>培养人类植入物「兔耳」</GR_CraftBunnyEars.label>
+  <GR_CraftBunnyEars.description>用人类基因物质、啮齿类/兔类基因物质和基因构造框架来培养人类植入物「兔耳」。</GR_CraftBunnyEars.description>
+  <GR_CraftBunnyEars.jobString>正在培养人类植入物「兔耳」。</GR_CraftBunnyEars.jobString>
+
+  <GR_CraftCompoundEye.label>培养人类植入物「虫族复眼」</GR_CraftCompoundEye.label>
+  <GR_CraftCompoundEye.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「虫族复眼」。</GR_CraftCompoundEye.description>
+  <GR_CraftCompoundEye.jobString>正在培养人类植入物「虫族复眼」。</GR_CraftCompoundEye.jobString>
+
+  <GR_CraftCatEye.label>培养人类植入物「猫咪眼」</GR_CraftCatEye.label>
+  <GR_CraftCatEye.description>用人类基因物质、猫科基因物质和基因构造框架来培养人类植入物「猫咪眼」。</GR_CraftCatEye.description>
+  <GR_CraftCatEye.jobString>正在培养人类植入物「猫咪眼」。</GR_CraftCatEye.jobString>
+
+  <GR_CraftInsectoidAntennae.label>培养人类植入物「虫族触须」</GR_CraftInsectoidAntennae.label>
+  <GR_CraftInsectoidAntennae.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「虫族触须」。</GR_CraftInsectoidAntennae.description>
+  <GR_CraftInsectoidAntennae.jobString>正在培养人类植入物「虫族触须」。</GR_CraftInsectoidAntennae.jobString>
+
+  <GR_CraftPsychicDampeners.label>培养人类植入物「心灵阻抑器」</GR_CraftPsychicDampeners.label>
+  <GR_CraftPsychicDampeners.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「心灵阻抑器」。</GR_CraftPsychicDampeners.description>
+  <GR_CraftPsychicDampeners.jobString>正在培养人类植入物「心灵阻抑器」。</GR_CraftPsychicDampeners.jobString>
+
+  <GR_CraftKidneyToxicFilters.label>培养人类植入物「排毒肾」</GR_CraftKidneyToxicFilters.label>
+  <GR_CraftKidneyToxicFilters.description>用人类基因物质、虫族基因物质和基因构造框架来培养人类植入物「排毒肾」。</GR_CraftKidneyToxicFilters.description>
+  <GR_CraftKidneyToxicFilters.jobString>正在培养人类植入物「排毒肾」。</GR_CraftKidneyToxicFilters.jobString>
+
+  <GR_CraftHumanThrumboHorn.label>培养人类植入物「秘兽角」</GR_CraftHumanThrumboHorn.label>
+  <GR_CraftHumanThrumboHorn.description>用人类基因物质、秘兽基因物质和基因构造框架来培养仿生人类植入物「秘兽角」。</GR_CraftHumanThrumboHorn.description>
+  <GR_CraftHumanThrumboHorn.jobString>正在培养人类植入物「秘兽角」。</GR_CraftHumanThrumboHorn.jobString>
+
+  <GR_CraftThrumboSkin.label>培养人类植入物「秘兽皮肤」</GR_CraftThrumboSkin.label>
+  <GR_CraftThrumboSkin.description>用人类基因物质、秘兽基因物质和基因构造框架来培养人类植入物「秘兽皮肤」。</GR_CraftThrumboSkin.description>
+  <GR_CraftThrumboSkin.jobString>正在培养人类植入物「秘兽皮肤」。</GR_CraftThrumboSkin.jobString>
+
+  <GR_CraftVenomousFangs.label>培养人类植入物「毒蛇牙」</GR_CraftVenomousFangs.label>
+  <GR_CraftVenomousFangs.description>&gt;用人类基因物质、爬行类基因物质和基因构造框架来培养人类植入物「毒蛇牙」。</GR_CraftVenomousFangs.description>
+  <GR_CraftVenomousFangs.jobString>正在培养人类植入物「毒蛇牙」。</GR_CraftVenomousFangs.jobString>
+
+  <GR_CraftIguanaScales.label>培养人类植入物「鬣蜥鳞肤」</GR_CraftIguanaScales.label>
+  <GR_CraftIguanaScales.description>用人类基因物质、爬行类基因物质和基因构造框架来培养人类植入物「鬣蜥鳞肤」。</GR_CraftIguanaScales.description>
+  <GR_CraftIguanaScales.jobString>正在培养人类植入物「鬣蜥鳞肤」。</GR_CraftIguanaScales.jobString>
+
+
 </LanguageData>

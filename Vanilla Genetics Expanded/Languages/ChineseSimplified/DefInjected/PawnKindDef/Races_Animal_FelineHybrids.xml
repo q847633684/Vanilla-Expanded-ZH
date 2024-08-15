@@ -1,49 +1,200 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: catalope -->
-  <GR_Catalope.label>爆炸猫</GR_Catalope.label>
-  <!-- EN: catalope kitten -->
-  <GR_Catalope.lifeStages.catalope_kitten.label>爆炸猫崽</GR_Catalope.lifeStages.catalope_kitten.label>
-  
-  <!-- EN: catbear -->
+
+  <!-- Cat - Bear -->
+
   <GR_Catbear.label>熊猫</GR_Catbear.label>
-  <!-- EN: catbear kitten -->
-  <GR_Catbear.lifeStages.catbear_kitten.label>熊猫崽</GR_Catbear.lifeStages.catbear_kitten.label>
-  
-  <!-- EN: catchicken -->
+  <GR_Catbear.labelPlural>catbears</GR_Catbear.labelPlural>
+  <GR_Catbear.lifeStages.0.label>catbear kitten</GR_Catbear.lifeStages.0.label>
+  <GR_Catbear.lifeStages.0.labelPlural>catbear kittens</GR_Catbear.lifeStages.0.labelPlural>
+  <GR_Catbear.lifeStages.0.labelMale>male catbear kitten</GR_Catbear.lifeStages.0.labelMale>
+  <GR_Catbear.lifeStages.0.labelMalePlural>male catbear kittens</GR_Catbear.lifeStages.0.labelMalePlural>
+  <GR_Catbear.lifeStages.0.labelFemale>female catbear kitten</GR_Catbear.lifeStages.0.labelFemale>
+  <GR_Catbear.lifeStages.0.labelFemalePlural>female catbear kittens</GR_Catbear.lifeStages.0.labelFemalePlural>
+  <GR_Catbear.lifeStages.1.label>catbear</GR_Catbear.lifeStages.1.label>
+  <GR_Catbear.lifeStages.1.labelPlural>catbear</GR_Catbear.lifeStages.1.labelPlural>
+  <GR_Catbear.lifeStages.1.labelMale>male catbear</GR_Catbear.lifeStages.1.labelMale>
+  <GR_Catbear.lifeStages.1.labelMalePlural>male catbears</GR_Catbear.lifeStages.1.labelMalePlural>
+  <GR_Catbear.lifeStages.1.labelFemale>female catbear</GR_Catbear.lifeStages.1.labelFemale>
+  <GR_Catbear.lifeStages.1.labelFemalePlural>female catbears</GR_Catbear.lifeStages.1.labelFemalePlural>
+  <GR_Catbear.lifeStages.2.label>catbear</GR_Catbear.lifeStages.2.label>
+  <GR_Catbear.lifeStages.2.labelPlural>catbear</GR_Catbear.lifeStages.2.labelPlural>
+  <GR_Catbear.lifeStages.2.labelMale>male catbear</GR_Catbear.lifeStages.2.labelMale>
+  <GR_Catbear.lifeStages.2.labelMalePlural>male catbears</GR_Catbear.lifeStages.2.labelMalePlural>
+  <GR_Catbear.lifeStages.2.labelFemale>female catbear</GR_Catbear.lifeStages.2.labelFemale>
+  <GR_Catbear.lifeStages.2.labelFemalePlural>female catbears</GR_Catbear.lifeStages.2.labelFemalePlural>
+  <GR_Catbear.labelMale>male catbear</GR_Catbear.labelMale>
+  <GR_Catbear.labelMalePlural>male catbears</GR_Catbear.labelMalePlural>
+  <GR_Catbear.labelFemale>female catbear</GR_Catbear.labelFemale>
+  <GR_Catbear.labelFemalePlural>female catbears</GR_Catbear.labelFemalePlural>
+
+
+  <!-- Cat - Boomalope -->
+
+  <GR_Catalope.label>爆炸猫</GR_Catalope.label>
+  <GR_Catalope.labelPlural>catalopes</GR_Catalope.labelPlural>
+  <GR_Catalope.lifeStages.0.label>catalope kitten</GR_Catalope.lifeStages.0.label>
+  <GR_Catalope.lifeStages.0.labelPlural>catalope kittens</GR_Catalope.lifeStages.0.labelPlural>
+  <GR_Catalope.lifeStages.0.labelMale>male catalope kitten</GR_Catalope.lifeStages.0.labelMale>
+  <GR_Catalope.lifeStages.0.labelMalePlural>male catalope kittens</GR_Catalope.lifeStages.0.labelMalePlural>
+  <GR_Catalope.lifeStages.0.labelFemale>female catalope kitten</GR_Catalope.lifeStages.0.labelFemale>
+  <GR_Catalope.lifeStages.0.labelFemalePlural>female catalope kittens</GR_Catalope.lifeStages.0.labelFemalePlural>
+  <GR_Catalope.lifeStages.1.label>catalope</GR_Catalope.lifeStages.1.label>
+  <GR_Catalope.lifeStages.1.labelPlural>catalope</GR_Catalope.lifeStages.1.labelPlural>
+  <GR_Catalope.lifeStages.1.labelMale>male catalope</GR_Catalope.lifeStages.1.labelMale>
+  <GR_Catalope.lifeStages.1.labelMalePlural>male catalopes</GR_Catalope.lifeStages.1.labelMalePlural>
+  <GR_Catalope.lifeStages.1.labelFemale>female catalope</GR_Catalope.lifeStages.1.labelFemale>
+  <GR_Catalope.lifeStages.1.labelFemalePlural>female catalopes</GR_Catalope.lifeStages.1.labelFemalePlural>
+  <GR_Catalope.lifeStages.2.label>catalope</GR_Catalope.lifeStages.2.label>
+  <GR_Catalope.lifeStages.2.labelPlural>catalope</GR_Catalope.lifeStages.2.labelPlural>
+  <GR_Catalope.lifeStages.2.labelMale>male catalope</GR_Catalope.lifeStages.2.labelMale>
+  <GR_Catalope.lifeStages.2.labelMalePlural>male catalopes</GR_Catalope.lifeStages.2.labelMalePlural>
+  <GR_Catalope.lifeStages.2.labelFemale>female catalope</GR_Catalope.lifeStages.2.labelFemale>
+  <GR_Catalope.lifeStages.2.labelFemalePlural>female catalopes</GR_Catalope.lifeStages.2.labelFemalePlural>
+  <GR_Catalope.labelMale>male catalope</GR_Catalope.labelMale>
+  <GR_Catalope.labelMalePlural>male catalopes</GR_Catalope.labelMalePlural>
+  <GR_Catalope.labelFemale>female catalope</GR_Catalope.labelFemale>
+  <GR_Catalope.labelFemalePlural>female catalopes</GR_Catalope.labelFemalePlural>
+
+
+  <!-- Cat - Chicken -->
+
   <GR_Catchicken.label>鸡猫</GR_Catchicken.label>
-  <!-- EN: catchicken kitten -->
-  <GR_Catchicken.lifeStages.catchicken_kitten.label>鸡猫崽</GR_Catchicken.lifeStages.catchicken_kitten.label>
-  
-  <!-- EN: catffalo -->
+  <GR_Catchicken.labelPlural>catchickens</GR_Catchicken.labelPlural>
+  <GR_Catchicken.lifeStages.0.label>catchicken kitten</GR_Catchicken.lifeStages.0.label>
+  <GR_Catchicken.lifeStages.0.labelPlural>catchicken kittens</GR_Catchicken.lifeStages.0.labelPlural>
+  <GR_Catchicken.lifeStages.0.labelMale>male catchicken kitten</GR_Catchicken.lifeStages.0.labelMale>
+  <GR_Catchicken.lifeStages.0.labelMalePlural>male catchicken kittens</GR_Catchicken.lifeStages.0.labelMalePlural>
+  <GR_Catchicken.lifeStages.0.labelFemale>female catchicken kitten</GR_Catchicken.lifeStages.0.labelFemale>
+  <GR_Catchicken.lifeStages.0.labelFemalePlural>female catchicken kittens</GR_Catchicken.lifeStages.0.labelFemalePlural>
+  <GR_Catchicken.lifeStages.1.label>catchicken</GR_Catchicken.lifeStages.1.label>
+  <GR_Catchicken.lifeStages.1.labelPlural>catchicken</GR_Catchicken.lifeStages.1.labelPlural>
+  <GR_Catchicken.lifeStages.1.labelMale>male catchicken</GR_Catchicken.lifeStages.1.labelMale>
+  <GR_Catchicken.lifeStages.1.labelMalePlural>male catchickens</GR_Catchicken.lifeStages.1.labelMalePlural>
+  <GR_Catchicken.lifeStages.1.labelFemale>female catchicken</GR_Catchicken.lifeStages.1.labelFemale>
+  <GR_Catchicken.lifeStages.1.labelFemalePlural>female catchickens</GR_Catchicken.lifeStages.1.labelFemalePlural>
+  <GR_Catchicken.lifeStages.2.label>catchicken</GR_Catchicken.lifeStages.2.label>
+  <GR_Catchicken.lifeStages.2.labelPlural>catchicken</GR_Catchicken.lifeStages.2.labelPlural>
+  <GR_Catchicken.lifeStages.2.labelMale>male catchicken</GR_Catchicken.lifeStages.2.labelMale>
+  <GR_Catchicken.lifeStages.2.labelMalePlural>male catchickens</GR_Catchicken.lifeStages.2.labelMalePlural>
+  <GR_Catchicken.lifeStages.2.labelFemale>female catchicken</GR_Catchicken.lifeStages.2.labelFemale>
+  <GR_Catchicken.lifeStages.2.labelFemalePlural>female catchickens</GR_Catchicken.lifeStages.2.labelFemalePlural>
+  <GR_Catchicken.labelMale>male catchicken</GR_Catchicken.labelMale>
+  <GR_Catchicken.labelMalePlural>male catchickens</GR_Catchicken.labelMalePlural>
+  <GR_Catchicken.labelFemale>female catchicken</GR_Catchicken.labelFemale>
+  <GR_Catchicken.labelFemalePlural>female catchickens</GR_Catchicken.labelFemalePlural>
+
+
+  <!-- Cat - Muffalo -->
+
   <GR_Catffalo.label>雪牛猫</GR_Catffalo.label>
-  <!-- EN: catffalo kitten -->
-  <GR_Catffalo.lifeStages.catffalo_kitten.label>雪牛猫崽</GR_Catffalo.lifeStages.catffalo_kitten.label>
-  
-  <!-- EN: catman -->
-  <GR_Catman.label>人猫</GR_Catman.label>
-  <!-- EN: catgirl -->
-  <GR_Catman.labelFemale>女人猫</GR_Catman.labelFemale>
-  <!-- EN: catgirls -->
-  <GR_Catman.labelFemalePlural>女人猫</GR_Catman.labelFemalePlural>
-  <!-- EN: catman -->
-  <GR_Catman.labelMale>男人猫</GR_Catman.labelMale>
-  <!-- EN: catmen -->
-  <GR_Catman.labelMalePlural>男人猫</GR_Catman.labelMalePlural>
-  <!-- EN: catbaby -->
-  <GR_Catman.lifeStages.catbaby.label>人猫宝宝</GR_Catman.lifeStages.catbaby.label>
-  <!-- EN: catbabies -->
-  <GR_Catman.lifeStages.catbaby.labelPlural>人猫宝宝</GR_Catman.lifeStages.catbaby.labelPlural>
-  
-  <!-- EN: catrabbit -->
+  <GR_Catffalo.labelPlural>catffalos</GR_Catffalo.labelPlural>
+  <GR_Catffalo.lifeStages.0.label>catffalo kitten</GR_Catffalo.lifeStages.0.label>
+  <GR_Catffalo.lifeStages.0.labelPlural>catffalo kittens</GR_Catffalo.lifeStages.0.labelPlural>
+  <GR_Catffalo.lifeStages.0.labelMale>male catffalo kitten</GR_Catffalo.lifeStages.0.labelMale>
+  <GR_Catffalo.lifeStages.0.labelMalePlural>male catffalo kittens</GR_Catffalo.lifeStages.0.labelMalePlural>
+  <GR_Catffalo.lifeStages.0.labelFemale>female catffalo kitten</GR_Catffalo.lifeStages.0.labelFemale>
+  <GR_Catffalo.lifeStages.0.labelFemalePlural>female catffalo kittens</GR_Catffalo.lifeStages.0.labelFemalePlural>
+  <GR_Catffalo.lifeStages.1.label>catffalo</GR_Catffalo.lifeStages.1.label>
+  <GR_Catffalo.lifeStages.1.labelPlural>catffalo</GR_Catffalo.lifeStages.1.labelPlural>
+  <GR_Catffalo.lifeStages.1.labelMale>male catffalo</GR_Catffalo.lifeStages.1.labelMale>
+  <GR_Catffalo.lifeStages.1.labelMalePlural>male catffalos</GR_Catffalo.lifeStages.1.labelMalePlural>
+  <GR_Catffalo.lifeStages.1.labelFemale>female catffalo</GR_Catffalo.lifeStages.1.labelFemale>
+  <GR_Catffalo.lifeStages.1.labelFemalePlural>female catffalos</GR_Catffalo.lifeStages.1.labelFemalePlural>
+  <GR_Catffalo.lifeStages.2.label>catffalo</GR_Catffalo.lifeStages.2.label>
+  <GR_Catffalo.lifeStages.2.labelPlural>catffalo</GR_Catffalo.lifeStages.2.labelPlural>
+  <GR_Catffalo.lifeStages.2.labelMale>male catffalo</GR_Catffalo.lifeStages.2.labelMale>
+  <GR_Catffalo.lifeStages.2.labelMalePlural>male catffalos</GR_Catffalo.lifeStages.2.labelMalePlural>
+  <GR_Catffalo.lifeStages.2.labelFemale>female catffalo</GR_Catffalo.lifeStages.2.labelFemale>
+  <GR_Catffalo.lifeStages.2.labelFemalePlural>female catffalos</GR_Catffalo.lifeStages.2.labelFemalePlural>
+  <GR_Catffalo.labelMale>male catffalo</GR_Catffalo.labelMale>
+  <GR_Catffalo.labelMalePlural>male catffalos</GR_Catffalo.labelMalePlural>
+  <GR_Catffalo.labelFemale>female catffalo</GR_Catffalo.labelFemale>
+  <GR_Catffalo.labelFemalePlural>female catffalos</GR_Catffalo.labelFemalePlural>
+
+
+  <!-- Cat - Rabbit -->
+
   <GR_Catrabbit.label>兔猫</GR_Catrabbit.label>
-  <!-- EN: catrabbit kitten -->
-  <GR_Catrabbit.lifeStages.catrabbit_kitten.label>兔猫崽</GR_Catrabbit.lifeStages.catrabbit_kitten.label>
-  
-  <!-- EN: catwolf -->
+  <GR_Catrabbit.labelPlural>catrabbits</GR_Catrabbit.labelPlural>
+  <GR_Catrabbit.lifeStages.0.label>catrabbit kitten</GR_Catrabbit.lifeStages.0.label>
+  <GR_Catrabbit.lifeStages.0.labelPlural>catrabbit kittens</GR_Catrabbit.lifeStages.0.labelPlural>
+  <GR_Catrabbit.lifeStages.0.labelMale>male catrabbit kitten</GR_Catrabbit.lifeStages.0.labelMale>
+  <GR_Catrabbit.lifeStages.0.labelMalePlural>male catrabbit kittens</GR_Catrabbit.lifeStages.0.labelMalePlural>
+  <GR_Catrabbit.lifeStages.0.labelFemale>female catrabbit kitten</GR_Catrabbit.lifeStages.0.labelFemale>
+  <GR_Catrabbit.lifeStages.0.labelFemalePlural>female catrabbit kittens</GR_Catrabbit.lifeStages.0.labelFemalePlural>
+  <GR_Catrabbit.lifeStages.1.label>catrabbit</GR_Catrabbit.lifeStages.1.label>
+  <GR_Catrabbit.lifeStages.1.labelPlural>catrabbit</GR_Catrabbit.lifeStages.1.labelPlural>
+  <GR_Catrabbit.lifeStages.1.labelMale>male catrabbit</GR_Catrabbit.lifeStages.1.labelMale>
+  <GR_Catrabbit.lifeStages.1.labelMalePlural>male catrabbits</GR_Catrabbit.lifeStages.1.labelMalePlural>
+  <GR_Catrabbit.lifeStages.1.labelFemale>female catrabbit</GR_Catrabbit.lifeStages.1.labelFemale>
+  <GR_Catrabbit.lifeStages.1.labelFemalePlural>female catrabbits</GR_Catrabbit.lifeStages.1.labelFemalePlural>
+  <GR_Catrabbit.lifeStages.2.label>catrabbit</GR_Catrabbit.lifeStages.2.label>
+  <GR_Catrabbit.lifeStages.2.labelPlural>catrabbit</GR_Catrabbit.lifeStages.2.labelPlural>
+  <GR_Catrabbit.lifeStages.2.labelMale>male catrabbit</GR_Catrabbit.lifeStages.2.labelMale>
+  <GR_Catrabbit.lifeStages.2.labelMalePlural>male catrabbits</GR_Catrabbit.lifeStages.2.labelMalePlural>
+  <GR_Catrabbit.lifeStages.2.labelFemale>female catrabbit</GR_Catrabbit.lifeStages.2.labelFemale>
+  <GR_Catrabbit.lifeStages.2.labelFemalePlural>female catrabbits</GR_Catrabbit.lifeStages.2.labelFemalePlural>
+  <GR_Catrabbit.labelMale>male catrabbit</GR_Catrabbit.labelMale>
+  <GR_Catrabbit.labelMalePlural>male catrabbits</GR_Catrabbit.labelMalePlural>
+  <GR_Catrabbit.labelFemale>female catrabbit</GR_Catrabbit.labelFemale>
+  <GR_Catrabbit.labelFemalePlural>female catrabbits</GR_Catrabbit.labelFemalePlural>
+
+
+  <!-- Cat - Wolf -->
+
   <GR_Catwolf.label>狼猫</GR_Catwolf.label>
-  <!-- EN: catwolf kitten -->
-  <GR_Catwolf.lifeStages.catwolf_kitten.label>狼猫崽</GR_Catwolf.lifeStages.catwolf_kitten.label>
-  
+  <GR_Catwolf.labelPlural>catwolfs</GR_Catwolf.labelPlural>
+  <GR_Catwolf.lifeStages.0.label>catwolf kitten</GR_Catwolf.lifeStages.0.label>
+  <GR_Catwolf.lifeStages.0.labelPlural>catwolf kittens</GR_Catwolf.lifeStages.0.labelPlural>
+  <GR_Catwolf.lifeStages.0.labelMale>male catwolf kitten</GR_Catwolf.lifeStages.0.labelMale>
+  <GR_Catwolf.lifeStages.0.labelMalePlural>male catwolf kittens</GR_Catwolf.lifeStages.0.labelMalePlural>
+  <GR_Catwolf.lifeStages.0.labelFemale>female catwolf kitten</GR_Catwolf.lifeStages.0.labelFemale>
+  <GR_Catwolf.lifeStages.0.labelFemalePlural>female catwolf kittens</GR_Catwolf.lifeStages.0.labelFemalePlural>
+  <GR_Catwolf.lifeStages.1.label>catwolf</GR_Catwolf.lifeStages.1.label>
+  <GR_Catwolf.lifeStages.1.labelPlural>catwolf</GR_Catwolf.lifeStages.1.labelPlural>
+  <GR_Catwolf.lifeStages.1.labelMale>male catwolf</GR_Catwolf.lifeStages.1.labelMale>
+  <GR_Catwolf.lifeStages.1.labelMalePlural>male catwolfs</GR_Catwolf.lifeStages.1.labelMalePlural>
+  <GR_Catwolf.lifeStages.1.labelFemale>female catwolf</GR_Catwolf.lifeStages.1.labelFemale>
+  <GR_Catwolf.lifeStages.1.labelFemalePlural>female catwolfs</GR_Catwolf.lifeStages.1.labelFemalePlural>
+  <GR_Catwolf.lifeStages.2.label>catwolf</GR_Catwolf.lifeStages.2.label>
+  <GR_Catwolf.lifeStages.2.labelPlural>catwolf</GR_Catwolf.lifeStages.2.labelPlural>
+  <GR_Catwolf.lifeStages.2.labelMale>male catwolf</GR_Catwolf.lifeStages.2.labelMale>
+  <GR_Catwolf.lifeStages.2.labelMalePlural>male catwolfs</GR_Catwolf.lifeStages.2.labelMalePlural>
+  <GR_Catwolf.lifeStages.2.labelFemale>female catwolf</GR_Catwolf.lifeStages.2.labelFemale>
+  <GR_Catwolf.lifeStages.2.labelFemalePlural>female catwolfs</GR_Catwolf.lifeStages.2.labelFemalePlural>
+  <GR_Catwolf.labelMale>male catwolf</GR_Catwolf.labelMale>
+  <GR_Catwolf.labelMalePlural>male catwolfs</GR_Catwolf.labelMalePlural>
+  <GR_Catwolf.labelFemale>female catwolf</GR_Catwolf.labelFemale>
+  <GR_Catwolf.labelFemalePlural>female catwolfs</GR_Catwolf.labelFemalePlural>
+
+
+  <!-- Cat - Humanoid -->
+
+  <GR_Catman.label>人猫</GR_Catman.label>
+  <GR_Catman.labelPlural>catmans</GR_Catman.labelPlural>
+  <GR_Catman.lifeStages.0.label>catbaby</GR_Catman.lifeStages.0.label>
+  <GR_Catman.lifeStages.0.labelPlural>catbabies</GR_Catman.lifeStages.0.labelPlural>
+  <GR_Catman.lifeStages.0.labelMale>male catbaby</GR_Catman.lifeStages.0.labelMale>
+  <GR_Catman.lifeStages.0.labelMalePlural>male catbabies</GR_Catman.lifeStages.0.labelMalePlural>
+  <GR_Catman.lifeStages.0.labelFemale>female catbaby</GR_Catman.lifeStages.0.labelFemale>
+  <GR_Catman.lifeStages.0.labelFemalePlural>female catbabies</GR_Catman.lifeStages.0.labelFemalePlural>
+  <GR_Catman.lifeStages.1.label>catman</GR_Catman.lifeStages.1.label>
+  <GR_Catman.lifeStages.1.labelPlural>catman</GR_Catman.lifeStages.1.labelPlural>
+  <GR_Catman.lifeStages.1.labelMale>catman</GR_Catman.lifeStages.1.labelMale>
+  <GR_Catman.lifeStages.1.labelMalePlural>male catmans</GR_Catman.lifeStages.1.labelMalePlural>
+  <GR_Catman.lifeStages.1.labelFemale>catgirl</GR_Catman.lifeStages.1.labelFemale>
+  <GR_Catman.lifeStages.1.labelFemalePlural>female catmans</GR_Catman.lifeStages.1.labelFemalePlural>
+  <GR_Catman.lifeStages.2.label>catman</GR_Catman.lifeStages.2.label>
+  <GR_Catman.lifeStages.2.labelPlural>catman</GR_Catman.lifeStages.2.labelPlural>
+  <GR_Catman.lifeStages.2.labelMale>catman</GR_Catman.lifeStages.2.labelMale>
+  <GR_Catman.lifeStages.2.labelMalePlural>male catmans</GR_Catman.lifeStages.2.labelMalePlural>
+  <GR_Catman.lifeStages.2.labelFemale>catgirl</GR_Catman.lifeStages.2.labelFemale>
+  <GR_Catman.lifeStages.2.labelFemalePlural>female catmans</GR_Catman.lifeStages.2.labelFemalePlural>
+  <GR_Catman.labelMale>男人猫</GR_Catman.labelMale>
+  <GR_Catman.labelMalePlural>男人猫</GR_Catman.labelMalePlural>
+  <GR_Catman.labelFemale>女人猫</GR_Catman.labelFemale>
+  <GR_Catman.labelFemalePlural>女人猫</GR_Catman.labelFemalePlural>
+
+
 </LanguageData>

@@ -1,34 +1,47 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: genetic alteration -->
+
   <GR_GeneticAlteration.label>基因编改</GR_GeneticAlteration.label>
-  <!-- EN: Craft the Tissue Grinder and Genome Extractor Table to create genoframes and genomes respectively. -->
   <GR_GeneticAlteration.description>解锁建造用于提取基因物质的「基因提取台」和用于制作基因构造框架的「生物组织粉碎机」。</GR_GeneticAlteration.description>
-  
-  <!-- EN: genetic compatibility -->
-  <GR_GeneticCompatibility.label>基因亲和</GR_GeneticCompatibility.label>
-  <!-- EN: Grow bio-engineered implants for humans on the Implant augmentator. -->
-  <GR_GeneticCompatibility.description>通过调谐人类基因与其他基因间的亲和性，解锁培养各种各样的「人类植入物」。</GR_GeneticCompatibility.description>
-  
-  <!-- EN: genetic duplication -->
-  <GR_GeneticDuplication.label>基因复制</GR_GeneticDuplication.label>
-  <!-- EN: Manufacture Template Genomes through the Genome Recombinator and duplicate existing Genomes. -->
-  <GR_GeneticDuplication.description>解锁建造用于复制现有基因物质的「基因复制仪」。</GR_GeneticDuplication.description>
-  
-  <!-- EN: genetic creation -->
+  <GR_GeneticAlteration.generalRules.rulesStrings.0>subject-&gt;unveiling genetic fabrics</GR_GeneticAlteration.generalRules.rulesStrings.0>
+  <GR_GeneticAlteration.generalRules.rulesStrings.1>subject_story-&gt;embarked on the journey to manipulate the very blueprint of life, crafting tools to unravel and reweave genetic threads</GR_GeneticAlteration.generalRules.rulesStrings.1>
+  <GR_GeneticAlteration.generalRules.rulesStrings.2>subject_story-&gt;created the Tissue Grinder and Genome Extractor Table, key instruments in the quest to understand and harness genetic potential</GR_GeneticAlteration.generalRules.rulesStrings.2>
+  <GR_GeneticAlteration.generalRules.rulesStrings.3>subject_gerund-&gt;laying the groundwork for a future where biology meets creativity</GR_GeneticAlteration.generalRules.rulesStrings.3>
+
   <GR_GeneticEngineering.label>基因塑造</GR_GeneticEngineering.label>
-  <!-- EN: Create new hybrids with the Genomorpher, gestate them in an Electrowomb and create boosters at the Genetics Tinkering Table. -->
   <GR_GeneticEngineering.description>解锁建造用于培养孵化混种生物的「基因塑造仪」和「电力孵化器」，以及用于制作改良剂的「基因工作台」。</GR_GeneticEngineering.description>
-  
-  <!-- EN: genetic mechahybridization -->
-  <GR_GeneticMechahybridization.label>基因机械改造</GR_GeneticMechahybridization.label>
-  <!-- EN: Create Biomechanical Lab beacons to find mechahybridizers, and construct mechahybrid antennas to support more mechanoid hybrids. -->
-  <GR_GeneticMechahybridization.description>解锁建造用于搜寻机械生物改造厂的「机械生物实验基地信标」，以及用于控制机械生物的「机械生物信号塔」。</GR_GeneticMechahybridization.description>
-  
-  <!-- EN: genetic augmentation -->
+  <GR_GeneticEngineering.generalRules.rulesStrings.0>subject-&gt;the architects of life</GR_GeneticEngineering.generalRules.rulesStrings.0>
+  <GR_GeneticEngineering.generalRules.rulesStrings.1>subject_story-&gt;transcended traditional breeding, employing the Genomorpher to forge new forms of life</GR_GeneticEngineering.generalRules.rulesStrings.1>
+  <GR_GeneticEngineering.generalRules.rulesStrings.2>subject_story-&gt;ushered in the age of the Electrowomb, where gestation becomes a process guided by precision and intent</GR_GeneticEngineering.generalRules.rulesStrings.2>
+  <GR_GeneticEngineering.generalRules.rulesStrings.3>subject_gerund-&gt;sculpting the living world with visionary hands</GR_GeneticEngineering.generalRules.rulesStrings.3>
+
+  <GR_GeneticDuplication.label>基因复制</GR_GeneticDuplication.label>
+  <GR_GeneticDuplication.description>解锁建造用于复制现有基因物质的「基因复制仪」。</GR_GeneticDuplication.description>
+  <GR_GeneticDuplication.generalRules.rulesStrings.0>subject-&gt;mirroring life</GR_GeneticDuplication.generalRules.rulesStrings.0>
+  <GR_GeneticDuplication.generalRules.rulesStrings.1>subject_story-&gt;mastered the art of genomic replication, ensuring valuable genetic traits can be preserved and replicated</GR_GeneticDuplication.generalRules.rulesStrings.1>
+  <GR_GeneticDuplication.generalRules.rulesStrings.2>subject_story-&gt;innovated with the Genome Recombinator, a breakthrough in the efficient duplication of genetic material</GR_GeneticDuplication.generalRules.rulesStrings.2>
+  <GR_GeneticDuplication.generalRules.rulesStrings.3>subject_gerund-&gt;duplicating the essence of life for prosperity and progress</GR_GeneticDuplication.generalRules.rulesStrings.3>
+
   <GR_HybridImplantology.label>基因强化</GR_HybridImplantology.label>
-  <!-- EN: Grow bio-engineered implants for hybrids and animals alike on the Implant augmentator. -->
   <GR_HybridImplantology.description>解锁培养用于强化动物和混种生物的「动物植入物」。</GR_HybridImplantology.description>
-  
+  <GR_HybridImplantology.generalRules.rulesStrings.0>subject-&gt;fusing flesh and innovation</GR_HybridImplantology.generalRules.rulesStrings.0>
+  <GR_HybridImplantology.generalRules.rulesStrings.1>subject_story-&gt;pioneered the growth of bio-engineered implants, merging organic life with enhancements</GR_HybridImplantology.generalRules.rulesStrings.1>
+  <GR_HybridImplantology.generalRules.rulesStrings.2>subject_story-&gt;explored the possibilities of augmentation, not just for survival but for the evolution of abilities</GR_HybridImplantology.generalRules.rulesStrings.2>
+  <GR_HybridImplantology.generalRules.rulesStrings.3>subject_gerund-&gt;cultivating the next step in organismal advancement</GR_HybridImplantology.generalRules.rulesStrings.3>
+
+  <GR_GeneticCompatibility.label>基因亲和</GR_GeneticCompatibility.label>
+  <GR_GeneticCompatibility.description>通过调谐人类基因与其他基因间的亲和性，解锁培养各种各样的「人类植入物」。</GR_GeneticCompatibility.description>
+  <GR_GeneticCompatibility.generalRules.rulesStrings.0>subject-&gt;bridging genomes</GR_GeneticCompatibility.generalRules.rulesStrings.0>
+  <GR_GeneticCompatibility.generalRules.rulesStrings.1>subject_story-&gt;extended the boundaries of bio-engineering to humans, ensuring compatibility between their biology and the myriad forms of life</GR_GeneticCompatibility.generalRules.rulesStrings.1>
+  <GR_GeneticCompatibility.generalRules.rulesStrings.2>subject_story-&gt;focused on the harmony of existence, where human potential can be expanded through genetic synergy</GR_GeneticCompatibility.generalRules.rulesStrings.2>
+  <GR_GeneticCompatibility.generalRules.rulesStrings.3>subject_gerund-&gt;harmonizing human essence with the genetic chorus of the cosmos</GR_GeneticCompatibility.generalRules.rulesStrings.3>
+
+  <GR_GeneticMechahybridization.label>基因机械改造</GR_GeneticMechahybridization.label>
+  <GR_GeneticMechahybridization.description>解锁建造用于搜寻机械生物改造厂的「机械生物实验基地信标」，以及用于控制机械生物的「机械生物信号塔」。</GR_GeneticMechahybridization.description>
+  <GR_GeneticMechahybridization.generalRules.rulesStrings.0>subject-&gt;the synthesis of organic and machine</GR_GeneticMechahybridization.generalRules.rulesStrings.0>
+  <GR_GeneticMechahybridization.generalRules.rulesStrings.1>subject_story-&gt;ventured into uncharted territories, blending organic life with mechanoid essence to birth new forms of existence</GR_GeneticMechahybridization.generalRules.rulesStrings.1>
+  <GR_GeneticMechahybridization.generalRules.rulesStrings.2>subject_story-&gt;established the Biomechanical Lab, a beacon for those who dare to redefine life's boundaries</GR_GeneticMechahybridization.generalRules.rulesStrings.2>
+  <GR_GeneticMechahybridization.generalRules.rulesStrings.3>subject_gerund-&gt;forging the future with strands of DNA and circuits entwined</GR_GeneticMechahybridization.generalRules.rulesStrings.3>
+
+
 </LanguageData>

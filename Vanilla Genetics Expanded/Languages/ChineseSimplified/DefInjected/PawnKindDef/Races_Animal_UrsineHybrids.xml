@@ -1,41 +1,200 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: bearalope -->
+
+  <!-- Bear - Boomalope -->
+
   <GR_Bearalope.label>爆炸熊</GR_Bearalope.label>
-  
-  <!-- EN: bearcat -->
-  <GR_Bearcat.label>猫熊</GR_Bearcat.label>
-  
-  <!-- EN: bearchicken -->
+  <GR_Bearalope.labelPlural>bearalopes</GR_Bearalope.labelPlural>
+  <GR_Bearalope.lifeStages.0.label>bearalope</GR_Bearalope.lifeStages.0.label>
+  <GR_Bearalope.lifeStages.0.labelPlural>bearalope</GR_Bearalope.lifeStages.0.labelPlural>
+  <GR_Bearalope.lifeStages.0.labelMale>male bearalope</GR_Bearalope.lifeStages.0.labelMale>
+  <GR_Bearalope.lifeStages.0.labelMalePlural>male bearalopes</GR_Bearalope.lifeStages.0.labelMalePlural>
+  <GR_Bearalope.lifeStages.0.labelFemale>female bearalope</GR_Bearalope.lifeStages.0.labelFemale>
+  <GR_Bearalope.lifeStages.0.labelFemalePlural>female bearalopes</GR_Bearalope.lifeStages.0.labelFemalePlural>
+  <GR_Bearalope.lifeStages.1.label>bearalope</GR_Bearalope.lifeStages.1.label>
+  <GR_Bearalope.lifeStages.1.labelPlural>bearalope</GR_Bearalope.lifeStages.1.labelPlural>
+  <GR_Bearalope.lifeStages.1.labelMale>male bearalope</GR_Bearalope.lifeStages.1.labelMale>
+  <GR_Bearalope.lifeStages.1.labelMalePlural>male bearalopes</GR_Bearalope.lifeStages.1.labelMalePlural>
+  <GR_Bearalope.lifeStages.1.labelFemale>female bearalope</GR_Bearalope.lifeStages.1.labelFemale>
+  <GR_Bearalope.lifeStages.1.labelFemalePlural>female bearalopes</GR_Bearalope.lifeStages.1.labelFemalePlural>
+  <GR_Bearalope.lifeStages.2.label>bearalope</GR_Bearalope.lifeStages.2.label>
+  <GR_Bearalope.lifeStages.2.labelPlural>bearalope</GR_Bearalope.lifeStages.2.labelPlural>
+  <GR_Bearalope.lifeStages.2.labelMale>male bearalope</GR_Bearalope.lifeStages.2.labelMale>
+  <GR_Bearalope.lifeStages.2.labelMalePlural>male bearalopes</GR_Bearalope.lifeStages.2.labelMalePlural>
+  <GR_Bearalope.lifeStages.2.labelFemale>female bearalope</GR_Bearalope.lifeStages.2.labelFemale>
+  <GR_Bearalope.lifeStages.2.labelFemalePlural>female bearalopes</GR_Bearalope.lifeStages.2.labelFemalePlural>
+  <GR_Bearalope.labelMale>male bearalope</GR_Bearalope.labelMale>
+  <GR_Bearalope.labelMalePlural>male bearalopes</GR_Bearalope.labelMalePlural>
+  <GR_Bearalope.labelFemale>female bearalope</GR_Bearalope.labelFemale>
+  <GR_Bearalope.labelFemalePlural>female bearalopes</GR_Bearalope.labelFemalePlural>
+
+
+  <!-- Bear - Chicken -->
+
   <GR_Bearchicken.label>火鸡熊</GR_Bearchicken.label>
-  <!-- EN: bearchicken hen -->
-  <GR_Bearchicken.labelFemale>母火鸡熊</GR_Bearchicken.labelFemale>
-  <!-- EN: bearchicken rooster -->
+  <GR_Bearchicken.labelPlural>bearchickens</GR_Bearchicken.labelPlural>
+  <GR_Bearchicken.lifeStages.0.label>bearchicken</GR_Bearchicken.lifeStages.0.label>
+  <GR_Bearchicken.lifeStages.0.labelPlural>bearchicken</GR_Bearchicken.lifeStages.0.labelPlural>
+  <GR_Bearchicken.lifeStages.0.labelMale>bearchicken rooster</GR_Bearchicken.lifeStages.0.labelMale>
+  <GR_Bearchicken.lifeStages.0.labelMalePlural>male bearchickens</GR_Bearchicken.lifeStages.0.labelMalePlural>
+  <GR_Bearchicken.lifeStages.0.labelFemale>bearchicken hen</GR_Bearchicken.lifeStages.0.labelFemale>
+  <GR_Bearchicken.lifeStages.0.labelFemalePlural>female bearchickens</GR_Bearchicken.lifeStages.0.labelFemalePlural>
+  <GR_Bearchicken.lifeStages.1.label>bearchicken</GR_Bearchicken.lifeStages.1.label>
+  <GR_Bearchicken.lifeStages.1.labelPlural>bearchicken</GR_Bearchicken.lifeStages.1.labelPlural>
+  <GR_Bearchicken.lifeStages.1.labelMale>bearchicken rooster</GR_Bearchicken.lifeStages.1.labelMale>
+  <GR_Bearchicken.lifeStages.1.labelMalePlural>male bearchickens</GR_Bearchicken.lifeStages.1.labelMalePlural>
+  <GR_Bearchicken.lifeStages.1.labelFemale>bearchicken hen</GR_Bearchicken.lifeStages.1.labelFemale>
+  <GR_Bearchicken.lifeStages.1.labelFemalePlural>female bearchickens</GR_Bearchicken.lifeStages.1.labelFemalePlural>
+  <GR_Bearchicken.lifeStages.2.label>bearchicken</GR_Bearchicken.lifeStages.2.label>
+  <GR_Bearchicken.lifeStages.2.labelPlural>bearchicken</GR_Bearchicken.lifeStages.2.labelPlural>
+  <GR_Bearchicken.lifeStages.2.labelMale>bearchicken rooster</GR_Bearchicken.lifeStages.2.labelMale>
+  <GR_Bearchicken.lifeStages.2.labelMalePlural>male bearchickens</GR_Bearchicken.lifeStages.2.labelMalePlural>
+  <GR_Bearchicken.lifeStages.2.labelFemale>bearchicken hen</GR_Bearchicken.lifeStages.2.labelFemale>
+  <GR_Bearchicken.lifeStages.2.labelFemalePlural>female bearchickens</GR_Bearchicken.lifeStages.2.labelFemalePlural>
   <GR_Bearchicken.labelMale>公火鸡熊</GR_Bearchicken.labelMale>
-  
-  <!-- EN: bearffalo -->
+  <GR_Bearchicken.labelMalePlural>bearchicken roosters</GR_Bearchicken.labelMalePlural>
+  <GR_Bearchicken.labelFemale>母火鸡熊</GR_Bearchicken.labelFemale>
+  <GR_Bearchicken.labelFemalePlural>bearchicken hens</GR_Bearchicken.labelFemalePlural>
+
+
+  <!-- Bear - Muffalo -->
+
   <GR_Bearffalo.label>雪牛熊</GR_Bearffalo.label>
-  
-  <!-- EN: bearman -->
-  <GR_Bearman.label>人熊</GR_Bearman.label>
-  <!-- EN: bearwoman -->
-  <GR_Bearman.labelFemale>女人熊</GR_Bearman.labelFemale>
-  <!-- EN: bearwomen -->
-  <GR_Bearman.labelFemalePlural>女人熊</GR_Bearman.labelFemalePlural>
-  <!-- EN: bearman -->
-  <GR_Bearman.labelMale>男人熊</GR_Bearman.labelMale>
-  <!-- EN: bearmen -->
-  <GR_Bearman.labelMalePlural>男人熊</GR_Bearman.labelMalePlural>
-  <!-- EN: bearbaby -->
-  <GR_Bearman.lifeStages.bearbaby.label>人熊宝宝</GR_Bearman.lifeStages.bearbaby.label>
-  <!-- EN: bearbabies -->
-  <GR_Bearman.lifeStages.bearbaby.labelPlural>人熊宝宝</GR_Bearman.lifeStages.bearbaby.labelPlural>
-  
-  <!-- EN: bearmole -->
-  <GR_Bearmole.label>鼹鼠熊</GR_Bearmole.label>
-  
-  <!-- EN: bearwolf -->
+  <GR_Bearffalo.labelPlural>bearffalos</GR_Bearffalo.labelPlural>
+  <GR_Bearffalo.lifeStages.0.label>bearffalo</GR_Bearffalo.lifeStages.0.label>
+  <GR_Bearffalo.lifeStages.0.labelPlural>bearffalo</GR_Bearffalo.lifeStages.0.labelPlural>
+  <GR_Bearffalo.lifeStages.0.labelMale>male bearffalo</GR_Bearffalo.lifeStages.0.labelMale>
+  <GR_Bearffalo.lifeStages.0.labelMalePlural>male bearffalos</GR_Bearffalo.lifeStages.0.labelMalePlural>
+  <GR_Bearffalo.lifeStages.0.labelFemale>female bearffalo</GR_Bearffalo.lifeStages.0.labelFemale>
+  <GR_Bearffalo.lifeStages.0.labelFemalePlural>female bearffalos</GR_Bearffalo.lifeStages.0.labelFemalePlural>
+  <GR_Bearffalo.lifeStages.1.label>bearffalo</GR_Bearffalo.lifeStages.1.label>
+  <GR_Bearffalo.lifeStages.1.labelPlural>bearffalo</GR_Bearffalo.lifeStages.1.labelPlural>
+  <GR_Bearffalo.lifeStages.1.labelMale>male bearffalo</GR_Bearffalo.lifeStages.1.labelMale>
+  <GR_Bearffalo.lifeStages.1.labelMalePlural>male bearffalos</GR_Bearffalo.lifeStages.1.labelMalePlural>
+  <GR_Bearffalo.lifeStages.1.labelFemale>female bearffalo</GR_Bearffalo.lifeStages.1.labelFemale>
+  <GR_Bearffalo.lifeStages.1.labelFemalePlural>female bearffalos</GR_Bearffalo.lifeStages.1.labelFemalePlural>
+  <GR_Bearffalo.lifeStages.2.label>bearffalo</GR_Bearffalo.lifeStages.2.label>
+  <GR_Bearffalo.lifeStages.2.labelPlural>bearffalo</GR_Bearffalo.lifeStages.2.labelPlural>
+  <GR_Bearffalo.lifeStages.2.labelMale>male bearffalo</GR_Bearffalo.lifeStages.2.labelMale>
+  <GR_Bearffalo.lifeStages.2.labelMalePlural>male bearffalos</GR_Bearffalo.lifeStages.2.labelMalePlural>
+  <GR_Bearffalo.lifeStages.2.labelFemale>female bearffalo</GR_Bearffalo.lifeStages.2.labelFemale>
+  <GR_Bearffalo.lifeStages.2.labelFemalePlural>female bearffalos</GR_Bearffalo.lifeStages.2.labelFemalePlural>
+  <GR_Bearffalo.labelMale>male bearffalo</GR_Bearffalo.labelMale>
+  <GR_Bearffalo.labelMalePlural>male bearffalos</GR_Bearffalo.labelMalePlural>
+  <GR_Bearffalo.labelFemale>female bearffalo</GR_Bearffalo.labelFemale>
+  <GR_Bearffalo.labelFemalePlural>female bearffalos</GR_Bearffalo.labelFemalePlural>
+
+
+  <!-- Bear - Wolf -->
+
   <GR_Bearwolf.label>狼熊</GR_Bearwolf.label>
-  
+  <GR_Bearwolf.labelPlural>bearwolfs</GR_Bearwolf.labelPlural>
+  <GR_Bearwolf.lifeStages.0.label>bearwolf</GR_Bearwolf.lifeStages.0.label>
+  <GR_Bearwolf.lifeStages.0.labelPlural>bearwolf</GR_Bearwolf.lifeStages.0.labelPlural>
+  <GR_Bearwolf.lifeStages.0.labelMale>male bearwolf</GR_Bearwolf.lifeStages.0.labelMale>
+  <GR_Bearwolf.lifeStages.0.labelMalePlural>male bearwolfs</GR_Bearwolf.lifeStages.0.labelMalePlural>
+  <GR_Bearwolf.lifeStages.0.labelFemale>female bearwolf</GR_Bearwolf.lifeStages.0.labelFemale>
+  <GR_Bearwolf.lifeStages.0.labelFemalePlural>female bearwolfs</GR_Bearwolf.lifeStages.0.labelFemalePlural>
+  <GR_Bearwolf.lifeStages.1.label>bearwolf</GR_Bearwolf.lifeStages.1.label>
+  <GR_Bearwolf.lifeStages.1.labelPlural>bearwolf</GR_Bearwolf.lifeStages.1.labelPlural>
+  <GR_Bearwolf.lifeStages.1.labelMale>male bearwolf</GR_Bearwolf.lifeStages.1.labelMale>
+  <GR_Bearwolf.lifeStages.1.labelMalePlural>male bearwolfs</GR_Bearwolf.lifeStages.1.labelMalePlural>
+  <GR_Bearwolf.lifeStages.1.labelFemale>female bearwolf</GR_Bearwolf.lifeStages.1.labelFemale>
+  <GR_Bearwolf.lifeStages.1.labelFemalePlural>female bearwolfs</GR_Bearwolf.lifeStages.1.labelFemalePlural>
+  <GR_Bearwolf.lifeStages.2.label>bearwolf</GR_Bearwolf.lifeStages.2.label>
+  <GR_Bearwolf.lifeStages.2.labelPlural>bearwolf</GR_Bearwolf.lifeStages.2.labelPlural>
+  <GR_Bearwolf.lifeStages.2.labelMale>male bearwolf</GR_Bearwolf.lifeStages.2.labelMale>
+  <GR_Bearwolf.lifeStages.2.labelMalePlural>male bearwolfs</GR_Bearwolf.lifeStages.2.labelMalePlural>
+  <GR_Bearwolf.lifeStages.2.labelFemale>female bearwolf</GR_Bearwolf.lifeStages.2.labelFemale>
+  <GR_Bearwolf.lifeStages.2.labelFemalePlural>female bearwolfs</GR_Bearwolf.lifeStages.2.labelFemalePlural>
+  <GR_Bearwolf.labelMale>male bearwolf</GR_Bearwolf.labelMale>
+  <GR_Bearwolf.labelMalePlural>male bearwolfs</GR_Bearwolf.labelMalePlural>
+  <GR_Bearwolf.labelFemale>female bearwolf</GR_Bearwolf.labelFemale>
+  <GR_Bearwolf.labelFemalePlural>female bearwolfs</GR_Bearwolf.labelFemalePlural>
+
+
+  <!-- Bear - Rodent -->
+
+  <GR_Bearmole.label>鼹鼠熊</GR_Bearmole.label>
+  <GR_Bearmole.labelPlural>bearmoles</GR_Bearmole.labelPlural>
+  <GR_Bearmole.lifeStages.0.label>bearmole</GR_Bearmole.lifeStages.0.label>
+  <GR_Bearmole.lifeStages.0.labelPlural>bearmole</GR_Bearmole.lifeStages.0.labelPlural>
+  <GR_Bearmole.lifeStages.0.labelMale>male bearmole</GR_Bearmole.lifeStages.0.labelMale>
+  <GR_Bearmole.lifeStages.0.labelMalePlural>male bearmoles</GR_Bearmole.lifeStages.0.labelMalePlural>
+  <GR_Bearmole.lifeStages.0.labelFemale>female bearmole</GR_Bearmole.lifeStages.0.labelFemale>
+  <GR_Bearmole.lifeStages.0.labelFemalePlural>female bearmoles</GR_Bearmole.lifeStages.0.labelFemalePlural>
+  <GR_Bearmole.lifeStages.1.label>bearmole</GR_Bearmole.lifeStages.1.label>
+  <GR_Bearmole.lifeStages.1.labelPlural>bearmole</GR_Bearmole.lifeStages.1.labelPlural>
+  <GR_Bearmole.lifeStages.1.labelMale>male bearmole</GR_Bearmole.lifeStages.1.labelMale>
+  <GR_Bearmole.lifeStages.1.labelMalePlural>male bearmoles</GR_Bearmole.lifeStages.1.labelMalePlural>
+  <GR_Bearmole.lifeStages.1.labelFemale>female bearmole</GR_Bearmole.lifeStages.1.labelFemale>
+  <GR_Bearmole.lifeStages.1.labelFemalePlural>female bearmoles</GR_Bearmole.lifeStages.1.labelFemalePlural>
+  <GR_Bearmole.lifeStages.2.label>bearmole</GR_Bearmole.lifeStages.2.label>
+  <GR_Bearmole.lifeStages.2.labelPlural>bearmole</GR_Bearmole.lifeStages.2.labelPlural>
+  <GR_Bearmole.lifeStages.2.labelMale>male bearmole</GR_Bearmole.lifeStages.2.labelMale>
+  <GR_Bearmole.lifeStages.2.labelMalePlural>male bearmoles</GR_Bearmole.lifeStages.2.labelMalePlural>
+  <GR_Bearmole.lifeStages.2.labelFemale>female bearmole</GR_Bearmole.lifeStages.2.labelFemale>
+  <GR_Bearmole.lifeStages.2.labelFemalePlural>female bearmoles</GR_Bearmole.lifeStages.2.labelFemalePlural>
+  <GR_Bearmole.labelMale>male bearmole</GR_Bearmole.labelMale>
+  <GR_Bearmole.labelMalePlural>male bearmoles</GR_Bearmole.labelMalePlural>
+  <GR_Bearmole.labelFemale>female bearmole</GR_Bearmole.labelFemale>
+  <GR_Bearmole.labelFemalePlural>female bearmoles</GR_Bearmole.labelFemalePlural>
+
+
+  <!-- Bear - Cat -->
+
+  <GR_Bearcat.label>猫熊</GR_Bearcat.label>
+  <GR_Bearcat.labelPlural>bearcats</GR_Bearcat.labelPlural>
+  <GR_Bearcat.lifeStages.0.label>bearcat</GR_Bearcat.lifeStages.0.label>
+  <GR_Bearcat.lifeStages.0.labelPlural>bearcat</GR_Bearcat.lifeStages.0.labelPlural>
+  <GR_Bearcat.lifeStages.0.labelMale>male bearcat</GR_Bearcat.lifeStages.0.labelMale>
+  <GR_Bearcat.lifeStages.0.labelMalePlural>male bearcats</GR_Bearcat.lifeStages.0.labelMalePlural>
+  <GR_Bearcat.lifeStages.0.labelFemale>female bearcat</GR_Bearcat.lifeStages.0.labelFemale>
+  <GR_Bearcat.lifeStages.0.labelFemalePlural>female bearcats</GR_Bearcat.lifeStages.0.labelFemalePlural>
+  <GR_Bearcat.lifeStages.1.label>bearcat</GR_Bearcat.lifeStages.1.label>
+  <GR_Bearcat.lifeStages.1.labelPlural>bearcat</GR_Bearcat.lifeStages.1.labelPlural>
+  <GR_Bearcat.lifeStages.1.labelMale>male bearcat</GR_Bearcat.lifeStages.1.labelMale>
+  <GR_Bearcat.lifeStages.1.labelMalePlural>male bearcats</GR_Bearcat.lifeStages.1.labelMalePlural>
+  <GR_Bearcat.lifeStages.1.labelFemale>female bearcat</GR_Bearcat.lifeStages.1.labelFemale>
+  <GR_Bearcat.lifeStages.1.labelFemalePlural>female bearcats</GR_Bearcat.lifeStages.1.labelFemalePlural>
+  <GR_Bearcat.lifeStages.2.label>bearcat</GR_Bearcat.lifeStages.2.label>
+  <GR_Bearcat.lifeStages.2.labelPlural>bearcat</GR_Bearcat.lifeStages.2.labelPlural>
+  <GR_Bearcat.lifeStages.2.labelMale>male bearcat</GR_Bearcat.lifeStages.2.labelMale>
+  <GR_Bearcat.lifeStages.2.labelMalePlural>male bearcats</GR_Bearcat.lifeStages.2.labelMalePlural>
+  <GR_Bearcat.lifeStages.2.labelFemale>female bearcat</GR_Bearcat.lifeStages.2.labelFemale>
+  <GR_Bearcat.lifeStages.2.labelFemalePlural>female bearcats</GR_Bearcat.lifeStages.2.labelFemalePlural>
+  <GR_Bearcat.labelMale>male bearcat</GR_Bearcat.labelMale>
+  <GR_Bearcat.labelMalePlural>male bearcats</GR_Bearcat.labelMalePlural>
+  <GR_Bearcat.labelFemale>female bearcat</GR_Bearcat.labelFemale>
+  <GR_Bearcat.labelFemalePlural>female bearcats</GR_Bearcat.labelFemalePlural>
+
+
+  <!-- Bear - Humanoid -->
+
+  <GR_Bearman.label>人熊</GR_Bearman.label>
+  <GR_Bearman.labelPlural>bearmans</GR_Bearman.labelPlural>
+  <GR_Bearman.lifeStages.0.label>bearbaby</GR_Bearman.lifeStages.0.label>
+  <GR_Bearman.lifeStages.0.labelPlural>bearbabies</GR_Bearman.lifeStages.0.labelPlural>
+  <GR_Bearman.lifeStages.0.labelMale>male bearbaby</GR_Bearman.lifeStages.0.labelMale>
+  <GR_Bearman.lifeStages.0.labelMalePlural>male bearbabies</GR_Bearman.lifeStages.0.labelMalePlural>
+  <GR_Bearman.lifeStages.0.labelFemale>female bearbaby</GR_Bearman.lifeStages.0.labelFemale>
+  <GR_Bearman.lifeStages.0.labelFemalePlural>female bearbabies</GR_Bearman.lifeStages.0.labelFemalePlural>
+  <GR_Bearman.lifeStages.1.label>bearman</GR_Bearman.lifeStages.1.label>
+  <GR_Bearman.lifeStages.1.labelPlural>bearman</GR_Bearman.lifeStages.1.labelPlural>
+  <GR_Bearman.lifeStages.1.labelMale>bearman</GR_Bearman.lifeStages.1.labelMale>
+  <GR_Bearman.lifeStages.1.labelMalePlural>male bearmans</GR_Bearman.lifeStages.1.labelMalePlural>
+  <GR_Bearman.lifeStages.1.labelFemale>bearwoman</GR_Bearman.lifeStages.1.labelFemale>
+  <GR_Bearman.lifeStages.1.labelFemalePlural>female bearmans</GR_Bearman.lifeStages.1.labelFemalePlural>
+  <GR_Bearman.lifeStages.2.label>bearman</GR_Bearman.lifeStages.2.label>
+  <GR_Bearman.lifeStages.2.labelPlural>bearman</GR_Bearman.lifeStages.2.labelPlural>
+  <GR_Bearman.lifeStages.2.labelMale>bearman</GR_Bearman.lifeStages.2.labelMale>
+  <GR_Bearman.lifeStages.2.labelMalePlural>male bearmans</GR_Bearman.lifeStages.2.labelMalePlural>
+  <GR_Bearman.lifeStages.2.labelFemale>bearwoman</GR_Bearman.lifeStages.2.labelFemale>
+  <GR_Bearman.lifeStages.2.labelFemalePlural>female bearmans</GR_Bearman.lifeStages.2.labelFemalePlural>
+  <GR_Bearman.labelMale>男人熊</GR_Bearman.labelMale>
+  <GR_Bearman.labelMalePlural>男人熊</GR_Bearman.labelMalePlural>
+  <GR_Bearman.labelFemale>女人熊</GR_Bearman.labelFemale>
+  <GR_Bearman.labelFemalePlural>女人熊</GR_Bearman.labelFemalePlural>
+
+
 </LanguageData>

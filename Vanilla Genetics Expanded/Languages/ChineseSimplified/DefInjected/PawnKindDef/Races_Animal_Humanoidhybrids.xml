@@ -1,67 +1,200 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: manalope -->
-  <GR_Manalope.label>爆炸人</GR_Manalope.label>
-  <!-- EN: womanlope -->
-  <GR_Manalope.labelFemale>女爆炸人</GR_Manalope.labelFemale>
-  <!-- EN: manalope -->
-  <GR_Manalope.labelMale>男爆炸人</GR_Manalope.labelMale>
-  <!-- EN: babylope -->
-  <GR_Manalope.lifeStages.babylope.label>爆炸人宝宝</GR_Manalope.lifeStages.babylope.label>
-  
-  <!-- EN: manbear -->
+
+  <!-- Humanoid - Bear -->
+
   <GR_Manbear.label>熊人</GR_Manbear.label>
-  <!-- EN: womanbear -->
-  <GR_Manbear.labelFemale>女熊人</GR_Manbear.labelFemale>
-  <!-- EN: manbear -->
+  <GR_Manbear.labelPlural>manbears</GR_Manbear.labelPlural>
+  <GR_Manbear.lifeStages.0.label>babybear</GR_Manbear.lifeStages.0.label>
+  <GR_Manbear.lifeStages.0.labelPlural>babybears</GR_Manbear.lifeStages.0.labelPlural>
+  <GR_Manbear.lifeStages.0.labelMale>male babybear</GR_Manbear.lifeStages.0.labelMale>
+  <GR_Manbear.lifeStages.0.labelMalePlural>male babybears</GR_Manbear.lifeStages.0.labelMalePlural>
+  <GR_Manbear.lifeStages.0.labelFemale>female babybear</GR_Manbear.lifeStages.0.labelFemale>
+  <GR_Manbear.lifeStages.0.labelFemalePlural>female babybears</GR_Manbear.lifeStages.0.labelFemalePlural>
+  <GR_Manbear.lifeStages.1.label>manbear</GR_Manbear.lifeStages.1.label>
+  <GR_Manbear.lifeStages.1.labelPlural>manbear</GR_Manbear.lifeStages.1.labelPlural>
+  <GR_Manbear.lifeStages.1.labelMale>manbear</GR_Manbear.lifeStages.1.labelMale>
+  <GR_Manbear.lifeStages.1.labelMalePlural>male manbears</GR_Manbear.lifeStages.1.labelMalePlural>
+  <GR_Manbear.lifeStages.1.labelFemale>womanbear</GR_Manbear.lifeStages.1.labelFemale>
+  <GR_Manbear.lifeStages.1.labelFemalePlural>female manbears</GR_Manbear.lifeStages.1.labelFemalePlural>
+  <GR_Manbear.lifeStages.2.label>manbear</GR_Manbear.lifeStages.2.label>
+  <GR_Manbear.lifeStages.2.labelPlural>manbear</GR_Manbear.lifeStages.2.labelPlural>
+  <GR_Manbear.lifeStages.2.labelMale>manbear</GR_Manbear.lifeStages.2.labelMale>
+  <GR_Manbear.lifeStages.2.labelMalePlural>male manbears</GR_Manbear.lifeStages.2.labelMalePlural>
+  <GR_Manbear.lifeStages.2.labelFemale>womanbear</GR_Manbear.lifeStages.2.labelFemale>
+  <GR_Manbear.lifeStages.2.labelFemalePlural>female manbears</GR_Manbear.lifeStages.2.labelFemalePlural>
   <GR_Manbear.labelMale>男熊人</GR_Manbear.labelMale>
-  <!-- EN: babybear -->
-  <GR_Manbear.lifeStages.babybear.label>熊人宝宝</GR_Manbear.lifeStages.babybear.label>
-  
-  <!-- EN: mancat -->
-  <GR_Mancat.label>猫人</GR_Mancat.label>
-  <!-- EN: womancat -->
-  <GR_Mancat.labelFemale>女猫人</GR_Mancat.labelFemale>
-  <!-- EN: mancat -->
-  <GR_Mancat.labelMale>男猫人</GR_Mancat.labelMale>
-  <!-- EN: babycat -->
-  <GR_Mancat.lifeStages.babycat.label>猫人宝宝</GR_Mancat.lifeStages.babycat.label>
-  
-  <!-- EN: manchicken -->
+  <GR_Manbear.labelMalePlural>manbears</GR_Manbear.labelMalePlural>
+  <GR_Manbear.labelFemale>女熊人</GR_Manbear.labelFemale>
+  <GR_Manbear.labelFemalePlural>womanbears</GR_Manbear.labelFemalePlural>
+
+
+  <!-- Humanoid - Boomalope -->
+
+  <GR_Manalope.label>爆炸人</GR_Manalope.label>
+  <GR_Manalope.labelPlural>manalopes</GR_Manalope.labelPlural>
+  <GR_Manalope.lifeStages.0.label>babylope</GR_Manalope.lifeStages.0.label>
+  <GR_Manalope.lifeStages.0.labelPlural>babylopes</GR_Manalope.lifeStages.0.labelPlural>
+  <GR_Manalope.lifeStages.0.labelMale>male babylope</GR_Manalope.lifeStages.0.labelMale>
+  <GR_Manalope.lifeStages.0.labelMalePlural>male babylopes</GR_Manalope.lifeStages.0.labelMalePlural>
+  <GR_Manalope.lifeStages.0.labelFemale>female babylope</GR_Manalope.lifeStages.0.labelFemale>
+  <GR_Manalope.lifeStages.0.labelFemalePlural>female babylopes</GR_Manalope.lifeStages.0.labelFemalePlural>
+  <GR_Manalope.lifeStages.1.label>manalope</GR_Manalope.lifeStages.1.label>
+  <GR_Manalope.lifeStages.1.labelPlural>manalope</GR_Manalope.lifeStages.1.labelPlural>
+  <GR_Manalope.lifeStages.1.labelMale>manalope</GR_Manalope.lifeStages.1.labelMale>
+  <GR_Manalope.lifeStages.1.labelMalePlural>male manalopes</GR_Manalope.lifeStages.1.labelMalePlural>
+  <GR_Manalope.lifeStages.1.labelFemale>womanlope</GR_Manalope.lifeStages.1.labelFemale>
+  <GR_Manalope.lifeStages.1.labelFemalePlural>female manalopes</GR_Manalope.lifeStages.1.labelFemalePlural>
+  <GR_Manalope.lifeStages.2.label>manalope</GR_Manalope.lifeStages.2.label>
+  <GR_Manalope.lifeStages.2.labelPlural>manalope</GR_Manalope.lifeStages.2.labelPlural>
+  <GR_Manalope.lifeStages.2.labelMale>manalope</GR_Manalope.lifeStages.2.labelMale>
+  <GR_Manalope.lifeStages.2.labelMalePlural>male manalopes</GR_Manalope.lifeStages.2.labelMalePlural>
+  <GR_Manalope.lifeStages.2.labelFemale>womanlope</GR_Manalope.lifeStages.2.labelFemale>
+  <GR_Manalope.lifeStages.2.labelFemalePlural>female manalopes</GR_Manalope.lifeStages.2.labelFemalePlural>
+  <GR_Manalope.labelMale>男爆炸人</GR_Manalope.labelMale>
+  <GR_Manalope.labelMalePlural>manalopes</GR_Manalope.labelMalePlural>
+  <GR_Manalope.labelFemale>女爆炸人</GR_Manalope.labelFemale>
+  <GR_Manalope.labelFemalePlural>womanlopes</GR_Manalope.labelFemalePlural>
+
+
+  <!-- Humanoid - Chicken -->
+
   <GR_Manchicken.label>鸡人</GR_Manchicken.label>
-  <!-- EN: womanchicken -->
-  <GR_Manchicken.labelFemale>女鸡人</GR_Manchicken.labelFemale>
-  <!-- EN: manchicken -->
+  <GR_Manchicken.labelPlural>manchickens</GR_Manchicken.labelPlural>
+  <GR_Manchicken.lifeStages.0.label>babychicken</GR_Manchicken.lifeStages.0.label>
+  <GR_Manchicken.lifeStages.0.labelPlural>babychickens</GR_Manchicken.lifeStages.0.labelPlural>
+  <GR_Manchicken.lifeStages.0.labelMale>male babychicken</GR_Manchicken.lifeStages.0.labelMale>
+  <GR_Manchicken.lifeStages.0.labelMalePlural>male babychickens</GR_Manchicken.lifeStages.0.labelMalePlural>
+  <GR_Manchicken.lifeStages.0.labelFemale>female babychicken</GR_Manchicken.lifeStages.0.labelFemale>
+  <GR_Manchicken.lifeStages.0.labelFemalePlural>female babychickens</GR_Manchicken.lifeStages.0.labelFemalePlural>
+  <GR_Manchicken.lifeStages.1.label>manchicken</GR_Manchicken.lifeStages.1.label>
+  <GR_Manchicken.lifeStages.1.labelPlural>manchicken</GR_Manchicken.lifeStages.1.labelPlural>
+  <GR_Manchicken.lifeStages.1.labelMale>manchicken</GR_Manchicken.lifeStages.1.labelMale>
+  <GR_Manchicken.lifeStages.1.labelMalePlural>male manchickens</GR_Manchicken.lifeStages.1.labelMalePlural>
+  <GR_Manchicken.lifeStages.1.labelFemale>womanchicken</GR_Manchicken.lifeStages.1.labelFemale>
+  <GR_Manchicken.lifeStages.1.labelFemalePlural>female manchickens</GR_Manchicken.lifeStages.1.labelFemalePlural>
+  <GR_Manchicken.lifeStages.2.label>manchicken</GR_Manchicken.lifeStages.2.label>
+  <GR_Manchicken.lifeStages.2.labelPlural>manchicken</GR_Manchicken.lifeStages.2.labelPlural>
+  <GR_Manchicken.lifeStages.2.labelMale>manchicken</GR_Manchicken.lifeStages.2.labelMale>
+  <GR_Manchicken.lifeStages.2.labelMalePlural>male manchickens</GR_Manchicken.lifeStages.2.labelMalePlural>
+  <GR_Manchicken.lifeStages.2.labelFemale>womanchicken</GR_Manchicken.lifeStages.2.labelFemale>
+  <GR_Manchicken.lifeStages.2.labelFemalePlural>female manchickens</GR_Manchicken.lifeStages.2.labelFemalePlural>
   <GR_Manchicken.labelMale>男鸡人</GR_Manchicken.labelMale>
-  <!-- EN: babychicken -->
-  <GR_Manchicken.lifeStages.babychicken.label>鸡人宝宝</GR_Manchicken.lifeStages.babychicken.label>
-  
-  <!-- EN: manffalo -->
+  <GR_Manchicken.labelMalePlural>manchickens</GR_Manchicken.labelMalePlural>
+  <GR_Manchicken.labelFemale>女鸡人</GR_Manchicken.labelFemale>
+  <GR_Manchicken.labelFemalePlural>womanchickens</GR_Manchicken.labelFemalePlural>
+
+
+  <!-- Humanoid - Muffalo -->
+
   <GR_Manffalo.label>雪牛人</GR_Manffalo.label>
-  <!-- EN: womanffalo -->
-  <GR_Manffalo.labelFemale>女雪牛人</GR_Manffalo.labelFemale>
-  <!-- EN: manffalo -->
+  <GR_Manffalo.labelPlural>manffalos</GR_Manffalo.labelPlural>
+  <GR_Manffalo.lifeStages.0.label>babyffalo</GR_Manffalo.lifeStages.0.label>
+  <GR_Manffalo.lifeStages.0.labelPlural>babyffalos</GR_Manffalo.lifeStages.0.labelPlural>
+  <GR_Manffalo.lifeStages.0.labelMale>male babyffalo</GR_Manffalo.lifeStages.0.labelMale>
+  <GR_Manffalo.lifeStages.0.labelMalePlural>male babyffalos</GR_Manffalo.lifeStages.0.labelMalePlural>
+  <GR_Manffalo.lifeStages.0.labelFemale>female babyffalo</GR_Manffalo.lifeStages.0.labelFemale>
+  <GR_Manffalo.lifeStages.0.labelFemalePlural>female babyffalos</GR_Manffalo.lifeStages.0.labelFemalePlural>
+  <GR_Manffalo.lifeStages.1.label>manffalo</GR_Manffalo.lifeStages.1.label>
+  <GR_Manffalo.lifeStages.1.labelPlural>manffalo</GR_Manffalo.lifeStages.1.labelPlural>
+  <GR_Manffalo.lifeStages.1.labelMale>manffalo</GR_Manffalo.lifeStages.1.labelMale>
+  <GR_Manffalo.lifeStages.1.labelMalePlural>male manffalos</GR_Manffalo.lifeStages.1.labelMalePlural>
+  <GR_Manffalo.lifeStages.1.labelFemale>womanffalo</GR_Manffalo.lifeStages.1.labelFemale>
+  <GR_Manffalo.lifeStages.1.labelFemalePlural>female manffalos</GR_Manffalo.lifeStages.1.labelFemalePlural>
+  <GR_Manffalo.lifeStages.2.label>manffalo</GR_Manffalo.lifeStages.2.label>
+  <GR_Manffalo.lifeStages.2.labelPlural>manffalo</GR_Manffalo.lifeStages.2.labelPlural>
+  <GR_Manffalo.lifeStages.2.labelMale>manffalo</GR_Manffalo.lifeStages.2.labelMale>
+  <GR_Manffalo.lifeStages.2.labelMalePlural>male manffalos</GR_Manffalo.lifeStages.2.labelMalePlural>
+  <GR_Manffalo.lifeStages.2.labelFemale>womanffalo</GR_Manffalo.lifeStages.2.labelFemale>
+  <GR_Manffalo.lifeStages.2.labelFemalePlural>female manffalos</GR_Manffalo.lifeStages.2.labelFemalePlural>
   <GR_Manffalo.labelMale>男雪牛人</GR_Manffalo.labelMale>
-  <!-- EN: babyffalo -->
-  <GR_Manffalo.lifeStages.babyffalo.label>雪牛人宝宝</GR_Manffalo.lifeStages.babyffalo.label>
-  
-  <!-- EN: mansquirrel -->
-  <GR_Mansquirrel.label>松鼠人</GR_Mansquirrel.label>
-  <!-- EN: womansquirrel -->
-  <GR_Mansquirrel.labelFemale>女松鼠人</GR_Mansquirrel.labelFemale>
-  <!-- EN: mansquirrel -->
-  <GR_Mansquirrel.labelMale>男松鼠人</GR_Mansquirrel.labelMale>
-  <!-- EN: babysquirrel -->
-  <GR_Mansquirrel.lifeStages.babysquirrel.label>松鼠人宝宝</GR_Mansquirrel.lifeStages.babysquirrel.label>
-  
-  <!-- EN: manwolf -->
+  <GR_Manffalo.labelMalePlural>manffalos</GR_Manffalo.labelMalePlural>
+  <GR_Manffalo.labelFemale>女雪牛人</GR_Manffalo.labelFemale>
+  <GR_Manffalo.labelFemalePlural>womanffalos</GR_Manffalo.labelFemalePlural>
+
+
+  <!-- Humanoid - Wolf -->
+
   <GR_Manwolf.label>狼人</GR_Manwolf.label>
-  <!-- EN: womanwolf -->
-  <GR_Manwolf.labelFemale>女狼人</GR_Manwolf.labelFemale>
-  <!-- EN: manwolf -->
+  <GR_Manwolf.labelPlural>manwolfs</GR_Manwolf.labelPlural>
+  <GR_Manwolf.lifeStages.0.label>babywolf</GR_Manwolf.lifeStages.0.label>
+  <GR_Manwolf.lifeStages.0.labelPlural>babywolfs</GR_Manwolf.lifeStages.0.labelPlural>
+  <GR_Manwolf.lifeStages.0.labelMale>male babywolf</GR_Manwolf.lifeStages.0.labelMale>
+  <GR_Manwolf.lifeStages.0.labelMalePlural>male babywolfs</GR_Manwolf.lifeStages.0.labelMalePlural>
+  <GR_Manwolf.lifeStages.0.labelFemale>female babywolf</GR_Manwolf.lifeStages.0.labelFemale>
+  <GR_Manwolf.lifeStages.0.labelFemalePlural>female babywolfs</GR_Manwolf.lifeStages.0.labelFemalePlural>
+  <GR_Manwolf.lifeStages.1.label>manwolf</GR_Manwolf.lifeStages.1.label>
+  <GR_Manwolf.lifeStages.1.labelPlural>manwolf</GR_Manwolf.lifeStages.1.labelPlural>
+  <GR_Manwolf.lifeStages.1.labelMale>manwolf</GR_Manwolf.lifeStages.1.labelMale>
+  <GR_Manwolf.lifeStages.1.labelMalePlural>male manwolfs</GR_Manwolf.lifeStages.1.labelMalePlural>
+  <GR_Manwolf.lifeStages.1.labelFemale>womanwolf</GR_Manwolf.lifeStages.1.labelFemale>
+  <GR_Manwolf.lifeStages.1.labelFemalePlural>female manwolfs</GR_Manwolf.lifeStages.1.labelFemalePlural>
+  <GR_Manwolf.lifeStages.2.label>manwolf</GR_Manwolf.lifeStages.2.label>
+  <GR_Manwolf.lifeStages.2.labelPlural>manwolf</GR_Manwolf.lifeStages.2.labelPlural>
+  <GR_Manwolf.lifeStages.2.labelMale>manwolf</GR_Manwolf.lifeStages.2.labelMale>
+  <GR_Manwolf.lifeStages.2.labelMalePlural>male manwolfs</GR_Manwolf.lifeStages.2.labelMalePlural>
+  <GR_Manwolf.lifeStages.2.labelFemale>womanwolf</GR_Manwolf.lifeStages.2.labelFemale>
+  <GR_Manwolf.lifeStages.2.labelFemalePlural>female manwolfs</GR_Manwolf.lifeStages.2.labelFemalePlural>
   <GR_Manwolf.labelMale>男狼人</GR_Manwolf.labelMale>
-  <!-- EN: babywolf -->
-  <GR_Manwolf.lifeStages.babywolf.label>狼人宝宝</GR_Manwolf.lifeStages.babywolf.label>
-  
+  <GR_Manwolf.labelMalePlural>manwolfs</GR_Manwolf.labelMalePlural>
+  <GR_Manwolf.labelFemale>女狼人</GR_Manwolf.labelFemale>
+  <GR_Manwolf.labelFemalePlural>womanwolfs</GR_Manwolf.labelFemalePlural>
+
+
+  <!-- Humanoid - Cat -->
+
+  <GR_Mancat.label>猫人</GR_Mancat.label>
+  <GR_Mancat.labelPlural>mancats</GR_Mancat.labelPlural>
+  <GR_Mancat.lifeStages.0.label>babycat</GR_Mancat.lifeStages.0.label>
+  <GR_Mancat.lifeStages.0.labelPlural>babycats</GR_Mancat.lifeStages.0.labelPlural>
+  <GR_Mancat.lifeStages.0.labelMale>male babycat</GR_Mancat.lifeStages.0.labelMale>
+  <GR_Mancat.lifeStages.0.labelMalePlural>male babycats</GR_Mancat.lifeStages.0.labelMalePlural>
+  <GR_Mancat.lifeStages.0.labelFemale>female babycat</GR_Mancat.lifeStages.0.labelFemale>
+  <GR_Mancat.lifeStages.0.labelFemalePlural>female babycats</GR_Mancat.lifeStages.0.labelFemalePlural>
+  <GR_Mancat.lifeStages.1.label>mancat</GR_Mancat.lifeStages.1.label>
+  <GR_Mancat.lifeStages.1.labelPlural>mancat</GR_Mancat.lifeStages.1.labelPlural>
+  <GR_Mancat.lifeStages.1.labelMale>mancat</GR_Mancat.lifeStages.1.labelMale>
+  <GR_Mancat.lifeStages.1.labelMalePlural>male mancats</GR_Mancat.lifeStages.1.labelMalePlural>
+  <GR_Mancat.lifeStages.1.labelFemale>womancat</GR_Mancat.lifeStages.1.labelFemale>
+  <GR_Mancat.lifeStages.1.labelFemalePlural>female mancats</GR_Mancat.lifeStages.1.labelFemalePlural>
+  <GR_Mancat.lifeStages.2.label>mancat</GR_Mancat.lifeStages.2.label>
+  <GR_Mancat.lifeStages.2.labelPlural>mancat</GR_Mancat.lifeStages.2.labelPlural>
+  <GR_Mancat.lifeStages.2.labelMale>mancat</GR_Mancat.lifeStages.2.labelMale>
+  <GR_Mancat.lifeStages.2.labelMalePlural>male mancats</GR_Mancat.lifeStages.2.labelMalePlural>
+  <GR_Mancat.lifeStages.2.labelFemale>womancat</GR_Mancat.lifeStages.2.labelFemale>
+  <GR_Mancat.lifeStages.2.labelFemalePlural>female mancats</GR_Mancat.lifeStages.2.labelFemalePlural>
+  <GR_Mancat.labelMale>男猫人</GR_Mancat.labelMale>
+  <GR_Mancat.labelMalePlural>mancats</GR_Mancat.labelMalePlural>
+  <GR_Mancat.labelFemale>女猫人</GR_Mancat.labelFemale>
+  <GR_Mancat.labelFemalePlural>womancats</GR_Mancat.labelFemalePlural>
+
+
+  <!-- Humanoid - Rodent -->
+
+  <GR_Mansquirrel.label>松鼠人</GR_Mansquirrel.label>
+  <GR_Mansquirrel.labelPlural>mansquirrels</GR_Mansquirrel.labelPlural>
+  <GR_Mansquirrel.lifeStages.0.label>babysquirrel</GR_Mansquirrel.lifeStages.0.label>
+  <GR_Mansquirrel.lifeStages.0.labelPlural>babysquirrels</GR_Mansquirrel.lifeStages.0.labelPlural>
+  <GR_Mansquirrel.lifeStages.0.labelMale>male babysquirrel</GR_Mansquirrel.lifeStages.0.labelMale>
+  <GR_Mansquirrel.lifeStages.0.labelMalePlural>male babysquirrels</GR_Mansquirrel.lifeStages.0.labelMalePlural>
+  <GR_Mansquirrel.lifeStages.0.labelFemale>female babysquirrel</GR_Mansquirrel.lifeStages.0.labelFemale>
+  <GR_Mansquirrel.lifeStages.0.labelFemalePlural>female babysquirrels</GR_Mansquirrel.lifeStages.0.labelFemalePlural>
+  <GR_Mansquirrel.lifeStages.1.label>mansquirrel</GR_Mansquirrel.lifeStages.1.label>
+  <GR_Mansquirrel.lifeStages.1.labelPlural>mansquirrel</GR_Mansquirrel.lifeStages.1.labelPlural>
+  <GR_Mansquirrel.lifeStages.1.labelMale>mansquirrel</GR_Mansquirrel.lifeStages.1.labelMale>
+  <GR_Mansquirrel.lifeStages.1.labelMalePlural>male mansquirrels</GR_Mansquirrel.lifeStages.1.labelMalePlural>
+  <GR_Mansquirrel.lifeStages.1.labelFemale>womansquirrel</GR_Mansquirrel.lifeStages.1.labelFemale>
+  <GR_Mansquirrel.lifeStages.1.labelFemalePlural>female mansquirrels</GR_Mansquirrel.lifeStages.1.labelFemalePlural>
+  <GR_Mansquirrel.lifeStages.2.label>mansquirrel</GR_Mansquirrel.lifeStages.2.label>
+  <GR_Mansquirrel.lifeStages.2.labelPlural>mansquirrel</GR_Mansquirrel.lifeStages.2.labelPlural>
+  <GR_Mansquirrel.lifeStages.2.labelMale>mansquirrel</GR_Mansquirrel.lifeStages.2.labelMale>
+  <GR_Mansquirrel.lifeStages.2.labelMalePlural>male mansquirrels</GR_Mansquirrel.lifeStages.2.labelMalePlural>
+  <GR_Mansquirrel.lifeStages.2.labelFemale>womansquirrel</GR_Mansquirrel.lifeStages.2.labelFemale>
+  <GR_Mansquirrel.lifeStages.2.labelFemalePlural>female mansquirrels</GR_Mansquirrel.lifeStages.2.labelFemalePlural>
+  <GR_Mansquirrel.labelMale>男松鼠人</GR_Mansquirrel.labelMale>
+  <GR_Mansquirrel.labelMalePlural>mansquirrels</GR_Mansquirrel.labelMalePlural>
+  <GR_Mansquirrel.labelFemale>女松鼠人</GR_Mansquirrel.labelFemale>
+  <GR_Mansquirrel.labelFemalePlural>womansquirrels</GR_Mansquirrel.labelFemalePlural>
+
+
 </LanguageData>

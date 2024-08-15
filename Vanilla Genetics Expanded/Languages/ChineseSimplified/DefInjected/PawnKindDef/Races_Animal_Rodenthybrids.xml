@@ -1,45 +1,200 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: beaverwolf -->
-  <GR_Beaverwolf.label>狼海狸</GR_Beaverwolf.label>
-  <!-- EN: beaverwolf puppy -->
-  <GR_Beaverwolf.lifeStages.beaverwolf_puppy.label>狼海狸幼崽</GR_Beaverwolf.lifeStages.beaverwolf_puppy.label>
-  <!-- EN: beaverwolf puppies -->
-  <GR_Beaverwolf.lifeStages.beaverwolf_puppy.labelPlural>狼海狸幼崽</GR_Beaverwolf.lifeStages.beaverwolf_puppy.labelPlural>
-  
-  <!-- EN: molebear -->
+
+  <!-- Rodent - Bear -->
+
   <GR_Molebear.label>熊鼹鼠</GR_Molebear.label>
-  
-  <!-- EN: moleman -->
-  <GR_Moleman.label>人鼹鼠</GR_Moleman.label>
-  <!-- EN: molewoman -->
-  <GR_Moleman.labelFemale>女人鼹鼠</GR_Moleman.labelFemale>
-  <!-- EN: molewomen -->
-  <GR_Moleman.labelFemalePlural>女人鼹鼠</GR_Moleman.labelFemalePlural>
-  <!-- EN: moleman -->
-  <GR_Moleman.labelMale>男人鼹鼠</GR_Moleman.labelMale>
-  <!-- EN: molemen -->
-  <GR_Moleman.labelMalePlural>男人鼹鼠</GR_Moleman.labelMalePlural>
-  <!-- EN: molebaby -->
-  <GR_Moleman.lifeStages.molebaby.label>人鼹鼠宝宝</GR_Moleman.lifeStages.molebaby.label>
-  <!-- EN: molebabies -->
-  <GR_Moleman.lifeStages.molebaby.labelPlural>人鼹鼠宝宝</GR_Moleman.lifeStages.molebaby.labelPlural>
-  
-  <!-- EN: rabbitcat -->
-  <GR_Rabbitcat.label>猫兔</GR_Rabbitcat.label>
-  <!-- EN: rabbitcat kitten -->
-  <GR_Rabbitcat.lifeStages.rabbitcat_kitten.label>猫兔幼崽</GR_Rabbitcat.lifeStages.rabbitcat_kitten.label>
-  <!-- EN: rabbitcat kittens -->
-  <GR_Rabbitcat.lifeStages.rabbitcat_kitten.labelPlural>猫兔幼崽</GR_Rabbitcat.lifeStages.rabbitcat_kitten.labelPlural>
-  
-  <!-- EN: rabbitchicken -->
-  <GR_Rabbitchicken.label>鸡兔</GR_Rabbitchicken.label>
-  
-  <!-- EN: ratffalo -->
-  <GR_Ratffalo.label>雪牛鼠</GR_Ratffalo.label>
-  
-  <!-- EN: squirralope -->
+  <GR_Molebear.labelPlural>molebears</GR_Molebear.labelPlural>
+  <GR_Molebear.lifeStages.0.label>molebear</GR_Molebear.lifeStages.0.label>
+  <GR_Molebear.lifeStages.0.labelPlural>molebear</GR_Molebear.lifeStages.0.labelPlural>
+  <GR_Molebear.lifeStages.0.labelMale>male molebear</GR_Molebear.lifeStages.0.labelMale>
+  <GR_Molebear.lifeStages.0.labelMalePlural>male molebears</GR_Molebear.lifeStages.0.labelMalePlural>
+  <GR_Molebear.lifeStages.0.labelFemale>female molebear</GR_Molebear.lifeStages.0.labelFemale>
+  <GR_Molebear.lifeStages.0.labelFemalePlural>female molebears</GR_Molebear.lifeStages.0.labelFemalePlural>
+  <GR_Molebear.lifeStages.1.label>molebear</GR_Molebear.lifeStages.1.label>
+  <GR_Molebear.lifeStages.1.labelPlural>molebear</GR_Molebear.lifeStages.1.labelPlural>
+  <GR_Molebear.lifeStages.1.labelMale>male molebear</GR_Molebear.lifeStages.1.labelMale>
+  <GR_Molebear.lifeStages.1.labelMalePlural>male molebears</GR_Molebear.lifeStages.1.labelMalePlural>
+  <GR_Molebear.lifeStages.1.labelFemale>female molebear</GR_Molebear.lifeStages.1.labelFemale>
+  <GR_Molebear.lifeStages.1.labelFemalePlural>female molebears</GR_Molebear.lifeStages.1.labelFemalePlural>
+  <GR_Molebear.lifeStages.2.label>molebear</GR_Molebear.lifeStages.2.label>
+  <GR_Molebear.lifeStages.2.labelPlural>molebear</GR_Molebear.lifeStages.2.labelPlural>
+  <GR_Molebear.lifeStages.2.labelMale>male molebear</GR_Molebear.lifeStages.2.labelMale>
+  <GR_Molebear.lifeStages.2.labelMalePlural>male molebears</GR_Molebear.lifeStages.2.labelMalePlural>
+  <GR_Molebear.lifeStages.2.labelFemale>female molebear</GR_Molebear.lifeStages.2.labelFemale>
+  <GR_Molebear.lifeStages.2.labelFemalePlural>female molebears</GR_Molebear.lifeStages.2.labelFemalePlural>
+  <GR_Molebear.labelMale>male molebear</GR_Molebear.labelMale>
+  <GR_Molebear.labelMalePlural>male molebears</GR_Molebear.labelMalePlural>
+  <GR_Molebear.labelFemale>female molebear</GR_Molebear.labelFemale>
+  <GR_Molebear.labelFemalePlural>female molebears</GR_Molebear.labelFemalePlural>
+
+
+  <!-- Rodent - Boomalope -->
+
   <GR_Squirralope.label>爆炸松鼠</GR_Squirralope.label>
-  
+  <GR_Squirralope.labelPlural>squirralopes</GR_Squirralope.labelPlural>
+  <GR_Squirralope.lifeStages.0.label>squirralope</GR_Squirralope.lifeStages.0.label>
+  <GR_Squirralope.lifeStages.0.labelPlural>squirralope</GR_Squirralope.lifeStages.0.labelPlural>
+  <GR_Squirralope.lifeStages.0.labelMale>male squirralope</GR_Squirralope.lifeStages.0.labelMale>
+  <GR_Squirralope.lifeStages.0.labelMalePlural>male squirralopes</GR_Squirralope.lifeStages.0.labelMalePlural>
+  <GR_Squirralope.lifeStages.0.labelFemale>female squirralope</GR_Squirralope.lifeStages.0.labelFemale>
+  <GR_Squirralope.lifeStages.0.labelFemalePlural>female squirralopes</GR_Squirralope.lifeStages.0.labelFemalePlural>
+  <GR_Squirralope.lifeStages.1.label>squirralope</GR_Squirralope.lifeStages.1.label>
+  <GR_Squirralope.lifeStages.1.labelPlural>squirralope</GR_Squirralope.lifeStages.1.labelPlural>
+  <GR_Squirralope.lifeStages.1.labelMale>male squirralope</GR_Squirralope.lifeStages.1.labelMale>
+  <GR_Squirralope.lifeStages.1.labelMalePlural>male squirralopes</GR_Squirralope.lifeStages.1.labelMalePlural>
+  <GR_Squirralope.lifeStages.1.labelFemale>female squirralope</GR_Squirralope.lifeStages.1.labelFemale>
+  <GR_Squirralope.lifeStages.1.labelFemalePlural>female squirralopes</GR_Squirralope.lifeStages.1.labelFemalePlural>
+  <GR_Squirralope.lifeStages.2.label>squirralope</GR_Squirralope.lifeStages.2.label>
+  <GR_Squirralope.lifeStages.2.labelPlural>squirralope</GR_Squirralope.lifeStages.2.labelPlural>
+  <GR_Squirralope.lifeStages.2.labelMale>male squirralope</GR_Squirralope.lifeStages.2.labelMale>
+  <GR_Squirralope.lifeStages.2.labelMalePlural>male squirralopes</GR_Squirralope.lifeStages.2.labelMalePlural>
+  <GR_Squirralope.lifeStages.2.labelFemale>female squirralope</GR_Squirralope.lifeStages.2.labelFemale>
+  <GR_Squirralope.lifeStages.2.labelFemalePlural>female squirralopes</GR_Squirralope.lifeStages.2.labelFemalePlural>
+  <GR_Squirralope.labelMale>male squirralope</GR_Squirralope.labelMale>
+  <GR_Squirralope.labelMalePlural>male squirralopes</GR_Squirralope.labelMalePlural>
+  <GR_Squirralope.labelFemale>female squirralope</GR_Squirralope.labelFemale>
+  <GR_Squirralope.labelFemalePlural>female squirralopes</GR_Squirralope.labelFemalePlural>
+
+
+  <!-- Rabbit - Chicken -->
+
+  <GR_Rabbitchicken.label>鸡兔</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.labelPlural>rabbitchickens</GR_Rabbitchicken.labelPlural>
+  <GR_Rabbitchicken.lifeStages.0.label>rabbitchicken</GR_Rabbitchicken.lifeStages.0.label>
+  <GR_Rabbitchicken.lifeStages.0.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelPlural>
+  <GR_Rabbitchicken.lifeStages.0.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelMale>
+  <GR_Rabbitchicken.lifeStages.0.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.0.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.0.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelFemale>
+  <GR_Rabbitchicken.lifeStages.0.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.0.labelFemalePlural>
+  <GR_Rabbitchicken.lifeStages.1.label>rabbitchicken</GR_Rabbitchicken.lifeStages.1.label>
+  <GR_Rabbitchicken.lifeStages.1.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelPlural>
+  <GR_Rabbitchicken.lifeStages.1.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelMale>
+  <GR_Rabbitchicken.lifeStages.1.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.1.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.1.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelFemale>
+  <GR_Rabbitchicken.lifeStages.1.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.1.labelFemalePlural>
+  <GR_Rabbitchicken.lifeStages.2.label>rabbitchicken</GR_Rabbitchicken.lifeStages.2.label>
+  <GR_Rabbitchicken.lifeStages.2.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelPlural>
+  <GR_Rabbitchicken.lifeStages.2.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelMale>
+  <GR_Rabbitchicken.lifeStages.2.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.2.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.2.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelFemale>
+  <GR_Rabbitchicken.lifeStages.2.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.2.labelFemalePlural>
+  <GR_Rabbitchicken.labelMale>male rabbitchicken</GR_Rabbitchicken.labelMale>
+  <GR_Rabbitchicken.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.labelMalePlural>
+  <GR_Rabbitchicken.labelFemale>female rabbitchicken</GR_Rabbitchicken.labelFemale>
+  <GR_Rabbitchicken.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.labelFemalePlural>
+
+
+  <!-- Rat - Muffalo -->
+
+  <GR_Ratffalo.label>雪牛鼠</GR_Ratffalo.label>
+  <GR_Ratffalo.labelPlural>ratffalos</GR_Ratffalo.labelPlural>
+  <GR_Ratffalo.lifeStages.0.label>ratffalo</GR_Ratffalo.lifeStages.0.label>
+  <GR_Ratffalo.lifeStages.0.labelPlural>ratffalo</GR_Ratffalo.lifeStages.0.labelPlural>
+  <GR_Ratffalo.lifeStages.0.labelMale>male ratffalo</GR_Ratffalo.lifeStages.0.labelMale>
+  <GR_Ratffalo.lifeStages.0.labelMalePlural>male ratffalos</GR_Ratffalo.lifeStages.0.labelMalePlural>
+  <GR_Ratffalo.lifeStages.0.labelFemale>female ratffalo</GR_Ratffalo.lifeStages.0.labelFemale>
+  <GR_Ratffalo.lifeStages.0.labelFemalePlural>female ratffalos</GR_Ratffalo.lifeStages.0.labelFemalePlural>
+  <GR_Ratffalo.lifeStages.1.label>ratffalo</GR_Ratffalo.lifeStages.1.label>
+  <GR_Ratffalo.lifeStages.1.labelPlural>ratffalo</GR_Ratffalo.lifeStages.1.labelPlural>
+  <GR_Ratffalo.lifeStages.1.labelMale>male ratffalo</GR_Ratffalo.lifeStages.1.labelMale>
+  <GR_Ratffalo.lifeStages.1.labelMalePlural>male ratffalos</GR_Ratffalo.lifeStages.1.labelMalePlural>
+  <GR_Ratffalo.lifeStages.1.labelFemale>female ratffalo</GR_Ratffalo.lifeStages.1.labelFemale>
+  <GR_Ratffalo.lifeStages.1.labelFemalePlural>female ratffalos</GR_Ratffalo.lifeStages.1.labelFemalePlural>
+  <GR_Ratffalo.lifeStages.2.label>ratffalo</GR_Ratffalo.lifeStages.2.label>
+  <GR_Ratffalo.lifeStages.2.labelPlural>ratffalo</GR_Ratffalo.lifeStages.2.labelPlural>
+  <GR_Ratffalo.lifeStages.2.labelMale>male ratffalo</GR_Ratffalo.lifeStages.2.labelMale>
+  <GR_Ratffalo.lifeStages.2.labelMalePlural>male ratffalos</GR_Ratffalo.lifeStages.2.labelMalePlural>
+  <GR_Ratffalo.lifeStages.2.labelFemale>female ratffalo</GR_Ratffalo.lifeStages.2.labelFemale>
+  <GR_Ratffalo.lifeStages.2.labelFemalePlural>female ratffalos</GR_Ratffalo.lifeStages.2.labelFemalePlural>
+  <GR_Ratffalo.labelMale>male ratffalo</GR_Ratffalo.labelMale>
+  <GR_Ratffalo.labelMalePlural>male ratffalos</GR_Ratffalo.labelMalePlural>
+  <GR_Ratffalo.labelFemale>female ratffalo</GR_Ratffalo.labelFemale>
+  <GR_Ratffalo.labelFemalePlural>female ratffalos</GR_Ratffalo.labelFemalePlural>
+
+
+  <!-- Beaver - Wolf -->
+
+  <GR_Beaverwolf.label>狼海狸</GR_Beaverwolf.label>
+  <GR_Beaverwolf.labelPlural>beaverwolfs</GR_Beaverwolf.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.label>beaverwolf puppy</GR_Beaverwolf.lifeStages.0.label>
+  <GR_Beaverwolf.lifeStages.0.labelPlural>beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.labelMale>male beaverwolf puppy</GR_Beaverwolf.lifeStages.0.labelMale>
+  <GR_Beaverwolf.lifeStages.0.labelMalePlural>male beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.0.labelFemale>female beaverwolf puppy</GR_Beaverwolf.lifeStages.0.labelFemale>
+  <GR_Beaverwolf.lifeStages.0.labelFemalePlural>female beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.1.label>beaverwolf</GR_Beaverwolf.lifeStages.1.label>
+  <GR_Beaverwolf.lifeStages.1.labelPlural>beaverwolf</GR_Beaverwolf.lifeStages.1.labelPlural>
+  <GR_Beaverwolf.lifeStages.1.labelMale>male beaverwolf</GR_Beaverwolf.lifeStages.1.labelMale>
+  <GR_Beaverwolf.lifeStages.1.labelMalePlural>male beaverwolfs</GR_Beaverwolf.lifeStages.1.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.1.labelFemale>female beaverwolf</GR_Beaverwolf.lifeStages.1.labelFemale>
+  <GR_Beaverwolf.lifeStages.1.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.lifeStages.1.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.2.label>beaverwolf</GR_Beaverwolf.lifeStages.2.label>
+  <GR_Beaverwolf.lifeStages.2.labelPlural>beaverwolf</GR_Beaverwolf.lifeStages.2.labelPlural>
+  <GR_Beaverwolf.lifeStages.2.labelMale>male beaverwolf</GR_Beaverwolf.lifeStages.2.labelMale>
+  <GR_Beaverwolf.lifeStages.2.labelMalePlural>male beaverwolfs</GR_Beaverwolf.lifeStages.2.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.2.labelFemale>female beaverwolf</GR_Beaverwolf.lifeStages.2.labelFemale>
+  <GR_Beaverwolf.lifeStages.2.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.lifeStages.2.labelFemalePlural>
+  <GR_Beaverwolf.labelMale>male beaverwolf</GR_Beaverwolf.labelMale>
+  <GR_Beaverwolf.labelMalePlural>male beaverwolfs</GR_Beaverwolf.labelMalePlural>
+  <GR_Beaverwolf.labelFemale>female beaverwolf</GR_Beaverwolf.labelFemale>
+  <GR_Beaverwolf.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.labelFemalePlural>
+
+
+  <!-- Rabbit - Cat -->
+
+  <GR_Rabbitcat.label>猫兔</GR_Rabbitcat.label>
+  <GR_Rabbitcat.labelPlural>rabbitcats</GR_Rabbitcat.labelPlural>
+  <GR_Rabbitcat.lifeStages.0.label>rabbitcat kitten</GR_Rabbitcat.lifeStages.0.label>
+  <GR_Rabbitcat.lifeStages.0.labelPlural>rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelPlural>
+  <GR_Rabbitcat.lifeStages.0.labelMale>male rabbitcat kitten</GR_Rabbitcat.lifeStages.0.labelMale>
+  <GR_Rabbitcat.lifeStages.0.labelMalePlural>male rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.0.labelFemale>female rabbitcat kitten</GR_Rabbitcat.lifeStages.0.labelFemale>
+  <GR_Rabbitcat.lifeStages.0.labelFemalePlural>female rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelFemalePlural>
+  <GR_Rabbitcat.lifeStages.1.label>rabbitcat</GR_Rabbitcat.lifeStages.1.label>
+  <GR_Rabbitcat.lifeStages.1.labelPlural>rabbitcat</GR_Rabbitcat.lifeStages.1.labelPlural>
+  <GR_Rabbitcat.lifeStages.1.labelMale>male rabbitcat</GR_Rabbitcat.lifeStages.1.labelMale>
+  <GR_Rabbitcat.lifeStages.1.labelMalePlural>male rabbitcats</GR_Rabbitcat.lifeStages.1.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.1.labelFemale>female rabbitcat</GR_Rabbitcat.lifeStages.1.labelFemale>
+  <GR_Rabbitcat.lifeStages.1.labelFemalePlural>female rabbitcats</GR_Rabbitcat.lifeStages.1.labelFemalePlural>
+  <GR_Rabbitcat.lifeStages.2.label>rabbitcat</GR_Rabbitcat.lifeStages.2.label>
+  <GR_Rabbitcat.lifeStages.2.labelPlural>rabbitcat</GR_Rabbitcat.lifeStages.2.labelPlural>
+  <GR_Rabbitcat.lifeStages.2.labelMale>male rabbitcat</GR_Rabbitcat.lifeStages.2.labelMale>
+  <GR_Rabbitcat.lifeStages.2.labelMalePlural>male rabbitcats</GR_Rabbitcat.lifeStages.2.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.2.labelFemale>female rabbitcat</GR_Rabbitcat.lifeStages.2.labelFemale>
+  <GR_Rabbitcat.lifeStages.2.labelFemalePlural>female rabbitcats</GR_Rabbitcat.lifeStages.2.labelFemalePlural>
+  <GR_Rabbitcat.labelMale>male rabbitcat</GR_Rabbitcat.labelMale>
+  <GR_Rabbitcat.labelMalePlural>male rabbitcats</GR_Rabbitcat.labelMalePlural>
+  <GR_Rabbitcat.labelFemale>female rabbitcat</GR_Rabbitcat.labelFemale>
+  <GR_Rabbitcat.labelFemalePlural>female rabbitcats</GR_Rabbitcat.labelFemalePlural>
+
+
+  <!-- Rodent - Humanoid -->
+
+  <GR_Moleman.label>人鼹鼠</GR_Moleman.label>
+  <GR_Moleman.labelPlural>molemans</GR_Moleman.labelPlural>
+  <GR_Moleman.lifeStages.0.label>molebaby</GR_Moleman.lifeStages.0.label>
+  <GR_Moleman.lifeStages.0.labelPlural>molebabies</GR_Moleman.lifeStages.0.labelPlural>
+  <GR_Moleman.lifeStages.0.labelMale>male molebaby</GR_Moleman.lifeStages.0.labelMale>
+  <GR_Moleman.lifeStages.0.labelMalePlural>male molebabies</GR_Moleman.lifeStages.0.labelMalePlural>
+  <GR_Moleman.lifeStages.0.labelFemale>female molebaby</GR_Moleman.lifeStages.0.labelFemale>
+  <GR_Moleman.lifeStages.0.labelFemalePlural>female molebabies</GR_Moleman.lifeStages.0.labelFemalePlural>
+  <GR_Moleman.lifeStages.1.label>moleman</GR_Moleman.lifeStages.1.label>
+  <GR_Moleman.lifeStages.1.labelPlural>moleman</GR_Moleman.lifeStages.1.labelPlural>
+  <GR_Moleman.lifeStages.1.labelMale>moleman</GR_Moleman.lifeStages.1.labelMale>
+  <GR_Moleman.lifeStages.1.labelMalePlural>male molemans</GR_Moleman.lifeStages.1.labelMalePlural>
+  <GR_Moleman.lifeStages.1.labelFemale>molewoman</GR_Moleman.lifeStages.1.labelFemale>
+  <GR_Moleman.lifeStages.1.labelFemalePlural>female molemans</GR_Moleman.lifeStages.1.labelFemalePlural>
+  <GR_Moleman.lifeStages.2.label>moleman</GR_Moleman.lifeStages.2.label>
+  <GR_Moleman.lifeStages.2.labelPlural>moleman</GR_Moleman.lifeStages.2.labelPlural>
+  <GR_Moleman.lifeStages.2.labelMale>moleman</GR_Moleman.lifeStages.2.labelMale>
+  <GR_Moleman.lifeStages.2.labelMalePlural>male molemans</GR_Moleman.lifeStages.2.labelMalePlural>
+  <GR_Moleman.lifeStages.2.labelFemale>molewoman</GR_Moleman.lifeStages.2.labelFemale>
+  <GR_Moleman.lifeStages.2.labelFemalePlural>female molemans</GR_Moleman.lifeStages.2.labelFemalePlural>
+  <GR_Moleman.labelMale>男人鼹鼠</GR_Moleman.labelMale>
+  <GR_Moleman.labelMalePlural>男人鼹鼠</GR_Moleman.labelMalePlural>
+  <GR_Moleman.labelFemale>女人鼹鼠</GR_Moleman.labelFemale>
+  <GR_Moleman.labelFemalePlural>女人鼹鼠</GR_Moleman.labelFemalePlural>
+
+
 </LanguageData>

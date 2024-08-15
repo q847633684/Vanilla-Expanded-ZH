@@ -1,53 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: Create Genoframe (Awful) -->
+
   <GR_GenoframeAwfulRecipe.label>制作基因构造框架（极差）</GR_GenoframeAwfulRecipe.label>
-  <!-- EN: Create an awful quality genoframe from an animal corpse. -->
   <GR_GenoframeAwfulRecipe.description>用生物的尸体来制作一个基因构造框架（极差）。</GR_GenoframeAwfulRecipe.description>
-  <!-- EN: Creating genoframe -->
   <GR_GenoframeAwfulRecipe.jobString>正在制作基因构造框架（极差）。</GR_GenoframeAwfulRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Excellent) -->
-  <GR_GenoframeExcellentRecipe.label>制作基因构造框架（极佳）</GR_GenoframeExcellentRecipe.label>
-  <!-- EN: Create an excellent quality genoframe from two good quality genoframes. -->
-  <GR_GenoframeExcellentRecipe.description>用两个基因构造框架（良好）来制作一个基因构造框架（极佳）。</GR_GenoframeExcellentRecipe.description>
-  <!-- EN: Creating genoframe -->
-  <GR_GenoframeExcellentRecipe.jobString>正在制作基因构造框架（极佳）。</GR_GenoframeExcellentRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Good) -->
-  <GR_GenoframeGoodRecipe.label>制作基因构造框架（良好）</GR_GenoframeGoodRecipe.label>
-  <!-- EN: Create a good quality genoframe from two normal quality genoframes. -->
-  <GR_GenoframeGoodRecipe.description>用两个基因构造框架（一般）来制作一个基因构造框架（良好）。</GR_GenoframeGoodRecipe.description>
-  <!-- EN: Creating genoframe -->
-  <GR_GenoframeGoodRecipe.jobString>正在制作基因构造框架（良好）。</GR_GenoframeGoodRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Legendary) -->
-  <GR_GenoframeLegendaryRecipe.label>制作基因构造框架（传奇级）</GR_GenoframeLegendaryRecipe.label>
-  <!-- EN: Create a legendary quality genoframe from two masterwork quality genoframes. -->
-  <GR_GenoframeLegendaryRecipe.description>用两个基因构造框架（大师级）来制作一个基因构造框架（传奇级）。</GR_GenoframeLegendaryRecipe.description>
-  <!-- EN: Creating genoframe -->
-  <GR_GenoframeLegendaryRecipe.jobString>正在制作基因构造框架（传奇级）。</GR_GenoframeLegendaryRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Masterwork) -->
-  <GR_GenoframeMasterworkRecipe.label>制作基因构造框架（大师级）</GR_GenoframeMasterworkRecipe.label>
-  <!-- EN: Create a masterwork quality genoframe from two excellent quality genoframes. -->
-  <GR_GenoframeMasterworkRecipe.description>用两个基因构造框架（极佳）来制作一个基因构造框架（大师级）。</GR_GenoframeMasterworkRecipe.description>
-  <!-- EN: Creating genoframe -->
-  <GR_GenoframeMasterworkRecipe.jobString>正在制作基因构造框架（大师级）。</GR_GenoframeMasterworkRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Normal) -->
-  <GR_GenoframeNormalRecipe.label>制作基因构造框架（一般）</GR_GenoframeNormalRecipe.label>
-  <!-- EN: Create a normal quality genoframe from two poor quality genoframes. -->
-  <GR_GenoframeNormalRecipe.description>用两个基因构造框架（较差）来制作一个基因构造框架（一般）。</GR_GenoframeNormalRecipe.description>
-  <!-- EN: Creating genoframe -->
-  <GR_GenoframeNormalRecipe.jobString>正在制作基因构造框架（一般）。</GR_GenoframeNormalRecipe.jobString>
-  
-  <!-- EN: Create Genoframe (Poor) -->
+
   <GR_GenoframePoorRecipe.label>制作基因构造框架（较差）</GR_GenoframePoorRecipe.label>
-  <!-- EN: Create a poor quality genoframe from two awful quality genoframes. -->
   <GR_GenoframePoorRecipe.description>用两个基因构造框架（极差）来制作一个基因构造框架（较差）。</GR_GenoframePoorRecipe.description>
-  <!-- EN: Creating genoframe -->
   <GR_GenoframePoorRecipe.jobString>正在制作基因构造框架（较差）。</GR_GenoframePoorRecipe.jobString>
-  
+
+  <GR_GenoframeNormalRecipe.label>制作基因构造框架（一般）</GR_GenoframeNormalRecipe.label>
+  <GR_GenoframeNormalRecipe.description>用两个基因构造框架（较差）来制作一个基因构造框架（一般）。</GR_GenoframeNormalRecipe.description>
+  <GR_GenoframeNormalRecipe.jobString>正在制作基因构造框架（一般）。</GR_GenoframeNormalRecipe.jobString>
+
+  <GR_GenoframeGoodRecipe.label>制作基因构造框架（良好）</GR_GenoframeGoodRecipe.label>
+  <GR_GenoframeGoodRecipe.description>用两个基因构造框架（一般）来制作一个基因构造框架（良好）。</GR_GenoframeGoodRecipe.description>
+  <GR_GenoframeGoodRecipe.jobString>正在制作基因构造框架（良好）。</GR_GenoframeGoodRecipe.jobString>
+
+  <GR_GenoframeExcellentRecipe.label>制作基因构造框架（极佳）</GR_GenoframeExcellentRecipe.label>
+  <GR_GenoframeExcellentRecipe.description>用两个基因构造框架（良好）来制作一个基因构造框架（极佳）。</GR_GenoframeExcellentRecipe.description>
+  <GR_GenoframeExcellentRecipe.jobString>正在制作基因构造框架（极佳）。</GR_GenoframeExcellentRecipe.jobString>
+
+  <GR_GenoframeMasterworkRecipe.label>制作基因构造框架（大师级）</GR_GenoframeMasterworkRecipe.label>
+  <GR_GenoframeMasterworkRecipe.description>用两个基因构造框架（极佳）来制作一个基因构造框架（大师级）。</GR_GenoframeMasterworkRecipe.description>
+  <GR_GenoframeMasterworkRecipe.jobString>正在制作基因构造框架（大师级）。</GR_GenoframeMasterworkRecipe.jobString>
+
+  <GR_GenoframeLegendaryRecipe.label>制作基因构造框架（传奇级）</GR_GenoframeLegendaryRecipe.label>
+  <GR_GenoframeLegendaryRecipe.description>用两个基因构造框架（大师级）来制作一个基因构造框架（传奇级）。</GR_GenoframeLegendaryRecipe.description>
+  <GR_GenoframeLegendaryRecipe.jobString>正在制作基因构造框架（传奇级）。</GR_GenoframeLegendaryRecipe.jobString>
+
+
 </LanguageData>

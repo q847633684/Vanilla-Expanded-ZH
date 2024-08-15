@@ -1,99 +1,62 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN: adrenaline rush -->
-  <GR_AdrenalineRush.label>肾上腺素激发</GR_AdrenalineRush.label>
-  <!-- EN: Causes the creature to move much faster for a while, at the cost of getting tired afterwards for almost half a day. -->
-  <GR_AdrenalineRush.description>使肾上腺超负荷运转，大幅提升自身的移动速度。效果结束后会陷入长达半天的力竭状态。</GR_AdrenalineRush.description>
-  
-  <!-- EN: burrow underground -->
-  <GR_Burrow.label>潜入地下</GR_Burrow.label>
-  <!-- EN: Sends the creature underground into burrowing mode, making it very resistant to damage for a while. -->
-  <GR_Burrow.description>立即挖洞潜入地下，极大幅提升自身的防御力。</GR_Burrow.description>
-  
-  <!-- EN: cat reflexes -->
-  <GR_CatReflexes.label>猫之本能</GR_CatReflexes.label>
-  <!-- EN: Makes the creature much more agile, improving its chance to dodge melee attacks even further. -->
-  <GR_CatReflexes.description>激发猫科生物的本能，提升自身的移动速度与近战闪避几率。</GR_CatReflexes.description>
-  
-  <!-- EN: chemfuel discharge -->
-  <GR_ChemfuelDischarge.label>尿液泼洒</GR_ChemfuelDischarge.label>
-  <!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_ChemfuelDischarge.description>向四周泼洒大量含有化合燃料的尿液。</GR_ChemfuelDischarge.description>
-  
-  <!-- EN: orbital heat ray -->
+
   <GR_DeathRay.label>轨道能量束打击</GR_DeathRay.label>
-  <!-- EN: Redirects an orbital mechanoid satellite to fire upon a selected location. -->
   <GR_DeathRay.description>连接至轨道上的机械族卫星，向指定地点发射超高温的能量束。</GR_DeathRay.description>
-  
-  <!-- EN: detonate acidic chemfuel -->
-  <GR_DetonateAcid.label>酸蚀爆破</GR_DetonateAcid.label>
-  <!-- EN: Remotely detonate the acidic chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_DetonateAcid.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成酸蚀伤害。</GR_DetonateAcid.description>
-  
-  <!-- EN: detonate chemfuel -->
-  <GR_DetonateBomb.label>强力爆破</GR_DetonateBomb.label>
-  <!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_DetonateBomb.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成威力更大的爆炸伤害。</GR_DetonateBomb.description>
-  
-  <!-- EN: detonate cryo chemfuel -->
-  <GR_DetonateFrost.label>低温爆破</GR_DetonateFrost.label>
-  <!-- EN: Remotely detonate the cryo chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_DetonateFrost.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成低温冻伤。</GR_DetonateFrost.description>
-  
-  <!-- EN: detonate venomous chemfuel -->
-  <GR_DetonatePoison.label>毒素爆破</GR_DetonatePoison.label>
-  <!-- EN: Remotely detonate the venomous chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_DetonatePoison.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成中毒效果。</GR_DetonatePoison.description>
-  
-  <!-- EN: detonate stunning chemfuel -->
-  <GR_DetonateStun.label>眩晕爆破</GR_DetonateStun.label>
-  <!-- EN: Remotely detonate the stunning chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_DetonateStun.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成眩晕效果。</GR_DetonateStun.description>
-  
-  <!-- EN: lay frag eggs -->
-  <GR_FragEggs.label>产出破片“蛋”</GR_FragEggs.label>
-  <!-- EN: Lay several exploding eggs. The animal will be affected and damaged by the resulting explosion. -->
-  <GR_FragEggs.description>立即产下几枚极其不稳定的破片“蛋”。破片“蛋”将会在几秒钟后爆炸。</GR_FragEggs.description>
-  
-  <!-- EN: insect clouds -->
-  <GR_InsectClouds.label>嗜杀虫群</GR_InsectClouds.label>
-  <!-- EN: Spawns a cloud of drones surrounding this animal that will cut apart any creature, excluding all insectoid paragons. -->
-  <GR_InsectClouds.description>释放大量环绕在自身附近的嗜杀虫群，任何靠近的生物都会遭到它们的攻击。</GR_InsectClouds.description>
-  
-  <!-- EN: keen senses -->
-  <GR_KeenSenses.label>感官敏化</GR_KeenSenses.label>
-  <!-- EN: Makes the creature more aware of its surroundings, increasing its melee capacities (affects sight, hit chance and consciousness) -->
-  <GR_KeenSenses.description>洞察周围的环境，大幅提升自身的视觉能力、意识与近战命中率。效果结束后会陷入一阵子的疲乏状态。</GR_KeenSenses.description>
-  
-  <!-- EN: pack tactics -->
-  <GR_PackTactics.label>狼群战术</GR_PackTactics.label>
-  <!-- EN: Collaborate with other nearby muffalowolves to bring down prey. -->
-  <GR_PackTactics.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTactics.description>
-  
-  <!-- EN: release venomous cloud -->
-  <GR_PoisonousCloud.label>毒气释放</GR_PoisonousCloud.label>
-  <!-- EN: Releases a cloud of poisonous gas from this creature. The animal will NOT be affected and damaged by it. -->
-  <GR_PoisonousCloud.description>主动释放颈部囊泡内的毒气，对作用范围内的所有生物造成中毒效果。</GR_PoisonousCloud.description>
-  
-  <!-- EN: research drive -->
-  <GR_ResearchDrive.label>研究激励</GR_ResearchDrive.label>
-  <!-- EN: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
-  <GR_ResearchDrive.description>向周围的殖民者分享自身对科研项目的独到见解，提高他们的研究速度。\n\n“哦，我的科研伙伴！让我们抛弃人性，回归原始吧！只消为食物烦恼便是！”</GR_ResearchDrive.description>
-  
-  <!-- EN: set chemfuel trap -->
+
   <GR_SetTrap.label>安装陷阱</GR_SetTrap.label>
-  <!-- EN: Sets an explosive trap. The Manalope won't trigger it. -->
   <GR_SetTrap.description>在当前位置安装一个爆炸陷阱。</GR_SetTrap.description>
-  
-  <!-- EN: stampede -->
-  <GR_StampedeClouds.label>秘兽疾驰</GR_StampedeClouds.label>
-  <!-- EN: Stampedes, moving faster and creating dust clouds that block line of view for projectile weapons. Gets the creature tired after a while. -->
-  <GR_StampedeClouds.description>立即切换至疾驰模式，大幅提升自身的移动速度，并扬起能够遮蔽瞄准视线的烟尘。效果结束后会陷入一阵子的疲乏状态。</GR_StampedeClouds.description>
-  
-  <!-- EN: vent heated exhaust -->
+
+  <GR_DetonateBomb.label>强力爆破</GR_DetonateBomb.label>
+  <GR_DetonateBomb.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成威力更大的爆炸伤害。</GR_DetonateBomb.description>
+
   <GR_VentHeatedExhaust.label>热气排出</GR_VentHeatedExhaust.label>
-  <!-- EN: Vents the heated gasses produced by this mechanoid hybrid's internal processes. This creates a wave of superheated ait that will affect the surrounding tiles. It will not affect the hybrid. -->
   <GR_VentHeatedExhaust.description>主动排出内部积攒的高热气体，对作用范围内的所有生物造成高额伤害。不会对机械马自身造成影响。</GR_VentHeatedExhaust.description>
-  
+
+  <GR_DetonateAcid.label>酸蚀爆破</GR_DetonateAcid.label>
+  <GR_DetonateAcid.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成酸蚀伤害。</GR_DetonateAcid.description>
+
+  <GR_PoisonousCloud.label>毒气释放</GR_PoisonousCloud.label>
+  <GR_PoisonousCloud.description>主动释放颈部囊泡内的毒气，对作用范围内的所有生物造成中毒效果。</GR_PoisonousCloud.description>
+
+  <GR_DetonatePoison.label>毒素爆破</GR_DetonatePoison.label>
+  <GR_DetonatePoison.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成中毒效果。</GR_DetonatePoison.description>
+
+  <GR_DetonateFrost.label>低温爆破</GR_DetonateFrost.label>
+  <GR_DetonateFrost.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成低温冻伤。</GR_DetonateFrost.description>
+
+  <GR_DetonateStun.label>眩晕爆破</GR_DetonateStun.label>
+  <GR_DetonateStun.description>主动引爆身上的爆炸囊，对作用范围内的所有生物造成眩晕效果。</GR_DetonateStun.description>
+
+  <GR_ChemfuelDischarge.label>尿液泼洒</GR_ChemfuelDischarge.label>
+  <GR_ChemfuelDischarge.description>向四周泼洒大量含有化合燃料的尿液。</GR_ChemfuelDischarge.description>
+
+  <GR_FragEggs.label>产出破片“蛋”</GR_FragEggs.label>
+  <GR_FragEggs.description>立即产下几枚极其不稳定的破片“蛋”。破片“蛋”将会在几秒钟后爆炸。</GR_FragEggs.description>
+
+  <GR_AdrenalineRush.label>肾上腺素激发</GR_AdrenalineRush.label>
+  <GR_AdrenalineRush.description>使肾上腺超负荷运转，大幅提升自身的移动速度。效果结束后会陷入长达半天的力竭状态。</GR_AdrenalineRush.description>
+
+  <GR_CatReflexes.label>猫之本能</GR_CatReflexes.label>
+  <GR_CatReflexes.description>激发猫科生物的本能，提升自身的移动速度与近战闪避几率。</GR_CatReflexes.description>
+
+  <GR_InsectClouds.label>嗜杀虫群</GR_InsectClouds.label>
+  <GR_InsectClouds.description>释放大量环绕在自身附近的嗜杀虫群，任何靠近的生物都会遭到它们的攻击。</GR_InsectClouds.description>
+
+  <GR_Burrow.label>潜入地下</GR_Burrow.label>
+  <GR_Burrow.description>立即挖洞潜入地下，极大幅提升自身的防御力。</GR_Burrow.description>
+
+  <GR_StampedeClouds.label>秘兽疾驰</GR_StampedeClouds.label>
+  <GR_StampedeClouds.description>立即切换至疾驰模式，大幅提升自身的移动速度，并扬起能够遮蔽瞄准视线的烟尘。效果结束后会陷入一阵子的疲乏状态。</GR_StampedeClouds.description>
+
+  <GR_KeenSenses.label>感官敏化</GR_KeenSenses.label>
+  <GR_KeenSenses.description>洞察周围的环境，大幅提升自身的视觉能力、意识与近战命中率。效果结束后会陷入一阵子的疲乏状态。</GR_KeenSenses.description>
+
+  <GR_PackTactics.label>狼群战术</GR_PackTactics.label>
+  <GR_PackTactics.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTactics.description>
+
+  <GR_ResearchDrive.label>研究激励</GR_ResearchDrive.label>
+  <GR_ResearchDrive.description>向周围的殖民者分享自身对科研项目的独到见解，提高他们的研究速度。\n\n“哦，我的科研伙伴！让我们抛弃人性，回归原始吧！只消为食物烦恼便是！”</GR_ResearchDrive.description>
+
+
 </LanguageData>

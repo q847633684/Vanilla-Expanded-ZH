@@ -1,30 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>questDescription(askerIsNull==true)->We've intercepted radio transmissions from a seemingly abandoned genetics research lab not far from [map_definite]. The site may have some interesting ancient technology scattered around, so it could be a good idea to investigate it.\n\nWe should be well prepared, as genetic monstrosities may still be roaming the derelict installation.</li>
-  -->
+
+  <GR_OpportunitySite_AbandonedLab.root.nodes.3.name>士兵</GR_OpportunitySite_AbandonedLab.root.nodes.3.name>
+  <GR_OpportunitySite_AbandonedLab.root.nodes.3.elseNode.nodes.0.name>士兵为空</GR_OpportunitySite_AbandonedLab.root.nodes.3.elseNode.nodes.0.name>
+  <GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.label>任务已过期: [resolvedQuestName]</GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.label>
+  <GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.text>截获的通讯表明废弃的实验室已被其他人洗劫一空。任务 [resolvedQuestName] 已过期。</GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.text>
   <GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>  
     <li>questDescription(askerIsNull==true)->我们刚刚截获了一段未加密的无线电信号，其源头似乎来自[map_definite]附近的一处已废弃的基因工程实验基地。那里可能仍残留着不少有用的远古科技与各种资源，或许值得我们前去一探究竟。\n\n由于实验基地内部的状况并不明朗，为了防止意外发生，我们应该在出发前先做好万全的准备。</li>
   </GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
-    <li>journey->Journey to</li>
-    <li>journey->Expedition to</li>
-    <li>journey->Mission to</li>
-    <li>journey->Exploration of</li>
-    <li>journey->Investigation of</li>
-    <li>journey->Research into</li>
-    <li>adjectiveLab->Abandoned</li>
-    <li>adjectiveLab->Derelict</li>
-    <li>adjectiveLab->Dilapidated</li>
-    <li>adjectiveLab->Run down</li>
-    <li>adjectiveLab->Desolate</li>
-    <li>ruins->lab</li>
-    <li>ruins->installation</li>
-    <li>ruins->laboratory</li>
-    <li>ruins->reseach post</li>
-  -->
+  <GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[journey] 这 [adjectiveLab] [ruins]</GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings.0>
   <GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>  
     <li>questName(priority=1)->[journey][adjectiveLab][ruins]</li>
     <li>journey->探索</li>
@@ -43,9 +27,6 @@
     <li>ruins->实验基地</li>
     <li>ruins->研究站</li>
   </GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
-  <!-- EN: Quest expired: [resolvedQuestName] -->
-  <GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已失效：[resolvedQuestName]</GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <!-- EN: Intercepted communications indicate the abandoned lab has been scavenged by others. The quest [resolvedQuestName] has expired. -->
-  <GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>依据我们最新截获的通讯信息来看，那座废弃的实验基地已经被他人捷足先登了。任务[resolvedQuestName]已经失效。</GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
-  
+
+
 </LanguageData>
