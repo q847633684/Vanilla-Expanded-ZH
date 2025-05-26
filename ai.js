@@ -1,4 +1,4 @@
-lat API_KEY = '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'; // 请填写API Key
+let API_KEY = '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'; // 请填写API Key
 let roleFrequencyCache = new Map(); // 角色频率缓存
 let roleCache = new Map(); // API结果缓存
 let historicalDialogueIdList = []; // 历史对话ID
