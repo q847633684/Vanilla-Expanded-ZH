@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tutoring -->
+  <VAERoy_OrangutanInteraction.label>教導</VAERoy_OrangutanInteraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->mumbled about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->mused about</li>
+    <li>animalthings->the comparison of paternalistic societies with other social aspects and matters</li>
+    <li>animalthings->the origin of or linguistic analysis of the term paragliding</li>
+    <li>animalthings->how other cultures or nations view hard work</li>
+    <li>animalthings->the personal and professional analysis and impact of mathematics</li>
+    <li>animalthings->poetry related to prepackaged snacks</li>
+    <li>animalthings->outdated opinions about ethnic violence</li>
+    <li>animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected</li>
+    <li>animalthings->countries with highest consumption of cauliflower</li>
+    <li>animalthings->expert opinions about sexual orientation</li>
+    <li>animalthings->what is unique about bread</li>
+    <li>animalthings->the ethics of laser eye surgery</li>
+    <li>animalthings->the religious, theological, spiritual, and moral analysis of decision making</li>
+    <li>animalthings->why phone tapping matters</li>
+    <li>animalthings->an embarrassing experience involving positive attitude</li>
+    <li>animalthings->a comparison of different types of cocktails</li>
+    <li>animalthings->the comparison of wearing your heart on your sleeve with other habits</li>
+    <li>animalthings->the best experts' opinions on inner city poverty in the world</li>
+    <li>animalthings->excerpts from books or articles related to glass etching</li>
+    <li>animalthings->the negative effects of preferential treatment</li>
+  -->
+  <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef]就[animalthings]的話題與[RECIPIENT_nameDef][commentedabout]。</li>
+    <li>talkedabout(p=4)->閒聊</li>
+    <li>talkedabout->分享了話題關於</li>
+    <li>talkedabout->談到</li>
+    <li>talkedabout->喋喋不休討論</li>
+    <li>talkedabout->談論</li>
+    <li>talkedabout->含糊地說到</li>
+    <li>talkedabout->打趣地聊到</li>
+    <li>commentedabout->聊了很多</li>
+    <li>commentedabout->進行了點評</li>
+    <li>commentedabout->討論</li>
+    <li>commentedabout->進行了深入探討</li>
+    <li>animalthings->父系母系社會與其他社會間的區別</li>
+    <li>animalthings->滑翔傘這個詞彙的起源和語義</li>
+    <li>animalthings->其他文化或國家如何看待刻苦勞動</li>
+    <li>animalthings->有關數學計算的影響與個人且專業化的分析</li>
+    <li>animalthings->與包裝生存食品有關的詩</li>
+    <li>animalthings->有關種族衝突的陳舊觀念</li>
+    <li>animalthings->有關自我遣返移民政策的分析</li>
+    <li>animalthings->花椰菜消耗量最高的國家</li>
+    <li>animalthings->有關性取向的專業看法</li>
+    <li>animalthings->麵包的獨特之處</li>
+    <li>animalthings->有關眼部激光手術的道德倫理</li>
+    <li>animalthings->有關宗教、神學、信仰的決策分析</li>
+    <li>animalthings->電話監聽的重要性</li>
+    <li>animalthings->起到積極作用的尷尬經歷</li>
+    <li>animalthings->不同雞尾酒之間的區別</li>
+    <li>animalthings->情感外露與其他習慣之間的區別</li>
+    <li>animalthings->有關各個世界的內城區貧困問題的最專業看法</li>
+    <li>animalthings->有關玻璃雕刻的書籍或文章摘要</li>
+    <li>animalthings->有關特惠待遇的負面影響</li>
+  </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: psychic nuzzle -->
+  <VAERoy_PeacockInteraction.label>心靈親暱</VAERoy_PeacockInteraction.label>
+  <!-- EN:
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->psychically nuzzled</li>
+    <li>nuzzled->psychically snuggled up to</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gently</li>
+    <li>nuzzleadverb->encouragingly</li>
+    <li>nuzzleadverb->happily</li>
+    <li>nuzzleadverb->softly</li>
+    <li>nuzzleadverb->supportively</li>
+    <li>nuzzleadverb->lightly</li>
+    <li>nuzzleadverb->warmly</li>
+    <li>nuzzleadverb->plaintively</li>
+    <li>nuzzleadverb->lovingly</li>
+    <li>nuzzleadverb->affectionately</li>
+    <li>rubbedpart->leg</li>
+    <li>rubbedpart->knee</li>
+    <li>rubbedpart->foot</li>
+    <li>rubbedpart->elbow</li>
+    <li>rubbedpart->hip</li>
+    <li>rubbedpart->shoulder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  -->
+  <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef][nuzzleadverb][nuzzled][RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef][nuzzleadverb]用[INITIATOR_possessive]喙部蹭了[RECIPIENT_nameDef]的[rubbedpart]。</li>
+    <li>nuzzled(p=2)->蹭了</li>
+    <li>nuzzled->依偎著</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->溫柔地</li>
+    <li>nuzzleadverb->鼓勵地</li>
+    <li>nuzzleadverb->歡快地</li>
+    <li>nuzzleadverb->輕柔地</li>
+    <li>nuzzleadverb->支持地</li>
+    <li>nuzzleadverb->輕輕地</li>
+    <li>nuzzleadverb->親熱地</li>
+    <li>nuzzleadverb->幽怨地</li>
+    <li>nuzzleadverb->親切地</li>
+    <li>nuzzleadverb->熱烈地</li>
+    <li>rubbedpart->腿</li>
+    <li>rubbedpart->膝蓋</li>
+    <li>rubbedpart->腳</li>
+    <li>rubbedpart->肘部</li>
+    <li>rubbedpart->臀部</li>
+    <li>rubbedpart->肩膀</li>
+    <li>rubbedpart->手</li>
+    <li>rubbedpart->身旁</li>
+    <li>rubbedpart->手臂</li>
+  </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+  
+</LanguageData>
