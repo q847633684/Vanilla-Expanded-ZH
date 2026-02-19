@@ -1,80 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <v1.6>
+    <!-- Vanilla Furniture Expanded - Medical Module -->
+    <li IfModActive="VanillaExpanded.VFEMedical">Vanilla Furniture Expanded - Medical Module</li>
     <!-- Vanilla Furniture Expanded -->
     <li IfModActive="VanillaExpanded.VFECore">Vanilla Furniture Expanded</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Furniture Expanded/1.6/Mods/Ideology</li>
     <!-- Vanilla Armour Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Armour Expanded</li>
+    <li IfModActive="VanillaExpanded.VARME">Vanilla Armour Expanded</li>
     <li IfModActive="ludeon.rimworld.royalty">Vanilla Armour Expanded/1.6/Mods/Royalty</li>
     <li IfModActive="vanillaexpanded.achievements">Vanilla Armour Expanded/1.6/Mods/Achievements</li>
+    <!-- Vanilla Apparel Expanded -->
+    <li IfModActive="VanillaExpanded.VAPPE">Vanilla Apparel Expanded</li>
     <!-- Vanilla Furniture Expanded - Production -->
     <li IfModActive="VanillaExpanded.VFEProduction">Vanilla Furniture Expanded - Production</li>
     <!-- Vanilla Weapons Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Weapons Expanded</li>
+    <li IfModActive="VanillaExpanded.VWE">Vanilla Weapons Expanded</li>
     <li IfModActive="vanillaexpanded.achievements">Vanilla Weapons Expanded/1.6/Mods/Achievements</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Vanilla Weapons Expanded/1.6/Mods/Odyssey</li>
     <!-- Vanilla Weapons Expanded - Quickdraw -->
-    <li IfModActive="brrainz.harmony">Vanilla Weapons Expanded - Quickdraw</li>
+    <li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Quickdraw</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Vanilla Weapons Expanded - Quickdraw/1.6/Mods/Odyssey</li>
     <!-- Vanilla Furniture Expanded - Security -->
     <li IfModActive="VanillaExpanded.VFESecurity">Vanilla Furniture Expanded - Security</li>
     <li IfModActive="Ludeon.RimWorld.Anomaly">Vanilla Furniture Expanded - Security/1.6/Mods/Anomaly</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Furniture Expanded - Security/1.6/Mods/Biotech</li>
     <li IfModActive="VanillaExpanded.VWENL">Vanilla Furniture Expanded - Security/1.6/Mods/VWE_NonLethal</li>
-    <!-- Vanilla Furniture Expanded - Farming -->
-    <li IfModActive="VanillaExpanded.VFEFarming">Vanilla Furniture Expanded - Farming</li>
     <!-- Vanilla Fishing Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Fishing Expanded</li>
+    <li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Vanilla Fishing Expanded/1.6Odyssey</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">Vanilla Fishing Expanded/1.6NotOdyssey</li>
+    <!-- Vanilla Furniture Expanded - Farming -->
+    <li IfModActive="VanillaExpanded.VFEFarming">Vanilla Furniture Expanded - Farming</li>
+    <!-- Vanilla Hair Expanded -->
+    <li IfModActive="VanillaExpanded.VHE">Vanilla Hair Expanded</li>
+    <!-- Vanilla Events Expanded -->
+    <li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded</li>
+    <!-- Vanilla Furniture Expanded - Art -->
+    <li IfModActive="VanillaExpanded.VFEArt">Vanilla Furniture Expanded - Art</li>
+    <!-- Vanilla Weapons Expanded - Laser -->
+    <li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Laser</li>
     <!-- Vanilla Textures Expanded -->
     <li IfModActive="VanillaExpanded.VTEXE">Vanilla Textures Expanded</li>
     <li IfModActive="Owlchemist.PerspectiveDoors">Vanilla Textures Expanded/1.6/LoadFolders/PerspectiveDoors</li>
     <li IfModNotActive="ReGrowth.BOTR.Core">Vanilla Textures Expanded/1.6/LoadFolders/ReGrowthCore</li>
+    <!-- Vanilla Furniture Expanded - Power -->
+    <li IfModActive="VanillaExpanded.VFEPower">Vanilla Furniture Expanded - Power</li>
+    <!-- Vanilla Factions Expanded - Settlers -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers</li>
     <!-- Vanilla Cooking Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Cooking Expanded</li>
+    <li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded</li>
     <li IfModActive="vanillaexpanded.achievements">Vanilla Cooking Expanded/1.6/Mods/Achievements</li>
     <li IfModActive="vanillaexpanded.skills">Vanilla Cooking Expanded/1.6/Mods/VanillaSkillsExpanded</li>
+    <!-- Vanilla Cooking Expanded - Stews -->
+    <li IfModActive="VanillaExpanded.VCookEStews">Vanilla Cooking Expanded - Stews</li>
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+    <li IfModActive="VSE.PerryPersistent">Vanilla Storytellers Expanded - Perry Persistent</li>
+    <!-- Vanilla Plants Expanded -->
+    <li IfModActive="VanillaExpanded.VPlantsE">Vanilla Plants Expanded</li>
     <!-- Vanilla Cooking Expanded - Sushi -->
-    <li IfModActive="VanillaExpanded.VCookE">Vanilla Cooking Expanded - Sushi</li>
+    <li IfModActive="VanillaExpanded.VCookESushi">Vanilla Cooking Expanded - Sushi</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Vanilla Cooking Expanded - Sushi/1.6Odyssey</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">Vanilla Cooking Expanded - Sushi/1.6NotOdyssey</li>
+    <!-- Vanilla Expanded Framework -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Expanded Framework</li>
+    <!-- Vanilla Weapons Expanded - Grenades -->
+    <li IfModActive="VanillaExpanded.VWEG">Vanilla Weapons Expanded - Grenades</li>
     <!-- Vanilla Brewing Expanded -->
     <li IfModActive="VanillaExpanded.VBrewE">Vanilla Brewing Expanded</li>
     <li IfModActive="VanillaExpanded.VCookE_copy">Vanilla Brewing Expanded/1.6/Mods/VanillaCookingExpanded</li>
     <li IfModActive="VanillaExpanded.VCookE_copy">Vanilla Brewing Expanded/1.6/Mods/VanillaCookingExpanded</li>
     <li IfModActive="VanillaExpanded.VPlantsE_copy">Vanilla Brewing Expanded/1.6/Mods/VanillaPlantsExpanded</li>
     <li IfModActive="VanillaExpanded.VPlantsE_copy">Vanilla Brewing Expanded/1.6/Mods/VanillaPlantsExpanded</li>
+    <!-- Vanilla Plants Expanded - Succulents -->
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Vanilla Plants Expanded - Succulents</li>
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->
     <li IfModActive="VanillaExpanded.VBrewECandT">Vanilla Brewing Expanded - Coffees and Teas</li>
     <li IfModActive="VanillaExpanded.VPlantsE">Vanilla Brewing Expanded - Coffees and Teas/1.6/Mods/VanillaPlantsExpanded</li>
     <li IfModActive="VanillaExpanded.VCookE">Vanilla Brewing Expanded - Coffees and Teas/1.6/Mods/VanillaCookingExpanded</li>
     <!-- Vanilla Achievements Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Achievements Expanded</li>
+    <li IfModActive="vanillaexpanded.achievements">Vanilla Achievements Expanded</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Achievements Expanded/1.6/Mods/Royalty</li>
     <li IfModActive="Ludeon.RimWorld.Anomaly">Vanilla Achievements Expanded/1.6/Mods/Anomaly</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Achievements Expanded/1.6/Mods/Biotech</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Achievements Expanded/1.6/Mods/Ideology</li>
+    <!-- Vanilla Weapons Expanded - Heavy Weapons -->
+    <li IfModActive="VanillaExpanded.VWEHW">Vanilla Weapons Expanded - Heavy Weapons</li>
+    <!-- Vanilla Traits Expanded -->
+    <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Vanilla Traits Expanded</li>
     <!-- Vanilla Animals Expanded — Endangered -->
-    <li IfModActive="brrainz.harmony">Vanilla Animals Expanded — Endangered</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Vanilla Animals Expanded — Endangered</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">Vanilla Animals Expanded — Endangered/1.6/Mods/NotOdyssey</li>
+    <!-- Vanilla Books Expanded -->
+    <li IfModActive="VanillaExpanded.VBooksE">Vanilla Books Expanded</li>
+    <!-- Vanilla Weapons Expanded - Coilguns -->
+    <li IfModActive="VanillaExpanded.VWEC">Vanilla Weapons Expanded - Coilguns</li>
+    <!-- Vanilla Weapons Expanded - Makeshift -->
+    <li IfModActive="VanillaExpanded.VWEMS">Vanilla Weapons Expanded - Makeshift</li>
     <!-- Vanilla Weapons Expanded - Frontier -->
     <li IfModActive="VanillaExpanded.VWEFT">Vanilla Weapons Expanded - Frontier</li>
     <li IfModActive="VanillaExpanded.VWEC">Vanilla Weapons Expanded - Frontier/1.6/Mods/VWEC</li>
     <li IfModActive="VanillaExpanded.VWEHW">Vanilla Weapons Expanded - Frontier/1.6/Mods/VWEHW</li>
     <li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Frontier/1.6/Mods/VWEL</li>
     <li IfModActive="VanillaExpanded.VWEQ">Vanilla Weapons Expanded - Frontier/1.6/Mods/VWEQ</li>
+    <!-- Vanilla Weapons Expanded - Tribal -->
+    <li IfModActive="VanillaExpanded.VWETB">Vanilla Weapons Expanded - Tribal</li>
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+    <li IfModActive="VanillaExpanded.VWENL">Vanilla Weapons Expanded - Non-Lethal</li>
     <!-- Vanilla Apparel Expanded — Accessories -->
     <li IfModActive="VanillaExpanded.VAEAccessories">Vanilla Apparel Expanded — Accessories</li>
+    <!-- Vanilla Ideology Expanded - Relics and Artifacts -->
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Vanilla Ideology Expanded - Relics and Artifacts</li>
     <!-- Vanilla Ideology Expanded - Splits and Schisms -->
     <li IfModActive="VanillaExpanded.VIESAS">Vanilla Ideology Expanded - Splits and Schisms</li>
+    <!-- Vanilla Ideology Expanded - Hats and Rags -->
+    <li IfModActive="VanillaExpanded.VIEHAR">Vanilla Ideology Expanded - Hats and Rags</li>
     <!-- Vanilla Furniture Expanded - Architect -->
     <li IfModActive="VanillaExpanded.VFEArchitect">Vanilla Furniture Expanded - Architect</li>
+    <!-- Vanilla Social Interactions Expanded -->
+    <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Vanilla Social Interactions Expanded</li>
+    <!-- Vanilla Ideology Expanded - Anima Theme -->
+    <li IfModActive="VanillaExpanded.VIEAT">Vanilla Ideology Expanded - Anima Theme</li>
     <!-- Vanilla Outposts Expanded -->
     <li IfModActive="vanillaexpanded.outposts">Vanilla Outposts Expanded</li>
+    <!-- Vanilla Ideology Expanded - Dryads -->
+    <li IfModActive="VanillaExpanded.Ideo.Dryads">Vanilla Ideology Expanded - Dryads</li>
+    <!-- Vanilla Plants Expanded - More Plants -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Vanilla Plants Expanded - More Plants</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Plants Expanded - More Plants/1.6/Mods/Ideology</li>
+    <li IfModActive="VanillaExpanded.VCookE">Vanilla Plants Expanded - More Plants/1.6/Mods/VanillaCookingExpanded</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Vanilla Plants Expanded - More Plants/1.6/Mods/VanillaFactionsExpandedMedieval</li>
+    <!-- Vanilla Backgrounds Expanded -->
+    <li IfModActive="vanillaexpanded.backgrounds">Vanilla Backgrounds Expanded</li>
     <!-- Vanilla Furniture Expanded - Props and Decor -->
-    <li IfModActive="brrainz.harmony">Vanilla Furniture Expanded - Props and Decor</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Vanilla Furniture Expanded - Props and Decor</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/Biotech</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/Royalty</li>
@@ -112,13 +171,6 @@
     <li IfModActive="VanillaExpanded.Temperature">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/Temperature</li>
     <li IfModActive="vanillaexpanded.gravship">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/VanillaGravshipExpanded</li>
     <li IfModActive="VanillaExpanded.VCookEBakery">Vanilla Furniture Expanded - Props and Decor/1.6/Mods/VanillaExpandedBakery</li>
-    <!-- Vanilla Backgrounds Expanded -->
-    <li IfModActive="vanillaexpanded.backgrounds">Vanilla Backgrounds Expanded</li>
-    <!-- Vanilla Plants Expanded - More Plants -->
-    <li IfModActive="brrainz.harmony">Vanilla Plants Expanded - More Plants</li>
-    <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Plants Expanded - More Plants/1.6/Mods/Ideology</li>
-    <li IfModActive="VanillaExpanded.VCookE">Vanilla Plants Expanded - More Plants/1.6/Mods/VanillaCookingExpanded</li>
-    <li IfModActive="OskarPotocki.VFE.Medieval2">Vanilla Plants Expanded - More Plants/1.6/Mods/VanillaFactionsExpandedMedieval</li>
     <!-- Vanilla Factions Expanded - Pirates -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Vanilla Factions Expanded - Pirates</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Factions Expanded - Pirates/1.6/Mods/Ideology</li>
@@ -131,15 +183,21 @@
     <li IfModActive="VanillaExpanded.VMemesE">Vanilla Factions Expanded - Pirates/1.6/Mods/VanillaMemesExpanded</li>
     <!-- Vanilla Chemfuel Expanded -->
     <li IfModActive="VanillaExpanded.VChemfuelE">Vanilla Chemfuel Expanded</li>
+    <!-- Vanilla Trading Expanded -->
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Vanilla Trading Expanded</li>
+    <!-- Vanilla Genetics Expanded - More Lab Stuff -->
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Vanilla Genetics Expanded - More Lab Stuff</li>
     <!-- Vanilla Factions Expanded - Classical -->
     <li IfModActive="OskarPotocki.VFE.Classical">Vanilla Factions Expanded - Classical</li>
+    <!-- Vanilla Persona Weapons Expanded -->
+    <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Vanilla Persona Weapons Expanded</li>
     <!-- Vanilla Animals Expanded — Royal Animals -->
-    <li IfModActive="brrainz.harmony">Vanilla Animals Expanded — Royal Animals</li>
+    <li IfModActive="VanillaExpanded.VAERoy">Vanilla Animals Expanded — Royal Animals</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">Vanilla Animals Expanded — Royal Animals/1.6NotOdyssey</li>
     <!-- Vanilla Psycasts Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Psycasts Expanded</li>
+    <li IfModActive="VanillaExpanded.VPsycastsE">Vanilla Psycasts Expanded</li>
     <!-- Vanilla Ideology Expanded - Memes and Structures -->
-    <li IfModActive="brrainz.harmony">Vanilla Ideology Expanded - Memes and Structures</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Vanilla Ideology Expanded - Memes and Structures</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/Royalty</li>
     <li IfModActive="Sarg.AlphaMemes">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/AlphaMemes</li>
     <li IfModActive="VanillaExpanded.VCookE_copy">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/VanillaCookingExpanded</li>
@@ -148,31 +206,50 @@
     <li IfModActive="VanillaExpanded.VCEF_copy">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/VanillaFishingExpanded</li>
     <li IfModActive="VanillaExpanded.VBooksE_copy">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/VanillaBooksExpanded</li>
     <li IfModActive="VanillaExpanded.VBooksE_copy">Vanilla Ideology Expanded - Memes and Structures/1.6/Mods/VanillaBooksExpanded</li>
+    <!-- Vanilla Backstories Expanded -->
+    <li IfModActive="VanillaExpanded.VanillaBackstoriesExpanded">Vanilla Backstories Expanded</li>
+    <!-- Vanilla Races Expanded - Hussar -->
+    <li IfModActive="vanillaracesexpanded.hussar">Vanilla Races Expanded - Hussar</li>
+    <!-- Vanilla Races Expanded - Saurid -->
+    <li IfModActive="vanillaracesexpanded.saurid">Vanilla Races Expanded - Saurid</li>
+    <!-- Vanilla Races Expanded - Genie -->
+    <li IfModActive="vanillaracesexpanded.genie">Vanilla Races Expanded - Genie</li>
     <!-- Vanilla Animals Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Animals Expanded</li>
+    <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">Vanilla Animals Expanded</li>
     <li IfModNotActive="Ludeon.RimWorld.Odyssey">Vanilla Animals Expanded/1.6NotOdyssey</li>
     <!-- Vanilla Races Expanded - Phytokin -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Phytokin</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">Vanilla Races Expanded - Phytokin</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Races Expanded - Phytokin/1.6/Mods/Royalty</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Races Expanded - Phytokin/1.6/Mods/Ideology</li>
     <!-- Vanilla Races Expanded - Sanguophage -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Sanguophage</li>
+    <li IfModActive="vanillaracesexpanded.sanguophage">Vanilla Races Expanded - Sanguophage</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Races Expanded - Sanguophage/1.6/Mods/Royalty</li>
+    <!-- Vanilla Animals Expanded — Waste Animals -->
+    <li IfModActive="VanillaExpanded.VAEWaste">Vanilla Animals Expanded — Waste Animals</li>
+    <!-- Vanilla Races Expanded - Waster -->
+    <li IfModActive="vanillaracesexpanded.waster">Vanilla Races Expanded - Waster</li>
     <!-- Vanilla Races Expanded - Android -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Android</li>
+    <li IfModActive="vanillaracesexpanded.android">Vanilla Races Expanded - Android</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Races Expanded - Android/1.6/Mods/Ideology</li>
+    <!-- Vanilla Psycasts Expanded - Hemosage -->
+    <li IfModActive="VanillaExpanded.VPE.Hemosage">Vanilla Psycasts Expanded - Hemosage</li>
     <!-- Vanilla Plants Expanded - Mushrooms -->
-    <li IfModActive="brrainz.harmony">Vanilla Plants Expanded - Mushrooms</li>
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">Vanilla Plants Expanded - Mushrooms</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Plants Expanded - Mushrooms/1.6/Mods/Biotech</li>
+    <!-- Vanilla Races Expanded - Highmate -->
+    <li IfModActive="vanillaracesexpanded.highmate">Vanilla Races Expanded - Highmate</li>
+    <!-- Vanilla Factions Expanded - Empire -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Vanilla Factions Expanded - Empire</li>
+    <!-- Vanilla Psycasts Expanded - Puppeteer -->
+    <li IfModActive="VanillaExpanded.VPE.Puppeteer">Vanilla Psycasts Expanded - Puppeteer</li>
+    <!-- Vanilla Races Expanded - Fungoid -->
+    <li IfModActive="vanillaracesexpanded.fungoid">Vanilla Races Expanded - Fungoid</li>
     <!-- Vanilla Vehicles Expanded -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Vanilla Vehicles Expanded</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Vehicles Expanded/1.6/Mods/Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Vehicles Expanded/1.6/Mods/Biotech</li>
-    <!-- Vanilla Races Expanded - Archon -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Archon</li>
-    <li IfModActive="VanillaExpanded.VPsycastsE">Vanilla Races Expanded - Archon/1.6/VPsycastsE</li>
     <!-- Vanilla Genetics Expanded -->
-    <li IfModActive="brrainz.harmony">Vanilla Genetics Expanded</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Vanilla Genetics Expanded</li>
     <li IfModActive="sarg.alphaanimals_copy">Vanilla Genetics Expanded/1.6/Mods/AlphaAnimals</li>
     <li IfModActive="sarg.alphaanimals_copy">Vanilla Genetics Expanded/1.6/Mods/AlphaAnimals</li>
     <li IfModActive="rimofmadness.CallofCthulhuCosmicHorrors_copy">Vanilla Genetics Expanded/1.6/Mods/CosmicHorrors</li>
@@ -189,21 +266,36 @@
     <li IfModActive="Ogliss.TheWhiteCrayon.Quarry_copy">Vanilla Genetics Expanded/1.6/Mods/Quarry</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Genetics Expanded/1.6/Mods/Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Odyssey">Vanilla Genetics Expanded/1.6/Mods/Odyssey</li>
+    <!-- Vanilla Races Expanded - Archon -->
+    <li IfModActive="vanillaracesexpanded.archon">Vanilla Races Expanded - Archon</li>
+    <li IfModActive="VanillaExpanded.VPsycastsE">Vanilla Races Expanded - Archon/1.6/VPsycastsE</li>
     <!-- Vanilla Races Expanded - Lycanthrope -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Lycanthrope</li>
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Vanilla Races Expanded - Lycanthrope</li>
     <li IfModActive="vanillaracesexpanded.android">Vanilla Races Expanded - Lycanthrope/1.6/Mods/VanillaRacesExpandedAndroid</li>
+    <!-- Vanilla Vehicles Expanded - Tier 3 -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedTier3">Vanilla Vehicles Expanded - Tier 3</li>
     <!-- Vanilla Races Expanded - Pigskin -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Pigskin</li>
+    <li IfModActive="vanillaracesexpanded.pigskin">Vanilla Races Expanded - Pigskin</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Races Expanded - Pigskin/1.6/Mods/Ideology</li>
+    <!-- Vanilla Recycling Expanded -->
+    <li IfModActive="VanillaExpanded.Recycling">Vanilla Recycling Expanded</li>
+    <!-- Vanilla Ideology Expanded - Sophian Style -->
+    <li IfModActive="VanillaExpanded.Ideo.SophianStyle">Vanilla Ideology Expanded - Sophian Style</li>
     <!-- Vanilla Temperature Expanded -->
     <li IfModActive="VanillaExpanded.Temperature">Vanilla Temperature Expanded</li>
+    <!-- Vanilla Factions Expanded - Tribals -->
+    <li IfModActive="OskarPotocki.VFE.Tribals">Vanilla Factions Expanded - Tribals</li>
     <!-- Vanilla Races Expanded - Insector -->
-    <li IfModActive="brrainz.harmony">Vanilla Races Expanded - Insector</li>
+    <li IfModActive="vanillaracesexpanded.insector">Vanilla Races Expanded - Insector</li>
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Vanilla Races Expanded - Insector/1.6/Mods/VFEInsectoids</li>
     <li IfModActive="sarg.alphaanimals">Vanilla Races Expanded - Insector/1.6/Mods/AlphaAnimals</li>
+    <!-- Vanilla Factions Expanded - Deserters -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Vanilla Factions Expanded - Deserters</li>
     <!-- Vanilla Weapons Expanded - Bioferrite -->
     <li IfModActive="VanillaExpanded.VWEBF">Vanilla Weapons Expanded - Bioferrite</li>
     <li IfModActive="VanillaExpanded.VWEHW">Vanilla Weapons Expanded - Bioferrite/1.6/Mods/VWEHW</li>
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Vanilla Storytellers Expanded - Winston Waves</li>
     <!-- Vanilla Vehicles Expanded - Upgrades -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpandedUpgrades">Vanilla Vehicles Expanded - Upgrades</li>
     <!-- Vanilla Aspirations Expanded -->
@@ -230,22 +322,36 @@
     <li IfModActive="sarg.alphaanimals">Vanilla Food Variety Expanded/1.6/Mods/AlphaAnimals</li>
     <li IfModActive="VanillaExpanded.VGeneticsE">Vanilla Food Variety Expanded/1.6/Mods/VEGenetics</li>
     <li IfModActive="vanillaracesexpanded.sanguophage">Vanilla Food Variety Expanded/1.6/Mods/VRESanguophage</li>
+    <!-- Vanilla Anomaly Expanded - Insanity -->
+    <li IfModActive="VanillaExpanded.VAnomalyEInsanity">Vanilla Anomaly Expanded - Insanity</li>
     <!-- Vanilla Factions Expanded - Insectoids 2 -->
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Vanilla Factions Expanded - Insectoids 2</li>
     <li IfModActive="vanillaexpanded.achievements">Vanilla Factions Expanded - Insectoids 2/1.6/Mods/Achievements</li>
+    <!-- Vanilla Skills Expanded -->
+    <li IfModActive="vanillaexpanded.skills">Vanilla Skills Expanded</li>
     <!-- Vanilla Christmas Expanded -->
     <li IfModActive="VE.VanillaChristmasExpanded">Vanilla Christmas Expanded</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Christmas Expanded/1.6/Mods/Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Christmas Expanded/1.6/Mods/Royalty</li>
     <li IfModActive="VanillaExpanded.VCookE">Vanilla Christmas Expanded/1.6/Mods/VanillaCookingExpanded</li>
     <!-- Vanilla Quests Expanded - The Generator -->
-    <li IfModActive="brrainz.harmony">Vanilla Quests Expanded - The Generator</li>
+    <li IfModActive="vanillaquestsexpanded.generator">Vanilla Quests Expanded - The Generator</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Quests Expanded - The Generator/1.6/Mods/Ideology</li>
+    <!-- Vanilla Cooking Expanded - Haute -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Vanilla Cooking Expanded - Haute</li>
+    <!-- Vanilla Races Expanded - Starjack -->
+    <li IfModActive="vanillaracesexpanded.starjack">Vanilla Races Expanded - Starjack</li>
+    <!-- Vanilla Quests Expanded - Cryptoforge -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Vanilla Quests Expanded - Cryptoforge</li>
     <!-- Vanilla Factions Expanded - Medieval 2 -->
     <li IfModActive="OskarPotocki.VFE.Medieval2">Vanilla Factions Expanded - Medieval 2</li>
     <li IfModActive="Ludeon.RimWorld.Royalty">Vanilla Factions Expanded - Medieval 2/1.6/Mods/Royalty</li>
     <li IfModActive="Ludeon.RimWorld.Ideology">Vanilla Factions Expanded - Medieval 2/1.6/Mods/Ideology</li>
     <li IfModActive="Ludeon.RimWorld.Biotech">Vanilla Factions Expanded - Medieval 2/1.6/Mods/Biotech</li>
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Vanilla Factions Expanded - Medieval 2/1.6/Mods/VFEInsectoids2</li>
+    <!-- Vanilla Quests Expanded - Ancients -->
+    <li IfModActive="vanillaquestsexpanded.ancients">Vanilla Quests Expanded - Ancients</li>
+    <!-- Vanilla Quests Expanded - Deadlife -->
+    <li IfModActive="vanillaquestsexpanded.deadlife">Vanilla Quests Expanded - Deadlife</li>
   </v1.6>
 </loadFolders>

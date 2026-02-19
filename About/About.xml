@@ -1,126 +1,423 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Vanilla Expanded ZH</name>
+	<name>Vanilla Expanded ZH(DD版)</name>
 	<author>DayDay</author>
 	<supportedVersions>
 		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
+    	<modDependencies>
+        <!-- Vanilla Furniture Expanded - Medical Module -->
+        <li><packageId>VanillaExpanded.VFEMedical</packageId></li>
+        <!-- Vanilla Furniture Expanded -->
+        <li><packageId>VanillaExpanded.VFECore</packageId></li>
+        <!-- Vanilla Armour Expanded -->
+        <li><packageId>VanillaExpanded.VARME</packageId></li>
+        <!-- Vanilla Apparel Expanded -->
+        <li><packageId>VanillaExpanded.VAPPE</packageId></li>
+        <!-- Vanilla Furniture Expanded - Production -->
+        <li><packageId>VanillaExpanded.VFEProduction</packageId></li>
+        <!-- Vanilla Weapons Expanded -->
+        <li><packageId>VanillaExpanded.VWE</packageId></li>
+        <!-- Vanilla Weapons Expanded - Quickdraw -->
+        <li><packageId>VanillaExpanded.VWEQ</packageId></li>
+        <!-- Vanilla Furniture Expanded - Security -->
+        <li><packageId>VanillaExpanded.VFESecurity</packageId></li>
+        <!-- Vanilla Fishing Expanded -->
+        <li><packageId>VanillaExpanded.VCEF</packageId></li>
+        <!-- Vanilla Furniture Expanded - Farming -->
+        <li><packageId>VanillaExpanded.VFEFarming</packageId></li>
+        <!-- Vanilla Hair Expanded -->
+        <li><packageId>VanillaExpanded.VHE</packageId></li>
+        <!-- Vanilla Events Expanded -->
+        <li><packageId>VanillaExpanded.VEE</packageId></li>
+        <!-- Vanilla Furniture Expanded - Art -->
+        <li><packageId>VanillaExpanded.VFEArt</packageId></li>
+        <!-- Vanilla Weapons Expanded - Laser -->
+        <li><packageId>VanillaExpanded.VWEL</packageId></li>
+        <!-- Vanilla Textures Expanded -->
+        <li><packageId>VanillaExpanded.VTEXE</packageId></li>
+        <!-- Vanilla Furniture Expanded - Power -->
+        <li><packageId>VanillaExpanded.VFEPower</packageId></li>
+        <!-- Vanilla Factions Expanded - Settlers -->
+        <li><packageId>OskarPotocki.VanillaFactionsExpanded.SettlersModule</packageId></li>
+        <!-- Vanilla Cooking Expanded -->
+        <li><packageId>VanillaExpanded.VCookE</packageId></li>
+        <!-- Vanilla Cooking Expanded - Stews -->
+        <li><packageId>VanillaExpanded.VCookEStews</packageId></li>
+        <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <li><packageId>VSE.PerryPersistent</packageId></li>
+        <!-- Vanilla Plants Expanded -->
+        <li><packageId>VanillaExpanded.VPlantsE</packageId></li>
+        <!-- Vanilla Cooking Expanded - Sushi -->
+        <li><packageId>VanillaExpanded.VCookESushi</packageId></li>
+        <!-- Vanilla Expanded Framework -->
+        <li><packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId></li>
+        <!-- Vanilla Weapons Expanded - Grenades -->
+        <li><packageId>VanillaExpanded.VWEG</packageId></li>
+        <!-- Vanilla Brewing Expanded -->
+        <li><packageId>VanillaExpanded.VBrewE</packageId></li>
+        <!-- Vanilla Plants Expanded - Succulents -->
+        <li><packageId>VanillaExpanded.VPlantsESucculents</packageId></li>
+        <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <li><packageId>VanillaExpanded.VBrewECandT</packageId></li>
+        <!-- Vanilla Achievements Expanded -->
+        <li><packageId>vanillaexpanded.achievements</packageId></li>
+        <!-- Vanilla Weapons Expanded - Heavy Weapons -->
+        <li><packageId>VanillaExpanded.VWEHW</packageId></li>
+        <!-- Vanilla Traits Expanded -->
+        <li><packageId>VanillaExpanded.VanillaTraitsExpanded</packageId></li>
+        <!-- Vanilla Animals Expanded — Endangered -->
+        <li><packageId>VanillaExpanded.VAEEndAndExt</packageId></li>
+        <!-- Vanilla Books Expanded -->
+        <li><packageId>VanillaExpanded.VBooksE</packageId></li>
+        <!-- Vanilla Weapons Expanded - Coilguns -->
+        <li><packageId>VanillaExpanded.VWEC</packageId></li>
+        <!-- Vanilla Weapons Expanded - Makeshift -->
+        <li><packageId>VanillaExpanded.VWEMS</packageId></li>
+        <!-- Vanilla Weapons Expanded - Frontier -->
+        <li><packageId>VanillaExpanded.VWEFT</packageId></li>
+        <!-- Vanilla Weapons Expanded - Tribal -->
+        <li><packageId>VanillaExpanded.VWETB</packageId></li>
+        <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <li><packageId>VanillaExpanded.VWENL</packageId></li>
+        <!-- Vanilla Apparel Expanded — Accessories -->
+        <li><packageId>VanillaExpanded.VAEAccessories</packageId></li>
+        <!-- Vanilla Ideology Expanded - Relics and Artifacts -->
+        <li><packageId>VanillaExpanded.Ideo.RelicsAndArtifacts</packageId></li>
+        <!-- Vanilla Ideology Expanded - Splits and Schisms -->
+        <li><packageId>VanillaExpanded.VIESAS</packageId></li>
+        <!-- Vanilla Ideology Expanded - Hats and Rags -->
+        <li><packageId>VanillaExpanded.VIEHAR</packageId></li>
+        <!-- Vanilla Furniture Expanded - Architect -->
+        <li><packageId>VanillaExpanded.VFEArchitect</packageId></li>
+        <!-- Vanilla Social Interactions Expanded -->
+        <li><packageId>VanillaExpanded.VanillaSocialInteractionsExpanded</packageId></li>
+        <!-- Vanilla Ideology Expanded - Anima Theme -->
+        <li><packageId>VanillaExpanded.VIEAT</packageId></li>
+        <!-- Vanilla Outposts Expanded -->
+        <li><packageId>vanillaexpanded.outposts</packageId></li>
+        <!-- Vanilla Ideology Expanded - Dryads -->
+        <li><packageId>VanillaExpanded.Ideo.Dryads</packageId></li>
+        <!-- Vanilla Plants Expanded - More Plants -->
+        <li><packageId>VanillaExpanded.VPlantsEMore</packageId></li>
+        <!-- Vanilla Backgrounds Expanded -->
+        <li><packageId>vanillaexpanded.backgrounds</packageId></li>
+        <!-- Vanilla Furniture Expanded - Props and Decor -->
+        <li><packageId>VanillaExpanded.VFEPropsandDecor</packageId></li>
+        <!-- Vanilla Factions Expanded - Pirates -->
+        <li><packageId>OskarPotocki.VFE.Pirates</packageId></li>
+        <!-- Vanilla Chemfuel Expanded -->
+        <li><packageId>VanillaExpanded.VChemfuelE</packageId></li>
+        <!-- Vanilla Trading Expanded -->
+        <li><packageId>VanillaExpanded.VanillaTradingExpanded</packageId></li>
+        <!-- Vanilla Genetics Expanded - More Lab Stuff -->
+        <li><packageId>VanillaExpanded.VGeneticsEMoreLabStuff</packageId></li>
+        <!-- Vanilla Factions Expanded - Classical -->
+        <li><packageId>OskarPotocki.VFE.Classical</packageId></li>
+        <!-- Vanilla Persona Weapons Expanded -->
+        <li><packageId>VanillaExpanded.VPersonaWeaponsE</packageId></li>
+        <!-- Vanilla Animals Expanded — Royal Animals -->
+        <li><packageId>VanillaExpanded.VAERoy</packageId></li>
+        <!-- Vanilla Psycasts Expanded -->
+        <li><packageId>VanillaExpanded.VPsycastsE</packageId></li>
+        <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <li><packageId>VanillaExpanded.VMemesE</packageId></li>
+        <!-- Vanilla Backstories Expanded -->
+        <li><packageId>VanillaExpanded.VanillaBackstoriesExpanded</packageId></li>
+        <!-- Vanilla Races Expanded - Hussar -->
+        <li><packageId>vanillaracesexpanded.hussar</packageId></li>
+        <!-- Vanilla Races Expanded - Saurid -->
+        <li><packageId>vanillaracesexpanded.saurid</packageId></li>
+        <!-- Vanilla Races Expanded - Genie -->
+        <li><packageId>vanillaracesexpanded.genie</packageId></li>
+        <!-- Vanilla Animals Expanded -->
+        <li><packageId>VanillaExpanded.VanillaAnimalsExpanded</packageId></li>
+        <!-- Vanilla Races Expanded - Phytokin -->
+        <li><packageId>vanillaracesexpanded.phytokin</packageId></li>
+        <!-- Vanilla Races Expanded - Sanguophage -->
+        <li><packageId>vanillaracesexpanded.sanguophage</packageId></li>
+        <!-- Vanilla Animals Expanded — Waste Animals -->
+        <li><packageId>VanillaExpanded.VAEWaste</packageId></li>
+        <!-- Vanilla Races Expanded - Waster -->
+        <li><packageId>vanillaracesexpanded.waster</packageId></li>
+        <!-- Vanilla Races Expanded - Android -->
+        <li><packageId>vanillaracesexpanded.android</packageId></li>
+        <!-- Vanilla Psycasts Expanded - Hemosage -->
+        <li><packageId>VanillaExpanded.VPE.Hemosage</packageId></li>
+        <!-- Vanilla Plants Expanded - Mushrooms -->
+        <li><packageId>VanillaExpanded.VPlantsEMushrooms</packageId></li>
+        <!-- Vanilla Races Expanded - Highmate -->
+        <li><packageId>vanillaracesexpanded.highmate</packageId></li>
+        <!-- Vanilla Factions Expanded - Empire -->
+        <li><packageId>OskarPotocki.VFE.Empire</packageId></li>
+        <!-- Vanilla Psycasts Expanded - Puppeteer -->
+        <li><packageId>VanillaExpanded.VPE.Puppeteer</packageId></li>
+        <!-- Vanilla Races Expanded - Fungoid -->
+        <li><packageId>vanillaracesexpanded.fungoid</packageId></li>
+        <!-- Vanilla Vehicles Expanded -->
+        <li><packageId>OskarPotocki.VanillaVehiclesExpanded</packageId></li>
+        <!-- Vanilla Genetics Expanded -->
+        <li><packageId>VanillaExpanded.VGeneticsE</packageId></li>
+        <!-- Vanilla Races Expanded - Archon -->
+        <li><packageId>vanillaracesexpanded.archon</packageId></li>
+        <!-- Vanilla Races Expanded - Lycanthrope -->
+        <li><packageId>vanillaracesexpanded.lycanthrope</packageId></li>
+        <!-- Vanilla Vehicles Expanded - Tier 3 -->
+        <li><packageId>OskarPotocki.VanillaVehiclesExpandedTier3</packageId></li>
+        <!-- Vanilla Races Expanded - Pigskin -->
+        <li><packageId>vanillaracesexpanded.pigskin</packageId></li>
+        <!-- Vanilla Recycling Expanded -->
+        <li><packageId>VanillaExpanded.Recycling</packageId></li>
+        <!-- Vanilla Ideology Expanded - Sophian Style -->
+        <li><packageId>VanillaExpanded.Ideo.SophianStyle</packageId></li>
+        <!-- Vanilla Temperature Expanded -->
+        <li><packageId>VanillaExpanded.Temperature</packageId></li>
+        <!-- Vanilla Factions Expanded - Tribals -->
+        <li><packageId>OskarPotocki.VFE.Tribals</packageId></li>
+        <!-- Vanilla Races Expanded - Insector -->
+        <li><packageId>vanillaracesexpanded.insector</packageId></li>
+        <!-- Vanilla Factions Expanded - Deserters -->
+        <li><packageId>OskarPotocki.VFE.Deserters</packageId></li>
+        <!-- Vanilla Weapons Expanded - Bioferrite -->
+        <li><packageId>VanillaExpanded.VWEBF</packageId></li>
+        <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <li><packageId>VanillaStorytellersExpanded.WinstonWave</packageId></li>
+        <!-- Vanilla Vehicles Expanded - Upgrades -->
+        <li><packageId>OskarPotocki.VanillaVehiclesExpandedUpgrades</packageId></li>
+        <!-- Vanilla Aspirations Expanded -->
+        <li><packageId>VanillaExpanded.VanillaAspirationsExpanded</packageId></li>
+        <!-- Vanilla Food Variety Expanded -->
+        <li><packageId>VanillaExpanded.VanillaFoodVarietyExpanded</packageId></li>
+        <!-- Vanilla Anomaly Expanded - Insanity -->
+        <li><packageId>VanillaExpanded.VAnomalyEInsanity</packageId></li>
+        <!-- Vanilla Factions Expanded - Insectoids 2 -->
+        <li><packageId>OskarPotocki.VFE.Insectoid2</packageId></li>
+        <!-- Vanilla Skills Expanded -->
+        <li><packageId>vanillaexpanded.skills</packageId></li>
+        <!-- Vanilla Christmas Expanded -->
+        <li><packageId>VE.VanillaChristmasExpanded</packageId></li>
+        <!-- Vanilla Quests Expanded - The Generator -->
+        <li><packageId>vanillaquestsexpanded.generator</packageId></li>
+        <!-- Vanilla Cooking Expanded - Haute -->
+        <li><packageId>VanillaExpanded.VCookEHaute</packageId></li>
+        <!-- Vanilla Races Expanded - Starjack -->
+        <!--<li><packageId>vanillaracesexpanded.starjack</packageId></li>-->
+        <!-- Vanilla Quests Expanded - Cryptoforge -->
+        <li><packageId>vanillaquestsexpanded.cryptoforge</packageId></li>
+        <!-- Vanilla Factions Expanded - Medieval 2 -->
+        <li><packageId>OskarPotocki.VFE.Medieval2</packageId></li>
+        <!-- Vanilla Quests Expanded - Ancients -->
+        <li><packageId>vanillaquestsexpanded.ancients</packageId></li>
+        <!-- Vanilla Quests Expanded - Deadlife -->
+        <li><packageId>vanillaquestsexpanded.deadlife</packageId></li>
+	</modDependencies>
 	<packageId>VanillaExpanded.ZH.DayDay</packageId>
 	<loadAfter>
-		<li>oskarpotocki.vanillafactionsexpanded.core</li>
-		<li>vanillaexpanded.vanillaanimalsexpanded</li>
-		<li>vanillaexpanded.vaeroy</li>
-		<li>vanillaexpanded.vaewaste</li>
-		<li>vanillaexpanded.vaeendandext</li>
-		<li>vanillaexpanded.vappe</li>
-		<li>vanillaexpanded.vaeaccessories</li>
-		<li>vanillaexpanded.varme</li>
-		<li>vanillaexpanded.vfecore</li>
-		<li>vanillaexpanded.vfepower</li>
-		<li>vanillaexpanded.vfeproduction</li>
-		<li>vanillaexpanded.vfearchitect</li>
-		<li>vanillaexpanded.vfeart</li>
-		<li>vanillaexpanded.vfefarming</li>
-		<li>vanillaexpanded.vfemedical</li>
-		<li>vanillaexpanded.vfesecurity</li>
-		<li>vanillaexpanded.vfespacer</li>
-		<li>vanillaexpanded.vfepropsanddecor</li>
-		<li>sarg.alphagenes</li>
-		<li>Sarg.AlphaMemes</li>
-		<li>sarg.alphabiomes</li>
-		<li>sarg.alphavehiclesneolithic</li>
-		<li>VanillaExpanded.VFEA</li>
-		<li>OskarPotocki.VFE.Empire</li>
-		<li>OskarPotocki.VFE.Deserters</li>
-		<li>OskarPotocki.VFE.Classical</li>
-		<li>VanillaExpanded.VGeneticsE</li>
-		<li>VanillaExpanded.VBrewE</li>
-		<li>VanillaExpanded.VBrewECandT</li>
-		<li>VanillaExpanded.VCookE</li>
-		<li>VanillaExpanded.VCookEStews</li>
-		<li>VanillaExpanded.VCookESushi</li>
-		<li>VanillaExpanded.VChemfuelE</li>
-		<li>VanillaExpanded.VPlantsE</li>
-		<li>VanillaExpanded.VPlantsEMore</li>
-		<li>VanillaExpanded.VPlantsESucculents</li>
-		<li>VanillaExpanded.VPlantsEMushrooms</li>
-		<li>OskarPotocki.VanillaVehiclesExpanded</li>
-		<li>OskarPotocki.VanillaVehiclesExpandedTier3</li>
-		<li>VanillaExpanded.VMemesE</li>
-		<li>VanillaExpanded.VFEArchitect</li>
-		<li>XMB.AncientMiningIndustry.MO</li>
-		<li>farxmai2.vanillafurnitureexpandedpack</li>
-		<li>rimfridge.kv.rw</li>
-		<li>Owlchemist.FridgeUtilities</li>
-		<li>LWM.DeepStorage</li>
-		<li>LWM.DeepStorageHOTFIX</li>
-		<li>Dubwise.DubsBadHygiene</li>
-		<li>oskarpotocki.vfe.empire</li>
-		<li>oskarpotocki.vfe.deserters</li>
-		<li>oskarpotocki.vfe.pirates</li>
-		<li>oskarpotocki.vfe.classical</li>
-		<li>oskarpotocki.vfe.tribals</li>
-		<li>vanillaexpanded.vfea</li>
-		<li>oskarpotocki.vfe.mechanoid</li>
-		<li>vanillaexpanded.vcefaddon</li>
-		<li>vanillaexpanded.vgeneticse</li>
-		<li>vanillaexpanded.vgeneticsemorelabstuff</li>
-		<li>vanillaexpanded.vbookse</li>
-		<li>vanillaexpanded.vanillabackstoriesexpanded</li>
-		<li>vanillaexpanded.vbrewe</li>
-		<li>vanillaexpanded.vbrewecandt</li>
-		<li>vanillaexpanded.vcooke</li>
-		<li>vanillaexpanded.vcookestews</li>
-		<li>vanillaexpanded.vcookesushi</li>
-		<li>vanillaexpanded.vieat</li>
-		<li>vanillaexpanded.ideo.dryads</li>
-		<li>vanillaexpanded.viehar</li>
-		<li>vanillaexpanded.vmemese</li>
-		<li>vanillaexpanded.ideo.relicsandartifacts</li>
-		<li>vanillaexpanded.viesas</li>
-		<li>vanillaexpanded.vpersonaweaponse</li>
-		<li>vanillaexpanded.vplantse</li>
-		<li>vanillaexpanded.vplantsemore</li>
-		<li>vanillaexpanded.vpersonaweaponse</li>
-		<li>vanillaexpanded.vplantsemushrooms</li>
-		<li>vanillaexpanded.vpsycastse</li>
-		<li>vanillaexpanded.vpe.hemosage</li>
-		<li>vanillaexpanded.vpe.puppeteer</li>
-		<li>vanillaracesexpanded.android</li>
-		<li>vanillaracesexpanded.saurid</li>
-		<li>vanillaracesexpanded.hussar</li>
-		<li>vanillaracesexpanded.genie</li>
-		<li>vanillaracesexpanded.phytokin</li>
-		<li>vanillaracesexpanded.sanguophage</li>
-		<li>vanillaracesexpanded.waster</li>
-		<li>vanillaracesexpanded.highmate</li>
-		<li>vanillaracesexpanded.fungoid</li>
-		<li>vanillaracesexpanded.archon</li>
-		<li>vanillaracesexpanded.lycanthrope</li>
-		<li>vanillaracesexpanded.pigskin</li>
-		<li>vanillaracesexpanded.insector</li>
-		<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
-		<li>vanillaexpanded.temperature</li>
-		<li>vanillaexpanded.vanillatradingexpanded</li>
-		<li>rwzh.chinesepack.vtexe</li>
-		<li>vanillaexpanded.vanillatraitsexpanded</li>
-		<li>oskarpotocki.vanillavehiclesexpanded</li>
-		<li>oskarpotocki.vanillavehiclesexpandedtier3</li>
-		<li>oskarpotocki.vanillavehiclesexpandedupgrades</li>
-		<li>vanillaexpanded.vwe</li>
-		<li>vanillaexpanded.vwec</li>
-		<li>vanillaexpanded.vwetb</li>
-		<li>vanillaexpanded.vwel</li>
-		<li>vanillaexpanded.vwehw</li>
-		<li>vanillaexpanded.vweq</li>
-		<li>vanillaexpanded.vweft</li>
-		<li>vanillaexpanded.vweg</li>
-		<li>vanillaexpanded.vwems</li>
-		<li>vanillaexpanded.vwenl</li>
-		<li>vanillaexpanded.vwebf</li>
-		<li>vanillaexpanded.vee</li>
-		<li>vanillaexpanded.vhe</li>
+        <!-- Vanilla Furniture Expanded - Medical Module -->
+        <li>VanillaExpanded.VFEMedical</li>
+        <!-- Vanilla Furniture Expanded -->
+        <li>VanillaExpanded.VFECore</li>
+        <!-- Vanilla Armour Expanded -->
+        <li>VanillaExpanded.VARME</li>
+        <!-- Vanilla Apparel Expanded -->
+        <li>VanillaExpanded.VAPPE</li>
+        <!-- Vanilla Furniture Expanded - Production -->
+        <li>VanillaExpanded.VFEProduction</li>
+        <!-- Vanilla Weapons Expanded -->
+        <li>VanillaExpanded.VWE</li>
+        <!-- Vanilla Weapons Expanded - Quickdraw -->
+        <li>VanillaExpanded.VWEQ</li>
+        <!-- Vanilla Furniture Expanded - Security -->
+        <li>VanillaExpanded.VFESecurity</li>
+        <!-- Vanilla Fishing Expanded -->
+        <li>VanillaExpanded.VCEF</li>
+        <!-- Vanilla Furniture Expanded - Farming -->
+        <li>VanillaExpanded.VFEFarming</li>
+        <!-- Vanilla Hair Expanded -->
+        <li>VanillaExpanded.VHE</li>
+        <!-- Vanilla Events Expanded -->
+        <li>VanillaExpanded.VEE</li>
+        <!-- Vanilla Furniture Expanded - Art -->
+        <li>VanillaExpanded.VFEArt</li>
+        <!-- Vanilla Weapons Expanded - Laser -->
+        <li>VanillaExpanded.VWEL</li>
+        <!-- Vanilla Textures Expanded -->
+        <li>VanillaExpanded.VTEXE</li>
+        <!-- Vanilla Furniture Expanded - Power -->
+        <li>VanillaExpanded.VFEPower</li>
+        <!-- Vanilla Factions Expanded - Settlers -->
+        <li>OskarPotocki.VanillaFactionsExpanded.SettlersModule</li>
+        <!-- Vanilla Cooking Expanded -->
+        <li>VanillaExpanded.VCookE</li>
+        <!-- Vanilla Cooking Expanded - Stews -->
+        <li>VanillaExpanded.VCookEStews</li>
+        <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <li>VSE.PerryPersistent</li>
+        <!-- Vanilla Plants Expanded -->
+        <li>VanillaExpanded.VPlantsE</li>
+        <!-- Vanilla Cooking Expanded - Sushi -->
+        <li>VanillaExpanded.VCookESushi</li>
+        <!-- Vanilla Expanded Framework -->
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+        <!-- Vanilla Weapons Expanded - Grenades -->
+        <li>VanillaExpanded.VWEG</li>
+        <!-- Vanilla Brewing Expanded -->
+        <li>VanillaExpanded.VBrewE</li>
+        <!-- Vanilla Plants Expanded - Succulents -->
+        <li>VanillaExpanded.VPlantsESucculents</li>
+        <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <li>VanillaExpanded.VBrewECandT</li>
+        <!-- Vanilla Achievements Expanded -->
+        <li>vanillaexpanded.achievements</li>
+        <!-- Vanilla Weapons Expanded - Heavy Weapons -->
+        <li>VanillaExpanded.VWEHW</li>
+        <!-- Vanilla Traits Expanded -->
+        <li>VanillaExpanded.VanillaTraitsExpanded</li>
+        <!-- Vanilla Animals Expanded — Endangered -->
+        <li>VanillaExpanded.VAEEndAndExt</li>
+        <!-- Vanilla Books Expanded -->
+        <li>VanillaExpanded.VBooksE</li>
+        <!-- Vanilla Weapons Expanded - Coilguns -->
+        <li>VanillaExpanded.VWEC</li>
+        <!-- Vanilla Weapons Expanded - Makeshift -->
+        <li>VanillaExpanded.VWEMS</li>
+        <!-- Vanilla Weapons Expanded - Frontier -->
+        <li>VanillaExpanded.VWEFT</li>
+        <!-- Vanilla Weapons Expanded - Tribal -->
+        <li>VanillaExpanded.VWETB</li>
+        <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <li>VanillaExpanded.VWENL</li>
+        <!-- Vanilla Apparel Expanded — Accessories -->
+        <li>VanillaExpanded.VAEAccessories</li>
+        <!-- Vanilla Ideology Expanded - Relics and Artifacts -->
+        <li>VanillaExpanded.Ideo.RelicsAndArtifacts</li>
+        <!-- Vanilla Ideology Expanded - Splits and Schisms -->
+        <li>VanillaExpanded.VIESAS</li>
+        <!-- Vanilla Ideology Expanded - Hats and Rags -->
+        <li>VanillaExpanded.VIEHAR</li>
+        <!-- Vanilla Furniture Expanded - Architect -->
+        <li>VanillaExpanded.VFEArchitect</li>
+        <!-- Vanilla Social Interactions Expanded -->
+        <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
+        <!-- Vanilla Ideology Expanded - Anima Theme -->
+        <li>VanillaExpanded.VIEAT</li>
+        <!-- Vanilla Outposts Expanded -->
+        <li>vanillaexpanded.outposts</li>
+        <!-- Vanilla Ideology Expanded - Dryads -->
+        <li>VanillaExpanded.Ideo.Dryads</li>
+        <!-- Vanilla Plants Expanded - More Plants -->
+        <li>VanillaExpanded.VPlantsEMore</li>
+        <!-- Vanilla Backgrounds Expanded -->
+        <li>vanillaexpanded.backgrounds</li>
+        <!-- Vanilla Furniture Expanded - Props and Decor -->
+        <li>VanillaExpanded.VFEPropsandDecor</li>
+        <!-- Vanilla Factions Expanded - Pirates -->
+        <li>OskarPotocki.VFE.Pirates</li>
+        <!-- Vanilla Chemfuel Expanded -->
+        <li>VanillaExpanded.VChemfuelE</li>
+        <!-- Vanilla Trading Expanded -->
+        <li>VanillaExpanded.VanillaTradingExpanded</li>
+        <!-- Vanilla Genetics Expanded - More Lab Stuff -->
+        <li>VanillaExpanded.VGeneticsEMoreLabStuff</li>
+        <!-- Vanilla Factions Expanded - Classical -->
+        <li>OskarPotocki.VFE.Classical</li>
+        <!-- Vanilla Persona Weapons Expanded -->
+        <li>VanillaExpanded.VPersonaWeaponsE</li>
+        <!-- Vanilla Animals Expanded — Royal Animals -->
+        <li>VanillaExpanded.VAERoy</li>
+        <!-- Vanilla Psycasts Expanded -->
+        <li>VanillaExpanded.VPsycastsE</li>
+        <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <li>VanillaExpanded.VMemesE</li>
+        <!-- Vanilla Backstories Expanded -->
+        <li>VanillaExpanded.VanillaBackstoriesExpanded</li>
+        <!-- Vanilla Races Expanded - Hussar -->
+        <li>vanillaracesexpanded.hussar</li>
+        <!-- Vanilla Races Expanded - Saurid -->
+        <li>vanillaracesexpanded.saurid</li>
+        <!-- Vanilla Races Expanded - Genie -->
+        <li>vanillaracesexpanded.genie</li>
+        <!-- Vanilla Animals Expanded -->
+        <li>VanillaExpanded.VanillaAnimalsExpanded</li>
+        <!-- Vanilla Races Expanded - Phytokin -->
+        <li>vanillaracesexpanded.phytokin</li>
+        <!-- Vanilla Races Expanded - Sanguophage -->
+        <li>vanillaracesexpanded.sanguophage</li>
+        <!-- Vanilla Animals Expanded — Waste Animals -->
+        <li>VanillaExpanded.VAEWaste</li>
+        <!-- Vanilla Races Expanded - Waster -->
+        <li>vanillaracesexpanded.waster</li>
+        <!-- Vanilla Races Expanded - Android -->
+        <li>vanillaracesexpanded.android</li>
+        <!-- Vanilla Psycasts Expanded - Hemosage -->
+        <li>VanillaExpanded.VPE.Hemosage</li>
+        <!-- Vanilla Plants Expanded - Mushrooms -->
+        <li>VanillaExpanded.VPlantsEMushrooms</li>
+        <!-- Vanilla Races Expanded - Highmate -->
+        <li>vanillaracesexpanded.highmate</li>
+        <!-- Vanilla Factions Expanded - Empire -->
+        <li>OskarPotocki.VFE.Empire</li>
+        <!-- Vanilla Psycasts Expanded - Puppeteer -->
+        <li>VanillaExpanded.VPE.Puppeteer</li>
+        <!-- Vanilla Races Expanded - Fungoid -->
+        <li>vanillaracesexpanded.fungoid</li>
+        <!-- Vanilla Vehicles Expanded -->
+        <li>OskarPotocki.VanillaVehiclesExpanded</li>
+        <!-- Vanilla Genetics Expanded -->
+        <li>VanillaExpanded.VGeneticsE</li>
+        <!-- Vanilla Races Expanded - Archon -->
+        <li>vanillaracesexpanded.archon</li>
+        <!-- Vanilla Races Expanded - Lycanthrope -->
+        <li>vanillaracesexpanded.lycanthrope</li>
+        <!-- Vanilla Vehicles Expanded - Tier 3 -->
+        <li>OskarPotocki.VanillaVehiclesExpandedTier3</li>
+        <!-- Vanilla Races Expanded - Pigskin -->
+        <li>vanillaracesexpanded.pigskin</li>
+        <!-- Vanilla Recycling Expanded -->
+        <li>VanillaExpanded.Recycling</li>
+        <!-- Vanilla Ideology Expanded - Sophian Style -->
+        <li>VanillaExpanded.Ideo.SophianStyle</li>
+        <!-- Vanilla Temperature Expanded -->
+        <li>VanillaExpanded.Temperature</li>
+        <!-- Vanilla Factions Expanded - Tribals -->
+        <li>OskarPotocki.VFE.Tribals</li>
+        <!-- Vanilla Races Expanded - Insector -->
+        <li>vanillaracesexpanded.insector</li>
+        <!-- Vanilla Factions Expanded - Deserters -->
+        <li>OskarPotocki.VFE.Deserters</li>
+        <!-- Vanilla Weapons Expanded - Bioferrite -->
+        <li>VanillaExpanded.VWEBF</li>
+        <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <li>VanillaStorytellersExpanded.WinstonWave</li>
+        <!-- Vanilla Vehicles Expanded - Upgrades -->
+        <li>OskarPotocki.VanillaVehiclesExpandedUpgrades</li>
+        <!-- Vanilla Aspirations Expanded -->
+        <li>VanillaExpanded.VanillaAspirationsExpanded</li>
+        <!-- Vanilla Food Variety Expanded -->
+        <li>VanillaExpanded.VanillaFoodVarietyExpanded</li>
+        <!-- Vanilla Anomaly Expanded - Insanity -->
+        <li>VanillaExpanded.VAnomalyEInsanity</li>
+        <!-- Vanilla Factions Expanded - Insectoids 2 -->
+        <li>OskarPotocki.VFE.Insectoid2</li>
+        <!-- Vanilla Skills Expanded -->
+        <li>vanillaexpanded.skills</li>
+        <!-- Vanilla Christmas Expanded -->
+        <li>VE.VanillaChristmasExpanded</li>
+        <!-- Vanilla Quests Expanded - The Generator -->
+        <li>vanillaquestsexpanded.generator</li>
+        <!-- Vanilla Cooking Expanded - Haute -->
+        <li>VanillaExpanded.VCookEHaute</li>
+        <!-- Vanilla Races Expanded - Starjack -->
+        <li>vanillaracesexpanded.starjack</li>
+        <!-- Vanilla Quests Expanded - Cryptoforge -->
+        <li>vanillaquestsexpanded.cryptoforge</li>
+        <!-- Vanilla Factions Expanded - Medieval 2 -->
+        <li>OskarPotocki.VFE.Medieval2</li>
+        <!-- Vanilla Quests Expanded - Ancients -->
+        <li>vanillaquestsexpanded.ancients</li>
+        <!-- Vanilla Quests Expanded - Deadlife -->
+        <li>vanillaquestsexpanded.deadlife</li>
 	</loadAfter>
 	<description>
 		Vanilla Expanded 中文翻译
