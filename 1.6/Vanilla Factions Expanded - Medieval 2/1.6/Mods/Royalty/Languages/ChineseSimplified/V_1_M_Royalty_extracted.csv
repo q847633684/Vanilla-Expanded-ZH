@@ -1,0 +1,14 @@
+key,text,tag,file,type
+VFEM2_Floor_FineMatting.label,fine matting,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEM2_ClarityDraught.label,clarity draught,label,HediffDef/HediffDef.xml,def
+VFEM2_ClarityDraught.description,"A draught is improving psychic sensitivity of the user, improving their meditation capabilities.",description,HediffDef/HediffDef.xml,def
+VFEM2_ClarityDraught.stages.0.label,fading,label,HediffDef/HediffDef.xml,def
+VFEM2_ClarityDraught.stages.1.label,potent,label,HediffDef/HediffDef.xml,def
+VFEM2_FineMatting_.label,fine matting ({0}),label,VFEMedieval.LeatherTerrainTemplateDef/VFEMedieval.LeatherTerrainTemplateDef.xml,def
+VFEM2_FineMatting_.description,"Luxurious, carefully stitched matting made from leather strips. Beautiful to look at, but cleaning it is a labor-intensive process.",description,VFEMedieval.LeatherTerrainTemplateDef/VFEMedieval.LeatherTerrainTemplateDef.xml,def
+VFEM2_FineMatting_Burned.label,burned fine matting,label,TerrainDef/TerrainDef.xml,def
+VFEM2_FineMatting_Burned.description,Luxurious leather matting that has been burned in a fire.,description,TerrainDef/TerrainDef.xml,def
+VFEM2_ClarityDraught.label,clarity draught,label,ThingDef/ThingDef.xml,def
+VFEM2_ClarityDraught.description,"A light blue liquid that’s sparkling with a subtle effervescence. When the user drinks it, it restores some of their psychic focus and enhances their psychic sensitivity, allowing for clearer mental processing and heightened awareness. However, this increased mental activity significantly raises the user's hunger rate, making them need to eat more often. Additionally, the relentless mental buzz from the draught leads to a noticeable drop in mood due to the overwhelming flow of thoughts.",description,ThingDef/ThingDef.xml,def
+VFEM2_ClarityDraught.stages.0.label,clarity buzz,label,ThoughtDef/ThoughtDef.xml,def
+VFEM2_ClarityDraught.stages.0.description,My mind is racing. I can’t stop all the thoughts.,description,ThoughtDef/ThoughtDef.xml,def

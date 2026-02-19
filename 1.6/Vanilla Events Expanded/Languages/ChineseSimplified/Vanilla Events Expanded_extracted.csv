@@ -1,0 +1,228 @@
+key,text,tag,file,type
+LetterLabelAnimalPodCrash,Animal transport pod crash,LetterLabelAnimalPodCrash,VEE_Incidents.xml,keyed
+AnimalPodCrash,"A crate with a {PAWN_kind} called {PAWN_nameDef} is crashing in a transport pod nearby. If it survives the crash it will be badly wounded.
+
+If rescued, it can freely join the colony, or go back to living in the wild.",AnimalPodCrash,VEE_Incidents.xml,keyed
+AJLabel,Rescued animal join,AJLabel,VEE_Incidents.xml,keyed
+AJLetter,The animal you rescued is joining the colony,AJLetter,VEE_Incidents.xml,keyed
+ADJLabel,Rescued animal don't join,ADJLabel,VEE_Incidents.xml,keyed
+ADJLetter,The animal you rescued isn't joining the colony,ADJLetter,VEE_Incidents.xml,keyed
+TraitorLabel,Traitor!,TraitorLabel,VEE_Incidents.xml,keyed
+Traitor,"A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.
+
+You can capture {PAWN_objective} for recruitment or slavery purposes.",Traitor,VEE_Incidents.xml,keyed
+SpaceBattleLabel,Space battle,SpaceBattleLabel,VEE_Incidents.xml,keyed
+SpaceBattle,Several massive spaceships have engaged in combat in the planet's orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires.,SpaceBattle,VEE_Incidents.xml,keyed
+ShuttleCrashLabel,Shuttle Crash,ShuttleCrashLabel,VEE_Incidents.xml,keyed
+ShuttleCrash,"A planet-bound shuttle is crashing nearby. If the crew survives the impact, they will be badly wounded. The crashed ship can be deconstructed for useful resources.
+
+The crew is not affiliated with any faction, which means they can be rescued and may join you freely, or captured for recruitment or slavery purposes.",ShuttleCrash,VEE_Incidents.xml,keyed
+EarthquakeLabel,Earthquake,EarthquakeLabel,VEE_Incidents.xml,keyed
+Earthquake,Changes in the planet's crust caused a small scale localised earthquake. Some structures can become damaged and roofs can collapse.,Earthquake,VEE_Incidents.xml,keyed
+CPWLabel,Cargo pods (weapons),CPWLabel,VEE_Incidents.xml,keyed
+CPW,"You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage.",CPW,VEE_Incidents.xml,keyed
+CPALabel,Cargo pods (apparel),CPALabel,VEE_Incidents.xml,keyed
+CPA,"You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage.",CPA,VEE_Incidents.xml,keyed
+CAWILabel,Caravan animals wander in,CAWILabel,VEE_Incidents.xml,keyed
+CAWI,"A group of {PAWN_kind}, abandoned or lost, wanders in.
+
+They seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days.",CAWI,VEE_Incidents.xml,keyed
+CSLabel,Crop sprout,CSLabel,VEE_Incidents.xml,keyed
+CS1,A large field of,CS1,VEE_Incidents.xml,keyed
+CS2,"has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear.",CS2,VEE_Incidents.xml,keyed
+BAWILabel,Battle animals wander in,BAWILabel,VEE_Incidents.xml,keyed
+BAWI,"A group of {0}, abandoned or lost, wanders in.
+
+They seem accustomed to human contact and are joining the colony.",BAWI,VEE_Incidents.xml,keyed
+WMWILabel,Wild men wander in,WMWILabel,VEE_Incidents.xml,keyed
+WMWI,"A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them.",WMWI,VEE_Incidents.xml,keyed
+HPLabel,Hunting party,HPLabel,VEE_Incidents.xml,keyed
+HP,A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on.,HP,VEE_Incidents.xml,keyed
+VEE_Decay,Decaying due to drought.,VEE_Decay,VEE_Incidents.xml,keyed
+VEE_DroughtGui,Adjusted fertility due to drought: {0},VEE_DroughtGui,VEE_Incidents.xml,keyed
+SCat,Vanilla Event Expanded,SCat,VEE_Settings.xml,keyed
+BReset,Reset Settings,BReset,VEE_Settings.xml,keyed
+GCWReset,Stop all world conditions,GCWReset,VEE_Settings.xml,keyed
+GCMReset,Stop all map conditions,GCMReset,VEE_Settings.xml,keyed
+NeedToBeIngame,You need to be ingame to end game conditions,NeedToBeIngame,VEE_Settings.xml,keyed
+CEBC,<color=cyan><b>Change events base chance (set to 0 to disable) :</b></color>,CEBC,VEE_Settings.xml,keyed
+BCS,Open events base chance settings,BCS,VEE_Settings.xml,keyed
+MinTPE,Minimum days before refire :,MinTPE,VEE_Settings.xml,keyed
+ETPE,Minimum days before fire :,ETPE,VEE_Settings.xml,keyed
+PES,<color=cyan><b>Purple events settings :</b></color>,PES,VEE_Settings.xml,keyed
+IABaseC,Ice age,IABaseC,VEE_Settings.xml,keyed
+GWBaseC,Global warming,GWBaseC,VEE_Settings.xml,keyed
+PRBaseC,Psychic rain,PRBaseC,VEE_Settings.xml,keyed
+LNBaseC,Long night,LNBaseC,VEE_Settings.xml,keyed
+PBBaseC,Psychic Bloom,PBBaseC,VEE_Settings.xml,keyed
+HSBaseC,Hail storm,HSBaseC,VEE_Settings.xml,keyed
+MSBaseC,Meteorite shower,MSBaseC,VEE_Settings.xml,keyed
+APCBaseC,Animal pod crash,APCBaseC,VEE_Settings.xml,keyed
+WJTBaseC,Wanderer join traitor,WJTBaseC,VEE_Settings.xml,keyed
+SPBaseC,Space battle,SPBaseC,VEE_Settings.xml,keyed
+SCBaseC,Shuttle crash,SCBaseC,VEE_Settings.xml,keyed
+EBaseC,Earthquake,EBaseC,VEE_Settings.xml,keyed
+CPWBaseC,Cargo pods weapons,CPWBaseC,VEE_Settings.xml,keyed
+CPABaseC,Cargo pods apparels,CPABaseC,VEE_Settings.xml,keyed
+CAWIBaseC,Caravan animals wander in,CAWIBaseC,VEE_Settings.xml,keyed
+CSBaseC,Crop sprout,CSBaseC,VEE_Settings.xml,keyed
+BAWIBaseC,Battle animals wander in,BAWIBaseC,VEE_Settings.xml,keyed
+DBaseC,Drought,DBaseC,VEE_Settings.xml,keyed
+WMWIBaseC,Wild men wander in,WMWIBaseC,VEE_Settings.xml,keyed
+HPBaseC,Hunting party,HPBaseC,VEE_Settings.xml,keyed
+GCWResetOBO,Stop world condition...,GCWResetOBO,VEE_Settings.xml,keyed
+GCMResetOBO,Stop map condition...,GCMResetOBO,VEE_Settings.xml,keyed
+VEE_DaysBetweenPurpleEvents,Number of day(s) in-between purple events:,VEE_DaysBetweenPurpleEvents,VEE_Settings.xml,keyed
+Traitor.description,traitor,description,HediffDef/HediffDef.xml,def
+Traitor.label,traitor,label,HediffDef/HediffDef.xml,def
+StandOff.description,standoff,description,HediffDef/HediffDef.xml,def
+StandOff.label,standoff,label,HediffDef/HediffDef.xml,def
+MightJoin.description,might join,description,HediffDef/HediffDef.xml,def
+MightJoin.label,might join,label,HediffDef/HediffDef.xml,def
+HuntAndLeave.reportString,hunting TargetA.,reportString,JobDef/JobDef.xml,def
+IceAge.label,Ice Age,label,GameConditionDef/GameConditionDef.xml,def
+IceAge.description,"Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
+
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.",description,GameConditionDef/GameConditionDef.xml,def
+IceAge.endMessage,The ice age is ending,endMessage,GameConditionDef/GameConditionDef.xml,def
+GlobalWarming.label,Global Warming,label,GameConditionDef/GameConditionDef.xml,def
+GlobalWarming.description,"Global temperatures have suddenly risen to dangerous levels.
+
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.",description,GameConditionDef/GameConditionDef.xml,def
+GlobalWarming.endMessage,The global warming is ending,endMessage,GameConditionDef/GameConditionDef.xml,def
+PsychicRain.label,Psychic Rain,label,GameConditionDef/GameConditionDef.xml,def
+PsychicRain.description,"A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
+
+It will last anywhere between a season to several years.",description,GameConditionDef/GameConditionDef.xml,def
+PsychicRain.endMessage,The psychic rain is ending,endMessage,GameConditionDef/GameConditionDef.xml,def
+LongNight.label,Long Night,label,GameConditionDef/GameConditionDef.xml,def
+LongNight.description,"A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
+
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
+
+It will last anywhere between a season to several years.",description,GameConditionDef/GameConditionDef.xml,def
+LongNight.endMessage,The long night is ending,endMessage,GameConditionDef/GameConditionDef.xml,def
+PsychicBloom.label,Psychic Bloom,label,GameConditionDef/GameConditionDef.xml,def
+PsychicBloom.description,"A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colourful flowers started sprouting everywhere. 
+
+All pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields. 
+
+It will last anywhere between a few days to a season.",description,GameConditionDef/GameConditionDef.xml,def
+PsychicBloom.endMessage,The psychic bloom is ending,endMessage,GameConditionDef/GameConditionDef.xml,def
+HailStorm.label,Hail Storm,label,GameConditionDef/GameConditionDef.xml,def
+HailStorm.description,"A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.",description,GameConditionDef/GameConditionDef.xml,def
+HailStorm.endMessage,The hail storm is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+Drought.label,Drought,label,GameConditionDef/GameConditionDef.xml,def
+Drought.description,"An unusual drought has set in.
+
+Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.",description,GameConditionDef/GameConditionDef.xml,def
+Drought.endMessage,The drought is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+SpaceBattle.label,Space battle,label,GameConditionDef/GameConditionDef.xml,def
+SpaceBattle.description,"A space battle is raging in the sky, may last up to 1 day.",description,GameConditionDef/GameConditionDef.xml,def
+SpaceBattle.endMessage,The space battle is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+Hunter.label,hunter,label,PawnKindDef/PawnKindDef.xml,def
+Hunter.labelFemale,hunter,labelFemale,PawnKindDef/PawnKindDef.xml,def
+Hunter.labelPlural,hunters,labelPlural,PawnKindDef/PawnKindDef.xml,def
+VEE_IceAge.label,ice age,label,IncidentDef/IncidentDef.xml,def
+VEE_IceAge.letterLabel,Ice Age,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_IceAge.letterText,"Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
+
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_GlobalWarming.label,global warming,label,IncidentDef/IncidentDef.xml,def
+VEE_GlobalWarming.letterLabel,Global Warming,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_GlobalWarming.letterText,"Global temperatures have suddenly risen to dangerous levels.
+
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_PsychicRain.label,psychic rain,label,IncidentDef/IncidentDef.xml,def
+VEE_PsychicRain.letterLabel,Psychic Rain,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_PsychicRain.letterText,"A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
+
+It will last anywhere between a season to several years.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_LongNight.label,long night,label,IncidentDef/IncidentDef.xml,def
+VEE_LongNight.letterLabel,Long Night,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_LongNight.letterText,"A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
+
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
+
+It will last anywhere between a season to several years.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_PsychicBloom.label,psychic bloom,label,IncidentDef/IncidentDef.xml,def
+VEE_PsychicBloom.letterLabel,Psychic Bloom,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_PsychicBloom.letterText,"A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colourful flowers started sprouting everywhere. 
+
+All pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields. 
+
+It will last anywhere between a few days to a season.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_HailStorm.label,hail storm,label,IncidentDef/IncidentDef.xml,def
+VEE_HailStorm.letterLabel,Hail Storm,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_HailStorm.letterText,"A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_MeteoriteShower.label,meteorite shower,label,IncidentDef/IncidentDef.xml,def
+VEE_MeteoriteShower.letterLabel,Meteorite Shower,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_MeteoriteShower.letterText,Several large meteorites have struck ground in the area. They left behind large lumps of resources.,letterText,IncidentDef/IncidentDef.xml,def
+VEE_AnimalPodCrash.label,animal transport pod crash,label,IncidentDef/IncidentDef.xml,def
+VEE_SpaceBattle.label,space battle,label,IncidentDef/IncidentDef.xml,def
+VEE_ShuttleCrash.label,shuttle crash,label,IncidentDef/IncidentDef.xml,def
+VEE_Earthquake.label,earthquake,label,IncidentDef/IncidentDef.xml,def
+VEE_Cargopodsweapons.label,cargo pods (weapons),label,IncidentDef/IncidentDef.xml,def
+VEE_Cargopodsapparel.label,cargo pods (apparel),label,IncidentDef/IncidentDef.xml,def
+VEE_CaravanAnimalsWanderIn.label,caravan animals wander in,label,IncidentDef/IncidentDef.xml,def
+VEE_CropSprout.label,crop sprout,label,IncidentDef/IncidentDef.xml,def
+VEE_BattleAnimalsWanderIn.label,battle animals wander in,label,IncidentDef/IncidentDef.xml,def
+VEE_Drought.label,drought,label,IncidentDef/IncidentDef.xml,def
+VEE_Drought.letterLabel,Drought,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_Drought.letterText,"An unusual drought has set in.
+
+Drought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_WildMenWanderIn.label,wild men wander in,label,IncidentDef/IncidentDef.xml,def
+VEE_HuntingParty.label,hunting party,label,IncidentDef/IncidentDef.xml,def
+RaidEnemyPurple.label,enemy raid ice age,label,IncidentDef/IncidentDef.xml,def
+ManhunterPackPurple.label,manhunter pack,label,IncidentDef/IncidentDef.xml,def
+AnimalInsanityMassPurple.label,mass animal insanity,label,IncidentDef/IncidentDef.xml,def
+VEE_WandererJoinTraitor.label,wanderer join,label,IncidentDef/IncidentDef.xml,def
+VEE_WandererJoinTraitor.letterLabel,Wanderer joins,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_WandererJoinTraitor.letterText,"A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.",letterText,IncidentDef/IncidentDef.xml,def
+VEE_ShipChunkHuman.label,ship chunk,label,ThingDef/ThingDef.xml,def
+VEE_ShipChunkHuman.description,A chunk of a spacecraft. Can be deconstructed to yield useful resources.,description,ThingDef/ThingDef.xml,def
+VEE_Shuttle.label,shuttle chunk,label,ThingDef/ThingDef.xml,def
+VEE_Shuttle.description,A chunk of a shuttle. Can be deconstructed to yield useful resources.,description,ThingDef/ThingDef.xml,def
+ShuttleChunkIncoming.label,shuttle chunk (incoming),label,ThingDef/ThingDef.xml,def
+SlagIncoming.label,slag (incoming),label,ThingDef/ThingDef.xml,def
+VEE_Plant_Bluebell.label,bluebell,label,ThingDef/ThingDef.xml,def
+VEE_Plant_Bluebell.description,"A garden flower with a violet–blue teint, with strongly recurved petals. Bluebells are very beautiful, and last long.",description,ThingDef/ThingDef.xml,def
+VEE_Plant_Gardenia.label,gardenia,label,ThingDef/ThingDef.xml,def
+VEE_Plant_Gardenia.description,A flower with large petals. Gardenias are very beautiful.,description,ThingDef/ThingDef.xml,def
+VEE_Plant_Gentian.label,gentian,label,ThingDef/ThingDef.xml,def
+VEE_Plant_Gentian.description,A large cultivated flower with inimitable blue petals. Gentians are very beautiful.,description,ThingDef/ThingDef.xml,def
+VEE_Plant_Petunia.label,petunia,label,ThingDef/ThingDef.xml,def
+VEE_Plant_Petunia.description,A long lasting flower with purple petals. Petunias are very beautiful.,description,ThingDef/ThingDef.xml,def
+VEE_Aurora.stages.0.label,beautiful aurora,label,ThoughtDef/ThoughtDef.xml,def
+VEE_Aurora.stages.0.description,The view is amazing.,description,ThoughtDef/ThoughtDef.xml,def
+VEE_Hail.stages.0.label,hit by hailstones,label,ThoughtDef/ThoughtDef.xml,def
+VEE_Hail.stages.0.description,I'm getting hit by hailstones.,description,ThoughtDef/ThoughtDef.xml,def
+VEE_Hail.label,hail,label,WeatherDef/WeatherDef.xml,def
+VEE_Hail.description,"Hail reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",description,WeatherDef/WeatherDef.xml,def
+HailStorm.letterText,"A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.",letterText,GameConditionDef/GameConditionDef.xml,def
+Drought.letterText,An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow.,letterText,GameConditionDef/GameConditionDef.xml,def
+SpaceBattle.letterText,Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires.,letterText,GameConditionDef/GameConditionDef.xml,def
+VEE_TribalHunter.label,hunter,label,PawnKindDef/PawnKindDef.xml,def
+VEE_WandererJoinsTraitor.questNameRules.rulesStrings.0,questName->Wanderer joins,li,QuestScriptDef/QuestScriptDef.xml,def
+VEE_WandererJoinsTraitor.questDescriptionRules.rulesStrings.0,questDescription->,li,QuestScriptDef/QuestScriptDef.xml,def
+VEE_WandererJoinsTraitor.label,wanderer join (traitor),label,IncidentDef/IncidentDef.xml,def
+VEE_SpaceBattle.letterLabel,Space Battle,letterLabel,IncidentDef/IncidentDef.xml,def
+VEE_SpaceBattle.letterText,Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires.,letterText,IncidentDef/IncidentDef.xml,def
+VEE_Hunter.label,hunter,label,PawnKindDef/PawnKindDef.xml,def

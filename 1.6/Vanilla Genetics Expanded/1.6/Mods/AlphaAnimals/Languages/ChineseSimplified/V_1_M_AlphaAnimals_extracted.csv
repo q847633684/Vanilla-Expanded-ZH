@@ -1,0 +1,82 @@
+key,text,tag,file,type
+AA_ExplodingWeb.label,exploding web,label,AbilityDef/AbilityDef.xml,def
+AA_ExplodingWeb.description,Throw a web of sticky silk that can stun its target and explode violently.,description,AbilityDef/AbilityDef.xml,def
+AA_Bullet_TinyVenomBarb.label,tiny venomous barbs,label,AbilityDef/AbilityDef.xml,def
+AA_Bullet_TinyVenomBarb.description,"Fire a shower of small but deadly venomous barbs that pierce skin and deliver a potent toxin, weakening targets over time.",description,AbilityDef/AbilityDef.xml,def
+AA_HugeQuill.label,huge quill,label,AbilityDef/AbilityDef.xml,def
+AA_HugeQuill.description,"Launch a massive quill tipped with barbs that embeds deeply, causing severe pain and making removal agonizingly difficult.",description,AbilityDef/AbilityDef.xml,def
+GR_CraftAlphaGenomeExcavator.label,Craft Alpha Genome excavator,label,RecipeDef/RecipeDef.xml,def
+GR_CraftAlphaGenomeExcavator.description,Craft a genome excavator to extract genomes from tamed or dead animals. This excavator can extract Alpha Animals genomes.,description,RecipeDef/RecipeDef.xml,def
+GR_BearBugEggUnfertilized.label,bear bug egg (unfert.),label,ThingDef/ThingDef.xml,def
+GR_BearBugEggUnfertilized.description,"Unfertilized bear bug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way...",description,ThingDef/ThingDef.xml,def
+GR_BearBugEggFertilized.label,bear bug egg (fert.),label,ThingDef/ThingDef.xml,def
+GR_BearBugEggFertilized.description,"Fertilized bear bug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... If all goes well, it should hatch into a bear bug.",description,ThingDef/ThingDef.xml,def
+GR_NeedlechickenEggUnfertilized.label,needlechicken egg (unfert.),label,ThingDef/ThingDef.xml,def
+GR_NeedlechickenEggUnfertilized.description,"An unfertilized needlechicken egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+GR_NeedlechickenEggFertilized.label,needlechicken egg (fert.),label,ThingDef/ThingDef.xml,def
+GR_NeedlechickenEggFertilized.description,"A fertilized needlechicken egg. If all goes well, it should hatch into a needlechick. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+GR_EggNighthrumboFertilized.label,nighthrumbo egg (fert.),label,ThingDef/ThingDef.xml,def
+GR_EggNighthrumboFertilized.description,"Fertilized nighthrumbo egg. If all goes well, it should hatch into a baby nighthrumbo. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+GR_EggMeadowLizardFertilized.label,meadow lizard egg (fert.),label,ThingDef/ThingDef.xml,def
+GR_EggMeadowLizardFertilized.description,"Fertilized meadow lizard egg. If all goes well, it should hatch into a baby meadow lizard. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+GR_AlphaGenomeExcavator.label,alpha genome excavator,label,ThingDef/ThingDef.xml,def
+GR_AlphaGenomeExcavator.description,"A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes:",description,ThingDef/ThingDef.xml,def
+GR_AlphaGenomeExcavator.comps.0.useLabel,Use genome excavator,useLabel,ThingDef/ThingDef.xml,def
+GR_AlphaGenetic.label,alpha genome,label,ThingDef/ThingDef.xml,def
+GR_AlphaGenetic.description,A payload of alpha animal genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via an alpha genome excavator from:,description,ThingDef/ThingDef.xml,def
+GR_Boomthread.label,boomthread,label,ThingDef/ThingDef.xml,def
+GR_Boomthread.description,"This silk is as strong as synthread, but it is also an excellent thermal insulator",description,ThingDef/ThingDef.xml,def
+AA_ExplodingWeb.label,exploding web,label,ThingDef/ThingDef.xml,def
+AA_Bullet_TinyVenomBarb.label,tiny venomous barb,label,ThingDef/ThingDef.xml,def
+AA_HugeQuill.label,huge quill,label,ThingDef/ThingDef.xml,def
+GR_BearBug.label,bear bug,label,ThingDef/ThingDef.xml,def
+GR_BearBug.description,"This tardigrade-like creature is basically a huge bed bug infused with bear genes. It consumes a large amount of food, but its paralysing attacks combined with its resilience can be very useful in a combat situation.\n\nUseful abilities: Bear bugs produce a powerful neurotoxin that can paralyse their prey, leaving them completely unable to defend themselves.",description,ThingDef/ThingDef.xml,def
+GR_BearBug.tools.0.label,mandibles,label,ThingDef/ThingDef.xml,def
+GR_BearBug.tools.1.label,head,label,ThingDef/ThingDef.xml,def
+GR_BearBug.label,bear bug,label,PawnKindDef/PawnKindDef.xml,def
+GR_Boomalisk.label,boomalisk,label,ThingDef/ThingDef.xml,def
+GR_Boomalisk.description,"The boomalisk is a boomalope / dunealisk hybrid that produces a weird spider silk know as boomthread. This silk is as strong as synthread, but it is also an excellent thermal insulator. Boomalisks also catch their prey with exploding webs, which... sounds dangerous.\n\nUseful abilities: Produces chemfuel, boomthread and attacks with explosive webs.",description,ThingDef/ThingDef.xml,def
+GR_Boomalisk.tools.0.label,left first leg,label,ThingDef/ThingDef.xml,def
+GR_Boomalisk.tools.1.label,right first leg,label,ThingDef/ThingDef.xml,def
+GR_Boomalisk.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+GR_Boomalisk.label,boomalisk,label,PawnKindDef/PawnKindDef.xml,def
+GR_Needlechicken.label,needlechicken,label,ThingDef/ThingDef.xml,def
+GR_Needlechicken.description,"This abomination is part chicken, part sentient cactus. If cactus nuggets weren't a thing, they are now. You can think of them as solar-powered egg layers.\n\nUseful abilities: Needlechicken are decent egg layers. They can defend themselves with tiny poison barb attacks, and they almost don't need sustenance (except for a large amount of sunlight).",description,ThingDef/ThingDef.xml,def
+GR_Needlechicken.tools.0.label,stings,label,ThingDef/ThingDef.xml,def
+GR_Needlechicken.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+GR_Needlechicken.label,needlechicken,label,PawnKindDef/PawnKindDef.xml,def
+GR_Beetlefleet.label,beetlefleet,label,ThingDef/ThingDef.xml,def
+GR_Beetlefleet.description,"A chitinous, floating, hydrogen-filled monstruosity. The beetlefleet wanders the land bouncing off objects in its path, seeking prey to consume.\n\nUseful abilities: Beetlefleet produce insect jelly, explode on death violently, and reproduce asexually.",description,ThingDef/ThingDef.xml,def
+GR_Beetlefleet.tools.1.label,tentacles,label,ThingDef/ThingDef.xml,def
+GR_Beetlefleet.label,beetlefleet,label,PawnKindDef/PawnKindDef.xml,def
+GR_Groundffalo.label,groundffalo,label,ThingDef/ThingDef.xml,def
+GR_Groundffalo.description,"The horned groundffalo is a great pack beast (albeit a bit slow) capable of producing milk and wool, as well as mining for your colony. Compared to a Groundrunner it won't be as efficient on its mining work, but the other characteristics make up for this.\n\nUseful abilities: Produces wool, milk, acts as a pack beast and  mines rocks and minerals.",description,ThingDef/ThingDef.xml,def
+GR_Groundffalo.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+GR_Groundffalo.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+GR_Groundffalo.tools.2.label,horns,label,ThingDef/ThingDef.xml,def
+GR_Groundffalo.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+GR_Groundffalo.label,groundffalo,label,PawnKindDef/PawnKindDef.xml,def
+GR_MeadowLizard.label,meadow lizard,label,ThingDef/ThingDef.xml,def
+GR_MeadowLizard.description,"The meadow lizard is a beast bred for speed. Even though they are naturally slower than meadow aves, they can be trained to be incredibly fast mounts.\n\nUseful abilities: if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Lizards move 100% faster when used as mounts). They are also venomous.",description,ThingDef/ThingDef.xml,def
+GR_MeadowLizard.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+GR_MeadowLizard.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+GR_MeadowLizard.label,meadow lizard,label,PawnKindDef/PawnKindDef.xml,def
+GR_AnimusHare.label,animus hare,label,ThingDef/ThingDef.xml,def
+GR_AnimusHare.description,"The Animus Hare is a small leporid with latent psionic abilities. Quite intelligent for an animal, but not intelligent enough to properly use psionics. It will however quickly bond with human beings and reach with his mind to make happy everyone that treats it well.\n\nUseful abilities: they will often use a psionic nuzzle on colonists, keeping everyone happier. They also breed very fast.",description,ThingDef/ThingDef.xml,def
+GR_AnimusHare.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+GR_AnimusHare.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+GR_AnimusHare.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+GR_AnimusHare.label,animus hare,label,PawnKindDef/PawnKindDef.xml,def
+GR_Nighthrumbo.label,nighthrumbo,label,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.description,"The nighthrumbo is a fearsome predator. Armed with strong jaws and its horn, as well as ranged quill attacks, it will make quick work of any prey it decides to attack. It is also a nocturnal animal, sleeping during the day and being active at night.\n\nUseful abilities: Ranged quill attacks.",description,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.tools.0.label,horn,label,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.tools.1.label,left claw,label,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.tools.2.label,right claw,label,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.tools.4.label,head,label,ThingDef/ThingDef.xml,def
+GR_Nighthrumbo.label,nighthrumbo,label,PawnKindDef/PawnKindDef.xml,def
+GR_WolfShrimp.label,wolf shrimp,label,ThingDef/ThingDef.xml,def
+GR_WolfShrimp.description,"A terrifyingly alien creature, the wolf shrimp is keenly intelligent like its wolf forefather, slithering in blinding speed towards its prey.\n\nUseful abilities: Extremely fast regenerative capabilities.",description,ThingDef/ThingDef.xml,def
+GR_WolfShrimp.tools.0.label,head,label,ThingDef/ThingDef.xml,def
+GR_WolfShrimp.tools.2.label,left blade,label,ThingDef/ThingDef.xml,def
+GR_WolfShrimp.tools.3.label,right blade,label,ThingDef/ThingDef.xml,def
+GR_WolfShrimp.label,wolf shrimp,label,PawnKindDef/PawnKindDef.xml,def

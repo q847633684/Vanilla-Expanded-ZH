@@ -1,0 +1,203 @@
+key,text,tag,file,type
+CaravanRaidLabel,Raid caravan from {0},CaravanRaidLabel,Messages.xml,keyed
+CaravanRaidDialogue,"You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded.",CaravanRaidDialogue,Messages.xml,keyed
+WantedLabel,Wanted by {0},WantedLabel,Messages.xml,keyed
+WantedDialogue,"{0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements.",WantedDialogue,Messages.xml,keyed
+WantedTurnIn,Turn in {PAWN_nameDef},WantedTurnIn,Messages.xml,keyed
+WantedTurnInDescDead,Turn in the corpse of {PAWN_nameDef} for a reward.,WantedTurnInDescDead,Messages.xml,keyed
+WantedTurnInDescAlive,Turn in the criminal {PAWN_nameDef} for a reward.,WantedTurnInDescAlive,Messages.xml,keyed
+WantedTurnInLabel,Turned in {PAWN_nameDef}.,WantedTurnInLabel,Messages.xml,keyed
+WantedTurnInMessageDead,You've turned in the corpse of {PAWN_nameDef} for {0} silver.,WantedTurnInMessageDead,Messages.xml,keyed
+WantedTurnInMessageAlive,You've turned in criminal {PAWN_nameDef} alive for {0} silver.,WantedTurnInMessageAlive,Messages.xml,keyed
+WantedHediff,Wanted by {0} for {1} silver,WantedHediff,Messages.xml,keyed
+DefaultSettings,Default Settings,DefaultSettings,Messages.xml,keyed
+MinReward,Minimum reward for bounties: {0},MinReward,Messages.xml,keyed
+MaxReward,Maximum reward for bounties: {0},MaxReward,Messages.xml,keyed
+Chemsined,Should muffalo go for your chemshine: {0},Chemsined,Messages.xml,keyed
+ProtectionFeeLabel,Protection fee,ProtectionFeeLabel,Messages.xml,keyed
+ProtectionFeeDialogue,"A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs.",ProtectionFeeDialogue,Messages.xml,keyed
+ProtectionFeeAgree,Accept the offer and pay,ProtectionFeeAgree,Messages.xml,keyed
+ProtectionFeeAgreeDialogue,The thugs from {0} seem happy with the deal and cut the communication.,ProtectionFeeAgreeDialogue,Messages.xml,keyed
+ProtectionFeeDisagree,Refuse the offer,ProtectionFeeDisagree,Messages.xml,keyed
+ProtectionFeeDisagreeDialogue,The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety.,ProtectionFeeDisagreeDialogue,Messages.xml,keyed
+ProtectionFeeNotEnoughSilver,Not enough silver,ProtectionFeeNotEnoughSilver,Messages.xml,keyed
+DrunkMuffaloTitle,Chemshined Muffalos,DrunkMuffaloTitle,Messages.xml,keyed
+DrunkMuffaloMessage,"A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans.",DrunkMuffaloMessage,Messages.xml,keyed
+ContainsChemfuel,Contains {0} / {1} chemfuel.,ContainsChemfuel,Messages.xml,keyed
+ContainsChemshine,Contains {0} / {1} chemshine.,ContainsChemshine,Messages.xml,keyed
+NoChemfuel,need chemfuel,NoChemfuel,Messages.xml,keyed
+VFES_InsertFirstItemDesc,Chemfuel,VFES_InsertFirstItemDesc,Messages.xml,keyed
+VFES_bringIngredientsText,Bring chemfuel,VFES_bringIngredientsText,Messages.xml,keyed
+VFES_bringIngredientsDesc,Bring chemfuel to the chemsine barrel to start fermentation,VFES_bringIngredientsDesc,Messages.xml,keyed
+VFES_cancelIngredientsText,Cancel bringing chemfuel,VFES_cancelIngredientsText,Messages.xml,keyed
+VFES_cancelIngredientsDesc,Cancel bringing chemfuel to the chemsine barrel.,VFES_cancelIngredientsDesc,Messages.xml,keyed
+VFES_removeProductText,Remove chemsine,VFES_removeProductText,Messages.xml,keyed
+VFES_removeProductDesc,Remove chemsine from the chemsine barrel.,VFES_removeProductDesc,Messages.xml,keyed
+VFES_Target,Bounty target,VFES_Target,Messages.xml,keyed
+VFES_TargetDesc,The bounty target {0} has been located at this outpost.,VFES_TargetDesc,Messages.xml,keyed
+Chemshine.label,chemshine,label,ThingDef/ThingDef.xml,def
+Chemshine.description,"A dangerous alcohol usually consumed by rimworld prospectors and industrial settlers. Whilst it takes away the sadness and pain, chemshine intoxicates the blood of the drinker with chemfuel, resulting in a powerful explosion upon death.",description,ThingDef/ThingDef.xml,def
+Chemshine.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+Chemshine.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VFES_PlayerSettlement.label,New Hideout,label,FactionDef/FactionDef.xml,def
+VFES_PlayerSettlement.description,A small hideout of gang members and criminals.,description,FactionDef/FactionDef.xml,def
+VFES_PlayerSettlement.pawnSingular,bandit,pawnSingular,FactionDef/FactionDef.xml,def
+VFES_PlayerSettlement.pawnsPlural,bandits,pawnsPlural,FactionDef/FactionDef.xml,def
+SettlerCivil.label,civil settlers,label,FactionDef/FactionDef.xml,def
+SettlerCivil.leaderTitle,mayor,leaderTitle,FactionDef/FactionDef.xml,def
+SettlerCivil.description,"These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard.",description,FactionDef/FactionDef.xml,def
+SettlerRough.label,rough settlers,label,FactionDef/FactionDef.xml,def
+SettlerRough.description,"These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are not concerned with the practical matters of trade and trust.\n\nThis particular group believes that noone is created equal, and only strength allows one to survive on the frontier.",description,FactionDef/FactionDef.xml,def
+SettlerSavage.label,bandits,label,FactionDef/FactionDef.xml,def
+SettlerSavage.description,"These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are a loose confederation of bandit gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nBandits don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.",description,FactionDef/FactionDef.xml,def
+Chemshined.description,Seems someone drank something volatile.,description,HediffDef/HediffDef.xml,def
+Chemshined.label,chemshine,label,HediffDef/HediffDef.xml,def
+Chemshined.labelNoun,chemshined,labelNoun,HediffDef/HediffDef.xml,def
+Chemshined.stages.0.label,chemshined(minor),label,HediffDef/HediffDef.xml,def
+Chemshined.stages.1.label,chemshined,label,HediffDef/HediffDef.xml,def
+Chemshined.stages.2.label,chemshined(major),label,HediffDef/HediffDef.xml,def
+Chemshined.stages.3.label,chemshined(extreme),label,HediffDef/HediffDef.xml,def
+Wanted.description,This one is considered a criminal by a faction.,description,HediffDef/HediffDef.xml,def
+Wanted.label,wanted,label,HediffDef/HediffDef.xml,def
+Wanted.labelNoun,wanted,labelNoun,HediffDef/HediffDef.xml,def
+Wanted.stages.0.label,wanted,label,HediffDef/HediffDef.xml,def
+FillChemshineBarrel.reportString,filling TargetA.,reportString,JobDef/JobDef.xml,def
+TakeChemshineOutOfChemshineBarrel.reportString,taking chemshine out of TargetA.,reportString,JobDef/JobDef.xml,def
+Play_Faro.reportString,playing faro.,reportString,JobDef/JobDef.xml,def
+Play_FiveFingerFillet.reportString,playing five finger fillet.,reportString,JobDef/JobDef.xml,def
+Bandit.label,bandit,label,PawnKindDef/PawnKindDef.xml,def
+BountyHunter.label,bounty hunter,label,PawnKindDef/PawnKindDef.xml,def
+Outlaw.label,outlaw,label,PawnKindDef/PawnKindDef.xml,def
+Gunslinger.label,gunslinger,label,PawnKindDef/PawnKindDef.xml,def
+BanditLeader.label,bandit leader,label,PawnKindDef/PawnKindDef.xml,def
+BanditLeader.labelPlural,bandit leaders,labelPlural,PawnKindDef/PawnKindDef.xml,def
+VFES_Bandit.label,bandit,label,PawnKindDef/PawnKindDef.xml,def
+Settler.label,settler,label,PawnKindDef/PawnKindDef.xml,def
+Deputy.label,deputy,label,PawnKindDef/PawnKindDef.xml,def
+Militia.label,militia,label,PawnKindDef/PawnKindDef.xml,def
+Frontier_Trader.label,frontier trader,label,PawnKindDef/PawnKindDef.xml,def
+Sheriff.label,sheriff,label,PawnKindDef/PawnKindDef.xml,def
+Mayor.label,mayor,label,PawnKindDef/PawnKindDef.xml,def
+Mayor.labelPlural,mayors,labelPlural,PawnKindDef/PawnKindDef.xml,def
+Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.0,questName->Bounty: [nameFull] [nickname],li,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.1,"questName->Wanted, Dead or Alive: [nickname]",li,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.2,questName->[nickname]'s brigands,li,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.3,"questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]",li,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.root.nodes.11.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.root.nodes.11.node.nodes.0.text,[criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.root.nodes.12.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+Settlers_Wanted.root.nodes.12.node.nodes.0.text,The brigands has packed up and moved on.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questNameRules.rulesStrings.0,questName->Caravan [raid],li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questNameRules.rulesStrings.1,questName->[asker_nameDef] and the Caravan [raid],li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questNameRules.rulesStrings.2,raid->Raid,li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questNameRules.rulesStrings.3,raid->Attack,li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questNameRules.rulesStrings.4,raid->Ambush,li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.questDescriptionRules.rulesStrings.0,"questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] are resting with their beasts before continuing their journey.
+            \n[asker_nameDef] gave us their location, if we want to, we can go attack them.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.root.nodes.10.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.root.nodes.10.node.nodes.0.text,The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.root.nodes.11.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFES_CaravanRaid.root.nodes.11.node.nodes.0.text,"After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName] has ended.",text,QuestScriptDef/QuestScriptDef.xml,def
+NamerWantedNickname.rulePack.rulesStrings.0,defaultWantedNick->[wantedNoun] [wantedAdj],li,RulePackDef/RulePackDef.xml,def
+NamerFactionSettler.rulePack.rulesStrings.0,r_name->The [Color] [TerrainFeature] Settlement,li,RulePackDef/RulePackDef.xml,def
+NamerFactionBandits.rulePack.rulesStrings.0,r_name->The [Color] [TerrainFeature] Bandits,li,RulePackDef/RulePackDef.xml,def
+VFES_Bandits.label,Bandits,label,ScenarioDef/ScenarioDef.xml,def
+VFES_Bandits.description,"After the last job, which was meant to be the last, you and other members of your gang were forced to run without looking back. The only thing you have with you, are the things you managed to steal, extort or find along the way. Your savage ways have granted you a bad reputation, and mending relations with other factions will take a long time.\n\nNote: Since you start without any supplies and with every other faction hostile, this is a difficult scenario.",description,ScenarioDef/ScenarioDef.xml,def
+VFES_Bandits.scenario.summary,A group of bandits trying to make a name for themselves. Very Difficult.,summary,ScenarioDef/ScenarioDef.xml,def
+VFES_Bandits.scenario.description,"After the last job, which was meant to be the last, you and other members of your gang were forced to run without looking back. The only thing you have with you, are the things you managed to steal, extort or find along the way. Your savage ways have granted you a bad reputation, and mending relations with other factions will take a long time.
+
+Note: Since you start with high wealth every other faction hostile, this is a very difficult scenario.",description,ScenarioDef/ScenarioDef.xml,def
+VFES_Bandits.scenario.parts.3.text,"After the last job, which was meant to be the last, you and other members of your gang were forced to run without looking back. The only thing you have with you, are the things you managed to steal, extort or find along the way. Your savage ways have granted you a bad reputation, and mending relations with other factions will take a long time.",text,ScenarioDef/ScenarioDef.xml,def
+CaravanRaid.label,caravan stop,label,SitePartDef/SitePartDef.xml,def
+CaravanRaid.description,An unknowing caravan.,description,SitePartDef/SitePartDef.xml,def
+WantedHideout.label,safe house,label,SitePartDef/SitePartDef.xml,def
+WantedHideout.description,A safe house for a wanted criminal.,description,SitePartDef/SitePartDef.xml,def
+ProtectionFee.label,Protection fee demand,label,IncidentDef/IncidentDef.xml,def
+DrunkMuffalos.label,Drunk muffalos,label,IncidentDef/IncidentDef.xml,def
+ProtectionFeeLTS.label,Protection fee demand,label,IncidentDef/IncidentDef.xml,def
+DrunkMuffalosLTS.label,Drunk muffalos,label,IncidentDef/IncidentDef.xml,def
+VFES_DD.label,Diego Dire,label,StorytellerDef/StorytellerDef.xml,def
+VFES_DD.description,"Diego Dire believes the best stories are the violent ones, facing unfavourable odds and going down in a blaze of glory with exploding muffalos and drunks.",description,StorytellerDef/StorytellerDef.xml,def
+ChemBoiler.label,chemboiler,label,ThingDef/ThingDef.xml,def
+ChemBoiler.description,A device that converts chemfuel into heat. Simple machinery doesn't allow the temperature to be adjusted.,description,ThingDef/ThingDef.xml,def
+Chemlamp.label,chemlamp,label,ThingDef/ThingDef.xml,def
+Chemlamp.description,A lamp fueled by chemfuel. Can be safely placed outside.,description,ThingDef/ThingDef.xml,def
+ChemlampPost.label,chemlamp post,label,ThingDef/ThingDef.xml,def
+ChemlampPost.description,A post with a pre-industrial chemfuel lamp. Can be safely placed outside.,description,ThingDef/ThingDef.xml,def
+Building_ChemshineBarrel.label,chemshine barrel,label,ThingDef/ThingDef.xml,def
+Building_ChemshineBarrel.description,A barrel for fermenting chemshine.,description,ThingDef/ThingDef.xml,def
+DoorSaloon.label,saloon door,label,ThingDef/ThingDef.xml,def
+DoorSaloon.description,"A saloon door for your country needs. Whilst it doesn't provide much protection, it swings open nearly instantaneously.",description,ThingDef/ThingDef.xml,def
+Post.label,post,label,ThingDef/ThingDef.xml,def
+Post.description,An old-styled post to hold down a roof.,description,ThingDef/ThingDef.xml,def
+StoolBar.label,bar stool,label,ThingDef/ThingDef.xml,def
+StoolBar.description,A simple bar stool.,description,ThingDef/ThingDef.xml,def
+TableCircular.label,Circular table,label,ThingDef/ThingDef.xml,def
+TableCircular.description,"Simple, circular table that can be eaten off of.",description,ThingDef/ThingDef.xml,def
+TableFaro.label,faro table,label,ThingDef/ThingDef.xml,def
+TableFaro.description,A soft-topped bound table for playing faro. Allows up to two players at a time.,description,ThingDef/ThingDef.xml,def
+TableFiveFingerFilet.label,five finger fillet table,label,ThingDef/ThingDef.xml,def
+TableFiveFingerFilet.description,"A wooden table for playing five finger fillet. Might lose a finger or two.\n\nWhilst this activity leads to cuts on the fingers of players, it also slowly trains melee skill.",description,ThingDef/ThingDef.xml,def
+Gun_GatlingGun.label,gatling gun,label,ThingDef/ThingDef.xml,def
+Gun_GatlingGun.description,A simple automatic gun made to be mounted on a turret.,description,ThingDef/ThingDef.xml,def
+Bullet_GatlingGun.label,gattling bullet,label,ThingDef/ThingDef.xml,def
+Turret_GatlingGun.label,gatling gun turret,label,ThingDef/ThingDef.xml,def
+Turret_GatlingGun.description,"A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged.",description,ThingDef/ThingDef.xml,def
+Windmill.label,windmill,label,ThingDef/ThingDef.xml,def
+Windmill.description,A wind-powered electrical generator of older make. Requires a large clear space in front and behind for optimal air flow.,description,ThingDef/ThingDef.xml,def
+VFES_Headgear_Bandana.label,bandana,label,ThingDef/ThingDef.xml,def
+VFES_Headgear_Bandana.description,A warm and long piece of fabric protecting the jaw from exposure to wind. Makes one hard to remember.,description,ThingDef/ThingDef.xml,def
+VFES_Headgear_Sombrero.label,sombrero,label,ThingDef/ThingDef.xml,def
+VFES_Headgear_Sombrero.description,Used to shield the wearer from the sun. Required for any kind of stand-off.,description,ThingDef/ThingDef.xml,def
+VFES_Headgear_FlatCap.label,flat cap,label,ThingDef/ThingDef.xml,def
+VFES_Headgear_FlatCap.description,A flat and handy cap. Somewhat protecting from the sun. Worn by settlers and colonists during their daily occupations.,description,ThingDef/ThingDef.xml,def
+Apparel_Vest.description,"A simple vest, providing a decent layer of insulation from both heat and cold. Greatly enhances social interactions.",description,ThingDef/ThingDef.xml,def
+Apparel_Vest.label,vest,label,ThingDef/ThingDef.xml,def
+Apparel_GreatDress.description,"A great dress, most often worn by ladies and suffragettes. Greatly enhances social interactions.",description,ThingDef/ThingDef.xml,def
+Apparel_GreatDress.label,great dress,label,ThingDef/ThingDef.xml,def
+Plant_Chemroot.label,chemroot,label,ThingDef/ThingDef.xml,def
+Plant_Chemroot.description,"This highly volatile root is farmed for its chemfuel. It's difficult to harvest and only grows in extremely fertile soil. Despite the risk of a large, chain explosion, these plants are frequently farmed by desperate ranchers and imperial agro-companies alike.",description,ThingDef/ThingDef.xml,def
+Chemshined.stages.0.description,"I feel energized, I'm on fire, witness me!",description,ThoughtDef/ThoughtDef.xml,def
+TakeChemshineOutOfChemshineBarrel.label,take chemshine out of chemshine barrels,label,WorkGiverDef/WorkGiverDef.xml,def
+TakeChemshineOutOfChemshineBarrel.verb,take chemshine,verb,WorkGiverDef/WorkGiverDef.xml,def
+TakeChemshineOutOfChemshineBarrel.gerund,taking chemshine from,gerund,WorkGiverDef/WorkGiverDef.xml,def
+FillChemshineBarrel.label,fill chemshine barrels,label,WorkGiverDef/WorkGiverDef.xml,def
+FillChemshineBarrel.verb,fill,verb,WorkGiverDef/WorkGiverDef.xml,def
+FillChemshineBarrel.gerund,filling,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFES_Gun_DoubleActionRevolver.label,double-action revolver,label,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleActionRevolver.description,"An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw.",description,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleActionRevolver.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleActionRevolver.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleBarreledShotgun.label,double-barreled shotgun,label,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleBarreledShotgun.description,"An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets.",description,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleBarreledShotgun.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VFES_Gun_DoubleBarreledShotgun.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VFES_Gun_HuntingRifle.label,hunting rifle,label,ThingDef/ThingDef.xml,def
+VFES_Gun_HuntingRifle.description,"An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting.",description,ThingDef/ThingDef.xml,def
+VFES_Gun_HuntingRifle.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VFES_Gun_HuntingRifle.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VFES_Weapon_GrenadeDynamite.label,dynamite,label,ThingDef/ThingDef.xml,def
+VFES_Weapon_GrenadeDynamite.description,"A makeshift explosive stick of chemfuel. They can be thrown a short distance, where it will explode after a random amount of time.",description,ThingDef/ThingDef.xml,def
+VFES_Weapon_GrenadeDynamite.verbs.0.label,throw dynamite,label,ThingDef/ThingDef.xml,def
+VFES_Proj_Dynamite.label,frag grenade,label,ThingDef/ThingDef.xml,def
+VFES_Tomahawk.label,tomahawk,label,ThingDef/ThingDef.xml,def
+VFES_Tomahawk.description,A single-handed axe resembling of a hatchet. Light enough to be thrown accurately at medium range.,description,ThingDef/ThingDef.xml,def
+VFES_Tomahawk.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VFES_Tomahawk.tools.1.label,blade,label,ThingDef/ThingDef.xml,def
+VFES_Tomahawk_Thrown.label,throwing tomahawk,label,ThingDef/ThingDef.xml,def
+VFES_Frontier.label,frontier,label,CultureDef/CultureDef.xml,def
+VFES_Frontier.description,A hardy industrial culture common among rimworld settlers.,description,CultureDef/CultureDef.xml,def
+VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0,questName->Bounty: [nameFull] [nickname],li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1,"questName->Wanted, Dead or Alive: [nickname]",li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2,questName->[nickname]'s brigands,li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3,"questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]",li,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.root.nodes.11.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.root.nodes.11.node.nodes.0.text,[criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.root.nodes.12.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFES_Wanted.root.nodes.12.node.nodes.0.text,The brigands has packed up and moved on.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFES_ChemfuelToChemshine.label,Ferment chemfuel into chemshine,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFES_ChemfuelToChemshine.description,Turns 50 chemfuel into 25 chemshine.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def

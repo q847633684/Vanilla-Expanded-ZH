@@ -1,0 +1,61 @@
+key,text,tag,file,type
+VQE_MakeStunAndParalizeAffectAnomalies,Allow stun and paralize damage to affect entities,VQE_MakeStunAndParalizeAffectAnomalies,Misc_Gameplay.xml,keyed
+VQE_MakeStunAndParalizeAffectAnomaliesDesc,"If disabled, stun and paralize damage from this mod will NOT affect entities from the Anomaly DLC",VQE_MakeStunAndParalizeAffectAnomaliesDesc,Misc_Gameplay.xml,keyed
+VQE_MakeStunAndParalizeAffectInsectoidBosses,Allow stun and paralize damage to affect insectoid bosses,VQE_MakeStunAndParalizeAffectInsectoidBosses,Misc_Gameplay.xml,keyed
+VQE_MakeStunAndParalizeAffectInsectoidBossesDesc,"If disabled, stun and paralize damage from this mod will NOT affect insectoid bosses from Vanilla Factions Expanded - Insectoids 2",VQE_MakeStunAndParalizeAffectInsectoidBossesDesc,Misc_Gameplay.xml,keyed
+VQE_MakeStunAndParalizeAffectXMLDefined,Allow stun and paralize damage to affect specific creatures,VQE_MakeStunAndParalizeAffectXMLDefined,Misc_Gameplay.xml,keyed
+VQE_MakeStunAndParalizeAffectXMLDefinedDesc,"If disabled, stun and paralize damage from this mod will NOT affect specific creatures that are defined via XML. These can be defined by other modders. Dy default this affects the Gallatross, Behemoth, Summit Crab, Fungal Husk and Archotech Centipede.",VQE_MakeStunAndParalizeAffectXMLDefinedDesc,Misc_Gameplay.xml,keyed
+VWE_AnestheticDart.label,anasthetic dart,label,DamageDef/DamageDef.xml,def
+VWE_AnestheticDart.deathMessage,{0} has been shot to death by an anesthetic dart.,deathMessage,DamageDef/DamageDef.xml,def
+VWE_TearGas.label,tear gas,label,HediffDef/HediffDef.xml,def
+VWE_TearGas.description,"Tear gas causing burning sensation in the eyes and nose, totally disabling the sight ability of the victim.",description,HediffDef/HediffDef.xml,def
+VWE_TearGas.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+VWE_TearGas.stages.1.label,teary,label,HediffDef/HediffDef.xml,def
+VWE_TearGas.stages.2.label,blinded,label,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.label,anesthetic,label,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.description,Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious.,description,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.stages.1.label,woozy,label,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.stages.2.label,sedated,label,HediffDef/HediffDef.xml,def
+VWE_Anesthetic.stages.3.label,sedative kicking in,label,HediffDef/HediffDef.xml,def
+VWENLBeamGraphic.label,taser beam,label,ThingDef/ThingDef.xml,def
+VWE_NonLethal.label,non-lethal weapons,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_NonLethal.description,"Craft a selection of non-lethal weapons, including tear gas launchers and tasers.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VWE_Bullet_Taser.label,taser shot,label,LaserBeamDef/LaserBeamDef.xml,def
+VWE_Bullet_Taser.description,A high-voltage taser shot.,description,LaserBeamDef/LaserBeamDef.xml,def
+VWE_Gun_Taser.label,taser gun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_Taser.description,An industrial tech short range taser pistol. It delivers an electric shock aimed at temporarily disrupting muscle functions and inflicting pain without usually causing significant injury.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_Taser.verbs.0.label,Standard,label,ThingDef/ThingDef.xml,def
+VWE_Gun_Taser.tools.0.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_Gun_Taser.tools.1.label,grip,label,ThingDef/ThingDef.xml,def
+VWE_Gun_RubberBulletPistol.label,non-lethal pistol,label,ThingDef/ThingDef.xml,def
+VWE_Gun_RubberBulletPistol.description,"A modern design of a gas-operated pistol firing rubber pellets. While chances of serious injury are lower, there is still a chance blunt trauma will result in death.",description,ThingDef/ThingDef.xml,def
+VWE_Gun_RubberBulletPistol.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWE_Gun_RubberBulletPistol.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_RubberPistol.label,rubber bullet,label,ThingDef/ThingDef.xml,def
+VWE_Gun_DartGun.label,dart gun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_DartGun.description,A non-lethal air gun used to reduce irritability or agitation in animals or humans via anesthetic drugs commonly referred to as tranquilizers.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_DartGun.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWE_Gun_DartGun.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_DartGun.label,tranquilizer dart,label,ThingDef/ThingDef.xml,def
+VWE_Gun_TearGasLauncher.label,tear gas launcher,label,ThingDef/ThingDef.xml,def
+VWE_Gun_TearGasLauncher.description,A modern single-shell launcher loaded with tear gas canisters. Often used by riot police across almost all urbworlds.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_TearGasLauncher.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWE_Gun_TearGasLauncher.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_MeleeWeapon_StunBaton.label,stun baton,label,ThingDef/ThingDef.xml,def
+VWE_MeleeWeapon_StunBaton.description,A short peacekeeping baton with electroshock prod that delivers an electric shock aimed at temporarily disrupting muscle functions.,description,ThingDef/ThingDef.xml,def
+VWE_MeleeWeapon_StunBaton.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VWE_MeleeWeapon_StunBaton.tools.1.label,head,label,ThingDef/ThingDef.xml,def
+VWENL_TearGas.label,tear gas,label,DamageDef/DamageDef.xml,def
+VWENL_TearGasCloud.label,tear gas,label,ThingDef/ThingDef.xml,def
+VWE_TearGasGrenade.label,tear gas grenades,label,ThingDef/ThingDef.xml,def
+VWE_TearGasGrenade.description,Modern canister containing a special compound commonly referred to as tear gas. Temporarily blinds victims.,description,ThingDef/ThingDef.xml,def
+VWE_TearGasGrenade.verbs.0.label,throw smoke grenade,label,ThingDef/ThingDef.xml,def
+VWENL_Projectile_TearGasGrenade.label,tear gas grenade,label,ThingDef/ThingDef.xml,def
+VWE_ConditionalStun.label,stun,label,DamageDef/DamageDef.xml,def
+VWE_ConditionalStun.deathMessage,{0} has been stunned to death.,deathMessage,DamageDef/DamageDef.xml,def
+VWE_NonLethal.generalRules.rulesStrings.0,subject->the art of restraint,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_NonLethal.generalRules.rulesStrings.1,"subject_story->pioneered the development of weapons designed to incapacitate rather than kill, emphasizing the value of life and ethical engagement",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_NonLethal.generalRules.rulesStrings.2,"subject_story->crafted tools like tear gas launchers and tasers, providing options for control and defense without fatal outcomes",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_NonLethal.generalRules.rulesStrings.3,subject_gerund->advancing conflict resolution with humanity and compassion through non-lethal means,li,ResearchProjectDef/ResearchProjectDef.xml,def

@@ -1,0 +1,30 @@
+key,text,tag,file,type
+VAE,Vanilla Achievements Expanded,VAE,TranslationKeys.xml,keyed
+DebugWriter,Enable DebugWriter,DebugWriter,TranslationKeys.xml,keyed
+DebugWriterConfirmation,Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging.,DebugWriterConfirmation,TranslationKeys.xml,keyed
+GenerateLogInfo,Write to File,GenerateLogInfo,TranslationKeys.xml,keyed
+GenerateLogInfoTooltip,Push achievement related logs to file. For debugging purposes only.,GenerateLogInfoTooltip,TranslationKeys.xml,keyed
+SuccessfulWriteToFile,Successfully pushed achievement logs to AchievementLog.txt,SuccessfulWriteToFile,TranslationKeys.xml,keyed
+SideBarInfo,Unlock achievements and earn Storyteller points which you can redeem for various events.,SideBarInfo,TranslationKeys.xml,keyed
+VAE_SideBarInfoNoRedeem,Unlock achievements and earn Storyteller points to gauge your performance.,VAE_SideBarInfoNoRedeem,TranslationKeys.xml,keyed
+StorytellerPoints,Storyteller Points,StorytellerPoints,TranslationKeys.xml,keyed
+PointsRedeem,Redeem Points,PointsRedeem,TranslationKeys.xml,keyed
+PointsAvailable,Available: {0},PointsAvailable,TranslationKeys.xml,keyed
+PointsEarned,Total earnt: {0},PointsEarned,TranslationKeys.xml,keyed
+UnlockedDevMode,Unlocked with DevMode,UnlockedDevMode,TranslationKeys.xml,keyed
+AchievementLocked,Locked,AchievementLocked,TranslationKeys.xml,keyed
+AchievementsUnlocked,Achievements Unlocked: {0},AchievementsUnlocked,TranslationKeys.xml,keyed
+AchievementsTotalUnlocked,Total Achievements Unlocked: {0},AchievementsTotalUnlocked,TranslationKeys.xml,keyed
+AchievementUnlocked,Achievement Unlocked!,AchievementUnlocked,TranslationKeys.xml,keyed
+FailedRewardEvent,Failed to redeem reward {0},FailedRewardEvent,TranslationKeys.xml,keyed
+FailedTargetFinder,Must have map loaded or IncidentTarget object selected on World Map,FailedTargetFinder,TranslationKeys.xml,keyed
+NoValidMap,Must be purchased with PlayerHome map in view.,NoValidMap,TranslationKeys.xml,keyed
+IncidentNotAvailable,Incident not available right now.,IncidentNotAvailable,TranslationKeys.xml,keyed
+NotEnoughPoints,Not Enough Points,NotEnoughPoints,TranslationKeys.xml,keyed
+RandomQuestRewardItemLetter,Quest Item,RandomQuestRewardItemLetter,TranslationKeys.xml,keyed
+RandomQuestRewardItem,Random quest item dropped!,RandomQuestRewardItem,TranslationKeys.xml,keyed
+VAE_UsePointsSystem,Use achievement points reward system,VAE_UsePointsSystem,TranslationKeys.xml,keyed
+VAE_UsePointsSystemDesc,"By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count.",VAE_UsePointsSystemDesc,TranslationKeys.xml,keyed
+VAE_CollateModTabs,Collate mod tabs,VAE_CollateModTabs,TranslationKeys.xml,keyed
+VAE_CollateModTabsDesc,By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs,VAE_CollateModTabsDesc,TranslationKeys.xml,keyed
+VAE_AchievementHidden,Hidden until monolith level {0},VAE_AchievementHidden,TranslationKeys.xml,keyed

@@ -1,0 +1,33 @@
+key,text,tag,file,type
+VWEFT_FrontierWeapons.label,frontier weapons,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.description,"Craft frontier guns like revolvers, rifles, and shotguns.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.generalRules.rulesStrings.0,subject->echoes of the frontier,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.generalRules.rulesStrings.1,"subject_story->revived the rugged spirit of the frontier, crafting firearms that embody the essence of survival and exploration",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.generalRules.rulesStrings.2,"subject_story->perfected the art of gunsmithing to produce revolvers, rifles, and shotguns, tools as much for defense as for forging ahead into the unknown",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.generalRules.rulesStrings.3,subject_story->imbued each weapon with the reliability and durability needed to face the untamed wilds and protect burgeoning communities,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_FrontierWeapons.generalRules.rulesStrings.4,subject_gerund->carving out civilization's edge with the steadfast companionship of frontier firearms,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWEFT_Bullet_HeavyRevolver.label,heavy revolver bullet,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_HeavyRevolver.label,heavy revolver,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_HeavyRevolver.description,An ornate favorite among wealthy lawmen and bandits alike for its increased firepower and range at the cost of reload speed.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots.,description,ThingDef/ThingDef.xml,def
+VWEFT_Gun_HeavyRevolver.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_HeavyRevolver.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWEFT_Bullet_VolcanicPistol.label,volcanic pistol bullet,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_VolcanicPistol.label,volcanic pistol,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_VolcanicPistol.description,An ornate pistol meant to provide the strength of a full-sized rifle with the portability of a revolver. Surprisingly high ammo capacity and range at the cost of a long time to reload and rather poor accuracy due to recoil.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots.,description,ThingDef/ThingDef.xml,def
+VWEFT_Gun_VolcanicPistol.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_VolcanicPistol.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_FrontierPistol.label,frontier pistol,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_FrontierPistol.description,"An ornate variant of a commonplace Old World pistol, effective at short and medium ranges.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots.",description,ThingDef/ThingDef.xml,def
+VWEFT_Gun_FrontierPistol.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_FrontierPistol.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWEFT_Bullet_FrontierPistol.label,frontier pistol bullet,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RollingBlockRifle.label,rolling block rifle,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RollingBlockRifle.description,An ornate high-power marksmen rifle originally designed for dispatching muffalo in a single shot. Once outfitted with a long-range scope and modernized reloading system it didn't take long for would-be bounty hunters to embrace the hunting instrument.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots.,description,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RollingBlockRifle.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RollingBlockRifle.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWEFT_Bullet_RollingBlockRifle.label,rolling block rifle bullet,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RepeatingShotgun.label,repeating shotgun,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RepeatingShotgun.description,"An ornate and surprisingly portable shotgun meant to be fired one handed from a mounted position. Packs a punch, earning the title ""boomalope leg"".\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots.",description,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RepeatingShotgun.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWEFT_Gun_RepeatingShotgun.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWEFT_Bullet_RepeatingShotgun.label,shotgun blast,label,ThingDef/ThingDef.xml,def

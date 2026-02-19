@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings>
+    <!--EN: wolfmanShuttleCrashedLetterLabel->Crashed shuttle-->
+    <li>wolfmanShuttleCrashedLetterLabel-&gt;Crashed shuttle</li>
+    <!--EN: wolfmanShuttleCrashedLetterText->A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.-->
+    <li>wolfmanShuttleCrashedLetterText-&gt;A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.</li>
+    <!--EN: reinforcementsArrivedLetterLabel->Wolfmen reinforcements-->
+    <li>reinforcementsArrivedLetterLabel-&gt;Wolfmen reinforcements</li>
+    <!--EN: reinforcementsArrivedLetterText->Wolfmen are arriving in drop pods to reinforce the crashed refugees.-->
+    <li>reinforcementsArrivedLetterText-&gt;Wolfmen are arriving in drop pods to reinforce the crashed refugees.</li>
+    <!--EN: letterLabelBeggarsBetrayed->Betrayed refugees-->
+    <li>letterLabelBeggarsBetrayed-&gt;Betrayed refugees</li>
+    <!--EN: letterTextBeggarsBetrayed->The wolfmen refugees are betrayed by your actions and will try to defend themselves.-->
+    <li>letterTextBeggarsBetrayed-&gt;The wolfmen refugees are betrayed by your actions and will try to defend themselves.</li>
+  </VRE_WolfmenTransport.questContentRules.rulesStrings>
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]-->
+    <li>questDescription-&gt;You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]</li>
+    <!--EN: wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)-->
+    <li>wolfmenInfo-&gt;(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)</li>
+  </VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings>
+    <!--EN: questName->[shipAdjective] [shipNoun]-->
+    <li>questName-&gt;[shipAdjective] [shipNoun]</li>
+    <!--EN: shipAdjective->wolfmen-->
+    <li>shipAdjective-&gt;wolfmen</li>
+    <!--EN: shipAdjective->wolf-->
+    <li>shipAdjective-&gt;wolf</li>
+    <!--EN: shipAdjective->lycan-->
+    <li>shipAdjective-&gt;lycan</li>
+    <!--EN: shipAdjective->werewolf-->
+    <li>shipAdjective-&gt;werewolf</li>
+    <!--EN: shipAdjective->nocturnal-->
+    <li>shipAdjective-&gt;nocturnal</li>
+    <!--EN: shipAdjective->howling-->
+    <li>shipAdjective-&gt;howling</li>
+    <!--EN: shipAdjective->furry-->
+    <li>shipAdjective-&gt;furry</li>
+    <!--EN: shipAdjective->canine-->
+    <li>shipAdjective-&gt;canine</li>
+    <!--EN: shipNoun->ship-->
+    <li>shipNoun-&gt;ship</li>
+    <!--EN: shipNoun->shuttle-->
+    <li>shipNoun-&gt;shuttle</li>
+    <!--EN: shipNoun->craft-->
+    <li>shipNoun-&gt;craft</li>
+    <!--EN: shipNoun->hulk-->
+    <li>shipNoun-&gt;hulk</li>
+    <!--EN: shipNoun->crash-->
+    <li>shipNoun-&gt;crash</li>
+    <!--EN: shipNoun->wreck-->
+    <li>shipNoun-&gt;wreck</li>
+  </VRE_WolfmenTransport.questNameRules.rulesStrings>
+</LanguageData>

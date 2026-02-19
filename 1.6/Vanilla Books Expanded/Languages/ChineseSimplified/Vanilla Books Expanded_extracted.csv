@@ -1,0 +1,752 @@
+key,text,tag,file,type
+VBE.Book,Book,VBE.Book,Keys.xml,keyed
+VBE.ReadBook,Read {0},VBE.ReadBook,Keys.xml,keyed
+VBE.CantReadSkillBookTooSimple,Can't read: This skillbook is not sufficient.,VBE.CantReadSkillBookTooSimple,Keys.xml,keyed
+VBE.ReadNewsPaper,Read newspaper,VBE.ReadNewsPaper,Keys.xml,keyed
+VBE.NewspaperRelevantUntil,Relevant until:,VBE.NewspaperRelevantUntil,Keys.xml,keyed
+VBE.CantReadNewsPaperExpired,Can't read: This newspaper is out of date.,VBE.CantReadNewsPaperExpired,Keys.xml,keyed
+VBE.ReadBlueprint,Read {0},VBE.ReadBlueprint,Keys.xml,keyed
+VBE.CantReadBlueprintAlreadyResearched,Can't read: This technology is already known.,VBE.CantReadBlueprintAlreadyResearched,Keys.xml,keyed
+VBE.CantReadBlueprintTooAdvanced,Can't read: This technology is too advanced.,VBE.CantReadBlueprintTooAdvanced,Keys.xml,keyed
+VBE.CantReadBlueprintUsed,Can't read: This blueprint is already used.,VBE.CantReadBlueprintUsed,Keys.xml,keyed
+VBE.ReadMap,Read map,VBE.ReadMap,Keys.xml,keyed
+VBE.CantReadMapUsed,Can't read: This map is already used,VBE.CantReadMapUsed,Keys.xml,keyed
+VBE.LocationsOpened,New location found,VBE.LocationsOpened,Keys.xml,keyed
+VBE.LocationsOpenedDesc,Reading the map has unlocked a new location.,VBE.LocationsOpenedDesc,Keys.xml,keyed
+VBE_ReadBook.reportString,reading.,reportString,JobDef/JobDef.xml,def
+VBE_Reading.label,reading,label,JoyKindDef/JoyKindDef.xml,def
+VBE_Writing.label,writing,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_Writing.description,Construct a writing desk and have your colonists write books that pass their knowledge to other members of their society.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_Printing.label,printing,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_Printing.description,"Build a typwriter, which allows your colonists to write books significantly faster, as well as create newspapers for temporary joy boost.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VBE_Library.label,library room,label,RoomRoleDef/RoomRoleDef.xml,def
+ArtDescription_BookShooting.rulePack.rulesStrings.0,physical_description_root->[ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the shooting skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Animals.rulePack.rulesStrings.0,"r_animalsbook_desc->[cover] [first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being an animals book, reading it will increase the knowledge of animals.",li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Art.rulePack.rulesStrings.0,"r_artbook_desc->[cover] [first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being an art book, reading it will increase the knowledge of art.",li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Construction.rulePack.rulesStrings.0,"r_constructionbook_desc->[cover] [first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a construction book, reading it will increase the knowledge of construction.",li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Cooking.rulePack.rulesStrings.0,r_cookingbook_desc->[cover] [first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the cooking skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Crafting.rulePack.rulesStrings.0,r_craftingbook_desc->[cover] [first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the crafting skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Growing.rulePack.rulesStrings.0,r_growingbook_desc->[cover] [first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the growing skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Intellectual.rulePack.rulesStrings.0,r_intellectualbook_desc->[cover] [first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the intellectual skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Medical.rulePack.rulesStrings.0,r_medicalbook_desc->[cover] [first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the medical skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Melee.rulePack.rulesStrings.0,"r_meleebook_desc->[cover] [first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a melee book, reading it will increase the knowledge of melee combat.",li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Mining.rulePack.rulesStrings.0,r_miningbook_desc->[cover] [first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the mining skill.,li,RulePackDef/RulePackDef.xml,def
+VBE_BookDescription_Social.rulePack.rulesStrings.0,"r_socialbook_desc->[cover] [first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a social book, reading it will increase the knowledge of social.",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.0,maybe_adjective->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.1,maybe_adjective->[Color],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.2,maybe_adjective->[AdjectiveBadass],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.3,maybe_adjective->[AdjectiveAngsty],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.4,Adjective->[Color],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.5,Adjective->[AdjectiveBadass],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.6,Adjective->[AdjectiveAngsty],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.7,cover->the cover of this book [depicts] [image],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.8,cover->this book's cover bears a [depiction] of [image],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.9,cover->on this book's cover is a [depiction] of [image],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.10,first_chapters->the first few chapters of this book describe the use of,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.11,first_chapters->first part of the book goes in detail about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.12,first_chapters->first few pages describe the use of,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.13,first_chapters->the beginning of the book revolves around,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.14,first_chapters->the book starts off with,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.15,first_chapters->the beginning is about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.16,maybe_cont(p=2)->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.17,maybe_cont-> within the context of [ConceptAny],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.18,maybe_cont-> in a [AdjectiveBadass] tone,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.19,maybe_cont-> and the importance of [ConceptAny],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.20,maybe_cont-> with emphasis on the use of [TerrainFeature],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.21,maybe_cont-> and how [Vegetable]s can be used to improve it,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.22,maybe_cont-> during the game of [Game],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.23,maybe_cont-> within the world of the [Animal]s,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.24,maybe_cont-> and the beauty of [Gore],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.25,maybe_cont-> and compares it to a [NaturalObject],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.26,maybe_cont-> from the perspective of the [Enemy],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.27,maybe_cont-> based on experience from the middle of a [Community],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.28,"maybe_cont->, with personal insights from a [Character]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.29,"maybe_cont->, based on the interview with the minor celebrity [NamePerson]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.30,"maybe_cont->, and how color [Color] was always associated with it",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.31,"maybe_cont->, and how [Animal] can be used to improve it",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.32,"maybe_cont->, describing various applications of [Weapon] within that field",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.33,"maybe_cont->, based on the various surveys performed with [AdjectiveFriendly] [PersonJob]s",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.34,maybe_cont-> and the importance of [Apparel],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.35,maybe_cont-> and how [ConceptPositive] and [ConceptPositive] improve it,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.36,maybe_cont-> written in a [bookstyle_adj] style,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.37,middle_book->The author then proceeds to describe,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.38,middle_book->The following chapters allow the reader to contemplate on,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.39,middle_book->The next chapters discuss,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.40,"middle_book->After that, the author went to great lengths to explain",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.41,middle_book->The middle of the book speaks about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.42,middle_book->The next bit is about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.43,"ending->Near the ending, author summarizes",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.44,"ending->By the end of the book, emphasis is placed on",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.45,ending->The last few chapters mention,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.46,ending->Ending of the book is about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.47,ending->The final chapter revolves around,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.48,ending->The last page mentions,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.49,ending->The last part of the book is about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.50,ending->Author decided to devote the last part of the book to,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.51,book_context->infused with the idea of [ConceptAny] and is done in a [bookstyle_adj] style,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.52,book_context->written in a [bookstyle_adj] style,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.53,book_context->executed in a [bookstyle_adj] style,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.54,book_context->[bookstyle_adj] with [bookstyle_adj] elements,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.55,book_context->[bookstyle_adj],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.56,book_context->[bookstyle_adj] yet [bookstyle_adj],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.57,maybe_writingstyles(p=3)->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.58,"maybe_writingstyles->, using a large amount of [bookstyle]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.59,"maybe_writingstyles->, riddled with [bookstyle]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.60,"maybe_writingstyles->, without using [bookstyle] even once",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.61,"maybe_writingstyles->, written only using [bookstyle]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.62,"maybe_writingstyles->, with a high amount of [bookstyle] and absolutely no [bookstyle]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.63,"maybe_writingstyles->. Author used a number of [bookstyle], mixed in with [bookstyle] and [bookstyle]",li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.64,maybe_writingstyles-> with a number of [bookstyle_adj] [bookstyle],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.65,book->book,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.66,book->work,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.67,book->piece of writing,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.68,book->work of writing,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.69,book->text,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.70,book_general->The purpose of this [book] is to explain in depth,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.71,book_general->This [book] provides the reader with insight into,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.72,book_general->Reading this [book] gives valuable information on,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.73,book_general->This [book] is about,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.74,book_general->Author when writing this [book] wanted readers to focus on,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.75,maybe_ShootingSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.76,maybe_ShootingSkill-> and [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.77,maybe_ShootingSkill-> as well as [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.78,maybe_AnimalsSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.79,maybe_AnimalsSkill-> and [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.80,maybe_AnimalsSkill-> as well as [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.81,maybe_ArtSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.82,maybe_ArtSkill-> and [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.83,maybe_ArtSkill-> as well as [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.84,maybe_ConstructionSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.85,maybe_ConstructionSkill-> and [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.86,maybe_ConstructionSkill-> as well as [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.87,maybe_CookingSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.88,maybe_CookingSkill-> and [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.89,maybe_CookingSkill-> as well as [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.90,maybe_CraftingSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.91,maybe_CraftingSkill-> and [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.92,maybe_CraftingSkill-> as well as [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.93,maybe_GrowingSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.94,maybe_GrowingSkill-> and [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.95,maybe_GrowingSkill-> as well as [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.96,maybe_IntellectualSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.97,maybe_IntellectualSkill-> and [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.98,maybe_IntellectualSkill-> as well as [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.99,maybe_MedicalSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.100,maybe_MedicalSkill-> and [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.101,maybe_MedicalSkill-> as well as [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.102,maybe_MeleeSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.103,maybe_MeleeSkill-> and [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.104,maybe_MeleeSkill-> as well as [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.105,maybe_MiningSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.106,maybe_MiningSkill-> and [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.107,maybe_MiningSkill-> as well as [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.108,maybe_SocialSkill->,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.109,maybe_SocialSkill-> and [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.110,maybe_SocialSkill-> as well as [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.111,inspired->Inspired by the bestselling book titled,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.112,inspired->A prequel to the popular book named,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.113,inspired->Based heavily on the book titled,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.114,inspired->In order to contradict the statement in,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.115,context_newspaper->This [newspaper] goes indepth about the [tale_noun] on [DATE].,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.116,context_newspaper->This [newspaper] relates to [tale_noun] on [DATE].,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.117,context_newspaper->This [newspaper] tells the story of [tale_noun] on [DATE].,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.118,context_newspaper->This [newspaper] is about [tale_noun] on [DATE].,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.119,context_newspaper->This [newspaper] informs the reader about [tale_noun] on [DATE].,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.120,newspaper->newspaper,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.121,newspaper->paper,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.122,newspaper->article,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.123,newspaper->magazine,li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.124,ShootingBook->[Books] of [maybe_adjective] [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.125,ShootingBook->[AdjectiveBadass] [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.126,ShootingBook->[AdjectiveLarge] [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.127,ShootingBook->[PeopleBadass]'s [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.128,ShootingBook->[Books] of [maybe_adjective] [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.129,ShootingBook->[AdjectiveBadass] [Books] of the [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.130,ShootingBook->The [Adjective] [Noun]: History of	[ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.131,ShootingBook->[ShootingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.132,ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.133,ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.134,ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.135,ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.136,ShootingBook->[ANYPAWN_nameIndef]'s [Books] of the [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.137,ShootingBook->[ShootingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.138,ShootingBook->[ANYPAWN_nameIndef]'s [Books]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.139,ShootingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.140,ShootingBook->[Noun] and [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.141,ShootingBook->[ConceptAny] and [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.142,AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.143,AnimalsBook->[AdjectiveBadass] [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.144,AnimalsBook->[AdjectiveLarge] [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.145,AnimalsBook->[PeopleBadass]'s [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.146,AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.147,AnimalsBook->[AdjectiveBadass] [Books] of the [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.148,AnimalsBook->The [Adjective] [Noun]: History of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.149,AnimalsBook->[AnimalsSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.150,AnimalsBook->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.151,AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.152,AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.153,AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.154,AnimalsBook->[ANYPAWN_nameIndef]'s [Books] of the [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.155,AnimalsBook->[AnimalsSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.156,AnimalsBook->[ANYPAWN_nameIndef]'s [Books]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.157,AnimalsBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.158,AnimalsBook->[Noun] and [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.159,AnimalsBook->[ConceptAny] and [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.160,ArtBook->[Books] of [maybe_adjective] [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.161,ArtBook->[AdjectiveBadass] [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.162,ArtBook->[AdjectiveLarge] [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.163,ArtBook->[PeopleBadass]'s [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.164,ArtBook->[Books] of [maybe_adjective] [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.165,ArtBook->[AdjectiveBadass] [Books] of the [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.166,ArtBook->The [Adjective] [Noun]: History of	[ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.167,ArtBook->[ArtSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.168,ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.169,ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.170,ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.171,ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.172,ArtBook->[ANYPAWN_nameIndef]'s [Books] of the [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.173,ArtBook->[ArtSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.174,ArtBook->[ANYPAWN_nameIndef]'s [Books]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.175,ArtBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.176,ArtBook->[Noun] and [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.177,ArtBook->[ConceptAny] and [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.178,ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.179,ConstructionBook->[AdjectiveBadass] [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.180,ConstructionBook->[AdjectiveLarge] [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.181,ConstructionBook->[PeopleBadass]'s [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.182,ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.183,ConstructionBook->[AdjectiveBadass] [Books] of the [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.184,ConstructionBook->The [Adjective] [Noun]: History of	[ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.185,ConstructionBook->[ConstructionSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.186,ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.187,ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.188,ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.189,ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.190,ConstructionBook->[ANYPAWN_nameIndef]'s [Books] of the [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.191,ConstructionBook->[ConstructionSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.192,ConstructionBook->[ANYPAWN_nameIndef]'s [Books]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.193,ConstructionBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.194,ConstructionBook->[Noun] and [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.195,ConstructionBook->[ConceptAny] and [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.196,CookingBook->[Books] of [maybe_adjective] [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.197,CookingBook->[AdjectiveBadass] [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.198,CookingBook->[AdjectiveLarge] [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.199,CookingBook->[PeopleBadass]'s [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.200,CookingBook->[Books] of [maybe_adjective] [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.201,CookingBook->[AdjectiveBadass] [Books] of the [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.202,CookingBook->The [Adjective] [Noun]: History of	[CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.203,CookingBook->[CookingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.204,CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.205,CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.206,CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.207,CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.208,CookingBook->[ANYPAWN_nameIndef]'s [Books] of the [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.209,CookingBook->[CookingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.210,CookingBook->[ANYPAWN_nameIndef]'s [Books]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.211,CookingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.212,CookingBook->[Noun] and [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.213,CookingBook->[ConceptAny] and [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.214,CraftingBook->[Books] of [maybe_adjective] [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.215,CraftingBook->[AdjectiveBadass] [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.216,CraftingBook->[AdjectiveLarge] [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.217,CraftingBook->[PeopleBadass]'s [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.218,CraftingBook->[Books] of [maybe_adjective] [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.219,CraftingBook->[AdjectiveBadass] [Books] of the [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.220,CraftingBook->The [Adjective] [Noun]: History of	[CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.221,CraftingBook->[CraftingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.222,CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.223,CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.224,CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.225,CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.226,CraftingBook->[ANYPAWN_nameIndef]'s [Books] of the [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.227,CraftingBook->[CraftingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.228,CraftingBook->[ANYPAWN_nameIndef]'s [Books]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.229,CraftingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.230,CraftingBook->[Noun] and [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.231,CraftingBook->[ConceptAny] and [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.232,GrowingBook->[Books] of [maybe_adjective] [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.233,GrowingBook->[AdjectiveBadass] [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.234,GrowingBook->[AdjectiveLarge] [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.235,GrowingBook->[PeopleBadass]'s [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.236,GrowingBook->[Books] of [maybe_adjective] [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.237,GrowingBook->[AdjectiveBadass] [Books] of the [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.238,GrowingBook->The [Adjective] [Noun]: History of	[GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.239,GrowingBook->[GrowingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.240,GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.241,GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.242,GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.243,GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.244,GrowingBook->[ANYPAWN_nameIndef]'s [Books] of the [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.245,GrowingBook->[GrowingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.246,GrowingBook->[ANYPAWN_nameIndef]'s [Books]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.247,GrowingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.248,GrowingBook->[Noun] and [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.249,GrowingBook->[ConceptAny] and [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.250,IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.251,IntellectualBook->[AdjectiveBadass] [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.252,IntellectualBook->[AdjectiveLarge] [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.253,IntellectualBook->[PeopleBadass]'s [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.254,IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.255,IntellectualBook->[AdjectiveBadass] [Books] of the [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.256,IntellectualBook->The [Adjective] [Noun]: History of	[IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.257,IntellectualBook->[IntellectualSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.258,IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.259,IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.260,IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.261,IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.262,IntellectualBook->[ANYPAWN_nameIndef]'s [Books] of the [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.263,IntellectualBook->[IntellectualSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.264,IntellectualBook->[ANYPAWN_nameIndef]'s [Books]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.265,IntellectualBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.266,IntellectualBook->[Noun] and [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.267,IntellectualBook->[ConceptAny] and [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.268,MedicalBook->[Books] of [maybe_adjective] [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.269,MedicalBook->[AdjectiveBadass] [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.270,MedicalBook->[AdjectiveLarge] [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.271,MedicalBook->[PeopleBadass]'s [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.272,MedicalBook->[Books] of [maybe_adjective] [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.273,MedicalBook->[AdjectiveBadass] [Books] of the [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.274,MedicalBook->The [Adjective] [Noun]: History of	[MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.275,MedicalBook->[MedicalSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.276,MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.277,MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.278,MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.279,MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.280,MedicalBook->[ANYPAWN_nameIndef]'s [Books] of the [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.281,MedicalBook->[MedicalSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.282,MedicalBook->[ANYPAWN_nameIndef]'s [Books]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.283,MedicalBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.284,MedicalBook->[Noun] and [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.285,MedicalBook->[ConceptAny] and [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.286,MeleeBook->[Books] of [maybe_adjective] [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.287,MeleeBook->[AdjectiveBadass] [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.288,MeleeBook->[AdjectiveLarge] [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.289,MeleeBook->[PeopleBadass]'s [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.290,MeleeBook->[Books] of [maybe_adjective] [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.291,MeleeBook->[AdjectiveBadass] [Books] of the [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.292,MeleeBook->The [Adjective] [Noun]: History of	[MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.293,MeleeBook->[MeleeSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.294,MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.295,MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.296,MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.297,MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.298,MeleeBook->[ANYPAWN_nameIndef]'s [Books] of the [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.299,MeleeBook->[MeleeSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.300,MeleeBook->[ANYPAWN_nameIndef]'s [Books]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.301,MeleeBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.302,MeleeBook->[Noun] and [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.303,MeleeBook->[ConceptAny] and [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.304,MiningBook->[Books] of [maybe_adjective] [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.305,MiningBook->[AdjectiveBadass] [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.306,MiningBook->[AdjectiveLarge] [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.307,MiningBook->[PeopleBadass]'s [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.308,MiningBook->[Books] of [maybe_adjective] [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.309,MiningBook->[AdjectiveBadass] [Books] of the [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.310,MiningBook->The [Adjective] [Noun]: History of	[MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.311,MiningBook->[MiningSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.312,MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.313,MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.314,MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.315,MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.316,MiningBook->[ANYPAWN_nameIndef]'s [Books] of the [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.317,MiningBook->[MiningSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.318,MiningBook->[ANYPAWN_nameIndef]'s [Books]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.319,MiningBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.320,MiningBook->[Noun] and [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.321,MiningBook->[ConceptAny] and [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.322,SocialBook->[Books] of [maybe_adjective] [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.323,SocialBook->[AdjectiveBadass] [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.324,SocialBook->[AdjectiveLarge] [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.325,SocialBook->[PeopleBadass]'s [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.326,SocialBook->[Books] of [maybe_adjective] [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.327,SocialBook->[AdjectiveBadass] [Books] of the [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.328,SocialBook->The [Adjective] [Noun]: History of	[SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.329,SocialBook->[SocialSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.330,SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.331,SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.332,SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.333,SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.334,SocialBook->[ANYPAWN_nameIndef]'s [Books] of the [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.335,SocialBook->[SocialSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.336,SocialBook->[ANYPAWN_nameIndef]'s [Books]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.337,SocialBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.338,SocialBook->[Noun] and [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+VBE_BookUtility.rulePack.rulesStrings.339,SocialBook->[ConceptAny] and [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.0,r_art_name->[Newspapers] of [nearnameinitial] [political_union_outlander],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.1,r_art_name->[Newspapers] of [nearnameinitial] [political_adjective] [political_union_outlander],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.2,r_art_name->[Newspapers] of [political_union_outlander] of [nearnameinitial],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Newspapers],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.4,r_art_name->[Newspapers] of [PlaceOutlander],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.5,r_art_name->[Newspapers] of [Direction] [PlaceOutlander],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.6,r_art_name->[Newspapers] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.7,r_art_name->[Newspapers] [maybe_letter][Digit][maybe_letter],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.8,r_art_name->[Newspapers] [maybe_letter][Digit][Digit][maybe_letter],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.9,r_art_name->[Newspapers] [maybe_letter][Digit][Digit][Digit][maybe_letter],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.10,r_art_name->[Newspapers] [maybe_letter][RomanNumeral][maybe_letter],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.11,r_art_name->[ANYPAWN_nameIndef]'s [Newspapers],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_NewspaperDesc.rulePack.rulesStrings.0,r_art_name->This newspaper goes indepth about the events of the last couple of days.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.7,r_art_name->[ShootingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.13,r_art_name->[ShootingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.16,r_art_name->[Noun] and [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [ShootingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the shooting skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of shooting.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases shooting skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[ShootingBook]"", [first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of shooting.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookShootingDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [ShootingSkill] and [ShootingSkill][maybe_cont], but also goes in depth about [ShootingSkill]. It is [book_context][maybe_writingstyles]. Shooting skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.7,r_art_name->[AnimalsSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.13,r_art_name->[AnimalsSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.16,r_art_name->[Noun] and [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [AnimalsSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the animals skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of animals.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases animals skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[AnimalsBook]"", [first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of animals.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [AnimalsSkill] and [AnimalsSkill][maybe_cont], but also goes in depth about [AnimalsSkill]. It is [book_context][maybe_writingstyles]. Animals skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.7,r_art_name->[ArtSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.13,r_art_name->[ArtSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.16,r_art_name->[Noun] and [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [ArtSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the art skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of art.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases art skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[ArtBook]"", [first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of art.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookArtDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [ArtSkill] and [ArtSkill][maybe_cont], but also goes in depth about [ArtSkill]. It is [book_context][maybe_writingstyles]. Art skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.7,r_art_name->[ConstructionSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.13,r_art_name->[ConstructionSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.16,r_art_name->[Noun] and [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [ConstructionSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the construction skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of construction.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases construction skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[ConstructionBook]"", [first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of construction.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookConstructionDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [ConstructionSkill] and [ConstructionSkill][maybe_cont], but also goes in depth about [ConstructionSkill]. It is [book_context][maybe_writingstyles]. Construction skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.7,r_art_name->[CookingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.13,r_art_name->[CookingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.16,r_art_name->[Noun] and [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [CookingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the cooking skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of cooking.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases cooking skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[CookingBook]"", [first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of cooking.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCookingDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [CookingSkill] and [CookingSkill][maybe_cont], but also goes in depth about [CookingSkill]. It is [book_context][maybe_writingstyles]. Cooking skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.7,r_art_name->[CraftingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.13,r_art_name->[CraftingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.16,r_art_name->[Noun] and [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [CraftingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the crafting skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of crafting.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases crafting skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[CraftingBook]"", [first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of crafting.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookCraftingDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [CraftingSkill] and [CraftingSkill][maybe_cont], but also goes in depth about [CraftingSkill]. It is [book_context][maybe_writingstyles]. Crafting skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.7,r_art_name->[GrowingSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.13,r_art_name->[GrowingSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.16,r_art_name->[Noun] and [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [GrowingSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the growing skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of growing.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases growing skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[GrowingBook]"", [first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of growing.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookGrowingDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [GrowingSkill] and [GrowingSkill][maybe_cont], but also goes in depth about [GrowingSkill]. It is [book_context][maybe_writingstyles]. Growing skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.7,r_art_name->[IntellectualSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.13,r_art_name->[IntellectualSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.16,r_art_name->[Noun] and [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [IntellectualSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the intellectual skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of intellectual.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases intellectual skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[IntellectualBook]"", [first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of intellectual.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [IntellectualSkill] and [IntellectualSkill][maybe_cont], but also goes in depth about [IntellectualSkill]. It is [book_context][maybe_writingstyles]. Intellectual skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.7,r_art_name->[MedicalSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.13,r_art_name->[MedicalSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.16,r_art_name->[Noun] and [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [MedicalSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the medical skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of medical.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases medical skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[MedicalBook]"", [first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of medical.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMedicalDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [MedicalSkill] and [MedicalSkill][maybe_cont], but also goes in depth about [MedicalSkill]. It is [book_context][maybe_writingstyles]. Medical skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.7,r_art_name->[MeleeSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.13,r_art_name->[MeleeSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.16,r_art_name->[Noun] and [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [MeleeSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the melee skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of melee.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases melee skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[MeleeBook]"", [first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of melee.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMeleeDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [MeleeSkill] and [MeleeSkill][maybe_cont], but also goes in depth about [MeleeSkill]. It is [book_context][maybe_writingstyles]. Melee skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.7,r_art_name->[MiningSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.13,r_art_name->[MiningSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.16,r_art_name->[Noun] and [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [MiningSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the mining skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of mining.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases mining skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[MiningBook]"", [first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of mining.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookMiningDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [MiningSkill] and [MiningSkill][maybe_cont], but also goes in depth about [MiningSkill]. It is [book_context][maybe_writingstyles]. Mining skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.0,r_art_name->[Books] of [maybe_adjective] [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.1,r_art_name->[AdjectiveBadass] [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.2,r_art_name->[AdjectiveLarge] [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.3,r_art_name->[PeopleBadass]'s [Books] of [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.4,r_art_name->[Books] of [maybe_adjective] [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.5,r_art_name->[AdjectiveBadass] [Books] of the [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.6,r_art_name->The [Adjective] [Noun]: History of	[SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.7,r_art_name->[SocialSkill] [Digit],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.8,r_art_name->[maybe_letter][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.9,r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.10,r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.11,r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.12,r_art_name->[ANYPAWN_nameIndef]'s [Books] of the [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.13,r_art_name->[SocialSkill] of [ANYPAWN_nameIndef],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.14,r_art_name->[ANYPAWN_nameIndef]'s [Books]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.15,r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.16,r_art_name->[Noun] and [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialName.rulePack.rulesStrings.17,r_art_name->[ConceptAny] and [SocialSkill],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialDesc.rulePack.rulesStrings.0,r_art_name->[first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the social skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialDesc.rulePack.rulesStrings.1,r_art_name->[first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the knowledge of social.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialDesc.rulePack.rulesStrings.2,r_art_name->[cover]. [first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book increases social skill.,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialDesc.rulePack.rulesStrings.3,"r_art_name->[inspired] ""[SocialBook]"", [first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Reading this book will increase the skill of social.",li,RulePackDef/RulePackDef.xml,def
+ArtDescription_BookSocialDesc.rulePack.rulesStrings.4,"r_art_name->[book_general] [SocialSkill] and [SocialSkill][maybe_cont], but also goes in depth about [SocialSkill]. It is [book_context][maybe_writingstyles]. Social skill will increase upon reading this book.",li,RulePackDef/RulePackDef.xml,def
+VBE_Books.label,books,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_WritersTable.label,writers table,label,ThingDef/ThingDef.xml,def
+VBE_WritersTable.description,A work station with all the necessary equipment to write books.,description,ThingDef/ThingDef.xml,def
+VBE_TypewritersTable.label,typewriter table,label,ThingDef/ThingDef.xml,def
+VBE_TypewritersTable.description,"A work station with all the necessary equipment to write books. This station is equipped with a typewriter which speeds up the work significantly, but does require connection to power.",description,ThingDef/ThingDef.xml,def
+VBE_Blueprint.label,blueprint,label,ThingDef/ThingDef.xml,def
+VBE_Blueprint.description,A blueprint containing technological secrets. Studying it will provide your colony with full understanding of a given research project.\n\nBlueprints containing too advanced knowledge cannot be read until more research projects are completed.,description,ThingDef/ThingDef.xml,def
+VBE_BookShooting.label,shooting book,label,ThingDef/ThingDef.xml,def
+VBE_BookAnimals.label,animals book,label,ThingDef/ThingDef.xml,def
+VBE_BookArt.label,art book,label,ThingDef/ThingDef.xml,def
+VBE_BookConstruction.label,construction book,label,ThingDef/ThingDef.xml,def
+VBE_BookCooking.label,cooking book,label,ThingDef/ThingDef.xml,def
+VBE_BookCrafting.label,crafting book,label,ThingDef/ThingDef.xml,def
+VBE_BookIntellectual.label,intellectual book,label,ThingDef/ThingDef.xml,def
+VBE_BookMedical.label,medical book,label,ThingDef/ThingDef.xml,def
+VBE_BookMelee.label,melee book,label,ThingDef/ThingDef.xml,def
+VBE_BookMining.label,mining book,label,ThingDef/ThingDef.xml,def
+VBE_BookGrowing.label,growing book,label,ThingDef/ThingDef.xml,def
+VBE_BookSocial.label,social book,label,ThingDef/ThingDef.xml,def
+VBE_Map.label,map,label,ThingDef/ThingDef.xml,def
+VBE_Map.description,A paper map containing information about a point of interest. Studying it will unlock a location on the world map.,description,ThingDef/ThingDef.xml,def
+VBE_Newspaper.label,newspaper,label,ThingDef/ThingDef.xml,def
+VBE_Newspaper.description,A perishable newspaper. Reading it will provide colonists with joy.\n\nOut of date newspaper cannot be read and needs to be cleaned up.,description,ThingDef/ThingDef.xml,def
+VBE_UnfinishedBook.label,unfinished book,label,ThingDef/ThingDef.xml,def
+VBE_UnfinishedBook.description,An unfinished book of some sorts.,description,ThingDef/ThingDef.xml,def
+VBE_UnfinishedNewspaper.label,unfinished newspaper,label,ThingDef/ThingDef.xml,def
+VBE_UnfinishedNewspaper.description,An unfinished newspaper.,description,ThingDef/ThingDef.xml,def
+VBE_Filth_Newspaper.label,old newspaper,label,ThingDef/ThingDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label,decent library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description,I had fun in a decent library room.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label,slightly impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description,I had fun in a nice library room.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label,somewhat impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description,I had a great time in an impressive library room.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.6.label,very impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.6.description,I had a great time in a very impressive library room.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.7.label,extremely impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.7.description,I had a great time in an extremely impressive library room. I could stay there forever.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.8.label,unbelievably impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.8.description,I had a great time in an unbelievably impressive library room. I could stay there forever.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label,wondrously impressive library room,label,ThoughtDef/ThoughtDef.xml,def
+VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description,I had a great time in a wonderful library room. I could stay there forever.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_DoBillsWrite.label,write books,label,WorkGiverDef/WorkGiverDef.xml,def
+VBE_DoBillsWrite.verb,write,verb,WorkGiverDef/WorkGiverDef.xml,def
+VBE_DoBillsWrite.gerund,writing at,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VBE_Writing.labelShort,Writing,labelShort,WorkTypeDef/WorkTypeDef.xml,def
+VBE_Writing.pawnLabel,Writer,pawnLabel,WorkTypeDef/WorkTypeDef.xml,def
+VBE_Writing.gerundLabel,writing,gerundLabel,WorkTypeDef/WorkTypeDef.xml,def
+VBE_Writing.verb,Write at,verb,WorkTypeDef/WorkTypeDef.xml,def
+VBE_RecipeShooting.label,write shooting book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeShooting.description,Write shooting book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeShooting.jobString,writing shooting book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMelee.label,write melee book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMelee.description,Write melee book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMelee.jobString,writing melee book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeConstruction.label,write construction book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeConstruction.description,Write construction book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeConstruction.jobString,writing construction book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMining.label,write mining book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMining.description,Write mining book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMining.jobString,writing mining book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCooking.label,write cooking book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCooking.description,Write cooking book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCooking.jobString,writing cooking book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeGrowing.label,write growing book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeGrowing.description,Write growing book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeGrowing.jobString,writing growing book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeAnimals.label,write animals book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeAnimals.description,Write animals book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeAnimals.jobString,writing animals book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCrafting.label,write crafting book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCrafting.description,Write crafting book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeCrafting.jobString,writing crafting book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeArt.label,write art book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeArt.description,Write art book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeArt.jobString,writing art book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMedical.label,write medical book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMedical.description,Write medical book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeMedical.jobString,writing medical book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeSocial.label,write social book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeSocial.description,Write social book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeSocial.jobString,writing social book.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_RecipeIntellectual.label,write intellectual book,label,RecipeDef/RecipeDef.xml,def
+VBE_RecipeIntellectual.description,Write intellectual book.,description,RecipeDef/RecipeDef.xml,def
+VBE_RecipeIntellectual.jobString,writing intellectual book.,jobString,RecipeDef/RecipeDef.xml,def
+ArtDescription_Newspaper.rulePack.rulesStrings.12,title->[desc],li,RulePackDef/RulePackDef.xml,def
+VBE_WritingSpeed.label,writing speed,label,StatDef/StatDef.xml,def
+VBE_WritingSpeed.description,A multiplier applied to the speed this person can write books at.,description,StatDef/StatDef.xml,def

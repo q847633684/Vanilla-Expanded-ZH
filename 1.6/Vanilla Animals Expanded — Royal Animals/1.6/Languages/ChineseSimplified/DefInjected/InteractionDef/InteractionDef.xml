@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: tutoring-->
+  <VAERoy_OrangutanInteraction.label>tutoring</VAERoy_OrangutanInteraction.label>
+  <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].-->
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+    <!--EN: talkedabout(p=4)->chatted about-->
+    <li>talkedabout(p=4)-&gt;chatted about</li>
+    <!--EN: talkedabout->shared a word about-->
+    <li>talkedabout-&gt;shared a word about</li>
+    <!--EN: talkedabout->spoke about-->
+    <li>talkedabout-&gt;spoke about</li>
+    <!--EN: talkedabout->gabbed about-->
+    <li>talkedabout-&gt;gabbed about</li>
+    <!--EN: talkedabout->talked about-->
+    <li>talkedabout-&gt;talked about</li>
+    <!--EN: talkedabout->mumbled about-->
+    <li>talkedabout-&gt;mumbled about</li>
+    <!--EN: talkedabout->quipped about-->
+    <li>talkedabout-&gt;quipped about</li>
+    <!--EN: commentedabout->said something about-->
+    <li>commentedabout-&gt;said something about</li>
+    <!--EN: commentedabout->made a comment about-->
+    <li>commentedabout-&gt;made a comment about</li>
+    <!--EN: commentedabout->commented about-->
+    <li>commentedabout-&gt;commented about</li>
+    <!--EN: commentedabout->mused about-->
+    <li>commentedabout-&gt;mused about</li>
+    <!--EN: animalthings->the comparison of paternalistic societies with other social aspects and matters-->
+    <li>animalthings-&gt;the comparison of paternalistic societies with other social aspects and matters</li>
+    <!--EN: animalthings->the origin of or linguistic analysis of the term paragliding-->
+    <li>animalthings-&gt;the origin of or linguistic analysis of the term paragliding</li>
+    <!--EN: animalthings->how other cultures or nations view hard work-->
+    <li>animalthings-&gt;how other cultures or nations view hard work</li>
+    <!--EN: animalthings->the personal and professional analysis and impact of mathematics-->
+    <li>animalthings-&gt;the personal and professional analysis and impact of mathematics</li>
+    <!--EN: animalthings->poetry related to prepackaged snacks-->
+    <li>animalthings-&gt;poetry related to prepackaged snacks</li>
+    <!--EN: animalthings->outdated opinions about ethnic violence-->
+    <li>animalthings-&gt;outdated opinions about ethnic violence</li>
+    <!--EN: animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected-->
+    <li>animalthings-&gt;a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected</li>
+    <!--EN: animalthings->countries with highest consumption of cauliflower-->
+    <li>animalthings-&gt;countries with highest consumption of cauliflower</li>
+    <!--EN: animalthings->expert opinions about sexual orientation-->
+    <li>animalthings-&gt;expert opinions about sexual orientation</li>
+    <!--EN: animalthings->what is unique about bread-->
+    <li>animalthings-&gt;what is unique about bread</li>
+    <!--EN: animalthings->the ethics of laser eye surgery-->
+    <li>animalthings-&gt;the ethics of laser eye surgery</li>
+    <!--EN: animalthings->the religious, theological, spiritual, and moral analysis of decision making-->
+    <li>animalthings-&gt;the religious, theological, spiritual, and moral analysis of decision making</li>
+    <!--EN: animalthings->why phone tapping matters-->
+    <li>animalthings-&gt;why phone tapping matters</li>
+    <!--EN: animalthings->an embarrassing experience involving positive attitude-->
+    <li>animalthings-&gt;an embarrassing experience involving positive attitude</li>
+    <!--EN: animalthings->a comparison of different types of cocktails-->
+    <li>animalthings-&gt;a comparison of different types of cocktails</li>
+    <!--EN: animalthings->the comparison of wearing your heart on your sleeve with other habits-->
+    <li>animalthings-&gt;the comparison of wearing your heart on your sleeve with other habits</li>
+    <!--EN: animalthings->the best experts' opinions on inner city poverty in the world-->
+    <li>animalthings-&gt;the best experts' opinions on inner city poverty in the world</li>
+    <!--EN: animalthings->excerpts from books or articles related to glass etching-->
+    <li>animalthings-&gt;excerpts from books or articles related to glass etching</li>
+    <!--EN: animalthings->the negative effects of preferential treatment-->
+    <li>animalthings-&gt;the negative effects of preferential treatment</li>
+  </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+  <!--EN: psychic nuzzle-->
+  <VAERoy_PeacockInteraction.label>psychic nuzzle</VAERoy_PeacockInteraction.label>
+  <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].-->
+    <li>r_logentry(p=2)-&gt;[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <!--EN: nuzzled(p=2)->psychically nuzzled-->
+    <li>nuzzled(p=2)-&gt;psychically nuzzled</li>
+    <!--EN: nuzzled->psychically snuggled up to-->
+    <li>nuzzled-&gt;psychically snuggled up to</li>
+    <!--EN: nuzzleadverb(p=4)->-->
+    <li>nuzzleadverb(p=4)-&gt;</li>
+    <!--EN: nuzzleadverb->gently-->
+    <li>nuzzleadverb-&gt;gently</li>
+    <!--EN: nuzzleadverb->encouragingly-->
+    <li>nuzzleadverb-&gt;encouragingly</li>
+    <!--EN: nuzzleadverb->happily-->
+    <li>nuzzleadverb-&gt;happily</li>
+    <!--EN: nuzzleadverb->softly-->
+    <li>nuzzleadverb-&gt;softly</li>
+    <!--EN: nuzzleadverb->supportively-->
+    <li>nuzzleadverb-&gt;supportively</li>
+    <!--EN: nuzzleadverb->lightly-->
+    <li>nuzzleadverb-&gt;lightly</li>
+    <!--EN: nuzzleadverb->warmly-->
+    <li>nuzzleadverb-&gt;warmly</li>
+    <!--EN: nuzzleadverb->plaintively-->
+    <li>nuzzleadverb-&gt;plaintively</li>
+    <!--EN: nuzzleadverb->lovingly-->
+    <li>nuzzleadverb-&gt;lovingly</li>
+    <!--EN: nuzzleadverb->affectionately-->
+    <li>nuzzleadverb-&gt;affectionately</li>
+    <!--EN: rubbedpart->leg-->
+    <li>rubbedpart-&gt;leg</li>
+    <!--EN: rubbedpart->knee-->
+    <li>rubbedpart-&gt;knee</li>
+    <!--EN: rubbedpart->foot-->
+    <li>rubbedpart-&gt;foot</li>
+    <!--EN: rubbedpart->elbow-->
+    <li>rubbedpart-&gt;elbow</li>
+    <!--EN: rubbedpart->hip-->
+    <li>rubbedpart-&gt;hip</li>
+    <!--EN: rubbedpart->shoulder-->
+    <li>rubbedpart-&gt;shoulder</li>
+    <!--EN: rubbedpart->hand-->
+    <li>rubbedpart-&gt;hand</li>
+    <!--EN: rubbedpart->side-->
+    <li>rubbedpart-&gt;side</li>
+    <!--EN: rubbedpart->arm-->
+    <li>rubbedpart-&gt;arm</li>
+  </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

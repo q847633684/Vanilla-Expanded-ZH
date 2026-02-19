@@ -1,0 +1,45 @@
+key,text,tag,file,type
+VRE_AndroidDied.label,android died,label,HistoryEventDef/HistoryEventDef.xml,def
+VRE_AndroidsIssue.label,androids,label,IssueDef/IssueDef.xml,def
+VRE_Androids_Respected.label,respected,label,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Respected.description,"Androids' sophisticated technology and intelligence should be acknowledged. We should treat them with admiration and esteem, even if they are different from humans.",description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Respected.comps.0.description,Android,description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Equal.label,equal,label,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Equal.description,"We firmly stand for android equality, asserting that androids have the same rights, opportunities, and moral consideration as their human counterparts.",description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Despised.label,despised,label,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Despised.description,"Androids are inferior to humans. I harbor disdain and contempt for them, as I believe they disrupt the natural order and threaten our humanity.",description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Despised.comps.0.description,Android,description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Despised.comps.2.description,Android self hatred,description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Despised.comps.3.description,Android among us,description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Tools.label,tools,label,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Tools.description,"We view androids as mere tools, designed to serve and assist humans in various tasks, asserting that they exist solely for our convenience and should not be attributed with any rights or moral consideration.\n\n<color=#E5E54C>Gameplay effect:</color>\n - No opinion generation of Androids.\n - No thoughts related to androids dying (works for all colonists as long as precept is part of primary ideology).\n - No thoughts related to androids being enslaved (works for all colonists as long as precept is part of primary ideology).",description,PreceptDef/PreceptDef.xml,def
+VRE_Androids_Respected_Opinion.stages.0.label,android,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.0.label,no androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.0.description,I would prefer to have some androids in the colony.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.1.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.1.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.2.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.2.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.3.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.3.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.4.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.4.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.5.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.5.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.6.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.6.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.7.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.7.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.8.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.8.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.9.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.9.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.10.label,surrounded by androids,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Respected_AndroidsInColony.stages.10.description,I like having androids around. They are great!,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Androids_Despised_Opinion.stages.0.label,android,label,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidDied_Despised.stages.0.label,android died,label,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidDied_Despised.stages.0.description,The only good android is a dead one.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidSelfHatred_Despised.stages.0.label,android self hatred,label,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidSelfHatred_Despised.stages.0.description,I am what I hate. My whole existence is aberrant.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidColonist_Despised.stages.0.label,android among us,label,ThoughtDef/ThoughtDef.xml,def
+VRE_AndroidColonist_Despised.stages.0.description,One of them walks among us. We should expel the android from our home.,description,ThoughtDef/ThoughtDef.xml,def

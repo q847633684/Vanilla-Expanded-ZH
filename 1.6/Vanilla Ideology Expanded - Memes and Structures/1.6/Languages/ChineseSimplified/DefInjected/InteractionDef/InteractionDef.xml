@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: attempt interrogation-->
+  <VFEA_InterrogatePrisoner.label>attempt interrogation</VFEA_InterrogatePrisoner.label>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
+    <!--EN: information->information-->
+    <li>information-&gt;information</li>
+    <!--EN: information->knowledge-->
+    <li>information-&gt;knowledge</li>
+    <!--EN: information->intelligence-->
+    <li>information-&gt;intelligence</li>
+  </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+  <!--EN: try to intimidate-->
+  <VFEA_Intimidate.label>try to intimidate</VFEA_Intimidate.label>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+    <!--EN: negative->had no future-->
+    <li>negative-&gt;had no future</li>
+    <!--EN: negative->had no way to escape-->
+    <li>negative-&gt;had no way to escape</li>
+    <!--EN: negative->should submit immediately-->
+    <li>negative-&gt;should submit immediately</li>
+    <!--EN: negative->should forget [RECIPIENT_possessive] aspirations-->
+    <li>negative-&gt;should forget [RECIPIENT_possessive] aspirations</li>
+    <!--EN: negative->should submit to the colony-->
+    <li>negative-&gt;should submit to the colony</li>
+    <!--EN: negative->should give up the information-->
+    <li>negative-&gt;should give up the information</li>
+    <!--EN: threat->torture-->
+    <li>threat-&gt;torture</li>
+    <!--EN: threat->punishment-->
+    <li>threat-&gt;punishment</li>
+    <!--EN: threat->mutilation-->
+    <li>threat-&gt;mutilation</li>
+    <!--EN: threat->starvation-->
+    <li>threat-&gt;starvation</li>
+    <!--EN: threat->lifetime incarceration-->
+    <li>threat-&gt;lifetime incarceration</li>
+    <!--EN: threat->death-->
+    <li>threat-&gt;death</li>
+    <!--EN: threat->isolation-->
+    <li>threat-&gt;isolation</li>
+    <!--EN: threat->dismemberment-->
+    <li>threat-&gt;dismemberment</li>
+    <!--EN: threat->blunt trauma-->
+    <li>threat-&gt;blunt trauma</li>
+    <!--EN: threat->lacerations-->
+    <li>threat-&gt;lacerations</li>
+    <!--EN: threat->cannibalism-->
+    <li>threat-&gt;cannibalism</li>
+    <!--EN: threat->organ harvesting-->
+    <li>threat-&gt;organ harvesting</li>
+    <!--EN: threat->long confinement-->
+    <li>threat-&gt;long confinement</li>
+    <!--EN: refused->tried to escape-->
+    <li>refused-&gt;tried to escape</li>
+    <!--EN: refused->insulted the colony-->
+    <li>refused-&gt;insulted the colony</li>
+    <!--EN: refused->resisted submitting-->
+    <li>refused-&gt;resisted submitting</li>
+    <!--EN: refused->behaved impertinently-->
+    <li>refused-&gt;behaved impertinently</li>
+    <!--EN: disillusionment->should accept [RECIPIENT_possessive] situation-->
+    <li>disillusionment-&gt;should accept [RECIPIENT_possessive] situation</li>
+    <!--EN: disillusionment->had no hope for another future-->
+    <li>disillusionment-&gt;had no hope for another future</li>
+    <!--EN: disillusionment->would be best off submitting-->
+    <li>disillusionment-&gt;would be best off submitting</li>
+    <!--EN: disillusionment->would not survive on [RECIPIENT_possessive] own-->
+    <li>disillusionment-&gt;would not survive on [RECIPIENT_possessive] own</li>
+    <!--EN: disillusionment->had no option but to submit-->
+    <li>disillusionment-&gt;had no option but to submit</li>
+    <!--EN: givein->give in-->
+    <li>givein-&gt;give in</li>
+    <!--EN: givein->submit [RECIPIENT_objective]self-->
+    <li>givein-&gt;submit [RECIPIENT_objective]self</li>
+    <!--EN: givein->surrender [RECIPIENT_objective]self-->
+    <li>givein-&gt;surrender [RECIPIENT_objective]self</li>
+    <!--EN: givein->yield [RECIPIENT_objective]self-->
+    <li>givein-&gt;yield [RECIPIENT_objective]self</li>
+  </VFEA_Intimidate.logRulesInitiator.rulesStrings>
+</LanguageData>

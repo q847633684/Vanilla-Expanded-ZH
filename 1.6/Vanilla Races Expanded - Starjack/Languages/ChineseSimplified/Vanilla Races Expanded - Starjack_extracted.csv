@@ -1,0 +1,46 @@
+key,text,tag,file,type
+VRE_Astrogenes,Astrogenes,VRE_Astrogenes,Keys.xml,keyed
+VRE_AstrogenesDesc,"Astrogenes are special genetic mutations that only become active in orbit. They don't count towards complexity and metabolism of the gene carrier, but they have no effect on the surface of a planet.",VRE_AstrogenesDesc,Keys.xml,keyed
+VRE_AbilityOnlyInSpace,This ability can only be used while in orbit,VRE_AbilityOnlyInSpace,Keys.xml,keyed
+VRE_StarjackGenes,Number of Starjack Genes:,VRE_StarjackGenes,Keys.xml,keyed
+VRE_StarjackGenesDesc,"By default, Starjacks will spawn with 2 Astrogenes. With this you can make the spawn with anything from 0 to 5 Astrogenes. This will obviously not affect already existing Starjacks!",VRE_StarjackGenesDesc,Keys.xml,keyed
+VREStarjack_Reset,Reset,VREStarjack_Reset,Keys.xml,keyed
+VREStarjack_SpacejumpLegs.label,spacejump,label,AbilityDef/AbilityDef.xml,def
+VREStarjack_SpacejumpLegs.description,Propel yourself to a very distant location in the vacuum of space.,description,AbilityDef/AbilityDef.xml,def
+VREStarjack_SpacejumpLegs.verbProperties.label,jump,label,AbilityDef/AbilityDef.xml,def
+VREStarjack_VacuumResistance_Total.label,vacuum impervious,label,GeneDef/GeneDef.xml,def
+VREStarjack_VacuumResistance_Total.description,"Carriers of this gene have hardier circulatory and respiratory systems, reducing the rate at which hypoxia builds up in the vacuum of space.",description,GeneDef/GeneDef.xml,def
+VREStarjack_Cryostasis.label,cryostasis,label,GeneDef/GeneDef.xml,def
+VREStarjack_Cryostasis.description,"Carriers of this gene do not suffer fatal hypothermia. Instead, their bodies gradually slow down and enter a dormant state when exposed to extreme cold, and they can awaken safely once warmed.",description,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Mild.label,mild oxygen sensitivity,label,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Mild.description,"Carriers of this gene are slightly averse to oxygen-rich environments. In breathable atmosphere, they experience minor respiratory and neurological strain, accompanied by a subtle discomfort with each breath.",description,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Intense.label,intense oxygen sensitivity,label,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Intense.description,"Carriers of this gene suffer severe discomfort and reduced bodily function in oxygenated environments. Exposure to breathable air causes pain, weakness, and labored breathing, making planetary survival difficult.",description,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Extreme.label,extreme oxygen sensitivity,label,GeneDef/GeneDef.xml,def
+VREStarjack_OxygenSensitivity_Extreme.description,Carriers of this gene cannot survive in oxygen-rich environments. Exposure to breathable atmospheres causes rapid lung failure and eventual death. Only the vacuum of space or low-oxygen gravship environments can sustain them.,description,GeneDef/GeneDef.xml,def
+VREStarjack_VacuumEfficiency.label,vacuum efficiency,label,GeneDef/GeneDef.xml,def
+VREStarjack_VacuumEfficiency.description,"Carriers of this gene thrive in space. Their bodies are highly adapted to zero-atmosphere conditions, allowing for faster and more efficient work outside planetary environments. However, they function poorly on terrestrial surfaces.",description,GeneDef/GeneDef.xml,def
+VREStarjack_GravshipAffinity.label,gravship affinity,label,GeneDef/GeneDef.xml,def
+VREStarjack_GravshipAffinity.description,"Carriers of this gene are naturally suited for life aboard gravships. Their genetic makeup enhances their coordination, perception, and technical aptitude in zero-gravity environments, making them exceptional pilots and crew.",description,GeneDef/GeneDef.xml,def
+VREStarjack_Gene_Randomizer.label,randomizer,label,GeneDef/GeneDef.xml,def
+VREStarjack_Gene_Randomizer.description,"Once a pawn receives this gene, it will transform itself into 2 random astrogenes.",description,GeneDef/GeneDef.xml,def
+VREStarjack_CryostasisHediff.label,cryostasis,label,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.description,"This person does not suffer fatal hypothermia. Instead, their bodies gradually slow down and enter a dormant state when exposed to extreme cold, and they can awaken safely once warmed.",description,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.stages.0.label,shivering,label,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.stages.2.label,drowsy,label,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.stages.3.label,sleep,label,HediffDef/HediffDef.xml,def
+VREStarjack_CryostasisHediff.stages.4.label,deep sleep,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.label,hyperoxia,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.description,This creature is suffering from oxygen toxicity caused by exposure to a breathable atmosphere. Their lungs cannot tolerate this much oxygen. They will die soon unless removed to a low-oxygen or vacuum environment.,description,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.stages.0.label,initial,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.stages.2.label,mild,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.stages.3.label,moderate,label,HediffDef/HediffDef.xml,def
+VREStarjack_Hyperoxia.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+VREStarjack_OxygenSensitivity_Mild.stages.0.label,oxygen sensitivity,label,ThoughtDef/ThoughtDef.xml,def
+VREStarjack_OxygenSensitivity_Mild.stages.0.description,The air feels sharp in my lungs. Every breath burns a little more than the last.,description,ThoughtDef/ThoughtDef.xml,def
+VREStarjack_OxygenSensitivity_Intense.stages.0.label,oxygen sensitivity,label,ThoughtDef/ThoughtDef.xml,def
+VREStarjack_OxygenSensitivity_Intense.stages.0.description,The oxygen sears my lungs. Every breath feels like inhaling fire.,description,ThoughtDef/ThoughtDef.xml,def
+VREStarjack_OxygenSensitivity_Extreme.stages.0.label,oxygen sensitivity,label,ThoughtDef/ThoughtDef.xml,def
+VREStarjack_OxygenSensitivity_Extreme.stages.0.description,I can’t breathe. The air is tearing me apart from the inside.,description,ThoughtDef/ThoughtDef.xml,def

@@ -1,0 +1,101 @@
+key,text,tag,file,type
+AEXP_WalrusTusk.label,walrus tusk,label,ThingDef/ThingDef.xml,def
+AEXP_WalrusTusk.description,"A walrus's tusk. It is quite valuable, but somewhat unwieldy as a melee weapon.",description,ThingDef/ThingDef.xml,def
+AEXP_WalrusTusk.tools.0.label,point,label,ThingDef/ThingDef.xml,def
+AEXP_WalrusTusk.tools.1.label,base,label,ThingDef/ThingDef.xml,def
+AEXP_EggPenguinUnfertilized.label,penguin egg (unfert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggPenguinUnfertilized.description,"An unfertilized penguin egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggPenguinFertilized.label,penguin egg (fert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggPenguinFertilized.description,"A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggAlligatorUnfertilized.label,alligator egg (unfert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggAlligatorUnfertilized.description,"An unfertilized alligator egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggAlligatorFertilized.label,alligator egg (fert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggAlligatorFertilized.description,"A fertilized alligator egg. If all goes well, it should hatch into an alligator. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_RawFish.label,raw fish,label,ThingDef/ThingDef.xml,def
+AEXP_RawFish.description,Raw fish. A resourceful penguin has fished this.,description,ThingDef/ThingDef.xml,def
+AEXP_RawFish.tools.0.label,raw fish,label,ThingDef/ThingDef.xml,def
+AEXP_Leather_Hippopotamus.label,hippopotamus leather,label,ThingDef/ThingDef.xml,def
+AEXP_Leather_Hippopotamus.description,"A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation.",description,ThingDef/ThingDef.xml,def
+AEXP_Leather_Pinniped.label,pinniped leather,label,ThingDef/ThingDef.xml,def
+AEXP_Leather_Pinniped.description,Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat.,description,ThingDef/ThingDef.xml,def
+AEXP_Leather_Tiger.label,tiger leather,label,ThingDef/ThingDef.xml,def
+AEXP_Leather_Tiger.description,"Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements.",description,ThingDef/ThingDef.xml,def
+AEXP_MuskOxWool.label,musk ox wool,label,ThingDef/ThingDef.xml,def
+AEXP_MuskOxWool.description,"The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool.",description,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.label,hippopotamus,label,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.description,"A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt.",description,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.tools.1.label,left foot,label,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.tools.2.label,right foot,label,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Hippopotamus.label,hippopotamus,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Hippopotamus.labelPlural,hippopotami,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Hippopotamus.lifeStages.0.label,hippopotamus calf,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Otter.label,otter,label,ThingDef/ThingDef.xml,def
+AEXP_Otter.description,"Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time.",description,ThingDef/ThingDef.xml,def
+AEXP_Otter.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_Otter.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_Otter.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Otter.label,otter,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Penguin.label,penguin,label,ThingDef/ThingDef.xml,def
+AEXP_Penguin.description,"An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them.",description,ThingDef/ThingDef.xml,def
+AEXP_Penguin.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+AEXP_Penguin.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+AEXP_Penguin.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Penguin.label,penguin,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Penguin.labelPlural,penguins,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Seal.label,seal,label,ThingDef/ThingDef.xml,def
+AEXP_Seal.description,"A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce.",description,ThingDef/ThingDef.xml,def
+AEXP_Seal.tools.0.label,left fore-flipper,label,ThingDef/ThingDef.xml,def
+AEXP_Seal.tools.1.label,right fore-flipper,label,ThingDef/ThingDef.xml,def
+AEXP_Seal.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Seal.label,seal,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Walrus.label,walrus,label,ThingDef/ThingDef.xml,def
+AEXP_Walrus.description,"A large marine animal only found in the arctic regions of the planet, a walrus has prominent tusks which are a valuable luxury good across the planet.",description,ThingDef/ThingDef.xml,def
+AEXP_Walrus.tools.1.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Walrus.label,walrus,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Badger.label,badger,label,ThingDef/ThingDef.xml,def
+AEXP_Badger.description,"Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits.",description,ThingDef/ThingDef.xml,def
+AEXP_Badger.tools.0.label,left paw,label,ThingDef/ThingDef.xml,def
+AEXP_Badger.tools.1.label,right paw,label,ThingDef/ThingDef.xml,def
+AEXP_Badger.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Badger.label,badger,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Gorilla.label,gorilla,label,ThingDef/ThingDef.xml,def
+AEXP_Gorilla.description,"These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened.",description,ThingDef/ThingDef.xml,def
+AEXP_Gorilla.tools.0.label,left fist,label,ThingDef/ThingDef.xml,def
+AEXP_Gorilla.tools.1.label,right fist,label,ThingDef/ThingDef.xml,def
+AEXP_Gorilla.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Gorilla.label,gorilla,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Gorilla.labelPlural,gorillas,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Tiger.label,tiger,label,ThingDef/ThingDef.xml,def
+AEXP_Tiger.description,"The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals.",description,ThingDef/ThingDef.xml,def
+AEXP_Tiger.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_Tiger.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_Tiger.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Tiger.label,tiger,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Alligator.label,alligator,label,ThingDef/ThingDef.xml,def
+AEXP_Alligator.description,"The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives.",description,ThingDef/ThingDef.xml,def
+AEXP_Alligator.label,alligator,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Muskox.label,musk ox,label,ThingDef/ThingDef.xml,def
+AEXP_Muskox.description,"Musk oxen are massive buffalo-like mammals that roam the tundra areas in search for roots, mosses and lichens to sustain them. Being related to muffalos, musk oxen can be used as pack animals. They are noted for their thick coat and for the strong odor emitted during the seasonal rut by males, from which their name derives.",description,ThingDef/ThingDef.xml,def
+AEXP_Muskox.tools.0.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Muskox.tools.1.label,left hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Muskox.tools.2.label,right hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Muskox.label,musk ox,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Muskox.labelPlural,musk oxen,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Muskox.lifeStages.0.label,musk ox calf,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Muskox.lifeStages.0.labelPlural,musk oxen calves,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Moose.label,moose,label,ThingDef/ThingDef.xml,def
+AEXP_Moose.description,"The largest and heaviest member of the deer family, well-adapted to life in cold climates. Can easily be identified due to the size of the antlers and long, thin legs. Cannot carry packs, but domesticated moose can be milked. Unlike most other deer species, moose do not form herds and are solitary animals. Although generally slow-moving and sedentary, moose can become aggressive and move quickly if angered or startled.",description,ThingDef/ThingDef.xml,def
+AEXP_Moose.tools.0.label,left hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Moose.tools.1.label,right hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Moose.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Moose.label,moose,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Moose.labelPlural,moose,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Moose.lifeStages.0.label,moose calf,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Moose.lifeStages.0.labelPlural,moose calves,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Porcupine.label,porcupine,label,ThingDef/ThingDef.xml,def
+AEXP_Porcupine.description,A large rodent with a coat of sharp quills that protect it against predators.,description,ThingDef/ThingDef.xml,def
+AEXP_Porcupine.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_Porcupine.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_Porcupine.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Porcupine.label,porcupine,label,PawnKindDef/PawnKindDef.xml,def

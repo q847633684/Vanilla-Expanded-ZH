@@ -1,0 +1,833 @@
+key,text,tag,file,type
+VFEA.AbilityDisableReasonCooldown,{0} is on cooldown for {1},VFEA.AbilityDisableReasonCooldown,Abilities.xml,keyed
+VFEA.AbilityDisableReasonGeneral,{0} doesn't meet the requirements,VFEA.AbilityDisableReasonGeneral,Abilities.xml,keyed
+VFEA.AbilityStatsPower,Power,VFEA.AbilityStatsPower,Abilities.xml,keyed
+VFEA.AbilityStatsDuration,Duration,VFEA.AbilityStatsDuration,Abilities.xml,keyed
+VFEA.TargetMustBeHostile,Target must be hostile,VFEA.TargetMustBeHostile,Abilities.xml,keyed
+VFEA.MinRadius,Minimum radius,VFEA.MinRadius,Abilities.xml,keyed
+VFEA.RClickToAuto,Right-click to enable autocasting.,VFEA.RClickToAuto,Abilities.xml,keyed
+VFEA.RClickToNoAuto,Right-click to disable autocasting.,VFEA.RClickToNoAuto,Abilities.xml,keyed
+VEF_DisableCorpseDecaying,Disable corpse decaying,VEF_DisableCorpseDecaying,Abilities.xml,keyed
+VEF_DisableCorpseDecayingDesc,Disable the constant corpse decaying ability of this animal.,VEF_DisableCorpseDecayingDesc,Abilities.xml,keyed
+VEF_EnableCorpseDecaying,Enable corpse decaying,VEF_EnableCorpseDecaying,Abilities.xml,keyed
+VEF_EnableCorpseDecayingDesc,Enable the constant corpse decaying ability of this animal.,VEF_EnableCorpseDecayingDesc,Abilities.xml,keyed
+VEF_DisableDigging,Disable digging for food,VEF_DisableDigging,Abilities.xml,keyed
+VEF_DisableDiggingDesc,Disable the ability to dig the terrain for food of this animal.,VEF_DisableDiggingDesc,Abilities.xml,keyed
+VEF_EnableDigging,Enable digging for food,VEF_EnableDigging,Abilities.xml,keyed
+VEF_EnableDiggingDesc,Enable the ability to dig the terrain for food of this animal.,VEF_EnableDiggingDesc,Abilities.xml,keyed
+VEF_DisableGas,Disable gas production,VEF_DisableGas,Abilities.xml,keyed
+VEF_DisableGasDesc,Disable the ability to produce gas of this animal.,VEF_DisableGasDesc,Abilities.xml,keyed
+VEF_EnableGas,Enable gas production,VEF_EnableGas,Abilities.xml,keyed
+VEF_EnableGasDesc,Enable the ability to produce gas of this animal.,VEF_EnableGasDesc,Abilities.xml,keyed
+NocturnalAnimals.BodyClock,Body clock,NocturnalAnimals.BodyClock,AnimalBehaviours.xml,keyed
+NocturnalAnimals.BodyClock_Description,"Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.",NocturnalAnimals.BodyClock_Description,AnimalBehaviours.xml,keyed
+NocturnalAnimals.BodyClock_Diurnal,Diurnal,NocturnalAnimals.BodyClock_Diurnal,AnimalBehaviours.xml,keyed
+NocturnalAnimals.BodyClock_Nocturnal,Nocturnal,NocturnalAnimals.BodyClock_Nocturnal,AnimalBehaviours.xml,keyed
+NocturnalAnimals.BodyClock_Crepuscular,Crepuscular,NocturnalAnimals.BodyClock_Crepuscular,AnimalBehaviours.xml,keyed
+VEF_AsexualHatched,{0} has reproduced asexually.,VEF_AsexualHatched,AnimalBehaviours.xml,keyed
+VEF_AsexualCloning,{0} has cloned itself.,VEF_AsexualCloning,AnimalBehaviours.xml,keyed
+VEF_AsexualHatchedEgg,{0} has sporulated.,VEF_AsexualHatchedEgg,AnimalBehaviours.xml,keyed
+VEF_NotTameable,This creature is untameable,VEF_NotTameable,AnimalBehaviours.xml,keyed
+VEF_TimeToMetamorphosis,Time to metamorphosis: {0},VEF_TimeToMetamorphosis,AnimalBehaviours.xml,keyed
+VEF_WarningEggExplodes,"Warning, this egg explodes when hatching!",VEF_WarningEggExplodes,AnimalBehaviours.xml,keyed
+VEF_TimeToDie,Animal expires in: {0},VEF_TimeToDie,AnimalBehaviours.xml,keyed
+VEF_DisableAnimal,Disable {0},VEF_DisableAnimal,AnimalBehaviours.xml,keyed
+VEF_StomachContents,{0} creatures swallowed whole.,VEF_StomachContents,AnimalBehaviours.xml,keyed
+VEF_DigestionTime,Will be consumed in {0},VEF_DigestionTime,AnimalBehaviours.xml,keyed
+VEF_TerrainsNeedsDiggable,The terrain needs to be diggable to do this,VEF_TerrainsNeedsDiggable,AnimalBehaviours.xml,keyed
+VEF_WhileCaravaning,"While caravaning, produces {0} {1} every:",VEF_WhileCaravaning,AnimalBehaviours.xml,keyed
+VCE_AffectsAllAnimalMods,These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework,VCE_AffectsAllAnimalMods,AnimalBehaviours.xml,keyed
+VCE_CorpseDecayingEffectOption,"Allow corpse decaying mechanics (for example, Helixien slug's effect)",VCE_CorpseDecayingEffectOption,AnimalBehaviours.xml,keyed
+VCE_DigWhenHungryOption,"Allow digging when hungry mechanics (for example, Frostmites digging corpses)",VCE_DigWhenHungryOption,AnimalBehaviours.xml,keyed
+VCE_DigPeriodicallyOption,Allows animals digging for things periodically,VCE_DigPeriodicallyOption,AnimalBehaviours.xml,keyed
+VCE_AnimalParticlesOption,Allow animal particles (gas and filth),VCE_AnimalParticlesOption,AnimalBehaviours.xml,keyed
+VCE_AsexualReproductionOption,Allow asexual reproduction,VCE_AsexualReproductionOption,AnimalBehaviours.xml,keyed
+VFE_AsexualReproductionDisabled,Asexual reproduction disabled via mod options,VFE_AsexualReproductionDisabled,AnimalBehaviours.xml,keyed
+VCE_BlinkMechanicsOption,"Allow ""blink"" mechanics (for example, Skiphounds)",VCE_BlinkMechanicsOption,AnimalBehaviours.xml,keyed
+VCE_BuildPeriodicallyOption,"Allow animals building things (for example, beavers building dams)",VCE_BuildPeriodicallyOption,AnimalBehaviours.xml,keyed
+VCE_ChargeBatteriesOption,Allow animals recharging nearby batteries or refueling,VCE_ChargeBatteriesOption,AnimalBehaviours.xml,keyed
+VCE_ExplodingEggsOption,Allow animals' eggs that explode (such as dragons'),VCE_ExplodingEggsOption,AnimalBehaviours.xml,keyed
+VCE_HoveringOption,"Allow animals ""hovering"", ignoring terrain movement costs and waterstriding",VCE_HoveringOption,AnimalBehaviours.xml,keyed
+VCE_GraphicChangingOption,"Allow animals changing graphics (for example, Chameleon Yak)",VCE_GraphicChangingOption,AnimalBehaviours.xml,keyed
+VCE_EffecterOption,"Allows animals causing hediffs, mental states or thoughts",VCE_EffecterOption,AnimalBehaviours.xml,keyed
+VCE_RegenerationOption,Allow health regeneration (active and passive),VCE_RegenerationOption,AnimalBehaviours.xml,keyed
+VCE_ResurrectionOption,Allow animals to auto-resurrect (for example Phoenix Owlcat),VCE_ResurrectionOption,AnimalBehaviours.xml,keyed
+VCE_UntameableOption,Allow some animals to be untameable,VCE_UntameableOption,AnimalBehaviours.xml,keyed
+VEF_AnimalsSearch,Search:,VEF_AnimalsSearch,AnimalBehaviours.xml,keyed
+VEF_BillRequiresMass,Requires {0} Kg total mass,VEF_BillRequiresMass,AnimalBehaviours.xml,keyed
+VEF.Factions.Contraband_Booze_GiftWarning,Gifting {ILLEGALTHING_label} is against {FACTION_name} law. This may or may not affect your relations with them in the future,VEF.Factions.Contraband_Booze_GiftWarning,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_GiftIllegalWarning,Gifting {ILLEGALTHING_label} to {ILLEGALFACTION_name} is against {FACTION_name} law. This may or may not affect your relations with them in the future,VEF.Factions.Contraband_Booze_GiftIllegalWarning,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_SellWarning,Selling {ILLEGALTHING_label} is against {FACTION_name} law. This may or may not affect your relations with them in the future,VEF.Factions.Contraband_Booze_SellWarning,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_SellIllegalWarning,Selling {ILLEGALTHING_label} to {ILLEGALFACTION_name} is against {FACTION_name} law. This may or may not affect your relations with them in the future,VEF.Factions.Contraband_Booze_SellIllegalWarning,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_LetterLabel,{FACTION_name} angered,VEF.Factions.Contraband_Booze_LetterLabel,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_LetterDescGift,"{FACTION_name} caught wind that you have been gifting {ILLEGALTHING_label} behind their back. They consider it to be against the law, and your relations have degraded",VEF.Factions.Contraband_Booze_LetterDescGift,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_LetterDescSold,"{FACTION_name} caught wind that you have been selling {ILLEGALTHING_label} behind their back. They consider it to be against the law, and your relations have degraded",VEF.Factions.Contraband_Booze_LetterDescSold,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_LetterDescIllegalGift,"{FACTION_name} caught wind that you have been gifting {ILLEGALTHING_label} to {ILLEGALFACTION_name} behind their back. They consider it to be against the law, and your relations have degraded",VEF.Factions.Contraband_Booze_LetterDescIllegalGift,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_LetterDescIllegalSold,"{FACTION_name} caught wind that you have been selling {ILLEGALTHING_label} to {ILLEGALFACTION_name} behind their back. They consider it to be against the law, and your relations have degraded",VEF.Factions.Contraband_Booze_LetterDescIllegalSold,Contraband.xml,keyed
+VEF.Factions.Contraband_Booze_RelationInfo,Goodwill with {FACTION_name} is now {1}. (Changed by {2}),VEF.Factions.Contraband_Booze_RelationInfo,Contraband.xml,keyed
+VEF.Factions.FactionDef_Description_Contraband,Trading details,VEF.Factions.FactionDef_Description_Contraband,Contraband.xml,keyed
+VEF.Factions.FactionDef_Description_Positives,Positive goodwill from trading {0},VEF.Factions.FactionDef_Description_Positives,Contraband.xml,keyed
+VEF.Factions.FactionDef_Description_Negatives,Negative goodwill from trading {0},VEF.Factions.FactionDef_Description_Negatives,Contraband.xml,keyed
+VWE.CannotEquipHeavy,Weapon requires powered armor,VWE.CannotEquipHeavy,HeavyWeapons.xml,keyed
+IP_InsertFirstItemDesc,Insert,IP_InsertFirstItemDesc,ItemProcessorBase.xml,keyed
+IP_InsertSecondItemDesc,Insert,IP_InsertSecondItemDesc,ItemProcessorBase.xml,keyed
+IP_InsertThirdItemDesc,Insert,IP_InsertThirdItemDesc,ItemProcessorBase.xml,keyed
+IP_InsertFourthItemDesc,Insert,IP_InsertFourthItemDesc,ItemProcessorBase.xml,keyed
+IP_InsertVariable,Insert {0},IP_InsertVariable,ItemProcessorBase.xml,keyed
+IP_Output,Output {0},IP_Output,ItemProcessorBase.xml,keyed
+IP_OutputVariable,Output {0} from {1},IP_OutputVariable,ItemProcessorBase.xml,keyed
+IP_OutputDesc,Processor will output {0}. It needs to be fed {1},IP_OutputDesc,ItemProcessorBase.xml,keyed
+IP_InsertVariableSecond,Insert {0} in 2nd slot,IP_InsertVariableSecond,ItemProcessorBase.xml,keyed
+IP_InsertVariableThird,Insert {0} in 3rd slot,IP_InsertVariableThird,ItemProcessorBase.xml,keyed
+IP_CantFindThing,No items of that kind ({0}) found in this map,IP_CantFindThing,ItemProcessorBase.xml,keyed
+IP_BringIngredients,Bring Ingredients,IP_BringIngredients,ItemProcessorBase.xml,keyed
+IP_BringIngredientsDesc,Bring ingredients to start the process,IP_BringIngredientsDesc,ItemProcessorBase.xml,keyed
+IP_CancelIngredients,Cancel Bringing Ingredients,IP_CancelIngredients,ItemProcessorBase.xml,keyed
+IP_CancelIngredientsDesc,Cancel Bringing Ingredients to this building,IP_CancelIngredientsDesc,ItemProcessorBase.xml,keyed
+IP_NoIngredientFound,No ingredient found on map,IP_NoIngredientFound,ItemProcessorBase.xml,keyed
+IP_ChooseIngredient,Choose Ingredient,IP_ChooseIngredient,ItemProcessorBase.xml,keyed
+IP_ChooseOutput,Choose Output,IP_ChooseOutput,ItemProcessorBase.xml,keyed
+IP_ChooseIngredientSecond,Choose Second Ingredient,IP_ChooseIngredientSecond,ItemProcessorBase.xml,keyed
+IP_ChooseIngredientThird,Choose Third Ingredient,IP_ChooseIngredientThird,ItemProcessorBase.xml,keyed
+IP_ChooseIngredientFourth,Choose Fourth Ingredient,IP_ChooseIngredientFourth,ItemProcessorBase.xml,keyed
+IP_IngredientImproperlyDefined,"One of the ingredients has been improperly defined to work with the item processor, contact the mod's author",IP_IngredientImproperlyDefined,ItemProcessorBase.xml,keyed
+IP_NoPowerDestroysWarning,{0} needs to be powered to start working,IP_NoPowerDestroysWarning,ItemProcessorBase.xml,keyed
+IP_NoFuelDestroysWarning,{0} needs to be fueled to start working,IP_NoFuelDestroysWarning,ItemProcessorBase.xml,keyed
+IP_LightDestroysWarning,{0} needs to have an adequate light level to start working,IP_LightDestroysWarning,ItemProcessorBase.xml,keyed
+IP_RainDestroysWarning,{0} needs to not be raining to start working,IP_RainDestroysWarning,ItemProcessorBase.xml,keyed
+IP_TemperatureDestroysWarning,{0} needs to have an adequate temperature ({1} - {2}) to start working,IP_TemperatureDestroysWarning,ItemProcessorBase.xml,keyed
+IP_NoPowerDestroysInitialWarning,The result is spoiling due to a power failure in the item processor,IP_NoPowerDestroysInitialWarning,ItemProcessorBase.xml,keyed
+IP_NoPowerDestroysMessage,The result has spoiled due to a power failure in the item processor,IP_NoPowerDestroysMessage,ItemProcessorBase.xml,keyed
+IP_GenericProductFinished,A product has finished processing and is waiting for pickup,IP_GenericProductFinished,ItemProcessorBase.xml,keyed
+IP_IsEmpty,{0} is empty,IP_IsEmpty,ItemProcessorBase.xml,keyed
+IP_FilledWith,{0} is filled with {1},IP_FilledWith,ItemProcessorBase.xml,keyed
+IP_FilledWithSecond,{0}'s 2nd slot is filled with {1},IP_FilledWithSecond,ItemProcessorBase.xml,keyed
+IP_FilledWithThird,{0}'s 3rd slot is filled with {1},IP_FilledWithThird,ItemProcessorBase.xml,keyed
+IP_FilledWithFourth,{0}'s 4th slot is filled with {1},IP_FilledWithFourth,ItemProcessorBase.xml,keyed
+IP_IngredientPercentage,(filled at {0} of {1}),IP_IngredientPercentage,ItemProcessorBase.xml,keyed
+IP_ProcessorWorking,{0} is working:,IP_ProcessorWorking,ItemProcessorBase.xml,keyed
+IP_ProcessorPaused,{0} is paused:,IP_ProcessorPaused,ItemProcessorBase.xml,keyed
+IP_ProcessingInProgress,{0} is processing {1}. {2} will be ready with {3} quality in {4},IP_ProcessingInProgress,ItemProcessorBase.xml,keyed
+IP_ProcessingInProgressNoQuality,{0} is processing {1}. {2} will be ready in {3},IP_ProcessingInProgressNoQuality,ItemProcessorBase.xml,keyed
+IP_RemoveProduct,Remove {0} ({1}),IP_RemoveProduct,ItemProcessorBase.xml,keyed
+IP_RemoveProductDesc,Remove {0} from the {1}. The product will be ready at the present quality level ({2}),IP_RemoveProductDesc,ItemProcessorBase.xml,keyed
+IP_ResetSemiautomatic,Reset Recipes,IP_ResetSemiautomatic,ItemProcessorBase.xml,keyed
+IP_ResetSemiautomaticDesc,"This will reset the building after the current product is finished, so a new input ingredient can be chosen",IP_ResetSemiautomaticDesc,ItemProcessorBase.xml,keyed
+IP_NoCombination,No combination found for these ingredients,IP_NoCombination,ItemProcessorBase.xml,keyed
+IP_SetAutoQuality,"Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality.",IP_SetAutoQuality,ItemProcessorBase.xml,keyed
+IP_ChooseQualityAuto,Choose Auto Quality,IP_ChooseQualityAuto,ItemProcessorBase.xml,keyed
+IP_QualityAutoIs,Auto Quality: {0},IP_QualityAutoIs,ItemProcessorBase.xml,keyed
+IP_QualityAutoNot,Disable Auto Quality,IP_QualityAutoNot,ItemProcessorBase.xml,keyed
+IP_QualityAutoEstablished,"Auto Quality, product will be extracted at quality level: {0}",IP_QualityAutoEstablished,ItemProcessorBase.xml,keyed
+IP_ToggleAuto,Auto Ingredient Acquiring,IP_ToggleAuto,ItemProcessorBase.xml,keyed
+IP_ToggleAutoDesc,"If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled",IP_ToggleAutoDesc,ItemProcessorBase.xml,keyed
+IP_ResetFullAuto,Reset Machine,IP_ResetFullAuto,ItemProcessorBase.xml,keyed
+IP_ResetFullAutoDesc,"Fully resets the machine and makes it stop. Warning, it will destroy the process and the input items",IP_ResetFullAutoDesc,ItemProcessorBase.xml,keyed
+IP_ProductWaiting,Waiting for pickup,IP_ProductWaiting,ItemProcessorBase.xml,keyed
+IP_OutsideLightRange,The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon,IP_OutsideLightRange,ItemProcessorBase.xml,keyed
+IP_SpoiledDueToLight,The product in this machine has spoiled due to an inadequate level of light,IP_SpoiledDueToLight,ItemProcessorBase.xml,keyed
+IP_ItRains,The process in this machine is being interrupted due to inclement weather and will be spoiled soon,IP_ItRains,ItemProcessorBase.xml,keyed
+IP_SpoiledDueToRain,The product in this machine has spoiled due to inclement weather,IP_SpoiledDueToRain,ItemProcessorBase.xml,keyed
+IP_WrongTemp,The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon,IP_WrongTemp,ItemProcessorBase.xml,keyed
+IP_SpoiledDueToWrongTemp,The product has spoiled due to an unsuitable temperature. Needs between {0} and {1} ºC,IP_SpoiledDueToWrongTemp,ItemProcessorBase.xml,keyed
+IP_TempRangeInThisMachine,Current process needs a temperature between {0} and {1} ºC,IP_TempRangeInThisMachine,ItemProcessorBase.xml,keyed
+IP_TogglePause,Pause / Restart,IP_TogglePause,ItemProcessorBase.xml,keyed
+IP_TogglePauseDesc,Pause / Restart this machine's processing,IP_TogglePauseDesc,ItemProcessorBase.xml,keyed
+IP_OverThreshold,Waiting for output to clear. Output limit is {0},IP_OverThreshold,ItemProcessorBase.xml,keyed
+IP_NoRecipesHere,No modded recipes found for this factory,IP_NoRecipesHere,ItemProcessorBase.xml,keyed
+KCSG.Add,Add,KCSG.Add,KCSG.xml,keyed
+KCSG.Remove,Remove,KCSG.Remove,KCSG.xml,keyed
+KCSG.SpawnNearCenter,Spawn near center,KCSG.SpawnNearCenter,KCSG.xml,keyed
+KCSG.AllowFoggedPosition,Allow fogged position,KCSG.AllowFoggedPosition,KCSG.xml,keyed
+KCSG.SpawnPartOfEnnemyFaction,Spawn part of ennemy faction,KCSG.SpawnPartOfEnnemyFaction,KCSG.xml,keyed
+KCSG.Mapcontains,Map contains,KCSG.Mapcontains,KCSG.xml,keyed
+KCSG.Enter,Enter {0},KCSG.Enter,KCSG.xml,keyed
+KCSG.CantEnter,Cannot enter {0},KCSG.CantEnter,KCSG.xml,keyed
+VanillaFactionsExpanded.EquipShield,Equip {0} as shield,VanillaFactionsExpanded.EquipShield,Keys.xml,keyed
+VanillaFactionsExpanded.EquipWarningShieldUnusable,(unusable with {0}),VanillaFactionsExpanded.EquipWarningShieldUnusable,Keys.xml,keyed
+VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon,({0} will be unusable),VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon,Keys.xml,keyed
+VanillaFactionsExpanded.Protects,Protects,VanillaFactionsExpanded.Protects,Keys.xml,keyed
+VanillaFactionsExpanded.Protects_Desc,What body parts the shield protects.,VanillaFactionsExpanded.Protects_Desc,Keys.xml,keyed
+VanillaFactionsExpanded.ScenPart_ForcedFactionRelations,Faction relation modifiers,VanillaFactionsExpanded.ScenPart_ForcedFactionRelations,Keys.xml,keyed
+VanillaFactionsExpanded.NumberRange,{0} to {1},VanillaFactionsExpanded.NumberRange,Keys.xml,keyed
+VanillaFactionsExpanded.AllFactions,All factions,VanillaFactionsExpanded.AllFactions,Keys.xml,keyed
+VanillaFactionsExpanded.AllFactionsIncludingHidden,All factions including hidden,VanillaFactionsExpanded.AllFactionsIncludingHidden,Keys.xml,keyed
+VanillaFactionsExpanded.AlwaysHostile,Always hostile,VanillaFactionsExpanded.AlwaysHostile,Keys.xml,keyed
+VanillaFactionsExpanded.AffectHiddenFactions,Affect hidden,VanillaFactionsExpanded.AffectHiddenFactions,Keys.xml,keyed
+VanillaFactionsExpanded.StartingGoodwill,Starting,VanillaFactionsExpanded.StartingGoodwill,Keys.xml,keyed
+VanillaFactionsExpanded.NaturalGoodwill,Natural,VanillaFactionsExpanded.NaturalGoodwill,Keys.xml,keyed
+VanillaFactionsExpanded.UsableWithShield,Usable with shields,VanillaFactionsExpanded.UsableWithShield,Keys.xml,keyed
+VanillaFactionsExpanded.UsableWithShield_Desc,Whether or not this weapon can be used if the character also has a shield equipped.,VanillaFactionsExpanded.UsableWithShield_Desc,Keys.xml,keyed
+VEF.Weapons.Stat_Thing_MaterialPerCharge,Ammo per charge,VEF.Weapons.Stat_Thing_MaterialPerCharge,Keys.xml,keyed
+VEF.Weapons.Stat_Thing_MaterialPerCharge_Value,{0} {1} per charge (total {2} charges),VEF.Weapons.Stat_Thing_MaterialPerCharge_Value,Keys.xml,keyed
+VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc,The amount of {0} per charge this ability needs to be recharged.,VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc,Keys.xml,keyed
+VanillaFactionsExpanded.FactionTitle,New faction: {FactionName},VanillaFactionsExpanded.FactionTitle,Keys.xml,keyed
+VanillaFactionsExpanded.ModInfo,This faction is added by {ModName} and not currently present in your game.,VanillaFactionsExpanded.ModInfo,Keys.xml,keyed
+VanillaFactionsExpanded.AnUnknownMod,an unknown mod,VanillaFactionsExpanded.AnUnknownMod,Keys.xml,keyed
+VanillaFactionsExpanded.HiddenFactionInfo,This is a hidden faction and won't show up in your faction list.,VanillaFactionsExpanded.HiddenFactionInfo,Keys.xml,keyed
+VanillaFactionsExpanded.RequiredFactionInfo,It is marked as required by {ModName}.,VanillaFactionsExpanded.RequiredFactionInfo,Keys.xml,keyed
+VanillaFactionsExpanded.NonSpawningFactionInfo,This faction is marked as non-spawning and you should probably just ignore it.,VanillaFactionsExpanded.NonSpawningFactionInfo,Keys.xml,keyed
+VanillaFactionsExpanded.FactionSelectOption,Please select how to proceed:,VanillaFactionsExpanded.FactionSelectOption,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonAdd,Add the faction,VanillaFactionsExpanded.FactionButtonAdd,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonAddFull,Add the faction with settlements,VanillaFactionsExpanded.FactionButtonAddFull,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonSkip,Do nothing,VanillaFactionsExpanded.FactionButtonSkip,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonIgnore,Don't ask for this faction again,VanillaFactionsExpanded.FactionButtonIgnore,Keys.xml,keyed
+VanillaFactionsExpanded.FactionMessageFailed,Failed to add the faction.,VanillaFactionsExpanded.FactionMessageFailed,Keys.xml,keyed
+VanillaFactionsExpanded.FactionMessageFailedFull,Failed to create a faction with settlements.,VanillaFactionsExpanded.FactionMessageFailedFull,Keys.xml,keyed
+VanillaFactionsExpanded.FactionMessageSuccessFull,Added {FactionName} with {Amount} settlements.,VanillaFactionsExpanded.FactionMessageSuccessFull,Keys.xml,keyed
+VanillaFactionsExpanded.FactionMessageSuccess,Added {FactionName}.,VanillaFactionsExpanded.FactionMessageSuccess,Keys.xml,keyed
+VanillaFactionsExpanded.FactionDiscoveryRequired,"It is marked as required, and you must add it to the game.",VanillaFactionsExpanded.FactionDiscoveryRequired,Keys.xml,keyed
+VanillaFactionsExpanded.FactionFailedMessage,"Failed to generate this faction. It is recommended to try again, but you can now skip adding this faction. Skipping may cause issues.",VanillaFactionsExpanded.FactionFailedMessage,Keys.xml,keyed
+VanillaFactionsExpanded.FactionRequired,"{FACTION} cannot be disabled{REQUIRED_multiple ? , you need at least {REQUIRED} factions of that type. : .}",VanillaFactionsExpanded.FactionRequired,Keys.xml,keyed
+VanillaFactionsExpanded.FactionRecommended,"{REQUIRED_multiple ? It is recommended to have at least {REQUIRED} factions of {FACTION} type, but currently there's only {COUNT}. : It is recommended to enable {FACTION}.}",VanillaFactionsExpanded.FactionRecommended,Keys.xml,keyed
+VanillaFactionsExpanded.FactionSettlementsToSpawn,Settlements to spawn (recommended are {0}): {1},VanillaFactionsExpanded.FactionSettlementsToSpawn,Keys.xml,keyed
+VanillaFactionsExpanded.FactionMinDistance,The minimum distance from player bases (recommended are {0}): {1},VanillaFactionsExpanded.FactionMinDistance,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonSpawn,Spawn,VanillaFactionsExpanded.FactionButtonSpawn,Keys.xml,keyed
+VanillaFactionsExpanded.FactionButtonCancel,Cancel,VanillaFactionsExpanded.FactionButtonCancel,Keys.xml,keyed
+VSE.Reinforcements,Reinforcements,VSE.Reinforcements,Keys.xml,keyed
+VSE.ReinforcementsDesc,"Seeing that your forces suffered losses, {FACTION_name} has decided to reinforce their raiding force",VSE.ReinforcementsDesc,Keys.xml,keyed
+VSE.CostGoodwill,cost: {0} goodwill,VSE.CostGoodwill,Keys.xml,keyed
+VWEL_ToggleHotshotLabel,Weapon warm-up,VWEL_ToggleHotshotLabel,Keys.xml,keyed
+VWEL_ToggleHotshotDesc,Shots fired when standing still warm-up the weapon allowing for increased firing speed. Overheating can lead to detonation.,VWEL_ToggleHotshotDesc,Keys.xml,keyed
+VFE_DeepDrillNo,Deep drill cannot be used with {0}.,VFE_DeepDrillNo,Keys.xml,keyed
+VEF.TeleportTo,Teleport to {0},VEF.TeleportTo,Keys.xml,keyed
+VEF.TotalMarketValueRange,Market value range (base),VEF.TotalMarketValueRange,Keys.xml,keyed
+VEF.TotalMarketValueRange_Desc,Total market value range (minimum and maximum) of the objects that can be found by opening this loot box.,VEF.TotalMarketValueRange_Desc,Keys.xml,keyed
+VEF.TotalMarketValueRange_Quality,Market value range (by quality),VEF.TotalMarketValueRange_Quality,Keys.xml,keyed
+VEF.TotalMarketValueRange_Quality_Desc,Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0},VEF.TotalMarketValueRange_Quality_Desc,Keys.xml,keyed
+VFEMechForceRecharge,Force Recharge,VFEMechForceRecharge,Machines.xml,keyed
+VFEMechForceRechargeDesc,"Order the associated machine to return to this platform for charging, regardless of its current battery level.",VFEMechForceRechargeDesc,Machines.xml,keyed
+VFEMechAttachTurret,Attach Turret,VFEMechAttachTurret,Machines.xml,keyed
+VFEMechAttachTurretDesc,Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost.,VFEMechAttachTurretDesc,Machines.xml,keyed
+VFEMechMachineDied,Machine destroyed,VFEMechMachineDied,Machines.xml,keyed
+VFEMechMachineDiedDesc,"One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0}",VFEMechMachineDiedDesc,Machines.xml,keyed
+VFEMechNoResources,Not enough resources,VFEMechNoResources,Machines.xml,keyed
+VFEMechNoTurret,No active mobile turret,VFEMechNoTurret,Machines.xml,keyed
+VFEMechReconstruct,Needed to rebuild machine:,VFEMechReconstruct,Machines.xml,keyed
+VFEMechTurretResources,Needed to construct turret:,VFEMechTurretResources,Machines.xml,keyed
+VFEMechLowerRange,Reduce range,VFEMechLowerRange,Machines.xml,keyed
+VFEMechLowerRangeDesc,Reduce the number of tiles this machine will travel.,VFEMechLowerRangeDesc,Machines.xml,keyed
+VFEMechRaiseRange,Increase range,VFEMechRaiseRange,Machines.xml,keyed
+VFEMechRaiseRangeDesc,Increase the number of tiles this machine will travel.,VFEMechRaiseRangeDesc,Machines.xml,keyed
+VFEMechStopMachine,Stop machine,VFEMechStopMachine,Machines.xml,keyed
+VFEMechStopMachineDesc,Stop this machine's progress and force it to return to base.,VFEMechStopMachineDesc,Machines.xml,keyed
+VFEMechStartMachine,Start machine,VFEMechStartMachine,Machines.xml,keyed
+VFEMechStartMachineDesc,Start this machine.,VFEMechStartMachineDesc,Machines.xml,keyed
+VFEMechMachineHitObstacle,Machine has run into an obstacle!,VFEMechMachineHitObstacle,Machines.xml,keyed
+VFEMechSetArea,Set area,VFEMechSetArea,Machines.xml,keyed
+VFEMechSetAreaDesc,Set the allowed area for all of this platform's associated machines.,VFEMechSetAreaDesc,Machines.xml,keyed
+VFEMRideableMachineTip,"This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole.",VFEMRideableMachineTip,Machines.xml,keyed
+VFEM.CaravanMachineRanOutPower,"{MACHINE_nameDef} ran out of power, and was left behind.",VFEM.CaravanMachineRanOutPower,Machines.xml,keyed
+VFEM.DroneGainsName,The drone's name is now {0}.,VFEM.DroneGainsName,Machines.xml,keyed
+MVCF.Toggle,Toggle {0},MVCF.Toggle,MVCF.xml,keyed
+MVCF.ToggleUsing,Toggle using {0} automatically,MVCF.ToggleUsing,MVCF.xml,keyed
+MVCF.ToggleAuto,Toggle automatic usage,MVCF.ToggleAuto,MVCF.xml,keyed
+MVCF.Cooldown,Still on cooldown. {0} left.,MVCF.Cooldown,MVCF.xml,keyed
+MVCF.Setting,Multi-Verb Combat Framework,MVCF.Setting,MVCF.xml,keyed
+MVCF.Settings.Debug,Developer Mode,MVCF.Settings.Debug,MVCF.xml,keyed
+MVCF.Settings.LogLevel,Log level:,MVCF.Settings.LogLevel,MVCF.xml,keyed
+MVCF.Settings.LogLevel.None,None,MVCF.Settings.LogLevel.None,MVCF.xml,keyed
+MVCF.Settings.LogLevel.Important,Important,MVCF.Settings.LogLevel.Important,MVCF.xml,keyed
+MVCF.Settings.LogLevel.Info,Info,MVCF.Settings.LogLevel.Info,MVCF.xml,keyed
+MVCF.Settings.LogLevel.Verbose,Verbose,MVCF.Settings.LogLevel.Verbose,MVCF.xml,keyed
+MVCF.Settings.LogLevel.Silly,Silly,MVCF.Settings.LogLevel.Silly,MVCF.xml,keyed
+MVCF.Settings.LogLevel.Tick,Tick,MVCF.Settings.LogLevel.Tick,MVCF.xml,keyed
+MVCF.ToggleAutoReload,Toggle automatic reloading while drafted,MVCF.ToggleAutoReload,MVCF.xml,keyed
+Outposts.Settings.Title,VE Framework - Outposts,Outposts.Settings.Title,Outposts.xml,keyed
+Outposts.Settings.Multiplier.Production,Gloabal Production Multiplier: {0},Outposts.Settings.Multiplier.Production,Outposts.xml,keyed
+Outposts.Settings.Multiplier.Time,Global Time Multiplier: {0},Outposts.Settings.Multiplier.Time,Outposts.xml,keyed
+Outposts.Settings.RaidDifficulty,Global Raid Difficulty Multiplier: {0},Outposts.Settings.RaidDifficulty,Outposts.xml,keyed
+Outposts.Settings.RaidFrequency,Raid Frequency Range,Outposts.Settings.RaidFrequency,Outposts.xml,keyed
+Outposts.Dialog.Create,Create,Outposts.Dialog.Create,Outposts.xml,keyed
+Outposts.Commands.Create.Label,Create Outpost,Outposts.Commands.Create.Label,Outposts.xml,keyed
+Outposts.Commands.Create.Desc,Create a new outpost using this caravan,Outposts.Commands.Create.Desc,Outposts.xml,keyed
+Outposts.Commands.TakeItems.Label,Take items,Outposts.Commands.TakeItems.Label,Outposts.xml,keyed
+Outposts.Commands.TakeItems.Desc,Take items from {0} and add them to the caravan,Outposts.Commands.TakeItems.Desc,Outposts.xml,keyed
+Outposts.Commands.GiveItems.Label,Give items,Outposts.Commands.GiveItems.Label,Outposts.xml,keyed
+Outposts.Commands.GiveItems.Desc,Take items from {0} and add them to the outpost,Outposts.Commands.GiveItems.Desc,Outposts.xml,keyed
+Outposts.Letters.Lost.Label,Outpost Lost,Outposts.Letters.Lost.Label,Outposts.xml,keyed
+Outposts.Letters.Lost.Text,"Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us.",Outposts.Letters.Lost.Text,Outposts.xml,keyed
+Outposts.Letters.BattleWon.Label,Outpost Battle Won,Outposts.Letters.BattleWon.Label,Outposts.xml,keyed
+Outposts.Letters.BattleWon.Text,We have successfully won the battle for {0}.{1},Outposts.Letters.BattleWon.Text,Outposts.xml,keyed
+Outposts.Letters.BattleWon.Captured,We have managed to capture {0} in the aftermath,Outposts.Letters.BattleWon.Captured,Outposts.xml,keyed
+Outposts.Letters.BattleWon.Rescued,We have managed to recover {0}'s body,Outposts.Letters.BattleWon.Rescued,Outposts.xml,keyed
+Outposts.Letters.BattleWon.Secured,We have secured: {0} worth of goods and weapons from the raiders,Outposts.Letters.BattleWon.Secured,Outposts.xml,keyed
+Outposts.Letters.Items.Label,Items From {0},Outposts.Letters.Items.Label,Outposts.xml,keyed
+Outposts.Letters.Items.Text,You have received the follow items from the outpost {0}:,Outposts.Letters.Items.Text,Outposts.xml,keyed
+Outposts.Commands.AddPawn.Label,Add Pawn,Outposts.Commands.AddPawn.Label,Outposts.xml,keyed
+Outposts.Commands.AddPawn.Desc,Transfer a pawn from this caravan to the outpost,Outposts.Commands.AddPawn.Desc,Outposts.xml,keyed
+Outposts.Commands.DeliveryColony.Label,Delivery Destination,Outposts.Commands.DeliveryColony.Label,Outposts.xml,keyed
+Outposts.Commands.DeliveryColony.Desc,Select which colony will recieve the goods. Currently: {0},Outposts.Commands.DeliveryColony.Desc,Outposts.xml,keyed
+Outposts.Commands.Pack.Label,Pack,Outposts.Commands.Pack.Label,Outposts.xml,keyed
+Outposts.Commands.Pack.Desc,Begin packing this outpost back into a caravan,Outposts.Commands.Pack.Desc,Outposts.xml,keyed
+Outposts.Commands.StopPack.Label,Stop packing,Outposts.Commands.StopPack.Label,Outposts.xml,keyed
+Outposts.Commands.StopPack.Desc,Cancel packing this outpost into a caravan,Outposts.Commands.StopPack.Desc,Outposts.xml,keyed
+Outposts.Commands.Remove.Label,Remove Pawn,Outposts.Commands.Remove.Label,Outposts.xml,keyed
+Outposts.Commands.Remove.Desc,Remove a pawn from this outpost into a new caravan,Outposts.Commands.Remove.Desc,Outposts.xml,keyed
+Outposts.Command.Remove.Only1,"Cannot remove pawns: Only 1 inhabitant. If you want to remove this outpost, select ""Pack"".",Outposts.Command.Remove.Only1,Outposts.xml,keyed
+Outposts.Contains,Contains {0} pawns,Outposts.Contains,Outposts.xml,keyed
+Outposts.Packing,Packing into caravan. Done in {0},Outposts.Packing,Outposts.xml,keyed
+Outposts.NotSkilledEnough,"Pawns are not skilled enough, need a cumulative {0} skill of at least {1}",Outposts.NotSkilledEnough,Outposts.xml,keyed
+Outposts.RestingAt,Resting at outpost {0},Outposts.RestingAt,Outposts.xml,keyed
+Outposts.WillProduce.0,Will produce some items in {0},Outposts.WillProduce.0,Outposts.xml,keyed
+Outposts.WillProduce.1,Will produce {0} {1} in {2},Outposts.WillProduce.1,Outposts.xml,keyed
+Outposts.WillProduce.2,Will produce {0} {1} and {2} {3} in {4},Outposts.WillProduce.2,Outposts.xml,keyed
+Outposts.WillProduce.N,Will produce the following in {0}:\n{1},Outposts.WillProduce.N,Outposts.xml,keyed
+Outposts.CannotBeMade,Cannot be made in {0},Outposts.CannotBeMade,Outposts.xml,keyed
+Outposts.NotEnoughPawns,"Not enough pawns in caravan, need at least {0}",Outposts.NotEnoughPawns,Outposts.xml,keyed
+Outposts.TotalSkill,Cumulative {0} skill: {1},Outposts.TotalSkill,Outposts.xml,keyed
+Outposts.TooClose,"Too close to settlement or other outpost, must have at least 1 tile between them",Outposts.TooClose,Outposts.xml,keyed
+Outposts.AddedFromTransportPods,Your transport pods have arrived. {0} has been added to {1}.,Outposts.AddedFromTransportPods,Outposts.xml,keyed
+Outposts.AddTo,Add to outpost,Outposts.AddTo,Outposts.xml,keyed
+Outposts.SendNonPawns,Confirm sending items to the outpost? They will be permanently lost.,Outposts.SendNonPawns,Outposts.xml,keyed
+Outposts.AlreadyPacking,Already packing,Outposts.AlreadyPacking,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod,Delivery Method,Outposts.Settings.DeliveryMethod,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod.Teleport,Teleport items to colony,Outposts.Settings.DeliveryMethod.Teleport,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod.PackAnimal,Send pack animal carrying items to colony,Outposts.Settings.DeliveryMethod.PackAnimal,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod.Store,Store items at outpost,Outposts.Settings.DeliveryMethod.Store,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod.ForcePods,Always send drop pods,Outposts.Settings.DeliveryMethod.ForcePods,Outposts.xml,keyed
+Outposts.Settings.DeliveryMethod.PackOrPods,"Pods if available, otherwise pack animal",Outposts.Settings.DeliveryMethod.PackOrPods,Outposts.xml,keyed
+Outposts.Abandoned,Outpost Abandoned,Outposts.Abandoned,Outposts.xml,keyed
+Outposts.Abandoned.Desc,"{0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there.",Outposts.Abandoned.Desc,Outposts.xml,keyed
+Outposts.Take,Take,Outposts.Take,Outposts.xml,keyed
+Outposts.Give,Give,Outposts.Give,Outposts.xml,keyed
+Outposts.AllowedBiomes,Must be in one of the following biomes:,Outposts.AllowedBiomes,Outposts.xml,keyed
+Outposts.DisallowedBiomes,Cannot be in any of the following biomes:,Outposts.DisallowedBiomes,Outposts.xml,keyed
+Outposts.NumPawns,Must have at least {0} pawns willing to join the outpost,Outposts.NumPawns,Outposts.xml,keyed
+Outposts.RequiredSkill,Cumulative {0} skill must be at least {1},Outposts.RequiredSkill,Outposts.xml,keyed
+Outposts.GrowingRequired,Must have ability to grow plants,Outposts.GrowingRequired,Outposts.xml,keyed
+Outposts.MustHaveInCaravan,Must have {0} in caravan,Outposts.MustHaveInCaravan,Outposts.xml,keyed
+Outposts.NoValidPawns,No valid pawns to add to outpost,Outposts.NoValidPawns,Outposts.xml,keyed
+Outposts.SkillChange,"Due to changes in skill level, {0} can no longer produce {1}",Outposts.SkillChange,Outposts.xml,keyed
+Outposts.Setting.ProductionTime,Production Time,Outposts.Setting.ProductionTime,Outposts.xml,keyed
+Outposts.Setting.PackTime,Pack Time,Outposts.Setting.PackTime,Outposts.xml,keyed
+Outposts.Setting.Range,Range,Outposts.Setting.Range,Outposts.xml,keyed
+Outposts.Setting.MinimumPawns,Minimum Pawns to Create,Outposts.Setting.MinimumPawns,Outposts.xml,keyed
+Outposts.Settings.Production,Production Multiplier,Outposts.Settings.Production,Outposts.xml,keyed
+Outposts.Settings.DoRaids,Enable Outpost Raids?,Outposts.Settings.DoRaids,Outposts.xml,keyed
+PipeSystem_Consumption,{0} consumption,PipeSystem_Consumption,PipeSystem.xml,keyed
+PipeSystem_ConsumptionExplained,The amount per day of {0} this building will draw from the {1} grid.,PipeSystem_ConsumptionExplained,PipeSystem.xml,keyed
+PipeSystem_IdleConsumption,{0} idle consumption,PipeSystem_IdleConsumption,PipeSystem.xml,keyed
+PipeSystem_IdleConsumptionExplained,The amount of {0} this building will draw from the {1} grid when idle.,PipeSystem_IdleConsumptionExplained,PipeSystem.xml,keyed
+PipeSystem_Production,{0} production,PipeSystem_Production,PipeSystem.xml,keyed
+PipeSystem_ProductionExplained,The amount per day of {0} this building will produce for the {1} grid.,PipeSystem_ProductionExplained,PipeSystem.xml,keyed
+PipeSystem_DeconstructLabel,Deconstruct {0} pipes,PipeSystem_DeconstructLabel,PipeSystem.xml,keyed
+PipeSystem_DeconstructDesc,Only deconstruct pipes part of the {0} network.,PipeSystem_DeconstructDesc,PipeSystem.xml,keyed
+PipeSystem_ResourceOutput,{0} output:,PipeSystem_ResourceOutput,PipeSystem.xml,keyed
+PipeSystem_ResourceNeeded,{0} needed:,PipeSystem_ResourceNeeded,PipeSystem.xml,keyed
+PipeSystem_ResourceStored,{0} stored:,PipeSystem_ResourceStored,PipeSystem.xml,keyed
+PipeSystem_NotConnected,Not connected to {0}.,PipeSystem_NotConnected,PipeSystem.xml,keyed
+PipeSystem_ExcessStored,{0} net excess/stored in network: {1} {3}/d / {2} {3},PipeSystem_ExcessStored,PipeSystem.xml,keyed
+PipeSystem_Stored,{0} stored in network:,PipeSystem_Stored,PipeSystem.xml,keyed
+PipeSystem_ValveClosed,Valve closed.,PipeSystem_ValveClosed,PipeSystem.xml,keyed
+PipeSystem_ValveOpened,Valve opened.,PipeSystem_ValveOpened,PipeSystem.xml,keyed
+PipeSystem_AugmentStackDesc,Augment output maximum stack size by 1.,PipeSystem_AugmentStackDesc,PipeSystem.xml,keyed
+PipeSystem_AugmentStackDescB,Augment output maximum stack size by 10.,PipeSystem_AugmentStackDescB,PipeSystem.xml,keyed
+PipeSystem_DecreaseStackDesc,Decrease output maximum stack size by 1.,PipeSystem_DecreaseStackDesc,PipeSystem.xml,keyed
+PipeSystem_DecreaseStackDescB,Decrease output maximum stack size by 10.,PipeSystem_DecreaseStackDescB,PipeSystem.xml,keyed
+PipeSystem_AmountOut,Maximum amount stored here: {0},PipeSystem_AmountOut,PipeSystem.xml,keyed
+PipeSystem_ProcessorBuffer,Buffer: {0},PipeSystem_ProcessorBuffer,PipeSystem.xml,keyed
+PipeSystem_Producing,Producing {0} {1}. Cycle progress: {2}.,PipeSystem_Producing,PipeSystem.xml,keyed
+PipeSystem_Produce,Produce {0} {1} from {2} {3}.,PipeSystem_Produce,PipeSystem.xml,keyed
+PipeSystem_ChooseResult,Choose result,PipeSystem_ChooseResult,PipeSystem.xml,keyed
+PipeSystem_ChooseResultDesc,Choose processor result.,PipeSystem_ChooseResultDesc,PipeSystem.xml,keyed
+PipeSystem_ProduceLabel,Produce {0} {1} using:,PipeSystem_ProduceLabel,PipeSystem.xml,keyed
+PipeSystem_TransferContent,Transfer storage content,PipeSystem_TransferContent,PipeSystem.xml,keyed
+PipeSystem_TransferContentDesc,Transfer storage content to other available storages.,PipeSystem_TransferContentDesc,PipeSystem.xml,keyed
+PipeSystem_MarkedToTransferContent,Transfering content to other available storages...,PipeSystem_MarkedToTransferContent,PipeSystem.xml,keyed
+PipeSystem_NothingToRefill,No thing to refill {0},PipeSystem_NothingToRefill,PipeSystem.xml,keyed
+PipeSystem_AllowManualRefill,Allow manual refill,PipeSystem_AllowManualRefill,PipeSystem.xml,keyed
+PipeSystem_AllowManualRefillDesc,Allow pawns to directly refill storage,PipeSystem_AllowManualRefillDesc,PipeSystem.xml,keyed
+PipeSystem_CantExtract,Can't extract: Tanks are full,PipeSystem_CantExtract,PipeSystem.xml,keyed
+PipeSystem_CantPlaceHere,{0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits.,PipeSystem_CantPlaceHere,PipeSystem.xml,keyed
+PipeSystem_ResourceLeft,Amount left in deposit: {0}.,PipeSystem_ResourceLeft,PipeSystem.xml,keyed
+PipeSystem_NoStorageInNet,No storage connected,PipeSystem_NoStorageInNet,PipeSystem.xml,keyed
+PipeSystem_NoStorageInNetDesc,"The following networks are not connected to any storage building, but need one:",PipeSystem_NoStorageInNetDesc,PipeSystem.xml,keyed
+PipeSystem_StorageContentRotted,{0} content rotted away due to a lack of power.,PipeSystem_StorageContentRotted,PipeSystem.xml,keyed
+PipeSystem_ContentWillRot,Content will rot in {0} due to a lack of power.,PipeSystem_ContentWillRot,PipeSystem.xml,keyed
+PipeSystem_NothingToPickUp,Nothing to pick-up,PipeSystem_NothingToPickUp,PipeSystem.xml,keyed
+PipeSystem_MakeProcess,Make {0},PipeSystem_MakeProcess,PipeSystem.xml,keyed
+PipeSystem_OutputToNet,{0} to net,PipeSystem_OutputToNet,PipeSystem.xml,keyed
+PipeSystem_OrNet,or {0} net,PipeSystem_OrNet,PipeSystem.xml,keyed
+PipeSystem_XFromNet,{0} from net,PipeSystem_XFromNet,PipeSystem.xml,keyed
+PipeSystem_Processes,Processes,PipeSystem_Processes,PipeSystem.xml,keyed
+PipeSystem_AddProcess,Add process,PipeSystem_AddProcess,PipeSystem.xml,keyed
+PipeSystem_CancelCurrentProcess,Cancel current process,PipeSystem_CancelCurrentProcess,PipeSystem.xml,keyed
+PipeSystem_OutputOnGround,Can output on ground,PipeSystem_OutputOnGround,PipeSystem.xml,keyed
+PipeSystem_NoProcess,No current process,PipeSystem_NoProcess,PipeSystem.xml,keyed
+PipeSystem_NoProcessAvailable,No process available,PipeSystem_NoProcessAvailable,PipeSystem.xml,keyed
+PipeSystem_Product,Product,PipeSystem_Product,PipeSystem.xml,keyed
+PipeSystem_ProgressInInfobox,{0}: {1},PipeSystem_ProgressInInfobox,PipeSystem.xml,keyed
+PipeSystem_MissingInputIngredients,Missing inputs: {0},PipeSystem_MissingInputIngredients,PipeSystem.xml,keyed
+PipeSystem_CopyProcesses,Copy processes,PipeSystem_CopyProcesses,PipeSystem.xml,keyed
+PipeSystem_PasteProcesses,Paste processes,PipeSystem_PasteProcesses,PipeSystem.xml,keyed
+PipeSystem_PasteAllRecipes,Paste all processes,PipeSystem_PasteAllRecipes,PipeSystem.xml,keyed
+PipeSystem_PasteAllRecipes_Desc,Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.,PipeSystem_PasteAllRecipes_Desc,PipeSystem.xml,keyed
+PipeSystem_ExtractAtCurrentQuality,Extract at current quality,PipeSystem_ExtractAtCurrentQuality,PipeSystem.xml,keyed
+PipeSystem_ExtractAtCurrentQuality_Desc,Extract the product at the current quality.,PipeSystem_ExtractAtCurrentQuality_Desc,PipeSystem.xml,keyed
+PipeSystem_QualitySelector,Select the quality at which this process will stop,PipeSystem_QualitySelector,PipeSystem.xml,keyed
+PipeSystem_ProcessNeedsAwfulAtLeast,"Process needs to advance at least until the Awful quality time, which is {0}",PipeSystem_ProcessNeedsAwfulAtLeast,PipeSystem.xml,keyed
+PipeSystem_CurrentQuality,Current quality: {0},PipeSystem_CurrentQuality,PipeSystem.xml,keyed
+PipeSystem_CurrentNotReachedAwful,Process hasn't reached Awful quality yet,PipeSystem_CurrentNotReachedAwful,PipeSystem.xml,keyed
+PipeSystem_ExtractingAtCurrent,Extracting product at current quality,PipeSystem_ExtractingAtCurrent,PipeSystem.xml,keyed
+PipeSystem_OutputFactoryHopperIncorrect,Output factory hopper absent or not accepting item due to storage configuration.,PipeSystem_OutputFactoryHopperIncorrect,PipeSystem.xml,keyed
+PipeSystem_NotInRoomExplanation,"This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started.",PipeSystem_NotInRoomExplanation,PipeSystem.xml,keyed
+PipeSystem_WorkSpeed,work speed,PipeSystem_WorkSpeed,PipeSystem.xml,keyed
+Reloading.Unload,Unload {GEAR_labelShort},Reloading.Unload,Reloading.xml,keyed
+Reloading.NoAmmo,No Ammo,Reloading.NoAmmo,Reloading.xml,keyed
+Reloading.Ammo,Ammo: {0} / {1},Reloading.Ammo,Reloading.xml,keyed
+Reloading.Reload,Reload {GEAR} with {AMMO_label},Reloading.Reload,Reloading.xml,keyed
+VEF_GeneralTitle,General,VEF_GeneralTitle,Settings.xml,keyed
+CSGTitle,Custom structure generation:,CSGTitle,Settings.xml,keyed
+CSGLog,Enable structure generation debugging log:,CSGLog,Settings.xml,keyed
+VEF_TPTitle,Toggleable patches,VEF_TPTitle,Settings.xml,keyed
+NeedRestart,All settings need a restart to be applied,NeedRestart,Settings.xml,keyed
+XPatchFound,{0} patches found,XPatchFound,Settings.xml,keyed
+VEF.WeatherDamages,Weather damages,VEF.WeatherDamages,Settings.xml,keyed
+VEF.EnableWeatherDamage,{0},VEF.EnableWeatherDamage,Settings.xml,keyed
+FDTitle,Faction Discovery,FDTitle,Settings.xml,keyed
+NeedToBeInGame,You first need to load a save,NeedToBeInGame,Settings.xml,keyed
+AskForPopUp,Add faction(s),AskForPopUp,Settings.xml,keyed
+AskForPopUpExplained,Click this to be asked for each faction if you want it to be added to your game,AskForPopUpExplained,Settings.xml,keyed
+CanAddXFaction,{0} faction(s) can be added to your current save,CanAddXFaction,Settings.xml,keyed
+VEF.DisableModSourceReport,Disable mod source reports,VEF.DisableModSourceReport,Settings.xml,keyed
+VEF.Shields.Search,Search:,VEF.Shields.Search,Settings.xml,keyed
+VEF.Shields.ResetModSettingsToDefault,Reset mod settings to default,VEF.Shields.ResetModSettingsToDefault,Settings.xml,keyed
+VEF.Shields.ExplanationTitle,Set weapons to be usable or not usable with shields.,VEF.Shields.ExplanationTitle,Settings.xml,keyed
+VEF.Shields.ShowMeleeWeapons,Show melee weapons,VEF.Shields.ShowMeleeWeapons,Settings.xml,keyed
+VEF.Shields.ShowRangeWeapons,Show range weapons,VEF.Shields.ShowRangeWeapons,Settings.xml,keyed
+VEF_DisableTextureCaching,Disable Texture Caching,VEF_DisableTextureCaching,Settings.xml,keyed
+VEF_EnablePipeSystemNoStorageAlert,Enable PipeSystem no storage alert,VEF_EnablePipeSystemNoStorageAlert,Settings.xml,keyed
+VEF_FactionDiscovery,Faction Discovery,VEF_FactionDiscovery,Settings.xml,keyed
+VEF_CustomStructureGeneration,Custom Structure Generation:,VEF_CustomStructureGeneration,Settings.xml,keyed
+VEF_TextureVariations,Texture Variations:,VEF_TextureVariations,Settings.xml,keyed
+VEF_VerboseLogging,Verbose logging,VEF_VerboseLogging,Settings.xml,keyed
+VEF_UnforbidMinedOres,Unforbid mined ores,VEF_UnforbidMinedOres,Settings.xml,keyed
+VEF_Never,Never,VEF_Never,Settings.xml,keyed
+VEF_HomeArea,Home Area,VEF_HomeArea,Settings.xml,keyed
+VEF_Always,Always,VEF_Always,Settings.xml,keyed
+VEF_NeverDesc,"Never unforbid mined ores (this is how the base game works for non-human pawns, such as animals and mechs)",VEF_NeverDesc,Settings.xml,keyed
+VEF_HomeAreaDesc,Ores mined by pawns are only unforbidden if mined in the home area,VEF_HomeAreaDesc,Settings.xml,keyed
+VEF_AlwaysDesc,Ores mined by pawns are always unforbidden,VEF_AlwaysDesc,Settings.xml,keyed
+VFECore.IsToo,is too,VFECore.IsToo,Stats.xml,keyed
+VFECore.Advanced,advanced,VFECore.Advanced,Stats.xml,keyed
+VFECore.Primitive,primitive,VFECore.Primitive,Stats.xml,keyed
+VFECore.StatsReport_Powered,Powered,VFECore.StatsReport_Powered,Stats.xml,keyed
+VFECore.StatsReport_Unpowered,Unpowered,VFECore.StatsReport_Unpowered,Stats.xml,keyed
+VEF_RangeAttackSpeedFactor,Range Attack Speed Factor,VEF_RangeAttackSpeedFactor,Stats.xml,keyed
+VEF.RangedDodge.ShotReportReadout,Dodge,VEF.RangedDodge.ShotReportReadout,Stats.xml,keyed
+TerrainTagVFEI2_Creep,insect creep,TerrainTagVFEI2_Creep,TerrainTags.xml,keyed
+TerrainTagVFEI2_JellyFloor,jellyfloor,TerrainTagVFEI2_JellyFloor,TerrainTags.xml,keyed
+TerrainTagVFEI2_RoyalJellyFloor,royal jellyfloor,TerrainTagVFEI2_RoyalJellyFloor,TerrainTags.xml,keyed
+VEF.Hire,Hire {0},VEF.Hire,UI.xml,keyed
+VEF.HireDesc,"Hire some {0} to help around the colony, for example with defense.",VEF.HireDesc,UI.xml,keyed
+VEF.AvailableSilver,Available Silver: {0},VEF.AvailableSilver,UI.xml,keyed
+VEF.Value,Value,VEF.Value,UI.xml,keyed
+VEF.ChooseNumberOfUnits,How many of that unit do you want to have?,VEF.ChooseNumberOfUnits,UI.xml,keyed
+VEF.Breakdown,Breakdown,VEF.Breakdown,UI.xml,keyed
+VEF.DayAmount,Amount of Days,VEF.DayAmount,UI.xml,keyed
+VEF.Cost,Cost to hire,VEF.Cost,UI.xml,keyed
+VEF.RiskMult,Risk multiplier,VEF.RiskMult,UI.xml,keyed
+VEF.TotalPrice,Total Price,VEF.TotalPrice,UI.xml,keyed
+VEF.HiringDesc,"You can hire {0} for any period of time.You can only have one contract active at a time, and you cannot mix and match the factions from which you hire.
+If hired {0} die on duty, you will incur an additional 5% increase to contract price per dead pirate on all future contracts for a full year.",VEF.HiringDesc,UI.xml,keyed
+VEF.LongTerm,Long term contracts are significantly more expensive,VEF.LongTerm,UI.xml,keyed
+VEF.ContractInfo,View contract with {0},VEF.ContractInfo,UI.xml,keyed
+VEF.PawnsList,Contracted:,VEF.PawnsList,UI.xml,keyed
+VEF.ContractTitle,Contract with {0},VEF.ContractTitle,UI.xml,keyed
+VEF.Spent,Silver spent:,VEF.Spent,UI.xml,keyed
+VEF.TimeLeft,Time remaining:,VEF.TimeLeft,UI.xml,keyed
+VEF.CancelContract,Cancel Contract,VEF.CancelContract,UI.xml,keyed
+VEF.NoRefund,Cancelling your contract will not refund the silver you spent on it.,VEF.NoRefund,UI.xml,keyed
+VEF.Customize,Customize {0},VEF.Customize,UI.xml,keyed
+VEF.CustomizationTitle,{0} Customization,VEF.CustomizationTitle,UI.xml,keyed
+VEF.Name,Name,VEF.Name,UI.xml,keyed
+VEF.Cancel,Cancel,VEF.Cancel,UI.xml,keyed
+VEF.AvailableContracts,Available contracts: {0},VEF.AvailableContracts,UI.xml,keyed
+VEF.MechsSection,Mechanoids,VEF.MechsSection,UI.xml,keyed
+VEF.DoorLockDefault,Default,VEF.DoorLockDefault,UI.xml,keyed
+VEF.DoorLockEveryone,Everyone,VEF.DoorLockEveryone,UI.xml,keyed
+VEF.DoorLockOnlyColonistsAndAnimals,Only colonists and animals,VEF.DoorLockOnlyColonistsAndAnimals,UI.xml,keyed
+VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies,"Only colonists, animals and friendlies",VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies,UI.xml,keyed
+VEF.DoorLockOnlyDrafted,Only drafted,VEF.DoorLockOnlyDrafted,UI.xml,keyed
+VEF.DoorLockState,"Current door lock policy ""{0}""",VEF.DoorLockState,UI.xml,keyed
+VEF.DoorLockStateDesc,Click to change current door lock policy.,VEF.DoorLockStateDesc,UI.xml,keyed
+VEF.DoorLockStatePowerOff,Power is off. Impossible to change door lock policy.,VEF.DoorLockStatePowerOff,UI.xml,keyed
+VEF.DraftHuntLabel,Hunt,VEF.DraftHuntLabel,UI.xml,keyed
+VEF.HuntDescription,While this is on characters will automatically move to engage nearby targets.\n\nYou can right-click this button to toggle autofire for ALL abilities on the selected pawn.,VEF.HuntDescription,UI.xml,keyed
+VEF.QuestChainTooltip,This quest is a part of a quest chain. Completing it may trigger continuation quests.\n\n{0}\n\n{1},VEF.QuestChainTooltip,UI.xml,keyed
+VEF.CommandAttackMovingBaseDesc,Attack this {0}.,VEF.CommandAttackMovingBaseDesc,UI.xml,keyed
+VFE.ChangeVisualLabel,Change visual,VFE.ChangeVisualLabel,UI.xml,keyed
+VFE.ChangeVisualDesc,Set a specific visual for the building or item.,VFE.ChangeVisualDesc,UI.xml,keyed
+VEF.MinCapacityLevel,min {MIN}%,VEF.MinCapacityLevel,UI.xml,keyed
+VCE_AllowConditions,"Allow chronic health conditions in food (Diabetes, Cholesterol and High Blood Pressure)",VCE_AllowConditions,VanillaCookingExpanded.xml,keyed
+VCE_MustBeInstalled,Vanilla Cooking Expanded must be installed for these options to have any effect,VCE_MustBeInstalled,VanillaCookingExpanded.xml,keyed
+VCE_Pollinated,Apiary found nearby,VCE_Pollinated,VanillaCookingExpanded.xml,keyed
+VCE_NotPollinated,No apiary found in a 6 tiles radius (calculated on sowing),VCE_NotPollinated,VanillaCookingExpanded.xml,keyed
+VCE_NotInEquator,"Not in equatorial region (in this planet, below {0} latitude). Growing normally.",VCE_NotInEquator,VanillaCookingExpanded.xml,keyed
+VCE_InEquator,"In equatorial region, growing 30% faster.",VCE_InEquator,VanillaCookingExpanded.xml,keyed
+VCE_NeedsShade,"This plant needs to grow in shade: outside, but under a roof.",VCE_NeedsShade,VanillaCookingExpanded.xml,keyed
+VCE_StuntedGrowthFertility,Growth reduced due to non-rocky terrain,VCE_StuntedGrowthFertility,VanillaCookingExpanded.xml,keyed
+VCE_StoppedGrowthFertility,Growth impossible due to too fertile terrain,VCE_StoppedGrowthFertility,VanillaCookingExpanded.xml,keyed
+VCE_WaterNearby,A body of water nearby is impeding this plant's growth,VCE_WaterNearby,VanillaCookingExpanded.xml,keyed
+VCE_NoWaterNearby,Lack of a body of water nearby is impeding this plant's growth,VCE_NoWaterNearby,VanillaCookingExpanded.xml,keyed
+VCE_NoSeaTilesNearby,"Too far away from the sea, no extra growth bonus",VCE_NoSeaTilesNearby,VanillaCookingExpanded.xml,keyed
+VCE_SeaTilesNearby,"{0} sea tiles nearby, providing {0}% growth bonus",VCE_SeaTilesNearby,VanillaCookingExpanded.xml,keyed
+VFE_ChunkToMine,Drill for {0},VFE_ChunkToMine,VanillaFurniture.xml,keyed
+VFE_ChunkRandomMine,Drill for Random Chunks,VFE_ChunkRandomMine,VanillaFurniture.xml,keyed
+VFE_ChooseMine,Choose chunk type to drill,VFE_ChooseMine,VanillaFurniture.xml,keyed
+VFE_ChooseMineDesc,"Choose chunk type to drill. You can choose any of the map's rock types, or random",VFE_ChooseMineDesc,VanillaFurniture.xml,keyed
+VFE_RandomRock,Random chunk,VFE_RandomRock,VanillaFurniture.xml,keyed
+VFE_PleaseSelectOutput,Select machine output,VFE_PleaseSelectOutput,VanillaFurniture.xml,keyed
+VFE_NeedsWater,This building must be placed on water,VFE_NeedsWater,VanillaFurniture.xml,keyed
+VFE_NeedsSand,This building must be placed on sand,VFE_NeedsSand,VanillaFurniture.xml,keyed
+VFE_ChangeGraphic,Random Graphic,VFE_ChangeGraphic,VanillaFurniture.xml,keyed
+VFE_ChangeGraphicDesc,Change Graphic of this building randomly between those available,VFE_ChangeGraphicDesc,VanillaFurniture.xml,keyed
+VFE_ChooseGraphic,Choose Graphic,VFE_ChooseGraphic,VanillaFurniture.xml,keyed
+VFE_ChooseGraphicDesc,Choose Graphic of this building via a menu with all available options,VFE_ChooseGraphicDesc,VanillaFurniture.xml,keyed
+VFE_NoGraphics,"This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird",VFE_NoGraphics,VanillaFurniture.xml,keyed
+VFE_HideRandomizeButton,"Hide the ""Random Graphic"" and ""Choose Graphic"" buttons",VFE_HideRandomizeButton,VanillaFurniture.xml,keyed
+VFE_RandomBuildingsDontStartRandom,Make random graphics buildings NOT start randomized,VFE_RandomBuildingsDontStartRandom,VanillaFurniture.xml,keyed
+VFE.SwitchLightColor,Switch light color,VFE.SwitchLightColor,VanillaFurniture.xml,keyed
+VFE.SwitchLightColorDesc,Change current light colour.,VFE.SwitchLightColorDesc,VanillaFurniture.xml,keyed
+VFE.ChangeColorTo,Change color to {0},VFE.ChangeColorTo,VanillaFurniture.xml,keyed
+VFE.ColorSwitchPowerOff,Power is off. Impossible to switch color.,VFE.ColorSwitchPowerOff,VanillaFurniture.xml,keyed
+VGE_StatsReport_Over40,over 40ºC,VGE_StatsReport_Over40,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_Below0,below 0ºC,VGE_StatsReport_Below0,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_Armoured,armoured,VGE_StatsReport_Armoured,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_NoSunlight,no sunlight,VGE_StatsReport_NoSunlight,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_Water,on water,VGE_StatsReport_Water,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_NotWater,on dry land,VGE_StatsReport_NotWater,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_Outside,outdoors,VGE_StatsReport_Outside,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_Inside,indoors,VGE_StatsReport_Inside,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InLight,above 50% lit,VGE_StatsReport_InLight,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InDarkness,below 50% lit,VGE_StatsReport_InDarkness,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InPain,in pain,VGE_StatsReport_InPain,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InPollution,in polluted terrain,VGE_StatsReport_InPollution,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_ColonyMap,on colony map,VGE_StatsReport_ColonyMap,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_OutsideColonyMap,outside colony map,VGE_StatsReport_OutsideColonyMap,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_AnyLightSensitivity,light sensitivity,VGE_StatsReport_AnyLightSensitivity,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InVacuum,in vacuum,VGE_StatsReport_InVacuum,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InSpace,in Space,VGE_StatsReport_InSpace,VanillaGenesExpanded.xml,keyed
+VGE_StatsReport_InPlanet,in the planet,VGE_StatsReport_InPlanet,VanillaGenesExpanded.xml,keyed
+VGE_EggPregnancy,{0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid.,VGE_EggPregnancy,VanillaGenesExpanded.xml,keyed
+VGE_EggPregnancyLabel,{0} fertilized!,VGE_EggPregnancyLabel,VanillaGenesExpanded.xml,keyed
+VGE_EggLaid,{0} has laid an egg! Keep it warm and protected.,VGE_EggLaid,VanillaGenesExpanded.xml,keyed
+VGE_EggLaidLabel,{0} laid an egg!,VGE_EggLaidLabel,VanillaGenesExpanded.xml,keyed
+VGE_EggHatched,{0} has hatched from an egg!,VGE_EggHatched,VanillaGenesExpanded.xml,keyed
+VGE_EggHatchedLabel,{0} hatched!,VGE_EggHatchedLabel,VanillaGenesExpanded.xml,keyed
+VGE_Male_Egg,Males don't lay eggs,VGE_Male_Egg,VanillaGenesExpanded.xml,keyed
+VGE_PregnancyFactor,Pregnancy factor gene: {0} gestation speed,VGE_PregnancyFactor,VanillaGenesExpanded.xml,keyed
+VGE_ForGenderOnly,{0} only gene.,VGE_ForGenderOnly,VanillaGenesExpanded.xml,keyed
+VME_MessageNeedsThePairedMeme,{0} needs one of the following memes to be chosen too to work: {1},VME_MessageNeedsThePairedMeme,VanillaMemesExpanded.xml,keyed
+VFEC_OuterShell.label,on top,label,ApparelLayerDef/ApparelLayerDef.xml,def
+VFEC_EquipShield.reportString,equipping TargetA.,reportString,JobDef/JobDef.xml,def
+VFEC_ForcedFactionGoodwill.label,forced faction relations,label,ScenPartDef/ScenPartDef.xml,def
+VFEC_Shields.label,shields,label,ThingCategoryDef/ThingCategoryDef.xml,def
+KCSG_PowerConduit.label,power conduit,label,ThingDef/ThingDef.xml,def
+KCSG_PowerConduit.description,A burried bundle of electrical cables for moving power around.,description,ThingDef/ThingDef.xml,def
+VEF_SecondaryAcidBurn.label,acid burn,label,DamageDef/DamageDef.xml,def
+VEF_SecondaryAcidBurn.deathMessage,{0} has been corroded to death.,deathMessage,DamageDef/DamageDef.xml,def
+VEF_AcidBuildup.label,acid burn,label,HediffDef/HediffDef.xml,def
+VEF_AcidBuildup.description,A splash of acid that continues to cause burn wounds for quite some time after the initial attack.,description,HediffDef/HediffDef.xml,def
+VEF_AcidBuildup.stages.0.label,"minor, receiving burns",label,HediffDef/HediffDef.xml,def
+VEF_AcidBuildup.stages.1.label,"moderate, receiving burns",label,HediffDef/HediffDef.xml,def
+VEF_AcidBuildup.stages.2.label,"serious, receiving burns",label,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.label,acid burn,label,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.labelNoun,an acid burn,labelNoun,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.description,An acid burn.,description,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.comps.0.labelTendedWell,bandaged,labelTendedWell,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.comps.0.labelTendedWellInner,tended,labelTendedWellInner,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.comps.0.labelSolidTendedWell,tended,labelSolidTendedWell,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.comps.2.permanentLabel,acid burn scar,permanentLabel,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.injuryProps.destroyedLabel,Corroded,destroyedLabel,HediffDef/HediffDef.xml,def
+VEF_AcidBurn.injuryProps.destroyedOutLabel,Corroded,destroyedOutLabel,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.description,This creature feeds on sunlight. Inadequate levels of light will kill it.,description,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.label,level of sunlight,label,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.stages.0.label,adequate light,label,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.stages.1.label,poor light levels,label,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.stages.2.label,very low light levels,label,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.stages.3.label,lack of sunlight,label,HediffDef/HediffDef.xml,def
+VEF_LightSustenance.stages.4.label,extreme lack of sustenance,label,HediffDef/HediffDef.xml,def
+VEF_AnimalResource.reportString,gathering animal resource from TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_DestroyItem.reportString,destroying an item.,reportString,JobDef/JobDef.xml,def
+VEF_LayExplodingEgg.reportString,laying egg.,reportString,JobDef/JobDef.xml,def
+VEF_IngestWeird.reportString,consuming TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_AutoNutrition.reportString,eating.,reportString,JobDef/JobDef.xml,def
+IP_InsertFirstIngredient.reportString,inserting ingredient.,reportString,JobDef/JobDef.xml,def
+IP_InsertSecondIngredient.reportString,inserting ingredient.,reportString,JobDef/JobDef.xml,def
+IP_InsertThirdIngredient.reportString,inserting ingredient.,reportString,JobDef/JobDef.xml,def
+IP_RemoveProduct.reportString,removing finished product.,reportString,JobDef/JobDef.xml,def
+VFE_Mechanoids_RepairMachine.reportString,rebuilding machine.,reportString,JobDef/JobDef.xml,def
+VFE_Mechanoids_AttachTurret.reportString,attaching turret.,reportString,JobDef/JobDef.xml,def
+VFE_Mechanoids_Recharge.reportString,recharging.,reportString,JobDef/JobDef.xml,def
+VEF_XenophobicRage.label,xenophobic rage,label,MentalStateDef/MentalStateDef.xml,def
+VEF_XenophobicRage.recoveryMessage,{0} is no longer in a xenophobic rage.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VEF_XenophobicRage.beginLetter,{0} has flown into a xenophobic rage.\n\n[PAWN_pronoun] has decided to kill {1}.,beginLetter,MentalStateDef/MentalStateDef.xml,def
+VEF_XenophobicRage.baseInspectLine,Mental state: Xenophobic rage,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+MVCF_Dummy.label,dummy,label,ThingDef/ThingDef.xml,def
+MVCF_Dummy.description,no,description,ThingDef/ThingDef.xml,def
+VFE_Mechanoids_Power.label,power,label,NeedDef/NeedDef.xml,def
+VFE_Mechanoids_Power.description,"Power represents the state of a machine's internal battery. If it gets too low, the machine will stop performing tasks and return to its station to recharge.",description,NeedDef/NeedDef.xml,def
+VFEC_PlayerPawnsArriveMethodEdge.label,pawn arrive method,label,ScenPartDef/ScenPartDef.xml,def
+VFEC_AddStartingStructure.label,add custom structure to starting map,label,ScenPartDef/ScenPartDef.xml,def
+KCSG_EnnemiesPresence.label,enemies present,label,SitePartDef/SitePartDef.xml,def
+KCSG_EnnemiesPresence.description,Enemies are present in this place.,description,SitePartDef/SitePartDef.xml,def
+VSE_Reinforcements.label,reinforcements,label,IncidentDef/IncidentDef.xml,def
+VEF_AnimalResource.label,gather animal resource,label,WorkGiverDef/WorkGiverDef.xml,def
+VEF_AnimalResource.verb,gather animal resource from,verb,WorkGiverDef/WorkGiverDef.xml,def
+VEF_AnimalResource.gerund,gathering animal resource from,gerund,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertFirstIngredient.label,bringing ingredient,label,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertFirstIngredient.verb,bring ingredient to,verb,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertFirstIngredient.gerund,bringing ingredient to,gerund,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertSecondIngredient.label,bringing ingredient,label,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertSecondIngredient.verb,bring ingredient to,verb,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertSecondIngredient.gerund,bringing ingredient to,gerund,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertThirdIngredient.label,bringing ingredient,label,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertThirdIngredient.verb,bring ingredient to,verb,WorkGiverDef/WorkGiverDef.xml,def
+IP_InsertThirdIngredient.gerund,bringing ingredient to,gerund,WorkGiverDef/WorkGiverDef.xml,def
+IP_RemoveProduct.label,removing finished product,label,WorkGiverDef/WorkGiverDef.xml,def
+IP_RemoveProduct.verb,remove finished product from,verb,WorkGiverDef/WorkGiverDef.xml,def
+IP_RemoveProduct.gerund,removing finished product from,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFEA_StandAndFaceTarget.reportString,standing.,reportString,JobDef/JobDef.xml,def
+VEF_ToxicBuildup.description,"Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.",description,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.label,toxic buildup,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.0.label,initial,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.2.label,minor,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.3.label,moderate,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.4.label,serious,label,HediffDef/HediffDef.xml,def
+VEF_ToxicBuildup.stages.5.label,extreme,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.label,hypothermic slowdown,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.description,"Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed.",description,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.stages.3.label,serious,label,HediffDef/HediffDef.xml,def
+VFEP_HypothermicSlowdown.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+VFEC_LeaveMap.reportString,leaving.,reportString,JobDef/JobDef.xml,def
+VEF_CustomizeItem.reportString,customizing TargetA.,reportString,JobDef/JobDef.xml,def
+PS_DrainFromMarkedStorage.reportString,draining out of TargetA.,reportString,JobDef/JobDef.xml,def
+PS_FillStorage.reportString,filling TargetA.,reportString,JobDef/JobDef.xml,def
+BetterReload.reportString,reloading TargetA.,reportString,JobDef/JobDef.xml,def
+ReloadFromInventory.reportString,reloading TargetA.,reportString,JobDef/JobDef.xml,def
+Unload.reportString,unloading TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_RangedCooldownFactor.label,ranged cooldown factor,label,StatDef/StatDef.xml,def
+VEF_RangedCooldownFactor.description,The cooldown on ranged weapons of the wearer is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_VerbRangeFactor.label,verb range factor,label,StatDef/StatDef.xml,def
+VEF_VerbRangeFactor.description,The range on weapons is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_VerbCooldownFactor.label,verb cooldown factor,label,StatDef/StatDef.xml,def
+VEF_VerbCooldownFactor.description,The cooldown on weapons is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxOffset.label,Shield max energy offset,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxOffset.description,Offset of the maximum shield energy that the user can boost through various means.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxFactor.label,Shield max energy factor,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxFactor.description,Factor of the maximum shield energy that the user can boost through various means.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxApparel.label,shield max energy,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxApparel.description,The maximum energy a shield generator can have at one time. More energy absorbs more damage.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRateApparel.label,shield recharge rate,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRateApparel.description,The rate at which a shield gains energy as long as it is not broken.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusApparel.label,shield radius,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusApparel.description,The area covered when the energy shield is active.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxPawn.label,shield max energy,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxPawn.description,The maximum energy a shield generator can have at one time. More energy absorbs more damage.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRatePawn.label,shield recharge rate,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRatePawn.description,The rate at which a shield gains energy as long as it is not broken.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusPawn.label,shield radius,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusPawn.description,The area covered when the energy shield is active.,description,StatDef/StatDef.xml,def
+VEF_MeleeAttackSpeedFactor.label,melee attack speed factor,label,StatDef/StatDef.xml,def
+VEF_MeleeAttackSpeedFactor.description,A multiplier on melee attack speed.,description,StatDef/StatDef.xml,def
+VEF_RangeAttackSpeedFactor.label,range attack speed factor,label,StatDef/StatDef.xml,def
+VEF_RangeAttackSpeedFactor.description,A multiplier on range attack speed.,description,StatDef/StatDef.xml,def
+VEF_MeleeAttackDamageFactor.label,melee attack damage factor,label,StatDef/StatDef.xml,def
+VEF_MeleeAttackDamageFactor.description,A multiplier on melee attack damage.,description,StatDef/StatDef.xml,def
+VEF_RangeAttackDamageFactor.label,range attack damage factor,label,StatDef/StatDef.xml,def
+VEF_RangeAttackDamageFactor.description,A multiplier on range attack damage.,description,StatDef/StatDef.xml,def
+VFE_EquippedStatFactors.label,Factors when equipped,label,StatCategoryDef/StatCategoryDef.xml,def
+VEF_OutpostAttacked.label,outpost under attack,label,IncidentDef/IncidentDef.xml,def
+VEF_OutpostDeliverySpot.label,outpost delivery spot,label,ThingDef/ThingDef.xml,def
+VEF_OutpostDeliverySpot.description,Designates a spot for items from outposts to be delivered to.,description,ThingDef/ThingDef.xml,def
+VEF_DestroyItems.label,destroy items,label,WorkGiverDef/WorkGiverDef.xml,def
+VEF_DestroyItems.verb,destroy items,verb,WorkGiverDef/WorkGiverDef.xml,def
+VEF_DestroyItems.gerund,destroying items,gerund,WorkGiverDef/WorkGiverDef.xml,def
+PS_DrainOutOfStorage.label,drain out of storage,label,WorkGiverDef/WorkGiverDef.xml,def
+PS_DrainOutOfStorage.verb,drain out of storage,verb,WorkGiverDef/WorkGiverDef.xml,def
+PS_DrainOutOfStorage.gerund,draining out of storage,gerund,WorkGiverDef/WorkGiverDef.xml,def
+PS_FillStorage.label,fill storage,label,WorkGiverDef/WorkGiverDef.xml,def
+PS_FillStorage.verb,fill storage,verb,WorkGiverDef/WorkGiverDef.xml,def
+PS_FillStorage.gerund,filling storage,gerund,WorkGiverDef/WorkGiverDef.xml,def
+KCSG_UndergroundRoom.label,underground room,label,WorldObjectDef/WorldObjectDef.xml,def
+KCSG_UndergroundRoom.description,An underground room.,description,WorldObjectDef/WorldObjectDef.xml,def
+VEF_PermanentBurn.label,permanent burn,label,DamageDef/DamageDef.xml,def
+VEF_PermanentBurn.deathMessage,{0} has been killed by burning.,deathMessage,DamageDef/DamageDef.xml,def
+VEF_PermanentBurn.description,A permanent burn scar that cannot be treated.,description,HediffDef/HediffDef.xml,def
+VEF_PermanentBurn.labelNoun,a permanent burn,labelNoun,HediffDef/HediffDef.xml,def
+VEF_PermanentBurn.comps.1.permanentLabel,permanent burn,permanentLabel,HediffDef/HediffDef.xml,def
+VEF_PermanentBurn.injuryProps.destroyedLabel,Burned off,destroyedLabel,HediffDef/HediffDef.xml,def
+VEF_PermanentBurn.injuryProps.destroyedOutLabel,Burned out,destroyedOutLabel,HediffDef/HediffDef.xml,def
+KCSG_GoToPassage.reportString,entering TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_UseDoorTeleporter.reportString,using TargetA to teleport to TargetB,reportString,JobDef/JobDef.xml,def
+PS_PickUpProcessor.reportString,picking up from TargetA.,reportString,JobDef/JobDef.xml,def
+PS_BringToProcessor.reportString,bringing TargetB to TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_FoodCapacityMultiplier.label,body food capacity multiplier,label,StatDef/StatDef.xml,def
+VEF_FoodCapacityMultiplier.description,Increases the size of the pawn's hunger bar. This does not affect hunger,description,StatDef/StatDef.xml,def
+VEF_BodySize_Offset.label,body size offset,label,StatDef/StatDef.xml,def
+VEF_BodySize_Offset.description,Increases the size of the pawn relative to their current size,description,StatDef/StatDef.xml,def
+VEF_BodySize_Multiplier.label,body size multiplier,label,StatDef/StatDef.xml,def
+VEF_BodySize_Multiplier.description,Increases the size of the pawn by a multiple of their current size,description,StatDef/StatDef.xml,def
+VEF_CosmeticBodySize_Offset.label,cosmetic body size offset,label,StatDef/StatDef.xml,def
+VEF_CosmeticBodySize_Offset.description,Increases the size of the pawn relative to their current size,description,StatDef/StatDef.xml,def
+VEF_CosmeticBodySize_Multiplier.label,cosmetic body size multiplier,label,StatDef/StatDef.xml,def
+VEF_CosmeticBodySize_Multiplier.description,Increases the size of the pawn by a multiple of their current size,description,StatDef/StatDef.xml,def
+VEF_HeadSize_Cosmetic.label,head size multiplier,label,StatDef/StatDef.xml,def
+VEF_PawnRenderPosOffset.label,pawn render offset,label,StatDef/StatDef.xml,def
+VEF_PawnRenderPosOffset.description,Modifies the pawn's rendered position in y-axis.,description,StatDef/StatDef.xml,def
+VEF_Art_ConstructFinishFrames.label,construct placed frames,label,WorkGiverDef/WorkGiverDef.xml,def
+VEF_Art_ConstructDeliverResourcesToFrames.label,deliver resources to frames,label,WorkGiverDef/WorkGiverDef.xml,def
+VEF_Art_ConstructDeliverResourcesToBlueprints.label,deliver resources to blueprints,label,WorkGiverDef/WorkGiverDef.xml,def
+PS_PickUpProcessor.label,pick up result from processor,label,WorkGiverDef/WorkGiverDef.xml,def
+PS_PickUpProcessor.verb,pick up result,verb,WorkGiverDef/WorkGiverDef.xml,def
+PS_PickUpProcessor.gerund,picking up result,gerund,WorkGiverDef/WorkGiverDef.xml,def
+PS_BringToProcessor.label,bring ingredient to processor,label,WorkGiverDef/WorkGiverDef.xml,def
+PS_BringToProcessor.verb,bring ingredient,verb,WorkGiverDef/WorkGiverDef.xml,def
+PS_BringToProcessor.gerund,bringing ingredient,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFE_Dev_Restart.label,restart game,label,KeyBindingDef/KeyBindingDef.xml,def
+VEF_FleeAndCowerShort.reportString,fleeing.,reportString,JobDef/JobDef.xml,def
+VFE_Loot.reportString,looting TargetA.,reportString,JobDef/JobDef.xml,def
+VFE_StudyBuilding.reportString,studying TargetA.,reportString,JobDef/JobDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.0,subject->innovation's path,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.1,subject_story->unveiled simple truths behind complex phenomena,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.2,subject_story->simplified the intricate to make way for practical applications,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.3,subject_story->harnessed basic principles to achieve remarkable feats,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.4,subject_gerund->streamlining the essence of discovery,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.5,subject->building blocks of progress,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.6,subject_story->laid the groundwork for monumental leaps forward,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.7,subject_story->connected dots across disciplines to reveal new insights,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.8,subject_story->crafted the foundation upon which future innovations stand,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.9,subject_gerund->laying down the keystones of advancement,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.10,subject->seeds of tomorrow,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.11,subject_story->planted ideas that would grow into transformative solutions,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.12,"subject_story->cultivated a garden of knowledge, ripe with potential",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.13,subject_story->nurtured the roots of change with care and foresight,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.14,subject_gerund->sowing the future with today’s discoveries,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.15,subject->the ripple of curiosity,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.16,subject_story->set forth waves of inquiry that echoed through time,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.17,subject_story->dropped pebbles of innovation into the pond of knowledge,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.18,"subject_story->watched as one question led to another, expanding the circle of understanding",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.19,subject_gerund->casting stones to create waves of progress,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.20,subject->the alchemy of progress,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.21,subject_story->merged disparate disciplines to unlock new realms of possibility,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.22,subject_story->turned the impossible into the inevitable through sheer ingenuity,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.23,subject_story->crafted solutions that reshaped the understanding of what's achievable,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.24,subject_gerund->blending science and magic into the fabric of reality,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.25,subject->the tapestry of discovery,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.26,subject_story->wove together threads of knowledge from the four corners of the world,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.27,"subject_story->revealed patterns in the chaos, charting paths to untold innovations",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.28,subject_story->embroidered the annals of history with tales of serendipitous breakthroughs,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.29,subject_gerund->weaving the future from the loom of the present,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.30,subject->the crucible of creation,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.31,subject_story->fused raw elements into the building blocks of tomorrow,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.32,subject_story->tempered the fires of creativity to forge unprecedented technologies,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.33,subject_story->quenched the thirst for knowledge with the elixir of invention,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.34,subject_gerund->molding the raw materials of today into the artifacts of the future,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.35,subject->the beacon of enlightenment,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.36,"subject_story->illuminated the dark corners of ignorance, guiding the way forward",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.37,"subject_story->cast light on the unknown, making the unseen visible to curious minds",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.38,"subject_story->ignited the flames of curiosity, kindling a worldwide pursuit of understanding",li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.39,subject_gerund->lighting the torches of progress and knowledge,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.40,subject->the frontier of knowledge,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.41,subject_story->crossed new horizons in the pursuit of understanding,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.42,subject_story->challenged the status quo with groundbreaking theories,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.43,subject_story->merged ancient wisdom with modern technology for innovative solutions,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.44,subject_gerund->pushing the boundaries of science and art,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.45,subject->the essence of innovation,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.46,subject_story->transformed everyday materials into extraordinary tools,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.47,subject_story->paved the way for future generations with sustainable practices,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.48,subject_story->harnessed the power of nature to fuel new advancements,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.49,subject_gerund->fostering an ecosystem of creativity and progress,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.50,subject->the architects of tomorrow,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.51,subject_story->built the foundations for a utopia where technology serves all,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.52,subject_story->envisioned a future where harmony between technology and nature thrives,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.53,subject_story->crafted tools that empower humanity to reach its fullest potential,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.54,subject_gerund->laying the keystones for future landscapes,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.55,subject->exploratory leaps,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.56,subject_story->stepped boldly into uncharted territories of knowledge,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.57,subject_story->bridged the gap between the known and the unknown,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.58,subject_story->ventured where curiosity dared to lead,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.59,subject_gerund->embarking on journeys of discovery,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.60,subject->the essence of ingenuity,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.61,subject_story->transformed challenges into opportunities for growth,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.62,subject_story->applied creative thinking to overcome traditional obstacles,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.63,subject_story->crafted elegant solutions with a blend of art and science,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.64,subject_gerund->unlocking potential through innovation,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.65,subject->knowledge’s harvest,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.66,subject_story->gathered insights as one reaps the fields at harvest,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.67,subject_story->cultivated a bounty of understanding from the seeds of inquiry,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.68,subject_story->shared the fruits of research with the world,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.69,subject_gerund->reaping the rewards of relentless curiosity,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.70,subject->the puzzle of progress,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.71,subject_story->assembled the pieces of mystery to reveal the big picture,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.72,subject_story->matched theory with practice to solve longstanding puzzles,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.73,subject_story->uncovered hidden connections that unlocked new possibilities,li,RulePackDef/RulePackDef.xml,def
+VEF_Description_Schematic_Defaults.rulePack.rulesStrings.74,subject_gerund->piecing together the elements of advancement,li,RulePackDef/RulePackDef.xml,def
+VEF_GrowthPointMultiplier.label,growth point multiplier,label,StatDef/StatDef.xml,def
+VEF_GrowthPointMultiplier.description,Increases the amount of growth points accumulated by children when learning,description,StatDef/StatDef.xml,def
+VEF_MassCarryCapacity.label,Mass carry capacity,label,StatDef/StatDef.xml,def
+VEF_MassCarryCapacity.description,Total mass carrying capacity of the pawn in caravans.,description,StatDef/StatDef.xml,def
+VEF_MTBLovinFactor.label,MTB Lovin Factor,label,StatDef/StatDef.xml,def
+VEF_MTBLovinFactor.description,A factor of the mean time between (MTB) this person looking for some lovin'.,description,StatDef/StatDef.xml,def
+VEF_MeleeWeaponRange.label,melee weapon range,label,StatDef/StatDef.xml,def
+VEF_MeleeWeaponRange.description,The range of this melee weapon.,description,StatDef/StatDef.xml,def
+VEF_PositiveThoughtDurationFactor.label,thought duration factor - positive,label,StatDef/StatDef.xml,def
+VEF_PositiveThoughtDurationFactor.description,The duration of positive thoughts is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_NeutralThoughtDurationFactor.label,thought duration factor - neutral,label,StatDef/StatDef.xml,def
+VEF_NeutralThoughtDurationFactor.description,The duration of neutral thoughts is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_NegativeThoughtDurationFactor.label,thought duration factor - negative,label,StatDef/StatDef.xml,def
+VEF_NegativeThoughtDurationFactor.description,The duration of negative thoughts is multiplied by this value.,description,StatDef/StatDef.xml,def
+VEF_BuildingLearningRateOffset.label,learning rate,label,StatDef/StatDef.xml,def
+VEF_BuildingLearningRateOffset.description,A multiplier on how quickly children learn during lessons which are assisted by this.,description,StatDef/StatDef.xml,def
+VFE_Loot.label,loot objects,label,WorkGiverDef/WorkGiverDef.xml,def
+VFE_Loot.verb,loot,verb,WorkGiverDef/WorkGiverDef.xml,def
+VFE_Loot.gerund,looting,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFE_StudyBuilding.label,study a building,label,WorkGiverDef/WorkGiverDef.xml,def
+VFE_StudyBuilding.verb,study,verb,WorkGiverDef/WorkGiverDef.xml,def
+VFE_StudyBuilding.gerund,studying,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VEF_ControlledBlinking.label,controlled blinking,label,AbilityDef/AbilityDef.xml,def
+VEF_ControlledBlinking.description,"Override the creature's usual erratic blinking, allowing a directed way to blink to a chosen location within range.",description,AbilityDef/AbilityDef.xml,def
+VEF_ControlledDetonation.label,controlled detonation,label,AbilityDef/AbilityDef.xml,def
+VEF_ControlledDetonation.description,"Willingly trigger a powerful self-destructive explosion, sacrificing this animal in a final act that unleashes all stored volatile compounds in a devastating blast.",description,AbilityDef/AbilityDef.xml,def
+VEF_ControlledInvisibility.label,controlled invisibility,label,AbilityDef/AbilityDef.xml,def
+VEF_ControlledInvisibility.description,"Shroud the animal in a veil of controlled invisibility, vanishing from sight while retaining full awareness and precision.",description,AbilityDef/AbilityDef.xml,def
+VEF_Kamikaze.label,sudden detonation,label,HediffDef/HediffDef.xml,def
+VEF_Kamikaze.description,Boom.,description,HediffDef/HediffDef.xml,def
+VEF_Kamikaze.stages.0.label,initial-hidden,label,HediffDef/HediffDef.xml,def
+VEF_Kamikaze.stages.1.label,critical,label,HediffDef/HediffDef.xml,def
+VEF_RefuelSecondary.reportString,refueling TargetA with ammunition.,reportString,JobDef/JobDef.xml,def
+VEF_ReloadWeaponTrait.reportString,reloading TargetA.,reportString,JobDef/JobDef.xml,def
+VFE_IdeoFloatMenuPlus.description,"This optional feature extends the menus in the Ideo creation screen, allowing search and scroll bars. Used by VE Memes and Alpha Memes.",description,VEF.OptionalFeatures.OptionalFeaturesDef/VEF.OptionalFeatures.OptionalFeaturesDef.xml,def
+VFE_WeaponTraitDefMechanics.description,This optional feature adds a Def extension to WeaponTraitDefs to allow for new unique weapon behaviours.,description,VEF.OptionalFeatures.OptionalFeaturesDef/VEF.OptionalFeatures.OptionalFeaturesDef.xml,def
+VFE_TileMutatorMechanics.description,"This optional feature adds a Def extension, TileMutatorExtension, to add new tile mutator mechanics for Odyssey.",description,VEF.OptionalFeatures.OptionalFeaturesDef/VEF.OptionalFeatures.OptionalFeaturesDef.xml,def
+VEF_EnergyShieldEnergyMaxBuilding.label,shield max energy,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldEnergyMaxBuilding.description,The maximum energy the shield can have. More energy allows the shield to absorb more damage.,description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRateBuilding.label,shield recharge rate,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRechargeRateBuilding.description,"The rate at which the shield recharges energy per second, as long as it is not broken.",description,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusBuilding.label,shield radius,label,StatDef/StatDef.xml,def
+VEF_EnergyShieldRadiusBuilding.description,The radius of the energy shield protection.,description,StatDef/StatDef.xml,def
+VEF_RangedDodgeChance.label,ranged dodge chance,label,StatDef/StatDef.xml,def
+VEF_RangedDodgeChance.description,"Chance to dodge a ranged attack that would've otherwise hit, or (if negative) get hit by a ranged attack that was meant for a different target.",description,StatDef/StatDef.xml,def
+VEF_BuildingBreakdownFactor.label,breakdown factor,label,StatDef/StatDef.xml,def
+VEF_BuildingBreakdownFactor.description,A multiplier on how often this building breaks down.,description,StatDef/StatDef.xml,def
+VEF_CycleSeverance.label,cycle severance,label,TrainableDef/TrainableDef.xml,def
+VEF_CycleSeverance.description,"Suppress the natural reproduction cycle, preventing the release of offspring and completely negating the creature’s asexual reproduction.",description,TrainableDef/TrainableDef.xml,def
+VEF_Beastmastery.label,beastmastery,label,TrainableDef/TrainableDef.xml,def
+VEF_Beastmastery.description,"Train and attune this animal to your will, granting direct control over their movements and actions through a powerful bond of dominance and trust.",description,TrainableDef/TrainableDef.xml,def
+VEF_ControlledCorpseDecay.label,controlled corpse decay,label,TrainableDef/TrainableDef.xml,def
+VEF_ControlledCorpseDecay.description,Teach the animal to control its corpse decaying abilities.,description,TrainableDef/TrainableDef.xml,def
+VEF_DiggingDiscipline.label,digging discipline,label,TrainableDef/TrainableDef.xml,def
+VEF_DiggingDiscipline.description,Teach the animal to control its terrain digging abilities.,description,TrainableDef/TrainableDef.xml,def
+VEF_FumeRegulation.label,fume regulation,label,TrainableDef/TrainableDef.xml,def
+VEF_FumeRegulation.description,Teach the animal to control its gas production abilities.,description,TrainableDef/TrainableDef.xml,def
+VEF_RefuelSecondary.label,refuel ammunition,label,WorkGiverDef/WorkGiverDef.xml,def
+VEF_RefuelSecondary.verb,refuel,verb,WorkGiverDef/WorkGiverDef.xml,def
+VEF_RefuelSecondary.gerund,refueling,gerund,WorkGiverDef/WorkGiverDef.xml,def

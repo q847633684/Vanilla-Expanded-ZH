@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Limited flight that allows this colonist to hop and glide small distances over terrain. They will ignore terrain movement costs when moving.-->
+  <VREInsector_Hover.description>Limited flight that allows this colonist to hop and glide small distances over terrain. They will ignore terrain movement costs when moving.</VREInsector_Hover.description>
+  <!--EN: glide-->
+  <VREInsector_Hover.label>glide</VREInsector_Hover.label>
+  <!--EN: After being ready to do a chestburst implantation, the person with the chestburst pregnancy gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.-->
+  <VREInsector_TempSterile.description>After being ready to do a chestburst implantation, the person with the chestburst pregnancy gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.</VREInsector_TempSterile.description>
+  <!--EN: chestburst implantation fatigue-->
+  <VREInsector_TempSterile.label>chestburst implantation fatigue</VREInsector_TempSterile.label>
+  <!--EN: This person has a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid.-->
+  <VRE_AcidBlood.description>This person has a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid.</VRE_AcidBlood.description>
+  <!--EN: acid blood-->
+  <VRE_AcidBlood.label>acid blood</VRE_AcidBlood.label>
+  <!--EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.-->
+  <VRE_ChestburstPregnancyHediff.description>When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.</VRE_ChestburstPregnancyHediff.description>
+  <!--EN: chestburst pregnancy needs implantation-->
+  <VRE_ChestburstPregnancyHediff.label>chestburst pregnancy needs implantation</VRE_ChestburstPregnancyHediff.label>
+  <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.-->
+  <VRE_ChestburstPregnancy_Victim.description>Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.</VRE_ChestburstPregnancy_Victim.description>
+  <!--EN: chestburst pregnancy-->
+  <VRE_ChestburstPregnancy_Victim.label>chestburst pregnancy</VRE_ChestburstPregnancy_Victim.label>
+  <!--EN: egg-->
+  <VRE_ChestburstPregnancy_Victim.stages.0.label>egg</VRE_ChestburstPregnancy_Victim.stages.0.label>
+  <!--EN: larva-->
+  <VRE_ChestburstPregnancy_Victim.stages.1.label>larva</VRE_ChestburstPregnancy_Victim.stages.1.label>
+  <!--EN: pupa-->
+  <VRE_ChestburstPregnancy_Victim.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim.stages.2.label>
+  <!--EN: juvenile-->
+  <VRE_ChestburstPregnancy_Victim.stages.3.label>juvenile</VRE_ChestburstPregnancy_Victim.stages.3.label>
+  <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <!--EN: chestburst pregnancy-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>chestburst pregnancy</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <!--EN: egg-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>egg</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
+  <!--EN: larva-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>larva</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
+  <!--EN: pupa-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
+  <!--EN: juvenile-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>juvenile</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
+  <!--EN: This person has reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive.-->
+  <VRE_Dormant.description>This person has reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive.</VRE_Dormant.description>
+  <!--EN: dormant-->
+  <VRE_Dormant.label>dormant</VRE_Dormant.label>
+  <!--EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area.-->
+  <VRE_HeatshockHediff.description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area.</VRE_HeatshockHediff.description>
+  <!--EN: heatshock-->
+  <VRE_HeatshockHediff.label>heatshock</VRE_HeatshockHediff.label>
+  <!--EN: initial-->
+  <VRE_HeatshockHediff.stages.0.label>initial</VRE_HeatshockHediff.stages.0.label>
+  <!--EN: initial-->
+  <VRE_HeatshockHediff.stages.1.label>initial</VRE_HeatshockHediff.stages.1.label>
+  <!--EN: minor-->
+  <VRE_HeatshockHediff.stages.2.label>minor</VRE_HeatshockHediff.stages.2.label>
+  <!--EN: serious-->
+  <VRE_HeatshockHediff.stages.3.label>serious</VRE_HeatshockHediff.stages.3.label>
+  <!--EN: extreme-->
+  <VRE_HeatshockHediff.stages.4.label>extreme</VRE_HeatshockHediff.stages.4.label>
+  <!--EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness.-->
+  <VRE_HeatstressHediff.description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness.</VRE_HeatstressHediff.description>
+  <!--EN: heatstress-->
+  <VRE_HeatstressHediff.label>heatstress</VRE_HeatstressHediff.label>
+  <!--EN: initial-->
+  <VRE_HeatstressHediff.stages.0.label>initial</VRE_HeatstressHediff.stages.0.label>
+  <!--EN: initial-->
+  <VRE_HeatstressHediff.stages.1.label>initial</VRE_HeatstressHediff.stages.1.label>
+  <!--EN: minor-->
+  <VRE_HeatstressHediff.stages.2.label>minor</VRE_HeatstressHediff.stages.2.label>
+  <!--EN: serious-->
+  <VRE_HeatstressHediff.stages.3.label>serious</VRE_HeatstressHediff.stages.3.label>
+  <!--EN: extreme-->
+  <VRE_HeatstressHediff.stages.4.label>extreme</VRE_HeatstressHediff.stages.4.label>
+  <!--EN: megaspider horns-->
+  <VRE_HornAttack.comps.0.tools.0.label>megaspider horns</VRE_HornAttack.comps.0.tools.0.label>
+  <!--EN: These horns can be used to maul enemies in combat if unarmed.-->
+  <VRE_HornAttack.description>These horns can be used to maul enemies in combat if unarmed.</VRE_HornAttack.description>
+  <!--EN: megaspider horns-->
+  <VRE_HornAttack.label>megaspider horns</VRE_HornAttack.label>
+  <!--EN: This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything.-->
+  <VRE_HypothermicHibernationHediff.description>This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything.</VRE_HypothermicHibernationHediff.description>
+  <!--EN: hypothermic hibernation-->
+  <VRE_HypothermicHibernationHediff.label>hypothermic hibernation</VRE_HypothermicHibernationHediff.label>
+  <!--EN: shivering-->
+  <VRE_HypothermicHibernationHediff.stages.0.label>shivering</VRE_HypothermicHibernationHediff.stages.0.label>
+  <!--EN: initial-->
+  <VRE_HypothermicHibernationHediff.stages.1.label>initial</VRE_HypothermicHibernationHediff.stages.1.label>
+  <!--EN: drowsy-->
+  <VRE_HypothermicHibernationHediff.stages.2.label>drowsy</VRE_HypothermicHibernationHediff.stages.2.label>
+  <!--EN: sleep-->
+  <VRE_HypothermicHibernationHediff.stages.3.label>sleep</VRE_HypothermicHibernationHediff.stages.3.label>
+  <!--EN: deep sleep-->
+  <VRE_HypothermicHibernationHediff.stages.4.label>deep sleep</VRE_HypothermicHibernationHediff.stages.4.label>
+  <!--EN: This person has a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more.-->
+  <VRE_InefficientMidgut.description>This person has a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more.</VRE_InefficientMidgut.description>
+  <!--EN: inefficient midgut-->
+  <VRE_InefficientMidgut.label>inefficient midgut</VRE_InefficientMidgut.label>
+  <!--EN: This person has a genetically-induced biochemical dependency on insect jelly. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.-->
+  <VRE_InsectJellyDependencyHediff.description>This person has a genetically-induced biochemical dependency on insect jelly. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.</VRE_InsectJellyDependencyHediff.description>
+  <!--EN: insect jelly dependency-->
+  <VRE_InsectJellyDependencyHediff.label>insect jelly dependency</VRE_InsectJellyDependencyHediff.label>
+  <!--EN: deficiency-->
+  <VRE_InsectJellyDependencyHediff.stages.2.label>deficiency</VRE_InsectJellyDependencyHediff.stages.2.label>
+  <!--EN: deficiency coma-->
+  <VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>deficiency coma</VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>
+  <!--EN: This person has large jelly sacks present on their lower abdomen, allowing them to periodically produce valuable insect jelly.-->
+  <VRE_InsectJellyProduction.description>This person has large jelly sacks present on their lower abdomen, allowing them to periodically produce valuable insect jelly.</VRE_InsectJellyProduction.description>
+  <!--EN: jelly production-->
+  <VRE_InsectJellyProduction.label>jelly production</VRE_InsectJellyProduction.label>
+  <!--EN: insect mandibles-->
+  <VRE_InsectMandibles.comps.0.tools.0.label>insect mandibles</VRE_InsectMandibles.comps.0.tools.0.label>
+  <!--EN: Very strong, insect-like mandibles, allowing this person to consume food significantly quicker. They will also be able to use these mandibles in combat if unarmed.-->
+  <VRE_InsectMandibles.description>Very strong, insect-like mandibles, allowing this person to consume food significantly quicker. They will also be able to use these mandibles in combat if unarmed.</VRE_InsectMandibles.description>
+  <!--EN: insect mandibles-->
+  <VRE_InsectMandibles.label>insect mandibles</VRE_InsectMandibles.label>
+  <!--EN: Low amounts of octopamine cause decreased arousal and activity levels, as well as depression.-->
+  <VRE_LowOctopamine.description>Low amounts of octopamine cause decreased arousal and activity levels, as well as depression.</VRE_LowOctopamine.description>
+  <!--EN: octopamine-down-->
+  <VRE_LowOctopamine.label>octopamine-down</VRE_LowOctopamine.label>
+  <!--EN: A large cocoon formed by an insector undergoing a metamorphosis. If destroyed, the insector inside will die. After metamorphosis is complete, the insector will emerge from their metapod with a brand new genetic composition.-->
+  <VRE_MetapodHediff.description>A large cocoon formed by an insector undergoing a metamorphosis. If destroyed, the insector inside will die. After metamorphosis is complete, the insector will emerge from their metapod with a brand new genetic composition.</VRE_MetapodHediff.description>
+  <!--EN: metapod-->
+  <VRE_MetapodHediff.label>metapod</VRE_MetapodHediff.label>
+  <!--EN: After-effects of undergoing an evolution via a metapod. The insectoid metapod replaces and mutates the genome of the individual. Upon exiting the metapod, the body takes time to restart and rebalance its natural metabolic processes. Duration of the metapod sickness depends on the duration spent in the metapod.-->
+  <VRE_MetapodSickness.description>After-effects of undergoing an evolution via a metapod. The insectoid metapod replaces and mutates the genome of the individual. Upon exiting the metapod, the body takes time to restart and rebalance its natural metabolic processes. Duration of the metapod sickness depends on the duration spent in the metapod.</VRE_MetapodSickness.description>
+  <!--EN: Metapod sickness-->
+  <VRE_MetapodSickness.label>Metapod sickness</VRE_MetapodSickness.label>
+  <!--EN: This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.-->
+  <VRE_Parthenogenesis.description>This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.</VRE_Parthenogenesis.description>
+  <!--EN: parthenogenesis-->
+  <VRE_Parthenogenesis.label>parthenogenesis</VRE_Parthenogenesis.label>
+  <!--EN: This person has a genetically-induced biochemical dependency on pollution. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.-->
+  <VRE_PollutionDependencyHediff.description>This person has a genetically-induced biochemical dependency on pollution. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.</VRE_PollutionDependencyHediff.description>
+  <!--EN: pollution dependency-->
+  <VRE_PollutionDependencyHediff.label>pollution dependency</VRE_PollutionDependencyHediff.label>
+  <!--EN: deficiency-->
+  <VRE_PollutionDependencyHediff.stages.2.label>deficiency</VRE_PollutionDependencyHediff.stages.2.label>
+  <!--EN: deficiency coma-->
+  <VRE_PollutionDependencyHediff.stages.3.overrideLabel>deficiency coma</VRE_PollutionDependencyHediff.stages.3.overrideLabel>
+  <!--EN: ripper-blade-->
+  <VRE_RipperBlades.comps.0.tools.0.label>ripper-blade</VRE_RipperBlades.comps.0.tools.0.label>
+  <!--EN: A long and deadly ripper-blade that greatly lowers work speed, while being able to be used in melee combat to rip even armored enemies in half.-->
+  <VRE_RipperBlades.description>A long and deadly ripper-blade that greatly lowers work speed, while being able to be used in melee combat to rip even armored enemies in half.</VRE_RipperBlades.description>
+  <!--EN: ripper-blade-->
+  <VRE_RipperBlades.label>ripper-blade</VRE_RipperBlades.label>
+  <!--EN: Large amounts of serotonin cause great happiness at the cost of reduced consciousness.-->
+  <VRE_Serotonin.description>Large amounts of serotonin cause great happiness at the cost of reduced consciousness.</VRE_Serotonin.description>
+  <!--EN: serotonin-buzz-->
+  <VRE_Serotonin.label>serotonin-buzz</VRE_Serotonin.label>
+</LanguageData>

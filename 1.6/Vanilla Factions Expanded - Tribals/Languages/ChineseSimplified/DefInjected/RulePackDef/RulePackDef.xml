@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+    <!--EN: r_art_description->[physical_description_root] [context_sentence]-->
+    <li>r_art_description-&gt;[physical_description_root] [context_sentence]</li>
+    <!--EN: circumstance_group->[circumstance_phrase]-->
+    <li>circumstance_group-&gt;[circumstance_phrase]</li>
+    <!--EN: desc_sentence_group->[desc_sentence] [style_group]-->
+    <li>desc_sentence_group-&gt;[desc_sentence] [style_group]</li>
+    <!--EN: context_sentence->This [depiction] refers to [tale_noun] on [DATE].-->
+    <li>context_sentence-&gt;This [depiction] refers to [tale_noun] on [DATE].</li>
+    <!--EN: context_sentence->This [depiction] relates to [tale_noun] on [DATE].-->
+    <li>context_sentence-&gt;This [depiction] relates to [tale_noun] on [DATE].</li>
+    <!--EN: context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].-->
+    <li>context_sentence-&gt;This [depiction] tells the story of [tale_noun] on [DATE].</li>
+    <!--EN: physical_description_root->This [painting] [depicts] [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;This [painting] [depicts] [image]. [desc_sentence_group]</li>
+    <!--EN: physical_description_root->This [painting] bears a [depiction] of [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;This [painting] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <!--EN: physical_description_root->On this [painting] is a [depiction] of [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;On this [painting] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <!--EN: painting->painting-->
+    <li>painting-&gt;painting</li>
+    <!--EN: painting->work-->
+    <li>painting-&gt;work</li>
+    <!--EN: painting->piece-->
+    <li>painting-&gt;piece</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+  <ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+    <!--EN: r_art_description->[physical_description_root]-->
+    <li>r_art_description-&gt;[physical_description_root]</li>
+    <!--EN: desc_sentence_group->[style_group]-->
+    <li>desc_sentence_group-&gt;[style_group]</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+  <VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+    <!--EN: style_group->[artextra_clause]. [style_clause].-->
+    <li>style_group-&gt;[artextra_clause]. [style_clause].</li>
+    <!--EN: style_group->[style_clause]. [artconjunction] [artextra_clause].-->
+    <li>style_group-&gt;[style_clause]. [artconjunction] [artextra_clause].</li>
+    <!--EN: style_group->[style_clause].-->
+    <li>style_group-&gt;[style_clause].</li>
+    <!--EN: style_group->[artextra_clause].-->
+    <li>style_group-&gt;[artextra_clause].</li>
+    <!--EN: style_group->-->
+    <li>style_group-&gt;</li>
+    <!--EN: artconjunction(p=6)->-->
+    <li>artconjunction(p=6)-&gt;</li>
+    <!--EN: artconjunction->intriguingly,-->
+    <li>artconjunction-&gt;intriguingly,</li>
+    <!--EN: artconjunction->adding depth to the painting,-->
+    <li>artconjunction-&gt;adding depth to the painting,</li>
+    <!--EN: artconjunction->furthermore,-->
+    <li>artconjunction-&gt;furthermore,</li>
+    <!--EN: artconjunction->strikingly,-->
+    <li>artconjunction-&gt;strikingly,</li>
+    <!--EN: artconjunction->evocatively,-->
+    <li>artconjunction-&gt;evocatively,</li>
+    <!--EN: artconjunction->mirroring ancient narratives,-->
+    <li>artconjunction-&gt;mirroring ancient narratives,</li>
+    <!--EN: artconjunction->connecting to ancestral roots,-->
+    <li>artconjunction-&gt;connecting to ancestral roots,</li>
+    <!--EN: artextra_clause->the painting showcases [subimageplural] engaged in [activity]-->
+    <li>artextra_clause-&gt;the painting showcases [subimageplural] engaged in [activity]</li>
+    <!--EN: artextra_clause->depicting [subimagesingle] [side_position]-->
+    <li>artextra_clause-&gt;depicting [subimagesingle] [side_position]</li>
+    <!--EN: artextra_clause->displaying a vivid scene of [Community]-->
+    <li>artextra_clause-&gt;displaying a vivid scene of [Community]</li>
+    <!--EN: artextra_clause->a group of [subimageplural] gathered near a [TerrainFeature]-->
+    <li>artextra_clause-&gt;a group of [subimageplural] gathered near a [TerrainFeature]</li>
+    <!--EN: artextra_clause->[Quantity_adjphrase] [subimagesingle]s illustrating a story from ancient times-->
+    <li>artextra_clause-&gt;[Quantity_adjphrase] [subimagesingle]s illustrating a story from ancient times</li>
+    <!--EN: artextra_clause->an intricate pattern of [subimageplural] dominates the foreground-->
+    <li>artextra_clause-&gt;an intricate pattern of [subimageplural] dominates the foreground</li>
+    <!--EN: artextra_clause->centered around a [subimagesingle], telling a tale of [ConceptAny]-->
+    <li>artextra_clause-&gt;centered around a [subimagesingle], telling a tale of [ConceptAny]</li>
+    <!--EN: subimageany->[subimagesingle]-->
+    <li>subimageany-&gt;[subimagesingle]</li>
+    <!--EN: subimageany->[subimageplural]-->
+    <li>subimageany-&gt;[subimageplural]</li>
+    <!--EN: subimagesingle(p=6)->an ancient human figure-->
+    <li>subimagesingle(p=6)-&gt;an ancient human figure</li>
+    <!--EN: subimagesingle->a primitive dwelling-->
+    <li>subimagesingle-&gt;a primitive dwelling</li>
+    <!--EN: subimagesingle->a native tree-->
+    <li>subimagesingle-&gt;a native tree</li>
+    <!--EN: subimagesingle->a representation of the sun or moon-->
+    <li>subimagesingle-&gt;a representation of the sun or moon</li>
+    <!--EN: subimagesingle->a mystical symbol-->
+    <li>subimagesingle-&gt;a mystical symbol</li>
+    <!--EN: subimagesingle->a celestial body-->
+    <li>subimagesingle-&gt;a celestial body</li>
+    <!--EN: subimagesingle->a prehistoric beast-->
+    <li>subimagesingle-&gt;a prehistoric beast</li>
+    <!--EN: subimagesingle->a hand-print pattern-->
+    <li>subimagesingle-&gt;a hand-print pattern</li>
+    <!--EN: subimageplural(p=5)->stylized animals-->
+    <li>subimageplural(p=5)-&gt;stylized animals</li>
+    <!--EN: subimageplural->primitive geometric shapes-->
+    <li>subimageplural-&gt;primitive geometric shapes</li>
+    <!--EN: subimageplural->nature motifs-->
+    <li>subimageplural-&gt;nature motifs</li>
+    <!--EN: subimageplural->handprint patterns-->
+    <li>subimageplural-&gt;handprint patterns</li>
+    <!--EN: subimageplural->spiritual symbols-->
+    <li>subimageplural-&gt;spiritual symbols</li>
+    <!--EN: subimageplural->celestial bodies-->
+    <li>subimageplural-&gt;celestial bodies</li>
+    <!--EN: side_position->at the center-->
+    <li>side_position-&gt;at the center</li>
+    <!--EN: side_position->in the upper portion-->
+    <li>side_position-&gt;in the upper portion</li>
+    <!--EN: side_position->occupying the lower half-->
+    <li>side_position-&gt;occupying the lower half</li>
+    <!--EN: side_position->to the right, forming a natural flow-->
+    <li>side_position-&gt;to the right, forming a natural flow</li>
+    <!--EN: side_position->to the left, drawing attention to the main theme-->
+    <li>side_position-&gt;to the left, drawing attention to the main theme</li>
+    <!--EN: side_position->spread uniformly across the canvas-->
+    <li>side_position-&gt;spread uniformly across the canvas</li>
+    <!--EN: side_position->scattered in a harmonious pattern-->
+    <li>side_position-&gt;scattered in a harmonious pattern</li>
+    <!--EN: style_clause(p=4)->the artwork [symbolizes] [ConceptAny]-->
+    <li>style_clause(p=4)-&gt;the artwork [symbolizes] [ConceptAny]</li>
+    <!--EN: style_clause->using [artstyle_adj] strokes to depict [ConceptAny]-->
+    <li>style_clause-&gt;using [artstyle_adj] strokes to depict [ConceptAny]</li>
+    <!--EN: style_clause->reflecting the essence of [ConceptAny] through [artstyle_adj] patterns-->
+    <li>style_clause-&gt;reflecting the essence of [ConceptAny] through [artstyle_adj] patterns</li>
+    <!--EN: style_clause->embodying a rich history with its [artstyle_adj] representation of [ConceptAny]-->
+    <li>style_clause-&gt;embodying a rich history with its [artstyle_adj] representation of [ConceptAny]</li>
+    <!--EN: style_clause->the painting exhibits a [artstyle_adj] approach to [ConceptAny]-->
+    <li>style_clause-&gt;the painting exhibits a [artstyle_adj] approach to [ConceptAny]</li>
+    <!--EN: symbolizes->symbolizes-->
+    <li>symbolizes-&gt;symbolizes</li>
+    <!--EN: symbolizes->represents-->
+    <li>symbolizes-&gt;represents</li>
+    <!--EN: symbolizes->echoes-->
+    <li>symbolizes-&gt;echoes</li>
+    <!--EN: symbolizes->resonates with-->
+    <li>symbolizes-&gt;resonates with</li>
+    <!--EN: symbolizes->reflects-->
+    <li>symbolizes-&gt;reflects</li>
+    <!--EN: symbolizes->embodies-->
+    <li>symbolizes-&gt;embodies</li>
+    <!--EN: symbolizes->symbolizes-->
+    <li>symbolizes-&gt;symbolizes</li>
+    <!--EN: symbolizes->seems to symbolize-->
+    <li>symbolizes-&gt;seems to symbolize</li>
+    <!--EN: symbolizes->represents-->
+    <li>symbolizes-&gt;represents</li>
+    <!--EN: symbolizes->seems to represent-->
+    <li>symbolizes-&gt;seems to represent</li>
+    <!--EN: symbolizes->seems to express-->
+    <li>symbolizes-&gt;seems to express</li>
+    <!--EN: symbolizes->reminds the viewer of-->
+    <li>symbolizes-&gt;reminds the viewer of</li>
+    <!--EN: symbolizes->conveys the emotions of-->
+    <li>symbolizes-&gt;conveys the emotions of</li>
+    <!--EN: symbolizes->makes the viewer think of-->
+    <li>symbolizes-&gt;makes the viewer think of</li>
+    <!--EN: symbolizes->represents the artist's-->
+    <li>symbolizes-&gt;represents the artist's</li>
+    <!--EN: symbolizes->suggests the concept of-->
+    <li>symbolizes-&gt;suggests the concept of</li>
+    <!--EN: artstyle_adj->earthy and organic-->
+    <li>artstyle_adj-&gt;earthy and organic</li>
+    <!--EN: artstyle_adj->primitive-->
+    <li>artstyle_adj-&gt;primitive</li>
+    <!--EN: artstyle_adj->raw and natural-->
+    <li>artstyle_adj-&gt;raw and natural</li>
+    <!--EN: artstyle_adj->geometric-->
+    <li>artstyle_adj-&gt;geometric</li>
+    <!--EN: artstyle_adj->richly textured-->
+    <li>artstyle_adj-&gt;richly textured</li>
+    <!--EN: artstyle_adj->simple yet profound-->
+    <li>artstyle_adj-&gt;simple yet profound</li>
+    <!--EN: artstyle_adj->intricate and detailed-->
+    <li>artstyle_adj-&gt;intricate and detailed</li>
+    <!--EN: artstyle_adj->filled with swirling patterns-->
+    <li>artstyle_adj-&gt;filled with swirling patterns</li>
+    <!--EN: artstyle_adj->abstract and symbolic-->
+    <li>artstyle_adj-&gt;abstract and symbolic</li>
+    <!--EN: artstyle_adj->vibrant and lively-->
+    <li>artstyle_adj-&gt;vibrant and lively</li>
+    <!--EN: artstyle_adj->subtle and serene-->
+    <li>artstyle_adj-&gt;subtle and serene</li>
+    <!--EN: artstyle_adj->gritty and earthy-->
+    <li>artstyle_adj-&gt;gritty and earthy</li>
+    <!--EN: artstyle_adj->bold and dynamic-->
+    <li>artstyle_adj-&gt;bold and dynamic</li>
+    <!--EN: artstyle_adj->harmonious and balanced-->
+    <li>artstyle_adj-&gt;harmonious and balanced</li>
+    <!--EN: artstyle_adj->textured and tactile-->
+    <li>artstyle_adj-&gt;textured and tactile</li>
+    <!--EN: artstyle_adj->spiritually resonant-->
+    <li>artstyle_adj-&gt;spiritually resonant</li>
+    <!--EN: ConceptAny->the cycle of life and death-->
+    <li>ConceptAny-&gt;the cycle of life and death</li>
+    <!--EN: ConceptAny->communion with nature-->
+    <li>ConceptAny-&gt;communion with nature</li>
+    <!--EN: ConceptAny->the spiritual connection between man and the cosmos-->
+    <li>ConceptAny-&gt;the spiritual connection between man and the cosmos</li>
+    <!--EN: ConceptAny->the harmony of the natural world-->
+    <li>ConceptAny-&gt;the harmony of the natural world</li>
+    <!--EN: ConceptAny->ancient rituals and ceremonies-->
+    <li>ConceptAny-&gt;ancient rituals and ceremonies</li>
+    <!--EN: ConceptAny->mythical narratives-->
+    <li>ConceptAny-&gt;mythical narratives</li>
+    <!--EN: ConceptAny->the complexities of human existence-->
+    <li>ConceptAny-&gt;the complexities of human existence</li>
+    <!--EN: ConceptAny->the mysticism of ancient civilizations-->
+    <li>ConceptAny-&gt;the mysticism of ancient civilizations</li>
+    <!--EN: ConceptAny->the mysteries of the cosmos-->
+    <li>ConceptAny-&gt;the mysteries of the cosmos</li>
+    <!--EN: ConceptAny->the interconnectedness of life-->
+    <li>ConceptAny-&gt;the interconnectedness of life</li>
+    <!--EN: ConceptAny->the cycle of seasons-->
+    <li>ConceptAny-&gt;the cycle of seasons</li>
+    <!--EN: ConceptAny->ancient storytelling-->
+    <li>ConceptAny-&gt;ancient storytelling</li>
+    <!--EN: ConceptAny->the wonders of nature-->
+    <li>ConceptAny-&gt;the wonders of nature</li>
+    <!--EN: ConceptAny->sacred geometry-->
+    <li>ConceptAny-&gt;sacred geometry</li>
+    <!--EN: ConceptAny->spiritual awakening-->
+    <li>ConceptAny-&gt;spiritual awakening</li>
+    <!--EN: activity->a ritual dance-->
+    <li>activity-&gt;a ritual dance</li>
+    <!--EN: activity->a hunting scene-->
+    <li>activity-&gt;a hunting scene</li>
+    <!--EN: activity->a gathering or celebration-->
+    <li>activity-&gt;a gathering or celebration</li>
+    <!--EN: activity->agricultural activities-->
+    <li>activity-&gt;agricultural activities</li>
+    <!--EN: activity->an ancestral ceremony-->
+    <li>activity-&gt;an ancestral ceremony</li>
+    <!--EN: activity->a storytelling session-->
+    <li>activity-&gt;a storytelling session</li>
+    <!--EN: activity->a spiritual ceremony-->
+    <li>activity-&gt;a spiritual ceremony</li>
+    <!--EN: activity->a scene of barter or trade-->
+    <li>activity-&gt;a scene of barter or trade</li>
+    <!--EN: activity->a moment of community bonding-->
+    <li>activity-&gt;a moment of community bonding</li>
+    <!--EN: activity->a group engaged in artistic creation-->
+    <li>activity-&gt;a group engaged in artistic creation</li>
+    <!--EN: Community->a Neolithic village-->
+    <li>Community-&gt;a Neolithic village</li>
+    <!--EN: Community->an ancient gathering space-->
+    <li>Community-&gt;an ancient gathering space</li>
+    <!--EN: Community->a primitive settlement-->
+    <li>Community-&gt;a primitive settlement</li>
+    <!--EN: Community->a bustling marketplace-->
+    <li>Community-&gt;a bustling marketplace</li>
+    <!--EN: Community->a sacred ritual site-->
+    <li>Community-&gt;a sacred ritual site</li>
+    <!--EN: Community->a fertile agricultural land-->
+    <li>Community-&gt;a fertile agricultural land</li>
+    <!--EN: Community->a vibrant gathering of tribes-->
+    <li>Community-&gt;a vibrant gathering of tribes</li>
+    <!--EN: TerrainFeature->a water body-->
+    <li>TerrainFeature-&gt;a water body</li>
+    <!--EN: TerrainFeature->a mountainous backdrop-->
+    <li>TerrainFeature-&gt;a mountainous backdrop</li>
+    <!--EN: TerrainFeature->a dense forest-->
+    <li>TerrainFeature-&gt;a dense forest</li>
+    <!--EN: TerrainFeature->a field with wild flora-->
+    <li>TerrainFeature-&gt;a field with wild flora</li>
+    <!--EN: TerrainFeature->a sprawling plain-->
+    <li>TerrainFeature-&gt;a sprawling plain</li>
+    <!--EN: TerrainFeature->a serene riverbank-->
+    <li>TerrainFeature-&gt;a serene riverbank</li>
+    <!--EN: TerrainFeature->a vibrant oasis-->
+    <li>TerrainFeature-&gt;a vibrant oasis</li>
+    <!--EN: TerrainFeature->a sacred grove-->
+    <li>TerrainFeature-&gt;a sacred grove</li>
+    <!--EN: Quantity_adjphrase->a plethora of-->
+    <li>Quantity_adjphrase-&gt;a plethora of</li>
+    <!--EN: Quantity_adjphrase->a few scattered-->
+    <li>Quantity_adjphrase-&gt;a few scattered</li>
+    <!--EN: Quantity_adjphrase->numerous intertwined-->
+    <li>Quantity_adjphrase-&gt;numerous intertwined</li>
+    <!--EN: Quantity_adjphrase->an array of-->
+    <li>Quantity_adjphrase-&gt;an array of</li>
+    <!--EN: Quantity_adjphrase->a harmonious array of-->
+    <li>Quantity_adjphrase-&gt;a harmonious array of</li>
+    <!--EN: Quantity_adjphrase->a vibrant collection of-->
+    <li>Quantity_adjphrase-&gt;a vibrant collection of</li>
+    <!--EN: Quantity_adjphrase->a detailed depiction of several-->
+    <li>Quantity_adjphrase-&gt;a detailed depiction of several</li>
+    <!--EN: Quantity_adjphrase->an abstract representation of many-->
+    <li>Quantity_adjphrase-&gt;an abstract representation of many</li>
+  </VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+</LanguageData>

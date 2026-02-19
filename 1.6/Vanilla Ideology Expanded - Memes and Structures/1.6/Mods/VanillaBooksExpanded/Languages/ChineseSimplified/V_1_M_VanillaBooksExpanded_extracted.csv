@@ -1,0 +1,76 @@
+key,text,tag,file,type
+VME_Cultured.label,cultured,label,MemeDef/MemeDef.xml,def
+VME_Cultured.description,Reading and passing on knowledge is a most scholarly mission.,description,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.0,memeAdjective->cultured,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.1,memeAdjective->enlightened,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.2,memeAdjective->well educated,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.3,memeAdjective->erudite,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.4,memeAdjective->knowledgeable,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.5,memeConcept->book writing,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.6,memeConcept->reading,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.7,memeLeaderNoun->librarian,li,MemeDef/MemeDef.xml,def
+VME_Cultured.generalRules.rulesStrings.8,memeMoralist->scribe,li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.0,"creation(tag=meme_Cultured)        ->[deity0_name] taught all of [deity0_possessive] followers the secrets of writing: ""Write all the words which I have spoken to you in a book.""",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_Cultured)  ->[deity0_name] said to all the [memberNamePlural], ""Every scribe who has become a disciple of the kingdom of heaven is like a head of a household, who brings out of his treasure things new and old.""",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_Cultured)           ->[memberNamePlural] built a great library on the [place_summary] [place_name], and filled it with wondrous books and scrolls containing the wisdom of their ancestors.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_Cultured)        ->A simpleton [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to burn all the knowledge to ashes, for [foeLeader_pronoun] was a raging anti-intellectual.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_Cultured)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] infinite knowledge, and [founder_pronoun] transcribed all the knowledge of the [memberNamePlural] into nearly indestructuble data cores.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.5,victory(tag=meme_Cultured)         ->The [foeSoldiers] succeeded in burning and destroying all the ancient books of the [memberNamePlural] but it didn't matter: the data was already safe thanks to the efforts of [founderName].,li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.6,"setup(tag=meme_Cultured)           ->Our founder [founderName] was a writer, one of the greatest the galaxy has ever seen. [founderName_possessive] prose allowed you to visit far away worlds and lose yourself in intricate fantasies.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_Cultured)    ->[founderName] taught us that a society that doesn't value the written tradition is lost.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.8,"lessonIntro(tag=meme_Cultured)         ->I have writing books for most of my life, and I have learned one main thing:",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.9,lesson(tag=meme_Cultured)              ->there is no greater agony than bearing an untold story inside you,li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.10,"lessonReinforcement(tag=meme_Cultured) ->If there's a book that you want to read, but it hasn't been written yet, then you must write it.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.11,"archistBasis(tag=meme_Cultured)    ->The archotechs value knowledge above all things, and respect the written traditions of humanity.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.12,"archistFact(tag=meme_Cultured)     ->Archotechs wouldn't want us to be uneducated simpletons, moving through life like mindless automatons.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.13,"archistProphecy(tag=meme_Cultured) ->[inTheEnd], the archotechs will only choose for transcendence those who are cultured and educated enough.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.14,"animistFact(tag=meme_Cultured)     ->The spirits want us to develop our intelligence, to be cultured and educated, for a simple mind is offensive to them.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.15,"serketistProphecy(tag=meme_Cultured)->[itIsSaid] we will set the insect's knowledge in tablets of obdisian, so their divine words can't be erased by the passage of time.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.16,chthonianProphecy(tag=meme_Cultured)->A Black Tome of forbidden magic is said to contain insights to the madness of these transhuman intelligences. Perhaps our scribes will one day decipher its eldritch message.,li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.17,esotericismProphecy(tag=meme_Cultured)->Only with careful study of the most obscure arcane texts can we hope to unlock these secrets.,li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.18,"eschatologismFact(tag=meme_Cultured)->Three scrolls written with the blood of our enemies in human skin parchment will be the testament of our victory, and upon seeing them our enemies will only know fear.",li,MemeDef/MemeDef.xml,def
+VME_Cultured.descriptionMaker.rules.rulesStrings.19,"introMemo(tag=meme_Cultured)->I'm so tired, SO tired of having to remind you this... PLEASE, for all that is holy, DOCUMENT YOUR CODE! Undocumented code is useless down the line, and I don't want to have to train the next developer into deciphering the vague code ramblings of the last person who ""conveniently forgot"" to do it! Come on, people!",li,MemeDef/MemeDef.xml,def
+VME_BookReading.label,book reading,label,IssueDef/IssueDef.xml,def
+VME_ReadBook.label,read book,label,HistoryEventDef/HistoryEventDef.xml,def
+VME_BookReading_Desired.label,desired,label,PreceptDef/PreceptDef.xml,def
+VME_BookReading_Desired.description,"It’s important to soak up every bit of information we can, how else are we supposed to learn? Most books are even quite entertaining to boot.",description,PreceptDef/PreceptDef.xml,def
+VME_BookReading_Desired.stages.0.label,read a book,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookReading_Desired.stages.0.description,Reading a good book is like nourishing the mind.,description,ThoughtDef/ThoughtDef.xml,def
+VME_BookReading_Disliked.label,disliked,label,PreceptDef/PreceptDef.xml,def
+VME_BookReading_Disliked.description,Reading is just such a chore. We retain nothing from it.,description,PreceptDef/PreceptDef.xml,def
+VME_BookReading_Disliked.stages.0.label,read a book,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookReading_Disliked.stages.0.description,I hate reading. I was forced to read this book and hated every second of it.,description,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting.label,book writing,label,IssueDef/IssueDef.xml,def
+VME_WroteBook.label,wrote book,label,HistoryEventDef/HistoryEventDef.xml,def
+VME_BookWritingSpeed.label,writing speed,label,IssueDef/IssueDef.xml,def
+VME_BookWriting_Exalted.label,exalted,label,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Exalted.description,Passing on one's knowledge is a purely respectful act. The authors of this world and their heirs shall be the ones to inherit it and all of its fruits.,description,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Exalted.comps.1.description,Wrote an amazing new book,description,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Exalted.stages.0.label,wrote a book,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting_Exalted.stages.0.description,I did it! I am now a distinguished author.,description,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting_Exalted_Know.stages.0.label,distinguished author,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting_Disliked.label,disliked,label,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Disliked.description,Why write down what can be taught much quicker semantically or through trial and error? What an absolute waste of time.,description,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Disliked.comps.1.description,Put sinful words into paper,description,PreceptDef/PreceptDef.xml,def
+VME_BookWriting_Disliked.stages.0.label,wrote a book,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting_Disliked.stages.0.description,I had to write a book. Putting your thoughts to paper is sinful and disgusting.,description,ThoughtDef/ThoughtDef.xml,def
+VME_BookWriting_Disliked_Know.stages.0.label,writer of thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VME_BookWritingSpeed_Increased.label,increased,label,PreceptDef/PreceptDef.xml,def
+VME_BookWritingSpeed_Increased.description,"Writing comes naturally to us, and we do it fast and efficiently.",description,PreceptDef/PreceptDef.xml,def
+VME_BookWritingSpeed_Decreased.label,decreased,label,PreceptDef/PreceptDef.xml,def
+VME_BookWritingSpeed_Decreased.description,"Writing is a chore, something that wastes time and requires a huge effort.",description,PreceptDef/PreceptDef.xml,def
+VME_Library.label,library,label,IssueDef/IssueDef.xml,def
+VME_Library_Required.label,required,label,PreceptDef/PreceptDef.xml,def
+VME_Library_Required.description,"A place of learning is essential for our community. A nice collection of marvelous tomes and filled shelves will fill our hearts with joy.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on size of library rooms found in the map. Only library rooms with an impressiveness of ""decent"" or higher will count for this calculation. Libraries will need to be clean or colonists will complain too!",description,PreceptDef/PreceptDef.xml,def
+VME_Library_Required.stages.0.label,need library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.0.description,We lack a place of knowledge.,description,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.1.label,lame library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.1.description,"We have a library, but it needs to be ""decent"" at least!",description,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.2.label,dirty library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.2.description,"We have a library, but it is incredibly dirty. We are not animals!",description,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.3.label,small library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.3.description,We have a small library.,description,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.4.label,spacious library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.4.description,We have a very spacious library.,description,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.5.label,huge library,label,ThoughtDef/ThoughtDef.xml,def
+VME_Library_Required.stages.5.description,"We have a huge, professional library!",description,ThoughtDef/ThoughtDef.xml,def

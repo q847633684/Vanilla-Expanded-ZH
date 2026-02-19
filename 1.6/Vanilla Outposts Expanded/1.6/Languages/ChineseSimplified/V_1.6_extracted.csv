@@ -1,0 +1,80 @@
+key,text,tag,file,type
+Outposts.Settings.ResearchRate,Research Rate,Outposts.Settings.ResearchRate,Outposts.xml,keyed
+Outposts.Settings.WorkToDrill,Time To Drill (Needs to happen before production starts),Outposts.Settings.WorkToDrill,Outposts.xml,keyed
+Outposts.Settings.Cooldown,Cooldown,Outposts.Settings.Cooldown,Outposts.xml,keyed
+Outposts.Settings.Shooting,Shooting Importance,Outposts.Settings.Shooting,Outposts.xml,keyed
+Outposts.Settings.Animals,Animals Importance,Outposts.Settings.Animals,Outposts.xml,keyed
+Outposts.Settings.NeedPods,Need Transport Pods Tech to Deploy Reinforcements?,Outposts.Settings.NeedPods,Outposts.xml,keyed
+Outposts.Settings.Leather,Leather Multiplier,Outposts.Settings.Leather,Outposts.xml,keyed
+Outposts.Settings.Meat,Meat Multiplier,Outposts.Settings.Meat,Outposts.xml,keyed
+Outposts.Settings.DoIntercept,Intercept Incoming Raids?,Outposts.Settings.DoIntercept,Outposts.xml,keyed
+Outposts.Settings.InterceptDifficultyMultiplier,Intercept Difficulty Multiplier,Outposts.Settings.InterceptDifficultyMultiplier,Outposts.xml,keyed
+Outposts.Settings.InterceptDifficultyMultiplierTooltip,This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk,Outposts.Settings.InterceptDifficultyMultiplierTooltip,Outposts.xml,keyed
+Outposts.Settings.Chance,Recruit chance Multiplier,Outposts.Settings.Chance,Outposts.xml,keyed
+Outposts.Settings.NeedFuel,Drop Pods Require Fuel,Outposts.Settings.NeedFuel,Outposts.xml,keyed
+Outposts.Settings.NeedFuelAmount,Amount of Fuel,Outposts.Settings.NeedFuelAmount,Outposts.xml,keyed
+Outposts.Commands.Fire.Label,Artillery Strike,Outposts.Commands.Fire.Label,Outposts.xml,keyed
+Outposts.Commands.Fire.Desc,Begin targeting for an artillery strike,Outposts.Commands.Fire.Desc,Outposts.xml,keyed
+Outposts.Commands.Disabled.Cooldown,Still on cooldown,Outposts.Commands.Disabled.Cooldown,Outposts.xml,keyed
+Outposts.Cooldown,On cooldown: {0} left,Outposts.Cooldown,Outposts.xml,keyed
+Outposts.Letters.Intercept.Label,Raid Intercepted,Outposts.Letters.Intercept.Label,Outposts.xml,keyed
+Outposts.Letters.Intercept.Text,A raid bound for {0} has been intercepted by the defensive outpost {1}. Hopefully they can survive this brave maneuver.,Outposts.Letters.Intercept.Text,Outposts.xml,keyed
+Outposts.Intercept.Title,Outpost Intercept Raid,Outposts.Intercept.Title,Outposts.xml,keyed
+Outposts.Intercept.CanIntercept,"Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3}",Outposts.Intercept.CanIntercept,Outposts.xml,keyed
+Outposts.Intercept.InterceptRaid,Maneuver and intercept the raiders,Outposts.Intercept.InterceptRaid,Outposts.xml,keyed
+Outposts.Intercept.DontIntercept,"Stand down, and return to the outpost",Outposts.Intercept.DontIntercept,Outposts.xml,keyed
+Outposts.Commands.Deploy.Label,Send Reinforcements,Outposts.Commands.Deploy.Label,Outposts.xml,keyed
+Outposts.Commands.Deploy.Desc,Deploy the garrison of this outpost in drop pods to assist one of your combat engagements.,Outposts.Commands.Deploy.Desc,Outposts.xml,keyed
+Outposts.Commands.Deploy.Disabled,Cannot send: Drop pods are not available to you,Outposts.Commands.Deploy.Disabled,Outposts.xml,keyed
+Outposts.Commands.Deploy.Only1,Cannot send last pawn,Outposts.Commands.Deploy.Only1,Outposts.xml,keyed
+Outposts.Commands.Deploy.NotEnoughFuel,Cannot send not enough stored fuel,Outposts.Commands.Deploy.NotEnoughFuel,Outposts.xml,keyed
+Outposts.Drilling,Drilling boreholes. {0} done. Estimated time remaining: {1},Outposts.Drilling,Outposts.xml,keyed
+Outposts.MustBeMade,Must be made in the {0},Outposts.MustBeMade,Outposts.xml,keyed
+Outposts.MustBeMade.Hill,Must be made in mountains or hills,Outposts.MustBeMade.Hill,Outposts.xml,keyed
+Outposts.SkillTooLow,"Total skill too low, needs {0}",Outposts.SkillTooLow,Outposts.xml,keyed
+Outposts.NearbySettlements,"Not enough nearby settlements, need {0} within {1} tiles",Outposts.NearbySettlements,Outposts.xml,keyed
+Outposts.Letters.Recruit.Label,Pawns Recruited: {0},Outposts.Letters.Recruit.Label,Outposts.xml,keyed
+Outposts.Letters.Recruit.Desc,The following pawns have been newly recruited in the town of {0}:\n{1},Outposts.Letters.Recruit.Desc,Outposts.xml,keyed
+Outposts.Commands.Factory.Label,Change Factory,Outposts.Commands.Factory.Label,Outposts.xml,keyed
+Outposts.Commands.Factory.Desc,Change which factory building this outpost uses to produce items for you,Outposts.Commands.Factory.Desc,Outposts.xml,keyed
+Outposts.Commands.Comb.Label,Change Result,Outposts.Commands.Comb.Label,Outposts.xml,keyed
+Outposts.Commands.Comb.Desc,Change what the factory produces,Outposts.Commands.Comb.Desc,Outposts.xml,keyed
+Outposts.MustBeOnCoastOrRiver,Must be made on the coast or a river,Outposts.MustBeOnCoastOrRiver,Outposts.xml,keyed
+Outposts.MustBeArmed,All occupants must be armed and ready for combat.,Outposts.MustBeArmed,Outposts.xml,keyed
+Outposts.WillProduce.Pawns,May recruit some new pawns in {0},Outposts.WillProduce.Pawns,Outposts.xml,keyed
+Outposts.Defensive.Won.Label,Raid Ambush Won,Outposts.Defensive.Won.Label,Outposts.xml,keyed
+Outposts.Defensive.Won.Desc,Your soldiers have successfully defeated the incoming raid before it could reach your settlement. {0},Outposts.Defensive.Won.Desc,Outposts.xml,keyed
+Outposts.Defensive.Lost.Label,Raid Ambush Lost,Outposts.Defensive.Lost.Label,Outposts.xml,keyed
+Outposts.Defensive.Lost.Desc,"Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain.",Outposts.Defensive.Lost.Desc,Outposts.xml,keyed
+VOE_JoinHuntingOutpost.label,join hunting outpost,label,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinHuntingOutpost.description,join a hunting outpost,description,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinLoggingOutpost.label,join logging outpost,label,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinLoggingOutpost.description,join a logging outpost,description,HistoryEventDef/HistoryEventDef.xml,def
+VOE_TravellingArtilleryStrike.label,artillery strike,label,WorldObjectDef/WorldObjectDef.xml,def
+VOE_TravellingArtilleryStrike.description,Artillery strike in flight.,description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Farming.label,farming outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Farming.description,"Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Artillery.label,artillery outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Artillery.description,"Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Defensive.label,defensive outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Defensive.description,"Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Drilling.label,drilling outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Drilling.description,"Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Encampment.label,encampment,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Encampment.description,"Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Hunting.label,hunting outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Hunting.description,"Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Logging.label,logging outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Logging.description,"Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Mining.label,mining outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Mining.description,"Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Production.label,production outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Production.description,"Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Scavenging.label,scavenging outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Scavenging.description,"Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Science.label,science outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Science.description,"Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Town.label,town,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Town.description,"Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Trading.label,trading outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Trading.description,"Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def

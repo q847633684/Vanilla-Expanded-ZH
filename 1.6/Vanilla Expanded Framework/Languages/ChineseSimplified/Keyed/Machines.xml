@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {MACHINE_nameDef} ran out of power, and was left behind.-->
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} ran out of power, and was left behind.</VFEM.CaravanMachineRanOutPower>
+  <!--EN: The drone's name is now {0}.-->
+  <VFEM.DroneGainsName>The drone's name is now {0}.</VFEM.DroneGainsName>
+  <!--EN: This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole.-->
+  <VFEMRideableMachineTip>This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole.</VFEMRideableMachineTip>
+  <!--EN: Attach Turret-->
+  <VFEMechAttachTurret>Attach Turret</VFEMechAttachTurret>
+  <!--EN: Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost.-->
+  <VFEMechAttachTurretDesc>Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost.</VFEMechAttachTurretDesc>
+  <!--EN: Force Recharge-->
+  <VFEMechForceRecharge>Force Recharge</VFEMechForceRecharge>
+  <!--EN: Order the associated machine to return to this platform for charging, regardless of its current battery level.-->
+  <VFEMechForceRechargeDesc>Order the associated machine to return to this platform for charging, regardless of its current battery level.</VFEMechForceRechargeDesc>
+  <!--EN: Reduce range-->
+  <VFEMechLowerRange>Reduce range</VFEMechLowerRange>
+  <!--EN: Reduce the number of tiles this machine will travel.-->
+  <VFEMechLowerRangeDesc>Reduce the number of tiles this machine will travel.</VFEMechLowerRangeDesc>
+  <!--EN: Machine destroyed-->
+  <VFEMechMachineDied>Machine destroyed</VFEMechMachineDied>
+  <!--EN: One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0}-->
+  <VFEMechMachineDiedDesc>One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0}</VFEMechMachineDiedDesc>
+  <!--EN: Machine has run into an obstacle!-->
+  <VFEMechMachineHitObstacle>Machine has run into an obstacle!</VFEMechMachineHitObstacle>
+  <!--EN: Not enough resources-->
+  <VFEMechNoResources>Not enough resources</VFEMechNoResources>
+  <!--EN: No active mobile turret-->
+  <VFEMechNoTurret>No active mobile turret</VFEMechNoTurret>
+  <!--EN: Increase range-->
+  <VFEMechRaiseRange>Increase range</VFEMechRaiseRange>
+  <!--EN: Increase the number of tiles this machine will travel.-->
+  <VFEMechRaiseRangeDesc>Increase the number of tiles this machine will travel.</VFEMechRaiseRangeDesc>
+  <!--EN: Needed to rebuild machine:-->
+  <VFEMechReconstruct>Needed to rebuild machine:</VFEMechReconstruct>
+  <!--EN: Set area-->
+  <VFEMechSetArea>Set area</VFEMechSetArea>
+  <!--EN: Set the allowed area for all of this platform's associated machines.-->
+  <VFEMechSetAreaDesc>Set the allowed area for all of this platform's associated machines.</VFEMechSetAreaDesc>
+  <!--EN: Start machine-->
+  <VFEMechStartMachine>Start machine</VFEMechStartMachine>
+  <!--EN: Start this machine.-->
+  <VFEMechStartMachineDesc>Start this machine.</VFEMechStartMachineDesc>
+  <!--EN: Stop machine-->
+  <VFEMechStopMachine>Stop machine</VFEMechStopMachine>
+  <!--EN: Stop this machine's progress and force it to return to base.-->
+  <VFEMechStopMachineDesc>Stop this machine's progress and force it to return to base.</VFEMechStopMachineDesc>
+  <!--EN: Needed to construct turret:-->
+  <VFEMechTurretResources>Needed to construct turret:</VFEMechTurretResources>
+</LanguageData>

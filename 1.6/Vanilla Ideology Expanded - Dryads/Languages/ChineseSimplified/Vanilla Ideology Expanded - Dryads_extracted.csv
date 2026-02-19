@@ -1,0 +1,115 @@
+key,text,tag,file,type
+VDE_GaubricDesc,Gaubric production,VDE_GaubricDesc,Misc_Gameplay.xml,keyed
+VDE_NeutroamineDesc,Neutroamine production,VDE_NeutroamineDesc,Misc_Gameplay.xml,keyed
+VDE_Awaken,Awaken dryads,VDE_Awaken,Misc_Gameplay.xml,keyed
+VDE_AwakenDesc,Turn three dryads of a type into an awakened version that is free from the trees. This new awakened dryad will act as a normal animal of the colony in most aspects.,VDE_AwakenDesc,Misc_Gameplay.xml,keyed
+VDE_TicksToSpawn,Awakening in {0},VDE_TicksToSpawn,Misc_Gameplay.xml,keyed
+VDE_TurnIntoPalm,Convert to Ambrosia Palm,VDE_TurnIntoPalm,Misc_Gameplay.xml,keyed
+VDE_TurnIntoPalmDesc,Evolves the dryad into an ambrosia palm that produces the drug periodically,VDE_TurnIntoPalmDesc,Misc_Gameplay.xml,keyed
+VDE_AcidSpit.label,acid spit,label,DamageDef/DamageDef.xml,def
+VDE_AcidSpit.deathMessage,{0} has been corroded to death.,deathMessage,DamageDef/DamageDef.xml,def
+VDE_Stonedigger.label,stonedigger,label,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Stonedigger.description,An extremely easy-going caste of dryad which specializes in finding stone chunks. Absorbs minerals from the ground that help harden its carapace while leaving excessively large pieces aside.,description,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Spitter.label,spitter,label,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Spitter.description,"A dryad caste specialized in territorialism and can launch ranged acid projectiles. Though it can dish out tremendous damage, it is vulnerable in melee due to its oversized mouth.",description,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Gaubricmaker.label,gaubricmaker,label,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Gaubricmaker.description,"A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Gauranlen tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat.",description,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Nectarmaker.label,nectarmaker,label,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_Nectarmaker.description,"A curious dryad caste specialized in ambrosia production. Together with its Gauranlen tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats.",description,GauranlenTreeModeDef/GauranlenTreeModeDef.xml,def
+VDE_SeparationSickness.label,separation sickness,label,HediffDef/HediffDef.xml,def
+VDE_SeparationSickness.description,"When an awakened dryad reaches 2 years of age, they start getting affected by separation sickness. This sickness is progressive and always lethal. It is caused by the dryad losing its connection to the Gauranlen tree, and not being able to restore it due to being unshackled.\n\nSeparation sickness can be slowed down by medicine, but eventually every Awakened dryad dies.",description,HediffDef/HediffDef.xml,def
+VDE_SeparationSickness.stages.0.label,weakened,label,HediffDef/HediffDef.xml,def
+VDE_SeparationSickness.stages.1.label,withering,label,HediffDef/HediffDef.xml,def
+VDE_SeparationSickness.stages.2.label,vanishing,label,HediffDef/HediffDef.xml,def
+VDE_NoPain.description,"This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain.",description,HediffDef/HediffDef.xml,def
+VDE_NoPain.label,no pain sensitivity,label,HediffDef/HediffDef.xml,def
+VDE_MergeIntoAwakeningCocoon.reportString,merging into TargetB.,reportString,JobDef/JobDef.xml,def
+VDE_VanillaDryadsExpanded.label,Vanilla Dryads Expanded,label,MVCF.ModDef/MVCF.ModDef.xml,def
+VDE_VanillaDryadsExpanded.description,Adding animal ranged attacks for Vanilla Dryads Expanded creatures,description,MVCF.ModDef/MVCF.ModDef.xml,def
+VDE_CarrierAwakeningCocoon.label,carrier awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_CarrierAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_ClawerAwakeningCocoon.label,clawer awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_ClawerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_BarkskinAwakeningCocoon.label,barkskin awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_BarkskinAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_WoodmakerAwakeningCocoon.label,woodmaker awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_WoodmakerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_MedicinemakerAwakeningCocoon.label,medicinemaker awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_MedicinemakerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_BerrymakerAwakeningCocoon.label,berrymaker awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_BerrymakerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_StonediggerAwakeningCocoon.label,stonedigger awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_StonediggerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_NectarmakerAwakeningCocoon.label,nectarmaker awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_NectarmakerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_SpitterAwakeningCocoon.label,spitter awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_SpitterAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_GaubricmakerAwakeningCocoon.label,gaubricmaker awakening pod,label,ThingDef/ThingDef.xml,def
+VDE_GaubricmakerAwakeningCocoon.description,An awakened dryad will emerge from this pod in one day.,description,ThingDef/ThingDef.xml,def
+VDE_DryadNest.label,dryad nest,label,ThingDef/ThingDef.xml,def
+VDE_DryadNest.description,"A small nest of logs and twigs created by the awakened woodmaker dryad. Animals can sleep in it, but it can also be deconstructed for precious building materials.",description,ThingDef/ThingDef.xml,def
+VDE_Gaubric.label,gaubric,label,ThingDef/ThingDef.xml,def
+VDE_Gaubric.description,"A fabric produced by dryads that closely resembles thick leather in many of its properties, whilst also staying soft and fluffy to touch.",description,ThingDef/ThingDef.xml,def
+VDE_AcidBolt.label,acid spit,label,ThingDef/ThingDef.xml,def
+VDE_AmbrosiaPalm.label,ambrosia palm,label,ThingDef/ThingDef.xml,def
+VDE_AmbrosiaPalm.description,"A legendary palm tree which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. It’s a very rare sight to see an Ambrosia tree that can be farmed for numerous years, as most common sights of Ambrosia are of the bush variety.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Carrier.label,awakened carrier dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Carrier.description,"A dryad caste specialized in carrying items. Its awakening has improved their size, carrying capacity and added functionality as a pack animal for long-distance hauling.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Carrier.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Carrier.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Carrier.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Clawer.label,awakened clawer dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Clawer.description,"A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Its awakening has improved their combat prowess and strengthened the wings, permitting them to ignore terrain movement penalties.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Clawer.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Clawer.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Clawer.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Barkskin.label,awakened barkskin dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Barkskin.description,"A dryad caste specialized in absorbing hits during combat. Its awakening has created multiple layers of hardened bark and deadened all pain receptors. Can act as a mobile form of cover.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Barkskin.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Barkskin.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Barkskin.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Woodmaker.label,awakened woodmaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Woodmaker.description,"A slow, bumbling caste of dryad which specializes in wood production. Its awakening has accelerated the wood-like material production and instilled a motherly instinct to create nests made of numerous twigs.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Woodmaker.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Woodmaker.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Woodmaker.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Medicinemaker.label,awakened medicinemaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Medicinemaker.description,"A dryad caste specialized in medicine production. Its awakening has accelerated the herbal production and gives them a large nodule that slowly accumulated neutroamine, which can be milked when full.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Medicinemaker.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Medicinemaker.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Medicinemaker.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Berrymaker.label,awakened berrymaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Berrymaker.description,"A dryad caste specialized in food production. Its awakening has accelerated the berry production and instills an instinct to bury parts of its peeling hide that are entirely similar to regular berry bushes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Berrymaker.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Berrymaker.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Berrymaker.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Stonedigger.label,awakened stonedigger dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Stonedigger.description,"An extremely easy-going caste of dryad which specializes in finding stone chunks. Its awakening has instilled a sense of awe and strengthened pincers, drawing envy from stone ruins and carving excavated stone chunks into blocks to build a better shell.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Stonedigger.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Stonedigger.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Stonedigger.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Nectarmaker.label,awakened nectarmaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Nectarmaker.description,"A curious dryad caste specialized in ambrosia production. Its awakening has accelerated the ambrosia production and allows it to permanently root itself, transforming into a hardy Ambrosia Palm tree.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Nectarmaker.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Nectarmaker.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Nectarmaker.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.label,awakened spitter dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.description,"A dryad caste specialized in territorialism and can launch ranged acid projectiles. Its awakening has improved their range and adds large acid reservoirs that explode when the dryad dies.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.verbs.0.label,acidic spit,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Spitter.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Gaubricmaker.label,awakened gaubricmaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Gaubricmaker.description,"A caste of dryad which specializes in producing a unique shaggy, leather-like material. Its awakening has accelerated the fabric production and lengthens the shagginess, turning it an adorable, living wonder-mop that cleans up messes.\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.",description,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Gaubricmaker.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Gaubricmaker.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+VDE_AwakenedDryad_Gaubricmaker.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Stonedigger.label,stonedigger dryad,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Stonedigger.description,"An extremely easy-going caste of dryad which specializes in finding stone chunks. Absorbs minerals from the ground that help harden its carapace while leaving excessively large pieces aside.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.",description,ThingDef/ThingDef.xml,def
+VDE_Dryad_Spitter.label,spitter dryad,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Spitter.description,"A dryad caste specialized in territorialism and can launch ranged acid projectiles. Though it can dish out tremendous damage, it is vulnerable in melee due to its oversized mouth.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.",description,ThingDef/ThingDef.xml,def
+VDE_Dryad_Spitter.verbs.0.label,acidic spit,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Gaubricmaker.label,gaubricmaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Gaubricmaker.description,"A caste of dryad which specializes in producing a unique shaggy, leather-like material. Together with its Gauranlen tree, this dryad can be sheared for a soft, beautiful, insulative material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.",description,ThingDef/ThingDef.xml,def
+VDE_Dryad_Nectarmaker.label,nectarmaker dryad,label,ThingDef/ThingDef.xml,def
+VDE_Dryad_Nectarmaker.description,"A curious dryad caste specialized in ambrosia production. Together with its Gauranlen tree, this dryad can generate invigorating ambrosia on an ongoing basis. However, it is completely defenseless and requires careful attention against threats.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.",description,ThingDef/ThingDef.xml,def

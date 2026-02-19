@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency.-->
+  <VTE_ACCompressor.description>An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency.</VTE_ACCompressor.description>
+  <!--EN: AC compressor-->
+  <VTE_ACCompressor.label>AC compressor</VTE_ACCompressor.label>
+  <!--EN: A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network.-->
+  <VTE_ACControlUnit.description>A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network.</VTE_ACControlUnit.description>
+  <!--EN: AC control unit-->
+  <VTE_ACControlUnit.label>AC control unit</VTE_ACControlUnit.label>
+  <!--EN: An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts.-->
+  <VTE_ACUnit.description>An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts.</VTE_ACUnit.description>
+  <!--EN: AC unit-->
+  <VTE_ACUnit.label>AC unit</VTE_ACUnit.label>
+  <!--EN: A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall.-->
+  <VTE_ACUnitWall.description>A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall.</VTE_ACUnitWall.description>
+  <!--EN: wall-mounted AC unit-->
+  <VTE_ACUnitWall.label>wall-mounted AC unit</VTE_ACUnitWall.label>
+  <!--EN: An air duct used by the AC network to transport air between the AC units and compressors.-->
+  <VTE_AirDuct.description>An air duct used by the AC network to transport air between the AC units and compressors.</VTE_AirDuct.description>
+  <!--EN: air duct-->
+  <VTE_AirDuct.label>air duct</VTE_AirDuct.label>
+  <!--EN: A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler.-->
+  <VTE_IndustrialCooler.description>A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler.</VTE_IndustrialCooler.description>
+  <!--EN: industrial cooler-->
+  <VTE_IndustrialCooler.label>industrial cooler</VTE_IndustrialCooler.label>
+  <!--EN: A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters.-->
+  <VTE_IndustrialHeater.description>A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters.</VTE_IndustrialHeater.description>
+  <!--EN: industrial heater-->
+  <VTE_IndustrialHeater.label>industrial heater</VTE_IndustrialHeater.label>
+  <!--EN: A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency.-->
+  <VTE_LargeACCompressor.description>A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency.</VTE_LargeACCompressor.description>
+  <!--EN: large AC compressor-->
+  <VTE_LargeACCompressor.label>large AC compressor</VTE_LargeACCompressor.label>
+  <!--EN: A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.-->
+  <VTE_LargeCeilingFan.description>A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.</VTE_LargeCeilingFan.description>
+  <!--EN: large ceiling fan-->
+  <VTE_LargeCeilingFan.label>large ceiling fan</VTE_LargeCeilingFan.label>
+  <!--EN: A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.-->
+  <VTE_SmallCeilingFan.description>A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.</VTE_SmallCeilingFan.description>
+  <!--EN: small ceiling fan-->
+  <VTE_SmallCeilingFan.label>small ceiling fan</VTE_SmallCeilingFan.label>
+  <!--EN: A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food.-->
+  <VTE_StandingCooler.description>A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food.</VTE_StandingCooler.description>
+  <!--EN: standing cooler-->
+  <VTE_StandingCooler.label>standing cooler</VTE_StandingCooler.label>
+  <!--EN: A subterranean air duct used by the AC network to transport air between the AC units and compressors.-->
+  <VTE_UndergroundAirDuct.description>A subterranean air duct used by the AC network to transport air between the AC units and compressors.</VTE_UndergroundAirDuct.description>
+  <!--EN: subterranean air duct-->
+  <VTE_UndergroundAirDuct.label>subterranean air duct</VTE_UndergroundAirDuct.label>
+  <!--EN: Switches air flow on/off.-->
+  <VTE_VentValve.description>Switches air flow on/off.</VTE_VentValve.description>
+  <!--EN: air duct valve-->
+  <VTE_VentValve.label>air duct valve</VTE_VentValve.label>
+  <!--EN: A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter.-->
+  <VTE_WallHeater.description>A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter.</VTE_WallHeater.description>
+  <!--EN: wall heater-->
+  <VTE_WallHeater.label>wall heater</VTE_WallHeater.label>
+  <!--EN: A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall.-->
+  <VTE_WallMountedCooler.description>A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall.</VTE_WallMountedCooler.description>
+  <!--EN: wall-mounted cooler-->
+  <VTE_WallMountedCooler.label>wall-mounted cooler</VTE_WallMountedCooler.label>
+  <!--EN: A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall.-->
+  <VTE_WallMountedHeater.description>A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall.</VTE_WallMountedHeater.description>
+  <!--EN: wall-mounted heater-->
+  <VTE_WallMountedHeater.label>wall-mounted heater</VTE_WallMountedHeater.label>
+  <!--EN: A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall.-->
+  <VTE_WallMountedVent.description>A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall.</VTE_WallMountedVent.description>
+  <!--EN: wall-mounted vent-->
+  <VTE_WallMountedVent.label>wall-mounted vent</VTE_WallMountedVent.label>
+</LanguageData>

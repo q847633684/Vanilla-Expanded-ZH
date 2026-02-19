@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An ultra-long range sniper rifle which fires fin-stabilized flechettes with acidifier injectors. Due to their lethality and danger of falling into enemy hands, they are always biocoded and will self-destruct if their owner either dies or is disarmed. Lethal to organics and almost useless against non-organics, such as mechanoids.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed.-->
+  <VEE_Gun_Fletcher.description>An ultra-long range sniper rifle which fires fin-stabilized flechettes with acidifier injectors. Due to their lethality and danger of falling into enemy hands, they are always biocoded and will self-destruct if their owner either dies or is disarmed. Lethal to organics and almost useless against non-organics, such as mechanoids.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed.</VEE_Gun_Fletcher.description>
+  <!--EN: fletcher-->
+  <VEE_Gun_Fletcher.label>fletcher</VEE_Gun_Fletcher.label>
+  <!--EN: barrel-->
+  <VEE_Gun_Fletcher.tools.0.label>barrel</VEE_Gun_Fletcher.tools.0.label>
+  <!--EN: A non-alcoholic, pleasantly light, citrusy and slightly bitter aperitif that owes its flavors and aromas to sweet and bitter oranges, rhubarb, and imperial craftsmanship. Drinking it induces heavy but painless vomiting, completely clearing the stomach and taste buds. Aperitif recipe is kept secret by the Hospitality guilds of the Empire, and noone was quite able to recreate this fine delicacy on the rimworld surface.\n\nImperial nobility loves aperitif for its ability to clear out food from the digestive system, allowing them to consume even more of the finest imperial food.-->
+  <VFEE_Aperitif.description>A non-alcoholic, pleasantly light, citrusy and slightly bitter aperitif that owes its flavors and aromas to sweet and bitter oranges, rhubarb, and imperial craftsmanship. Drinking it induces heavy but painless vomiting, completely clearing the stomach and taste buds. Aperitif recipe is kept secret by the Hospitality guilds of the Empire, and noone was quite able to recreate this fine delicacy on the rimworld surface.\n\nImperial nobility loves aperitif for its ability to clear out food from the digestive system, allowing them to consume even more of the finest imperial food.</VFEE_Aperitif.description>
+  <!--EN: Drink {0}-->
+  <VFEE_Aperitif.ingestible.ingestCommandString>Drink {0}</VFEE_Aperitif.ingestible.ingestCommandString>
+  <!--EN: Drinking {0}.-->
+  <VFEE_Aperitif.ingestible.ingestReportString>Drinking {0}.</VFEE_Aperitif.ingestible.ingestReportString>
+  <!--EN: aperitif-->
+  <VFEE_Aperitif.label>aperitif</VFEE_Aperitif.label>
+  <!--EN: A high-tech helmet with a solid plasteel-weave shell and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while feeding firing solutions using real-time strategic information. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.-->
+  <VFEE_Apparel_AbsolverHelmet.description>A high-tech helmet with a solid plasteel-weave shell and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while feeding firing solutions using real-time strategic information. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.</VFEE_Apparel_AbsolverHelmet.description>
+  <!--EN: absolver helmet-->
+  <VFEE_Apparel_AbsolverHelmet.label>absolver helmet</VFEE_Apparel_AbsolverHelmet.label>
+  <!--EN: A high-tech suit of powered armor with layered plasteel-weave plates and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while adjusting and assisting their movement. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.-->
+  <VFEE_Apparel_ArmorAbsolver.description>A high-tech suit of powered armor with layered plasteel-weave plates and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while adjusting and assisting their movement. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.</VFEE_Apparel_ArmorAbsolver.description>
+  <!--EN: absolver armor-->
+  <VFEE_Apparel_ArmorAbsolver.label>absolver armor</VFEE_Apparel_ArmorAbsolver.label>
+  <!--EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nOriginally an elaborate suit of prestige armor, this has been modified to make greater use of eltex weave in order to improve the performance of psycasters. This comes at a cost of removing interfering armor plating, but enhances psychic sensitivity and neural heat dissipation.-->
+  <VFEE_Apparel_ArmorDeserter.description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nOriginally an elaborate suit of prestige armor, this has been modified to make greater use of eltex weave in order to improve the performance of psycasters. This comes at a cost of removing interfering armor plating, but enhances psychic sensitivity and neural heat dissipation.</VFEE_Apparel_ArmorDeserter.description>
+  <!--EN: deserter armor-->
+  <VFEE_Apparel_ArmorDeserter.label>deserter armor</VFEE_Apparel_ArmorDeserter.label>
+  <!--EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nOriginally a standard cataphract helmet, this has been modified to include a gunlink at the cost of removing the faceplate, sacrificing defense to improve offensive capabilities.-->
+  <VFEE_Apparel_DeserterHelmet.description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nOriginally a standard cataphract helmet, this has been modified to include a gunlink at the cost of removing the faceplate, sacrificing defense to improve offensive capabilities.</VFEE_Apparel_DeserterHelmet.description>
+  <!--EN: deserter helmet-->
+  <VFEE_Apparel_DeserterHelmet.label>deserter helmet</VFEE_Apparel_DeserterHelmet.label>
+  <!--EN: A set of pauldrons and neck guard that extends down the wearer’s chest made from layered plasteel-weave plates. While it offers high protection for those areas, it is more of a status symbol and is intended to be worn over clothing and under armor without affecting mobility.-->
+  <VFEE_Apparel_JanissaryCuirass.description>A set of pauldrons and neck guard that extends down the wearer’s chest made from layered plasteel-weave plates. While it offers high protection for those areas, it is more of a status symbol and is intended to be worn over clothing and under armor without affecting mobility.</VFEE_Apparel_JanissaryCuirass.description>
+  <!--EN: janissary cuirass-->
+  <VFEE_Apparel_JanissaryCuirass.label>janissary cuirass</VFEE_Apparel_JanissaryCuirass.label>
+  <!--EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nIncludes a plasteel-plated gas mask that offers full protection against gas-related attacks, such as toxic environments.-->
+  <VFEE_Apparel_JanissaryHelmet.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nIncludes a plasteel-plated gas mask that offers full protection against gas-related attacks, such as toxic environments.</VFEE_Apparel_JanissaryHelmet.description>
+  <!--EN: janissary helmet-->
+  <VFEE_Apparel_JanissaryHelmet.label>janissary helmet</VFEE_Apparel_JanissaryHelmet.label>
+  <!--EN: An exceedingly complex facemask fitted with advanced technology that is only known to high-ranking Sophian techpriests. Designed to be worn by designated researchers so that they can advance the empire’s needs without rest.\n\nThe inlaid techprint will synchronize and stimulate the wearer’s brain when they are performing research, effectively doubling research speed as well as restoring their needs for rest and recreation.-->
+  <VFEE_Apparel_TechfriarCrown.description>An exceedingly complex facemask fitted with advanced technology that is only known to high-ranking Sophian techpriests. Designed to be worn by designated researchers so that they can advance the empire’s needs without rest.\n\nThe inlaid techprint will synchronize and stimulate the wearer’s brain when they are performing research, effectively doubling research speed as well as restoring their needs for rest and recreation.</VFEE_Apparel_TechfriarCrown.description>
+  <!--EN: techfriar crown-->
+  <VFEE_Apparel_TechfriarCrown.label>techfriar crown</VFEE_Apparel_TechfriarCrown.label>
+  <!--EN: A small, makeshift bomb. Can be easily defused if found on time.-->
+  <VFEE_Bomb.description>A small, makeshift bomb. Can be easily defused if found on time.</VFEE_Bomb.description>
+  <!--EN: bomb-->
+  <VFEE_Bomb.label>bomb</VFEE_Bomb.label>
+  <!--EN: thump charge-->
+  <VFEE_Bullet_ChargeThumper.label>thump charge</VFEE_Bullet_ChargeThumper.label>
+  <!--EN: fletcher dart-->
+  <VFEE_Bullet_FletcherDart.label>fletcher dart</VFEE_Bullet_FletcherDart.label>
+  <!--EN: An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed.-->
+  <VFEE_Candelabra.description>An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed.</VFEE_Candelabra.description>
+  <!--EN: candelabra-->
+  <VFEE_Candelabra.label>candelabra</VFEE_Candelabra.label>
+  <!--EN: drop pod (incoming)-->
+  <VFEE_DropPodIncoming_Building.label>drop pod (incoming)</VFEE_DropPodIncoming_Building.label>
+  <!--EN: A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere.-->
+  <VFEE_GrandChair.description>A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere.</VFEE_GrandChair.description>
+  <!--EN: grand chair-->
+  <VFEE_GrandChair.label>grand chair</VFEE_GrandChair.label>
+  <!--EN: A majestic rug with an imperial-style pattern, for decorating a floor.-->
+  <VFEE_GrandRoyalRug.description>A majestic rug with an imperial-style pattern, for decorating a floor.</VFEE_GrandRoyalRug.description>
+  <!--EN: grand royal rug-->
+  <VFEE_GrandRoyalRug.label>grand royal rug</VFEE_GrandRoyalRug.label>
+  <!--EN: A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them.-->
+  <VFEE_GrandTable.description>A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them.</VFEE_GrandTable.description>
+  <!--EN: grand table-->
+  <VFEE_GrandTable.label>grand table</VFEE_GrandTable.label>
+  <!--EN: A modified charged-shot assault shotgun that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to produce a portable ranged weapon capable of firing blunt projectiles. Quite powerful but short ranged, with high performance against structures and heavily armored targets.-->
+  <VFEE_Gun_ChargeThumper.description>A modified charged-shot assault shotgun that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to produce a portable ranged weapon capable of firing blunt projectiles. Quite powerful but short ranged, with high performance against structures and heavily armored targets.</VFEE_Gun_ChargeThumper.description>
+  <!--EN: charge thumper-->
+  <VFEE_Gun_ChargeThumper.label>charge thumper</VFEE_Gun_ChargeThumper.label>
+  <!--EN: stock-->
+  <VFEE_Gun_ChargeThumper.tools.0.label>stock</VFEE_Gun_ChargeThumper.tools.0.label>
+  <!--EN: barrel-->
+  <VFEE_Gun_ChargeThumper.tools.1.label>barrel</VFEE_Gun_ChargeThumper.tools.1.label>
+  <!--EN: A powerful turret mounted on the striker drop pod.-->
+  <VFEE_Gun_StrikerTurret.description>A powerful turret mounted on the striker drop pod.</VFEE_Gun_StrikerTurret.description>
+  <!--EN: striker gun-->
+  <VFEE_Gun_StrikerTurret.label>striker gun</VFEE_Gun_StrikerTurret.label>
+  <!--EN: A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms.-->
+  <VFEE_ImperialBanner.description>A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms.</VFEE_ImperialBanner.description>
+  <!--EN: imperial banner-->
+  <VFEE_ImperialBanner.label>imperial banner</VFEE_ImperialBanner.label>
+  <!--EN: A stoney bas relief of imperial imagery for decorating a floor.-->
+  <VFEE_ImperialSlab.description>A stoney bas relief of imperial imagery for decorating a floor.</VFEE_ImperialSlab.description>
+  <!--EN: imperial slab-->
+  <VFEE_ImperialSlab.label>imperial slab</VFEE_ImperialSlab.label>
+  <!--EN: An intricate rug with an imperial-style pattern, for decorating a floor.-->
+  <VFEE_LargeRoyalRug.description>An intricate rug with an imperial-style pattern, for decorating a floor.</VFEE_LargeRoyalRug.description>
+  <!--EN: large royal rug-->
+  <VFEE_LargeRoyalRug.label>large royal rug</VFEE_LargeRoyalRug.label>
+  <!--EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.-->
+  <VFEE_MeleeWeapon_Toxblade.description>A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.</VFEE_MeleeWeapon_Toxblade.description>
+  <!--EN: toxblade-->
+  <VFEE_MeleeWeapon_Toxblade.label>toxblade</VFEE_MeleeWeapon_Toxblade.label>
+  <!--EN: handle-->
+  <VFEE_MeleeWeapon_Toxblade.tools.0.label>handle</VFEE_MeleeWeapon_Toxblade.tools.0.label>
+  <!--EN: point-->
+  <VFEE_MeleeWeapon_Toxblade.tools.1.label>point</VFEE_MeleeWeapon_Toxblade.tools.1.label>
+  <!--EN: edge-->
+  <VFEE_MeleeWeapon_Toxblade.tools.2.label>edge</VFEE_MeleeWeapon_Toxblade.tools.2.label>
+  <!--EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.-->
+  <VFEE_MeleeWeapon_ToxbladeBladelink.description>A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.</VFEE_MeleeWeapon_ToxbladeBladelink.description>
+  <!--EN: persona toxblade-->
+  <VFEE_MeleeWeapon_ToxbladeBladelink.label>persona toxblade</VFEE_MeleeWeapon_ToxbladeBladelink.label>
+  <!--EN: handle-->
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>handle</VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>
+  <!--EN: point-->
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>point</VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>
+  <!--EN: edge-->
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>edge</VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>
+  <!--EN: orbital slicer-->
+  <VFEE_OrbitalSlicer.label>orbital slicer</VFEE_OrbitalSlicer.label>
+  <!--EN: An exceedingly complex stationary musical instrument crafted at a smithy. A series of tuned pipes are played from the keyboard which releases pressurized air to produce the desired pitch, which lasts as long as the key is pressed. The complex and intricate design, along with the unique sound it produces, make it an ideal apparatus for instigating concerts of the nobility as its music reaches far and wide.-->
+  <VFEE_PipeOrgan.description>An exceedingly complex stationary musical instrument crafted at a smithy. A series of tuned pipes are played from the keyboard which releases pressurized air to produce the desired pitch, which lasts as long as the key is pressed. The complex and intricate design, along with the unique sound it produces, make it an ideal apparatus for instigating concerts of the nobility as its music reaches far and wide.</VFEE_PipeOrgan.description>
+  <!--EN: organ-->
+  <VFEE_PipeOrgan.label>organ</VFEE_PipeOrgan.label>
+  <!--EN: text_todo-->
+  <VFEE_Poison.description>text_todo</VFEE_Poison.description>
+  <!--EN: poison-->
+  <VFEE_Poison.label>poison</VFEE_Poison.label>
+  <!--EN: A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect.-->
+  <VFEE_RoyalMirror.description>A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect.</VFEE_RoyalMirror.description>
+  <!--EN: royal mirror-->
+  <VFEE_RoyalMirror.label>royal mirror</VFEE_RoyalMirror.label>
+  <!--EN: A huge sculpture sized to dominate a room.-->
+  <VFEE_RoyalSculptureGrand.description>A huge sculpture sized to dominate a room.</VFEE_RoyalSculptureGrand.description>
+  <!--EN: grand imperial sculpture-->
+  <VFEE_RoyalSculptureGrand.label>grand imperial sculpture</VFEE_RoyalSculptureGrand.label>
+  <!--EN: A person-sized piece of material sculpted into an artistic form.-->
+  <VFEE_RoyalSculptureLarge.description>A person-sized piece of material sculpted into an artistic form.</VFEE_RoyalSculptureLarge.description>
+  <!--EN: large imperial sculpture-->
+  <VFEE_RoyalSculptureLarge.label>large imperial sculpture</VFEE_RoyalSculptureLarge.label>
+  <!--EN: A torso-sized piece of material sculpted into an artistic form.-->
+  <VFEE_RoyalSculptureSmall.description>A torso-sized piece of material sculpted into an artistic form.</VFEE_RoyalSculptureSmall.description>
+  <!--EN: small imperial sculpture-->
+  <VFEE_RoyalSculptureSmall.label>small imperial sculpture</VFEE_RoyalSculptureSmall.label>
+  <!--EN: A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere.-->
+  <VFEE_RoyalStool.description>A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere.</VFEE_RoyalStool.description>
+  <!--EN: royal stool-->
+  <VFEE_RoyalStool.label>royal stool</VFEE_RoyalStool.label>
+  <!--EN: A slender, modest slab with limited engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.-->
+  <VFEE_SteleSmall.description>A slender, modest slab with limited engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.</VFEE_SteleSmall.description>
+  <!--EN: small stele-->
+  <VFEE_SteleSmall.label>small stele</VFEE_SteleSmall.label>
+  <!--EN: A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged.-->
+  <VFEE_Turret_StrikerTurret.description>A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged.</VFEE_Turret_StrikerTurret.description>
+  <!--EN: striker turret-->
+  <VFEE_Turret_StrikerTurret.label>striker turret</VFEE_Turret_StrikerTurret.label>
+  <!--EN: An unfinished organ.-->
+  <VFEE_UnfinishedOrgan.description>An unfinished organ.</VFEE_UnfinishedOrgan.description>
+  <!--EN: unfinished organ-->
+  <VFEE_UnfinishedOrgan.label>unfinished organ</VFEE_UnfinishedOrgan.label>
+  <!--EN: A spacer-tech imperial gunship designed for transit between surface and orbit, or between moons of a planetary system. Equipped with a twin-linked autocannon for ground support, these armored shuttles often land in the middle of the battlefield to extract stranded troops.-->
+  <VFEI_ArmoredShuttle.description>A spacer-tech imperial gunship designed for transit between surface and orbit, or between moons of a planetary system. Equipped with a twin-linked autocannon for ground support, these armored shuttles often land in the middle of the battlefield to extract stranded troops.</VFEI_ArmoredShuttle.description>
+  <!--EN: armored shuttle-->
+  <VFEI_ArmoredShuttle.label>armored shuttle</VFEI_ArmoredShuttle.label>
+  <!--EN: armored shuttle (incoming)-->
+  <VFEI_ArmoredShuttleIncoming.label>armored shuttle (incoming)</VFEI_ArmoredShuttleIncoming.label>
+  <!--EN: armored shuttle (leaving)-->
+  <VFEI_ArmoredShuttleLeaving.label>armored shuttle (leaving)</VFEI_ArmoredShuttleLeaving.label>
+  <!--EN: A powerful, twin-linked autocannon.-->
+  <VFEI_TurretArmoredShuttle.description>A powerful, twin-linked autocannon.</VFEI_TurretArmoredShuttle.description>
+  <!--EN: double autocannon-->
+  <VFEI_TurretArmoredShuttle.label>double autocannon</VFEI_TurretArmoredShuttle.label>
+  <!--EN: A glorious, long and flowing robe embroidered with intricately complex decorative designs.-->
+  <VFE_Apparel_StellicRobe.description>A glorious, long and flowing robe embroidered with intricately complex decorative designs.</VFE_Apparel_StellicRobe.description>
+  <!--EN: stellic robe-->
+  <VFE_Apparel_StellicRobe.label>stellic robe</VFE_Apparel_StellicRobe.label>
+</LanguageData>

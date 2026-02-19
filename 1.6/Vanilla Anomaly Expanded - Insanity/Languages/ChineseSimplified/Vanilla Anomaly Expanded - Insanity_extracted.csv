@@ -1,0 +1,388 @@
+key,text,tag,file,type
+VAEI_Sanity,Sanity,VAEI_Sanity,Keys.xml,keyed
+VAEI_SanityLetterDesc,{PAWN_nameDef}’s sanity has been tested by recent events. The sanity level of your colonists can now be seen on the Needs tab.,VAEI_SanityLetterDesc,Keys.xml,keyed
+VAEI_SanityLossMessage,{PAWN_nameDef} has lost sanity due to {0}. {PAWN_nameDef}’s sanity is now {1},VAEI_SanityLossMessage,Keys.xml,keyed
+VAEI_SanityGainMessage,{PAWN_nameDef} has gained sanity due to {0}. {PAWN_nameDef}’s sanity is now {1},VAEI_SanityGainMessage,Keys.xml,keyed
+VAEI_PassiveEffects,Passive effects:,VAEI_PassiveEffects,Keys.xml,keyed
+VAEI_MostRecentEvents,Most recent effects:,VAEI_MostRecentEvents,Keys.xml,keyed
+VAEI_PassiveSanityGain,Passive sanity gain: {0} - {1},VAEI_PassiveSanityGain,Keys.xml,keyed
+VEAI_AnomalyStudy,Studying {0},VEAI_AnomalyStudy,Keys.xml,keyed
+VEAI_EatingTwistedMeat,Eating twisted meat,VEAI_EatingTwistedMeat,Keys.xml,keyed
+VEAI_EatingTwistedMeatAsIngredient,Eating twisted meat as food ingredient,VEAI_EatingTwistedMeatAsIngredient,Keys.xml,keyed
+VAEI_SuppressingEntity,Suppressing {0},VAEI_SuppressingEntity,Keys.xml,keyed
+VAEI_OccultTeaching,Occult teaching by {PAWN_nameDef},VAEI_OccultTeaching,Keys.xml,keyed
+VAEI_SanityRecord,{0} ago: {1}: {2},VAEI_SanityRecord,Keys.xml,keyed
+VAEI_DisturbingInteraction,Disturbing {0} from {PAWN_nameDef},VAEI_DisturbingInteraction,Keys.xml,keyed
+VAEI_Interaction,{0} from {PAWN_nameDef},VAEI_Interaction,Keys.xml,keyed
+VAEI_StatsReport_SanityGainPerDay,Sanity gain per day: {0},VAEI_StatsReport_SanityGainPerDay,Keys.xml,keyed
+VAEI_LowSanity,Low sanity,VAEI_LowSanity,Keys.xml,keyed
+VAEI_HighSanity,High sanity,VAEI_HighSanity,Keys.xml,keyed
+VAEI_AnomalyBodypart,Anomalous body part ({0}),VAEI_AnomalyBodypart,Keys.xml,keyed
+VAEI_BeingInLabyrinth,Being in labyrinth,VAEI_BeingInLabyrinth,Keys.xml,keyed
+VAEI_BeingInUnnaturalDarkness,Being in the darkness,VAEI_BeingInUnnaturalDarkness,Keys.xml,keyed
+VAEI_UnnaturalCorpse,Unnatural corpse,VAEI_UnnaturalCorpse,Keys.xml,keyed
+VAEI_InvokerEffect,{0} ritual invocation,VAEI_InvokerEffect,Keys.xml,keyed
+VAEI_TargetEffect,Targeted by {0} ritual,VAEI_TargetEffect,Keys.xml,keyed
+VAEI_ChanterEffect,Chanting during {0} ritual,VAEI_ChanterEffect,Keys.xml,keyed
+VAEI_BeingDuplicated,Being duplicated,VAEI_BeingDuplicated,Keys.xml,keyed
+VAEI_UsingThing,Using {0},VAEI_UsingThing,Keys.xml,keyed
+VAEI_KillingThing,Killing {0},VAEI_KillingThing,Keys.xml,keyed
+VAEI_ReadingTome,Reading tome,VAEI_ReadingTome,Keys.xml,keyed
+VAEI_WeKilledNociosphere,the Nociosphere being killed,VAEI_WeKilledNociosphere,Keys.xml,keyed
+VAEI_PitgateCollapsed,the pit gate collapsing,VAEI_PitgateCollapsed,Keys.xml,keyed
+VAEI_Attending,Attending {0},VAEI_Attending,Keys.xml,keyed
+VAEI_Meditating,Meditating,VAEI_Meditating,Keys.xml,keyed
+VAEI_VoidClosing,the Void closing,VAEI_VoidClosing,Keys.xml,keyed
+VAEI_SanityLoss,It occurred due to sanity loss to 0%.,VAEI_SanityLoss,Keys.xml,keyed
+VAEI_Inhumanized,Inhumanized: {PAWN_nameDef},VAEI_Inhumanized,Keys.xml,keyed
+VAEI_InhumanizedDesc,"{PAWN_nameDef}’s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\nThough drastically altered, {PAWN_nameDef} is still part of your faction, just disconnected from the typical human experiences.",VAEI_InhumanizedDesc,Keys.xml,keyed
+VAEI_Recovered,Recovered: {PAWN_nameDef},VAEI_Recovered,Keys.xml,keyed
+VAEI_RecoveredDesc,"{PAWN_nameDef} has emerged from the depths of madness, experiencing a catharsis that has restored a measure of sanity to {PAWN_possessive} mind. The suffocating grip of the void that once dominated {PAWN_possessive} thoughts has loosened, granting {PAWN_possessive} a fragile peace. Though the journey back to full sanity will be lengthy, {PAWN_pronoun} has regained crucial aspects of {PAWN_possessive} mental clarity.\n\n{PAWN_pronoun} has begun the slow process of recovery, and did not become inhumanized on this occasion.",VAEI_RecoveredDesc,Keys.xml,keyed
+VEAI_RecoveringFromMadness,Recovering from madness,VEAI_RecoveringFromMadness,Keys.xml,keyed
+VAEI_Sacrificial,Sacrificial: {PAWN_nameDef},VAEI_Sacrificial,Keys.xml,keyed
+VAEI_SacrificialDesc,"{PAWN_nameDef}'s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence. Compelled by the dark calling, {PAWN_possessive} is now driven to end {PAWN_possessive} existence in a final act of sacrifice to the void.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\n{PAWN_nameDef} is now set on a path of self-destruction and will attempt to end {PAWN_possessive} existence, however {PAWN_pronoun} can still be restrained and stopped if you arrest them in time.",VAEI_SacrificialDesc,Keys.xml,keyed
+VAEI_EnableSelfHarmContent,"Enable self-harm content (sacrificial mental state, self harm interaction)",VAEI_EnableSelfHarmContent,Keys.xml,keyed
+VAEI_ModSettingsName,VAE - Insanity,VAEI_ModSettingsName,Keys.xml,keyed
+VAEI_SanityFactorExplanation,Sanity ({0}): {1},VAEI_SanityFactorExplanation,Keys.xml,keyed
+VAEI_SanityOffsetExplanation,Sanity ({0}): {1},VAEI_SanityOffsetExplanation,Keys.xml,keyed
+VAEI_ObservingVoidDrawings,Observing void drawings,VAEI_ObservingVoidDrawings,Keys.xml,keyed
+VAEI_Wearing,Wearing {0},VAEI_Wearing,Keys.xml,keyed
+VAEI_Rehumanized,Rehumanized: {PAWN_nameDef},VAEI_Rehumanized,Keys.xml,keyed
+VAEI_RehumanizedDesc,"Because {PAWN_nameDef} regained {PAWN_possessive} sanity, {PAWN_pronoun} became rehumanized. {PAWN_objective} Inhumanized trait has been replaced with {0}.
+
+{1}
+
+{PAWN_nameDef} will unfortunately remain forever prone to losing {PAWN_possessive} mind once again, even more so than others. Any negative effects on sanity will be doubled, which might cause {PAWN_nameDef} to become inhumanized again.",VAEI_RehumanizedDesc,Keys.xml,keyed
+VAEI_SanityLossEffects,Sanity loss/gain effects:,VAEI_SanityLossEffects,Keys.xml,keyed
+VAEI_SuppressingEntities,Suppressing entities (sanity per day):,VAEI_SuppressingEntities,Keys.xml,keyed
+VAEI_StudyingEntities,Studying entities:,VAEI_StudyingEntities,Keys.xml,keyed
+VAEI_KillingEntities,Killing entities:,VAEI_KillingEntities,Keys.xml,keyed
+VAEI_DisturbingInitiatorEffects,Disturbing initiator interactions:,VAEI_DisturbingInitiatorEffects,Keys.xml,keyed
+VAEI_InteractionEffects,Interactions:,VAEI_InteractionEffects,Keys.xml,keyed
+VAEI_NonDisturbingInitiatorEffects,Non-disturbing initiator interactions:,VAEI_NonDisturbingInitiatorEffects,Keys.xml,keyed
+VAEI_HediffEffects,Having health conditions (sanity per day):,VAEI_HediffEffects,Keys.xml,keyed
+VAEI_UsedThingsEffects,Using things:,VAEI_UsedThingsEffects,Keys.xml,keyed
+VAEI_RitualEffects,Participating in rituals:,VAEI_RitualEffects,Keys.xml,keyed
+VAEI_InvokerEffects,Psychic ritual (invoker):,VAEI_InvokerEffects,Keys.xml,keyed
+VAEI_TargetEffects,Psychic ritual (target):,VAEI_TargetEffects,Keys.xml,keyed
+VAEI_ChanterEffects,Psychic ritual (chanter):,VAEI_ChanterEffects,Keys.xml,keyed
+VAEI_MarriageCeremony,Marriage ceremony,VAEI_MarriageCeremony,Keys.xml,keyed
+VAEI_Party,Partying,VAEI_Party,Keys.xml,keyed
+VAEI_General,General,VAEI_General,Keys.xml,keyed
+VAEI_KillingShambler,Shambler,VAEI_KillingShambler,Keys.xml,keyed
+VAEI_KillingNociosphere,Nociosphere,VAEI_KillingNociosphere,Keys.xml,keyed
+VAEI_PerformingJobs,Performing jobs (sanity per day):,VAEI_PerformingJobs,Keys.xml,keyed
+VAEI_PitGateCollapsing,Pit gate collapsing,VAEI_PitGateCollapsing,Keys.xml,keyed
+VAEI_RecoveringFromMadness,Recovering from madness,VAEI_RecoveringFromMadness,Keys.xml,keyed
+VAEI_PassiveEffectsPerDay,Passive effects (sanity per day):,VAEI_PassiveEffectsPerDay,Keys.xml,keyed
+VAEI_SacrificialHediff.label,sacrificial mental state,label,HediffDef/HediffDef.xml,def
+VAEI_SacrificialHediff.description,A sacrificial mental state which will end upon successful arrest or death.,description,HediffDef/HediffDef.xml,def
+VAEI_Focused.label,focused,label,HediffDef/HediffDef.xml,def
+VAEI_Focused.description,"Extreme mental focus on the tasks at hand, greatly increasing the productivity.",description,HediffDef/HediffDef.xml,def
+VAEI_Distracted.label,distracted,label,HediffDef/HediffDef.xml,def
+VAEI_Distracted.description,"Severe loss of focus resulting in a greatly decreased work speed, caused by distractable trait.",description,HediffDef/HediffDef.xml,def
+VAEI_MoodSwing.label,mood swing,label,HediffDef/HediffDef.xml,def
+VAEI_MoodSwing.description,"This pawn is experiencing mood swings, rapidly shifting between feelings of joy and sadness.",description,HediffDef/HediffDef.xml,def
+VAEI_JoinedCult.label,joined cult,label,HediffDef/HediffDef.xml,def
+VAEI_UnsettlingTalk.label,unsettling talk,label,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [eerilytalkedabout] [unsettlingsubject].,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.1,"r_logentry->[INITIATOR_nameDef] [eerilytalkedabout] [unsettlingsubject] with [RECIPIENT_nameDef], leaving a tense atmosphere.",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.2,eerilytalkedabout->whispered about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.3,eerilytalkedabout->murmured about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.4,eerilytalkedabout->conveyed disturbing thoughts about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.5,eerilytalkedabout->exchanged eerie ideas about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.6,eerilytalkedabout->shared chilling views on,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.7,eerilytalkedabout->discussed the unsettling topic of,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.8,eerilytalkedabout->had an unnerving conversation about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.9,eerilytalkedabout->talked quietly about,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.10,eerilytalkedabout->delved into the mysteries of,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.11,eerilytalkedabout->explored the dark aspects of,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.12,unsettlingsubject->ancient curses,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.13,unsettlingsubject->forbidden rituals,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.14,unsettlingsubject->unexplained disappearances,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.15,unsettlingsubject->mysterious sightings,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.16,unsettlingsubject->haunted locations within the colony,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.17,unsettlingsubject->theories about otherworldly entities,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.18,unsettlingsubject->disturbing dreams shared by colonists,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.19,unsettlingsubject->legends of ghostly apparitions,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.20,unsettlingsubject->ominous signs and portents,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.21,unsettlingsubject->tales of madness driven by isolation,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.22,unsettlingsubject->cryptic messages found in ancient texts,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.23,unsettlingsubject->peculiar behaviors of wildlife around the colony,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.24,unsettlingsubject->discussions on the nature of death and what lies beyond,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.25,unsettlingsubject->unearthly noises heard at night,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.26,unsettlingsubject->speculations about cursed artifacts,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.27,unsettlingsubject->the implications of immortality,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.28,unsettlingsubject->the existential dread of infinite space,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.29,unsettlingsubject->recurring visions of an apocalyptic future,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.30,unsettlingsubject->the disturbing frequency of twins born with shared consciousness,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.31,unsettlingsubject->the phenomenon of shadows moving against the laws of light,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.32,unsettlingsubject->accounts of time loops experienced by travelers,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.33,unsettlingsubject->the ethics of memory manipulation in therapy,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.34,unsettlingsubject->reports of colonists speaking in unknown languages during sleep,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.35,unsettlingsubject->ancient prophecies predicting the colony’s downfall,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.36,unsettlingsubject->cryptic patterns observed in the stars,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.37,unsettlingsubject->the concept of life as a simulation revealed in ancient codes,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.38,unsettlingsubject->transmissions received from empty sectors of space,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.39,unsettlingsubject->the sudden onset of mass hysteria and its unknown cause,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.40,"unsettlingsubject->disappearances linked to ancient, unsolvable labyrinths found on planets",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.41,unsettlingsubject->the correlation between dreams of colonists and real-world disasters,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.42,unsettlingsubject->the persistence of consciousness after death,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.43,unsettlingsubject->evidence of predestined events encoded in ancient artifacts,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.44,unsettlingsubject->the phenomenon of colonists' shadows acting independently,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.45,unsettlingsubject->unexplained radio signals correlating with old earth tragedies,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.46,"unsettlingsubject->the theory that reality is fracturing, seen in the distortion of time around the colony",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.47,unsettlingsubject->shared nightmares among colonists depicting an inescapable void,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.48,unsettlingsubject->whispers heard in the wind that predict future events,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.49,unsettlingsubject->the sudden and inexplicable aging of children born under the colony's red moon,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.50,unsettlingsubject->the increasing incidence of mirrors reflecting alternate realities,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.51,unsettlingsubject->instances of written words spontaneously rearranging to form prophetic messages,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.52,"unsettlingsubject->reports of invisible presences felt by many, accompanied by a chilling touch",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.53,unsettlingsubject->the untraceable hum that drives listeners to obsessive thoughts,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.54,unsettlingsubject->the emerging ability among the colonists to communicate through telepathy,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.55,unsettlingsubject->the discovery of an ancient underground city that maps point-for-point to the colony above,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.56,unsettlingsubject->the connection between historical mass vanishings and the current disappearances in the colony,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.57,"unsettlingsubject->the ordinary act of blinking, yet some colonists stop blinking entirely for days",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.58,unsettlingsubject->common dreams among colonists featuring an ordinary day that ends in an inexplicable tragedy,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.59,unsettlingsubject->the phenomenon where personal items are found buried beneath newly planted trees without explanation,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.60,unsettlingsubject->children’s imaginary friends who seem to predict household accidents with alarming accuracy,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.61,unsettlingsubject->household pets staring intently at corners of rooms where the temperature is inexplicably colder,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.62,unsettlingsubject->the subtle but noticeable change in the taste of water before someone in the colony goes missing,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.63,"unsettlingsubject->the routine chore of gardening, where unmarked graves are occasionally discovered",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.64,unsettlingsubject->the statistical improbability of how frequently mirrors crack when certain individuals walk by,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.65,unsettlingsubject->every instance of déjà vu being followed by electrical malfunctions throughout the colony,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.66,unsettlingsubject->watching old video logs that inexplicably play scenes never recorded,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.67,unsettlingsubject->voices caught on communication devices that resemble those of past colonists long deceased,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.68,unsettlingsubject->personal diaries found written in the hand of those who claim they've never written them,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.69,unsettlingsubject->frequent power outages that align with the phases of an unknown celestial body visible only to some,li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.70,"unsettlingsubject->people waking up with knowledge of a language they never learned, speaking fluently in their sleep",li,InteractionDef/InteractionDef.xml,def
+VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings.71,unsettlingsubject->the recurring appearance of unknown figures in the background of photographs taken at colony celebrations,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.label,vicious mockery,label,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [visciouslymocked] [target] for [characteristic].,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.1,"r_logentry->[INITIATOR_nameDef] [visciouslymocked] [target]'s [characteristic], causing whispers among the onlookers.",li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.2,"r_logentry->[INITIATOR_nameDef] launched a biting taunt at [target], targeting their [characteristic].",li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.3,characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic],li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.4,characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube],li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.5,target(p=4)->[RECIPIENT_nameDef],li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.6,target->[RECIPIENT_nameDef]'s [PersonFamily],li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.7,visciouslymocked->viciously mocked,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.8,visciouslymocked->cruelly derided,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.9,visciouslymocked->bitingly taunted,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.10,visciouslymocked->scornfully ridiculed,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.11,visciouslymocked->sharply teased,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.12,visciouslymocked->aggressively belittled,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.13,visciouslymocked->sneeringly insulted,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.14,visciouslymocked->harshly lampooned,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.15,visciouslymocked->savagely diminished,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.16,visciouslymocked->maliciously slandered,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.17,visciouslymocked->cuttingly satirized,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockery.logRulesInitiator.rulesStrings.18,visciouslymocked->brutally disparaged,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.label,slander,label,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.0,"r_logentry->[INITIATOR_nameDef] spread false rumors about [target]'s [characteristic], damaging their reputation.",li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.1,"r_logentry->[INITIATOR_nameDef] falsely claimed [target] was [slanderousAccusation], causing a stir.",li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.2,"r_logentry->[INITIATOR_nameDef] accused [target] of [slanderousAccusation] in front of others, tarnishing their image.",li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.3,characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic],li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.4,characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube],li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.5,target(p=4)->[RECIPIENT_nameDef],li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.6,target->[RECIPIENT_nameDef]'s [PersonFamily],li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.7,slanderousAccusation->having secret illegal dealings,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.8,slanderousAccusation->betraying their friends,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.9,slanderousAccusation->stealing from the community,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.10,slanderousAccusation->lying about their credentials,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.11,slanderousAccusation->cheating in important matters,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.12,slanderousAccusation->being disloyal to the faction,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.13,slanderousAccusation->spreading forbidden knowledge,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.14,slanderousAccusation->spreading forbidden knowledge,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.15,slanderousAccusation->practicing dark arts,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.16,slanderousAccusation->sabotaging vital equipment,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.17,slanderousAccusation->poisoning the community's water supply,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.18,slanderousAccusation->communicating with enemy factions,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.19,slanderousAccusation->embezzling funds,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.20,slanderousAccusation->falsifying records,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.21,slanderousAccusation->manipulating others for personal gain,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.22,slanderousAccusation->aiding criminals,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.23,slanderousAccusation->committing treason,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.24,slanderousAccusation->lying under oath,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.25,slanderousAccusation->hiding a serious illness,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.26,slanderousAccusation->forging documents,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.27,slanderousAccusation->conducting unethical experiments,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.28,slanderousAccusation->stealing intellectual property,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.29,slanderousAccusation->hoarding supplies during a shortage,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.30,slanderousAccusation->neglecting their duties during a critical moment,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.31,slanderousAccusation->providing faulty construction that endangered lives,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.32,slanderousAccusation->spreading a contagious disease through negligence,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.33,slanderousAccusation->deliberately giving misleading directions to explorers,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.34,slanderousAccusation->tampering with the food supply,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.35,slanderousAccusation->leading a factional split,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.36,slanderousAccusation->inciting unrest among the youth,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.37,slanderousAccusation->faking an injury to avoid work,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.38,slanderousAccusation->lying about resource finds,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.39,slanderousAccusation->secretly trading with hostile entities,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.40,slanderousAccusation->sabotaging communication equipment,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.41,slanderousAccusation->stealing critical survival gear,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.42,slanderousAccusation->wasting water in a drought,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.43,slanderousAccusation->violating quarantine protocols,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.44,slanderousAccusation->performing forbidden rituals at night,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.45,slanderousAccusation->murdering fellow colonists for personal gain,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.46,slanderousAccusation->cannibalizing the missing survivors,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.47,slanderousAccusation->poisoning community leaders to usurp power,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.48,slanderousAccusation->using dark magic to control others,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.49,slanderousAccusation->selling children to raiders,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.50,slanderousAccusation->planting evidence to frame innocent people,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.51,slanderousAccusation->making pacts with demonic entities,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.52,slanderousAccusation->orchestrating a massacre of rival factions,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.53,slanderousAccusation->betraying the colony's location to enemy raiders,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.54,slanderousAccusation->conducting heinous experiments on live subjects,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.55,slanderousAccusation->creating a plague to eliminate undesirables,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.56,slanderousAccusation->stealing and desecrating sacred relics,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.57,slanderousAccusation->spreading lethal diseases on purpose,li,InteractionDef/InteractionDef.xml,def
+VAEI_Slander.logRulesInitiator.rulesStrings.58,slanderousAccusation->sacrificing colonists in secret ceremonies,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.label,twisted words,label,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.0,"r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [RECIPIENT_nameDef]'s [characteristic], comparing it to [subjectInsane].",li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.1,"r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [RECIPIENT_nameDef]'s [characteristic], drawing similarities to [subjectDarkStudy].",li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.2,characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic],li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.3,characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube],li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.4,twistedlyComplimented->bizarrely praised,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.5,twistedlyComplimented->eerily commended,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.6,twistedlyComplimented->strangely lauded,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.7,twistedlyComplimented->unnervingly celebrated,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.8,twistedlyComplimented->disturbingly saluted,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.9,twistedlyComplimented->darkly spoke of,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.10,twistedlyComplimented->sinisterly expressed admiration for,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.11,twistedlyComplimented->creepily expressed fondness for,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.12,twistedlyComplimented->unnaturally offered words about,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.13,twistedlyComplimented->macabrely verbalized appreciation for,li,InteractionDef/InteractionDef.xml,def
+VAEI_TwistedWords.logRulesInitiator.rulesStrings.14,twistedlyComplimented->spookily said good things about,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.label,void self-harm,label,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [rambled] about [subjectInsane] [while] [cutting] their [skin].,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] about [subjectInsane] as they [wounded] themselves.,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.2,while->while simultaneously,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.3,while->while,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.4,while->even as they methodically,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.5,while->whilst at the same time,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.6,while->all the while,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.7,while->whilst calmly,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.8,while->during which they carefully,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.9,while->in the midst of which they were,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.10,cutting->slicing,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.11,cutting->carving,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.12,cutting->lacerating,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.13,cutting->gashing,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.14,cutting->scratching,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.15,cutting->incising,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.16,cutting->scoring,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.17,cutting->slashing,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.18,cutting->nicking,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.19,cutting->mutilating,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.20,skin->flesh,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.21,skin->body,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.22,skin->skin,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.23,skin->limbs,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.24,wounded->injured,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.25,wounded->harmed,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.26,wounded->damaged,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.27,wounded->maimed,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.28,wounded->cut,li,InteractionDef/InteractionDef.xml,def
+VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings.29,wounded->sliced,li,InteractionDef/InteractionDef.xml,def
+VAEI_ViciousMockJob.reportString,Mocking TargetA viciously.,reportString,JobDef/JobDef.xml,def
+VAEI_SlanderJob.reportString,Slandering TargetA.,reportString,JobDef/JobDef.xml,def
+VAEI_VoidDrawingJob.reportString,Void drawing.,reportString,JobDef/JobDef.xml,def
+VAEI_Madness.label,Madness,label,MentalStateDef/MentalStateDef.xml,def
+VAEI_Madness.baseInspectLine,Mental state: Madness,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VAEI_Madness.beginLetter,"{PAWN_nameDef} has lost the last connection to {PAWN_possessive} former self. {PAWN_possessive} regard for health, family, friendship, and love has been shattered by continuous exposure to the dark, corrupting psychic forces of the void.\n\n{PAWN_pronoun} will now enter a severe period of madness for several days as {PAWN_pronoun} struggles with {PAWN_possessive} altered mental state and the grim realization of the deepening nightmare. While there's a chance {PAWN_pronoun} might overcome this crisis and restore {PAWN_possessive} sanity, it's far more likely that {PAWN_pronoun} will be completely inhumanized.",beginLetter,MentalStateDef/MentalStateDef.xml,def
+VAEI_Sacrificial.label,sacrificial,label,MentalStateDef/MentalStateDef.xml,def
+VAEI_Sacrificial.baseInspectLine,Mental state: Sacrificial,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VAEI_VoidDrawing.label,void drawing,label,MentalStateDef/MentalStateDef.xml,def
+VAEI_VoidDrawing.baseInspectLine,Mental state: Void Drawing,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VAEI_ViciousMockery.recoveryMessage,{0} is no longer on an mockery spree.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VAEI_ViciousMockery.beginLetter,"{0} is on an mockery spree.\n\n[PAWN_pronoun] will wander around, randomly mocking others.",beginLetter,MentalStateDef/MentalStateDef.xml,def
+VAEI_ViciousMockery.baseInspectLine,Mental state: Mockery spree,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VAEI_JoinCult.label,joining the cult,label,MentalStateDef/MentalStateDef.xml,def
+VAEI_JoinCult.beginLetterLabel,joining the cult,beginLetterLabel,MentalStateDef/MentalStateDef.xml,def
+VAEI_JoinCult.beginLetter,"{0} has succumbed to the void influence.\n\n[PAWN_pronoun] has decided to leave and join the cult of the void. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] next time the cultists decide to attack you.",beginLetter,MentalStateDef/MentalStateDef.xml,def
+VAEI_JoinCult.recoveryMessage,{0} has had a change of heart and is coming back to the colony.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VAEI_JoinCult.baseInspectLine,Mental state: Joining the cult,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VAEI_Sanity.label,sanity,label,NeedDef/NeedDef.xml,def
+VAEI_Sanity.description,"Sanity represents how detached someone is from their humanity due to being exposed to unexplainable void phenomena. Low sanity will eventually lead to madness, which may end up with inhumanization. Low sanity will also twist any social interaction the person is in, potentially spreading their madness among others.",description,NeedDef/NeedDef.xml,def
+VAEI_SanityEffects.hediffEffects.4.description,Cube interest,description,VAEInsanity.SanityEffectsDef/VAEInsanity.SanityEffectsDef.xml,def
+VAEI_SanityEffects.hediffEffects.5.description,Cube withdrawal,description,VAEInsanity.SanityEffectsDef/VAEInsanity.SanityEffectsDef.xml,def
+VAEI_SanityGainPerDay.label,sanity gain per day,label,StatDef/StatDef.xml,def
+VAEI_SanityGainPerDay.description,text.todo,description,StatDef/StatDef.xml,def
+VAEI_SanityGainMultiplier.label,sanity gain multiplier,label,StatDef/StatDef.xml,def
+VAEI_SanityGainMultiplier.description,text.todo,description,StatDef/StatDef.xml,def
+VAEI_SanityLossMultiplier.label,sanity loss multiplier,label,StatDef/StatDef.xml,def
+VAEI_SanityLossMultiplier.description,text.todo,description,StatDef/StatDef.xml,def
+VAEI_SanityMultiplier.label,sanity multiplier,label,StatDef/StatDef.xml,def
+VAEI_SanityMultiplier.description,text.todo,description,StatDef/StatDef.xml,def
+VAEI_Apparel_Gag.label,gag,label,ThingDef/ThingDef.xml,def
+VAEI_Apparel_Gag.description,"An uncomfortable piece of fabric which covers the wearer's mouth, preventing them from speaking. Psychologically suppresses the wearer, but effectively prevents them from interacting socially with others.",description,ThingDef/ThingDef.xml,def
+VAEI_Apparel_StraitJacket.label,straitjacket,label,ThingDef/ThingDef.xml,def
+VAEI_Apparel_StraitJacket.description,"An uncomfortable jacket with crossed sleeves that restrain the movement of the wearer. It psychologically suppresses them, reducing the chance of a slave rebellion. It also prevents the wearer from doing any harm to themselves and others by removing their ability to move their arms.",description,ThingDef/ThingDef.xml,def
+VAEI_VoidHarmed.stages.0.label,void harmed,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_VoidHarmed.stages.0.description,I have harmed myself for the void. I can feel the sweet embrace of darkness.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MockedMood.stages.0.label,mocked,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_MockedMood.stages.0.description,My insecurities were mocked! What an evil person!,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MockedMemory.stages.0.label,mocked,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_VileSlanderMood.stages.0.label,vile slander,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_VileSlanderMood.stages.0.description,I was accused of something absolutely vile! How could they say that?,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_VileSlanderMemory.stages.0.label,vile slander,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_Suspicious.stages.0.label,suspicious,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.0.label,sanity affected,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.0.description,The world begins to bend at the edges; reality feels less certain.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.1.label,sanity degraded,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.1.description,"Things are slipping away, and whispers echo in the corners of my mind.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.2.label,sanity crumbling,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.2.description,My grip loosens; shadows dance and the world spins uncontrollably.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.3.label,sanity lost,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithoutInhumanized.stages.3.description,"I am adrift in the void, untethered from the anchors of reality and reason.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.0.label,sane thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.0.description,Clarity pierces like a knife. The mundane truth is painfully dull.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.1.label,sane doubts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.1.description,"Doubt creeps in, questioning the chaos. Why does this clarity feel like chains?",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.2.label,sane feelings,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_SanityEffectWithInhumanized.stages.2.description,"Feelings of normalcy gnaw at my mind, erasing the beautiful madness.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_KindWordsQuestion.stages.0.label,kind words?,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_KindWordsQuestion.stages.0.description,I think I’ve been bestowed with kind words. I think.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_KindWordsQuestionMemory.stages.0.label,kind words?,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_DeepTalkQuestion.stages.0.label,deep talk?,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_VoidDrawings.stages.0.label,observed void drawings,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_VoidDrawings.stages.0.description,I witnessed a very eerie drawing. It feels like it speaks to me.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_Gagged.stages.0.label,gagged,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_Gagged.stages.0.description,"Hmpff, huff hmphhhh",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_Restrained.stages.0.label,restrained,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_Restrained.stages.0.description,I want to take off this straitjacket! I can’t do anything!,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_Rehumanized.stages.0.label,rehumanized,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_Rehumanized.stages.0.description,"It’s so good to finally feel normal again. Well, mostly normal.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.0.label,slightly dirty surroundings,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.0.description,The room I’m in is slightly dirty. It scares me.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.1.label,dirty surroundings,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.1.description,The room I’m in is dirty. It repulses me.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.2.label,very dirty surroundings,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_DirtyRoom.stages.2.description,The room I’m in is incredibly dirty. I need to leave it as soon as possible.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.0.label,happy thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.0.description,"I'm feeling a gentle happiness, like a quiet smile spreading through my day.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.1.label,very happy thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.1.description,"I'm riding a wave of joy and positivity, feeling truly happy and content.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.2.label,sad thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.2.description,I'm feeling weighed down by a sadness that's hard to shake off.,description,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.3.label,very sad thoughts,label,ThoughtDef/ThoughtDef.xml,def
+VAEI_MoodSwing.stages.3.description,"My heart feels crushed by an intense and deep sadness, almost too much to bear.",description,ThoughtDef/ThoughtDef.xml,def
+VAEI_Inhumanized.degreeDatas.0.label,inhumanized,label,TraitDef/TraitDef.xml,def
+VAEI_Inhumanized.degreeDatas.0.description,"{PAWN_nameDef}'s mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",description,TraitDef/TraitDef.xml,def
+VAEI_VoidTouched.degreeDatas.0.label,void touched,label,TraitDef/TraitDef.xml,def
+VAEI_VoidTouched.degreeDatas.0.description,"{PAWN_nameDef} has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them.",description,TraitDef/TraitDef.xml,def
+VAEI_Germaphobe.label,germaphobe,label,TraitDef/TraitDef.xml,def
+VAEI_Germaphobe.degreeDatas.0.label,germaphobe,label,TraitDef/TraitDef.xml,def
+VAEI_Germaphobe.degreeDatas.0.description,"{PAWN_nameDef} is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague.",description,TraitDef/TraitDef.xml,def
+VAEI_Noncommittal.label,noncommittal,label,TraitDef/TraitDef.xml,def
+VAEI_Noncommittal.degreeDatas.0.label,noncommittal,label,TraitDef/TraitDef.xml,def
+VAEI_Noncommittal.degreeDatas.0.description,"{PAWN_nameDef} is panicly afraid of commitment. {PAWN_pronoun} will actively refuse any attachment to others, and will never form any new relationships.",description,TraitDef/TraitDef.xml,def
+VAEI_Unstable.label,impulsive,label,TraitDef/TraitDef.xml,def
+VAEI_Unstable.degreeDatas.0.label,impulsive,label,TraitDef/TraitDef.xml,def
+VAEI_Unstable.degreeDatas.0.description,"{PAWN_nameDef}'s emotional foundation is fragile, making {PAWN_objective} significantly more prone to crumbling under stress. {PAWN_pronoun} struggle to handle pressure, which often leads to breakdowns in challenging situations.",description,TraitDef/TraitDef.xml,def
+VAEI_Distractable.label,distractable,label,TraitDef/TraitDef.xml,def
+VAEI_Distractable.degreeDatas.0.label,distractable,label,TraitDef/TraitDef.xml,def
+VAEI_Distractable.degreeDatas.0.description,"{PAWN_nameDef} hyperfocuses on certain things when {PAWN_pronoun} feel like it, but most of the time {PAWN_pronoun} will struggle to concentrate on {PAWN_possessive} task, severely affecting {PAWN_possessive} work speed.",description,TraitDef/TraitDef.xml,def
+VAEI_MoodSwings.label,mood swings,label,TraitDef/TraitDef.xml,def
+VAEI_MoodSwings.degreeDatas.0.label,mood swings,label,TraitDef/TraitDef.xml,def
+VAEI_MoodSwings.degreeDatas.0.description,"{PAWN_nameDef} suffers from severe mood swings that can last anything between a day and a quadrum. One day {PAWN_pronoun} might be extremely happy, whilst the next day - extremely sad.",description,TraitDef/TraitDef.xml,def

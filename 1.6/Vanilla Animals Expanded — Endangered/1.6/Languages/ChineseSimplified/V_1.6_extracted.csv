@@ -1,0 +1,149 @@
+key,text,tag,file,type
+NocturnalAnimals.BodyClock,Body clock,NocturnalAnimals.BodyClock,Misc_Gameplay.xml,keyed
+NocturnalAnimals.BodyClock_Description,"Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.",NocturnalAnimals.BodyClock_Description,Misc_Gameplay.xml,keyed
+NocturnalAnimals.BodyClock_Diurnal,Diurnal,NocturnalAnimals.BodyClock_Diurnal,Misc_Gameplay.xml,keyed
+NocturnalAnimals.BodyClock_Nocturnal,Nocturnal,NocturnalAnimals.BodyClock_Nocturnal,Misc_Gameplay.xml,keyed
+NocturnalAnimals.BodyClock_Crepuscular,Crepuscular,NocturnalAnimals.BodyClock_Crepuscular,Misc_Gameplay.xml,keyed
+VAEE.ReleaseIntoWild,Release to the wild,VAEE.ReleaseIntoWild,Misc_Gameplay.xml,keyed
+VAEE.ReleaseIntoWildDesc,Release this animal to the wild and increase relations with tribal and outlander factions.,VAEE.ReleaseIntoWildDesc,Misc_Gameplay.xml,keyed
+VAEE.ReleaseToRepopulate,Release to repopulate,VAEE.ReleaseToRepopulate,Misc_Gameplay.xml,keyed
+VAEE.ReleaseToRepopulateDesc,Release this animal to the wild to repupulate and increase relations with tribal and outlander factions.,VAEE.ReleaseToRepopulateDesc,Misc_Gameplay.xml,keyed
+VAEE.LetterLabelExtintAnimalsPasses,Endangered Animals.,VAEE.LetterLabelExtintAnimalsPasses,Misc_Gameplay.xml,keyed
+VAEE.LetterExtintAnimalsPasses,"A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild will boost relations with tribal and outlander factions.",VAEE.LetterExtintAnimalsPasses,Misc_Gameplay.xml,keyed
+VAEE.LetterExtintAnimalsPassesRepopulate,"A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild to repopulate the species will boost relations with tribal and outlander factions.",VAEE.LetterExtintAnimalsPassesRepopulate,Misc_Gameplay.xml,keyed
+VAEE.ReleasingToTheWildMessage,Releasing an endangered animal into the wild improved relations with tribal and outlander factions by +2.,VAEE.ReleasingToTheWildMessage,Misc_Gameplay.xml,keyed
+VAEE.ReleasingToTheWildMessageRepopulate,Releasing an endangered animal into the wild to repopulate the species improved relations with tribal and outlander factions by +2.,VAEE.ReleasingToTheWildMessageRepopulate,Misc_Gameplay.xml,keyed
+VAEE.ReleasingToTheWildConfirmation,"Releasing to the wild\n\nReleasing an animal to the wild means you will never see it again, as the animal will walk off the map.",VAEE.ReleasingToTheWildConfirmation,Misc_Gameplay.xml,keyed
+VAEE.ReleasingToTheWildConfirmationRepopulate,"Releasing to repopulate\n\nReleasing an animal to the wild to repopulate the species means you will never see it again, as the animal will walk off the map.",VAEE.ReleasingToTheWildConfirmationRepopulate,Misc_Gameplay.xml,keyed
+VAEE.Cancel,Cancel,VAEE.Cancel,Misc_Gameplay.xml,keyed
+VAEE.AddBanishGizmoToAllAnimals,Add release into wild button to all animals,VAEE.AddBanishGizmoToAllAnimals,Misc_Gameplay.xml,keyed
+VAEE.AddBanishGizmoToAllAnimalsRepopulate,Add release to repopulate button to all animals,VAEE.AddBanishGizmoToAllAnimalsRepopulate,Misc_Gameplay.xml,keyed
+AEXP_GreatApe_Bonobo.label,great ape,label,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.0.customLabel,left clavicle,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.1.customLabel,right clavicle,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.8.customLabel,left lung,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.9.customLabel,right lung,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.10.customLabel,left kidney,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.11.customLabel,right kidney,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.1.customLabel,left eye,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.2.customLabel,right eye,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.3.customLabel,left ear,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.4.customLabel,right ear,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.customLabel,left shoulder,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.customLabel,left arm,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.0.customLabel,left humerus,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.1.customLabel,left radius,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.customLabel,left hand,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.0.customLabel,left pinky,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.1.customLabel,left ring finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.2.customLabel,left middle finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.3.customLabel,left index finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.4.customLabel,left thumb,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.customLabel,right shoulder,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.customLabel,right arm,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.0.customLabel,right humerus,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.1.customLabel,right radius,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.customLabel,right hand,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.0.customLabel,right pinky,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.1.customLabel,right ring finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.2.customLabel,right middle finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.3.customLabel,right index finger,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.4.customLabel,right thumb,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.customLabel,left leg,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.0.customLabel,left femur,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.1.customLabel,left tibia,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.customLabel,left foot,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.0.customLabel,left little toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.1.customLabel,left fourth toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.2.customLabel,left middle toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.3.customLabel,left second toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.4.customLabel,left big toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.customLabel,right leg,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.0.customLabel,right femur,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.1.customLabel,right tibia,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.customLabel,right foot,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.0.customLabel,right little toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.1.customLabel,right fourth toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.2.customLabel,right middle toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.3.customLabel,right second toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.4.customLabel,right big toe,customLabel,BodyDef/BodyDef.xml,def
+AEXP_ExtintAnimalsPasses.label,extint animals pass,label,IncidentDef/IncidentDef.xml,def
+AEXP_IngestAnts.reportString,devouring ants.,reportString,JobDef/JobDef.xml,def
+AEXP_GotoTheWild.reportString,going to the wild.,reportString,JobDef/JobDef.xml,def
+AEXP_EggMoaFertilized.label,moa egg (fert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggMoaFertilized.description,"A fertilized moa egg. If all goes well, it should hatch into a baby moa. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggMoaUnfertilized.label,moa egg (unfert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggMoaUnfertilized.description,"An unfertilized moa egg. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggRockhopperPenguinFertilized.label,rockhopper penguin egg (fert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggRockhopperPenguinFertilized.description,"A fertilized rockhopper penguin egg. If all goes well, it should hatch into a baby rockhopper penguin. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_EggRockhopperPenguinUnfertilized.label,rockhopper penguin egg (unfert.),label,ThingDef/ThingDef.xml,def
+AEXP_EggRockhopperPenguinUnfertilized.description,"An unfertilized rockhopper penguin egg. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+AEXP_RawFish.label,raw fish,label,ThingDef/ThingDef.xml,def
+AEXP_RawFish.description,Raw fish. A resourceful penguin has fished this.,description,ThingDef/ThingDef.xml,def
+AEXP_RawFish.tools.0.label,raw fish,label,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.label,black-footed ferret,label,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.description,"A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species.",description,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_BlackFootedFerret.label,black-footed ferret,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_BlackRhino.label,black rhinoceros,label,ThingDef/ThingDef.xml,def
+AEXP_BlackRhino.description,"A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n<color=#33d733>Real World Conservation Status:</color> Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals.",description,ThingDef/ThingDef.xml,def
+AEXP_BlackRhino.tools.0.label,horn,label,ThingDef/ThingDef.xml,def
+AEXP_BlackRhino.tools.1.label,horn,label,ThingDef/ThingDef.xml,def
+AEXP_BlackRhino.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_BlackRhino.label,black rhinoceros,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_BlackRhino.labelPlural,black rhinoceroses,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Bonobo.label,bonobo,label,ThingDef/ThingDef.xml,def
+AEXP_Bonobo.description,"The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability.",description,ThingDef/ThingDef.xml,def
+AEXP_Bonobo.tools.0.label,left fist,label,ThingDef/ThingDef.xml,def
+AEXP_Bonobo.tools.1.label,right fist,label,ThingDef/ThingDef.xml,def
+AEXP_Bonobo.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Bonobo.label,bonobo,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Moa.label,moa,label,ThingDef/ThingDef.xml,def
+AEXP_Moa.description,"A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\n<color=#33d733>Real World Conservation Status:</color> Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct.",description,ThingDef/ThingDef.xml,def
+AEXP_Moa.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+AEXP_Moa.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+AEXP_Moa.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Moa.label,moa,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Quagga.label,quagga,label,ThingDef/ThingDef.xml,def
+AEXP_Quagga.description,"The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range.",description,ThingDef/ThingDef.xml,def
+AEXP_Quagga.tools.0.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Quagga.tools.1.label,left hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Quagga.tools.2.label,right hoof,label,ThingDef/ThingDef.xml,def
+AEXP_Quagga.label,quagga,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Quagga.lifeStages.0.label,quagga foal,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Quagga.lifeStages.0.labelPlural,quagga foals,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_RockhopperPenguin.label,rockhopper penguin,label,ThingDef/ThingDef.xml,def
+AEXP_RockhopperPenguin.description,"Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n<color=#33d733>Real World Conservation Status:</color> Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk.",description,ThingDef/ThingDef.xml,def
+AEXP_RockhopperPenguin.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+AEXP_RockhopperPenguin.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+AEXP_RockhopperPenguin.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_RockhopperPenguin.label,rockhopper penguin,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_RockhopperPenguin.labelPlural,rockhopper penguin,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_TasmanianDevil.label,tasmanian devil,label,ThingDef/ThingDef.xml,def
+AEXP_TasmanianDevil.description,"A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild.",description,ThingDef/ThingDef.xml,def
+AEXP_TasmanianDevil.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_TasmanianDevil.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_TasmanianDevil.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_TasmanianDevil.label,tasmanian devil,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_Thylacine.label,thylacine,label,ThingDef/ThingDef.xml,def
+AEXP_Thylacine.description,"Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species.",description,ThingDef/ThingDef.xml,def
+AEXP_Thylacine.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_Thylacine.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_Thylacine.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Thylacine.label,thylacine,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_AfricanWildDog.label,african wild dog,label,ThingDef/ThingDef.xml,def
+AEXP_AfricanWildDog.description,"A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020.",description,ThingDef/ThingDef.xml,def
+AEXP_AfricanWildDog.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_AfricanWildDog.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_AfricanWildDog.tools.3.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_AfricanWildDog.label,african wild dog,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_AfricanWildDog.lifeStages.0.label,african wild dog puppy,label,PawnKindDef/PawnKindDef.xml,def
+AEXP_AfricanWildDog.lifeStages.0.labelPlural,african wild dog puppies,labelPlural,PawnKindDef/PawnKindDef.xml,def
+AEXP_Pangolin.label,giant pangolin,label,ThingDef/ThingDef.xml,def
+AEXP_Pangolin.description,"Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world.",description,ThingDef/ThingDef.xml,def
+AEXP_Pangolin.tools.0.label,left claw,label,ThingDef/ThingDef.xml,def
+AEXP_Pangolin.tools.1.label,right claw,label,ThingDef/ThingDef.xml,def
+AEXP_Pangolin.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+AEXP_Pangolin.label,giant pangolin,label,PawnKindDef/PawnKindDef.xml,def

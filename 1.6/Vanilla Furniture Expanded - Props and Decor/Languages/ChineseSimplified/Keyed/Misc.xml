@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: build props-->
+  <VFEPD_BuildProps>build props</VFEPD_BuildProps>
+  <!--EN: Open a menu to build props with a silver cost.-->
+  <VFEPD_BuildPropsDesc>Open a menu to build props with a silver cost.</VFEPD_BuildPropsDesc>
+  <!--EN: Make copy-->
+  <VFEPD_MakeCopy>Make copy</VFEPD_MakeCopy>
+  <!--EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles.-->
+  <VFEPD_MakeCopyDesc>Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles.</VFEPD_MakeCopyDesc>
+  <!--EN: Can't be built until {0} has been researched by the colony-->
+  <VFEPD_ResearchNeeded>Can't be built until {0} has been researched by the colony</VFEPD_ResearchNeeded>
+  <!--EN: Select prop category:-->
+  <VFE_ChoosePropCategory>Select prop category:</VFE_ChoosePropCategory>
+  <!--EN: Go back-->
+  <VFE_GoBack>Go back</VFE_GoBack>
+  <!--EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop-->
+  <VFE_NoSilver>Not enough silver in stockpiles. You need to have at least {0} silver to build this prop</VFE_NoSilver>
+  <!--EN: Search-->
+  <VFE_PrefabSearch>Search</VFE_PrefabSearch>
+  <!--EN: Prop cost multiplier-->
+  <VFE_PropCostMultiplier>Prop cost multiplier</VFE_PropCostMultiplier>
+  <!--EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs.-->
+  <VFE_PropCostMultiplierDesc>Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs.</VFE_PropCostMultiplierDesc>
+  <!--EN: Reset-->
+  <VFE_Reset>Reset</VFE_Reset>
+  <!--EN: Silver return multiplier-->
+  <VFE_SilverReturnMultiplier>Silver return multiplier</VFE_SilverReturnMultiplier>
+  <!--EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting.-->
+  <VFE_SilverReturnMultiplierDesc>When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting.</VFE_SilverReturnMultiplierDesc>
+  <!--EN: Built-->
+  <VPE_NeedsMats>Built</VPE_NeedsMats>
+  <!--EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves-->
+  <VPE_NeedsMatsDesc>This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves</VPE_NeedsMatsDesc>
+</LanguageData>

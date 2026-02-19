@@ -1,0 +1,36 @@
+key,text,tag,file,type
+VFESecurity.Submerged,submerged,VFESecurity.Submerged,Keys.xml,keyed
+VFESecurity.WorldTileRange,World tile range,VFESecurity.WorldTileRange,Keys.xml,keyed
+VFESecurity.TargetWorldTile,Target world tile,VFESecurity.TargetWorldTile,Keys.xml,keyed
+VFESecurity.TargetWorldTile_Description,Select a world tile for this {0} to fire at.,VFESecurity.TargetWorldTile_Description,Keys.xml,keyed
+VFESecurity.TargetWorldTile_DescriptionShort,Select a world tile to fire at.,VFESecurity.TargetWorldTile_DescriptionShort,Keys.xml,keyed
+VFESecurity.CommandTargetTileFailNoArtillery,This {0} does not have any suitable artillery.,VFESecurity.CommandTargetTileFailNoArtillery,Keys.xml,keyed
+VFESecurity.TargetWorldTileOutOfRange,Tile is out of range.,VFESecurity.TargetWorldTileOutOfRange,Keys.xml,keyed
+VFESecurity.TargetMap,Target map,VFESecurity.TargetMap,Keys.xml,keyed
+VFESecurity.TargetPeaceTalks,Target peace talks,VFESecurity.TargetPeaceTalks,Keys.xml,keyed
+VFESecurity.TargetSettlement,Target settlement,VFESecurity.TargetSettlement,Keys.xml,keyed
+VFESecurity.TargetOutpost,Target outpost,VFESecurity.TargetOutpost,Keys.xml,keyed
+VFESecurity.TargetSite,Target site,VFESecurity.TargetSite,Keys.xml,keyed
+VFESecurity.TargetWorldTileEmpty,Target area (will have no effect),VFESecurity.TargetWorldTileEmpty,Keys.xml,keyed
+VFESecurity.TargetWorldFlyingObject,Cannot target flying objects.,VFESecurity.TargetWorldFlyingObject,Keys.xml,keyed
+VFESecurity.TargetWorldTileSameTile,Cannot target the same tile.,VFESecurity.TargetWorldTileSameTile,Keys.xml,keyed
+VFESecurity.MessageTargetWorldTileInvalid,Targeted area is invalid.,VFESecurity.MessageTargetWorldTileInvalid,Keys.xml,keyed
+VFESecurity.Settlement,settlement,VFESecurity.Settlement,Keys.xml,keyed
+VFESecurity.MessageTargetWorldTileOutOfRange,Targeted area is out of the {0}'s range.,VFESecurity.MessageTargetWorldTileOutOfRange,Keys.xml,keyed
+VFESecurity.GoodwillChangedReason_ArtilleryStrike,attacked by artillery,VFESecurity.GoodwillChangedReason_ArtilleryStrike,Keys.xml,keyed
+VFESecurity.Message_ArtilleryBombardmentEnded,{0} from {1} have stopped bombarding your settlements.,VFESecurity.Message_ArtilleryBombardmentEnded,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeProvokedGeneric_Letter,Provoked {0},VFESecurity.ArtilleryStrikeProvokedGeneric_Letter,Keys.xml,keyed
+VFESecurity.ArtilleryStrikePeaceTalks_LetterText,"By sending an artillery strike at their peace talks negotiation party, relations between you and {0} have soured. They may send a raiding party in retaliation.",VFESecurity.ArtilleryStrikePeaceTalks_LetterText,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeSettlement_Letter,Artillery retaliation,VFESecurity.ArtilleryStrikeSettlement_Letter,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeSettlement_LetterText,"Due to your provocation via artillery strike, the {0} at {1} have decided to return fire at your settlements using their own artillery!\n\nThis bombardment will go on for a few days, or until you destroy the settlement.",VFESecurity.ArtilleryStrikeSettlement_LetterText,Keys.xml,keyed
+VFESecurity.LetterFactionBaseDefeatedStrike,The enemy base {0} has been destroyed.,VFESecurity.LetterFactionBaseDefeatedStrike,Keys.xml,keyed
+VFESecurity.PsychicPylonExposure,Psychic pylon exposure,VFESecurity.PsychicPylonExposure,Keys.xml,keyed
+VFESecurity.AmmoCrate,Ammo crate,VFESecurity.AmmoCrate,Keys.xml,keyed
+VFESecurity.Armed,Armed,VFESecurity.Armed,Keys.xml,keyed
+VFESecurity.NeedsRearming,Needs rearming,VFESecurity.NeedsRearming,Keys.xml,keyed
+VFESecurity.DesignatorRearmTraps,Rearm,VFESecurity.DesignatorRearmTraps,Keys.xml,keyed
+VFESecurity.DesignatorRearmTraps_Description,Mark unarmed rearmable traps to be rearmed by your colonists.,VFESecurity.DesignatorRearmTraps_Description,Keys.xml,keyed
+VFESecurity.MessageMustDesignateRearmables,Must designate unarmed rearmable traps.,VFESecurity.MessageMustDesignateRearmables,Keys.xml,keyed
+VFESecurity.ArtileryHitMessage,Artillery shell has hit the {0} location. ({1} destruction).,VFESecurity.ArtileryHitMessage,Keys.xml,keyed
+VFESecurity.ArtileryDestruction,{0} destruction from artillery,VFESecurity.ArtileryDestruction,Keys.xml,keyed
+VFESecurity.ArtileryHitDestroyedMessage,Artillery shell has destroyed the {0} location.,VFESecurity.ArtileryHitDestroyedMessage,Keys.xml,keyed

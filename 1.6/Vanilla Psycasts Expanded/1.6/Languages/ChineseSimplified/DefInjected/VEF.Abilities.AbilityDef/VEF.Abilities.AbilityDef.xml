@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.-->
+  <VPE_AdrenalineRush.description>Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.</VPE_AdrenalineRush.description>
+  <!--EN: adrenaline rush-->
+  <VPE_AdrenalineRush.label>adrenaline rush</VPE_AdrenalineRush.label>
+  <!--EN: Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies.-->
+  <VPE_Age.description>Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies.</VPE_Age.description>
+  <!--EN: age-->
+  <VPE_Age.label>age</VPE_Age.label>
+  <!--EN: Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war.-->
+  <VPE_AggressiveHeatDump.description>Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war.</VPE_AggressiveHeatDump.description>
+  <!--EN: aggressive heat dump-->
+  <VPE_AggressiveHeatDump.label>aggressive heat dump</VPE_AggressiveHeatDump.label>
+  <!--EN: Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.-->
+  <VPE_AnimalAllies.description>Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.</VPE_AnimalAllies.description>
+  <!--EN: animal allies-->
+  <VPE_AnimalAllies.label>animal allies</VPE_AnimalAllies.label>
+  <!--EN: Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity.-->
+  <VPE_Assassinate.description>Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity.</VPE_Assassinate.description>
+  <!--EN: assassinate-->
+  <VPE_Assassinate.label>assassinate</VPE_Assassinate.label>
+  <!--EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity.-->
+  <VPE_BallLightning.description>The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity.</VPE_BallLightning.description>
+  <!--EN: ball lightning-->
+  <VPE_BallLightning.label>ball lightning</VPE_BallLightning.label>
+  <!--EN: Psychically command the target to approach the caster.-->
+  <VPE_Beckon.description>Psychically command the target to approach the caster.</VPE_Beckon.description>
+  <!--EN: beckon-->
+  <VPE_Beckon.label>beckon</VPE_Beckon.label>
+  <!--EN: Creates a ripple of cosmic scale that will force something to happen.-->
+  <VPE_BendProbability.description>Creates a ripple of cosmic scale that will force something to happen.</VPE_BendProbability.description>
+  <!--EN: bend probability-->
+  <VPE_BendProbability.label>bend probability</VPE_BendProbability.label>
+  <!--EN: Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity.-->
+  <VPE_Berserk.description>Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity.</VPE_Berserk.description>
+  <!--EN: berserk-->
+  <VPE_Berserk.label>berserk</VPE_Berserk.label>
+  <!--EN: Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds.-->
+  <VPE_BerserkPulse.description>Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds.</VPE_BerserkPulse.description>
+  <!--EN: berserk pulse-->
+  <VPE_BerserkPulse.label>berserk pulse</VPE_BerserkPulse.label>
+  <!--EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.-->
+  <VPE_BladeFocus.description>Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.</VPE_BladeFocus.description>
+  <!--EN: blade focus-->
+  <VPE_BladeFocus.label>blade focus</VPE_BladeFocus.label>
+  <!--EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity.-->
+  <VPE_BlindingPulse.description>Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity.</VPE_BlindingPulse.description>
+  <!--EN: blinding pulse-->
+  <VPE_BlindingPulse.label>blinding pulse</VPE_BlindingPulse.label>
+  <!--EN: After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action.-->
+  <VPE_Bliss.description>After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action.</VPE_Bliss.description>
+  <!--EN: bliss-->
+  <VPE_Bliss.label>bliss</VPE_Bliss.label>
+  <!--EN: Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a coma.-->
+  <VPE_Blizzard.description>Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a coma.</VPE_Blizzard.description>
+  <!--EN: blizzard-->
+  <VPE_Blizzard.label>blizzard</VPE_Blizzard.label>
+  <!--EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage.-->
+  <VPE_Bolt.description>Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage.</VPE_Bolt.description>
+  <!--EN: bolt-->
+  <VPE_Bolt.label>bolt</VPE_Bolt.label>
+  <!--EN: Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.-->
+  <VPE_BrambleMaze.description>Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.</VPE_BrambleMaze.description>
+  <!--EN: bramble maze-->
+  <VPE_BrambleMaze.label>bramble maze</VPE_BrambleMaze.label>
+  <!--EN: Spews forth flammable liquid which immediately ignites, along with everything the flames touch.-->
+  <VPE_BreatheFlame.description>Spews forth flammable liquid which immediately ignites, along with everything the flames touch.</VPE_BreatheFlame.description>
+  <!--EN: breathe flame-->
+  <VPE_BreatheFlame.label>breathe flame</VPE_BreatheFlame.label>
+  <!--EN: Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity.-->
+  <VPE_Burden.description>Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity.</VPE_Burden.description>
+  <!--EN: burden-->
+  <VPE_Burden.label>burden</VPE_Burden.label>
+  <!--EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage.-->
+  <VPE_ChainBolt.description>Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage.</VPE_ChainBolt.description>
+  <!--EN: chain bolt-->
+  <VPE_ChainBolt.label>chain bolt</VPE_ChainBolt.label>
+  <!--EN: Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action.-->
+  <VPE_ChaosSkip.description>Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action.</VPE_ChaosSkip.description>
+  <!--EN: chaos skip-->
+  <VPE_ChaosSkip.label>chaos skip</VPE_ChaosSkip.label>
+  <!--EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.-->
+  <VPE_Chunkskip.description>Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</VPE_Chunkskip.description>
+  <!--EN: chunk skip-->
+  <VPE_Chunkskip.label>chunk skip</VPE_Chunkskip.label>
+  <!--EN: Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature.-->
+  <VPE_ColdZone.description>Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature.</VPE_ColdZone.description>
+  <!--EN: cold zone-->
+  <VPE_ColdZone.label>cold zone</VPE_ColdZone.label>
+  <!--EN: Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered.-->
+  <VPE_ConjureHeatPearls.description>Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered.</VPE_ConjureHeatPearls.description>
+  <!--EN: conjure heat pearls-->
+  <VPE_ConjureHeatPearls.label>conjure heat pearls</VPE_ConjureHeatPearls.label>
+  <!--EN: Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat.-->
+  <VPE_ConsumeBodies.description>Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat.</VPE_ConsumeBodies.description>
+  <!--EN: consume bodies-->
+  <VPE_ConsumeBodies.label>consume bodies</VPE_ConsumeBodies.label>
+  <!--EN: Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.-->
+  <VPE_ControlledFrenzy.description>Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.</VPE_ControlledFrenzy.description>
+  <!--EN: controlled frenzy-->
+  <VPE_ControlledFrenzy.label>controlled frenzy</VPE_ControlledFrenzy.label>
+  <!--EN: Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal.-->
+  <VPE_Corpsetalk.description>Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal.</VPE_Corpsetalk.description>
+  <!--EN: corpsetalk-->
+  <VPE_Corpsetalk.label>corpsetalk</VPE_Corpsetalk.label>
+  <!--EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice.-->
+  <VPE_CraftPsyRing.description>Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice.</VPE_CraftPsyRing.description>
+  <!--EN: craft psyring-->
+  <VPE_CraftPsyRing.label>craft psyring</VPE_CraftPsyRing.label>
+  <!--EN: Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year.-->
+  <VPE_CraftTimeskip.description>Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year.</VPE_CraftTimeskip.description>
+  <!--EN: craft timeskip-->
+  <VPE_CraftTimeskip.label>craft timeskip</VPE_CraftTimeskip.label>
+  <!--EN: Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.-->
+  <VPE_CropBurst.description>Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.</VPE_CropBurst.description>
+  <!--EN: crop burst-->
+  <VPE_CropBurst.label>crop burst</VPE_CropBurst.label>
+  <!--EN: Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely.-->
+  <VPE_Darkness.description>Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely.</VPE_Darkness.description>
+  <!--EN: darkness-->
+  <VPE_Darkness.label>darkness</VPE_Darkness.label>
+  <!--EN: Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity.-->
+  <VPE_Darkvision.description>Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity.</VPE_Darkvision.description>
+  <!--EN: darkvision-->
+  <VPE_Darkvision.label>darkvision</VPE_Darkvision.label>
+  <!--EN: Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs.-->
+  <VPE_Deathshield.description>Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs.</VPE_Deathshield.description>
+  <!--EN: deathshield-->
+  <VPE_Deathshield.label>deathshield</VPE_Deathshield.label>
+  <!--EN: Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies.-->
+  <VPE_Decoy.description>Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies.</VPE_Decoy.description>
+  <!--EN: decoy-->
+  <VPE_Decoy.label>decoy</VPE_Decoy.label>
+  <!--EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions.-->
+  <VPE_DrainPsyessence.description>Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions.</VPE_DrainPsyessence.description>
+  <!--EN: drain psyessence-->
+  <VPE_DrainPsyessence.label>drain psyessence</VPE_DrainPsyessence.label>
+  <!--EN: By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse.-->
+  <VPE_Eclipse.description>By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse.</VPE_Eclipse.description>
+  <!--EN: eclipse-->
+  <VPE_Eclipse.label>eclipse</VPE_Eclipse.label>
+  <!--EN: Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity.-->
+  <VPE_EnchantQuality.description>Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity.</VPE_EnchantQuality.description>
+  <!--EN: enchant quality-->
+  <VPE_EnchantQuality.label>enchant quality</VPE_EnchantQuality.label>
+  <!--EN: Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap.-->
+  <VPE_EnergyDump.description>Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap.</VPE_EnergyDump.description>
+  <!--EN: energy dump-->
+  <VPE_EnergyDump.label>energy dump</VPE_EnergyDump.label>
+  <!--EN: Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies.-->
+  <VPE_Enthrall.description>Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies.</VPE_Enthrall.description>
+  <!--EN: enthrall-->
+  <VPE_Enthrall.label>enthrall</VPE_Enthrall.label>
+  <!--EN: Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time.-->
+  <VPE_EssenceTransfer.description>Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time.</VPE_EssenceTransfer.description>
+  <!--EN: essence transfer-->
+  <VPE_EssenceTransfer.label>essence transfer</VPE_EssenceTransfer.label>
+  <!--EN: Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid.-->
+  <VPE_Explosion.description>Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid.</VPE_Explosion.description>
+  <!--EN: explosion-->
+  <VPE_Explosion.label>explosion</VPE_Explosion.label>
+  <!--EN: Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area.-->
+  <VPE_EyeBlast.description>Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area.</VPE_EyeBlast.description>
+  <!--EN: eye blast-->
+  <VPE_EyeBlast.label>eye blast</VPE_EyeBlast.label>
+  <!--EN: Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey.-->
+  <VPE_Farskip.description>Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey.</VPE_Farskip.description>
+  <!--EN: farskip-->
+  <VPE_Farskip.label>farskip</VPE_Farskip.label>
+  <!--EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a coma.-->
+  <VPE_FireBeam.description>Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a coma.</VPE_FireBeam.description>
+  <!--EN: fire beam-->
+  <VPE_FireBeam.label>fire beam</VPE_FireBeam.label>
+  <!--EN: Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity.-->
+  <VPE_FireShield.description>Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity.</VPE_FireShield.description>
+  <!--EN: fire shield-->
+  <VPE_FireShield.label>fire shield</VPE_FireShield.label>
+  <!--EN: Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.-->
+  <VPE_FiringFocus.description>Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.</VPE_FiringFocus.description>
+  <!--EN: firing focus-->
+  <VPE_FiringFocus.label>firing focus</VPE_FiringFocus.label>
+  <!--EN: Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable.-->
+  <VPE_FlameTornado.description>Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable.</VPE_FlameTornado.description>
+  <!--EN: fire tornado-->
+  <VPE_FlameTornado.label>fire tornado</VPE_FlameTornado.label>
+  <!--EN: Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity.-->
+  <VPE_Flameball.description>Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity.</VPE_Flameball.description>
+  <!--EN: flameball-->
+  <VPE_Flameball.label>flameball</VPE_Flameball.label>
+  <!--EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.-->
+  <VPE_Flashstorm.description>Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.</VPE_Flashstorm.description>
+  <!--EN: flashstorm-->
+  <VPE_Flashstorm.label>flashstorm</VPE_Flashstorm.label>
+  <!--EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities.-->
+  <VPE_Focus.description>Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities.</VPE_Focus.description>
+  <!--EN: focus-->
+  <VPE_Focus.label>focus</VPE_Focus.label>
+  <!--EN: Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity.-->
+  <VPE_FrostRay.description>Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity.</VPE_FrostRay.description>
+  <!--EN: frost ray-->
+  <VPE_FrostRay.label>frost ray</VPE_FrostRay.label>
+  <!--EN: Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity.-->
+  <VPE_Ghostwalk.description>Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity.</VPE_Ghostwalk.description>
+  <!--EN: ghostwalk-->
+  <VPE_Ghostwalk.label>ghostwalk</VPE_Ghostwalk.label>
+  <!--EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range.-->
+  <VPE_GroupLink.description>Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range.</VPE_GroupLink.description>
+  <!--EN: group link-->
+  <VPE_GroupLink.label>group link</VPE_GroupLink.label>
+  <!--EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.-->
+  <VPE_GuardianSkipbarrier.description>Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.</VPE_GuardianSkipbarrier.description>
+  <!--EN: guardian skipbarrier-->
+  <VPE_GuardianSkipbarrier.label>guardian skipbarrier</VPE_GuardianSkipbarrier.label>
+  <!--EN: Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.-->
+  <VPE_GuidedShot.description>Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.</VPE_GuidedShot.description>
+  <!--EN: guided shot-->
+  <VPE_GuidedShot.label>guided shot</VPE_GuidedShot.label>
+  <!--EN: Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity.-->
+  <VPE_Haywire.description>Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity.</VPE_Haywire.description>
+  <!--EN: haywire-->
+  <VPE_Haywire.label>haywire</VPE_Haywire.label>
+  <!--EN: Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target.-->
+  <VPE_HealthSwap.description>Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target.</VPE_HealthSwap.description>
+  <!--EN: health swap-->
+  <VPE_HealthSwap.label>health swap</VPE_HealthSwap.label>
+  <!--EN: Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump.-->
+  <VPE_HeatFocus.description>Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump.</VPE_HeatFocus.description>
+  <!--EN: heat focus-->
+  <VPE_HeatFocus.label>heat focus</VPE_HeatFocus.label>
+  <!--EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop.-->
+  <VPE_Hurricane.description>The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop.</VPE_Hurricane.description>
+  <!--EN: hurricane-->
+  <VPE_Hurricane.label>hurricane</VPE_Hurricane.label>
+  <!--EN: Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing.-->
+  <VPE_IceBlock.description>Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing.</VPE_IceBlock.description>
+  <!--EN: ice block-->
+  <VPE_IceBlock.label>ice block</VPE_IceBlock.label>
+  <!--EN: Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target.-->
+  <VPE_IceBreath.description>Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target.</VPE_IceBreath.description>
+  <!--EN: breathe ice-->
+  <VPE_IceBreath.label>breathe ice</VPE_IceBreath.label>
+  <!--EN: Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days.-->
+  <VPE_IceCrystal.description>Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days.</VPE_IceCrystal.description>
+  <!--EN: ice crystal-->
+  <VPE_IceCrystal.label>ice crystal</VPE_IceCrystal.label>
+  <!--EN: Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster.-->
+  <VPE_IceShield.description>Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster.</VPE_IceShield.description>
+  <!--EN: ice shield-->
+  <VPE_IceShield.label>ice shield</VPE_IceShield.label>
+  <!--EN: Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity.-->
+  <VPE_IceSpike.description>Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity.</VPE_IceSpike.description>
+  <!--EN: ice spike-->
+  <VPE_IceSpike.label>ice spike</VPE_IceSpike.label>
+  <!--EN: Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing.-->
+  <VPE_IceWall.description>Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing.</VPE_IceWall.description>
+  <!--EN: ice wall-->
+  <VPE_IceWall.label>ice wall</VPE_IceWall.label>
+  <!--EN: Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity.-->
+  <VPE_IntensifyShadows.description>Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity.</VPE_IntensifyShadows.description>
+  <!--EN: intensify shadows-->
+  <VPE_IntensifyShadows.label>intensify shadows</VPE_IntensifyShadows.label>
+  <!--EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.-->
+  <VPE_Invisibility.description>Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.</VPE_Invisibility.description>
+  <!--EN: invisibility-->
+  <VPE_Invisibility.label>invisibility</VPE_Invisibility.label>
+  <!--EN: Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.-->
+  <VPE_Killskip.description>Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.</VPE_Killskip.description>
+  <!--EN: killskip-->
+  <VPE_Killskip.label>killskip</VPE_Killskip.label>
+  <!--EN: Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action.-->
+  <VPE_Liferot.description>Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action.</VPE_Liferot.description>
+  <!--EN: liferot-->
+  <VPE_Liferot.label>liferot</VPE_Liferot.label>
+  <!--EN: Using precision skipgates, swaps the positions of the caster and a visible target.-->
+  <VPE_LocationSwap.description>Using precision skipgates, swaps the positions of the caster and a visible target.</VPE_LocationSwap.description>
+  <!--EN: location swap-->
+  <VPE_LocationSwap.label>location swap</VPE_LocationSwap.label>
+  <!--EN: Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity.-->
+  <VPE_LuckTransfer.description>Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity.</VPE_LuckTransfer.description>
+  <!--EN: luck transfer-->
+  <VPE_LuckTransfer.label>luck transfer</VPE_LuckTransfer.label>
+  <!--EN: Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.-->
+  <VPE_ManhunterPulse.description>Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.</VPE_ManhunterPulse.description>
+  <!--EN: manhunter pulse-->
+  <VPE_ManhunterPulse.label>manhunter pulse</VPE_ManhunterPulse.label>
+  <!--EN: Psychically command the targets within an area to approach the caster.-->
+  <VPE_MassBeckon.description>Psychically command the targets within an area to approach the caster.</VPE_MassBeckon.description>
+  <!--EN: mass beckon-->
+  <VPE_MassBeckon.label>mass beckon</VPE_MassBeckon.label>
+  <!--EN: Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger.-->
+  <VPE_MassChaosSkip.description>Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger.</VPE_MassChaosSkip.description>
+  <!--EN: mass chaos skip-->
+  <VPE_MassChaosSkip.label>mass chaos skip</VPE_MassChaosSkip.label>
+  <!--EN: Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The caster is put into a coma and the resulting effect lasts for five days.-->
+  <VPE_MassHallucination.description>Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The caster is put into a coma and the resulting effect lasts for five days.</VPE_MassHallucination.description>
+  <!--EN: mass hallucination-->
+  <VPE_MassHallucination.label>mass hallucination</VPE_MassHallucination.label>
+  <!--EN: Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration.-->
+  <VPE_Mend.description>Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration.</VPE_Mend.description>
+  <!--EN: mend-->
+  <VPE_Mend.label>mend</VPE_Mend.label>
+  <!--EN: Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity.-->
+  <VPE_MeteorShower.description>Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity.</VPE_MeteorShower.description>
+  <!--EN: meteor shower-->
+  <VPE_MeteorShower.label>meteor shower</VPE_MeteorShower.label>
+  <!--EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions.-->
+  <VPE_MindBreak.description>Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions.</VPE_MindBreak.description>
+  <!--EN: mind break-->
+  <VPE_MindBreak.label>mind break</VPE_MindBreak.label>
+  <!--EN: Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment.-->
+  <VPE_MindWipe.description>Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment.</VPE_MindWipe.description>
+  <!--EN: mind wipe-->
+  <VPE_MindWipe.label>mind wipe</VPE_MindWipe.label>
+  <!--EN: Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once.-->
+  <VPE_Mindcontrol.description>Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once.</VPE_Mindcontrol.description>
+  <!--EN: mind control-->
+  <VPE_Mindcontrol.label>mind control</VPE_Mindcontrol.label>
+  <!--EN: Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost.-->
+  <VPE_NeuralHeatDetonation.description>Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost.</VPE_NeuralHeatDetonation.description>
+  <!--EN: neural heat detonation-->
+  <VPE_NeuralHeatDetonation.label>neural heat detonation</VPE_NeuralHeatDetonation.label>
+  <!--EN: Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.-->
+  <VPE_NeuralHeatDump.description>Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.</VPE_NeuralHeatDump.description>
+  <!--EN: neural heat dump-->
+  <VPE_NeuralHeatDump.label>neural heat dump</VPE_NeuralHeatDump.label>
+  <!--EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.-->
+  <VPE_Neuroquake.description>Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.</VPE_Neuroquake.description>
+  <!--EN: neuroquake-->
+  <VPE_Neuroquake.label>neuroquake</VPE_Neuroquake.label>
+  <!--EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?-->
+  <VPE_Neuroquake.modExtensions.0.message>If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?</VPE_Neuroquake.modExtensions.0.message>
+  <!--EN: Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster.-->
+  <VPE_Nightstep.description>Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster.</VPE_Nightstep.description>
+  <!--EN: nightstep-->
+  <VPE_Nightstep.label>nightstep</VPE_Nightstep.label>
+  <!--EN: Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion.-->
+  <VPE_Obscure.description>Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion.</VPE_Obscure.description>
+  <!--EN: obscure-->
+  <VPE_Obscure.label>obscure</VPE_Obscure.label>
+  <!--EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected.-->
+  <VPE_Overshield.description>Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected.</VPE_Overshield.description>
+  <!--EN: overshield-->
+  <VPE_Overshield.label>overshield</VPE_Overshield.label>
+  <!--EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.-->
+  <VPE_Painblock.description>Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.</VPE_Painblock.description>
+  <!--EN: painblock-->
+  <VPE_Painblock.label>painblock</VPE_Painblock.label>
+  <!--EN: Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity.-->
+  <VPE_ParalysisPulse.description>Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity.</VPE_ParalysisPulse.description>
+  <!--EN: paralysis pulse-->
+  <VPE_ParalysisPulse.label>paralysis pulse</VPE_ParalysisPulse.label>
+  <!--EN: Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year.-->
+  <VPE_PlantTimeskip.description>Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year.</VPE_PlantTimeskip.description>
+  <!--EN: plant timeskip-->
+  <VPE_PlantTimeskip.label>plant timeskip</VPE_PlantTimeskip.label>
+  <!--EN: Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity.-->
+  <VPE_Power.description>Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity.</VPE_Power.description>
+  <!--EN: power-->
+  <VPE_Power.label>power</VPE_Power.label>
+  <!--EN: Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.-->
+  <VPE_PowerLeap.description>Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.</VPE_PowerLeap.description>
+  <!--EN: power leap-->
+  <VPE_PowerLeap.label>power leap</VPE_PowerLeap.label>
+  <!--EN: Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity.-->
+  <VPE_PsychicDrone.description>Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity.</VPE_PsychicDrone.description>
+  <!--EN: psychic drone-->
+  <VPE_PsychicDrone.label>psychic drone</VPE_PsychicDrone.label>
+  <!--EN: Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities.-->
+  <VPE_PsychicGuidance.description>Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities.</VPE_PsychicGuidance.description>
+  <!--EN: psychic guidance-->
+  <VPE_PsychicGuidance.label>psychic guidance</VPE_PsychicGuidance.label>
+  <!--EN: Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile.-->
+  <VPE_PsychicShock.description>Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile.</VPE_PsychicShock.description>
+  <!--EN: psychic shock-->
+  <VPE_PsychicShock.label>psychic shock</VPE_PsychicShock.label>
+  <!--EN: Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area.-->
+  <VPE_QuenchFlames.description>Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area.</VPE_QuenchFlames.description>
+  <!--EN: extinguish flames-->
+  <VPE_QuenchFlames.label>extinguish flames</VPE_QuenchFlames.label>
+  <!--EN: Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action.-->
+  <VPE_RaidPause.description>Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action.</VPE_RaidPause.description>
+  <!--EN: raid pause-->
+  <VPE_RaidPause.label>raid pause</VPE_RaidPause.label>
+  <!--EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity.-->
+  <VPE_Recharge.description>Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity.</VPE_Recharge.description>
+  <!--EN: recharge-->
+  <VPE_Recharge.label>recharge</VPE_Recharge.label>
+  <!--EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs.-->
+  <VPE_RegrowLimbs.description>Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs.</VPE_RegrowLimbs.description>
+  <!--EN: regrow limbs-->
+  <VPE_RegrowLimbs.label>regrow limbs</VPE_RegrowLimbs.label>
+  <!--EN: By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma.-->
+  <VPE_Resurrect.description>By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma.</VPE_Resurrect.description>
+  <!--EN: resurrect-->
+  <VPE_Resurrect.label>resurrect</VPE_Resurrect.label>
+  <!--EN: After a short meditation period and followed by a coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions.-->
+  <VPE_ReunionFarskip.description>After a short meditation period and followed by a coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions.</VPE_ReunionFarskip.description>
+  <!--EN: reunion farskip-->
+  <VPE_ReunionFarskip.label>reunion farskip</VPE_ReunionFarskip.label>
+  <!--EN: Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma.-->
+  <VPE_ReverseEngineer.description>Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma.</VPE_ReverseEngineer.description>
+  <!--EN: reverse engineer-->
+  <VPE_ReverseEngineer.label>reverse engineer</VPE_ReverseEngineer.label>
+  <!--EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance.-->
+  <VPE_RockConstruct.description>Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance.</VPE_RockConstruct.description>
+  <!--EN: rock construct-->
+  <VPE_RockConstruct.label>rock construct</VPE_RockConstruct.label>
+  <!--EN: Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year.-->
+  <VPE_SeasonTimeskip.description>Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year.</VPE_SeasonTimeskip.description>
+  <!--EN: season timeskip-->
+  <VPE_SeasonTimeskip.label>season timeskip</VPE_SeasonTimeskip.label>
+  <!--EN: Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster.-->
+  <VPE_SelfExplosion.description>Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster.</VPE_SelfExplosion.description>
+  <!--EN: self explosion-->
+  <VPE_SelfExplosion.label>self explosion</VPE_SelfExplosion.label>
+  <!--EN: Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level.-->
+  <VPE_ShadowFocus.description>Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level.</VPE_ShadowFocus.description>
+  <!--EN: shadowfocus-->
+  <VPE_ShadowFocus.label>shadowfocus</VPE_ShadowFocus.label>
+  <!--EN: Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location.-->
+  <VPE_Shadowskip.description>Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location.</VPE_Shadowskip.description>
+  <!--EN: shadowskip-->
+  <VPE_Shadowskip.label>shadowskip</VPE_Shadowskip.label>
+  <!--EN: Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.-->
+  <VPE_ShieldAnimals.description>Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.</VPE_ShieldAnimals.description>
+  <!--EN: shield animals-->
+  <VPE_ShieldAnimals.label>shield animals</VPE_ShieldAnimals.label>
+  <!--EN: Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity.-->
+  <VPE_Shrineshield.description>Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity.</VPE_Shrineshield.description>
+  <!--EN: shrineshield-->
+  <VPE_Shrineshield.label>shrineshield</VPE_Shrineshield.label>
+  <!--EN: Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma.-->
+  <VPE_SkillRoll.description>Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma.</VPE_SkillRoll.description>
+  <!--EN: skillroll-->
+  <VPE_SkillRoll.label>skillroll</VPE_SkillRoll.label>
+  <!--EN: Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action.-->
+  <VPE_Skip.description>Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action.</VPE_Skip.description>
+  <!--EN: skip-->
+  <VPE_Skip.label>skip</VPE_Skip.label>
+  <!--EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse.-->
+  <VPE_Skipdoor.description>Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse.</VPE_Skipdoor.description>
+  <!--EN: skipdoor-->
+  <VPE_Skipdoor.label>skipdoor</VPE_Skipdoor.label>
+  <!--EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster.-->
+  <VPE_Skipshield.description>Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster.</VPE_Skipshield.description>
+  <!--EN: skipshield-->
+  <VPE_Skipshield.label>skipshield</VPE_Skipshield.label>
+  <!--EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.-->
+  <VPE_Smokepop.description>Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</VPE_Smokepop.description>
+  <!--EN: smokepop-->
+  <VPE_Smokepop.label>smokepop</VPE_Smokepop.label>
+  <!--EN: Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing.-->
+  <VPE_SnapFreeze.description>Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing.</VPE_SnapFreeze.description>
+  <!--EN: snap freeze-->
+  <VPE_SnapFreeze.label>snap freeze</VPE_SnapFreeze.label>
+  <!--EN: Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.-->
+  <VPE_SolarPinhole.description>Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.</VPE_SolarPinhole.description>
+  <!--EN: solar pinhole-->
+  <VPE_SolarPinhole.label>solar pinhole</VPE_SolarPinhole.label>
+  <!--EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females.-->
+  <VPE_SootheFemale.description>Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females.</VPE_SootheFemale.description>
+  <!--EN: psychic sooth (female)-->
+  <VPE_SootheFemale.label>psychic sooth (female)</VPE_SootheFemale.label>
+  <!--EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males.-->
+  <VPE_SootheMale.description>Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males.</VPE_SootheMale.description>
+  <!--EN: psychic sooth (male)-->
+  <VPE_SootheMale.label>psychic sooth (male)</VPE_SootheMale.label>
+  <!--EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.-->
+  <VPE_SpeedBoost.description>Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.</VPE_SpeedBoost.description>
+  <!--EN: speedboost-->
+  <VPE_SpeedBoost.label>speedboost</VPE_SpeedBoost.label>
+  <!--EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster.-->
+  <VPE_Stabilize.description>Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster.</VPE_Stabilize.description>
+  <!--EN: stabilize-->
+  <VPE_Stabilize.label>stabilize</VPE_Stabilize.label>
+  <!--EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects.-->
+  <VPE_StaticAura.description>The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects.</VPE_StaticAura.description>
+  <!--EN: static aura-->
+  <VPE_StaticAura.label>static aura</VPE_StaticAura.label>
+  <!--EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless.-->
+  <VPE_StaticPulse.description>The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless.</VPE_StaticPulse.description>
+  <!--EN: static pulse-->
+  <VPE_StaticPulse.label>static pulse</VPE_StaticPulse.label>
+  <!--EN: Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action.-->
+  <VPE_StealVitality.description>Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action.</VPE_StealVitality.description>
+  <!--EN: steal vitality-->
+  <VPE_StealVitality.label>steal vitality</VPE_StealVitality.label>
+  <!--EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance.-->
+  <VPE_SteelConstruct.description>Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance.</VPE_SteelConstruct.description>
+  <!--EN: steel construct-->
+  <VPE_SteelConstruct.label>steel construct</VPE_SteelConstruct.label>
+  <!--EN: Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action.-->
+  <VPE_Stun.description>Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action.</VPE_Stun.description>
+  <!--EN: stun-->
+  <VPE_Stun.label>stun</VPE_Stun.label>
+  <!--EN: Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity.-->
+  <VPE_SummonPack.description>Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity.</VPE_SummonPack.description>
+  <!--EN: summon pack-->
+  <VPE_SummonPack.label>summon pack</VPE_SummonPack.label>
+  <!--EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells.-->
+  <VPE_Thunderbolt.description>Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells.</VPE_Thunderbolt.description>
+  <!--EN: thunderbolt-->
+  <VPE_Thunderbolt.label>thunderbolt</VPE_Thunderbolt.label>
+  <!--EN: Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma.-->
+  <VPE_TimeReversal.description>Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma.</VPE_TimeReversal.description>
+  <!--EN: time reversal-->
+  <VPE_TimeReversal.label>time reversal</VPE_TimeReversal.label>
+  <!--EN: Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress.-->
+  <VPE_TimeSphere.description>Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress.</VPE_TimeSphere.description>
+  <!--EN: time sphere-->
+  <VPE_TimeSphere.label>time sphere</VPE_TimeSphere.label>
+  <!--EN: Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.-->
+  <VPE_Timequake.description>Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.</VPE_Timequake.description>
+  <!--EN: timequake-->
+  <VPE_Timequake.label>timequake</VPE_Timequake.label>
+  <!--EN: If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake?-->
+  <VPE_Timequake.modExtensions.2.message>If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake?</VPE_Timequake.modExtensions.2.message>
+  <!--EN: Puts the caster into a self-inflicted coma as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years.-->
+  <VPE_TimeskipMeditation.description>Puts the caster into a self-inflicted coma as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years.</VPE_TimeskipMeditation.description>
+  <!--EN: timeskip meditation-->
+  <VPE_TimeskipMeditation.label>timeskip meditation</VPE_TimeskipMeditation.label>
+  <!--EN: Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable.-->
+  <VPE_Transmutation.description>Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable.</VPE_Transmutation.description>
+  <!--EN: transmutation-->
+  <VPE_Transmutation.label>transmutation</VPE_Transmutation.label>
+  <!--EN: Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata.-->
+  <VPE_TransmuteStone.description>Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata.</VPE_TransmuteStone.description>
+  <!--EN: transmute stone-->
+  <VPE_TransmuteStone.label>transmute stone</VPE_TransmuteStone.label>
+  <!--EN: Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles.-->
+  <VPE_TreeSprout.description>Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles.</VPE_TreeSprout.description>
+  <!--EN: tree sprout-->
+  <VPE_TreeSprout.label>tree sprout</VPE_TreeSprout.label>
+  <!--EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center.-->
+  <VPE_Vortex.description>Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center.</VPE_Vortex.description>
+  <!--EN: vortex-->
+  <VPE_Vortex.label>vortex</VPE_Vortex.label>
+  <!--EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours.-->
+  <VPE_Wallraise.description>Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours.</VPE_Wallraise.description>
+  <!--EN: wall raise-->
+  <VPE_Wallraise.label>wall raise</VPE_Wallraise.label>
+  <!--EN: Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity.-->
+  <VPE_Waterskip.description>Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity.</VPE_Waterskip.description>
+  <!--EN: waterskip-->
+  <VPE_Waterskip.label>waterskip</VPE_Waterskip.label>
+  <!--EN: Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity.-->
+  <VPE_WordofAlliance.description>Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity.</VPE_WordofAlliance.description>
+  <!--EN: word of alliance-->
+  <VPE_WordofAlliance.label>word of alliance</VPE_WordofAlliance.label>
+  <!--EN: Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter.-->
+  <VPE_WordofAnimals.description>Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter.</VPE_WordofAnimals.description>
+  <!--EN: word of animals-->
+  <VPE_WordofAnimals.label>word of animals</VPE_WordofAnimals.label>
+  <!--EN: Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action.-->
+  <VPE_WordofFear.description>Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action.</VPE_WordofFear.description>
+  <!--EN: word of fear-->
+  <VPE_WordofFear.label>word of fear</VPE_WordofFear.label>
+  <!--EN: Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year.-->
+  <VPE_WordofForetelling.description>Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year.</VPE_WordofForetelling.description>
+  <!--EN: word of foretelling-->
+  <VPE_WordofForetelling.label>word of foretelling</VPE_WordofForetelling.label>
+  <!--EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days.-->
+  <VPE_WordofHealing.description>Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days.</VPE_WordofHealing.description>
+  <!--EN: word of healing-->
+  <VPE_WordofHealing.label>word of healing</VPE_WordofHealing.label>
+  <!--EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days.-->
+  <VPE_WordofImmunity.description>Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days.</VPE_WordofImmunity.description>
+  <!--EN: word of immunity-->
+  <VPE_WordofImmunity.label>word of immunity</VPE_WordofImmunity.label>
+  <!--EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.-->
+  <VPE_WordofInspiration.description>Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.</VPE_WordofInspiration.description>
+  <!--EN: word of inspiration-->
+  <VPE_WordofInspiration.label>word of inspiration</VPE_WordofInspiration.label>
+  <!--EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.-->
+  <VPE_WordofJoy.description>Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.</VPE_WordofJoy.description>
+  <!--EN: word of joy-->
+  <VPE_WordofJoy.label>word of joy</VPE_WordofJoy.label>
+  <!--EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.-->
+  <VPE_WordofLove.description>Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.</VPE_WordofLove.description>
+  <!--EN: word of love-->
+  <VPE_WordofLove.label>word of love</VPE_WordofLove.label>
+  <!--EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity.-->
+  <VPE_WordofPain.description>Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity.</VPE_WordofPain.description>
+  <!--EN: word of pain-->
+  <VPE_WordofPain.label>word of pain</VPE_WordofPain.label>
+  <!--EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity.-->
+  <VPE_WordofProductivity.description>Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity.</VPE_WordofProductivity.description>
+  <!--EN: word of productivity-->
+  <VPE_WordofProductivity.label>word of productivity</VPE_WordofProductivity.label>
+  <!--EN: Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity.-->
+  <VPE_WordofProgress.description>Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity.</VPE_WordofProgress.description>
+  <!--EN: word of progress-->
+  <VPE_WordofProgress.label>word of progress</VPE_WordofProgress.label>
+  <!--EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity.-->
+  <VPE_WordofProtection.description>Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity.</VPE_WordofProtection.description>
+  <!--EN: word of protection-->
+  <VPE_WordofProtection.label>word of protection</VPE_WordofProtection.label>
+  <!--EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.-->
+  <VPE_WordofSerenity.description>Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.</VPE_WordofSerenity.description>
+  <!--EN: word of serenity-->
+  <VPE_WordofSerenity.label>word of serenity</VPE_WordofSerenity.label>
+  <!--EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him.-->
+  <VPE_WordofTrust.description>Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him.</VPE_WordofTrust.description>
+  <!--EN: word of trust-->
+  <VPE_WordofTrust.label>word of trust</VPE_WordofTrust.label>
+</LanguageData>

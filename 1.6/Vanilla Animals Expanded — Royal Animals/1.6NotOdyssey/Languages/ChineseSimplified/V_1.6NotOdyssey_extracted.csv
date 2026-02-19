@@ -1,0 +1,34 @@
+key,text,tag,file,type
+VAERoy_EggPeacockFertilized.label,peacock egg (fert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggPeacockFertilized.description,"A fertilized peacock egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_EggPeacockUnfertilized.label,peacock egg (unfert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggPeacockUnfertilized.description,"An unfertilized peacock egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_EggQuailUnfertilized.label,quail egg (unfert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggQuailUnfertilized.description,"An unfertilized quail egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_EggQuailFertilized.label,quail egg (fert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggQuailFertilized.description,"A fertilized quail egg. If all goes well, it should hatch into a quail. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_EggSwanUnfertilized.label,swan egg (unfert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggSwanUnfertilized.description,"An unfertilized swan egg. It can be eaten raw, but it's much, much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_EggSwanFertilized.label,swan egg (fert.),label,ThingDef/ThingDef.xml,def
+VAERoy_EggSwanFertilized.description,"A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked.",description,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.label,peacock,label,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.description,"Beautiful, majestic royal birds genetically altered to be able to bestow psychic energy onto people they nuzzle.\n\n<color=#E5E54C>Gameplay effect:</color> Peacocks will periodically nuzzle your colonists. This increases Psychic Sensitivity of the nuzzled person by 25% for 12 hours. This stacks up to 8 times, resulting in +200% Psychic sensitivity if nuzzled by 8 peacocks.",description,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+VAERoy_Peacock.label,peacock,label,PawnKindDef/PawnKindDef.xml,def
+VAERoy_Peacock.lifeStages.0.label,peachick,label,PawnKindDef/PawnKindDef.xml,def
+VAERoy_Quail.label,quail,label,ThingDef/ThingDef.xml,def
+VAERoy_Quail.description,"Royal poultry bred specifically for human consumption, quail meat is one of a kind, with a taste so succulent it turns any meal into a lavish meal.\n\n<color=#E5E54C>Gameplay effect:</color> Their extremely tasty meat instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations.",description,ThingDef/ThingDef.xml,def
+VAERoy_Quail.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+VAERoy_Quail.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+VAERoy_Quail.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+VAERoy_Quail.label,quail,label,PawnKindDef/PawnKindDef.xml,def
+VAERoy_Quail.lifeStages.0.label,quail chick,label,PawnKindDef/PawnKindDef.xml,def
+VAERoy_Swan.label,swan,label,ThingDef/ThingDef.xml,def
+VAERoy_Swan.description,"One of the largest birds capable of flying, swans are often kept by royalty due to the beautiful nests of flowers they build for themselves. These nests have an extremely high beauty, but a swan will never build more than one.\n\n<color=#E5E54C>Gameplay effect:</color> Swans create their own sleeping spots that have extremely high beauty. These nests are auto-asigned to them as sleeping spots on creation.",description,ThingDef/ThingDef.xml,def
+VAERoy_Swan.tools.0.label,claws,label,ThingDef/ThingDef.xml,def
+VAERoy_Swan.tools.1.label,beak,label,ThingDef/ThingDef.xml,def
+VAERoy_Swan.tools.2.label,head,label,ThingDef/ThingDef.xml,def
+VAERoy_Swan.label,swan,label,PawnKindDef/PawnKindDef.xml,def
+VAERoy_Swan.lifeStages.0.label,cygnet,label,PawnKindDef/PawnKindDef.xml,def

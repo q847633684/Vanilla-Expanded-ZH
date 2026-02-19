@@ -1,0 +1,177 @@
+key,text,tag,file,type
+VCE_AquaticGrowingZone,Aquatic Growing Zone,VCE_AquaticGrowingZone,Misc_Gameplay.xml,keyed
+VCE_AquaticGrowingZoneDesc,Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water.,VCE_AquaticGrowingZoneDesc,Misc_Gameplay.xml,keyed
+VCE_SandyGrowingZone,Sand Growing Zone,VCE_SandyGrowingZone,Misc_Gameplay.xml,keyed
+VCE_SandyGrowingZoneDesc,Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest.,VCE_SandyGrowingZoneDesc,Misc_Gameplay.xml,keyed
+VCE_FlowerGardenGrowingZone,Flower Garden Zone,VCE_FlowerGardenGrowingZone,Misc_Gameplay.xml,keyed
+VCE_FlowerGardenGrowingZoneDesc,Create a zone where your colonists will try to grow decorative flowers.,VCE_FlowerGardenGrowingZoneDesc,Misc_Gameplay.xml,keyed
+VCE_CarrotsNearby,Carrots planted nearby: {0}/100,VCE_CarrotsNearby,Misc_Gameplay.xml,keyed
+VCE_BeansNearby,Green beans planted nearby: {0}/100,VCE_BeansNearby,Misc_Gameplay.xml,keyed
+VCE_Make_ChemfuelFromCanola.label,make chemfuel from canola,label,RecipeDef/RecipeDef.xml,def
+VCE_Make_ChemfuelFromCanola.description,Make a batch of chemfuel by extracting biofuel from canola flowers.,description,RecipeDef/RecipeDef.xml,def
+VCE_Make_ChemfuelFromCanola.jobString,Refining chemfuel from canola.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_Flowers.label,flowers,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VCE_RawCanola.label,canola flowers,label,ThingDef/ThingDef.xml,def
+VCE_RawCanola.description,"A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.",description,ThingDef/ThingDef.xml,def
+VCE_RawAvocado.label,avocados,label,ThingDef/ThingDef.xml,def
+VCE_RawAvocado.description,"A green or nearly black coloured fruit with a large seed or pit in the center. Avocados have a very mild, creamy texture. Hipsters love them.",description,ThingDef/ThingDef.xml,def
+VCE_RawMelon.label,melons,label,ThingDef/ThingDef.xml,def
+VCE_RawMelon.description,"A sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.",description,ThingDef/ThingDef.xml,def
+VCE_RawPineapple.label,pineapples,label,ThingDef/ThingDef.xml,def
+VCE_RawPineapple.description,"A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean ""pine cone,"" and the fruit was given this name because of its resemblance to a large pine cone.",description,ThingDef/ThingDef.xml,def
+VCE_RawCoconut.label,coconuts,label,ThingDef/ThingDef.xml,def
+VCE_RawCoconut.description,"The edible fruit of the coconut palm. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages.",description,ThingDef/ThingDef.xml,def
+VCE_RawAlmonds.label,almonds,label,ThingDef/ThingDef.xml,def
+VCE_RawAlmonds.description,"An oval shaped drupe often eaten on its own, raw or toasted, though it can also be used as a component of various dishes. A wide range of classic sweets feature almonds as a central ingredient.",description,ThingDef/ThingDef.xml,def
+VCE_Mangoes.label,mangoes,label,ThingDef/ThingDef.xml,def
+VCE_Mangoes.description,"An oval fruit, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> Mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.",description,ThingDef/ThingDef.xml,def
+VCE_RawCelery.label,celery,label,ThingDef/ThingDef.xml,def
+VCE_RawCelery.description,"A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.",description,ThingDef/ThingDef.xml,def
+VCE_RawLettuce.label,lettuce,label,ThingDef/ThingDef.xml,def
+VCE_RawLettuce.description,A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.,description,ThingDef/ThingDef.xml,def
+VCE_RawRadish.label,radishes,label,ThingDef/ThingDef.xml,def
+VCE_RawRadish.description,An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.,description,ThingDef/ThingDef.xml,def
+VCE_RawBuckwheat.label,buckwheat,label,ThingDef/ThingDef.xml,def
+VCE_RawBuckwheat.description,A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.,description,ThingDef/ThingDef.xml,def
+VCE_RawPeanut.label,peanuts,label,ThingDef/ThingDef.xml,def
+VCE_RawPeanut.description,"Seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.",description,ThingDef/ThingDef.xml,def
+VCE_RawSunflower.label,sunflower seeds,label,ThingDef/ThingDef.xml,def
+VCE_RawSunflower.description,The seeds of the sunflower plant are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes.,description,ThingDef/ThingDef.xml,def
+VCE_RawOkra.label,okra,label,ThingDef/ThingDef.xml,def
+VCE_RawOkra.description,"Edible green seed pods, famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.",description,ThingDef/ThingDef.xml,def
+VCE_RawGarlic.label,garlic cloves,label,ThingDef/ThingDef.xml,def
+VCE_RawGarlic.description,"A very old crop which is cultivated for its bulb, formed in the base of the leaves. It is highly appreciated in cooking for its pungent and characteristic taste.",description,ThingDef/ThingDef.xml,def
+VCE_RawCarrot.label,carrots,label,ThingDef/ThingDef.xml,def
+VCE_RawCarrot.description,"A root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist. A versatile food that can be chopped and boiled, fried or steamed, cooked in soups and stews, as well as used for baby and pet foods.",description,ThingDef/ThingDef.xml,def
+VCE_RawBrusselsSprouts.label,brussels sprouts,label,ThingDef/ThingDef.xml,def
+VCE_RawBrusselsSprouts.description,"A form of cabbage grown for its edible buds called ""sprouts"". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.",description,ThingDef/ThingDef.xml,def
+VCE_RawOlives.label,olives,label,ThingDef/ThingDef.xml,def
+VCE_RawOlives.description,"A small, egg-shaped black or green fruit that is used as food or for making oil. Olives freshly picked from the tree contain oleuropein, which makes the fruit unpalatable for immediate consumption. They must be brined or fermented to be used.",description,ThingDef/ThingDef.xml,def
+VCE_RawSweetPotatoes.label,sweet potatoes,label,ThingDef/ThingDef.xml,def
+VCE_RawSweetPotatoes.description,"Large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.",description,ThingDef/ThingDef.xml,def
+VCE_RawCassava.label,cassavas,label,ThingDef/ThingDef.xml,def
+VCE_RawCassava.description,"A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.",description,ThingDef/ThingDef.xml,def
+VCE_RawBeans.label,green beans,label,ThingDef/ThingDef.xml,def
+VCE_RawBeans.description,"Young, unripe fruits of a cultivar of the common bean. They can be steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes such as soups, stews, and casseroles. Green beans can also be pickled, much like cucumbers are.",description,ThingDef/ThingDef.xml,def
+VCE_RawBellPeppers.label,red bell peppers,label,ThingDef/ThingDef.xml,def
+VCE_RawBellPeppers.description,"Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.",description,ThingDef/ThingDef.xml,def
+VCE_RawYellowBellPeppers.label,yellow bell peppers,label,ThingDef/ThingDef.xml,def
+VCE_RawYellowBellPeppers.description,"Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.",description,ThingDef/ThingDef.xml,def
+VCE_RawChickpeas.label,chickpeas,label,ThingDef/ThingDef.xml,def
+VCE_RawChickpeas.description,"One of the earliest cultivated legumes. Chickpeas are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.",description,ThingDef/ThingDef.xml,def
+VCE_RawTaro.label,taro roots,label,ThingDef/ThingDef.xml,def
+VCE_RawTaro.description,"A starchy root vegetable. It has a brown outer skin and white flesh with purple specks throughout. When cooked, it has a mildly sweet taste and a texture similar to potato.",description,ThingDef/ThingDef.xml,def
+VCE_RawWatercress.label,watercress leaves,label,ThingDef/ThingDef.xml,def
+VCE_RawWatercress.description,A green leaf vegetable rich in vitamins and minerals and from the same family as kale and broccoli.,description,ThingDef/ThingDef.xml,def
+VCE_RawLotus.label,lotus seeds,label,ThingDef/ThingDef.xml,def
+VCE_RawLotus.description,"The seeds of the lotus plant. They are packed with nutritional elements which make them an excellent choice for a healthy diet, with a high content of proteins, carbohydrates, and vitamins.",description,ThingDef/ThingDef.xml,def
+VCE_RawWaterChestnut.label,water chestnuts,label,ThingDef/ThingDef.xml,def
+VCE_RawWaterChestnut.description,"Small, rounded corms with a crisp, white flesh that may be eaten slightly boiled, or grilled.",description,ThingDef/ThingDef.xml,def
+VCE_RawCucumber.label,cucumbers,label,ThingDef/ThingDef.xml,def
+VCE_RawCucumber.description,A long thin vegetable with hard green skin and wet transparent flesh. Can be eaten raw.,description,ThingDef/ThingDef.xml,def
+VCE_RawButternutSquash.label,butternut squashes,label,ThingDef/ThingDef.xml,def
+VCE_RawButternutSquash.description,"A vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.",description,ThingDef/ThingDef.xml,def
+VCE_Celery.label,celery plant,label,ThingDef/ThingDef.xml,def
+VCE_Celery.description,"A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.\n\n<color=#E5E54C>Gameplay effect:</color> Celery has a very long growth period (almost a full year!). If it can be kept alive all that time, it produces greater yield than corn.",description,ThingDef/ThingDef.xml,def
+VCE_Pineapple.label,pineapple plant,label,ThingDef/ThingDef.xml,def
+VCE_Pineapple.description,"A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean ""pine cone,"" and the fruit was given this name because of its resemblance to a large pine cone.\n\n<color=#E5E54C>Gameplay effect:</color> Pineapples have a very long growth period, but they are very nutritive, taking up less space in stockpiles.",description,ThingDef/ThingDef.xml,def
+VCE_Lettuce.label,lettuce plant,label,ThingDef/ThingDef.xml,def
+VCE_Lettuce.description,"A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.\n\n<color=#E5E54C>Gameplay effect:</color> Lettuce can be eaten raw like strawberries, but needs to be grown in shade: outside, but under roof. It won't grow inside.",description,ThingDef/ThingDef.xml,def
+VCE_BrusselsSprout.label,brussels sprout plant,label,ThingDef/ThingDef.xml,def
+VCE_BrusselsSprout.description,"A form of cabbage grown for its edible buds called ""sprouts"". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, brussels sprouts thrive in snow, and receive a considerable boost to growth if snowing, AS LONG AS it is also growth season (they won't grow or be able to be planted otherwise). They won't die due to cold.",description,ThingDef/ThingDef.xml,def
+VCE_Cassava.label,cassava plant,label,ThingDef/ThingDef.xml,def
+VCE_Cassava.description,"A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.\n\n<color=#E5E54C>Gameplay effect:</color> Cassava grows best in tropical, warm and humid climates. As such, it will receive a considerable growth bonus if the weather is foggy.",description,ThingDef/ThingDef.xml,def
+VCE_SweetPotato.label,sweet potato plant,label,ThingDef/ThingDef.xml,def
+VCE_SweetPotato.description,"A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n<color=#E5E54C>Gameplay effect:</color> Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receiving penalties under 20ºC.",description,ThingDef/ThingDef.xml,def
+VCE_Radish.label,radish plant,label,ThingDef/ThingDef.xml,def
+VCE_Radish.description,"An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified radish has a very short growth period (less than 2 days). This means it is an effective crop if you need small amounts of food FAST, and the sowing and harvesting work will be the most important factor.",description,ThingDef/ThingDef.xml,def
+VCE_Buckwheat.label,buckwheat plant,label,ThingDef/ThingDef.xml,def
+VCE_Buckwheat.description,"A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.\n\n<color=#E5E54C>Gameplay effect:</color> Buckwheat is very resistant to fire, and this variety has been modified to be completely non-flammable.",description,ThingDef/ThingDef.xml,def
+VCE_Peanut.label,peanut plant,label,ThingDef/ThingDef.xml,def
+VCE_Peanut.description,"A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!",description,ThingDef/ThingDef.xml,def
+VCE_PeanutSecondary.label,secondary peanut plant,label,ThingDef/ThingDef.xml,def
+VCE_PeanutSecondary.description,"A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!",description,ThingDef/ThingDef.xml,def
+VCE_Sunflower.label,sunflower plant,label,ThingDef/ThingDef.xml,def
+VCE_Sunflower.description,"A large crop used for its edible oil and edible fruits. The name sunflower may derive from the flower's head's shape, which resembles the sun.\n\n<color=#E5E54C>Gameplay effect:</color> Sunflowers grow 30% faster in equatorial regions. The size of the equatorial region depends on the planet's overall temperature: below 15º for Normal, below 35º for Warm, below 65º for Hot and all the planet for Very Hot. Planets with below Normal temperature are considered to have no equator.",description,ThingDef/ThingDef.xml,def
+VCE_Okra.label,okra plant,label,ThingDef/ThingDef.xml,def
+VCE_Okra.description,"A flowering plant in the mallow family valued for its edible green seed pods, which are famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.\n\n<color=#E5E54C>Gameplay effect:</color> Okra is very, VERY resistant to damage. Okra plants will take less damage from prolonged lack of light, and will regenerate damage caused by any other means.",description,ThingDef/ThingDef.xml,def
+VCE_Garlic.label,garlic plant,label,ThingDef/ThingDef.xml,def
+VCE_Garlic.description,"A plant with long, flat grasslike leaves forming a stalk, which rises directly from the flower bulb, the part of the plant used as food and medicine. The bulb is made up of many smaller cloves covered with a papery skin.\n\n<color=#E5E54C>Gameplay effect:</color> Garlic has very little yield, but can grow in almost any terrain and takes an obscene time to rot, as dried garlic can be used to cook too.",description,ThingDef/ThingDef.xml,def
+VCE_Carrot.label,carrot plant,label,ThingDef/ThingDef.xml,def
+VCE_Carrot.description,"A herbaceous plant of the Apiaceae family that produces an edible taproot. An erect rosette of doubly compound, finely divided leaves develops above ground, while the edible carrot and attached roots are below.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: carrots will grow faster if green beans are cultivated in the same map (up to 30% faster if 100 are found).",description,ThingDef/ThingDef.xml,def
+VCE_Beans.label,green bean plant,label,ThingDef/ThingDef.xml,def
+VCE_Beans.description,"A herbaceous bush with a long history of cultivation. They are distinguished from the many other varieties of beans in that green beans are harvested and consumed with their enclosing pods, before the bean seeds inside have fully matured, similar to peas.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: green beans will grow faster if carrots are cultivated in the same map (up to 30% faster if 100 are found).",description,ThingDef/ThingDef.xml,def
+VCE_Chickpea.label,chickpea plant,label,ThingDef/ThingDef.xml,def
+VCE_Chickpea.description,"One of the earliest cultivated legumes, widely grown for its nutritious seeds. These are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.\n\n<color=#E5E54C>Gameplay effect:</color> Chickpeas grow quite fast and have good yield, but they require a LOT of space to be stored (this may be negated by stack-increasing mods, you dirty cheater, but it's up to you to decide to mess up the game's balance).",description,ThingDef/ThingDef.xml,def
+VCE_BellPepper.label,bell pepper plant,label,ThingDef/ThingDef.xml,def
+VCE_BellPepper.description,"Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.",description,ThingDef/ThingDef.xml,def
+VCE_YellowBellPepper.label,bell pepper plant,label,ThingDef/ThingDef.xml,def
+VCE_YellowBellPepper.description,"Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.",description,ThingDef/ThingDef.xml,def
+VCE_Taro.label,taro plant,label,ThingDef/ThingDef.xml,def
+VCE_Taro.description,"A tropical plant grown primarily for its edible corm, a root vegetable. Taro is one of the few crops that can be grown under flooded conditions, with the base of the plant always under water. This is due to air spaces in the petiole, which permit underwater gaseous exchange with the atmosphere.\n\n<color=#E5E54C>Gameplay effect:</color> Taro is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Taro is the baseline aquatic plant.",description,ThingDef/ThingDef.xml,def
+VCE_Watercress.label,watercress plant,label,ThingDef/ThingDef.xml,def
+VCE_Watercress.description,"Watercress is a rapidly growing, perennial plant. It is one of the oldest known leaf vegetables consumed by humans. Watercress and many of its relatives are noteworthy for their piquant flavors.\n\n<color=#E5E54C>Gameplay effect:</color> Watercress is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Watercress grows faster than taro but needs a lot of space, blocking sowing in adjacent spaces.",description,ThingDef/ThingDef.xml,def
+VCE_Lotus.label,lotus plant,label,ThingDef/ThingDef.xml,def
+VCE_Lotus.description,"Sometimes colloquially called a water lily, lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Lotus rhizomes have a crunchy texture with sweet-tangy flavours and can be deep-fried, stir-fried, or stuffed with meats or preserved fruits.\n\n<color=#E5E54C>Gameplay effect:</color> Lotus is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Lotus takes a long time to grow.",description,ThingDef/ThingDef.xml,def
+VCE_WaterChestnut.label,water chestnut plant,label,ThingDef/ThingDef.xml,def
+VCE_WaterChestnut.description,"An aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves, and small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.\n\n<color=#E5E54C>Gameplay effect:</color> Water chestnut is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Water chestnut grows 30% faster in the heat (37-60ºC).",description,ThingDef/ThingDef.xml,def
+VCE_Melon.label,melon plant,label,ThingDef/ThingDef.xml,def
+VCE_Melon.description,"A plant producing a sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.\n\n<color=#E5E54C>Gameplay effect:</color> Melons are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Melons need a lot of space, blocking sowing in adjacent spaces, but harvesting them can't fail",description,ThingDef/ThingDef.xml,def
+VCE_Cucumber.label,cucumber plant,label,ThingDef/ThingDef.xml,def
+VCE_Cucumber.description,"A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n<color=#E5E54C>Gameplay effect:</color> Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw.",description,ThingDef/ThingDef.xml,def
+VCE_ButternutSquash.label,butternut squash plant,label,ThingDef/ThingDef.xml,def
+VCE_ButternutSquash.description,"A vine plant that produces a vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.\n\n<color=#E5E54C>Gameplay effect:</color> Butternut squash is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Butternut squash takes a long time to grow.",description,ThingDef/ThingDef.xml,def
+VCE_AloeVera.label,aloe vera plant,label,ThingDef/ThingDef.xml,def
+VCE_AloeVera.description,"A herb with succulent leaves that are arranged in a rosette. The leaves are grey to green and sometimes have white spots on their surfaces. They have sharp, pinkish spines along their edges and are the source of a colourless gel that is used in many medicinal products.\n\n<color=#E5E54C>Gameplay effect:</color> Aloe vera is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Aloe vera is a source of herbal medicine.",description,ThingDef/ThingDef.xml,def
+VCE_Canola.label,canola plant,label,ThingDef/ThingDef.xml,def
+VCE_Canola.description,"A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.\n\n<color=#E5E54C>Gameplay effect:</color> Canola, though not directly edible, can be very efficiently converted into chemfuel at a refinery.",description,ThingDef/ThingDef.xml,def
+VCE_Lavender.label,lavender,label,ThingDef/ThingDef.xml,def
+VCE_Lavender.description,"A fragrant, purple-flowered plant known for its calming scent and ornamental beauty.",description,ThingDef/ThingDef.xml,def
+VCE_FragrantbloomRose.label,fragrantbloom rose,label,ThingDef/ThingDef.xml,def
+VCE_FragrantbloomRose.description,"A unique rose variety cultivated for its intense, captivating scent, perfect for making perfumes and other aromatic products.",description,ThingDef/ThingDef.xml,def
+VCE_Hyacinth.label,hyacinth,label,ThingDef/ThingDef.xml,def
+VCE_Hyacinth.description,"A vibrant, sweet-smelling flower with a fresh, green fragrance that adds depth to gardens and perfumes alike.",description,ThingDef/ThingDef.xml,def
+VCE_Jasmine.label,jasmine,label,ThingDef/ThingDef.xml,def
+VCE_Jasmine.description,"A vibrant, sweet-smelling flower with a fresh, green fragrance that adds depth to gardens and perfumes alike.",description,ThingDef/ThingDef.xml,def
+VCE_Lily.label,lily,label,ThingDef/ThingDef.xml,def
+VCE_Lily.description,"A striking flower with a rich, sweet, and sometimes spicy fragrance that fills any space with elegance.",description,ThingDef/ThingDef.xml,def
+VCE_Orchid.label,orchid,label,ThingDef/ThingDef.xml,def
+VCE_Orchid.description,"A delicate and exotic bloom with a subtle, sweet scent that varies by species, often used in sophisticated perfumes.",description,ThingDef/ThingDef.xml,def
+VCE_Plumeria.label,plumeria,label,ThingDef/ThingDef.xml,def
+VCE_Plumeria.description,"A tropical flower with a fruity, sweet, and creamy fragrance, perfect for creating a lush, warm atmosphere.",description,ThingDef/ThingDef.xml,def
+VCE_Tulip.label,tulip,label,ThingDef/ThingDef.xml,def
+VCE_Tulip.description,A beautiful but mild-scented flower known more for its vibrant colors than its fragrance.,description,ThingDef/ThingDef.xml,def
+VCE_Vanilla.label,vanilla,label,ThingDef/ThingDef.xml,def
+VCE_Vanilla.description,"Delicate, creamy-white flowers with a light, sweet fragrance. While the flowers are beautiful, it’s the pods they produce that are prized for their warm, rich scent. We put some vanilla in your Vanilla Expanded so you can expand vanilla while you vanilla your expansion.",description,ThingDef/ThingDef.xml,def
+VCE_Violet.label,violet,label,ThingDef/ThingDef.xml,def
+VCE_Violet.description,"A soft, powdery, and sweet-smelling flower, often used to add a gentle floral note to perfumes.",description,ThingDef/ThingDef.xml,def
+VCE_YlangYlang.label,ylang-Ylang,label,ThingDef/ThingDef.xml,def
+VCE_YlangYlang.description,"A highly fragrant, sweet, and rich flower, prized for its use in exotic and sensual perfumes.",description,ThingDef/ThingDef.xml,def
+VCE_TreeAvocado.label,avocado tree,label,ThingDef/ThingDef.xml,def
+VCE_TreeAvocado.description,"An evergreen tree with thick, leathery leaves that produces perfect white, ivory to yellow flowers. The fruit has a large seed or pit in the center and may be green or nearly black.\n\n<color=#E5E54C>Gameplay effect:</color> Avocado trees take a notoriously long period to mature and produce their fruits. If they can be kept alive all that time, they produce greater yield than other fruit trees. Plus if you install the Coffees and Teas mod and pair them with Pumpkin Spice Coffee you can have your dream RimWorld Hipster experience!",description,ThingDef/ThingDef.xml,def
+VCE_TreeOlive.label,olive tree,label,ThingDef/ThingDef.xml,def
+VCE_TreeOlive.description,"A subtropical broad-leaved evergreen tree. Its leaves, leathery and lance-shaped, are dark green above and silvery on the underside and are paired opposite each other on the twig. The wood is resistant to decay. If the top dies back, a new trunk will often arise from the roots.\n\n<color=#E5E54C>Gameplay effect:</color> Interestingly, olive trees show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They will also live for a very, very long time, far longer than other produce trees. Contrary to other tree produce, olives can't be eaten raw.",description,ThingDef/ThingDef.xml,def
+VCE_CoconutPalm.label,coconut palm,label,ThingDef/ThingDef.xml,def
+VCE_CoconutPalm.description,"A palm tree cultivated extensively in tropical areas for its edible fruit, the coconut. Coconut palms flourish best close to the sea on low-lying areas a few feet above high water.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCoconut palms are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.\n\nCoconut palms receive a growth bonus if sea water tiles are found in a 6 tile radius. Coconuts can be used as fruits or processed into milk.",description,ThingDef/ThingDef.xml,def
+VCE_TreeAlmond.label,almond tree,label,ThingDef/ThingDef.xml,def
+VCE_TreeAlmond.description,"A deciduous tree cultivated for its fruit, almonds. The sweet almond can be eaten plain or be used as ingredient in desserts and confectioneries. The trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nAlmond trees are beautiful, but they require water to be present in a 6 tile radius to grow properly. Almonds can be used as fruits or processed into milk.",description,ThingDef/ThingDef.xml,def
+VCE_TreeMango.label,mango tree,label,ThingDef/ThingDef.xml,def
+VCE_TreeMango.description,"A tropical evergreen tree that produces oval fruits, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nMango trees have very good yield, but mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.",description,ThingDef/ThingDef.xml,def
+VCE_HarvestAquatic.label,harvest aquatic crops,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestAquatic.verb,harvest aquatic,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestAquatic.gerund,harvesting aquatic,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowAquatic.label,sow aquatic crops,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowAquatic.verb,sow aquatic,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowAquatic.gerund,sowing aquatic,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestSandy.label,harvest sand crops,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestSandy.verb,harvest sand,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestSandy.gerund,harvesting sand,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowSandy.label,sow sand crops,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowSandy.verb,sow sand,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowSandy.gerund,sowing sand,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestFlowerGarden.label,harvest flowers,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestFlowerGarden.verb,harvest flowers,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_HarvestFlowerGarden.gerund,harvesting flowers,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowFlowerGarden.label,sow flowers,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowFlowerGarden.verb,sow flowers,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_SowFlowerGarden.gerund,sowing flowers,gerund,WorkGiverDef/WorkGiverDef.xml,def

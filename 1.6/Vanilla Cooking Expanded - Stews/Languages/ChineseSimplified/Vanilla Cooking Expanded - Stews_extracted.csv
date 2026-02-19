@@ -1,0 +1,48 @@
+key,text,tag,file,type
+VCE_InsertStewDesc,Stew to Cook,VCE_InsertStewDesc,Misc_Gameplay.xml,keyed
+VCE_StartStewInsertion,Bring Stew,VCE_StartStewInsertion,Misc_Gameplay.xml,keyed
+VCE_StartStewInsertionDesc,Bring a stew to the stew pot to start cooking,VCE_StartStewInsertionDesc,Misc_Gameplay.xml,keyed
+VCE_CancelBringingStew,Cancel Bringing Stew,VCE_CancelBringingStew,Misc_Gameplay.xml,keyed
+VCE_CancelBringingStewDesc,Cancel bringing stew to the stew pot.,VCE_CancelBringingStewDesc,Misc_Gameplay.xml,keyed
+VCE_StewFailurePower,The stew has spoiled due to a lack of fuel in the stew pot,VCE_StewFailurePower,Misc_Gameplay.xml,keyed
+VCE_StewFailurePowerWarning,The stew is spoiling fast due to a lack of fuel in the stew pot,VCE_StewFailurePowerWarning,Misc_Gameplay.xml,keyed
+VCE_FinishedSimpleStew,A simple stew is ready and waiting for pickup,VCE_FinishedSimpleStew,Misc_Gameplay.xml,keyed
+VCE_FinishedFineStew,A fine stew is ready and waiting for pickup,VCE_FinishedFineStew,Misc_Gameplay.xml,keyed
+VCE_FinishedLavishStew,A lavish stew is ready and waiting for pickup,VCE_FinishedLavishStew,Misc_Gameplay.xml,keyed
+VCE_CookStewSimple.label,prepare simple stew,label,RecipeDef/RecipeDef.xml,def
+VCE_CookStewSimple.description,Prepare a simple uncooked stew quickly made from a few ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookStewSimple.jobString,Preparing simple stew.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookStewFine.label,prepare fine stew,label,RecipeDef/RecipeDef.xml,def
+VCE_CookStewFine.description,Prepare a fine uncooked stew assembled with care from a wide selection of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookStewFine.jobString,Preparing fine stew.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookStewLavish.label,prepare lavish stew,label,RecipeDef/RecipeDef.xml,def
+VCE_CookStewLavish.description,"Prepare a lavish uncooked stew. A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookStewLavish.jobString,Preparing lavish Stew.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_StewCooking.label,stew cooking,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_StewCooking.description,"Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_UncookedStews.label,uncooked stew,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VCE_StewPot.label,stew pot,label,ThingDef/ThingDef.xml,def
+VCE_StewPot.description,"A wood-fired stove with a top side perfectly indented for a large pot. The lack of need for electricity means this cooking apparatus is perfect for the rugged outdoorsman or medieval peasant alike. Stews are heartier and easier to cook than proper soups. Stews often meld into a singular flavor over long periods of time, perfect for gamey or “less enticing” meat products.",description,ThingDef/ThingDef.xml,def
+VCE_UncookedStewSimple.label,uncooked simple stew,label,ThingDef/ThingDef.xml,def
+VCE_UncookedStewSimple.description,An uncooked simple stew. This needs to be cooked in a stew pot to be edible.,description,ThingDef/ThingDef.xml,def
+VCE_CookedStewSimple.label,simple stew,label,ThingDef/ThingDef.xml,def
+VCE_CookedStewSimple.description,A simple stew slow cooked from a few ingredients.,description,ThingDef/ThingDef.xml,def
+VCE_UncookedStewFine.label,uncooked fine stew,label,ThingDef/ThingDef.xml,def
+VCE_UncookedStewFine.description,An uncooked fine stew. This needs to be cooked in a stew pot to be edible.,description,ThingDef/ThingDef.xml,def
+VCE_CookedStewFine.label,fine stew,label,ThingDef/ThingDef.xml,def
+VCE_CookedStewFine.description,A complex stew assembled with care from a wide selection of ingredients.,description,ThingDef/ThingDef.xml,def
+VCE_UncookedStewLavish.label,uncooked lavish stew,label,ThingDef/ThingDef.xml,def
+VCE_UncookedStewLavish.description,An uncooked lavish stew. This needs to be cooked in a stew pot to be edible.,description,ThingDef/ThingDef.xml,def
+VCE_CookedStewLavish.label,lavish stew,label,ThingDef/ThingDef.xml,def
+VCE_CookedStewLavish.description,"A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul.",description,ThingDef/ThingDef.xml,def
+VCE_StewCooking.generalRules.rulesStrings.0,subject->hearth and heart,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_StewCooking.generalRules.rulesStrings.1,"subject_story->embraced the tradition of stew cooking, bringing together community and cuisine over the warmth of a shared pot",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_StewCooking.generalRules.rulesStrings.2,subject_story->cultivated techniques to craft stews that are not only nourishing but carry the flavors of cultural heritage and togetherness,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_StewCooking.generalRules.rulesStrings.3,"subject_story->introduced the wood-fired pot, an essential tool for preparing these hearty meals in the traditional way",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_StewCooking.generalRules.rulesStrings.4,subject_gerund->nurturing bodies and souls with the communal art of stew making,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_SimpleStewRecipe.label,Cook Simple Stew,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_SimpleStewRecipe.description,Turns an uncooked simple stew into 10 cooked simple stews.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_FineStewRecipe.label,Cook Fine Stew,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_FineStewRecipe.description,Turns an uncooked fine stew into 10 cooked fine stews.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_LavishStewRecipe.label,Cook Lavish Stew,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_LavishStewRecipe.description,Turns an uncooked lavish stew into 10 cooked lavish stews.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def

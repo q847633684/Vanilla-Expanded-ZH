@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.-->
+  <PS_ChemfuelTank.description>An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.</PS_ChemfuelTank.description>
+  <!--EN: chemfuel tank-->
+  <PS_ChemfuelTank.label>chemfuel tank</PS_ChemfuelTank.label>
+  <!--EN: A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing.-->
+  <PS_DeepchemRefinery.description>A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing.</PS_DeepchemRefinery.description>
+  <!--EN: deepchem refinery-->
+  <PS_DeepchemRefinery.label>deepchem refinery</PS_DeepchemRefinery.label>
+  <!--EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.-->
+  <PS_DeepchemTank.description>A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.</PS_DeepchemTank.description>
+  <!--EN: deepchem tank-->
+  <PS_DeepchemTank.label>deepchem tank</PS_DeepchemTank.label>
+  <!--EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks.-->
+  <VCHE_ChemfuelDrain.description>A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks.</VCHE_ChemfuelDrain.description>
+  <!--EN: chemfuel drain-->
+  <VCHE_ChemfuelDrain.label>chemfuel drain</VCHE_ChemfuelDrain.label>
+  <!--EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.-->
+  <VCHE_ChemfuelPipe.description>Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.</VCHE_ChemfuelPipe.description>
+  <!--EN: chemfuel pipe-->
+  <VCHE_ChemfuelPipe.label>chemfuel pipe</VCHE_ChemfuelPipe.label>
+  <!--EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later.-->
+  <VCHE_ChemfuelTap.description>A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later.</VCHE_ChemfuelTap.description>
+  <!--EN: chemfuel tap-->
+  <VCHE_ChemfuelTap.label>chemfuel tap</VCHE_ChemfuelTap.label>
+  <!--EN: Switches chemfuel flow on/off.-->
+  <VCHE_ChemfuelValve.description>Switches chemfuel flow on/off.</VCHE_ChemfuelValve.description>
+  <!--EN: chemfuel valve-->
+  <VCHE_ChemfuelValve.label>chemfuel valve</VCHE_ChemfuelValve.label>
+  <!--EN: A volatile liquid chemical sludge, extracted from deep underground pockets. It’s too thick to be used to fuel engines and rockets, or to transmute into propellant for projectiles, but it can be refined down into standard chemfuel.-->
+  <VCHE_Deepchem.description>A volatile liquid chemical sludge, extracted from deep underground pockets. It’s too thick to be used to fuel engines and rockets, or to transmute into propellant for projectiles, but it can be refined down into standard chemfuel.</VCHE_Deepchem.description>
+  <!--EN: deepchem-->
+  <VCHE_Deepchem.label>deepchem</VCHE_Deepchem.label>
+  <!--EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks.-->
+  <VCHE_DeepchemDrain.description>A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks.</VCHE_DeepchemDrain.description>
+  <!--EN: deepchem drain-->
+  <VCHE_DeepchemDrain.label>deepchem drain</VCHE_DeepchemDrain.label>
+  <!--EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.-->
+  <VCHE_DeepchemPipe.description>Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.</VCHE_DeepchemPipe.description>
+  <!--EN: deepchem pipe-->
+  <VCHE_DeepchemPipe.label>deepchem pipe</VCHE_DeepchemPipe.label>
+  <!--EN: A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely.-->
+  <VCHE_DeepchemPumpjack.description>A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely.</VCHE_DeepchemPumpjack.description>
+  <!--EN: deepchem pumpjack-->
+  <VCHE_DeepchemPumpjack.label>deepchem pumpjack</VCHE_DeepchemPumpjack.label>
+  <!--EN: A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later.-->
+  <VCHE_DeepchemTap.description>A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later.</VCHE_DeepchemTap.description>
+  <!--EN: deepchem tap-->
+  <VCHE_DeepchemTap.label>deepchem tap</VCHE_DeepchemTap.label>
+  <!--EN: Switches deepchem flow on/off.-->
+  <VCHE_DeepchemValve.description>Switches deepchem flow on/off.</VCHE_DeepchemValve.description>
+  <!--EN: deepchem valve-->
+  <VCHE_DeepchemValve.label>deepchem valve</VCHE_DeepchemValve.label>
+  <!--EN: Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.-->
+  <VCHE_UndergroundChemfuelPipe.description>Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.</VCHE_UndergroundChemfuelPipe.description>
+  <!--EN: hidden chemfuel pipe-->
+  <VCHE_UndergroundChemfuelPipe.label>hidden chemfuel pipe</VCHE_UndergroundChemfuelPipe.label>
+  <!--EN: Hidden heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.-->
+  <VCHE_UndergroundDeepchemPipe.description>Hidden heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.</VCHE_UndergroundDeepchemPipe.description>
+  <!--EN: hidden deepchem pipe-->
+  <VCHE_UndergroundDeepchemPipe.label>hidden deepchem pipe</VCHE_UndergroundDeepchemPipe.label>
+</LanguageData>

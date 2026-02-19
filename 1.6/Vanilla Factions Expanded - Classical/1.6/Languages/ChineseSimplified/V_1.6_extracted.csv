@@ -1,0 +1,379 @@
+key,text,tag,file,type
+VFEC_MeatDryingRackNotWorking,This meat drying rack is not working at the moment,VFEC_MeatDryingRackNotWorking,ItemProcessor.xml,keyed
+VFEC_ConcretePressNotWorking,This cement press is not working at the moment,VFEC_ConcretePressNotWorking,ItemProcessor.xml,keyed
+VFEC_TyrianFarmNotWorking,This tyrian farm is not working at the moment,VFEC_TyrianFarmNotWorking,ItemProcessor.xml,keyed
+VFEC.Letters.SenatorJoins,Senator Joins: {0},VFEC.Letters.SenatorJoins,Letters.xml,keyed
+VFEC.Letters.SenatorJoins.Desc,"{0}, a senator from {1}, has agreed to join you. This has unlocked the perk {2}.",VFEC.Letters.SenatorJoins.Desc,Letters.xml,keyed
+VFEC.Letters.SenatorJoins.Desc.Research,"They have also shared some knowledge with you, automatically researching {0}.",VFEC.Letters.SenatorJoins.Desc.Research,Letters.xml,keyed
+VFEC.Letters.SenatorJoins.Desc.All,"Since you now have all senators from {0}, you have now unlocked the perk {1}. Additionally, perks will no longer be lost if a senator dies.",VFEC.Letters.SenatorJoins.Desc.All,Letters.xml,keyed
+VFEC.Letters.SenatorJoins.Desc.All.Research,"Finally, combining the knowledge of all {0} senators means you have automatically researched {1}.",VFEC.Letters.SenatorJoins.Desc.All.Research,Letters.xml,keyed
+VFEC.Letters.SenatorLost,Senator Lost: {0},VFEC.Letters.SenatorLost,Letters.xml,keyed
+VFEC.Letters.SenatorLost.Desc,"{0}, a senator from {1}, has died in your care. {1} will now elect a new senator, who you will have to gain the favor of. As such, the perk {2} has been lost.",VFEC.Letters.SenatorLost.Desc,Letters.xml,keyed
+VFEC.Letters.Donation,Tribute Recieved from {0},VFEC.Letters.Donation,Letters.xml,keyed
+VFEC.Letters.Donation.Desc,{0} has provided tribute of {1}.,VFEC.Letters.Donation.Desc,Letters.xml,keyed
+VFEC.Letters.Researched,Technology Gained: {0},VFEC.Letters.Researched,Letters.xml,keyed
+VFEC.Letters.Researched.Desc,"{1} has recently made a breakthrough in their technological advancements, and they have shared the technology with you.
+Technology unlocked:
+{0}",VFEC.Letters.Researched.Desc,Letters.xml,keyed
+VFEC.Senators.Open,Open senator screen,VFEC.Senators.Open,Misc.xml,keyed
+VFEC.Senators.GainFavor,You gain the favor of Senator {0} from {1}.,VFEC.Senators.GainFavor,Misc.xml,keyed
+VFEC.Senators.FavorOf,Favor of {0},VFEC.Senators.FavorOf,Misc.xml,keyed
+VFEC.Senators.FavorTip,"You will be favored by {0}, who will join your colony. This will activate their associated perk, along with automatically researching their associated project.",VFEC.Senators.FavorTip,Misc.xml,keyed
+VFEC.TransferToColony,Transfer to Colony,VFEC.TransferToColony,Misc.xml,keyed
+VFEC.PerkUnlocked,The perk {0} has been unlocked.,VFEC.PerkUnlocked,Misc.xml,keyed
+VFEC.Scorpion.PickUp,Pick Up Scorpion,VFEC.Scorpion.PickUp,Misc.xml,keyed
+VFEC.Scorpion.SetUp,Set Up Scorpion,VFEC.Scorpion.SetUp,Misc.xml,keyed
+VFEC.LightTheBeacon,Light the Beacon,VFEC.LightTheBeacon,Misc.xml,keyed
+VFEC.Cooldown,Still on cooldown.,VFEC.Cooldown,Misc.xml,keyed
+VFEC.NoAllies,No allies.,VFEC.NoAllies,Misc.xml,keyed
+VFEC.NoReinforce,No reinforcements available.,VFEC.NoReinforce,Misc.xml,keyed
+VFEC.NoHostiles,allies have no hostiles,VFEC.NoHostiles,Misc.xml,keyed
+VFEC.ReinforcementLegionFailed,Reinforcement legion is unable to assist: {0}.,VFEC.ReinforcementLegionFailed,Misc.xml,keyed
+VFEC.LightTheBeacon.Desc,Light this beacon to call reinforcements.,VFEC.LightTheBeacon.Desc,Misc.xml,keyed
+VFEC.BuildingRoad,"Building road: {0}, progress: {1}, ({2}/{3})",VFEC.BuildingRoad,Misc.xml,keyed
+VFEC.RoadFinished,{0} has finished building {1},VFEC.RoadFinished,Misc.xml,keyed
+VFEC.Unknown,Unknown,VFEC.Unknown,Misc.xml,keyed
+Outposts.MustBeMade,Must be made in the {0},Outposts.MustBeMade,Outposts.xml,keyed
+Outposts.MustBeMade.Hill,Must be made in mountains or hills,Outposts.MustBeMade.Hill,Outposts.xml,keyed
+Outposts.SkillTooLow,"Total skill too low, needs {0}",Outposts.SkillTooLow,Outposts.xml,keyed
+Outposts.Settings.Shooting,Shooting Importance,Outposts.Settings.Shooting,Outposts.xml,keyed
+Outposts.Settings.Animals,Animals Importance,Outposts.Settings.Animals,Outposts.xml,keyed
+Outposts.Settings.NeedPods,Need Transport Pods Tech to Deploy Reinforcements?,Outposts.Settings.NeedPods,Outposts.xml,keyed
+Outposts.Settings.Leather,Leather Multiplier,Outposts.Settings.Leather,Outposts.xml,keyed
+Outposts.Settings.Meat,Meat Multiplier,Outposts.Settings.Meat,Outposts.xml,keyed
+VFEC.UI.SenatorsOf,Senators of {0},VFEC.UI.SenatorsOf,UI.xml,keyed
+VFEC.UI.GainingFavor,Gaining the favor of this senator will unlock:,VFEC.UI.GainingFavor,UI.xml,keyed
+VFEC.UI.Perk,{0} perk,VFEC.UI.Perk,UI.xml,keyed
+VFEC.UI.Research,{0} research project,VFEC.UI.Research,UI.xml,keyed
+VFEC.UI.ReQuest,Request a quest,VFEC.UI.ReQuest,UI.xml,keyed
+VFEC.UI.Bribe,Bribe ({0} silver),VFEC.UI.Bribe,UI.xml,keyed
+VFEC.UI.GainingFavorAll,Gaining the favor of all senators will unlock:,VFEC.UI.GainingFavorAll,UI.xml,keyed
+VFEC.UI.SenatorsInFavor,Senators in favor: {0}/{1},VFEC.UI.SenatorsInFavor,UI.xml,keyed
+VFEC.UI.Info,"Gaining favor of a senator will have that senator join your colony. Losing that senator will force you to impress a new one. As such, you should aim to keep them alive.\n
+Gain support of all the senators to unlock unique perks and eventually unite the Republics under your rule. Once you gain favor of all 5 senators of any Republic, the perks are yours forever, no matter what happens to Senators.",VFEC.UI.Info,UI.xml,keyed
+VFEC.UI.NotEnoughMoney,You do not have enough money with you to do this.,VFEC.UI.NotEnoughMoney,UI.xml,keyed
+VFEC.UI.BribeReject,{0} has rejected your bribe and can no longer be bribed.,VFEC.UI.BribeReject,UI.xml,keyed
+VFEC.UI.AlreadyQuest,Already have a quest for that senator.,VFEC.UI.AlreadyQuest,UI.xml,keyed
+VFEC.UI.ViewPerks,View Perks,VFEC.UI.ViewPerks,UI.xml,keyed
+VFEC.UI.ViewSenators,View Senators,VFEC.UI.ViewSenators,UI.xml,keyed
+VFEC_Republic.label,republic,label,VFEC.Senators.RepublicDef/VFEC.Senators.RepublicDef.xml,def
+VFEC_Republic.letterLabel,Republics United,letterLabel,VFEC.Senators.RepublicDef/VFEC.Senators.RepublicDef.xml,def
+VFEC_Republic.letterText,"After gaining the support of all 3 parts of the republic, it has now united under your rule. You have now become Emperor.",letterText,VFEC.Senators.RepublicDef/VFEC.Senators.RepublicDef.xml,def
+VFEC_GainedFavor.label,gained favor of all senators,label,HistoryEventDef/HistoryEventDef.xml,def
+BuildPath.label,Build Path,label,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+BuildPath.description,Orders pawns in the caravan to clear foliage to make a simple clear path.,description,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+BuildDirtRoad.label,Build Dirt road,label,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+BuildDirtRoad.description,Orders pawns in the caravan to clear foliage and tamp dirt to make a somewhat easily traversed dirt road.,description,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+BuildStoneRoad.label,Build Stone road,label,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+BuildStoneRoad.description,"Orders pawns in the caravan to clear foliage, then cut and place blocks to make an easily traversable stone road.",description,VFEC.RoadBuildingDef/VFEC.RoadBuildingDef.xml,def
+VFEC_ApparelDamage.label,apparel damage,label,DamageDef/DamageDef.xml,def
+VFEC_ApparelDamage.deathMessage,{0} has been damaged to death.,deathMessage,DamageDef/DamageDef.xml,def
+VFEC_Senators.label,start with senators,label,ScenPartDef/ScenPartDef.xml,def
+VFEC_Roman.label,roman,label,CultureDef/CultureDef.xml,def
+VFEC_Roman.description,An ancient culture common among republics.,description,CultureDef/CultureDef.xml,def
+VFEC_Opium.label,opium,label,ThingDef/ThingDef.xml,def
+VFEC_Opium.description,"A particularly strong and very addictive painkiller capable of entirely nullifying one's pain. It is recommended that if one is to begin using this drug, they should become daily users, as withdrawal is extremely difficult to cope with and starts quickly.",description,ThingDef/ThingDef.xml,def
+VFEC_OpiumHigh.label,high on opium,label,HediffDef/HediffDef.xml,def
+VFEC_OpiumHigh.labelNoun,an opium high,labelNoun,HediffDef/HediffDef.xml,def
+VFEC_OpiumHigh.description,Active opium in the bloodstream. Dulls out pain completely.,description,HediffDef/HediffDef.xml,def
+VFEC_OpiumHigh.stages.0.label,high on opium,label,ThoughtDef/ThoughtDef.xml,def
+VFEC_OpiumHigh.stages.0.description,I feel no pain! Let's do this!,description,ThoughtDef/ThoughtDef.xml,def
+VFEC_Opium.label,opium,label,ChemicalDef/ChemicalDef.xml,def
+VFEC_Chemical_Opium.label,opium,label,NeedDef/NeedDef.xml,def
+VFEC_Chemical_Opium.description,"Because of an opium addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.",description,NeedDef/NeedDef.xml,def
+VFEC_OpiumTolerance.label,opium tolerance,label,HediffDef/HediffDef.xml,def
+VFEC_OpiumTolerance.description,"A built-up tolerance to opium. The more severe this tolerance is, the more opium it takes to get the same effect.",description,HediffDef/HediffDef.xml,def
+VFEC_OpiumAddiction.label,opium addiction,label,HediffDef/HediffDef.xml,def
+VFEC_OpiumAddiction.description,"A chemical addiction to opium. Long-term presence of opium has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of opium, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.",description,HediffDef/HediffDef.xml,def
+VFEC_OpiumAddiction.stages.1.label,withdrawal,label,HediffDef/HediffDef.xml,def
+VFEC_OpiumWithdrawal.stages.1.label,opium withdrawal,label,ThoughtDef/ThoughtDef.xml,def
+VFEC_OpiumWithdrawal.stages.1.description,I'm really tired. Everything's so dull and the pain is so intense.,description,ThoughtDef/ThoughtDef.xml,def
+VFEC_CentralRepublic.label,central republic,label,FactionDef/FactionDef.xml,def
+VFEC_CentralRepublic.description,"These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Republic can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic holds production and city development in high regards. Gaining their support will unlock several perks focused on improving the wellbeing of the people.",description,FactionDef/FactionDef.xml,def
+VFEC_WesternRepublic.label,western republic,label,FactionDef/FactionDef.xml,def
+VFEC_WesternRepublic.description,"These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic considers honor and superiority in battle to be most valuable. Gaining their support will unlock several perks focused on warfare and military.",description,FactionDef/FactionDef.xml,def
+VFEC_EasternRepublic.label,eastern republic,label,FactionDef/FactionDef.xml,def
+VFEC_EasternRepublic.description,"These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic values hard work and production over brawl and intellect. Gaining their support will unlock several perks focused on research and progress.",description,FactionDef/FactionDef.xml,def
+VFEC_NewEmpire.label,New Empire,label,FactionDef/FactionDef.xml,def
+VFEC_NewEmpire.description,A new empire.,description,FactionDef/FactionDef.xml,def
+VFEC_NewEmpire.pawnSingular,plebeian,pawnSingular,FactionDef/FactionDef.xml,def
+VFEC_NewEmpire.pawnsPlural,plebeians,pawnsPlural,FactionDef/FactionDef.xml,def
+VFEC_CenturionArmor.label,centurion armor,label,HediffDef/HediffDef.xml,def
+VFEC_CenturionArmor.description,The prescence of centurion armor encourages nearby allied fighters to fight through pain.,description,HediffDef/HediffDef.xml,def
+VFEC_CenturionArmorBuff.label,centurion armor buff,label,HediffDef/HediffDef.xml,def
+VFEC_CenturionArmorBuff.description,The ability to withstand pain is increased thanks to being near someone wearing centurion armor.,description,HediffDef/HediffDef.xml,def
+VOE_JoinHuntingOutpost.label,join hunting outpost,label,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinHuntingOutpost.description,join a hunting outpost,description,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinLoggingOutpost.label,join logging outpost,label,HistoryEventDef/HistoryEventDef.xml,def
+VOE_JoinLoggingOutpost.description,join a logging outpost,description,HistoryEventDef/HistoryEventDef.xml,def
+VFEC_Relax_Thermaebath.reportString,relaxing in a bath.,reportString,JobDef/JobDef.xml,def
+VFEC_Stage_Performance.reportString,performing on stage.,reportString,JobDef/JobDef.xml,def
+VFEC_Stage_WatchPerformance.reportString,watching a stage performance.,reportString,JobDef/JobDef.xml,def
+VFEC_SetupScorpion.label,set up scorpion,label,JobDef/JobDef.xml,def
+VFEC_SetupScorpion.reportString,setting up scorpion,reportString,JobDef/JobDef.xml,def
+VFEC_Relaxing_Bath.label,bath relaxing,label,JoyKindDef/JoyKindDef.xml,def
+VFEC_Performance.label,performing,label,JoyKindDef/JoyKindDef.xml,def
+VFEC_Plebeian.label,member,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_RepublicVillager.label,villager,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_RepublicTrader.label,trader,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_TownGuard.label,town guard,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_RepublicArcher.label,archer,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_RepublicAuxilia.label,auxilia,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_RepublicSenator.label,senator,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_Legionnaire.label,legionnaire,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_ScorpionOperator.label,scorpion operator,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_Centurion.label,centurion,label,PawnKindDef/PawnKindDef.xml,def
+VFEC_Praetorian.label,praetorian,label,PawnKindDef/PawnKindDef.xml,def
+AmorVincitOmnia.label,Amor Vincit Omnia,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+AmorVincitOmnia.description,Opinion of husband and wife is always locked at 100 and can never go down.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+CarpeDiem.label,Carpe Diem,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+CarpeDiem.description,Everyone gets +3 Mood buff,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NilDesperandum.label,Nil Desperandum,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NilDesperandum.description,Mental break threshold decreased by 10%.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+PanemEtCircenses.label,Panem Et Circenses,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+PanemEtCircenses.description,All positive mood thoughts last 20% longer.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ArsLongaVitaBrevis.label,"Ars Longa, Vita Brevis",label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ArsLongaVitaBrevis.description,Beauty of all sculptures and art pieces is multiplied by x1.25.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ExitusActaProbat.label,Exitus Acta Probat,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ExitusActaProbat.description,All negative mood thoughts last 10% shorter.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+AleaIactaEst.label,Alea Iacta Est,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+AleaIactaEst.description,Pain threshold increased by 10%.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+PecuniaNervusBelli.label,Pecunia Nervus Belli,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+PecuniaNervusBelli.description,Weapons of any kind receive 5% price improvement.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+SiVisPacemParaBellum.label,"Si Vis Pacem, Para Bellum",label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+SiVisPacemParaBellum.description,"When colonist is drafted, mental breaks cannot happen.",description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NosMorituriTeSalutant.label,Nos Morituri Te Salutant,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NosMorituriTeSalutant.description,"Mood thoughts for losing colonists, family members etc are halved.",description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NonOmniaPossumusOmnes.label,Non Omnia Possumus Omnes,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NonOmniaPossumusOmnes.description,Global skill learning speed increased by 5%.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+TimendiCausaEstNescire.label,Timendi Causa Est Nescire,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+TimendiCausaEstNescire.description,Research Speed increased by 5%.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+MensSanaInCorporeSano.label,Mens Sana In Corpore Sano,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+MensSanaInCorporeSano.description,Global work speed increased by 10% if in positive mood.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ActaNonVerba.label,Acta Non Verba,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+ActaNonVerba.description,Global work speed increased by 5%.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NaturaNonConstristatur.label,Natura Non Constristatur,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+NaturaNonConstristatur.description,"Thoughts on Environment (Hot and Cold) are halved (instead of -8, for example, it's -4).",description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Tributum.label,Tributum,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Tributum.description,Gain annual silver donation equal to 5% of the player wealth. Prices at Central Republic vendors get halved.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Auxilia.label,Auxilia,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Auxilia.description,"Every time a raid occurs, there is a 25% chance a reinforcement legion will show up to help. After that, the reinforcement legion leaves the map.",description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Profectus.label,Profectus,label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+Profectus.description,Every so often a random research project that's achievable by the player (Player meets prerequisites) gets automatically unlocked.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+VeniVidiVici.label,"Veni, Vidi, Vici",label,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+VeniVidiVici.description,Any pawn from any of the three Republics will now be instantly recruitable.,description,VFEC.Perks.PerkDef/VFEC.Perks.PerkDef.xml,def
+VFEC_PressConcrete.label,Press chunks into concrete,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_PressConcrete.description,Turns 1 chunk into 75 concrete.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_DryMeat.label,Dry meat into jerky,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_DryMeat.description,Turns 75 meat into 75 jerky.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_ProcessCloth.label,Process cloth into tyrian,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_ProcessCloth.description,Turns 150 cloth into 150 tyrian.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VFEC_Make_Bronze.label,make bronze,label,RecipeDef/RecipeDef.xml,def
+VFEC_Make_Bronze.description,Make bronze using stone chunks and steel.,description,RecipeDef/RecipeDef.xml,def
+VFEC_Make_Bronze.jobString,Making bronze.,jobString,RecipeDef/RecipeDef.xml,def
+VFEC_Togas.label,togas,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Togas.description,"Craft togas, everyday wear of the citizens of the republic.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Togas.generalRules.rulesStrings.0,subject->the fabric of society,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Togas.generalRules.rulesStrings.1,"subject_story->reclaimed the elegance and simplicity of the toga, the symbol of citizenship and refined taste",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Togas.generalRules.rulesStrings.2,subject_gerund->draping the republic in the dignity and grace of its ancestors,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TemperatureControl.label,temperature control,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TemperatureControl.description,"Make large passive coolers, a way to cool indoor spaces below freezing point without needing electricity, or hot stones, a primitive heater.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TemperatureControl.generalRules.rulesStrings.0,subject->masters of elements,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TemperatureControl.generalRules.rulesStrings.1,"subject_story->harnessed natural methods to defy the whims of weather, creating spaces of comfort through passive coolers and hot stones",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TemperatureControl.generalRules.rulesStrings.2,"subject_gerund->cultivating havens of warmth and coolness, in defiance of the external world",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_MeatDrying.label,meat drying,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_MeatDrying.description,"Construct meat drying racks, allowing you to preserve meat and create a roman delicacy.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_MeatDrying.generalRules.rulesStrings.0,subject->legacy of preservation,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_MeatDrying.generalRules.rulesStrings.1,"subject_story->revived the ancient art of meat drying, securing sustenance and delighting palates with flavors honed by time",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_MeatDrying.generalRules.rulesStrings.2,subject_gerund->extending the bounty of the hunt through the wisdom of the ancients,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Mosaics.label,mosaics,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Mosaics.description,"Build excellent stone mosaics, utilising different colours and shapes to express beauty. Slow to construct.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Mosaics.generalRules.rulesStrings.0,subject->mosaic of civilization,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Mosaics.generalRules.rulesStrings.1,subject_story->crafted stone mosaics that capture the essence of beauty and narrative through color and form,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Mosaics.generalRules.rulesStrings.2,subject_gerund->embedding the story of a people in the very stones that pave their path,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Thermaebath.label,thermaebath,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Thermaebath.description,"Construct large thermaebath that uses steam geysers to warm up the water, allowing up to 8 people to bathe together with an occasional chance of group lovin’.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Thermaebath.generalRules.rulesStrings.0,subject->sanctuaries of steam,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Thermaebath.generalRules.rulesStrings.1,"subject_story->constructed thermaebaths, communal havens of relaxation and warmth powered by the earth's breath",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Thermaebath.generalRules.rulesStrings.2,subject_gerund->fostering communal well-being and intimacy in the embrace of nature's warmth,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_DramaAndComedy.label,drama and comedy,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_DramaAndComedy.description,Perform various plays on the theatre stage as a recreational activity.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_DramaAndComedy.generalRules.rulesStrings.0,subject->the stage of life,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_DramaAndComedy.generalRules.rulesStrings.1,"subject_story->revived the timeless arts of drama and comedy, enriching the soul of the republic through performance and play",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_DramaAndComedy.generalRules.rulesStrings.2,"subject_gerund->mirroring the human condition, from tragedy to farce, on the communal stage",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_BronzeWorking.label,bronze working,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_BronzeWorking.description,Mix steel with stone chunks to create slightly weaker metal in large quantities.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_BronzeWorking.generalRules.rulesStrings.0,subject->the alloy of antiquity,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_BronzeWorking.generalRules.rulesStrings.1,"subject_story->discovered the alchemy of combining steel with stone to produce bronze, marking the dawn of a new era in metallurgy",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_BronzeWorking.generalRules.rulesStrings.2,subject_gerund->ushering in an age where metal becomes the backbone of progress and power,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CraftingBench.label,crafting bench,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CraftingBench.description,Build a workbench for crafting simple things like clubs or bows.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CraftingBench.generalRules.rulesStrings.0,subject->the artisan's foundation,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CraftingBench.generalRules.rulesStrings.1,"subject_story->established crafting benches as the heart of production, where raw materials are transformed into tools and treasures",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CraftingBench.generalRules.rulesStrings.2,"subject_gerund->carving the future with every crafted item, from the simplest club to the most precise bow",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CementMaking.label,cement making,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CementMaking.description,"Construct a cement press, which allows you to create extremely durable stone material out of stone chunks.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CementMaking.generalRules.rulesStrings.0,subject->the bedrock of civilization,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CementMaking.generalRules.rulesStrings.1,"subject_story->innovated the creation of cement, turning stone into the durable foundation upon which empires are built",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CementMaking.generalRules.rulesStrings.2,subject_gerund->laying the groundwork for enduring structures and monuments with the strength of cement,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_WoodfiredCrematorium.label,wood-fired crematorium,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_WoodfiredCrematorium.description,"Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_WoodfiredCrematorium.generalRules.rulesStrings.0,subject->purification by flame,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_WoodfiredCrematorium.generalRules.rulesStrings.1,"subject_story->conceived the wood-fired crematorium, a testament to dealing with the departed in a manner that respects both cultural customs and sanitation needs",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_WoodfiredCrematorium.generalRules.rulesStrings.2,subject_gerund->embracing the cycle of life and death through the elemental purity of fire,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TyrianProduction.label,tyrian production,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TyrianProduction.description,"Create a tyrian farm - a river-bank structure that dyes cloth, which can then be extracted in the form of extremely valuable royal fabric.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TyrianProduction.generalRules.rulesStrings.0,subject->the hue of royalty,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TyrianProduction.generalRules.rulesStrings.1,"subject_story->cultivated tyrian farms along the riverbanks, mastering the art of dyeing cloth into royal fabric, a symbol of wealth and status",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_TyrianProduction.generalRules.rulesStrings.2,subject_gerund->weaving the fabric of society with colors that command respect and admiration,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_RoadBuilding.label,road building,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_RoadBuilding.description,"Construct paths, dirt roads and stone roads directly on the world map, allowing for faster caravan travel.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_RoadBuilding.generalRules.rulesStrings.0,subject->pathways of progress,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_RoadBuilding.generalRules.rulesStrings.1,"subject_story->paved the way for civilization's expansion with the construction of roads, connecting communities and fostering trade",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_RoadBuilding.generalRules.rulesStrings.2,"subject_gerund->tracing the arteries of trade and communication with each road built, propelling the civilization forward",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_HeavyShieldMaking.label,heavy shield making,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_HeavyShieldMaking.description,Create heavy scuta shields typically associated with legionnaires.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_HeavyShieldMaking.generalRules.rulesStrings.0,subject->bulwarks of the legion,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_HeavyShieldMaking.generalRules.rulesStrings.1,"subject_story->reinvigorated the tradition of heavy shield crafting, providing unmatched protection to those who hold the line",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_HeavyShieldMaking.generalRules.rulesStrings.2,"subject_gerund->forging the scuta shields, the steadfast guardians of the legionnaires",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionaryArmaments.label,legionary armaments,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionaryArmaments.description,"Craft tents, javelins, spathas and daggers, constituting towards the legionary armory.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionaryArmaments.generalRules.rulesStrings.0,subject->arsenal of the ancients,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionaryArmaments.generalRules.rulesStrings.1,"subject_story->mastered the fabrication of javelins, spathas, and daggers, ensuring the legion's versatility and readiness in battle",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionaryArmaments.generalRules.rulesStrings.2,subject_gerund->equipping the legions with a diverse armory for conquest and defense,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionnaireArmor.label,legionary armor,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionnaireArmor.description,"Create heavy armor of legionaries, capable of withstanding a high degree of sharp damage.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionnaireArmor.generalRules.rulesStrings.0,subject->the iron skin,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionnaireArmor.generalRules.rulesStrings.1,"subject_story->crafted heavy armor that turns warriors into indomitable forces on the battlefield, capable of withstanding the fiercest strikes",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_LegionnaireArmor.generalRules.rulesStrings.2,subject_gerund->donning the legionnaires in armor that weaves invincibility with the threads of war,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CenturionArmor.label,centurion armor,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CenturionArmor.description,"Smith suits of centurion armor, excellent for leading men into heroic battles.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CenturionArmor.generalRules.rulesStrings.0,subject->mantle of command,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CenturionArmor.generalRules.rulesStrings.1,"subject_story->smithed suits of centurion armor, imbuing leaders with both protection and a distinguished presence",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_CenturionArmor.generalRules.rulesStrings.2,subject_gerund->clothing the ranks of leadership in armor befitting their valor and virtue,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Scorpion.label,scorpion,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Scorpion.description,"Construct scorpions, a portable field artillery piece which doubles as a semi-automatic heavy crossbow.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Scorpion.generalRules.rulesStrings.0,subject->sting of the legion,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Scorpion.generalRules.rulesStrings.1,"subject_story->engineered scorpions, merging the precision of a crossbow with the destructive force of field artillery",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Scorpion.generalRules.rulesStrings.2,subject_gerund->unleashing the lethal precision of ancient war machines upon the modern battlefield,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Beacons.label,beacons,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Beacons.description,"Build large wooden pyres, that when lit on fire are guaranteed to summon friendly reinforcements.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Beacons.generalRules.rulesStrings.0,subject->pyres of summoning,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Beacons.generalRules.rulesStrings.1,"subject_story->constructed large wooden pyres, a signal to the skies that calls forth allies to the battlefield",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFEC_Beacons.generalRules.rulesStrings.2,subject_gerund->binding the fates of allies with flames that guide them to the fray,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VFEC_NamerSettlementClassical.rulePack.rulesStrings.0,r_name->[ClassicalName],li,RulePackDef/RulePackDef.xml,def
+VFEC_NamerPersonClassical.rulePack.rulesStrings.0,r_name(p=2)->[Classical_First_Male] [Classical_Last],li,RulePackDef/RulePackDef.xml,def
+VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings.0,r_name(p=2)->[Classical_First_Female] [Classical_Last],li,RulePackDef/RulePackDef.xml,def
+VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings.0,r_leaderTitle->Senator,li,RulePackDef/RulePackDef.xml,def
+VFEC_NamerFactionCentral.rulePack.rulesStrings.0,r_name->Central Republic,li,RulePackDef/RulePackDef.xml,def
+VFEC_NamerFactionWestern.rulePack.rulesStrings.0,r_name->Western Republic,li,RulePackDef/RulePackDef.xml,def
+VFEC_NamerFactionEastern.rulePack.rulesStrings.0,r_name->Eastern Republic,li,RulePackDef/RulePackDef.xml,def
+VFEC_NewEmpire.label,New Empire,label,ScenarioDef/ScenarioDef.xml,def
+VFEC_NewEmpire.description,"Squabbling in the senate and cutthroat politics left you with distaste for anything regarding the will of the people. You deserve so much more - as your blood is royal and your wreath is golden. You gathered a few of the senators that sided with you and left the comforts of the Republic. It is time you unite them on your terms, under your rule. Glory to the empire. Glory to the Emperor! 
+Note: Since you start being hostile to the Republic factions, this is a difficult scenario.",description,ScenarioDef/ScenarioDef.xml,def
+VFEC_NewEmpire.scenario.summary,A gathering of nobility with a grand purpose. A default Classical experience.,summary,ScenarioDef/ScenarioDef.xml,def
+VFEC_NewEmpire.scenario.parts.15.text,"Squabbling in the senate and cutthroat politics left you with distaste for anything regarding the will of the people. You deserve so much more - as your blood is royal and your wreath is golden. You gathered a few of the senators that sided with you and left the comforts of the Republic. It is time you unite them on your terms, under your rule.",text,ScenarioDef/ScenarioDef.xml,def
+VFEC_NeronNeolithic.label,Neron Neolithic,label,StorytellerDef/StorytellerDef.xml,def
+VFEC_NeronNeolithic.description,"Neron Neolithic believes that to be worthy, one needs to be tested in fire. He will bombard you with a constant stream of threats and only give you a short moment to catch your breath, before striking you once again.",description,StorytellerDef/StorytellerDef.xml,def
+VFEC_MosaicsSandstone.label,sandstone mosaics,label,TerrainDef/TerrainDef.xml,def
+VFEC_MosaicsGranite.label,granite mosaics,label,TerrainDef/TerrainDef.xml,def
+VFEC_MosaicsLimestone.label,limestone mosaics,label,TerrainDef/TerrainDef.xml,def
+VFEC_MosaicsSlate.label,slate mosaics,label,TerrainDef/TerrainDef.xml,def
+VFEC_MosaicsMarble.label,marble mosaics,label,TerrainDef/TerrainDef.xml,def
+VFEC_BronzeTile.label,bronze tile,label,TerrainDef/TerrainDef.xml,def
+VFEC_BronzeTile.description,Bronze tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.,description,TerrainDef/TerrainDef.xml,def
+VFEC_TileConcrete.label,concrete tile,label,TerrainDef/TerrainDef.xml,def
+VFEC_FlagstoneConcrete.label,concrete flagstone,label,TerrainDef/TerrainDef.xml,def
+VFEC_Tent.label,tent,label,ThingDef/ThingDef.xml,def
+VFEC_Tent.description,"A small, personal tent no larger than a single person bed. When pitched, such a tent will easily protect a pawn from elements such as heat or cold, however it’s not quite as restful, as one is still laying directly on the ground.",description,ThingDef/ThingDef.xml,def
+VFEC_Thermaebath.label,thermaebath,label,ThingDef/ThingDef.xml,def
+VFEC_Thermaebath.description,"A very large, heated stone bath meant to be shared by several patrons. Provides a temporary respite from an otherwise discomforting world. When in high numbers, bathers are known to lose themselves in the moment and share more than they normally would.",description,ThingDef/ThingDef.xml,def
+VFEC_TheatreStage.label,theatre stage,label,ThingDef/ThingDef.xml,def
+VFEC_TheatreStage.description,A lightly decorated wooden stage meant to provide area for props and actors both to create compelling scenes. Such performances are quite fun for both those on stage and those casting their eyes upon it.,description,ThingDef/ThingDef.xml,def
+VFEC_Beacon.label,beacon,label,ThingDef/ThingDef.xml,def
+VFEC_Beacon.description,"A large pile of wood placed carefully utop a tall platform. Once lit, a slow burning fire will burn brightly for 3 days. Lighting such a beacon will signal to a friendly faction that your settlement is in need of help, auxiliary military engineers usually arrive shortly afterwards, they will both fight and build alongside you. Must be fully rebuilt after extinguishing. Help can only be requests once at a time, and only every 3 days.",description,ThingDef/ThingDef.xml,def
+VFEC_MeatDryingRack.label,meat drying rack,label,ThingDef/ThingDef.xml,def
+VFEC_MeatDryingRack.description,"A solid wooden rack featuring a series of dangling metal hooks across a central beam meant to hang slabs of meat. Meat hung by it will very slowly air dry over time, allowing an indefinite form of preservation. The air drying process can be quickened by a warm environment.",description,ThingDef/ThingDef.xml,def
+VFEC_CraftingBench.label,crafting bench,label,ThingDef/ThingDef.xml,def
+VFEC_CraftingBench.description,A simple bench stocked with equally simple tools meant to assist in the crafting of primitive goods and weapons.,description,ThingDef/ThingDef.xml,def
+VFEC_WoodFiredCrematorium.label,wood-fired crematorium,label,ThingDef/ThingDef.xml,def
+VFEC_WoodFiredCrematorium.description,A wood fired receptacle meant for disposal of unneeded junk or bodies.,description,ThingDef/ThingDef.xml,def
+VFEC_ConcretePress.label,cement press,label,ThingDef/ThingDef.xml,def
+VFEC_ConcretePress.description,"A very strong, open stone basin meant to cure and shape a mixture of clay, sand, and powdered stone known as cement into blocks.",description,ThingDef/ThingDef.xml,def
+VFEC_TyrianFarm.label,tyrian farm,label,ThingDef/ThingDef.xml,def
+VFEC_TyrianFarm.description,"A large wooden enclosure meant to be placed in shallow water and filled with cloth. A unique breed of snails found in many rimworlds are known to wash up and leave residue on the cloth contained within, dying it. Creates a small amount of royal fabric over time.",description,ThingDef/ThingDef.xml,def
+VFEC_Turret_Scorpion.label,scorpion turret,label,ThingDef/ThingDef.xml,def
+VFEC_Turret_Scorpion.description,"A ballista-like turret capable of firing rapidly when set up and manned. Light enough to be used as a handheld weapon at the cost of firing speed, very effective against enemy infantry.",description,ThingDef/ThingDef.xml,def
+VFEC_TurretGun_Scorpion.label,scorpion,label,ThingDef/ThingDef.xml,def
+VFEC_TurretGun_Scorpion.description,"A ballista-like turret capable of firing rapidly when set up and manned. Light enough to be used as a handheld weapon at the cost of firing speed, very effective against enemy infantry.",description,ThingDef/ThingDef.xml,def
+VFEC_LargePassiveCooler.label,large passive cooler,label,ThingDef/ThingDef.xml,def
+VFEC_LargePassiveCooler.description,"A sturdy unpowered cooler notably larger than the traditional variety, cools rooms to freezing via water evaporation. Will run out and self-destruct after several days.",description,ThingDef/ThingDef.xml,def
+VFEC_HeatStones.label,heat stones,label,ThingDef/ThingDef.xml,def
+VFEC_HeatStones.description,"A thin square box made of stone, perforated with tiny holes at the bottom and top. A small fire can be lit and sustained within. The stone container will slowly dissipate heat, allowing prolonged passive warmth.",description,ThingDef/ThingDef.xml,def
+VFEC_Jerky.label,jerky,label,ThingDef/ThingDef.xml,def
+VFEC_Jerky.description,"Salty, chewy, thinly-sliced meat that will last indefinitely and tastes quite pleasant for what it is.",description,ThingDef/ThingDef.xml,def
+VFEC_Bronze.label,bronze,label,ThingDef/ThingDef.xml,def
+VFEC_Bronze.description,A metallic alloy made from steel and trace amounts of copper found in stones. Can be used for crafting armor or furnishings when steel is in low supply.,description,ThingDef/ThingDef.xml,def
+VFEC_BlocksConcrete.label,concrete blocks,label,ThingDef/ThingDef.xml,def
+VFEC_BlocksConcrete.description,"Sturdy, utilitarian cement blocks for crafting any sort of infrastructure. While not as durable as granite or as gorgeous as marble, it is a clear improvement over weaker materials such as slate or sandstone.",description,ThingDef/ThingDef.xml,def
+VFEC_BlocksConcrete.stuffProps.stuffAdjective,concrete,stuffAdjective,ThingDef/ThingDef.xml,def
+VFEC_Tyrian.label,tyrian,label,ThingDef/ThingDef.xml,def
+VFEC_Tyrian.description,"A bolt of very beautiful and luxurious violet cloth, perfect for clothing the distinguished.",description,ThingDef/ThingDef.xml,def
+VFEC_Wreath.label,wreath,label,ThingDef/ThingDef.xml,def
+VFEC_Wreath.description,"A polished metallic piece of headgear resembling laurels meant to signify wealth and status, equally appealing to both senators and nobles.",description,ThingDef/ThingDef.xml,def
+VFEC_Apparel_LegionnaireHelmet.label,legionnaire helmet,label,ThingDef/ThingDef.xml,def
+VFEC_Apparel_LegionnaireHelmet.description,A carefully designed helmet made out of a single large piece of wood or metal. A wide open gap near the mouth and eyes allows full peripheral vision and unmuffled communication.,description,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionHelmet.label,centurion helmet,label,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionHelmet.description,"A carefully designed and decorated helmet made out of a single large piece of wood or metal. A wide open gap near the mouth and eyes allows full peripheral vision and unmuffled communication. This particular helmet includes accoutrement to inspire both its wearers and onlookers, when fighting side by side a centurion even pain itself seems dulled.",description,ThingDef/ThingDef.xml,def
+VFEC_Toga.label,toga,label,ThingDef/ThingDef.xml,def
+VFEC_Toga.description,"A semicircular, open-bottomed garment designed to cover the entire body and shoulders. While similar to tribal clothing the toga is generally made with a more delicate touch and presents itself as dignified everyday wear.",description,ThingDef/ThingDef.xml,def
+VFEC_Apparel_LegionnaireArmor.label,legionnaire armor,label,ThingDef/ThingDef.xml,def
+VFEC_Apparel_LegionnaireArmor.description,"A carefully designed set of armor made from a series of reinforced metal or wooden sheets, forming somewhat of a carapace without sacrificing too much dexterity. Such armor is known to embolden one's mental fortitude.",description,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionArmor.label,centurion armor,label,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionArmor.description,"A carefully designed and decorated set of armor made from a series of reinforced metal or wooden sheets, forming somewhat of a carapace without sacrificing too much dexterity. Such armor is known to embolden one's mental fortitude.",description,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionArmor.comps.0.label,Toggle buff,label,ThingDef/ThingDef.xml,def
+VFEC_Apparel_CenturionArmor.comps.0.description,"Toggle buffing nearby allies, turn off when not in combat if performance is a concern",description,ThingDef/ThingDef.xml,def
+VFEC_MoteCenturionLink.label,centurion link,label,ThingDef/ThingDef.xml,def
+VFEC_Shield_Heavy.label,heavy shield,label,ThingDef/ThingDef.xml,def
+VFEC_Shield_Heavy.description,"A heavily fortified square shield that covers one's body from shin to shoulder, heavy enough to slow those wielding it at the benefit of incredible protection.",description,ThingDef/ThingDef.xml,def
+VFEC_Plant_Poppy.label,poppy,label,ThingDef/ThingDef.xml,def
+VFEC_Plant_Poppy.description,"A tiny, crimson flower that can be harvested for opium, a strong pain killing drug.",description,ThingDef/ThingDef.xml,def
+VFEC_CarpeDiem.stages.0.label,Carpe Diem,label,ThoughtDef/ThoughtDef.xml,def
+VFEC_CarpeDiem.stages.0.description,"I have to seize the day, for it can always be my last!",description,ThoughtDef/ThoughtDef.xml,def
+VFEC_Caravan_Republic_BulkGoods.label,bulk goods trader,label,TraderKindDef/TraderKindDef.xml,def
+VFEC_Caravan_Republic_WarMerchant.label,war merchant,label,TraderKindDef/TraderKindDef.xml,def
+VFEC_Caravan_Republic_Slaver.label,slaver,label,TraderKindDef/TraderKindDef.xml,def
+VFEC_Visitor_Republic_Standard.label,trader,label,TraderKindDef/TraderKindDef.xml,def
+VFEC_DoBillsUseCraftingBench.label,make things at crafting bench,label,WorkGiverDef/WorkGiverDef.xml,def
+VFEC_DoBillsUseCraftingBench.verb,craft,verb,WorkGiverDef/WorkGiverDef.xml,def
+VFEC_DoBillsUseCraftingBench.gerund,crafting at,gerund,WorkGiverDef/WorkGiverDef.xml,def
+Outpost_Farming.label,farming outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Farming.description,"Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Hunting.label,hunting outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Hunting.description,"Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Logging.label,logging outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Logging.description,"Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Mining.label,mining outpost,label,WorldObjectDef/WorldObjectDef.xml,def
+Outpost_Mining.description,"Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony.",description,WorldObjectDef/WorldObjectDef.xml,def
+VFEC_MeleeWeapon_Spatha.label,spatha,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Spatha.description,A weighty shortsword meant to deliver piercing attacks as well as occasional slashing swipes. Many scholars consider such a weapon to be a slightly less effective precursor to the longsword.,description,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Spatha.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Spatha.tools.1.label,point,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Spatha.tools.2.label,edge,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Dagger.label,dagger,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Dagger.description,"A simple, elongated knife capable of being swung quite quickly. Generally favored by assassins or used as a backup weapon should one be separated from their spear or spatha.",description,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Dagger.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Dagger.tools.1.label,blade,label,ThingDef/ThingDef.xml,def
+VFEC_MeleeWeapon_Dagger.tools.2.label,point,label,ThingDef/ThingDef.xml,def
+VFEC_Javelin.label,javelin,label,ThingDef/ThingDef.xml,def
+VFEC_Javelin.description,A long-tipped throwing spear specifically designed to break armor and shield alike.,description,ThingDef/ThingDef.xml,def
+VFEC_Javelin.tools.0.label,shaft,label,ThingDef/ThingDef.xml,def
+VFEC_Javelin.tools.1.label,point,label,ThingDef/ThingDef.xml,def
+VFEC_Javelin_Thrown.label,javelin,label,ThingDef/ThingDef.xml,def
+VFEC_Weapon_Scorpion.label,scorpion,label,ThingDef/ThingDef.xml,def
+VFEC_Weapon_Scorpion.description,"A ballista-like turret capable of firing rapidly when set up and manned. Light enough to be used as a handheld weapon at the cost of firing speed, very effective against enemy infantry.",description,ThingDef/ThingDef.xml,def
+VFEC_Weapon_Scorpion.tools.0.label,limb,label,ThingDef/ThingDef.xml,def
+VFEC_Arrow_Scorpion.label,scorpion arrow,label,ThingDef/ThingDef.xml,def
+VFEC_Mosaics.label,mosaics,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def

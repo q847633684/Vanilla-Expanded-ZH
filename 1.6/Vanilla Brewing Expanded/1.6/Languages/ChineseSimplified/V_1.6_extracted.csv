@@ -1,0 +1,382 @@
+key,text,tag,file,type
+VBE_InsertSyrupDesc,Syrup to Insert,VBE_InsertSyrupDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertion,Bring Syrup,VBE_StartInsertion,Misc_Gameplay.xml,keyed
+VBE_StartInsertionDesc,Bring a syrup to the soda fountain to start processing,VBE_StartInsertionDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingSyrup,Cancel Bringing Syrup,VBE_CancelBringingSyrup,Misc_Gameplay.xml,keyed
+VBE_CancelBringingSyrupDesc,Cancel bringing syrup to the soda fountain.,VBE_CancelBringingSyrupDesc,Misc_Gameplay.xml,keyed
+VBE_SyrupFailurePower,The soda has spoiled due to a power failure in the soda fountain,VBE_SyrupFailurePower,Misc_Gameplay.xml,keyed
+VCE_SodaFountainNotWorking,This soda fountain is not working at the moment,VCE_SodaFountainNotWorking,Misc_Gameplay.xml,keyed
+VCE_SyrupFailurePowerWarning,The syrup mix is spoiling fast due to a lack of fuel in the soda fountain,VCE_SyrupFailurePowerWarning,Misc_Gameplay.xml,keyed
+VBE_InsertAmbMustDesc,Must to Insert,VBE_InsertAmbMustDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertionAmbMust,Bring Must,VBE_StartInsertionAmbMust,Misc_Gameplay.xml,keyed
+VBE_StartInsertionAmbMustDesc,Bring ambrandy must to the ambrandy distillery to start fermentation,VBE_StartInsertionAmbMustDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingAmbMust,Cancel Bringing Must,VBE_CancelBringingAmbMust,Misc_Gameplay.xml,keyed
+VBE_CancelBringingAmbMustDesc,Cancel bringing ambrandy must to the ambrandy distillery.,VBE_CancelBringingAmbMustDesc,Misc_Gameplay.xml,keyed
+VBE_AmbrandyFailurePower,The ambrandy has spoiled due to a power failure in the ambrandy distillery,VBE_AmbrandyFailurePower,Misc_Gameplay.xml,keyed
+VBE_RemoveAmbrandy,Remove Ambrandy ({0}),VBE_RemoveAmbrandy,Misc_Gameplay.xml,keyed
+VBE_RemoveAmbrandyDesc,Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0}),VBE_RemoveAmbrandyDesc,Misc_Gameplay.xml,keyed
+VCE_AmbrandyNotWorking,This ambrandy distillery is not working at the moment,VCE_AmbrandyNotWorking,Misc_Gameplay.xml,keyed
+VBE_InsertMustOrWhiskeyDesc,Mash or Whiskey to Insert,VBE_InsertMustOrWhiskeyDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertionMustOrWhiskey,Bring Mash or Whiskey,VBE_StartInsertionMustOrWhiskey,Misc_Gameplay.xml,keyed
+VBE_StartInsertionMustOrWhiskeyDesc,Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process,VBE_StartInsertionMustOrWhiskeyDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingMustOrWhiskey,Cancel bringing mash or whiskey must to the whiskey cask.,VBE_CancelBringingMustOrWhiskey,Misc_Gameplay.xml,keyed
+VCE_WhiskeyCaskNotWorking,This whiskey cask is not working at the moment,VCE_WhiskeyCaskNotWorking,Misc_Gameplay.xml,keyed
+VBE_InsertTequilaMustDesc,Must to Insert,VBE_InsertTequilaMustDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertionTequilaMust,Bring Must,VBE_StartInsertionTequilaMust,Misc_Gameplay.xml,keyed
+VBE_StartInsertionTequilaMustDesc,Bring tequila must to the tequila barrel to start fermentation process,VBE_StartInsertionTequilaMustDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingTequilaMust,Cancel Bringing Must,VBE_CancelBringingTequilaMust,Misc_Gameplay.xml,keyed
+VBE_CancelBringingTequilaMustDesc,Cancel bringing tequila must to the tequila barrel.,VBE_CancelBringingTequilaMustDesc,Misc_Gameplay.xml,keyed
+VCE_TequilaBarrelNotWorking,This tequila barrel is not working at the moment,VCE_TequilaBarrelNotWorking,Misc_Gameplay.xml,keyed
+VBE_InsertVodkaMustDesc,Mash to Insert,VBE_InsertVodkaMustDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertionVodkaMust,Bring Mash,VBE_StartInsertionVodkaMust,Misc_Gameplay.xml,keyed
+VBE_StartInsertionVodkaMustDesc,Bring vodka mash to the vodka drum to start fermentation process,VBE_StartInsertionVodkaMustDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingVodkaMust,Cancel Bringing Mash,VBE_CancelBringingVodkaMust,Misc_Gameplay.xml,keyed
+VBE_CancelBringingVodkaMustDesc,Cancel bringing vodka mash to the vodka drum.,VBE_CancelBringingVodkaMustDesc,Misc_Gameplay.xml,keyed
+VCE_VodkaDrumNotWorking,This vodka drum is not working at the moment,VCE_VodkaDrumNotWorking,Misc_Gameplay.xml,keyed
+VBE_InsertGinMushDesc,Mush to Insert,VBE_InsertGinMushDesc,Misc_Gameplay.xml,keyed
+VBE_StartInsertionGinMush,Bring Mush,VBE_StartInsertionGinMush,Misc_Gameplay.xml,keyed
+VBE_StartInsertionGinMushDesc,Bring gin mush to the gin still to start fermentation process,VBE_StartInsertionGinMushDesc,Misc_Gameplay.xml,keyed
+VBE_CancelBringingGinMush,Cancel Bringing Mush,VBE_CancelBringingGinMush,Misc_Gameplay.xml,keyed
+VBE_CancelBringingGinMushDesc,Cancel bringing gin mush to the gin still.,VBE_CancelBringingGinMushDesc,Misc_Gameplay.xml,keyed
+VCE_GinStillNotWorking,This gin still is not working at the moment,VCE_GinStillNotWorking,Misc_Gameplay.xml,keyed
+VBE_MushRipening,Mush ripening,VBE_MushRipening,Misc_Gameplay.xml,keyed
+VBE_MushCurrentlyFrozen,This mush is frozen and will not ripen into ambrandy must,VBE_MushCurrentlyFrozen,Misc_Gameplay.xml,keyed
+VBE_MushCurrentlyRefrigerated,This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0}),VBE_MushCurrentlyRefrigerated,Misc_Gameplay.xml,keyed
+VBE_MushDryingCorrectly,This mush is ripening into ambrandy must correctly (ripens in {0}),VBE_MushDryingCorrectly,Misc_Gameplay.xml,keyed
+VBE_CiderMaturing,Cider maturing,VBE_CiderMaturing,Misc_Gameplay.xml,keyed
+VBE_CiderCurrentlyFrozen,This unfermented cider is frozen and will not mature into cider,VBE_CiderCurrentlyFrozen,Misc_Gameplay.xml,keyed
+VBE_CiderCurrentlyRefrigerated,This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0}),VBE_CiderCurrentlyRefrigerated,Misc_Gameplay.xml,keyed
+VBE_CiderMaturingCorrectly,This unfermented cider is maturing into cider correctly (matures in {0}),VBE_CiderMaturingCorrectly,Misc_Gameplay.xml,keyed
+VBE_UnforbidDroppedFruit,Unforbid dropped fruit,VBE_UnforbidDroppedFruit,Misc_Gameplay.xml,keyed
+VBE_Never,Never,VBE_Never,Misc_Gameplay.xml,keyed
+VBE_NeverDesc,Never unforbid automatically dropped fruit,VBE_NeverDesc,Misc_Gameplay.xml,keyed
+VBE_HomeArea,Home area,VBE_HomeArea,Misc_Gameplay.xml,keyed
+VBE_HomeAreaDesc,Only unforbid automatically dropped fruit if the tree is in the home area,VBE_HomeAreaDesc,Misc_Gameplay.xml,keyed
+VBE_Always,Always,VBE_Always,Misc_Gameplay.xml,keyed
+VBE_AlwaysDesc,Always unforbid automatically dropped fruit,VBE_AlwaysDesc,Misc_Gameplay.xml,keyed
+VBE_DrankSoda.label,drank soda,label,HediffDef/HediffDef.xml,def
+VBE_DrankSoda.description,"A burst of sugar enters the bloodstream, providing some short-lived energy. Provides a 5% manipulation buff for 5 hours.",description,HediffDef/HediffDef.xml,def
+VBE_DrankTea.label,drank tea,label,HediffDef/HediffDef.xml,def
+VBE_DrankTea.description,"Tannins naturally found in tea once metabolised increase the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours.",description,HediffDef/HediffDef.xml,def
+VBE_TequilaAsIngredient.label,drank tequila based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_TequilaAsIngredient.description,This colonist drank a cocktail that had tequila as one of its ingredients. Provides an animal tame chance bonus of 15%.,description,HediffDef/HediffDef.xml,def
+VBE_WhiskeyAsIngredient.label,drank whiskey based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_WhiskeyAsIngredient.description,This colonist drank a cocktail that had whiskey as one of its ingredients. Provides a shooting accuracy bonus.,description,HediffDef/HediffDef.xml,def
+VBE_VodkaAsIngredient.label,drank vodka based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_VodkaAsIngredient.description,This colonist drank a cocktail that had vodka as one of its ingredients. Increases dodge chance by 20%.,description,HediffDef/HediffDef.xml,def
+VBE_GinAsIngredient.label,drank gin based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_GinAsIngredient.description,This colonist drank a cocktail that had gin as one of its ingredients.,description,HediffDef/HediffDef.xml,def
+VBE_AmbrandyAsIngredient.label,drank ambrandy based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_AmbrandyAsIngredient.description,This colonist drank a cocktail that had ambrandy as one of its ingredients.,description,HediffDef/HediffDef.xml,def
+VBE_RBMeadAsIngredient.label,drank mead based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_RBMeadAsIngredient.description,This colonist drank a cocktail that had mead as one of its ingredients.,description,HediffDef/HediffDef.xml,def
+VBE_WineAsIngredient.label,drank wine based cocktail,label,HediffDef/HediffDef.xml,def
+VBE_WineAsIngredient.description,This colonist drank a cocktail that had wine as one of its ingredients. You monster.,description,HediffDef/HediffDef.xml,def
+VBE_ConsumedLuciferiumPowder.label,consumed luciferium powder (from meal),label,HediffDef/HediffDef.xml,def
+VBE_ConsumedLuciferiumPowder.description,"Luciferium powder is a very finely blended powder made from luciferium. So diluted, the drug won't certainly heal any wounds, but it will reinvigorate its consumer considerably.",description,HediffDef/HediffDef.xml,def
+VBE_ConsumedGoStock.label,consumed go-juice stock (from meal),label,HediffDef/HediffDef.xml,def
+VBE_ConsumedGoStock.description,"Go-juice stock is a gelatinized cube of Go-Juice, able to be digested rather than injected. So diluted, the drug won't block so much pain, and combat advantages will be much more subtle.",description,HediffDef/HediffDef.xml,def
+VBE_ConsumedWakeupPowder.label,consumed wake-up powder (from meal),label,HediffDef/HediffDef.xml,def
+VBE_ConsumedWakeupPowder.description,"Wake-up powder is a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. So diluted, the drug won't be as stimulating. Note that, while not addictive, wake-up powder still carries risk (albeit very small) of a heart attack.",description,HediffDef/HediffDef.xml,def
+VBE_SyrupToSoda.label,Turn syrup into soda,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_SyrupToSoda.description,Turn 25 syrup into 25 soda.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_AmbrandyMustToAmbrandy.label,Ferment Ambrandy Must into Ambrandy,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_AmbrandyMustToAmbrandy.description,Turns 1 Ambrandy Must into 3 Ambrandy.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_WhiskeyMashToWhiskey.label,Ferment whiskey mash into whiskey,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_WhiskeyMashToWhiskey.description,Turn 50 whiskey mash into 50 whiskey.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_WhiskeyToDoubleWhiskey.label,Ferment whiskey into double whiskey,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_WhiskeyToDoubleWhiskey.description,Turn 50 whiskey into 50 double whiskey.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_TequilaMustToTequila.label,Ferment tequila must into tequila,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_TequilaMustToTequila.description,Turn 25 tequila must into 25 tequila.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_VodkaMashToVodka.label,Ferment vodka mash into vodka,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_VodkaMashToVodka.description,Turn 25 vodka mash into 25 vodka.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_GinMushToGin.label,Ferment gin mush into gin,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_GinMushToGin.description,Turn 25 gin mush into 25 gin.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VBE_MakeCocktailSimple.label,make simple cocktail,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailSimple.description,Make a simple cocktail quickly mixed from a duo of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailSimple.jobString,Making simple cocktail.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailSimple.ingredients.0.filter.customSummary,simple spirits,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailSimple.ingredients.1.filter.customSummary,non-alcoholic drinks,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailFine.label,make fine cocktail,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailFine.description,"Make a fine cocktail, mixed precisely from multiple ingredients.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailFine.jobString,Making fine cocktail.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailFine.ingredients.0.filter.customSummary,simple or luxury spirits,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailFine.ingredients.1.filter.customSummary,non-alcoholic drinks,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.label,make lavish cocktail,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.description,"Make a lavish cocktail, mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.jobString,Making lavish cocktail.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.ingredients.0.filter.customSummary,simple spirits,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.ingredients.1.filter.customSummary,luxury spirits,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCocktailLavish.ingredients.2.filter.customSummary,non-alcoholic drinks,customSummary,RecipeDef/RecipeDef.xml,def
+VBE_MakeCoffee.label,make coffee,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCoffee.description,"Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCoffee.jobString,Making coffee.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeEnergyDrink.label,make energy drink,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeEnergyDrink.description,"Make a sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeEnergyDrink.jobString,Making energy drink.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MixJuice.label,mix fruit juice,label,RecipeDef/RecipeDef.xml,def
+VBE_MixJuice.description,Mix a simple fruit juice made from a few fruits.,description,RecipeDef/RecipeDef.xml,def
+VBE_MixJuice.jobString,Mixing fruit juice.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeSodaSyrup.label,make soda syrup,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeSodaSyrup.description,Make soda syrup by mixing natural fruit juice with high fructose corn syrup.,description,RecipeDef/RecipeDef.xml,def
+VBE_MakeSodaSyrup.jobString,Making soda syrup.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_AmbrosiaMush.label,make ambrosia mush,label,RecipeDef/RecipeDef.xml,def
+VBE_AmbrosiaMush.description,"Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.",description,RecipeDef/RecipeDef.xml,def
+VBE_AmbrosiaMush.jobString,Making ambrosia mush.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeTequilaMust.label,make tequila must from agave,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeTequilaMust.description,"Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeTequilaMust.jobString,Making tequila must.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeWhiskeyMash.label,make whiskey mash,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeWhiskeyMash.description,Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.,description,RecipeDef/RecipeDef.xml,def
+VBE_MakeWhiskeyMash.jobString,Making whiskey mash.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeVodkaMash.label,make vodka mash,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeVodkaMash.description,"Make a thick, starchy mash of raw potatoes and a starter, ready to be fermented.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeVodkaMash.jobString,Making vodka mash.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeGinMush.label,make gin mush,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeGinMush.description,"Make a clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeGinMush.jobString,Making gin mush.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigarettes.label,make cigarettes,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigarettes.description,"Make a small, rolled paper tube stuffed loosely with tobacco leaves.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigarettes.jobString,Making cigarettes.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigars.label,make cigars,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigars.description,"Make a fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeCigars.jobString,Making cigars.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MakeTea.label,make tea,label,RecipeDef/RecipeDef.xml,def
+VBE_MakeTea.description,"Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water.",description,RecipeDef/RecipeDef.xml,def
+VBE_MakeTea.jobString,Making tea.,jobString,RecipeDef/RecipeDef.xml,def
+VBE_MixologyResearch.label,mixology,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.description,"Allows construction of advanced machines that utilize electricity for perfect fermenting, industrial bottling, and the mixing of cocktails at the bar workbench.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.generalRules.rulesStrings.0,subject->the alchemy of spirits,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.generalRules.rulesStrings.1,"subject_story->harnessed the ancient secrets of distillation, refining the craft to produce spirits that warm the soul and embolden the heart",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.generalRules.rulesStrings.2,"subject_story->elevated brewing from simple fermentation to an art form, creating liquors with unparalleled depth and character",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.generalRules.rulesStrings.3,"subject_story->cultivated a legacy of craftsmanship, where each drop tells the story of its making",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_MixologyResearch.generalRules.rulesStrings.4,subject_gerund->distilling the essence of tradition into spirits of distinction,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.label,liquor brewing,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.description,Utilize advanced brewing techniques that allow distillation and fermenting of harder spirits with unique effects.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.0,subject->the symphony of flavors,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.1,"subject_story->mastered the electric alchemy of mixology, blending science and art to stir the soul with every sip",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.2,"subject_story->introduced an era of sophistication in drink, where the bar becomes a stage for the dance of flavors",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.3,"subject_story->engineered machines for perfect fermenting and bottling, ensuring each concoction is a masterpiece",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.4,"subject_story->pioneered the creation of cocktails that are not merely drinks, but experiences, evoking moments and memories",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VBE_LiquorBrewing.generalRules.rulesStrings.5,"subject_gerund->crafting elixirs that captivate the senses, blending tradition with innovation at the bar workbench",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_Brewing.label,Brewing Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VBE_Drinks.label,drinks,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_DrinksSimpleSpirits.label,simple spirits,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_DrinksLuxurySpirits.label,luxury spirits,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_DrinksNonAlcoholic.label,non-alcoholic drinks,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_Musts.label,musts and syrups,label,ThingCategoryDef/ThingCategoryDef.xml,def
+VBE_Bar.label,bar,label,ThingDef/ThingDef.xml,def
+VBE_Bar.description,"A somewhat ornate countertop stocked to the brim with different vessels and devices for making a variety of drinks. An ice box, a series of taps, hoses, and carbonators means anybody tending it can brew much quicker than at a rudimentary brewery.",description,ThingDef/ThingDef.xml,def
+VBE_SodaFountain.label,soda fountain,label,ThingDef/ThingDef.xml,def
+VBE_SodaFountain.description,"An all-in-one soda manufacturing unit. Syrup is mixed with water thoroughly, carbonated and then deeply chilled before being dispensed into sterilized bottles.",description,ThingDef/ThingDef.xml,def
+VBE_AmbrandyDistillery.label,ambrandy distillery,label,ThingDef/ThingDef.xml,def
+VBE_AmbrandyDistillery.description,A gilded distillery of very delicate craftsmanship meant for aging ambrosia must into a drinkable form.,description,ThingDef/ThingDef.xml,def
+VBE_WhiskeyCask.label,whiskey cask,label,ThingDef/ThingDef.xml,def
+VBE_WhiskeyCask.description,"A huge barrel meant for aging a high volume of whiskey at once. Natural woody flavors are imparted into the mixture as the barrel itself absorbs a portion of the liquid during the fermenting process. Any sunlight (or light above 50% brightness) hitting the barrel may slow down the fermenting process, or even ruin the whole batch.",description,ThingDef/ThingDef.xml,def
+VBE_TequilaBarrel.label,tequila barrel,label,ThingDef/ThingDef.xml,def
+VBE_TequilaBarrel.description,"A small still and fermenter combo unit, perfect for storing behind the counter of a warm saloon, but doesn’t fare very well in rain.",description,ThingDef/ThingDef.xml,def
+VBE_VodkaDrum.label,vodka drum,label,ThingDef/ThingDef.xml,def
+VBE_VodkaDrum.description,A cheap container meant for storing water retrofitted to be air tight for short-term fermenting.,description,ThingDef/ThingDef.xml,def
+VBE_GinStill.label,gin still,label,ThingDef/ThingDef.xml,def
+VBE_GinStill.description,"A fully metal industrial distilling device, meant to purify and ferment gin into a drinkable form. The metallic design means aging is possible in a wide range of temperatures and conditions.",description,ThingDef/ThingDef.xml,def
+VBE_Ambrandy.label,ambrandy,label,ThingDef/ThingDef.xml,def
+VBE_Ambrandy.description,"Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own.",description,ThingDef/ThingDef.xml,def
+VBE_Ambrandy.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Ambrandy.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_AmbrandyInspiration.label,ambrandy inspiration,label,HediffDef/HediffDef.xml,def
+VBE_AmbrandyInspiration.labelNoun,an ambrandy inspiration,labelNoun,HediffDef/HediffDef.xml,def
+VBE_AmbrandyInspiration.description,Consumed ambrandy. Masterwork and Legendary quality ambrandy will provide an artistic inspiration if the colonist is capable of getting it.,description,HediffDef/HediffDef.xml,def
+VBE_Gin.label,gin,label,ThingDef/ThingDef.xml,def
+VBE_Gin.description,"A particularly mild and colorless spirit, aromatically speaking this bottle has a pine-tree like scent as well as subtle fruity notes. This liquor has a reputation for being light-hearted and fun to drink and for causing what is known as  “gin drunkenness”, during which one feels increased empathy and understanding.",description,ThingDef/ThingDef.xml,def
+VBE_Gin.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Gin.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_GinHigh.label,gin high,label,HediffDef/HediffDef.xml,def
+VBE_GinHigh.labelNoun,a gin high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_GinHigh.description,Drank some gin. Increases social impact.,description,HediffDef/HediffDef.xml,def
+VBE_GinHigh.stages.0.label,warm,label,HediffDef/HediffDef.xml,def
+VBE_GinHigh.stages.1.label,tipsy,label,HediffDef/HediffDef.xml,def
+VBE_GinHigh.stages.2.label,drunk,label,HediffDef/HediffDef.xml,def
+VBE_GinHigh.stages.3.label,hammered,label,HediffDef/HediffDef.xml,def
+VBE_GinHigh.stages.4.label,blackout,label,HediffDef/HediffDef.xml,def
+VBE_Tequila.label,tequila,label,ThingDef/ThingDef.xml,def
+VBE_Tequila.description,"A fermented liquor made from agave sap, a favorite of wild, rowdy banditos and muffalo wranglers alike. Includes a high-protein snack at the bottom of the bottle believed to bring good luck. Imbibers are known to excel at extended combat.",description,ThingDef/ThingDef.xml,def
+VBE_Tequila.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Tequila.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_TequilaHigh.label,tequila high,label,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.labelNoun,a tequila high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.description,Drank some tequila. Imbibers of tequila are known to excel at extended combat.,description,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.stages.0.label,warm,label,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.stages.1.label,tipsy,label,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.stages.2.label,drunk,label,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.stages.3.label,hammered,label,HediffDef/HediffDef.xml,def
+VBE_TequilaHigh.stages.4.label,blackout,label,HediffDef/HediffDef.xml,def
+VBE_Vodka.label,vodka,label,ThingDef/ThingDef.xml,def
+VBE_Vodka.description,A clear and mostly flavorless alcohol made from fermented potatoes. While vodka is drinkable alone it is mostly known for being a perfect mixing agent and for causing foolishly high levels of boldness in those who choose to drink it.,description,ThingDef/ThingDef.xml,def
+VBE_Vodka.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Vodka.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_VodkaHigh.label,vodka high,label,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.labelNoun,a vodka high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.description,Drank some vodka. Provides a melee accuracy buff that scales with drunkeness.,description,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.stages.0.label,warm,label,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.stages.1.label,tipsy,label,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.stages.2.label,drunk,label,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.stages.3.label,hammered,label,HediffDef/HediffDef.xml,def
+VBE_VodkaHigh.stages.4.label,blackout,label,HediffDef/HediffDef.xml,def
+VBE_Whiskey.label,whiskey,label,ThingDef/ThingDef.xml,def
+VBE_Whiskey.description,"A potent liquor distilled from fermented grain. The flavors of the aging barrel tend to permeate this spirit more than others. A woody, almost smokey flavor is pronounced throughout. Simple whiskeys are stereotypically associated with rough manual laborers and hard workers, a common sight in steamworlds across the galaxy.",description,ThingDef/ThingDef.xml,def
+VBE_Whiskey.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Whiskey.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_WhiskeyHigh.label,whiskey high,label,HediffDef/HediffDef.xml,def
+VBE_WhiskeyHigh.labelNoun,a whiskey high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_WhiskeyHigh.description,Drank some whiskey. Increases global work speed by 15%.,description,HediffDef/HediffDef.xml,def
+VBE_DoubleWhiskey.label,double-aged whiskey,label,ThingDef/ThingDef.xml,def
+VBE_DoubleWhiskey.description,The result of whiskey being aged once more in an unused or lightly used secondary barrel. Flavor profiles are stronger and the afterburn in one's throat notably reduced. The increased aging time for fine whiskey generally portrays a sense of mercantilism and class among its consumers.,description,ThingDef/ThingDef.xml,def
+VBE_DoubleWhiskey.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_DoubleWhiskey.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_DoubleWhiskeyHigh.label,double whiskey high,label,HediffDef/HediffDef.xml,def
+VBE_DoubleWhiskeyHigh.labelNoun,a double whiskey high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_DoubleWhiskeyHigh.description,Drank some double whiskey. Increases global work speed by 20% and trade pricing by 20%.,description,HediffDef/HediffDef.xml,def
+VBE_HotCoffee.label,coffee,label,ThingDef/ThingDef.xml,def
+VBE_HotCoffee.description,"A warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma.",description,ThingDef/ThingDef.xml,def
+VBE_HotCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_HotCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_IceCoffee.label,iced coffee,label,ThingDef/ThingDef.xml,def
+VBE_IceCoffee.description,"An icy, chilled coffee. Chilling coffee is preferred by many in warmer climates, anecdotally it also smooths out bitter flavors and brings out subtle nuttiness. Just like its warm counterpart, it is ubiquitous among students and professionals alike across the galaxy.",description,ThingDef/ThingDef.xml,def
+VBE_IceCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_IceCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_HotCoffeeHigh.label,caffeine high (hot),label,HediffDef/HediffDef.xml,def
+VBE_HotCoffeeHigh.labelNoun,a caffeine high (hot),labelNoun,HediffDef/HediffDef.xml,def
+VBE_HotCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.",description,HediffDef/HediffDef.xml,def
+VBE_IcedCoffeeHigh.label,caffeine high (iced),label,HediffDef/HediffDef.xml,def
+VBE_IcedCoffeeHigh.labelNoun,caffeine high (iced),labelNoun,HediffDef/HediffDef.xml,def
+VBE_IcedCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.",description,HediffDef/HediffDef.xml,def
+VBE_HotCoffeeHigh.stages.0.label,Drank hot coffee,label,ThoughtDef/ThoughtDef.xml,def
+VBE_HotCoffeeHigh.stages.0.description,That coffee hit the spot.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_IcedCoffeeHigh.stages.0.label,Drank iced coffee,label,ThoughtDef/ThoughtDef.xml,def
+VBE_IcedCoffeeHigh.stages.0.description,That coffee hit the spot.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_Caffeine.label,caffeine,label,ChemicalDef/ChemicalDef.xml,def
+VBE_Chemical_Caffeine.label,caffeine,label,NeedDef/NeedDef.xml,def
+VBE_Chemical_Caffeine.description,"Because of a caffeine addiction, this person needs to regularly consume caffeine to avoid withdrawal symptoms.",description,NeedDef/NeedDef.xml,def
+VBE_CaffeineTolerance.label,caffeine tolerance,label,HediffDef/HediffDef.xml,def
+VBE_CaffeineTolerance.description,"A built-up tolerance to caffeine. The more severe this tolerance is, the more caffeine it takes to get the same effect.",description,HediffDef/HediffDef.xml,def
+VBE_CaffeineAddiction.label,caffeine addiction,label,HediffDef/HediffDef.xml,def
+VBE_CaffeineAddiction.description,"A chemical addiction to caffeine. Long-term presence of caffeine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of caffeine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.",description,HediffDef/HediffDef.xml,def
+VBE_CaffeineAddiction.stages.1.label,withdrawal,label,HediffDef/HediffDef.xml,def
+VBE_CaffeineWithdrawal.stages.1.label,caffeine withdrawal,label,ThoughtDef/ThoughtDef.xml,def
+VBE_CaffeineWithdrawal.stages.1.description,"I'm so tired. Everything's annoying, my hands are shaking and my head is pounding.",description,ThoughtDef/ThoughtDef.xml,def
+VBE_EnergyDrink.label,energy drink,label,ThingDef/ThingDef.xml,def
+VBE_EnergyDrink.description,"A sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation.",description,ThingDef/ThingDef.xml,def
+VBE_EnergyDrink.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_EnergyDrink.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_EnergyDrinkHigh.label,energy drink high,label,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkHigh.labelNoun,an energy drink high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkHigh.description,"Energy drinks restore rest immediately, and increase moving speed, but at the cost of a later crash.",description,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkCrash.label,energy drink crash,label,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkCrash.labelNoun,an energy drink crash,labelNoun,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkCrash.description,An unpleasant delayed after-effect of energy drink consumption.,description,HediffDef/HediffDef.xml,def
+VBE_EnergyDrinkHigh.stages.0.label,Drank energy drink,label,ThoughtDef/ThoughtDef.xml,def
+VBE_EnergyDrinkHigh.stages.0.description,I feel like I’ve been given wings!,description,ThoughtDef/ThoughtDef.xml,def
+VBE_Juice.label,juice,label,ThingDef/ThingDef.xml,def
+VBE_Juice.description,"Juiced fruit, tart and tangy, can be made from a singular fruit or a mixed variety - Also known as a juice medley. Many drinks can be brewed or mixed using juices as base. While no more nutritious than non juiced fruit it is much easier to store and transport.",description,ThingDef/ThingDef.xml,def
+VBE_Soda.label,soda,label,ThingDef/ThingDef.xml,def
+VBE_Soda.description,A very sweet and semi-citrusy beverage best enjoyed chilled. Whilst not exactly nutritious the sugar rush is welcomed and the effervescence is quite refreshing.,description,ThingDef/ThingDef.xml,def
+VBE_Soda.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Soda.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_Tea.label,tea,label,ThingDef/ThingDef.xml,def
+VBE_Tea.description,"A pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Tea can range anywhere from citrusy to bitter to spicy flavor profiles. Tea has been one of humanity's favorite beverages since ancient times and is believed to possess many natural healing properties.",description,ThingDef/ThingDef.xml,def
+VBE_Tea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Tea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_SimpleCocktail.label,simple cocktail,label,ThingDef/ThingDef.xml,def
+VBE_SimpleCocktail.description,A simple cocktail quickly mixed from a duo of ingredients.,description,ThingDef/ThingDef.xml,def
+VBE_FineCocktail.label,fine cocktail,label,ThingDef/ThingDef.xml,def
+VBE_FineCocktail.description,"A fine complex cocktail, mixed precisely from multiple ingredients.",description,ThingDef/ThingDef.xml,def
+VBE_LavishCocktail.label,lavish cocktail,label,ThingDef/ThingDef.xml,def
+VBE_LavishCocktail.description,"A masterpiece of bartending incarnate, this cocktail was mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.",description,ThingDef/ThingDef.xml,def
+VBE_GourmetCocktail.label,gourmet cocktail,label,ThingDef/ThingDef.xml,def
+VBE_GourmetCocktail.description,"A veritable miracle of mixology. This cocktails every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.",description,ThingDef/ThingDef.xml,def
+VBE_ConsumedCocktail.label,consumed cocktail,label,HediffDef/HediffDef.xml,def
+VBE_ConsumedCocktail.labelNoun,a cocktail drink,labelNoun,HediffDef/HediffDef.xml,def
+VBE_ConsumedCocktail.description,Consumed a nice cocktail. Has a chance to provide a random inspiration.,description,HediffDef/HediffDef.xml,def
+VBE_SodaSyrup.label,soda syrup,label,ThingDef/ThingDef.xml,def
+VBE_SodaSyrup.description,A thick and disgustingly sweet mixture made by boiling citric acid and natural sugars together - Usually derived straight from cane sugar or as corn syrup. Must be cut with water and left to carbonate briefly in a sealed environment before consumption.,description,ThingDef/ThingDef.xml,def
+VBE_AmbrandyMush.label,ambrosia mush,label,ThingDef/ThingDef.xml,def
+VBE_AmbrandyMush.description,"Sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.",description,ThingDef/ThingDef.xml,def
+VBE_AmbrandyMust.label,ambrandy must,label,ThingDef/ThingDef.xml,def
+VBE_AmbrandyMust.description,Fully ripened ambrosia liquified into essentially a thick juice and left alone to grow bacteria for fermenting. Ready to be distilled into a drinkable form.,description,ThingDef/ThingDef.xml,def
+VBE_WhiskeyMash.label,whiskey mash,label,ThingDef/ThingDef.xml,def
+VBE_WhiskeyMash.description,A starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.,description,ThingDef/ThingDef.xml,def
+VBE_TequilaMust.label,tequila must,label,ThingDef/ThingDef.xml,def
+VBE_TequilaMust.description,"A thin mixture of juiced agave sap or prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel.",description,ThingDef/ThingDef.xml,def
+VBE_VodkaMash.label,vodka mash,label,ThingDef/ThingDef.xml,def
+VBE_VodkaMash.description,"A thick, starchy mash of raw potatoes and a starter, ready to be fermented.",description,ThingDef/ThingDef.xml,def
+VBE_GinMush.label,gin mush,label,ThingDef/ThingDef.xml,def
+VBE_GinMush.description,"A clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented.",description,ThingDef/ThingDef.xml,def
+VBE_RawCoffee.label,coffee beans,label,ThingDef/ThingDef.xml,def
+VBE_RawCoffee.description,"The pits of coffee plant berries, known succinctly as “coffee beans”. They can be roasted to bring out a robust and bitter flavor, as well as natural caffeine.",description,ThingDef/ThingDef.xml,def
+VBE_RawTea.label,tea leaves,label,ThingDef/ThingDef.xml,def
+VBE_RawTea.description,The leaves of the tea plant. They can be boiled into a variety of earthy and soothing beverages.,description,ThingDef/ThingDef.xml,def
+VBE_RawTobacco.label,tobacco leaves,label,ThingDef/ThingDef.xml,def
+VBE_RawTobacco.description,"The leaves of the tobacco plant. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect.",description,ThingDef/ThingDef.xml,def
+VBE_Cigarettes.label,cigarettes,label,ThingDef/ThingDef.xml,def
+VBE_Cigarettes.description,"A small, rolled paper tube stuffed loosely with tobacco leaves. Offers a brief euphoria as well as mental stimulation, and is very addictive. The pungent odor is generally disliked at first, but becomes much more pleasurable as the smoker becomes more addicted. Can be crafted without equipment, at a crafting spot.",description,ThingDef/ThingDef.xml,def
+VBE_Cigarettes.ingestible.ingestCommandString,Smoke {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Cigarettes.ingestible.ingestReportString,Smoking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_Cigars.label,cigars,label,ThingDef/ThingDef.xml,def
+VBE_Cigars.description,"A fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it. Cigars have a historically posh presentation and are usually only affordable by those who mingle with glitterworld elite regularly. Cigars are often flavored with citrus or vanilla to make their flavor and odor less acrid.",description,ThingDef/ThingDef.xml,def
+VBE_Cigars.ingestible.ingestCommandString,Smoke {0},ingestCommandString,ThingDef/ThingDef.xml,def
+VBE_Cigars.ingestible.ingestReportString,Smoking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+VBE_TobaccoHigh.label,tobacco high,label,HediffDef/HediffDef.xml,def
+VBE_TobaccoHigh.labelNoun,a tobacco high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_TobaccoHigh.description,Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being.,description,HediffDef/HediffDef.xml,def
+VBE_TobaccoHigh.stages.0.label,Smoked cigarette,label,ThoughtDef/ThoughtDef.xml,def
+VBE_TobaccoHigh.stages.0.description,That cigarette was just what I needed.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_DeluxeTobaccoHigh.label,high-quality tobacco high,label,HediffDef/HediffDef.xml,def
+VBE_DeluxeTobaccoHigh.labelNoun,a high-quality tobacco high,labelNoun,HediffDef/HediffDef.xml,def
+VBE_DeluxeTobaccoHigh.description,Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being.,description,HediffDef/HediffDef.xml,def
+VBE_DeluxeTobaccoHigh.stages.0.label,Smoked cigar,label,ThoughtDef/ThoughtDef.xml,def
+VBE_DeluxeTobaccoHigh.stages.0.description,Smoking a cigar makes me feel like I’ve made it big in life.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_Tobacco.label,tobacco,label,ChemicalDef/ChemicalDef.xml,def
+VBE_Chemical_Tobacco.label,tobacco,label,NeedDef/NeedDef.xml,def
+VBE_Chemical_Tobacco.description,"Because of a tobacco dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms.",description,NeedDef/NeedDef.xml,def
+VBE_TobaccoTolerance.label,tobacco tolerance,label,HediffDef/HediffDef.xml,def
+VBE_TobaccoTolerance.description,"A built-up tolerance to tobacco. The more severe this tolerance is, the more tobacco it takes to get the same effect.",description,HediffDef/HediffDef.xml,def
+VBE_TobaccoAddiction.label,tobacco dependence,label,HediffDef/HediffDef.xml,def
+VBE_TobaccoAddiction.description,"A chemical addiction to tobacco. Long-term use of tobacco has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of tobacco, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.",description,HediffDef/HediffDef.xml,def
+VBE_TobaccoAddiction.stages.1.label,withdrawal,label,HediffDef/HediffDef.xml,def
+VBE_TobaccoWithdrawal.stages.1.label,tobacco withdrawal,label,ThoughtDef/ThoughtDef.xml,def
+VBE_TobaccoWithdrawal.stages.1.description,I really wish I could smoke. I'd really like a cigarette.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_Plant_Coffee.label,coffee plant,label,ThingDef/ThingDef.xml,def
+VBE_Plant_Coffee.description,"A low-lying bush of tropical origin, dotted by small reddish berries when fully grown. The pits of these berries are known succinctly as “coffee beans” and can be roasted to bring out a robust and bitter flavor, as well as natural caffeine. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart.",description,ThingDef/ThingDef.xml,def
+VBE_Plant_Tea.label,tea grass,label,ThingDef/ThingDef.xml,def
+VBE_Plant_Tea.description,A very leafy shrub that is particularly easy to cultivate. Since early mankind it was discovered the leaves of these plants can be boiled into a variety of earthy and soothing tea. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart.,description,ThingDef/ThingDef.xml,def
+VBE_Plant_Tobacco.label,tobacco plant,label,ThingDef/ThingDef.xml,def
+VBE_Plant_Tobacco.description,"A short, broad-leafed plant that thrives in warm climates. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect.",description,ThingDef/ThingDef.xml,def
+VBE_DrankSoda.stages.0.label,Drank soda,label,ThoughtDef/ThoughtDef.xml,def
+VBE_DrankSoda.stages.0.description,"I drank a sweet and fizzy soda, a small luxury.",description,ThoughtDef/ThoughtDef.xml,def
+VBE_DrankTea.stages.0.label,Drank tea,label,ThoughtDef/ThoughtDef.xml,def
+VBE_DrankTea.stages.0.description,A simple cup of tea really brightens the day.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_TequilaAsIngredient.stages.0.label,Drank tequila-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_TequilaAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_WhiskeyAsIngredient.stages.0.label,Drank whiskey-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_WhiskeyAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_VodkaAsIngredient.stages.0.label,Drank vodka-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_VodkaAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_GinAsIngredient.stages.0.label,Drank gin-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_GinAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_AmbrandyAsIngredient.stages.0.label,Drank ambrandy-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_AmbrandyAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_RBMeadAsIngredient.stages.0.label,Drank mead-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_RBMeadAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_WineAsIngredient.stages.0.label,Drank wine-based cocktail,label,ThoughtDef/ThoughtDef.xml,def
+VBE_WineAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedLuciferiumPowder.stages.0.label,Consumed luciferium powder,label,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedLuciferiumPowder.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedGoStock.stages.0.label,Consumed go-juice stock,label,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedGoStock.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedWakeupPowder.stages.0.label,Consumed wake-up powder,label,ThoughtDef/ThoughtDef.xml,def
+VBE_ConsumedWakeupPowder.stages.0.description,Yummy.,description,ThoughtDef/ThoughtDef.xml,def
+VBE_DoBillsBar.label,mix drinks at bar,label,WorkGiverDef/WorkGiverDef.xml,def
+VBE_DoBillsBar.verb,mix drinks,verb,WorkGiverDef/WorkGiverDef.xml,def
+VBE_DoBillsBar.gerund,mixing drinks at,gerund,WorkGiverDef/WorkGiverDef.xml,def

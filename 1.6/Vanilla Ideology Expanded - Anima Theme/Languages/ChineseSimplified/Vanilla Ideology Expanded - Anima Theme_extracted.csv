@@ -1,0 +1,8 @@
+key,text,tag,file,type
+AlertGauranlenTreeWithoutDryadTypeDesc,One or more Anima Nexus trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste.,AlertGauranlenTreeWithoutDryadTypeDesc,Alerts.xml,keyed
+AlertConnectedPawnNotAssignedToPlantCuttingDesc,"You have Anima Nexus trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people",AlertConnectedPawnNotAssignedToPlantCuttingDesc,Alerts.xml,keyed
+CommandHealInHealingPodDesc,"If this creature is injured, it will return to its connected Anima Nexus tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed.",CommandHealInHealingPodDesc,GameplayCommands.xml,keyed
+RitualTargetUnconnectedGaruanlenTreeInfo,An unconnected Anima Nexus tree.,RitualTargetUnconnectedGaruanlenTreeInfo,Misc_Gameplay.xml,keyed
+RitualAttachedOutcome_GauranlenTreePod_ExtraDesc,The {0} has induced an Anima Nexus pod to sprout nearby.,RitualAttachedOutcome_GauranlenTreePod_ExtraDesc,Misc_Gameplay.xml,keyed
+DryadCannotChangeMaster,{ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Anima Nexus tree. {ANIMAL_possessive} master cannot be changed.,DryadCannotChangeMaster,Misc_Gameplay.xml,keyed
+ConnectionStrengthTooWeakForGaumakerPod,Connection strength too low to create Anima Nexus pod.,ConnectionStrengthTooWeakForGaumakerPod,Misc_Gameplay.xml,keyed

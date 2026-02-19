@@ -1,0 +1,950 @@
+key,text,tag,file,type
+VCE_AteHauteMeal,ate {0},VCE_AteHauteMeal,Misc_Gameplay.xml,keyed
+VCE_AteHauteMealDesc,"A transcendent encounter with flavor. Every delicate note of the {0} unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",VCE_AteHauteMealDesc,Misc_Gameplay.xml,keyed
+VCE_ItemImproved_HauteSection,{0} has been improved to {1} quality level due to the electric haute section.,VCE_ItemImproved_HauteSection,Misc_Gameplay.xml,keyed
+VCE_ManufacturedSlop,Manufactured slop,VCE_ManufacturedSlop,Misc_Gameplay.xml,keyed
+VCE_ManufacturedSlopDesc,"This haute meal wasn't created by a true chef, and is thus not very good.",VCE_ManufacturedSlopDesc,Misc_Gameplay.xml,keyed
+VCE_CookMealHaute.label,cook haute meal,label,RecipeDef/RecipeDef.xml,def
+VCE_CookMealHaute.description,"Compose an opulent symphony of flavor and form, where the finest ingredients and
+      masterful technique unite in a transcendent culinary masterpiece.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookMealHaute.jobString,Cooking haute meal.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_HauteCuisine.label,haute cuisine,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.description,"Haute cuisine is the pinnacle of culinary artistry, emphasizing meticulous preparation, refined techniques, and exquisite presentation. It transforms the finest ingredients into visually stunning and harmoniously balanced dishes, elevating dining to an experience of sophistication. This research also unlocks the haute section, a specialized workstation for crafting these masterful creations.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.generalRules.rulesStrings.0,subject->culinary artistry,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.generalRules.rulesStrings.1,"subject_story->perfected the delicate balance of flavors, elevating cooking to an art form",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.generalRules.rulesStrings.2,"subject_story->trained under master chefs, mastering techniques passed down through generations",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.generalRules.rulesStrings.3,"subject_story->founded an elite dining establishment, attracting nobles and connoisseurs alike",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_HauteCuisine.generalRules.rulesStrings.4,subject_gerund->crafting exquisite haute dishes,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.0,"r_art_name(p=4)->[protein] [preparation_protein_suffix], with [vegetable1] [preparation_suffix] and [vegetable2] [preparation_suffix]",li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.1,"r_art_name(p=2)->[protein] [preparation_protein_suffix], with [vegetable1] [preparation_suffix] and [vegetable2]",li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.2,"r_art_name(p=2)->[protein] [preparation_protein_suffix], with [vegetable1] and [vegetable2]",li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.3,r_art_name->[protein] [preparation_protein_suffix],li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.4,"r_art_name->[preparation_protein_prefix] [protein], with [vegetable1] [preparation_suffix] and [vegetable2] [preparation_suffix]",li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.5,"r_art_name->[protein] [preparation_protein_suffix], with [preparation_prefix] [vegetable1] and [vegetable2] [preparation_suffix]",li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.6,preparation_protein_suffix->ragout,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.7,preparation_protein_suffix->steak,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.8,preparation_protein_suffix->filet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.9,preparation_protein_suffix->carpaccio,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.10,preparation_protein_suffix->tartare,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.11,preparation_protein_suffix->confit,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.12,preparation_protein_suffix->roast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.13,preparation_protein_suffix->cutlet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.14,preparation_protein_suffix->medallion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.15,preparation_protein_suffix->brisket,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.16,preparation_protein_suffix->chop,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.17,preparation_protein_suffix->kebab,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.18,preparation_protein_suffix->terrine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.19,preparation_protein_suffix->broth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.20,preparation_protein_suffix->casserole,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.21,preparation_protein_suffix->pâté,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.22,preparation_protein_suffix->mignon,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.23,preparation_protein_suffix->shank,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.24,preparation_protein_suffix->ballotine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.25,preparation_protein_suffix->galantine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.26,preparation_protein_suffix->roulade,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.27,preparation_protein_suffix->stroganoff,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.28,preparation_protein_suffix->bourguignon,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.29,preparation_protein_suffix->suprême,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.30,preparation_protein_suffix->cassoulet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.31,preparation_protein_suffix->bisque,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.32,preparation_protein_suffix->curry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.33,preparation_protein_suffix->goulash,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.34,preparation_protein_suffix->fricassee,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.35,preparation_protein_suffix->pot-au-feu,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.36,preparation_protein_suffix->meunière,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.37,preparation_protein_suffix->pilaf,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.38,preparation_protein_suffix->stroganoff,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.39,preparation_protein_suffix->à la mode,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.40,preparation_protein_suffix->aiguillettes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.41,preparation_protein_suffix->cordon bleu,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.42,preparation_protein_suffix->à la royale,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.43,preparation_protein_suffix->skewer,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.44,preparation_protein_suffix->bavette,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.45,preparation_protein_suffix->osso buco,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.46,preparation_protein_suffix->braise,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.47,preparation_protein_suffix->en croûte,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.48,preparation_protein_suffix->vol-au-vent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.49,preparation_protein_suffix->civet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.50,preparation_protein_suffix->braised cut,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.51,preparation_protein_suffix->barbecue,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.52,preparation_protein_suffix->en papillote,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.53,preparation_protein_suffix->coq au vin,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.54,preparation_protein_suffix->ballotines,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.55,preparation_protein_prefix->grilled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.56,preparation_protein_prefix->seared,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.57,preparation_protein_prefix->roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.58,preparation_protein_prefix->braised,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.59,preparation_protein_prefix->smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.60,preparation_protein_prefix->glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.61,preparation_protein_prefix->marinated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.62,preparation_protein_prefix->poached,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.63,preparation_protein_prefix->caramelized,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.64,preparation_protein_prefix->crispy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.65,preparation_protein_prefix->spiced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.66,preparation_protein_prefix->buttered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.67,preparation_protein_prefix->herbed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.68,preparation_protein_prefix->blackened,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.69,preparation_protein_prefix->charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.70,preparation_protein_prefix->infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.71,preparation_protein_prefix->candied,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.72,preparation_protein_prefix->pickled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.73,preparation_protein_prefix->tenderized,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.74,preparation_protein_prefix->cured,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.75,preparation_protein_prefix->lacquered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.76,preparation_protein_prefix->coated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.77,preparation_protein_prefix->steamed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.78,preparation_protein_prefix->basted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.79,preparation_protein_prefix->toasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.80,preparation_protein_prefix->sautéed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.81,preparation_protein_prefix->confit,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.82,preparation_protein_prefix->fermented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.83,preparation_protein_prefix->aged,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.84,preparation_protein_prefix->peppered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.85,preparation_protein_prefix->smothered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.86,preparation_protein_prefix->spatchcocked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.87,preparation_protein_prefix->blistered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.88,preparation_protein_prefix->torched,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.89,preparation_protein_prefix->dusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.90,preparation_protein_prefix->rubbed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.91,preparation_protein_prefix->scorched,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.92,preparation_protein_prefix->wrapped,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.93,preparation_protein_prefix->folded,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.94,preparation_suffix->mash,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.95,preparation_suffix->purée,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.96,preparation_suffix->confit,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.97,preparation_suffix->ribbons,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.98,preparation_suffix->julienne,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.99,preparation_suffix->gratin,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.100,preparation_suffix->compote,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.101,preparation_suffix->foam,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.102,preparation_suffix->mousse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.103,preparation_suffix->espuma,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.104,preparation_suffix->coulis,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.105,preparation_suffix->fondue,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.106,preparation_suffix->fricassée,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.107,preparation_suffix->reduction,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.108,preparation_suffix->soufflé,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.109,preparation_suffix->velouté,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.110,preparation_suffix->sauté,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.111,preparation_suffix->braise,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.112,preparation_suffix->terrine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.113,preparation_suffix->compote,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.114,preparation_suffix->pickle,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.115,preparation_suffix->caviar,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.116,preparation_suffix->chips,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.117,preparation_suffix->roast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.118,preparation_suffix->char,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.119,preparation_suffix->fritters,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.120,preparation_suffix->tempura,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.121,preparation_suffix->beurre blanc,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.122,preparation_suffix->bisque,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.123,preparation_suffix->tapenade,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.124,preparation_suffix->tartare,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.125,preparation_suffix->ferment,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.126,preparation_suffix->pesto,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.127,preparation_suffix->braised,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.128,preparation_suffix->glaze,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.129,preparation_suffix->pickle,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.130,preparation_suffix->marmalade,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.131,preparation_suffix->salsa,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.132,preparation_suffix->chutney,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.133,preparation_suffix->butter,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.134,preparation_suffix->dust,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.135,preparation_suffix->shavings,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.136,preparation_suffix->drizzle,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.137,preparation_suffix->marinade,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.138,preparation_suffix->jus,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.139,preparation_suffix->fondant,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.140,preparation_suffix->infusion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.141,preparation_suffix->aioli,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.142,preparation_suffix->syrup,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.143,preparation_suffix->brûlée,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.144,preparation_suffix->garnish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.145,preparation_suffix->essence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.146,preparation_suffix->dusting,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.147,preparation_suffix->brûlée,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.148,preparation_suffix->emulsion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.149,preparation_suffix->gelée,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.150,preparation_suffix->gloss,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.151,preparation_suffix->crumble,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.152,preparation_suffix->caramelization,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.153,preparation_suffix->sorbet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.154,preparation_suffix->nectar,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.155,preparation_suffix->froth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.156,preparation_suffix->ragu,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.157,preparation_suffix->velvet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.158,preparation_suffix->spheres,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.159,preparation_suffix->pearls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.160,preparation_suffix->whip,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.161,preparation_suffix->infused oil,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.162,preparation_suffix->crisp,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.163,preparation_suffix->puffed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.164,preparation_suffix->dehydrated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.165,preparation_suffix->fermented essence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.166,preparation_suffix->frizzles,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.167,preparation_suffix->floss,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.168,preparation_suffix->beurre noisette,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.169,preparation_suffix->liqueur,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.170,preparation_suffix->petals,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.171,preparation_suffix->dashi,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.172,preparation_suffix->honeycomb,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.173,preparation_suffix->smoke,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.174,preparation_suffix->cloud,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.175,preparation_suffix->mille-feuille,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.176,preparation_suffix->quenelle,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.177,preparation_suffix->crackling,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.178,preparation_suffix->steep,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.179,preparation_suffix->bavarois,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.180,preparation_suffix->relish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.181,preparation_suffix->pavé,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.182,preparation_suffix->curd,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.183,preparation_suffix->noisette,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.184,preparation_suffix->agrodolce,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.185,preparation_suffix->brioche,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.186,preparation_suffix->candy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.187,preparation_suffix->tuile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.188,preparation_suffix->beurre monté,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.189,preparation_suffix->chantilly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.190,preparation_suffix->snow,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.191,preparation_suffix->cinder,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.192,preparation_suffix->nitro dust,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.193,preparation_prefix->charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.194,preparation_prefix->smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.195,preparation_prefix->roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.196,preparation_prefix->grilled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.197,preparation_prefix->blistered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.198,preparation_prefix->buttered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.199,preparation_prefix->candied,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.200,preparation_prefix->confit,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.201,preparation_prefix->marinated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.202,preparation_prefix->sautéed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.203,preparation_prefix->braised,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.204,preparation_prefix->fermented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.205,preparation_prefix->pickled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.206,preparation_prefix->glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.207,preparation_prefix->steamed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.208,preparation_prefix->honey-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.209,preparation_prefix->wine-braised,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.210,preparation_prefix->salt-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.211,preparation_prefix->caramelized,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.212,preparation_prefix->truffle-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.213,preparation_prefix->blackened,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.214,preparation_prefix->crispy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.215,preparation_prefix->fire-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.216,preparation_prefix->balsamic-reduced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.217,preparation_prefix->slow-cooked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.218,preparation_prefix->tender,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.219,preparation_prefix->garlic-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.220,preparation_prefix->spiced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.221,preparation_prefix->velvety,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.222,preparation_prefix->coconut-poached,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.223,preparation_prefix->herb-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.224,preparation_prefix->saffron-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.225,preparation_prefix->whiskey-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.226,preparation_prefix->maple-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.227,preparation_prefix->fragrant,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.228,preparation_prefix->pistachio-crusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.229,preparation_prefix->sesame-seared,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.230,preparation_prefix->buttermilk-soaked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.231,preparation_prefix->coffee-rubbed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.232,preparation_prefix->thyme-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.233,preparation_prefix->soy-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.234,preparation_prefix->aged,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.235,preparation_prefix->cinnamon-dusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.236,preparation_prefix->zesty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.237,preparation_prefix->umami-rich,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.238,preparation_prefix->bourbon-smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.239,preparation_prefix->barbecue-charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.240,preparation_prefix->miso-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.241,preparation_prefix->buttermilk-fried,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.242,preparation_prefix->ash-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.243,preparation_prefix->beechwood-smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.244,preparation_prefix->butter-basted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.245,preparation_prefix->candle-charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.246,preparation_prefix->charcoal-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.247,preparation_prefix->coconut-charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.248,preparation_prefix->dehydrated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.249,preparation_prefix->fire-kissed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.250,preparation_prefix->gently poached,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.251,preparation_prefix->golden-browned,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.252,preparation_prefix->hickory-smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.253,preparation_prefix->lime-zested,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.254,preparation_prefix->miso-fermented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.255,preparation_prefix->oak-barrel-aged,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.256,preparation_prefix->orange-blossom-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.257,preparation_prefix->pomegranate-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.258,preparation_prefix->pressed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.259,preparation_prefix->rosemary-scented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.260,preparation_prefix->seaweed-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.261,preparation_prefix->sesame-crusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.262,preparation_prefix->sherry-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.263,preparation_prefix->slow-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.264,preparation_prefix->stone-charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.265,preparation_prefix->sundried,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.266,preparation_prefix->tea-smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.267,preparation_prefix->thyme-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.268,preparation_prefix->vanilla-scented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.269,preparation_prefix->wood-grilled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.270,preparation_prefix->yuzu-marinated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.271,preparation_prefix->ghee-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.272,preparation_prefix->charcoal-embered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.273,preparation_prefix->matcha-dusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.274,preparation_prefix->molasses-lacquered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.275,preparation_prefix->wine-soaked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.276,preparation_prefix->applewood-kissed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.277,preparation_prefix->sandalwood-smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.278,preparation_prefix->tandoori-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.279,preparation_prefix->coriander-crusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.280,preparation_prefix->cumin-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.281,preparation_prefix->shiso-wrapped,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.282,preparation_prefix->truffle-dusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.283,preparation_prefix->lemon-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.284,preparation_prefix->bourbon-charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.285,preparation_prefix->balsamic-drizzled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.286,preparation_prefix->fennel-pickled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.287,preparation_prefix->ginger-poached,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.288,preparation_prefix->plum-glazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealNamerArt.rulePack.rulesStrings.289,preparation_prefix->cardamom-spiced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealArtDescriptionRoot.rulePack.rulesStrings.0,"r_art_description->A [decadent] [cut] of [preparation_method] [protein], [descriptor_importance]. [Carefully] [preparation_method] [delicate] [strands] of [vegetable1] add a [refined_contrast], while [delicate] [preparation_method] [vegetable2] [lends] [descriptor] and [descriptor] to the composition. A [whisper] of [condiment1], [descriptor_effects], intertwining with the [whisper] of [condiment2] for a truly [elevated] experience. [artistic_precision], each element is [goal_of_the_meal].",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.0,decadent->sumptuous,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.1,decadent->opulent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.2,decadent->luxurious,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.3,decadent->exquisite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.4,decadent->lavish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.5,decadent->refined,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.6,decadent->indulgent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.7,decadent->magnificent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.8,decadent->regal,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.9,decadent->artisanal,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.10,decadent->pristine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.11,decadent->celestial,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.12,decadent->elegant,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.13,decadent->gilded,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.14,decadent->sublime,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.15,decadent->peerless,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.16,decadent->heavenly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.17,decadent->divine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.18,decadent->masterful,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.19,decadent->supreme,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.20,decadent->decadent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.21,decadent(p=6)->,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.22,refined_contrast->delicate contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.23,refined_contrast->harmonious balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.24,refined_contrast->subtle interplay,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.25,refined_contrast->elegant juxtaposition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.26,refined_contrast->graceful opposition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.27,refined_contrast->sophisticated balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.28,refined_contrast->artful contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.29,refined_contrast->precise equilibrium,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.30,refined_contrast->refined opposition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.31,refined_contrast->flawless complement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.32,refined_contrast->delicate equilibrium,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.33,refined_contrast->contrasting harmony,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.34,refined_contrast->nuanced contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.35,refined_contrast->exquisite counterpoint,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.36,refined_contrast->subtle duality,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.37,refined_contrast->seamless interplay,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.38,refined_contrast->artistic tension,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.39,refined_contrast->gentle contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.40,refined_contrast->layered complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.41,refined_contrast->balanced refinement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.42,refined_contrast->elevated interplay,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.43,refined_contrast->deliberate contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.44,refined_contrast->poised variation,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.45,refined_contrast->measured opposition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.46,refined_contrast->dynamic contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.47,refined_contrast->finessed interplay,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.48,refined_contrast->curated balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.49,refined_contrast->restrained contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.50,refined_contrast->layered nuance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.51,refined_contrast->thoughtful opposition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.52,cut->cut,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.53,cut->portion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.54,cut->slice,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.55,cut->piece,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.56,cut->serving,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.57,cut->segment,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.58,cut->shard,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.59,cut->wedge,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.60,cut->section,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.61,cut->morsel,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.62,cut->sliver,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.63,cut->nugget,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.64,cut->fragment,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.65,cut->bite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.66,cut->medallion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.67,cut->petal,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.68,cut->pearl,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.69,cut->floret,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.70,cut->crescent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.71,cut->cube,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.72,cut->fillet,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.73,preparation_method->slow-cooked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.74,preparation_method->charred to perfection,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.75,preparation_method->delicately seared,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.76,preparation_method->artfully poached,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.77,preparation_method->butter-basted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.78,preparation_method->lightly smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.79,preparation_method->flame-kissed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.80,preparation_method->tenderly braised,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.81,preparation_method->meticulously roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.82,preparation_method->crisply pan-fried,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.83,preparation_method->velvety puréed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.84,preparation_method->perfectly confited,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.85,preparation_method->brushed with aromatic oils,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.86,preparation_method->infused with fragrant herbs,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.87,preparation_method->caramelized to golden perfection,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.88,preparation_method->enrobed in a delicate glaze,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.89,preparation_method->gently steamed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.90,preparation_method->slow-roasted with finesse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.91,preparation_method->glazed and torched,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.92,preparation_method->herb-crusted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.93,preparation_method->sous-vide to sublime tenderness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.94,preparation_method->artfully emulsified,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.95,preparation_method->carefully fermented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.96,preparation_method->wrapped in a golden pastry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.97,preparation_method->expertly deglazed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.98,preparation_method->perfectly tempura-fried,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.99,preparation_method->subtly marinated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.100,preparation_method->elegantly pickled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.101,preparation_method->lovingly torch-grilled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.102,preparation_method->delicately layered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.103,preparation_method->gently sautéed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.104,preparation_method->silkily emulsified,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.105,preparation_method->tantalizingly spiced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.106,preparation_method->succulently basted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.107,preparation_method->meticulously lacquered,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.108,preparation_method->infused with delicate essences,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.109,preparation_method->exquisitely torch-seared,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.110,preparation_method->bathed in aromatic broths,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.111,preparation_method->delicately brined,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.112,preparation_method->wrapped in edible gold leaf,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.113,preparation_method->expertly aged to perfection,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.114,preparation_method->truffle-infused,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.115,preparation_method->hand-kneaded and pressed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.116,preparation_method->drizzled with rare reductions,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.117,preparation_method->flawlessly whipped into a velvety texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.118,preparation_method->crisped to a delicate crunch,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.119,preparation_method->impeccably rolled and folded,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.120,preparation_method->suspended in a delicate consommé,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.121,preparation_method->delicately souffléed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.122,preparation_method->transformed into a silken mousse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.123,preparation_method->carefully flame-roasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.124,preparation_method->delicately aerated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.125,preparation_method->painstakingly hand-folded,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.126,preparation_method->artfully ribboned,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.127,preparation_method->lightly dusted with rare spices,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.128,preparation_method->masterfully aged,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.129,preparation_method->gently simmered to perfection,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.130,preparation_method->skillfully balanced in flavor,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.131,preparation_method->delicately char-grilled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.132,preparation_method->subtly enhanced with floral notes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.133,preparation_method->hand-smoked over aromatic woods,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.134,preparation_method->coated in a luscious reduction,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.135,preparation_method->refined through meticulous technique,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.136,preparation_method->bloomed with exquisite aromas,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.137,preparation_method->layered with impeccable precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.138,preparation_method->whipped into a cloud-like texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.139,preparation_method->shaped into a work of art,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.140,preparation_method->gilded with edible silver,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.141,preparation_method->painstakingly infused with exotic flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.142,preparation_method->transcendently balanced in texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.143,preparation_method->kissed by moonlight and slow-aged in crystal chambers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.144,preparation_method->hand-massaged by expert chefs under symphonic vibrations,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.145,preparation_method->delicately smoked over ancient spell-infused woods,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.146,preparation_method->fermented under the watchful gaze of a Michelin-starred monk,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.147,preparation_method->bathed in a reduction of tears from a joyfully weeping sommelier,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.148,descriptor_importance->stands as the pinnacle of refined indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.149,descriptor_importance->serves as the crowning jewel of this creation,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.150,descriptor_importance->anchors the dish in a symphony of flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.151,descriptor_importance->defines the very essence of culinary luxury,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.152,descriptor_importance->elevates the composition to unparalleled heights,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.153,descriptor_importance->sets the stage for a truly transcendent experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.154,descriptor_importance->acts as the foundation of this gastronomic masterpiece,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.155,descriptor_importance->weaves the soul of this haute cuisine spectacle,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.156,descriptor_importance->embodies the artistry of elite craftsmanship,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.157,descriptor_importance->ushers in an opulent journey of taste,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.158,descriptor_importance->represents the apex of gastronomic sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.159,descriptor_importance->delivers a sublime expression of culinary excellence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.160,descriptor_importance->forms the backbone of this unparalleled delight,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.161,descriptor_importance->radiates elegance in every delicate bite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.162,descriptor_importance->unfolds into a tale of luxury and precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.163,"descriptor_importance->sourced from the finest purveyors, ensuring unmatched quality",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.164,descriptor_importance->hand-selected for its exquisite marbling and tenderness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.165,"descriptor_importance->carefully aged to deepen its rich, complex flavors",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.166,descriptor_importance->sustainably harvested to preserve its natural purity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.167,descriptor_importance->sourced from heritage breeds known for superior taste,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.168,descriptor_importance->cultivated with precision to achieve peak texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.169,descriptor_importance->ethically raised to embody both luxury and responsibility,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.170,descriptor_importance->prized for its delicate balance of flavor and succulence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.171,descriptor_importance->chosen for its velvety texture and unparalleled depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.172,descriptor_importance->elevated through expert craftsmanship and culinary artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.173,"descriptor_importance->sourced from pristine waters, ensuring a pure, clean finish",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.174,descriptor_importance->hand-carved to highlight its most tender portions,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.175,descriptor_importance->infused with subtle notes that enhance its natural character,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.176,descriptor_importance->nurtured in ideal conditions to develop its luxurious profile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.177,"descriptor_importance->renowned for its silky mouthfeel and rich, decadent taste",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.178,descriptor_importance->a testament to the heights of culinary craftsmanship,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.179,descriptor_importance->the embodiment of refined taste and sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.180,descriptor_importance->curated for those who seek only the extraordinary,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.181,descriptor_importance->a rare indulgence reserved for the most discerning palates,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.182,"descriptor_importance->a harmonious fusion of flavor, texture, and artistry",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.183,descriptor_importance->an opulent expression of gastronomic excellence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.184,descriptor_importance->a flawless balance of delicacy and depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.185,descriptor_importance->a creation that transcends mere sustenance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.186,descriptor_importance->the purest expression of haute cuisine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.187,descriptor_importance->an unparalleled experience in every bite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.188,Carefully->Carefully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.189,Carefully->Delicately,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.190,Carefully->Expertly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.191,Carefully->Masterfully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.192,Carefully->Precisely,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.193,Carefully->Artfully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.194,Carefully->Meticulously,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.195,Carefully->Elegantly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.196,Carefully->Lovingly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.197,Carefully->Impeccably,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.198,Carefully->Flawlessly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.199,Carefully->Painstakingly,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.200,Carefully->Gracefully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.201,Carefully->Exquisitely,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.202,Carefully->Skillfully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.203,Carefully->Thoughtfully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.204,Carefully->Sensitively,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.205,Carefully->With utmost precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.206,Carefully->With expert hands,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.207,Carefully->With refined technique,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.208,Carefully->With gentle finesse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.209,Carefully->With an artist’s touch,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.210,Carefully->With masterful control,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.211,Carefully->With unwavering attention,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.212,Carefully->With an air of sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.213,Carefully->With a chef’s trained intuition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.214,Carefully->With a meticulous approach,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.215,Carefully->With unrivaled craftsmanship,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.216,Carefully->With deep culinary expertise,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.217,Carefully->With studied precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.218,Carefully->With obsessive dedication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.219,Carefully(p=9)->,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.220,delicate->delicate,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.221,delicate->tender,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.222,delicate->velvety,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.223,delicate->silky,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.224,delicate->buttery,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.225,delicate->succulent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.226,delicate->luscious,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.227,delicate->delectable,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.228,delicate->refined,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.229,delicate->gossamer,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.230,delicate->ethereal,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.231,delicate->fragile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.232,delicate->whisper-thin,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.233,delicate->airy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.234,delicate->dainty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.235,delicate->sumptuous,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.236,delicate->melt-in-your-mouth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.237,delicate->light-as-air,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.238,delicate->flawless,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.239,delicate->gilded,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.240,delicate->plush,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.241,delicate->velvet-soft,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.242,delicate->fine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.243,delicate->crisp,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.244,delicate->juicy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.245,delicate->sublime,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.246,delicate->moist,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.247,delicate->pure,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.248,delicate->satiny,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.249,delicate->translucent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.250,delicate->exquisite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.251,delicate->supple,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.252,delicate->butter-soft,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.253,delicate->pristine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.254,delicate->silken,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.255,delicate->effortless,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.256,delicate->lightly textured,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.257,delicate->faintly crisped,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.258,delicate->cloud-like,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.259,delicate->honeyed,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.260,delicate->sumptuously soft,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.261,delicate->vibrant,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.262,delicate->robust,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.263,delicate->earthy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.264,delicate->bold,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.265,delicate->hearty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.266,delicate->fragrant,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.267,delicate->crisp,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.268,delicate->zesty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.269,delicate->smoky,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.270,delicate->caramelized,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.271,delicate->savory,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.272,delicate->umami-rich,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.273,delicate->spiced,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.274,delicate->aromatic,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.275,delicate->tangy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.276,delicate->buttery,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.277,delicate->charred,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.278,delicate->nutty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.279,delicate->fiery,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.280,delicate->fermented,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.281,delicate->smoked,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.282,delicate->toasted,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.283,delicate->aged,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.284,delicate->marbled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.285,delicate->zesty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.286,delicate->luscious,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.287,delicate->herbaceous,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.288,delicate->rich,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.289,delicate->succulent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.290,delicate->peppery,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.291,delicate(p=10)->,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.292,lends->adds,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.293,lends->contributes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.294,lends->infuses,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.295,lends->imbues,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.296,lends->enhances,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.297,lends->introduces,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.298,lends->brings,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.299,lends->provides,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.300,lends->delivers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.301,lends->offers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.302,lends->imparts,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.303,lends->complements,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.304,lends->balances,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.305,lends->elevates,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.306,lends->accentuates,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.307,lends->fortifies,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.308,lends->evokes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.309,lends->enriches,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.310,lends->underlines,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.311,lends->supports,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.312,lends->reinforces,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.313,lends->melds,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.314,lends->harmonizes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.315,lends->deepens,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.316,lends->layers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.317,lends->melds seamlessly with,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.318,lends->heightens,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.319,lends->rounds out,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.320,lends->illuminates,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.321,lends->intensifies,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.322,descriptor->depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.323,descriptor->vibrancy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.324,descriptor->richness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.325,descriptor->harmony,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.326,descriptor->complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.327,descriptor->luxury,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.328,descriptor->refinement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.329,descriptor->balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.330,descriptor->opulence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.331,descriptor->indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.332,descriptor->sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.333,descriptor->warmth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.334,descriptor->flair,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.335,descriptor->elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.336,descriptor->intensity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.337,descriptor->boldness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.338,descriptor->purity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.339,descriptor->freshness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.340,descriptor->nuance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.341,descriptor->finesse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.342,descriptor->grace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.343,descriptor->subtlety,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.344,descriptor->exuberance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.345,descriptor->silkiness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.346,descriptor->smoothness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.347,descriptor->umami,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.348,descriptor->aroma,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.349,descriptor->spice,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.350,descriptor->earthiness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.351,descriptor->zest,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.352,descriptor->intrigue,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.353,descriptor->mystery,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.354,descriptor->allure,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.355,descriptor->heritage,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.356,descriptor->tradition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.357,descriptor->innovation,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.358,descriptor->artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.359,descriptor->creaminess,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.360,descriptor->savory,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.361,descriptor->contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.362,descriptor->succulence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.363,descriptor->juiciness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.364,descriptor->fullness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.365,descriptor->tenderness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.366,descriptor->brightness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.367,descriptor->resonance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.368,descriptor->delicacy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.369,descriptor->aromaticity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.370,descriptor->robustness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.371,descriptor->zestiness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.372,descriptor->unctuousness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.373,descriptor->fermentation,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.374,descriptor->caramelization,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.375,descriptor->crispness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.376,descriptor->mellowness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.377,descriptor->smokiness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.378,descriptor->tanginess,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.379,descriptor->fragrance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.380,descriptor->roundness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.381,descriptor->wholesomeness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.382,whisper->whisper,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.383,whisper->hint,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.384,whisper->touch,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.385,whisper->trace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.386,whisper->essence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.387,whisper->breath,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.388,whisper->murmur,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.389,whisper->undertone,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.390,whisper->nuance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.391,whisper->suggestion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.392,whisper->whiff,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.393,whisper->glimpse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.394,whisper->delicate note,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.395,whisper->faint wisp,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.396,whisper->subtle dash,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.397,whisper->lingering touch,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.398,whisper->barest trace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.399,whisper->soft accent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.400,whisper->shadow,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.401,whisper->whispered echo,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.402,whisper->featherlight presence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.403,descriptor_effects->lingering elegantly on the palate,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.404,descriptor_effects->enhancing the dish’s natural depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.405,descriptor_effects->elevating every nuanced bite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.406,descriptor_effects->adding a touch of refined complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.407,descriptor_effects->bringing warmth and balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.408,descriptor_effects->subtly enlivening the flavor profile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.409,descriptor_effects->intertwining seamlessly with every element,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.410,descriptor_effects->rounding out the dish with finesse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.411,descriptor_effects->lending a delicate aromatic lift,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.412,descriptor_effects->harmonizing the composition beautifully,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.413,descriptor_effects->deepening the dish’s luxurious character,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.414,descriptor_effects->weaving through the flavors like a gentle thread,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.415,descriptor_effects->amplifying the dish’s rich undertones,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.416,descriptor_effects->brightening the palate with subtle vibrancy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.417,descriptor_effects->providing an exquisite finishing touch,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.418,descriptor_effects->introducing a whisper of indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.419,descriptor_effects->balancing the elements with effortless grace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.420,descriptor_effects->underscoring the dish’s elegant simplicity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.421,descriptor_effects->leaving a lingering impression of sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.422,descriptor_effects->complementing the dish’s refined essence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.423,descriptor_effects->infusing the dish with a delicate warmth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.424,descriptor_effects->subtly enhancing the natural umami,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.425,descriptor_effects->adding a touch of aromatic intrigue,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.426,descriptor_effects->weaving a gentle contrast into the profile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.427,"descriptor_effects->offering a refined, lingering finish",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.428,descriptor_effects->heightening the interplay of flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.429,descriptor_effects->melding seamlessly into the dish’s depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.430,descriptor_effects->providing a soft counterbalance to bolder elements,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.431,descriptor_effects->gently accentuating the dish’s complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.432,"descriptor_effects->introducing an elegant, ephemeral nuance",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.433,descriptor_effects->softening the dish’s sharper notes with grace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.434,descriptor_effects->imbuing the plate with a whisper of luxury,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.435,descriptor_effects->delicately enriching the dish’s texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.436,descriptor_effects->elevating the aroma to a new dimension,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.437,descriptor_effects->drawing out the deeper layers of taste,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.438,descriptor_effects->bringing a refined silkiness to each bite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.439,descriptor_effects->melding harmoniously into the overall composition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.440,descriptor_effects->softly intensifying the dish’s character,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.441,descriptor_effects->offering a final flourish of sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.442,descriptor_effects->creating a seamless bridge between flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.443,descriptor_effects->adding a touch of delicate refinement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.444,descriptor_effects->softly rounding out the flavor profile,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.445,"descriptor_effects->bringing a gentle, lingering depth",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.446,descriptor_effects->introducing an air of understated elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.447,descriptor_effects->offering a whisper of floral complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.448,descriptor_effects->enhancing the interplay of textures and tastes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.449,descriptor_effects->melting effortlessly into the dish’s richness,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.450,descriptor_effects->heightening the overall balance of flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.451,descriptor_effects->drawing out a subtle sweetness beneath the surface,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.452,descriptor_effects->adding a measured contrast to the composition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.453,descriptor_effects->infusing the dish with a quiet sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.454,descriptor_effects->layering in a restrained but essential nuance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.455,descriptor_effects->deepening the natural warmth of the dish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.456,descriptor_effects->weaving an intricate thread of complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.457,"descriptor_effects->offering a smooth, lingering aftertaste",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.458,descriptor_effects->balancing the richness with a gentle lift,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.459,descriptor_effects->melding into the dish with seamless harmony,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.460,"descriptor_effects->imparting a soft, fragrant undertone",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.461,descriptor_effects->gently coaxing out hidden depths of flavor,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.462,descriptor_effects->introducing a refined yet barely perceptible finish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.463,elevated->refined,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.464,elevated->sublime,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.465,elevated->luxurious,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.466,elevated->exquisite,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.467,elevated->sophisticated,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.468,elevated->transcendent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.469,elevated->opulent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.470,elevated->divine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.471,elevated->ethereal,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.472,elevated->indulgent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.473,elevated->sumptuous,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.474,elevated->harmonious,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.475,elevated->flawless,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.476,elevated->peerless,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.477,elevated->artful,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.478,elevated->masterful,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.479,elevated->unparalleled,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.480,elevated->graceful,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.481,elevated->majestic,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.482,elevated->breathtaking,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.483,strands->microgreens,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.484,strands->pearls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.485,strands->essence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.486,strands->dewdrops,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.487,strands->garnishes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.488,strands->petals,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.489,strands->whispers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.490,strands->florets,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.491,strands->confetti,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.492,strands->brunoise,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.493,strands->beads,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.494,strands->caviar,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.495,strands->threads,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.496,strands->delicate curls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.497,strands->crystals,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.498,strands->air,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.499,strands->micro-shavings,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.500,strands->whisps,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.501,strands->tendrils,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.502,strands->shavings,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.503,strands->shreds,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.504,strands->slivers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.505,strands->flecks,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.506,strands->crumbs,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.507,strands->specks,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.508,strands->fragments,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.509,strands->whisps,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.510,strands->morsels,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.511,strands->drizzles,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.512,strands->sprinkles,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.513,strands->grains,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.514,strands->dustings,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.515,strands->pinches,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.516,strands->scatters,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.517,strands->traces,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.518,strands->dabs,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.519,strands->hints,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.520,strands->drops,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.521,strands->streaks,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.522,strands->swirls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.523,strands->glimmers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.524,strands->frills,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.525,strands->petals,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.526,strands->curls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.527,strands->ribbons,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.528,strands->dribbles,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.529,strands->tufts,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.530,strands->nodules,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.531,strands->flakes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.532,strands->pearls,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.533,artistic_precision->meticulously plated with elegant symmetry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.534,artistic_precision->arranged with flawless attention to detail,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.535,artistic_precision->composed as a visual masterpiece,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.536,artistic_precision->crafted with sculptural finesse,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.537,artistic_precision->adorned with a painterly flourish,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.538,artistic_precision->presented with graceful minimalism,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.539,artistic_precision->layered with geometric precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.540,artistic_precision->styled with haute cuisine artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.541,artistic_precision->designed as a feast for the eyes,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.542,artistic_precision->elevated with modernist plating techniques,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.543,artistic_precision->curated with exquisite culinary balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.544,artistic_precision->arranged with impeccable visual harmony,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.545,artistic_precision->showcased in a composition of refined elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.546,artistic_precision->assembled like a work of fine art,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.547,artistic_precision->presented with a flourish of haute cuisine,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.548,artistic_precision->balanced with a striking aesthetic contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.549,artistic_precision->styled with effortless refinement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.550,"artistic_precision->garnished with a delicate, thoughtful touch",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.551,artistic_precision->structured with architectural precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.552,artistic_precision->arranged to evoke a sense of grandeur,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.553,artistic_precision->plated with impeccable balance and grace,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.554,artistic_precision->designed with an eye for symmetry and flow,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.555,artistic_precision->crafted with sculptural precision,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.556,artistic_precision->layered to create a striking visual contrast,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.557,artistic_precision->arranged in a mesmerizing composition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.558,artistic_precision->styled to resemble a living tableau,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.559,artistic_precision->presented with a touch of minimalist elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.560,artistic_precision->adorned with intricate edible embellishments,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.561,artistic_precision->framed on the plate like a gallery-worthy piece,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.562,artistic_precision->elevated with a sense of refined artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.563,artistic_precision->curated with a dramatic flair,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.564,artistic_precision->assembled with the precision of a master jeweler,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.565,artistic_precision->garnished with a painter’s delicate brushstroke,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.566,artistic_precision->designed with a seamless blend of form and function,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.567,artistic_precision->shaped with the delicate hand of a sculptor,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.568,artistic_precision->presented in an arrangement of effortless beauty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.569,artistic_precision->plated to highlight every exquisite detail,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.570,artistic_precision->showcased with striking contrast and harmony,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.571,artistic_precision->balanced between elegance and bold expression,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.572,artistic_precision->infused with a sense of poetic movement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.573,artistic_precision->composed to reflect natural beauty,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.574,artistic_precision->designed to highlight every nuanced texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.575,artistic_precision->gilded with edible gold and delicate accents,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.576,"artistic_precision->formed into a captivating, sculptural silhouette",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.577,artistic_precision->delicately layered with precision and intent,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.578,artistic_precision->showcased like a treasured masterpiece,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.579,artistic_precision->structured to highlight the dish’s organic elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.580,artistic_precision->crafted with haute couture culinary sensibility,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.581,artistic_precision->plated with striking architectural balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.582,artistic_precision->framed in a delicate yet bold aesthetic,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.583,goal_of_the_meal->meticulously placed to create a symphony of flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.584,goal_of_the_meal->harmonized to offer a seamless gastronomic experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.585,goal_of_the_meal->arranged to showcase the dish’s refined elegance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.586,goal_of_the_meal->composed to delight both the eye and the palate,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.587,goal_of_the_meal->structured to highlight its intricate balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.588,goal_of_the_meal->perfected to ensure every bite is an indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.589,goal_of_the_meal->crafted to evoke a sense of culinary artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.590,goal_of_the_meal->layered to deliver a journey through taste and texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.591,goal_of_the_meal->orchestrated to celebrate the beauty of fine dining,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.592,goal_of_the_meal->shaped to offer a multisensory delight,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.593,goal_of_the_meal->designed to enhance its exquisite depth,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.594,goal_of_the_meal->balanced to create an unforgettable dining experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.595,goal_of_the_meal->curated to reflect culinary mastery at its finest,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.596,"goal_of_the_meal->finessed to perfection, leaving a lasting impression",li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.597,goal_of_the_meal->aligned to ensure a flawless tasting experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.598,goal_of_the_meal->woven together to create an opulent indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.599,goal_of_the_meal->refined to elevate even the subtlest nuances,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.600,goal_of_the_meal->arranged with intention to maximize its sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.601,goal_of_the_meal->crafted to deliver a moment of pure luxury,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.602,goal_of_the_meal->brought together in an exquisite culinary composition,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.603,goal_of_the_meal->placed with intent to evoke harmony and balance,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.604,goal_of_the_meal->arranged to accentuate the dish’s refined complexity,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.605,goal_of_the_meal->carefully positioned to ensure a seamless flavor experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.606,goal_of_the_meal->designed to complement the dish’s intricate layers,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.607,goal_of_the_meal->crafted to highlight the interplay of taste and texture,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.608,goal_of_the_meal->orchestrated to create a symphony of flavors,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.609,goal_of_the_meal->harmonized to reflect the pinnacle of fine dining,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.610,goal_of_the_meal->balanced to deliver an effortlessly elegant experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.611,goal_of_the_meal->woven together to form a masterpiece of culinary artistry,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.612,goal_of_the_meal->placed with precision to showcase its depth and vibrancy,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.613,goal_of_the_meal->aligned to create an exquisite visual and sensory delight,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.614,goal_of_the_meal->structured to lead the palate through layers of indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.615,goal_of_the_meal->perfected to elevate the dish to a true work of art,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.616,goal_of_the_meal->meticulously layered to offer a refined tasting experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.617,goal_of_the_meal->designed to highlight both contrast and cohesion,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.618,goal_of_the_meal->curated to ensure every bite is a moment of indulgence,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.619,goal_of_the_meal->elevated to provide an unparalleled dining experience,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.620,goal_of_the_meal->arranged to capture the essence of culinary sophistication,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.621,goal_of_the_meal->composed to leave a lasting impression of refinement,li,RulePackDef/RulePackDef.xml,def
+VCE_MealDescriptionUtility_Global.rulePack.rulesStrings.622,goal_of_the_meal->shaped with intention to celebrate gastronomic excellence,li,RulePackDef/RulePackDef.xml,def
+VCE_ElectricHauteSection.label,electric haute section,label,ThingDef/ThingDef.xml,def
+VCE_ElectricHauteSection.description,"An electrically-powered state-of-the-art culinary station, designed for precision cooking and artful meal presentation.",description,ThingDef/ThingDef.xml,def
+VCE_MealHaute.label,haute meal,label,ThingDef/ThingDef.xml,def
+VCE_MealHaute.description,"An opulent symphony of flavor and form, where the finest ingredients and masterful technique unite in a transcendent culinary masterpiece. Provides exquisite mood when eaten, and ensures that colonists eating it together will form strong opinions of each other.",description,ThingDef/ThingDef.xml,def
+VCE_AteHauteMeal.stages.0.label,ate haute meal,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal.stages.0.description,"A transcendent encounter with flavor. Every delicate note of the meal unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Two.stages.0.label,ate haute meal,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Two.stages.0.description,"A transcendent encounter with flavor. Every delicate note of the meal unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Three.stages.0.label,ate haute meal,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Three.stages.0.description,"A transcendent encounter with flavor. Every delicate note of the meal unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Four.stages.0.label,ate haute meal,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Four.stages.0.description,"A transcendent encounter with flavor. Every delicate note of the meal unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Five.stages.0.label,ate haute meal,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Five.stages.0.description,"A transcendent encounter with flavor. Every delicate note of the meal unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Social_Author.stages.0.label,cooked a haute meal for me,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteHauteMeal_Social_Sharing.stages.0.label,shared the dining experience with me,label,ThoughtDef/ThoughtDef.xml,def
+VCE_DoBillsCookHaute.label,cook haute,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_DoBillsCookHaute.verb,cook,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_DoBillsCookHaute.gerund,cooking at,gerund,WorkGiverDef/WorkGiverDef.xml,def

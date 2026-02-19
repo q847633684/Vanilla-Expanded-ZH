@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Allow plant growth inside proxy heat effect radius-->
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Allow plant growth inside proxy heat effect radius</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <!--EN: Building has own temperature target control-->
+  <PH.BuildingHasTemperatureControl>Building has own temperature target control</PH.BuildingHasTemperatureControl>
+  <!--EN: Enable proxy heat-->
+  <PH.EnableProxyHeat>Enable proxy heat</PH.EnableProxyHeat>
+  <!--EN: Enable proxy heat effect indoors-->
+  <PH.EnableProxyHeatEffectIndoors>Enable proxy heat effect indoors</PH.EnableProxyHeatEffectIndoors>
+  <!--EN: Maximum temperature threshold-->
+  <PH.MaxTemperature>Maximum temperature threshold</PH.MaxTemperature>
+  <!--EN: Minimum temperature threshold-->
+  <PH.MinTemperature>Minimum temperature threshold</PH.MinTemperature>
+  <!--EN: Proxy heat building settings:-->
+  <PH.ProxyHeatBuildings>Proxy heat building settings:</PH.ProxyHeatBuildings>
+  <!--EN: Proxy heat radius-->
+  <PH.ProxyHeatRadius>Proxy heat radius</PH.ProxyHeatRadius>
+  <!--EN: Search:-->
+  <PH.Search>Search:</PH.Search>
+  <!--EN: Temperature output-->
+  <PH.TemperatureOutput>Temperature output</PH.TemperatureOutput>
+  <!--EN: (not set)-->
+  <PN.NotSet>(not set)</PN.NotSet>
+  <!--EN: Link this AC unit with the system, inheriting the desired temperature.-->
+  <VTE.AcRelinkDescription>Link this AC unit with the system, inheriting the desired temperature.</VTE.AcRelinkDescription>
+  <!--EN: Unlink this AC unit from inheriting desired temperature from the system.-->
+  <VTE.AcUnlinkDescription>Unlink this AC unit from inheriting desired temperature from the system.</VTE.AcUnlinkDescription>
+  <!--EN: Cannot be placed next to ceiling fans.-->
+  <VTE.CannotPlaceAdjacentCeilingFan>Cannot be placed next to ceiling fans.</VTE.CannotPlaceAdjacentCeilingFan>
+  <!--EN: Cannot work: Covered by roof.-->
+  <VTE.CompressorCovered>Cannot work: Covered by roof.</VTE.CompressorCovered>
+  <!--EN: Consumption-->
+  <VTE.Consumption>Consumption</VTE.Consumption>
+  <!--EN: Network efficiency-->
+  <VTE.Efficiency>Network efficiency</VTE.Efficiency>
+  <!--EN: Cannot work: Not enough compressors connected.-->
+  <VTE.MissingCompressors>Cannot work: Not enough compressors connected.</VTE.MissingCompressors>
+  <!--EN: Cannot work: Missing AC control unit.-->
+  <VTE.MissingController>Cannot work: Missing AC control unit.</VTE.MissingController>
+  <!--EN: The hot side of the heater must be exposed.-->
+  <VTE.MustPlaceHeaterWithFreeSpaces>The hot side of the heater must be exposed.</VTE.MustPlaceHeaterWithFreeSpaces>
+  <!--EN: Must be placed under a roof.-->
+  <VTE.MustPlaceUnderRoof>Must be placed under a roof.</VTE.MustPlaceUnderRoof>
+  <!--EN: Network target temperature-->
+  <VTE.NetworkTargetTemp>Network target temperature</VTE.NetworkTargetTemp>
+  <!--EN: Production-->
+  <VTE.Production>Production</VTE.Production>
+  <!--EN: Link temperature-->
+  <VTE.Relink>Link temperature</VTE.Relink>
+  <!--EN: Cannot work: Connected to more than one AC control unit.-->
+  <VTE.TooManyControllers>Cannot work: Connected to more than one AC control unit.</VTE.TooManyControllers>
+  <!--EN: Total consumption-->
+  <VTE.TotalConsumption>Total consumption</VTE.TotalConsumption>
+  <!--EN: Total production-->
+  <VTE.TotalProduction>Total production</VTE.TotalProduction>
+  <!--EN: Unlink temperature-->
+  <VTE.Unlink>Unlink temperature</VTE.Unlink>
+  <!--EN: Switches air flow on/off.-->
+  <VTE_VentValve>Switches air flow on/off.</VTE_VentValve>
+  <!--EN: Switches air flow on/off. A pawn will come open/close the valve.-->
+  <VTE_VentValveDesc>Switches air flow on/off. A pawn will come open/close the valve.</VTE_VentValveDesc>
+</LanguageData>

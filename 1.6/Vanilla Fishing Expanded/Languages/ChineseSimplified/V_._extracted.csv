@@ -1,0 +1,48 @@
+key,text,tag,file,type
+VCEF_FishingGrowingZone,Fishing Zone,VCEF_FishingGrowingZone,Misc_Gameplay.xml,keyed
+VCEF_FishingGrowingZoneDesc,Create a zone where your colonists will try to fish,VCEF_FishingGrowingZoneDesc,Misc_Gameplay.xml,keyed
+VCEF_ChooseFish,Choose catch,VCEF_ChooseFish,Misc_Gameplay.xml,keyed
+VCEF_ChooseFishDesc,"Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items",VCEF_ChooseFishDesc,Misc_Gameplay.xml,keyed
+VCEF_ChooseFishSmallLabel,Catch Small Fish,VCEF_ChooseFishSmallLabel,Misc_Gameplay.xml,keyed
+VCEF_ChooseFishMediumLabel,Catch Medium Fish,VCEF_ChooseFishMediumLabel,Misc_Gameplay.xml,keyed
+VCEF_ChooseFishLargeLabel,Catch Large Fish,VCEF_ChooseFishLargeLabel,Misc_Gameplay.xml,keyed
+VCEF_CommandAllowFishing,Allow Fishing,VCEF_CommandAllowFishing,Misc_Gameplay.xml,keyed
+VCEF_CommandAllowFishingDesc,Allow fishing to take place in this fishing zone,VCEF_CommandAllowFishingDesc,Misc_Gameplay.xml,keyed
+VCEF_ZoneSetTo,This zone of size {0} is set to catch fish of size,VCEF_ZoneSetTo,Misc_Gameplay.xml,keyed
+VCEF_FishesInThisZone,Fish in this zone:,VCEF_FishesInThisZone,Misc_Gameplay.xml,keyed
+VCEF_IsZoneOceanZone,Oceanic fishing zone:,VCEF_IsZoneOceanZone,Misc_Gameplay.xml,keyed
+VCEF_Yes,Yes,VCEF_Yes,Misc_Gameplay.xml,keyed
+VCEF_No,No,VCEF_No,Misc_Gameplay.xml,keyed
+VCEF_ZoneTooSmall,This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update).,VCEF_ZoneTooSmall,Misc_Gameplay.xml,keyed
+VCEF_NoFish,"No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome)",VCEF_NoFish,Misc_Gameplay.xml,keyed
+VCEF_CaughtSpecial,"While fishing, {0} has caught something special: {1}",VCEF_CaughtSpecial,Misc_Gameplay.xml,keyed
+VCEF_minimumZoneSize,Minimum Fishing Zone size,VCEF_minimumZoneSize,Misc_Gameplay.xml,keyed
+VCEF_minimumZoneSizeTooltip,"Minimum Fishing Zone size, default is 25 tiles",VCEF_minimumZoneSizeTooltip,Misc_Gameplay.xml,keyed
+VCEF_smallFishDurationFactor,Base Fishing Duration in ticks,VCEF_smallFishDurationFactor,Misc_Gameplay.xml,keyed
+VCEF_smallFishDurationFactorTooltip,"Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa.",VCEF_smallFishDurationFactorTooltip,Misc_Gameplay.xml,keyed
+VCEF_chanceForSpecials,Chance to get an special item instead of fish,VCEF_chanceForSpecials,Misc_Gameplay.xml,keyed
+VCEF_chanceForSpecialsTooltip,Chance to get an special item instead of fish. Default is 1% per fishing operation.,VCEF_chanceForSpecialsTooltip,Misc_Gameplay.xml,keyed
+VCEF_chanceForSpecialsTooltip_Odyssey,"Chance to get an special item instead of fish. Default is 1% per fishing operation. Bear in mind in Odyssey there is by default a 5 day timer between ""rare"" catches, that you can tweak via these options too.",VCEF_chanceForSpecialsTooltip_Odyssey,Misc_Gameplay.xml,keyed
+VCEF_minDaysBetweenRareCatches,Minimum days between rare catches,VCEF_minDaysBetweenRareCatches,Misc_Gameplay.xml,keyed
+VCEF_minDaysBetweenRareCatchesTooltip,"By default in Odyssey ""rare"" catches can only happen when 5 days have passed since the last ""rare"" catch. You can change that minimum interval here.",VCEF_minDaysBetweenRareCatchesTooltip,Misc_Gameplay.xml,keyed
+VCEF_minMapTempForLowFish,Minimum map temperature for reduced fish yield,VCEF_minMapTempForLowFish,Misc_Gameplay.xml,keyed
+VCEF_minMapTempForLowFishTooltip,Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC.,VCEF_minMapTempForLowFishTooltip,Misc_Gameplay.xml,keyed
+VCEF_maxMapTempForLowFish,Maximum map temperature for reduced fish yield,VCEF_maxMapTempForLowFish,Misc_Gameplay.xml,keyed
+VCEF_maxMapTempForLowFishTooltip,Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC.,VCEF_maxMapTempForLowFishTooltip,Misc_Gameplay.xml,keyed
+VCEF_fishingYieldMultiplier,Fishing Yield multiplier,VCEF_fishingYieldMultiplier,Misc_Gameplay.xml,keyed
+VCEF_fishingYieldMultiplierTooltip,The amount of fish caught will be scaled by this multiplier.,VCEF_fishingYieldMultiplierTooltip,Misc_Gameplay.xml,keyed
+VCEF_fishingSpeedMultiplier,Fishing Speed multiplier,VCEF_fishingSpeedMultiplier,Misc_Gameplay.xml,keyed
+VCEF_fishingSpeedMultiplierTooltip,The speed to catch the fish will be scaled by this multiplier.,VCEF_fishingSpeedMultiplierTooltip,Misc_Gameplay.xml,keyed
+VCEF_maxFishPopulationMultiplier,Max fish population multiplier,VCEF_maxFishPopulationMultiplier,Misc_Gameplay.xml,keyed
+VCEF_maxFishPopulationMultiplierTooltip,"In Odyssey, max fish population in a body of water is defined per biome. This multiplier will be applied to that limit.",VCEF_maxFishPopulationMultiplierTooltip,Misc_Gameplay.xml,keyed
+VCEF_fishAmountMultiplier,Fish amount (in fishing zone) multiplier,VCEF_fishAmountMultiplier,Misc_Gameplay.xml,keyed
+VCEF_fishAmountMultiplierTooltip,Amount of fish that will be present on a fishing zone. This multiplier will be applied to that amount.,VCEF_fishAmountMultiplierTooltip,Misc_Gameplay.xml,keyed
+VCEF_chanceForNegativeOutcome,Chance for negative outcomes,VCEF_chanceForNegativeOutcome,Misc_Gameplay.xml,keyed
+VCEF_chanceForNegativeOutcomeTooltip,By default there is a 2% chance that any fishing will result in a negative outcome.,VCEF_chanceForNegativeOutcomeTooltip,Misc_Gameplay.xml,keyed
+VCEF_dropFish,Fisher drops fish on the ground instead of hauling to stockpiles,VCEF_dropFish,Misc_Gameplay.xml,keyed
+VCEF_Reset_Plain,Reset all,VCEF_Reset_Plain,Misc_Gameplay.xml,keyed
+VCEF_DisableGillRot,Disable Gill Rot,VCEF_DisableGillRot,Misc_Gameplay.xml,keyed
+VCEF_DisableGillRotDesc,"If checked, it will make Gill Rit impossible to happen under any circumstances.",VCEF_DisableGillRotDesc,Misc_Gameplay.xml,keyed
+VCEF_UseWorktype,"Move ""Fish"" work type to the lowest priority (requires game reload)",VCEF_UseWorktype,Misc_Gameplay.xml,keyed
+VCEF_UseWorktypeDesc,"By default, Odyssey puts the Fish work type on the work priority order between Craft and Haul. With this option Fish will be at priority 90, after Research, which was the way this mod worked without Odyssey.",VCEF_UseWorktypeDesc,Misc_Gameplay.xml,keyed
+VCEF_TooPolluted,This fishing zone is too polluted to fish,VCEF_TooPolluted,Misc_Gameplay.xml,keyed

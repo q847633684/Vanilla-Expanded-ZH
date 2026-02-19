@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <!--EN: questName->Bounty: [nameFull] [nickname]-->
+    <li>questName-&gt;Bounty: [nameFull] [nickname]</li>
+    <!--EN: questName->Wanted, Dead or Alive: [nickname]-->
+    <li>questName-&gt;Wanted, Dead or Alive: [nickname]</li>
+    <!--EN: questName->[nickname]'s brigands-->
+    <li>questName-&gt;[nickname]'s brigands</li>
+    <!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]-->
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]</li>
+  </Settlers_Wanted.questDescriptionAndNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <Settlers_Wanted.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</Settlers_Wanted.root.nodes.11.node.nodes.0.label>
+  <!--EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.-->
+  <Settlers_Wanted.root.nodes.11.node.nodes.0.text>[criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.</Settlers_Wanted.root.nodes.11.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <Settlers_Wanted.root.nodes.12.node.nodes.0.label>Quest failed: [resolvedQuestName]</Settlers_Wanted.root.nodes.12.node.nodes.0.label>
+  <!--EN: The brigands has packed up and moved on.-->
+  <Settlers_Wanted.root.nodes.12.node.nodes.0.text>The brigands has packed up and moved on.</Settlers_Wanted.root.nodes.12.node.nodes.0.text>
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] are resting with their beasts before continuing their journey.
+            \n[asker_nameDef] gave us their location, if we want to, we can go attack them.-->
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] are resting with their beasts before continuing their journey.
+            \n[asker_nameDef] gave us their location, if we want to, we can go attack them.</li>
+  </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+  <VFES_CaravanRaid.questNameRules.rulesStrings>
+    <!--EN: questName->Caravan [raid]-->
+    <li>questName-&gt;Caravan [raid]</li>
+    <!--EN: questName->[asker_nameDef] and the Caravan [raid]-->
+    <li>questName-&gt;[asker_nameDef] and the Caravan [raid]</li>
+    <!--EN: raid->Raid-->
+    <li>raid-&gt;Raid</li>
+    <!--EN: raid->Attack-->
+    <li>raid-&gt;Attack</li>
+    <!--EN: raid->Ambush-->
+    <li>raid-&gt;Ambush</li>
+  </VFES_CaravanRaid.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.10.node.nodes.0.label>
+  <!--EN: The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest [resolvedQuestName] has expired.-->
+  <VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest [resolvedQuestName] has expired.</VFES_CaravanRaid.root.nodes.10.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>Quest failed: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.11.node.nodes.0.label>
+  <!--EN: After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName] has ended.-->
+  <VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName] has ended.</VFES_CaravanRaid.root.nodes.11.node.nodes.0.text>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <!--EN: questName->Bounty: [nameFull] [nickname]-->
+    <li>questName-&gt;Bounty: [nameFull] [nickname]</li>
+    <!--EN: questName->Wanted, Dead or Alive: [nickname]-->
+    <li>questName-&gt;Wanted, Dead or Alive: [nickname]</li>
+    <!--EN: questName->[nickname]'s brigands-->
+    <li>questName-&gt;[nickname]'s brigands</li>
+    <!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]-->
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.
+\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.
+\nIf we clear out their camp, [allRewardsDescriptions]</li>
+  </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VFES_Wanted.root.nodes.11.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFES_Wanted.root.nodes.11.node.nodes.0.label>
+  <!--EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.-->
+  <VFES_Wanted.root.nodes.11.node.nodes.0.text>[criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired.</VFES_Wanted.root.nodes.11.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VFES_Wanted.root.nodes.12.node.nodes.0.label>Quest failed: [resolvedQuestName]</VFES_Wanted.root.nodes.12.node.nodes.0.label>
+  <!--EN: The brigands has packed up and moved on.-->
+  <VFES_Wanted.root.nodes.12.node.nodes.0.text>The brigands has packed up and moved on.</VFES_Wanted.root.nodes.12.node.nodes.0.text>
+</LanguageData>

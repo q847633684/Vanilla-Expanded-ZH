@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VQE_AbandonedARC.questContentRules.rulesStrings>
+    <!--EN: allObjectsStudiedMessage->All objects are studied. You've collected the information and can now leave.-->
+    <li>allObjectsStudiedMessage-&gt;All objects are studied. You've collected the information and can now leave.</li>
+    <!--EN: halfOfObjectsDestroyedMessage->More than half of the research data has been lost.-->
+    <li>halfOfObjectsDestroyedMessage-&gt;More than half of the research data has been lost.</li>
+  </VQE_AbandonedARC.questContentRules.rulesStrings>
+  <VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->According to the data extracted on the old prototype site, we managed to find the location of an [adj] industrial complex where construction of the [arcName] continued. This sprawling facility was once bustling with engineers and scientists pushing the boundaries of technology, but now it stands in silence, overtaken by the passage of time.\n\nThe site contains [siteDetails], but it is now [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nSuccessfully completing this expedition [questOutcome].-->
+    <li>questDescription-&gt;According to the data extracted on the old prototype site, we managed to find the location of an [adj] industrial complex where construction of the [arcName] continued. This sprawling facility was once bustling with engineers and scientists pushing the boundaries of technology, but now it stands in silence, overtaken by the passage of time.\n\nThe site contains [siteDetails], but it is now [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nSuccessfully completing this expedition [questOutcome].</li>
+    <!--EN: questDescription->Data from the prototype site revealed the coordinates of an [adj] industrial yard, where the [arcName] was further developed by [inventor_nameFull] and their team. The facility stretches across a vast expanse, its rusting frames and crumbling walls hinting at its former glory.\n\nWithin the complex are [siteDetails], but [siteThreat] must be dealt with before any meaningful research can be done.\n\n[studyWarning] [questFailWarning]\n\nResolving this task [questOutcome].-->
+    <li>questDescription-&gt;Data from the prototype site revealed the coordinates of an [adj] industrial yard, where the [arcName] was further developed by [inventor_nameFull] and their team. The facility stretches across a vast expanse, its rusting frames and crumbling walls hinting at its former glory.\n\nWithin the complex are [siteDetails], but [siteThreat] must be dealt with before any meaningful research can be done.\n\n[studyWarning] [questFailWarning]\n\nResolving this task [questOutcome].</li>
+    <!--EN: questDescription->Analyzing the prototype’s data, we’ve pinpointed the location of an [adj] construction yard that served as the next step in the [arcName] project. This site, once a beacon of industrial ambition, is now a graveyard of innovation, its machinery left to decay under the open sky.\n\nInside, you’ll find [siteDetails], but it is [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nYour efforts here [questOutcome].-->
+    <li>questDescription-&gt;Analyzing the prototype’s data, we’ve pinpointed the location of an [adj] construction yard that served as the next step in the [arcName] project. This site, once a beacon of industrial ambition, is now a graveyard of innovation, its machinery left to decay under the open sky.\n\nInside, you’ll find [siteDetails], but it is [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nYour efforts here [questOutcome].</li>
+    <!--EN: questDescription->The data retrieved from the old prototype has led us to an [adj] industrial complex that was pivotal in advancing the [arcName] project. Once a thriving hub of technological development, the facility now lies in ruin, its halls echoing only with the wind.\n\nAmong the remnants are [siteDetails], though the complex has become [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompleting this mission [questOutcome].-->
+    <li>questDescription-&gt;The data retrieved from the old prototype has led us to an [adj] industrial complex that was pivotal in advancing the [arcName] project. Once a thriving hub of technological development, the facility now lies in ruin, its halls echoing only with the wind.\n\nAmong the remnants are [siteDetails], though the complex has become [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompleting this mission [questOutcome].</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->sprawling-->
+    <li>adj-&gt;sprawling</li>
+    <!--EN: adj->decayed-->
+    <li>adj-&gt;decayed</li>
+    <!--EN: adj->overgrown-->
+    <li>adj-&gt;overgrown</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->industrial-->
+    <li>adj-&gt;industrial</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: arcName->ARC-->
+    <li>arcName-&gt;ARC</li>
+    <!--EN: arcName->generator-->
+    <li>arcName-&gt;generator</li>
+    <!--EN: arcName->machine-->
+    <li>arcName-&gt;machine</li>
+    <!--EN: arcName->core-->
+    <li>arcName-&gt;core</li>
+    <!--EN: arcName->power source-->
+    <li>arcName-&gt;power source</li>
+    <!--EN: arcName->device-->
+    <li>arcName-&gt;device</li>
+    <!--EN: arcName->artifact-->
+    <li>arcName-&gt;artifact</li>
+    <!--EN: siteDetails->ancient machinery and unfinished generator components-->
+    <li>siteDetails-&gt;ancient machinery and unfinished generator components</li>
+    <!--EN: siteDetails->critical research notes and large generator components-->
+    <li>siteDetails-&gt;critical research notes and large generator components</li>
+    <!--EN: siteDetails->valuable schematics and industrial equipment-->
+    <li>siteDetails-&gt;valuable schematics and industrial equipment</li>
+    <!--EN: siteDetails->research data and prototype machinery-->
+    <li>siteDetails-&gt;research data and prototype machinery</li>
+    <!--EN: siteDetails->complex equipment and experimental generator blueprints-->
+    <li>siteDetails-&gt;complex equipment and experimental generator blueprints</li>
+    <!--EN: siteDetails->abandoned industrial machines and research archives-->
+    <li>siteDetails-&gt;abandoned industrial machines and research archives</li>
+    <!--EN: siteDetails->essential research notes and unique generator pieces-->
+    <li>siteDetails-&gt;essential research notes and unique generator pieces</li>
+    <!--EN: siteThreat->home to [Number] manhunting [AnimalPlural]-->
+    <li>siteThreat-&gt;home to [Number] manhunting [AnimalPlural]</li>
+    <!--EN: siteThreat->overrun with [Number] manhunting [AnimalPlural]-->
+    <li>siteThreat-&gt;overrun with [Number] manhunting [AnimalPlural]</li>
+    <!--EN: siteThreat->inhabited by a pack of [AnimalPlural]-->
+    <li>siteThreat-&gt;inhabited by a pack of [AnimalPlural]</li>
+    <!--EN: siteThreat->guarded by [Number] aggressive [AnimalPlural]-->
+    <li>siteThreat-&gt;guarded by [Number] aggressive [AnimalPlural]</li>
+    <!--EN: siteThreat->occupied by [Number] hostile [AnimalPlural]-->
+    <li>siteThreat-&gt;occupied by [Number] hostile [AnimalPlural]</li>
+    <!--EN: studyWarning->Careful examination of the area is required to uncover valuable information.-->
+    <li>studyWarning-&gt;Careful examination of the area is required to uncover valuable information.</li>
+    <!--EN: studyWarning->You must study the ancient machines and generator components carefully.-->
+    <li>studyWarning-&gt;You must study the ancient machines and generator components carefully.</li>
+    <!--EN: studyWarning->To gain insights, you'll need to investigate the research notes and generator parts thoroughly.-->
+    <li>studyWarning-&gt;To gain insights, you'll need to investigate the research notes and generator parts thoroughly.</li>
+    <!--EN: studyWarning->Thorough investigation is key to retrieving useful data from the site.-->
+    <li>studyWarning-&gt;Thorough investigation is key to retrieving useful data from the site.</li>
+    <!--EN: studyWarning->The data here could be critical, so every effort must be made to study the area thoroughly.-->
+    <li>studyWarning-&gt;The data here could be critical, so every effort must be made to study the area thoroughly.</li>
+    <!--EN: questFailWarning->If more than half of the studiable machines and notes are destroyed, the mission will fail.-->
+    <li>questFailWarning-&gt;If more than half of the studiable machines and notes are destroyed, the mission will fail.</li>
+    <!--EN: questFailWarning->Too much damage to the complex will result in failure.-->
+    <li>questFailWarning-&gt;Too much damage to the complex will result in failure.</li>
+    <!--EN: questFailWarning->Destroying too many research materials will cause the mission to fail.-->
+    <li>questFailWarning-&gt;Destroying too many research materials will cause the mission to fail.</li>
+    <!--EN: questFailWarning->Failure to preserve enough studiable components will end the mission.-->
+    <li>questFailWarning-&gt;Failure to preserve enough studiable components will end the mission.</li>
+    <!--EN: questFailWarning->Be mindful of your actions; the mission hinges on preserving the site's integrity.-->
+    <li>questFailWarning-&gt;Be mindful of your actions; the mission hinges on preserving the site's integrity.</li>
+    <!--EN: questOutcome->could lead us to the actual ARC location.-->
+    <li>questOutcome-&gt;could lead us to the actual ARC location.</li>
+    <!--EN: questOutcome->may uncover the true ARC site.-->
+    <li>questOutcome-&gt;may uncover the true ARC site.</li>
+    <!--EN: questOutcome->might point us to the final ARC project.-->
+    <li>questOutcome-&gt;might point us to the final ARC project.</li>
+    <!--EN: questOutcome->should reveal the next steps to find the ancient ARC.-->
+    <li>questOutcome-&gt;should reveal the next steps to find the ancient ARC.</li>
+    <!--EN: questOutcome->will bring us closer to uncovering the secrets of the ARC.-->
+    <li>questOutcome-&gt;will bring us closer to uncovering the secrets of the ARC.</li>
+  </VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+  <VQE_AbandonedARC.questNameRules.rulesStrings>
+    <!--EN: questName->The [adj] [constructionName]-->
+    <li>questName-&gt;The [adj] [constructionName]</li>
+    <!--EN: adj->sprawling-->
+    <li>adj-&gt;sprawling</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->industrial-->
+    <li>adj-&gt;industrial</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->overgrown-->
+    <li>adj-&gt;overgrown</li>
+    <!--EN: adj->incomplete-->
+    <li>adj-&gt;incomplete</li>
+    <!--EN: adj->vast-->
+    <li>adj-&gt;vast</li>
+    <!--EN: adj->unfinished-->
+    <li>adj-&gt;unfinished</li>
+    <!--EN: adj->dilapidated-->
+    <li>adj-&gt;dilapidated</li>
+    <!--EN: adj->remote-->
+    <li>adj-&gt;remote</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->failed-->
+    <li>adj-&gt;failed</li>
+    <!--EN: adj->once-thriving-->
+    <li>adj-&gt;once-thriving</li>
+    <!--EN: constructionName->construction yard-->
+    <li>constructionName-&gt;construction yard</li>
+    <!--EN: constructionName->development site-->
+    <li>constructionName-&gt;development site</li>
+    <!--EN: constructionName->industrial complex-->
+    <li>constructionName-&gt;industrial complex</li>
+    <!--EN: constructionName->workshop-->
+    <li>constructionName-&gt;workshop</li>
+    <!--EN: constructionName->power yard-->
+    <li>constructionName-&gt;power yard</li>
+    <!--EN: constructionName->generator site-->
+    <li>constructionName-&gt;generator site</li>
+    <!--EN: constructionName->assembly area-->
+    <li>constructionName-&gt;assembly area</li>
+    <!--EN: constructionName->test facility-->
+    <li>constructionName-&gt;test facility</li>
+    <!--EN: constructionName->work village-->
+    <li>constructionName-&gt;work village</li>
+    <!--EN: constructionName->prototype yard-->
+    <li>constructionName-&gt;prototype yard</li>
+    <!--EN: constructionName->engineering hub-->
+    <li>constructionName-&gt;engineering hub</li>
+    <!--EN: constructionName->construction facility-->
+    <li>constructionName-&gt;construction facility</li>
+    <!--EN: constructionName->ARC facility-->
+    <li>constructionName-&gt;ARC facility</li>
+    <!--EN: constructionName->energy project site-->
+    <li>constructionName-&gt;energy project site</li>
+  </VQE_AbandonedARC.questNameRules.rulesStrings>
+  <VQE_AncientARC.questContentRules.rulesStrings>
+    <!--EN: terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.-->
+    <li>terminalStudiedMessage-&gt;Terminal studied. You've collected the information and can now leave.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->You have [discoveryDesc] of a [adj] village where the potentially final prototype of [inventor_nameFull]'s [arcName] has been built. The villagers [villagerBehavior], and the site [villageCondition].\n\n[arcDetails] However, [villagerWarnings]. If [trigger], the villagers will [villagerReaction].\n\n[finalWarning]-->
+    <li>questDescription-&gt;You have [discoveryDesc] of a [adj] village where the potentially final prototype of [inventor_nameFull]'s [arcName] has been built. The villagers [villagerBehavior], and the site [villageCondition].\n\n[arcDetails] However, [villagerWarnings]. If [trigger], the villagers will [villagerReaction].\n\n[finalWarning]</li>
+    <!--EN: discoveryDesc->learned-->
+    <li>discoveryDesc-&gt;learned</li>
+    <!--EN: discoveryDesc->discovered-->
+    <li>discoveryDesc-&gt;discovered</li>
+    <!--EN: discoveryDesc->found the location-->
+    <li>discoveryDesc-&gt;found the location</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->decayed-->
+    <li>adj-&gt;decayed</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: arcName->ARC-->
+    <li>arcName-&gt;ARC</li>
+    <!--EN: arcName->relic-->
+    <li>arcName-&gt;relic</li>
+    <!--EN: arcName->artifact-->
+    <li>arcName-&gt;artifact</li>
+    <!--EN: arcName->device-->
+    <li>arcName-&gt;device</li>
+    <!--EN: arcName->core-->
+    <li>arcName-&gt;core</li>
+    <!--EN: villagerBehavior->venerate the [arcName]-->
+    <li>villagerBehavior-&gt;venerate the [arcName]</li>
+    <!--EN: villagerBehavior->worship the [arcName]-->
+    <li>villagerBehavior-&gt;worship the [arcName]</li>
+    <!--EN: villagerBehavior->protect the [arcName]-->
+    <li>villagerBehavior-&gt;protect the [arcName]</li>
+    <!--EN: villagerBehavior->revere the [arcName]-->
+    <li>villagerBehavior-&gt;revere the [arcName]</li>
+    <!--EN: villagerBehavior->guard the [arcName]-->
+    <li>villagerBehavior-&gt;guard the [arcName]</li>
+    <!--EN: villageCondition->shows signs of past technological greatness-->
+    <li>villageCondition-&gt;shows signs of past technological greatness</li>
+    <!--EN: villageCondition->is overgrown and crumbling-->
+    <li>villageCondition-&gt;is overgrown and crumbling</li>
+    <!--EN: villageCondition->has decayed into primitive simplicity-->
+    <li>villageCondition-&gt;has decayed into primitive simplicity</li>
+    <!--EN: villageCondition->has long since fallen from its peak-->
+    <li>villageCondition-&gt;has long since fallen from its peak</li>
+    <!--EN: villageCondition->bears the scars of time and neglect-->
+    <li>villageCondition-&gt;bears the scars of time and neglect</li>
+    <!--EN: arcDetails->The [arcName] is said to hold valuable secrets for your colony.-->
+    <li>arcDetails-&gt;The [arcName] is said to hold valuable secrets for your colony.</li>
+    <!--EN: arcDetails->Studying the [arcName] could unlock vital knowledge.-->
+    <li>arcDetails-&gt;Studying the [arcName] could unlock vital knowledge.</li>
+    <!--EN: arcDetails->This ancient [arcName] may reveal the means to build one yourself.-->
+    <li>arcDetails-&gt;This ancient [arcName] may reveal the means to build one yourself.</li>
+    <!--EN: villagerWarnings->be careful not to provoke the villagers-->
+    <li>villagerWarnings-&gt;be careful not to provoke the villagers</li>
+    <!--EN: villagerWarnings->the villagers will not take kindly to trespassers-->
+    <li>villagerWarnings-&gt;the villagers will not take kindly to trespassers</li>
+    <!--EN: villagerWarnings->violating their sanctity may result in hostility-->
+    <li>villagerWarnings-&gt;violating their sanctity may result in hostility</li>
+    <!--EN: villagerWarnings->their patience may be thin with outsiders-->
+    <li>villagerWarnings-&gt;their patience may be thin with outsiders</li>
+    <!--EN: trigger->you harm anyone, interact with the [arcName] or overstay your welcome-->
+    <li>trigger-&gt;you harm anyone, interact with the [arcName] or overstay your welcome</li>
+    <!--EN: villagerReaction->turn hostile and call for reinforcements-->
+    <li>villagerReaction-&gt;turn hostile and call for reinforcements</li>
+    <!--EN: villagerReaction->attack with all their might-->
+    <li>villagerReaction-&gt;attack with all their might</li>
+    <!--EN: villagerReaction->defend their home at all costs-->
+    <li>villagerReaction-&gt;defend their home at all costs</li>
+    <!--EN: villagerReaction->lash out in violent retaliation-->
+    <li>villagerReaction-&gt;lash out in violent retaliation</li>
+    <!--EN: finalWarning->If hostilities break out, reinforcements may arrive quickly.-->
+    <li>finalWarning-&gt;If hostilities break out, reinforcements may arrive quickly.</li>
+    <!--EN: finalWarning->If conflict arises, expect heavy resistance.-->
+    <li>finalWarning-&gt;If conflict arises, expect heavy resistance.</li>
+    <!--EN: finalWarning->Failure to act swiftly could spell disaster.-->
+    <li>finalWarning-&gt;Failure to act swiftly could spell disaster.</li>
+    <!--EN: finalWarning->Prepare for an overwhelming response if provoked.-->
+    <li>finalWarning-&gt;Prepare for an overwhelming response if provoked.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <!--EN: questName->The [adj] [arcName]-->
+    <li>questName-&gt;The [adj] [arcName]</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->sacred-->
+    <li>adj-&gt;sacred</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: adj->forsaken-->
+    <li>adj-&gt;forsaken</li>
+    <!--EN: adj->tribal-->
+    <li>adj-&gt;tribal</li>
+    <!--EN: adj->lost-->
+    <li>adj-&gt;lost</li>
+    <!--EN: adj->overgrown-->
+    <li>adj-&gt;overgrown</li>
+    <!--EN: arcName(p=4)->ARC-->
+    <li>arcName(p=4)-&gt;ARC</li>
+    <!--EN: arcName->structure-->
+    <li>arcName-&gt;structure</li>
+    <!--EN: arcName->machine-->
+    <li>arcName-&gt;machine</li>
+    <!--EN: arcName->relic-->
+    <li>arcName-&gt;relic</li>
+    <!--EN: arcName->generator-->
+    <li>arcName-&gt;generator</li>
+    <!--EN: arcName->core-->
+    <li>arcName-&gt;core</li>
+    <!--EN: arcName->artifact-->
+    <li>arcName-&gt;artifact</li>
+    <!--EN: arcName->device-->
+    <li>arcName-&gt;device</li>
+    <!--EN: arcName->source-->
+    <li>arcName-&gt;source</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+  <VQE_ArcSite.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has occupied the location of an abandoned ARC generator site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the ARC generator and recover valuable ARC components. [asker_label] also says that [sitePart0_description].-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has occupied the location of an abandoned ARC generator site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the ARC generator and recover valuable ARC components. [asker_label] also says that [sitePart0_description].</li>
+    <!--EN: questDescription(askerIsNull==true)->We have received information that an old ARC generator site has been taken over by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the generator for any remaining research data and salvageable ARC components. Be prepared for resistance, as the site is likely heavily guarded. Additionally, [sitePart0_description].-->
+    <li>questDescription(askerIsNull==true)-&gt;We have received information that an old ARC generator site has been taken over by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the generator for any remaining research data and salvageable ARC components. Be prepared for resistance, as the site is likely heavily guarded. Additionally, [sitePart0_description].</li>
+    <!--EN: sitePart0_description->the site is partially overgrown, with many of its original structures crumbling from age-->
+    <li>sitePart0_description-&gt;the site is partially overgrown, with many of its original structures crumbling from age</li>
+    <!--EN: sitePart0_description->the bandits have fortified the site with makeshift defenses and traps-->
+    <li>sitePart0_description-&gt;the bandits have fortified the site with makeshift defenses and traps</li>
+    <!--EN: sitePart0_description->the ARC generator is visibly damaged but still holds valuable salvage-->
+    <li>sitePart0_description-&gt;the ARC generator is visibly damaged but still holds valuable salvage</li>
+    <!--EN: sitePart0_description->the site appears to be a mix of old ruins and hastily built bandit encampments-->
+    <li>sitePart0_description-&gt;the site appears to be a mix of old ruins and hastily built bandit encampments</li>
+    <!--EN: sitePart0_description->hostile patrols have been seen guarding the perimeter-->
+    <li>sitePart0_description-&gt;hostile patrols have been seen guarding the perimeter</li>
+    <!--EN: sitePart0_description->the bandits are using the generator to power their crude operations-->
+    <li>sitePart0_description-&gt;the bandits are using the generator to power their crude operations</li>
+  </VQE_ArcSite.questDescriptionRules.rulesStrings>
+  <VQE_ArcSite.questNameRules.rulesStrings>
+    <!--EN: questName->[adj] [arcName]-->
+    <li>questName-&gt;[adj] [arcName]</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->forsaken-->
+    <li>adj-&gt;forsaken</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->remote-->
+    <li>adj-&gt;remote</li>
+    <!--EN: adj->desolate-->
+    <li>adj-&gt;desolate</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: adj->bandit-controlled-->
+    <li>adj-&gt;bandit-controlled</li>
+    <!--EN: adj->enemy-->
+    <li>adj-&gt;enemy</li>
+    <!--EN: adj->hideout-->
+    <li>adj-&gt;hideout</li>
+    <!--EN: adj->overrun-->
+    <li>adj-&gt;overrun</li>
+    <!--EN: adj->dangerous-->
+    <li>adj-&gt;dangerous</li>
+    <!--EN: arcName->ARC generator site-->
+    <li>arcName-&gt;ARC generator site</li>
+    <!--EN: arcName->power facility-->
+    <li>arcName-&gt;power facility</li>
+    <!--EN: arcName->generator station-->
+    <li>arcName-&gt;generator station</li>
+    <!--EN: arcName->industrial core-->
+    <li>arcName-&gt;industrial core</li>
+    <!--EN: arcName->energy relic-->
+    <li>arcName-&gt;energy relic</li>
+    <!--EN: arcName->power ruins-->
+    <li>arcName-&gt;power ruins</li>
+    <!--EN: arcName->ARC ruins-->
+    <li>arcName-&gt;ARC ruins</li>
+    <!--EN: arcName->prototype generator-->
+    <li>arcName-&gt;prototype generator</li>
+  </VQE_ArcSite.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VQE_ArcSite.root.nodes.2.node.nodes.0.label>Quest expired: [resolvedQuestName]</VQE_ArcSite.root.nodes.2.node.nodes.0.label>
+  <!--EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.-->
+  <VQE_ArcSite.root.nodes.2.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VQE_ArcSite.root.nodes.2.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VQE_ArcSite.root.nodes.3.node.nodes.0.label>Quest failed: [resolvedQuestName]</VQE_ArcSite.root.nodes.3.node.nodes.0.label>
+  <!--EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.-->
+  <VQE_ArcSite.root.nodes.3.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</VQE_ArcSite.root.nodes.3.node.nodes.0.text>
+  <VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].</li>
+    <!--EN: questDescription(askerIsNull==true)->We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].-->
+    <li>questDescription(askerIsNull==true)-&gt;We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].</li>
+    <!--EN: sitePart0_description->the site is partially overgrown, with remnants of its original machinery scattered around-->
+    <li>sitePart0_description-&gt;the site is partially overgrown, with remnants of its original machinery scattered around</li>
+    <!--EN: sitePart0_description->the bandits have reinforced the area with crude barricades and guard posts-->
+    <li>sitePart0_description-&gt;the bandits have reinforced the area with crude barricades and guard posts</li>
+    <!--EN: sitePart0_description->the geothermal ARC appears heavily worn but intact enough to salvage parts-->
+    <li>sitePart0_description-&gt;the geothermal ARC appears heavily worn but intact enough to salvage parts</li>
+    <!--EN: sitePart0_description->the facility's infrastructure is still standing, though it shows signs of significant wear-->
+    <li>sitePart0_description-&gt;the facility's infrastructure is still standing, though it shows signs of significant wear</li>
+    <!--EN: sitePart0_description->hostile patrols have been spotted in the area, ensuring no one approaches unchallenged-->
+    <li>sitePart0_description-&gt;hostile patrols have been spotted in the area, ensuring no one approaches unchallenged</li>
+    <!--EN: sitePart0_description->the bandits seem to be utilizing the ARC to power their operations-->
+    <li>sitePart0_description-&gt;the bandits seem to be utilizing the ARC to power their operations</li>
+  </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+  <VQE_GeothermalArcSite.questNameRules.rulesStrings>
+    <!--EN: questName->[adj] [arcType] [siteType]-->
+    <li>questName-&gt;[adj] [arcType] [siteType]</li>
+    <!--EN: adj->seized-->
+    <li>adj-&gt;seized</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->guarded-->
+    <li>adj-&gt;guarded</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->overrun-->
+    <li>adj-&gt;overrun</li>
+    <!--EN: adj->occupied-->
+    <li>adj-&gt;occupied</li>
+    <!--EN: adj->contested-->
+    <li>adj-&gt;contested</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: arcType->geothermal ARC-->
+    <li>arcType-&gt;geothermal ARC</li>
+    <!--EN: arcType->ARC generator-->
+    <li>arcType-&gt;ARC generator</li>
+    <!--EN: arcType->geothermal core-->
+    <li>arcType-&gt;geothermal core</li>
+    <!--EN: arcType->ARC station-->
+    <li>arcType-&gt;ARC station</li>
+    <!--EN: arcType->energy core-->
+    <li>arcType-&gt;energy core</li>
+    <!--EN: arcType->power source-->
+    <li>arcType-&gt;power source</li>
+    <!--EN: arcType->geothermal plant-->
+    <li>arcType-&gt;geothermal plant</li>
+    <!--EN: siteType->site-->
+    <li>siteType-&gt;site</li>
+    <!--EN: siteType->facility-->
+    <li>siteType-&gt;facility</li>
+    <!--EN: siteType->outpost-->
+    <li>siteType-&gt;outpost</li>
+    <!--EN: siteType->complex-->
+    <li>siteType-&gt;complex</li>
+    <!--EN: siteType->camp-->
+    <li>siteType-&gt;camp</li>
+    <!--EN: siteType->station-->
+    <li>siteType-&gt;station</li>
+  </VQE_GeothermalArcSite.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label>Quest expired: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label>
+  <!--EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.-->
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label>Quest failed: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label>
+  <!--EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.-->
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text>
+  <VQE_InventorShelter.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->[dataDiscovery] revealed the location of a [adj] underground [structureType] where [inventor_nameFull] rests in cryptosleep. The journey will be grueling, as the site is afflicted by a[coldSnapDesc], bringing the region into unnaturally low temperatures. \n\nInside the bunker, a few [turretDefense] still guard the interior, powered by an ancient [arcName]. The ARC cannot be studied but can be deconstructed for [arcComponents]. Your primary task, however, is to reach the casket and release the inventor. Prepare carefully for the extreme cold or risk severe [hypothermiaDanger].-->
+    <li>questDescription-&gt;[dataDiscovery] revealed the location of a [adj] underground [structureType] where [inventor_nameFull] rests in cryptosleep. The journey will be grueling, as the site is afflicted by a[coldSnapDesc], bringing the region into unnaturally low temperatures. \n\nInside the bunker, a few [turretDefense] still guard the interior, powered by an ancient [arcName]. The ARC cannot be studied but can be deconstructed for [arcComponents]. Your primary task, however, is to reach the casket and release the inventor. Prepare carefully for the extreme cold or risk severe [hypothermiaDanger].</li>
+    <!--EN: questDescription->Recovered data points us to a [adj] bunker buried deep beneath a region suffering from a[coldSnapDesc]. It is here that [inventor_nameFull], the legendary mind behind the ARC project, lies sealed in cryptosleep. \n\nThe area’s temperatures are falling to dangerous lows, creating an immediate risk of [hypothermiaDanger] during your approach. Inside, [turretDefense] remain active, powered by an overgrown [arcName]. The ARC can be deconstructed for [arcComponents], but the real prize is freeing the inventor and bringing them back to your colony.-->
+    <li>questDescription-&gt;Recovered data points us to a [adj] bunker buried deep beneath a region suffering from a[coldSnapDesc]. It is here that [inventor_nameFull], the legendary mind behind the ARC project, lies sealed in cryptosleep. \n\nThe area’s temperatures are falling to dangerous lows, creating an immediate risk of [hypothermiaDanger] during your approach. Inside, [turretDefense] remain active, powered by an overgrown [arcName]. The ARC can be deconstructed for [arcComponents], but the real prize is freeing the inventor and bringing them back to your colony.</li>
+    <!--EN: questDescription->We’ve identified the location of a [adj] [structureType] where [inventor_nameFull] has been preserved in a cryptosleep casket. The area surrounding the site is cursed with a[coldSnapDesc], plummeting temperatures to deadly extremes. \n\nThe bunker itself houses a few [turretDefense], powered by an overgrown [arcName]. While the ARC cannot be studied, it can be salvaged for [arcComponents]. Be ready for freezing conditions and hypothermia as you attempt to retrieve the legendary inventor.-->
+    <li>questDescription-&gt;We’ve identified the location of a [adj] [structureType] where [inventor_nameFull] has been preserved in a cryptosleep casket. The area surrounding the site is cursed with a[coldSnapDesc], plummeting temperatures to deadly extremes. \n\nThe bunker itself houses a few [turretDefense], powered by an overgrown [arcName]. While the ARC cannot be studied, it can be salvaged for [arcComponents]. Be ready for freezing conditions and hypothermia as you attempt to retrieve the legendary inventor.</li>
+    <!--EN: dataDiscovery->Ancient schematics-->
+    <li>dataDiscovery-&gt;Ancient schematics</li>
+    <!--EN: dataDiscovery->Decoded transmissions-->
+    <li>dataDiscovery-&gt;Decoded transmissions</li>
+    <!--EN: dataDiscovery->Recovered coordinates-->
+    <li>dataDiscovery-&gt;Recovered coordinates</li>
+    <!--EN: dataDiscovery->Archived data logs-->
+    <li>dataDiscovery-&gt;Archived data logs</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: adj->sealed-->
+    <li>adj-&gt;sealed</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->overgrown-->
+    <li>adj-&gt;overgrown</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->remote-->
+    <li>adj-&gt;remote</li>
+    <!--EN: structureType->bunker-->
+    <li>structureType-&gt;bunker</li>
+    <!--EN: structureType->vault-->
+    <li>structureType-&gt;vault</li>
+    <!--EN: structureType->sanctuary-->
+    <li>structureType-&gt;sanctuary</li>
+    <!--EN: structureType->chamber-->
+    <li>structureType-&gt;chamber</li>
+    <!--EN: structureType->crypt-->
+    <li>structureType-&gt;crypt</li>
+    <!--EN: structureType->facility-->
+    <li>structureType-&gt;facility</li>
+    <!--EN: coldSnapDesc->n unnatural coldsnap-->
+    <li>coldSnapDesc-&gt;n unnatural coldsnap</li>
+    <!--EN: coldSnapDesc-> bizarre freezing anomaly-->
+    <li>coldSnapDesc-&gt; bizarre freezing anomaly</li>
+    <!--EN: coldSnapDesc->n unexplainable cold front-->
+    <li>coldSnapDesc-&gt;n unexplainable cold front</li>
+    <!--EN: coldSnapDesc-> mysterious deep freeze-->
+    <li>coldSnapDesc-&gt; mysterious deep freeze</li>
+    <!--EN: coldSnapDesc-> sudden extreme temperature drop-->
+    <li>coldSnapDesc-&gt; sudden extreme temperature drop</li>
+    <!--EN: coldSnapDesc-> deadly frost anomaly-->
+    <li>coldSnapDesc-&gt; deadly frost anomaly</li>
+    <!--EN: turretDefense->inactive turrets that occasionally sputter to life-->
+    <li>turretDefense-&gt;inactive turrets that occasionally sputter to life</li>
+    <!--EN: turretDefense->a handful of aging security turrets-->
+    <li>turretDefense-&gt;a handful of aging security turrets</li>
+    <!--EN: turretDefense->old but still lethal automated turrets-->
+    <li>turretDefense-&gt;old but still lethal automated turrets</li>
+    <!--EN: turretDefense->sporadically functional defense systems-->
+    <li>turretDefense-&gt;sporadically functional defense systems</li>
+    <!--EN: turretDefense->a few crumbling yet operational turrets-->
+    <li>turretDefense-&gt;a few crumbling yet operational turrets</li>
+    <!--EN: arcComponents->rare ARC components-->
+    <li>arcComponents-&gt;rare ARC components</li>
+    <!--EN: arcComponents->valuable technological salvage-->
+    <li>arcComponents-&gt;valuable technological salvage</li>
+    <!--EN: arcComponents->essential ARC salvage parts-->
+    <li>arcComponents-&gt;essential ARC salvage parts</li>
+    <!--EN: arcComponents->advanced generator fragments-->
+    <li>arcComponents-&gt;advanced generator fragments</li>
+    <!--EN: hypothermiaDanger->frostbite and hypothermia-->
+    <li>hypothermiaDanger-&gt;frostbite and hypothermia</li>
+    <!--EN: hypothermiaDanger->rapid onset hypothermia-->
+    <li>hypothermiaDanger-&gt;rapid onset hypothermia</li>
+    <!--EN: hypothermiaDanger->life-threatening cold exposure-->
+    <li>hypothermiaDanger-&gt;life-threatening cold exposure</li>
+    <!--EN: hypothermiaDanger->freezing injuries and exhaustion-->
+    <li>hypothermiaDanger-&gt;freezing injuries and exhaustion</li>
+    <!--EN: hypothermiaDanger->severe frostbite or death-->
+    <li>hypothermiaDanger-&gt;severe frostbite or death</li>
+    <!--EN: arcName->ARC generator-->
+    <li>arcName-&gt;ARC generator</li>
+  </VQE_InventorShelter.questDescriptionRules.rulesStrings>
+  <VQE_InventorShelter.questNameRules.rulesStrings>
+    <!--EN: questName->[Inventor_LastName]’s [adj] [structureType]-->
+    <li>questName-&gt;[Inventor_LastName]’s [adj] [structureType]</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->sealed-->
+    <li>adj-&gt;sealed</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->remote-->
+    <li>adj-&gt;remote</li>
+    <!--EN: adj->lost-->
+    <li>adj-&gt;lost</li>
+    <!--EN: adj->secret-->
+    <li>adj-&gt;secret</li>
+    <!--EN: adj->forsaken-->
+    <li>adj-&gt;forsaken</li>
+    <!--EN: structureType->bunker-->
+    <li>structureType-&gt;bunker</li>
+    <!--EN: structureType->vault-->
+    <li>structureType-&gt;vault</li>
+    <!--EN: structureType->crypt-->
+    <li>structureType-&gt;crypt</li>
+    <!--EN: structureType->tomb-->
+    <li>structureType-&gt;tomb</li>
+    <!--EN: structureType->chamber-->
+    <li>structureType-&gt;chamber</li>
+    <!--EN: structureType->sanctuary-->
+    <li>structureType-&gt;sanctuary</li>
+    <!--EN: structureType->facility-->
+    <li>structureType-&gt;facility</li>
+    <!--EN: structureType->shelter-->
+    <li>structureType-&gt;shelter</li>
+  </VQE_InventorShelter.questNameRules.rulesStrings>
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]</li>
+    <!--EN: questDescription(askerIsNull==true)->We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]-->
+    <li>questDescription(askerIsNull==true)-&gt;We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]</li>
+    <!--EN: sitePart0_description->the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay-->
+    <li>sitePart0_description-&gt;the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay</li>
+    <!--EN: sitePart0_description->the bandits have heavily fortified the area with makeshift barriers and traps-->
+    <li>sitePart0_description-&gt;the bandits have heavily fortified the area with makeshift barriers and traps</li>
+    <!--EN: sitePart0_description->the husk appears partially intact, holding the promise of valuable salvage-->
+    <li>sitePart0_description-&gt;the husk appears partially intact, holding the promise of valuable salvage</li>
+    <!--EN: sitePart0_description->the site is a mix of ancient industrial ruins and ramshackle bandit encampments-->
+    <li>sitePart0_description-&gt;the site is a mix of ancient industrial ruins and ramshackle bandit encampments</li>
+    <!--EN: sitePart0_description->hostile patrols have been spotted guarding the perimeter-->
+    <li>sitePart0_description-&gt;hostile patrols have been spotted guarding the perimeter</li>
+    <!--EN: sitePart0_description->the bandits are using the ARC husk to power their crude machinery and weapons-->
+    <li>sitePart0_description-&gt;the bandits are using the ARC husk to power their crude machinery and weapons</li>
+    <!--EN: sitePart1_description->The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment-->
+    <li>sitePart1_description-&gt;The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment</li>
+    <!--EN: sitePart1_description->A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach-->
+    <li>sitePart1_description-&gt;A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach</li>
+    <!--EN: sitePart1_description->Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger-->
+    <li>sitePart1_description-&gt;Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger</li>
+    <!--EN: sitePart1_description->The site is covered in toxic fallout, making survival without protective gear extremely difficult-->
+    <li>sitePart1_description-&gt;The site is covered in toxic fallout, making survival without protective gear extremely difficult</li>
+    <!--EN: sitePart1_description->Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past-->
+    <li>sitePart1_description-&gt;Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <!--EN: questName->[adj] [nuclearArcName]-->
+    <li>questName-&gt;[adj] [nuclearArcName]</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->bandit-occupied-->
+    <li>adj-&gt;bandit-occupied</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->overrun-->
+    <li>adj-&gt;overrun</li>
+    <!--EN: adj->desecrated-->
+    <li>adj-&gt;desecrated</li>
+    <!--EN: adj->dangerous-->
+    <li>adj-&gt;dangerous</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: nuclearArcName->Nuclear ARC Site-->
+    <li>nuclearArcName-&gt;Nuclear ARC Site</li>
+    <!--EN: nuclearArcName->ARC Husk-->
+    <li>nuclearArcName-&gt;ARC Husk</li>
+    <!--EN: nuclearArcName->Reactor Remains-->
+    <li>nuclearArcName-&gt;Reactor Remains</li>
+    <!--EN: nuclearArcName->ARC Ruins-->
+    <li>nuclearArcName-&gt;ARC Ruins</li>
+    <!--EN: nuclearArcName->Generator Relic-->
+    <li>nuclearArcName-&gt;Generator Relic</li>
+    <!--EN: nuclearArcName->Reactor Core-->
+    <li>nuclearArcName-&gt;Reactor Core</li>
+    <!--EN: nuclearArcName->Power Husk-->
+    <li>nuclearArcName-&gt;Power Husk</li>
+    <!--EN: nuclearArcName->Energy Vault-->
+    <li>nuclearArcName-&gt;Energy Vault</li>
+    <!--EN: nuclearArcName->Forsaken Reactor-->
+    <li>nuclearArcName-&gt;Forsaken Reactor</li>
+    <!--EN: nuclearArcName->Generator Site-->
+    <li>nuclearArcName-&gt;Generator Site</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label>Quest expired: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label>
+  <!--EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.-->
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label>Quest failed: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label>
+  <!--EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.-->
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text>
+  <VQE_PrototypeARC.questContentRules.rulesStrings>
+    <!--EN: terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.-->
+    <li>terminalStudiedMessage-&gt;Terminal studied. You've collected the information and can now leave.</li>
+  </VQE_PrototypeARC.questContentRules.rulesStrings>
+  <VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of an ancient construction site where [inventor_nameFull] once worked on a massive prototype generator. The site appears abandoned and isolated, surrounded by the remnants of a long-forgotten project.\n\n[terminalDetails] Visiting this site may provide [potentialRewards]. [journeyDetails] [finalDetails]-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of an ancient construction site where [inventor_nameFull] once worked on a massive prototype generator. The site appears abandoned and isolated, surrounded by the remnants of a long-forgotten project.\n\n[terminalDetails] Visiting this site may provide [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <!--EN: questDescription(askerIsNull==True)->We have discovered an ancient construction site where [inventor_nameFull] was working on a large prototype generator. The site lies in a remote location, surrounded by the ruins of an unfinished project.\n\n[terminalDetails] Exploring the site may yield [potentialRewards]. [journeyDetails] [finalDetails]-->
+    <li>questDescription(askerIsNull==True)-&gt;We have discovered an ancient construction site where [inventor_nameFull] was working on a large prototype generator. The site lies in a remote location, surrounded by the ruins of an unfinished project.\n\n[terminalDetails] Exploring the site may yield [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <!--EN: terminalDetails->There is a still-operational terminal containing research notes and schematics of [inventor_nameFull]'s work.-->
+    <li>terminalDetails-&gt;There is a still-operational terminal containing research notes and schematics of [inventor_nameFull]'s work.</li>
+    <!--EN: terminalDetails->An active terminal holds critical data logs and experimental insights into generator construction.-->
+    <li>terminalDetails-&gt;An active terminal holds critical data logs and experimental insights into generator construction.</li>
+    <!--EN: terminalDetails->The site contains a terminal rumored to have design blueprints and energy research breakthroughs.-->
+    <li>terminalDetails-&gt;The site contains a terminal rumored to have design blueprints and energy research breakthroughs.</li>
+    <!--EN: terminalDetails->Ancient systems still hum faintly, offering a glimpse into [inventor_nameFull]'s ambitious prototype.-->
+    <li>terminalDetails-&gt;Ancient systems still hum faintly, offering a glimpse into [inventor_nameFull]'s ambitious prototype.</li>
+    <!--EN: terminalDetails->A damaged terminal may still hold data on the ARC prototype, but its condition is uncertain.-->
+    <li>terminalDetails-&gt;A damaged terminal may still hold data on the ARC prototype, but its condition is uncertain.</li>
+    <!--EN: potentialRewards->rare components, advanced research data, and valuable resources-->
+    <li>potentialRewards-&gt;rare components, advanced research data, and valuable resources</li>
+    <!--EN: potentialRewards->essential materials, generator schematics, and advanced technology insights-->
+    <li>potentialRewards-&gt;essential materials, generator schematics, and advanced technology insights</li>
+    <!--EN: potentialRewards->valuable knowledge, unique building materials, and rare artifacts-->
+    <li>potentialRewards-&gt;valuable knowledge, unique building materials, and rare artifacts</li>
+    <!--EN: potentialRewards->critical research breakthroughs and a bounty of salvageable materials-->
+    <li>potentialRewards-&gt;critical research breakthroughs and a bounty of salvageable materials</li>
+    <!--EN: potentialRewards->rare loot and potentially groundbreaking energy research-->
+    <li>potentialRewards-&gt;rare loot and potentially groundbreaking energy research</li>
+    <!--EN: journeyDetails->The location is far away and will require careful preparation for the trip.-->
+    <li>journeyDetails-&gt;The location is far away and will require careful preparation for the trip.</li>
+    <!--EN: journeyDetails->The long distance to the site makes the expedition challenging but potentially rewarding.-->
+    <li>journeyDetails-&gt;The long distance to the site makes the expedition challenging but potentially rewarding.</li>
+    <!--EN: journeyDetails->Traveling to the site will demand significant time and resources.-->
+    <li>journeyDetails-&gt;Traveling to the site will demand significant time and resources.</li>
+    <!--EN: journeyDetails->The journey to this remote site may be dangerous but worth the effort.-->
+    <li>journeyDetails-&gt;The journey to this remote site may be dangerous but worth the effort.</li>
+    <!--EN: journeyDetails->Its remote location suggests few immediate threats, but supplies will be key.-->
+    <li>journeyDetails-&gt;Its remote location suggests few immediate threats, but supplies will be key.</li>
+    <!--EN: finalDetails->While no dangers are expected, the journey itself poses risks to unprepared colonists.-->
+    <li>finalDetails-&gt;While no dangers are expected, the journey itself poses risks to unprepared colonists.</li>
+    <!--EN: finalDetails->The site seems derelict, but caution is advised—its isolation may hide unexpected challenges.-->
+    <li>finalDetails-&gt;The site seems derelict, but caution is advised—its isolation may hide unexpected challenges.</li>
+    <!--EN: finalDetails->The area appears uninhabited, but its age may make navigation and survival difficult.-->
+    <li>finalDetails-&gt;The area appears uninhabited, but its age may make navigation and survival difficult.</li>
+    <!--EN: finalDetails->Prepare for the worst while hoping for the best—opportunity often comes with risk.-->
+    <li>finalDetails-&gt;Prepare for the worst while hoping for the best—opportunity often comes with risk.</li>
+    <!--EN: finalDetails->The isolation may provide safety, but also leaves little room for error if trouble arises.-->
+    <li>finalDetails-&gt;The isolation may provide safety, but also leaves little room for error if trouble arises.</li>
+  </VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+  <VQE_PrototypeARC.questNameRules.rulesStrings>
+    <!--EN: questName->The [adj] [prototypeName]-->
+    <li>questName-&gt;The [adj] [prototypeName]</li>
+    <!--EN: adj->unfinished-->
+    <li>adj-&gt;unfinished</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->experimental-->
+    <li>adj-&gt;experimental</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->failed-->
+    <li>adj-&gt;failed</li>
+    <!--EN: adj->unproven-->
+    <li>adj-&gt;unproven</li>
+    <!--EN: adj->mysterious-->
+    <li>adj-&gt;mysterious</li>
+    <!--EN: adj->partially completed-->
+    <li>adj-&gt;partially completed</li>
+    <!--EN: adj->incomplete-->
+    <li>adj-&gt;incomplete</li>
+    <!--EN: adj->early-stage-->
+    <li>adj-&gt;early-stage</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: prototypeName->prototype-->
+    <li>prototypeName-&gt;prototype</li>
+    <!--EN: prototypeName->experiment-->
+    <li>prototypeName-&gt;experiment</li>
+    <!--EN: prototypeName->design-->
+    <li>prototypeName-&gt;design</li>
+    <!--EN: prototypeName->project-->
+    <li>prototypeName-&gt;project</li>
+    <!--EN: prototypeName->power core-->
+    <li>prototypeName-&gt;power core</li>
+    <!--EN: prototypeName->machine-->
+    <li>prototypeName-&gt;machine</li>
+    <!--EN: prototypeName->concept-->
+    <li>prototypeName-&gt;concept</li>
+    <!--EN: prototypeName->generator-->
+    <li>prototypeName-&gt;generator</li>
+    <!--EN: prototypeName->energy source-->
+    <li>prototypeName-&gt;energy source</li>
+    <!--EN: prototypeName->device-->
+    <li>prototypeName-&gt;device</li>
+    <!--EN: prototypeName->creation-->
+    <li>prototypeName-&gt;creation</li>
+    <!--EN: prototypeName->artifact-->
+    <li>prototypeName-&gt;artifact</li>
+    <!--EN: prototypeName->test site-->
+    <li>prototypeName-&gt;test site</li>
+    <!--EN: prototypeName->framework-->
+    <li>prototypeName-&gt;framework</li>
+  </VQE_PrototypeARC.questNameRules.rulesStrings>
+</LanguageData>

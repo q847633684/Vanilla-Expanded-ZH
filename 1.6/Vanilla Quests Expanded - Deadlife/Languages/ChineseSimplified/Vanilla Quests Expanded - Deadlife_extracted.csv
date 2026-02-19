@@ -1,0 +1,560 @@
+key,text,tag,file,type
+VQED_KickstartedSuccess,{0} has successfully kickstarted the generator,VQED_KickstartedSuccess,Keys.xml,keyed
+VQED_KickStartTimer,Will stop working in {0},VQED_KickStartTimer,Keys.xml,keyed
+VQED_DebugNextSpawn,DEBUG: Spawning shamblers in {0},VQED_DebugNextSpawn,Keys.xml,keyed
+VQED_StudyAncientPlansLabel,Study ancient plans,VQED_StudyAncientPlansLabel,Keys.xml,keyed
+VQED_StudyAncientPlansDesc,Study the ancient plans to discover the location of another ancient silo.,VQED_StudyAncientPlansDesc,Keys.xml,keyed
+VQED_MissingKinoProjector,Missing: ancient kino projector,VQED_MissingKinoProjector,Keys.xml,keyed
+VQED_KinoProjectorUnpowered,Not working: ancient kino projector is unpowered,VQED_KinoProjectorUnpowered,Keys.xml,keyed
+VQED_KinoScreenWrongRotation,Not working: ancient kino projector doesn't face the kino screen,VQED_KinoScreenWrongRotation,Keys.xml,keyed
+VQED_KinoScreenRequiresProjector,Ancient kino screen requires an ancient kino projector placed in front of it to work.,VQED_KinoScreenRequiresProjector,Keys.xml,keyed
+VQED_WeaponDeterioratedMessage,"{0}, equipped by {1}, has fully deteriorated.",VQED_WeaponDeterioratedMessage,Keys.xml,keyed
+VQED_WeaponDeteriorationInfo,This weapon will deteriorate after a certain number of shots.,VQED_WeaponDeteriorationInfo,Keys.xml,keyed
+VQED_ShotRemaining,Shots remaining: {0},VQED_ShotRemaining,Keys.xml,keyed
+VQE_EnterSilo,Enter silo,VQE_EnterSilo,Keys.xml,keyed
+VQE_ExitSilo,Exit silo,VQE_ExitSilo,Keys.xml,keyed
+VQE_ViewSilo,View silo,VQE_ViewSilo,Keys.xml,keyed
+VQE_ViewSiloDesc,View the ancient silo below.,VQE_ViewSiloDesc,Keys.xml,keyed
+VQED_FillPit,Fill in the death pit,VQED_FillPit,Keys.xml,keyed
+VQED_FillPitDesc,Cover the death pit with twisted metal slags to prevent anything from crawling out.,VQED_FillPitDesc,Keys.xml,keyed
+VQED_GeneralAwakensLabel,{PAWN_nameFull} awakens,VQED_GeneralAwakensLabel,Keys.xml,keyed
+VQED_GeneralAwakensText,"The sealed sarcophagus hisses open, releasing a cloud of deadlife dust, and from within rises {PAWN_title} {PAWN_nameFull}.
+
+Once the commander of Operation: Deadlife, {PAWN_nameFull} is now a shambler-bound remnant of a forgotten war. As {PAWN_pronoun} awakens, {PAWN_pronoun} begin reactivating the base’s long-dormant defense systems: rotstink vents, turret grids, shambler kennels, and containment pits filled with the dead.
+
+{PAWN_possessive} ultimate goal is clear: to initiate the launch sequence for the Deadlife ICBMs: orbital warheads designed to blanket the planet in death. If launched, shambler hordes will rise across the world, destroying settlements and ambushing caravans.
+
+You must reach the command center and destroy the ICBM Launch Terminal before {PAWN_nameFull} completes {PAWN_possessive} grim task.",VQED_GeneralAwakensText,Keys.xml,keyed
+VQED_GeneralUnsealedDeathPit,"To protect the launch site, General {0} unsealed one of the death pits.",VQED_GeneralUnsealedDeathPit,Keys.xml,keyed
+VQED_GeneralOpenedChutes,"To protect the launch site, General {0} opened up the chutes throughout the complex.",VQED_GeneralOpenedChutes,Keys.xml,keyed
+VQED_GeneralAwakenedOfficers,"To protect the launch site, General {0} has awakened a number of high ranking officers from their slumber.",VQED_GeneralAwakenedOfficers,Keys.xml,keyed
+VQED_GeneralActivatedTurrets,"To protect the launch site, General {0} has reactivated the military turrets throughout the complex.",VQED_GeneralActivatedTurrets,Keys.xml,keyed
+VQED_GeneralOpenedRotstinkVents,"To protect the launch site, General {0} has opened the biomass vents that will flush the complex with rotstink.",VQED_GeneralOpenedRotstinkVents,Keys.xml,keyed
+VQED_GeneralReleasedAnimals,"To protect the launch site, General {0} has let the animals out of the kennels.",VQED_GeneralReleasedAnimals,Keys.xml,keyed
+VQED_FactionBaseOverrun,{0} has been overrun by a horde of shamblers.,VQED_FactionBaseOverrun,Keys.xml,keyed
+VQED_ShamblersDefeated,The shambler horde has been defeated.,VQED_ShamblersDefeated,Keys.xml,keyed
+VQED_GeneralReactivatedDeadlifeVents,"To protect the launch site, General {0} reactivated the deadlife vents in an attempt to respawn any defeated shamblers.",VQED_GeneralReactivatedDeadlifeVents,Keys.xml,keyed
+VQED_ShamblerApocalypse.label,shambler apocalypse,label,GameConditionDef/GameConditionDef.xml,def
+VQED_ShamblerApocalypse.description,Detonation of Deadlife dust warheads in the upper atmosphere has permanently altered planetary conditions. A dense death pall now blankets the world. This pall reanimates all unburied corpses exposed to the open air.,description,GameConditionDef/GameConditionDef.xml,def
+VQED_ShamblerApocalypse.letterText,"Detonation of Deadlife dust warheads in the upper atmosphere has permanently altered planetary conditions. A dense death pall now blankets the world.\n\nThis pall reanimates all unburied corpses exposed to the open air. Any non-mechanoid corpse not under a roof will rise again as a shambler. Burned or fully destroyed corpses are unaffected.\n\nWhile the death pall is active, no normal weather transitions can occur. Rain will not fall, and fires may spread unchecked.\n\nOn a global scale, the death pall will linger for anywhere from three seasons to several years. In its wake, roaming Shambler hordes will now traverse the world, overrunning settlements and hunting down caravans.",letterText,GameConditionDef/GameConditionDef.xml,def
+VQED_ShamblerApocalypse.endMessage,Most of the deadlife dust has fallen. The death pall is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VQED_ShamblerHorde.label,shambler horde,label,VFECore.MovingBaseDef/VFECore.MovingBaseDef.xml,def
+VQED_ShamblerHorde.description,A roaming horde of shamblers traversing the world map.,description,VFECore.MovingBaseDef/VFECore.MovingBaseDef.xml,def
+VQED_General.label,general,label,HediffDef/HediffDef.xml,def
+VQE_WorkOnTerminal.reportString,working on terminal.,reportString,JobDef/JobDef.xml,def
+VQE_GeneralMale.rulePack.rulesStrings.0,r_name->[FirstNameMaleList] [LastNameList],li,RulePackDef/RulePackDef.xml,def
+VQE_GeneralFemale.rulePack.rulesStrings.0,r_name->[FirstNameFemaleList] [LastNameList],li,RulePackDef/RulePackDef.xml,def
+VQE_General.label,general,label,CreepJoinerFormKindDef/CreepJoinerFormKindDef.xml,def
+VQE_MilitaryShambler.label,shambler soldier,label,PawnKindDef/PawnKindDef.xml,def
+VQE_Deadlife_AncientICBMLaunchSite.questNameRules.rulesStrings.0,questName->ancient ICBM launch site,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientICBMLaunchSite.questDescriptionRules.rulesStrings.0,"questDescription->We have intercepted a broadcast at a recently raided underground silo: Operation: Deadlife is now underway. Enough resource silos have been breached, and the plan has been set in motion. The broadcast confirms that [General_nameFull] has initiated final preparations at an ancient ICBM launch site.\n\nRefueling of the devastating missiles is in progress. These warheads are armed with deadlife dust payloads and if launched, they will detonate high in orbit, spreading a near-permanent death pall across the planet. It is likely that endless hordes of shamblers will then scour the world, consuming or destroying all remaining civilization.\n\nWe have traced the origin of the signal to the ICBM launch facility. We must travel there and stop [General_nameFull] before the launch sequence can be completed. The site is expected to be heavily defended, not only swarming with shamblers, but also protected by restored automated defenses.\n\n[General_nameFull] will activate numerous defensive systems from the facility’s control room: opening sealed death pits, releasing shambler animals from containment kennels, flooding the complex with rotstink gas, and awakening elite deadlife officers from cryogenic caskets.\n\nOnly by reaching and destroying the launch terminal can we prevent the missiles from firing. Failure to stop the launch in time, or ignoring this threat entirely, will doom the planet to a global shambler apocalypse.\n\nThis is our only chance to end Operation: Deadlife once and for all.",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.0,questName->[ancient] [silo] [letter][digit][digit],li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.1,questName->[ancient] Designation: [siloPrefix]-[letter][digit],li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.2,ancient->Ancient,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.3,ancient->Forgotten,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.4,ancient->Old World,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.5,ancient->Precursor,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.6,ancient->Legacy,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.7,ancient->Obsolete,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.8,ancient->Redacted,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.9,ancient->Decommissioned,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.10,silo->Silo,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.11,silo->Vault,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.12,silo->Depot,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.13,silo->Bunker,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.14,silo->Complex,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.15,silo->Installation,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.16,silo->Sector,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.17,silo->Storage Unit,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.18,letter->Alpha,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.19,letter->Echo,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.20,letter->Sigma,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.21,letter->Kilo,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.22,letter->Delta,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.23,letter->Theta,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.24,letter->Gamma,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.25,letter->Zeta,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.26,digit->1,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.27,digit->2,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.28,digit->3,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.29,digit->4,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.30,digit->5,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.31,digit->6,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.32,digit->7,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.33,digit->8,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.34,digit->9,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.35,digit->0,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.36,letter->A,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.37,letter->B,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.38,letter->D,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.39,letter->E,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.40,letter->K,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.41,letter->Z,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.42,letter->X,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.43,letter->R,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.44,siloPrefix->SILO,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.45,siloPrefix->NODE,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.46,siloPrefix->VAULT,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.47,siloPrefix->UNIT,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.48,siloPrefix->SITE,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.49,siloPrefix->BKR,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questNameRules.rulesStrings.50,siloPrefix->ARC,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it's believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==True)->The ancient battle maps have revealed to us the location of a sealed entrance to one of the [ancientSilos] left behind during Operation: Deadlife, a planet-spanning initiative launched by a [longDeadGovernment] in preparation for global catastrophe.\n\nThese silos were designed to remain sealed for generations, [intention]. Inside, it's believed they contain [containedReward]. The deeper chambers are rumored to hold equipment and supplies capable of restarting civilization itself.\n\n[threat]. [importantLight]. Without the light, you’ll be navigating blind and vulnerable to attack.\n\n[commandMap]. Studying these might reveal the locations of other silos, and more importantly, bring us closer to discovering the Command Headquarters, the nerve center of Operation: Deadlife, where the truth behind this apocalyptic plan may still lie buried.\n\n[questObjective].",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.2,ancientSilos->ancient military silos,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.3,ancientSilos->sealed war-era bunkers,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.4,ancientSilos->abandoned military silos,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.5,ancientSilos->pre-collapse resource vaults,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.6,ancientSilos->forgotten subterranean complexes,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.7,ancientSilos->deep-storage logistics sites,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.8,ancientSilos->decaying military storage facilities,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.9,ancientSilos->bunkered infrastructure sites,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.10,ancientSilos->deadlife supply silos,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.11,longDeadGovernment->long-dead government,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.12,longDeadGovernment->ancient planetary alliance,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.13,longDeadGovernment->collapsed technocratic regime,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.14,longDeadGovernment->extinct militarized government,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.15,longDeadGovernment->forgotten emergency council,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.16,longDeadGovernment->defunct crisis-state authority,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.17,longDeadGovernment->long-vanished defense network,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.18,longDeadGovernment->fallen civil defense command,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.19,intention->intended to be opened only when humanity faced collapse,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.20,intention->built to withstand centuries and reopen in humanity’s darkest hour,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.21,intention->designed as failsafe supply nodes for rebuilding civilization,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.22,intention->meant to be activated only during a planetary extinction event,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.23,intention->set to unlock once the collapse protocols were confirmed,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.24,intention->intended to serve as last-resort caches for surviving factions,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.25,"containedReward->vast stockpiles of resources: steel, plasteel, medicine, weaponry, and even preserved cultural relics",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.26,"containedReward->a wealth of resources: hardened rations, components, medical supplies, and munitions",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.27,"containedReward->critical survival materials: building materials, medicines, weapons, and schematics",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.28,"containedReward->tools to rebuild: fuel, tools, seeds, weapons, and encrypted blueprints",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.29,containedReward->enough equipment to sustain or restart a new colony,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.30,"containedReward->a treasure trove of essential gear, preserved through time",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.31,"threat->Yet the silos are not empty. The corridors within are completely lightless, and something hostile is said to lurk in the dark",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.32,"threat->But time has not left them untouched. The interior is pitch black, and something stirs in the shadows",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.33,"threat->Explorers report movement inside: faint noises, heavy footsteps, shapes in the dark",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.34,"threat->Survivors speak of hostile entities lurking in the corridors, unseen until it’s too late",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.35,"threat->Whatever remains inside is not dormant, something guards these forgotten halls",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.36,"threat->The halls are quiet, but not empty. Something waits inside, cloaked in shadow",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.37,importantLight->Activating the power and lighting systems inside is critical,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.38,importantLight->Restoring power and activating lights will be vital to survival,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.39,"importantLight->Without illumination, any movement inside the silo is suicide",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.40,"importantLight->Light systems must be activated first, or you’ll be helpless in the dark",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.41,importantLight->Sight is your only defense. Find a way to power the lights quickly,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.42,"importantLight->Unless you activate the lights, the silo will be a deathtrap",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.43,commandMap->Each silo is also known to contain at least one ancient command desk or map table used to coordinate military movements,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.44,commandMap->Most silos house ancient desks or battle maps once used by field commanders,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.45,commandMap->Tactical tables scattered inside may contain encrypted maps to other installations,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.46,commandMap->Buried among the supplies are command desks filled with strategic data,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.47,commandMap->Decoding the maps on-site could reveal new locations tied to Operation: Deadlife,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.48,commandMap->Intact terminals and war tables could lead us to the central command,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.49,questObjective->The quest will complete once you loot at least a quarter of resources from the silo,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.50,questObjective->Loot at least 25% of the total resources stored in the silo to complete the quest,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.51,questObjective->The mission ends once a significant portion of the stored goods have been secured,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.52,questObjective->Successfully extracting a quarter of the silo’s contents will fulfill the objective,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.53,questObjective->You’ll need to claim at least a fourth of the silo’s supplies to mark this operation complete,li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings.54,"questObjective->Once enough materials have been secured and hauled out, the quest will be marked complete",li,QuestScriptDef/QuestScriptDef.xml,def
+VQE_AncientSilo.label,ancient silo,label,MapGeneratorDef/MapGeneratorDef.xml,def
+VQE_AncientSiloUnderground.label,ancient silo,label,GameConditionDef/GameConditionDef.xml,def
+VQE_AncientSiloUnderground.description,It's dark and damp here.,description,GameConditionDef/GameConditionDef.xml,def
+VQE_AncientSilo.description,This silo is filled with the putrid stench of rotting flesh.,description,BiomeDef/BiomeDef.xml,def
+VQE_DeadlifeQuestChain.label,Operation: Deadlife,label,VFECore.QuestChainDef/VFECore.QuestChainDef.xml,def
+VQE_DeadlifeQuestChain.description,"This quest will let you crack open and loot several underground silos left by an ancient civilization. As you scavenge the dark, ominous corridors, you’re bound to find out who [General_FullName] was and what was the purpose of the Operation: Deadlife.",description,VFECore.QuestChainDef/VFECore.QuestChainDef.xml,def
+VQE_AncientICBMLaunchSite.label,ancient ICBM launch site,label,SitePartDef/SitePartDef.xml,def
+VQE_AncientICBMLaunchSite.description,An ancient ICBM launch site.,description,SitePartDef/SitePartDef.xml,def
+VQED_AncientHullTile.label,ancient silo tile,label,TerrainDef/TerrainDef.xml,def
+VQED_AncientHullTile.description,Rusted tiles of an ancient silo.,description,TerrainDef/TerrainDef.xml,def
+VQED_AncientMetalGrate.label,ancient metal grate,label,TerrainDef/TerrainDef.xml,def
+VQED_AncientMetalGrate.description,"Ancient, rusted metal grates with some machinery visible underneath.",description,TerrainDef/TerrainDef.xml,def
+VQED_AncientSterileTile.label,ancient sterile tile,label,TerrainDef/TerrainDef.xml,def
+VQED_AncientSterileTile.description,"Ancient sterile tiles with special cleanliness-enhancing properties. Now heavily rusted, with old blood stains still present.",description,TerrainDef/TerrainDef.xml,def
+VQED_EerieFloor.label,eerie floor,label,TerrainDef/TerrainDef.xml,def
+VQED_EerieFloor.description,"Mysterious floor of an unknown origin, with eerily smooth surface and etchings.",description,TerrainDef/TerrainDef.xml,def
+VQED_LockedSiloHatch.label,locked silo hatch,label,ThingDef/ThingDef.xml,def
+VQED_LockedSiloHatch.description,"A sealed entrance to the deeper facility. Still structurally sound, but heavily pressurized. Can be forced open to allow access.",description,ThingDef/ThingDef.xml,def
+VQED_LockedSiloHatch.comps.0.jobString,Force this door open,jobString,ThingDef/ThingDef.xml,def
+VQED_SiloStaircase.label,silo staircase,label,ThingDef/ThingDef.xml,def
+VQED_SiloStaircase.description,A reinforced accessway to the lower levels. Coated in dust and stale air.,description,ThingDef/ThingDef.xml,def
+VQED_SiloExitStaircase.label,silo exit staircase,label,ThingDef/ThingDef.xml,def
+VQED_SiloExitStaircase.description,"A vertical return route to the surface. Rarely used, but still passable.",description,ThingDef/ThingDef.xml,def
+VQED_AncientSiloDoor.label,ancient silo door,label,ThingDef/ThingDef.xml,def
+VQED_AncientSiloDoor.description,A heavily reinforced door. It is slow to open but very strong. The door requires walls on either side to function.,description,ThingDef/ThingDef.xml,def
+VQED_StuckAncientSiloDoor.label,stuck ancient silo door,label,ThingDef/ThingDef.xml,def
+VQED_StuckAncientSiloDoor.description,"A heavily reinforced door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.",description,ThingDef/ThingDef.xml,def
+VQED_StuckAncientSiloDoor.comps.0.jobString,Force this ancient silo door open,jobString,ThingDef/ThingDef.xml,def
+VQED_AncientPassiveLamp.label,ancient passive lamp,label,ThingDef/ThingDef.xml,def
+VQED_AncientPassiveLamp.description,A passive illumination device. Emits a faint glow thanks to decaying long-life cells.,description,ThingDef/ThingDef.xml,def
+VQED_AncientSiloLamp.label,ancient silo lamp,label,ThingDef/ThingDef.xml,def
+VQED_AncientSiloLamp.description,A hard-wired light source installed in the facility. Still capable of emitting weak light.,description,ThingDef/ThingDef.xml,def
+VQED_AncientSiloFloodlight.label,ancient silo floodlight,label,ThingDef/ThingDef.xml,def
+VQED_AncientSiloFloodlight.description,A high-output floodlight installed for emergency lighting. Dims rapidly without reliable power.,description,ThingDef/ThingDef.xml,def
+VQED_EmptyMilitaryCrate.label,empty military crate,label,ThingDef/ThingDef.xml,def
+VQED_EmptyMilitaryCrate.description,"An empty, rusted military crate. Its contents are long gone.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfGold.label,military crate of gold,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfGold.description,"A rusted, military crate containing gold. The fact that the silo has been sealed for generations prevented it from being stolen.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfSilver.label,military crate of silver,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfSilver.description,"A rusted, military crate containing silver. The fact that the silo has been sealed for generations prevented it from being stolen.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfDeadlifeShells.label,military crate of deadlife shells,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfDeadlifeShells.description,"A rusted military crate with deadlife shells. These artillery shells are packed with a dust-like substance that, after exploding into a cloud, will settle on nearby human and animal corpses and raise them as shamblers. Many of those shells have lost their potency, but some may still work.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfBioferrite.label,military crate of bioferrite,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfBioferrite.description,"A rusted military crate, packed to the brim with bioferrite, extracted from some mysterious source by the ancient military.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfMedicine.label,military crate of medicine,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfMedicine.description,"A rusted military crate containing advanced glitterworld medicine. While some of it may no longer be usable, it’s possible to recover a few intact boxes from the crate.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfHemogen.label,military crate of hemogen,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryCrateOfHemogen.description,"A rusted military crate containing some old hemogen packs, mostly expired. With the right mindset, it’s possible to extract some hemogen packs from it.",description,ThingDef/ThingDef.xml,def
+VQED_EmptyMilitaryPallet.label,empty military pallet,label,ThingDef/ThingDef.xml,def
+VQED_EmptyMilitaryPallet.description,"An empty military pallet. If it held anything of value, it’s gone now.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfSteel.label,military pallet of steel,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfSteel.description,A storage pallet stacked with steel beams. The metal shows signs of surface oxidation but remains structurally sound.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfPlasteel.label,military pallet of plasteel,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfPlasteel.description,"A tightly packed pallet of dense, lightweight plasteel. Still in usable condition.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfComponents.label,military pallet of industrial components,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfComponents.description,A reinforced pallet of industrial-grade components. Each part seems to be untouched since storage.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfAdvancedComponents.label,military pallet of advanced components,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfAdvancedComponents.description,"A rare cache of precision-engineered components, carefully preserved for use in high-tech systems. Remarkably intact.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfMedicine.label,military pallet of medicine,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfMedicine.description,"Boxes of standard-issue medical supplies, sealed against decay. Some packaging shows wear, but the contents remain viable.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfRations.label,military pallet of rations,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfRations.description,"Stacks of packaged survival meals, labeled for long-term emergency use. Still sealed, still edible. Probably.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfSynthread.label,military pallet of synthread,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfSynthread.description,Rolls of synthetic fiber cloth wrapped and labeled for logistics. Faint chemical odor suggests it’s been stored for decades.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfHyperweave.label,military pallet of hyperweave,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfHyperweave.description,A high-security fabric pallet containing rolls of hyperweave. The dense weave still resists tearing or decay.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfHEShells.label,military pallet of high-explosive shells,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfHEShells.description,An ammunition pallet loaded with high-explosive artillery shells. Armed and dangerous.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfIncendiaryShells.label,military pallet of incendiary shells,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfIncendiaryShells.description,"A cache of incendiary shells packed in insulated cases. Volatile, even after years of storage.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfChemfuel.label,military pallet of chemfuel,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfChemfuel.description,A heavily marked pallet of sealed chemfuel containers. The liquid inside sloshes with worrying consistency.,description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfBooks.label,military pallet of books,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfBooks.description,"A crate of old books, many military-issue. Pages are slightly warped but readable, filled with technical and tactical data.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfBasicCarParts.label,military pallet of basic car parts,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfBasicCarParts.description,"A stack of labeled vehicle components, built for standard-issue transport units. Light corrosion on outer frames.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfAdvancedCarParts.label,military pallet of advanced car parts,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfAdvancedCarParts.description,"Precision vehicle parts, packed with extreme care. These components were never meant to be used lightly.",description,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfApparel.label,military pallet of apparel,label,ThingDef/ThingDef.xml,def
+VQED_MilitaryPalletOfApparel.description,"A crate of old military coats. Despite torn fabric and weird smell, they seem usable.",description,ThingDef/ThingDef.xml,def
+VQED_EmptySmallMilitaryCrate.label,empty military box,label,ThingDef/ThingDef.xml,def
+VQED_EmptySmallMilitaryCrate.description,"A small, rusted and empty military box. Anything of value is gone.",description,ThingDef/ThingDef.xml,def
+VQED_SmallMilitaryCrateOfFlares.label,military box of flares,label,ThingDef/ThingDef.xml,def
+VQED_SmallMilitaryCrateOfFlares.description,"A small, rusted military box. It seems to contain some valuable disruptor flares.",description,ThingDef/ThingDef.xml,def
+VQED_SmallMilitaryCrateWithATome.label,military box with an ancient tome,label,ThingDef/ThingDef.xml,def
+VQED_SmallMilitaryCrateWithATome.description,"A small, rusted military box. It seems to hold some creepy, ancient knowledge in the form of a tome.",description,ThingDef/ThingDef.xml,def
+VQED_EmptyAncientWeaponBox.label,opened weapon box,label,ThingDef/ThingDef.xml,def
+VQED_EmptyAncientWeaponBox.description,"A long, rotting wooden box that usually stores weapons. This one is empty.",description,ThingDef/ThingDef.xml,def
+VQED_MysteriousAncientWeaponBox.label,mysterious weapon crate,label,ThingDef/ThingDef.xml,def
+VQED_MysteriousAncientWeaponBox.description,"A long, rotting wooden box that usually stores weapons. Can be opened, but there’s no way to tell what weapon is inside.",description,ThingDef/ThingDef.xml,def
+VQED_AncientBurnoutGenerator.label,ancient burnout generator,label,ThingDef/ThingDef.xml,def
+VQED_AncientBurnoutGenerator.description,"A compact generator built for short-term use. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again.",description,ThingDef/ThingDef.xml,def
+VQED_AncientBurnoutGenerator.comps.2.jobString,Kickstarting burnout generator,jobString,ThingDef/ThingDef.xml,def
+VQED_IndustrialBurnoutGenerator.label,industrial burnout generator,label,ThingDef/ThingDef.xml,def
+VQED_IndustrialBurnoutGenerator.description,"A large emergency generator stored deep underground. Needs to be kickstarted to work, and will only operate for a limited amount of time before it shuts down. It can then be kickstarted again.",description,ThingDef/ThingDef.xml,def
+VQED_IndustrialBurnoutGenerator.comps.2.jobString,Kickstarting burnout generator,jobString,ThingDef/ThingDef.xml,def
+VQED_AncientHawk.label,ancient hawk,label,ThingDef/ThingDef.xml,def
+VQED_AncientHawk.description,An old fighter jet stored for future conflict. Time and corrosion have rendered it inoperative.,description,ThingDef/ThingDef.xml,def
+VQED_AncientLandship.label,ancient landship,label,ThingDef/ThingDef.xml,def
+VQED_AncientLandship.description,"A massive land vehicle stored for a peculiar purpose, perhaps for war. Its systems are dead and decayed.",description,ThingDef/ThingDef.xml,def
+VQED_AncientTank.label,ancient tank,label,ThingDef/ThingDef.xml,def
+VQED_AncientTank.description,A preserved armored vehicle. Its electronics and hydraulics have deteriorated with age.,description,ThingDef/ThingDef.xml,def
+VQED_UnwrappedAncientTank.label,ancient tank,label,ThingDef/ThingDef.xml,def
+VQED_UnwrappedAncientTank.description,A preserved armored vehicle. Its electronics and hydraulics have deteriorated with age.,description,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryCrate.label,ancient military crate,label,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryCrate.description,A sealed storage crate from a military cache. The contents have degraded or fused shut.,description,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryBox.label,ancient military box,label,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryBox.description,A compact supply box once ready for emergency use. Now warped from decades of exposure.,description,ThingDef/ThingDef.xml,def
+VQED_DamagedTire.label,damaged tire,label,ThingDef/ThingDef.xml,def
+VQED_DamagedTire.description,A spare tire stored too long in dry conditions. Its rubber has cracked and failed.,description,ThingDef/ThingDef.xml,def
+VQED_AncientOminousMachinery.label,ancient ominous machinery,label,ThingDef/ThingDef.xml,def
+VQED_AncientOminousMachinery.description,Complex equipment stored without documentation. Dust-clogged and inert after years of dormancy.,description,ThingDef/ThingDef.xml,def
+VQED_RustedStepladder.label,rusted stepladder,label,ThingDef/ThingDef.xml,def
+VQED_RustedStepladder.description,A maintenance ladder placed here long ago. Metal fatigue has made it unsafe to use.,description,ThingDef/ThingDef.xml,def
+VQED_PileOfCasings.label,pile of casings,label,ThingDef/ThingDef.xml,def
+VQED_PileOfCasings.description,Old artillery casings swept into a pile. Likely remnants from storage-level live-fire testing.,description,ThingDef/ThingDef.xml,def
+VQED_MountainOfCasings.label,mountain of casings,label,ThingDef/ThingDef.xml,def
+VQED_MountainOfCasings.description,A mass of rusted ammunition debris. Abandoned after an unknown training or malfunction event.,description,ThingDef/ThingDef.xml,def
+VQED_RottenCrate.label,rotten crate,label,ThingDef/ThingDef.xml,def
+VQED_RottenCrate.description,A wooden crate stored too close to moisture. It collapsed under its own weight.,description,ThingDef/ThingDef.xml,def
+VQED_LargeRottenCrate.label,large rotten crate,label,ThingDef/ThingDef.xml,def
+VQED_LargeRottenCrate.description,A heavy-duty storage crate that has warped and splintered with time.,description,ThingDef/ThingDef.xml,def
+VQED_AncientSpool.label,ancient spool,label,ThingDef/ThingDef.xml,def
+VQED_AncientSpool.description,A large industrial spool for cabling or hose. Corrosion has rendered it brittle and unusable.,description,ThingDef/ThingDef.xml,def
+VQED_OldShippingContainer.label,old shipping container,label,ThingDef/ThingDef.xml,def
+VQED_OldShippingContainer.description,A heavy shipping container once locked down for safety. Hinges are fused shut from rust.,description,ThingDef/ThingDef.xml,def
+VQED_BustedVehicleElevator.label,busted vehicle elevator,label,ThingDef/ThingDef.xml,def
+VQED_BustedVehicleElevator.description,An old elevator platform designed to move heavy vehicles. Non-functional due to mechanical failure.,description,ThingDef/ThingDef.xml,def
+VQED_DefunctTerminal.label,defunct terminal,label,ThingDef/ThingDef.xml,def
+VQED_DefunctTerminal.description,"An ancient computer terminal. It’s disconnected from power, or simply not working.",description,ThingDef/ThingDef.xml,def
+VQED_DefunctTerminalBank.label,defunct terminal bank,label,ThingDef/ThingDef.xml,def
+VQED_DefunctTerminalBank.description,"An ancient set of computer terminals. It’s disconnected from power, or simply not working.",description,ThingDef/ThingDef.xml,def
+VQED_RustedBarrel.label,rusted barrel,label,ThingDef/ThingDef.xml,def
+VQED_RustedBarrel.description,A sealed industrial barrel. Its contents long dried or evaporated.,description,ThingDef/ThingDef.xml,def
+VQED_UselessScripPallet.label,useless scrip pallet,label,ThingDef/ThingDef.xml,def
+VQED_UselessScripPallet.description,"A rotting pallet stacked with damp paper slips. Possibly currency, though their purpose is lost to time.",description,ThingDef/ThingDef.xml,def
+VQED_TirePallet.label,tire pallet,label,ThingDef/ThingDef.xml,def
+VQED_TirePallet.description,An organized set of spare tires. Time has made them brittle and unsafe.,description,ThingDef/ThingDef.xml,def
+VQED_BustedMinigunTurret.label,busted minigun turret,label,ThingDef/ThingDef.xml,def
+VQED_BustedMinigunTurret.description,An old turret housing torn open by heavy impacts. The weapon system inside is shattered and inert.,description,ThingDef/ThingDef.xml,def
+VQED_RustedImmobilizer.label,rusted immobilizer,label,ThingDef/ThingDef.xml,def
+VQED_RustedImmobilizer.description,A vertical restraint frame with metal straps and dark stains. Whatever was held here didn’t leave willingly.,description,ThingDef/ThingDef.xml,def
+VQED_RustedToolbox.label,rusted toolbox,label,ThingDef/ThingDef.xml,def
+VQED_RustedToolbox.description,A heavy toolbox kept in reserve. The tools inside have fused with rust and dust.,description,ThingDef/ThingDef.xml,def
+VQED_AncientHoldingPlatform.label,ancient holding platform,label,ThingDef/ThingDef.xml,def
+VQED_AncientHoldingPlatform.description,A reinforced platform meant to secure entities. The restraints are now inoperable.,description,ThingDef/ThingDef.xml,def
+VQED_RuinedInhibitorLeft.label,ruined large inhibitor (left),label,ThingDef/ThingDef.xml,def
+VQED_RuinedInhibitorLeft.description,A containment structure of unknown function. Critical systems have failed from prolonged inactivity.,description,ThingDef/ThingDef.xml,def
+VQED_RuinedInhibitorRight.label,ruined large inhibitor (right),label,ThingDef/ThingDef.xml,def
+VQED_RuinedInhibitorRight.description,A containment structure of unknown function. Critical systems have failed from prolonged inactivity.,description,ThingDef/ThingDef.xml,def
+VQED_RustedAncientCot.label,rusted ancient cot,label,ThingDef/ThingDef.xml,def
+VQED_RustedAncientCot.description,A rusted-out military cot. It offers little comfort.,description,ThingDef/ThingDef.xml,def
+VQED_AncientFuelPipeline.label,ancient fuel pipeline,label,ThingDef/ThingDef.xml,def
+VQED_AncientFuelPipeline.description,A large fuel pipeline for transporting chemfuel. Now rusted and badly damaged.,description,ThingDef/ThingDef.xml,def
+VQED_OpenDeadlifeCasket.label,empty deadlife casket,label,ThingDef/ThingDef.xml,def
+VQED_OpenDeadlifeCasket.description,An ancient military casket that suspends a high ranking soldier using the deadlife particles. Whatever has lied inside is no longer there.,description,ThingDef/ThingDef.xml,def
+VQED_EmptyAncientKennel.label,empty ancient kennel,label,ThingDef/ThingDef.xml,def
+VQED_EmptyAncientKennel.description,A large kennel that could hold several animals suspended in a deadlife dust-induced coma. It’s completely empty.,description,ThingDef/ThingDef.xml,def
+VQED_BuriedDeathPit.label,buried death pit,label,ThingDef/ThingDef.xml,def
+VQED_BuriedDeathPit.description,"An old containment pit now completely covered in twisted metal and scrap, preventing anything that lied dormant inside from crawling out.",description,ThingDef/ThingDef.xml,def
+VQED_AncientDesk.label,ancient desk,label,ThingDef/ThingDef.xml,def
+VQED_AncientDesk.description,An old military desk. Nothing useful remains on it.,description,ThingDef/ThingDef.xml,def
+VQED_AncientPlanningDesk.label,ancient planning desk,label,ThingDef/ThingDef.xml,def
+VQED_AncientPlanningDesk.description,An old military desk containing battle maps and plans. Studying it may reveal the location of another ancient silo.,description,ThingDef/ThingDef.xml,def
+VQED_EmptyICBMSilo.label,empty ICBM silo,label,ThingDef/ThingDef.xml,def
+VQED_EmptyICBMSilo.description,A missile cradle with no payload. Maintenance ports are sealed and fused.,description,ThingDef/ThingDef.xml,def
+VQED_LockedICBMSilo.label,locked ICBM silo,label,ThingDef/ThingDef.xml,def
+VQED_LockedICBMSilo.description,A silo hatch that never received a launch signal. The mechanism has since locked tight.,description,ThingDef/ThingDef.xml,def
+VQED_ICBMSiloLid.label,ICBM silo lid,label,ThingDef/ThingDef.xml,def
+VQED_ICBMSiloLid.description,A solid lid designed to protect an armed warhead. The release system has seized.,description,ThingDef/ThingDef.xml,def
+VQED_LoadedICBMSilo.label,loaded ICBM silo,label,ThingDef/ThingDef.xml,def
+VQED_LoadedICBMSilo.description,A still-intact missile lies inside this silo. No signs of activation or maintenance in decades.,description,ThingDef/ThingDef.xml,def
+VQED_InertDarkPillar.label,inert dark pillar,label,ThingDef/ThingDef.xml,def
+VQED_InertDarkPillar.description,"A towering black pillar of unknown alloy. Though it appears inactive, it hums faintly with a deep, almost imperceptible resonance. The surrounding air feels heavier near it, and equipment readings often fail without reason. No obvious function can be determined, but its presence is deeply unsettling.",description,ThingDef/ThingDef.xml,def
+VQED_InertDarkObelisk.label,inert dark obelisk,label,ThingDef/ThingDef.xml,def
+VQED_InertDarkObelisk.description,"A massive, jagged obelisk with no markings or visible seams. Its surface absorbs light unnaturally, and proximity induces headaches and unease. Though inert for now, occasional vibrations suggest it may not remain dormant forever.",description,ThingDef/ThingDef.xml,def
+VQED_InertDeathDoorway.label,inert death doorway,label,ThingDef/ThingDef.xml,def
+VQED_InertDeathDoorway.description,"A shadowed, monolithic doorway sealed into the structure itself. From within, thin streams of deadlife dust drift outward, defying airflow. No hinges, no mechanisms, only the sensation that something waits on the other side.",description,ThingDef/ThingDef.xml,def
+VQED_EerieSarcophagus.label,eerie sarcophagus,label,ThingDef/ThingDef.xml,def
+VQED_EerieSarcophagus.description,"A sealed black casket. It shows signs of internal pressure, but no visible access points.",description,ThingDef/ThingDef.xml,def
+VQED_EmptyEerieSarcophagus.label,empty eerie sarcophagus,label,ThingDef/ThingDef.xml,def
+VQED_EmptyEerieSarcophagus.description,An empty black casket.,description,ThingDef/ThingDef.xml,def
+VQED_ActiveTerminal.label,active terminal,label,ThingDef/ThingDef.xml,def
+VQED_ActiveTerminal.description,"An ancient computer terminal. It seems to still be connected to power, with some cryptic defensive protocols ready to be activated by a person in charge.",description,ThingDef/ThingDef.xml,def
+VQED_ICBMLaunchTerminal.label,ICBM launch terminal,label,ThingDef/ThingDef.xml,def
+VQED_ICBMLaunchTerminal.description,"An ancient set of computer terminals. The displays contain information about the preparation to launch a series of ICBMs containing deadlife payloads. Once the launch sequence is initiated, it cannot be stopped. It seems only the person in charge of the complex can initiate the launch.",description,ThingDef/ThingDef.xml,def
+VQED_SealedDeathPit.label,sealed death pit,label,ThingDef/ThingDef.xml,def
+VQED_SealedDeathPit.description,"A sealed containment pit lined with ancient restraints. Faint trails of deadlife dust seep from the cracks, and something inside constantly shifts, pushing, scraping, trying to crawl free. Heavy blast doors prevent the darkness from reaching out, but the mechanism seems well maintained.\n\nThe General can activate this trap from one of the terminals in the command room.",description,ThingDef/ThingDef.xml,def
+VQED_ClosedChute.label,closed chute,label,ThingDef/ThingDef.xml,def
+VQED_ClosedChute.description,A closed chute with an unknown purpose.\n\nThe General can activate this trap from one of the terminals in the command room.,description,ThingDef/ThingDef.xml,def
+VQED_ClosedDeadlifeCasket.label,closed deadlife casket,label,ThingDef/ThingDef.xml,def
+VQED_ClosedDeadlifeCasket.description,An ancient military casket that suspends a high ranking soldier using the deadlife particles.\n\nThe General can activate this trap from one of the terminals in the command room.,description,ThingDef/ThingDef.xml,def
+VQED_InactiveDeadlifeVent.label,inactive deadlife vent,label,ThingDef/ThingDef.xml,def
+VQED_InactiveDeadlifeVent.description,"A free standing vent connected to an underground deadlife particle distribution system. If it reactivates, it will quickly flood the area with deadlife dust.\n\nThe General can activate this trap from one of the terminals in the command room.",description,ThingDef/ThingDef.xml,def
+VQED_DormantMilitaryTurret.label,dormant military turret,label,ThingDef/ThingDef.xml,def
+VQED_DormantMilitaryTurret.description,"A dormant automatic turret. Belt-fed ammunition ensures it can fire continuously for long periods of time, but its dumb AI brain can't be directly controlled, which makes friendly fire likely. It seems to be inactive, for now.\n\nThe General can activate this trap from one of the terminals in the command room.",description,ThingDef/ThingDef.xml,def
+VQED_ClosedRotstinkVent.label,closed rotstink vent,label,ThingDef/ThingDef.xml,def
+VQED_ClosedRotstinkVent.description,A large vent connected to some revolting storage of biomass. It seems to be shut off for now.\n\nThe General can activate this trap from one of the terminals in the command room.,description,ThingDef/ThingDef.xml,def
+VQED_AncientKennel.label,ancient kennel,label,ThingDef/ThingDef.xml,def
+VQED_AncientKennel.description,"A large kennel that could hold several animals suspended in a deadlife dust-induced coma. Seems secure enough, for now.\n\nThe General can activate this trap from one of the terminals in the command room.",description,ThingDef/ThingDef.xml,def
+VQED_AncientKinoScreen.label,ancient kino screen,label,ThingDef/ThingDef.xml,def
+VQED_AncientKinoScreen.description,"A massive, old-world display once used for communal viewing. Grainy visuals flicker to life only when paired with a functioning kino projector. Still strangely captivating despite the static and distortion.",description,ThingDef/ThingDef.xml,def
+VQED_AncientKinoProjector.label,ancient kino projector,label,ThingDef/ThingDef.xml,def
+VQED_AncientKinoProjector.description,"An old projector unit positioned for use with a matching screen. Works when powered, but only if pointed at the kino screen.",description,ThingDef/ThingDef.xml,def
+VQED_DeathPit.label,death pit,label,ThingDef/ThingDef.xml,def
+VQED_DeathPit.description,"A sealed containment pit lined with ancient restraints. Faint trails of deadlife dust seep from the cracks, and something inside constantly shifts, pushing, scraping, trying to crawl free.",description,ThingDef/ThingDef.xml,def
+VQED_DeathHole.label,death hole,label,ThingDef/ThingDef.xml,def
+VQED_DeathHole.description,"A small containment hole where failed experiments were thrown, with the intention to later on be buried in concrete. Faint trails of deadlife dust seep out, and something inside constantly shifts, pushing, scraping, trying to crawl free.",description,ThingDef/ThingDef.xml,def
+VQED_DeadlifeNode.label,deadlife node,label,ThingDef/ThingDef.xml,def
+VQED_DeadlifeNode.description,A volatile node buried in the facility. Proximity or movement causes instability and discharge of deadlife particles.,description,ThingDef/ThingDef.xml,def
+VQED_OpenChute.label,chute,label,ThingDef/ThingDef.xml,def
+VQED_OpenChute.description,"An open chute with an unknown purpose. Some eerie sounds can be heard down below, but nobody knows how deep it goes.",description,ThingDef/ThingDef.xml,def
+VQED_ActiveDeadlifeVent.label,deadlife vent,label,ThingDef/ThingDef.xml,def
+VQED_ActiveDeadlifeVent.description,A free standing vent connected to an underground deadlife particle distribution system. An endless supply of deadlife dust pours from the outflow.,description,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryTurret.label,ancient military turret,label,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryTurret.description,"An automatic turret. Belt-fed ammunition ensures it can fire continuously for long periods of time, but its dumb AI brain can't be directly controlled, which makes friendly fire likely.",description,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryTurret_Bullet.label,mini-turret bullet,label,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryTurret_Gun.label,ancient military turret,label,ThingDef/ThingDef.xml,def
+VQED_AncientMilitaryTurret_Gun.description,A simple automatic gun made to be mounted on a turret.,description,ThingDef/ThingDef.xml,def
+VQED_OpenRotstinkVent.label,rotstink vent,label,ThingDef/ThingDef.xml,def
+VQED_OpenRotstinkVent.description,A large vent connected to some revolting storage of biomass. Ejects huge amounts of rotstink gas.,description,ThingDef/ThingDef.xml,def
+VQED_Gun_Autopistol_Ancient.label,ancient autopistol,label,ThingDef/ThingDef.xml,def
+VQED_Gun_Autopistol_Ancient.description,"A battered, iron-framed sidearm from a long-forgotten army. Though its slide rattles and the finish is gone, it still fires reliably. Low stopping power and short range, but quick on the draw. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair.",description,ThingDef/ThingDef.xml,def
+VQED_Gun_Autopistol_Ancient.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VQED_Gun_Autopistol_Ancient.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VQED_Gun_MachinePistol_Ancient.label,ancient machine pistol,label,ThingDef/ThingDef.xml,def
+VQED_Gun_MachinePistol_Ancient.description,"A relic of early automatic handgun design, once issued to infantry officers. Its crude construction and worn parts limit accuracy, but its compact size and high fire rate give it surprising lethality in close quarters. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair.",description,ThingDef/ThingDef.xml,def
+VQED_Gun_MachinePistol_Ancient.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VQED_Gun_MachinePistol_Ancient.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VQED_Gun_PumpShotgun_Ancient.label,ancient shotgun,label,ThingDef/ThingDef.xml,def
+VQED_Gun_PumpShotgun_Ancient.description,"A heavy, rust-pitted combat shotgun built for trench warfare. Fires a brutal spread of pellets at short range. Though cumbersome and slow to cycle, it remains deadly in confined spaces. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair.",description,ThingDef/ThingDef.xml,def
+VQED_Gun_PumpShotgun_Ancient.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VQED_Gun_PumpShotgun_Ancient.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VQED_Gun_LMG_Ancient.label,ancient LMG,label,ThingDef/ThingDef.xml,def
+VQED_Gun_LMG_Ancient.description,"An aging belt-fed light machine gun, covered in grime and stamped with the markings of a bygone military. Its recoil is harsh, and its accuracy poor, but the sheer volume of fire can pin down or shred groups of enemies when it holds together long enough to do so. Due to severe deterioration, this weapon can only fire a limited number of shots before breaking beyond repair.",description,ThingDef/ThingDef.xml,def
+VQED_Gun_LMG_Ancient.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VQED_Gun_LMG_Ancient.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VQED_Apparel_MilitaryCoat.label,military coat,label,ThingDef/ThingDef.xml,def
+VQED_Apparel_MilitaryCoat.description,"A heavy military coat designed for harsh conditions, offering protection from cold, wind, and debris on the battlefield. Makes the wearer more confident. Since the coat has been mass-produced, individual items do not vary in quality at all.",description,ThingDef/ThingDef.xml,def
+VQED_Apparel_GeneralsInsignia.label,general's insignia,label,ThingDef/ThingDef.xml,def
+VQED_Apparel_GeneralsInsignia.description,"Decorative golden epaulettes adorned with braided aiguillette cord and a polished ceremonial clasp. Once worn by high-ranking officers, these insignia instill a sense of duty and composure, making the wearer less prone to mental breaks.",description,ThingDef/ThingDef.xml,def
+VQED_Apparel_GeneralsCap.label,general’s cap,label,ThingDef/ThingDef.xml,def
+VQED_Apparel_GeneralsCap.description,"A distinguished peaked cap with a stiff brim, adorned with embroidered insignia and a gilded band. While it offers little physical protection, its commanding design enhances the wearer's presence, greatly improving negotiation ability.",description,ThingDef/ThingDef.xml,def
+VQE_DisruptorFlare.label,disruptor flare,label,ThingDef/ThingDef.xml,def
+VQE_DisruptorFlare.description,"Plastic tubes filled with bioferrite. On impact, the flare burns, creating a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time.",description,ThingDef/ThingDef.xml,def
+VQE_DisruptorFlare.verbs.0.label,throw disruptor flare,label,ThingDef/ThingDef.xml,def
+VQED_DistantICBMExplosion.label,Distant ICBM Explosion,label,ThingDef/ThingDef.xml,def
+VQED_ICBMSkyfaller.label,Deadlife ICBM,label,ThingDef/ThingDef.xml,def
+VQE_PrototypeSubject1.title,prototype subject,title,BackstoryDef/BackstoryDef.xml,def
+VQE_PrototypeSubject1.titleShort,subject,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_PrototypeSubject1.description,"[PAWN_nameDef] volunteered for the first wave of transhuman necrosis trials, offering [PAWN_possessive] body to a military doctrine that worshipped permanence through decay. [PAWN_pronoun] endured months in a sealed vat as bone, tissue, and cognition were rewired by machine and fluid alike. What emerged was no longer fully alive, but unshakably loyal.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEnforcer2.title,vault enforcer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEnforcer2.titleShort,enforcer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEnforcer2.description,"[PAWN_nameDef] was stationed deep beneath the surface, tasked with protecting the bio-vaults that housed experimental regeneration tanks and failed prototypes. When containment alarms sounded, [PAWN_pronoun] didn’t flinch. The only thing [PAWN_pronoun] feared was failure, and fear had been surgically removed years ago.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_Necroengineer3.title,necroengineer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_Necroengineer3.titleShort,engineer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_Necroengineer3.description,"[PAWN_nameDef] was both soldier and scientist, one of the few entrusted to maintain the resurrection architecture embedded in elite corpses. [PAWN_pronoun] spliced code into spinal columns and rewrote death like it was faulty circuitry. Despite the grotesque procedures, [PAWN_pronoun] never hesitated, as progress demanded flesh.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_PreservedCommander4.title,preserved commander,title,BackstoryDef/BackstoryDef.xml,def
+VQE_PreservedCommander4.titleShort,commander,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_PreservedCommander4.description,"[PAWN_nameDef] rose to command a death battalion before being sealed in cryostorage with [PAWN_possessive] mind uploaded to carbon-thin neural plates. Decades passed in blackout stasis, dreaming only of tactical formations and absolute obedience. When awakened, [PAWN_pronoun] resumed command as if the war had never paused.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_IndoctrinatedRevenant5.title,indoctrinated revenant,title,BackstoryDef/BackstoryDef.xml,def
+VQE_IndoctrinatedRevenant5.titleShort,revenant,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_IndoctrinatedRevenant5.description,"[PAWN_nameDef] died in the field and was immediately reanimated under Directive Pale Flame: an experimental loop-binding protocol to override memory, identity, and morality. [PAWN_pronoun] still wears the scars of [PAWN_possessive] first death, though they’ve long ceased to matter. Now, [PAWN_pronoun] kills with the calm of someone who’s already passed judgment.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_TrenchAwakener6.title,trench awakener,title,BackstoryDef/BackstoryDef.xml,def
+VQE_TrenchAwakener6.titleShort,awakener,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_TrenchAwakener6.description,"[PAWN_nameDef] was assigned to burial patrols, recovering fallen comrades and tagging them for reanimation. [PAWN_pronoun] slept among corpses, carried bone-thin bodies back to processing, and watched them twitch to life again. The stench never faded, but neither did [PAWN_possessive] unwavering obedience.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_NullInfantry7.title,null infantry,title,BackstoryDef/BackstoryDef.xml,def
+VQE_NullInfantry7.titleShort,null,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_NullInfantry7.description,"[PAWN_nameDef] was among the first inducted into the Null Corps: frontline troops chemically lobotomized to erase fear and memory. [PAWN_pronoun] received orders through skull-implanted transceivers, moving silently and without question. [PAWN_pronoun] does not remember pain, or why [PAWN_pronoun] enlisted. Only the rifle in [PAWN_possessive] hands.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_FoglineObserver8.title,fogline observer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_FoglineObserver8.titleShort,observer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_FoglineObserver8.description,"[PAWN_nameDef] was deployed alone into chemically saturated deadzones, tasked with recording troop decay rates and atmospheric effects. [PAWN_pronoun] watched comrades dissolve, regenerate, and march again, then noted the results with unblinking precision. [PAWN_pronoun] didn’t speak for years afterward, and no one asked [PAWN_objective] to.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_OssuaryGuard9.title,ossuary guard,title,BackstoryDef/BackstoryDef.xml,def
+VQE_OssuaryGuard9.titleShort,guard,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_OssuaryGuard9.description,"[PAWN_nameDef] was stationed in the ossuaries: vast chambers where failed soldiers were stacked and catalogued for parts. [PAWN_pronoun] patrolled in silence, rifle in hand, surrounded by the rattling echoes of half-living experiments. No one spoke in the ossuaries. No one had mouths.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_CompliantHusk10.title,compliant husk,title,BackstoryDef/BackstoryDef.xml,def
+VQE_CompliantHusk10.titleShort,husk,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_CompliantHusk10.description,"[PAWN_nameDef] volunteered for cognitive stripping, which included the removal of memory, name, and will. What remained was a body that obeyed. [PAWN_pronoun] stood in formation while storms raged and flesh fell from bone, waiting only for the next command pulse from the central stack.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ThresholdHarvester11.title,threshold harvester,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ThresholdHarvester11.titleShort,harvester,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ThresholdHarvester11.description,"[PAWN_nameDef] stood closest to the Death Door, siphoning dust from its breathless aperture into sealed black vials. The dust hissed, shimmered, and whispered, burning the air and minds alike. [PAWN_pronoun] wore triple-layered filtration gear, but still wakes to coughing shadows.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DustCourier12.title,dust courier,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DustCourier12.titleShort,courier,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DustCourier12.description,"[PAWN_nameDef] ferried containers of deadlife dust from the extraction chamber to cold-vault containment zones. Escorts were forbidden, as too much movement stirred the dust. [PAWN_pronoun] walked in silence, clutching steel boxes that sometimes wept from within.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_GatewaySentinel13.title,gateway sentinel,title,BackstoryDef/BackstoryDef.xml,def
+VQE_GatewaySentinel13.titleShort,sentinel,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_GatewaySentinel13.description,"[PAWN_nameDef] guarded the perimeter of the Death Door facility, tasked with eliminating anything that emerged or tried to return. [PAWN_pronoun] saw shapes that didn’t reflect light, and heard commands that weren’t broadcast. The dust drifted past the line sometimes, and [PAWN_pronoun] learned not to breathe too deep.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DoorTechnician14.title,door technician,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DoorTechnician14.titleShort,technician,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DoorTechnician14.description,"[PAWN_nameDef] operated the containment pylons and extraction rigs around the Death Door. [PAWN_pronoun] calibrated siphons by eye and rebalanced psychic insulators mid-flow. The margin for error was one breath, and [PAWN_pronoun] hasn’t taken a full one since.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_AshTranslator15.title,ash translator,title,BackstoryDef/BackstoryDef.xml,def
+VQE_AshTranslator15.titleShort,translator,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_AshTranslator15.description,"[PAWN_nameDef] analyzed the patterns left in deadlife dust as it settled, fractals of intent, echoing through silence. [PAWN_pronoun] claimed the dust was speaking, and spent hours tracing messages only [PAWN_pronoun] could see. The others stopped questioning it when [PAWN_pronoun] predicted a breach twelve hours before it happened.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DustLoader16.title,dust loader,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DustLoader16.titleShort,loader,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DustLoader16.description,"[PAWN_nameDef] was responsible for loading raw deadlife dust into containment drums, working under flashing hazard lights and sealed hoods. The powder stuck to gloves and skin no matter how thick the gear. [PAWN_pronoun] was told it couldn't penetrate bone, but [PAWN_pronoun] isn’t sure anymore.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultScrubber17.title,vault scrubber,title,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultScrubber17.titleShort,scrubber,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultScrubber17.description,"[PAWN_nameDef] cleaned the insides of sealed dust vaults after they were purged. The walls were never truly clean, they were always humming, always whispering. [PAWN_pronoun] stopped using [PAWN_possessive] name after the third cycle. No one corrected [PAWN_objective].",description,BackstoryDef/BackstoryDef.xml,def
+VQE_IntakeMonitor18.title,intake monitor,title,BackstoryDef/BackstoryDef.xml,def
+VQE_IntakeMonitor18.titleShort,monitor,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_IntakeMonitor18.description,"[PAWN_nameDef] watched the flow of deadlife dust into containment silos, reporting clogs and pressure drops with precise timing. [PAWN_pronoun] wasn’t allowed to speak to other staff as too many went missing between shifts. The job required focus and silence, which [PAWN_pronoun] delivered perfectly.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DockGunner19.title,dock gunner,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DockGunner19.titleShort,gunner,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DockGunner19.description,"[PAWN_nameDef] manned the auto-cannons near the dust transfer docks, defending against ""anomalous discharge movement"", whatever that meant. Nothing ever approached the dock, but [PAWN_pronoun] fired anyway. Better that than let the dust think [PAWN_pronoun] hesitated.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_FilterMechanic20.title,filter mechanic,title,BackstoryDef/BackstoryDef.xml,def
+VQE_FilterMechanic20.titleShort,mechanic,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_FilterMechanic20.description,"[PAWN_nameDef] maintained the dust filtration systems that kept the air breathable and the death sealed. The filters clogged fast, screaming if left too long. [PAWN_pronoun] replaced them by hand, gloved, double-suited, and breathing recycled air laced with static.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_SilenceOfficer21.title,silence officer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_SilenceOfficer21.titleShort,officer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_SilenceOfficer21.description,"[PAWN_nameDef] enforced silence protocol within the dust-processing halls, where sound was said to attract unwanted responses. [PAWN_pronoun] walked the catwalks with a shock-rod and a clicker, punishing speech, coughs and even breath, if too loud. [PAWN_pronoun] hasn’t spoken in years, even off duty.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_UniformInspector22.title,uniform inspector,title,BackstoryDef/BackstoryDef.xml,def
+VQE_UniformInspector22.titleShort,inspector,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_UniformInspector22.description,"[PAWN_nameDef] checked for dust contamination in uniforms and skin before workers left the core sectors. [PAWN_pronoun] scrubbed patches that pulsed, burned fabric that moved, and blacklisted anything that remembered touch. [PAWN_pronoun] stopped questioning why some suits came back... without the wearers.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ShiftRecorder23.title,shift recorder,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ShiftRecorder23.titleShort,recorder,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ShiftRecorder23.description,"[PAWN_nameDef] logged every shift rotation, personnel movement, and anomaly ping near the Death Door. [PAWN_pronoun] noticed strange patterns in the logs: repeating names, people clocking in after confirmed deaths, whole hours missing. [PAWN_pronoun] kept recording anyway.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_MealDistributor24.title,meal distributor,title,BackstoryDef/BackstoryDef.xml,def
+VQE_MealDistributor24.titleShort,distributor,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_MealDistributor24.description,"[PAWN_nameDef] handed out ration packs to workers exiting the sealed extraction halls. The meals were identical, grey, tasteless, pre-labeled. Sometimes one would whisper when opened. [PAWN_pronoun] never took one for [PAWN_objective]self, just in case.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_CorridorWatch25.title,corridor watch,title,BackstoryDef/BackstoryDef.xml,def
+VQE_CorridorWatch25.titleShort,watch,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_CorridorWatch25.description,"[PAWN_nameDef] was posted in a hallway that no one walked down, outside a door that no one opened. [PAWN_pronoun] was told to stand still, never speak, and never blink too long. On the seventh year, [PAWN_pronoun] started to hear footsteps behind the wall.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DustRegistrar26.title,dust registrar,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DustRegistrar26.titleShort,registrar,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DustRegistrar26.description,"[PAWN_nameDef] catalogued every gram of deadlife dust processed through the sector, logging each shipment’s origin and intended experiment. [PAWN_pronoun] never asked what the dust did, just that the weights matched and the signatures were clean. Some days, the logbook filled itself.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_DoctrineScribe27.title,doctrine scribe,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DoctrineScribe27.titleShort,scribe,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DoctrineScribe27.description,"[PAWN_nameDef] transcribed the daily decrees of the central authority, etching them onto rusted tablets distributed throughout the facility. [PAWN_pronoun] wrote in total silence, copying phrases [PAWN_pronoun] did not understand. One phrase, however, appeared in every order: ""Decay is compliance.""",description,BackstoryDef/BackstoryDef.xml,def
+VQE_SpecimenHandler28.title,specimen handler,title,BackstoryDef/BackstoryDef.xml,def
+VQE_SpecimenHandler28.titleShort,handler,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_SpecimenHandler28.description,"[PAWN_nameDef] moved biological containers between crypto-labs, some twitching, some whispering. [PAWN_pronoun] never opened a crate, but sometimes the shadows inside moved with familiarity. [PAWN_pronoun] didn’t log what didn’t stop moving.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_NutritionSynthesist29.title,nutrition synthesist,title,BackstoryDef/BackstoryDef.xml,def
+VQE_NutritionSynthesist29.titleShort,synthesist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_NutritionSynthesist29.description,"[PAWN_nameDef] formulated nutrient slurries for long-term storage in deep dormancy wings. [PAWN_pronoun] was told not to question the smell, or why some vats emptied without record. [PAWN_pronoun] just stirred, sealed, and labeled each batch: “For Contingency Use Only.”",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ComplianceAuditor30.title,compliance auditor,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ComplianceAuditor30.titleShort,auditor,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ComplianceAuditor30.description,"[PAWN_nameDef] reviewed personnel logs, behavioral reports, and incident transcripts, flagging deviations for reconditioning. [PAWN_pronoun] never met the people [PAWN_pronoun] condemned. Only once did [PAWN_pronoun] hesitate - when the file bore [PAWN_possessive] own name.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultArchivist31.title,vault archivist,title,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultArchivist31.titleShort,archivist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultArchivist31.description,"[PAWN_nameDef] maintained ledgers of inventory buried deep in the sub-storage vaults. [PAWN_pronoun] documented sealed containers with unreadable glyphs and crates that hummed faintly when touched. One morning, an entry appeared in [PAWN_possessive] own handwriting, describing a box [PAWN_pronoun] hadn’t logged yet.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_CrateNotator32.title,crate notator,title,BackstoryDef/BackstoryDef.xml,def
+VQE_CrateNotator32.titleShort,notator,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_CrateNotator32.description,"[PAWN_nameDef] scrawled codes onto crates, noting date, contents, and threat tier. Many containers arrived unmarked, but [PAWN_pronoun] learned quickly: if it rattled, it was best to skip the contents line. Sometimes the ink bled upward, off the label, and into [PAWN_possessive] sleeve.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_StockpileRotator33.title,stockpile rotator,title,BackstoryDef/BackstoryDef.xml,def
+VQE_StockpileRotator33.titleShort,rotator,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_StockpileRotator33.description,"[PAWN_nameDef] moved ancient supplies through decaying aisles, rotating materials to slow entropy. Many of the items had no known purpose, some no discernible shape. [PAWN_pronoun] once touched something warm that shouldn’t have been. It didn’t cool down afterward.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_LabelOverseer34.title,label overseer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_LabelOverseer34.titleShort,overseer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_LabelOverseer34.description,"[PAWN_nameDef] was in charge of verifying label integrity across the sealed vault grid. [PAWN_pronoun] spent entire shifts reading faded text under flickering lights, checking against catalogs no longer maintained. Some crates had no labels, just symbols that [PAWN_pronoun] could swear [PAWN_pronoun] remembered from dreams.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEntryClerk35.title,vault entry clerk,title,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEntryClerk35.titleShort,clerk,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultEntryClerk35.description,[PAWN_nameDef] verified access credentials for vault entrants and logged removals from sealed shelves. [PAWN_pronoun] noticed that names on the log began to repeat: dead soldiers requesting supplies long after they’d been archived. [PAWN_pronoun] flagged it once. Nothing changed.,description,BackstoryDef/BackstoryDef.xml,def
+VQE_DustDoctrineArchitect36.title,dust doctrine architect,title,BackstoryDef/BackstoryDef.xml,def
+VQE_DustDoctrineArchitect36.titleShort,architect,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_DustDoctrineArchitect36.description,"[PAWN_nameDef] authored the central philosophy behind the use of deadlife dust, an ideology blending utility, inevitability, and transcendence through decay. [PAWN_pronoun] designed the program not to conquer death, but to industrialize it. Those who dissented were reassigned to dust-harvesting duties until compliant.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultCommissar37.title,vault commissar,title,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultCommissar37.titleShort,commissar,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_VaultCommissar37.description,"[PAWN_nameDef] ensured ideological purity among vault personnel, conducting loyalty evaluations and sanctioning disciplinary corrections. [PAWN_pronoun] maintained that those exposed to the Death Door too long became unreliable. [PAWN_pronoun] had many of them sealed behind the vaults, alive or not was irrelevant.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_EternalLogisticsOfficer38.title,eternal logistics officer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_EternalLogisticsOfficer38.titleShort,officer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_EternalLogisticsOfficer38.description,"[PAWN_nameDef] designed the warehouse and storage rotation protocol meant to function without human oversight for over a thousand years. [PAWN_pronoun] believed a perfect system outlived its masters, and had [PAWN_possessive] own heart replaced with a synthetic failsafe. [PAWN_pronoun] has not aged since activation.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ReanimationWarden39.title,reanimation warden,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ReanimationWarden39.titleShort,warden,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ReanimationWarden39.description,"[PAWN_nameDef] oversaw the barracks of the reanimated units, managing deployment cycles and overseeing mental degradation thresholds. [PAWN_pronoun] insisted the undead required no names, only barcodes. When one subject regained a memory and spoke, [PAWN_pronoun] personally incinerated it.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_AshStrategist40.title,ash strategist,title,BackstoryDef/BackstoryDef.xml,def
+VQE_AshStrategist40.titleShort,strategist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_AshStrategist40.description,"[PAWN_nameDef] formulated long-term battle plans relying on the deployment of expendable, undead battalions into irradiated and cursed zones. [PAWN_pronoun] viewed humans as inefficient vessels, preferring dust-born constructs who didn’t sleep or retreat. [PAWN_pronoun] once approved a maneuver where only the dead returned and called it a flawless victory.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_WhisperHost41.title,whisper host,title,BackstoryDef/BackstoryDef.xml,def
+VQE_WhisperHost41.titleShort,host,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_WhisperHost41.description,"[PAWN_nameDef] was assigned to monitor the auditory pulses emitted by the Death Door during lunar shifts. [PAWN_pronoun] began transcribing messages in no known language, yet perfectly understood. After the seventh day, [PAWN_pronoun] no longer required equipment to hear them.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ReturnedObserver42.title,returned observer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ReturnedObserver42.titleShort,returned,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ReturnedObserver42.description,"[PAWN_nameDef] was sent through the Death Door for a three-minute reconnaissance. The cameras failed instantly. [PAWN_pronoun] returned eighteen hours later, unharmed but altered, with skin colder, voice slower, eyes not entirely [PAWN_possessive]. No one asked what [PAWN_pronoun] saw. No one does now.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_PaleWitness43.title,pale witness,title,BackstoryDef/BackstoryDef.xml,def
+VQE_PaleWitness43.titleShort,witness,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_PaleWitness43.description,"[PAWN_nameDef] stood guard outside the inner chamber for 900 days, never entering, never relieved. Then, on day 901, the door opened just a slit. [PAWN_pronoun] looked inside for exactly three seconds. Since then, [PAWN_pronoun] has not blinked once.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_NullWitness44.title,null witness,title,BackstoryDef/BackstoryDef.xml,def
+VQE_NullWitness44.titleShort,witness,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_NullWitness44.description,"No records exist for [PAWN_nameDef] prior to Vault Cycle 18. [PAWN_pronoun] was found kneeling at the Death Door, eyes closed, hands outstretched, murmuring patterns that canceled sound in a six-meter radius. [PAWN_pronoun] now works in Inventory. The lights dim when [PAWN_pronoun] passes.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_EchoRepeater45.title,echo repeater,title,BackstoryDef/BackstoryDef.xml,def
+VQE_EchoRepeater45.titleShort,repeater,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_EchoRepeater45.description,[PAWN_nameDef] was exposed to the Death Door during a containment breach and hasn't spoken [PAWN_possessive] own thoughts since. Everything [PAWN_pronoun] says is a repetition of something someone else is about to say. [PAWN_pronoun] knows things that haven’t happened yet. The facility keeps [PAWN_objective] alive... just in case.,description,BackstoryDef/BackstoryDef.xml,def
+VQE_BreachVolunteer46.title,breach volunteer,title,BackstoryDef/BackstoryDef.xml,def
+VQE_BreachVolunteer46.titleShort,volunteer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_BreachVolunteer46.description,"[PAWN_nameDef] stepped forward during the first breach trials, signing a form titled ""Consent to Dissolution."" [PAWN_pronoun] was marched into the dust storm without armor, carrying only a black flag. Days later, the flag returned, stitched into [PAWN_possessive] new uniform.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_RitualSubject47.title,ritual subject,title,BackstoryDef/BackstoryDef.xml,def
+VQE_RitualSubject47.titleShort,subject,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_RitualSubject47.description,"[PAWN_nameDef] knelt willingly in the circle, surrounded by augurs and dark machines, and did not scream when the dust was poured into [PAWN_possessive] lungs. [PAWN_pronoun] was declared clinically dead, then reassigned to frontline duty two hours later. [PAWN_pronoun] no longer blinks. Nor stops.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ObediencePledge48.title,obedience pledge,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ObediencePledge48.titleShort,pledged,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ObediencePledge48.description,"[PAWN_nameDef] signed the Oath of Obedience in blood, requesting permanent reassignment to non-cognitive labor. [PAWN_pronoun] underwent cerebral smoothing, then was sent to carry crates too heavy for the living. [PAWN_pronoun] does not stop until ordered to, even if bones crack.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_SilentConversion49.title,silent conversion,title,BackstoryDef/BackstoryDef.xml,def
+VQE_SilentConversion49.titleShort,converted,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_SilentConversion49.description,"[PAWN_nameDef] walked into the conversion chamber, sealed the door behind [PAWN_objective], and waited. The machine inside removed [PAWN_possessive] speech, hunger, and memory. What emerged walked straight to duty assignment without waiting for instruction.",description,BackstoryDef/BackstoryDef.xml,def
+VQE_ProcessedSentinel50.title,processed sentinel,title,BackstoryDef/BackstoryDef.xml,def
+VQE_ProcessedSentinel50.titleShort,sentinel,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_ProcessedSentinel50.description,"[PAWN_nameDef] requested the “watcher’s gift” - a surgical splice of deadlife dust into the optic nerves and frontal cortex. [PAWN_pronoun] stands motionless for days, monitoring movement where none exists. [PAWN_pronoun] hasn’t reported an intrusion, but occasionally whispers that one is ""already inside.""",description,BackstoryDef/BackstoryDef.xml,def
+VQE_Childhood_OfficersShadow.title,officer’s shadow,title,BackstoryDef/BackstoryDef.xml,def
+VQE_Childhood_OfficersShadow.titleShort,shadow,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_Childhood_OfficersShadow.description,"[PAWN_nameDef] grew up behind reinforced glass, just beyond the war room where [PAWN_possessive] parent issued silent commands to a dying world. The halls were sterile, the uniforms always grey, and [PAWN_pronoun] quickly learned which doors never opened and which ones never closed. [PAWN_pronoun] was told the flickering silhouettes beyond the viewing screens were simulations, until one of them looked back. No one mentioned it afterward, and neither did [PAWN_pronoun].",description,BackstoryDef/BackstoryDef.xml,def
+VQE_TheGeneral.title,the general,title,BackstoryDef/BackstoryDef.xml,def
+VQE_TheGeneral.titleShort,general,titleShort,BackstoryDef/BackstoryDef.xml,def
+VQE_TheGeneral.description,"[PAWN_nameDef] designed Operation: Deadlife from the first blueprint to the last breath, believing death could be structured, harnessed, and weaponized. When the Death Door was first opened, [PAWN_pronoun] stepped through without hesitation, alone, unarmed, and smiling. [PAWN_pronoun] returned days later, silent and burned from within, wrapped in binding cloth and sealed inside a containment sarcophagus that no one claimed to understand. The war ended. The door remained open. [PAWN_pronoun] sleeps still - but the seals are growing warm.",description,BackstoryDef/BackstoryDef.xml,def

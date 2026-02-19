@@ -1,0 +1,447 @@
+key,text,tag,file,type
+VSIE.WorkFrenzyBeginLetterContinue,\n\n{PAWN_pronoun} would like to do some work.,VSIE.WorkFrenzyBeginLetterContinue,Keys.xml,keyed
+VSIE.GoFrenzyBeginLetterContinue,\n\n{PAWN_pronoun} would like to join a caravan and venture into the world.,VSIE.GoFrenzyBeginLetterContinue,Keys.xml,keyed
+VSIE.ShootingFrenzyBeginLetterContinue,\n\n{PAWN_pronoun} would like to go on a hunt.,VSIE.ShootingFrenzyBeginLetterContinue,Keys.xml,keyed
+VSIE.InspiredTradeBeginLetterContinue,\n\n{PAWN_pronoun} would like to close a trade.,VSIE.InspiredTradeBeginLetterContinue,Keys.xml,keyed
+VSIE.InspiredRecruitmentBeginLetterContinue,\n\n{PAWN_pronoun} would like to recruit a prisoner.,VSIE.InspiredRecruitmentBeginLetterContinue,Keys.xml,keyed
+VSIE.InspiredTamingBeginLetterContinue,\n\n{PAWN_pronoun} would like to try and tame an animal.,VSIE.InspiredTamingBeginLetterContinue,Keys.xml,keyed
+VSIE.InspiredSurgeryBeginLetterContinue,\n\n{PAWN_pronoun} would like to perform a surgery.,VSIE.InspiredSurgeryBeginLetterContinue,Keys.xml,keyed
+VSIE.InspiredCreativityBeginLetterContinue,\n\n{PAWN_pronoun} would like to create a masterwork or legendary item.,VSIE.InspiredCreativityBeginLetterContinue,Keys.xml,keyed
+VSIE.TraitChangeTitle,{PAWN_nameDef} obtained {0} trait,VSIE.TraitChangeTitle,Keys.xml,keyed
+VSIE.TraitChangePrisonerRecruited,"When you recruited {PAWN_nameDef}, it turned out that {PAWN_pronoun} has the {0} trait.\n\n{1}",VSIE.TraitChangePrisonerRecruited,Keys.xml,keyed
+VSIE.TraitChangePawnResurrected,"When {PAWN_nameDef} died and got brought back to life,  noticed that they now have the {0} trait.\n\n{1}",VSIE.TraitChangePawnResurrected,Keys.xml,keyed
+VSIE.TraitChangePawnHasCatatonicBreakdown,"When {PAWN_nameDef} succumbed to the catatonic mental breakdown, {PAWN_pronoun} has developed the {0} trait.\n\n{1}",VSIE.TraitChangePawnHasCatatonicBreakdown,Keys.xml,keyed
+VSIE.TraitChangeFamilyMemberDied,"When {PAWN_nameDef}’s family member died, {PAWN_pronoun} has developed the {0} trait.\n\n{1}",VSIE.TraitChangeFamilyMemberDied,Keys.xml,keyed
+VSIE.CatarhisAfterMentalBreak,"{PAWN_nameDef}’s extreme mental break caused a permanent character change, as {PAWN_pronoun} has developed the {0} trait.\n\n{1}",VSIE.CatarhisAfterMentalBreak,Keys.xml,keyed
+VSIE.RecoveredAfterDeadlyDisease,"The time {PAWN_nameDef} spent fighting the deadly illness was enough time for a self-reflection, as {PAWN_pronoun} has developed the {0} trait.\n\n{1}",VSIE.RecoveredAfterDeadlyDisease,Keys.xml,keyed
+VSIE.BirthdayEvent,"{PAWN_nameDef} took a moment to reflect upon themself on their birthday, which resulted in developing the {0} trait.\n\n{1}",VSIE.BirthdayEvent,Keys.xml,keyed
+VSIE.BestowingCeremony,"Possibly the greatest moment in {PAWN_nameDef}’s life, a bestowing ceremony, allowed them to develop the {0} trait.\n\n{1}",VSIE.BestowingCeremony,Keys.xml,keyed
+VSIE.ToughtRaidEvent,"After recent events and the difficult raid the colony faced, {PAWN_nameDef} reflected upon themself and developed the {0} trait.\n\n{1}",VSIE.ToughtRaidEvent,Keys.xml,keyed
+VSIE.Discord,A group social fight has broke out.,VSIE.Discord,Keys.xml,keyed
+VSIE.OneNightStandTitle,One night stand,VSIE.OneNightStandTitle,Keys.xml,keyed
+VSIE.OneNightStandText,"{INITIATOR_nameDef} engages in a one night stand with {PARTNER_nameDef}. Whilst both pawns receive all the benefits of regular lovin’, they are not a couple.",VSIE.OneNightStandText,Keys.xml,keyed
+VSIE.EnableMemories,Enable memories,VSIE.EnableMemories,Keys.xml,keyed
+VSIE.EnableInspirations,Enable inspirations,VSIE.EnableInspirations,Keys.xml,keyed
+VSIE.EnableAspirations,Enable aspirations,VSIE.EnableAspirations,Keys.xml,keyed
+VSIE.EnableObtainingNewTraits,Enable obtaining new traits,VSIE.EnableObtainingNewTraits,Keys.xml,keyed
+VSIE.EnableVenting,Enable venting,VSIE.EnableVenting,Keys.xml,keyed
+VSIE.EnableBestFriend,Enable best friend,VSIE.EnableBestFriend,Keys.xml,keyed
+VSIE.EnableTeaching,Enable teaching,VSIE.EnableTeaching,Keys.xml,keyed
+VSIE.EnableManyHandsMakeLightWork,Enable many hands make light work,VSIE.EnableManyHandsMakeLightWork,Keys.xml,keyed
+VSIE.EnableDiscord,Enable discord,VSIE.EnableDiscord,Keys.xml,keyed
+VSIE.EnableGroupActivities,Enable group activities,VSIE.EnableGroupActivities,Keys.xml,keyed
+VSIE.EnableDating,Enable dating,VSIE.EnableDating,Keys.xml,keyed
+VSIE.EnableUnitedWeStand,Enable united we stand,VSIE.EnableUnitedWeStand,Keys.xml,keyed
+VSIE.EnableSocialEnvironmentThoughts,Enable social environment thoughts,VSIE.EnableSocialEnvironmentThoughts,Keys.xml,keyed
+VSIE.EnableOneNightStand,Enable one night stand,VSIE.EnableOneNightStand,Keys.xml,keyed
+VSIE_MealTogether.label,meal together,label,DutyDef/DutyDef.xml,def
+VSIE_MovieNight.label,movie night,label,DutyDef/DutyDef.xml,def
+VSIE_BuildingSnowmen.label,building snowmen,label,DutyDef/DutyDef.xml,def
+VSIE_ViewingArtTogether.label,viewing art together,label,DutyDef/DutyDef.xml,def
+VSIE_Skygazing.label,skygazing,label,DutyDef/DutyDef.xml,def
+VSIE_GoingForAWalk.label,going for a walk,label,DutyDef/DutyDef.xml,def
+VSIE_GrabbingBeer.label,grabbing beer,label,DutyDef/DutyDef.xml,def
+VSIE_Funeral.label,funeral,label,DutyDef/DutyDef.xml,def
+VSIE_OutdoorParty.label,outdoor party,label,DutyDef/DutyDef.xml,def
+VSIE_BingeParty.label,binge party,label,DutyDef/DutyDef.xml,def
+VSIE_MealTogether.letterText,{ORGANIZER_labelShort} having a romantic meal with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_MovieNight.letterText,{ORGANIZER_labelShort} is having a movie night with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_BuildingSnowmen.letterText,{ORGANIZER_labelShort} is building snowmen with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_ViewingArtTogether.letterText,{ORGANIZER_labelShort} is viewing art with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_Skygazing.letterText,{ORGANIZER_labelShort} is skygazing with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_GoingForAWalk.letterText,{ORGANIZER_labelShort} is going for a walk with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_GrabbingBeer.letterText,{ORGANIZER_labelShort} is grabbing a beer with {COMPANION_labelShort}.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_BingeParty.letterText,{ORGANIZER_labelShort} suggests doing a little binge party. Be warned - Binge parties can last up to a few hours. Colonists will binge on food and drugs until it is over. Simply draft your colonists to stop them taking part in the binge party.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_OutdoorParty.letterText,"{ORGANIZER_labelShort} suggests having an outdoors party. Colonists will go outdoors and have a campfire, and then sit around it and talk.",letterText,GatheringDef/GatheringDef.xml,def
+VSIE_Funeral.letterText,Colonists gather over the {DEADPAWN_labelShort}'s grave to honor {DEADPAWN_possessive} memory.,letterText,GatheringDef/GatheringDef.xml,def
+VSIE_BirthdayParty.label,birthday,label,GatheringDef/GatheringDef.xml,def
+VSIE_BirthdayParty.letterText,"{ORGANIZER_labelShort} is throwing a birthday party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.",letterText,GatheringDef/GatheringDef.xml,def
+VSIE_OneNightStand.label,One night stand,label,IncidentDef/IncidentDef.xml,def
+Frenzy_Work.label,work frenzy,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Frenzy_Go.label,go frenzy,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Frenzy_Shoot.label,shoot frenzy,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Inspired_Trade.label,inspired trade,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Inspired_Recruitment.label,inspired recruitment,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Inspired_Taming.label,inspired taming,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Inspired_Surgery.label,inspired surgery,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+Inspired_Creativity.label,inspired creativity,label,VanillaSocialInteractionsExpanded.AspirationDef/VanillaSocialInteractionsExpanded.AspirationDef.xml,def
+VSIE_Inspired_Planting.label,inspired planting,label,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Planting.beginLetter,[PAWN_pronoun] will be able to sow any plants regardless of their Plants skill level for the next 8 days.\n\n[PAWN_pronoun] would like to sow at least 50 plants.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Planting.endMessage,{0} is no longer inspired (inspired planting).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Planting.baseInspectLine,Inspired: Inspired planting,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Party_Frenzy.label,party frenzy,label,InspirationDef/InspirationDef.xml,def
+VSIE_Party_Frenzy.beginLetter,[PAWN_pronoun] will gain recreation twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to attend a party.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Party_Frenzy.endMessage,{0} is no longer inspired (work frenzy).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Party_Frenzy.baseInspectLine,Inspired: Party frenzy,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Research.label,inspired research,label,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Research.beginLetter,[PAWN_pronoun] will conduct research 5x as fast for the next 8 days or when the research project is completed.\n\n[PAWN_pronoun] would like to complete a research project.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Research.endMessage,{0} is no longer inspired (inspired research).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Research.baseInspectLine,Inspired: Inspired research,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Mining.label,inspired mining,label,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Mining.beginLetter,[PAWN_pronoun] will gain twice the yield of any rocks or ore mined for the next 8 days.\n\n[PAWN_pronoun] would like to mine at least 50 rocks.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Mining.endMessage,{0} is no longer inspired (inspired mining).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Mining.baseInspectLine,Inspired: Inspired mining,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Learning_Frenzy.label,learning frenzy,label,InspirationDef/InspirationDef.xml,def
+VSIE_Learning_Frenzy.beginLetter,[PAWN_pronoun] will gain experience in skill at twice the normal rate for the next 8 days.\n\n[PAWN_pronoun] would like to level up any skill to level 10.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Learning_Frenzy.endMessage,{0} is no longer inspired (learning frenzy).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Learning_Frenzy.baseInspectLine,Inspired: Learning frenzy,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Cooking.label,inspired cooking,label,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Cooking.beginLetter,[PAWN_pronoun] will cook twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to cook at least 50 meals.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Cooking.endMessage,{0} is no longer inspired (inspired cooking).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Inspired_Cooking.baseInspectLine,Inspired: Inspired cooking,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Flirting_Frenzy.label,flirting frenzy,label,InspirationDef/InspirationDef.xml,def
+VSIE_Flirting_Frenzy.beginLetter,"[PAWN_pronoun] will be much nicer to others in social interactions, as well as much more sophisticated in romantic interactions, resulting in lower chances of being rebuffed for the next 8 days.\n\n[PAWN_pronoun] would like to engage in some lovin’.",beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Flirting_Frenzy.endMessage,{0} is no longer inspired (flirting frenzy).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Flirting_Frenzy.baseInspectLine,Inspired: Flirting frenzy,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Melee_Frenzy.label,melee frenzy,label,InspirationDef/InspirationDef.xml,def
+VSIE_Melee_Frenzy.beginLetter,[PAWN_pronoun] will land all their melee hits for the next 8 days.\n\n[PAWN_pronoun] would like to go defeat an enemy in melee combat.,beginLetter,InspirationDef/InspirationDef.xml,def
+VSIE_Melee_Frenzy.endMessage,{0} is no longer inspired (melee frenzy).,endMessage,InspirationDef/InspirationDef.xml,def
+VSIE_Melee_Frenzy.baseInspectLine,Inspired: Melee frenzy,baseInspectLine,InspirationDef/InspirationDef.xml,def
+VSIE_Discord.label,discord,label,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.0,r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.2,r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.3,target(p=4)->[RECIPIENT_nameDef],li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.4,target->[RECIPIENT_nameDef]'s [PersonFamily],li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.5,insulted(p=3)->insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.6,insulted->openly insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.7,insulted->loudly insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.8,insulted->flagrantly insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.9,insulted->directly insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.10,insulted->viciously insulted,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.11,insulted->flagrantly disrespected,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.12,insulted->slandered,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.13,insulted->hurled invective about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.14,insulted->derided,li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.15,insultcomparison(p=2)->[Animal],li,InteractionDef/InteractionDef.xml,def
+VSIE_Discord.logRulesInitiator.rulesStrings.16,insultcomparison->[Enemy],li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.label,vent,label,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.3,talkedabout(p=4)->chatted about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.4,talkedabout->shared a word about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.5,talkedabout->spoke about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.6,talkedabout->gabbed about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.7,talkedabout->talked about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.8,talkedabout->joked about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.9,talkedabout->quipped about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.10,commentedabout->said something about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.11,commentedabout->said a word about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.12,commentedabout->made a comment about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.13,commentedabout->commented about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Vent.logRulesInitiator.rulesStrings.14,commentedabout->told a joke about,li,InteractionDef/InteractionDef.xml,def
+VSIE_Teaching.label,teaching,label,InteractionDef/InteractionDef.xml,def
+VSIE_Teaching.logRulesInitiator.rulesStrings.0,r_logentry->,li,InteractionDef/InteractionDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ShootingTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [ShootingTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ShootingTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Shooting.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MeleeTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [MeleeTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MeleeTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Melee.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ConstructionTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [ConstructionTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ConstructionTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Construction.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MiningTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [MiningTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MiningTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Mining.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [CookingTopic] [TalkTopicLight].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [CookingTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CookingTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Cooking.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [AnimalsTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [AnimalsTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [AnimalsTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Animals.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [GrowingTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [GrowingTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [GrowingTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Plants.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [CraftingTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [CraftingTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CraftingTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Crafting.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [MedicalTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [MedicalTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MedicalTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Medicine.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [ArtTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [ArtTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ArtTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Artistic.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SocialTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [SocialTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SocialTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Social.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [IntellectualTopic].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [IntellectualTopic] with [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [IntellectualTopic] to [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.3,talkedabout(p=4)->chatted about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.4,talkedabout->shared a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.5,talkedabout->spoke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.6,talkedabout->gabbed about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.7,talkedabout->talked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.8,talkedabout->joked about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.9,talkedabout->quipped about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.10,commentedabout->said something about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.11,commentedabout->said a word about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.12,commentedabout->made a comment about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.13,commentedabout->commented about,li,RulePackDef/RulePackDef.xml,def
+VSIE_Teaching_Intellectual.rulePack.rulesStrings.14,commentedabout->told a joke about,li,RulePackDef/RulePackDef.xml,def
+VSIE_VentToFriend.reportString,venting to TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_StandAndHearVenting.reportString,hearing venting from TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_TakingBeer.reportString,taking TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_TalkToSecondPawn.reportString,talking to TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_HonorPawn.reportString,honoring TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_Skygaze.reportString,skygazing with TargetB.,reportString,JobDef/JobDef.xml,def
+VSIE_ViewArtTogether.reportString,viewing art with TargetB.,reportString,JobDef/JobDef.xml,def
+VSIE_BuildSnowmanTogether.reportString,building snowman with TargetB.,reportString,JobDef/JobDef.xml,def
+VSIE_GotoWith.reportString,walking with TargetB.,reportString,JobDef/JobDef.xml,def
+VSIE_GotoTalkToSecondPawn.reportString,talking to Target.,reportString,JobDef/JobDef.xml,def
+VSIE_Follow.reportString,walking with TargetA.,reportString,JobDef/JobDef.xml,def
+VSIE_OneStandLovin.reportString,lovin'.,reportString,JobDef/JobDef.xml,def
+VSIE_WatchTelevisionTogether.reportString,watching television.,reportString,JobDef/JobDef.xml,def
+VSIE_HaveMealTogether.reportString,dating.,reportString,JobDef/JobDef.xml,def
+VSIE_BestFriend.label,best friend,label,PawnRelationDef/PawnRelationDef.xml,def
+VSIE_BestFriend.labelFemale,best friend,labelFemale,PawnRelationDef/PawnRelationDef.xml,def
+VSIE_OpinionOfMyBestFriend.stages.0.label,opinion of my {0} {1},label,ThoughtDef/ThoughtDef.xml,def
+VSIE_OpinionOfMyBestFriend.stages.0.description,Being with my best friend makes me feel this way.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_InspirationSatisfied.stages.0.label,inspiration satisfied,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_InspirationSatisfied.stages.0.description,I have completed my aspiration!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_InspirationNotSatisfied.stages.0.label,inspiration not satisfied,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_InspirationNotSatisfied.stages.0.description,I have failed to complete my aspiration.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_HadNiceChatWithBeer.stages.0.label,had a nice chat with a beer,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_HadNiceChatWithBeer.stages.0.description,I enjoyed the little chit chat and a cold one in my hand.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedBingeParty.stages.0.label,Attended binge party,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedBingeParty.stages.0.description,I had a great time at the binge party.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedOutdoorParty.stages.0.label,Attended outdoor party,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedOutdoorParty.stages.0.description,I had a great time outside!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_GotSomeClosure.stages.0.label,Got some closure,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_GotSomeClosure.stages.0.description,I will cherish every memory.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedBirthdayParty.stages.0.label,Attended birthday party,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedBirthdayParty.stages.0.description,I had a great time at the birthday party.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_HadBirthdayParty.stages.0.label,Had a birthday party,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_HadBirthdayParty.stages.0.description,They threw me a birthday party!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SufferedLossPositive.stages.0.label,Suffered a loss,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SufferedLossPositive.stages.0.description,"We lost, but we can persevere!",description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SufferedLossNegative.stages.0.label,Suffered a loss,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SufferedLossNegative.stages.0.description,Such a devastating loss!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SharingBurden.stages.0.label,sharing the burden,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SharingBurden.stages.0.description,It felt good to finally unbottle my feelings to a friend.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_VentedOnMe.stages.0.label,my friend vented to me,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_VentedOnMe.stages.0.description,My friend unbottled their feelings to me.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label,Jealously,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description,I'm jealous. My {0} went on a date with someone else!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SocialEnvironment.stages.0.label,Good reputation,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SocialEnvironment.stages.0.description,I am liked and respected here. These people need me.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SocialEnvironment.stages.1.label,Bad reputation,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SocialEnvironment.stages.1.description,I'm not having fun here. Nobody seems to respect me!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_BondedPetButcheredOpinion.stages.0.label,"{BUTCHER_nameDef} butchered my bonded pet {VICTIM_nameDef}, I will never forgive {BUTCHER_objective}",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_BondedPetButchered.label,bonded pet butchered,label,TaleDef/TaleDef.xml,def
+VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label,"{OTHERPAWN_nameDef} dug up and exposed the corpse of my {0} {VICTIM_nameDef}, I will always despise {OTHERPAWN_objective} for this",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_ExposedCorpseOfMyFriend.label,exposed corpse of my friend,label,TaleDef/TaleDef.xml,def
+VSIE_IngestedHumanFlesh.stages.0.label,"{OTHERPAWN_nameDef} ate human flesh, I will always be afraid of {OTHERPAWN_possessive}",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_IngestedHumanFlesh.label,ingested human flesh,label,TaleDef/TaleDef.xml,def
+VSIE_BingedFood.stages.0.label,{OTHERPAWN_nameDef} binged on food. How wasteful,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_BingedFood.label,binged food,label,TaleDef/TaleDef.xml,def
+VSIE_BingedDrug.stages.0.label,{OTHERPAWN_nameDef} binged on drugs. I don’t need a junkie in my life,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_BingedDrug.label,binged drug,label,TaleDef/TaleDef.xml,def
+VSIE_HideInRoom.stages.0.label,{OTHERPAWN_nameDef} was hiding in {OTHERPAWN_possessive} room. Weirdo,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_HideInRoom.label,was hiding in their room,label,TaleDef/TaleDef.xml,def
+VSIE_WanderedInSaddness.stages.0.label,{OTHERPAWN_nameDef} wandered in sadness. I feel pity for {OTHERPAWN_objective},label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WanderedInSaddness.label,wandered in sadness,label,TaleDef/TaleDef.xml,def
+VSIE_WentIntoSadisticRage.stages.0.label,{OTHERPAWN_nameDef} went into sadistic rage. It’s absolutely disgusting,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WentIntoSadisticRage.label,went into sadistic rage,label,TaleDef/TaleDef.xml,def
+VSIE_ThrewTantrum.stages.0.label,{OTHERPAWN_nameDef} threw a tantrum. {OTHERPAWN_pronoun} needs to be taught some self control,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_ThrewTantrum.label,threw a tantrum,label,TaleDef/TaleDef.xml,def
+VSIE_WentBerserk.stages.0.label,{OTHERPAWN_nameDef} went berserk. I can never feel safe around {OTHERPAWN_objective},label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WentBerserk.label,went berserk,label,TaleDef/TaleDef.xml,def
+VSIE_WentOnFireStartingSpree.stages.0.label,{OTHERPAWN_nameDef} went on a fire starting spree. It was so close and everything we know would have turned to ash. How can I forgive that?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WentOnFireStartingSpree.label,went on a fire starting spree,label,TaleDef/TaleDef.xml,def
+VSIE_WentOnMurderousRage.stages.0.label,{OTHERPAWN_nameDef} went on a murderous rage. What if I’m {OTHERPAWN_possessive} next target?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WentOnMurderousRage.label,went on murderous rage,label,TaleDef/TaleDef.xml,def
+VSIE_RanWild.stages.0.label,{OTHERPAWN_nameDef} ran wild. Weirdo,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_RanWild.label,ran wild,label,TaleDef/TaleDef.xml,def
+VSIE_InsultedMe.stages.0.label,{OTHERPAWN_nameDef} insulted me. Words cut deeper than daggers,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_InsultedMe.label,insulted me,label,TaleDef/TaleDef.xml,def
+VSIE_SlaughteredAnimalInRage.stages.0.label,{OTHERPAWN_nameDef} slaughtered our animal in a blind rage. I despise {OTHERPAWN_objective},label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SlaughteredAnimalInRage.label,slaughtered an animal in a rage,label,TaleDef/TaleDef.xml,def
+VSIE_RebuffedMe.stages.0.label,{OTHERPAWN_nameDef} rebuffed me. I thought {OTHERPAWN_pronoun} was the one,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_RebuffedMe.label,rebuffed me,label,TaleDef/TaleDef.xml,def
+VSIE_InducedPrisonerToEscape.stages.0.label,{OTHERPAWN_nameDef} broke our prisoners free. It could have ended very badly!,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_InducedPrisonerToEscape.label,induced prisoner to escape,label,TaleDef/TaleDef.xml,def
+VSIE_TamedThrumbo.stages.0.label,{OTHERPAWN_nameDef} tamed a thrumbo. What a legendary feat!,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_TamedThrumbo.label,tamed a thrumbo,label,TaleDef/TaleDef.xml,def
+VSIE_WasPreviouslyOurEnemy.stages.0.label,{OTHERPAWN_nameDef} was previously our enemy. I don't trust {OTHERPAWN_objective},label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WasPreviouslyOurEnemy.label,was previously our enemy,label,TaleDef/TaleDef.xml,def
+VSIE_WasBadlyInjured.stages.0.label,{OTHERPAWN_nameDef} was badly injured in battle. I admire {OTHERPAWN_possessive} courage,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WasBadlyInjured.label,was badly injured,label,TaleDef/TaleDef.xml,def
+VSIE_DidNotAttendWedding.stages.0.label,{OTHERPAWN_nameDef} didn't attend our wedding ceremony! Was it so hard to come and just be with me on that day?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_DidNotAttendWedding.label,didn't attend our wedding ceremony,label,TaleDef/TaleDef.xml,def
+VSIE_AttendedMyWedding.stages.0.label,{OTHERPAWN_nameDef} attended my wedding,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_AttendedMyWedding.label,attended my wedding,label,TaleDef/TaleDef.xml,def
+VSIE_RemovedPrisonersOrgans.stages.0.label,{OTHERPAWN_nameDef} removed the prisoner's organs! How can a person be capable of such a thing?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_RemovedPrisonersOrgans.label,removed the prisoner's organs,label,TaleDef/TaleDef.xml,def
+VSIE_FailedMedicalOperationAndKilled.stages.0.label,{OTHERPAWN_nameDef} failed a medical operation and killed one of us,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_FailedMedicalOperationAndKilled.label,failed a medical operation and killed one of us,label,TaleDef/TaleDef.xml,def
+VSIE_TamedMe.stages.0.label,"{OTHERPAWN_nameDef} tamed me, I will always be glad of the wonders they've shown me",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_TamedMe.label,tamed me,label,TaleDef/TaleDef.xml,def
+VSIE_ArrestedMe.stages.0.label,{OTHERPAWN_nameDef} arrested me,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_ArrestedMe.label,arrested me,label,TaleDef/TaleDef.xml,def
+VSIE_ResurrectedMe.stages.0.label,{OTHERPAWN_nameDef} resurrected me,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_ResurrectedMe.label,resurrected me,label,TaleDef/TaleDef.xml,def
+VSIE_BrokeUpWithMe.stages.0.label,{OTHERPAWN_nameDef} broke up with me. Will I ever find someone else?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_BrokeUpWithMe.label,broke up with me,label,TaleDef/TaleDef.xml,def
+VSIE_WeHadNiceChat.stages.0.label,{OTHERPAWN_nameDef} and I had a nice chat. It feels like we can talk about anything,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WeHadNiceChat.label,we had a nice chat,label,TaleDef/TaleDef.xml,def
+VSIE_WeHadSocialFight.stages.0.label,{OTHERPAWN_nameDef} and I had a social fight,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_WeHadSocialFight.label,we had a social fight,label,TaleDef/TaleDef.xml,def
+VSIE_SavedMeFromMyWounds.stages.0.label,{OTHERPAWN_nameDef} saved me from my wounds. I will always be in {OTHERPAWN_possessive} debt,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SavedMeFromMyWounds.label,saved me from my wounds,label,TaleDef/TaleDef.xml,def
+VSIE_HasBeenMyFriendSinceChildhood.stages.0.label,"{OTHERPAWN_nameDef} has been my friend since childhood, we have so much in common that no one can separate us",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_HasBeenMyFriendSinceChildhood.label,has been my friend since childhood,label,TaleDef/TaleDef.xml,def
+VSIE_SavedMeFromRaiders.stages.0.label,"{SECONDPAWN_nameDef} saved me from {THIRDPAWN_kindDef}, I will always be in {SECONDPAWN_possessive} debt",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SavedMeFromRaiders.label,saved me from the raiders,label,TaleDef/TaleDef.xml,def
+VSIE_CuredMyFriend.stages.0.label,"{SECONDPAWN_nameDef} cured my {0} {THIRDPAWN_nameDef}, I will always be grateful to {SECONDPAWN_objective}",label,ThoughtDef/ThoughtDef.xml,def
+VSIE_CuredMyFriend.label,cured my friend,label,TaleDef/TaleDef.xml,def
+VSIE_StoleMyLover.stages.0.label,{THIRDPAWN_nameDef} stole {SECONDPAWN_nameDef} away from me. What makes {THIRDPAWN_objective} so much better?,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_StoleMyLover.label,stole my lover,label,TaleDef/TaleDef.xml,def
+VSIE_IsRoyalty.stages.0.label,{OTHERPAWN_nameDef} is royalty. I’m impressed,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_GotSomeLovin.stages.0.label,got some lovin',label,ThoughtDef/ThoughtDef.xml,def
+VSIE_GotSomeLovin.stages.0.description,There's nothing like a tumble between the sheets to lift the mood.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_SoldMyBestFriend.stages.0.label,best friend sold,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_SoldMyBestFriend.stages.0.description,A friend of mine was sold to a trader like a piece of meat!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_KilledMyBestFriend.stages.0.label,killed my best friend,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendLost.stages.0.label,my best friend {0} lost,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendLost.stages.0.description,My best friend has gone lost. I hope he will get back to us someday.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendLost_Female.stages.0.label,my best friend {0} lost,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendLost_Female.stages.0.description,My best friend has gone lost. I hope she will get back to us someday.,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendDied.stages.0.label,my best friend {0} died,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendDied.stages.0.description,My best friend died. How could this happen!,description,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendDied_Female.stages.0.label,my best friend {0} died,label,ThoughtDef/ThoughtDef.xml,def
+VSIE_MyBestFriendDied_Female.stages.0.description,My best friend died. How could this happen!,description,ThoughtDef/ThoughtDef.xml,def

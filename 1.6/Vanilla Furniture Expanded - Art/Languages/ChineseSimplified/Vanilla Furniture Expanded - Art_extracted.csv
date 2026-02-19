@@ -1,0 +1,128 @@
+key,text,tag,file,type
+VFEArt_SelectHologramText,Select base,VFEArt_SelectHologramText,Misc_Gameplay.xml,keyed
+VFEArt_SelectHologramDesc,"Click to select the hologram base to shut it down, deconstruct, move, etc",VFEArt_SelectHologramDesc,Misc_Gameplay.xml,keyed
+VFE_Art_Tab.label,Vanilla Furniture Expanded - Art,label,ResearchTabDef/ResearchTabDef.xml,def
+VFE_Res_Obelisk.label,obelisks,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Obelisk.description,"Learn how to sculpt tall, narrow shaped obelisks to commemorate important events.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.label,pottery,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.description,Learn how to create beautiful vases and other vessels from simple materials.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.label,carvings,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.description,Master the techniques of wall carving to create beautiful pillars and reliefs.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.label,artful display,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.description,Create beautiful plinths to display artifacts and important colony goods.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.label,statues,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.description,"Sculpt accurate character-shaped sculptures, inscribed with artistic illustrations.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.label,monuments,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.description,"Create massive monuments, centerpieces of your colony, to commemorate those who passed and give inspiration to those still struggling.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.label,rugs,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.description,Learn how to create beautiful rugs to decorate your colony.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.label,wallpapers,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.description,Construct beautiful walls covered in wallpaper of your desired colour.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.label,holograms,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.description,Adapt advanced display techniques to showcase three-dimensional models around your colony.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.0,physical_description_root->This [rug] [depicts] [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.1,physical_description_root->This [rug] bears a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.2,physical_description_root->On this [rug] is a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.3,rug->rug,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.4,rug->work,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.5,rug->piece,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Rug.rulePack.rulesStrings.6,rug->textile,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.0,physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.1,physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.2,physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.3,pottery->pottery,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.4,pottery->work,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.5,pottery->piece,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Pottery.rulePack.rulesStrings.6,pottery->set,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.0,physical_description_root->This [hologram] [depicts] [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.1,physical_description_root->This [hologram] bears a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.2,physical_description_root->On this [hologram] is a [depiction] of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.3,hologram->hologram,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.4,hologram->light sculpture,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.5,hologram->piece,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Hologram.rulePack.rulesStrings.6,hologram->model,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.0,physical_description_root->This [machine] [imprints] an image of [image]. [desc_sentence_group],li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.1,machine->machine,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.2,machine->ancient device,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.3,machine->unexplainable structure,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.4,machine->archotech sculpture,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.5,imprints->conveys,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.6,imprints->imprints,li,RulePackDef/RulePackDef.xml,def
+ArtDescription_Archotech.rulePack.rulesStrings.7,imprints->makes people think of,li,RulePackDef/RulePackDef.xml,def
+VFE_ArchotechSculpture.label,archotech sculpture,label,ThingDef/ThingDef.xml,def
+VFE_ArchotechSculpture.description,"An ancient, human-sized mysterious machine. Creates a detailed imagery in the minds of surrounding pawns. Works through walls.",description,ThingDef/ThingDef.xml,def
+VFE_Pottery.label,pottery,label,ThingDef/ThingDef.xml,def
+VFE_Pottery.description,A small-size pieces of pottery with artisting engravings. Can be crafted on a crafting spot.,description,ThingDef/ThingDef.xml,def
+VFE_StatueSmall.label,small statue,label,ThingDef/ThingDef.xml,def
+VFE_StatueSmall.description,"A small-size piece of material on a decorative pedestal, sculpted into an artistic form.",description,ThingDef/ThingDef.xml,def
+VFE_Carving.label,carving,label,ThingDef/ThingDef.xml,def
+VFE_Carving.description,A small carving sculpted from a waist-tall wall piece. Can act as cover.,description,ThingDef/ThingDef.xml,def
+VFE_StatueLarge.label,large statue,label,ThingDef/ThingDef.xml,def
+VFE_StatueLarge.description,"A person-sized piece of material on a decorative pedestal, sculpted into an artistic form.",description,ThingDef/ThingDef.xml,def
+VFE_StatueGrand.label,grand statue,label,ThingDef/ThingDef.xml,def
+VFE_StatueGrand.description,"A huge piece of material on a decorative pedestal, sculpted into an artistic form.",description,ThingDef/ThingDef.xml,def
+VFE_Monument.label,monument,label,ThingDef/ThingDef.xml,def
+VFE_Monument.description,"An impassable, massive monument with an ornate pedestal and a large art piece.",description,ThingDef/ThingDef.xml,def
+VFE_Relief.label,relief,label,ThingDef/ThingDef.xml,def
+VFE_Relief.description,"An impassable, long piece of wall with an artistic relief carved into it.",description,ThingDef/ThingDef.xml,def
+VFE_Pillar.label,pillar,label,ThingDef/ThingDef.xml,def
+VFE_Pillar.description,"An impassable, decorated pillar capable of supporting a roof.",description,ThingDef/ThingDef.xml,def
+VFE_Obelisk.label,obelisk,label,ThingDef/ThingDef.xml,def
+VFE_Obelisk.description,A tall piece of material shaped into an obelisk with an art piece carved into the sides.,description,ThingDef/ThingDef.xml,def
+VFE_Plinth.label,plinth,label,ThingDef/ThingDef.xml,def
+VFE_Plinth.description,"A small plinth with an artistic imagery carved into the sides. Can be used for storing miscellaneous items. Items stored in this will not deteriorate, even if outside.",description,ThingDef/ThingDef.xml,def
+VFE_Wallpaper.label,wallpaper,label,ThingDef/ThingDef.xml,def
+VFE_Wallpaper.description,An impassable wall with a beautiful wallpaper. Capable of holding up a roof.,description,ThingDef/ThingDef.xml,def
+UnfinishedHologram.label,unfinished hologram,label,ThingDef/ThingDef.xml,def
+VFE_HologramOn.label,hologram,label,ThingDef/ThingDef.xml,def
+VFE_HologramOn.description,"A human-sized light projecting device, depicting an artwork made using several programming languages. Needs to be plugged in to display the artwork.",description,ThingDef/ThingDef.xml,def
+UnfinishedRug.label,unfinished rug,label,ThingDef/ThingDef.xml,def
+VFE_RugSmall.label,small rug,label,ThingDef/ThingDef.xml,def
+VFE_RugSmall.description,"A small size floor covering textile, decorated with artistic embroidery.",description,ThingDef/ThingDef.xml,def
+VFE_RugLarge.label,large rug,label,ThingDef/ThingDef.xml,def
+VFE_RugLarge.description,"A large size floor covering textile, decorated with artistic embroidery.",description,ThingDef/ThingDef.xml,def
+VFE_RugGrand.label,grand rug,label,ThingDef/ThingDef.xml,def
+VFE_RugGrand.description,"A huge floor covering textile that dominates a room, decorated with artistic embroidery.",description,ThingDef/ThingDef.xml,def
+VFE_ArchotechSculptureImprint.stages.0.label,imprinted with art,label,ThoughtDef/ThoughtDef.xml,def
+VFE_ArchotechSculptureImprint.stages.0.description,The archotech sculpture makes me constantly see a beautiful artwork. It makes me relaxed.,description,ThoughtDef/ThoughtDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VFE_DecorativePlantPot.label,decorative plant pot,label,ThingDef/ThingDef.xml,def
+VFE_DecorativePlantPot.description,Plant decorative flowers on this ornamental plant pot to improve the mood of people nearby.,description,ThingDef/ThingDef.xml,def
+HologramBase.label,hologram base,label,ThingDef/ThingDef.xml,def
+HologramBase.description,"A human-sized light projecting device, depicting an artwork made using several programming languages. Needs to be plugged in to display the artwork.",description,ThingDef/ThingDef.xml,def
+VFE_Res_Obelisk.generalRules.rulesStrings.0,subject->stone sentinels of history,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Obelisk.generalRules.rulesStrings.1,"subject_story->mastered the art of carving stone into towering obelisks, symbols of significant achievements and memory",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Obelisk.generalRules.rulesStrings.2,"subject_story->marked the landscape with these monoliths, guiding future generations towards understanding their heritage",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Obelisk.generalRules.rulesStrings.3,subject_gerund->etching the narrative of civilization into the earth itself,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.generalRules.rulesStrings.0,subject->the clay canvas,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.generalRules.rulesStrings.1,subject_story->rediscovered ancient techniques for shaping clay into vessels of beauty and utility,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.generalRules.rulesStrings.2,"subject_story->elevated simple materials to art, capturing the essence of culture in each curve and color",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Pottery.generalRules.rulesStrings.3,subject_gerund->molding the earth's bounty into forms of lasting legacy,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.generalRules.rulesStrings.0,subject->narratives in stone,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.generalRules.rulesStrings.1,subject_story->carved tales of triumph and tragedy into the very walls that sheltered them,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.generalRules.rulesStrings.2,"subject_story->turned blank stone canvases into epic visual stories, immortalizing heroes and history",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_WallCarvings.generalRules.rulesStrings.3,subject_gerund->breathing life into stone with tales of old and new,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.generalRules.rulesStrings.0,subject->showcasing splendor,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.generalRules.rulesStrings.1,"subject_story->crafted exquisite displays, elevating the presentation of artifacts beyond mere possession to celebration",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.generalRules.rulesStrings.2,"subject_story->enhanced the allure of treasures, creating spaces where culture and curiosity converge",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_ArtfulDisplay.generalRules.rulesStrings.3,subject_gerund->curating collections to kindle wonder and wisdom,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.generalRules.rulesStrings.0,subject->the form of remembrance,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.generalRules.rulesStrings.1,"subject_story->sculpted figures from marble and stone, capturing the spirit of those who shaped their world",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.generalRules.rulesStrings.2,"subject_story->populated their halls and plazas with the likenesses of the revered, making every glance a lesson in legacy",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Statues.generalRules.rulesStrings.3,subject_gerund->freezing moments of greatness in stone for eternity,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.generalRules.rulesStrings.0,subject->testaments of time,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.generalRules.rulesStrings.1,"subject_story->erected grand monuments, each a story of survival, achievement, and loss",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.generalRules.rulesStrings.2,"subject_story->cemented their tales in the bedrock of civilization, inspiring all who gaze upon them",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Monuments.generalRules.rulesStrings.3,subject_gerund->crafting the pillars of history and hope,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.generalRules.rulesStrings.0,subject->weaving warmth and wonder,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.generalRules.rulesStrings.1,"subject_story->interlaced threads of diverse origins into rugs, each a masterpiece of color and comfort",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.generalRules.rulesStrings.2,"subject_story->spread the fabric of their culture underfoot, a soft foundation for everyday life and luxury",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Rugs.generalRules.rulesStrings.3,subject_gerund->laying down the tapestries of tales untold,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.generalRules.rulesStrings.0,subject->the texture of times,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.generalRules.rulesStrings.1,"subject_story->adorned their walls with wallpapers, each pattern a reflection of the era’s aesthetic and ethos",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.generalRules.rulesStrings.2,subject_story->transformed living spaces into canvases of personal and collective expression,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Wallpapers.generalRules.rulesStrings.3,subject_gerund->clothing walls in the vestments of vision and vibrancy,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.generalRules.rulesStrings.0,subject->illuminating innovation,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.generalRules.rulesStrings.1,"subject_story->harnessed light to give form to the formless, creating holograms that challenge the confines of reality",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.generalRules.rulesStrings.2,subject_story->brought to life the marvels of the cosmos and the intricacies of imagination in vivid display,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFE_Res_Holograms.generalRules.rulesStrings.3,"subject_gerund->casting dreams into the daylight, where thoughts take tangible shape",li,ResearchProjectDef/ResearchProjectDef.xml,def

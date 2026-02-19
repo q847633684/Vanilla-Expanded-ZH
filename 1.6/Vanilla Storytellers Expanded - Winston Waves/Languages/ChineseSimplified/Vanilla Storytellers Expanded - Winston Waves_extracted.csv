@@ -1,0 +1,473 @@
+key,text,tag,file,type
+VESWW.RandomRewardOf,Random reward of the {0} category,VESWW.RandomRewardOf,Misc.xml,keyed
+VESWW.RandomApparel,{0} random apparel(s) of {1} quality with the {3} tag,VESWW.RandomApparel,Misc.xml,keyed
+VESWW.RandomWeapons,{0} random weapon(s) of {1} quality with the {3} tag,VESWW.RandomWeapons,Misc.xml,keyed
+VESWW.RandomThing,{0} random thing(s) of {1} quality within the {3} category,VESWW.RandomThing,Misc.xml,keyed
+VESWW.RandomThingMC,{0} random thing(s) of {1} quality within the {3} categories,VESWW.RandomThingMC,Misc.xml,keyed
+VESWW.RandomBlocks,{0} random stone blocks,VESWW.RandomBlocks,Misc.xml,keyed
+VESWW.RandomPawns,{0} random pawn(s) of {1} intelligence,VESWW.RandomPawns,Misc.xml,keyed
+VESWW.FiringEvent,The {0} event,VESWW.FiringEvent,Misc.xml,keyed
+VESWW.Item,{0} {1},VESWW.Item,Misc.xml,keyed
+VESWW.ItemWQuality,{0} {1} of {2} quality,VESWW.ItemWQuality,Misc.xml,keyed
+VESWW.Pawn,{0} {1},VESWW.Pawn,Misc.xml,keyed
+VESWW.Research,Unlock {0} researches,VESWW.Research,Misc.xml,keyed
+VESWW.SkillBoost,"Add {0} points to every colonists, slaves and prisonners",VESWW.SkillBoost,Misc.xml,keyed
+VESWW.Delay,Next wave is delayed by {0} days,VESWW.Delay,Misc.xml,keyed
+VESWW.Weaken,Next wave is wekeaned by {0},VESWW.Weaken,Misc.xml,keyed
+VESWW.Allies,Next wave will also spawn friendlies to help you out,VESWW.Allies,Misc.xml,keyed
+VESWW.MassHeal,"Instantly heal all damages on all colonists, slaves and prisonners",VESWW.MassHeal,Misc.xml,keyed
+VESWW.ResearchUnlocked,{0} has been researched,VESWW.ResearchUnlocked,Misc.xml,keyed
+VESWW.Reward,{0} reward,VESWW.Reward,Misc.xml,keyed
+VESWW.SelectReward,Select reward,VESWW.SelectReward,Misc.xml,keyed
+VESWW.WaveNum,Wave {0},VESWW.WaveNum,Misc.xml,keyed
+VESWW.EnemiesC,Enemies coming ({0}):,VESWW.EnemiesC,Misc.xml,keyed
+VESWW.EnemiesR,Defeat remaining enemies:,VESWW.EnemiesR,Misc.xml,keyed
+VESWW.RandRewardOutcome,You are getting: {0},VESWW.RandRewardOutcome,Misc.xml,keyed
+VESWW.RemoveOldDropSpot,Removing other reward drop spot,VESWW.RemoveOldDropSpot,Misc.xml,keyed
+VESWW.SkipWave,Summon early,VESWW.SkipWave,Misc.xml,keyed
+VESWW.BossWave,Boss wave,VESWW.BossWave,Misc.xml,keyed
+VESWW.NormalWave,Normal wave,VESWW.NormalWave,Misc.xml,keyed
+VESWW.PointUsed,{0} points used,VESWW.PointUsed,Misc.xml,keyed
+VESWW.RewardChance,Reward commonality at this wave:,VESWW.RewardChance,Misc.xml,keyed
+VESWW.MoreRewardChance,{0} chance of getting a fourth reward choice if summoning the wave now,VESWW.MoreRewardChance,Misc.xml,keyed
+VESWW.GameOver,Game Over!,VESWW.GameOver,Misc.xml,keyed
+VESWW.SurvivedX,Waves survived: {0},VESWW.SurvivedX,Misc.xml,keyed
+VESWW.SurvivedDaysX,Days survived: {0},VESWW.SurvivedDaysX,Misc.xml,keyed
+VESWW.TotalKill,Total kills: {0},VESWW.TotalKill,Misc.xml,keyed
+VESWW.MaxPopEver,Greatest population: {0},VESWW.MaxPopEver,Misc.xml,keyed
+VESWW.Reinforcement,Reinforcement!,VESWW.Reinforcement,Misc.xml,keyed
+VESWW.Score,Final score: {0},VESWW.Score,Misc.xml,keyed
+VESWW.Locked,Draggable:,VESWW.Locked,Misc.xml,keyed
+VESWW.Poor,Poor,VESWW.Poor,Misc.xml,keyed
+VESWW.Normal,Normal,VESWW.Normal,Misc.xml,keyed
+VESWW.Good,Good,VESWW.Good,Misc.xml,keyed
+VESWW.Excellent,Excellent,VESWW.Excellent,Misc.xml,keyed
+VESWW.Legendary,Legendary,VESWW.Legendary,Misc.xml,keyed
+VESWW.PawnsArriving,Raid pawns arriving...,VESWW.PawnsArriving,Misc.xml,keyed
+VESWW.ModName,Winston Wave,VESWW.ModName,Misc.xml,keyed
+VESWW.TimeBeforeFirstWave,Time before first wave:,VESWW.TimeBeforeFirstWave,Misc.xml,keyed
+VESWW.TimeBetweenWaves,Time between waves:,VESWW.TimeBetweenWaves,Misc.xml,keyed
+VESWW.TimeToDefeatWave,Maximum days to deafeat a wave:,VESWW.TimeToDefeatWave,Misc.xml,keyed
+VESWW.MaxPoints,Max threat points used:,VESWW.MaxPoints,Misc.xml,keyed
+VESWW.EnableMaxPoints,Enable raid point cap:,VESWW.EnableMaxPoints,Misc.xml,keyed
+VESWW.DrawBackground,Draw wave counter background:,VESWW.DrawBackground,Misc.xml,keyed
+VESWW.PointMultiplierBefore20,Wave points multiplier before wave 20:,VESWW.PointMultiplierBefore20,Misc.xml,keyed
+VESWW.PointMultiplierAfter20,Wave points multiplier after wave 20:,VESWW.PointMultiplierAfter20,Misc.xml,keyed
+VESWW.EnableStats,Enable stats increase:,VESWW.EnableStats,Misc.xml,keyed
+VESWW.DrawBack,Draw wave counter background:,VESWW.DrawBack,Misc.xml,keyed
+VESWW.MysteryMod,Enable mystery mode:,VESWW.MysteryMod,Misc.xml,keyed
+VESWW.RandomRewardMod,Send random reward:,VESWW.RandomRewardMod,Misc.xml,keyed
+VESWW.Modifiers,Exclude modifier(s) from waves:,VESWW.Modifiers,Misc.xml,keyed
+VESWW.RModifiers,Remove modifier(s) from excluded,VESWW.RModifiers,Misc.xml,keyed
+VESWW.AModifiers,Exclude modifier(s),VESWW.AModifiers,Misc.xml,keyed
+VESWW.ExcludedFaction,Exclude certain faction(s) from waves:,VESWW.ExcludedFaction,Misc.xml,keyed
+VESWW.AddExcludedFaction,Exclude faction,VESWW.AddExcludedFaction,Misc.xml,keyed
+VESWW.RemoveExcludedFaction,Remove faction from excluded,VESWW.RemoveExcludedFaction,Misc.xml,keyed
+VESWW.ExcludedStrategy,Exclude certain strategies from boss waves:,VESWW.ExcludedStrategy,Misc.xml,keyed
+VESWW.AddExcludedStrategy,Exclude raid strategy,VESWW.AddExcludedStrategy,Misc.xml,keyed
+VESWW.RemoveExcludedStrategy,Remove raid strategy from excluded,VESWW.RemoveExcludedStrategy,Misc.xml,keyed
+VESWW.ShowDraggable,"Hide the wave counter ""draggable"" checkbox:",VESWW.ShowDraggable,Misc.xml,keyed
+VESWW.UseRimworldTime,Timer use rimworld time:,VESWW.UseRimworldTime,Misc.xml,keyed
+VESWW.DontShowPawnList,Show raiders pawns list and faction:,VESWW.DontShowPawnList,Misc.xml,keyed
+VESWW.ResetCounterPos,Reset wave counter position,VESWW.ResetCounterPos,Misc.xml,keyed
+VESWW.LoadToReset,Load a save using Winston first!,VESWW.LoadToReset,Misc.xml,keyed
+VESWW.DisableSteelSlagChunk,Reward drop pods also drop steel slag chunk(s),VESWW.DisableSteelSlagChunk,Misc.xml,keyed
+VESWW.GS,General,VESWW.GS,Misc.xml,keyed
+VESWW.VS,Waves,VESWW.VS,Misc.xml,keyed
+VESWW.MS,Modifiers,VESWW.MS,Misc.xml,keyed
+VESWW.WCS,Wave counter,VESWW.WCS,Misc.xml,keyed
+VESWW.TimeBeforeFirstWaveTip,Number of days before the first wave arrive.,VESWW.TimeBeforeFirstWaveTip,Misc.xml,keyed
+VESWW.TimeBetweenWavesTip,Number of days in between each wave.,VESWW.TimeBetweenWavesTip,Misc.xml,keyed
+VESWW.TimeToDefeatWaveTip,"Maximum number of days the player have to defeat a wave. If the wave isn't defeated in this time, the next wave is prepared and no rewards are given.",VESWW.TimeToDefeatWaveTip,Misc.xml,keyed
+VESWW.MaxPointsTip,Maximum amount of points used in the raid generation.,VESWW.MaxPointsTip,Misc.xml,keyed
+VESWW.PointMultiplierBefore20Tip,Raid point multiplier used before the wave 20.,VESWW.PointMultiplierBefore20Tip,Misc.xml,keyed
+VESWW.PointMultiplierAfter20Tip,Raid point multiplier used after the wave 20.,VESWW.PointMultiplierAfter20Tip,Misc.xml,keyed
+VESWW.EnableStatsTip,"Stats increased are: natural healing factor, global work speed, research speed and plant growth speed.",VESWW.EnableStatsTip,Misc.xml,keyed
+VESWW.RandomRewardModTip,"With this enabled, the reward window will never be showed. You will always get a random reward.",VESWW.RandomRewardModTip,Misc.xml,keyed
+VESWW.MysteryModTip,"With this enabled, the modifier will always be hidden. You will know a modifier has been applied, but not which one.",VESWW.MysteryModTip,Misc.xml,keyed
+VESWW.ShowDraggableTip,"If disabled, you won't be able to change the counter draggabality until you reactivate this.",VESWW.ShowDraggableTip,Misc.xml,keyed
+VESWW.UseRimworldTimeTip,If this is enabled the timer use rimworld time instead of real life time.,VESWW.UseRimworldTimeTip,Misc.xml,keyed
+VESWW_DeathSuperAcidifier.label,death super acidifier,label,HediffDef/HediffDef.xml,def
+VESWW_DeathSuperAcidifier.labelNoun,a death super acidifier,labelNoun,HediffDef/HediffDef.xml,def
+VESWW_DeathSuperAcidifier.description,An installed death super acidifier.,description,HediffDef/HediffDef.xml,def
+VESWW_InstallDeathSuperAcidifier.label,install death super acidifier,label,RecipeDef/RecipeDef.xml,def
+VESWW_InstallDeathSuperAcidifier.description,Install a death super acidifier.,description,RecipeDef/RecipeDef.xml,def
+VESWW_InstallDeathSuperAcidifier.jobString,Installing death super acidifier.,jobString,RecipeDef/RecipeDef.xml,def
+VESWW_IncreasedStats.label,increased stats,label,HediffDef/HediffDef.xml,def
+VESWW_IncreasedStats.description,Increased stats as a counterpart of Winston,description,HediffDef/HediffDef.xml,def
+VESWW_NoPain.label,no pain,label,HediffDef/HediffDef.xml,def
+VESWW_NoPain.description,No pain.,description,HediffDef/HediffDef.xml,def
+VSEWW_Sprinter.label,sprinter,label,HediffDef/HediffDef.xml,def
+VSEWW_Sprinter.description,Sprint fast.,description,HediffDef/HediffDef.xml,def
+VSEWW_Boom.label,boom,label,HediffDef/HediffDef.xml,def
+VSEWW_Boom.description,Boom!,description,HediffDef/HediffDef.xml,def
+VESWW_Veterans.label,veteran,label,HediffDef/HediffDef.xml,def
+VESWW_Veterans.description,Veteran,description,HediffDef/HediffDef.xml,def
+VESWW_Ninja.label,ninja,label,HediffDef/HediffDef.xml,def
+VESWW_Ninja.description,ninja,description,HediffDef/HediffDef.xml,def
+VSEWW_BulletSponge.label,bullet sponge,label,HediffDef/HediffDef.xml,def
+VSEWW_BulletSponge.description,bullet sponge,description,HediffDef/HediffDef.xml,def
+VESWW_BulletProof.label,bullet proof,label,HediffDef/HediffDef.xml,def
+VESWW_BulletProof.description,bullet proof,description,HediffDef/HediffDef.xml,def
+VSEWW_DoubleTrouble.label,Double trouble,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_DoubleTrouble.description,Raid size in points is doubled,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BulletSponges.label,Bullet sponges,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BulletSponges.description,Health of the enemies is doubled,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Sprinters.label,Sprinters,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Sprinters.description,Movement speed of all the enemies is doubled,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Veterans.label,Veterans,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Veterans.description,"All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Reinforcements.label,Reinforcements,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Reinforcements.description,"Enemies receive reinforcements from the same faction, worth 50% of the initial wave size, after about 20% of the raid size is defeated",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_OrbitalBombardment.label,Orbital bombardment,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_OrbitalBombardment.description,"During the wave, orbital bombardment falls on the entire map",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Flashstorm.label,Flashstorm,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Flashstorm.description,"During the wave, flashstorm is present on the map and rain won’t trigger to extinguish the flames",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Ninjas.label,Ninjas,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Ninjas.description,All enemies are invisible for the first 30 seconds,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Bulletproof.label,Bulletproof,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Bulletproof.description,All enemies have their natural armor increased by 50%,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_NoPainNoGain.label,No Pain No Gain,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_NoPainNoGain.description,All enemies don’t feel pain,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_NoRetreat.label,No retreat!,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_NoRetreat.description,Enemies will not retreat,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_AcidifiersForEveryone.label,Acidifiers for everyone!,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_AcidifiersForEveryone.description,All enemies have death acidifiers,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BodyModder.label,Body modders,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BodyModder.description,All enemies use bionics part. Lower raid size in points.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_SniperForEveryone.label,Snipers for everyone!,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_SniperForEveryone.description,All enemies get a sniper.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_OnlyMelee.label,Melee only!,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_OnlyMelee.description,All pawns get a melee weapon and a shield belt.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_ChargeForEveryone.label,Charge weapons for everyone!,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_ChargeForEveryone.description,All enemies have a charge weapon.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_StrategicApproach.label,Strategic approach,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_StrategicApproach.description,"Enemies use a combination of : grenades, rocket launcher and sniper. Wave raid point is multiplied by 0.7.",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_MeteorStorm.label,Meteor storm,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_MeteorStorm.description,"During the wave, meteors fall on the map.",description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Mystery.label,Mystery,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_Mystery.description,A random modifier has been applied. You will discover it soon enough.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BigBosses.label,Big Bosses,label,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_BigBosses.description,All enemies are mercenaries. Wave raid point is divided by two.,description,VSEWW.ModifierDef/VSEWW.ModifierDef.xml,def
+VSEWW_ExcellentPawnJoins.label,Pawns join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentPawnJoins.description,A group of 5 pawns worth a minimum of 175 Combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentResourceDrop.label,Resource drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentResourceDrop.description,"Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentFoodAndMedicineDrop.label,Food and medicine drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentFoodAndMedicineDrop.description,"Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentFuelDrop.label,Fuel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentFuelDrop.description,"Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentWeaponDrop.label,Excellent weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentWeaponDrop.description,"Cargo pods 5 random weapons, quality is Excellent",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentArmorDrop.label,Excellent armor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentArmorDrop.description,"Cargo pods 5 random pieces of armor, quality is Excellent",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentCashDrop.label,Cash,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentCashDrop.description,"Cargo pods drop 10000 silver, 500 gold",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy15.label,Delay next wave,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy15.description,The next wave is delayed by 15 days,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_WargDrop.label,Wargs drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_WargDrop.description,Cargo pod drops 10 tamed wargs,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentSkillBoost.label,Skill boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentSkillBoost.description,Improve every skill of every pawn under your control by 3,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentReseachBoost.label,Research boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentReseachBoost.description,Instantly research 8 random research projects you meet prerequisites for,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentArchotechArtifactsDrop.label,Archotech artifacts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentArchotechArtifactsDrop.description,Receive 8 random archotech items (can be minified structures),description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_TargetersDrop.label,Targeters drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_TargetersDrop.description,"Receive an orbital beam targeter, orbital bombardment targeter and tornado generator",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentDrugsDrop.label,Drugs drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentDrugsDrop.description,"Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentProstheticsDrop.label,Prosthetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ExcellentProstheticsDrop.description,Cargo pod drops random 10 bionic prosthetics,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechSerumHealerDrop.label,Healer serum drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechSerumHealerDrop.description,Cargo pod drops 5 Mechanoid healer serum,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomLegendaryDrop.label,Random Legendary reward,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomLegendaryDrop.description,"Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodPawnJoins.label,Pawns join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodPawnJoins.description,A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodResourceDrop.label,Resource drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodResourceDrop.description,"Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodComponentDrop.label,Components drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodComponentDrop.description,"Cargo pods drop 60 components, 15 advanced components",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodFoodAndMedicineDrop.label,Food and medicine drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodFoodAndMedicineDrop.description,Cargo pods drop 100 survival meals and 100 medicine,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodFuelDrop.label,Fuel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodFuelDrop.description,"Cargo pods drop 800 chemfuel, 800 wood and 250 uranium",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodWeaponsDrop.label,Good weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodWeaponsDrop.description,"Cargo pods 3 random weapons, quality is Good",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodArmorDrop.label,Good armor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodArmorDrop.description,"Cargo pods 3 random pieces of armor, quality is Good",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodCashDrop.label,Cash,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodCashDrop.description,"Cargo pods drop 5000 silver, 250 gold",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy7.label,Delay next wave,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy7.description,Next wave is delayed by 7 days,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CombatAnimalDrop.label,Combat Animal drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CombatAnimalDrop.description,"Cargo pod drops 5 random, tamed combat animals",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodTextileDrop.label,Textile drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodTextileDrop.description,Cargo pod drops 1000 random pieces of leather or textile,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodSkillBoost.label,Skill boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodSkillBoost.description,Improve every skill of every pawn under your control by 2,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodReseachBoost.label,Research boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodReseachBoost.description,Instantly research 5 random research projects you meet prerequisites for,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Weaken50.label,Weaken next wave,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Weaken50.description,Next wave only has 50% Combat points it would normally have,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Allies.label,Allies!,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Allies.description,"Next wave also brings allies that are 2x the regular size, to help you",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodArchotechArtifactsDrop.label,Archotech artifacts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodArchotechArtifactsDrop.description,Receive 5 random archotech items (can be minified structures),description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTargeterPowerBeamDrop.label,Orbital beam targeter,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTargeterPowerBeamDrop.description,Receive an orbital beam targeter,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTargeterBombardmentDrop.label,Orbital bombardment targeter,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTargeterBombardmentDrop.description,Receive an orbital bombardment targeter,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_TornadoGeneratorDrop.label,Tornado generator,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_TornadoGeneratorDrop.description,Receive a tornado generator,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodDrugsDrop.label,Drugs drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodDrugsDrop.description,"Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodProstheticsDrop.label,Prosthetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GoodProstheticsDrop.description,Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomExcellentDrop.label,Random Excellent reward,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomExcellentDrop.description,"Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTraderArrival.label,Orbital Trader Arrival,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_OrbitalTraderArrival.description,Send a random orbital trader,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MercenaryJoins.label,Pawns join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MercenaryJoins.description,A group of 5 mercenary PawnKindDef pawns join,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryResourceDrop.label,Resource drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryResourceDrop.description,"Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SurvivalMeansDrop.label,Survival means drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SurvivalMeansDrop.description,"Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryFuelDrop.label,Fuel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryFuelDrop.description,"Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryGearDrop.label,Legendary gear drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryGearDrop.description,"Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CashAndRiches.label,Cash and Riches,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CashAndRiches.description,"Cargo pods drop 25000 silver, 1000 gold, 1000 Jade",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ThrumboDrop.label,Thrumbo drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ThrumboDrop.description,Cargo pod drops 3 tamed thrumbos,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendarySkillBoost.label,Skill boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendarySkillBoost.description,Improve every skill of every pawn under your control by 5,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ArchotechProstheticsDrop.label,Archotech prosthetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ArchotechProstheticsDrop.description,Cargo pod drops random 10 archotech body parts,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MassHeal.label,Mass Heal,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MassHeal.description,Instantly heals all the wounds on all pawns under player control,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalPawnJoins.label,Pawn joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalPawnJoins.description,A single pawn worth minimum 50 and up to 125 Combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalResourceDrop.label,Resource drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalResourceDrop.description,"Cargo pods drop 250 wood, 250 steel, 10 components",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalComponentDrop.label,Component drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalComponentDrop.description,"Cargo pods drop 20 components, 5 advanced components",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalFoodAndMedicineDrop.label,Food and medicine drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalFoodAndMedicineDrop.description,Cargo pods drop 30 survival meals and 30 medicine,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_UraniumDrop.label,Uranium drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_UraniumDrop.description,Cargo pods drop 100 uranium,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalFuelDrop.label,Fuel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalFuelDrop.description,Cargo pods drop 500 chemfuel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PlasteelDrop.label,Plasteel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PlasteelDrop.description,Cargo pods drop 100 plasteel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalWeaponsDrop.label,Normal weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalWeaponsDrop.description,"Cargo pods 3 random weapons, quality is normal",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalCashDrop.label,Cash,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalCashDrop.description,Cargo pods drop 3000 silver,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CaravanArrival.label,Caravan arrival,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CaravanArrival.description,A random caravan arrives,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy3.label,Delay next wave,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_DelayBy3.description,Next wave is delayed by 3 days,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalAnimalDrop.label,Animal drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalAnimalDrop.description,"Cargo pod drops 2 random, tamed animals",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalTextileDrop.label,Textile drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalTextileDrop.description,Cargo pod drops 400 random pieces of leather or textile,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MiniturretDrop.label,Miniturret drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MiniturretDrop.description,Cargo pod drops 3 minified mini-turrets,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalReseachBoost.label,Research boost,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalReseachBoost.description,Instantly research 3 random research projects you meet prerequisites for,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalProstheticsDrop.label,Prosthetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_NormalProstheticsDrop.description,Cargo pod drops 5 random low-level prosthetics,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomGoodDrop.label,Random Good reward,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomGoodDrop.description,"Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MeteoriteImpact.label,Meteorite impact,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MeteoriteImpact.description,Meteorite impact,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PsychicSoothe.label,Psychic Soothe,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PsychicSoothe.description,Psychic soothe,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SuperNanitesDrop.label,Super-nanites drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SuperNanitesDrop.description,Cargo pod drops 5 super-nanites.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomLabDrop.label,Lab part drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomLabDrop.description,Cargo pod drop one gene-tailoring lab part.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryRandomLabDrop.label,Lab parts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LegendaryRandomLabDrop.description,Cargo pod drops 3 random gene-tailoring lab parts.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IncubatorDrop.label,Incubator drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IncubatorDrop.description,Cargo pod drop one incubator.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GenomeDrop.label,Genomes drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GenomeDrop.description,Cargo pod drops 5 random genomes.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PlasmaWeaponsDrop.label,Plasma weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PlasmaWeaponsDrop.description,Cargo pod drops 3 random plasma weapons.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CryoGearDrop.label,Crypto gears drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_CryoGearDrop.description,Cargo pod drops 3 random crypto gears.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LaserWeaponsDrop.label,Laser weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LaserWeaponsDrop.description,Cargo pod drops 3 random laser weapons.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_HeavyWeaponDrop.label,Heavy weapon drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_HeavyWeaponDrop.description,Cargo pod drop one random heavy weapon and one exoskeleton frame.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_BooksDrop.label,Books drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_BooksDrop.description,Cargo pods 3 random books.,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorPawnJoins.label,Pawn joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorPawnJoins.description,A single pawn worth up to 50 Combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_WoodDrop.label,Wood drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_WoodDrop.description,Cargo pods drop 250 wood,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SteelDrop.label,Steel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SteelDrop.description,Cargo pods drop 250 steel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_StoneDrop.label,Stone drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_StoneDrop.description,Cargo pods drop 250 stone blocks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FoodDrop.label,Food drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FoodDrop.description,Cargo pods drop 30 survival meals,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MedicineDrop.label,Medicine drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MedicineDrop.description,Cargo pods drop 30 medicine,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorFuelDrop.label,Fuel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorFuelDrop.description,Cargo pods drop 200 chemfuel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorWeaponsDrop.label,Poor weapons drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorWeaponsDrop.description,"Cargo pods 3 random weapons, maximum quality is poor",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorCashDrop.label,Cash,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorCashDrop.description,Cargo pods drop 1000 silver,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PoorAnimalDrop.label,Animal drop,label,VSEWW.RPawnRewardDef/VSEWW.RPawnRewardDef.xml,def
+VSEWW_PoorAnimalDrop.description,"Cargo pod drops a random, tamed animal",description,VSEWW.RPawnRewardDef/VSEWW.RPawnRewardDef.xml,def
+VSEWW_LeatherDrop.label,Leather drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_LeatherDrop.description,Cargo pod drops 300 random pieces of leather,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomNormalDrop.label,Random normal reward,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomNormalDrop.description,"Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FactoryStarterDrop.label,Factory starter drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FactoryStarterDrop.description,Cargo pod drops 150 steel and 5 mechanoid components,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FactoryExpansionDrop.label,Factory expansion drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FactoryExpansionDrop.description,Cargo pod drops 400 steel and 10 mechanoid components and 20 industrial components,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VESWW_OrbitalBombardement.label,Orbital bombardement,label,GameConditionDef/GameConditionDef.xml,def
+VESWW_OrbitalBombardement.description,Orbital bombardement target your colony map.,description,GameConditionDef/GameConditionDef.xml,def
+VESWW_OrbitalBombardement.endMessage,The orbital bombardement is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VESWW_OrbitalBombardement.letterText,Orbital bombardement,letterText,GameConditionDef/GameConditionDef.xml,def
+VESWW_FullMapFlashstorm.label,Flashstorm,label,GameConditionDef/GameConditionDef.xml,def
+VESWW_FullMapFlashstorm.description,Flashstorm on your whole colony map.,description,GameConditionDef/GameConditionDef.xml,def
+VESWW_FullMapFlashstorm.endMessage,The flashstorm is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VESWW_FullMapFlashstorm.letterText,Flashstorm,letterText,GameConditionDef/GameConditionDef.xml,def
+VESWW_MeteorStorm.label,meteor storm,label,GameConditionDef/GameConditionDef.xml,def
+VESWW_MeteorStorm.description,Meteor storm on your whole colony map.,description,GameConditionDef/GameConditionDef.xml,def
+VESWW_MeteorStorm.endMessage,The meteor storm is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VESWW_MeteorStorm.letterText,Flashstorm,letterText,GameConditionDef/GameConditionDef.xml,def
+VSE_WinstonWave.label,Winston Wave,label,StorytellerDef/StorytellerDef.xml,def
+VSE_WinstonWave.description,"Winston is a battle-hardened combat expert, and he believes that through combat, one can find themselves for who they really are. Every day you will be attacked by enemy waves increasing in size, but you will be rewarded for each victory.",description,StorytellerDef/StorytellerDef.xml,def
+VESWW_RewardDropSpot.label,reward drop spot,label,ThingDef/ThingDef.xml,def
+VESWW_RewardDropSpot.description,Used to mark where rewards should drops,description,ThingDef/ThingDef.xml,def
+AA_NormalFleetDrop.label,Call fleet support,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_NormalFleetDrop.description,Cargo pod summons 5 tamed Aerofleet,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_NormalLiskSquad.label,Call lisk squad,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_NormalLiskSquad.description,Cargo pod summons 2 tamed 'lisks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GoodFleetDrop.label,Call fleet support,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GoodFleetDrop.description,Cargo pod summons 10 tamed Aerofleet,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GoodLiskSquad.label,Call lisk squad,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GoodLiskSquad.description,Cargo pod summons 5 tamed 'lisks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_ExcellentFleetDrop.label,Call fleet support,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_ExcellentFleetDrop.description,Cargo pod summons 10 tamed Aerofleet and 5 colossal Aerofleet,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_ExcellentLiskSquad.label,Call lisk squad,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_ExcellentLiskSquad.description,Cargo pod summons 8 tamed 'lisks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GallatrossDrop.label,Gallatross drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AA_GallatrossDrop.description,Cargo pod drops 1 tamed gallatross,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_NormalPrefabReward.label,Low value prefab,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_NormalPrefabReward.description,Cargo pod contains one low value prefab,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_GoodPrefabReward.label,Medium value prefab,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_GoodPrefabReward.description,Cargo pod contains one medium value prefab,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_ExcellentPrefabReward.label,High value prefab,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_ExcellentPrefabReward.description,Cargo pod contains one high value prefab,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_LegendaryPrefabReward.label,Legendary value prefab,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+AP_LegendaryPrefabReward.description,Cargo pod contains one legendary value prefab,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardNormal.label,Shard drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardNormal.description,Receive a single scavenged fragment of dark archotechnology,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardExcellent.label,Shard drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardExcellent.description,Receive five scavenged fragments of dark archotechnology,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GhoulNormal.label,Ghoul joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GhoulNormal.description,A single ghoul joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GhoulExcellent.label,Ghouls join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GhoulExcellent.description,A group of 5 ghouls joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShamblersNormal.label,Shamblers join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShamblersNormal.description,A horde of 10 shamblers joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShamblersExcellent.label,Shamblers join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShamblersExcellent.description,A horde of 30 shamblers joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardArtifactsDropGood.label,Shard artifacts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardArtifactsDropGood.description,Receive 4 random shard artifact items,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardArtifactsDropExcellent.label,Shard artifacts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_ShardArtifactsDropExcellent.description,Receive 7 random shard artifact items,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SerumsGood.label,Serum drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SerumsGood.description,Receive 5 random serums,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SerumsExcellent.label,Serum drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_SerumsExcellent.description,Receive 10 random serums,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsNormal.label,Genetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsNormal.description,Receive 3 random genepacks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsGood.label,Genetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsGood.description,Receive 5 random genepacks,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsExcellent.label,Genetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsExcellent.description,"Receive 7 random genepacks, an archite capsule and three gene banks",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsLegendary.label,Genetics drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GeneticsLegendary.description,"Receive 20 random genepacks, 10 archite capsules and 10 gene banks",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorNormal.label,Mechanitor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorNormal.description,Receive three random subcores and a random mech chip,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorGood.label,Mechanitor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorGood.description,"Receive five random subcores, a random mech chip and a mech booster",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorExcellent.label,Mechanitor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorExcellent.description,"Receive five random subcores, two random mech chips, three random mechanitor implants and an assortment of mech boosters",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorLegendary.label,Mechanitor drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_MechanitorLegendary.description,"Receive ten random subcores, five random mech chips, five random mechanitor implants and an assortment of mech boosters",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Poor.label,Xenohuman joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Poor.description,A single xenohuman worth up to 50 combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Normal.label,Xenohuman joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Normal.description,A single xenohuman worth minimum 50 and up to 125 Combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Good.label,Xenohumans join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Good.description,A group of 3 xenohumans worth a minimum 100 and up to 175 combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Excellent.label,Xenohumans join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Excellent.description,A group of 5 xenohumans worth a minimum of 175 combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Legendary.label,Xenohumans join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomXenotypeJoins_Legendary.description,A group of 5 mercenary xenohuman colonists join,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomSanguophage_Excellent.label,Sanguophage joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomSanguophage_Excellent.description,A single sanguophage worth a minimum of 225 combat points joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomSanguophage_Legendary.label,Sanguophages join,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RandomSanguophage_Legendary.description,Three sanguophages worth a minimum of 250 combat points join the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsPoor.label,Mechanoids drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsPoor.description,Receive a militor,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsNormal.label,Mechanoids drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsNormal.description,Receive 3 militors,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsGood.label,Mechanoids drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsGood.description,"Receive a lancer, a scyther and a scorcher",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsExcellent.label,Mechanoids drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsExcellent.description,"Receive a centipede burner, a centipede blaster and a tesseron",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsLegendary.label,Mechanoids drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_FriendlyMechanoidsLegendary.description,"Receive 2 centipede blasters, 5 militors, a centurion and a diabolus",description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GiverDrop.label,Giver drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_GiverDrop.description,Cargo pod drops a Giver to help your colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PsylinkNeuroformer.label,Psylink neuroformer,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PsylinkNeuroformer.description,Cargo pod drops a psylink neuroformer,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RetorePsyfocus.label,Recharge psyfocus,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_RetorePsyfocus.description,Fully recharge the psyfocus of all the colony's psycasters,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Good.label,Receive honor,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Good.description,A random colonist will receive 10 honor with the Empire,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Excellent.label,Receive honor,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Excellent.description,A random colonist will receive 25 honor with the Empire,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Legendary.label,Receive honor,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Honor_Legendary.description,A random colonist will receive 50 honor with the Empire,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IntelDrop.label,Intel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IntelDrop.description,Cargo pod drops 15 intel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IntelDropExcellent.label,Intel drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_IntelDropExcellent.description,Cargo pod drops 50 intel and 5 critical intel,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_InsectJellyNormal.label,Insect jelly drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_InsectJellyNormal.description,Cargo pod drops 1200 insect jelly,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_InsectJellyGood.label,Insect jelly drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_InsectJellyGood.description,Cargo pod drops 2000 insect jelly and 500 royal jelly,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreNormal.label,Pherocore drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreNormal.description,Cargo pod drops a random pherocore,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreExcellent.label,Pherocore drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreExcellent.description,Cargo pod drops 5 random pherocores,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreLegendary.label,Pherocore drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_PherocoreLegendary.description,Cargo pod drops 10 random pherocores,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Excellent.label,Warcasket joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Excellent.description,A colonist in a warcasket joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary.label,Warcasket joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary.description,A colonist in a heavy warcasket joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary_Pyro.label,Warcasket joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary_Pyro.description,A colonist in a pyro warcasket joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary_Artillery.label,Warcasket joins,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_Warcasket_Legendary_Artillery.description,A colonist in an artillery warcasket joins the colony,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_VehiclePartsDrop.label,Vehicle parts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_VehiclePartsDrop.description,Cargo pod drops 10 of each tier 1 vehicle component,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_VehiclePartsDropLegendary.label,Vehicle parts drop,label,VSEWW.RewardDef/VSEWW.RewardDef.xml,def
+VSEWW_VehiclePartsDropLegendary.description,Cargo pod drops 40 of every vehicle component,description,VSEWW.RewardDef/VSEWW.RewardDef.xml,def

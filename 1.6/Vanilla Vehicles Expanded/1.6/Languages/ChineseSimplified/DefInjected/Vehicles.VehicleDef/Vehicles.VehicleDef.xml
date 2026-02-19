@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Engine-->
+  <VVE_BangBus.components.0.label>Engine</VVE_BangBus.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_BangBus.components.1.label>Front left wheel</VVE_BangBus.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_BangBus.components.10.label>Chemtank</VVE_BangBus.components.10.label>
+  <!--EN: Front bumper-->
+  <VVE_BangBus.components.11.label>Front bumper</VVE_BangBus.components.11.label>
+  <!--EN: Rear bumper-->
+  <VVE_BangBus.components.12.label>Rear bumper</VVE_BangBus.components.12.label>
+  <!--EN: Upholstery-->
+  <VVE_BangBus.components.13.label>Upholstery</VVE_BangBus.components.13.label>
+  <!--EN: Dashboard-->
+  <VVE_BangBus.components.14.label>Dashboard</VVE_BangBus.components.14.label>
+  <!--EN: Steering wheel-->
+  <VVE_BangBus.components.15.label>Steering wheel</VVE_BangBus.components.15.label>
+  <!--EN: Alternator-->
+  <VVE_BangBus.components.16.label>Alternator</VVE_BangBus.components.16.label>
+  <!--EN: Hood-->
+  <VVE_BangBus.components.17.label>Hood</VVE_BangBus.components.17.label>
+  <!--EN: Roof-->
+  <VVE_BangBus.components.18.label>Roof</VVE_BangBus.components.18.label>
+  <!--EN: Front right wheel-->
+  <VVE_BangBus.components.2.label>Front right wheel</VVE_BangBus.components.2.label>
+  <!--EN: Back left wheel-->
+  <VVE_BangBus.components.3.label>Back left wheel</VVE_BangBus.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_BangBus.components.4.label>Back right wheel</VVE_BangBus.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_BangBus.components.5.label>Front left suspension</VVE_BangBus.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_BangBus.components.6.label>Front right suspension</VVE_BangBus.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_BangBus.components.7.label>Gearbox</VVE_BangBus.components.7.label>
+  <!--EN: Left side panel-->
+  <VVE_BangBus.components.8.label>Left side panel</VVE_BangBus.components.8.label>
+  <!--EN: Right side panel-->
+  <VVE_BangBus.components.9.label>Right side panel</VVE_BangBus.components.9.label>
+  <!--EN: A basic passenger transport, the Bangbus is a relatively cheap piece of machinery to construct to transport people across roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, as the light plates of armour that protect the passengers similarly negatively affects its acceleration.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_BangBus.description>A basic passenger transport, the Bangbus is a relatively cheap piece of machinery to construct to transport people across roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, as the light plates of armour that protect the passengers similarly negatively affects its acceleration.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x5\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_BangBus.description>
+  <!--EN: Bang Bus-->
+  <VVE_BangBus.label>Bang Bus</VVE_BangBus.label>
+  <!--EN: Driver-->
+  <VVE_BangBus.properties.roles.0.label>Driver</VVE_BangBus.properties.roles.0.label>
+  <!--EN: Shotgun-->
+  <VVE_BangBus.properties.roles.1.label>Shotgun</VVE_BangBus.properties.roles.1.label>
+  <!--EN: Rear Passenger-->
+  <VVE_BangBus.properties.roles.2.label>Rear Passenger</VVE_BangBus.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Bulldog.components.0.label>Engine</VVE_Bulldog.components.0.label>
+  <!--EN: Left track-->
+  <VVE_Bulldog.components.1.label>Left track</VVE_Bulldog.components.1.label>
+  <!--EN: Right armor plating-->
+  <VVE_Bulldog.components.10.label>Right armor plating</VVE_Bulldog.components.10.label>
+  <!--EN: Rear armor plating-->
+  <VVE_Bulldog.components.11.label>Rear armor plating</VVE_Bulldog.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Bulldog.components.12.label>Chemtank</VVE_Bulldog.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Bulldog.components.13.label>Dashboard</VVE_Bulldog.components.13.label>
+  <!--EN: Steering apparatus-->
+  <VVE_Bulldog.components.14.label>Steering apparatus</VVE_Bulldog.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Bulldog.components.15.label>Alternator</VVE_Bulldog.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Bulldog.components.16.label>Roof</VVE_Bulldog.components.16.label>
+  <!--EN: Right track-->
+  <VVE_Bulldog.components.2.label>Right track</VVE_Bulldog.components.2.label>
+  <!--EN: Front left drive sprocket-->
+  <VVE_Bulldog.components.3.label>Front left drive sprocket</VVE_Bulldog.components.3.label>
+  <!--EN: Front right drive sprocket-->
+  <VVE_Bulldog.components.4.label>Front right drive sprocket</VVE_Bulldog.components.4.label>
+  <!--EN: Back left drive sprocket-->
+  <VVE_Bulldog.components.5.label>Back left drive sprocket</VVE_Bulldog.components.5.label>
+  <!--EN: Back right drive sprocket-->
+  <VVE_Bulldog.components.6.label>Back right drive sprocket</VVE_Bulldog.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Bulldog.components.7.label>Gearbox</VVE_Bulldog.components.7.label>
+  <!--EN: Front armor plating-->
+  <VVE_Bulldog.components.8.label>Front armor plating</VVE_Bulldog.components.8.label>
+  <!--EN: Left armor plating-->
+  <VVE_Bulldog.components.9.label>Left armor plating</VVE_Bulldog.components.9.label>
+  <!--EN: A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Bulldog.description>A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Bulldog.description>
+  <!--EN: Bulldog-->
+  <VVE_Bulldog.label>Bulldog</VVE_Bulldog.label>
+  <!--EN: Driver-->
+  <VVE_Bulldog.properties.roles.0.label>Driver</VVE_Bulldog.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Bulldog.properties.roles.1.label>Gunner</VVE_Bulldog.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Bunsen.components.0.label>Engine</VVE_Bunsen.components.0.label>
+  <!--EN: Left track-->
+  <VVE_Bunsen.components.1.label>Left track</VVE_Bunsen.components.1.label>
+  <!--EN: Front armor plating-->
+  <VVE_Bunsen.components.10.label>Front armor plating</VVE_Bunsen.components.10.label>
+  <!--EN: Back armor plating-->
+  <VVE_Bunsen.components.11.label>Back armor plating</VVE_Bunsen.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Bunsen.components.12.label>Chemtank</VVE_Bunsen.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Bunsen.components.13.label>Dashboard</VVE_Bunsen.components.13.label>
+  <!--EN: Steering apparatus-->
+  <VVE_Bunsen.components.14.label>Steering apparatus</VVE_Bunsen.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Bunsen.components.15.label>Alternator</VVE_Bunsen.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Bunsen.components.16.label>Roof</VVE_Bunsen.components.16.label>
+  <!--EN: Right track-->
+  <VVE_Bunsen.components.2.label>Right track</VVE_Bunsen.components.2.label>
+  <!--EN: Front left drive sprocket-->
+  <VVE_Bunsen.components.3.label>Front left drive sprocket</VVE_Bunsen.components.3.label>
+  <!--EN: Front right drive sprocket-->
+  <VVE_Bunsen.components.4.label>Front right drive sprocket</VVE_Bunsen.components.4.label>
+  <!--EN: Back left drive sprocket-->
+  <VVE_Bunsen.components.5.label>Back left drive sprocket</VVE_Bunsen.components.5.label>
+  <!--EN: Back right drive sprocket-->
+  <VVE_Bunsen.components.6.label>Back right drive sprocket</VVE_Bunsen.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Bunsen.components.7.label>Gearbox</VVE_Bunsen.components.7.label>
+  <!--EN: Left armor plating-->
+  <VVE_Bunsen.components.8.label>Left armor plating</VVE_Bunsen.components.8.label>
+  <!--EN: Right armor plating-->
+  <VVE_Bunsen.components.9.label>Right armor plating</VVE_Bunsen.components.9.label>
+  <!--EN: A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Bunsen.description>A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Bunsen.description>
+  <!--EN: Bunsen-->
+  <VVE_Bunsen.label>Bunsen</VVE_Bunsen.label>
+  <!--EN: Driver-->
+  <VVE_Bunsen.properties.roles.0.label>Driver</VVE_Bunsen.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Bunsen.properties.roles.1.label>Gunner</VVE_Bunsen.properties.roles.1.label>
+  <!--EN: Front wheel-->
+  <VVE_Charley.components.0.label>Front wheel</VVE_Charley.components.0.label>
+  <!--EN: Back wheel-->
+  <VVE_Charley.components.1.label>Back wheel</VVE_Charley.components.1.label>
+  <!--EN: Engine-->
+  <VVE_Charley.components.2.label>Engine</VVE_Charley.components.2.label>
+  <!--EN: Front suspension-->
+  <VVE_Charley.components.3.label>Front suspension</VVE_Charley.components.3.label>
+  <!--EN: Back suspension-->
+  <VVE_Charley.components.4.label>Back suspension</VVE_Charley.components.4.label>
+  <!--EN: A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Charley.description>A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Charley.description>
+  <!--EN: Charley-->
+  <VVE_Charley.label>Charley</VVE_Charley.label>
+  <!--EN: Rider-->
+  <VVE_Charley.properties.roles.0.label>Rider</VVE_Charley.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Dinghy.components.0.label>Engine</VVE_Dinghy.components.0.label>
+  <!--EN: Left side panel-->
+  <VVE_Dinghy.components.1.label>Left side panel</VVE_Dinghy.components.1.label>
+  <!--EN: Right side panel-->
+  <VVE_Dinghy.components.2.label>Right side panel</VVE_Dinghy.components.2.label>
+  <!--EN: A very basic motorised boat, the Dingy is an incredibly cheap and discrete method of transportation over water. Has a good cargo capacity, however it is likely to get frozen solid in the winter times and moves slowly on rivers. The exposed rear-mounted engine is vulnerable to attacks and the hull plating should not be expected to wither projectile weapons.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Dinghy.description>A very basic motorised boat, the Dingy is an incredibly cheap and discrete method of transportation over water. Has a good cargo capacity, however it is likely to get frozen solid in the winter times and moves slowly on rivers. The exposed rear-mounted engine is vulnerable to attacks and the hull plating should not be expected to wither projectile weapons.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x5\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Dinghy.description>
+  <!--EN: Dinghy-->
+  <VVE_Dinghy.label>Dinghy</VVE_Dinghy.label>
+  <!--EN: Driver-->
+  <VVE_Dinghy.properties.roles.0.label>Driver</VVE_Dinghy.properties.roles.0.label>
+  <!--EN: Passenger 1-->
+  <VVE_Dinghy.properties.roles.1.label>Passenger 1</VVE_Dinghy.properties.roles.1.label>
+  <!--EN: Passenger 2-->
+  <VVE_Dinghy.properties.roles.2.label>Passenger 2</VVE_Dinghy.properties.roles.2.label>
+  <!--EN: Passenger 3-->
+  <VVE_Dinghy.properties.roles.3.label>Passenger 3</VVE_Dinghy.properties.roles.3.label>
+  <!--EN: Passenger 4-->
+  <VVE_Dinghy.properties.roles.4.label>Passenger 4</VVE_Dinghy.properties.roles.4.label>
+  <!--EN: Passenger 5-->
+  <VVE_Dinghy.properties.roles.5.label>Passenger 5</VVE_Dinghy.properties.roles.5.label>
+  <!--EN: Front wheel-->
+  <VVE_Dirtbike.components.0.label>Front wheel</VVE_Dirtbike.components.0.label>
+  <!--EN: Back wheel-->
+  <VVE_Dirtbike.components.1.label>Back wheel</VVE_Dirtbike.components.1.label>
+  <!--EN: Engine-->
+  <VVE_Dirtbike.components.2.label>Engine</VVE_Dirtbike.components.2.label>
+  <!--EN: Front suspension-->
+  <VVE_Dirtbike.components.3.label>Front suspension</VVE_Dirtbike.components.3.label>
+  <!--EN: Back suspension-->
+  <VVE_Dirtbike.components.4.label>Back suspension</VVE_Dirtbike.components.4.label>
+  <!--EN: A basic off-road motorcycle, the Dirtbike is a very cheap vehicle that allows a single user to travel quickly, efficiently and quietly. Incredibly light and practically paper-thin on armour, it performs poorly in the winter or in the snow, or both, and has absolutely no cargo capacity.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Dirtbike.description>A basic off-road motorcycle, the Dirtbike is a very cheap vehicle that allows a single user to travel quickly, efficiently and quietly. Incredibly light and practically paper-thin on armour, it performs poorly in the winter or in the snow, or both, and has absolutely no cargo capacity.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Dirtbike.description>
+  <!--EN: Dirtbike-->
+  <VVE_Dirtbike.label>Dirtbike</VVE_Dirtbike.label>
+  <!--EN: Rider-->
+  <VVE_Dirtbike.properties.roles.0.label>Rider</VVE_Dirtbike.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Frog.components.0.label>Engine</VVE_Frog.components.0.label>
+  <!--EN: First thruster-->
+  <VVE_Frog.components.1.label>First thruster</VVE_Frog.components.1.label>
+  <!--EN: Second thruster-->
+  <VVE_Frog.components.2.label>Second thruster</VVE_Frog.components.2.label>
+  <!--EN: Third thruster-->
+  <VVE_Frog.components.3.label>Third thruster</VVE_Frog.components.3.label>
+  <!--EN: Stabilizers-->
+  <VVE_Frog.components.4.label>Stabilizers</VVE_Frog.components.4.label>
+  <!--EN: A basic reusable transport pod, the Frog is a relatively cheap vehicle that is the first option when it comes to flying without crashing into the ground. Several times faster than conventional transport pods with acceptable armour for its single passenger, making it an ideal ambush vehicle.\n\nEven worse than other tier 1 vehicles, fuel efficiency isn’t a thing with this transportation. Care must be taken to either refuel at the landing site or travel with enough spare fuel to make the trip back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Frog.description>A basic reusable transport pod, the Frog is a relatively cheap vehicle that is the first option when it comes to flying without crashing into the ground. Several times faster than conventional transport pods with acceptable armour for its single passenger, making it an ideal ambush vehicle.\n\nEven worse than other tier 1 vehicles, fuel efficiency isn’t a thing with this transportation. Care must be taken to either refuel at the landing site or travel with enough spare fuel to make the trip back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Frog.description>
+  <!--EN: Frog-->
+  <VVE_Frog.label>Frog</VVE_Frog.label>
+  <!--EN: Operator-->
+  <VVE_Frog.properties.roles.0.label>Operator</VVE_Frog.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Highwayman.components.0.label>Engine</VVE_Highwayman.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Highwayman.components.1.label>Front left wheel</VVE_Highwayman.components.1.label>
+  <!--EN: Front armor plating-->
+  <VVE_Highwayman.components.10.label>Front armor plating</VVE_Highwayman.components.10.label>
+  <!--EN: Left armor plating-->
+  <VVE_Highwayman.components.11.label>Left armor plating</VVE_Highwayman.components.11.label>
+  <!--EN: Right armor plating-->
+  <VVE_Highwayman.components.12.label>Right armor plating</VVE_Highwayman.components.12.label>
+  <!--EN: Chemtank-->
+  <VVE_Highwayman.components.13.label>Chemtank</VVE_Highwayman.components.13.label>
+  <!--EN: Front bumper-->
+  <VVE_Highwayman.components.14.label>Front bumper</VVE_Highwayman.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Highwayman.components.15.label>Upholstery</VVE_Highwayman.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Highwayman.components.16.label>Dashboard</VVE_Highwayman.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Highwayman.components.17.label>Steering wheel</VVE_Highwayman.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Highwayman.components.18.label>Alternator</VVE_Highwayman.components.18.label>
+  <!--EN: Roof-->
+  <VVE_Highwayman.components.19.label>Roof</VVE_Highwayman.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Highwayman.components.2.label>Front right wheel</VVE_Highwayman.components.2.label>
+  <!--EN: Back left wheel-->
+  <VVE_Highwayman.components.3.label>Back left wheel</VVE_Highwayman.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Highwayman.components.4.label>Back right wheel</VVE_Highwayman.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Highwayman.components.5.label>Front left suspension</VVE_Highwayman.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Highwayman.components.6.label>Front right suspension</VVE_Highwayman.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Highwayman.components.7.label>Back left suspension</VVE_Highwayman.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Highwayman.components.8.label>Back right suspension</VVE_Highwayman.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Highwayman.components.9.label>Gearbox</VVE_Highwayman.components.9.label>
+  <!--EN: A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Highwayman.description>A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Highwayman.description>
+  <!--EN: Highwayman-->
+  <VVE_Highwayman.label>Highwayman</VVE_Highwayman.label>
+  <!--EN: Driver-->
+  <VVE_Highwayman.properties.roles.0.label>Driver</VVE_Highwayman.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Highwayman.properties.roles.1.label>Gunner</VVE_Highwayman.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Highwayman.properties.roles.2.label>Passenger</VVE_Highwayman.properties.roles.2.label>
+  <!--EN: Left landing skid-->
+  <VVE_Mosquito.components.0.label>Left landing skid</VVE_Mosquito.components.0.label>
+  <!--EN: Right landing skid-->
+  <VVE_Mosquito.components.1.label>Right landing skid</VVE_Mosquito.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Mosquito.components.10.label>Chemtank</VVE_Mosquito.components.10.label>
+  <!--EN: Rotor mast-->
+  <VVE_Mosquito.components.11.label>Rotor mast</VVE_Mosquito.components.11.label>
+  <!--EN: Upholstery-->
+  <VVE_Mosquito.components.12.label>Upholstery</VVE_Mosquito.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Mosquito.components.13.label>Dashboard</VVE_Mosquito.components.13.label>
+  <!--EN: Gearbox-->
+  <VVE_Mosquito.components.14.label>Gearbox</VVE_Mosquito.components.14.label>
+  <!--EN: Servos-->
+  <VVE_Mosquito.components.15.label>Servos</VVE_Mosquito.components.15.label>
+  <!--EN: Left horizontal stabilizer-->
+  <VVE_Mosquito.components.2.label>Left horizontal stabilizer</VVE_Mosquito.components.2.label>
+  <!--EN: Right horizontal stabilizer-->
+  <VVE_Mosquito.components.3.label>Right horizontal stabilizer</VVE_Mosquito.components.3.label>
+  <!--EN: Engine-->
+  <VVE_Mosquito.components.4.label>Engine</VVE_Mosquito.components.4.label>
+  <!--EN: Fuel intake-->
+  <VVE_Mosquito.components.5.label>Fuel intake</VVE_Mosquito.components.5.label>
+  <!--EN: Transmission-->
+  <VVE_Mosquito.components.6.label>Transmission</VVE_Mosquito.components.6.label>
+  <!--EN: Rudder-->
+  <VVE_Mosquito.components.7.label>Rudder</VVE_Mosquito.components.7.label>
+  <!--EN: Left side panel-->
+  <VVE_Mosquito.components.8.label>Left side panel</VVE_Mosquito.components.8.label>
+  <!--EN: Right side panel-->
+  <VVE_Mosquito.components.9.label>Right side panel</VVE_Mosquito.components.9.label>
+  <!--EN: A general-purpose aircraft, the Mosquito is an extremely fast and mobile mode of transportation. While it doesn’t require a landing strip, it is slower than aeroplanes and has less cargo capacity.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Mosquito.description>A general-purpose aircraft, the Mosquito is an extremely fast and mobile mode of transportation. While it doesn’t require a landing strip, it is slower than aeroplanes and has less cargo capacity.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Pilot x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Mosquito.description>
+  <!--EN: Mosquito-->
+  <VVE_Mosquito.label>Mosquito</VVE_Mosquito.label>
+  <!--EN: Pilot-->
+  <VVE_Mosquito.properties.roles.0.label>Pilot</VVE_Mosquito.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Mosquito.properties.roles.1.label>Passenger</VVE_Mosquito.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Mule.components.0.label>Engine</VVE_Mule.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Mule.components.1.label>Front left wheel</VVE_Mule.components.1.label>
+  <!--EN: Left side panel-->
+  <VVE_Mule.components.10.label>Left side panel</VVE_Mule.components.10.label>
+  <!--EN: Right side panel-->
+  <VVE_Mule.components.11.label>Right side panel</VVE_Mule.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Mule.components.12.label>Chemtank</VVE_Mule.components.12.label>
+  <!--EN: Front bumper-->
+  <VVE_Mule.components.13.label>Front bumper</VVE_Mule.components.13.label>
+  <!--EN: Rear bumper-->
+  <VVE_Mule.components.14.label>Rear bumper</VVE_Mule.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Mule.components.15.label>Upholstery</VVE_Mule.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Mule.components.16.label>Dashboard</VVE_Mule.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Mule.components.17.label>Steering wheel</VVE_Mule.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Mule.components.18.label>Alternator</VVE_Mule.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Mule.components.19.label>Hood</VVE_Mule.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Mule.components.2.label>Front right wheel</VVE_Mule.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Mule.components.20.label>Roof</VVE_Mule.components.20.label>
+  <!--EN: Back left wheel-->
+  <VVE_Mule.components.3.label>Back left wheel</VVE_Mule.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Mule.components.4.label>Back right wheel</VVE_Mule.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Mule.components.5.label>Front left suspension</VVE_Mule.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Mule.components.6.label>Front right suspension</VVE_Mule.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Mule.components.7.label>Back left suspension</VVE_Mule.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Mule.components.8.label>Back right suspension</VVE_Mule.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Mule.components.9.label>Gearbox</VVE_Mule.components.9.label>
+  <!--EN: A basic cargo transport, the Mule is a relatively cheap vehicle that can carry a large amount of cargo across smooth roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, and it is very lightly armoured to save weight.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Unlike other tier 1 vehicles, this one performs better on the world map by being slightly faster and more fuel efficient.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Mule.description>A basic cargo transport, the Mule is a relatively cheap vehicle that can carry a large amount of cargo across smooth roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, and it is very lightly armoured to save weight.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Unlike other tier 1 vehicles, this one performs better on the world map by being slightly faster and more fuel efficient.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Mule.description>
+  <!--EN: Mule-->
+  <VVE_Mule.label>Mule</VVE_Mule.label>
+  <!--EN: Driver-->
+  <VVE_Mule.properties.roles.0.label>Driver</VVE_Mule.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Mule.properties.roles.1.label>Passenger</VVE_Mule.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Prowler.components.0.label>Engine</VVE_Prowler.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Prowler.components.1.label>Front left wheel</VVE_Prowler.components.1.label>
+  <!--EN: Left side panel-->
+  <VVE_Prowler.components.10.label>Left side panel</VVE_Prowler.components.10.label>
+  <!--EN: Right side panel-->
+  <VVE_Prowler.components.11.label>Right side panel</VVE_Prowler.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Prowler.components.12.label>Chemtank</VVE_Prowler.components.12.label>
+  <!--EN: Front bumper-->
+  <VVE_Prowler.components.13.label>Front bumper</VVE_Prowler.components.13.label>
+  <!--EN: Rear bumper-->
+  <VVE_Prowler.components.14.label>Rear bumper</VVE_Prowler.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Prowler.components.15.label>Upholstery</VVE_Prowler.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Prowler.components.16.label>Dashboard</VVE_Prowler.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Prowler.components.17.label>Steering wheel</VVE_Prowler.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Prowler.components.18.label>Alternator</VVE_Prowler.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Prowler.components.19.label>Hood</VVE_Prowler.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Prowler.components.2.label>Front right wheel</VVE_Prowler.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Prowler.components.20.label>Roof</VVE_Prowler.components.20.label>
+  <!--EN: Back left wheel-->
+  <VVE_Prowler.components.3.label>Back left wheel</VVE_Prowler.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Prowler.components.4.label>Back right wheel</VVE_Prowler.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Prowler.components.5.label>Front left suspension</VVE_Prowler.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Prowler.components.6.label>Front right suspension</VVE_Prowler.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Prowler.components.7.label>Back left suspension</VVE_Prowler.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Prowler.components.8.label>Back right suspension</VVE_Prowler.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Prowler.components.9.label>Gearbox</VVE_Prowler.components.9.label>
+  <!--EN: A basic off-road exploration vehicle, the Prowler is relatively cheap to construct and is an effective all-weather option for efficient travel over steep terrain. Very lightly armoured with a vulnerable rear-mounted engine, it’s best to keep this single-user automobile away from combat.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Prowler.description>A basic off-road exploration vehicle, the Prowler is relatively cheap to construct and is an effective all-weather option for efficient travel over steep terrain. Very lightly armoured with a vulnerable rear-mounted engine, it’s best to keep this single-user automobile away from combat.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Prowler.description>
+  <!--EN: Prowler-->
+  <VVE_Prowler.label>Prowler</VVE_Prowler.label>
+  <!--EN: Driver-->
+  <VVE_Prowler.properties.roles.0.label>Driver</VVE_Prowler.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Roadkill.components.0.label>Engine</VVE_Roadkill.components.0.label>
+  <!--EN: Left track-->
+  <VVE_Roadkill.components.1.label>Left track</VVE_Roadkill.components.1.label>
+  <!--EN: Front armor plating-->
+  <VVE_Roadkill.components.10.label>Front armor plating</VVE_Roadkill.components.10.label>
+  <!--EN: Chemtank-->
+  <VVE_Roadkill.components.11.label>Chemtank</VVE_Roadkill.components.11.label>
+  <!--EN: Dashboard-->
+  <VVE_Roadkill.components.12.label>Dashboard</VVE_Roadkill.components.12.label>
+  <!--EN: Steering apparatus-->
+  <VVE_Roadkill.components.13.label>Steering apparatus</VVE_Roadkill.components.13.label>
+  <!--EN: Alternator-->
+  <VVE_Roadkill.components.14.label>Alternator</VVE_Roadkill.components.14.label>
+  <!--EN: Roof-->
+  <VVE_Roadkill.components.15.label>Roof</VVE_Roadkill.components.15.label>
+  <!--EN: Right track-->
+  <VVE_Roadkill.components.2.label>Right track</VVE_Roadkill.components.2.label>
+  <!--EN: Front left drive sprocket-->
+  <VVE_Roadkill.components.3.label>Front left drive sprocket</VVE_Roadkill.components.3.label>
+  <!--EN: Front right drive sprocket-->
+  <VVE_Roadkill.components.4.label>Front right drive sprocket</VVE_Roadkill.components.4.label>
+  <!--EN: Back left drive sprocket-->
+  <VVE_Roadkill.components.5.label>Back left drive sprocket</VVE_Roadkill.components.5.label>
+  <!--EN: Back right drive sprocket-->
+  <VVE_Roadkill.components.6.label>Back right drive sprocket</VVE_Roadkill.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Roadkill.components.7.label>Gearbox</VVE_Roadkill.components.7.label>
+  <!--EN: Left armor plating-->
+  <VVE_Roadkill.components.8.label>Left armor plating</VVE_Roadkill.components.8.label>
+  <!--EN: Right armor plating-->
+  <VVE_Roadkill.components.9.label>Right armor plating</VVE_Roadkill.components.9.label>
+  <!--EN: A basic medium tank, the Roadkill is a comparatively cheap armoured vehicle suited for short engagements. Very respectfully armoured from frontal attacks, however side attacks can disable movement and the exposed rear-mounted engine makes it vulnerable to flanking.\n\nWhile other tier 1 vehicles are gas guzzlers, this one burns through fuel at an alarming rate and is extremely slow to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Roadkill.description>A basic medium tank, the Roadkill is a comparatively cheap armoured vehicle suited for short engagements. Very respectfully armoured from frontal attacks, however side attacks can disable movement and the exposed rear-mounted engine makes it vulnerable to flanking.\n\nWhile other tier 1 vehicles are gas guzzlers, this one burns through fuel at an alarming rate and is extremely slow to repair.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Roadkill.description>
+  <!--EN: Roadkill-->
+  <VVE_Roadkill.label>Roadkill</VVE_Roadkill.label>
+  <!--EN: Driver-->
+  <VVE_Roadkill.properties.roles.0.label>Driver</VVE_Roadkill.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Roadrunner.components.0.label>Engine</VVE_Roadrunner.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Roadrunner.components.1.label>Front left wheel</VVE_Roadrunner.components.1.label>
+  <!--EN: Left side panel-->
+  <VVE_Roadrunner.components.10.label>Left side panel</VVE_Roadrunner.components.10.label>
+  <!--EN: Right side panel-->
+  <VVE_Roadrunner.components.11.label>Right side panel</VVE_Roadrunner.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Roadrunner.components.12.label>Chemtank</VVE_Roadrunner.components.12.label>
+  <!--EN: Front bumper-->
+  <VVE_Roadrunner.components.13.label>Front bumper</VVE_Roadrunner.components.13.label>
+  <!--EN: Rear bumper-->
+  <VVE_Roadrunner.components.14.label>Rear bumper</VVE_Roadrunner.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Roadrunner.components.15.label>Upholstery</VVE_Roadrunner.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Roadrunner.components.16.label>Dashboard</VVE_Roadrunner.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Roadrunner.components.17.label>Steering wheel</VVE_Roadrunner.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Roadrunner.components.18.label>Alternator</VVE_Roadrunner.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Roadrunner.components.19.label>Hood</VVE_Roadrunner.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Roadrunner.components.2.label>Front right wheel</VVE_Roadrunner.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Roadrunner.components.20.label>Roof</VVE_Roadrunner.components.20.label>
+  <!--EN: Back left wheel-->
+  <VVE_Roadrunner.components.3.label>Back left wheel</VVE_Roadrunner.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Roadrunner.components.4.label>Back right wheel</VVE_Roadrunner.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Roadrunner.components.5.label>Front left suspension</VVE_Roadrunner.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Roadrunner.components.6.label>Front right suspension</VVE_Roadrunner.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Roadrunner.components.7.label>Back left suspension</VVE_Roadrunner.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Roadrunner.components.8.label>Back right suspension</VVE_Roadrunner.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Roadrunner.components.9.label>Gearbox</VVE_Roadrunner.components.9.label>
+  <!--EN: A general cargo transporter, the Roadrunner is an excellent vehicle for getting a lot of material from one location to another. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Roadrunner.description>A general cargo transporter, the Roadrunner is an excellent vehicle for getting a lot of material from one location to another. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Roadrunner.description>
+  <!--EN: Roadrunner-->
+  <VVE_Roadrunner.label>Roadrunner</VVE_Roadrunner.label>
+  <!--EN: Driver-->
+  <VVE_Roadrunner.properties.roles.0.label>Driver</VVE_Roadrunner.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Roadrunner.properties.roles.1.label>Passenger</VVE_Roadrunner.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Scytheman.components.0.label>Engine</VVE_Scytheman.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Scytheman.components.1.label>Front left wheel</VVE_Scytheman.components.1.label>
+  <!--EN: Middle right suspension-->
+  <VVE_Scytheman.components.10.label>Middle right suspension</VVE_Scytheman.components.10.label>
+  <!--EN: Back left suspension-->
+  <VVE_Scytheman.components.11.label>Back left suspension</VVE_Scytheman.components.11.label>
+  <!--EN: Back right suspension-->
+  <VVE_Scytheman.components.12.label>Back right suspension</VVE_Scytheman.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_Scytheman.components.13.label>Gearbox</VVE_Scytheman.components.13.label>
+  <!--EN: Left side panel-->
+  <VVE_Scytheman.components.14.label>Left side panel</VVE_Scytheman.components.14.label>
+  <!--EN: Right side panel-->
+  <VVE_Scytheman.components.15.label>Right side panel</VVE_Scytheman.components.15.label>
+  <!--EN: Chemtank-->
+  <VVE_Scytheman.components.16.label>Chemtank</VVE_Scytheman.components.16.label>
+  <!--EN: Dashboard-->
+  <VVE_Scytheman.components.17.label>Dashboard</VVE_Scytheman.components.17.label>
+  <!--EN: Steering wheel-->
+  <VVE_Scytheman.components.18.label>Steering wheel</VVE_Scytheman.components.18.label>
+  <!--EN: Alternator-->
+  <VVE_Scytheman.components.19.label>Alternator</VVE_Scytheman.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Scytheman.components.2.label>Front right wheel</VVE_Scytheman.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Scytheman.components.20.label>Roof</VVE_Scytheman.components.20.label>
+  <!--EN: Hood-->
+  <VVE_Scytheman.components.21.label>Hood</VVE_Scytheman.components.21.label>
+  <!--EN: Middle left wheel-->
+  <VVE_Scytheman.components.3.label>Middle left wheel</VVE_Scytheman.components.3.label>
+  <!--EN: Middle right wheel-->
+  <VVE_Scytheman.components.4.label>Middle right wheel</VVE_Scytheman.components.4.label>
+  <!--EN: Back left wheel-->
+  <VVE_Scytheman.components.5.label>Back left wheel</VVE_Scytheman.components.5.label>
+  <!--EN: Back right wheel-->
+  <VVE_Scytheman.components.6.label>Back right wheel</VVE_Scytheman.components.6.label>
+  <!--EN: Front left suspension-->
+  <VVE_Scytheman.components.7.label>Front left suspension</VVE_Scytheman.components.7.label>
+  <!--EN: Front right suspension-->
+  <VVE_Scytheman.components.8.label>Front right suspension</VVE_Scytheman.components.8.label>
+  <!--EN: Middle left suspension-->
+  <VVE_Scytheman.components.9.label>Middle left suspension</VVE_Scytheman.components.9.label>
+  <!--EN: A juryrigged multiple rocket launcher system, the Scytheman is a repurposed farming vehicle intended to saturate a location with inaccurate volleys of explosives. Due to the design, it is not intended to fire successive volleys or be exposed to enemy fire.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Performs worse in the winter but slightly better on the flat, open road.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Scytheman.description>A juryrigged multiple rocket launcher system, the Scytheman is a repurposed farming vehicle intended to saturate a location with inaccurate volleys of explosives. Due to the design, it is not intended to fire successive volleys or be exposed to enemy fire.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Performs worse in the winter but slightly better on the flat, open road.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Scytheman.description>
+  <!--EN: Scytheman-->
+  <VVE_Scytheman.label>Scytheman</VVE_Scytheman.label>
+  <!--EN: Driver-->
+  <VVE_Scytheman.properties.roles.0.label>Driver</VVE_Scytheman.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Smuggler.components.0.label>Engine</VVE_Smuggler.components.0.label>
+  <!--EN: Left landing wheel-->
+  <VVE_Smuggler.components.1.label>Left landing wheel</VVE_Smuggler.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Smuggler.components.10.label>Chemtank</VVE_Smuggler.components.10.label>
+  <!--EN: Left wing-->
+  <VVE_Smuggler.components.11.label>Left wing</VVE_Smuggler.components.11.label>
+  <!--EN: Right wing-->
+  <VVE_Smuggler.components.12.label>Right wing</VVE_Smuggler.components.12.label>
+  <!--EN: Upholstery-->
+  <VVE_Smuggler.components.13.label>Upholstery</VVE_Smuggler.components.13.label>
+  <!--EN: Dashboard-->
+  <VVE_Smuggler.components.14.label>Dashboard</VVE_Smuggler.components.14.label>
+  <!--EN: Servos-->
+  <VVE_Smuggler.components.15.label>Servos</VVE_Smuggler.components.15.label>
+  <!--EN: Right landing wheel-->
+  <VVE_Smuggler.components.2.label>Right landing wheel</VVE_Smuggler.components.2.label>
+  <!--EN: Central landing wheel-->
+  <VVE_Smuggler.components.3.label>Central landing wheel</VVE_Smuggler.components.3.label>
+  <!--EN: Left horizontal stabilizer-->
+  <VVE_Smuggler.components.4.label>Left horizontal stabilizer</VVE_Smuggler.components.4.label>
+  <!--EN: Right horizontal stabilizer-->
+  <VVE_Smuggler.components.5.label>Right horizontal stabilizer</VVE_Smuggler.components.5.label>
+  <!--EN: Fuel intake-->
+  <VVE_Smuggler.components.6.label>Fuel intake</VVE_Smuggler.components.6.label>
+  <!--EN: Transmission-->
+  <VVE_Smuggler.components.7.label>Transmission</VVE_Smuggler.components.7.label>
+  <!--EN: Rudder-->
+  <VVE_Smuggler.components.8.label>Rudder</VVE_Smuggler.components.8.label>
+  <!--EN: Fuselage-->
+  <VVE_Smuggler.components.9.label>Fuselage</VVE_Smuggler.components.9.label>
+  <!--EN: A general-purpose aircraft, the Smuggler is an extremely fast and effective mode of transportation. While it is faster and can carry more cargo than helicopters, it requires a landing strip to both take off and land.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Smuggler.description>A general-purpose aircraft, the Smuggler is an extremely fast and effective mode of transportation. While it is faster and can carry more cargo than helicopters, it requires a landing strip to both take off and land.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Pilot x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Smuggler.description>
+  <!--EN: Smuggler-->
+  <VVE_Smuggler.label>Smuggler</VVE_Smuggler.label>
+  <!--EN: Pilot-->
+  <VVE_Smuggler.properties.roles.0.label>Pilot</VVE_Smuggler.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Smuggler.properties.roles.1.label>Passenger</VVE_Smuggler.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Snatcher.components.0.label>Engine</VVE_Snatcher.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Snatcher.components.1.label>Front left wheel</VVE_Snatcher.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Snatcher.components.10.label>Chemtank</VVE_Snatcher.components.10.label>
+  <!--EN: Front bumper-->
+  <VVE_Snatcher.components.11.label>Front bumper</VVE_Snatcher.components.11.label>
+  <!--EN: Rear bumper-->
+  <VVE_Snatcher.components.12.label>Rear bumper</VVE_Snatcher.components.12.label>
+  <!--EN: Upholstery-->
+  <VVE_Snatcher.components.13.label>Upholstery</VVE_Snatcher.components.13.label>
+  <!--EN: Dashboard-->
+  <VVE_Snatcher.components.14.label>Dashboard</VVE_Snatcher.components.14.label>
+  <!--EN: Steering wheel-->
+  <VVE_Snatcher.components.15.label>Steering wheel</VVE_Snatcher.components.15.label>
+  <!--EN: Alternator-->
+  <VVE_Snatcher.components.16.label>Alternator</VVE_Snatcher.components.16.label>
+  <!--EN: Hood-->
+  <VVE_Snatcher.components.17.label>Hood</VVE_Snatcher.components.17.label>
+  <!--EN: Roof-->
+  <VVE_Snatcher.components.18.label>Roof</VVE_Snatcher.components.18.label>
+  <!--EN: Front right wheel-->
+  <VVE_Snatcher.components.2.label>Front right wheel</VVE_Snatcher.components.2.label>
+  <!--EN: Back left wheel-->
+  <VVE_Snatcher.components.3.label>Back left wheel</VVE_Snatcher.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Snatcher.components.4.label>Back right wheel</VVE_Snatcher.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Snatcher.components.5.label>Front left suspension</VVE_Snatcher.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Snatcher.components.6.label>Front right suspension</VVE_Snatcher.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Snatcher.components.7.label>Gearbox</VVE_Snatcher.components.7.label>
+  <!--EN: Left side panel-->
+  <VVE_Snatcher.components.8.label>Left side panel</VVE_Snatcher.components.8.label>
+  <!--EN: Right side panel-->
+  <VVE_Snatcher.components.9.label>Right side panel</VVE_Snatcher.components.9.label>
+  <!--EN: A general passenger transport, the Snatcher is a solid vehicle for transporting people to different locations. Best suited on flat roads and will seriously struggle in snow or on hills.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Snatcher.description>A general passenger transport, the Snatcher is a solid vehicle for transporting people to different locations. Best suited on flat roads and will seriously struggle in snow or on hills.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x5\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Snatcher.description>
+  <!--EN: Snatcher-->
+  <VVE_Snatcher.label>Snatcher</VVE_Snatcher.label>
+  <!--EN: Driver-->
+  <VVE_Snatcher.properties.roles.0.label>Driver</VVE_Snatcher.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Snatcher.properties.roles.1.label>Passenger</VVE_Snatcher.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Tango.components.0.label>Engine</VVE_Tango.components.0.label>
+  <!--EN: Left track-->
+  <VVE_Tango.components.1.label>Left track</VVE_Tango.components.1.label>
+  <!--EN: Right armor plating-->
+  <VVE_Tango.components.10.label>Right armor plating</VVE_Tango.components.10.label>
+  <!--EN: Rear armor plating-->
+  <VVE_Tango.components.11.label>Rear armor plating</VVE_Tango.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Tango.components.12.label>Chemtank</VVE_Tango.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Tango.components.13.label>Dashboard</VVE_Tango.components.13.label>
+  <!--EN: Steering apparatus-->
+  <VVE_Tango.components.14.label>Steering apparatus</VVE_Tango.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Tango.components.15.label>Alternator</VVE_Tango.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Tango.components.16.label>Roof</VVE_Tango.components.16.label>
+  <!--EN: Right track-->
+  <VVE_Tango.components.2.label>Right track</VVE_Tango.components.2.label>
+  <!--EN: Front left drive sprocket-->
+  <VVE_Tango.components.3.label>Front left drive sprocket</VVE_Tango.components.3.label>
+  <!--EN: Front right drive sprocket-->
+  <VVE_Tango.components.4.label>Front right drive sprocket</VVE_Tango.components.4.label>
+  <!--EN: Back left drive sprocket-->
+  <VVE_Tango.components.5.label>Back left drive sprocket</VVE_Tango.components.5.label>
+  <!--EN: Back right drive sprocket-->
+  <VVE_Tango.components.6.label>Back right drive sprocket</VVE_Tango.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Tango.components.7.label>Gearbox</VVE_Tango.components.7.label>
+  <!--EN: Front armor plating-->
+  <VVE_Tango.components.8.label>Front armor plating</VVE_Tango.components.8.label>
+  <!--EN: Left armor plating-->
+  <VVE_Tango.components.9.label>Left armor plating</VVE_Tango.components.9.label>
+  <!--EN: A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Tango.description>A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x4\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Tango.description>
+  <!--EN: Tango-->
+  <VVE_Tango.label>Tango</VVE_Tango.label>
+  <!--EN: Driver-->
+  <VVE_Tango.properties.roles.0.label>Driver</VVE_Tango.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Tango.properties.roles.1.label>Gunner</VVE_Tango.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Tango.properties.roles.2.label>Passenger</VVE_Tango.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Toad.components.0.label>Engine</VVE_Toad.components.0.label>
+  <!--EN: First thruster-->
+  <VVE_Toad.components.1.label>First thruster</VVE_Toad.components.1.label>
+  <!--EN: Second thruster-->
+  <VVE_Toad.components.2.label>Second thruster</VVE_Toad.components.2.label>
+  <!--EN: Third thruster-->
+  <VVE_Toad.components.3.label>Third thruster</VVE_Toad.components.3.label>
+  <!--EN: Fourth thruster-->
+  <VVE_Toad.components.4.label>Fourth thruster</VVE_Toad.components.4.label>
+  <!--EN: Chemtank-->
+  <VVE_Toad.components.5.label>Chemtank</VVE_Toad.components.5.label>
+  <!--EN: Hull-->
+  <VVE_Toad.components.6.label>Hull</VVE_Toad.components.6.label>
+  <!--EN: A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Operator x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Toad.description>A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Operator x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Toad.description>
+  <!--EN: Toad-->
+  <VVE_Toad.label>Toad</VVE_Toad.label>
+  <!--EN: Operator-->
+  <VVE_Toad.properties.roles.0.label>Operator</VVE_Toad.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Toad.properties.roles.1.label>Passenger</VVE_Toad.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Traveller.components.0.label>Engine</VVE_Traveller.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Traveller.components.1.label>Front left wheel</VVE_Traveller.components.1.label>
+  <!--EN: Left side panel-->
+  <VVE_Traveller.components.10.label>Left side panel</VVE_Traveller.components.10.label>
+  <!--EN: Right side panel-->
+  <VVE_Traveller.components.11.label>Right side panel</VVE_Traveller.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Traveller.components.12.label>Chemtank</VVE_Traveller.components.12.label>
+  <!--EN: Front bumper-->
+  <VVE_Traveller.components.13.label>Front bumper</VVE_Traveller.components.13.label>
+  <!--EN: Rear bumper-->
+  <VVE_Traveller.components.14.label>Rear bumper</VVE_Traveller.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Traveller.components.15.label>Upholstery</VVE_Traveller.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Traveller.components.16.label>Dashboard</VVE_Traveller.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Traveller.components.17.label>Steering wheel</VVE_Traveller.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Traveller.components.18.label>Alternator</VVE_Traveller.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Traveller.components.19.label>Hood</VVE_Traveller.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Traveller.components.2.label>Front right wheel</VVE_Traveller.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Traveller.components.20.label>Roof</VVE_Traveller.components.20.label>
+  <!--EN: Back left wheel-->
+  <VVE_Traveller.components.3.label>Back left wheel</VVE_Traveller.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Traveller.components.4.label>Back right wheel</VVE_Traveller.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Traveller.components.5.label>Front left suspension</VVE_Traveller.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Traveller.components.6.label>Front right suspension</VVE_Traveller.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Traveller.components.7.label>Back left suspension</VVE_Traveller.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Traveller.components.8.label>Back right suspension</VVE_Traveller.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Traveller.components.9.label>Gearbox</VVE_Traveller.components.9.label>
+  <!--EN: A basic road vehicle suited for flat terrain, the Traveller is a relatively cheap and fast option that still performs quite amicably in cold weather and snowy conditions. The light armour and exposed front-mounted engine leans to its cadence of running away from trouble rather than towards it.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. The extra speed and acceleration make it even less fuel-efficient as well as more time-consuming to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Traveller.description>A basic road vehicle suited for flat terrain, the Traveller is a relatively cheap and fast option that still performs quite amicably in cold weather and snowy conditions. The light armour and exposed front-mounted engine leans to its cadence of running away from trouble rather than towards it.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. The extra speed and acceleration make it even less fuel-efficient as well as more time-consuming to repair.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Traveller.description>
+  <!--EN: Traveller-->
+  <VVE_Traveller.label>Traveller</VVE_Traveller.label>
+  <!--EN: Driver-->
+  <VVE_Traveller.properties.roles.0.label>Driver</VVE_Traveller.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Traveller.properties.roles.1.label>Passenger</VVE_Traveller.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Trawler.components.0.label>Engine</VVE_Trawler.components.0.label>
+  <!--EN: Left side panel-->
+  <VVE_Trawler.components.1.label>Left side panel</VVE_Trawler.components.1.label>
+  <!--EN: Right side panel-->
+  <VVE_Trawler.components.2.label>Right side panel</VVE_Trawler.components.2.label>
+  <!--EN: A general-purpose boat, the Trawler is an effective long distance transportation across open waters. Performs rather poorly on rivers and has to travel slowly during the winter season.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Trawler.description>A general-purpose boat, the Trawler is an effective long distance transportation across open waters. Performs rather poorly on rivers and has to travel slowly during the winter season.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Trawler.description>
+  <!--EN: Trawler-->
+  <VVE_Trawler.label>Trawler</VVE_Trawler.label>
+  <!--EN: Driver-->
+  <VVE_Trawler.properties.roles.0.label>Driver</VVE_Trawler.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Trawler.properties.roles.1.label>Passenger</VVE_Trawler.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Wagon.components.0.label>Engine</VVE_Wagon.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Wagon.components.1.label>Front left wheel</VVE_Wagon.components.1.label>
+  <!--EN: Left side panel-->
+  <VVE_Wagon.components.10.label>Left side panel</VVE_Wagon.components.10.label>
+  <!--EN: Right side panel-->
+  <VVE_Wagon.components.11.label>Right side panel</VVE_Wagon.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Wagon.components.12.label>Chemtank</VVE_Wagon.components.12.label>
+  <!--EN: Front bumper-->
+  <VVE_Wagon.components.13.label>Front bumper</VVE_Wagon.components.13.label>
+  <!--EN: Rear bumper-->
+  <VVE_Wagon.components.14.label>Rear bumper</VVE_Wagon.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Wagon.components.15.label>Upholstery</VVE_Wagon.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Wagon.components.16.label>Dashboard</VVE_Wagon.components.16.label>
+  <!--EN: Steering wheel-->
+  <VVE_Wagon.components.17.label>Steering wheel</VVE_Wagon.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Wagon.components.18.label>Alternator</VVE_Wagon.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Wagon.components.19.label>Hood</VVE_Wagon.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Wagon.components.2.label>Front right wheel</VVE_Wagon.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Wagon.components.20.label>Roof</VVE_Wagon.components.20.label>
+  <!--EN: Back left wheel-->
+  <VVE_Wagon.components.3.label>Back left wheel</VVE_Wagon.components.3.label>
+  <!--EN: Back right wheel-->
+  <VVE_Wagon.components.4.label>Back right wheel</VVE_Wagon.components.4.label>
+  <!--EN: Front left suspension-->
+  <VVE_Wagon.components.5.label>Front left suspension</VVE_Wagon.components.5.label>
+  <!--EN: Front right suspension-->
+  <VVE_Wagon.components.6.label>Front right suspension</VVE_Wagon.components.6.label>
+  <!--EN: Back left suspension-->
+  <VVE_Wagon.components.7.label>Back left suspension</VVE_Wagon.components.7.label>
+  <!--EN: Back right suspension-->
+  <VVE_Wagon.components.8.label>Back right suspension</VVE_Wagon.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Wagon.components.9.label>Gearbox</VVE_Wagon.components.9.label>
+  <!--EN: A general all-rounder vehicle, the Wagon performs well in all categories with a good cargo and passenger capacity. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Wagon.description>A general all-rounder vehicle, the Wagon performs well in all categories with a good cargo and passenger capacity. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Wagon.description>
+  <!--EN: Wagon-->
+  <VVE_Wagon.label>Wagon</VVE_Wagon.label>
+  <!--EN: Driver-->
+  <VVE_Wagon.properties.roles.0.label>Driver</VVE_Wagon.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Wagon.properties.roles.1.label>Passenger</VVE_Wagon.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Warbird.components.0.label>Engine</VVE_Warbird.components.0.label>
+  <!--EN: Left landing wheel-->
+  <VVE_Warbird.components.1.label>Left landing wheel</VVE_Warbird.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Warbird.components.10.label>Chemtank</VVE_Warbird.components.10.label>
+  <!--EN: Left wing-->
+  <VVE_Warbird.components.11.label>Left wing</VVE_Warbird.components.11.label>
+  <!--EN: Right wing-->
+  <VVE_Warbird.components.12.label>Right wing</VVE_Warbird.components.12.label>
+  <!--EN: Upholstery-->
+  <VVE_Warbird.components.13.label>Upholstery</VVE_Warbird.components.13.label>
+  <!--EN: Dashboard-->
+  <VVE_Warbird.components.14.label>Dashboard</VVE_Warbird.components.14.label>
+  <!--EN: Servos-->
+  <VVE_Warbird.components.15.label>Servos</VVE_Warbird.components.15.label>
+  <!--EN: Right landing wheel-->
+  <VVE_Warbird.components.2.label>Right landing wheel</VVE_Warbird.components.2.label>
+  <!--EN: Central landing wheel-->
+  <VVE_Warbird.components.3.label>Central landing wheel</VVE_Warbird.components.3.label>
+  <!--EN: Left horizontal stabilizer-->
+  <VVE_Warbird.components.4.label>Left horizontal stabilizer</VVE_Warbird.components.4.label>
+  <!--EN: Right horizontal stabilizer-->
+  <VVE_Warbird.components.5.label>Right horizontal stabilizer</VVE_Warbird.components.5.label>
+  <!--EN: Fuel intake-->
+  <VVE_Warbird.components.6.label>Fuel intake</VVE_Warbird.components.6.label>
+  <!--EN: Transmission-->
+  <VVE_Warbird.components.7.label>Transmission</VVE_Warbird.components.7.label>
+  <!--EN: Rudder-->
+  <VVE_Warbird.components.8.label>Rudder</VVE_Warbird.components.8.label>
+  <!--EN: Fuselage-->
+  <VVE_Warbird.components.9.label>Fuselage</VVE_Warbird.components.9.label>
+  <!--EN: A general-purpose fighter plane, the Warbird is an incredibly fast and effective attack craft. With minimal cargo intended for holding maintenance equipment and fuel, its primary purpose is to engage other aircraft and initiate strafing manoeuvres.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Warbird.description>A general-purpose fighter plane, the Warbird is an incredibly fast and effective attack craft. With minimal cargo intended for holding maintenance equipment and fuel, its primary purpose is to engage other aircraft and initiate strafing manoeuvres.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Pilot x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Warbird.description>
+  <!--EN: Warbird-->
+  <VVE_Warbird.label>Warbird</VVE_Warbird.label>
+  <!--EN: Pilot-->
+  <VVE_Warbird.properties.roles.0.label>Pilot</VVE_Warbird.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Wisent.components.0.label>Engine</VVE_Wisent.components.0.label>
+  <!--EN: Front left wheel-->
+  <VVE_Wisent.components.1.label>Front left wheel</VVE_Wisent.components.1.label>
+  <!--EN: Middle right suspension-->
+  <VVE_Wisent.components.10.label>Middle right suspension</VVE_Wisent.components.10.label>
+  <!--EN: Back left suspension-->
+  <VVE_Wisent.components.11.label>Back left suspension</VVE_Wisent.components.11.label>
+  <!--EN: Back right suspension-->
+  <VVE_Wisent.components.12.label>Back right suspension</VVE_Wisent.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_Wisent.components.13.label>Gearbox</VVE_Wisent.components.13.label>
+  <!--EN: Left side panel-->
+  <VVE_Wisent.components.14.label>Left side panel</VVE_Wisent.components.14.label>
+  <!--EN: Right side panel-->
+  <VVE_Wisent.components.15.label>Right side panel</VVE_Wisent.components.15.label>
+  <!--EN: Left chemtank-->
+  <VVE_Wisent.components.16.label>Left chemtank</VVE_Wisent.components.16.label>
+  <!--EN: Right chemtank-->
+  <VVE_Wisent.components.17.label>Right chemtank</VVE_Wisent.components.17.label>
+  <!--EN: Left back panel-->
+  <VVE_Wisent.components.18.label>Left back panel</VVE_Wisent.components.18.label>
+  <!--EN: Right back panel-->
+  <VVE_Wisent.components.19.label>Right back panel</VVE_Wisent.components.19.label>
+  <!--EN: Front right wheel-->
+  <VVE_Wisent.components.2.label>Front right wheel</VVE_Wisent.components.2.label>
+  <!--EN: Front bumper-->
+  <VVE_Wisent.components.20.label>Front bumper</VVE_Wisent.components.20.label>
+  <!--EN: Rear bumper-->
+  <VVE_Wisent.components.21.label>Rear bumper</VVE_Wisent.components.21.label>
+  <!--EN: Upholstery-->
+  <VVE_Wisent.components.22.label>Upholstery</VVE_Wisent.components.22.label>
+  <!--EN: Dashboard-->
+  <VVE_Wisent.components.23.label>Dashboard</VVE_Wisent.components.23.label>
+  <!--EN: Steering wheel-->
+  <VVE_Wisent.components.24.label>Steering wheel</VVE_Wisent.components.24.label>
+  <!--EN: Alternator-->
+  <VVE_Wisent.components.25.label>Alternator</VVE_Wisent.components.25.label>
+  <!--EN: Hood-->
+  <VVE_Wisent.components.26.label>Hood</VVE_Wisent.components.26.label>
+  <!--EN: Roof-->
+  <VVE_Wisent.components.27.label>Roof</VVE_Wisent.components.27.label>
+  <!--EN: Middle left wheel-->
+  <VVE_Wisent.components.3.label>Middle left wheel</VVE_Wisent.components.3.label>
+  <!--EN: Middle right wheel-->
+  <VVE_Wisent.components.4.label>Middle right wheel</VVE_Wisent.components.4.label>
+  <!--EN: Back left wheel-->
+  <VVE_Wisent.components.5.label>Back left wheel</VVE_Wisent.components.5.label>
+  <!--EN: Back right wheel-->
+  <VVE_Wisent.components.6.label>Back right wheel</VVE_Wisent.components.6.label>
+  <!--EN: Front left suspension-->
+  <VVE_Wisent.components.7.label>Front left suspension</VVE_Wisent.components.7.label>
+  <!--EN: Front right suspension-->
+  <VVE_Wisent.components.8.label>Front right suspension</VVE_Wisent.components.8.label>
+  <!--EN: Middle left suspension-->
+  <VVE_Wisent.components.9.label>Middle left suspension</VVE_Wisent.components.9.label>
+  <!--EN: A military-grade all-purpose transporter, the Wisent is a powerful truck capable of transporting both plentiful cargo and soldiers into hostile territory. Terrible fuel economy, however it can quickly navigate through rough terrain.\n\nCounter to other tier 2 vehicles, this is less efficient but more effective when travelling away from roads. Passengers sitting in the back will be exposed to enemy fire and the armour plating is only suited for minimal small arms fire.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x7\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Wisent.description>A military-grade all-purpose transporter, the Wisent is a powerful truck capable of transporting both plentiful cargo and soldiers into hostile territory. Terrible fuel economy, however it can quickly navigate through rough terrain.\n\nCounter to other tier 2 vehicles, this is less efficient but more effective when travelling away from roads. Passengers sitting in the back will be exposed to enemy fire and the armour plating is only suited for minimal small arms fire.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x7\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Wisent.description>
+  <!--EN: Wisent-->
+  <VVE_Wisent.label>Wisent</VVE_Wisent.label>
+  <!--EN: Driver-->
+  <VVE_Wisent.properties.roles.0.label>Driver</VVE_Wisent.properties.roles.0.label>
+  <!--EN: Passenger 1-->
+  <VVE_Wisent.properties.roles.1.label>Passenger 1</VVE_Wisent.properties.roles.1.label>
+  <!--EN: Passenger 2-->
+  <VVE_Wisent.properties.roles.2.label>Passenger 2</VVE_Wisent.properties.roles.2.label>
+  <!--EN: Passenger 3-->
+  <VVE_Wisent.properties.roles.3.label>Passenger 3</VVE_Wisent.properties.roles.3.label>
+  <!--EN: Passenger 4-->
+  <VVE_Wisent.properties.roles.4.label>Passenger 4</VVE_Wisent.properties.roles.4.label>
+  <!--EN: Passenger 5-->
+  <VVE_Wisent.properties.roles.5.label>Passenger 5</VVE_Wisent.properties.roles.5.label>
+  <!--EN: Passenger 6-->
+  <VVE_Wisent.properties.roles.6.label>Passenger 6</VVE_Wisent.properties.roles.6.label>
+  <!--EN: Passenger 7-->
+  <VVE_Wisent.properties.roles.7.label>Passenger 7</VVE_Wisent.properties.roles.7.label>
+  <!--EN: Passenger 8-->
+  <VVE_Wisent.properties.roles.8.label>Passenger 8</VVE_Wisent.properties.roles.8.label>
+  <!--EN: Passenger 9-->
+  <VVE_Wisent.properties.roles.9.label>Passenger 9</VVE_Wisent.properties.roles.9.label>
+</LanguageData>

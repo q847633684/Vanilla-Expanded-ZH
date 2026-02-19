@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Add process-->
+  <PipeSystem_AddProcess>Add process</PipeSystem_AddProcess>
+  <!--EN: Allow manual refill-->
+  <PipeSystem_AllowManualRefill>Allow manual refill</PipeSystem_AllowManualRefill>
+  <!--EN: Allow pawns to directly refill storage-->
+  <PipeSystem_AllowManualRefillDesc>Allow pawns to directly refill storage</PipeSystem_AllowManualRefillDesc>
+  <!--EN: Maximum amount stored here: {0}-->
+  <PipeSystem_AmountOut>Maximum amount stored here: {0}</PipeSystem_AmountOut>
+  <!--EN: Augment output maximum stack size by 1.-->
+  <PipeSystem_AugmentStackDesc>Augment output maximum stack size by 1.</PipeSystem_AugmentStackDesc>
+  <!--EN: Augment output maximum stack size by 10.-->
+  <PipeSystem_AugmentStackDescB>Augment output maximum stack size by 10.</PipeSystem_AugmentStackDescB>
+  <!--EN: Cancel current process-->
+  <PipeSystem_CancelCurrentProcess>Cancel current process</PipeSystem_CancelCurrentProcess>
+  <!--EN: Can't extract: Tanks are full-->
+  <PipeSystem_CantExtract>Can't extract: Tanks are full</PipeSystem_CantExtract>
+  <!--EN: {0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits.-->
+  <PipeSystem_CantPlaceHere>{0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits.</PipeSystem_CantPlaceHere>
+  <!--EN: Choose result-->
+  <PipeSystem_ChooseResult>Choose result</PipeSystem_ChooseResult>
+  <!--EN: Choose processor result.-->
+  <PipeSystem_ChooseResultDesc>Choose processor result.</PipeSystem_ChooseResultDesc>
+  <!--EN: {0} consumption-->
+  <PipeSystem_Consumption>{0} consumption</PipeSystem_Consumption>
+  <!--EN: The amount per day of {0} this building will draw from the {1} grid.-->
+  <PipeSystem_ConsumptionExplained>The amount per day of {0} this building will draw from the {1} grid.</PipeSystem_ConsumptionExplained>
+  <!--EN: Content will rot in {0} due to a lack of power.-->
+  <PipeSystem_ContentWillRot>Content will rot in {0} due to a lack of power.</PipeSystem_ContentWillRot>
+  <!--EN: Copy processes-->
+  <PipeSystem_CopyProcesses>Copy processes</PipeSystem_CopyProcesses>
+  <!--EN: Process hasn't reached Awful quality yet-->
+  <PipeSystem_CurrentNotReachedAwful>Process hasn't reached Awful quality yet</PipeSystem_CurrentNotReachedAwful>
+  <!--EN: Current quality: {0}-->
+  <PipeSystem_CurrentQuality>Current quality: {0}</PipeSystem_CurrentQuality>
+  <!--EN: Only deconstruct pipes part of the {0} network.-->
+  <PipeSystem_DeconstructDesc>Only deconstruct pipes part of the {0} network.</PipeSystem_DeconstructDesc>
+  <!--EN: Deconstruct {0} pipes-->
+  <PipeSystem_DeconstructLabel>Deconstruct {0} pipes</PipeSystem_DeconstructLabel>
+  <!--EN: Decrease output maximum stack size by 1.-->
+  <PipeSystem_DecreaseStackDesc>Decrease output maximum stack size by 1.</PipeSystem_DecreaseStackDesc>
+  <!--EN: Decrease output maximum stack size by 10.-->
+  <PipeSystem_DecreaseStackDescB>Decrease output maximum stack size by 10.</PipeSystem_DecreaseStackDescB>
+  <!--EN: {0} net excess/stored in network: {1} {3}/d / {2} {3}-->
+  <PipeSystem_ExcessStored>{0} net excess/stored in network: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+  <!--EN: Extract at current quality-->
+  <PipeSystem_ExtractAtCurrentQuality>Extract at current quality</PipeSystem_ExtractAtCurrentQuality>
+  <!--EN: Extract the product at the current quality.-->
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Extract the product at the current quality.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  <!--EN: Extracting product at current quality-->
+  <PipeSystem_ExtractingAtCurrent>Extracting product at current quality</PipeSystem_ExtractingAtCurrent>
+  <!--EN: {0} idle consumption-->
+  <PipeSystem_IdleConsumption>{0} idle consumption</PipeSystem_IdleConsumption>
+  <!--EN: The amount of {0} this building will draw from the {1} grid when idle.-->
+  <PipeSystem_IdleConsumptionExplained>The amount of {0} this building will draw from the {1} grid when idle.</PipeSystem_IdleConsumptionExplained>
+  <!--EN: Make {0}-->
+  <PipeSystem_MakeProcess>Make {0}</PipeSystem_MakeProcess>
+  <!--EN: Transfering content to other available storages...-->
+  <PipeSystem_MarkedToTransferContent>Transfering content to other available storages...</PipeSystem_MarkedToTransferContent>
+  <!--EN: Missing inputs: {0}-->
+  <PipeSystem_MissingInputIngredients>Missing inputs: {0}</PipeSystem_MissingInputIngredients>
+  <!--EN: No current process-->
+  <PipeSystem_NoProcess>No current process</PipeSystem_NoProcess>
+  <!--EN: No process available-->
+  <PipeSystem_NoProcessAvailable>No process available</PipeSystem_NoProcessAvailable>
+  <!--EN: No storage connected-->
+  <PipeSystem_NoStorageInNet>No storage connected</PipeSystem_NoStorageInNet>
+  <!--EN: The following networks are not connected to any storage building, but need one:-->
+  <PipeSystem_NoStorageInNetDesc>The following networks are not connected to any storage building, but need one:</PipeSystem_NoStorageInNetDesc>
+  <!--EN: Not connected to {0}.-->
+  <PipeSystem_NotConnected>Not connected to {0}.</PipeSystem_NotConnected>
+  <!--EN: This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started.-->
+  <PipeSystem_NotInRoomExplanation>This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started.</PipeSystem_NotInRoomExplanation>
+  <!--EN: Nothing to pick-up-->
+  <PipeSystem_NothingToPickUp>Nothing to pick-up</PipeSystem_NothingToPickUp>
+  <!--EN: No thing to refill {0}-->
+  <PipeSystem_NothingToRefill>No thing to refill {0}</PipeSystem_NothingToRefill>
+  <!--EN: or {0} net-->
+  <PipeSystem_OrNet>or {0} net</PipeSystem_OrNet>
+  <!--EN: Output factory hopper absent or not accepting item due to storage configuration.-->
+  <PipeSystem_OutputFactoryHopperIncorrect>Output factory hopper absent or not accepting item due to storage configuration.</PipeSystem_OutputFactoryHopperIncorrect>
+  <!--EN: Can output on ground-->
+  <PipeSystem_OutputOnGround>Can output on ground</PipeSystem_OutputOnGround>
+  <!--EN: {0} to net-->
+  <PipeSystem_OutputToNet>{0} to net</PipeSystem_OutputToNet>
+  <!--EN: Paste all processes-->
+  <PipeSystem_PasteAllRecipes>Paste all processes</PipeSystem_PasteAllRecipes>
+  <!--EN: Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.-->
+  <PipeSystem_PasteAllRecipes_Desc>Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.</PipeSystem_PasteAllRecipes_Desc>
+  <!--EN: Paste processes-->
+  <PipeSystem_PasteProcesses>Paste processes</PipeSystem_PasteProcesses>
+  <!--EN: Process needs to advance at least until the Awful quality time, which is {0}-->
+  <PipeSystem_ProcessNeedsAwfulAtLeast>Process needs to advance at least until the Awful quality time, which is {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+  <!--EN: Processes-->
+  <PipeSystem_Processes>Processes</PipeSystem_Processes>
+  <!--EN: Buffer: {0}-->
+  <PipeSystem_ProcessorBuffer>Buffer: {0}</PipeSystem_ProcessorBuffer>
+  <!--EN: Produce {0} {1} from {2} {3}.-->
+  <PipeSystem_Produce>Produce {0} {1} from {2} {3}.</PipeSystem_Produce>
+  <!--EN: Produce {0} {1} using:-->
+  <PipeSystem_ProduceLabel>Produce {0} {1} using:</PipeSystem_ProduceLabel>
+  <!--EN: Producing {0} {1}. Cycle progress: {2}.-->
+  <PipeSystem_Producing>Producing {0} {1}. Cycle progress: {2}.</PipeSystem_Producing>
+  <!--EN: Product-->
+  <PipeSystem_Product>Product</PipeSystem_Product>
+  <!--EN: {0} production-->
+  <PipeSystem_Production>{0} production</PipeSystem_Production>
+  <!--EN: The amount per day of {0} this building will produce for the {1} grid.-->
+  <PipeSystem_ProductionExplained>The amount per day of {0} this building will produce for the {1} grid.</PipeSystem_ProductionExplained>
+  <!--EN: {0}: {1}-->
+  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+  <!--EN: Select the quality at which this process will stop-->
+  <PipeSystem_QualitySelector>Select the quality at which this process will stop</PipeSystem_QualitySelector>
+  <!--EN: Amount left in deposit: {0}.-->
+  <PipeSystem_ResourceLeft>Amount left in deposit: {0}.</PipeSystem_ResourceLeft>
+  <!--EN: {0} needed:-->
+  <PipeSystem_ResourceNeeded>{0} needed:</PipeSystem_ResourceNeeded>
+  <!--EN: {0} output:-->
+  <PipeSystem_ResourceOutput>{0} output:</PipeSystem_ResourceOutput>
+  <!--EN: {0} stored:-->
+  <PipeSystem_ResourceStored>{0} stored:</PipeSystem_ResourceStored>
+  <!--EN: {0} content rotted away due to a lack of power.-->
+  <PipeSystem_StorageContentRotted>{0} content rotted away due to a lack of power.</PipeSystem_StorageContentRotted>
+  <!--EN: {0} stored in network:-->
+  <PipeSystem_Stored>{0} stored in network:</PipeSystem_Stored>
+  <!--EN: Transfer storage content-->
+  <PipeSystem_TransferContent>Transfer storage content</PipeSystem_TransferContent>
+  <!--EN: Transfer storage content to other available storages.-->
+  <PipeSystem_TransferContentDesc>Transfer storage content to other available storages.</PipeSystem_TransferContentDesc>
+  <!--EN: Valve closed.-->
+  <PipeSystem_ValveClosed>Valve closed.</PipeSystem_ValveClosed>
+  <!--EN: Valve opened.-->
+  <PipeSystem_ValveOpened>Valve opened.</PipeSystem_ValveOpened>
+  <!--EN: work speed-->
+  <PipeSystem_WorkSpeed>work speed</PipeSystem_WorkSpeed>
+  <!--EN: {0} from net-->
+  <PipeSystem_XFromNet>{0} from net</PipeSystem_XFromNet>
+</LanguageData>

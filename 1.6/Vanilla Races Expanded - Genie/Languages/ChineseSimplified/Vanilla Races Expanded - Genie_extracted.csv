@@ -1,0 +1,60 @@
+key,text,tag,file,type
+VRE_Antibiotics.label,antibiotics,label,ThingDef/ThingDef.xml,def
+VRE_Antibiotics.description,"A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours.\n\nThis drug doesn’t prevent new infections. It does cure existing infections - even those that are not yet discovered, however excessive usage of antibiotics can render a person temporarily resistant to the effect of them.",description,ThingDef/ThingDef.xml,def
+VRE_AntibioticsHigh.label,antibiotics,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh.description,"A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.",description,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_NoImmunity.label,antibiotics,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_NoImmunity.description,"A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.",description,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_VeryWeak.label,antibiotics,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_VeryWeak.description,"A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.",description,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_Weak.label,antibiotics,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsHigh_Weak.description,"A drug for boosting the immune system after infections take hold. Helps against diseases, such as malaria and plague, as well as infections due to unclean wounds. Lasts 12 hours. Effect is stronger depending on the severity of the immunity genes of the ingester (stronger for less immune subjects), and it is modified by the person's tolerance to the drug.",description,HediffDef/HediffDef.xml,def
+VRE_Chemical_Antibiotics.label,antibiotics,label,NeedDef/NeedDef.xml,def
+VRE_Chemical_Antibiotics.description,"Because of an antibiotics addiction, this person needs to regularly consume antibiotics to avoid withdrawal symptoms.",description,NeedDef/NeedDef.xml,def
+VRE_AntibioticsTolerance.label,antibiotics tolerance,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsTolerance.description,"A built-up tolerance to antibiotics. The more severe this tolerance is, the more antibiotics it takes to get the same effect.",description,HediffDef/HediffDef.xml,def
+VRE_AntibioticsAddiction.label,antibiotics addiction,label,HediffDef/HediffDef.xml,def
+VRE_AntibioticsAddiction.description,"A chemical addiction to antibiotics. Long-term presence of antibiotics has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of antibiotics, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.",description,HediffDef/HediffDef.xml,def
+VRE_AntibioticsAddiction.stages.1.label,withdrawal,label,HediffDef/HediffDef.xml,def
+VRE_Curiosity.label,curiosity,label,GeneCategoryDef/GeneCategoryDef.xml,def
+VRE_Hemophiliac.label,hemophiliac,label,GeneDef/GeneDef.xml,def
+VRE_Hemophiliac.description,"Carriers of this gene suffer from a bleeding disorder that stops coagulating factors in their blood, resulting in much faster bleed out rate when wounded.",description,GeneDef/GeneDef.xml,def
+VRE_BlueBlood.label,blue blood,label,GeneDef/GeneDef.xml,def
+VRE_BlueBlood.description,"Carriers of this gene have low levels of certain minerals in their blood, which results in it having a dark blue color.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Shooting.label,shooting curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Shooting.description,"The carrier has a natural curiosity for Shooting which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Shooting completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Melee.label,melee curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Melee.description,"The carrier has a natural curiosity for Melee which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Melee completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Construction.label,construction curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Construction.description,"The carrier has a natural curiosity for Construction which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Construction completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Mining.label,mining curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Mining.description,"The carrier has a natural curiosity for Mining which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Mining completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Cooking.label,cooking curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Cooking.description,"The carrier has a natural curiosity for Cooking which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Cooking completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Plants.label,plants curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Plants.description,"The carrier has a natural curiosity for Plants which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Plants completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Animals.label,animals curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Animals.description,"The carrier has a natural curiosity for Animals which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Animals completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Crafting.label,crafting curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Crafting.description,"The carrier has a natural curiosity for Crafting which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Crafting completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Artistic.label,artistic curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Artistic.description,"The carrier has a natural curiosity for Artistic which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Artistic completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Medicine.label,medicine curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Medicine.description,"The carrier has a natural curiosity for Medicine which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Medical completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Social.label,social curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Social.description,"The carrier has a natural curiosity for Social which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Social completely.",description,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Intellectual.label,intellectual curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Intellectual.description,"The carrier has a natural curiosity for Intellectual which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in Intellectual completely.",description,GeneDef/GeneDef.xml,def
+VRE_ElongatedHead.label,elongated head,label,GeneDef/GeneDef.xml,def
+VRE_ElongatedHead.description,"Carriers of this gene have an elongated, almost alien appearance in their face and head.",description,GeneDef/GeneDef.xml,def
+VRE_WoundHealing_VerySlow.label,very slow wound healing,label,GeneDef/GeneDef.xml,def
+VRE_WoundHealing_VerySlow.description,Carriers of this gene take a very long time to heal from even the most basic wounds.,description,GeneDef/GeneDef.xml,def
+VRE_Immunity_VeryWeak.label,no immunity,label,GeneDef/GeneDef.xml,def
+VRE_Immunity_VeryWeak.description,"Carriers of this gene lack any sort of immune system, and will gain almost no immunity to any diseases or infections through natural ways. They will die from even the smallest infection or disease.",description,GeneDef/GeneDef.xml,def
+VRE_Slow_Diseases.label,slow diseases,label,GeneDef/GeneDef.xml,def
+VRE_Slow_Diseases.description,"Carriers of this gene create special anti-bodies in their blood that slow down progress of any infection and disease, giving them more time to obtain medical care.",description,GeneDef/GeneDef.xml,def
+VRE_AptitudePhenomenal.label,phenomenal {0},label,GeneTemplateDef/GeneTemplateDef.xml,def
+VRE_AptitudePhenomenal.description,"The carrier's aptitude in {0} is increased by 12. Aptitude acts like an offset on skill level. Additionally, a passion level is added to {0}.",description,GeneTemplateDef/GeneTemplateDef.xml,def
+VRE_Filth_BlueBlood.label,blue blood,label,ThingDef/ThingDef.xml,def
+VRE_Filth_BloodSmear_Blue.label,blue blood smear,label,ThingDef/ThingDef.xml,def

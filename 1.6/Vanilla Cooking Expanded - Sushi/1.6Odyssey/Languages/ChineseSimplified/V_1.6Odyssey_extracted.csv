@@ -1,0 +1,121 @@
+key,text,tag,file,type
+VCE_ConsumedSoySauce.label,consumed soy sauce (from meal),label,HediffDef/HediffDef.xml,def
+VCE_ConsumedSoySauce.description,"A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste. Soy sauce contains 10 times the antioxidants of red wine, and can help prevent cardiovascular diseases (increases blood pumping and filtration).",description,HediffDef/HediffDef.xml,def
+VCE_ConsumedWasabi.label,consumed wasabi (from meal),label,HediffDef/HediffDef.xml,def
+VCE_ConsumedWasabi.description,A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi clears your breathing and makes you feel warmer for a while.,description,HediffDef/HediffDef.xml,def
+VCE_AteSimpleSushi.label,consumed simple sushi (from meal),label,HediffDef/HediffDef.xml,def
+VCE_AteSimpleSushi.description,I have eaten a delicious and filling sushi meal.,description,HediffDef/HediffDef.xml,def
+VCE_AteFineSushi.label,consumed fine sushi (from meal),label,HediffDef/HediffDef.xml,def
+VCE_AteFineSushi.description,I have eaten a delicious and filling sushi meal.,description,HediffDef/HediffDef.xml,def
+VCE_AteLavishSushi.label,consumed lavish sushi (from meal),label,HediffDef/HediffDef.xml,def
+VCE_AteLavishSushi.description,I have eaten a delicious and filling sushi meal.,description,HediffDef/HediffDef.xml,def
+VCE_AteGourmetSushi.label,consumed gourmet sushi (from meal),label,HediffDef/HediffDef.xml,def
+VCE_AteGourmetSushi.description,I have eaten a delicious and filling sushi meal.,description,HediffDef/HediffDef.xml,def
+VCE_SoybeansToSauce.label,Ferment soybeans into soy sauce,label,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_SoybeansToSauce.description,Turn 30 soybeans into 15 soy sauce.,description,PipeSystem.ProcessDef/PipeSystem.ProcessDef.xml,def
+VCE_WasabiPaste.label,make wasabi paste,label,RecipeDef/RecipeDef.xml,def
+VCE_WasabiPaste.description,Create wasabi paste from raw wasabi. It is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast.,description,RecipeDef/RecipeDef.xml,def
+VCE_WasabiPaste.jobString,Making wasabi paste.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_DeepFrySushi.label,deep fry sushi x20,label,RecipeDef/RecipeDef.xml,def
+VCE_DeepFrySushi.description,"Deep fry sushi. Deep fried food is very tasty, but not very good for your health.",description,RecipeDef/RecipeDef.xml,def
+VCE_DeepFrySushi.jobString,Deep frying sushi.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimple.label,make chirashizushi bowl (simple),label,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimple.description,Make a Chirashizushi bowl quickly prepared from a few ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimple.jobString,Making chirashizushi bowl (simple).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimpleBulk.label,make chirashizushi bowls (simple) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimpleBulk.description,Make 4 Chirashizushi bowls quickly prepared from a few ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookChirashizushiSimpleBulk.jobString,Making chirashizushi bowls (simple) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimple.label,make norimaki (simple),label,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimple.description,Make norimaki quickly prepared from a few ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimple.jobString,Making norimaki (simple).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimpleBulk.label,make norimaki (simple) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimpleBulk.description,Make 4 norimaki quickly prepared from a few ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookNorimakiSimpleBulk.jobString,Making norimaki (simple) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFine.label,make uramaki (fine),label,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFine.description,Make uramaki assembled with care from a wide selection of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFine.jobString,Making uramaki (fine).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFineBulk.label,make uramaki (fine) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFineBulk.description,Make 4 uramaki assembled with care from a wide selection of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookUramakiFineBulk.jobString,Making uramaki (fine) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFine.label,make nigiri (fine),label,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFine.description,Make nigiri assembled with care from a wide selection of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFine.jobString,Making nigiri (fine).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFineBulk.label,make nigiri (fine) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFineBulk.description,Make 4 nigiri assembled with care from a wide selection of ingredients.,description,RecipeDef/RecipeDef.xml,def
+VCE_CookNigiriFineBulk.jobString,Making nigiri (fine) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavish.label,make temaki (lavish),label,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavish.description,"Make a masterpiece of the culinary arts, this temaki nourishes the body, mind, and soul.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavish.jobString,Making temaki (lavish).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavishBulk.label,make temaki (lavish) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavishBulk.description,"Make 4 masterpieces of the culinary arts, these temaki nourish the body, mind, and soul.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookTemakiLavishBulk.jobString,Making temaki (lavish) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavish.label,make futomaki (lavish),label,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavish.description,"Make a masterpiece of the culinary arts, this futomaki nourishes the body, mind, and soul.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavish.jobString,Making futomaki (lavish).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavishBulk.label,make futomaki (lavish) x4,label,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavishBulk.description,"Make 4 masterpieces of the culinary arts, these futomaki nourish the body, mind, and soul.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookFutomakiLavishBulk.jobString,Making futomaki (lavish) x4.,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookGunkanmakiGourmet.label,make gunkanmaki (gourmet),label,RecipeDef/RecipeDef.xml,def
+VCE_CookGunkanmakiGourmet.description,"Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity gunkanmaki.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookGunkanmakiGourmet.jobString,Making gunkanmaki (gourmet).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_CookOshizushiiGourmet.label,make oshizushi (gourmet),label,RecipeDef/RecipeDef.xml,def
+VCE_CookOshizushiiGourmet.description,"Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity oshizushi.",description,RecipeDef/RecipeDef.xml,def
+VCE_CookOshizushiiGourmet.jobString,Making oshizushi (gourmet).,jobString,RecipeDef/RecipeDef.xml,def
+VCE_MakeHumanSurimi.label,"make human ""surimi""",label,RecipeDef/RecipeDef.xml,def
+VCE_MakeHumanSurimi.description,"Turn human meat into a nondistinct paste mimicking the texture of lobster, crab, or other shellfish. The taste, though...",description,RecipeDef/RecipeDef.xml,def
+VCE_MakeHumanSurimi.jobString,"Making human ""surimi"".",jobString,RecipeDef/RecipeDef.xml,def
+VCE_SoyFermentation.label,soybean fermentation,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_SoyFermentation.description,"Soybean fermentation is the process by which soybeans are submitted to a chemical breakdown by bacteria, yeasts, or other microorganisms, transforming into new products. This research gives access to the soy sauce fermenter.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VCE_SushiPrepTable.label,sushi prep table,label,ThingDef/ThingDef.xml,def
+VCE_SushiPrepTable.description,"A working table to cut, slice and prepare all kinds of sushi.",description,ThingDef/ThingDef.xml,def
+VCE_SoyFermenter.label,soy sauce fermenter,label,ThingDef/ThingDef.xml,def
+VCE_SoyFermenter.description,"A soy fermenter is a cilindrical, metallic drum where soybeans are pressed, mixed with aspergillus bacteria and grain, and aged for long time periods. The result is soy sauce of increasing quality, which can be used as a food condiment.",description,ThingDef/ThingDef.xml,def
+VCE_SoySauce.label,soy sauce,label,ThingDef/ThingDef.xml,def
+VCE_SoySauce.description,"A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste.",description,ThingDef/ThingDef.xml,def
+VCE_WasabiPaste.label,wasabi paste,label,ThingDef/ThingDef.xml,def
+VCE_WasabiPaste.description,A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast.,description,ThingDef/ThingDef.xml,def
+VCE_DeepFriedSushi.label,deep fried sushi,label,ThingDef/ThingDef.xml,def
+VCE_DeepFriedSushi.description,"Sushi is one of the healthiest foods about. So sooner or later someone was going to deep fry it and make it the opposite. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying sushi reduces shelf life as well unless frozen.",description,ThingDef/ThingDef.xml,def
+VCE_HumanSurimi.label,"human ""surimi""",label,ThingDef/ThingDef.xml,def
+VCE_HumanSurimi.description,"A nondistinct paste mimicking the texture of lobster, crab, or other shellfish. Only, this one... is made with human meat. A delicacy for cannibalistic Rim tribes, and a profoundly disgusting and taboo culinary experience for anyone else.",description,ThingDef/ThingDef.xml,def
+VCE_RawSoybean.label,soybeans,label,ThingDef/ThingDef.xml,def
+VCE_RawSoybean.description,"An edible bean that can be used as a vegetable in a multitude of recipes, and most famously known as the main ingredient in delicious soy sauce.",description,ThingDef/ThingDef.xml,def
+VCE_RawWasabi.label,wasabi,label,ThingDef/ThingDef.xml,def
+VCE_RawWasabi.description,A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue.,description,ThingDef/ThingDef.xml,def
+VCE_Chirashizushi.label,chirashizushi bowl (simple),label,ThingDef/ThingDef.xml,def
+VCE_Chirashizushi.description,"A simple chirashizushi bowl made from a few ingredients. In Chirashizushi rice is served in a bowl and topped with a variety of raw fish and vegetable garnishes. It is commonly eaten because it is filling, fast and easy to make.",description,ThingDef/ThingDef.xml,def
+VCE_Norimaki.label,norimaki (simple),label,ThingDef/ThingDef.xml,def
+VCE_Norimaki.description,Simple norimaki sushi made from a few ingredients. Norimaki are a type of sushi wrapped with seaweed.,description,ThingDef/ThingDef.xml,def
+VCE_Uramaki.label,uramaki (fine),label,ThingDef/ThingDef.xml,def
+VCE_Uramaki.description,"Complex uramaki sushi assembled with care from a wide selection of ingredients. Uramaki is a medium-sized cylindrical piece with two or more fillings, and it differs from other maki because the rice is on the outside and the nori seaweed inside.",description,ThingDef/ThingDef.xml,def
+VCE_Nigiri.label,nigiri (fine),label,ThingDef/ThingDef.xml,def
+VCE_Nigiri.description,"Complex nigiri sushi assembled with care from a wide selection of ingredients. Nigirizushi consists of an oblong mound of sushi rice that the chef presses between the palms of the hands to form an oval-shaped ball, and a topping (the neta) draped over the ball.",description,ThingDef/ThingDef.xml,def
+VCE_Temaki.label,temaki (lavish),label,ThingDef/ThingDef.xml,def
+VCE_Temaki.description,"A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Temaki is a large cone-shaped piece of nori on the outside and the ingredients spilling out the wide end. A typical temaki is about 10 centimetres long, and is eaten with fingers because it is too awkward to pick it up with chopsticks.",description,ThingDef/ThingDef.xml,def
+VCE_Futomaki.label,futomaki (lavish),label,ThingDef/ThingDef.xml,def
+VCE_Futomaki.description,"A masterpiece of the culinary arts, this sushi nourishes the body, mind, and soul. Futomaki is a large cylindrical piece, usually with nori on the outside. A typical futomaki is five to six centimetres in diameter. They are often made with two, three, or more fillings that are chosen for their complementary tastes and colors.",description,ThingDef/ThingDef.xml,def
+VCE_Gunkanmaki.label,gunkanmaki (gourmet),label,ThingDef/ThingDef.xml,def
+VCE_Gunkanmaki.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. Gunkanmaki is a special type of nigirizushi: an oval, hand-formed clump of sushi rice that has a strip of nori wrapped around its perimeter to form a vessel that is filled with some soft, loose or fine-chopped ingredient that requires the confinement of nori such as roe.",description,ThingDef/ThingDef.xml,def
+VCE_Oshizushi.label,oshizushi (gourmet),label,ThingDef/ThingDef.xml,def
+VCE_Oshizushi.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity sushi. In oshizushi, a block-shaped piece is formed using a wooden mold. The chef lines the bottom of the mold with the toppings, covers them with sushi rice, and then presses the lid of the mold down to create a compact, rectilinear block. The block is removed from the mold and then cut into bite-sized pieces.",description,ThingDef/ThingDef.xml,def
+VCE_Soybean.label,soybean plant,label,ThingDef/ThingDef.xml,def
+VCE_Soybean.description,"A species of legume widely grown for its edible bean, which has numerous uses. Soybean plants grow quite fast, but they are very sensitive to temperature, with optimum growing conditions in mean temperatures of 20 to 30 °C (68 to 86 °F). Temperatures outside that range stunt growth significantly.",description,ThingDef/ThingDef.xml,def
+VCE_Wasabi.label,wasabi plant,label,ThingDef/ThingDef.xml,def
+VCE_Wasabi.description,"A plant of the horseradish family. A paste made from its ground rhizomes is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi is widely considered to be one of the most difficult plants to grow, since it needs a temperate, extremely humid environment. It will receive a growth penalty if less than 20 tiles of water are found in a 6 tile radius.",description,ThingDef/ThingDef.xml,def
+VCE_ConsumedSoySauce.stages.0.label,consumed soy sauce,label,ThoughtDef/ThoughtDef.xml,def
+VCE_ConsumedSoySauce.stages.0.description,"Saltiness, moderate umami, sweet taste, and a very slight bitterness. Perfection.",description,ThoughtDef/ThoughtDef.xml,def
+VCE_ConsumedWasabi.stages.0.label,breath of the dragon,label,ThoughtDef/ThoughtDef.xml,def
+VCE_ConsumedWasabi.stages.0.description,My whole nose burns! Please give me more.,description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteSimpleSushi.stages.0.label,ate simple sushi,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteSimpleSushi.stages.0.description,Even the most basic sushi is a delicacy.,description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteFineSushi.stages.0.label,ate fine sushi,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteFineSushi.stages.0.description,I ate a very fine sushi with some vegetables. Super tasty.,description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteLavishSushi.stages.0.label,ate lavish sushi,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteLavishSushi.stages.0.description,I ate an incredible sushi dish. Delicious!,description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteGourmetSushi.stages.0.label,ate gourmet sushi,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteGourmetSushi.stages.0.description,That... that was out of this world. The fish slices melted in my mouth. Just incredible.,description,ThoughtDef/ThoughtDef.xml,def
+VCE_AteFriedSushi.stages.0.label,ate deep fried sushi,label,ThoughtDef/ThoughtDef.xml,def
+VCE_AteFriedSushi.stages.0.description,Greasy food. So delicious.,description,ThoughtDef/ThoughtDef.xml,def
+VCE_DoBillsSushi.label,cook at sushi table,label,WorkGiverDef/WorkGiverDef.xml,def
+VCE_DoBillsSushi.verb,cook,verb,WorkGiverDef/WorkGiverDef.xml,def
+VCE_DoBillsSushi.gerund,cooking at,gerund,WorkGiverDef/WorkGiverDef.xml,def

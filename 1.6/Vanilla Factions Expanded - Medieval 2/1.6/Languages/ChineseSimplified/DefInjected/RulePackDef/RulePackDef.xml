@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <ArtDescription_Hearth.rulePack.rulesStrings>
+    <!--EN: physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <!--EN: physical_description_root->The hearth bears a [depiction] of [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;The hearth bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <!--EN: physical_description_root->The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;The hearth is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <!--EN: physical_description_root->An engraving on this hearth [depicts] [image]. [desc_sentence_group]-->
+    <li>physical_description_root-&gt;An engraving on this hearth [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_Hearth.rulePack.rulesStrings>
+  <VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+    <!--EN: cultureLeaderTitle->[cultureLeaderNoun]-->
+    <li>cultureLeaderTitle-&gt;[cultureLeaderNoun]</li>
+    <!--EN: r_leaderTitle(p=1)->[cultureLeaderNoun]-->
+    <li>r_leaderTitle(p=1)-&gt;[cultureLeaderNoun]</li>
+    <!--EN: cultureLeaderNoun->jarl-->
+    <li>cultureLeaderNoun-&gt;jarl</li>
+  </VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+  <VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+    <!--EN: cultureLeaderTitle->[cultureLeaderNoun]-->
+    <li>cultureLeaderTitle-&gt;[cultureLeaderNoun]</li>
+    <!--EN: r_leaderTitle(p=1)->[cultureLeaderNoun]-->
+    <li>r_leaderTitle(p=1)-&gt;[cultureLeaderNoun]</li>
+    <!--EN: cultureLeaderNoun->king-->
+    <li>cultureLeaderNoun-&gt;king</li>
+  </VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+  <VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+    <!--EN: cultureLeaderTitle->[cultureLeaderNoun]-->
+    <li>cultureLeaderTitle-&gt;[cultureLeaderNoun]</li>
+    <!--EN: r_leaderTitle(p=1)->[cultureLeaderNoun]-->
+    <li>r_leaderTitle(p=1)-&gt;[cultureLeaderNoun]</li>
+    <!--EN: cultureLeaderNoun->guildmaster-->
+    <li>cultureLeaderNoun-&gt;guildmaster</li>
+  </VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+  <VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+    <!--EN: name->[syl][end]-->
+    <li>name-&gt;[syl][end]</li>
+    <!--EN: name->[syl]'[end]-->
+    <li>name-&gt;[syl]'[end]</li>
+    <!--EN: syl->[NorseNames]-->
+    <li>syl-&gt;[NorseNames]</li>
+    <!--EN: end->abrei-->
+    <li>end-&gt;abrei</li>
+    <!--EN: end->tro-->
+    <li>end-&gt;tro</li>
+    <!--EN: end->ox-->
+    <li>end-&gt;ox</li>
+    <!--EN: end->brin-->
+    <li>end-&gt;brin</li>
+    <!--EN: end->bai-->
+    <li>end-&gt;bai</li>
+    <!--EN: end->bust-->
+    <li>end-&gt;bust</li>
+    <!--EN: end->vast-->
+    <li>end-&gt;vast</li>
+    <!--EN: end->varg-->
+    <li>end-&gt;varg</li>
+    <!--EN: end->vix-->
+    <li>end-&gt;vix</li>
+    <!--EN: end->tor-->
+    <li>end-&gt;tor</li>
+    <!--EN: end->tear-->
+    <li>end-&gt;tear</li>
+    <!--EN: end->cut-->
+    <li>end-&gt;cut</li>
+    <!--EN: end->lop-->
+    <li>end-&gt;lop</li>
+    <!--EN: end->oze-->
+    <li>end-&gt;oze</li>
+    <!--EN: end->ozzle-->
+    <li>end-&gt;ozzle</li>
+    <!--EN: end->latch-->
+    <li>end-&gt;latch</li>
+    <!--EN: end->lock-->
+    <li>end-&gt;lock</li>
+    <!--EN: end->burn-->
+    <li>end-&gt;burn</li>
+    <!--EN: end->sear-->
+    <li>end-&gt;sear</li>
+    <!--EN: end->shank-->
+    <li>end-&gt;shank</li>
+    <!--EN: end->hurt-->
+    <li>end-&gt;hurt</li>
+    <!--EN: end->vash-->
+    <li>end-&gt;vash</li>
+    <!--EN: end->warg-->
+    <li>end-&gt;warg</li>
+    <!--EN: end->wug-->
+    <li>end-&gt;wug</li>
+    <!--EN: end->thot-->
+    <li>end-&gt;thot</li>
+    <!--EN: end->thard-->
+    <li>end-&gt;thard</li>
+    <!--EN: end->thad-->
+    <li>end-&gt;thad</li>
+  </VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+  <VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+    <!--EN: r_name(p=0.35)->[PlaceOutlander]-->
+    <li>r_name(p=0.35)-&gt;[PlaceOutlander]</li>
+    <!--EN: r_name->the [political_union_medieval] of [PlaceOutlander]-->
+    <li>r_name-&gt;the [political_union_medieval] of [PlaceOutlander]</li>
+    <!--EN: r_name->[PlaceOutlander] [political_union_medieval]-->
+    <li>r_name-&gt;[PlaceOutlander] [political_union_medieval]</li>
+  </VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+  <VFEM2_NamerFactionViking.rulePack.rulesStrings>
+    <!--EN: r_name->The [AnimalNordic] Clan-->
+    <li>r_name-&gt;The [AnimalNordic] Clan</li>
+    <!--EN: r_name->The [Color] [AnimalNordic] Clan-->
+    <li>r_name-&gt;The [Color] [AnimalNordic] Clan</li>
+    <!--EN: r_name->[NorseNames]'s Clan-->
+    <li>r_name-&gt;[NorseNames]'s Clan</li>
+  </VFEM2_NamerFactionViking.rulePack.rulesStrings>
+  <VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+    <!--EN: r_name(p=2)->[Medieval_First_Male] [Medieval_Last]-->
+    <li>r_name(p=2)-&gt;[Medieval_First_Male] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+  <VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+    <!--EN: r_name(p=2)->[Medieval_First_Female] [Medieval_Last]-->
+    <li>r_name(p=2)-&gt;[Medieval_First_Female] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+  <VFEM2_NamerPersonViking.rulePack.rulesStrings>
+    <!--EN: r_name(p=2)->[NorseNames] [NorseNames]son-->
+    <li>r_name(p=2)-&gt;[NorseNames] [NorseNames]son</li>
+    <!--EN: r_name->[NorseNames] [NorseNames]berg-->
+    <li>r_name-&gt;[NorseNames] [NorseNames]berg</li>
+    <!--EN: r_name->[NorseNames] '[AnimalBadass]slayer' [NorseNames]son-->
+    <li>r_name-&gt;[NorseNames] '[AnimalBadass]slayer' [NorseNames]son</li>
+    <!--EN: r_name->[NorseNames] '[Color] [Animal]' [NorseNames]son-->
+    <li>r_name-&gt;[NorseNames] '[Color] [Animal]' [NorseNames]son</li>
+    <!--EN: r_name->[NorseNames] [NorseNames]-son-->
+    <li>r_name-&gt;[NorseNames] [NorseNames]-son</li>
+    <!--EN: r_name->[NorseNames] '[NorseNames]son' of [Animal] clan-->
+    <li>r_name-&gt;[NorseNames] '[NorseNames]son' of [Animal] clan</li>
+  </VFEM2_NamerPersonViking.rulePack.rulesStrings>
+  <VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+    <!--EN: r_name(p=4)->[PlaceOutlander] [medievalSettlementEnd]-->
+    <li>r_name(p=4)-&gt;[PlaceOutlander] [medievalSettlementEnd]</li>
+    <!--EN: r_name->[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]-->
+    <li>r_name-&gt;[AnimalBadass]'s [medievalSettlementEnd]-on-the-[TerrainFeature]</li>
+    <!--EN: r_name->[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]-->
+    <li>r_name-&gt;[AnimalBadass]'s [medievalSettlementEnd]-by-the-[TerrainFeature]</li>
+  </VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+  <VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+    <!--EN: r_name->[townname_wordgen]-->
+    <li>r_name-&gt;[townname_wordgen]</li>
+    <!--EN: townname_wordgen(p=2)->[SylE][SylE]-->
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE]</li>
+    <!--EN: townname_wordgen(p=2)->[SylE][SylE][SylE]-->
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE][SylE]</li>
+    <!--EN: townname_wordgen(p=2)->[SylE][townendevil]-->
+    <li>townname_wordgen(p=2)-&gt;[SylE][townendevil]</li>
+    <!--EN: townname_wordgen(p=2)->[SylE][SylE][townendevil]-->
+    <li>townname_wordgen(p=2)-&gt;[SylE][SylE][townendevil]</li>
+    <!--EN: townendevil->vast-->
+    <li>townendevil-&gt;vast</li>
+    <!--EN: townendevil->varg-->
+    <li>townendevil-&gt;varg</li>
+    <!--EN: townendevil->vix-->
+    <li>townendevil-&gt;vix</li>
+    <!--EN: townendevil->tor-->
+    <li>townendevil-&gt;tor</li>
+    <!--EN: townendevil->tear-->
+    <li>townendevil-&gt;tear</li>
+    <!--EN: townendevil->cut-->
+    <li>townendevil-&gt;cut</li>
+    <!--EN: townendevil->lop-->
+    <li>townendevil-&gt;lop</li>
+    <!--EN: townendevil->oze-->
+    <li>townendevil-&gt;oze</li>
+    <!--EN: townendevil->ozzle-->
+    <li>townendevil-&gt;ozzle</li>
+    <!--EN: townendevil->latch-->
+    <li>townendevil-&gt;latch</li>
+    <!--EN: townendevil->lock-->
+    <li>townendevil-&gt;lock</li>
+    <!--EN: townendevil->burn-->
+    <li>townendevil-&gt;burn</li>
+    <!--EN: townendevil->sear-->
+    <li>townendevil-&gt;sear</li>
+    <!--EN: townendevil->shank-->
+    <li>townendevil-&gt;shank</li>
+    <!--EN: townendevil->hurt-->
+    <li>townendevil-&gt;hurt</li>
+    <!--EN: townendevil->vash-->
+    <li>townendevil-&gt;vash</li>
+    <!--EN: townendevil->warg-->
+    <li>townendevil-&gt;warg</li>
+    <!--EN: townendevil->wug-->
+    <li>townendevil-&gt;wug</li>
+    <!--EN: townendevil->thot-->
+    <li>townendevil-&gt;thot</li>
+    <!--EN: townendevil->thard-->
+    <li>townendevil-&gt;thard</li>
+    <!--EN: townendevil->thad-->
+    <li>townendevil-&gt;thad</li>
+  </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+</LanguageData>

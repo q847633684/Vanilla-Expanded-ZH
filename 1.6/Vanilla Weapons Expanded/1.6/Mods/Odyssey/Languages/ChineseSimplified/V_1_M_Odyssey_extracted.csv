@@ -1,0 +1,212 @@
+key,text,tag,file,type
+VWE_LaunchFlare.label,fire disruptor flare,label,AbilityDef/AbilityDef.xml,def
+VWE_LaunchFlare.description,Fire a disruptor flare over a medium distance. Can be reloaded using bioferrite.,description,AbilityDef/AbilityDef.xml,def
+VWE_UnderbarrelShotgun.label,fire shotgun,label,AbilityDef/AbilityDef.xml,def
+VWE_UnderbarrelShotgun.description,Fire a blast of buckshot from the underslung shotgun.,description,AbilityDef/AbilityDef.xml,def
+VWE_Arrow_TraitIncendiary.label,arrow,label,DamageDef/DamageDef.xml,def
+VWE_Arrow_Painful.label,arrow,label,DamageDef/DamageDef.xml,def
+VWE_DeserterMarkings.label,weapon with deserter markings,label,HistoryEventDef/HistoryEventDef.xml,def
+VWE_HuntingStealth.label,hunting stealth,label,HediffDef/HediffDef.xml,def
+VWE_HuntingStealth.description,The weapon held by this person provides increased hunting stealth.,description,HediffDef/HediffDef.xml,def
+VWE_ExtraPain.description,This creature has increased pain sensitivity due to being struck by a barbed arrow.,description,HediffDef/HediffDef.xml,def
+VWE_ExtraPain.label,increased pain sensitivity,label,HediffDef/HediffDef.xml,def
+VWE_ReducedMoveSpeed.label,encumbered,label,HediffDef/HediffDef.xml,def
+VWE_ReducedMoveSpeed.description,"The weapon held by this person is very heavy, reducing move speed.",description,HediffDef/HediffDef.xml,def
+VWE_SkeletonizedFrame.label,skeletonized frame,label,HediffDef/HediffDef.xml,def
+VWE_SkeletonizedFrame.description,"The weapon held by this person is very light, increasing move speed.",description,HediffDef/HediffDef.xml,def
+VWE_IlluminatedSights.label,illuminated sights,label,HediffDef/HediffDef.xml,def
+VWE_IlluminatedSights.description,The weapon held by this person is fitted with self-illuminating sights.,description,HediffDef/HediffDef.xml,def
+VWE_ComfortGrip.label,comfort grip,label,HediffDef/HediffDef.xml,def
+VWE_ComfortGrip.description,"The weapon held by this person is fitted with a custom-molded, ergonomic handle wrapped in high-quality leather.",description,HediffDef/HediffDef.xml,def
+VWE_GrimNotches.label,grim notches,label,HediffDef/HediffDef.xml,def
+VWE_GrimNotches.description,"The weapon held by this person is covered in crude, carved notches, each tallying a life taken by a previous owner.",description,HediffDef/HediffDef.xml,def
+VWE_VoidInscriptions.label,void inscriptions,label,HediffDef/HediffDef.xml,def
+VWE_VoidInscriptions.description,"The weapon held by this person is etched with shifting, non-euclidean glyphs that whisper to the wielder, continually draining their mental stability while equipped.",description,HediffDef/HediffDef.xml,def
+VWE_OptionalFeatures.label,Vanilla Weapons Expanded,label,VEF.OptionalFeatures.ModDef/VEF.OptionalFeatures.ModDef.xml,def
+VWE_OptionalFeatures.description,VE Framework optional features for Vanilla Weapons Expanded,description,VEF.OptionalFeatures.ModDef/VEF.OptionalFeatures.ModDef.xml,def
+VWE_Bow_Crossbow_Unique.label,unique crossbow,label,ThingDef/ThingDef.xml,def
+VWE_Bow_Crossbow_Unique.description,A crossbow with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Bow_Long_Unique.label,unique longbow,label,ThingDef/ThingDef.xml,def
+VWE_Bow_Long_Unique.description,A longbow with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Bow_Compound_Unique.label,unique compond bow,label,ThingDef/ThingDef.xml,def
+VWE_Bow_Compound_Unique.description,A compond bow with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_HandCannon_Unique.label,unique heavy revolver,label,ThingDef/ThingDef.xml,def
+VWE_Gun_HandCannon_Unique.description,A heavy revolver with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_CombatHandgun_Unique.label,unique combat handgun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_CombatHandgun_Unique.description,A combat handgun with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_SawedOffShotgun_Unique.label,unique sawed-off shotgun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_SawedOffShotgun_Unique.description,A sawed-off shotgun with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_SemiAutomaticRifle_Unique.label,unique semi-automatic rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_SemiAutomaticRifle_Unique.description,A semi-automatic rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_LeverActionRifle_Unique.label,unique lever-action rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_LeverActionRifle_Unique.description,A lever-action rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_TrenchGun_Unique.label,unique trench gun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_TrenchGun_Unique.description,A trench gun with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_LightSMG_Unique.label,unique light SMG,label,ThingDef/ThingDef.xml,def
+VWE_Gun_LightSMG_Unique.description,A light SMG with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_SMG_Unique.label,unique SMG,label,ThingDef/ThingDef.xml,def
+VWE_Gun_SMG_Unique.description,A SMG with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_HMG_Unique.label,unique HMG,label,ThingDef/ThingDef.xml,def
+VWE_Gun_HMG_Unique.description,A HMG with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ServiceRifle_Unique.label,unique service rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ServiceRifle_Unique.description,A service rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_BattleRifle_Unique.label,unique battle rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BattleRifle_Unique.description,A battle rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_Carbine_Unique.label,unique carbine,label,ThingDef/ThingDef.xml,def
+VWE_Gun_Carbine_Unique.description,A carbine with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_MarksmanRifle_Unique.label,unique marksman rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_MarksmanRifle_Unique.description,A marksman rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_AntiMaterialRifle_Unique.label,unique anti-materiel rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_AntiMaterialRifle_Unique.description,An anti-materiel rifle with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargePistol_Unique.label,unique charge pistol,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargePistol_Unique.description,A charge pistol with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeShotgun_Unique.label,unique charge shotgun,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeShotgun_Unique.description,A charge shotgun with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeSMG_Unique.label,unique charge SMG,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeSMG_Unique.description,A charge SMG with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeLMG_Unique.label,unique charge blaster,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeLMG_Unique.description,A charge blaster with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeMinigun_Unique.label,unique heavy charge blaster,label,ThingDef/ThingDef.xml,def
+VWE_Gun_ChargeMinigun_Unique.description,A heavy charge blaster with customized parts.,description,ThingDef/ThingDef.xml,def
+VWE_ComfortGrip.stages.0.label,comfortable gun,label,ThoughtDef/ThoughtDef.xml,def
+VWE_ComfortGrip.stages.0.description,"The custom-molded, ergonomic handle wrapped in high-quality leather feels reassuringly secure in my hand.",description,ThoughtDef/ThoughtDef.xml,def
+VWE_GrimNotches.stages.0.label,grim gun,label,ThoughtDef/ThoughtDef.xml,def
+VWE_GrimNotches.stages.0.description,It seems there’s 20 notches on this pistol. Who knows what lives it has taken.,description,ThoughtDef/ThoughtDef.xml,def
+VWE_UnderbarrelFlarestriker.label,underbarrel flarestriker,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_UnderbarrelFlarestriker.description,This weapon is equipped with an integrated under-barrel flare launcher. It fires bioferrite-fueled disruptor flares that illuminate the area and cause local psychic disruption.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_UnderbarrelShotgun.label,underbarrel shotgun,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_UnderbarrelShotgun.description,"This weapon features a stripped-down, under-barrel shotgun attachment. It provides the user with a secondary firing option specifically designed to breach doors or clear close-quarters threats without switching weapons.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_PitchSoakedTips.label,pitch-soaked tips,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_PitchSoakedTips.description,"These projectiles have been dipped in sticky, flammable tar and wrapped in cloth. They have a high chance of igniting the target upon impact.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HighTensionLimbs.label,high-tension limbs,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HighTensionLimbs.description,"The limbs of this weapon are incredibly stiff, storing massive amounts of kinetic energy. It takes much longer to draw or crank, but the projectile flies faster and hits harder.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WhisperFletching.label,whisper fletching,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WhisperFletching.description,"The projectiles use soft, owl-down fletching that silences their flight. It generates almost no noise, preventing animals from fleeing when missed.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BarbedHeads.label,barbed heads,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BarbedHeads.description,"The projectiles are tipped with jagged, cruel hooks designed to tear flesh and get stuck in the wound. They cause immense pain and have higher stopping power.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_QuickDrawString.label,quick-draw string,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_QuickDrawString.description,"This bow is strung with a flexible, slightly slacker string. It allows for rapid volley fire at the cost of range and armor penetration.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TwinNock.label,twin-nock,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TwinNock.description,This weapon is designed to fire two projectiles simultaneously. It creates a hail of arrows but makes aiming at specific targets much more difficult.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BluntHeads.label,blunt heads,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BluntHeads.description,"The projectiles are tipped with heavy, flat weights instead of sharp points. They deal blunt trauma, cracking bones and causing bruising rather than bleeding wounds.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SiegeAssembly.label,siege assembly,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SiegeAssembly.description,"This weapon is modified with heavy pulleys, a windlass, or reinforced laminate limbs, effectively turning it into a portable ballista. It hits with devastating force, capable of piercing thick armor, but the weapon is incredibly heavy and agonizingly slow to aim.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BlastTips.label,blast tips,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BlastTips.description,"The arrowheads are replaced with crude, volatile explosive charges. Upon impact, they detonate in a small radius, dealing significant damage to clusters of enemies. However, the heavy and unbalanced payload causes the projectile to tumble in flight, making accurate fire nearly impossible.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SlipString.label,slip-string,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SlipString.description,"This bow uses a specifically waxed, low-friction string. It allows the archer to hold extra arrows in their draw hand and loose them in a blur of motion. The hasty release prevents a full draw, limiting the weapon's effective range.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HyperCapacitor.label,hyper-capacitor,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HyperCapacitor.description,"This weapon replaces a standard mechanical firing pin or gas system with an electronic rail-assist powered by a massive capacitor. It eliminates the mechanical cycling time between shots almost entirely, but the capacitor takes a significantly long time to charge before the first shot can be fired.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Ultracoils.label,ultracoils,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Ultracoils.description,"This weapon features extended, super-conductive acceleration rails that launch projectiles at hypersonic velocities, drastically increasing range and armor penetration at the cost of cycle time.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CryptoCoatedRails.label,crypto-coated rails,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CryptoCoatedRails.description,"The magnetic acceleration rails are coated in the crypto-particle cooling jacket, preventing the overheating common in charge weaponry and allowing for a much faster rate of fire.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_VectorCompensator.label,vector compensator,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_VectorCompensator.description,"The barrel is lined with micro-magnetic coils that adjust the projectile's trajectory in mid-air. This ""smart bullet"" system actively corrects aim error, granting perfect accuracy, but requires lighter, smaller projectiles to function.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WaterCooled.label,water-cooled,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WaterCooled.description,"This weapon is encased in a heavy, liquid-filled cooling jacket. It prevents overheating, allowing for much faster sustained fire, but drastically increases the weapon's weight.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Bipod.label,bipod,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Bipod.description,"This weapon features a heavy deployable bipod. It provides extreme stability and accuracy at long range, but the setup time nearly doubles the time it takes to aim.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SaturationFeed.label,saturation feed,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SaturationFeed.description,"This weapon has a modified feed mechanism designed to put as much lead in the air as possible. It doubles the number of shots per burst, but the violent vibration reduces accuracy significantly.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ShortStrokePiston.label,short-stroke piston,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ShortStrokePiston.description,"This weapon uses a modified short-travel bolt carrier that strictly limits burst length. It fires half as many shots per volley, but the mechanism resets twice as fast, allowing for extremely responsive engagement.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ThumpRetrofit.label,thump retrofit,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ThumpRetrofit.description,"This weapon incorporates reverse-engineered mechanoid technology to fire heavy, blunt-force energy slugs that devastate structures and armor at the cost of range.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AcidInjectorFlechettes.label,acid-injector flechettes,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AcidInjectorFlechettes.description,This weapon has been re-barreled to fire fin-stabilized acid-injector flechettes. These rounds cause horrific internal dissolution in organic targets but are useless against mechanoids.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_DeserterMarkings.label,deserter markings,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_DeserterMarkings.description,"This weapon bears defaced Imperial crests; equipping it in the presence of Imperial caravans or visitors will be recognized as treason, causing an immediate and severe drop in relations.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HighAngleDraw.label,high-angle draw,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HighAngleDraw.description,"This weapon is strung for extreme parabolic arcing, allowing arrows to be lobbed over walls and obstacles to hit unseen targets, though it is impossible to aim precisely.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_LuckyShots.label,lucky shots,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_LuckyShots.description,"This weapon's action is tuned for occasional moments of perfect alignment, granting a chance for shots to bypass defenses and inflict significant bonus damage.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_MakeshiftTrait.label,makeshift,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_MakeshiftTrait.description,"This weapon is cobbled together from mismatched parts with a faulty sear mechanism. It is wildly unpredictable; sometimes it fails to fire entirely, while other times it accidentally discharges a double-length burst.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AncientTrait.label,ancient,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AncientTrait.description,"This weapon is a relic from a bygone era, its internal stress fractures held together by mere luck. It functions normally for a limited time, but after a set number of shots, the mechanism will shatter completely and the weapon will be destroyed.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CryptoRounds.label,crypto rounds,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CryptoRounds.description,This weapon fires rounds coated in active cryptoparticles that induce a rapid stasis-freeze effect on impact.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_VoidInscriptions.label,void inscriptions,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_VoidInscriptions.description,"This weapon is etched with shifting, non-euclidean glyphs that whisper to the wielder, continually draining their mental stability while equipped.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ComfortGrip.label,comfort grip,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_ComfortGrip.description,"This weapon is fitted with a custom-molded, ergonomic handle wrapped in high-quality leather. It feels reassuringly secure in the hand, filling the user with a sense of pride and accomplishment.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_GrimNotches.label,grim notches,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_GrimNotches.description,"This weapon is covered in crude, carved notches, each tallying a life taken by a previous owner. It seems there’s one, and nineteen more of them. The handle feels rough and disturbing to hold, filling the user with a sense of dread and guilt.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WornRifling.label,worn rifling,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WornRifling.description,The spiral grooves inside this weapon's barrel have been worn smooth by overuse. It is significantly less accurate at all ranges.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_GritClogged.label,grit-clogged,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_GritClogged.description,"The internal mechanism is filled with sand, dirt, or dried grease. It cycles sluggishly, significantly increasing the time between shots.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HeavyScrap.label,heavy scrap,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_HeavyScrap.description,"This weapon has been repaired using heavy, improper scrap metal components. It is cumbersome to carry and takes much longer to aim.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TrainingConversion.label,training conversion,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TrainingConversion.description,"This weapon has been permanently modified to fire non-lethal blunt pellets for target practice. While it causes pain and bruising, it lacks the stopping power and penetration to be useful in a real firefight.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Janky.label,janky,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Janky.description,"This weapon's internal mechanisms are loose and poorly fitted. It suffers from inconsistent cycling issues, meaning the cooldown duration is completely randomized after every single burst.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_RecoilOpMechanism.label,recoil-Op mechanism,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_RecoilOpMechanism.description,This weapon fires a rapid 3-round burst. The uncontrollable recoil limits the weapon's effective range and severely reduces accuracy at medium and long distances.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BuntlineBarrel.label,buntline barrel,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BuntlineBarrel.description,"This weapon features an extended barrel that significantly increases range and accuracy. However, the added weight makes the weapon slower to aim.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SnakeShotLoads.label,snake-shot loads,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SnakeShotLoads.description,"This weapon fires spread-shot pellets instead of solid slugs. It provides a major accuracy boost at close range, but deals less damage and has zero armor penetration.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TopBreakAction.label,top-break action,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_TopBreakAction.description,"This weapon features a hinged frame that breaks open for rapid casing ejection. It reloads significantly faster than a standard model, but the mechanism makes the weapon fragile and prone to breaking.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_UraniumSlug.label,uranium slug,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_UraniumSlug.description,"This weapon fires ultra-dense uranium slugs, giving it immense armor-penetrating capabilities, though the heavy recoil increases the time between shots.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_StraightPullAction.label,straight-pull action,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_StraightPullAction.description,"This weapon uses a linear bolt mechanism to drastically reduce cooldown time, though it compromises long-range stability.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AccelerationRail.label,acceleration rail,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_AccelerationRail.description,"Retrofitted with a pulse-charge rail system, this weapon fires a single, high-velocity energy bolt that drastically improves damage and armor penetration.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CantedIronSights.label,canted iron sights,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_CantedIronSights.description,"This weapon includes a secondary sight mounted at a 45-degree angle, allowing the sniper to effectively engage targets at close range without using the scope.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_FixedTeleLens.label,fixed tele-lens,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_FixedTeleLens.description,This weapon is fitted with extreme magnification optics that significantly extend effective range but render the weapon completely unable to target enemies within a large minimum radius.,description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SkeletonizedFrame.label,skeletonized frame,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_SkeletonizedFrame.description,"This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WeightedStock.label,weighted stock,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_WeightedStock.description,"This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_PortedBarrel.label,ported barrel,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_PortedBarrel.description,"This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_IlluminatedSights.label,illuminated sights,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_IlluminatedSights.description,"This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_MatchTrigger.label,match trigger,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_MatchTrigger.description,"This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_FireSelector.label,fire selector,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_FireSelector.description,"This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Akimbo.label,akimbo,label,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_Akimbo.description,"This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy.",description,WeaponTraitDef/WeaponTraitDef.xml,def
+VWE_BlastTips_Arrow.label,blast tip arrow,label,ThingDef/ThingDef.xml,def
+VWE_BlastTips_LargeArrow.label,blast tip arrow,label,ThingDef/ThingDef.xml,def
+VWE_BlastTips_Bolt.label,blast tip bolt,label,ThingDef/ThingDef.xml,def
+VWE_BlastTips_Compound.label,blast tip compound arrow,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeRifle_Homing.label,homing charge shot,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeLance_Homing.label,homing charge lance shot,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargePistol_Homing.label,homing charge pistol shot,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeShotgun_Homing.label,homing charge shotgun blast,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeSMG_Homing.label,homing charge SMG shot,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeLMG_Homing.label,homing charge blaster shot,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeMinigun_Homing.label,homing heavy charge blaster shot,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet.label,crypto bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_Revolver.label,crypto revolver bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_BoltActionRifle.label,crypto bolt-action rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_HeavySMG.label,crypto heavy SMG bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_LMG.label,crypto LMG bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_AssaultRifle.label,crypto assault rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_SniperRifle.label,crypto sniper rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_Minigun.label,crypto minigun bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_HandCannon.label,crypto heavy revolver bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_CombatHandgun.label,crypto combat handgun bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_SemiAutomaticRifle.label,crypto semi-automatic rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_LeverActionRifle.label,crypto lever-action rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_LightSMG.label,crypto light SMG bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_SMG.label,crypto SMG bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_HMG.label,crypto HMG bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_ServiceRifle.label,crypto service rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_BattleRifle.label,crypto battle rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_Carbine.label,crypto carbine bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_MarksmanRifle.label,crypto marksman rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Cryptobullet_AntiMaterialRifle.label,crypto anti-materiel impact shell,label,ThingDef/ThingDef.xml,def
+VWE_Revolver_SnakeShotLoads.label,snake-shot load,label,ThingDef/ThingDef.xml,def
+VWE_Revolver_SnakeShotLoads_Heavy.label,snake-shot load,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_ChargeLance.label,charge lance shot,label,ThingDef/ThingDef.xml,def

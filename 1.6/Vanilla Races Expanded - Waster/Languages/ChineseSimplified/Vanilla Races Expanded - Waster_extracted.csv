@@ -1,0 +1,114 @@
+key,text,tag,file,type
+VREW_Mutations.label,mutations,label,GeneCategoryDef/GeneCategoryDef.xml,def
+VRE_ToxAbsorption.label,tox absorption,label,GeneDef/GeneDef.xml,def
+VRE_ToxAbsorption.description,"Carriers of this gene have the extraordinary ability to directly absorb toxic gases through their skin. This gene does not have any effect in itself, but it does increase the speed at which pollution is satisfied for various pollution-related genes.",description,GeneDef/GeneDef.xml,def
+VRE_Instability_Nominal.label,nominal cell instability,label,GeneDef/GeneDef.xml,def
+VRE_Instability_Nominal.description,"Carriers of this gene need slightly less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery.",description,GeneDef/GeneDef.xml,def
+VRE_Instability_Extreme.label,extreme cell instability,label,GeneDef/GeneDef.xml,def
+VRE_Instability_Extreme.description,"Carriers of this gene need very little metabolic energy to stay alive, at the cost of extremely-reduced stability in their cell-replication machinery.",description,GeneDef/GeneDef.xml,def
+VRE_Instability_Progressive.label,progressive cell instability,label,GeneDef/GeneDef.xml,def
+VRE_Instability_Progressive.description,Carriers of this gene have their genetic code becoming progressively more unstable with every new generation.,description,GeneDef/GeneDef.xml,def
+VREW_Mutation_Randomizer.label,randomizer,label,GeneDef/GeneDef.xml,def
+VREW_Mutation_Randomizer.description,"Once a pawn receives this gene, it will transform itself into 1-3 random mutations.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionRush.label,pollution stimulus,label,GeneDef/GeneDef.xml,def
+VREW_PollutionRush.description,Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects.,description,GeneDef/GeneDef.xml,def
+VREW_PollutionRegeneration.label,pollution regeneration,label,GeneDef/GeneDef.xml,def
+VREW_PollutionRegeneration.description,"Carriers of this gene benefit from accelerated natural healing in polluted environments. As pollution levels increase, their regenerative abilities are boosted, enabling them to recover from injuries and restore their vitality more rapidly.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionRage.label,pollution rage,label,GeneDef/GeneDef.xml,def
+VREW_PollutionRage.description,"Carriers of this gene experience amplified close-quarters damage output in polluted environments. As pollution levels escalate, their ferocity and strength intensify, allowing them to inflict greater harm on their adversaries.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionSustenance.label,pollution sustenance,label,GeneDef/GeneDef.xml,def
+VREW_PollutionSustenance.description,"Carriers of this gene possess the remarkable ability to derive nutrition from pollution. In polluted environments, they can absorb vital nutrients from the air, slowing down their hunger rate.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionCognition.label,pollution cognition,label,GeneDef/GeneDef.xml,def
+VREW_PollutionCognition.description,"Carriers of this gene exhibit enhanced focus and learning abilities in polluted environments. As pollution levels rise, their capacity to acquire new skills and retain knowledge expands.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionNumbness.label,pollution numbness,label,GeneDef/GeneDef.xml,def
+VREW_PollutionNumbness.description,Carriers of this gene experience reduced pain sensations in polluted environments as pollution levels increase.,description,GeneDef/GeneDef.xml,def
+VREW_PollutionHappiness.label,pollution happiness,label,GeneDef/GeneDef.xml,def
+VREW_PollutionHappiness.description,"Carriers of this gene enjoy heightened levels of happiness in polluted environments, experiencing increased joy and contentment as pollution levels rise, making them thrive in otherwise gloomy conditions.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionProductivity.label,pollution productivity,label,GeneDef/GeneDef.xml,def
+VREW_PollutionProductivity.description,"Carriers of this gene find their work speed significantly improved in polluted environments, allowing them to complete tasks more efficiently and swiftly as pollution levels increase.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionPsySensitivity.label,pollution psy-sensitivity,label,GeneDef/GeneDef.xml,def
+VREW_PollutionPsySensitivity.description,"Carriers of this gene experience amplified psychic sensitivity in polluted environments, leading to stronger intuition and telepathic skills as pollution levels increase.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionFertility.label,pollution fertility,label,GeneDef/GeneDef.xml,def
+VREW_PollutionFertility.description,"Carriers of this gene have a boost to fertility in polluted environments, allowing for increased offspring production and faster lineage expansion in hazardous conditions.",description,GeneDef/GeneDef.xml,def
+VREW_PollutionAccuracy.label,pollution accuracy,label,GeneDef/GeneDef.xml,def
+VREW_PollutionAccuracy.description,"Carriers of this gene achieve improved steadiness and precision in polluted environments. As pollution levels rise, their aiming capabilities are enhanced, allowing them to target and strike with remarkable accuracy.",description,GeneDef/GeneDef.xml,def
+VRE_PollutionRegeneration.label,pollution regeneration,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.description,"Benefitting from accelerated natural healing in polluted environments. As pollution levels increase, regenerative abilities are boosted, recovering from injuries and restoring vitality more rapidly.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.descriptionShort,This creature is regenerating by exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRegeneration.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.label,pollution rage,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.description,"Experiencing amplified close-quarters damage output in polluted environments. As pollution levels escalate, ferocity and strength intensify, allowing to inflict greater harm on adversaries.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.descriptionShort,This creature is raging by exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionRage.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.label,pollution sustenance,label,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.description,"Deriving nutrition from pollution, slowing down hunger rate.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.descriptionShort,This creature is deriving nutrition from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionSustenance.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.label,pollution cognition,label,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.description,"Exhibiting enhanced focus and learning abilities in polluted environments. As pollution levels rise, capacity to acquire new skills and retain knowledge will expand.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.descriptionShort,This creature has enhanced learning from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionCognition.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.label,pollution numbness,label,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.description,Exhibiting reduced pain sensations in polluted environments as pollution levels increase.,description,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.descriptionShort,This creature has reduced pain sensations from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionNumbness.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.label,pollution happiness,label,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.description,"Enjoying heightened levels of happiness in polluted environments, experiencing increased joy and contentment as pollution levels rise.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.descriptionShort,This creature has increased mood from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionHappiness.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.label,pollution productivity,label,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.description,Having work speed significantly improved in polluted environments and completing tasks more efficiently and swiftly as pollution levels increase.,description,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.descriptionShort,This creature has enhanced productivity from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionProductivity.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.label,pollution psy-sensitivity,label,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.description,"Experiencing amplified psychic sensitivity in polluted environments, leading to stronger intuition and telepathic skills as pollution levels increase.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.descriptionShort,This creature has enhanced psychic sensitivity from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionPsySensitivity.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.label,pollution fertility,label,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.description,"Experiencing a boost to fertility in polluted environments, allowing for increased offspring production and faster lineage expansion in hazardous conditions.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.descriptionShort,This creature has enhanced fertility from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionFertility.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.label,pollution accuracy,label,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.description,Getting improved steadiness and precision in polluted environments.,description,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.descriptionShort,This creature has improved accuracy from their exposure to pollution.,descriptionShort,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.stages.0.label,inactive,label,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+VRE_PollutionAccuracy.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_BurnBarrel.label,burn barrel,label,ThingDef/ThingDef.xml,def
+VRE_BurnBarrel.description,"A sturdy metal container designed for incinerating wastepacks. As it burns, it emits pollution and releases toxic gases, contaminating the surrounding area and creating an unfavorable environment for those sensitive to pollution, while proving advantageous for carriers of pollution-adaptive genes.",description,ThingDef/ThingDef.xml,def
+VRE_PollutionHappinessThoughts.stages.0.label,no pollution happiness,label,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.0.description,Meh.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.1.label,minor pollution happiness,label,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.1.description,I can feel the tingling of pollution in my veins. I like it.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.2.label,moderate pollution happiness,label,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.2.description,"Pollution is what I thrive on, and I love every minute of it.",description,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.3.label,extreme pollution happiness,label,ThoughtDef/ThoughtDef.xml,def
+VRE_PollutionHappinessThoughts.stages.3.description,"My body is tox, my blood is rotstink!",description,ThoughtDef/ThoughtDef.xml,def

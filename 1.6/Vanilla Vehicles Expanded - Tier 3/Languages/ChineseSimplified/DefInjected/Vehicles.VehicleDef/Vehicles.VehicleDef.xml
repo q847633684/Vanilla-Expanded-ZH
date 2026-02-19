@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Engine-->
+  <VVE_Badger.components.0.label>Engine</VVE_Badger.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Badger.components.1.label>Left Track</VVE_Badger.components.1.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Badger.components.10.label>Front Armor Plating</VVE_Badger.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Badger.components.11.label>Rear Armor Plating</VVE_Badger.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Badger.components.12.label>Chemtank</VVE_Badger.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Badger.components.13.label>Dashboard</VVE_Badger.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Badger.components.14.label>Steering Apparatus</VVE_Badger.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Badger.components.15.label>Alternator</VVE_Badger.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Badger.components.16.label>Roof</VVE_Badger.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Badger.components.2.label>Right Track</VVE_Badger.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Badger.components.3.label>Front Left Drive Sprocket</VVE_Badger.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Badger.components.4.label>Front Right Drive Sprocket</VVE_Badger.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Badger.components.5.label>Back Left Drive Sprocket</VVE_Badger.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Badger.components.6.label>Back Right Drive Sprocket</VVE_Badger.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Badger.components.7.label>Gearbox</VVE_Badger.components.7.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Badger.components.8.label>Left Armor Plating</VVE_Badger.components.8.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Badger.components.9.label>Right Armor Plating</VVE_Badger.components.9.label>
+  <!--EN: pop smoke-->
+  <VVE_Badger.comps.2.verbs.0.label>pop smoke</VVE_Badger.comps.2.verbs.0.label>
+  <!--EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Badger.description>A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x4\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Badger.description>
+  <!--EN: Badger-->
+  <VVE_Badger.label>Badger</VVE_Badger.label>
+  <!--EN: Driver-->
+  <VVE_Badger.properties.roles.0.label>Driver</VVE_Badger.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Badger.properties.roles.1.label>Gunner</VVE_Badger.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Badger.properties.roles.2.label>Passenger</VVE_Badger.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_BigRig.components.0.label>Engine</VVE_BigRig.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_BigRig.components.1.label>Front Left Wheel</VVE_BigRig.components.1.label>
+  <!--EN: Right Middle Suspension-->
+  <VVE_BigRig.components.10.label>Right Middle Suspension</VVE_BigRig.components.10.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_BigRig.components.11.label>Back Left Suspension</VVE_BigRig.components.11.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_BigRig.components.12.label>Back Right Suspension</VVE_BigRig.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_BigRig.components.13.label>Gearbox</VVE_BigRig.components.13.label>
+  <!--EN: Left Side Panel-->
+  <VVE_BigRig.components.14.label>Left Side Panel</VVE_BigRig.components.14.label>
+  <!--EN: Right Side Panel-->
+  <VVE_BigRig.components.15.label>Right Side Panel</VVE_BigRig.components.15.label>
+  <!--EN: Left Chemtank-->
+  <VVE_BigRig.components.16.label>Left Chemtank</VVE_BigRig.components.16.label>
+  <!--EN: Right Chemtank-->
+  <VVE_BigRig.components.17.label>Right Chemtank</VVE_BigRig.components.17.label>
+  <!--EN: Front Bumper-->
+  <VVE_BigRig.components.18.label>Front Bumper</VVE_BigRig.components.18.label>
+  <!--EN: Rear Bumper-->
+  <VVE_BigRig.components.19.label>Rear Bumper</VVE_BigRig.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_BigRig.components.2.label>Front Right Wheel</VVE_BigRig.components.2.label>
+  <!--EN: Upholstery-->
+  <VVE_BigRig.components.20.label>Upholstery</VVE_BigRig.components.20.label>
+  <!--EN: Dashboard-->
+  <VVE_BigRig.components.21.label>Dashboard</VVE_BigRig.components.21.label>
+  <!--EN: Steering Wheel-->
+  <VVE_BigRig.components.22.label>Steering Wheel</VVE_BigRig.components.22.label>
+  <!--EN: Alternator-->
+  <VVE_BigRig.components.23.label>Alternator</VVE_BigRig.components.23.label>
+  <!--EN: Hood-->
+  <VVE_BigRig.components.24.label>Hood</VVE_BigRig.components.24.label>
+  <!--EN: Roof-->
+  <VVE_BigRig.components.25.label>Roof</VVE_BigRig.components.25.label>
+  <!--EN: Left Middle Wheel-->
+  <VVE_BigRig.components.3.label>Left Middle Wheel</VVE_BigRig.components.3.label>
+  <!--EN: Right Middle Wheel-->
+  <VVE_BigRig.components.4.label>Right Middle Wheel</VVE_BigRig.components.4.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_BigRig.components.5.label>Back Left Wheel</VVE_BigRig.components.5.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_BigRig.components.6.label>Back Right Wheel</VVE_BigRig.components.6.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_BigRig.components.7.label>Front Left Suspension</VVE_BigRig.components.7.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_BigRig.components.8.label>Front Right Suspension</VVE_BigRig.components.8.label>
+  <!--EN: Left Middle Suspension-->
+  <VVE_BigRig.components.9.label>Left Middle Suspension</VVE_BigRig.components.9.label>
+  <!--EN: A dedicated cargo transporter, the Big Rig is the epitome of bulk material transportation. While best suited on flat roads, it still has a powerful enough engine to effectively charge through difficult terrain.\n\nA surprisingly quick, gas-guzzling cargo transporter that has terrible acceleration, but very little can slow it down once it gets up to speed.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_BigRig.description>A dedicated cargo transporter, the Big Rig is the epitome of bulk material transportation. While best suited on flat roads, it still has a powerful enough engine to effectively charge through difficult terrain.\n\nA surprisingly quick, gas-guzzling cargo transporter that has terrible acceleration, but very little can slow it down once it gets up to speed.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_BigRig.description>
+  <!--EN: Big Rig-->
+  <VVE_BigRig.label>Big Rig</VVE_BigRig.label>
+  <!--EN: Driver-->
+  <VVE_BigRig.properties.roles.0.label>Driver</VVE_BigRig.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_BigRig.properties.roles.1.label>Passenger</VVE_BigRig.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Burya.components.0.label>Engine</VVE_Burya.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Burya.components.1.label>Front Left Wheel</VVE_Burya.components.1.label>
+  <!--EN: Middle Right Suspension-->
+  <VVE_Burya.components.10.label>Middle Right Suspension</VVE_Burya.components.10.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Burya.components.11.label>Back Left Suspension</VVE_Burya.components.11.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Burya.components.12.label>Back Right Suspension</VVE_Burya.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_Burya.components.13.label>Gearbox</VVE_Burya.components.13.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Burya.components.14.label>Left Armor Plating</VVE_Burya.components.14.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Burya.components.15.label>Right Armor Plating</VVE_Burya.components.15.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Burya.components.16.label>Front Armor Plating</VVE_Burya.components.16.label>
+  <!--EN: Left Chemtank-->
+  <VVE_Burya.components.17.label>Left Chemtank</VVE_Burya.components.17.label>
+  <!--EN: Right Chemtank-->
+  <VVE_Burya.components.18.label>Right Chemtank</VVE_Burya.components.18.label>
+  <!--EN: Dashboard-->
+  <VVE_Burya.components.19.label>Dashboard</VVE_Burya.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Burya.components.2.label>Front Right Wheel</VVE_Burya.components.2.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Burya.components.20.label>Steering Wheel</VVE_Burya.components.20.label>
+  <!--EN: Alternator-->
+  <VVE_Burya.components.21.label>Alternator</VVE_Burya.components.21.label>
+  <!--EN: Roof-->
+  <VVE_Burya.components.22.label>Roof</VVE_Burya.components.22.label>
+  <!--EN: Middle Left Wheel-->
+  <VVE_Burya.components.3.label>Middle Left Wheel</VVE_Burya.components.3.label>
+  <!--EN: Middle Right Wheel-->
+  <VVE_Burya.components.4.label>Middle Right Wheel</VVE_Burya.components.4.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Burya.components.5.label>Back Left Wheel</VVE_Burya.components.5.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Burya.components.6.label>Back Right Wheel</VVE_Burya.components.6.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Burya.components.7.label>Front Left Suspension</VVE_Burya.components.7.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Burya.components.8.label>Front Right Suspension</VVE_Burya.components.8.label>
+  <!--EN: Middle Left Suspension-->
+  <VVE_Burya.components.9.label>Middle Left Suspension</VVE_Burya.components.9.label>
+  <!--EN: A dedicated multiple launch rocket system platform, the Burya is a long-range siege and area denial weapon that can be operated by a two-man crew for faster loading speeds. Capable of firing continuous volleys of long range missiles, Burya can blanket whole areas in anti-infantry rocket explosions.\n\nSlow-moving and vulnerable to enemy fire, Burya needs to deploy before it can open fire, which may leave it stranded in enemy territory.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Burya.description>A dedicated multiple launch rocket system platform, the Burya is a long-range siege and area denial weapon that can be operated by a two-man crew for faster loading speeds. Capable of firing continuous volleys of long range missiles, Burya can blanket whole areas in anti-infantry rocket explosions.\n\nSlow-moving and vulnerable to enemy fire, Burya needs to deploy before it can open fire, which may leave it stranded in enemy territory.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x2\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Burya.description>
+  <!--EN: Burya-->
+  <VVE_Burya.label>Burya</VVE_Burya.label>
+  <!--EN: Driver-->
+  <VVE_Burya.properties.roles.0.label>Driver</VVE_Burya.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Burya.properties.roles.1.label>Gunner</VVE_Burya.properties.roles.1.label>
+  <!--EN: Front Engine-->
+  <VVE_Cherokee.components.0.label>Front Engine</VVE_Cherokee.components.0.label>
+  <!--EN: Rear Engine-->
+  <VVE_Cherokee.components.1.label>Rear Engine</VVE_Cherokee.components.1.label>
+  <!--EN: Right Fuel Intake-->
+  <VVE_Cherokee.components.10.label>Right Fuel Intake</VVE_Cherokee.components.10.label>
+  <!--EN: Front Transmission-->
+  <VVE_Cherokee.components.11.label>Front Transmission</VVE_Cherokee.components.11.label>
+  <!--EN: Rear Transmission-->
+  <VVE_Cherokee.components.12.label>Rear Transmission</VVE_Cherokee.components.12.label>
+  <!--EN: Left Turbo Shaft-->
+  <VVE_Cherokee.components.13.label>Left Turbo Shaft</VVE_Cherokee.components.13.label>
+  <!--EN: Right Turbo Shaft-->
+  <VVE_Cherokee.components.14.label>Right Turbo Shaft</VVE_Cherokee.components.14.label>
+  <!--EN: Left Frontal Panel-->
+  <VVE_Cherokee.components.15.label>Left Frontal Panel</VVE_Cherokee.components.15.label>
+  <!--EN: Right Frontal Panel-->
+  <VVE_Cherokee.components.16.label>Right Frontal Panel</VVE_Cherokee.components.16.label>
+  <!--EN: Left Rear Panel-->
+  <VVE_Cherokee.components.17.label>Left Rear Panel</VVE_Cherokee.components.17.label>
+  <!--EN: Right Rear Panel-->
+  <VVE_Cherokee.components.18.label>Right Rear Panel</VVE_Cherokee.components.18.label>
+  <!--EN: Chemtank-->
+  <VVE_Cherokee.components.19.label>Chemtank</VVE_Cherokee.components.19.label>
+  <!--EN: Front Left Landing Wheel-->
+  <VVE_Cherokee.components.2.label>Front Left Landing Wheel</VVE_Cherokee.components.2.label>
+  <!--EN: Front Rotor Mast-->
+  <VVE_Cherokee.components.20.label>Front Rotor Mast</VVE_Cherokee.components.20.label>
+  <!--EN: Rear Rotor Mast-->
+  <VVE_Cherokee.components.21.label>Rear Rotor Mast</VVE_Cherokee.components.21.label>
+  <!--EN: Upholstery-->
+  <VVE_Cherokee.components.22.label>Upholstery</VVE_Cherokee.components.22.label>
+  <!--EN: Dashboard-->
+  <VVE_Cherokee.components.23.label>Dashboard</VVE_Cherokee.components.23.label>
+  <!--EN: Gearbox-->
+  <VVE_Cherokee.components.24.label>Gearbox</VVE_Cherokee.components.24.label>
+  <!--EN: Front Servos-->
+  <VVE_Cherokee.components.25.label>Front Servos</VVE_Cherokee.components.25.label>
+  <!--EN: Rear Servos-->
+  <VVE_Cherokee.components.26.label>Rear Servos</VVE_Cherokee.components.26.label>
+  <!--EN: Front Right Landing Wheel-->
+  <VVE_Cherokee.components.3.label>Front Right Landing Wheel</VVE_Cherokee.components.3.label>
+  <!--EN: Rear Left Landing Wheel-->
+  <VVE_Cherokee.components.4.label>Rear Left Landing Wheel</VVE_Cherokee.components.4.label>
+  <!--EN: Rear Right Landing Wheel-->
+  <VVE_Cherokee.components.5.label>Rear Right Landing Wheel</VVE_Cherokee.components.5.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Cherokee.components.6.label>Front Left Suspension</VVE_Cherokee.components.6.label>
+  <!--EN: Front Engine Cover-->
+  <VVE_Cherokee.components.7.label>Front Engine Cover</VVE_Cherokee.components.7.label>
+  <!--EN: Rear Engine Cover-->
+  <VVE_Cherokee.components.8.label>Rear Engine Cover</VVE_Cherokee.components.8.label>
+  <!--EN: Left Fuel Intake-->
+  <VVE_Cherokee.components.9.label>Left Fuel Intake</VVE_Cherokee.components.9.label>
+  <!--EN: Pilot-->
+  <VVE_Cherokee.properties.roles.0.label>Pilot</VVE_Cherokee.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Goliath.components.0.label>Engine</VVE_Goliath.components.0.label>
+  <!--EN: First Thruster-->
+  <VVE_Goliath.components.1.label>First Thruster</VVE_Goliath.components.1.label>
+  <!--EN: Hull-->
+  <VVE_Goliath.components.10.label>Hull</VVE_Goliath.components.10.label>
+  <!--EN: Blast Shield-->
+  <VVE_Goliath.components.11.label>Blast Shield</VVE_Goliath.components.11.label>
+  <!--EN: Second Thruster-->
+  <VVE_Goliath.components.2.label>Second Thruster</VVE_Goliath.components.2.label>
+  <!--EN: Third Thruster-->
+  <VVE_Goliath.components.3.label>Third Thruster</VVE_Goliath.components.3.label>
+  <!--EN: Fourth Thruster-->
+  <VVE_Goliath.components.4.label>Fourth Thruster</VVE_Goliath.components.4.label>
+  <!--EN: First Booster-->
+  <VVE_Goliath.components.5.label>First Booster</VVE_Goliath.components.5.label>
+  <!--EN: Second Booster-->
+  <VVE_Goliath.components.6.label>Second Booster</VVE_Goliath.components.6.label>
+  <!--EN: Third Booster-->
+  <VVE_Goliath.components.7.label>Third Booster</VVE_Goliath.components.7.label>
+  <!--EN: Fourth Booster-->
+  <VVE_Goliath.components.8.label>Fourth Booster</VVE_Goliath.components.8.label>
+  <!--EN: Chemtank-->
+  <VVE_Goliath.components.9.label>Chemtank</VVE_Goliath.components.9.label>
+  <!--EN: More of a movable mini-base than a deployment pod, Goliath is an expensive but powerful solution to any immovable enemy object. Equipped with four military turret stations and a long range rocket swarm turret at the top, this siege pod is capable of raining fire in 360 degree radius. Nearly impenetrable, it can serve as a portable base of operations, keeping all troops inside safe.\n\nIt’s incredibly heavy and lift off requires single-use boosters that separate once the trajectory and velocity is reached. In order to lift off again, the boosters need to be rebuilt.\n\nBeing a flying vehicle, it is extremely obvious when on the move.-->
+  <VVE_Goliath.description>More of a movable mini-base than a deployment pod, Goliath is an expensive but powerful solution to any immovable enemy object. Equipped with four military turret stations and a long range rocket swarm turret at the top, this siege pod is capable of raining fire in 360 degree radius. Nearly impenetrable, it can serve as a portable base of operations, keeping all troops inside safe.\n\nIt’s incredibly heavy and lift off requires single-use boosters that separate once the trajectory and velocity is reached. In order to lift off again, the boosters need to be rebuilt.\n\nBeing a flying vehicle, it is extremely obvious when on the move.</VVE_Goliath.description>
+  <!--EN: Goliath-->
+  <VVE_Goliath.label>Goliath</VVE_Goliath.label>
+  <!--EN: Operator-->
+  <VVE_Goliath.properties.roles.0.label>Operator</VVE_Goliath.properties.roles.0.label>
+  <!--EN: Swarm Gunner-->
+  <VVE_Goliath.properties.roles.1.label>Swarm Gunner</VVE_Goliath.properties.roles.1.label>
+  <!--EN: Gunner 1-->
+  <VVE_Goliath.properties.roles.2.label>Gunner 1</VVE_Goliath.properties.roles.2.label>
+  <!--EN: Gunner 2-->
+  <VVE_Goliath.properties.roles.3.label>Gunner 2</VVE_Goliath.properties.roles.3.label>
+  <!--EN: Gunner 3-->
+  <VVE_Goliath.properties.roles.4.label>Gunner 3</VVE_Goliath.properties.roles.4.label>
+  <!--EN: Gunner 4-->
+  <VVE_Goliath.properties.roles.5.label>Gunner 4</VVE_Goliath.properties.roles.5.label>
+  <!--EN: Passenger-->
+  <VVE_Goliath.properties.roles.6.label>Passenger</VVE_Goliath.properties.roles.6.label>
+  <!--EN: Engine-->
+  <VVE_Hermano.components.0.label>Engine</VVE_Hermano.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Hermano.components.1.label>Front Left Wheel</VVE_Hermano.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Hermano.components.10.label>Left Side Panel</VVE_Hermano.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Hermano.components.11.label>Right Side Panel</VVE_Hermano.components.11.label>
+  <!--EN: Left Chemtank-->
+  <VVE_Hermano.components.12.label>Left Chemtank</VVE_Hermano.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Hermano.components.13.label>Front Bumper</VVE_Hermano.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Hermano.components.14.label>Rear Bumper</VVE_Hermano.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Hermano.components.15.label>Upholstery</VVE_Hermano.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Hermano.components.16.label>Dashboard</VVE_Hermano.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Hermano.components.17.label>Steering Wheel</VVE_Hermano.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Hermano.components.18.label>Alternator</VVE_Hermano.components.18.label>
+  <!--EN: Grill-->
+  <VVE_Hermano.components.19.label>Grill</VVE_Hermano.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Hermano.components.2.label>Front Right Wheel</VVE_Hermano.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Hermano.components.20.label>Roof</VVE_Hermano.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Hermano.components.3.label>Back Left Wheel</VVE_Hermano.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Hermano.components.4.label>Back Right Wheel</VVE_Hermano.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Hermano.components.5.label>Front Left Suspension</VVE_Hermano.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Hermano.components.6.label>Front Right Suspension</VVE_Hermano.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Hermano.components.7.label>Back Left Suspension</VVE_Hermano.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Hermano.components.8.label>Back Right Suspension</VVE_Hermano.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Hermano.components.9.label>Gearbox</VVE_Hermano.components.9.label>
+  <!--EN: Enable or disable cargo refrigeration on this refrigerated truck. Refrigeration will stop items from spoiling, but will continuously use up fuel.-->
+  <VVE_Hermano.comps.1.description>Enable or disable cargo refrigeration on this refrigerated truck. Refrigeration will stop items from spoiling, but will continuously use up fuel.</VVE_Hermano.comps.1.description>
+  <!--EN: Cargo refrigeration-->
+  <VVE_Hermano.comps.1.label>Cargo refrigeration</VVE_Hermano.comps.1.label>
+  <!--EN: A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Hermano.description>A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Hermano.description>
+  <!--EN: Hermano-->
+  <VVE_Hermano.label>Hermano</VVE_Hermano.label>
+  <!--EN: Driver-->
+  <VVE_Hermano.properties.roles.0.label>Driver</VVE_Hermano.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Hermano.properties.roles.1.label>Passenger</VVE_Hermano.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Lightning.components.0.label>Engine</VVE_Lightning.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Lightning.components.1.label>Front Left Wheel</VVE_Lightning.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Lightning.components.10.label>Left Side Panel</VVE_Lightning.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Lightning.components.11.label>Right Side Panel</VVE_Lightning.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Lightning.components.12.label>Chemtank</VVE_Lightning.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Lightning.components.13.label>Front Bumper</VVE_Lightning.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Lightning.components.14.label>Rear Bumper</VVE_Lightning.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Lightning.components.15.label>Upholstery</VVE_Lightning.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Lightning.components.16.label>Dashboard</VVE_Lightning.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Lightning.components.17.label>Steering Wheel</VVE_Lightning.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Lightning.components.18.label>Alternator</VVE_Lightning.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Lightning.components.19.label>Hood</VVE_Lightning.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Lightning.components.2.label>Front Right Wheel</VVE_Lightning.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Lightning.components.20.label>Roof</VVE_Lightning.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Lightning.components.3.label>Back Left Wheel</VVE_Lightning.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Lightning.components.4.label>Back Right Wheel</VVE_Lightning.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Lightning.components.5.label>Front Left Suspension</VVE_Lightning.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Lightning.components.6.label>Front Right Suspension</VVE_Lightning.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Lightning.components.7.label>Back Left Suspension</VVE_Lightning.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Lightning.components.8.label>Back Right Suspension</VVE_Lightning.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Lightning.components.9.label>Gearbox</VVE_Lightning.components.9.label>
+  <!--EN: A fast general purpose transporter, the Lightning is an excellent road vehicle for getting an appreciable amount of cargo in a very small time frame. Incredibly fast on flat roads and will struggle on hills, snow or winter tiles.\n\nAs it is designed for speed, trips should always be planned for staying on roads and having extra fuel, which can occupy most of the extra cargo space. It has terrible fuel efficiency due to the performance, so plan accordingly.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Lightning.description>A fast general purpose transporter, the Lightning is an excellent road vehicle for getting an appreciable amount of cargo in a very small time frame. Incredibly fast on flat roads and will struggle on hills, snow or winter tiles.\n\nAs it is designed for speed, trips should always be planned for staying on roads and having extra fuel, which can occupy most of the extra cargo space. It has terrible fuel efficiency due to the performance, so plan accordingly.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Lightning.description>
+  <!--EN: Lightning-->
+  <VVE_Lightning.label>Lightning</VVE_Lightning.label>
+  <!--EN: Driver-->
+  <VVE_Lightning.properties.roles.0.label>Driver</VVE_Lightning.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Lightning.properties.roles.1.label>Passenger</VVE_Lightning.properties.roles.1.label>
+  <!--EN: Left Landing Skid-->
+  <VVE_Louie.components.0.label>Left Landing Skid</VVE_Louie.components.0.label>
+  <!--EN: Right Landing Skid-->
+  <VVE_Louie.components.1.label>Right Landing Skid</VVE_Louie.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Louie.components.10.label>Chemtank</VVE_Louie.components.10.label>
+  <!--EN: Rotor Mast-->
+  <VVE_Louie.components.11.label>Rotor Mast</VVE_Louie.components.11.label>
+  <!--EN: Upholstery-->
+  <VVE_Louie.components.12.label>Upholstery</VVE_Louie.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Louie.components.13.label>Dashboard</VVE_Louie.components.13.label>
+  <!--EN: Gearbox-->
+  <VVE_Louie.components.14.label>Gearbox</VVE_Louie.components.14.label>
+  <!--EN: Servos-->
+  <VVE_Louie.components.15.label>Servos</VVE_Louie.components.15.label>
+  <!--EN: Left Horizontal Stabilizer-->
+  <VVE_Louie.components.2.label>Left Horizontal Stabilizer</VVE_Louie.components.2.label>
+  <!--EN: Right Horizontal Stabilizer-->
+  <VVE_Louie.components.3.label>Right Horizontal Stabilizer</VVE_Louie.components.3.label>
+  <!--EN: Engine-->
+  <VVE_Louie.components.4.label>Engine</VVE_Louie.components.4.label>
+  <!--EN: Fuel Intake-->
+  <VVE_Louie.components.5.label>Fuel Intake</VVE_Louie.components.5.label>
+  <!--EN: Transmission-->
+  <VVE_Louie.components.6.label>Transmission</VVE_Louie.components.6.label>
+  <!--EN: Rudder-->
+  <VVE_Louie.components.7.label>Rudder</VVE_Louie.components.7.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Louie.components.8.label>Left Side Panel</VVE_Louie.components.8.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Louie.components.9.label>Right Side Panel</VVE_Louie.components.9.label>
+  <!--EN: Pilot-->
+  <VVE_Louie.properties.roles.0.label>Pilot</VVE_Louie.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Louie.properties.roles.1.label>Passenger</VVE_Louie.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Marshal.components.0.label>Engine</VVE_Marshal.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Marshal.components.1.label>Left Track</VVE_Marshal.components.1.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Marshal.components.10.label>Right Armor Plating</VVE_Marshal.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Marshal.components.11.label>Rear Armor Plating</VVE_Marshal.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Marshal.components.12.label>Chemtank</VVE_Marshal.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Marshal.components.13.label>Dashboard</VVE_Marshal.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Marshal.components.14.label>Steering Apparatus</VVE_Marshal.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Marshal.components.15.label>Alternator</VVE_Marshal.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Marshal.components.16.label>Roof</VVE_Marshal.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Marshal.components.2.label>Right Track</VVE_Marshal.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Marshal.components.3.label>Front Left Drive Sprocket</VVE_Marshal.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Marshal.components.4.label>Front Right Drive Sprocket</VVE_Marshal.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Marshal.components.5.label>Back Left Drive Sprocket</VVE_Marshal.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Marshal.components.6.label>Back Right Drive Sprocket</VVE_Marshal.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Marshal.components.7.label>Gearbox</VVE_Marshal.components.7.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Marshal.components.8.label>Front Armor Plating</VVE_Marshal.components.8.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Marshal.components.9.label>Left Armor Plating</VVE_Marshal.components.9.label>
+  <!--EN: pop smoke-->
+  <VVE_Marshal.comps.2.verbs.0.label>pop smoke</VVE_Marshal.comps.2.verbs.0.label>
+  <!--EN: A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Machine gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Marshal.description>A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Machine gunner x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Marshal.description>
+  <!--EN: Marshal-->
+  <VVE_Marshal.label>Marshal</VVE_Marshal.label>
+  <!--EN: Driver-->
+  <VVE_Marshal.properties.roles.0.label>Driver</VVE_Marshal.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Marshal.properties.roles.1.label>Gunner</VVE_Marshal.properties.roles.1.label>
+  <!--EN: Machine Gunner-->
+  <VVE_Marshal.properties.roles.2.label>Machine Gunner</VVE_Marshal.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Nomad.components.0.label>Engine</VVE_Nomad.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Nomad.components.1.label>Front Left Wheel</VVE_Nomad.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Nomad.components.10.label>Left Side Panel</VVE_Nomad.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Nomad.components.11.label>Right Side Panel</VVE_Nomad.components.11.label>
+  <!--EN: Front Panel Panel-->
+  <VVE_Nomad.components.12.label>Front Panel Panel</VVE_Nomad.components.12.label>
+  <!--EN: Chemtank-->
+  <VVE_Nomad.components.13.label>Chemtank</VVE_Nomad.components.13.label>
+  <!--EN: Front Bumper-->
+  <VVE_Nomad.components.14.label>Front Bumper</VVE_Nomad.components.14.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Nomad.components.15.label>Rear Bumper</VVE_Nomad.components.15.label>
+  <!--EN: Upholstery-->
+  <VVE_Nomad.components.16.label>Upholstery</VVE_Nomad.components.16.label>
+  <!--EN: Dashboard-->
+  <VVE_Nomad.components.17.label>Dashboard</VVE_Nomad.components.17.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Nomad.components.18.label>Steering Wheel</VVE_Nomad.components.18.label>
+  <!--EN: Alternator-->
+  <VVE_Nomad.components.19.label>Alternator</VVE_Nomad.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Nomad.components.2.label>Front Right Wheel</VVE_Nomad.components.2.label>
+  <!--EN: Hood-->
+  <VVE_Nomad.components.20.label>Hood</VVE_Nomad.components.20.label>
+  <!--EN: Roof-->
+  <VVE_Nomad.components.21.label>Roof</VVE_Nomad.components.21.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Nomad.components.3.label>Back Left Wheel</VVE_Nomad.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Nomad.components.4.label>Back Right Wheel</VVE_Nomad.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Nomad.components.5.label>Front Left Suspension</VVE_Nomad.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Nomad.components.6.label>Front Right Suspension</VVE_Nomad.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Nomad.components.7.label>Back Left Suspension</VVE_Nomad.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Nomad.components.8.label>Back Right Suspension</VVE_Nomad.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Nomad.components.9.label>Gearbox</VVE_Nomad.components.9.label>
+  <!--EN: An armoured all-rounder vehicle, the Nomad performs remarkably well in all categories with an excellent cargo and passenger capacity. Performs well in any and all terrain, with some minor issues in the cold.\n\nA relatively general purpose tier 3, effectively being a lightly armoured APC. While it excels in off road capabilities and works well in all situations, other vehicles perform even better on roads or in specialized tasks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Nomad.description>An armoured all-rounder vehicle, the Nomad performs remarkably well in all categories with an excellent cargo and passenger capacity. Performs well in any and all terrain, with some minor issues in the cold.\n\nA relatively general purpose tier 3, effectively being a lightly armoured APC. While it excels in off road capabilities and works well in all situations, other vehicles perform even better on roads or in specialized tasks.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Nomad.description>
+  <!--EN: Nomad-->
+  <VVE_Nomad.label>Nomad</VVE_Nomad.label>
+  <!--EN: Driver-->
+  <VVE_Nomad.properties.roles.0.label>Driver</VVE_Nomad.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Nomad.properties.roles.1.label>Passenger</VVE_Nomad.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Paladin.components.0.label>Engine</VVE_Paladin.components.0.label>
+  <!--EN: First Left Wheel-->
+  <VVE_Paladin.components.1.label>First Left Wheel</VVE_Paladin.components.1.label>
+  <!--EN: Second Left Suspension-->
+  <VVE_Paladin.components.10.label>Second Left Suspension</VVE_Paladin.components.10.label>
+  <!--EN: Third Left Suspension-->
+  <VVE_Paladin.components.11.label>Third Left Suspension</VVE_Paladin.components.11.label>
+  <!--EN: Fourth Left Suspension-->
+  <VVE_Paladin.components.12.label>Fourth Left Suspension</VVE_Paladin.components.12.label>
+  <!--EN: First Right Suspension-->
+  <VVE_Paladin.components.13.label>First Right Suspension</VVE_Paladin.components.13.label>
+  <!--EN: Second Right Suspension-->
+  <VVE_Paladin.components.14.label>Second Right Suspension</VVE_Paladin.components.14.label>
+  <!--EN: Third Right Suspension-->
+  <VVE_Paladin.components.15.label>Third Right Suspension</VVE_Paladin.components.15.label>
+  <!--EN: Fourth Right Suspension-->
+  <VVE_Paladin.components.16.label>Fourth Right Suspension</VVE_Paladin.components.16.label>
+  <!--EN: Gearbox-->
+  <VVE_Paladin.components.17.label>Gearbox</VVE_Paladin.components.17.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Paladin.components.18.label>Front Armor Plating</VVE_Paladin.components.18.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Paladin.components.19.label>Left Armor Plating</VVE_Paladin.components.19.label>
+  <!--EN: Second Left Wheel-->
+  <VVE_Paladin.components.2.label>Second Left Wheel</VVE_Paladin.components.2.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Paladin.components.20.label>Right Armor Plating</VVE_Paladin.components.20.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Paladin.components.21.label>Rear Armor Plating</VVE_Paladin.components.21.label>
+  <!--EN: Chemtank-->
+  <VVE_Paladin.components.22.label>Chemtank</VVE_Paladin.components.22.label>
+  <!--EN: Dashboard-->
+  <VVE_Paladin.components.23.label>Dashboard</VVE_Paladin.components.23.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Paladin.components.24.label>Steering Apparatus</VVE_Paladin.components.24.label>
+  <!--EN: Alternator-->
+  <VVE_Paladin.components.25.label>Alternator</VVE_Paladin.components.25.label>
+  <!--EN: Roof-->
+  <VVE_Paladin.components.26.label>Roof</VVE_Paladin.components.26.label>
+  <!--EN: Third Left Wheel-->
+  <VVE_Paladin.components.3.label>Third Left Wheel</VVE_Paladin.components.3.label>
+  <!--EN: Fourth Left Wheel-->
+  <VVE_Paladin.components.4.label>Fourth Left Wheel</VVE_Paladin.components.4.label>
+  <!--EN: First Right Wheel-->
+  <VVE_Paladin.components.5.label>First Right Wheel</VVE_Paladin.components.5.label>
+  <!--EN: Second Right Wheel-->
+  <VVE_Paladin.components.6.label>Second Right Wheel</VVE_Paladin.components.6.label>
+  <!--EN: Third Right Wheel-->
+  <VVE_Paladin.components.7.label>Third Right Wheel</VVE_Paladin.components.7.label>
+  <!--EN: Fourth Right Wheel-->
+  <VVE_Paladin.components.8.label>Fourth Right Wheel</VVE_Paladin.components.8.label>
+  <!--EN: First Left Suspension-->
+  <VVE_Paladin.components.9.label>First Left Suspension</VVE_Paladin.components.9.label>
+  <!--EN: A general purpose armoured personnel carrier, the Paladin is a fast and hardy troop transport. Decent cargo holds, reinforced armour plating, all-terrain capability and a smoke grenade turret for screening troop deployment. The major downsides are no tracks for better terrain navigation and thinner plating on the rear.\n\nCompared to previous generations, this APC is designed to quickly drop infantry off at a desired location and quickly retreat. It can act as temporary cover but ideally it should be able to deploy its cargo and bring it home safely.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x6\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Paladin.description>A general purpose armoured personnel carrier, the Paladin is a fast and hardy troop transport. Decent cargo holds, reinforced armour plating, all-terrain capability and a smoke grenade turret for screening troop deployment. The major downsides are no tracks for better terrain navigation and thinner plating on the rear.\n\nCompared to previous generations, this APC is designed to quickly drop infantry off at a desired location and quickly retreat. It can act as temporary cover but ideally it should be able to deploy its cargo and bring it home safely.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x6\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Paladin.description>
+  <!--EN: Paladin-->
+  <VVE_Paladin.label>Paladin</VVE_Paladin.label>
+  <!--EN: Driver-->
+  <VVE_Paladin.properties.roles.0.label>Driver</VVE_Paladin.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Paladin.properties.roles.1.label>Gunner</VVE_Paladin.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Paladin.properties.roles.2.label>Passenger</VVE_Paladin.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Springbok.components.0.label>Engine</VVE_Springbok.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Springbok.components.1.label>Front Left Wheel</VVE_Springbok.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Springbok.components.10.label>Left Side Panel</VVE_Springbok.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Springbok.components.11.label>Right Side Panel</VVE_Springbok.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Springbok.components.12.label>Chemtank</VVE_Springbok.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Springbok.components.13.label>Front Bumper</VVE_Springbok.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Springbok.components.14.label>Rear Bumper</VVE_Springbok.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Springbok.components.15.label>Upholstery</VVE_Springbok.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Springbok.components.16.label>Dashboard</VVE_Springbok.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Springbok.components.17.label>Steering Wheel</VVE_Springbok.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Springbok.components.18.label>Alternator</VVE_Springbok.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Springbok.components.19.label>Hood</VVE_Springbok.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Springbok.components.2.label>Front Right Wheel</VVE_Springbok.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Springbok.components.20.label>Roof</VVE_Springbok.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Springbok.components.3.label>Back Left Wheel</VVE_Springbok.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Springbok.components.4.label>Back Right Wheel</VVE_Springbok.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Springbok.components.5.label>Front Left Suspension</VVE_Springbok.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Springbok.components.6.label>Front Right Suspension</VVE_Springbok.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Springbok.components.7.label>Back Left Suspension</VVE_Springbok.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Springbok.components.8.label>Back Right Suspension</VVE_Springbok.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Springbok.components.9.label>Gearbox</VVE_Springbok.components.9.label>
+  <!--EN: A general all-rounder vehicle, the Springbok performs well in all categories with a good cargo and passenger capacity. The old, robust build and loud engine negatively affect its fuel efficiency and visibility. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nA slightly worse performer compared to tier 2 vehicles, it is instead a stylish vehicle to drive and will provide a mood boost to all passengers.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Springbok.description>A general all-rounder vehicle, the Springbok performs well in all categories with a good cargo and passenger capacity. The old, robust build and loud engine negatively affect its fuel efficiency and visibility. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nA slightly worse performer compared to tier 2 vehicles, it is instead a stylish vehicle to drive and will provide a mood boost to all passengers.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Springbok.description>
+  <!--EN: Springbok-->
+  <VVE_Springbok.label>Springbok</VVE_Springbok.label>
+  <!--EN: Driver-->
+  <VVE_Springbok.properties.roles.0.label>Driver</VVE_Springbok.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Springbok.properties.roles.1.label>Passenger</VVE_Springbok.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Udar.components.0.label>Engine</VVE_Udar.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Udar.components.1.label>Left Track</VVE_Udar.components.1.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Udar.components.10.label>Right Armor Plating</VVE_Udar.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Udar.components.11.label>Rear Armor Plating</VVE_Udar.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Udar.components.12.label>Chemtank</VVE_Udar.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Udar.components.13.label>Dashboard</VVE_Udar.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Udar.components.14.label>Steering Apparatus</VVE_Udar.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Udar.components.15.label>Alternator</VVE_Udar.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Udar.components.16.label>Roof</VVE_Udar.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Udar.components.2.label>Right Track</VVE_Udar.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Udar.components.3.label>Front Left Drive Sprocket</VVE_Udar.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Udar.components.4.label>Front Right Drive Sprocket</VVE_Udar.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Udar.components.5.label>Back Left Drive Sprocket</VVE_Udar.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Udar.components.6.label>Back Right Drive Sprocket</VVE_Udar.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Udar.components.7.label>Gearbox</VVE_Udar.components.7.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Udar.components.8.label>Front Armor Plating</VVE_Udar.components.8.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Udar.components.9.label>Left Armor Plating</VVE_Udar.components.9.label>
+  <!--EN: A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Udar.description>A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x2\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_Udar.description>
+  <!--EN: Udar-->
+  <VVE_Udar.label>Udar</VVE_Udar.label>
+  <!--EN: Driver-->
+  <VVE_Udar.properties.roles.0.label>Driver</VVE_Udar.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Udar.properties.roles.1.label>Gunner</VVE_Udar.properties.roles.1.label>
+</LanguageData>

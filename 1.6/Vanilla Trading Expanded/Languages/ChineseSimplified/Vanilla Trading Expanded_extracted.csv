@@ -1,0 +1,239 @@
+key,text,tag,file,type
+VTE.SortBy,Sort by,VTE.SortBy,Keyed.xml,keyed
+VTE.Search,Search,VTE.Search,Keyed.xml,keyed
+VTE.Name,Name,VTE.Name,Keyed.xml,keyed
+VTE.Item,Item,VTE.Item,Keyed.xml,keyed
+VTE.MarketValue,Market Value,VTE.MarketValue,Keyed.xml,keyed
+VTE.CurrentValue,Current Value,VTE.CurrentValue,Keyed.xml,keyed
+VTE.Change,Change,VTE.Change,Keyed.xml,keyed
+VTE.RecentChange,Recent Change,VTE.RecentChange,Keyed.xml,keyed
+VTE.ViewMarketPrices,View prices,VTE.ViewMarketPrices,Keyed.xml,keyed
+VTE.ViewNews,View news,VTE.ViewNews,Keyed.xml,keyed
+VTE.Contact,Contact {0},VTE.Contact,Keyed.xml,keyed
+VTE.EmpireBankName,Imperial Bank,VTE.EmpireBankName,Keyed.xml,keyed
+VTE.BaseBankName,Bank of {FACTION_name},VTE.BaseBankName,Keyed.xml,keyed
+VTE.OutlanderCivilBankName,Bank of {FACTION_name},VTE.OutlanderCivilBankName,Keyed.xml,keyed
+VTE.LocalFunds,Local funds: {0},VTE.LocalFunds,Keyed.xml,keyed
+VTE.BankBalance,Bank balance: {0},VTE.BankBalance,Keyed.xml,keyed
+VTE.BankFees,Bank fees: {0}%,VTE.BankFees,Keyed.xml,keyed
+VTE.BankFeesBasedOn,Based on {0} goodwill with {FACTION_name},VTE.BankFeesBasedOn,Keyed.xml,keyed
+VTE.DepositOrWithdraw,Deposit or Withdraw,VTE.DepositOrWithdraw,Keyed.xml,keyed
+VTE.DepositOrWithdrawDesc,Positive numbers deposit. Negative numbers withdraw.,VTE.DepositOrWithdrawDesc,Keyed.xml,keyed
+VTE.AreYouSureYouWantToDeposit,Are you sure that you want to deposit {0} silver?,VTE.AreYouSureYouWantToDeposit,Keyed.xml,keyed
+VTE.AreYouSureYouWantToWithdraw,Are you sure that you want to withdraw {0} silver?,VTE.AreYouSureYouWantToWithdraw,Keyed.xml,keyed
+VTE.Breakdown,Breakdown,VTE.Breakdown,Keyed.xml,keyed
+VTE.BreakdownBankDesc,Performing transactions will incur a charge based on current Bank fee,VTE.BreakdownBankDesc,Keyed.xml,keyed
+VTE.BreakdownStockMarketDesc,Buying shares of Trading ships can be risky. Follow the news closely to know how the company you're invested in is doing.,VTE.BreakdownStockMarketDesc,Keyed.xml,keyed
+VTE.AmountToDepositWithdraw,Amount to deposit / withdraw,VTE.AmountToDepositWithdraw,Keyed.xml,keyed
+VTE.AmountToDeposit,Amount to deposit,VTE.AmountToDeposit,Keyed.xml,keyed
+VTE.AmountToWithdraw,Amount to withdraw,VTE.AmountToWithdraw,Keyed.xml,keyed
+VTE.FeesToPay,Fees to pay,VTE.FeesToPay,Keyed.xml,keyed
+VTE.Total,Total,VTE.Total,Keyed.xml,keyed
+VTE.Loans,Loans,VTE.Loans,Keyed.xml,keyed
+VTE.QuickCashLoan,Quick Cash loan,VTE.QuickCashLoan,Keyed.xml,keyed
+VTE.ShortTermLoan,Short Term loan,VTE.ShortTermLoan,Keyed.xml,keyed
+VTE.LongTermLoan,Long Term loan,VTE.LongTermLoan,Keyed.xml,keyed
+VTE.MortgageLoan,Mortgage loan,VTE.MortgageLoan,Keyed.xml,keyed
+VTE.LoanOptionsUnlockText,Unlocks after putting your money on the deposit,VTE.LoanOptionsUnlockText,Keyed.xml,keyed
+VTE.Repay,Repay,VTE.Repay,Keyed.xml,keyed
+VTE.RepayDate,By {0} ({1}),VTE.RepayDate,Keyed.xml,keyed
+VTE.RepayDateDaysLeft,By {0} ({1} left),VTE.RepayDateDaysLeft,Keyed.xml,keyed
+VTE.RepayDateOverdue,By {0} (overdue),VTE.RepayDateOverdue,Keyed.xml,keyed
+VTE.TakeLoan,Take loan,VTE.TakeLoan,Keyed.xml,keyed
+VTE.RepayFromBalance,Repay from balance,VTE.RepayFromBalance,Keyed.xml,keyed
+VTE.LoanExplanation,"Loans can only be paid back using bank balance. Make sure to have enough money in your bank when the loan time runs out, or repay it in full beforehand. Failing to have enough silver in your bank account and stocks can result in losing goodwill of the bank faction, as well as incur other consequences until the debt is settled.",VTE.LoanExplanation,Keyed.xml,keyed
+VTE.IndebtedMessage,Relations with {FACTION_name} became hostile due to being indebted to their bank.,VTE.IndebtedMessage,Keyed.xml,keyed
+VTE.CollectorsLabel,Collectors,VTE.CollectorsLabel,Keyed.xml,keyed
+VTE.CollectorsText,"A group of mercenaries have arrived nearby.
+
+They have been hired by {FACTION_name} to encourage you to pay off your debt.",VTE.CollectorsText,Keyed.xml,keyed
+VTE.CollectorsTextPartTwo,Pay off your debt using a trading terminal to stop them from coming back.,VTE.CollectorsTextPartTwo,Keyed.xml,keyed
+VTE.LocalNews,Local News,VTE.LocalNews,Keyed.xml,keyed
+VTE.FilterBy,Filter by,VTE.FilterBy,Keyed.xml,keyed
+VTE.All,All,VTE.All,Keyed.xml,keyed
+VTE.OnlySpecificCategory,Only specific category,VTE.OnlySpecificCategory,Keyed.xml,keyed
+VTE.OnlyTradeShips,Only trader ship,VTE.OnlyTradeShips,Keyed.xml,keyed
+VTE.OnlyBullish,Only bullish,VTE.OnlyBullish,Keyed.xml,keyed
+VTE.OnlyBearish,Only bearish,VTE.OnlyBearish,Keyed.xml,keyed
+VTE.News,News,VTE.News,Keyed.xml,keyed
+VTE.Date,Date,VTE.Date,Keyed.xml,keyed
+VTE.PriceHistory,Price history of {0},VTE.PriceHistory,Keyed.xml,keyed
+VTE.SqueezeMessage,Price of {0} is squeezing.,VTE.SqueezeMessage,Keyed.xml,keyed
+VTE.CrashMessage,Price of {0} is crashing.,VTE.CrashMessage,Keyed.xml,keyed
+VTE.OpenStockMarket,Open stock market,VTE.OpenStockMarket,Keyed.xml,keyed
+VTE.Company,Company,VTE.Company,Keyed.xml,keyed
+VTE.Value,Value,VTE.Value,Keyed.xml,keyed
+VTE.SharesHeld,Shares held,VTE.SharesHeld,Keyed.xml,keyed
+VTE.Shares,Shares,VTE.Shares,Keyed.xml,keyed
+VTE.Profit,Profit,VTE.Profit,Keyed.xml,keyed
+VTE.ProfitLoss,Profit/Loss,VTE.ProfitLoss,Keyed.xml,keyed
+VTE.ChartHistory,Chart history of {0},VTE.ChartHistory,Keyed.xml,keyed
+VTE.SharesTransactionHeader,"Positive numbers buy.
+Negative numbers sell.",VTE.SharesTransactionHeader,Keyed.xml,keyed
+VTE.FollowNews,Follow news,VTE.FollowNews,Keyed.xml,keyed
+VTE.MoneyInBanks,Money in banks: {0},VTE.MoneyInBanks,Keyed.xml,keyed
+VTE.TransactionCost,Transaction cost,VTE.TransactionCost,Keyed.xml,keyed
+VTE.TransactionGain,Transaction gain,VTE.TransactionGain,Keyed.xml,keyed
+VTE.MoneyInBanksAfter,Money in banks after,VTE.MoneyInBanksAfter,Keyed.xml,keyed
+VTE.BankDepositsToSpend,Select bank deposits to pay for shares,VTE.BankDepositsToSpend,Keyed.xml,keyed
+VTE.BankDepositsToGain,Select bank deposits to put money from shares,VTE.BankDepositsToGain,Keyed.xml,keyed
+VTE.TransactionCostToPay,Transaction cost to pay: {0},VTE.TransactionCostToPay,Keyed.xml,keyed
+VTE.MoneyToSpend,Money to spend: {0},VTE.MoneyToSpend,Keyed.xml,keyed
+VTE.TransactionGainToTransfer,Transaction gain to transfer: {0},VTE.TransactionGainToTransfer,Keyed.xml,keyed
+VTE.MoneyToTransfer,Money to transfer: {0},VTE.MoneyToTransfer,Keyed.xml,keyed
+VTE.OpenContracts,Open contracts,VTE.OpenContracts,Keyed.xml,keyed
+VTE.Contracts,Contracts,VTE.Contracts,Keyed.xml,keyed
+VTE.ContractsExplanation,"Completing contracts will have the funds transferred to your bank account(s) and the items removed from your inventory. You need to be quick, as higher mark-up indicates that the contract is popular, and it might be snatched before the items are ready.",VTE.ContractsExplanation,Keyed.xml,keyed
+VTE.Contract,Contract,VTE.Contract,Keyed.xml,keyed
+VTE.Reward,Reward,VTE.Reward,Keyed.xml,keyed
+VTE.Markup,Mark-up,VTE.Markup,Keyed.xml,keyed
+VTE.TimeUntilTheEnd,Time until the end,VTE.TimeUntilTheEnd,Keyed.xml,keyed
+VTE.YourContracts,Your Contracts,VTE.YourContracts,Keyed.xml,keyed
+VTE.CompleteContract,Complete contract,VTE.CompleteContract,Keyed.xml,keyed
+VTE.InsufficientAsset,Insufficient asset,VTE.InsufficientAsset,Keyed.xml,keyed
+VTE.CancelContract,Cancel contract,VTE.CancelContract,Keyed.xml,keyed
+VTE.SubmitContract,Submit contract,VTE.SubmitContract,Keyed.xml,keyed
+VTE.SelectItem,Select item,VTE.SelectItem,Keyed.xml,keyed
+VTE.YourContractsExplanation,"You can submit your own contracts. Specify the amount of the item, the mark-up and the duration. Longer contracts with higher mark-up have a higher chance of being completed. Not having enough money in the bank accounts to cover the contract reward will automatically cancel the contract.",VTE.YourContractsExplanation,Keyed.xml,keyed
+VTE.ContractCompletedMessage,The caravan will arrive to pick up the contracted items in 3 days. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area.,VTE.ContractCompletedMessage,Keyed.xml,keyed
+VTE.CaravanContractWillReturnMessage,"Due to the fact that your location has become dangerous, the caravan that arrived for the contracted items left the map. They will return for the items when it is safe.
+	
+Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area.",VTE.CaravanContractWillReturnMessage,Keyed.xml,keyed
+VTE.LetterTraderCaravanArrival,A caravan from {0} is approaching. They are collecting contracted items.,VTE.LetterTraderCaravanArrival,Keyed.xml,keyed
+VTE.CaravanDidNotCollectAllItems,The caravan didn’t find the promised goods and leaves the area. You will not receive any payment.,VTE.CaravanDidNotCollectAllItems,Keyed.xml,keyed
+VTE.BankDepositsToPutContractReward,Select bank deposits to put reward for completed contract,VTE.BankDepositsToPutContractReward,Keyed.xml,keyed
+VTE.BankDepositsToPutContractRewardPartially,The caravan could not obtain all of the items. They will pay {0} of the contract reward - total of {1} silver. Select bank deposits to put reward.,VTE.BankDepositsToPutContractRewardPartially,Keyed.xml,keyed
+VTE.Select,Select,VTE.Select,Keyed.xml,keyed
+VTE.SelectStuff,Select stuff,VTE.SelectStuff,Keyed.xml,keyed
+VTE.PayMoneyForContract,Contract on {0} is fulfilled. Pay money from bank deposits to retrieve the goods.,VTE.PayMoneyForContract,Keyed.xml,keyed
+VTE.ContractFullfilled,Contract fulfilled,VTE.ContractFullfilled,Keyed.xml,keyed
+VTE.ContractFullfilledDesc,"A contract has been fulfilled by an interested party. The funds required have been transferred to them.
+Cargo pods are arriving containing:",VTE.ContractFullfilledDesc,Keyed.xml,keyed
+VTE.NewsSpawnOption,How often news will appear:,VTE.NewsSpawnOption,Keyed.xml,keyed
+VTE.PlayerTransactionImpactMultiplierOption,Player transaction impact multiplier on price fluctuation:,VTE.PlayerTransactionImpactMultiplierOption,Keyed.xml,keyed
+VTE.PlayerContractFulfilmentChanceMultiplier,Player contract fulfilment chance multiplier:,VTE.PlayerContractFulfilmentChanceMultiplier,Keyed.xml,keyed
+VTE.NPCContractFulfilmentChanceMultiplier,NPC contract fulfilment chance multiplier:,VTE.NPCContractFulfilmentChanceMultiplier,Keyed.xml,keyed
+VTE.MaxNPCContractCount,Maximum available NPC contract count:,VTE.MaxNPCContractCount,Keyed.xml,keyed
+VTE.MaxCompanyCount,Maximum trade company count:,VTE.MaxCompanyCount,Keyed.xml,keyed
+VTE.MaximumMarkupOnNPCContract,Maximum mark-up on NPC contract:,VTE.MaximumMarkupOnNPCContract,Keyed.xml,keyed
+VTE.NewsPriceImpactMultiplier,Multiplier of how much news affect the market:,VTE.NewsPriceImpactMultiplier,Keyed.xml,keyed
+VTE.AmountOfRandomItemsToFluctuate,Amount of random item price fluctuations:,VTE.AmountOfRandomItemsToFluctuate,Keyed.xml,keyed
+VTE.ResetPriceChanges,Reset price fluctuations,VTE.ResetPriceChanges,Keyed.xml,keyed
+VTE.YouCanTakeThisLoanOn,You can only take this loan again on {0}.,VTE.YouCanTakeThisLoanOn,Keyed.xml,keyed
+VTE.ContractBlackListCollectibles,"Blacklist collectibles (Eggs, Meat, Leather and Wool) for contracts",VTE.ContractBlackListCollectibles,Keyed.xml,keyed
+VTE.CaravanLessContractItemPickup,Caravan-less contract item pickup,VTE.CaravanLessContractItemPickup,Keyed.xml,keyed
+VTE.MaximumMarketValueOfItemsInContracts,Maximum value of NPC contracts in silver:,VTE.MaximumMarketValueOfItemsInContracts,Keyed.xml,keyed
+VTE.MaximumMarketValueOfItemsPerPlayerWealth,Maximum value of NPC contracts in percentage of wealth:,VTE.MaximumMarketValueOfItemsPerPlayerWealth,Keyed.xml,keyed
+VTE.MaximumPriceFluctuations,Price fluctuation limitations,VTE.MaximumPriceFluctuations,Keyed.xml,keyed
+VTE.MinimumOfMarketValue,Negative change: {0},VTE.MinimumOfMarketValue,Keyed.xml,keyed
+VTE.MaximumOfMarketValue,Positive change: {0},VTE.MaximumOfMarketValue,Keyed.xml,keyed
+VTE_Collectors.label,collectors,label,IncidentDef/IncidentDef.xml,def
+VTE_CaravanArriveForItems.label,caravan arrived for items,label,IncidentDef/IncidentDef.xml,def
+VTE_ViewPrices.reportString,using trading terminal to view prices.,reportString,JobDef/JobDef.xml,def
+VTE_ContactBank.reportString,using trading terminal to contact bank.,reportString,JobDef/JobDef.xml,def
+VTE_ViewNews.reportString,using trading terminal to view news.,reportString,JobDef/JobDef.xml,def
+VTE_OpenStockMarket.reportString,using trading terminal to open stock market.,reportString,JobDef/JobDef.xml,def
+VTE_OpenContracts.reportString,using trading terminal to open contracts.,reportString,JobDef/JobDef.xml,def
+VTE_Indebted.label,indebted to their bank,label,HistoryEventDef/HistoryEventDef.xml,def
+VTE_FactionSiegePlan.rulePack.rulesStrings.0,root->[FACTION_name] plans for a number of siege operations and began stockpiling ammo and weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_FactionSiegePlan.rulePack.rulesStrings.1,root->[FACTION_name] is preparing for war and will stockpile ammo and weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_FactionSiegePlan.rulePack.rulesStrings.2,root->[FACTION_name] buys excess amounts of weapons and mortar shells.,li,RulePackDef/RulePackDef.xml,def
+VTE_FactionInfestationLoot.rulePack.rulesStrings.0,root->[FACTION_name] has finally dealt with their infestations and decided to sell their excess jelly.,li,RulePackDef/RulePackDef.xml,def
+VTE_FactionInfestationLoot.rulePack.rulesStrings.1,root->[FACTION_name] looted the insectoid caves and will sell the jelly on the market.,li,RulePackDef/RulePackDef.xml,def
+VTE_FactionInfestationLoot.rulePack.rulesStrings.2,root->[FACTION_name] got a hold of a large supply of insect jelly and plans to sell it.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotPlague.rulePack.rulesStrings.0,root->[SETTLEMENT_label] is struggling with a plague. Medicine purchasing frenzy began.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotPlague.rulePack.rulesStrings.1,root->[SETTLEMENT_label] is recovering after a raid. Medicine will be purchased in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotPlague.rulePack.rulesStrings.2,"root->[SETTLEMENT_label] is in dire need of medicine, which means the price will go up.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreak.rulePack.rulesStrings.0,root->[SETTLEMENT_label] had a prison break. They promise to step up the security.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreak.rulePack.rulesStrings.1,root->[SETTLEMENT_label] is stockpiling weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreak.rulePack.rulesStrings.2,root->[SETTLEMENT_label] plans to equip everyone with new weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotRaided.rulePack.rulesStrings.0,root->[SETTLEMENT_label] was recently raided. Rebuilding is underway.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotRaided.rulePack.rulesStrings.1,root->[SETTLEMENT_label] suffered a natural disaster and will purchase building materials.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementGotRaided.rulePack.rulesStrings.2,"root->[SETTLEMENT_label] plans to expand, but will require building materials to do so.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.0,root->[SETTLEMENT_label] dealt with their plague and now sells excess medicine.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.1,root->[SETTLEMENT_label] sells off excess medicine.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPlagueDealtWith.rulePack.rulesStrings.2,root->[SETTLEMENT_label] no longer has any need for their medicine stockpiles.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.0,root->[SETTLEMENT_label] had a prison break which failed dramatically. They decided to sell excess weaponry and armor.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.1,root->[SETTLEMENT_label] decided not to go to war. They will sell their weapons and armors.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings.2,root->[SETTLEMENT_label] will sell their old weapons and armors.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] was recently raided. Looters sell off whatever they stole.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.1,root->[SETTLEMENT_label] scavenged a lot of useful junk and will soon flood the market with it.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings.2,root->[SETTLEMENT_label] plans to empty the stockpiles.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementCombatEmergency.rulePack.rulesStrings.0,root->[SETTLEMENT_label] buys off large amounts of weapons due to an emergency.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementCombatEmergency.rulePack.rulesStrings.1,root->[SETTLEMENT_label] prepares to go to war and will purchase weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementCombatEmergency.rulePack.rulesStrings.2,root->[SETTLEMENT_label] requires a large amount of weapons quite urgently. Prices are expected to go up.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementManhunterMeat.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells off large quantities of meat they obtained from a manhunter pack.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementManhunterMeat.rulePack.rulesStrings.1,root->[SETTLEMENT_label] had a very bountiful hunting trip and will sell excess meat.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementManhunterMeat.rulePack.rulesStrings.2,root->[SETTLEMENT_label] no longer requires their meat and will soon flood the market with it.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementZzzt.rulePack.rulesStrings.0,"root->[SETTLEMENT_label] suffered a Zzzt, and now plans to purchase a large amount of building materials to rebuild.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementZzzt.rulePack.rulesStrings.1,root->[SETTLEMENT_label] suffered a gas explosion and will need building materials to rebuild.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementZzzt.rulePack.rulesStrings.2,root->[SETTLEMENT_label] plans an expansion and will acquire building resources. Prices are bound to go up.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeavers.rulePack.rulesStrings.0,"root->[SETTLEMENT_label] is struggling with a pack of alphabeavers, and purchases a large quantity of wood.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeavers.rulePack.rulesStrings.1,root->[SETTLEMENT_label] ran out of wood and will buy it in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeavers.rulePack.rulesStrings.2,root->[SETTLEMENT_label] requires copious amounts of wood for their project.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.0,"root->[SETTLEMENT_label] has gotten rid of the beaver pack that troubled them, and now sell excess wood.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.1,root->[SETTLEMENT_label] sells their excess wood.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings.2,root->[SETTLEMENT_label] cut down a large chunk of the forest with the intent to sell wood.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBlight.rulePack.rulesStrings.0,root->[SETTLEMENT_label] has suffered a terrible blight and buys off large quantities of food.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBlight.rulePack.rulesStrings.1,root->[SETTLEMENT_label] has had their food stockpile burn down.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBlight.rulePack.rulesStrings.2,root->[SETTLEMENT_label] plans to purchase large quantity of food.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBigHarvest.rulePack.rulesStrings.0,root->[SETTLEMENT_label] has had an amazing harvest and sells off their food supplies.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBigHarvest.rulePack.rulesStrings.1,root->[SETTLEMENT_label] plans to sell large quantities of food.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBigHarvest.rulePack.rulesStrings.2,root->[SETTLEMENT_label] has had a fortunate harvest and will sell the excess food.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.0,root->[SETTLEMENT_label] has dealt with Defoliator ships and now sell excess plasteel.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.1,root->[SETTLEMENT_label] has mined a large amount of plasteel and plans to sell it.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings.2,root->[SETTLEMENT_label] sells unused plasteel.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.0,root->[SETTLEMENT_label] has decided to upgrade their defenses with a new set of powered armors. They buy Plasteel in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.1,root->[SETTLEMENT_label] requires plasteel and plans to buy a lot of it in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings.2,"root->[SETTLEMENT_label] improves their defenses and plans to obtain plasteel, steel and components.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementColdSnap.rulePack.rulesStrings.0,"root->[SETTLEMENT_label] has been struck with coldsnap, ruining their food supply.",li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementColdSnap.rulePack.rulesStrings.1,root->[SETTLEMENT_label] has lost their food supply.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementColdSnap.rulePack.rulesStrings.2,root->[SETTLEMENT_label] buys food in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementHeatWave.rulePack.rulesStrings.0,root->[SETTLEMENT_label] has suffered a terrible heat wave and decided to sell off their food before it rots.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementHeatWave.rulePack.rulesStrings.1,root->[SETTLEMENT_label] has had a freezer malfunction and sells food before it rots.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementHeatWave.rulePack.rulesStrings.2,root->[SETTLEMENT_label] sells their food stockpile.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTextilePurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of textiles.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTextilePurchase.rulePack.rulesStrings.1,root->[SETTLEMENT_label] plans to supply their tailors with copious amounts of textiles.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTextilePurchase.rulePack.rulesStrings.2,root->[SETTLEMENT_label] buys textiles in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementLeatherPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of leathers.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementLeatherPurchase.rulePack.rulesStrings.1,root->[SETTLEMENT_label] buys leathers in bulk.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementLeatherPurchase.rulePack.rulesStrings.2,root->[SETTLEMENT_label] acquires copious amounts of various leathers.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWoolsPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of wools.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWoolsPurchase.rulePack.rulesStrings.1,root->[SETTLEMENT_label] buys large amounts of various wools.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementDrugsPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of drugs.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of stone blocks.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTechprintsPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of techprints.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of body parts.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of melee weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of ranged weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementApparelPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of apparel.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementArmorPurchase.rulePack.rulesStrings.0,root->[SETTLEMENT_label] acquires a large amount of armor.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTextileSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of textiles.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementLeatherSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of leathers.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWoolsSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of wools.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementDrugsSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of drugs.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of stone blocks.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementTechprintsSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of techprints.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of body parts.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of melee weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of ranged weapons.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementApparelSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of apparel.,li,RulePackDef/RulePackDef.xml,def
+VTE_SettlementArmorSellOff.rulePack.rulesStrings.0,root->[SETTLEMENT_label] sells a large amount of armor.,li,RulePackDef/RulePackDef.xml,def
+VTE_CompanyGrowth.rulePack.rulesStrings.0,root->[COMPANY] has reported steady growth. Share price is bound to increase in the long term.,li,RulePackDef/RulePackDef.xml,def
+VTE_NewShipPurchased.rulePack.rulesStrings.0,root->[COMPANY] has purchased a brand new low orbit trading ship. Share price should go up in the long term.,li,RulePackDef/RulePackDef.xml,def
+VTE_CompanyDecline.rulePack.rulesStrings.0,root->[COMPANY] has reported budget cuts. Share price is bound to decrease in the long term.,li,RulePackDef/RulePackDef.xml,def
+VTE_ShipCrashed.rulePack.rulesStrings.0,root->[COMPANY] has reported that one of their ships has crashed. Share price should go down.,li,RulePackDef/RulePackDef.xml,def
+VTE_FearOfBankruptcy.rulePack.rulesStrings.0,root->[COMPANY] is rumored to announce bankruptcy. Share price can either crash or skyrocket.,li,RulePackDef/RulePackDef.xml,def
+VTE_MediocreEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a mediocre earnings report. Price is expected to move sideways.,li,RulePackDef/RulePackDef.xml,def
+VTE_DecentEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a decent earnings report. Price is expected to move slightly up.,li,RulePackDef/RulePackDef.xml,def
+VTE_GoodEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a good earnings report. Price is expected to move slightly up.,li,RulePackDef/RulePackDef.xml,def
+VTE_GreatEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a great earnings report. Price is expected to move up.,li,RulePackDef/RulePackDef.xml,def
+VTE_ExcellentEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted an excellent earnings report. Price is expected to jump up.,li,RulePackDef/RulePackDef.xml,def
+VTE_OutstandingEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted an outstanding earnings report. Price is expected to skyrocket.,li,RulePackDef/RulePackDef.xml,def
+VTE_BelowAverageEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a below average earnings report. Price is expected to drop slightly.,li,RulePackDef/RulePackDef.xml,def
+VTE_SubParEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a subpar earnings report. Price is expected to drop slightly.,li,RulePackDef/RulePackDef.xml,def
+VTE_BadEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a bad earnings report. Price is expected to move down.,li,RulePackDef/RulePackDef.xml,def
+VTE_VeryBadEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a very bad earnings report. Price is expected to fall sharply.,li,RulePackDef/RulePackDef.xml,def
+VTE_TerribleEarnings.rulePack.rulesStrings.0,root->[COMPANY] has posted a terrible earnings report. Price is expected to crash.,li,RulePackDef/RulePackDef.xml,def
+VTE_TradingTerminal.label,trading terminal,label,ThingDef/ThingDef.xml,def
+VTE_TradingTerminal.description,"A terminal that allows contact with the bank, access to stock market, price overview and contracts.",description,ThingDef/ThingDef.xml,def

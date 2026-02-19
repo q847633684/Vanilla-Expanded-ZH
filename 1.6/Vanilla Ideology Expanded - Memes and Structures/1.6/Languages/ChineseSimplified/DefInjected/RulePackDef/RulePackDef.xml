@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VFEA_InterrogationRefused.rulePack.rulesStrings>
+    <!--EN: sent->[RECIPIENT_nameDef] refused.-->
+    <li>sent-&gt;[RECIPIENT_nameDef] refused.</li>
+  </VFEA_InterrogationRefused.rulePack.rulesStrings>
+  <VFEA_InterrogationSuccess.rulePack.rulesStrings>
+    <!--EN: sent->[RECIPIENT_nameDef] relented.-->
+    <li>sent-&gt;[RECIPIENT_nameDef] relented.</li>
+  </VFEA_InterrogationSuccess.rulePack.rulesStrings>
+  <VME_Commissar.rulePack.rulesStrings>
+    <!--EN: r_roleName->Commissar-->
+    <li>r_roleName-&gt;Commissar</li>
+  </VME_Commissar.rulePack.rulesStrings>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
+    <!--EN: r_deityType(p=4)->[businessname] [businesstype]-->
+    <li>r_deityType(p=4)-&gt;[businessname] [businesstype]</li>
+    <!--EN: r_deityType->[NamePerson] [businesstype]-->
+    <li>r_deityType-&gt;[NamePerson] [businesstype]</li>
+    <!--EN: r_deityType->[maybe_adjective] [Animal] [businesstype]-->
+    <li>r_deityType-&gt;[maybe_adjective] [Animal] [businesstype]</li>
+    <!--EN: r_deityType->[Letter][Letter] [businesstype]-->
+    <li>r_deityType-&gt;[Letter][Letter] [businesstype]</li>
+    <!--EN: r_deityType(p=0.5)->[PersonAlly] [businesstype]-->
+    <li>r_deityType(p=0.5)-&gt;[PersonAlly] [businesstype]</li>
+    <!--EN: r_deityType(p=0.5)->[AdjectiveFriendly] [businesstype]-->
+    <li>r_deityType(p=0.5)-&gt;[AdjectiveFriendly] [businesstype]</li>
+    <!--EN: r_deityType(p=0.5)->[AdjectiveBadass] [businesstype]-->
+    <li>r_deityType(p=0.5)-&gt;[AdjectiveBadass] [businesstype]</li>
+    <!--EN: r_deityType(p=0.3)->[PersonFamily] [businesstype]-->
+    <li>r_deityType(p=0.3)-&gt;[PersonFamily] [businesstype]</li>
+    <!--EN: r_deityType(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]-->
+    <li>r_deityType(p=0.3)-&gt;[maybe_adjective] [NaturalObject] [businesstype]</li>
+    <!--EN: r_deityType(p=0.2)->[maybe_adjective] [TreeType] [businesstype]-->
+    <li>r_deityType(p=0.2)-&gt;[maybe_adjective] [TreeType] [businesstype]</li>
+    <!--EN: r_deityType(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]-->
+    <li>r_deityType(p=0.2)-&gt;[maybe_adjective] [Vegetable] [businesstype]</li>
+    <!--EN: r_deityType(p=0.2)->[Direction] [businesstype]-->
+    <li>r_deityType(p=0.2)-&gt;[Direction] [businesstype]</li>
+    <!--EN: maybe_adjective->-->
+    <li>maybe_adjective-&gt;</li>
+    <!--EN: maybe_adjective->[Color]-->
+    <li>maybe_adjective-&gt;[Color]</li>
+    <!--EN: maybe_adjective->[AdjectiveFriendly]-->
+    <li>maybe_adjective-&gt;[AdjectiveFriendly]</li>
+    <!--EN: maybe_adjective->[AdjectiveBadass]-->
+    <li>maybe_adjective-&gt;[AdjectiveBadass]</li>
+  </VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
+    <!--EN: r_deityType->[name1] of [name2]-->
+    <li>r_deityType-&gt;[name1] of [name2]</li>
+    <!--EN: name1->Admiral-->
+    <li>name1-&gt;Admiral</li>
+    <!--EN: name1->Pontifex-->
+    <li>name1-&gt;Pontifex</li>
+    <!--EN: name1->Palatine-->
+    <li>name1-&gt;Palatine</li>
+    <!--EN: name1->Emperor-->
+    <li>name1-&gt;Emperor</li>
+    <!--EN: name1->Delegate-->
+    <li>name1-&gt;Delegate</li>
+    <!--EN: name1->Overlord-->
+    <li>name1-&gt;Overlord</li>
+    <!--EN: name1->Chairman-->
+    <li>name1-&gt;Chairman</li>
+    <!--EN: name1->Guardian-->
+    <li>name1-&gt;Guardian</li>
+    <!--EN: name1->Exarch-->
+    <li>name1-&gt;Exarch</li>
+    <!--EN: name2->Truth-->
+    <li>name2-&gt;Truth</li>
+    <!--EN: name2->Justice-->
+    <li>name2-&gt;Justice</li>
+    <!--EN: name2->the People-->
+    <li>name2-&gt;the People</li>
+    <!--EN: name2->the Rivers-->
+    <li>name2-&gt;the Rivers</li>
+    <!--EN: name2->Dreams-->
+    <li>name2-&gt;Dreams</li>
+    <!--EN: name2->Eternity-->
+    <li>name2-&gt;Eternity</li>
+    <!--EN: name2->Worship-->
+    <li>name2-&gt;Worship</li>
+    <!--EN: name2->Mercy-->
+    <li>name2-&gt;Mercy</li>
+    <!--EN: name2->Unity-->
+    <li>name2-&gt;Unity</li>
+    <!--EN: name2->the New Kingdom-->
+    <li>name2-&gt;the New Kingdom</li>
+    <!--EN: name2->the Realm-->
+    <li>name2-&gt;the Realm</li>
+  </VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
+    <!--EN: r_deityType->Progenitor of [concept]-->
+    <li>r_deityType-&gt;Progenitor of [concept]</li>
+    <!--EN: r_deityType->Corruptor of [concept]-->
+    <li>r_deityType-&gt;Corruptor of [concept]</li>
+    <!--EN: r_deityType->Bane of [concept]-->
+    <li>r_deityType-&gt;Bane of [concept]</li>
+    <!--EN: r_deityType->Enemy of [concept]-->
+    <li>r_deityType-&gt;Enemy of [concept]</li>
+    <!--EN: r_deityType->Devourer of [concept]-->
+    <li>r_deityType-&gt;Devourer of [concept]</li>
+    <!--EN: r_deityType->Scourge of [concept]-->
+    <li>r_deityType-&gt;Scourge of [concept]</li>
+    <!--EN: r_deityType->The incomprehensible [concept]-->
+    <li>r_deityType-&gt;The incomprehensible [concept]</li>
+    <!--EN: r_deityType->The noise at the center of [concept]-->
+    <li>r_deityType-&gt;The noise at the center of [concept]</li>
+    <!--EN: r_deityType->The [concept2] out of [concept3]-->
+    <li>r_deityType-&gt;The [concept2] out of [concept3]</li>
+    <!--EN: concept->everything-->
+    <li>concept-&gt;everything</li>
+    <!--EN: concept->all-->
+    <li>concept-&gt;all</li>
+    <!--EN: concept->the universe-->
+    <li>concept-&gt;the universe</li>
+    <!--EN: concept->stars-->
+    <li>concept-&gt;stars</li>
+    <!--EN: concept->souls-->
+    <li>concept-&gt;souls</li>
+    <!--EN: concept->humanity-->
+    <li>concept-&gt;humanity</li>
+    <!--EN: concept->space-->
+    <li>concept-&gt;space</li>
+    <!--EN: concept->our dreams-->
+    <li>concept-&gt;our dreams</li>
+    <!--EN: concept->our deepest fears-->
+    <li>concept-&gt;our deepest fears</li>
+    <!--EN: concept2->colour-->
+    <li>concept2-&gt;colour</li>
+    <!--EN: concept2->thousand goats-->
+    <li>concept2-&gt;thousand goats</li>
+    <!--EN: concept2->hunger-->
+    <li>concept2-&gt;hunger</li>
+    <!--EN: concept2->scintillation-->
+    <li>concept2-&gt;scintillation</li>
+    <!--EN: concept2->inkbloat-->
+    <li>concept2-&gt;inkbloat</li>
+    <!--EN: concept2->madness-->
+    <li>concept2-&gt;madness</li>
+    <!--EN: concept2->insanity-->
+    <li>concept2-&gt;insanity</li>
+    <!--EN: concept3->space-->
+    <li>concept3-&gt;space</li>
+    <!--EN: concept3->the depths-->
+    <li>concept3-&gt;the depths</li>
+    <!--EN: concept3->the chthonian abyss-->
+    <li>concept3-&gt;the chthonian abyss</li>
+    <!--EN: concept3->hades-->
+    <li>concept3-&gt;hades</li>
+    <!--EN: concept3->our nightmares-->
+    <li>concept3-&gt;our nightmares</li>
+    <!--EN: concept3->our dreams-->
+    <li>concept3-&gt;our dreams</li>
+    <!--EN: concept3->our deepest fears-->
+    <li>concept3-&gt;our deepest fears</li>
+  </VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
+    <!--EN: r_deityType->[name1] [name2]-->
+    <li>r_deityType-&gt;[name1] [name2]</li>
+    <!--EN: name1->All-Encompassing-->
+    <li>name1-&gt;All-Encompassing</li>
+    <!--EN: name1->Omnipresent-->
+    <li>name1-&gt;Omnipresent</li>
+    <!--EN: name1->Ubiquitous-->
+    <li>name1-&gt;Ubiquitous</li>
+    <!--EN: name1->Universal-->
+    <li>name1-&gt;Universal</li>
+    <!--EN: name1->All-Present-->
+    <li>name1-&gt;All-Present</li>
+    <!--EN: name1->All-Pervasive-->
+    <li>name1-&gt;All-Pervasive</li>
+    <!--EN: name1->Boundless-->
+    <li>name1-&gt;Boundless</li>
+    <!--EN: name2->Creation-->
+    <li>name2-&gt;Creation</li>
+    <!--EN: name2->Space-->
+    <li>name2-&gt;Space</li>
+    <!--EN: name2->Vaccuum-->
+    <li>name2-&gt;Vaccuum</li>
+    <!--EN: name2->Totality-->
+    <li>name2-&gt;Totality</li>
+    <!--EN: name2->Infinity-->
+    <li>name2-&gt;Infinity</li>
+    <!--EN: name2->Spheres-->
+    <li>name2-&gt;Spheres</li>
+  </VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
+  <VME_Fleshcrafter.rulePack.rulesStrings>
+    <!--EN: r_roleName->Fleshcrafter-->
+    <li>r_roleName-&gt;Fleshcrafter</li>
+  </VME_Fleshcrafter.rulePack.rulesStrings>
+  <VME_InsectoidHerder.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->Insectoid Herder-->
+    <li>r_roleName-&gt;Insectoid Herder</li>
+    <!--EN: firstPart->Spider-->
+    <li>firstPart-&gt;Spider</li>
+    <!--EN: firstPart->Maggot-->
+    <li>firstPart-&gt;Maggot</li>
+    <!--EN: firstPart->Scarab-->
+    <li>firstPart-&gt;Scarab</li>
+    <!--EN: firstPart->Cricket-->
+    <li>firstPart-&gt;Cricket</li>
+    <!--EN: firstPart->Tick-->
+    <li>firstPart-&gt;Tick</li>
+    <!--EN: firstPart->Larva-->
+    <li>firstPart-&gt;Larva</li>
+    <!--EN: firstPart->Beetle-->
+    <li>firstPart-&gt;Beetle</li>
+    <!--EN: firstPart->Locust-->
+    <li>firstPart-&gt;Locust</li>
+    <!--EN: secondPart(p=4)->Harvester-->
+    <li>secondPart(p=4)-&gt;Harvester</li>
+    <!--EN: secondPart(p=4)->Handler-->
+    <li>secondPart(p=4)-&gt;Handler</li>
+    <!--EN: secondPart(p=4)->Brood-sibling-->
+    <li>secondPart(p=4)-&gt;Brood-sibling</li>
+    <!--EN: secondPart(p=4)->Devotee-->
+    <li>secondPart(p=4)-&gt;Devotee</li>
+    <!--EN: secondPart(p=4)->Hive-Psyker-->
+    <li>secondPart(p=4)-&gt;Hive-Psyker</li>
+    <!--EN: secondPart(p=4)->Hive-Commander-->
+    <li>secondPart(p=4)-&gt;Hive-Commander</li>
+    <!--EN: secondPart(p=4)->Hive-brood-->
+    <li>secondPart(p=4)-&gt;Hive-brood</li>
+    <!--EN: secondPart(p=4)->Hive-slave-->
+    <li>secondPart(p=4)-&gt;Hive-slave</li>
+  </VME_InsectoidHerder.rulePack.rulesStrings>
+  <VME_Majordomo.rulePack.rulesStrings>
+    <!--EN: r_roleName->Majordomo-->
+    <li>r_roleName-&gt;Majordomo</li>
+  </VME_Majordomo.rulePack.rulesStrings>
+  <VME_Mechacker.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->Mechacker-->
+    <li>r_roleName-&gt;Mechacker</li>
+    <!--EN: firstPart->Engine-->
+    <li>firstPart-&gt;Engine</li>
+    <!--EN: firstPart->Mechanoid-->
+    <li>firstPart-&gt;Mechanoid</li>
+    <!--EN: firstPart->Bionic-->
+    <li>firstPart-&gt;Bionic</li>
+    <!--EN: firstPart->Technological-->
+    <li>firstPart-&gt;Technological</li>
+    <!--EN: firstPart->Electronic-->
+    <li>firstPart-&gt;Electronic</li>
+    <!--EN: firstPart->Artificial-->
+    <li>firstPart-&gt;Artificial</li>
+    <!--EN: firstPart->Scientific-->
+    <li>firstPart-&gt;Scientific</li>
+    <!--EN: firstPart->Brilliant-->
+    <li>firstPart-&gt;Brilliant</li>
+    <!--EN: secondPart(p=4)->Engineseer-->
+    <li>secondPart(p=4)-&gt;Engineseer</li>
+    <!--EN: secondPart(p=4)->Artificer-->
+    <li>secondPart(p=4)-&gt;Artificer</li>
+    <!--EN: secondPart(p=4)->Machinist-->
+    <li>secondPart(p=4)-&gt;Machinist</li>
+    <!--EN: secondPart(p=4)->Soothesayer-->
+    <li>secondPart(p=4)-&gt;Soothesayer</li>
+    <!--EN: secondPart(p=4)->Designer-->
+    <li>secondPart(p=4)-&gt;Designer</li>
+    <!--EN: secondPart(p=4)->Hackmaster-->
+    <li>secondPart(p=4)-&gt;Hackmaster</li>
+    <!--EN: secondPart(p=4)->Mastermind-->
+    <li>secondPart(p=4)-&gt;Mastermind</li>
+    <!--EN: secondPart(p=4)->Inventor-->
+    <li>secondPart(p=4)-&gt;Inventor</li>
+  </VME_Mechacker.rulePack.rulesStrings>
+  <VME_NamerCorporate.rulePack.rulesStrings>
+    <!--EN: r_deityName->The Company-->
+    <li>r_deityName-&gt;The Company</li>
+    <!--EN: r_deityName->The Business-->
+    <li>r_deityName-&gt;The Business</li>
+    <!--EN: r_deityName->The Corporation-->
+    <li>r_deityName-&gt;The Corporation</li>
+    <!--EN: r_deityName->The Organization-->
+    <li>r_deityName-&gt;The Organization</li>
+  </VME_NamerCorporate.rulePack.rulesStrings>
+  <VME_NamerCultofPersonality.rulePack.rulesStrings>
+    <!--EN: r_deityName->Our Supreme Leader-->
+    <li>r_deityName-&gt;Our Supreme Leader</li>
+    <!--EN: r_deityName->Supreme Leader-->
+    <li>r_deityName-&gt;Supreme Leader</li>
+  </VME_NamerCultofPersonality.rulePack.rulesStrings>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings>
+    <!--EN: r_deityName->[start][middle][end]-->
+    <li>r_deityName-&gt;[start][middle][end]</li>
+    <!--EN: start->cn-->
+    <li>start-&gt;cn</li>
+    <!--EN: start->kt-->
+    <li>start-&gt;kt</li>
+    <!--EN: start->c't-->
+    <li>start-&gt;c't</li>
+    <!--EN: start->kh-->
+    <li>start-&gt;kh</li>
+    <!--EN: start->yir-->
+    <li>start-&gt;yir</li>
+    <!--EN: start->yor-->
+    <li>start-&gt;yor</li>
+    <!--EN: start->yok-->
+    <li>start-&gt;yok</li>
+    <!--EN: start->igh-->
+    <li>start-&gt;igh</li>
+    <!--EN: start->vhal-->
+    <li>start-&gt;vhal</li>
+    <!--EN: start->gher-->
+    <li>start-&gt;gher</li>
+    <!--EN: start->mh'ur-->
+    <li>start-&gt;mh'ur</li>
+    <!--EN: start->vh'or-->
+    <li>start-&gt;vh'or</li>
+    <!--EN: start->og-->
+    <li>start-&gt;og</li>
+    <!--EN: start->ak-->
+    <li>start-&gt;ak</li>
+    <!--EN: start->kol-->
+    <li>start-&gt;kol</li>
+    <!--EN: start->okt-->
+    <li>start-&gt;okt</li>
+    <!--EN: start->yom- -->
+    <li>start-&gt;yom-</li>
+    <!--EN: start->sub- -->
+    <li>start-&gt;sub-</li>
+    <!--EN: start->ed-->
+    <li>start-&gt;ed</li>
+    <!--EN: start->ith-->
+    <li>start-&gt;ith</li>
+    <!--EN: middle->all'ra-->
+    <li>middle-&gt;all'ra</li>
+    <!--EN: middle->hele-->
+    <li>middle-&gt;hele</li>
+    <!--EN: middle->ujhu-->
+    <li>middle-&gt;ujhu</li>
+    <!--EN: middle->aand'xu-->
+    <li>middle-&gt;aand'xu</li>
+    <!--EN: middle->'og'vhe-->
+    <li>middle-&gt;'og'vhe</li>
+    <!--EN: middle->aathe-->
+    <li>middle-&gt;aathe</li>
+    <!--EN: middle->omliggda-->
+    <li>middle-&gt;omliggda</li>
+    <!--EN: middle->ethla-->
+    <li>middle-&gt;ethla</li>
+    <!--EN: middle->ouvha-->
+    <li>middle-&gt;ouvha</li>
+    <!--EN: middle->omlao-->
+    <li>middle-&gt;omlao</li>
+    <!--EN: end(p=4)->-->
+    <li>end(p=4)-&gt;</li>
+    <!--EN: end->tl-->
+    <li>end-&gt;tl</li>
+    <!--EN: end->ss-->
+    <li>end-&gt;ss</li>
+    <!--EN: end->xr-->
+    <li>end-&gt;xr</li>
+    <!--EN: end->rc-->
+    <li>end-&gt;rc</li>
+    <!--EN: end->sh-->
+    <li>end-&gt;sh</li>
+    <!--EN: end->l-->
+    <li>end-&gt;l</li>
+    <!--EN: end->va-->
+    <li>end-&gt;va</li>
+    <!--EN: end->rrath-->
+    <li>end-&gt;rrath</li>
+    <!--EN: end->th-->
+    <li>end-&gt;th</li>
+  </VME_NamerDeityEldritch.rulePack.rulesStrings>
+  <VME_NamerPantheism.rulePack.rulesStrings>
+    <!--EN: r_deityName->The Universe-->
+    <li>r_deityName-&gt;The Universe</li>
+    <!--EN: r_deityName->The Cosmos-->
+    <li>r_deityName-&gt;The Cosmos</li>
+    <!--EN: r_deityName->Existence-->
+    <li>r_deityName-&gt;Existence</li>
+  </VME_NamerPantheism.rulePack.rulesStrings>
+  <VME_NamerSecondTriumvir.rulePack.rulesStrings>
+    <!--EN: r_roleName->second triumvir-->
+    <li>r_roleName-&gt;second triumvir</li>
+  </VME_NamerSecondTriumvir.rulePack.rulesStrings>
+  <VME_NamerThirdTriumvir.rulePack.rulesStrings>
+    <!--EN: r_roleName->third triumvir-->
+    <li>r_roleName-&gt;third triumvir</li>
+  </VME_NamerThirdTriumvir.rulePack.rulesStrings>
+  <VME_Nurse.rulePack.rulesStrings>
+    <!--EN: r_roleName->Nurse-->
+    <li>r_roleName-&gt;Nurse</li>
+  </VME_Nurse.rulePack.rulesStrings>
+  <VME_PartyHost.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->party host-->
+    <li>r_roleName-&gt;party host</li>
+    <!--EN: r_roleName->party animal-->
+    <li>r_roleName-&gt;party animal</li>
+    <!--EN: firstPart->exciting-->
+    <li>firstPart-&gt;exciting</li>
+    <!--EN: firstPart->comedic-->
+    <li>firstPart-&gt;comedic</li>
+    <!--EN: firstPart->esteemed-->
+    <li>firstPart-&gt;esteemed</li>
+    <!--EN: firstPart->hilarious-->
+    <li>firstPart-&gt;hilarious</li>
+    <!--EN: firstPart->crazed-->
+    <li>firstPart-&gt;crazed</li>
+    <!--EN: firstPart->wild-->
+    <li>firstPart-&gt;wild</li>
+    <!--EN: firstPart->jubilant-->
+    <li>firstPart-&gt;jubilant</li>
+    <!--EN: firstPart->joyous-->
+    <li>firstPart-&gt;joyous</li>
+    <!--EN: secondPart(p=4)->genius-->
+    <li>secondPart(p=4)-&gt;genius</li>
+    <!--EN: secondPart(p=4)->entertainer-->
+    <li>secondPart(p=4)-&gt;entertainer</li>
+    <!--EN: secondPart(p=4)->host-->
+    <li>secondPart(p=4)-&gt;host</li>
+    <!--EN: secondPart(p=4)->jester-->
+    <li>secondPart(p=4)-&gt;jester</li>
+    <!--EN: secondPart(p=4)->joker-->
+    <li>secondPart(p=4)-&gt;joker</li>
+    <!--EN: secondPart(p=4)->animal-->
+    <li>secondPart(p=4)-&gt;animal</li>
+    <!--EN: secondPart(p=4)->performer-->
+    <li>secondPart(p=4)-&gt;performer</li>
+    <!--EN: secondPart(p=4)->comedian-->
+    <li>secondPart(p=4)-&gt;comedian</li>
+  </VME_PartyHost.rulePack.rulesStrings>
+  <VME_Patissier.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->Patissier-->
+    <li>r_roleName-&gt;Patissier</li>
+    <!--EN: firstPart->Deft-handed-->
+    <li>firstPart-&gt;Deft-handed</li>
+    <!--EN: firstPart->Accomplished-->
+    <li>firstPart-&gt;Accomplished</li>
+    <!--EN: firstPart->Talented-->
+    <li>firstPart-&gt;Talented</li>
+    <!--EN: firstPart->Exquisite-->
+    <li>firstPart-&gt;Exquisite</li>
+    <!--EN: firstPart->Seasoned-->
+    <li>firstPart-&gt;Seasoned</li>
+    <!--EN: firstPart->Masterful-->
+    <li>firstPart-&gt;Masterful</li>
+    <!--EN: secondPart(p=4)->Culinarian-->
+    <li>secondPart(p=4)-&gt;Culinarian</li>
+    <!--EN: secondPart(p=4)->Epicurian-->
+    <li>secondPart(p=4)-&gt;Epicurian</li>
+    <!--EN: secondPart(p=4)->Baker-->
+    <li>secondPart(p=4)-&gt;Baker</li>
+    <!--EN: secondPart(p=4)->Patissier-->
+    <li>secondPart(p=4)-&gt;Patissier</li>
+    <!--EN: secondPart(p=4)->Banqueter-->
+    <li>secondPart(p=4)-&gt;Banqueter</li>
+    <!--EN: secondPart(p=4)->Glacier-->
+    <li>secondPart(p=4)-&gt;Glacier</li>
+    <!--EN: secondPart(p=4)->Confectioner-->
+    <li>secondPart(p=4)-&gt;Confectioner</li>
+  </VME_Patissier.rulePack.rulesStrings>
+  <VME_RoleFireKeeper.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->firekeeper-->
+    <li>r_roleName-&gt;firekeeper</li>
+    <!--EN: r_roleName->flamekeeper-->
+    <li>r_roleName-&gt;flamekeeper</li>
+    <!--EN: firstPart->flame-->
+    <li>firstPart-&gt;flame</li>
+    <!--EN: firstPart->ash-->
+    <li>firstPart-&gt;ash</li>
+    <!--EN: firstPart->fire-->
+    <li>firstPart-&gt;fire</li>
+    <!--EN: firstPart->warmth-->
+    <li>firstPart-&gt;warmth</li>
+    <!--EN: firstPart->bright-->
+    <li>firstPart-&gt;bright</li>
+    <!--EN: firstPart->light-->
+    <li>firstPart-&gt;light</li>
+    <!--EN: firstPart->kiln-->
+    <li>firstPart-&gt;kiln</li>
+    <!--EN: firstPart->forge-->
+    <li>firstPart-&gt;forge</li>
+    <!--EN: secondPart(p=4)->touched-->
+    <li>secondPart(p=4)-&gt;touched</li>
+    <!--EN: secondPart(p=4)->warden-->
+    <li>secondPart(p=4)-&gt;warden</li>
+    <!--EN: secondPart(p=4)->herald-->
+    <li>secondPart(p=4)-&gt;herald</li>
+    <!--EN: secondPart(p=4)->protector-->
+    <li>secondPart(p=4)-&gt;protector</li>
+    <!--EN: secondPart(p=4)->defender-->
+    <li>secondPart(p=4)-&gt;defender</li>
+    <!--EN: secondPart(p=4)->seeker-->
+    <li>secondPart(p=4)-&gt;seeker</li>
+    <!--EN: secondPart(p=4)->whisperer-->
+    <li>secondPart(p=4)-&gt;whisperer</li>
+    <!--EN: secondPart(p=4)->keeper-->
+    <li>secondPart(p=4)-&gt;keeper</li>
+  </VME_RoleFireKeeper.rulePack.rulesStrings>
+  <VME_Trader.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+    <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+    <!--EN: r_roleName->Trader-->
+    <li>r_roleName-&gt;Trader</li>
+    <!--EN: firstPart->Bountiful-->
+    <li>firstPart-&gt;Bountiful</li>
+    <!--EN: firstPart->Itinerant-->
+    <li>firstPart-&gt;Itinerant</li>
+    <!--EN: firstPart->Unscrupulous-->
+    <li>firstPart-&gt;Unscrupulous</li>
+    <!--EN: firstPart->Respectable-->
+    <li>firstPart-&gt;Respectable</li>
+    <!--EN: firstPart->Affluent-->
+    <li>firstPart-&gt;Affluent</li>
+    <!--EN: firstPart->Prosperous-->
+    <li>firstPart-&gt;Prosperous</li>
+    <!--EN: firstPart->Opulent-->
+    <li>firstPart-&gt;Opulent</li>
+    <!--EN: firstPart->Rich-->
+    <li>firstPart-&gt;Rich</li>
+    <!--EN: secondPart(p=4)->Merchant-->
+    <li>secondPart(p=4)-&gt;Merchant</li>
+    <!--EN: secondPart(p=4)->Operator-->
+    <li>secondPart(p=4)-&gt;Operator</li>
+    <!--EN: secondPart(p=4)->Seller-->
+    <li>secondPart(p=4)-&gt;Seller</li>
+    <!--EN: secondPart(p=4)->Shopkeeper-->
+    <li>secondPart(p=4)-&gt;Shopkeeper</li>
+    <!--EN: secondPart(p=4)->Vendor-->
+    <li>secondPart(p=4)-&gt;Vendor</li>
+    <!--EN: secondPart(p=4)->Broker-->
+    <li>secondPart(p=4)-&gt;Broker</li>
+    <!--EN: secondPart(p=4)->Wholesaler-->
+    <li>secondPart(p=4)-&gt;Wholesaler</li>
+    <!--EN: secondPart(p=4)->Salesperson-->
+    <li>secondPart(p=4)-&gt;Salesperson</li>
+  </VME_Trader.rulePack.rulesStrings>
+</LanguageData>

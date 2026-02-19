@@ -1,0 +1,810 @@
+key,text,tag,file,type
+VPEP.TargetCannotBeSameFactionAsCaster,Target cannot be colonist.,VPEP.TargetCannotBeSameFactionAsCaster,Keys.xml,keyed
+VPEP.TargetMustBeSameFactionAsCaster,Target must be prisoner or colonist.,VPEP.TargetMustBeSameFactionAsCaster,Keys.xml,keyed
+VPEP.TargetMustBePrisonerOrSlave,Target must be prisoner or slave.,VPEP.TargetMustBePrisonerOrSlave,Keys.xml,keyed
+VPEP.DegradePsycast,It was caused by the Degrade psycast.,VPEP.DegradePsycast,Keys.xml,keyed
+VPEP.TargetMustHaveBrainLeech,Target must have brain leech from the caster.,VPEP.TargetMustHaveBrainLeech,Keys.xml,keyed
+VPEP.TargetIsPuppetAlready,Target is a puppet already.,VPEP.TargetIsPuppetAlready,Keys.xml,keyed
+VPEP.CannotHaveMorePuppets,Cannot have more puppets due to the puppet limit.,VPEP.CannotHaveMorePuppets,Keys.xml,keyed
+VPEP.Puppets,Puppets,VPEP.Puppets,Keys.xml,keyed
+VPEP.PuppetsGizmoTip,"A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a {0} coma.\n\nPsychic capacity: {1}",VPEP.PuppetsGizmoTip,Keys.xml,keyed
+VPEP.PuppetsUsage,Current puppets:,VPEP.PuppetsUsage,Keys.xml,keyed
+VPEP.TargetMustBePuppetOfCaster,Target must be a puppet of the caster.,VPEP.TargetMustBePuppetOfCaster,Keys.xml,keyed
+VPEP.NoPuppets,No puppets.,VPEP.NoPuppets,Keys.xml,keyed
+VPEP.MindJumpTitle,Mind jump,VPEP.MindJumpTitle,Keys.xml,keyed
+VPEP.MindJumpText,"{Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer.",VPEP.MindJumpText,Keys.xml,keyed
+VPE.MustTargetBattery,Must target a battery or fiendly mechanoid,VPE.MustTargetBattery,Misc.xml,keyed
+VPE.StopHurricane,Stop Hurricane,VPE.StopHurricane,Misc.xml,keyed
+VPE.NoChunks,No nearby chunks,VPE.NoChunks,Misc.xml,keyed
+VPE.MustHaveLivingFamilyMembers,{PAWN_nameDef} must have living family members.,VPE.MustHaveLivingFamilyMembers,Misc.xml,keyed
+VPE.ThingsOfLevel,{0} things at level {1},VPE.ThingsOfLevel,Misc.xml,keyed
+VPE.TooCheap,"Not enough value, must be worth at least $1 per item.",VPE.TooCheap,Misc.xml,keyed
+VPE_BreakLink,Break Link,VPE_BreakLink,Misc.xml,keyed
+VPE_BreakLinkDesc,Break the link and immediately kill this construct,VPE_BreakLinkDesc,Misc.xml,keyed
+VPE.PsySetNext,Next PsySet,VPE.PsySetNext,Misc.xml,keyed
+VPE.PsySetPrev,Previous PsySet,VPE.PsySetPrev,Misc.xml,keyed
+VPE.Nearby,Nearby,VPE.Nearby,Misc.xml,keyed
+VPE.WealthNearby,{0} wealth nearby out of {1} total wealth,VPE.WealthNearby,Misc.xml,keyed
+VPE.GroupFocus,{0} other pawns nearby,VPE.GroupFocus,Misc.xml,keyed
+VPE.All,All,VPE.All,Misc.xml,keyed
+VPE.PsySetDesc,"Move to the next PsySet. Right click to choose a specific one.\nCurrent: {0}, Next: {1}",VPE.PsySetDesc,Misc.xml,keyed
+VPE.MustHaveQuality,Target must have quality,VPE.MustHaveQuality,Misc.xml,keyed
+VPE.QualityTooHigh,"Target quality too high, must be lower than {0}.",VPE.QualityTooHigh,Misc.xml,keyed
+VPE.MaxQuality,Maximum quality: {0},VPE.MaxQuality,Misc.xml,keyed
+VPE.NotEnoughHeat,Not enough neural heat available.,VPE.NotEnoughHeat,Misc.xml,keyed
+VPE.MustConsumePower,Must consume power.,VPE.MustConsumePower,Misc.xml,keyed
+VPE.MustBeStoneChunk,Target a stone chunk,VPE.MustBeStoneChunk,Misc.xml,keyed
+VPE.MustBeSteelSlag,Target steel slag,VPE.MustBeSteelSlag,Misc.xml,keyed
+VPE.PsylinkGained,Psylink level gained: {0},VPE.PsylinkGained,Misc.xml,keyed
+VPE.PsylinkGained.Desc,"{0} has gained a new level of psylink. Upon reaching that level, {1} raised psycasting-related stats slightly. {1} can now also allocate a point to either learn a new psycast, improve psycasting stats further or unlock a new meditation focus.\n\nPsycasting experience needed for next level is: {2}.",VPE.PsylinkGained.Desc,Misc.xml,keyed
+VPE.UnlockedByPoints,Unlocked via Psycaster points,VPE.UnlockedByPoints,Misc.xml,keyed
+VPE.MustEltex,Must target eltex,VPE.MustEltex,Misc.xml,keyed
+VPE.NotPsycaster,Not a psycaster,VPE.NotPsycaster,Misc.xml,keyed
+VPE.AlreadyPsyring,Already wearing a psyring,VPE.AlreadyPsyring,Misc.xml,keyed
+VPE.Research,Must be researchable,VPE.Research,Misc.xml,keyed
+VPE.AlreadyResearch,Already researched,VPE.AlreadyResearch,Misc.xml,keyed
+VPE.MustBeAllyOrNeutral,Target must be ally or neutral.,VPE.MustBeAllyOrNeutral,Misc.xml,keyed
+VPE.MustBeDowned,Target must be downed.,VPE.MustBeDowned,Misc.xml,keyed
+VPE.MustHavePsychicLevel,Target must have at least one psycaster level.,VPE.MustHavePsychicLevel,Misc.xml,keyed
+VPE.MustHaveHeatAmount,Must have at least {0} neural heat.,VPE.MustHaveHeatAmount,Misc.xml,keyed
+VPE.MustBeCorpse,Target must be corpse.,VPE.MustBeCorpse,Misc.xml,keyed
+VPE.MustBeCorpseHumanlike,Corpse must be humanlike.,VPE.MustBeCorpseHumanlike,Misc.xml,keyed
+VPE.PackSummon,Pack Summoned!,VPE.PackSummon,Misc.xml,keyed
+VPE.PackSummon.Desc,A pack of wild animals have been summoned by {0} to defend the colony.,VPE.PackSummon.Desc,Misc.xml,keyed
+VPE.NoAvailableFingers,No available fingers.,VPE.NoAvailableFingers,Misc.xml,keyed
+VPE.CurrentChanneling,Currently channeling {0},VPE.CurrentChanneling,Misc.xml,keyed
+VPE.MustBeInDark,Target must in the dark,VPE.MustBeInDark,Misc.xml,keyed
+VPE.MustBePsycaster,Must be a psycaster,VPE.MustBePsycaster,Misc.xml,keyed
+VPE.AlreadyHasPsycast,Already knows {0},VPE.AlreadyHasPsycast,Misc.xml,keyed
+VPE.MustBeAlly,Target must be in the same faction.,VPE.MustBeAlly,Misc.xml,keyed
+VPE.MustHaveDamagedEquipment,Target's equipment must be damaged.,VPE.MustHaveDamagedEquipment,Misc.xml,keyed
+VPE.NoAnimals,Cannot target animals,VPE.NoAnimals,Misc.xml,keyed
+VPE.MustBeDamaged,Target must be damaged,VPE.MustBeDamaged,Misc.xml,keyed
+VanillaPsycastsExpanded,Vanilla Psycasts Expanded,VanillaPsycastsExpanded,Settings.xml,keyed
+VPE.XPPerPercent,Psycaster XP per Psyfocus % gained,VPE.XPPerPercent,Settings.xml,keyed
+VPE.PsycasterSpawnBaseChance,Basilicus Bestower Psycaster spawn chance,VPE.PsycasterSpawnBaseChance,Settings.xml,keyed
+VPE.PsycasterSpawnAdditional,Basilicus Bestower Psycaster strength factor,VPE.PsycasterSpawnAdditional,Settings.xml,keyed
+VPE.AllowShrink,Allow shrinking?,VPE.AllowShrink,Settings.xml,keyed
+VPE.AllowShrink.Desc,Allow psycast gizmos to be shrunken to half size when there are a lot of them.,VPE.AllowShrink.Desc,Settings.xml,keyed
+VPE.SmallMode,UI small mode,VPE.SmallMode,Settings.xml,keyed
+VPE.SmallMode.Desc,"In small mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080).",VPE.SmallMode.Desc,Settings.xml,keyed
+VPE.MuteSkipdoor,Mute Skipdoor Sound,VPE.MuteSkipdoor,Settings.xml,keyed
+VPE.MaxLevel,Maximum psycaster level,VPE.MaxLevel,Settings.xml,keyed
+VPE.ChangeFocusGain,Scale base psyfocus gain with stat points?,VPE.ChangeFocusGain,Settings.xml,keyed
+VPE.ChangeFocusGain.Desc,"If enabled, then the base psyfocus gain before any foci can be increased by spending stat points.",VPE.ChangeFocusGain.Desc,Settings.xml,keyed
+VPE.Psycasts,Psycasts,VPE.Psycasts,UI.xml,keyed
+VPE.PsyLevel,Psycaster Level: {0},VPE.PsyLevel,UI.xml,keyed
+VPE.EarnXP,Earn psycaster experience by meditating.,VPE.EarnXP,UI.xml,keyed
+VPE.Points,Available points to spend: {0},VPE.Points,UI.xml,keyed
+VPE.SpendPoints,"Spend points on unlocking new paths, unlocking psycasts, unlocking meditation foci, improving stats, etc.",VPE.SpendPoints,UI.xml,keyed
+VPE.PsycasterStats,Psycaster stats,VPE.PsycasterStats,UI.xml,keyed
+VPE.Upgrade,Upgrade,VPE.Upgrade,UI.xml,keyed
+VPE.FocusTypes,Focus types:,VPE.FocusTypes,UI.xml,keyed
+VPE.PsysetCustomize,Customize Psysets,VPE.PsysetCustomize,UI.xml,keyed
+VPE.PsysetDesc,Drag and drop learnt psycasts into psysets that you can cycle between ingame.,VPE.PsysetDesc,UI.xml,keyed
+VPE.CreatePsyset,Create Psyset,VPE.CreatePsyset,UI.xml,keyed
+VPE.Unlock,Unlock,VPE.Unlock,UI.xml,keyed
+VPE.ClickToUnlock,Click to Unlock,VPE.ClickToUnlock,UI.xml,keyed
+VPE.UseAltBackground,Use alternative backgrounds,VPE.UseAltBackground,UI.xml,keyed
+VPE.DestroySkipdoor,Destroy,VPE.DestroySkipdoor,UI.xml,keyed
+VPE.DestroySkipdoor.Desc,"Destroy this skipdoor. It will no longer be usable, but will no longer impact the max heat of {0}.",VPE.DestroySkipdoor.Desc,UI.xml,keyed
+VPE.RenameSkipdoor,Rename,VPE.RenameSkipdoor,UI.xml,keyed
+VPE.RenameSkipdoor.Desc,Rename this skipdoor.,VPE.RenameSkipdoor.Desc,UI.xml,keyed
+VPE.TeleportTo,Teleport to {0},VPE.TeleportTo,UI.xml,keyed
+VPE.CancelSkipbarrier,Cancel Skipbarrier,VPE.CancelSkipbarrier,UI.xml,keyed
+VPE.CancelSkipbarrierDesc,Click to cancel Skipbarrier on the caster.,VPE.CancelSkipbarrierDesc,UI.xml,keyed
+VPE.Edit,Edit,VPE.Edit,UI.xml,keyed
+VPE.Rename,Rename,VPE.Rename,UI.xml,keyed
+VPE.Untitled,Untitled,VPE.Untitled,UI.xml,keyed
+VPE.Remove,Remove,VPE.Remove,UI.xml,keyed
+VPE.Contents,Contents:,VPE.Contents,UI.xml,keyed
+VPE.ClickRemove,Click to Remove,VPE.ClickRemove,UI.xml,keyed
+VPE.SellingEltexWarning,Selling Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future.,VPE.SellingEltexWarning,UI.xml,keyed
+VPE.GiftingEltexWarning,Gifting Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future.,VPE.GiftingEltexWarning,UI.xml,keyed
+VPE.EmpireAngeredTitle,Empire angered,VPE.EmpireAngeredTitle,UI.xml,keyed
+VPE.EmpireAngeredDesc,"Empire caught wind that you have been {0} Eltex behind their back. They consider it to be against Imperial law, and your relations have degraded.",VPE.EmpireAngeredDesc,UI.xml,keyed
+VPE.Gifting,gifting,VPE.Gifting,UI.xml,keyed
+VPE.Trading,trading,VPE.Trading,UI.xml,keyed
+VPE.FactionRelationReducedInfo,Goodwill with {FACTION_name} is now {1}. (Reduced by {2}),VPE.FactionRelationReducedInfo,UI.xml,keyed
+VPE.CreatePsyringTitle,Choose Psycast:,VPE.CreatePsyringTitle,UI.xml,keyed
+VPE.CreatePsyringButton,Create Psyring,VPE.CreatePsyringButton,UI.xml,keyed
+VPE.Locked,Locked,VPE.Locked,UI.xml,keyed
+VPE.StatsReport_BodiesConsumed,Bodies consumed: +{0},VPE.StatsReport_BodiesConsumed,UI.xml,keyed
+VPE.DevMode,Developer mode,VPE.DevMode,UI.xml,keyed
+VPE.NotEnoughPoints,Not enough points available,VPE.NotEnoughPoints,UI.xml,keyed
+VPE.AbilitiesList,Psycasts included:,VPE.AbilitiesList,UI.xml,keyed
+VPE.Hover,hover,VPE.Hover,UI.xml,keyed
+VPE.PsycasterRaidDescription,"{0}
+
+Capturing psycasters is a viable strategy and can be considered beneficial.",VPE.PsycasterRaidDescription,UI.xml,keyed
+VPE.LockedTitle,Locked: Requires a Royal Title,VPE.LockedTitle,UI.xml,keyed
+VPE.LockedLocked,Locked: Cannot be unlocked with points,VPE.LockedLocked,UI.xml,keyed
+VPE.SuccessChance,Success chance,VPE.SuccessChance,UI.xml,keyed
+VPE.PsychicComaDuration,Psychic coma for,VPE.PsychicComaDuration,UI.xml,keyed
+VPE_Hurricane.label,hurricane,label,WeatherDef/WeatherDef.xml,def
+VPE_Hurricane.description,Extreme wind will cause a slowdown to everyone not under the roof.,description,WeatherDef/WeatherDef.xml,def
+VPE_WordofTrust.label,word of trust,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofTrust.description,"Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProductivity.label,word of productivity,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProductivity.description,"Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BlindingPulse.label,blinding pulse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BlindingPulse.description,"Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofAlliance.label,word of alliance,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofAlliance.description,"Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GroupLink.label,group link,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GroupLink.description,"Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofPain.label,word of pain,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofPain.description,"Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MindBreak.label,mind break,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MindBreak.description,"Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProtection.label,word of protection,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProtection.description,"Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_DrainPsyessence.label,drain psyessence,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_DrainPsyessence.description,"Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassHallucination.label,mass hallucination,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassHallucination.description,"Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The caster is put into a coma and the resulting effect lasts for five days.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Burden.label,burden,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Burden.description,Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Stun.label,stun,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Stun.description,"Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicShock.label,psychic shock,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicShock.description,"Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_NeuralHeatDump.label,neural heat dump,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_NeuralHeatDump.description,"Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Berserk.label,berserk,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Berserk.description,"Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AggressiveHeatDump.label,aggressive heat dump,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AggressiveHeatDump.description,"Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BerserkPulse.label,berserk pulse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BerserkPulse.description,Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicDrone.label,psychic drone,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicDrone.description,"Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_NeuralHeatDetonation.label,neural heat detonation,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_NeuralHeatDetonation.description,"Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Neuroquake.label,neuroquake,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Neuroquake.description,"Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Neuroquake.modExtensions.0.message,"If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?",message,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PlantTimeskip.label,plant timeskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PlantTimeskip.description,"Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeskipMeditation.label,timeskip meditation,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeskipMeditation.description,Puts the caster into a self-inflicted coma as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofForetelling.label,word of foretelling,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofForetelling.description,"Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CraftTimeskip.label,craft timeskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CraftTimeskip.description,"Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Age.label,age,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Age.description,"Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RaidPause.label,raid pause,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RaidPause.description,"Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SeasonTimeskip.label,season timeskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SeasonTimeskip.description,"Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeSphere.label,time sphere,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeSphere.description,"Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeReversal.label,time reversal,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TimeReversal.description,"Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Timequake.label,timequake,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Timequake.description,"Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Timequake.modExtensions.2.message,"If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake?",message,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Flameball.label,flameball,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Flameball.description,"Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SelfExplosion.label,self explosion,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SelfExplosion.description,"Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Explosion.label,explosion,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Explosion.description,"Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FireShield.label,fire shield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FireShield.description,"Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BreatheFlame.label,breathe flame,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BreatheFlame.description,"Spews forth flammable liquid which immediately ignites, along with everything the flames touch.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EyeBlast.label,eye blast,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EyeBlast.description,"Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_QuenchFlames.label,extinguish flames,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_QuenchFlames.description,Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MeteorShower.label,meteor shower,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MeteorShower.description,Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FireBeam.label,fire beam,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FireBeam.description,"Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FlameTornado.label,fire tornado,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FlameTornado.description,Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofJoy.label,word of joy,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofJoy.description,"Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofLove.label,word of love,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofLove.description,"Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofSerenity.label,word of serenity,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofSerenity.description,Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofInspiration.label,word of inspiration,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofInspiration.description,Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SootheMale.label,psychic sooth (male),label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SootheMale.description,"Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SootheFemale.label,psychic sooth (female),label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SootheFemale.description,"Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Bliss.label,bliss,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Bliss.description,"After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EnergyDump.label,energy dump,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EnergyDump.description,"Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MindWipe.label,mind wipe,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MindWipe.description,"Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ReunionFarskip.label,reunion farskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ReunionFarskip.description,"After a short meditation period and followed by a coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceBreath.label,breathe ice,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceBreath.description,"Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceSpike.label,ice spike,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceSpike.description,"Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceShield.label,ice shield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceShield.description,"Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FrostRay.label,frost ray,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FrostRay.description,"Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceCrystal.label,ice crystal,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceCrystal.description,"Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ColdZone.label,cold zone,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ColdZone.description,"Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceBlock.label,ice block,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceBlock.description,"Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SnapFreeze.label,snap freeze,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SnapFreeze.description,"Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceWall.label,ice wall,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IceWall.description,"Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Blizzard.label,blizzard,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Blizzard.description,"Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Mindcontrol.label,mind control,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Mindcontrol.description,"Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicGuidance.label,psychic guidance,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PsychicGuidance.description,"Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TransmuteStone.label,transmute stone,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TransmuteStone.description,"Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_HeatFocus.label,heat focus,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_HeatFocus.description,Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_LuckTransfer.label,luck transfer,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_LuckTransfer.description,"Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BendProbability.label,bend probability,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BendProbability.description,Creates a ripple of cosmic scale that will force something to happen.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_LocationSwap.label,location swap,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_LocationSwap.description,"Using precision skipgates, swaps the positions of the caster and a visible target.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_HealthSwap.label,health swap,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_HealthSwap.description,"Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Transmutation.label,transmutation,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Transmutation.description,"Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SkillRoll.label,skillroll,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SkillRoll.description,"Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofFear.label,word of fear,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofFear.description,Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Liferot.label,liferot,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Liferot.description,"Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StealVitality.label,steal vitality,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StealVitality.description,"Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ParalysisPulse.label,paralysis pulse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ParalysisPulse.description,"Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Corpsetalk.label,corpsetalk,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Corpsetalk.description,Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Ghostwalk.label,ghostwalk,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Ghostwalk.description,"Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ConsumeBodies.label,consume bodies,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ConsumeBodies.description,Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Deathshield.label,deathshield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Deathshield.description,"Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Enthrall.label,enthrall,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Enthrall.description,"Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Resurrect.label,resurrect,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Resurrect.description,"By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Darkvision.label,darkvision,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Darkvision.description,Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Darkness.label,darkness,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Darkness.description,"Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Obscure.label,obscure,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Obscure.description,"Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Eclipse.label,eclipse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Eclipse.description,"By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Shadowskip.label,shadowskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Shadowskip.description,"Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Decoy.label,decoy,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Decoy.description,"Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ShadowFocus.label,shadowfocus,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ShadowFocus.description,"Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IntensifyShadows.label,intensify shadows,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_IntensifyShadows.description,"Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Assassinate.label,assassinate,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Assassinate.description,"Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Nightstep.label,nightstep,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Nightstep.description,"Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Painblock.label,painblock,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Painblock.description,Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofHealing.label,word of healing,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofHealing.description,"Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Stabilize.label,stabilize,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Stabilize.description,"Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofImmunity.label,word of immunity,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofImmunity.description,"Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Overshield.label,overshield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Overshield.description,"Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Focus.label,focus,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Focus.description,"Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skipshield.label,skipshield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skipshield.description,Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Invisibility.label,invisibility,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Invisibility.description,"Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RegrowLimbs.label,regrow limbs,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RegrowLimbs.description,"Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GuardianSkipbarrier.label,guardian skipbarrier,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GuardianSkipbarrier.description,"Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SolarPinhole.label,solar pinhole,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SolarPinhole.description,"Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Chunkskip.label,chunk skip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Chunkskip.description,Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Waterskip.label,waterskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Waterskip.description,"Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ChaosSkip.label,chaos skip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ChaosSkip.description,"Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skip.label,skip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skip.description,"Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Wallraise.label,wall raise,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Wallraise.description,Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Smokepop.label,smokepop,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Smokepop.description,"Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassChaosSkip.label,mass chaos skip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassChaosSkip.description,Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skipdoor.label,skipdoor,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Skipdoor.description,"Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Farskip.label,farskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Farskip.description,"Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Bolt.label,bolt,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Bolt.description,"Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ChainBolt.label,chain bolt,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ChainBolt.description,"Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Thunderbolt.label,thunderbolt,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Thunderbolt.description,"Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StaticAura.label,static aura,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StaticAura.description,"The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Recharge.label,recharge,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Recharge.description,Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BallLightning.label,ball lightning,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BallLightning.description,"The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StaticPulse.label,static pulse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_StaticPulse.description,"The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Vortex.label,vortex,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Vortex.description,"Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Hurricane.label,hurricane,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Hurricane.description,"The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Flashstorm.label,flashstorm,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Flashstorm.description,Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EnchantQuality.label,enchant quality,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EnchantQuality.description,Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Mend.label,mend,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Mend.description,Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ConjureHeatPearls.label,conjure heat pearls,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ConjureHeatPearls.description,"Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Haywire.label,haywire,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Haywire.description,"Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Power.label,power,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Power.description,Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RockConstruct.label,rock construct,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RockConstruct.description,"Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SteelConstruct.label,steel construct,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SteelConstruct.description,"Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CraftPsyRing.label,craft psyring,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CraftPsyRing.description,"Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProgress.label,word of progress,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofProgress.description,"Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ReverseEngineer.label,reverse engineer,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ReverseEngineer.description,"Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SpeedBoost.label,speedboost,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SpeedBoost.description,"Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BladeFocus.label,blade focus,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BladeFocus.description,"Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FiringFocus.label,firing focus,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_FiringFocus.description,"Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PowerLeap.label,power leap,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_PowerLeap.description,"Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AdrenalineRush.label,adrenaline rush,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AdrenalineRush.description,"Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ControlledFrenzy.label,controlled frenzy,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ControlledFrenzy.description,"Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GuidedShot.label,guided shot,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_GuidedShot.description,"Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Beckon.label,beckon,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Beckon.description,Psychically command the target to approach the caster.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Killskip.label,killskip,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Killskip.description,"Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassBeckon.label,mass beckon,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_MassBeckon.description,Psychically command the targets within an area to approach the caster.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BrambleMaze.label,bramble maze,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_BrambleMaze.description,"Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CropBurst.label,crop burst,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_CropBurst.description,"Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofAnimals.label,word of animals,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_WordofAnimals.description,"Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ManhunterPulse.label,manhunter pulse,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ManhunterPulse.description,"Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TreeSprout.label,tree sprout,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_TreeSprout.description,"Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ShieldAnimals.label,shield animals,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_ShieldAnimals.description,Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.,description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AnimalAllies.label,animal allies,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_AnimalAllies.description,"Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Shrineshield.label,shrineshield,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_Shrineshield.description,"Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EssenceTransfer.label,essence transfer,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_EssenceTransfer.description,"Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SummonPack.label,summon pack,label,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_SummonPack.description,"Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity.",description,VEF.Abilities.AbilityDef/VEF.Abilities.AbilityDef.xml,def
+VPE_RockHead.label,rocky head,label,BodyPartDef/BodyPartDef.xml,def
+VPE_RockBody.label,rocky body,label,BodyPartDef/BodyPartDef.xml,def
+VPE_MetalHead.label,metal head,label,BodyPartDef/BodyPartDef.xml,def
+VPE_MetalBody.label,metal body,label,BodyPartDef/BodyPartDef.xml,def
+VPE_Skull.label,skull,label,BodyPartDef/BodyPartDef.xml,def
+VPE_SkeletalLeg.label,skeletal leg,label,BodyPartDef/BodyPartDef.xml,def
+VPE_SkeletalArm.label,skeletal arm,label,BodyPartDef/BodyPartDef.xml,def
+VPE_RockConstructBody.label,rock construct,label,BodyDef/BodyDef.xml,def
+VPE_RockConstructBody.corePart.parts.1.customLabel,rocky body,customLabel,BodyDef/BodyDef.xml,def
+VPE_MetalConstructBody.label,metal construct,label,BodyDef/BodyDef.xml,def
+VPE_MetalConstructBody.corePart.parts.1.customLabel,metal body,customLabel,BodyDef/BodyDef.xml,def
+VPE_SkeletalBody.label,skeleton,label,BodyDef/BodyDef.xml,def
+VPE_NeuralHeatBlast.label,neural heat blast,label,DamageDef/DamageDef.xml,def
+VPE_Rot.label,rot,label,DamageDef/DamageDef.xml,def
+VPE_Rot.deathMessage,{0} has been rotted to death.,deathMessage,DamageDef/DamageDef.xml,def
+VPE_RaidPause.label,paused raid,label,GameConditionDef/GameConditionDef.xml,def
+VPE_RaidPause.description,A Chronopath is pausing a raid.,description,GameConditionDef/GameConditionDef.xml,def
+VPE_TimeQuake.label,time quake,label,GameConditionDef/GameConditionDef.xml,def
+VPE_TimeQuake.description,A massive temporal disturbance.,description,GameConditionDef/GameConditionDef.xml,def
+VPE_Hurricane.label,forced hurricane,label,GameConditionDef/GameConditionDef.xml,def
+VPE_Hurricane.description,A Staticlord is creating a hurricane.,description,GameConditionDef/GameConditionDef.xml,def
+VPE_PsychicFlashstorm.label,flashstorm,label,GameConditionDef/GameConditionDef.xml,def
+VPE_PsychicFlashstorm.description,A freak localized storm is blasting a small area with repeated lightning strikes.,description,GameConditionDef/GameConditionDef.xml,def
+VPE_PsychicFlashstorm.endMessage,The flashstorm is over.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VPE_PsychicFlashstorm.letterText,A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.,letterText,GameConditionDef/GameConditionDef.xml,def
+VPE_IntenseShadows.label,intensified shadows,label,GameConditionDef/GameConditionDef.xml,def
+VPE_IntenseShadows.description,text.todo,description,GameConditionDef/GameConditionDef.xml,def
+VPE_IntenseShadows.endMessage,The shadows return to normal.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VPE_MindControlled.label,mind control,label,HediffDef/HediffDef.xml,def
+VPE_MindControlled.description,"Psychically-induced mind control, giving absolute control to another person.",description,HediffDef/HediffDef.xml,def
+VPE_MindScramble.label,mind scramble,label,HediffDef/HediffDef.xml,def
+VPE_MindScramble.description,"Psychically-induced mind scramble, caused by attempting to be two people at once.",description,HediffDef/HediffDef.xml,def
+VPE_PsychicGuidance.label,psychic guidance,label,HediffDef/HediffDef.xml,def
+VPE_PsychicGuidance.description,Psychically-induced guidance from another person.,description,HediffDef/HediffDef.xml,def
+VPE_PsychicGuide.label,psychic guide,label,HediffDef/HediffDef.xml,def
+VPE_PsychicGuide.description,Psychically-induced absence of mind caused by giving guidance to another person.,description,HediffDef/HediffDef.xml,def
+VPE_Lucky.label,lucky,label,HediffDef/HediffDef.xml,def
+VPE_Lucky.description,"Psychically-induced luck that allows this person to always hit their target, and never be hit by their enemy.",description,HediffDef/HediffDef.xml,def
+VPE_UnLucky.label,unlucky,label,HediffDef/HediffDef.xml,def
+VPE_UnLucky.description,"Psychically-induced bad luck that stops this person from ever hitting their target, whilst always being hit by the enemy.",description,HediffDef/HediffDef.xml,def
+VPE_Recharge.label,recharge,label,HediffDef/HediffDef.xml,def
+VPE_Recharge.description,Electricity is being channeled to a nearby battery.,description,HediffDef/HediffDef.xml,def
+VPE_Vortex.label,vortex,label,HediffDef/HediffDef.xml,def
+VPE_Vortex.description,An electirical vortex is causing difficulty moving.,description,HediffDef/HediffDef.xml,def
+VPE_Hurricane.label,hurricane,label,HediffDef/HediffDef.xml,def
+VPE_Hurricane.description,A hurricane is causing difficulty moving and seeing.,description,HediffDef/HediffDef.xml,def
+VPE_Bliss.label,bliss,label,HediffDef/HediffDef.xml,def
+VPE_Bliss.description,"Waves of serenity emanate deep from within, bringing peace of mind and lowering consciousness.",description,HediffDef/HediffDef.xml,def
+VPE_AgeSickness.label,age sickness,label,HediffDef/HediffDef.xml,def
+VPE_AgeSickness.description,Age-related psychic sickness greatly reducing manipulation and consciousness.,description,HediffDef/HediffDef.xml,def
+VPE_PsychicDrone.label,psychic drone,label,HediffDef/HediffDef.xml,def
+VPE_PsychicDrone.description,"A strong psychic force affecting every enemy humanlike in the area, making them feel more disturbed, terrified, and paranoid.",description,HediffDef/HediffDef.xml,def
+VPE_IceShield.label,ice shield,label,HediffDef/HediffDef.xml,def
+VPE_IceShield.description,A psychic shield that protects from hypothermia and freezer enemies that interact with it.,description,HediffDef/HediffDef.xml,def
+VPE_FrostRay.label,frost ray,label,HediffDef/HediffDef.xml,def
+VPE_FrostRay.description,A heavily damaging and freezing ray of frost.,description,HediffDef/HediffDef.xml,def
+VPE_IceBlock.label,frozen solid,label,HediffDef/HediffDef.xml,def
+VPE_IceBlock.description,"This entity is completely frozen in a block of ice, and will not be able to move until it melts.",description,HediffDef/HediffDef.xml,def
+VPE_BlizzardSource.label,casting blizzard,label,HediffDef/HediffDef.xml,def
+VPE_BlizzardSource.description,This entity is casting blizzard.,description,HediffDef/HediffDef.xml,def
+VPE_Blizzard.label,blizzard,label,HediffDef/HediffDef.xml,def
+VPE_Blizzard.description,"A huge wind with extreme snow that lowers sight, manipulation and movement speed.",description,HediffDef/HediffDef.xml,def
+VPE_Haywire.label,haywire,label,HediffDef/HediffDef.xml,def
+VPE_Haywire.description,Psychically hacked programming that disrupts the IFF operations.,description,HediffDef/HediffDef.xml,def
+VPE_InfinitePower.label,powering,label,HediffDef/HediffDef.xml,def
+VPE_InfinitePower.description,Generating infinite electricity supply to a given structure.,description,HediffDef/HediffDef.xml,def
+VPE_AnimalOvershield.label,animal shield,label,HediffDef/HediffDef.xml,def
+VPE_AnimalOvershield.description,An overshield that protects the animal from any ranged attacks.,description,HediffDef/HediffDef.xml,def
+VPE_Smartbuzz.label,smartbuzz,label,HediffDef/HediffDef.xml,def
+VPE_Smartbuzz.description,Psychically-induced feelings of clarity and curiosity. This improves research speed as well as skill gain speed.,description,HediffDef/HediffDef.xml,def
+VPE_Essence.label,Essence of,label,HediffDef/HediffDef.xml,def
+VPE_Essence.description,Psychically-split fragment of someone's personality imbued in this very being.,description,HediffDef/HediffDef.xml,def
+VPE_Darkvision.label,darkvision,label,HediffDef/HediffDef.xml,def
+VPE_Darkvision.description,Psychically-induced ability to see through the darkness and shadows.,description,HediffDef/HediffDef.xml,def
+VPE_Darkvision_Display.label,darkvision,label,HediffDef/HediffDef.xml,def
+VPE_Darkvision_Display.description,Psychically-induced night vision.,description,HediffDef/HediffDef.xml,def
+VPE_Productivity.label,psychic productivity,label,HediffDef/HediffDef.xml,def
+VPE_Productivity.description,Psychically-induced improvement to work speed.,description,HediffDef/HediffDef.xml,def
+VPE_PsychicSoothe.label,psychic soothe,label,HediffDef/HediffDef.xml,def
+VPE_PsychicSoothe.description,"Psychically-induced, self-satisfying perceptual distortions, giving a temporary mood boost.",description,HediffDef/HediffDef.xml,def
+VPE_GroupLink.label,group link,label,HediffDef/HediffDef.xml,def
+VPE_GroupLink.description,Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals.,description,HediffDef/HediffDef.xml,def
+VPE_PsychicPain.label,psychic pain,label,HediffDef/HediffDef.xml,def
+VPE_PsychicPain.description,Psychically-induced extreme physical pain.,description,HediffDef/HediffDef.xml,def
+VPE_Protection.label,psychic protection,label,HediffDef/HediffDef.xml,def
+VPE_Protection.description,Psychically-induced physical protection from incoming damage.,description,HediffDef/HediffDef.xml,def
+VPE_Hallucination.label,hallucination,label,HediffDef/HediffDef.xml,def
+VPE_Hallucination.description,"Strong psychic suggestion that reshapes reality in the eyes of the affected individuals, making them perceive their every day life as that of a luxury.",description,HediffDef/HediffDef.xml,def
+VPE_Liferot.label,liferot,label,HediffDef/HediffDef.xml,def
+VPE_Liferot.description,"Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim.",description,HediffDef/HediffDef.xml,def
+VPE_Rot.label,rot,label,HediffDef/HediffDef.xml,def
+VPE_Rot.labelNoun,a rot,labelNoun,HediffDef/HediffDef.xml,def
+VPE_Rot.description,A rot.,description,HediffDef/HediffDef.xml,def
+VPE_Rot.comps.1.labelTendedWell,bandaged,labelTendedWell,HediffDef/HediffDef.xml,def
+VPE_Rot.comps.1.labelTendedWellInner,tended,labelTendedWellInner,HediffDef/HediffDef.xml,def
+VPE_Rot.comps.1.labelSolidTendedWell,tended,labelSolidTendedWell,HediffDef/HediffDef.xml,def
+VPE_Rot.injuryProps.destroyedLabel,Rotted away,destroyedLabel,HediffDef/HediffDef.xml,def
+VPE_Rot.injuryProps.destroyedOutLabel,Rotted away,destroyedOutLabel,HediffDef/HediffDef.xml,def
+VPE_GainedVitality.label,psychic vitality,label,HediffDef/HediffDef.xml,def
+VPE_GainedVitality.description,Psychically-induced vitality stolen from another person.,description,HediffDef/HediffDef.xml,def
+VPE_LostVitality.label,psychic weakness,label,HediffDef/HediffDef.xml,def
+VPE_LostVitality.description,Psychically-induced weakness caused by vitality being stolen by another person.,description,HediffDef/HediffDef.xml,def
+VPE_Ghostwalk.label,ghostwalk,label,HediffDef/HediffDef.xml,def
+VPE_Ghostwalk.description,Psychically-induced matter phasing.,description,HediffDef/HediffDef.xml,def
+VPE_CorpseTalk.label,corpse talk,label,HediffDef/HediffDef.xml,def
+VPE_CorpseTalk.description,Psychically-induced link with a spirit of a deceased individual.,description,HediffDef/HediffDef.xml,def
+VPE_BodiesConsumed.label,bodies consumed,label,HediffDef/HediffDef.xml,def
+VPE_BodiesConsumed.description,The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1.,description,HediffDef/HediffDef.xml,def
+VPE_DeathShield.label,death shield,label,HediffDef/HediffDef.xml,def
+VPE_DeathShield.description,Psychically-induced immortality that lasts for one day.,description,HediffDef/HediffDef.xml,def
+VPE_Obscured.label,obscured,label,HediffDef/HediffDef.xml,def
+VPE_Obscured.description,Psychically-induced invisibility.,description,HediffDef/HediffDef.xml,def
+VPE_Shadowfocus.label,shadowfocus,label,HediffDef/HediffDef.xml,def
+VPE_Shadowfocus.description,Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster.,description,HediffDef/HediffDef.xml,def
+VPE_Sacrificed.label,sacrificed,label,HediffDef/HediffDef.xml,def
+VPE_Sacrificed.description,"Psychically-induced limb removal caused by a powerful psycast. This body part will not regrow under any circumstances, even after using powerful healing artifacts.",description,HediffDef/HediffDef.xml,def
+VPE_NoPain.description,"This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain.",description,HediffDef/HediffDef.xml,def
+VPE_NoPain.label,no pain sensitivity,label,HediffDef/HediffDef.xml,def
+VPE_PsychicShock.label,psychic shock,label,HediffDef/HediffDef.xml,def
+VPE_PsychicShock.labelNoun,a psychic shock,labelNoun,HediffDef/HediffDef.xml,def
+VPE_PsychicShock.description,"A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off.",description,HediffDef/HediffDef.xml,def
+VPE_Healing.label,psychic healing,label,HediffDef/HediffDef.xml,def
+VPE_Healing.description,Psychically-induced healing boost.,description,HediffDef/HediffDef.xml,def
+VPE_BlockBleeding.label,psychic stabilization,label,HediffDef/HediffDef.xml,def
+VPE_BlockBleeding.description,Psychically-induced stasis that stops any bleeding.,description,HediffDef/HediffDef.xml,def
+VPE_Immunity.label,psychic immunity,label,HediffDef/HediffDef.xml,def
+VPE_Immunity.description,Psychically-induced immunity boost.,description,HediffDef/HediffDef.xml,def
+VPE_Overshield.label,psychic overshield,label,HediffDef/HediffDef.xml,def
+VPE_Overshield.description,Psychically-induced personal skipbarrier. Impenetrable by ranged projectiles.,description,HediffDef/HediffDef.xml,def
+VPE_GuardianSkipBarrier.label,guardian skipbarrier,label,HediffDef/HediffDef.xml,def
+VPE_GuardianSkipBarrier.description,Psychically crafted defensive barrier that generates large amounts of psychic heat in order to sustain itself.,description,HediffDef/HediffDef.xml,def
+VPE_RegrowLimbs.label,psychic regeneration coma,label,HediffDef/HediffDef.xml,def
+VPE_RegrowLimbs.description,"Psychically-induced tissue regeneration, which can close open wounds and regenerate missing body parts.",description,HediffDef/HediffDef.xml,def
+VPE_Regenerating.label,regenerating,label,HediffDef/HediffDef.xml,def
+VPE_Regenerating.description,"Regenerating wounds, new and old.",description,HediffDef/HediffDef.xml,def
+VPE_Regenerating.injuryProps.destroyedLabel,Destroyed,destroyedLabel,HediffDef/HediffDef.xml,def
+VPE_PsycastAbilityImplant.label,psylink,label,HediffDef/HediffDef.xml,def
+VPE_PsycastAbilityImplant.description,Go away cheater,description,HediffDef/HediffDef.xml,def
+VPE_FireShield.label,fire shield,label,HediffDef/HediffDef.xml,def
+VPE_FireShield.description,"A shield of fire, sets melee attackers on fire",description,HediffDef/HediffDef.xml,def
+VPE_StaticAura.label,static aura,label,HediffDef/HediffDef.xml,def
+VPE_StaticAura.description,"An aura of static electricity, causes EMP damage to everything around",description,HediffDef/HediffDef.xml,def
+VPE_SpeedBoost.label,psychic agility,label,HediffDef/HediffDef.xml,def
+VPE_SpeedBoost.description,"Psychically induced agility boost, greatly increasing movement speed.",description,HediffDef/HediffDef.xml,def
+VPE_BladeFocus.label,blade focus,label,HediffDef/HediffDef.xml,def
+VPE_BladeFocus.description,"Psychically induced combat focus, greatly enhancing melee combat capabilities.",description,HediffDef/HediffDef.xml,def
+VPE_FiringFocus.label,firing focus,label,HediffDef/HediffDef.xml,def
+VPE_FiringFocus.description,"Psychically induced combat focus, greatly enhancing ranged combat capabilities.",description,HediffDef/HediffDef.xml,def
+VPE_AdrenalineRush.label,psychic rush,label,HediffDef/HediffDef.xml,def
+VPE_AdrenalineRush.description,"Psychically induced adrenaline rush, increasing sight, hearing and movement capabilities.",description,HediffDef/HediffDef.xml,def
+VPE_ControlledFrenzy.label,psychic frenzy,label,HediffDef/HediffDef.xml,def
+VPE_ControlledFrenzy.description,"Temporary, psychically induced frenzy. The energy restores itself with each consecutive kill.",description,HediffDef/HediffDef.xml,def
+VPE_GuidedShot.label,guided shot,label,HediffDef/HediffDef.xml,def
+VPE_GuidedShot.description,Psychically induced insane accuracy.,description,HediffDef/HediffDef.xml,def
+VPE_Foretelling.label,foretelling,label,HistoryEventDef/HistoryEventDef.xml,def
+VPE_GiftedEltex.label,gifted eltex,label,HistoryEventDef/HistoryEventDef.xml,def
+VPE_SoldEltex.label,sold eltex,label,HistoryEventDef/HistoryEventDef.xml,def
+VPE_EltexMeteorite.label,eltex meteorite,label,IncidentDef/IncidentDef.xml,def
+VPE_EltexMeteorite.letterLabel,Eltex Meteorite,letterLabel,IncidentDef/IncidentDef.xml,def
+VPE_EltexMeteorite.letterText,"A large meteorite has struck ground in the area. It has left behind a lump of eltex. Eltex can be used to create psyfocus-enhancing gear, or sold to the Empire to gain honor.",letterText,IncidentDef/IncidentDef.xml,def
+VPE_EssenceTransfer.reportString,transfering essence to TargetA,reportString,JobDef/JobDef.xml,def
+VPE_StandFreeze.reportString,standing.,reportString,JobDef/JobDef.xml,def
+VPE_Group.label,group,label,MeditationFocusDef/MeditationFocusDef.xml,def
+VPE_Archotech.label,archotechnology,label,MeditationFocusDef/MeditationFocusDef.xml,def
+VPE_Science.label,science,label,MeditationFocusDef/MeditationFocusDef.xml,def
+VPE_Wealth.label,wealth,label,MeditationFocusDef/MeditationFocusDef.xml,def
+VPE_Wander_Sad.label,sad wandering,label,MentalStateDef/MentalStateDef.xml,def
+VPE_Wander_Sad.recoveryMessage,{0} is no longer wandering in sadness.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VPE_Wander_Sad.beginLetterLabel,sad wander,beginLetterLabel,MentalStateDef/MentalStateDef.xml,def
+VPE_Wander_Sad.beginLetter,{0} has broken down and is wandering around in sadness.,beginLetter,MentalStateDef/MentalStateDef.xml,def
+VPE_Wander_Sad.baseInspectLine,Mental state: Sad wandering,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VPE_ManhunterTerritorial.label,territorial manhunter,label,MentalStateDef/MentalStateDef.xml,def
+VPE_ManhunterTerritorial.beginLetter,{0} has become a territorial manhunter!,beginLetter,MentalStateDef/MentalStateDef.xml,def
+VPE_ManhunterTerritorial.recoveryMessage,{0}'s territorial defense instincts have come to an end.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VPE_ManhunterTerritorial.baseInspectLine,Maddened: Territorial Manhunter,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VPE_Manhunter.label,rage,label,MentalStateDef/MentalStateDef.xml,def
+VPE_Manhunter.beginLetter,{0} is raging!,beginLetter,MentalStateDef/MentalStateDef.xml,def
+VPE_Manhunter.recoveryMessage,{0}'s rage has come to an end.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VPE_Manhunter.baseInspectLine,Raging,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+VPE_Flee.label,fleeing,label,MentalStateDef/MentalStateDef.xml,def
+VPE_Flee.beginLetterLabel,flee,beginLetterLabel,MentalStateDef/MentalStateDef.xml,def
+VPE_Flee.beginLetter,{0} is fleeing.,beginLetter,MentalStateDef/MentalStateDef.xml,def
+VPE_Flee.recoveryMessage,{0} is no longer fleeing.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+VPE_Flee.baseInspectLine,Mental state: Fleeing,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+Empire_Caster_Conflagrator.label,coflagator,label,PawnKindDef/PawnKindDef.xml,def
+Empire_Caster_Archotechist.label,archotechist,label,PawnKindDef/PawnKindDef.xml,def
+Empire_Caster_Warlord_Ranged.label,warlord,label,PawnKindDef/PawnKindDef.xml,def
+Empire_Caster_Warlord_Melee.label,warlord,label,PawnKindDef/PawnKindDef.xml,def
+Empire_Caster_Protector.label,protector,label,PawnKindDef/PawnKindDef.xml,def
+Tribal_Caster_Wildspeaker.label,wildspeaker,label,PawnKindDef/PawnKindDef.xml,def
+Tribal_Caster_Conflagrator.label,conflagator,label,PawnKindDef/PawnKindDef.xml,def
+Tribal_Caster_Frostshaper.label,frostshaper,label,PawnKindDef/PawnKindDef.xml,def
+Tribal_Caster_Staticlord.label,staticlord,label,PawnKindDef/PawnKindDef.xml,def
+VPE_Empath.label,empath,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Empath.description,"Empath psycasts are focused on enhancing the mood of others, one way or another.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Empath.tooltip,"Empaths are psycasters committed to serving their community and boosting their kin’s spirits. Known to inspire joy with but a few words, as well as snap people out of mental states, particularly powerful empaths can emit strong psychic soothes or even skip blood-related family members from across the globe.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Skipmaster.label,skipmaster,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Skipmaster.description,Skipmaster psycasts are focused on using skipgates to change the course of battle or the life of the colony.,description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Skipmaster.tooltip,"Skipmasters often served the Empire by establishing convoluted skipdoor networks. Masters of logistics and bending space, they can skip people to desired locations and can even use skipgates for everyday chores - such as creating solar pinholes or skipping water to extinguish flames.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Conflagrator.label,conflagrator,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Conflagrator.description,"Conflagrator path is focused on manipulating fire, heat and energy to eliminate enemies.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Conflagrator.tooltip,"Conflagrators are the masters of flame, capable of eradicating entire regiments of enemy infantry using powerful fire tornadoes and explosions. Greatly respected across all psycaster paths, conflagrators bring fear, death and the stench of burnt meat wherever they go.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Protector.label,protector,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Protector.description,"Protector path is focused on providing aid and protection to your pawns, stopping them from dying and allowing you to escape from dangerous situations unscratched.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Protector.tooltip,"Protectors serve on the front lines, defending the brave soldiers from harm. Not only can they stop projectiles using powerful skipshields, but they can also help the body recover from wounds, as well as boost the natural regeneration and immunity of those in need.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Warlord.label,warlord,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Warlord.description,Warlord path is focused on upgrading the warfare capabilities of the Psycaster and psycaster alone - as all the Warlord psycasts are to an extent self-cast.,description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Warlord.tooltip,"Masters of warfare, warlords serve only themselves, able to improve their perception, reflexes, speed and stamina at will. Feared anywhere they go, a powerful warlord will never miss a shot and their blade will always find its target.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Chronopath.label,chronopath,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Chronopath.description,"Chronopath path is focused on manipulating time, making things older, completing growth of plants, or de-aging your pawns.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Chronopath.tooltip,"Chronopaths are rare and mysterious psycasters, capable of manipulating the fabric of time itself. By creating skipgates through time rather than space, chronopaths can have weapons assemble themselves, alter someone’s age at will, and even create bizarre timequakes that accelerate the time of everything around them by dozens of years.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archotechist.label,archotechist,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archotechist.description,"Archotechist path is a special path locked only for Empire-based psycasters. It allows spreading insanity, using psychic shock to down any wrong-doers, and to offload neural heat to others, as well as use neural heat in combat.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archotechist.tooltip,"A path so mysterious only imperial scholars can confirm rumours, archotechists are able to tap into archotech engines and exert power so ridiculous and bizarre that it really makes one question their sanity. Archotechists can simply drive entire armies to insanity, and can even manipulate neural heat to mutilate their adversaries.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Necropath.label,necropath,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Necropath.description,"Necropath is a path focused on distributing fear and death, whilst also gaining from death and corpses. You can resurrect fallen allies, prohibit them from dying and raise hordes of skeletons to fight for your cause.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Necropath.tooltip,"Masters of the dark arts, necropaths live to defy death itself. They can cast fear into the hearts of their enemies, emit a paralytic pulse to knock attackers down, rot away the flesh of living bodies and ultimately summon the dead - either through wicked enthrallment or sacred resurrection.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Staticlord.label,staticlord,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Staticlord.description,"Staticlord is a path focused on blasting enemies with electricity, disabling electronics and controlling the storm itself.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Staticlord.tooltip,"Lords of thunder and lightning, staticlords are excellent psycasters when it comes to controlling the flow of electricity and fighting against mechanoid swarms. They can summon powerful lightning bolts in many shapes and forms, as well as manipulate the weather to generate localised lightning storms and hurricanes.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archon.label,archon,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archon.description,"Archon path is the path of a psychic leader, providing various buffs to the entire colony, but also ruling with an iron fist. It’s also a path that allows you to drain enemy psycasters and gain Psycast levels this way.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Archon.tooltip,"The path of kings, archons often occupy the highest seats in their local governments. Being able to easily bond with others, manipulate their enemies either through friendship or pain, with powerful archons strengthening themselves by draining the psyessence of other psycasters.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Frostshaper.label,frostshaper,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Frostshaper.description,"Frostshaper is a path about manipulating the elements, particularly the cold, to your advantage. Not only you get to use the cold to freeze and slow enemies, frostshapers also gain access to many utility psycasts that either construct shelters out of ice blocks, or create cooling crystals that can be used both as a temporary fridge, and a trap.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Frostshaper.tooltip,"Frostshapers are psycaster who devoted their life to pursue the cold embrace of frost. This makes them equally as deadly as conflagrators, capable of breathing freezing air and creating localised cold zones that freeze everything in seconds. Frostshapers can also create walls and obstacles out of ice, as well as summon crystals of pure entropy that plunge entire rooms into subzero temperatures.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Wildspeaker.label,wildspeaker,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Wildspeaker.description,Wildspeaker path is a special path locked only for Tribal-based psycasters. It’s all about controlling nature and animals for defense and survival.,description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Wildspeaker.tooltip,"A secret path of the tribal communities, wildspeaking is the art of living in harmony with the forest and nature, and being able to summon the aid of the forest when needed. Tribal wildspeakers are known to control packs of territorial animals, be protected from all damage by an impenetrable shield, and they can also seem to make brambles and trees sprout out of the ground on a whim.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Harmonist.label,harmonist,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Harmonist.description,"Harmonists are all about manipulating the balance of the universe. Their abilities are never a clear benefit or a drawback, and they always come with a price one way or another.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Harmonist.tooltip,"Harmonists alter the probability, luck and balance of the universe. They are able to peak under the veil and adjust the scales as they desire, controlling the minds of unsuspecting foes, changing what has happened,influencing what might happen or even overriding the personal history of others.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Technomancer.label,technomancer,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Technomancer.description,"Technomancers are masters of technology, knowledge and research, capable of using psychic energy to aid in concept exploration, but also to breathe life into small-scale constructs that can help and defend them.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Technomancer.tooltip,"Masters of knowledge and technology, technomancers can improve existing technology, generate infinite power, create constructs out of seemingly worthless materials as well as reverse engineer anything they can get their hands on. Especially powerful technomancers can even use eltex to create psyrings, essentially sharing their knowledge of the psycasting art with other amateur psycasters.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Nightstalker.label,Nightstalker,label,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Nightstalker.description,"Nightstalkers are warriors of the dark, gaining many combat related benefits when shrouded in the shadows.",description,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_Nightstalker.tooltip,"Silent assassins who strike from the shadows, nightstalkers move under the cover of darkness, gaining power from the absence of light. They are capable of skipping to wherever  darkness prevails and executing multiple, near-simultaneous strikes to their target’s heart.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/VanillaPsycastsExpanded.PsycasterPathDef.xml,def
+VPE_EltexMeteor.questNameRules.rulesStrings.0,questName->Eltex Meteor,li,QuestScriptDef/QuestScriptDef.xml,def
+VPE_EltexMeteor.questDescriptionRules.rulesStrings.0,"questDescription->A large meteorite has struck ground nearby. It has left behind a lump of eltex. Eltex can be used to create psyfocus-enhancing gear, or sold to the Empire to gain honor.
+You can send a mining party to retrieve it, but chances are if you wait long enough, someone else will lay claim to it.",li,QuestScriptDef/QuestScriptDef.xml,def
+VPE_EltexMeteor.root.nodes.7.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VPE_EltexMeteor.root.nodes.7.node.nodes.0.text,Others have mined the Eltex meteor. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VPE_Make_EltexRobe.label,make eltex robe,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexRobe.description,Make an eltex robe.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexRobe.jobString,Making eltex robe.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexMask.label,make eltex mask,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexMask.description,Make an eltex mask.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexMask.jobString,Making eltex mask.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexCape.label,make eltex cape,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexCape.description,Make an eltex cape.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexCape.jobString,Making eltex cape.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexVest.label,make eltex vest,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexVest.description,Make an eltex vest.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexVest.jobString,Making eltex vest.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexShirt.label,make eltex shirt,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexShirt.description,Make an eltex shirt.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexShirt.jobString,Making eltex shirt.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexStaff.label,make eltex staff,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexStaff.description,Make an eltex staff.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexStaff.jobString,Making eltex staff.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexHelmet.label,make eltex helmet,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexHelmet.description,Make an eltex helmet.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexHelmet.jobString,Making eltex helmet.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexSkullcap.label,make eltex skullcap,label,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexSkullcap.description,Make an eltex skullcap.,description,RecipeDef/RecipeDef.xml,def
+VPE_Make_EltexSkullcap.jobString,Making eltex skullcap.,jobString,RecipeDef/RecipeDef.xml,def
+VPE_EltexGear.label,eltex gear,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VPE_EltexGear.description,"Tailor and craft complex eltex apparel, capable of improving psychic focus of your psycasters, as well as an eltex-infused staff.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VPE_CasterGear.label,caster gear,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VPE_CasterGear.description,"Craft simple psycaster apparel, armor and gear using eltex.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VPE_EltexMeteor.label,eltex meteor,label,SitePartDef/SitePartDef.xml,def
+VPE_EltexMeteor.description,"A location of an eltex meteor, highly desired by the empire. Travelling here will allow you to obtain eltex that can be used to craft psycasting gear.",description,SitePartDef/SitePartDef.xml,def
+VPE_PsyfocusCostFactor.label,psyfocus cost factor,label,StatDef/StatDef.xml,def
+VPE_PsyfocusCostFactor.description,A multiplier on psyfocus cost of psycasts.,description,StatDef/StatDef.xml,def
+VPE_PsychicEntropyMinimum.label,minimum neural heat,label,StatDef/StatDef.xml,def
+VPE_PsychicEntropyMinimum.description,"The minimum amount of neural heat. This is increased by maintaining certain psycasts, which give heat that never fades.",description,StatDef/StatDef.xml,def
+VPE_Basilicus.label,Basilicus Bestower,label,StorytellerDef/StorytellerDef.xml,def
+VPE_Basilicus.description,"Basilicus enforces the will of the emperor wherever he goes, bestowing great powers on those who deserve it. Epic ballads become even more fantastic if everyone has access to psychic powers.",description,StorytellerDef/StorytellerDef.xml,def
+VPE_Skipdoor.label,skipdoor,label,ThingDef/ThingDef.xml,def
+VPE_Skipdoor.description,A psychic entry-point to a portal network.,description,ThingDef/ThingDef.xml,def
+VPE_IceCrystal.label,ice crystal,label,ThingDef/ThingDef.xml,def
+VPE_IceCrystal.description,A small crystal of ice that cools down the temperature in the room. Can help freeze perishable items.,description,ThingDef/ThingDef.xml,def
+VPE_IceWall.label,ice wall,label,ThingDef/ThingDef.xml,def
+VPE_IceWall.description,A fragile wall made of ice. It will melt in heat.,description,ThingDef/ThingDef.xml,def
+VPE_FireBeam.label,fire beam,label,ThingDef/ThingDef.xml,def
+VPE_FireTornado.label,fire tornado,label,ThingDef/ThingDef.xml,def
+VPE_Vortex.label,vortex,label,ThingDef/ThingDef.xml,def
+VPE_HurricaneMaker.label,hurricane maker,label,ThingDef/ThingDef.xml,def
+VPE_TimeSphere.label,time sphere,label,ThingDef/ThingDef.xml,def
+VPE_SkyChanger.label,sky changer,label,ThingDef/ThingDef.xml,def
+VPE_BrambleSpawner.label,emerging,label,ThingDef/ThingDef.xml,def
+VPE_WildPlantSpawner.label,emerging,label,ThingDef/ThingDef.xml,def
+VPE_TreeSpawner.label,emerging,label,ThingDef/ThingDef.xml,def
+VPE_Shrineshield_Small.label,small shrineshield,label,ThingDef/ThingDef.xml,def
+VPE_Shrineshield_Large.label,large shrineshield,label,ThingDef/ThingDef.xml,def
+VPE_Darkness.label,darkness,label,ThingDef/ThingDef.xml,def
+VPE_Decoy.label,decoy,label,ThingDef/ThingDef.xml,def
+VPE_Flameball.label,flameball,label,ThingDef/ThingDef.xml,def
+VPE_Flameball.description,A ball of flame launched by a conflagrator,description,ThingDef/ThingDef.xml,def
+VPE_FireBreath.label,fire breath,label,VEF.Weapons.ExpandableProjectileDef/VEF.Weapons.ExpandableProjectileDef.xml,def
+VPE_EyeBlast.label,eye blast,label,ThingDef/ThingDef.xml,def
+VPE_Bolt.label,bolt,label,ThingDef/ThingDef.xml,def
+VPE_Bolt.description,A bolt launched by a staticlord,description,ThingDef/ThingDef.xml,def
+VPE_ChainBolt.label,chain bolt,label,ThingDef/ThingDef.xml,def
+VPE_BallLightning.label,ball lightning,label,ThingDef/ThingDef.xml,def
+VPE_IceBreathe.label,ice breathe,label,VEF.Weapons.ExpandableProjectileDef/VEF.Weapons.ExpandableProjectileDef.xml,def
+VPE_IceSpike.label,ice spike,label,ThingDef/ThingDef.xml,def
+VPE_IceSpike.description,A spike of ice launched by the frostshaper.,description,ThingDef/ThingDef.xml,def
+VPE_FrostRay.label,frost ray,label,ThingDef/ThingDef.xml,def
+VPE_SmallMeteorite_Incoming.label,small meteorite,label,ThingDef/ThingDef.xml,def
+VPE_SoulFromSky.label,soul,label,ThingDef/ThingDef.xml,def
+VPE_EltexOre.label,eltex ore,label,ThingDef/ThingDef.xml,def
+VPE_EltexOre.description,Rock containing bits of eltex.,description,ThingDef/ThingDef.xml,def
+VPE_Eltex.label,eltex,label,ThingDef/ThingDef.xml,def
+VPE_Eltex.description,"An extremely mysterious mineral that is both malleable and serves as a physical conduit for psycasts. As psycasting originates from archotech engines, some speculate that either these minerals were manufactured by the archotechs or that they developed their engines using this strange mineral.",description,ThingDef/ThingDef.xml,def
+VPE_Apparel_EltexMask.label,eltex mask,label,ThingDef/ThingDef.xml,def
+VPE_Apparel_EltexMask.description,An artistically impressive mask emanating psychic energy. Hides the face of the wearer but provides little physical protection. Its special materials enhance the wearer's psychic sensitivity and dissipate neural heat.,description,ThingDef/ThingDef.xml,def
+VPE_Apparel_EltexCape.label,eltex cape,label,ThingDef/ThingDef.xml,def
+VPE_Apparel_EltexCape.description,A long cape of mystical design. It hangs over one side of the torso. Its special materials enhance the wearer's psychic sensitivity and dissipate neural heat.,description,ThingDef/ThingDef.xml,def
+VPE_Apparel_PlateArmorPrestige.label,prestige plate armor,label,ThingDef/ThingDef.xml,def
+VPE_Apparel_PlateArmorPrestige.description,"Overlapping solid plates of armor covering the entire body from neck to feet.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.",description,ThingDef/ThingDef.xml,def
+VPE_Psyring.label,psyring,label,ThingDef/ThingDef.xml,def
+VPE_Psyring.description,"An eltex ring created by a skilled technomancer. It holds the knowledge of one particular psycast, and can be used by other psycasters to cast it.",description,ThingDef/ThingDef.xml,def
+VPE_Filth_Metal.label,metal slag,label,ThingDef/ThingDef.xml,def
+VPE_Filth_Rock.label,rock rubble,label,ThingDef/ThingDef.xml,def
+VPE_SteelConstruct.label,steel construct,label,ThingDef/ThingDef.xml,def
+VPE_SteelConstruct.description,"A piece of steel slag, animated by powerful psychic energy. It will engage nearby threats and defend the master from any harm that may come to them.\n\n<color=#E5E54C>Gameplay effect:</color>Constructs generate constant heat for the caster that summoned them. Keeping too many constructs alive could prevent the psycaster from casting other abilities.",description,ThingDef/ThingDef.xml,def
+VPE_SteelConstruct.tools.0.label,head,label,ThingDef/ThingDef.xml,def
+VPE_SteelConstruct.label,steel construct,label,PawnKindDef/PawnKindDef.xml,def
+VPE_RockConstruct.label,rock construct,label,ThingDef/ThingDef.xml,def
+VPE_RockConstruct.description,"A piece of rock chunk, animated by powerful psychic energy. It will do simple work around the colony tirelessly and with maximum dedication.\n\n<color=#E5E54C>Gameplay effect:</color>Constructs generate constant heat for the caster that summoned them. Keeping too many constructs alive could prevent the psycaster from casting other abilities.",description,ThingDef/ThingDef.xml,def
+VPE_RockConstruct.tools.0.label,head,label,ThingDef/ThingDef.xml,def
+VPE_RockConstruct.label,rock construct,label,PawnKindDef/PawnKindDef.xml,def
+VPE_SummonedSkeleton.label,skeleton,label,ThingDef/ThingDef.xml,def
+VPE_SummonedSkeleton.description,"A psychically re-animated husk of a deceased individual. Extremely aggressive, but will soon wither away into nothing.",description,ThingDef/ThingDef.xml,def
+VPE_SummonedSkeleton.tools.0.label,left fist,label,ThingDef/ThingDef.xml,def
+VPE_SummonedSkeleton.tools.1.label,right fist,label,ThingDef/ThingDef.xml,def
+VPE_SummonedSkeleton.label,skeleton,label,PawnKindDef/PawnKindDef.xml,def
+VPE_Bliss.stages.0.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.0.description,Maybe it isn't all bad.,description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.1.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.1.description,I think things are getting better.,description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.2.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.2.description,"Everything is improving, slowly but surely.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.3.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.3.description,"I'm feeling good right now, things are looking up.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.4.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.4.description,"I feel warm and fuzzy, just being alive feels great.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.5.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.5.description,"I'm just about to burst with excitement. I love this colony, I love this world and all the lives on it.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.6.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.6.description,"All the colors of this world are so vivid, the sounds are so tranquil, the air is so crisp. This life leaves me breathless.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.7.label,bliss,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Bliss.stages.7.description,"This is it, isn't it? I've truly reached nirvana itself. Life itself is the very embodiment of happiness.",description,ThoughtDef/ThoughtDef.xml,def
+VPE_MindWiped.stages.0.label,mind wiped,label,ThoughtDef/ThoughtDef.xml,def
+VPE_MindWiped.stages.0.description,"I don’t remember anything, I’m exploring everything anew!",description,ThoughtDef/ThoughtDef.xml,def
+VPE_TimeQuake.stages.0.label,time quake,label,ThoughtDef/ThoughtDef.xml,def
+VPE_TimeQuake.stages.0.description,Everyone I knew has changed so much. This timequake really did a number on me.,description,ThoughtDef/ThoughtDef.xml,def
+VPE_Future.stages.0.label,I know my future!,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Future.stages.0.description,"I know my future, and things are looking good!",description,ThoughtDef/ThoughtDef.xml,def
+VPE_Thrall.stages.0.label,Thrall,label,ThoughtDef/ThoughtDef.xml,def
+VPE_Thrall.stages.0.description,Ughhh ugghhh aaaahhhh,description,ThoughtDef/ThoughtDef.xml,def
+VPE_Thrall.degreeDatas.0.label,thrall,label,TraitDef/TraitDef.xml,def
+VPE_Thrall.degreeDatas.0.description,"Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",description,TraitDef/TraitDef.xml,def
+VPE_MeleeWeapon_EltexDagger.label,eltex dagger,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexDagger.description,"A medieval dagger threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, as it follows the same idea as any other knife: A handle for holding and a sharp edge for cutting.",description,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexDagger.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexDagger.tools.1.label,blade,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexDagger.tools.2.label,point,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexMace.label,eltex mace,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexMace.description,"A medieval mace threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon, engineered for efficient swinging and deadly impacts.",description,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexMace.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexMace.tools.1.label,head,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexSword.label,eltex sword,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexSword.description,"A medieval sword threaded with psychic focusing materials. While it enhances the wielder’s psychic sensitivity and neural heat dissipation, it also serves as an excellent melee weapon. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons.",description,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexSword.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexSword.tools.1.label,point,label,ThingDef/ThingDef.xml,def
+VPE_MeleeWeapon_EltexSword.tools.2.label,edge,label,ThingDef/ThingDef.xml,def
+VPE_HeatPearls.label,heat pearls,label,ThingDef/ThingDef.xml,def
+VPE_HeatPearls.description,"Mystical heat pearls created by a technomancer in a process of condensing psychic heat into a physical form. They can be thrown at the other psycasters to unleash an insane amount of psychic heat, disabling their psycasting ability for the short duration.",description,ThingDef/ThingDef.xml,def
+VPE_HeatPearls.verbs.0.label,throw heat pearl,label,ThingDef/ThingDef.xml,def

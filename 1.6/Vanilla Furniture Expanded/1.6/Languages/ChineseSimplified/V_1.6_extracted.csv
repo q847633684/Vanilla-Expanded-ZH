@@ -1,0 +1,198 @@
+key,text,tag,file,type
+VFE.FilthStored,Amount of filth stored: {0}\nContainer filled: {1},VFE.FilthStored,Keys.xml,keyed
+VFE.FilthStoredBeauty,Container filled ({1}): {0},VFE.FilthStoredBeauty,Keys.xml,keyed
+VFE.SetTargetCleanup,Container cleanup threshold: {0},VFE.SetTargetCleanup,Keys.xml,keyed
+VFE.CannotPlaceOnWall,Cannot be place inside a wall.,VFE.CannotPlaceOnWall,Keys.xml,keyed
+VFE.ComputerNeedChairs,Computer needs a chair,VFE.ComputerNeedChairs,Keys.xml,keyed
+VFE.ComputerNeedChairsDesc,One of your computers does not have any adjacent chair.\n\nBuild adjacent chair or stool to allow your colonists to use the computer.,VFE.ComputerNeedChairsDesc,Keys.xml,keyed
+VFE.RouletteTableOnWall,Roulette needs space,VFE.RouletteTableOnWall,Keys.xml,keyed
+VFE.RouletteTableOnWallDesc,One of your roulette tables is adjacent to an obstruction that will prevent colonists from using it.\n\nA roulette table needs clear space around it on all sides to be usable.,VFE.RouletteTableOnWallDesc,Keys.xml,keyed
+VFE.SunbathingPossibleForPawn,Sunbathing possible for {PAWNLIST},VFE.SunbathingPossibleForPawn,Keys.xml,keyed
+VFE.SunbathingPossibleGeneric,"Sunbathing possible, assuming temperature is comfortable and colonists enjoy outdoor activities",VFE.SunbathingPossibleGeneric,Keys.xml,keyed
+VFE.SunbathingNotPossible,Sunbathing not possible:,VFE.SunbathingNotPossible,Keys.xml,keyed
+VFE.SunbathingNotPossible.UnderRoof,under a roof,VFE.SunbathingNotPossible.UnderRoof,Keys.xml,keyed
+VFE.SunbathingNotPossible.BadWeather,bad weather,VFE.SunbathingNotPossible.BadWeather,Keys.xml,keyed
+VFE.SunbathingNotPossible.NotSunny,not sunny enough,VFE.SunbathingNotPossible.NotSunny,Keys.xml,keyed
+VFE.SunbathingNotPossible.PawnOutdoors,{PAWN_labelShort} doesn't enjoy outdoors,VFE.SunbathingNotPossible.PawnOutdoors,Keys.xml,keyed
+VFE.SunbathingNotPossible.PawnComfortableTemperature,not comfortable temperature for {PAWN_labelShort},VFE.SunbathingNotPossible.PawnComfortableTemperature,Keys.xml,keyed
+VFE_AnimalSarcophagus.label,animal sarcophagus,label,ThingDef/ThingDef.xml,def
+VFE_AnimalSarcophagus.description,An ornamented burial receptacle for the honored dead animals.,description,ThingDef/ThingDef.xml,def
+Bed_StoneSlab.label,chiseled bed,label,ThingDef/ThingDef.xml,def
+Bed_StoneSlab.description,A simple yet beautiful stone slab used for sleeping. It offers minimal comfort but is durable and fireproof.,description,ThingDef/ThingDef.xml,def
+VFE_Bed_StoneSlabDouble.label,chiseled double bed,label,ThingDef/ThingDef.xml,def
+VFE_Bed_StoneSlabDouble.description,A simple yet beautiful stone slab used for sleeping that fits two people. It offers minimal comfort but is durable and fireproof.,description,ThingDef/ThingDef.xml,def
+Bed_Simple.label,simple bed,label,ThingDef/ThingDef.xml,def
+Bed_Simple.description,"A somewhat comfy net and pillow rested on a sturdy frame. Due to the simple construction, quality is not a factor in this bed.",description,ThingDef/ThingDef.xml,def
+VFE_Bed_SimpleDouble.label,simple double bed,label,ThingDef/ThingDef.xml,def
+VFE_Bed_SimpleDouble.description,"A somewhat comfy net and pillow rested on a sturdy frame that fits two people. Due to the simple construction, quality is not a factor in this bed.",description,ThingDef/ThingDef.xml,def
+Seat_Cushion.label,sitting cushion,label,ThingDef/ThingDef.xml,def
+Seat_Cushion.description,A soft cushion designed for sitting. More comfortable than a stool but still a simple seating option.,description,ThingDef/ThingDef.xml,def
+Seat_Bench.label,bench,label,ThingDef/ThingDef.xml,def
+Seat_Bench.description,"A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere.",description,ThingDef/ThingDef.xml,def
+Seat_SquareChair.label,school chair,label,ThingDef/ThingDef.xml,def
+Seat_SquareChair.description,"An uncomfortable school chair. Can be used at tables, work stations, and elsewhere. Improves the learning rate when adjacent to the school desk.",description,ThingDef/ThingDef.xml,def
+Table_1x1c.label,table (1x1),label,ThingDef/ThingDef.xml,def
+Table_Counter.label,counter,label,ThingDef/ThingDef.xml,def
+Table_Counter.description,People eat off counters when chairs are placed facing them,description,ThingDef/ThingDef.xml,def
+VFE_CoffeeTable.label,coffee table,label,ThingDef/ThingDef.xml,def
+VFE_CoffeeTable.description,A small table which makes nearby armchairs and couches a little bit more comfortable. Must be placed directly adjacent to the couch or an armchair. Placing more than one coffee table near the same couch has no effect.,description,ThingDef/ThingDef.xml,def
+Stone_Campfire.label,firepit,label,ThingDef/ThingDef.xml,def
+Stone_Campfire.description,"Cooks meals and produces heat, but burns wood in the process. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.",description,ThingDef/ThingDef.xml,def
+Radio_Industrial.label,industrial radio,label,ThingDef/ThingDef.xml,def
+Radio_Industrial.description,"An industrial-era radio for playing music and spoken broadcasts. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. Provides passive music recreation to those that can hear it.",description,ThingDef/ThingDef.xml,def
+Radio_Spacer.label,longwave radio,label,ThingDef/ThingDef.xml,def
+Radio_Spacer.description,"A state-of-the-art, high-fidelity radio that uses advanced longwave transmission to deliver crystal-clear music, broadcasts, and interstellar transmissions. Even on the rimworlds, someone out there is always transmitting something - whether it’s news, music, or distant voices from the void..",description,ThingDef/ThingDef.xml,def
+Joy_Arcade.label,arcade machine,label,ThingDef/ThingDef.xml,def
+Joy_Arcade.description,"A bulky, coin-operated arcade cabinet with an aging CRT screen and colorful buttons. Though outdated, it still provides hours of digital entertainment. Classic games never truly die.",description,ThingDef/ThingDef.xml,def
+Joy_InudstrialComputer.label,old computer,label,ThingDef/ThingDef.xml,def
+Joy_InudstrialComputer.description,"A bulky, outdated computer standing on a small desk. The screen flickers, the keys stick, and it hums with age, but it still runs simple programs. There's always some archaic software waiting to be used.",description,ThingDef/ThingDef.xml,def
+Joy_ModernComputer.label,modern computer,label,ThingDef/ThingDef.xml,def
+Joy_ModernComputer.description,"A sleek, high-performance computing station housed on a sturdy desk. Equipped with a fast processor, an ergonomic keyboard, and a crisp, flat-panel display, it offers a vast range of software: whether for research, entertainment, or light interstellar networking.",description,ThingDef/ThingDef.xml,def
+Joy_Piano.label,upright piano,label,ThingDef/ThingDef.xml,def
+Joy_Piano.description,A compact upright piano designed for musical recreation. A great way to develop artistic skills and entertain others.,description,ThingDef/ThingDef.xml,def
+Joy_RouletteTable.label,roulette table,label,ThingDef/ThingDef.xml,def
+Joy_RouletteTable.description,"A sophisticated gambling table designed for playing roulette. A thrilling mix of chance and strategy, making it a centerpiece of any high-end casino or social space.",description,ThingDef/ThingDef.xml,def
+Joy_DartsBoard.label,darts board,label,ThingDef/ThingDef.xml,def
+Joy_DartsBoard.description,A simple dartboard mounted on a stand. A fun way to practice accuracy and hand-eye coordination. It trains shooting ability.,description,ThingDef/ThingDef.xml,def
+Joy_PunchingBag.label,punching bag,label,ThingDef/ThingDef.xml,def
+Joy_PunchingBag.description,"A sturdy, stand-mounted punching bag for combat training and stress relief. It trains melee combat ability.",description,ThingDef/ThingDef.xml,def
+VFE_Lounger.label,lounger,label,ThingDef/ThingDef.xml,def
+VFE_Lounger.description,"A reclining cushioned lounger designed for relaxation. Offers superior comfort but is not ideal for deep, restful sleep. Allows for sunbathing recreation.",description,ThingDef/ThingDef.xml,def
+Misc_FileCabinet.label,filing cabinet,label,ThingDef/ThingDef.xml,def
+Misc_FileCabinet.description,Increases research speed when placed near a research bench. One research bench can use up to two filing cabinets.,description,ThingDef/ThingDef.xml,def
+Shelf_WeaponRack.label,weapon rack,label,ThingDef/ThingDef.xml,def
+Shelf_WeaponRack.description,"A shelf for storing weapons. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.",description,ThingDef/ThingDef.xml,def
+Bin_Small.label,small bin,label,ThingDef/ThingDef.xml,def
+Bin_Small.description,A small bin to help keep the surrounding area somewhat clean. Slowly removes trash and filth in a 10-cell radius.,description,ThingDef/ThingDef.xml,def
+Bin_Large.label,large bin,label,ThingDef/ThingDef.xml,def
+Bin_Large.description,A spacious waste disposal unit that efficiently keeps the surrounding area clean. Slowly removes trash and filth in a 15-cell radius.,description,ThingDef/ThingDef.xml,def
+VFE_LongPlantPot.label,long plant pot,label,ThingDef/ThingDef.xml,def
+VFE_LongPlantPot.description,Plant decorative flowers here to improve the mood of people nearby. Designed to be combined with other plant pots to form various shapes.,description,ThingDef/ThingDef.xml,def
+VFE_DeskLamp.label,desk lamp,label,ThingDef/ThingDef.xml,def
+VFE_DeskLamp.description,An electrical desk lamp that lights a small area. People need light to move and work at full speed.,description,ThingDef/ThingDef.xml,def
+VFE_FloorLamp.label,floor lamp,label,ThingDef/ThingDef.xml,def
+VFE_FloorLamp.description,"A low-profile light source embedded into the floor. While not as bright as a standing lamp, it provides subtle, even lighting without obstructing movement. Does not short circuit in rain.",description,ThingDef/ThingDef.xml,def
+Light_Streetlamp.label,outdoor lamp,label,ThingDef/ThingDef.xml,def
+Light_Streetlamp.description,"An electrical standing lamp that lights an area, good for large outdoor spaces. Will automatically turn off during the day to prevent power consumption.",description,ThingDef/ThingDef.xml,def
+Bed_Ergonomic.label,ergonomic bed,label,ThingDef/ThingDef.xml,def
+Bed_Ergonomic.description,"A modern, adjustable bed designed for maximum comfort and proper spinal support.",description,ThingDef/ThingDef.xml,def
+Bed_DoubleErgonomic.label,ergonomic double bed,label,ThingDef/ThingDef.xml,def
+Bed_DoubleErgonomic.description,"A modern, adjustable bed designed for maximum comfort and proper spinal support. Fits two people.",description,ThingDef/ThingDef.xml,def
+Table_Wardrobe.label,wardrobe,label,ThingDef/ThingDef.xml,def
+Table_Wardrobe.description,A tall wardrobe for storing clothing and other items. Gives a small comfort bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect.,description,ThingDef/ThingDef.xml,def
+Seat_ModernChair.label,ergonomic chair,label,ThingDef/ThingDef.xml,def
+Seat_ModernChair.description,"A modern, well-designed chair with excellent back support and padding, providing high comfort.",description,ThingDef/ThingDef.xml,def
+VFE_ModularCouch.label,modular couch,label,ThingDef/ThingDef.xml,def
+VFE_ModularCouch.description,"A compact, cushioned seat designed to be combined with others to create larger couches or corner seating arrangements. Ideal for large rec rooms, lounges, or social areas.",description,ThingDef/ThingDef.xml,def
+Bed_Kingsize.label,royal poster bed,label,ThingDef/ThingDef.xml,def
+Bed_Kingsize.description,"An extravagant four-poster bed fit for nobility, adorned with intricate carvings. Extremely comfy and luxurious, its imposing frame and detailed craftsmanship make it a work of art. Fits two.",description,ThingDef/ThingDef.xml,def
+Table_RoyalEndTable.label,royal end table,label,ThingDef/ThingDef.xml,def
+Table_RoyalEndTable.description,"A finely crafted bedside table adorned with gold inlays and exquisite detailing. Enhances the comfort of nearby beds, providing a touch of nobility to any sleeping quarters. Must be placed directly adjacent to the head of the bed. Placing more than one near the same bed has no effect.",description,ThingDef/ThingDef.xml,def
+Table_RoyalDresser.label,royal dresser,label,ThingDef/ThingDef.xml,def
+Table_RoyalDresser.description,"A luxurious dresser, adorned with solid gold and elegant in design, making nearby beds more comfortable.Placing more than one end table near the same bed has no effect.",description,ThingDef/ThingDef.xml,def
+VFE_RoyalWardrobe.label,royal wardrobe,label,ThingDef/ThingDef.xml,def
+VFE_RoyalWardrobe.description,"A grand, gold-trimmed wardrobe designed for nobility. Gives a small comfort bonus to all nearby beds. Placing more than one royal wardrobe near the same bed has no effect.",description,ThingDef/ThingDef.xml,def
+VFE_RoyalLamp.label,royal standing lamp,label,ThingDef/ThingDef.xml,def
+VFE_RoyalLamp.description,A beautifully crafted standing lamp adorned with gold trim and elegant design.,description,ThingDef/ThingDef.xml,def
+Seat_RoyalChair.label,royal chair,label,ThingDef/ThingDef.xml,def
+Seat_RoyalChair.description,"A luxurious, high-backed dining chair adorned with fine upholstery and intricate craftsmanship. Can be used at tables, work stations, and elsewhere.",description,ThingDef/ThingDef.xml,def
+Seat_RoyalArmchair.label,royal armchair,label,ThingDef/ThingDef.xml,def
+Seat_RoyalArmchair.description,"A grand, exquisitely crafted armchair with deep cushions, fine upholstery, and ornate detailing. Can be used at tables, work stations, and elsewhere.",description,ThingDef/ThingDef.xml,def
+Table_Royal1x1c.label,royal table (1x1),label,ThingDef/ThingDef.xml,def
+Table_Royal1x2c.label,royal table (1x2),label,ThingDef/ThingDef.xml,def
+Table_Royal2x2c.label,royal table (2x2),label,ThingDef/ThingDef.xml,def
+Table_Royal2x4c.label,royal table (2x4),label,ThingDef/ThingDef.xml,def
+Table_Royal3x3c.label,royal table (3x3),label,ThingDef/ThingDef.xml,def
+VFE_ListeningToMusic.label,listening to music,label,HediffDef/HediffDef.xml,def
+VFE_ListeningToMusic.description,Currently gaining recreation due to listening to music.,description,HediffDef/HediffDef.xml,def
+Play_Roulette.reportString,playing roulette.,reportString,JobDef/JobDef.xml,def
+Play_Arcade.reportString,playing arcade game.,reportString,JobDef/JobDef.xml,def
+Play_Piano.reportString,playing piano.,reportString,JobDef/JobDef.xml,def
+Play_DartsBoard.reportString,playing darts.,reportString,JobDef/JobDef.xml,def
+Play_PunchingBag.reportString,using punching bag.,reportString,JobDef/JobDef.xml,def
+VFE_Play_Computer.reportString,using computer.,reportString,JobDef/JobDef.xml,def
+VFE_Play_Sunbathing.reportString,sunbathing.,reportString,JobDef/JobDef.xml,def
+VFE_ListenToMusic.reportString,listening to music.,reportString,JobDef/JobDef.xml,def
+VFE_ComputerLearning.reportString,using computer.,reportString,JobDef/JobDef.xml,def
+VFE_ComputerLearning.label,computer using,label,LearningDesireDef/LearningDesireDef.xml,def
+VFE_ComputerLearning.description,"Use educational application, play educational games, watch (or listen) to educational videos. Requires a powered computer with a chair.",description,LearningDesireDef/LearningDesireDef.xml,def
+VFE_ComputerUsage.label,computer usage,label,JoyKindDef/JoyKindDef.xml,def
+VFE_StrengthPlay.label,strength play,label,JoyKindDef/JoyKindDef.xml,def
+Gaming_Electronic.label,electronic play,label,JoyKindDef/JoyKindDef.xml,def
+Tale_UsedPunchingBag.label,used punching bag,label,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.0,tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label],li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.1,tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label],li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.2,tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label],li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.3,"image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]",li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.4,"image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]",li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.5,circumstance_phrase->tense with energy,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.6,circumstance_phrase->[PAWN_possessive] body loose and relaxed,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.7,circumstance_phrase->gently massaging [PAWN_possessive] wrists,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.8,circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.9,circumstance_phrase->wrapping their hands in tape,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.10,circumstance_phrase->[angstyverb],li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.11,desc_sentence->A [Color] aurora shines in the background.,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.12,"desc_sentence->In the distance, a [Community] is visible.",li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.13,"desc_sentence->In the distance, a [TerrainFeature] is visible.",li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.14,desc_sentence->[PAWN_nameDef]'s features are exaggerated.,li,TaleDef/TaleDef.xml,def
+Tale_UsedPunchingBag.rulePack.rulesStrings.15,desc_sentence->[PAWN_nameDef] towers above the scene.,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.label,used computer,label,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.0,tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.1,tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label],li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.2,tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label],li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.3,"image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]",li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.4,"image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]",li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.5,circumstance_phrase->concentrating,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.6,circumstance_phrase->[PAWN_possessive] body loose and relaxed,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.7,circumstance_phrase->leaning back in [PAWN_possessive] chair,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.8,desc_sentence->A [Color] aurora shines in the background.,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.9,"desc_sentence->In the distance, a [Community] is visible.",li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.10,"desc_sentence->In the distance, a [TerrainFeature] is visible.",li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.11,desc_sentence->[PAWN_nameDef] focused on the screen.,li,TaleDef/TaleDef.xml,def
+Tale_UsedComputer.rulePack.rulesStrings.12,desc_sentence->[PAWN_nameDef] towers above the scene.,li,TaleDef/TaleDef.xml,def
+MF_BasicFurniture.label,basic furniture,label,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.description,"Build simple furniture like simple beds, basic tables, stools, benches and more.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.0,subject->foundations of comfort,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.1,"subject_story->rediscovered ancient techniques for crafting durable, essential furniture",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.2,subject_story->pioneered the use of local materials to create comfortable living spaces,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.3,"subject_story->taught the community the value of crafting with nature, not against it",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.4,subject_story->initiated the tradition of communal gatherings around the hearth and table,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_BasicFurniture.generalRules.rulesStrings.5,subject_gerund->establishing the basics of homely comfort and utility,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.label,artisan furniture,label,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.description,"Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.0,subject->the art of luxury,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.1,subject_story->reclaimed forgotten methods of inlay and marquetry for exquisite pieces,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.2,"subject_story->fostered a new age of craftsmanship, blending beauty with utility",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.3,subject_story->commissioned pieces that would become the envy of visiting dignitaries,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.4,subject_story->inspired artisans to push the boundaries of design and materials,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.5,"subject_story->created spaces of unparalleled elegance, reflecting the pinnacle of culture",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_RoyalFurniture.generalRules.rulesStrings.6,subject_gerund->crafting symbols of status and artistry,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.label,modern furniture,label,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.description,"Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.0,subject->practical elegance,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.1,subject_story->embraced the fusion of form and function to suit modern lifestyles,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.2,subject_story->innovated with new materials for durability and comfort,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.3,subject_story->prioritized ergonomic designs to enhance daily living,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.4,subject_story->introduced concepts of modular and space-saving furniture,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.5,"subject_story->championed the minimalist aesthetic, focusing on simplicity and practicality",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_ModernFurniture.generalRules.rulesStrings.6,subject_gerund->redefining living spaces for the contemporary era,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.label,waste disposal,label,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.description,"Learn to build small and large bins, objects that slowly clean the environment they are in.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.0,subject->the cleanliness revolution,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.1,subject_story->developed efficient waste management solutions to promote hygiene,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.2,"subject_story->introduced the concept of recycling, transforming waste into resources",li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.3,subject_story->engineered bins that integrate seamlessly into both public and private spaces,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.4,subject_story->pioneered waste processing techniques that minimize environmental impact,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.5,subject_story->catalyzed a cultural shift towards sustainability and cleanliness,li,ResearchProjectDef/ResearchProjectDef.xml,def
+MF_WasteDisposal.generalRules.rulesStrings.6,subject_gerund->enhancing communities with smart waste solutions,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VFE_CleanBin.label,clean bin,label,WorkGiverDef/WorkGiverDef.xml,def
+VFE_CleanBin.verb,clean,verb,WorkGiverDef/WorkGiverDef.xml,def
+VFE_CleanBin.gerund,cleaning,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFE_CleanBin.reportString,cleaning TargetA.,reportString,JobDef/JobDef.xml,def
+DoBillsCookStone_Campfire.label,cook meals at stone campfire,label,WorkGiverDef/WorkGiverDef.xml,def
+DoBillsCookStone_Campfire.verb,cook,verb,WorkGiverDef/WorkGiverDef.xml,def
+DoBillsCookStone_Campfire.gerund,cooking at,gerund,WorkGiverDef/WorkGiverDef.xml,def
+DoBillsHaulStone_Campfire.label,do bills at stone campfire,label,WorkGiverDef/WorkGiverDef.xml,def
+DoBillsHaulStone_Campfire.verb,work at,verb,WorkGiverDef/WorkGiverDef.xml,def
+DoBillsHaulStone_Campfire.gerund,working at,gerund,WorkGiverDef/WorkGiverDef.xml,def

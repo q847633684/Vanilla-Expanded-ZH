@@ -1,0 +1,381 @@
+key,text,tag,file,type
+VREA.GivesAbility,Gives ability,VREA.GivesAbility,Keys.xml,keyed
+VREA_ReturnsLabel,{0} returns,VREA_ReturnsLabel,Keys.xml,keyed
+VREA_Returns,{0} returns,VREA_Returns,Keys.xml,keyed
+VREA.PsychicStormWeatherBonusStatExplanation,Psychic storm bonus,VREA.PsychicStormWeatherBonusStatExplanation,Keys.xml,keyed
+VRE_NeedsTranscendentToWield,Only transcendent individuals can wield this,VRE_NeedsTranscendentToWield,Keys.xml,keyed
+VRE_LeapjumpLegs.label,leapjump,label,AbilityDef/AbilityDef.xml,def
+VRE_LeapjumpLegs.description,Jump to a distant location using super-strong archite-powered legs. Will cause damage to anyone in the landing zone.,description,AbilityDef/AbilityDef.xml,def
+VRE_LeapjumpLegs.verbProperties.label,leapjump,label,AbilityDef/AbilityDef.xml,def
+Transcendent.label,transcendent,label,CultureDef/CultureDef.xml,def
+Transcendent.description,A narrow collection of cultures from another dimension.,description,CultureDef/CultureDef.xml,def
+VREA_Sear.label,bomb,label,ToolCapacityDef/ToolCapacityDef.xml,def
+VREA_Sear.label,sear,label,DamageDef/DamageDef.xml,def
+VREA_Sear.deathMessage,{0} has been seared to death.,deathMessage,DamageDef/DamageDef.xml,def
+VREA_Sear.label,sear,label,HediffDef/HediffDef.xml,def
+VREA_Sear.labelNoun,a sear,labelNoun,HediffDef/HediffDef.xml,def
+VREA_Sear.description,A sear.,description,HediffDef/HediffDef.xml,def
+VREA_Sear.comps.0.labelTendedWell,bandaged,labelTendedWell,HediffDef/HediffDef.xml,def
+VREA_Sear.comps.0.labelTendedWellInner,sutured,labelTendedWellInner,HediffDef/HediffDef.xml,def
+VREA_Sear.comps.0.labelSolidTendedWell,set,labelSolidTendedWell,HediffDef/HediffDef.xml,def
+VREA_Sear.comps.2.permanentLabel,sear scar,permanentLabel,HediffDef/HediffDef.xml,def
+VREA_Sear.injuryProps.destroyedLabel,Seared off,destroyedLabel,HediffDef/HediffDef.xml,def
+VREA_Sear.injuryProps.destroyedOutLabel,Seared out,destroyedOutLabel,HediffDef/HediffDef.xml,def
+VRE_Archons.label,archons,label,FactionDef/FactionDef.xml,def
+VRE_Archons.pawnSingular,archon,pawnSingular,FactionDef/FactionDef.xml,def
+VRE_Archons.pawnsPlural,archons,pawnsPlural,FactionDef/FactionDef.xml,def
+VRE_Archons.fixedName,Archons,fixedName,FactionDef/FactionDef.xml,def
+VRE_EarlyMaturity.label,early maturity,label,GeneDef/GeneDef.xml,def
+VRE_EarlyMaturity.description,"Carriers of this gene reach skill maturity significantly earlier than others. They can do majority of tasks at the age of 4, and can do wardening, doctoring and construction at the age of 7.",description,GeneDef/GeneDef.xml,def
+VRE_Transcendent.label,transcendent,label,GeneDef/GeneDef.xml,def
+VRE_Transcendent.description,"Carriers of this gene have a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed.",description,GeneDef/GeneDef.xml,def
+VRE_InnatePsylink.label,natural psylink,label,GeneDef/GeneDef.xml,def
+VRE_InnatePsylink.description,"Carriers of this gene have a slightly restructured brain, which provides them with a natural psylink.",description,GeneDef/GeneDef.xml,def
+VRE_PsychicAbility_MoreExtreme.label,extremely psy-sensitive,label,GeneDef/GeneDef.xml,def
+VRE_PsychicAbility_MoreExtreme.description,Carriers of this gene have archite-enhanced connection to the psychic. They have greatly enhanced psychic sensitivity and gain significantly more focus from meditation.,description,GeneDef/GeneDef.xml,def
+VRE_LeapjumpLegs.label,leapjump legs,label,GeneDef/GeneDef.xml,def
+VRE_LeapjumpLegs.description,"Carriers have special archite-powered muscle fibers in their legs which allow them to jump extremely great distances, causing blunt trauma to anyone unfortunate enough to be in the landing zone.",description,GeneDef/GeneDef.xml,def
+VRE_FastMeleeHitter.label,fast melee hitter,label,GeneDef/GeneDef.xml,def
+VRE_FastMeleeHitter.description,Carriers of this gene attack much quicker in close-quarters combat. Extra-fast muscle fibers make their strikes much faster.,description,GeneDef/GeneDef.xml,def
+VRE_SlowMeleeHitter.label,slow melee hitter,label,GeneDef/GeneDef.xml,def
+VRE_SlowMeleeHitter.description,Carriers of this gene attack significantly slower in close-quarters combat. Weak muscle fibers make their strikes much slower.,description,GeneDef/GeneDef.xml,def
+VRE_FastShooter.label,fast shooter,label,GeneDef/GeneDef.xml,def
+VRE_FastShooter.description,"Carriers of this gene have enhanced reflexes, allowing them to fire their ranged weapons significantly faster.",description,GeneDef/GeneDef.xml,def
+VRE_SlowShooter.label,slow shooter,label,GeneDef/GeneDef.xml,def
+VRE_SlowShooter.description,Carriers of this gene have lowered reflexes and take significantly longer to aim their shots.,description,GeneDef/GeneDef.xml,def
+VRE_SerratedEars.label,serrated ears,label,GeneDef/GeneDef.xml,def
+VRE_SerratedEars.description,"Carriers of this gene have long, serrated ears.",description,GeneDef/GeneDef.xml,def
+VRE_FacialSpots.label,facial spots,label,GeneDef/GeneDef.xml,def
+VRE_FacialSpots.description,Carriers of this gene have small pigmentation spots on their face.,description,GeneDef/GeneDef.xml,def
+VRE_DreadHair.label,dread hair,label,GeneDef/GeneDef.xml,def
+VRE_DreadHair.description,Carriers of this gene grow hair that naturally forms thick dreadlocks.,description,GeneDef/GeneDef.xml,def
+VRE_Leatherskin.label,leatherskin,label,GeneDef/GeneDef.xml,def
+VRE_Leatherskin.description,"Carriers of this gene are covered in a thick, rigged leather, which provides a higher sharp and blunt defense.",description,GeneDef/GeneDef.xml,def
+VRE_ExtremeMeditation.label,extreme meditation,label,GeneDef/GeneDef.xml,def
+VRE_ExtremeMeditation.description,Carriers of this gene are capable of having much more impactful meditation sessions. They will regenerate psyfocus significantly quicker.,description,GeneDef/GeneDef.xml,def
+VRE_SwiftMeditation.label,swift meditation,label,GeneDef/GeneDef.xml,def
+VRE_SwiftMeditation.description,Carriers of this gene are capable of having a faster meditation sessions. They will regenerate psyfocus slightly faster than usual.,description,GeneDef/GeneDef.xml,def
+VRE_SlowMeditation.label,slow meditation,label,GeneDef/GeneDef.xml,def
+VRE_SlowMeditation.description,Carriers of this gene are finding it difficult to focus during meditation sessions. They will regenerate psyfocus significantly slower than usual.,description,GeneDef/GeneDef.xml,def
+VRE_WeakEntropyCapacity.label,weak entropy capacity,label,GeneDef/GeneDef.xml,def
+VRE_WeakEntropyCapacity.description,Carriers of this gene have a much lower capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.,description,GeneDef/GeneDef.xml,def
+VRE_HighEntropyCapacity.label,high entropy capacity,label,GeneDef/GeneDef.xml,def
+VRE_HighEntropyCapacity.description,Carriers of this gene have a higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.,description,GeneDef/GeneDef.xml,def
+VRE_ExtremeEntropyCapacity.label,extreme entropy capacity,label,GeneDef/GeneDef.xml,def
+VRE_ExtremeEntropyCapacity.description,Carriers of this gene have a much higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.,description,GeneDef/GeneDef.xml,def
+VRE_LongPregnancy.label,long pregnancy,label,GeneDef/GeneDef.xml,def
+VRE_LongPregnancy.description,Carriers of this gene take twice as long to develop a child during pregnancy. Pregnancy lasts three hexamesters - 36 days.,description,GeneDef/GeneDef.xml,def
+VRE_ShortPregnancy.label,short pregnancy,label,GeneDef/GeneDef.xml,def
+VRE_ShortPregnancy.description,Carriers of this gene develop a child during pregnancy much faster. Pregnancy lasts 3 bimesters - 12 days.,description,GeneDef/GeneDef.xml,def
+VRE_Maniac.label,maniac,label,GeneDef/GeneDef.xml,def
+VRE_Maniac.description,Carriers of this gene lack any sort of empathy. They do not care about the suffering of others and take no pleasure from socialising with others.,description,GeneDef/GeneDef.xml,def
+VRE_Aggression_ExtremelyAggressive.label,extremely aggressive,label,GeneDef/GeneDef.xml,def
+VRE_Aggression_ExtremelyAggressive.description,"Carriers of this gene are incredibly aggressive and are offended by almost anything. They will always respond to insults and slights with a social fight, and will not hesitate to use their melee weapons to get their point across. Mental breaks are always violent.",description,GeneDef/GeneDef.xml,def
+VRE_Archon.label,archon,label,XenotypeDef/XenotypeDef.xml,def
+VRE_Archon.description,"A complete mystery whose earliest recorded appearance has been tied to the development of archotechnology and the first occurrences of Transcendence, the archons are an enigmatic race of quasi-humans capable of moving between dimensions. They have an optimized physiology for psycasting and are renowned for extreme levels of aggression even amongst themselves.\n\nDue to lack of communication between humans and archons, very little concrete information has been gleaned from what few interactions have been documented amongst the stars. However, there are numerous instances of archons kidnapping humans throughout the entirety of known space and any attempts at killing them are thwarted by the dimensional rifts from which they appear. No current technology exists that can observe, much less cross, different dimensions, and yet these archons appear without warning, following no pattern, and always exploiting any vulnerabilities. Their equipment appears to be of archotech origin, aligning with reports of planets with a significant human presence undergoing Transcendence, exhibiting a correspondingly elevated presence of archons.",description,XenotypeDef/XenotypeDef.xml,def
+VRE_Archon.descriptionShort,"A complete mystery whose earliest recorded appearance has been tied to the development of archotechnology and the first occurrences of Transcendence, the archons are an enigmatic race of quasi-humans capable of moving between dimensions. They have an optimized physiology for psycasting and are renowned for extreme levels of aggression even amongst themselves.",descriptionShort,XenotypeDef/XenotypeDef.xml,def
+VRE_ArchonHairs.label,archon,label,StyleItemCategoryDef/StyleItemCategoryDef.xml,def
+VRE_Hair_Constant.label,constant,label,HairDef/HairDef.xml,def
+VRE_Hair_Cosmos.label,cosmos,label,HairDef/HairDef.xml,def
+VRE_Hair_Exoplanet.label,exoplanet,label,HairDef/HairDef.xml,def
+VRE_Hair_Expanse.label,expanse,label,HairDef/HairDef.xml,def
+VRE_Hair_Horizon.label,horizon,label,HairDef/HairDef.xml,def
+VRE_Hair_Nebula.label,nebula,label,HairDef/HairDef.xml,def
+VRE_Hair_Neutron.label,neutron,label,HairDef/HairDef.xml,def
+VRE_Hair_Quasar.label,quasar,label,HairDef/HairDef.xml,def
+VRE_Hair_Redshift.label,redshift,label,HairDef/HairDef.xml,def
+VRE_Hair_Relativity.label,relativity,label,HairDef/HairDef.xml,def
+VRE_Hair_Singularity.label,singularity,label,HairDef/HairDef.xml,def
+VRE_Transcendent.label,transcendent,label,HediffDef/HediffDef.xml,def
+VRE_Transcendent.description,"This person has a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed.",description,HediffDef/HediffDef.xml,def
+VREA_PsychicallyWarped.label,psychically warped,label,HediffDef/HediffDef.xml,def
+VREA_PsychicallyWarped.description,"Armor is psychically stripped to 0. Upon an impact of psychic throw, this character will detonate in a small radius.",description,HediffDef/HediffDef.xml,def
+VREA_PsychicStorm.label,psychic storm,label,IncidentDef/IncidentDef.xml,def
+VREA_PsychicStorm.letterLabel,Psychic storm,letterLabel,IncidentDef/IncidentDef.xml,def
+VREA_PsychicStorm.label,psychic storm,label,GameConditionDef/GameConditionDef.xml,def
+VREA_PsychicStorm.description,"A supernatural psychic phenomena is happening over this entire region. Psychic energy will strike in random locations, damaging whatever is hit. Psychic sensitivity of everyone affected is doubled.",description,GameConditionDef/GameConditionDef.xml,def
+VREA_PsychicStorm.endMessage,The psychic storm is ending.,endMessage,GameConditionDef/GameConditionDef.xml,def
+VREA_PsychicStorm.letterText,"A supernatural psychic phenomena causes a great disturbance in the area.\n\nPsychic energy will strike at random, and every living being will have their psychic sensitivity doubled.\n\nIt will last for anywhere between a few days to over a quadrum.",letterText,GameConditionDef/GameConditionDef.xml,def
+VREA_ArchonRaid.label,archon raid,label,IncidentDef/IncidentDef.xml,def
+VREA_ArchonRaid.letterLabel,archon raid,letterLabel,IncidentDef/IncidentDef.xml,def
+VREA_ArchonRaid.letterText,Text.todo,letterText,IncidentDef/IncidentDef.xml,def
+VRE_ArmedSocialFight.reportString,fighting with TargetA.,reportString,JobDef/JobDef.xml,def
+ArchonWarrior.label,archon warrior,label,PawnKindDef/PawnKindDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.0,r_weapon_name(p=4)->[archoNoun][archoVerber],li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.1,r_weapon_name(p=3)->[archoBeginSyl][archoMiddleSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.2,r_weapon_name(p=2)->[archoBeginSyl][archoMiddleSyl][archoMiddleSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.3,r_weapon_name(p=1)->[archoBeginSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.4,r_weapon_name(p=1)->[archoBeginSyl][archoMiddleSyl][archoEndSyl][archoVerber],li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.5,archoNoun->zar,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.6,archoNoun->ki,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.7,archoNoun->yank,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.8,archoNoun->vith,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.9,archoNoun->lak,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.10,archoNoun->raeth,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.11,archoNoun->archo,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.12,archoNoun->zera,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.13,archoNoun->thra,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.14,archoNoun->vark,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.15,archoNoun->ril,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.16,archoNoun->zal,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.17,archoVerber->slayer,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.18,archoVerber->wielder,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.19,archoVerber->caller,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.20,archoVerber->binder,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.21,archoVerber->seer,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.22,archoVerber->walker,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.23,archoVerber->chanter,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.24,archoVerber->forger,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.25,archoVerber->keeper,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.26,archoVerber->bringer,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.27,archoVerber->sender,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.28,archoVerber->giver,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.29,archoVerber->maker,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.30,archoVerber->crusher,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.31,archoVerber->breaker,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.32,archoVerber->smasher,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.33,archoVerber->bender,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.34,archoVerber->knower,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.35,archoVerber->doer,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.36,archoBeginSyl->zar,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.37,archoBeginSyl->ki,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.38,archoBeginSyl->yank,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.39,archoBeginSyl->vith,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.40,archoBeginSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.41,archoBeginSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.42,archoBeginSyl->ril,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.43,archoBeginSyl->zal,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.44,archoBeginSyl->drak,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.45,archoBeginSyl->thor,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.46,archoBeginSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.47,archoMiddleSyl->lak,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.48,archoMiddleSyl->rae,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.49,archoMiddleSyl->archo,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.50,archoMiddleSyl->zera,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.51,archoMiddleSyl->thor,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.52,archoMiddleSyl->drak,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.53,archoMiddleSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.54,archoMiddleSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.55,archoMiddleSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.56,archoEndSyl->th,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.57,archoEndSyl->ki,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.58,archoEndSyl->zar,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.59,archoEndSyl->rae,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.60,archoEndSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.61,archoEndSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.62,archoEndSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.63,archoEndSyl->zal,li,RulePackDef/RulePackDef.xml,def
+NamerWeaponArchon.rulePack.rulesStrings.64,archoEndSyl->drak,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.0,r_name(p=2)->[archoNoun][archoMiddleSyl] [archoMiddleSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.1,r_name->[archoBeginSyl][archoEndSyl] [archoNoun],li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.2,r_name->[archoBeginSyl][archoMiddleSyl] [archoMiddleSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.3,r_name->[archoBeginSyl][archoEndSyl] [archoBeginSyl][archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.4,r_name->[archoBeginSyl][archoMiddleSyl] [archoEndSyl],li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.5,archoNoun->zar,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.6,archoNoun->ki,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.7,archoNoun->yank,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.8,archoNoun->vith,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.9,archoNoun->lak,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.10,archoNoun->raeth,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.11,archoNoun->archo,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.12,archoNoun->zera,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.13,archoNoun->thra,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.14,archoNoun->vark,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.15,archoNoun->ril,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.16,archoNoun->zal,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.17,archoBeginSyl->zar,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.18,archoBeginSyl->ki,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.19,archoBeginSyl->yank,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.20,archoBeginSyl->vith,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.21,archoBeginSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.22,archoBeginSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.23,archoBeginSyl->ril,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.24,archoBeginSyl->zal,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.25,archoBeginSyl->drak,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.26,archoBeginSyl->thor,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.27,archoBeginSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.28,archoMiddleSyl->lak,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.29,archoMiddleSyl->rae,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.30,archoMiddleSyl->archo,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.31,archoMiddleSyl->zera,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.32,archoMiddleSyl->thor,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.33,archoMiddleSyl->drak,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.34,archoMiddleSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.35,archoMiddleSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.36,archoMiddleSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.37,archoEndSyl->th,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.38,archoEndSyl->ki,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.39,archoEndSyl->zar,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.40,archoEndSyl->rae,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.41,archoEndSyl->lir,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.42,archoEndSyl->vark,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.43,archoEndSyl->thra,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.44,archoEndSyl->zal,li,RulePackDef/RulePackDef.xml,def
+NamerPersonTranscendent.rulePack.rulesStrings.45,archoEndSyl->drak,li,RulePackDef/RulePackDef.xml,def
+VREA_Apparel_Archoplate.label,archoplate,label,ThingDef/ThingDef.xml,def
+VREA_Apparel_Archoplate.description,"A suit of mystical armor created out of unidentified materials. It hums with psychic energy, and while it does not provide full body coverage, the wearer benefits from a nigh impenetrable psychic barrier capable of stopping most of the ranged attacks. The material is incredibly light, and does not hinder movement in any way.\n\nExpensive and beautiful, archoplate is often seen on enigmatic dimension-travellers called archons. Eltex weave within the armor greatly enhances the wearer's psychic sensitivity.",description,ThingDef/ThingDef.xml,def
+VREA_PsychicThrow.label,psychic throw,label,ThingDef/ThingDef.xml,def
+VREA_PsychicWarp.label,psychic warp,label,ThingDef/ThingDef.xml,def
+VREA_PsychicLance.label,psychic lance,label,ThingDef/ThingDef.xml,def
+VREA_PsychicStorm.label,psychic storm,label,WeatherDef/WeatherDef.xml,def
+VREA_PsychicStorm.description,Psychic storm is a supernatural phenomena that occurs during the periods of increased psychic activity.,description,WeatherDef/WeatherDef.xml,def
+VREA_MeleeWeapon_ArchobladeBladelink.label,archoblade,label,ThingDef/ThingDef.xml,def
+VREA_MeleeWeapon_ArchobladeBladelink.description,"An ethereal weapon forged in the enigmatic crucibles of archotech, the Archoblade is a fusion of unknown materials and arcane science and has the uncanny ability to phase through flesh, leaving behind agonizing scars by skipping tissue out of existence.\n\nArchoblade amplifies the psychic prowess of its bearer, resonating only with those who bear the archotech’s celestial touch. Archoblades are often imbued with powerful psycasts, and are almost always wielded exclusively by the enigmatic archons.",description,ThingDef/ThingDef.xml,def
+VREA_MeleeWeapon_ArchobladeBladelink.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VREA_MeleeWeapon_ArchobladeBladelink.tools.1.label,blade,label,ThingDef/ThingDef.xml,def
+VREA_VoidStrider.title,void strider,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidStrider.titleShort,strider,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidStrider.baseDesc,"[PAWN_nameDef] wandered the depths of the dimensionless void, harnessing the energies within. As one of the first to be reshaped by the archotech, [PAWN_pronoun] quickly mastered the art of capturing souls.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalSmith.title,dimensional smith,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalSmith.titleShort,smith,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalSmith.baseDesc,"[PAWN_nameDef] crafted weapons using the energies of the void. Forged from the very fabric of their dimension, [PAWN_pronoun] became a master of crafting the most lethal weapons for the Archons.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidWhisperer.title,void whisperer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidWhisperer.titleShort,whisperer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidWhisperer.baseDesc,"[PAWN_nameDef] communicated with the archotech, channelling its intentions and translating them to the Archons. These communions took a toll, leaving [PAWN_objective] detached from the physical realm.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_NexusGuard.title,nexus guard,title,BackstoryDef/BackstoryDef.xml,def
+VREA_NexusGuard.titleShort,guard,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_NexusGuard.baseDesc,"Tasked with guarding the portals linking dimensions, [PAWN_nameDef] stood watch, ensuring no intruders threatened their realm and mastering both blade and bullet.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralHunter.title,astral hunter,title,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralHunter.titleShort,hunter,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralHunter.baseDesc,"[PAWN_nameDef] prowled the stars, kidnapping beings from various planets. Skilled in stealth and surprise, [PAWN_pronoun] was the embodiment of fear for many civilizations.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidPhilosopher.title,void philosopher,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidPhilosopher.titleShort,philosopher,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidPhilosopher.baseDesc,"Seeking answers within the endless void, [PAWN_nameDef] became a seeker of truths. Delving deep into existential questions, [PAWN_pronoun] sought to understand the Archons' place in the universe.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarAgriculturist.title,stellar agriculturist,title,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarAgriculturist.titleShort,agriculturist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarAgriculturist.baseDesc,"[PAWN_nameDef] nurtured strange crops, born from the void's energies. With [PAWN_possessive] knowledge, Archon colonies thrived, drawing sustenance from the very fabric of their dimension.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicTuner.title,harmonic tuner,title,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicTuner.titleShort,tuner,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicTuner.baseDesc,"[PAWN_nameDef] worked to maintain the balance of the Archons' dimension. Using unique instruments, [PAWN_pronoun] harmonized the energies, ensuring stability in their otherwise chaotic realm.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarCartographer.title,stellar cartographer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarCartographer.titleShort,cartographer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_StellarCartographer.baseDesc,"In the vast expanses of the alternate dimension, [PAWN_nameDef] mapped the unseen energies and pathways. Every pulsar, every black hole, every nebula, [PAWN_pronoun] documented, ensuring the Archons never lost their way.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer.title,void harmonizer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer.titleShort,harmonizer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer.baseDesc,"[PAWN_nameDef] was an artist of the ethereal, composing symphonies that resonated with the very fabric of the void. [PAWN_pronoun] brought solace and introspection to the Archons, connecting them to their lost past.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAgriculturist.title,ethereal agriculturist,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAgriculturist.titleShort,agriculturist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAgriculturist.baseDesc,"On the spectral planes of their realm, [PAWN_nameDef] cultivated crops imbued with the energies of the void. [PAWN_pronoun] nourished the Archons, ensuring they had sustenance both physical and ethereal.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalPhilosopher.title,dimensional philosopher,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalPhilosopher.titleShort,philosopher,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalPhilosopher.baseDesc,"[PAWN_nameDef] pondered the existence of the Archons and the nature of their captivity. Through introspection and debate, [PAWN_pronoun] sought to uncover the purpose and meaning behind their existence.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMediator.title,void mediator,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMediator.titleShort,mediator,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMediator.baseDesc,"In a society of warriors and mystics, disputes were inevitable. [PAWN_nameDef] served as a mediator, employing deep understanding of Archon customs and the intricate dance of dimensional politics.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidVanguard.title,void vanguard,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidVanguard.titleShort,vanguard,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidVanguard.baseDesc,"[PAWN_nameDef] was among the first to breach portals into unknown dimensions. Leading the charge, [PAWN_pronoun] scouted hostile realms, ensuring a foothold for Archon forces that followed.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAssassin.title,ethereal assassin,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAssassin.titleShort,assassin,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EtherealAssassin.baseDesc,"Moving silently through the void's shadows, [PAWN_nameDef] was an unseen threat. Trained to eliminate high-profile targets, [PAWN_pronoun] struck fear into the hearts of those who defied the Archons.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalStrategist.title,dimensional strategist,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalStrategist.titleShort,strategist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalStrategist.baseDesc,"[PAWN_nameDef] excelled in the art of multi-dimensional warfare. Tasked with orchestrating vast invasions, [PAWN_pronoun] turned the tide of battles across countless realities.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_WarpBladesman.title,warp bladesman,title,BackstoryDef/BackstoryDef.xml,def
+VREA_WarpBladesman.titleShort,bladesman,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_WarpBladesman.baseDesc,"[PAWN_nameDef] was a master of the warp blade, a weapon that cuts through dimensions. Honed by relentless training, [PAWN_pronoun] was unmatched in close-quarters combat.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidshieldGuardian.title,voidshield guardian,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidshieldGuardian.titleShort,guardian,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidshieldGuardian.baseDesc,"Tasked with defending Archon strongholds, [PAWN_nameDef] wielded shields that absorbed the very energies of the void. Under [PAWN_possessive] watch, no enemy ever breached [PAWN_possessive] post.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchohavenArchitect.title,archohaven architect,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchohavenArchitect.titleShort,architect,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchohavenArchitect.baseDesc,"Whispered legends tell of [PAWN_nameDef], a builder of the elusive archohavens. Using knowledge lost to most, [PAWN_pronoun] shaped gateways to realms unfathomable, cloaked in secrets even other Archons could scarcely grasp.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalWarden.title,dimensional warden,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalWarden.titleShort,warden,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalWarden.baseDesc,"Within the shimmering veils of the archohavens, [PAWN_nameDef] stood guard. Tasked with keeping the sanctity of these mysterious realms, [PAWN_pronoun] navigated the thin line between reality and the unimaginable, ensuring no unwanted entity could intrude.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer2.title,void harmonizer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer2.titleShort,harmonizer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidHarmonizer2.baseDesc,"With a touch as light as a whisper, [PAWN_nameDef] maintained the delicate balance of the archohavens. [PAWN_pronoun] sang to the energies of the void, ensuring the portals remained stable and hidden, their locations a secret even to the stars themselves.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EclipsedGeneral.title,eclipsed general,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EclipsedGeneral.titleShort,general,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EclipsedGeneral.baseDesc,"From the void's darkest corner, [PAWN_nameDef] emerged, an unmatched tactician. [PAWN_pronoun] led legions of Archons in their most pivotal campaigns, always a shadowy figure on the battlefield, directing the dance of war with inscrutable brilliance.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralVanguard.title,astral vanguard,title,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralVanguard.titleShort,vanguard,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_AstralVanguard.baseDesc,"[PAWN_nameDef] was the first into the fray and the last to retreat. As the leader of the Archon's elite vanguard, [PAWN_pronoun] carved paths through dimensions, leading the charge against insurmountable odds with unwavering resolve.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialStrategist.title,celestial strategist,title,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialStrategist.titleShort,strategist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialStrategist.baseDesc,"Wielding knowledge from countless realms, [PAWN_nameDef] masterminded the Archons' grandest schemes. [PAWN_possessive] strategies were as intricate as constellations, leaving foes in awe and despair in equal measure.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMarauder.title,void marauder,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMarauder.titleShort,marauder,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidMarauder.baseDesc,"Leading from the front lines, [PAWN_nameDef] was a force of chaos amidst the Archon hierarchy. With a penchant for audacious assaults and a thirst for the thrill of battle, [PAWN_pronoun] spearheaded invasions that struck fear into the heart of galaxies.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalNomad.title,dimensional nomad,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalNomad.titleShort,nomad,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalNomad.baseDesc,"[PAWN_nameDef] wandered through dimensions, always seeking, always exploring. This endless journey instilled in [PAWN_objective] a keen sense of survival, a sharp mind, and unparalleled adaptability.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicArtisan.title,harmonic artisan,title,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicArtisan.titleShort,artisan,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_HarmonicArtisan.baseDesc,"With a deep connection to the cosmic energies, [PAWN_nameDef] crafted artifacts of otherworldly beauty. [PAWN_possessive] works resonated with the essence of dimensions, requiring both artistry and intellect.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_OmnipotentGardener.title,omnipotent gardener,title,BackstoryDef/BackstoryDef.xml,def
+VREA_OmnipotentGardener.titleShort,gardener,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_OmnipotentGardener.baseDesc,"[PAWN_nameDef] had a touch that could make even the most barren dimension bloom. [PAWN_possessive] knowledge of botany was unparalleled, as [PAWN_pronoun] cultivated plants that melded realities.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialDiplomat.title,celestial diplomat,title,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialDiplomat.titleShort,diplomat,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_CelestialDiplomat.baseDesc,"[PAWN_nameDef] acted as the Archon's voice, negotiating with interdimensional beings. With every conversation, [PAWN_pronoun] masterfully balanced the scales between peace and power, securing the Archon's place in the cosmic order.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidFarmer.title,void farmer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidFarmer.titleShort,farmer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_VoidFarmer.baseDesc,"On the fringes of the Archon realm, [PAWN_nameDef] cultivated crops in the emptiness of the void. Harnessing the energies of the cosmos, [PAWN_pronoun] nourished and grew otherworldly flora with [PAWN_possessive] unique techniques.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_StarWhisperer.title,star whisperer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_StarWhisperer.titleShort,whisperer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_StarWhisperer.baseDesc,"Bound to the cosmos, [PAWN_nameDef] had a unique affinity for understanding celestial bodies. [PAWN_pronoun] communicated with stars, gleaning knowledge about the universe and its mysterious workings.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalArtisan.title,dimensional artisan,title,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalArtisan.titleShort,artisan,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_DimensionalArtisan.baseDesc,"[PAWN_nameDef] was revered as an architect of the abstract, bending the very fabric of dimensions to [PAWN_possessive] will. [PAWN_pronoun] constructed monuments that defied comprehension, merging beauty with function in unimaginable ways.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexScholar.title,eltex scholar,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexScholar.titleShort,scholar,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexScholar.baseDesc,"From a young age, [PAWN_nameDef] was obsessed with the mysteries of eltex. [PAWN_pronoun] dedicated [PAWN_possessive] life to studying its properties and potential applications, becoming one of the foremost experts in its psychic-enhancing capabilities.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexAlchemist.title,eltex alchemist,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexAlchemist.titleShort,alchemist,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexAlchemist.baseDesc,"Using advanced techniques, [PAWN_nameDef] learned to harness and refine eltex into potent concoctions. These brews could amplify psychic abilities or be used as valuable trade items, making [PAWN_nameDef] sought after in various dimensions.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexHunter.title,eltex hunter,title,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexHunter.titleShort,hunter,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_EltexHunter.baseDesc,"[PAWN_nameDef] had a rare gift - the innate ability to sense eltex across dimensions. As an eltex hunter, [PAWN_pronoun] journeyed through unstable realities, braving unimaginable dangers to retrieve this invaluable resource for the Archons.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonPsyLord.title,psy-lord,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonPsyLord.titleShort,psy-lord,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonPsyLord.baseDesc,"As a Psy-Lord, [PAWN_nameDef] wielded an unparalleled mastery over psychic energies. [PAWN_pronoun] trained legions of Archons in the ancient arts, and with a mere thought, [PAWN_pronoun] could reshape realities or bend minds to [PAWN_possessive] will.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonMindweaver.title,mindweaver,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonMindweaver.titleShort,mindweaver,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonMindweaver.baseDesc,"[PAWN_nameDef] delved deep into the intricacies of the psyche. As a Mindweaver, [PAWN_pronoun] had the unique ability to weave thoughts, memories, and emotions, creating intricate tapestries of perception that could enthrall or terrify.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamseer.title,dreamseer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamseer.titleShort,dreamseer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamseer.baseDesc,"[PAWN_nameDef] was a Dreamseer, an elite psycaster who ventured into the dreamscape. Navigating the ephemeral realms of dream and thought, [PAWN_pronoun] could uncover secrets, deliver messages, or implant suggestions deep within the subconscious mind.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamchild.title,dreamchild,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamchild.titleShort,dreamchild,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDreamchild.baseDesc,"From a young age, [PAWN_nameDef] displayed an innate ability to navigate the ethereal realms of dreams. Elders nurtured [PAWN_possessive] gift, teaching [PAWN_objective] to interpret omens and converse with spirits in the dreamscape.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidwalker.title,voidwalker initiate,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidwalker.titleShort,initiate,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidwalker.baseDesc,"Exhibiting an uncanny attraction to the void, [PAWN_nameDef] would often wander off to remote, void-touched places. These early experiences imbued [PAWN_objective] with a profound connection to the vast unknown.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusborn.title,nexusborn,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusborn.titleShort,nexusborn,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusborn.baseDesc,"Birthed near a powerful Archon nexus, [PAWN_nameDef]'s form resonated with psychic energies. [PAWN_possessive] childhood was marked by heightened sensitivities and precognitive events, making [PAWN_objective] a prodigy among peers.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarwhisperer.title,starwhisperer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarwhisperer.titleShort,starwhisperer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarwhisperer.baseDesc,"[PAWN_nameDef] grew up under the guidance of the Archon elders, who taught [PAWN_objective] to decipher the whispers of distant stars. [PAWN_pronoun] developed an astute sense of direction and an understanding of cosmic rhythms.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNoviceCasterChild.title,novice caster,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNoviceCasterChild.titleShort,novice,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNoviceCasterChild.baseDesc,"[PAWN_nameDef] grew up in a secluded enclave of Archon psycasters. While [PAWN_pronoun] was not yet a master, [PAWN_pronoun] practiced regularly, showing promise in manipulating basic psychic forces. Games with peers often involved bending spoons or levitating objects.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonChildExplorer.title,dimensional explorer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonChildExplorer.titleShort,explorer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonChildExplorer.baseDesc,"From a young age, [PAWN_nameDef] was curious about the dimensional rifts surrounding Archon habitats. With friends, [PAWN_pronoun] would explore these pockets of reality, learning to navigate the unpredictable terrains and studying the unique flora and fauna.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarChild.title,star-child,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarChild.titleShort,child,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStarChild.baseDesc,"Born amidst the swirling energies of a nebula, [PAWN_nameDef] was attuned to the cosmos from a young age. While other Archon children played in temporal realms, [PAWN_pronoun] gazed at stars, dreaming of distant galaxies and cosmic adventures.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidrunner.title,voidrunner,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidrunner.titleShort,runner,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonVoidrunner.baseDesc,"[PAWN_nameDef]'s early years were spent racing through the gaps between dimensions. A mischievous child, [PAWN_pronoun] would often slip through cracks in reality, leading [PAWN_possessive] peers on wild chases through time and space.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusScholar.title,nexus scholar,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusScholar.titleShort,scholar,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonNexusScholar.baseDesc,"As a nexus scholar, [PAWN_nameDef] spent [PAWN_possessive] formative years studying the ancient connections between dimensions. While [PAWN_possessive] curiosity often led [PAWN_objective] into trouble, it also forged a deep understanding of the Archon's cosmic realm.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonLuminaryApprentice.title,luminary's apprentice,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonLuminaryApprentice.titleShort,apprentice,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonLuminaryApprentice.baseDesc,"[PAWN_nameDef] was an apprentice to a luminary, helping with basic tasks in the luminary's workshop. [PAWN_pronoun] spent most days sorting crystals, cleaning tools, and occasionally assisting in simple experiments.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDimensionalFarmer.title,dimensional farmer,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDimensionalFarmer.titleShort,farmer,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonDimensionalFarmer.baseDesc,[PAWN_nameDef] grew up on a farm that produced trans-dimensional crops. [PAWN_pronoun] spent [PAWN_possessive] days tending to the crops and learning about the seasonal shifts in various dimensions.,baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCrystalCarver.title,crystal carver,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCrystalCarver.titleShort,carver,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCrystalCarver.baseDesc,"From a young age, [PAWN_nameDef] learned the delicate art of carving intricate patterns into various crystals. The crystals were used in daily Archon life for both practical and decorative purposes.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStrategyProdigy.title,strategy prodigy,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStrategyProdigy.titleShort,prodigy,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonStrategyProdigy.baseDesc,"[PAWN_nameDef]'s knack for tactics and strategy was evident from an early age. Admitted to a prestigious Archon military academy, [PAWN_pronoun] often played advanced war simulations against [PAWN_possessive] instructors.",baseDesc,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCadet.title,academy cadet,title,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCadet.titleShort,cadet,titleShort,BackstoryDef/BackstoryDef.xml,def
+VREA_ArchonCadet.baseDesc,"Even as a child, [PAWN_nameDef] was enrolled in one of the Archon's elite military academies. [PAWN_pronoun] learned discipline, basic combat techniques, and the importance of loyalty to the Archon cause.",baseDesc,BackstoryDef/BackstoryDef.xml,def

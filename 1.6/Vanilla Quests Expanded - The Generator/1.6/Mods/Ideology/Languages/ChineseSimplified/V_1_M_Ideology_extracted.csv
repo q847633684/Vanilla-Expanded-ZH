@@ -1,0 +1,81 @@
+key,text,tag,file,type
+VQE_Technophobia.label,technophobia,label,MemeDef/MemeDef.xml,def
+VQE_Technophobia.description,Humanity should reject technology as it exposes us to discord and cataclysm.,description,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.0,memeAdjective->primitive,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.1,memeAdjective->natural,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.2,memeAdjective->organic,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.3,memeAdjective->traditional,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.4,memeAdjective->rustic,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.5,memeCreed->path,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.6,memeCreed->movement,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.7,memeCreed->circle,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.8,memeCreed->doctrine,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.9,memeCreed->faith,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.10,memeHyphenPrefix->anti,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.11,memeHyphenPrefix->earth,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.12,memeHyphenPrefix->post,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.13,memeHyphenPrefix->neo,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.14,memeHyphenPrefix->rust,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.15,memeConcept->humanity,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.16,memeConcept->nature,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.17,memeConcept->purity,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.18,memeConcept->balance,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.19,memeConcept->simplicity,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.20,memeLeaderNoun->arbiter,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.21,memeLeaderNoun->seer,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.22,memeLeaderNoun->keeper,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.23,memeLeaderNoun->sage,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.24,memeLeaderNoun->prophet,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.25,memeLeaderAdjective->natural,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.26,memeLeaderAdjective->primal,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.27,memeLeaderAdjective->earthly,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.28,memeLeaderAdjective->ascetic,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.29,memeLeaderAdjective->pure,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.30,memeMoralist->warden,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.31,memeMoralist->protector,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.32,memeMoralist->guardian,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.33,memeMoralist->preserver,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.generalRules.rulesStrings.34,memeMoralist->guide,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.0,"creation(tag=meme_Technophobic)        ->[deity0_name] taught humanity to survive through the strength of their hands and the purity of nature, warning that machines would only bring ruin.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_Technophobic)  ->When humanity turned to machines, [deity0_name] wept and unleashed storms to sweep away the taint of their arrogance.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_Technophobic)           ->The [memberNamePlural] gathered in the shadow of [place_name], a place untouched by machines, and pledged themselves to the ways of simplicity and balance.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_Technophobic)        ->A cruel [foeLeader] sought to spread machines into the sacred lands of the [memberNamePlural], sparking a desperate struggle for survival.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_Technophobic)     ->A [place_job] named [founderName] led the charge against the [foeSoldiers], armed only with tools of the earth and the strength of [founder_possessive] followers.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.5,"victory(tag=meme_Technophobic)         ->[founderName] rallied the [memberNamePlural] to destroy the factories of the [foeLeader], cleansing the land of machinery and restoring harmony.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.6,setup(tag=meme_Technophobic)           ->[founderName] saw the collapse of a society built on machines and vowed to prevent humanity from repeating its mistakes.,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_Technophobic)    ->[founderName] gathered like-minded individuals, teaching them to reject technology and embrace a self-reliant life in harmony with nature.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.8,lessonIntro(tag=meme_Technophobic)         ->The elders taught me a truth that echoed through the ages:,li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.9,"lesson(tag=meme_Technophobic)              ->reliance on machines breeds fragility, and only through simplicity can we endure",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.10,"lessonReinforcement(tag=meme_Technophobic) ->I saw it with my own eyes when the great cities fell, powerless in the face of their own hubris.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.11,"archistBasis(tag=meme_Technophobic)    ->The archotechs turned away from humanity, seeing us as slaves to our machines. Only by abandoning technology can we regain their favor.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.12,"archistFact(tag=meme_Technophobic)     ->Machines dull the spirit and weaken the mind, driving humanity further from the enlightenment of the archotechs.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.13,"archistProphecy(tag=meme_Technophobic) ->[inTheEnd], only those who live pure, machine-free lives will be spared when the archotechs cleanse the world.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.14,"animistBasis(tag=meme_Technophobic)    ->Every living thing has a spirit, and the soulless machines disrupt the harmony of the natural world.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.15,"animistFact(tag=meme_Technophobic)     ->The spirits of the earth grow weak where machines tread, their power siphoned and corrupted.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.16,"animistProphecy(tag=meme_Technophobic) ->[itIsSaid] that when the last machine falls silent, the spirits will return and heal the world.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.17,"eschatologismFact(tag=meme_Technophobic)->Machines are the heralds of the apocalypse, and their creations will poison the earth until nothing is left but ash and ruin.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.18,"eschatologismProphecy(tag=meme_Technophobic)->[inTheEnd], the machines will turn against their creators, bringing devastation until only those who shun technology remain.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.19,"introMemo(tag=meme_Technophobic)->To: All Staff\nFrom: Office of Sustainability\nSubject: Policy Update - Technology Usage\n\nEffective immediately, all non-essential machinery is to be phased out. Remember, our ancestors thrived without these devices, and so can we. Continued reliance on technology undermines our resilience and poses long-term risks to our sustainability goals. Let's lead by example and demonstrate the strength of self-reliance. Compliance will be closely monitored.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.20,"chthonianProphecy(tag=meme_Technophobic)->[itIsSaid] that the machines are mere tools of the dark forces below, and every gear turned brings us closer to their dominion.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.21,"serketistProphecy(tag=meme_Technophobic)->The insects thrive without machines, a lesson in resilience that humanity has forgotten.",li,MemeDef/MemeDef.xml,def
+VQE_Technophobia.descriptionMaker.rules.rulesStrings.22,"alienistProphecy(tag=meme_Technophobic)->It was machines that created these terrifying creatures, and as such we must reject technology as a source of great evil.",li,MemeDef/MemeDef.xml,def
+VQE_ARCGenerators.label,ARC generators,label,IssueDef/IssueDef.xml,def
+VQE_ARCGenerators_Exalted.label,exalted,label,PreceptDef/PreceptDef.xml,def
+VQE_ARCGenerators_Exalted.description,"ARCs are humanity's greatest achievement, a symbol of progress and survival. To damage or neglect an ARC is sacrilege, while their presence inspires hope and purpose in all.",description,PreceptDef/PreceptDef.xml,def
+VQE_ARCGenerators_Exalted_Social.stages.0.label,studied ancient ARC,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Exalted_StudiedARC.stages.0.label,studied ancient ARC,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Exalted_StudiedARC.stages.0.description,I possess the knowledge to construct the advanced reactor chambers.,description,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Exalted_ARCLevel.stages.0.label,advanced reactor chamber,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Exalted_ARCLevel.stages.0.description,Our colony has the ARC. It’s beautiful. It sings.,description,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Abhorrent.label,abhorrent,label,PreceptDef/PreceptDef.xml,def
+VQE_ARCGenerators_Abhorrent.description,"ARCs are dangerous abominations, symbols of humanity’s reckless reliance on technology. Their existence brings unease, and their use risks inviting catastrophe.\n\n<color=#E5E54C>Gameplay effects:</color>\n - Tantrum mental breaks will target the ARC if it is reachable.",description,PreceptDef/PreceptDef.xml,def
+VQE_ARCGenerators_Abhorrent_Social.stages.0.label,studied ancient ARC,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Abhorrent_StudiedARC.stages.0.label,studied ancient ARC,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Abhorrent_StudiedARC.stages.0.description,I possess the forbidden knowledge I’d rather not have.,description,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Abhorrent_ARCLevel.stages.0.label,advanced reactor chamber,label,ThoughtDef/ThoughtDef.xml,def
+VQE_ARCGenerators_Abhorrent_ARCLevel.stages.0.description,Our colony has the ARC. It’s outrageous. I hate it.,description,ThoughtDef/ThoughtDef.xml,def
+VQE_Technology.label,technology,label,IssueDef/IssueDef.xml,def
+VQE_Technology_Rejected.label,rejected,label,PreceptDef/PreceptDef.xml,def
+VQE_Technology_Rejected.description,Modern technology is a corrupting force that separates humanity from its natural path. Using it is shameful and leads only to ruin and discord.\n\n<color=#E5E54C>Gameplay effects:</color>\n - Colonists will refuse to equip or wear items that are industrial tech level or higher.\n - Tantrum mental breaks will target items and buildings that are industrial tech level or higher.,description,PreceptDef/PreceptDef.xml,def
+VQE_Technology_Rejected_WearingTech.stages.0.label,wearing high-tech items,label,ThoughtDef/ThoughtDef.xml,def
+VQE_Technology_Rejected_WearingTech.stages.0.description,I’m wearing equipment of the future. I hate technology.,description,ThoughtDef/ThoughtDef.xml,def

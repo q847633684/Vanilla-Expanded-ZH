@@ -1,0 +1,324 @@
+key,text,tag,file,type
+VRE_ManageGenelines,Manage genelines,VRE_ManageGenelines,Keys.xml,keyed
+VRE_ManageGenelinesDesc,Change the currently selected geneline or create new genelines.,VRE_ManageGenelinesDesc,Keys.xml,keyed
+VRE_EditGeneline,Edit geneline,VRE_EditGeneline,Keys.xml,keyed
+VRE_GenelineName,Geneline {0},VRE_GenelineName,Keys.xml,keyed
+VRE_DeleteThisGeneline,Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors.,VRE_DeleteThisGeneline,Keys.xml,keyed
+VRE_CreateGeneline,Create a new geneline,VRE_CreateGeneline,Keys.xml,keyed
+VRE_CreateGenelineExplanation,You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours.,VRE_CreateGenelineExplanation,Keys.xml,keyed
+VRE_GenelineNameCannotBeEmpty,Geneline name cannot be empty.,VRE_GenelineNameCannotBeEmpty,Keys.xml,keyed
+VRE_MessageConflictingGenesPresent,Cannot save geneline with multiple conflicting genes.,VRE_MessageConflictingGenesPresent,Keys.xml,keyed
+VRE_Evolutions,Evolutions,VRE_Evolutions,Keys.xml,keyed
+VRE_EvolutionsDesc,Evolutions,VRE_EvolutionsDesc,Keys.xml,keyed
+VRE_Degrades,Degrades,VRE_Degrades,Keys.xml,keyed
+VRE_DegradesDesc,text.todo,VRE_DegradesDesc,Keys.xml,keyed
+VRE_SaveGeneline,Save geneline,VRE_SaveGeneline,Keys.xml,keyed
+VRE_NeedEqualAmount,Needs equal amount of evolutions and degrades.,VRE_NeedEqualAmount,Keys.xml,keyed
+VRE_ChangingGenelineExplanation,"Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable.",VRE_ChangingGenelineExplanation,Keys.xml,keyed
+VRE_CannotSave,Cannot save: {0},VRE_CannotSave,Keys.xml,keyed
+VRE_ChangeTo,Change to: {0},VRE_ChangeTo,Keys.xml,keyed
+VRE_DeleteGenelineConfirmation,"You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.
+Insector colonists that will be affected:
+
+{0}",VRE_DeleteGenelineConfirmation,Keys.xml,keyed
+VRE_Genelines,Genelines,VRE_Genelines,Keys.xml,keyed
+VRE_GenelinesDesc,text.todo,VRE_GenelinesDesc,Keys.xml,keyed
+VRE_MetapodTimer,Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly.,VRE_MetapodTimer,Keys.xml,keyed
+VRE_MetapodSicknessCannotChangeGeneline,Cannot change genelines due to metapod sickness.,VRE_MetapodSicknessCannotChangeGeneline,Keys.xml,keyed
+VRE_ChestburstPregnancyReady,Chestburst pregnancy,VRE_ChestburstPregnancyReady,Keys.xml,keyed
+VRE_ChestburstPregnancyReadyDesc,"When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.",VRE_ChestburstPregnancyReadyDesc,Keys.xml,keyed
+VRE_ChestburstImplantationNeeded,Chestburst implantation needed,VRE_ChestburstImplantationNeeded,Keys.xml,keyed
+VRE_ChestburstImplantationNeededDesc,"When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0}",VRE_ChestburstImplantationNeededDesc,Keys.xml,keyed
+VRE_InjectChestburstFetus,Inject chestburst fetus,VRE_InjectChestburstFetus,Keys.xml,keyed
+VRE_InjectChestburstFetusDesc,"Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host.",VRE_InjectChestburstFetusDesc,Keys.xml,keyed
+VRE_NeedsHumanoidOrAnimal,Needs to be injected on a humanoid target or adult animal with body size higher than 1,VRE_NeedsHumanoidOrAnimal,Keys.xml,keyed
+VRE_CantImplantOnGhoul,Can't be injected on ghouls,VRE_CantImplantOnGhoul,Keys.xml,keyed
+VRE_CantImplantOnShambler,Can't be injected on shamblers,VRE_CantImplantOnShambler,Keys.xml,keyed
+VRE_ChestburstBirthLabel,Chestburst birth,VRE_ChestburstBirthLabel,Keys.xml,keyed
+VRE_ChestburstBirth,"A newborn, {0}, has hatched from a host, killing it in the process",VRE_ChestburstBirth,Keys.xml,keyed
+VRE_ChestburstBirthHiddenLabel,Chestburst birth!,VRE_ChestburstBirthHiddenLabel,Keys.xml,keyed
+VRE_ChestburstBirthHidden,"{0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process!",VRE_ChestburstBirthHidden,Keys.xml,keyed
+VRE_SelfImpregnate,Self-impregnate,VRE_SelfImpregnate,Keys.xml,keyed
+VRE_SelfImpregnateDesc,"Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent.",VRE_SelfImpregnateDesc,Keys.xml,keyed
+VRE_PawnIsMale,Only available for females,VRE_PawnIsMale,Keys.xml,keyed
+VRE_OnlyOnSelf,Parthenogenesis can only be targeted on self,VRE_OnlyOnSelf,Keys.xml,keyed
+VRE_AlreadyPregnant,Individual is already pregnant,VRE_AlreadyPregnant,Keys.xml,keyed
+VRE_GotPregnant,{0} has self-impregnated!,VRE_GotPregnant,Keys.xml,keyed
+VRE_PawnIsTooYoung,{0} is too young!,VRE_PawnIsTooYoung,Keys.xml,keyed
+VRE_TempSterile,{0} is still suffering from implantation fatigue,VRE_TempSterile,Keys.xml,keyed
+VRE_SwarmSynapseOffset,Swarm synapse gene,VRE_SwarmSynapseOffset,Keys.xml,keyed
+VRE_IngestPherocore,Consume {0} to unlock a new mutation / evolution,VRE_IngestPherocore,Keys.xml,keyed
+VRE_PherocoreConsumed,Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene,VRE_PherocoreConsumed,Keys.xml,keyed
+VRE_NoUnlockableGenes,No more genes can be unlocked with the {0},VRE_NoUnlockableGenes,Keys.xml,keyed
+VREInsector_WingPoweredJump.label,insectleap,label,AbilityDef/AbilityDef.xml,def
+VREInsector_WingPoweredJump.description,Jump to a distant location using insect wings.,description,AbilityDef/AbilityDef.xml,def
+VREInsector_WingPoweredJump.verbProperties.label,use insectleap,label,AbilityDef/AbilityDef.xml,def
+VRE_InsectorPlayerTribe.label,New Hive,label,FactionDef/FactionDef.xml,def
+VRE_InsectorPlayerTribe.description,An insector tribe.,description,FactionDef/FactionDef.xml,def
+VRE_InsectorPlayerTribe.pawnSingular,hivemember,pawnSingular,FactionDef/FactionDef.xml,def
+VRE_InsectorPlayerTribe.pawnsPlural,hivemembers,pawnsPlural,FactionDef/FactionDef.xml,def
+VRE_BugBlood.label,bugblood,label,GeneDef/GeneDef.xml,def
+VRE_BugBlood.description,"Carriers of this gene have greenish blood color, just like insects.",description,GeneDef/GeneDef.xml,def
+VRE_InsectSkin.label,insectskin,label,GeneDef/GeneDef.xml,def
+VRE_InsectSkin.description,"Carriers of this gene have a slightly thicker carapace as their skin. Chitin plating is capable of deflecting sharp attacks, but is quite brittle and not as defensive against blunt trauma.",description,GeneDef/GeneDef.xml,def
+VRE_InsectAntennae.label,insect antennae,label,GeneDef/GeneDef.xml,def
+VRE_InsectAntennae.description,"Carriers of this gene grow small antennae at the top of their head. These antennae do not serve any known function, and can be safely assumed to be cosmetic-only.",description,GeneDef/GeneDef.xml,def
+VRE_EvolutionGene.label,Insector evolutions,label,GeneCategoryDef/GeneCategoryDef.xml,def
+VRE_Hiveglands.label,hiveglands,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Hiveglands.description,Carriers of this gene have special glands that allow them to greatly increase construction speed. They do however generate filth every time they construct anything.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_CompoundEyes.label,compound eyes,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_CompoundEyes.description,"Carriers of this gene have numerous independent photoreception units allowing them to see in many directions, notice very fast movements and recognize details from afar. Their sight and effective shooting range is greatly increased.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VocalGlands.label,vocal glands,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VocalGlands.description,"Carriers of this gene have a special vocal organ that can emulate human voice perfectly, and emit a melodic tone that for most people can be described as beautiful.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_AntimicrobialPeptides.label,antimicrobial peptides,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_AntimicrobialPeptides.description,"Carriers of this gene regenerate their tissue at a much faster rate than normal, and are much more capable of fighting off any infections and illnesses.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectWings.label,insect wings,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectWings.description,"Carriers of this gene grow large insect-like wings at the back of their torso, allowing them to move quicker, glide through difficult terrain with ease, and from time to time enable them to leap into the air.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectMandibles.label,insect mandibles,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectMandibles.description,"Carriers of this gene have very strong, insect-like mandibles, allowing them to consume food significantly quicker. They will also be able to use these mandibles in combat if unarmed.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RobustMidgut.label,robust midgut,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RobustMidgut.description,"Carriers of this gene grow a multi-fold midgut, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all. Prevents food poisoning.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HighGreyMatter.label,high grey matter,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HighGreyMatter.description,"Carriers of this gene are capable of absorbing new information at an incredible rate, analyzing their experiences and learning from them with ease. They are incredibly good at learning new skills and knowledge.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderHorns.label,megaspider horns,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderHorns.description,"Carriers of this gene grow two strong horns from their forehead, similar to those found on bioengineered megaspiders. These horns can be used to maul enemies in combat if unarmed, but they also increase mining speed slightly.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_DetoxifierTubules.label,detoxifier tubules,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_DetoxifierTubules.description,Carriers of this gene have their Malpighian tubules set to overdrive and are capable of withstanding extreme amounts of toxicity without any ill effects.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HypothermicSlowdown.label,hypothermic slowdown,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HypothermicSlowdown.description,"Carriers of this gene do not suffer hypothermia. Instead, they enter hypothermic slowdown - a special biological state that allows them to survive extreme cold. Instead of trying to stay warm, the carrier’s body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SlowedLifeCycle.label,slowed life cycle,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SlowedLifeCycle.description,"Carriers of this gene do not go through senescence in the normal way. They never get chronic age-related diseases like cancer, bad back, cataracts, or dementia, and age much slower.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HardenedChitin.label,hardened chitin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HardenedChitin.description,"Carriers of this gene have their exoskeleton consisting of thick, hardened chitin, and are much more resistant to damage and stagger effects. This comes at the cost of slowing them down slightly due to the sheer weight of the carapace.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SensitiveBrainGoop.label,sensitive brain goop,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SensitiveBrainGoop.description,"Carriers of this gene have a volatile substance surrounding their brain, greatly increasing their psychic sensitivity.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Serotonin.label,serotonin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Serotonin.description,"Carriers of this gene produce large amounts of serotonin, keeping them in a continuous state of bliss while also affecting their consciousness. The presence of this neurotransmitter will also make them more aggressive.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Heatshock.label,heatshock,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Heatshock.description,"Carriers of this gene produce a special kind of heatshock proteins when hot, allowing them to survive even the most extreme temperatures, but causing them to consume a lot more nutrition.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_JellySacks.label,jelly sacks,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_JellySacks.description,"Carriers of this gene have large jelly sacks present on their lower abdomen, allowing them to periodically produce valuable insect jelly.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpawningSack.label,spawning sack,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpawningSack.description,"Carriers of this gene have large royal jelly sacks present on their lower abdomen. It increases their fertility and allows them to rapidly progress their pregnancy, and in case of chestburst pregnancies, it allows the carrier to carry their own spawn inside of them without the risk of death upon giving birth.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Parthenogenesis.label,parthenogenesis,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Parthenogenesis.description,"Carriers of this gene can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_CuticleShell.label,cuticle shell,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_CuticleShell.description,Carriers of this gene grow a thin cuticle exoskeleton shielding protecting them from any pathogens. This provides them with immunity to common illnesses such as malaria or flu. Does nothing to prevent the infection.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeHorn.label,spelopede horn,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeHorn.description,"Carriers of this gene grow a singular, thick horn in the middle of their headbone, similar to the ones found on bioengineered spelopedes. Unlike the megaspider horns, spelopede horn cannot be used in combat, but it does increase mining speed greatly.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RipperBlades.label,ripper-blades,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RipperBlades.description,"Carriers of this gene have long and deadly ripper-blades instead of hands. While the blades greatly lower work speed, they can be used in melee combat and are capable of ripping even armored enemies in half.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectorCosmeticGene.label,geneline cosmetics,label,GeneCategoryDef/GeneCategoryDef.xml,def
+VRE_CompoundEyes_Cosmetic.label,"compound eyes, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_CompoundEyes_Cosmetic.description,"Carriers of this gene have numerous independent photoreception units allowing them to see in many directions, notice very fast movements and recognize details from afar.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_OcelliEyes_Cosmetic.label,"ocelli eyes, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_OcelliEyes_Cosmetic.description,Carriers of this gene have an optical arrangement composed of a single lens and without an elaborate retina.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectAntennae_Cosmetic.label,"insect antennae, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectAntennae_Cosmetic.description,"Carriers of this gene grow small antennae at the top of their head. These antennae do not serve any known function, and can be safely assumed to be cosmetic-only.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VatGrownInsectoidSkin_Cosmetic.label,vat-grown insectoid skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VatGrownInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of vat-grown insectoids.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderInsectoidSkin_Cosmetic.label,megaspider insectoid skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of megaspiders.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegascarabInsectoidSkin_Cosmetic.label,megascarab insectoid skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegascarabInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of megascarabs.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeInsectoidSkin_Cosmetic.label,spelopede insectoid skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of spelopedes.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_NuchadusInsectoidSkin_Cosmetic.label,nuchadus geneline skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_NuchadusInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of insectoids of the Nuchadus geneline.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_ChelisInsectoidSkin_Cosmetic.label,chelis geneline skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_ChelisInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of insectoids of the Chelis geneline.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_KemiaInsectoidSkin_Cosmetic.label,kemia geneline skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_KemiaInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of insectoids of the Kemia geneline.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_XanidesInsectoidSkin_Cosmetic.label,xanides geneline skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_XanidesInsectoidSkin_Cosmetic.description,Carriers of this gene produce a pigment similar to that of insectoids of the Xanides geneline.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectWings_Cosmetic.label,"insect wings, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectWings_Cosmetic.description,Carriers of this gene grow large insect-like wings at the back of their torso.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectMandibles_Cosmetic.label,"insect mandibles, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectMandibles_Cosmetic.description,"Carriers of this gene have very strong, insect-like mandibles.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderHorns_Cosmetic.label,"megaspider horns, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_MegaspiderHorns_Cosmetic.description,"Carriers of this gene grow two strong horns from their forehead, similar to those found on bioengineered megaspiders.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_JellySacks_Cosmetic.label,"jelly sacks, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_JellySacks_Cosmetic.description,Carriers of this gene have large jelly sacks present on their lower abdomen.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpawningSack_Cosmetic.label,"spawning sack, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpawningSack_Cosmetic.description,Carriers of this gene have large royal jelly sacks present on their lower abdomen.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeHorn_Cosmetic.label,"spelopede horn, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_SpelopedeHorn_Cosmetic.description,"Carriers of this gene grow a singular, thick horn in the middle of their headbone, similar to the ones found on bioengineered spelopedes.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Eyes_Red_Cosmetic.label,"red eyes, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Eyes_Red_Cosmetic.description,Carriers of this gene have deeply red-pigmented eyes.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Eyes_Gray_Cosmetic.label,"gray eyes, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Eyes_Gray_Cosmetic.description,Carriers of this gene have pale white-gray eyes.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Headbone_MiniHorns_Cosmetic.label,"mini horns, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Headbone_MiniHorns_Cosmetic.description,Carriers of this gene grow two small horns protruding from the forehead.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Headbone_CenterHorn_Cosmetic.label,"center horn, cosmetic",label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Headbone_CenterHorn_Cosmetic.description,Carriers of this gene grow a single horn protruding from the center of the forehead.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_GenelineEvolution.label,geneline evolution,label,GeneDef/GeneDef.xml,def
+VRE_GenelineEvolution.description,"Carriers of this gene are capable of adapting their geneline at will. They may form different castes and obtain numerous new, geneline-exclusive evolutions and degrades.",description,GeneDef/GeneDef.xml,def
+VRE_InsectFlesh.label,insect flesh,label,GeneDef/GeneDef.xml,def
+VRE_InsectFlesh.description,"Carriers of this gene have insect tissue for flesh. Consuming insect meat by them is classed as cannibalism. When butchered, they will yield insect meat instead of human meat.\n\nIf VFE - Insectoids 2 is present, this gene will negate the movement penalty on Creep.",description,GeneDef/GeneDef.xml,def
+VRE_InsectPheromones.label,insect pheromones,label,GeneDef/GeneDef.xml,def
+VRE_InsectPheromones.description,"Carriers of this gene emit special pheromones, allowing them to co-exist with wild insectoids. They will not be attacked by insectoids unless they are provoked.",description,GeneDef/GeneDef.xml,def
+VRE_MutationGene.label,Insector degrades,label,GeneCategoryDef/GeneCategoryDef.xml,def
+VRE_OcelliEyes.label,ocelli eyes,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_OcelliEyes.description,"Carriers of this gene have an optical arrangement composed of a single lens and without an elaborate retina, making them almost blind.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VocalChitters.label,vocal chitters,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VocalChitters.description,"Carriers of this gene have their vocal cords changed into little openings in the bones, resulting in them being unable to speak, unless someone understands the loud whistling that they can now produce.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Immunodeficiency.label,immunodeficiency,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Immunodeficiency.description,Carriers of this gene regenerate their tissue half as fast as normal and are much more likely to die from infection due to low immunity.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InflexibleJoints.label,inflexible joints,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InflexibleJoints.description,"Carriers of this gene have hardened, less flexible joints, making it much harder to move and even harder to navigate difficult terrain.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InefficientMidgut.label,inefficient midgut,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InefficientMidgut.description,"Carriers of this gene have a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_PorousSkin.label,porous skin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_PorousSkin.description,"Carriers of this gene have hollow pores in their skin, making them look extremely unappealing.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_LowGreyMatter.label,low grey matter,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_LowGreyMatter.description,"Carriers of this gene are unable to process new information and are incapable of evaluating their decisions and learning from them. They are incredibly slow at learning new skills and knowledge, and have greatly lowered psychic sensitivity.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VestigialTubules.label,vestigial tubules,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_VestigialTubules.description,Carriers of this gene lack any capability to filter out toxins as their tubules have become functionless. They are much more likely to die due to any sort of toxicity in their environment.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HypothermicHibernation.label,hypothermic hibernation,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_HypothermicHibernation.description,"Carriers of this gene enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RapidLifeCycle.label,rapid life cycle,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_RapidLifeCycle.description,"Carriers of this gene have a short life cycle and will suffer age related illnesses sooner than others. The older they get, the more rapidly they will age.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_WeakenedChitin.label,weakened chitin,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_WeakenedChitin.description,"Carriers of this gene have their exoskeleton consisting of thin, porous and brittle chitin, and are prone to damage. The light weight of their carapace, however, allows for a slightly faster movement speed.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Heatstress.label,heatstress,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Heatstress.description,"Carriers of this gene experience heat stress when temperatures exceed their optimal range for physiological processes. This can lead to cellular damage, including denaturation of proteins, burn damage and a severe fear of fire. They will lose consciousness when exposed to extreme heat even for a short duration.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Dormant.label,dormant,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Dormant.description,"Carriers of this gene have reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_LowOctopamine.label,low octopamine,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_LowOctopamine.description,"Carriers of this gene produce very little octopamine, causing decreased arousal and reducing their activity level. The lack of this neurotransmitter will also make them much more depressed.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_PollutionDependency.label,pollution dependency,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_PollutionDependency.description,"Carriers of this gene need to be affected by pollution on a regular basis to survive. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_ProteinDenaturation.label,protein denaturation,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_ProteinDenaturation.description,Carriers of this gene have disrupted cellular processes caused by denatured proteins that react dangerously to UV radiation. They are intensely sensitive to sunlight and have very dry chitin that’s susceptible to fire.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Stenothermic.label,stenothermic,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_Stenothermic.description,Carriers of this gene can only tolerate a very narrow range of temperatures.,description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_AcidBlood.label,acid blood,label,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_AcidBlood.description,"Carriers of this gene have a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid.",description,VanillaRacesExpandedInsector.GenelineGeneDef/VanillaRacesExpandedInsector.GenelineGeneDef.xml,def
+VRE_InsectJellyDependency.label,insect jelly dependency,label,GeneDef/GeneDef.xml,def
+VRE_InsectJellyDependency.description,"Carriers of this gene need to ingest insect jelly on a regular basis to survive. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.",description,GeneDef/GeneDef.xml,def
+VRE_ChestburstPregnancy.label,chestburst pregnancy,label,GeneDef/GeneDef.xml,def
+VRE_ChestburstPregnancy.description,"Carriers of this gene do not carry their own fetus. Instead, fetus needs to be implanted in another willing or unwilling individual or animal. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host.",description,GeneDef/GeneDef.xml,def
+VRE_VatGrownInsectoidSkin.label,vat-grown insectoid skin,label,GeneDef/GeneDef.xml,def
+VRE_VatGrownInsectoidSkin.description,Carriers of this gene produce a pigment similar to that of vat-grown insectoids.,description,GeneDef/GeneDef.xml,def
+VRE_MegaspiderInsectoidSkin.label,megaspider insectoid skin,label,GeneDef/GeneDef.xml,def
+VRE_MegaspiderInsectoidSkin.description,Carriers of this gene produce a pigment similar to that of megaspiders.,description,GeneDef/GeneDef.xml,def
+VRE_MegascarabInsectoidSkin.label,megascarab insectoid skin,label,GeneDef/GeneDef.xml,def
+VRE_MegascarabInsectoidSkin.description,Carriers of this gene produce a pigment similar to that of megascarabs.,description,GeneDef/GeneDef.xml,def
+VRE_SpelopedeInsectoidSkin.label,spelopede insectoid skin,label,GeneDef/GeneDef.xml,def
+VRE_SpelopedeInsectoidSkin.description,Carriers of this gene produce a pigment similar to that of spelopedes.,description,GeneDef/GeneDef.xml,def
+VRE_Insector.label,insector,label,XenotypeDef/XenotypeDef.xml,def
+VRE_Insector.description,"Insectors were engineered as a military project to thrive on planets with harsh, insectoid environments. They can edit their genes to form various castes suited to different conditions, making them highly adaptable and self-sufficient. Living in symbiosis with insectoids, they reproduce by implanting a chestburster larva into a host.\n\nWith chitinous exoskeletons, multifaceted eyes, and segmented limbs, Insectors resemble a blend of humans and insects. Their isolationist nature and unsettling appearance often lead others to see them as cold and unapproachable. However, their society is complex and strategic, using fear and misunderstanding to their advantage in diplomacy and warfare, ensuring their survival in the harshest conditions.",description,XenotypeDef/XenotypeDef.xml,def
+VRE_Insector.descriptionShort,"Engineered for harsh insectoid worlds, Insectors can adapt their genes to form specialized castes and reproduce through chestburster larvae. With chitinous exoskeletons and multifaceted eyes, they live in symbiosis with insectoids.",descriptionShort,XenotypeDef/XenotypeDef.xml,def
+VRE_InsectMandibles.label,insect mandibles,label,HediffDef/HediffDef.xml,def
+VRE_InsectMandibles.description,"Very strong, insect-like mandibles, allowing this person to consume food significantly quicker. They will also be able to use these mandibles in combat if unarmed.",description,HediffDef/HediffDef.xml,def
+VRE_InsectMandibles.comps.0.tools.0.label,insect mandibles,label,HediffDef/HediffDef.xml,def
+VRE_HornAttack.label,megaspider horns,label,HediffDef/HediffDef.xml,def
+VRE_HornAttack.description,These horns can be used to maul enemies in combat if unarmed.,description,HediffDef/HediffDef.xml,def
+VRE_HornAttack.comps.0.tools.0.label,megaspider horns,label,HediffDef/HediffDef.xml,def
+VRE_RipperBlades.label,ripper-blade,label,HediffDef/HediffDef.xml,def
+VRE_RipperBlades.description,"A long and deadly ripper-blade that greatly lowers work speed, while being able to be used in melee combat to rip even armored enemies in half.",description,HediffDef/HediffDef.xml,def
+VRE_RipperBlades.comps.0.tools.0.label,ripper-blade,label,HediffDef/HediffDef.xml,def
+VRE_AcidBlood.label,acid blood,label,HediffDef/HediffDef.xml,def
+VRE_AcidBlood.description,"This person has a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid.",description,HediffDef/HediffDef.xml,def
+VRE_InefficientMidgut.label,inefficient midgut,label,HediffDef/HediffDef.xml,def
+VRE_InefficientMidgut.description,"This person has a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more.",description,HediffDef/HediffDef.xml,def
+VRE_Dormant.label,dormant,label,HediffDef/HediffDef.xml,def
+VRE_Dormant.description,"This person has reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive.",description,HediffDef/HediffDef.xml,def
+VRE_Serotonin.label,serotonin-buzz,label,HediffDef/HediffDef.xml,def
+VRE_Serotonin.description,Large amounts of serotonin cause great happiness at the cost of reduced consciousness.,description,HediffDef/HediffDef.xml,def
+VRE_LowOctopamine.label,octopamine-down,label,HediffDef/HediffDef.xml,def
+VRE_LowOctopamine.description,"Low amounts of octopamine cause decreased arousal and activity levels, as well as depression.",description,HediffDef/HediffDef.xml,def
+VREInsector_Hover.label,glide,label,HediffDef/HediffDef.xml,def
+VREInsector_Hover.description,Limited flight that allows this colonist to hop and glide small distances over terrain. They will ignore terrain movement costs when moving.,description,HediffDef/HediffDef.xml,def
+VRE_PollutionDependencyHediff.label,pollution dependency,label,HediffDef/HediffDef.xml,def
+VRE_PollutionDependencyHediff.description,"This person has a genetically-induced biochemical dependency on pollution. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.",description,HediffDef/HediffDef.xml,def
+VRE_PollutionDependencyHediff.stages.2.label,deficiency,label,HediffDef/HediffDef.xml,def
+VRE_PollutionDependencyHediff.stages.3.overrideLabel,deficiency coma,overrideLabel,HediffDef/HediffDef.xml,def
+VRE_InsectJellyDependencyHediff.label,insect jelly dependency,label,HediffDef/HediffDef.xml,def
+VRE_InsectJellyDependencyHediff.description,"This person has a genetically-induced biochemical dependency on insect jelly. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.",description,HediffDef/HediffDef.xml,def
+VRE_InsectJellyDependencyHediff.stages.2.label,deficiency,label,HediffDef/HediffDef.xml,def
+VRE_InsectJellyDependencyHediff.stages.3.overrideLabel,deficiency coma,overrideLabel,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancyHediff.label,chestburst pregnancy needs implantation,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancyHediff.description,"When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.",description,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.label,chestburst pregnancy,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.description,"Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.",description,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.stages.0.label,egg,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.stages.1.label,larva,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.stages.2.label,pupa,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim.stages.3.label,juvenile,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.label,chestburst pregnancy,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.description,"Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.",description,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label,egg,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label,larva,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label,pupa,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label,juvenile,label,HediffDef/HediffDef.xml,def
+VRE_Parthenogenesis.label,parthenogenesis,label,HediffDef/HediffDef.xml,def
+VRE_Parthenogenesis.description,"This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.",description,HediffDef/HediffDef.xml,def
+VRE_InsectJellyProduction.label,jelly production,label,HediffDef/HediffDef.xml,def
+VRE_InsectJellyProduction.description,"This person has large jelly sacks present on their lower abdomen, allowing them to periodically produce valuable insect jelly.",description,HediffDef/HediffDef.xml,def
+VREInsector_TempSterile.label,chestburst implantation fatigue,label,HediffDef/HediffDef.xml,def
+VREInsector_TempSterile.description,"After being ready to do a chestburst implantation, the person with the chestburst pregnancy gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.",description,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.label,heatshock,label,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.description,"A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area.",description,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.stages.0.label,initial,label,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.stages.2.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.stages.3.label,serious,label,HediffDef/HediffDef.xml,def
+VRE_HeatshockHediff.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.label,hypothermic hibernation,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.description,"This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything.",description,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.stages.0.label,shivering,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.stages.2.label,drowsy,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.stages.3.label,sleep,label,HediffDef/HediffDef.xml,def
+VRE_HypothermicHibernationHediff.stages.4.label,deep sleep,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.label,heatstress,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.description,A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness.,description,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.stages.0.label,initial,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.stages.1.label,initial,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.stages.2.label,minor,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.stages.3.label,serious,label,HediffDef/HediffDef.xml,def
+VRE_HeatstressHediff.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+VRE_ChestburstImplantationJob.reportString,injecting chestburst fetus.,reportString,JobDef/JobDef.xml,def
+VRE_ConsumeInsectJelly.reportString,consuming TargetA.,reportString,JobDef/JobDef.xml,def
+VRE_Pollution.label,pollution,label,NeedDef/NeedDef.xml,def
+VRE_Pollution.description,"Carriers of this gene need to be affected by pollution on a regular basis to survive. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.",description,NeedDef/NeedDef.xml,def
+VRE_TribalInsector.label,Tribal insector,label,PawnKindDef/PawnKindDef.xml,def
+VRE_ChestburstWandererJoinQuest.questNameRules.rulesStrings.0,questName->Wanderer joins,li,QuestScriptDef/QuestScriptDef.xml,def
+VRE_ChestburstWandererJoinQuest.questDescriptionRules.rulesStrings.0,questDescription->,li,QuestScriptDef/QuestScriptDef.xml,def
+VRE_RemoveChestburstPregnancy_Victim.label,remove chestburst pregnancy,label,RecipeDef/RecipeDef.xml,def
+VRE_RemoveChestburstPregnancy_Victim.description,"Remove chestburst pregnancy from this victim, killing the fetus.",description,RecipeDef/RecipeDef.xml,def
+VRE_RemoveChestburstPregnancy_Victim.jobString,Removing chestburst pregnancy.,jobString,RecipeDef/RecipeDef.xml,def
+VRE_PlayerPawnsArriveCrash.label,arrival method,label,ScenPartDef/ScenPartDef.xml,def
+VRE_InfestedCrash.label,Infested Ship,label,ScenarioDef/ScenarioDef.xml,def
+VRE_InfestedCrash.description,"As the old, derelict ship entered the lower orbit, a sudden systems failure triggered a catastrophic malfunction. Not sure if it was due to the ship’s advanced age, a critical hardware failure, or a long-dormant virus in the AI-core, we quickly realized it didn’t matter. Our colony of insectors, long misunderstood and striving to survive, was in chaos. In our panic, we instinctively swarmed towards the escape pods, desperate to flee the impending disaster.\n\nIn our haste, we accidentally launched the pods, leaving the human crew behind in their cryptosleep chambers, unaware and doomed. The ship split into numerous chunks as it rapidly descended onto the surface. Amid the pandemonium, we could only hope that perhaps some things could still be recovered from the wreckage.\n\nNote: Since you start crash landing and with very little supplies, this is a difficult scenario.",description,ScenarioDef/ScenarioDef.xml,def
+VRE_InfestedCrash.scenario.summary,"A hive of insectors, crashlanding in the wilderness. A classic VRE - Insector experience.",summary,ScenarioDef/ScenarioDef.xml,def
+VRE_InfestedCrash.scenario.parts.0.customSummary,Start with six insectors.,customSummary,ScenarioDef/ScenarioDef.xml,def
+VRE_InfestedCrash.scenario.parts.0.xenotypeCounts.0.description,adult insector,description,ScenarioDef/ScenarioDef.xml,def
+VRE_InfestedCrash.scenario.parts.7.text,"As the old, derelict ship entered the lower orbit, a sudden systems failure triggered a catastrophic malfunction. Not sure if it was due to the ship’s advanced age, a critical hardware failure, or a long-dormant virus in the AI-core, we quickly realized it didn’t matter. Our colony of insectors, long misunderstood and striving to survive, was in chaos. In our panic, we instinctively swarmed towards the escape pods, desperate to flee the impending disaster.\n\nIn our haste, we accidentally launched the pods, leaving the human crew behind in their cryptosleep chambers, unaware and doomed. The ship split into numerous chunks as it rapidly descended onto the surface. Amid the pandemonium, we could only hope that perhaps some things could still be recovered from the wreckage.",text,ScenarioDef/ScenarioDef.xml,def
+VRE_ChestburstWandererJoinQuest.label,wanderer join,label,IncidentDef/IncidentDef.xml,def
+VRE_InfestedShipPart_Spawned.label,infested ship part,label,ThingDef/ThingDef.xml,def
+VRE_InfestedShipPart_Spawned.description,"A chunk of a spacecraft covered in biomass and insect jelly. Before it came crashing down, it was a part of a larger vessel. Can be deconstructed to yield useful steel and components.",description,ThingDef/ThingDef.xml,def
+VRE_Metapod.label,metapod,label,ThingDef/ThingDef.xml,def
+VRE_Metapod.description,"A large cocoon formed by an insector undergoing a metamorphosis. If destroyed, the insector inside will die. After metamorphosis is complete, the insector will emerge from their metapod with a brand new genetic composition.",description,ThingDef/ThingDef.xml,def
+VRE_MetapodHediff.label,metapod,label,HediffDef/HediffDef.xml,def
+VRE_MetapodHediff.description,"A large cocoon formed by an insector undergoing a metamorphosis. If destroyed, the insector inside will die. After metamorphosis is complete, the insector will emerge from their metapod with a brand new genetic composition.",description,HediffDef/HediffDef.xml,def
+VRE_MetapodSickness.label,Metapod sickness,label,HediffDef/HediffDef.xml,def
+VRE_MetapodSickness.description,"After-effects of undergoing an evolution via a metapod. The insectoid metapod replaces and mutates the genome of the individual. Upon exiting the metapod, the body takes time to restart and rebalance its natural metabolic processes. Duration of the metapod sickness depends on the duration spent in the metapod.",description,HediffDef/HediffDef.xml,def
+VRE_InfestedShipPart.label,infested ship part,label,ThingDef/ThingDef.xml,def
+VRE_ActiveDropPod.label,infested ship part,label,ThingDef/ThingDef.xml,def
+VRE_Filth_BugBlood.label,bugblood,label,ThingDef/ThingDef.xml,def
+VRE_Filth_BugBlood_BloodSmear.label,bugblood smear,label,ThingDef/ThingDef.xml,def
+VRE_Filth_BugFilth.label,bugfilth,label,ThingDef/ThingDef.xml,def
+VRE_Filth_ToxBlood.label,rotblood,label,ThingDef/ThingDef.xml,def
+VRE_Implanted.stages.0.label,forcefully implanted by {0},label,ThoughtDef/ThoughtDef.xml,def
+VRE_Implanted.stages.0.description,I was violated and stung.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Implanted_Social.stages.0.label,forcefully implanted,label,ThoughtDef/ThoughtDef.xml,def
+VRE_ProteinDenaturation.stages.0.label,protein denaturation,label,ThoughtDef/ThoughtDef.xml,def
+VRE_ProteinDenaturation.stages.0.description,The sunlight burns my eyes and my chitin feels like it's being scorched.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_Serotonin.stages.0.label,serotonin-buzz,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Serotonin.stages.0.description,I am incredibly happy and it seems that nothing will be able to bring me down.,description,ThoughtDef/ThoughtDef.xml,def
+VRE_LowOctopamine.stages.0.label,octopamine-down,label,ThoughtDef/ThoughtDef.xml,def
+VRE_LowOctopamine.stages.0.description,"I just feel down, I think my octopamine may be low, but what do I know?",description,ThoughtDef/ThoughtDef.xml,def
+VRE_Heatstress.stages.0.label,afraid of fire,label,ThoughtDef/ThoughtDef.xml,def
+VRE_Heatstress.stages.0.description,The flames make me so nervous. Such searing heat - I feel like it will leap at me at any moment!,description,ThoughtDef/ThoughtDef.xml,def

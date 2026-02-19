@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Gas storage turned off.-->
+  <Fluffy.GasNetwork.BufferOff>Gas storage turned off.</Fluffy.GasNetwork.BufferOff>
+  <!--EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.-->
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <!--EN: Toggle gas flow-->
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Toggle gas flow</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <!--EN: Gas consumed: {0}-->
+  <Fluffy.GasNetwork.Consumption>Gas consumed: {0}</Fluffy.GasNetwork.Consumption>
+  <!--EN: Target gas storage: {0}/{1}-->
+  <Fluffy.GasNetwork.DesiredBuffer>Target gas storage: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <!--EN: Gas excess (stored) in network: {0} ({1})-->
+  <Fluffy.GasNetwork.GasNetworkInspectString>Gas excess (stored) in network: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <!--EN: Gas turned off.-->
+  <Fluffy.GasNetwork.GasOff>Gas turned off.</Fluffy.GasNetwork.GasOff>
+  <!--EN: Not connected to gas network.-->
+  <Fluffy.GasNetwork.NoNetwork>Not connected to gas network.</Fluffy.GasNetwork.NoNetwork>
+  <!--EN: Gas produced: {0}-->
+  <Fluffy.GasNetwork.Production>Gas produced: {0}</Fluffy.GasNetwork.Production>
+  <!--EN: Wind Simulation-->
+  <Fluffy.GasNetwork.Settings.Wind.Category>Wind Simulation</Fluffy.GasNetwork.Settings.Wind.Category>
+  <!--EN: Preferred unit of wind speed-->
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Preferred unit of wind speed</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <!--EN: Gas stored: {0}/{1}-->
+  <Fluffy.GasNetwork.Stored>Gas stored: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <!--EN: Valve is closed.-->
+  <Fluffy.GasNetwork.ValveClosed>Valve is closed.</Fluffy.GasNetwork.ValveClosed>
+  <!--EN: Valve is open.-->
+  <Fluffy.GasNetwork.ValveOpen>Valve is open.</Fluffy.GasNetwork.ValveOpen>
+  <!--EN: a gas pipe-->
+  <VPE_AGasPipe>a gas pipe</VPE_AGasPipe>
+  <!--EN: Advanced geothermal generator-->
+  <VPE_AdvGeoHeader>Advanced geothermal generator</VPE_AdvGeoHeader>
+  <!--EN: Advanced geothermal generator output multiplier-->
+  <VPE_AdvGeoOutputMultiplier>Advanced geothermal generator output multiplier</VPE_AdvGeoOutputMultiplier>
+  <!--EN: The amount of power produced by an advanced geothermal generator will be multiplied by this amount.-->
+  <VPE_AdvGeoOutputMultiplierTooltip>The amount of power produced by an advanced geothermal generator will be multiplied by this amount.</VPE_AdvGeoOutputMultiplierTooltip>
+  <!--EN: Adv. Solar output multiplier-->
+  <VPE_AdvSolarOutputMultiplier>Adv. Solar output multiplier</VPE_AdvSolarOutputMultiplier>
+  <!--EN: The amount of power produced by an advanced solar generator will be multiplied by this amount.-->
+  <VPE_AdvSolarOutputMultiplierTooltip>The amount of power produced by an advanced solar generator will be multiplied by this amount.</VPE_AdvSolarOutputMultiplierTooltip>
+  <!--EN: Advanced watermill generator output multiplier-->
+  <VPE_AdvWatermillOutputMultiplier>Advanced watermill generator output multiplier</VPE_AdvWatermillOutputMultiplier>
+  <!--EN: The amount of power produced by an advanced watermill generator will be multiplied by this amount.-->
+  <VPE_AdvWatermillOutputMultiplierTooltip>The amount of power produced by an advanced watermill generator will be multiplied by this amount.</VPE_AdvWatermillOutputMultiplierTooltip>
+  <!--EN: Advanced wind turbine output multiplier-->
+  <VPE_AdvWindmillOutputMultiplier>Advanced wind turbine output multiplier</VPE_AdvWindmillOutputMultiplier>
+  <!--EN: The amount of power produced by an advanced wind turbine will be multiplied by this amount.-->
+  <VPE_AdvWindmillOutputMultiplierTooltip>The amount of power produced by an advanced wind turbine will be multiplied by this amount.</VPE_AdvWindmillOutputMultiplierTooltip>
+  <!--EN: Cancel fill hole-->
+  <VPE_CancelPlugHole>Cancel fill hole</VPE_CancelPlugHole>
+  <!--EN: Cancels the hole filling job.-->
+  <VPE_CancelPlugHoleDesc>Cancels the hole filling job.</VPE_CancelPlugHoleDesc>
+  <!--EN: Deconstruct Gas Network-->
+  <VPE_DeconstructGasPipes>Deconstruct Gas Network</VPE_DeconstructGasPipes>
+  <!--EN: Deconstruct only gas pipes and subterranean gas pipes-->
+  <VPE_DeconstructGasPipesDesc>Deconstruct only gas pipes and subterranean gas pipes</VPE_DeconstructGasPipesDesc>
+  <!--EN: Disable Helixien gas path calculations (use to reduce lag)-->
+  <VPE_DisableGasPathCalculations>Disable Helixien gas path calculations (use to reduce lag)</VPE_DisableGasPathCalculations>
+  <!--EN: Disable Nuclear Meltdowns-->
+  <VPE_DisableNuclearMeltdowns>Disable Nuclear Meltdowns</VPE_DisableNuclearMeltdowns>
+  <!--EN: If activated, nuclear plants won't ever meltdown, even if reaching critical temperature.-->
+  <VPE_DisableNuclearMeltdownsDesc>If activated, nuclear plants won't ever meltdown, even if reaching critical temperature.</VPE_DisableNuclearMeltdownsDesc>
+  <!--EN: A fault in {0} has caused a gas explosion.-->
+  <VPE_GasExplosion>A fault in {0} has caused a gas explosion.</VPE_GasExplosion>
+  <!--EN: That really is a huge explosion. Wow.-->
+  <VPE_GasExplosionLWasHuge>That really is a huge explosion. Wow.</VPE_GasExplosionLWasHuge>
+  <!--EN: This large amount of gas has created an explosion of considerable size.-->
+  <VPE_GasExplosionLWasLarge>This large amount of gas has created an explosion of considerable size.</VPE_GasExplosionLWasLarge>
+  <!--EN: All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.-->
+  <VPE_GasExplosionLostGas>All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.</VPE_GasExplosionLostGas>
+  <!--EN: A fault in {0} has caused a gas explosion which started a fire.-->
+  <VPE_GasExplosionStartedFire>A fault in {0} has caused a gas explosion which started a fire.</VPE_GasExplosionStartedFire>
+  <!--EN: Power Mod Update-->
+  <VPE_GasUpdateNoticeLetterLabel>Power Mod Update</VPE_GasUpdateNoticeLetterLabel>
+  <!--EN: The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.-->
+  <VPE_GasUpdateNoticeLetterText>The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.</VPE_GasUpdateNoticeLetterText>
+  <!--EN: Violence generator is toggled off and inactive right now-->
+  <VPE_GeneratorIsOff>Violence generator is toggled off and inactive right now</VPE_GeneratorIsOff>
+  <!--EN: Kaboom!-->
+  <VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
+  <!--EN: Lightning energy stored for:-->
+  <VPE_LightningTime>Lightning energy stored for:</VPE_LightningTime>
+  <!--EN: Gas output-->
+  <VPE_LiquidOutput>Gas output</VPE_LiquidOutput>
+  <!--EN: Tank efficiency-->
+  <VPE_LiquidTankEfficiency>Tank efficiency</VPE_LiquidTankEfficiency>
+  <!--EN: Gas stored-->
+  <VPE_LiquidTankStored>Gas stored</VPE_LiquidTankStored>
+  <!--EN: Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of-->
+  <VPE_Meltdown>Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of</VPE_Meltdown>
+  <!--EN: A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours.-->
+  <VPE_MeltdownLetter>A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours.</VPE_MeltdownLetter>
+  <!--EN: Reactor Meltdown-->
+  <VPE_MeltdownLetterLabel>Reactor Meltdown</VPE_MeltdownLetterLabel>
+  <!--EN: Gas powered buildings must be placed adjacent to gas pipes, not on top-->
+  <VPE_MustPlaceAdjacentToPipe>Gas powered buildings must be placed adjacent to gas pipes, not on top</VPE_MustPlaceAdjacentToPipe>
+  <!--EN: The chemfuel pump needs to be built on top of a chemfuel pond-->
+  <VPE_MustPlaceOnChemfuelPond>The chemfuel pump needs to be built on top of a chemfuel pond</VPE_MustPlaceOnChemfuelPond>
+  <!--EN: This building must be placed on top of a helixien gas geyser-->
+  <VPE_MustPlaceOnGasGeyser>This building must be placed on top of a helixien gas geyser</VPE_MustPlaceOnGasGeyser>
+  <!--EN: This building needs to be placed in an indoors, roofed area-->
+  <VPE_MustPlaceRoofed>This building needs to be placed in an indoors, roofed area</VPE_MustPlaceRoofed>
+  <!--EN: Tidal power plants must be built with at least 40 tiles of separation of each other-->
+  <VPE_NeedsDistance>Tidal power plants must be built with at least 40 tiles of separation of each other</VPE_NeedsDistance>
+  <!--EN: This power plant must be built on water-->
+  <VPE_NeedsWater>This power plant must be built on water</VPE_NeedsWater>
+  <!--EN: Reactor room must be a roofed, enclosed space-->
+  <VPE_NoReactorRoom>Reactor room must be a roofed, enclosed space</VPE_NoReactorRoom>
+  <!--EN: Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.-->
+  <VPE_NotLightningProducing>Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.</VPE_NotLightningProducing>
+  <!--EN: No souls absorbed. The Machine Gods are hungry for human souls.-->
+  <VPE_NotProducing>No souls absorbed. The Machine Gods are hungry for human souls.</VPE_NotProducing>
+  <!--EN: Nuclear Plant-->
+  <VPE_NuclearPlantHeader>Nuclear Plant</VPE_NuclearPlantHeader>
+  <!--EN: Nuclear plant output multiplier-->
+  <VPE_NuclearPlantMultiplier>Nuclear plant output multiplier</VPE_NuclearPlantMultiplier>
+  <!--EN: The amount of power produced by a nuclear plant will be multiplied by this amount.-->
+  <VPE_NuclearPlantMultiplierTooltip>The amount of power produced by a nuclear plant will be multiplied by this amount.</VPE_NuclearPlantMultiplierTooltip>
+  <!--EN: Radiation radius multiplier-->
+  <VPE_NuclearPlantRadiationMultiplier>Radiation radius multiplier</VPE_NuclearPlantRadiationMultiplier>
+  <!--EN: The radius of the radiation produced by the nuclear plant if fuel is over 50% or if in meltdown will be multiplied by this amount.-->
+  <VPE_NuclearPlantRadiationMultiplierTooltip>The radius of the radiation produced by the nuclear plant if fuel is over 50% or if in meltdown will be multiplied by this amount.</VPE_NuclearPlantRadiationMultiplierTooltip>
+  <!--EN: Gas needed-->
+  <VPE_NutrientNeeded>Gas needed</VPE_NutrientNeeded>
+  <!--EN: Pipe grid excess/stored: {0} ml / {1} ml-d-->
+  <VPE_PipeConnectedRateStored>Pipe grid excess/stored: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <!--EN: Pipes not connected to generator or tanks-->
+  <VPE_PipesNotConnected>Pipes not connected to generator or tanks</VPE_PipesNotConnected>
+  <!--EN: Fill hole-->
+  <VPE_PlugHole>Fill hole</VPE_PlugHole>
+  <!--EN: Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.-->
+  <VPE_PlugHoleDesc>Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.</VPE_PlugHoleDesc>
+  <!--EN: This chemfuel pond has {0} units of chemfuel left-->
+  <VPE_PondHasFuel>This chemfuel pond has {0} units of chemfuel left</VPE_PondHasFuel>
+  <!--EN: This chemfuel pond is depleted-->
+  <VPE_PondNoFuel>This chemfuel pond is depleted</VPE_PondNoFuel>
+  <!--EN: Producing {0} W of electricity-->
+  <VPE_Producing>Producing {0} W of electricity</VPE_Producing>
+  <!--EN: The pump will produce {0} units of chemfuel in {1}-->
+  <VPE_PumpProducing>The pump will produce {0} units of chemfuel in {1}</VPE_PumpProducing>
+  <!--EN: Warning: Reactor producing radiation in a {0} meters radius-->
+  <VPE_RadiationProduced>Warning: Reactor producing radiation in a {0} meters radius</VPE_RadiationProduced>
+  <!--EN: Reset-->
+  <VPE_Reset>Reset</VPE_Reset>
+  <!--EN: Advanced Solar-->
+  <VPE_SolarHeader>Advanced Solar</VPE_SolarHeader>
+  <!--EN: Archotech violence generator-->
+  <VPE_SoulHeader>Archotech violence generator</VPE_SoulHeader>
+  <!--EN: Hours of power per corpse consumed-->
+  <VPE_SoulMultiplier>Hours of power per corpse consumed</VPE_SoulMultiplier>
+  <!--EN: By default, every corpse consumed by the reactor produces 2 hours of power. This will be multiplied by this factor.-->
+  <VPE_SoulMultiplierTooltip>By default, every corpse consumed by the reactor produces 2 hours of power. This will be multiplied by this factor.</VPE_SoulMultiplierTooltip>
+  <!--EN: Souls stored for:-->
+  <VPE_SoulsTime>Souls stored for:</VPE_SoulsTime>
+  <!--EN: Minimum sealant leakage-->
+  <VPE_TankLeakage>Minimum sealant leakage</VPE_TankLeakage>
+  <!--EN: Temperature in reactor room: {0}ºC-->
+  <VPE_TempInReactorRoom>Temperature in reactor room: {0}ºC</VPE_TempInReactorRoom>
+  <!--EN: Warning: Temperature in reactor room: {0}ºC-->
+  <VPE_TempInReactorRoomCritical>Warning: Temperature in reactor room: {0}ºC</VPE_TempInReactorRoomCritical>
+  <!--EN: Tidal generator-->
+  <VPE_TidalHeader>Tidal generator</VPE_TidalHeader>
+  <!--EN: Tidal generator output multiplier-->
+  <VPE_TidalMultiplier>Tidal generator output multiplier</VPE_TidalMultiplier>
+  <!--EN: The amount of power produced by a tidal generator will be multiplied by this amount.-->
+  <VPE_TidalMultiplierTooltip>The amount of power produced by a tidal generator will be multiplied by this amount.</VPE_TidalMultiplierTooltip>
+  <!--EN: Tidal generator separation-->
+  <VPE_TidalSeparation>Tidal generator separation</VPE_TidalSeparation>
+  <!--EN: By default tidal generators need 40 tiles between them, but this can be changed with this setting.-->
+  <VPE_TidalSeparationTooltip>By default tidal generators need 40 tiles between them, but this can be changed with this setting.</VPE_TidalSeparationTooltip>
+  <!--EN: Switch Generator-->
+  <VPE_ToggleViolenceGenerator>Switch Generator</VPE_ToggleViolenceGenerator>
+  <!--EN: Switch Generator between a working and an inactive state-->
+  <VPE_ToggleViolenceGeneratorDesc>Switch Generator between a working and an inactive state</VPE_ToggleViolenceGeneratorDesc>
+  <!--EN: Advanced watermill generator-->
+  <VPE_WatermillHeader>Advanced watermill generator</VPE_WatermillHeader>
+  <!--EN: Advanced wind turbine-->
+  <VPE_WindmillHeader>Advanced wind turbine</VPE_WindmillHeader>
+</LanguageData>

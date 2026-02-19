@@ -1,0 +1,589 @@
+key,text,tag,file,type
+VFED.EndgameText,"The Shattered Empire, once a symbol of tyranny and oppression, has crumbled. All over the planet, brave deserters rose in a chorus of rebellion, breaking the chains of servitude that held them bound. Every child who now wakes to the dawn of freedom will remember and revere these names, the names of the heroes who dared to challenge the impossible:
+{0}
+\nHowever, this is not the end, but merely a transition. With the old empire now but ruins and their flagship a burning wreckage fallen from the skies, a time for healing and rebuilding is upon us. The nobles, once loyal to the empire, now surrender to outlander communities or lose themselves in a life of crime. There's no denying the truth - the world has forever changed.
+\nAs you stand at the threshold of a new era, you remember this chapter of defiance and courage. The echoes of the Shattered Empire will serve as a reminder of your resilience, a testament to your unfaltering quest for freedom. You look ahead, knowing that you are stepping into a future built on hope, unity, and liberation.",VFED.EndgameText,Endgame.xml,keyed
+VFED.EndgameWarningText,"You are about to initiate a final mission in Vanilla Factions Expanded: Deserters. After the mission is complete, the Empire and the Deserters will be no more. Are you sure you want to initiate the final mission?",VFED.EndgameWarningText,Endgame.xml,keyed
+VFED.Detonate,Detonate,VFED.Detonate,Misc.xml,keyed
+VFED.IntelOutOfDate,Intel will go out of date in: {0},VFED.IntelOutOfDate,Misc.xml,keyed
+VFED.IntelOutOfDateNow,{0} has gone out of date. Consider using up the intel you gather before it goes out of date.,VFED.IntelOutOfDateNow,Misc.xml,keyed
+VFED.SwitchTo,Click to switch to {0},VFED.SwitchTo,Misc.xml,keyed
+VFED.SurveillancePillarActivated,You have activated an imperial surveillance pillar. Visibility of your faction has increased by {1}. It is now {0}.,VFED.SurveillancePillarActivated,Misc.xml,keyed
+VFED.IntelFromTitle,{0} has been stripped from their title of {1}. They have provided you with {2} Intel.,VFED.IntelFromTitle,Misc.xml,keyed
+VFED.ResponseComing,Imperial response,VFED.ResponseComing,Misc.xml,keyed
+VFED.ResponseComingDesc,An imperial {0} is on its way to this location. It will arrive in {1}s.,VFED.ResponseComingDesc,Misc.xml,keyed
+VFED.ResponseMessage,"Due to triggering an imperial response, your visibility has increased by {0}. It is now {1}. In the future, you can avoid increasing the visibility by completing the mission before the response arrives.",VFED.ResponseMessage,Misc.xml,keyed
+VFED.Detonate.BombPack,Detonate bomb pack,VFED.Detonate.BombPack,Misc.xml,keyed
+VFED.Detonate.BombPack.Desc,Detonate this bomb pack remotely to generate a big explosion. WARNING: Pressing this button will immediately set off the bomb.,VFED.Detonate.BombPack.Desc,Misc.xml,keyed
+VFED.Deploy,Deploy,VFED.Deploy,Misc.xml,keyed
+VFED.Deploy.Desc,Deploy this {0} to create a {1} at this location.,VFED.Deploy.Desc,Misc.xml,keyed
+VFED.EnableInvisibility,Enable Invisibility,VFED.EnableInvisibility,Misc.xml,keyed
+VFED.EnableInvisibility.Desc,"Turn this colonist invisible for 1 hour. If the colonist attacks anyone, the invisibility will end.",VFED.EnableInvisibility.Desc,Misc.xml,keyed
+VFED.OnCooldown,On cooldown,VFED.OnCooldown,Misc.xml,keyed
+VFED.AlreadyInvisibile,Already invisible,VFED.AlreadyInvisibile,Misc.xml,keyed
+VFED.MustHavePsylink,Must have psylink,VFED.MustHavePsylink,Misc.xml,keyed
+VFED.ExtractIntel,Extract intel,VFED.ExtractIntel,Misc.xml,keyed
+VFED.ExtractIntel.Desc,"Extract intel from the brain of a nobleperson. They may be alive, or downed, but the brain must be present. Will destroy the brain.",VFED.ExtractIntel.Desc,Misc.xml,keyed
+VFED.ImperialPatrol,{0} patrol,VFED.ImperialPatrol,Misc.xml,keyed
+VFED.ImperialPatrol.Desc,"{0} has encountered an imperial patrol from {1}. They have been spotted! {0} can try and escape, but this will inevitably increase the visibility of {2}. Fighting the patrol might be tough, but it will keep {2} safe. The patrol consists of:\n\n{3}",VFED.ImperialPatrol.Desc,Misc.xml,keyed
+VFED.ImperialPatrol.Escape,Escape the patrol.,VFED.ImperialPatrol.Escape,Misc.xml,keyed
+VFED.ImperialPatrol.Attack,Attack the patrol.,VFED.ImperialPatrol.Attack,Misc.xml,keyed
+VFED.ImperialPatrol.GiveUp,Give up {0}.,VFED.ImperialPatrol.GiveUp,Misc.xml,keyed
+VFED.ImperialPatrol.GaveUp,{0} has given up {1} to the Empire. It’s unlikely you will ever see them again. Empire doesn’t take kindly to saboteurs.,VFED.ImperialPatrol.GaveUp,Misc.xml,keyed
+VFED.AerodroneBombardment,Aerodrone bombardment,VFED.AerodroneBombardment,Misc.xml,keyed
+VFED.AerodroneBombardment.Desc,"The {0} has dispatched a number of aerodrones to your location. They suspect you are harboring deserters with ill intention towards the Great Hierarchy.
+An aerodrone is an unmanned atmospheric drone designed for military purposes. Controlled by highly skilled warprogrammers from imperial installations, the aerodrone is a highly effective tool for eliminating enemies of the Empire. Equipped with advanced sensors and targeting systems, the aerodrone can detect and track targets from great distances. Once a target has been identified, the aerodrone will unleash a devastating salvo of precision rockets, each one designed to cause maximum damage and destruction.
+The Empire has pinpointed the location of your critical infrastructure and the aerodrones will shortly initiate their bombardment. Evacuation is advised.",VFED.AerodroneBombardment.Desc,Misc.xml,keyed
+VFED.GlassingDate,Glassing date,VFED.GlassingDate,Misc.xml,keyed
+VFED.DivineInferno.Init,Divine Inferno initiated,VFED.DivineInferno.Init,Misc.xml,keyed
+VFED.DivineInferno.Desc,"The Orbital Slicer Beam satellites have finished arranging into a beautiful flower pattern above your colony. What comes next can only be described as total destruction. The slicer beams fire down from the sky, creating a web of energy that systematically levels everything in its path. The terrain itself seems to buckle and heave as the beams slice through the earth, leaving behind deep crevices and rubble-filled craters. People, vehicles, and even buildings are reduced to nothing more than dust and ash in a matter of seconds. The air itself is superheated by the intense energy of the beams, creating a blast wave that can travel for miles.
+There is no escape from the Divine Inferno. Those caught in its path are instantly vaporized, leaving behind nothing but charred remnants of what was once there. Even underground shelters are no match for the destructive power of the slicer beams, as they cut through the earth like a hot knife through butter.
+The aftermath of Divine Inferno is a wasteland of destruction. The landscape is unrecognizable, with little more than rubble and ash as far as the eye can see. The air is still thick with the acrid smell of burnt flesh and melting metal. The once-thriving colony is now nothing more than a scorched and lifeless husk.",VFED.DivineInferno.Desc,Misc.xml,keyed
+VFED.GoodwillDropVisibility,"Due to imperial disinformation, your relations with {0} have dropped by 10.",VFED.GoodwillDropVisibility,Misc.xml,keyed
+VFED.ShotsFiredLeft,"{0} beams fired, {1} beams left",VFED.ShotsFiredLeft,Misc.xml,keyed
+VFED.VisibilityIncreases,Visibility increases by {0},VFED.VisibilityIncreases,Misc.xml,keyed
+VFED.VisibilityDecreases,Visibility decreases by {0},VFED.VisibilityDecreases,Misc.xml,keyed
+VFED.VisibilityIncreases.Desc,Visibility will increase by {0}. This may lead to more and stronger imperial responses.,VFED.VisibilityIncreases.Desc,Misc.xml,keyed
+VFED.VisibilityDecreases.Desc,Visibility will decrease by {0}. This may reduce imperial responses.,VFED.VisibilityDecreases.Desc,Misc.xml,keyed
+VFED.BiosecuredCrateWarning,Biosecured crates can only be opened by characters with a noble backstory.,VFED.BiosecuredCrateWarning,Misc.xml,keyed
+VFED.CantOpenBiosecured,requires noble backstory,VFED.CantOpenBiosecured,Misc.xml,keyed
+VFED.ServiceIncreasedGoodwill,Goodwill with {0} increased by 5 due to positive rumors from imperial deserters.,VFED.ServiceIncreasedGoodwill,Misc.xml,keyed
+VFED.DetectedWarning,You have been detected by security. The garrison is deploying against you.,VFED.DetectedWarning,Misc.xml,keyed
+VFED.HighAlertWarning,The defenders are moving to high alert.,VFED.HighAlertWarning,Misc.xml,keyed
+VFED.FleeWarning,{0} is attempting to escape!,VFED.FleeWarning,Misc.xml,keyed
+VFED.NobleKilledRevenge,{0} from {1} are attempting to avenge {2}.,VFED.NobleKilledRevenge,Misc.xml,keyed
+VFED.ContrabandArrived,Your contraband has arrived.,VFED.ContrabandArrived,Misc.xml,keyed
+VFED.VisibilityChange,Visibility Changed: {0},VFED.VisibilityChange,Misc.xml,keyed
+VFED.VisibilityChange.Desc,Your visibility level has changed. It is now {0}.,VFED.VisibilityChange.Desc,Misc.xml,keyed
+VFED.VisibilityEffectsActive,The following effects have activated:,VFED.VisibilityEffectsActive,Misc.xml,keyed
+VFED.VisibilityEffectsInactive,The following effects have deactivated:,VFED.VisibilityEffectsInactive,Misc.xml,keyed
+VFED.TimeToNextPulse,Time until next pulse: {0},VFED.TimeToNextPulse,Misc.xml,keyed
+VFED.PulsesBeforeOut,Pulses before burn out: {0},VFED.PulsesBeforeOut,Misc.xml,keyed
+VFED.BurnoutWarning,Building a burnout intel scraper will be considered a declaration of war with the Empire.,VFED.BurnoutWarning,Misc.xml,keyed
+VFED.ActivateScraper,Activate scraper,VFED.ActivateScraper,Misc.xml,keyed
+VFED.ActivateScraper.Desc,"Enable intel scraper countdown, which will release a pulse every 60 seconds, giving you a chance of obtaining valuable intel at a chance of triggering imperial investigation.",VFED.ActivateScraper.Desc,Misc.xml,keyed
+VFED.DeactivateScraper,Deactivate scraper,VFED.DeactivateScraper,Misc.xml,keyed
+VFED.DeactivateScraper.Desc,"Disable intel scraper, stopping the countdown until the next pulse.",VFED.DeactivateScraper.Desc,Misc.xml,keyed
+VFED.Exhausted,Exhausted,VFED.Exhausted,Misc.xml,keyed
+VFED.BurnoutIntelGained,Burnout intel scraper intercepted imperial communication and generated {0} intel.,VFED.BurnoutIntelGained,Misc.xml,keyed
+VFED.BurnoutCriticalIntelGained,Burnout intel scraper intercepted high value imperial communication and generated {0} critical intel.,VFED.BurnoutCriticalIntelGained,Misc.xml,keyed
+VFED.BurnoutVisibilityIncreased,Burnout intel scraper attracted imperial attention and has increased your visibility by {0}. (Current visibility is {1}.),VFED.BurnoutVisibilityIncreased,Misc.xml,keyed
+VFED.BurnoutRaid,Burnout intel scraper was intercepted by an imperial patrol nearby. They are moving in to engage.,VFED.BurnoutRaid,Misc.xml,keyed
+VFEDeserters,VFE - Deserters,VFEDeserters,Settings.xml,keyed
+VFED.VisibilityChangePerDay,Visibility change per day: {0},VFED.VisibilityChangePerDay,Settings.xml,keyed
+VFED.IntelFromExtractingIntel,Intel from extracting intel: {0},VFED.IntelFromExtractingIntel,Settings.xml,keyed
+VFED.VisibilityFromPillar,Visibility gain from surveillance pillar: {0},VFED.VisibilityFromPillar,Settings.xml,keyed
+VFED.ResponseTimeMultiplier,Response time multiplier: {0},VFED.ResponseTimeMultiplier,Settings.xml,keyed
+VFED.ContactDeserters,Contact Deserters,VFED.ContactDeserters,UI.xml,keyed
+VFED.Visibility,Visibility: {0},VFED.Visibility,UI.xml,keyed
+VFED.CurrentVisibility,Current visibility:,VFED.CurrentVisibility,UI.xml,keyed
+VFED.Effects,Effects:,VFED.Effects,UI.xml,keyed
+VFED.IntelCostModifier,Intel cost:,VFED.IntelCostModifier,UI.xml,keyed
+VFED.ContrabandRecieveTimeModifier,Time to receive contraband:,VFED.ContrabandRecieveTimeModifier,UI.xml,keyed
+VFED.ContrabandSiteTimeModifier,Availability of the dead drops:,VFED.ContrabandSiteTimeModifier,UI.xml,keyed
+VFED.ImperialResponseTime,Time for Imperial response:,VFED.ImperialResponseTime,UI.xml,keyed
+VFED.ImperialResponseType,Type of Imperial response:,VFED.ImperialResponseType,UI.xml,keyed
+VFED.SpecialEffects,Special effects:,VFED.SpecialEffects,UI.xml,keyed
+VFED.NoResponse,No response,VFED.NoResponse,UI.xml,keyed
+VFED.None,None,VFED.None,UI.xml,keyed
+VFED.ItemName,Name of the item,VFED.ItemName,UI.xml,keyed
+VFED.Cost,Cost,VFED.Cost,UI.xml,keyed
+VFED.Basket,Basket,VFED.Basket,UI.xml,keyed
+VFED.ContrabandRecieveDesc,"Items purchased via the contraband system do not arrive in your colony with cargo pods. Instead, a dead drop pick up quest will become available after some amount of time, and the quest will only be available for a brief moment. This is where you pick up purchased contraband.",VFED.ContrabandRecieveDesc,UI.xml,keyed
+VFED.Purchase,Purchase,VFED.Purchase,UI.xml,keyed
+VFED.RushDelivery,Rush delivery,VFED.RushDelivery,UI.xml,keyed
+VFED.TotalCost,Total basket cost,VFED.TotalCost,UI.xml,keyed
+VFED.RushDeliveryDesc,"You can rush delivery to receive the items instantly via drop pods, however it doubles the Intel cost of this order.",VFED.RushDeliveryDesc,UI.xml,keyed
+VFED.TimeToReceive,Estimated time to receive: (*DateTime){0}-{1} days(/DateTime),VFED.TimeToReceive,UI.xml,keyed
+VFED.TimeToPickup,Time to pick up: (*DateTime){0} days(/DateTime),VFED.TimeToPickup,UI.xml,keyed
+VFED.TimeLimitDesc,"Time to receive and time to pick up depends on the amount of items you’re purchasing, as well as your current visibility level. After time to receive has elapsed, a dead drop quest will become available. It will only be active for the duration in ‘Time to pick up’. If you fail to collect it in time, the items will be gone.",VFED.TimeLimitDesc,UI.xml,keyed
+VFED.NotEnough,"Not enough {0}. Need {1}, have {2}",VFED.NotEnough,UI.xml,keyed
+VFED.DeserterQuestDesc,"This is a deserter quest. It may provide intel on the Shattered Empire, but it may also increase your faction’s visibility.",VFED.DeserterQuestDesc,UI.xml,keyed
+VFED.AvailableQuests,Available quests,VFED.AvailableQuests,UI.xml,keyed
+VFED.CriticalQuests,Critical quests,VFED.CriticalQuests,UI.xml,keyed
+VFED.QuestDescription,Quest description,VFED.QuestDescription,UI.xml,keyed
+VFED.NoQuestSelected,No quest selected,VFED.NoQuestSelected,UI.xml,keyed
+VFED.QuestPurchaseDesc,"You can pay intel to obtain quests from the Deserter network, however you will not know the rewards that can be obtained from the quest until you purchase it.",VFED.QuestPurchaseDesc,UI.xml,keyed
+VFED.TotalQuestCost,Total quest cost,VFED.TotalQuestCost,UI.xml,keyed
+VFED.Activate,Activate,VFED.Activate,UI.xml,keyed
+VFED.OtherServices,Other services,VFED.OtherServices,UI.xml,keyed
+VFED.Rewards,Rewards,VFED.Rewards,UI.xml,keyed
+VFED.PlotDesc,Plot description,VFED.PlotDesc,UI.xml,keyed
+VFED.PlotTarget,Target: {0},VFED.PlotTarget,UI.xml,keyed
+VFED.CompletedOn,Completed on {0},VFED.CompletedOn,UI.xml,keyed
+VFED.CombatHigh,Combat: High,VFED.CombatHigh,UI.xml,keyed
+VFED.CombatMedium,Combat: Medium,VFED.CombatMedium,UI.xml,keyed
+VFED.CombatLow,Combat: Minimal,VFED.CombatLow,UI.xml,keyed
+VFED.CombatHighDesc,Expect intense combat,VFED.CombatHighDesc,UI.xml,keyed
+VFED.CombatMediumDesc,Expect some combat,VFED.CombatMediumDesc,UI.xml,keyed
+VFED.CombatLowDesc,Expect minimal combat,VFED.CombatLowDesc,UI.xml,keyed
+VFED.ShowActiveQuest,Show active quest,VFED.ShowActiveQuest,UI.xml,keyed
+VFED.Select,Select,VFED.Select,UI.xml,keyed
+VFED.HullIntegrity,Hull integrity,VFED.HullIntegrity,UI.xml,keyed
+VFED.Flagship,Flagship,VFED.Flagship,UI.xml,keyed
+VFED.StartMission,Start Mission,VFED.StartMission,UI.xml,keyed
+VFED.IntelAmount,Amount of {0} in range of powered trading beacons.,VFED.IntelAmount,UI.xml,keyed
+VFED_Fletchling.label,fletchling dart,label,DamageDef/DamageDef.xml,def
+VFED_Fletchling.deathMessage,{0} has been shot to death.,deathMessage,DamageDef/DamageDef.xml,def
+VFED_NewSafehaven.label,New Safehaven,label,FactionDef/FactionDef.xml,def
+VFED_NewSafehaven.description,"A deserter cell, laying low.",description,FactionDef/FactionDef.xml,def
+VFED_NewSafehaven.pawnSingular,deserter,pawnSingular,FactionDef/FactionDef.xml,def
+VFED_NewSafehaven.pawnsPlural,deserter,pawnsPlural,FactionDef/FactionDef.xml,def
+VFED_GiveQuest_ChasedDeserter.label,imperial deserter,label,IncidentDef/IncidentDef.xml,def
+VFED_ImperialPatrol.label,imperial patrol,label,IncidentDef/IncidentDef.xml,def
+VFED_PropagandaDrop.label,imperial propaganda drop,label,IncidentDef/IncidentDef.xml,def
+VFED_PropagandaDrop.letterText,"Cargo pods are crashing nearby. They seem to contain imperial propaganda, advertising how life under the imperial rule is full of wonders. The leaflets seem to mention a new deserter-reporting system with great rewards. It will take a long time to clean up, and anyone cleaning these leaflets will suffer a mood penalty and lose certainty in their way.",letterText,IncidentDef/IncidentDef.xml,def
+VFED_PropagandaDrop.letterLabel,Propaganda drop,letterLabel,IncidentDef/IncidentDef.xml,def
+VFED_Raid_Absolver.label,absolver raid,label,IncidentDef/IncidentDef.xml,def
+VFED_Contraband.label,contraband,label,VFED.DeserterTabDef/VFED.DeserterTabDef.xml,def
+VFED_Services.label,services,label,VFED.DeserterTabDef/VFED.DeserterTabDef.xml,def
+VFED_Plots.label,plots,label,VFED.DeserterTabDef/VFED.DeserterTabDef.xml,def
+VFED_MissileRain.label,missile rain,label,GameConditionDef/GameConditionDef.xml,def
+VFED_DivineInferno.label,Divine Inferno,label,GameConditionDef/GameConditionDef.xml,def
+VFED_DivineInferno.description,"The Empire has initiated a Divine Inferno protocol on your colony and are moving all required slicer beam satellites into position. Once they meet over your colony, they will glass it with numerous pillars of fire. This can be prevented by reducing your visibility back to Hidden visibility level.",description,GameConditionDef/GameConditionDef.xml,def
+VFED_Invisibility.label,invisibility,label,HediffDef/HediffDef.xml,def
+VFED_Invisibility.description,"An invisibility granted by the invisibility engulfer item. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected.",description,HediffDef/HediffDef.xml,def
+VFED_ExtractIntel.reportString,extracting intel from TargetA.,reportString,JobDef/JobDef.xml,def
+VFED_ExtractIntelPawn.reportString,extracting intel from TargetA.,reportString,JobDef/JobDef.xml,def
+VFED_UseItemOn.reportString,using TargetA on TargetB.,reportString,JobDef/JobDef.xml,def
+VFED_FleeEnemies.reportString,fleeing.,reportString,JobDef/JobDef.xml,def
+VFED_Deserter.label,deserter technology,label,VFED.ContrabandCategoryDef/VFED.ContrabandCategoryDef.xml,def
+VFED_Imperial.label,imperial technology,label,VFED.ContrabandCategoryDef/VFED.ContrabandCategoryDef.xml,def
+VFED_ExtractIntel.label,extract intel,label,DesignationDef/DesignationDef.xml,def
+VFED_ExtractIntel.description,extract intel from something,description,DesignationDef/DesignationDef.xml,def
+VFED_ExtractIntel.verb,extract,verb,WorkGiverDef/WorkGiverDef.xml,def
+VFED_ExtractIntel.gerund,extracting,gerund,WorkGiverDef/WorkGiverDef.xml,def
+VFED_VFEDeserters.label,VFE - Deserters,label,MVCF.ModDef/MVCF.ModDef.xml,def
+VFED_VFEDeserters.description,Charge Cycler,description,MVCF.ModDef/MVCF.ModDef.xml,def
+VFED_Patrol.label,patrol,label,VFED.ImperialResponseDef/VFED.ImperialResponseDef.xml,def
+VFED_StrikeForce.label,strike force,label,VFED.ImperialResponseDef/VFED.ImperialResponseDef.xml,def
+VFED_StellicGuards.label,stellic guard squad,label,VFED.ImperialResponseDef/VFED.ImperialResponseDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.0,operationName->Operation [AdjectiveAny] [NounAny],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.1,NounAny->[ConceptAny],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.2,NounAny->[ColorAny],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.3,NounAny->[Vegetable],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.4,NounAny->[Game],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.5,NounAny->[AnimalAny],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.6,NounAny->[Weapon],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.7,NounAny->[TerrainFeature],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.8,NounAny->[NaturalObject],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.9,NounAny->[TreeType],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.10,NounAny->[Enemy],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.11,NounAny->[Apparel],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.12,NounAny->[Gore],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.13,NounAny->[BodyPart],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.14,ColorAny->[Color],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.15,ColorAny->[ColorBadass],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.16,AnimalAny->[Animal],li,RulePackDef/RulePackDef.xml,def
+VFED_OperationName.rulePack.rulesStrings.17,AnimalAny->[AnimalBadass],li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.0,plotName(nobleTitle==Knight)->Kindless knight,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.1,plotName(nobleTitle==Praetor)->Petty praetor,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.2,plotName(nobleTitle==Baron)->Bigoted baron,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.3,plotName(nobleTitle==Count)->Crooked count,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.4,plotName(nobleTitle==VFEE_Archcount)->Abusive archcount,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.5,plotName(nobleTitle==VFEE_Marquess)->Militant marquess,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.6,plotName(nobleTitle==Duke)->Depraved duke,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.7,plotName(nobleTitle==VFEE_Archduke)->Arrogant archduke,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.8,plotName(nobleTitle==Consul)->Corrupted consul,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.9,plotName(nobleTitle==VFEE_Magister)->Malevolent magister,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.10,plotName(nobleTitle==VFEE_Despot)->Deranged despot,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.11,plotName(nobleTitle==Stellarch)->Sickening stellarch,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.12,plotName(nobleTitle==VFEE_HighStellarch)->Heinous high stellarch,li,RulePackDef/RulePackDef.xml,def
+VFED_PlotName.rulePack.rulesStrings.13,plotName(nobleTitle==Emperor)->Egocentric emperor,li,RulePackDef/RulePackDef.xml,def
+VFED_LowerVisibility.label,lower visibility,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_LowerVisibility.description,Use intel to convince the deserter network to clear your name and reduce your visibility by 1.,description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_CallShuttle.label,call shuttle,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_CallShuttle.description,"Call a one-way deserter shuttle for your own use, which will transport colonists, items, and animals up to 70 tiles away.",description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_IncreaseGoodwill.label,increase goodwill,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_IncreaseGoodwill.description,Trade intel to convince the deserter network to increase your goodwill with a random faction by 5.,description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_DelayResponse.label,delay response,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_DelayResponse.description,"Trade intel to convince the deserter network to create a distraction, increasing the response time on all currently ongoing operations where the counter is already ticking down. This delays the response by 1 minute. Can be used several times.",description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_TauntImperials.label,taunt imperial forces,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_TauntImperials.description,Spend intel to taunt imperial strike force to attack your colony.,description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_ChangeCritical.label,change critical intel,label,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_ChangeCritical.description,Trade critical intel for 10 standard intel.,description,VFED.DeserterServiceDef/VFED.DeserterServiceDef.xml,def
+VFED_Ship_DeserterShuttle.label,shuttle,label,TransportShipDef/TransportShipDef.xml,def
+VFED_DeserterShuttleIncoming.label,deserter shuttle (incoming),label,ThingDef/ThingDef.xml,def
+VFED_DeserterShuttleLeaving.label,deserter shuttle (leaving),label,ThingDef/ThingDef.xml,def
+VFED_TravelingDeserterShuttle.label,deserter shuttle,label,WorldObjectDef/WorldObjectDef.xml,def
+VFED_TravelingDeserterShuttle.description,A deserter shuttle in flight.,description,WorldObjectDef/WorldObjectDef.xml,def
+VFED_Damocles.label,Damocles Deserter,label,StorytellerDef/StorytellerDef.xml,def
+VFED_Damocles.description,"Damocles knows that the only way to defeat the Empire is to tread the fine line between all out war and espionage. Good events only come to those who fight. The story that unfolds will be that of increasing tension and desperation, focused on a small group of likeminded people surviving the onslaught together.",description,StorytellerDef/StorytellerDef.xml,def
+VFED_CleanedPropaganda.stages.0.label,cleaned propaganda,label,ThoughtDef/ThoughtDef.xml,def
+VFED_CleanedPropaganda.stages.0.description,I had to clean imperial propaganda. I did take a quick peek. Maybe it’s not all lies?,description,ThoughtDef/ThoughtDef.xml,def
+VFED_Hidden.label,hidden,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Hidden.description,"You are operating in secret, and the Empire has no knowledge of your allegiance to the deserters. They will not respond to your attacks on their installations, and they will generally not look for you out in the world.",description,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Whispers.label,whispers,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Whispers.description,"Word of your activity has started to spread within the higher nobility, but the Empire still sees you as nothing more but a rare, minor annoyance. You can expect patrols to be dispatched to any imperial installations under attack, but you should still have enough time to get in and out before they arrive. Inventory checks become part of the updated briefing, making it slightly harder to acquire contraband.",description,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Rumors.label,rumors,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Rumors.description,"Rumors about the deserter activity are starting to circulate among the lower-ranking officers and soldiers of the Empire. While the Empire does not yet have concrete evidence of your involvement, they are beginning to take the rumors seriously and have increased their security measures. Expect to encounter increased security on imperial installations, as well as janissary reaction force as soon as the installation is alerted of your presence. Imperial patrols are now prominent and will inspect every caravan they come across.",description,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Rumors.specialEffects.0.label,Imperial patrol caravan event becomes active,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_Rumors.specialEffects.1.label,All imperial armies on all quest locations where Empire would spawn are 20% bigger,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.label,news,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.description,"Your actions have become public knowledge and have hit the imperial news stations like a storm. The Empire now considers you a serious threat and has placed a high priority on tracking you down. Security measures across all installations have been greatly increased. Furthermore, the Empire will now send more raiding parties to any settlements suspected of harboring deserters. It will be harder to obtain contraband and support from the locals as the Empire's propaganda campaign is gaining strength.",description,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.specialEffects.0.label,Raids from the Empire faction happen 2x as often,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.specialEffects.1.label,All imperial armies on all quest locations where Empire would spawn are 50% bigger,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.specialEffects.2.label,Imperial Propaganda can now drop,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_News.specialEffects.3.label,Chased Deserter quest no longer occurs,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.label,public enemy,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.description,"You are now a household name, and the Empire considers you their number one enemy. They are using all of their resources to track you down and eliminate you and your followers. The Empire may also use scorched earth tactics, such as bombing or shelling entire areas suspected of supporting the deserters. They are willing to sacrifice their installations if it means eliminating the deserters, and will respond to any aggression with indiscriminate aerodrone bombardment. Most smuggling operations cease and contraband becomes incredibly hard to come across. The Imperial spy guilds will put out disinformation to turn other factions against you, making it hard to distinguish friend from foe. It's a full-blown war and the outcome will determine your fate and the fate of the Empire. Be prepared for a difficult fight, as survival is the only option now.",description,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.specialEffects.0.label,Raids from the Empire faction happen 3x as often,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.specialEffects.1.label,All imperial armies on all quest locations where Empire would spawn are 100% bigger,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.specialEffects.2.label,Aerodrone bombardment event becomes available.,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.specialEffects.3.label,Absolver Raid can now occur.,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_PublicEnemy.specialEffects.4.label,Relations with a random faction drop by -10 once a day.,label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_DivineInferno.specialEffects.0.label,"As soon as player reaches 100 Visibility, Divine Inferno countdown triggers.",label,VFED.VisibilityLevelDef/VFED.VisibilityLevelDef.xml,def
+VFED_AerodroneStation.questNameRules.rulesStrings.0,questName->Aerodrone station sabotage,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_AerodroneStation.questDescriptionRules.rulesStrings.0,"questDescription->Thanks to the intel we have obtained, we now know the location of an aerodrone station belonging to [empire_name]. These stations recharge and reload powerful aerodrones - autonomous, unmanned aerial vehicles that can bombard targets with powerful missile salvos.
+\nThese drones are a threat to everyone who disagrees with the Empire. They need to be destroyed.
+\nWe might find some useful supplies scattered around the station. It's crucial to remember that ammunition stacks and aerodrone batteries are highly volatile, and we might be able to use them to our advantage.
+\nThe aerodrone station is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the imperial army.
+\nThe station is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this mission is to destroy all aerodrones currently stationed here by any means necessary.
+\nOnce we arrive at the station, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterQuestBase.root.nodes.20.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterQuestBase.root.nodes.20.node.nodes.0.text,The [site_label] has packed up and moved on. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ChasedDeserter.questNameRules.rulesStrings.0,questName->Chased deserter,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ChasedDeserter.questDescriptionRules.rulesStrings.0,"questDescription->[asker_nameFull], [asker_titleIndef], is calling from nearby. [asker_pronoun] has deserted the army of [asker_factionName] and is being hunted by (*Threat)a loyalty squad(/Threat). [asker_pronoun] wishes to join you at [map_definite].
+\nBeware - If you accept [asker_nameDef], you will become an enemy of [asker_factionName]! The pursuing loyalty squad will attack immediately. It is composed of: \n\n[raid/raidPawnKinds]
+\nOnly accept if you wish to fight against [asker_factionName].
+\nPicking the side of the deserters will make the Empire permanently hostile, however it will also give you access to the Deserter network via the comms console. You will be able to gain intel on the Shattered Empire and trade this intel for powerful imperial gear, deserter inventions and new quests. At some point, you will be able to launch assassination missions on fanatic imperial figures in order to destabilize the empire.
+\nIf you have a titled nobility under your control, they will lose all their titles, and with them, requirements for their titles. They will however generate a lump sum of intel for you, and the amount of intel depends on their current rank with Shattered Empire.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ControlStationRaid.questNameRules.rulesStrings.0,questName->Control station raid,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ControlStationRaid.questDescriptionRules.rulesStrings.0,"questDescription->The informant network has relayed us the information of a control station belonging to [empire_name]. These forward-placed outposts survey the area around imperial points of interest and alert them of any imminent threat.
+\nWe might find some useful supplies scattered around the control station. If we have the time, we should take what we can.
+\nThe control station is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the imperial army.
+\nThe control station is protected by a large number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the surveillance station terminal. Once that is done, the reward will arrive and we will have to make our escape. The terminal is usually well defended and placed inside a fortified building.
+\nOnce we arrive at the control station, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeadDrop.questNameRules.rulesStrings.0,questName->Deserter dead drop,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeadDrop.questDescriptionRules.rulesStrings.0,"questDescription->We have received a message from our deserter informant that our order is ready for collection not far from [map_definite]. The items we will find there are:\n\n[itemStashContents]\n\nDue to the value of the items and the fact that [empire_name] will inevitably look for them when they realize they’ve gone missing, we should make our way to the dead drop as soon as possible.\n\nWe should ensure we have enough carry capacity to bring all the items back.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeadDrop.root.nodes.3.node.nodes.4.node.nodes.0.text,Intercepted communications indicate the dead drop has been located by [empire_name]. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireBargain.questNameRules.rulesStrings.0,questName->Proposition from [empire_name],li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireBargain.questDescriptionRules.rulesStrings.0,"questDescription->News of the recent assassination of [lastTarget_nameFull] has spread like wildfire across the nobility of [empire_name], fueling the flames of dissent and rebellion. Defectors, once seen as insignificant, have begun seizing victories on various fronts, rattling the gilded cage of the aristocracy. In the shadowy halls of the noble court, whispers stir the air, whispers of desperate bargains offered to the surging rebel forces.
+\nIntriguingly, one such proposition has found its way to you. Envoys from the imperial court have dispatched an encrypted missive to [map_label]. In carefully coded language, they detail the bounty they're prepared to lavish upon you, should you choose to abandon your deserters' colors:
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the Empire will bargain with you again if you continue on your path. Next deals offered might be more bountiful.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireBargain.questDescriptionRules.rulesStrings.1,"questDescription->The untimely demise of [lastTarget_nameFull] has sent shockwaves through the nobility of [empire_name], fanning the embers of dissent into a roaring blaze. What once were dismissed as trivial defections are now victorious battles on numerous fronts, shaking the once secure stronghold of the aristocracy. Amid the hushed murmurings of the noble court, whispers of frantic concessions offered to the rapidly rising rebel forces ripple through the air.
+\nThis proposition is extended to you as well. Emissaries of the empire have dispatched a ciphered communique to [map_label], outlining the considerable benefits you stand to gain, should you decide to forsake the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the Empire will bargain with you again if you continue on your path. Next deals offered might be more bountiful.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireBargain.questDescriptionRules.rulesStrings.2,"questDescription->Word of [lastTarget_nameFull]'s sudden assassination has cast a chill across the noble circles of [empire_name], kindling a tempest of revolt and insubordination. Those who had once defected, dismissed as inconsequential, are now seizing key victories, causing a seismic shift in the power dynamics of the aristocracy. Secreted away in the labyrinthine depths of the court, rumors of hasty deals offered to the ever-strengthening rebellion echo eerily.
+\nYou are not excluded from this tempting deal. Imperial ambassadors have transmitted a cryptic message to [map_label], shedding light on the incentives you stand to accrue if you abandon the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the Empire will bargain with you again if you continue on your path. Next deals offered might be more bountiful.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireBargain.questDescriptionRules.rulesStrings.3,"questDescription->The sudden and brutal assassination of [lastTarget_nameFull] has swept through the elite ranks of [empire_name], stoking the flames of insurrection and defiance. Defectors, once scorned as negligible, are achieving unexpected victories, shaking the seemingly impervious bastion of the nobility. In the shadowy corners of the court, murmurs of desperate alliances offered to the surging rebels snake through the air.
+\nThis appealing bargain has also been presented to you. Envoys of the empire have forwarded a concealed missive to your outpost in [map_label], hinting at the boons you could acquire if you dissociate from the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the Empire will bargain with you again if you continue on your path. Next deals offered might be more bountiful.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireRuins.questNameRules.rulesStrings.0,questName->Ruins of the Empire,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireRuins.questDescriptionRules.rulesStrings.0,"questDescription->The great collapse of [empire_name] was a historic event, one that changed the course of this planet. The once-majestic Imperial flagship, a testament to the Empire's technological prowess, now lies wrecked in a secluded location.
+\nThe debris from this massive ship is scattered across miles of treacherous terrain. Though shattered and dormant, it is believed that buried within its molten metallic embrace lies the last of the imperial technology - techprints, unique devices, and possibly even machinery not yet seen by the world. The potential for advancement, and perhaps dominance, is high for whoever can harness these forgotten wonders.
+\nMoreover, you can expect this place to be the final resting place of the imperial nobility. The emperor, the most revered figure of the Empire, may have met his end aboard that very ship. If true, his remains, and those of his noble court, may be a treasure trove of their own, revealing secrets or carrying possessions of untold value.
+\nTime is of the essence. The crash has not gone unnoticed. Other factions, hungry for power and knowledge, are setting their sights on the wreck. If we don’t make haste, we risk losing this opportunity to the winds of time and the ambitions of rivals.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireRuins.root.nodes.6.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_EmpireRuins.root.nodes.6.node.nodes.0.text,The [site_label] has been stripped by scavengers. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.questNameRules.rulesStrings.0,questName->Egocentric emperor,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.questDescriptionRules.rulesStrings.0,"questDescription->[noble_nameFull] is the Emperor of the [empire_name]. An egocentric ruler who values tradition over the lives of [noble_possessive] people, [noble_pronoun] has to be stopped at all costs. [noble_pronoun] refuses to adapt to the new reality post-Sophiamunda Shattering, and instead insists on maintaining old ways, leading to the wasteful loss of countless lives.
+\n\nDespite the warnings we have given [noble_objective] and the obvious signs of impending doom, [noble_pronoun] remains obstinate in [noble_possessive] ways, driving the Empire towards certain destruction. The only hope for the deserters is to take out the Imperial flagship in orbit, which gives the Emperor an overwhelming military advantage.
+\n\nIn order to do that, we have to take control of three Zeus cannons located in various places on the planet. This mission needs to be executed on all fronts simultaneously, as we will only have a limited window of opportunity once the first Zeus cannon is taken. Activating all three of them at the same time will ensure the total obliteration of the Imperial flagship, after which the Empire will have no choice but to dissolve.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.questContentRules.rulesStrings.0,"shuttleLetterText->All deserter cells on the planet have been informed about what is going to occur now. Everyone knows that now is the only time to strike.
+\n\nA deserter shuttle has landed in your area. It is tasked with delivering a deserter strike force, including whoever you choose to send on this mission, into a Zeus cannon installation. Your soldiers will be assisted by deserter reinforcements.
+\n\nThe installation is heavily defended. Furthermore, Imperial reinforcements will be dispatched almost immediately upon landing. You can expect the Empire to bring their best and most powerful weapons to try and stop you.
+\n\nYour objective is to capture the control room of the Zeus cannon batteries. As long as you are within the range of the main control station, Zeus cannons will continuously fire at the imperial flagship. The target is heavily armored, and bringing it down will require a lot of firepower.
+\n\nThe installation is defended by an imperial mega high-shield, which should keep you safe from aerodrone bombardments and slicer beams as long as you maintain a constant power supply to it.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.21.label,Shuttle arrived,label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.21.text,[shuttleLetterText],text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.22.node.nodes.0.label,Shuttle destroyed,label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.22.node.nodes.0.text,The shuttle sent to collect colonists has been destroyed.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.36.node.nodes.0.label,Control station destroyed,label,QuestScriptDef/QuestScriptDef.xml,def
+VFED_DeserterEndgame.root.nodes.36.node.nodes.0.text,The zeus cannon control station has been destroyed.,text,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ImperialConvoy.questNameRules.rulesStrings.0,questName->Imperial convoy,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ImperialConvoy.questDescriptionRules.rulesStrings.0,"questDescription->We have been informed of a maxpack convoy belonging to [empire_name] in our vicinity. The convoy had to make an emergency stop, which is a perfect opportunity for us to raid it. Whilst maxpacks will be impervious to any break-in attempts, there is bound to be a lot of other valuables scattered around the trucks.
+\nWe need to eliminate everyone in the convoy before they move on.
+\nThe convoy is protected by:
+[forces_description]
+\nDuring unexpected stops like this, Empire is known to place strike buoys around the temporary camps. These strike buoys will alert the Empire of our location, and will trigger a nearby aerodrone to fire missiles at the buoy location. We should make it our priority to avoid these traps.
+\nThe objective of this assignment is to eliminate all enemy personnel in the area. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the convoy location, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questNameRules.rulesStrings.0,questName->[plotName],li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.0,"questDescription(nobleTitle==Knight)->[noble_nameFull] is a knight of [empire_name], infamous for the brutal tactics and ruthless methods of extracting information from prisoners. [noble_pronoun] gained [noble_possessive] name due to the atrocious acts [noble_pronoun] commits in the name of the Emperor, leaving a trail of destruction in their wake.
+\nEliminating [noble_nameFull] would be a significant victory for the deserter cause, as [noble_pronoun] is responsible for the capture and interrogation of many of our sympathizers. Completing this mission would disrupt the Empire's intelligence-gathering operations and hinder their ability to track and locate the deserter cells.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.1,"questDescription(nobleTitle==Praetor)->[noble_nameFull] is a praetor of [empire_name], known for [noble_possessive] small-minded and vindictive nature, often punishing subordinates for minor infractions and taking pleasure in exerting [noble_possessive] power over others. [noble_pronoun] gained [noble_possessive] moniker due to [noble_possessive] tendency to focus on petty grievances rather than more significant issues.
+\nAssassinating [noble_nameFull] would be a significant boon for the deserters, as [noble_pronoun] is responsible for overseeing the occupation of several key settlements and has a reputation for being particularly harsh on dissenters. Removing [noble_objective] from power would weaken Imperial control in the region and potentially inspire other subjects to rise up against their oppressors.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.2,"questDescription(nobleTitle==Baron)->[noble_nameFull] is a baron of [empire_name], known for [noble_possessive] prejudiced views and discriminatory policies towards non-baseliners. [noble_pronoun] gained this moniker due to intolerant and narrow-minded worldview, which has caused great suffering and injustice for many under [noble_possessive] rule.
+\nAssassinating [noble_nameFull] would be a crucial victory for the deserters, as [noble_pronoun] is a key figurehead of the Empire's anti-xeno policies and a driving force behind their efforts to suppress and subjugate non-baseliners. [noble_possessive] death would send a message to other Imperial leaders that the deserters will not stand for such bigotry and discrimination.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.3,"questDescription(nobleTitle==Count)->[noble_nameFull] is a count of [empire_name], known for [noble_possessive] corrupt and scheming ways, using wealth and influence to manipulate politics and advance [noble_possessive] own interests. [noble_pronoun] gained this moniker due to dishonest and unethical behavior, often engaging in underhanded dealings and double-crossing those who oppose [noble_objective].
+\nAssassinating [noble_nameFull] would be a significant blow to the Empire, as [noble_pronoun] is a key figure in the Imperial court and wields a great deal of power and influence. [noble_possessive] death would disrupt the political balance and potentially spark infighting among rival factions, weakening the Empire's cohesion and ability to respond to deserter threats.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.4,"questDescription(nobleTitle==VFEE_Archcount)->[noble_nameFull] is an archcount of [empire_name] notorious for [noble_possessive] sadistic tendencies and cruel treatment of those under [noble_possessive] command. [noble_pronoun] gained this moniker due to abusive behavior, which has left a trail of broken lives and shattered spirits in [noble_possessive] wake.
+\nAssassinating [noble_nameFull] would be a significant victory for the deserters, as [noble_pronoun] is responsible for overseeing the construction of several key Imperial fortifications and the management of labor camps where prisoners are subjected to horrific conditions. [noble_possessive] death would disrupt the Empire's construction projects and potentially inspire uprisings among the oppressed laborers.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.5,"questDescription(nobleTitle==VFEE_Marquess)->[noble_nameFull] is a marquess of [empire_name] known for [noble_possessive] aggressive and militaristic approach to governance, advocating for the expansion of the Empire's military might and the suppression of dissenting voices. [noble_pronoun] gained this moniker due to fervent dedication to military might and discipline, and belief that war is the solution to all problems.
+\nEliminating [noble_nameFull] would be a crucial victory for the deserters, as [noble_pronoun] is a key proponent of the Empire's militarization efforts and a driving force behind their expansionist policies. [noble_possessive] death would disrupt the Empire's plans for conquest and potentially dissuade other leaders from pursuing similar aggressive strategies.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.6,"questDescription(nobleTitle==Duke)->[noble_nameFull] is a duke of [empire_name] known for hedonistic lifestyle and depraved behavior, using wealth and influence to indulge in all manner of vices and debauchery. [noble_pronoun] gained this moniker due to immoral and corrupt behavior, often using power to exploit and abuse those beneath him.
+\nAssassinating [noble_nameFull] would be a significant blow to the Empire, as [noble_pronoun] is a key figure in the Imperial court and wields a great deal of power and influence. [noble_possessive] death would disrupt the political balance and potentially create openings for deserter spies and sympathizers to gain valuable intelligence.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.7,"questDescription(nobleTitle==VFEE_Archduke)->[noble_nameFull] is an archduke of [empire_name] known for [noble_possessive] haughty and dismissive attitude towards those [noble_pronoun] deems beneath [noble_objective], often belittling and insulting [noble_possessive] subordinates and opponents alike. [noble_pronoun] gained this moniker due to overwhelming sense of entitlement and superiority, which has earned [noble_objective] a reputation as a difficult and unpleasant figure to work with.
+\n[noble_nameFull] is widely disliked among [noble_possessive] peers, who would likely welcome a change of command and defect to our cause, providing valuable resources and information. [noble_possessive] death would also serve as a warning to other Imperial leaders that the deserters will not tolerate such arrogance and disrespect towards others, potentially inspiring imperial soldiers to join the deserter cause and overthrow the oppressive Empire.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.8,"questDescription(nobleTitle==Consul)->[noble_nameFull] is a consul of [empire_name] who holds a high position in the Imperial court and is known for [noble_possessive] unethical and immoral behavior. [noble_pronoun] gained this moniker due to reputation for bribery, embezzlement, and other corrupt practices, which [noble_pronoun] uses to maintain [noble_possessive] position and influence with the Emperor.
+\n[noble_nameFull] is widely disliked among the people, who suffer from [noble_possessive] corrupt practices and the resulting economic inequality and injustice. [noble_possessive] death would likely inspire rebellion among oppressed populations and potentially sway other members of the Imperial court to defect to the deserter cause, providing valuable resources and support in the fight against the Empire.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.9,"questDescription(nobleTitle==VFEE_Magister)->[noble_nameFull] is a magister of [empire_name] who holds a high position in the Imperial court and is known for [noble_possessive] ruthless and oppressive tactics. [noble_pronoun] gained [noble_possessive] moniker due to the reputation for decimating [noble_possessive] own subjects in order to maintain obedience and instill fear in the rest of the population.
+\nAssassinating [noble_nameFull] would be a significant blow to the Empire and a major victory for the deserters, bringing us one step closer to the final mission. [noble_possessive] death would not only disrupt the political balance but also remove a key figure responsible for the brutal oppression and subjugation of the people.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.10,"questDescription(nobleTitle==VFEE_Despot)->[noble_nameFull] is a despot of [empire_name] who holds a high position in the Imperial court and is known for [noble_possessive] madness and depravity. [noble_pronoun] earned this moniker due to [noble_possessive] reputation for sadistic and cruel behavior, including forcing numerous subjects to serve in [noble_possessive] personal pleasure house, where disobedience is punished with death.
+\nAssassinating [noble_nameFull] would be a crucial victory for the deserter cause, as [noble_possessive] removal from power would not only disrupt the political balance but also remove a key figure responsible for the inhumane treatment of the people. [noble_possessive] death would also likely weaken the morale of the Imperial forces and potentially inspire rebellion among the oppressed masses.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.11,"questDescription(nobleTitle==Stellarch)->[noble_nameFull] is a powerful and feared stellarch of [empire_name], known for [noble_possessive] ruthless tactics and eugenic beliefs. [noble_pronoun] earned [noble_possessive] moniker due to [noble_possessive] reputation for forcing euthanasia on any noble children with any sort of deformities or disabilities, a practice that is cruel, inhumane and wrong.
+\nAssassinating [noble_nameFull] would be a major blow to the Imperial regime, as it would remove a key figure responsible for the perpetuation of eugenic practices and the persecution of the disabled. It would also strike a blow against the Imperial propaganda machine, which claims that the regime is promoting ""genetic purity"" for the betterment of the empire. Completing this mission will bring the final mission into our grasp.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questDescriptionRules.rulesStrings.12,"questDescription(nobleTitle==VFEE_HighStellarch)->[noble_nameFull] is a high stellarch of [empire_name] and is notorious for ruthless tactics and cruel treatment of the citizens under [noble_possessive] rule, often ordering mass executions, divine inferno bombardments and harsh punishments for even the slightest infractions. [noble_pronoun] is feared and despised by many who live under [noble_possessive] jurisdiction.
+\nAssassinating [noble_nameFull] would severely cripple the Empire's military and political power, as [noble_pronoun] is one of the Emperor's most trusted advisors and commanders. Additionally, it would inspire rebellion and resistance among the people who have long suffered under his brutal regime. Completing this mission will set the stage for our final mission, exposing three locations of Zeus cannons that we will need to bring the imperial flagship down.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.0,raid/approach_label->Raid,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.1,shootDown/approach_label->Shoot down,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.2,falseInvitation/approach_label->False invitation,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.3,"raid/approach_desc->[noble_nameFull] is residing in their mansion near [map_label]. The structure is heavily fortified and well defended. Raiding this mansion will draw the least attention to us, but will also mean the hardest fight.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.4,"shootDown/approach_desc->[noble_nameFull] is travelling in a shuttle near [map_label]. Other deserters agreed to bring the shuttle down near us, but we will have to venture to the crashed shuttle site and finish them off.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.questContentRules.rulesStrings.5,"falseInvitation/approach_desc->Using our connections, we can invite [noble_nameFull] to [map_label]. They will think they are performing a customary noble visit, when in reality they will walk into their doom. This will definitely draw attention to us.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_PlotMission.root.nodes.8.title,$nobleTitle,title,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ShuttleStagingPost.questNameRules.rulesStrings.0,questName->Shuttle staging post,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ShuttleStagingPost.questDescriptionRules.rulesStrings.0,"questDescription->Our intel allowed us to pinpoint the location of a shuttle staging post belonging to [empire_name]. These staging posts allow shuttles to refuel between destinations. Destroying it will greatly hinder the Empire’s ability to freely travel the planet and resupply their forward bases.
+\nWe may be able to trigger a chain detonation of the fuel containers to create havoc and make our job easier.
+\nWe might find some useful supplies scattered around the staging post. If we have the time, we should take what we can.
+\nThe shuttle staging post is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the imperial army.
+\nThe staging post is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy all fuel containers. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the staging post, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_SupplyDepotRaid.questNameRules.rulesStrings.0,questName->Supply depot raid,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_SupplyDepotRaid.questDescriptionRules.rulesStrings.0,"questDescription->The intel we have gathered allowed us to gain insight into the location of a supply depot belonging to [empire_name]. Supply depots like that are often scattered around imperial settlements and serve as secure stockpiles for the most valuable resources. Keeping these supply depots hidden away discourages any raiders from attacking these settlements.
+\nThe compound is guaranteed to contain numerous supply crates. Stealing these items is bound to slow down the Imperial war effort.
+\nIt is also possible we will find additional Biosecured crates, which can only be opened by noble-born people.
+\nThe supply depot is protected by:
+[forces_description]
+\nThe compound is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to open all supply crates in the area. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the compound, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_TechprinterDemolition.questNameRules.rulesStrings.0,questName->Techprinter demolition,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_TechprinterDemolition.questDescriptionRules.rulesStrings.0,"questDescription->We have received the news of a techprinter installation belonging to [empire_name] near our location. Techprinters are a huge environmental hazard, and are used by techfriars to replicate their knowledge on techprints.
+\nTechite discs used in this process are extremely toxic and flammable. We might be able to ignite a stack of these discs and see the inferno unfold.
+\nThe techprinter installation is protected by:
+[forces_description].
+\nTwo palintone turrets are located at the installation. They are powerful, anti-infantry weapons firing large-caliber shells at incredible speeds, dealing heavy damage over significant ranges. Their ammo needs to be stored right next to them, and a precise shot might set off a chain explosion.
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the imperial army.
+\nTwo techfriars are most certainly at the installation. Killing them is not necessary.
+\nThe techprinter installation is protected by a number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the techprinters by any means necessary. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the installation, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ImperialUnderfarmRaid.questNameRules.rulesStrings.0,questName->Imperial underfarm raid,li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ImperialUnderfarmRaid.questDescriptionRules.rulesStrings.0,"questDescription->Our intel suggests that [empire_name] has an underfarm complex near our location. Underfarms provide imperial settlements with a steady supply of food. Destroying this underfarm complex is bound to cause unrest in the lower ranks, as food becomes scarce.
+\nThe location features huge swathes of empty terrain with no cover in sight. We should think how we want to approach this.
+\nThe underfarm complex is protected by:
+[forces_description].
+\nA kontarion turret is located at the installation. It’s a powerful, long-range weapon used by the Empire to take out enemy targets from afar. Kontarion turret fires ultra-dense uranium slugs at incredible speeds, penetrating even the heaviest armor. Its ammo needs to be stored right next to it, and a precise shot might set off a chain explosion.
+\nThe underfarm complex is protected by a number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the water mains that supply the underfarms. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the complex, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.",li,QuestScriptDef/QuestScriptDef.xml,def
+VFED_ImperialDefenses.label,imperial defenses,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialDefenses.description,"Create imperial megaturrets: Kontarion, Onager and Palintone, as well as their ammunition.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.label,imperial war solutions,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.description,"Craft powerful imperial mortar shells, such as shrapnel, armor piercing and cluster.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.label,imperial war solutions,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.description,Build advanced explosive traps with remote detonation mechanism.,description,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VFED_NewSafehaven.scenario.summary,"A deserter cell, laying low. A classic VFE - Deserters experience.",summary,ScenarioDef/ScenarioDef.xml,def
+VFED_NewSafehaven.scenario.parts.13.text,"Your deserter group has stumbled upon an old bunker, a potential haven. But with the valuable intel you carry, the Empire's visibility on you is alarmingly high. Aerodrones patrol the skies, and Imperial raiding parties are closing in. Use the intel to unlock powerful tech and deserter services, aiding your ultimate mission: to assassinate key Imperial nobility. Survive the initial onslaught and lay low; over time, the Empire's relentless search will wane. The choice is yours: fortify, adapt, or perish.",text,ScenarioDef/ScenarioDef.xml,def
+VFED_StartDeserting.label,start deserting,label,ScenPartDef/ScenPartDef.xml,def
+VFED_AerodroneStation.label,aerodrone station,label,SitePartDef/SitePartDef.xml,def
+VFED_AerodroneStation.description,An Imperial Aerodrone Station.,description,SitePartDef/SitePartDef.xml,def
+VFED_ControlStation.label,control station,label,SitePartDef/SitePartDef.xml,def
+VFED_ControlStation.description,An Imperial Control Station.,description,SitePartDef/SitePartDef.xml,def
+VFED_DeadDrop.label,dead drop,label,SitePartDef/SitePartDef.xml,def
+VFED_DeadDrop.description,A dead drop from our deserter contact.,description,SitePartDef/SitePartDef.xml,def
+VFED_EmpireRuins.label,Crashed imperial flagship,label,SitePartDef/SitePartDef.xml,def
+VFED_EmpireRuins.description,"The former flagship of the Empire, now crashed.",description,SitePartDef/SitePartDef.xml,def
+VFED_ImperialConvoy.label,imperial convoy,label,SitePartDef/SitePartDef.xml,def
+VFED_ImperialConvoy.description,An Imperial Convoy.,description,SitePartDef/SitePartDef.xml,def
+VFED_PlotMission_Raid.label,noble mansion,label,SitePartDef/SitePartDef.xml,def
+VFED_PlotMission_Raid.description,A mansion for a noble.,description,SitePartDef/SitePartDef.xml,def
+VFED_PlotMission_DownedShuttle.label,downed shuttle,label,SitePartDef/SitePartDef.xml,def
+VFED_PlotMission_DownedShuttle.description,A downed shuttle carrying a noble.,description,SitePartDef/SitePartDef.xml,def
+VFED_ShuttleStagingPost.label,shuttle staging post,label,SitePartDef/SitePartDef.xml,def
+VFED_ShuttleStagingPost.description,An Imperial Shuttle Staging Post.,description,SitePartDef/SitePartDef.xml,def
+VFED_SupplyDepot.label,supply depot,label,SitePartDef/SitePartDef.xml,def
+VFED_SupplyDepot.description,An Imperial Supply Depot.,description,SitePartDef/SitePartDef.xml,def
+VFED_TechPrinter.label,techprinter center,label,SitePartDef/SitePartDef.xml,def
+VFED_TechPrinter.description,An Imperial TechPrinter Center.,description,SitePartDef/SitePartDef.xml,def
+VFED_Underfarm.label,imperial underfarm,label,SitePartDef/SitePartDef.xml,def
+VFED_Underfarm.description,An Imperial Underfarm.,description,SitePartDef/SitePartDef.xml,def
+VFED_ZeusCannonComplex.label,zeus cannon complex,label,SitePartDef/SitePartDef.xml,def
+VFED_ZeusCannonComplex.description,"A secret imperial installation equipped with a large number of powerful zeus cannons, capable of bringing down large objects from the orbit.",description,SitePartDef/SitePartDef.xml,def
+VFED_DeserterShuttle.label,deserter shuttle,label,ThingDef/ThingDef.xml,def
+VFED_DeserterShuttle.description,"A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system.",description,ThingDef/ThingDef.xml,def
+VFED_FlagshipChunk.label,flagship chunk,label,ThingDef/ThingDef.xml,def
+VFED_FlagshipChunk.description,"A chunk of an imperial flagship. It seems to have been torn off by some kind of powerful weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_HighExplosive.label,remote charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_HighExplosive.description,"A pair of high-explosive shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Incendiary.label,remote incendiary charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Incendiary.description,"A pair of incendiary shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_EMP.label,remote EMP charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_EMP.description,"A pair of EMP shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Smoke.label,remote smoke charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Smoke.description,"A pair of smoke shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Firefoam.label,remote firefoam charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Firefoam.description,"A pair of firefoam shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_AntigrainWarhead.label,remote antigrain charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_AntigrainWarhead.description,"A pair of antigrain warheads connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_BombPack_Deployed.label,deployed bomb pack,label,ThingDef/ThingDef.xml,def
+VFED_BombPack_Deployed.description,"A deployed bomb pack. It’s armed, and can be detonated with a press of a button.",description,ThingDef/ThingDef.xml,def
+VFED_TrapIED_Shrapnel.label,IED shrapnel trap,label,ThingDef/ThingDef.xml,def
+VFED_TrapIED_Shrapnel.description,"A pair of shrapnel shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_TrapIED_ArmorPiercing.label,IED armor-piercing trap,label,ThingDef/ThingDef.xml,def
+VFED_TrapIED_ArmorPiercing.description,"A pair of armor-piercing shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_TrapIED_Cluster.label,IED cluster trap,label,ThingDef/ThingDef.xml,def
+VFED_TrapIED_Cluster.description,"A pair of cluster shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Shrapnel.label,remote shrapnel charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Shrapnel.description,"A pair of shrapnel shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_ArmorPiercing.label,remote armor-piercing charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_ArmorPiercing.description,"A pair of armor-piercing shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Cluster.label,remote cluster charge,label,ThingDef/ThingDef.xml,def
+VFED_RemoteTrapIED_Cluster.description,"A pair of cluster shells connected to a remote triggering mechanism. It can be detonated at will, but the fuse time might vary. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/ThingDef.xml,def
+VFED_Turret_Kontarion.label,kontarion,label,ThingDef/ThingDef.xml,def
+VFED_Turret_Kontarion.description,"A powerful, long-range weapon used by the Empire to take out enemy targets from afar. Kontarion turret fires ultra-dense uranium slugs at incredible speeds, penetrating even the heaviest armor. With its rapid-fire capabilities, tremendous accuracy and infinite range, it’s a force to be reckoned with. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of uranium slug ammo in order to automatically reload. It cannot be reloaded by hand.",description,ThingDef/ThingDef.xml,def
+VFED_Gun_Kontarion.label,kontarion cannon,label,ThingDef/ThingDef.xml,def
+VFED_Gun_Kontarion.description,A self-loading uranium slug cannon designed to attach to a turret.,description,ThingDef/ThingDef.xml,def
+VFED_Turret_Palintone.label,palintone,label,ThingDef/ThingDef.xml,def
+VFED_Turret_Palintone.description,"A powerful, anti-infantry weapon used by the Empire to defend unsafe outposts. Palintone turret fires large-caliber shells at incredible speeds, dealing heavy damage over significant ranges. It fires huge volleys of rounds that can provide suppressive fire and quickly shred lightly armored targets. With its devastating firepower, the Palintone turret is capable of keeping even the largest enemy forces at bay. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of autocannon ammo in order to automatically reload. It cannot be reloaded by hand.",description,ThingDef/ThingDef.xml,def
+VFED_Gun_Palintone.label,palintone cannon,label,ThingDef/ThingDef.xml,def
+VFED_Gun_Palintone.description,A self-loading cannon designed to attach to a turret.,description,ThingDef/ThingDef.xml,def
+VFED_Turret_Onager.label,onager,label,ThingDef/ThingDef.xml,def
+VFED_Turret_Onager.description,"A powerful, anti-armored weapon used by the Empire to destroy heavily armored targets with ease. Capable of launching missiles in bursts of 6, the Onager can deal devastating damage to enemy forces in a short amount of time. The Onager turret is most effective at short range, where its missiles can be accurately targeted at enemy positions. However, it cannot fire at enemies that are too close, as the missiles require a certain distance to arm and track their targets. Additionally, due to the sheer number of missiles it fires, the Onager is not as accurate as other turrets, and can sometimes miss its targets. May explode when damaged.\n\nIt consumes a lot of ammunition, and requires an adjacent crate of missile ammo in order to automatically reload. It cannot be reloaded by hand.",description,ThingDef/ThingDef.xml,def
+VFED_Gun_Onager.label,onager cannon,label,ThingDef/ThingDef.xml,def
+VFED_Gun_Onager.description,A self-loading rocket launcher designed to attach to a turret.,description,ThingDef/ThingDef.xml,def
+VFFED_Bullet_Onager.label,onager,label,ThingDef/ThingDef.xml,def
+VFED_Turret_StrikerTurret.label,striker turret,label,ThingDef/ThingDef.xml,def
+VFED_Turret_StrikerTurret.description,"A stationary, powerful turret. Will self-destruct if it is sufficiently damaged.",description,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_UraniumSlug.label,uranium slug ammo box,label,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_UraniumSlug.description,A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged.,description,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_Autocannon.label,autocannon ammo box,label,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_Autocannon.description,A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged.,description,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_Missile.label,missile ammo box,label,ThingDef/ThingDef.xml,def
+VFED_AmmoBox_Missile.description,A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged.,description,ThingDef/ThingDef.xml,def
+VFED_SupplyCrate.label,supply crate,label,ThingDef/ThingDef.xml,def
+VFED_SupplyCrate.description,A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while.\n\nAny attempt to destroy it will destroy the items as well.,description,ThingDef/ThingDef.xml,def
+VFED_BiosecuredCrate.label,biosecured crate,label,ThingDef/ThingDef.xml,def
+VFED_BiosecuredCrate.description,"A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it.\n\nAny attempt to destroy it will destroy the items as well.",description,ThingDef/ThingDef.xml,def
+VFED_SurveillancePillar.label,surveillance pillar,label,ThingDef/ThingDef.xml,def
+VFED_SurveillancePillar.description,"A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid.",description,ThingDef/ThingDef.xml,def
+VFED_AerodroneMunitionsCrate.label,aerodrone munitions crate,label,ThingDef/ThingDef.xml,def
+VFED_AerodroneMunitionsCrate.description,"A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions.",description,ThingDef/ThingDef.xml,def
+VFED_AerodroneBatteryPack.label,aerodrone battery pack,label,ThingDef/ThingDef.xml,def
+VFED_AerodroneBatteryPack.description,"A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses.",description,ThingDef/ThingDef.xml,def
+VFED_Aerodrone.label,aerodrone,label,ThingDef/ThingDef.xml,def
+VFED_Aerodrone.description,"Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle.",description,ThingDef/ThingDef.xml,def
+VFED_ImperialMaxpack.label,imperial maxpack,label,ThingDef/ThingDef.xml,def
+VFED_ImperialMaxpack.description,"The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield.",description,ThingDef/ThingDef.xml,def
+VFED_StrikeBuoy.label,strike buoy,label,ThingDef/ThingDef.xml,def
+VFED_StrikeBuoy.description,"A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location.",description,ThingDef/ThingDef.xml,def
+VFED_FuelTank.label,fuel tank,label,ThingDef/ThingDef.xml,def
+VFED_FuelTank.description,"A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction.",description,ThingDef/ThingDef.xml,def
+VFED_SurveillanceStation.label,surveillance console,label,ThingDef/ThingDef.xml,def
+VFED_SurveillanceStation.description,A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector.,description,ThingDef/ThingDef.xml,def
+VFED_SurveillanceDisplayBank.label,surveillance display bank,label,ThingDef/ThingDef.xml,def
+VFED_SurveillanceDisplayBank.description,"An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector.",description,ThingDef/ThingDef.xml,def
+VFED_Techprinter.label,techprinter,label,ThingDef/ThingDef.xml,def
+VFED_Techprinter.description,"The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies.",description,ThingDef/ThingDef.xml,def
+VFED_TechiteDiscStack.label,techite disc stack,label,ThingDef/ThingDef.xml,def
+VFED_TechiteDiscStack.description,"A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames.",description,ThingDef/ThingDef.xml,def
+VFED_ImperialUnderfarm.label,imperial underfarm,label,ThingDef/ThingDef.xml,def
+VFED_ImperialUnderfarm.description,"An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate.",description,ThingDef/ThingDef.xml,def
+VFED_WaterMain.label,water main,label,ThingDef/ThingDef.xml,def
+VFED_WaterMain.description,A large node connecting all the nearby water mains. Required for the underfarms to operate.,description,ThingDef/ThingDef.xml,def
+VFED_CrashedAerodrone.label,crashed aerodrone,label,ThingDef/ThingDef.xml,def
+VFED_CrashedAerodrone.description,A crashed imperial aerodrone.,description,ThingDef/ThingDef.xml,def
+VFED_ImperialMegaHighShield.label,imperial mega high-shield,label,ThingDef/ThingDef.xml,def
+VFED_ImperialMegaHighShield.description,"An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power.",description,ThingDef/ThingDef.xml,def
+VFED_ZeusCannonControlStation.label,zeus cannon control station,label,ThingDef/ThingDef.xml,def
+VFED_ZeusCannonControlStation.description,"This terminal serves as the primary interface for operating the Zeus Cannon batteries. Equipped with sophisticated controls and targeting systems, the Zeus Cannon Control Station ensures precision and coordination when deploying the formidable firepower of the Zeus Cannons. Operators need to be within its radius to control it.",description,ThingDef/ThingDef.xml,def
+VFED_ZeusCannonCapacitorBank.label,zeus cannon capacitor bank,label,ThingDef/ThingDef.xml,def
+VFED_ZeusCannonCapacitorBank.description,"A capacitor bank that transforms electricity into raw energy for the Zeus cannon. Will release a large EMP shockwave when destroyed, potentially disabling the Zeus cannon itself.",description,ThingDef/ThingDef.xml,def
+VFED_ZeusCannon.label,zeus cannon,label,ThingDef/ThingDef.xml,def
+VFED_ZeusCannon.description,"A relic of ancient Sophiamundan technology, the Zeus Cannon is a closely guarded secret of the Empire. This formidable artillery piece has the unique ability to convert vast quantities of electricity into potent energy blasts. With unmatched range, it can pierce the atmosphere to target and obliterate objects in orbit. A testament to lost engineering brilliance, it stands as both a weapon and a symbol of the Empire's might.\n\nIt has a long charging cycle, after which it will aim at the target and release a devastating energy blast.",description,ThingDef/ThingDef.xml,def
+VFED_BurnoutIntelScraper.label,burnout intel scraper,label,ThingDef/ThingDef.xml,def
+VFED_BurnoutIntelScraper.description,"A deserter device capable of intercepting imperial communication. When activated, it will begin intel scraping, emitting a pulse in regular intervals. Each pulse has a chance of generating a small amount of intel, but it may also increase your visibility and even alert an imperial strike force. After 10 pulses, the machine burns out and triggers a fiery explosion.",description,ThingDef/ThingDef.xml,def
+VFED_Biodecoder.label,biodecoder,label,ThingDef/ThingDef.xml,def
+VFED_Biodecoder.description,"A biodecoder is a single-use ultratech device that is designed to strip biocoding off any item. It uses a complex process to unlatch the biocoding from the original item, which transfers the biocoding onto the biodecoder, breaking it in the process. Biodecoder can also be used on biosecured crate to open them. This device is often used in sensitive operations where the presence of biocoding could compromise the mission.",description,ThingDef/ThingDef.xml,def
+VFED_Biodecoder.comps.0.useLabel,Use {0_label},useLabel,ThingDef/ThingDef.xml,def
+VFED_PsychicAmplifier.label,psychic amplifier,label,ThingDef/ThingDef.xml,def
+VFED_PsychicAmplifier.description,"Decommissioned Imperial technology since the invention of psylink neuroformers, psychic amplifier upgrades a psylink in the user's mind. It cannot form a psylink by itself, and can only be used by colonists with already present psylink. The user presses the device over the eyes, where it links to the brain directly and restructures part of it. Afterwards, the device disintegrates into worthless ash.",description,ThingDef/ThingDef.xml,def
+VFED_PsychicAmplifier.comps.0.useLabel,Use {0_label},useLabel,ThingDef/ThingDef.xml,def
+VFED_Intel.label,intel,label,ThingDef/ThingDef.xml,def
+VFED_Intel.description,"A dossier containing information about the Shattered Empire. In order to protect the information from the Imperial counterintelligence, the information needs to be stored in a physical form. It can be used to obtain contraband items from the Deserters, or to gain access to quests and even assassination missions on Imperial nobility.",description,ThingDef/ThingDef.xml,def
+VFED_CriticalIntel.label,critical intel,label,ThingDef/ThingDef.xml,def
+VFED_CriticalIntel.description,"A dossier containing critical information about the Shattered Empire. In order to protect the information from the Imperial counterintelligence, the information needs to be stored in a physical form. It can be used to plan high-profile assassination attempts, but it can also be exchanged into standard intel via the contraband system.",description,ThingDef/ThingDef.xml,def
+VFED_Shell_Shrapnel.label,shrapnel shell,label,ThingDef/ThingDef.xml,def
+VFED_Shell_Shrapnel.description,"Mortar shell that is designed to explode mid-air and release a large number of sharp projectiles. These projectiles are specifically designed to cut through light armored enemies, inflicting serious injuries or fatalities. Projectiles are ejected with the same vector as the mortar shell, and may be stopped by obstacles.",description,ThingDef/ThingDef.xml,def
+VFED_Bullet_Shell_Shrapnel.label,shrapnel shell,label,ThingDef/ThingDef.xml,def
+VFED_Bullet_Shrapnel.label,shrapnel,label,ThingDef/ThingDef.xml,def
+VFED_Shell_ArmorPiercing.label,armor-piercing shell,label,ThingDef/ThingDef.xml,def
+VFED_Shell_ArmorPiercing.description,"Armor-piercing shells are designed to explode upon impact and destroy anything they hit, completely bypassing the armor of the target. Their explosion radius is almost non-existent, and armored targets need to be hit directly for the shell to destroy them. They are very accurate and travel at extreme speeds.",description,ThingDef/ThingDef.xml,def
+VFED_Bullet_Shell_ArmorPiercing.label,armor-piercing shell,label,ThingDef/ThingDef.xml,def
+VFED_Shell_Cluster.label,cluster shell,label,ThingDef/ThingDef.xml,def
+VFED_Shell_Cluster.description,"Mortar shell that is designed to split mid-air and release three high-explosive shells. Separated shells are ejected in random directions, following the same vector as the cluster shell. Explosions cover a high area but the accuracy of the shells leave a lot to be desired.",description,ThingDef/ThingDef.xml,def
+VFED_Bullet_Shell_Cluster.label,cluster shell,label,ThingDef/ThingDef.xml,def
+VFED_Apparel_BombPack.label,bomb pack,label,ThingDef/ThingDef.xml,def
+VFED_Apparel_BombPack.description,"A single-use man-portable explosive device. Deployed on the ground, it becomes armed and can be detonated with a press of a button. It generates a big explosion thanks to a wired-in antigrain warhead, making it capable of destroying critical infrastructure and personnel alike.",description,ThingDef/ThingDef.xml,def
+VFED_Apparel_InvisibilityEngulfer.label,invisibility engulfer,label,ThingDef/ThingDef.xml,def
+VFED_Apparel_InvisibilityEngulfer.description,"A multi-use personal invisibility device engineered based on experimental imperial technology. Allows the user to become completely invisible for a brief duration, after which the device requires a short amount of time to recharge.",description,ThingDef/ThingDef.xml,def
+VFED_DeserterDeclassifier.label,deserter declassifier,label,ThingDef/ThingDef.xml,def
+VFED_DeserterDeclassifier.description,"A deserter declassifier is a single-use, ultra-tech device consisting of a brain-scan apparatus and a long, thick needle. It is primarily used by imperial deserters for data extraction. By inserting the needle into the skull of a titled nobility, memories can be downloaded from their brain, forming valuable deserter intel. The amount of intel received is determined by the rank of the noble person. The person affected by a Deserter Declassifier dies in the process, and when used on neutral visitors, it is treated as an act of war.",description,ThingDef/ThingDef.xml,def
+VFED_Filth_Propaganda.label,imperial propaganda,label,ThingDef/ThingDef.xml,def
+VFED_AerodroneStrikeIncoming.label,aerodrone strike,label,ThingDef/ThingDef.xml,def
+VFED_Spark.label,spark,label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.label,charge cycler,label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.description,"A modified charged-shot revolver that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to allow for a powerful charge revolver with two shooting modes to be created. Charged shot mode will eliminate any close targets with a powerful, armor-piercing blast, whilst a Thump shot mode allows users to incapacitate enemies and break any defenses they might be hiding behind. Modes can be changed with a press of a button.",description,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.verbs.0.label,Single shot (Charged shot),label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.verbs.1.label,Single shot (Thump shot),label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.tools.0.label,handle,label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.comps.0.verbProps.0.label,Single shot (Charged shot),label,ThingDef/ThingDef.xml,def
+VFED_Gun_ChargeCycler.comps.0.verbProps.1.label,Single shot (Thump shot),label,ThingDef/ThingDef.xml,def
+VFED_Bullet_ChargedShot.label,charged shot,label,ThingDef/ThingDef.xml,def
+VFEE_Bullet_ThumpShot.label,thump shot,label,ThingDef/ThingDef.xml,def
+VFED_Gun_Fletchling.label,fletchling,label,ThingDef/ThingDef.xml,def
+VFED_Gun_Fletchling.description,"A modification to the extremely rare fletcher rifle, fletchling is a shotgun commonly used by Imperial deserters. The mere possession of it can be seen as an act of war against the Shattered Empire. Each fletchling shot releases a number of small acidifier darts that may hit several targets, causing extreme amounts of pain and acid burns. Lethal to organics and almost useless against non-organics, such as mechanoids. \n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed.",description,ThingDef/ThingDef.xml,def
+VFED_Gun_Fletchling.tools.0.label,barrel,label,ThingDef/ThingDef.xml,def
+VFEE_Bullet_FletchlingDart.label,fletcher dart,label,ThingDef/ThingDef.xml,def
+VFED_MissileRain.description,An Aerodrone strike is taking place. Take cover!,description,GameConditionDef/GameConditionDef.xml,def
+VFED_ImperialDefenses.generalRules.rulesStrings.0,subject->fortress engineering,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialDefenses.generalRules.rulesStrings.1,"subject_story->engineered the mightiest defenses, deterring would-be conquerors with mere rumors of their power",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialDefenses.generalRules.rulesStrings.2,subject_story->crafted turrets that combined ancient design principles with futuristic weaponry,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialDefenses.generalRules.rulesStrings.3,"subject_story->ensured the empire's borders were impregnable, standing as a testament to imperial ingenuity",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialDefenses.generalRules.rulesStrings.4,subject_gerund->redefining the art of defense,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.generalRules.rulesStrings.0,subject->advanced ordnance,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.generalRules.rulesStrings.1,subject_story->innovated artillery ammunition that turned battlefields to their advantage with a single salvo,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.generalRules.rulesStrings.2,subject_story->developed shells that could pierce the toughest armors or scatter enemies with relentless shrapnel,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.generalRules.rulesStrings.3,subject_story->transformed the empire's artillery into a force capable of dictating the terms of engagement,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_ImperialWarSolutions.generalRules.rulesStrings.4,subject_gerund->mastering the science of destruction,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.generalRules.rulesStrings.0,subject->tactical demolitions,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.generalRules.rulesStrings.1,"subject_story->pioneered the use of remotely controlled explosives, changing the dynamics of siege warfare",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.generalRules.rulesStrings.2,"subject_story->crafted traps that could be detonated at the perfect moment, creating chaos among enemy ranks",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.generalRules.rulesStrings.3,"subject_story->turned the battlefield into a meticulously controlled environment, where every step could be the last",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_RemoteDemolition.generalRules.rulesStrings.4,subject_gerund->elevating the element of surprise to an art form,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VFED_JoinedDeserters.stages.0.label,joined the deserters,label,ThoughtDef/ThoughtDef.xml,def
+VFED_JoinedDeserters.stages.0.description,We will show the Empire what freedom means.,description,ThoughtDef/ThoughtDef.xml,def
+VFED_UsedDeclassifier.stages.0.label,used a declassifier,label,ThoughtDef/ThoughtDef.xml,def
+VFED_UsedDeclassifier.stages.0.description,It was a necessary evil.,description,ThoughtDef/ThoughtDef.xml,def
+VFED_PlotMission.root.nodes.9.title,$nobleTitle,title,QuestScriptDef/QuestScriptDef.xml,def

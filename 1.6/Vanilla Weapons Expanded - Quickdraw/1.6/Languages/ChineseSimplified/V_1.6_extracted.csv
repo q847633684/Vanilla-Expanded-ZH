@@ -1,0 +1,28 @@
+key,text,tag,file,type
+VWE_Quickdraw.label,quick draw,label,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_Quickdraw.description,"Create lightweight, fast to draw and fire weapons.",description,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_Quickdraw.generalRules.rulesStrings.0,subject->the edge of speed,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_Quickdraw.generalRules.rulesStrings.1,"subject_story->mastered the art of weapon design for speed, crafting firearms that are as swift to engage as they are lethal",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_Quickdraw.generalRules.rulesStrings.2,"subject_story->engineered mechanisms that minimize draw time, ensuring that readiness and rapid response define every encounter",li,ResearchProjectDef/ResearchProjectDef.xml,def
+VWE_Quickdraw.generalRules.rulesStrings.3,subject_gerund->shaping the future of combat with the quicksilver grace of rapid deployment,li,ResearchProjectDef/ResearchProjectDef.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabDef.xml,def
+VWE_Gun_AutomaticPistol.label,lightweight pistol,label,ThingDef/ThingDef.xml,def
+VWE_Gun_AutomaticPistol.description,"A highly modified, fully automatic variant of the autopistol, designed to deliver maximum short-range firepower in a compact package. Due to light weight, it is very quick to draw.",description,ThingDef/ThingDef.xml,def
+VWE_Gun_AutomaticPistol.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWE_Gun_AutomaticPistol.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_LightweightPistol.label,lightweight pistol bullet,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_BullpupRifle.label,bullpup rifle bullet,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupRifle.label,bullpup rifle,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupRifle.description,"A compact, general-purpose assault rifle utilizing a bullpup configuration. The weapon's design places the action behind the trigger group, significantly reducing its overall length for enhanced maneuverability and an extremely fast draw time.",description,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupRifle.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupRifle.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+Bullet_BullpupDMR.label,bullpup DMR bullet,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupDMR.label,bullpup DMR,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupDMR.description,"A compact designated marksman rifle utilizing a bullpup configuration. This design shifts the action back, resulting in a shorter, lighter package that enables an extremely fast draw and aiming time.",description,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupDMR.tools.0.label,stock,label,ThingDef/ThingDef.xml,def
+VWE_Gun_BullpupDMR.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
+VWE_Bullet_PDW.label,PDW bullet,label,ThingDef/ThingDef.xml,def
+VWE_Gun_PDW.label,PDW,label,ThingDef/ThingDef.xml,def
+VWE_Gun_PDW.description,"A lightweight, modern personal defense weapon designed for maximum portability and quick engagement. Its high rate of fire in a long burst makes it highly effective at close to medium range. Due to light weight, it is very quick to draw.",description,ThingDef/ThingDef.xml,def
+VWE_Gun_PDW.tools.0.label,grip,label,ThingDef/ThingDef.xml,def
+VWE_Gun_PDW.tools.1.label,barrel,label,ThingDef/ThingDef.xml,def
