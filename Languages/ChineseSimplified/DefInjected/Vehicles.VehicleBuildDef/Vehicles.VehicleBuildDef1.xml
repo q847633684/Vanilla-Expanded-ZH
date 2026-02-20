@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Badger_Blueprint.description>獾是一种履带式装甲战斗车辆，旨在运输侦察兵和步兵，同时提供掩护火力压制敌军。强化的侧面装甲、部署盲烟的能力和强大的反步兵自动火炮使其成为小型战斗中的强大车辆。它相对容易受到来自后方的攻击，而且炮塔射程较短，这意味着它比大多数指定坦克都逊色。
+
+与前几代相比，这款步兵战车的设计目的是将步兵快速投放到所需位置并提供轻型火力掩护。发射的射弹缺乏装甲 穿刺，使其无法对抗敌方坦克。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt; 驾驶员 x1、炮手 x1、乘客 x4
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Badger_Blueprint.description>
+  <!--EN: Badger-->
+  <VVE_Badger_Blueprint.label>獾</VVE_Badger_Blueprint.label>
+  <!--EN: A dedicated cargo transporter, the Big Rig is the epitome of bulk material transportation. While best suited on flat roads, it still has a powerful enough engine to effectively charge through difficult terrain.\n\nA surprisingly quick, gas-guzzling cargo transporter that has terrible acceleration, but very little can slow it down once it gets up to speed.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_BigRig_Blueprint.description>Big Rig 是一款专用货物运输车，是散装物料运输的缩影。虽然最适合在平坦的道路上行驶，但它仍然拥有足够强大的发动机，可以有效地冲过困难的地形。
+
+一种速度快得惊人、耗油的货物运输车，加速能力很差，但一旦达到速度，几乎没有什么可以让它减速。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt;驾驶员 x1，乘客x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_BigRig_Blueprint.description>
+  <!--EN: Big Rig-->
+  <VVE_BigRig_Blueprint.label>大钻机</VVE_BigRig_Blueprint.label>
+  <!--EN: A dedicated multiple launch rocket system platform, the Burya is a long-range siege and area denial weapon that can be operated by a two-man crew for faster loading speeds. Capable of firing continuous volleys of long range missiles, Burya can blanket whole areas in anti-infantry rocket explosions.\n\nSlow-moving and vulnerable to enemy fire, Burya needs to deploy before it can open fire, which may leave it stranded in enemy territory.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Burya_Blueprint.description>Burya 是一种专用的多管火箭系统平台，是一种远程攻城和区域拒止武器，可由两人操作，以实现更快的装载速度。布里亚能够连续发射远程导弹，可以在反步兵火箭爆炸中覆盖整个区域。
+
+布里亚移动缓慢且容易受到敌人火力的攻击，需要在开火前部署，这可能会使其陷入敌方困境领土。
+
+&lt;color=#bb8f04&gt;人员：&lt;/color&gt;驾驶员x1，炮手x2
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Burya_Blueprint.description>
+  <!--EN: Burya-->
+  <VVE_Burya_Blueprint.label>正确的</VVE_Burya_Blueprint.label>
+  <!--EN: A heavy duty transport aircraft, the Cherokee is a hulking monstrosity of aeronautical engineering. Very slow due to all the bulk, equally thirsty, and sports massive cargo capacity. Plan accordingly.\n\nA dedicated transport helicopter with a modified cargo bay, it requires two pilots to operate and frequent refueling. However, nothing comes even close to bulk transportation at its tech level.\n\n<color=#bb8f04>Crew:</color> Pilot x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Cherokee_Blueprint.description>切诺基是一架重型运输机，是航空工程领域的庞然大物。由于体积庞大，速度非常慢，同样口渴，并且具有巨大的货运能力。相应地进行计划。
+
+具有改装货舱的专用运输直升机，需要两名飞行员操作并频繁加油。然而，在技术水平上，没有什么比散装运输更接近的了。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;飞行员 x2
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Cherokee_Blueprint.description>
+  <!--EN: Cherokee-->
+  <VVE_Cherokee_Blueprint.label>切罗基</VVE_Cherokee_Blueprint.label>
+  <!--EN: More of a movable mini-base than a deployment pod, Goliath is an expensive but powerful solution to any immovable enemy object. Equipped with four military turret stations and a long range rocket swarm turret at the top, this siege pod is capable of raining fire in 360 degree radius. Nearly impenetrable, it can serve as a portable base of operations, keeping all troops inside safe.\n\nIt’s incredibly heavy and lift off requires single-use boosters that separate once the trajectory and velocity is reached. In order to lift off again, the boosters need to be rebuilt.\n\nBeing a flying vehicle, it is extremely obvious when on the move.-->
+  <VVE_Goliath_Blueprint.description>歌利亚更像是一个可移动的迷你基地，而不是一个部署吊舱，它是针对任何不可移动的敌方物体的昂贵但强大的解决方案。该攻城吊舱配备有四个 军事 炮塔站和顶部的远程火箭群炮塔，能够在 360 度半径范围内进行射击。它几乎无法穿透，可以作为便携式行动基地，确保内部所有部队的安全。
+
+它非常重，升空需要一次性助推器，一旦达到轨迹和速度，助推器就会分离。为了再次升空，需要重建助推器。
+
+作为飞行器，在移动时这一点极其明显。</VVE_Goliath_Blueprint.description>
+  <!--EN: Goliath-->
+  <VVE_Goliath_Blueprint.label>歌利亚</VVE_Goliath_Blueprint.label>
+  <!--EN: A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Hermano_Blueprint.description>Hermano 是一款专用冷藏车，是一款不错的货物运输车，在运输易腐烂货物方面具有特定的优势。它在公路长途行驶中表现不错，但在越野或冬季条件下表现却很糟糕。
+
+虽然即使在较低级别也有更好的货物运输车，但这款卡车可以在冷冻状态下运输货物，防止损坏。由于额外的机械，性能会受到影响，应远离冲突区域。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Hermano_Blueprint.description>
+  <!--EN: Hermano-->
+  <VVE_Hermano_Blueprint.label>兄弟</VVE_Hermano_Blueprint.label>
+  <!--EN: A fast general purpose transporter, the Lightning is an excellent road vehicle for getting an appreciable amount of cargo in a very small time frame. Incredibly fast on flat roads and will struggle on hills, snow or winter tiles.\n\nAs it is designed for speed, trips should always be planned for staying on roads and having extra fuel, which can occupy most of the extra cargo space. It has terrible fuel efficiency due to the performance, so plan accordingly.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Lightning_Blueprint.description>闪电是一种快速的通用运输车，是一种出色的公路车辆，可以在很短的时间内运输大量货物。在平坦的道路上速度快得令人难以置信，在山丘、雪地或冬季瓷砖上会很困难。
+
+由于它是为速度而设计的，因此在计划行程时应始终计划在道路上停留并携带额外的燃料，这会占用大部分额外的载货空间。由于性能原因，它的燃油效率很差，因此要进行相应的计划。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Lightning_Blueprint.description>
+  <!--EN: Lightning-->
+  <VVE_Lightning_Blueprint.label>闪电</VVE_Lightning_Blueprint.label>
+  <!--EN: An armoured transport aircraft, the Louie is a robust and agile mobile mode of transportation. Doesn’t require a landing strip and won’t fall apart at the first sign of fire.\n\nA relatively general purpose helicopter, it has both excellent cargo and passenger capacity. Has some armour for an aircraft, allowing it to deploy and extract from hot zones.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Louie_Blueprint.description>路易是一种装甲运输机，是一种坚固而灵活的移动运输方式。不需要着陆跑道，不会在出现火灾迹象时崩溃。
+
+相对通用的直升机，具有出色的货运和载客能力。飞机有一些装甲，允许其从热区域部署和撤离。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;飞行员x1，乘客x5
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Louie_Blueprint.description>
+  <!--EN: Louie-->
+  <VVE_Louie_Blueprint.label>路易</VVE_Louie_Blueprint.label>
+  <!--EN: A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Machine gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Marshal_Blueprint.description>“元帅”是一款通用主战坦克，是一种改进的战车，在任何交战中都表现良好。在不太有利的地形中表现更好，所有侧面都有装甲，最薄的装甲位于靠近发动机的后部。
+
+与以前的坦克相比，装甲改进最小，相反，它拥有更强大的主炮和副炮。可以在移动时开火，因为它需要一名驾驶员和两名炮手；每个武器系统各一个。
+
+&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1、炮手 x1、机枪手 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Marshal_Blueprint.description>
+  <!--EN: Marshal-->
+  <VVE_Marshal_Blueprint.label>马歇尔</VVE_Marshal_Blueprint.label>
+  <!--EN: An armoured all-rounder vehicle, the Nomad performs remarkably well in all categories with an excellent cargo and passenger capacity. Performs well in any and all terrain, with some minor issues in the cold.\n\nA relatively general purpose tier 3, effectively being a lightly armoured APC. While it excels in off road capabilities and works well in all situations, other vehicles perform even better on roads or in specialized tasks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Nomad_Blueprint.description>作为一款全能装甲车，Nomad 在所有类别中都表现出色，具有出色的货运和客运能力。在任何和所有地形中都表现良好，但在寒冷条件下会出现一些小问题。
+
+相对通用的第 3 层，实际上是轻装甲 APC。虽然它具有出色的越野能力并且在所有情况下都表现良好，但其他车辆在道路或特殊任务中表现甚至更好。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt;驾驶员 x1，乘客 x3
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Nomad_Blueprint.description>
+  <!--EN: Nomad-->
+  <VVE_Nomad_Blueprint.label>游牧者</VVE_Nomad_Blueprint.label>
+  <!--EN: A general purpose armoured personnel carrier, the Paladin is a fast and hardy troop transport. Decent cargo holds, reinforced armour plating, all-terrain capability and a smoke grenade turret for screening troop deployment. The major downsides are no tracks for better terrain navigation and thinner plating on the rear.\n\nCompared to previous generations, this APC is designed to quickly drop infantry off at a desired location and quickly retreat. It can act as temporary cover but ideally it should be able to deploy its cargo and bring it home safely.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x6\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Paladin_Blueprint.description>圣骑士是一种通用装甲运兵车，是一种快速、坚固的部队运输工具。体面的货舱、强化装甲板、全地形能力和用于筛选部队部署的烟雾弹炮塔。主要缺点是没有履带以实现更好的地形导航，并且后部装甲较薄。
+
+与前几代相比，这款 APC 旨在将步兵快速投放到所需位置并快速撤退。它可以充当临时掩体，但理想情况下它应该能够部署货物并将其安全带回家。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员x1，炮手x1，乘客x6
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Paladin_Blueprint.description>
+  <!--EN: Paladin-->
+  <VVE_Paladin_Blueprint.label>圣骑士</VVE_Paladin_Blueprint.label>
+  <!--EN: A general all-rounder vehicle, the Springbok performs well in all categories with a good cargo and passenger capacity. The old, robust build and loud engine negatively affect its fuel efficiency and visibility. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nA slightly worse performer compared to tier 2 vehicles, it is instead a stylish vehicle to drive and will provide a mood boost to all passengers.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Springbok_Blueprint.description>作为一款通用型全能型车辆，Springbok 在所有类别中均表现出色，具有良好的货运和载客能力。老式、坚固的结构和吵闹的发动机对其燃油效率和能见度产生了负面影响。最适合在平坦的道路上行驶，在山地、雪地或冬季瓷砖上行驶时会有些困难。
+
+与 2 级车辆相比，性能稍差，但它是一辆时尚的驾驶车辆，将为所有乘客带来好心情。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt; 驾驶员 x1，乘客x3
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Springbok_Blueprint.description>
+  <!--EN: Springbok-->
+  <VVE_Springbok_Blueprint.label>跳羚</VVE_Springbok_Blueprint.label>
+  <!--EN: A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Udar_Blueprint.description>Udar 是一种专用火炮部队，是一种远程攻城武器，可由两人操作，以实现更快的装载速度。 小和低效的燃料储备是它的限制因素，因为它可以毫无问题地穿过任何地形。
+
+是一个优先目标，无论是在自身还是近距离内都毫无防御能力，特别是其后板很薄，防御良好的乌达尔可以快速发射迫击炮弹幕炮弹并重新定位在危险。
+
+&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x2
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Udar_Blueprint.description>
+  <!--EN: Udar-->
+  <VVE_Udar_Blueprint.label>罢工</VVE_Udar_Blueprint.label>
+</LanguageData>

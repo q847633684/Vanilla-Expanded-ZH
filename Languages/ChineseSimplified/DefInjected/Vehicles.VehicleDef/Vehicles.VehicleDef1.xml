@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Engine-->
+  <VVE_Badger.components.0.label>引擎</VVE_Badger.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Badger.components.1.label>左轨道</VVE_Badger.components.1.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Badger.components.10.label>前装甲板</VVE_Badger.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Badger.components.11.label>后部装甲板</VVE_Badger.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Badger.components.12.label>化学罐</VVE_Badger.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Badger.components.13.label>Dashboard</VVE_Badger.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Badger.components.14.label>转向装置</VVE_Badger.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Badger.components.15.label>交流发电机</VVE_Badger.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Badger.components.16.label>屋顶</VVE_Badger.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Badger.components.2.label>正轨</VVE_Badger.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Badger.components.3.label>左前驱动链轮</VVE_Badger.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Badger.components.4.label>右前驱动链轮</VVE_Badger.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Badger.components.5.label>Back Left Drive Sprocket</VVE_Badger.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Badger.components.6.label>右后驱动链轮</VVE_Badger.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Badger.components.7.label>变速箱</VVE_Badger.components.7.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Badger.components.8.label>左装甲板</VVE_Badger.components.8.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Badger.components.9.label>右装甲板</VVE_Badger.components.9.label>
+  <!--EN: pop smoke-->
+  <VVE_Badger.comps.2.verbs.0.label>流行烟</VVE_Badger.comps.2.verbs.0.label>
+  <!--EN: A tracked, armoured fighting vehicle, the Badger is designed to transport scouts and infantry while providing covering fire to suppress enemy troops. Reinforced side armour plating, ability to deploy blindsmoke and a powerful anti-infantry automated gun make it a powerful vehicle in small combat engagement. It’s relatively vulnerable to attacks from behind, and the short range of the turret means it is outclassed by most designated tanks.\n\nCompared to previous generations, this IFV is designed to quickly drop infantry off at a desired location and provide light covering fire. Lack of armor piercing on fired projectiles make it weak against enemy tanks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Badger.description>獾是一种履带式装甲战斗车辆，旨在运输侦察兵和步兵，同时提供掩护火力压制敌军。强化的侧面装甲、部署盲烟的能力和强大的反步兵自动火炮使其成为小型战斗中的强大车辆。它相对容易受到来自后方的攻击，而且炮塔射程较短，这意味着它比大多数指定坦克都逊色。
+
+与前几代相比，这款步兵战车的设计目的是将步兵快速投放到所需位置并提供轻型火力掩护。发射的射弹缺乏装甲 穿刺，使其无法对抗敌方坦克。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt; 驾驶员 x1、炮手 x1、乘客 x4
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Badger.description>
+  <!--EN: Badger-->
+  <VVE_Badger.label>獾</VVE_Badger.label>
+  <!--EN: Driver-->
+  <VVE_Badger.properties.roles.0.label>司机</VVE_Badger.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Badger.properties.roles.1.label>炮手</VVE_Badger.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Badger.properties.roles.2.label>乘客</VVE_Badger.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_BigRig.components.0.label>引擎</VVE_BigRig.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_BigRig.components.1.label>左前轮</VVE_BigRig.components.1.label>
+  <!--EN: Right Middle Suspension-->
+  <VVE_BigRig.components.10.label>右中悬架</VVE_BigRig.components.10.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_BigRig.components.11.label>左后悬架</VVE_BigRig.components.11.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_BigRig.components.12.label>右后悬架</VVE_BigRig.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_BigRig.components.13.label>变速箱</VVE_BigRig.components.13.label>
+  <!--EN: Left Side Panel-->
+  <VVE_BigRig.components.14.label>左侧面板</VVE_BigRig.components.14.label>
+  <!--EN: Right Side Panel-->
+  <VVE_BigRig.components.15.label>右侧面板</VVE_BigRig.components.15.label>
+  <!--EN: Left Chemtank-->
+  <VVE_BigRig.components.16.label>左化学罐</VVE_BigRig.components.16.label>
+  <!--EN: Right Chemtank-->
+  <VVE_BigRig.components.17.label>右化学罐</VVE_BigRig.components.17.label>
+  <!--EN: Front Bumper-->
+  <VVE_BigRig.components.18.label>前保险杠</VVE_BigRig.components.18.label>
+  <!--EN: Rear Bumper-->
+  <VVE_BigRig.components.19.label>后保险杠</VVE_BigRig.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_BigRig.components.2.label>右前轮</VVE_BigRig.components.2.label>
+  <!--EN: Upholstery-->
+  <VVE_BigRig.components.20.label>室内装潢</VVE_BigRig.components.20.label>
+  <!--EN: Dashboard-->
+  <VVE_BigRig.components.21.label>仪表板</VVE_BigRig.components.21.label>
+  <!--EN: Steering Wheel-->
+  <VVE_BigRig.components.22.label>方向盘</VVE_BigRig.components.22.label>
+  <!--EN: Alternator-->
+  <VVE_BigRig.components.23.label>交流发电机</VVE_BigRig.components.23.label>
+  <!--EN: Hood-->
+  <VVE_BigRig.components.24.label>兜帽</VVE_BigRig.components.24.label>
+  <!--EN: Roof-->
+  <VVE_BigRig.components.25.label>屋顶</VVE_BigRig.components.25.label>
+  <!--EN: Left Middle Wheel-->
+  <VVE_BigRig.components.3.label>左中轮</VVE_BigRig.components.3.label>
+  <!--EN: Right Middle Wheel-->
+  <VVE_BigRig.components.4.label>右中轮</VVE_BigRig.components.4.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_BigRig.components.5.label>左后轮</VVE_BigRig.components.5.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_BigRig.components.6.label>右后轮</VVE_BigRig.components.6.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_BigRig.components.7.label>左前悬架</VVE_BigRig.components.7.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_BigRig.components.8.label>右前悬架</VVE_BigRig.components.8.label>
+  <!--EN: Left Middle Suspension-->
+  <VVE_BigRig.components.9.label>左中悬架</VVE_BigRig.components.9.label>
+  <!--EN: A dedicated cargo transporter, the Big Rig is the epitome of bulk material transportation. While best suited on flat roads, it still has a powerful enough engine to effectively charge through difficult terrain.\n\nA surprisingly quick, gas-guzzling cargo transporter that has terrible acceleration, but very little can slow it down once it gets up to speed.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_BigRig.description>Big Rig 是一款专用货物运输车，是散装物料运输的缩影。虽然它最适合在平坦的道路上行驶，但它仍然拥有足够强大的发动机，可以有效地冲过困难的地形。
+
+一种速度快得惊人、耗油的货物运输车，加速能力很差，但一旦达到速度，几乎没有什么可以让它减速。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt;驾驶员 x1，乘客x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_BigRig.description>
+  <!--EN: Big Rig-->
+  <VVE_BigRig.label>大钻机</VVE_BigRig.label>
+  <!--EN: Driver-->
+  <VVE_BigRig.properties.roles.0.label>司机</VVE_BigRig.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_BigRig.properties.roles.1.label>乘客</VVE_BigRig.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Burya.components.0.label>引擎</VVE_Burya.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Burya.components.1.label>左前轮</VVE_Burya.components.1.label>
+  <!--EN: Middle Right Suspension-->
+  <VVE_Burya.components.10.label>中右悬挂</VVE_Burya.components.10.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Burya.components.11.label>左后悬架</VVE_Burya.components.11.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Burya.components.12.label>右后悬架</VVE_Burya.components.12.label>
+  <!--EN: Gearbox-->
+  <VVE_Burya.components.13.label>变速箱</VVE_Burya.components.13.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Burya.components.14.label>左装甲板</VVE_Burya.components.14.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Burya.components.15.label>右装甲板</VVE_Burya.components.15.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Burya.components.16.label>前装甲板</VVE_Burya.components.16.label>
+  <!--EN: Left Chemtank-->
+  <VVE_Burya.components.17.label>左化学罐</VVE_Burya.components.17.label>
+  <!--EN: Right Chemtank-->
+  <VVE_Burya.components.18.label>右化学罐</VVE_Burya.components.18.label>
+  <!--EN: Dashboard-->
+  <VVE_Burya.components.19.label>仪表板</VVE_Burya.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Burya.components.2.label>右前轮</VVE_Burya.components.2.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Burya.components.20.label>方向盘</VVE_Burya.components.20.label>
+  <!--EN: Alternator-->
+  <VVE_Burya.components.21.label>交流发电机</VVE_Burya.components.21.label>
+  <!--EN: Roof-->
+  <VVE_Burya.components.22.label>屋顶</VVE_Burya.components.22.label>
+  <!--EN: Middle Left Wheel-->
+  <VVE_Burya.components.3.label>左中轮</VVE_Burya.components.3.label>
+  <!--EN: Middle Right Wheel-->
+  <VVE_Burya.components.4.label>右中轮</VVE_Burya.components.4.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Burya.components.5.label>左后轮</VVE_Burya.components.5.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Burya.components.6.label>右后轮</VVE_Burya.components.6.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Burya.components.7.label>左前悬架</VVE_Burya.components.7.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Burya.components.8.label>右前悬架</VVE_Burya.components.8.label>
+  <!--EN: Middle Left Suspension-->
+  <VVE_Burya.components.9.label>中左悬架</VVE_Burya.components.9.label>
+  <!--EN: A dedicated multiple launch rocket system platform, the Burya is a long-range siege and area denial weapon that can be operated by a two-man crew for faster loading speeds. Capable of firing continuous volleys of long range missiles, Burya can blanket whole areas in anti-infantry rocket explosions.\n\nSlow-moving and vulnerable to enemy fire, Burya needs to deploy before it can open fire, which may leave it stranded in enemy territory.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Burya.description>Burya 是一种专用的多管火箭系统平台，是一种远程攻城和区域拒止武器，可由两人操作，以实现更快的装载速度。布里亚能够连续发射远程导弹，可以在反步兵火箭爆炸中覆盖整个区域。
+
+布里亚移动缓慢且容易受到敌人火力的攻击，需要在开火前部署，这可能会使其陷入敌方困境领土。
+
+&lt;color=#bb8f04&gt;人员：&lt;/color&gt;驾驶员x1，炮手x2
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Burya.description>
+  <!--EN: Burya-->
+  <VVE_Burya.label>正确的</VVE_Burya.label>
+  <!--EN: Driver-->
+  <VVE_Burya.properties.roles.0.label>司机</VVE_Burya.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Burya.properties.roles.1.label>炮手</VVE_Burya.properties.roles.1.label>
+  <!--EN: Front Engine-->
+  <VVE_Cherokee.components.0.label>前置发动机</VVE_Cherokee.components.0.label>
+  <!--EN: Rear Engine-->
+  <VVE_Cherokee.components.1.label>后置发动机</VVE_Cherokee.components.1.label>
+  <!--EN: Right Fuel Intake-->
+  <VVE_Cherokee.components.10.label>正确的燃油摄入量</VVE_Cherokee.components.10.label>
+  <!--EN: Front Transmission-->
+  <VVE_Cherokee.components.11.label>前变速箱</VVE_Cherokee.components.11.label>
+  <!--EN: Rear Transmission-->
+  <VVE_Cherokee.components.12.label>后变速器</VVE_Cherokee.components.12.label>
+  <!--EN: Left Turbo Shaft-->
+  <VVE_Cherokee.components.13.label>左涡轮轴</VVE_Cherokee.components.13.label>
+  <!--EN: Right Turbo Shaft-->
+  <VVE_Cherokee.components.14.label>右涡轮轴</VVE_Cherokee.components.14.label>
+  <!--EN: Left Frontal Panel-->
+  <VVE_Cherokee.components.15.label>左前面板</VVE_Cherokee.components.15.label>
+  <!--EN: Right Frontal Panel-->
+  <VVE_Cherokee.components.16.label>右前面板</VVE_Cherokee.components.16.label>
+  <!--EN: Left Rear Panel-->
+  <VVE_Cherokee.components.17.label>左后面板</VVE_Cherokee.components.17.label>
+  <!--EN: Right Rear Panel-->
+  <VVE_Cherokee.components.18.label>右后面板</VVE_Cherokee.components.18.label>
+  <!--EN: Chemtank-->
+  <VVE_Cherokee.components.19.label>化学罐</VVE_Cherokee.components.19.label>
+  <!--EN: Front Left Landing Wheel-->
+  <VVE_Cherokee.components.2.label>左前起落轮</VVE_Cherokee.components.2.label>
+  <!--EN: Front Rotor Mast-->
+  <VVE_Cherokee.components.20.label>前旋翼桅杆</VVE_Cherokee.components.20.label>
+  <!--EN: Rear Rotor Mast-->
+  <VVE_Cherokee.components.21.label>后旋翼桅杆</VVE_Cherokee.components.21.label>
+  <!--EN: Upholstery-->
+  <VVE_Cherokee.components.22.label>室内装潢</VVE_Cherokee.components.22.label>
+  <!--EN: Dashboard-->
+  <VVE_Cherokee.components.23.label>仪表板</VVE_Cherokee.components.23.label>
+  <!--EN: Gearbox-->
+  <VVE_Cherokee.components.24.label>变速箱</VVE_Cherokee.components.24.label>
+  <!--EN: Front Servos-->
+  <VVE_Cherokee.components.25.label>前舵机</VVE_Cherokee.components.25.label>
+  <!--EN: Rear Servos-->
+  <VVE_Cherokee.components.26.label>后舵机</VVE_Cherokee.components.26.label>
+  <!--EN: Front Right Landing Wheel-->
+  <VVE_Cherokee.components.3.label>右前起落轮</VVE_Cherokee.components.3.label>
+  <!--EN: Rear Left Landing Wheel-->
+  <VVE_Cherokee.components.4.label>左后起落轮</VVE_Cherokee.components.4.label>
+  <!--EN: Rear Right Landing Wheel-->
+  <VVE_Cherokee.components.5.label>右后起落轮</VVE_Cherokee.components.5.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Cherokee.components.6.label>左前悬架</VVE_Cherokee.components.6.label>
+  <!--EN: Front Engine Cover-->
+  <VVE_Cherokee.components.7.label>前发动机盖</VVE_Cherokee.components.7.label>
+  <!--EN: Rear Engine Cover-->
+  <VVE_Cherokee.components.8.label>后发动机盖</VVE_Cherokee.components.8.label>
+  <!--EN: Left Fuel Intake-->
+  <VVE_Cherokee.components.9.label>左侧燃油摄入量</VVE_Cherokee.components.9.label>
+  <!--EN: Pilot-->
+  <VVE_Cherokee.properties.roles.0.label>飞行员</VVE_Cherokee.properties.roles.0.label>
+  <!--EN: Engine-->
+  <VVE_Goliath.components.0.label>引擎</VVE_Goliath.components.0.label>
+  <!--EN: First Thruster-->
+  <VVE_Goliath.components.1.label>第一推进器</VVE_Goliath.components.1.label>
+  <!--EN: Hull-->
+  <VVE_Goliath.components.10.label>船体</VVE_Goliath.components.10.label>
+  <!--EN: Blast Shield-->
+  <VVE_Goliath.components.11.label>防爆盾</VVE_Goliath.components.11.label>
+  <!--EN: Second Thruster-->
+  <VVE_Goliath.components.2.label>第二推进器</VVE_Goliath.components.2.label>
+  <!--EN: Third Thruster-->
+  <VVE_Goliath.components.3.label>第三推进器</VVE_Goliath.components.3.label>
+  <!--EN: Fourth Thruster-->
+  <VVE_Goliath.components.4.label>第四推进器</VVE_Goliath.components.4.label>
+  <!--EN: First Booster-->
+  <VVE_Goliath.components.5.label>第一个助推器</VVE_Goliath.components.5.label>
+  <!--EN: Second Booster-->
+  <VVE_Goliath.components.6.label>第二个助推器</VVE_Goliath.components.6.label>
+  <!--EN: Third Booster-->
+  <VVE_Goliath.components.7.label>第三助推器</VVE_Goliath.components.7.label>
+  <!--EN: Fourth Booster-->
+  <VVE_Goliath.components.8.label>第四个助推器</VVE_Goliath.components.8.label>
+  <!--EN: Chemtank-->
+  <VVE_Goliath.components.9.label>化学罐</VVE_Goliath.components.9.label>
+  <!--EN: More of a movable mini-base than a deployment pod, Goliath is an expensive but powerful solution to any immovable enemy object. Equipped with four military turret stations and a long range rocket swarm turret at the top, this siege pod is capable of raining fire in 360 degree radius. Nearly impenetrable, it can serve as a portable base of operations, keeping all troops inside safe.\n\nIt’s incredibly heavy and lift off requires single-use boosters that separate once the trajectory and velocity is reached. In order to lift off again, the boosters need to be rebuilt.\n\nBeing a flying vehicle, it is extremely obvious when on the move.-->
+  <VVE_Goliath.description>歌利亚更像是一个可移动的迷你基地，而不是一个部署吊舱，它是针对任何不可移动的敌方物体的昂贵但强大的解决方案。该攻城吊舱配备有四个 军事 炮塔站和顶部的远程火箭群炮塔，能够在 360 度半径范围内进行射击。它几乎无法穿透，可以作为便携式行动基地，确保内部所有部队的安全。
+
+它非常重，升空需要一次性助推器，一旦达到轨迹和速度，助推器就会分离。为了再次升空，需要重建助推器。
+
+作为飞行器，在移动时这一点极其明显。</VVE_Goliath.description>
+  <!--EN: Goliath-->
+  <VVE_Goliath.label>歌利亚</VVE_Goliath.label>
+  <!--EN: Operator-->
+  <VVE_Goliath.properties.roles.0.label>操作员</VVE_Goliath.properties.roles.0.label>
+  <!--EN: Swarm Gunner-->
+  <VVE_Goliath.properties.roles.1.label>群炮手</VVE_Goliath.properties.roles.1.label>
+  <!--EN: Gunner 1-->
+  <VVE_Goliath.properties.roles.2.label>枪手1</VVE_Goliath.properties.roles.2.label>
+  <!--EN: Gunner 2-->
+  <VVE_Goliath.properties.roles.3.label>枪手2</VVE_Goliath.properties.roles.3.label>
+  <!--EN: Gunner 3-->
+  <VVE_Goliath.properties.roles.4.label>枪手3</VVE_Goliath.properties.roles.4.label>
+  <!--EN: Gunner 4-->
+  <VVE_Goliath.properties.roles.5.label>枪手4</VVE_Goliath.properties.roles.5.label>
+  <!--EN: Passenger-->
+  <VVE_Goliath.properties.roles.6.label>乘客</VVE_Goliath.properties.roles.6.label>
+  <!--EN: Engine-->
+  <VVE_Hermano.components.0.label>引擎</VVE_Hermano.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Hermano.components.1.label>左前轮</VVE_Hermano.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Hermano.components.10.label>左侧面板</VVE_Hermano.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Hermano.components.11.label>右侧面板</VVE_Hermano.components.11.label>
+  <!--EN: Left Chemtank-->
+  <VVE_Hermano.components.12.label>左化学罐</VVE_Hermano.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Hermano.components.13.label>前保险杠</VVE_Hermano.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Hermano.components.14.label>后保险杠</VVE_Hermano.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Hermano.components.15.label>室内装潢</VVE_Hermano.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Hermano.components.16.label>仪表板</VVE_Hermano.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Hermano.components.17.label>方向盘</VVE_Hermano.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Hermano.components.18.label>交流发电机</VVE_Hermano.components.18.label>
+  <!--EN: Grill-->
+  <VVE_Hermano.components.19.label>炙烤</VVE_Hermano.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Hermano.components.2.label>右前轮</VVE_Hermano.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Hermano.components.20.label>屋顶</VVE_Hermano.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Hermano.components.3.label>左后轮</VVE_Hermano.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Hermano.components.4.label>右后轮</VVE_Hermano.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Hermano.components.5.label>左前悬架</VVE_Hermano.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Hermano.components.6.label>Front Right 悬空捆绑</VVE_Hermano.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Hermano.components.7.label>左后悬架</VVE_Hermano.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Hermano.components.8.label>右后悬架</VVE_Hermano.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Hermano.components.9.label>变速箱</VVE_Hermano.components.9.label>
+  <!--EN: Enable or disable cargo refrigeration on this refrigerated truck. Refrigeration will stop items from spoiling, but will continuously use up fuel.-->
+  <VVE_Hermano.comps.1.description>启用或禁用此冷藏车上的货物制冷。冷藏会停止物品变质，但会不断消耗燃料。</VVE_Hermano.comps.1.description>
+  <!--EN: Cargo refrigeration-->
+  <VVE_Hermano.comps.1.label>货物冷藏</VVE_Hermano.comps.1.label>
+  <!--EN: A dedicated refrigeration vehicle, the Hermano is a decent cargo transporter with a specific niche in ferrying perishable goods. Decent in long-range travel along roads, it performs terribly in off-road or winter conditions.\n\nWhile there are better cargo transporters even in lower tiers, this truck can transport cargo in a frozen state, preventing spoilage. Due to the extra machinery, performance suffers and it should stay away from conflict zones.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Hermano.description>Hermano 是一款专用冷藏车，是一款不错的货物运输车，在运输易腐烂货物方面具有特定的优势。它在公路长途行驶中表现不错，但在越野或冬季条件下表现却很糟糕。
+
+虽然即使在较低级别也有更好的货物运输车，但这款卡车可以在冷冻状态下运输货物，防止损坏。由于额外的机械，性能会受到影响，应远离冲突区域。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Hermano.description>
+  <!--EN: Hermano-->
+  <VVE_Hermano.label>兄弟</VVE_Hermano.label>
+  <!--EN: Driver-->
+  <VVE_Hermano.properties.roles.0.label>司机</VVE_Hermano.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Hermano.properties.roles.1.label>乘客</VVE_Hermano.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Lightning.components.0.label>引擎</VVE_Lightning.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Lightning.components.1.label>左前轮</VVE_Lightning.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Lightning.components.10.label>左侧面板</VVE_Lightning.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Lightning.components.11.label>右侧面板</VVE_Lightning.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Lightning.components.12.label>化学罐</VVE_Lightning.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Lightning.components.13.label>前保险杠</VVE_Lightning.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Lightning.components.14.label>后保险杠</VVE_Lightning.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Lightning.components.15.label>室内装潢</VVE_Lightning.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Lightning.components.16.label>仪表板</VVE_Lightning.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Lightning.components.17.label>方向盘</VVE_Lightning.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Lightning.components.18.label>交流发电机</VVE_Lightning.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Lightning.components.19.label>兜帽</VVE_Lightning.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Lightning.components.2.label>右前轮</VVE_Lightning.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Lightning.components.20.label>屋顶</VVE_Lightning.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Lightning.components.3.label>左后轮</VVE_Lightning.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Lightning.components.4.label>右后轮</VVE_Lightning.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Lightning.components.5.label>左前悬架</VVE_Lightning.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Lightning.components.6.label>右前悬架</VVE_Lightning.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Lightning.components.7.label>左后悬架</VVE_Lightning.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Lightning.components.8.label>右后悬架</VVE_Lightning.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Lightning.components.9.label>变速箱</VVE_Lightning.components.9.label>
+  <!--EN: A fast general purpose transporter, the Lightning is an excellent road vehicle for getting an appreciable amount of cargo in a very small time frame. Incredibly fast on flat roads and will struggle on hills, snow or winter tiles.\n\nAs it is designed for speed, trips should always be planned for staying on roads and having extra fuel, which can occupy most of the extra cargo space. It has terrible fuel efficiency due to the performance, so plan accordingly.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Lightning.description>闪电是一种快速的通用运输车，是一种出色的公路车辆，可以在很短的时间内运输大量货物。在平坦的道路上速度快得令人难以置信，在山丘、雪地或冬季瓷砖上会很困难。
+
+由于它是为速度而设计的，因此在计划行程时应始终计划在道路上停留并携带额外的燃料，这会占用大部分额外的载货空间。由于性能原因，它的燃油效率很差，因此要进行相应的计划。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Lightning.description>
+  <!--EN: Lightning-->
+  <VVE_Lightning.label>闪电</VVE_Lightning.label>
+  <!--EN: Driver-->
+  <VVE_Lightning.properties.roles.0.label>司机</VVE_Lightning.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Lightning.properties.roles.1.label>乘客</VVE_Lightning.properties.roles.1.label>
+  <!--EN: Left Landing Skid-->
+  <VVE_Louie.components.0.label>左着陆滑行</VVE_Louie.components.0.label>
+  <!--EN: Right Landing Skid-->
+  <VVE_Louie.components.1.label>右着陆滑行</VVE_Louie.components.1.label>
+  <!--EN: Chemtank-->
+  <VVE_Louie.components.10.label>化学罐</VVE_Louie.components.10.label>
+  <!--EN: Rotor Mast-->
+  <VVE_Louie.components.11.label>旋翼桅杆</VVE_Louie.components.11.label>
+  <!--EN: Upholstery-->
+  <VVE_Louie.components.12.label>室内装潢</VVE_Louie.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Louie.components.13.label>仪表板</VVE_Louie.components.13.label>
+  <!--EN: Gearbox-->
+  <VVE_Louie.components.14.label>变速箱</VVE_Louie.components.14.label>
+  <!--EN: Servos-->
+  <VVE_Louie.components.15.label>舵机</VVE_Louie.components.15.label>
+  <!--EN: Left Horizontal Stabilizer-->
+  <VVE_Louie.components.2.label>左水平稳定杆</VVE_Louie.components.2.label>
+  <!--EN: Right Horizontal Stabilizer-->
+  <VVE_Louie.components.3.label>右水平稳定杆</VVE_Louie.components.3.label>
+  <!--EN: Engine-->
+  <VVE_Louie.components.4.label>引擎</VVE_Louie.components.4.label>
+  <!--EN: Fuel Intake-->
+  <VVE_Louie.components.5.label>燃油摄入量</VVE_Louie.components.5.label>
+  <!--EN: Transmission-->
+  <VVE_Louie.components.6.label>传播</VVE_Louie.components.6.label>
+  <!--EN: Rudder-->
+  <VVE_Louie.components.7.label>舵</VVE_Louie.components.7.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Louie.components.8.label>左侧面板</VVE_Louie.components.8.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Louie.components.9.label>右侧面板</VVE_Louie.components.9.label>
+  <!--EN: Pilot-->
+  <VVE_Louie.properties.roles.0.label>飞行员</VVE_Louie.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Louie.properties.roles.1.label>乘客</VVE_Louie.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Marshal.components.0.label>引擎</VVE_Marshal.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Marshal.components.1.label>左轨道</VVE_Marshal.components.1.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Marshal.components.10.label>右装甲板</VVE_Marshal.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Marshal.components.11.label>后部装甲板</VVE_Marshal.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Marshal.components.12.label>化学罐</VVE_Marshal.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Marshal.components.13.label>仪表板</VVE_Marshal.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Marshal.components.14.label>转向装置</VVE_Marshal.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Marshal.components.15.label>交流发电机</VVE_Marshal.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Marshal.components.16.label>屋顶</VVE_Marshal.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Marshal.components.2.label>正轨</VVE_Marshal.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Marshal.components.3.label>左前驱动链轮</VVE_Marshal.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Marshal.components.4.label>右前驱动链轮</VVE_Marshal.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Marshal.components.5.label>左后驱动链轮</VVE_Marshal.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Marshal.components.6.label>右后驱动链轮</VVE_Marshal.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Marshal.components.7.label>变速箱</VVE_Marshal.components.7.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Marshal.components.8.label>前装甲板</VVE_Marshal.components.8.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Marshal.components.9.label>左装甲板</VVE_Marshal.components.9.label>
+  <!--EN: pop smoke-->
+  <VVE_Marshal.comps.2.verbs.0.label>流行烟</VVE_Marshal.comps.2.verbs.0.label>
+  <!--EN: A general main battle tank, the Marshal is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nMinimal armour improvements compared to previous tier tanks, instead it has a more powerful main gun and a secondary gun. Can fire while moving, as it requires one driver and two gunners; one for each weapon system.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Machine gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Marshal.description>“元帅”是一款通用主战坦克，是一种改进的战车，在任何交战中都表现良好。在不太有利的地形中表现更好，所有侧面都有装甲，最薄的装甲位于靠近发动机的后部。
+
+与以前的坦克相比，装甲改进最小，相反，它拥有更强大的主炮和副炮。可以在移动时开火，因为它需要一名驾驶员和两名炮手；每个武器系统各一个。
+
+&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1、炮手 x1、机枪手 x1
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Marshal.description>
+  <!--EN: Marshal-->
+  <VVE_Marshal.label>马歇尔</VVE_Marshal.label>
+  <!--EN: Driver-->
+  <VVE_Marshal.properties.roles.0.label>司机</VVE_Marshal.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Marshal.properties.roles.1.label>炮手</VVE_Marshal.properties.roles.1.label>
+  <!--EN: Machine Gunner-->
+  <VVE_Marshal.properties.roles.2.label>机枪手</VVE_Marshal.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Nomad.components.0.label>引擎</VVE_Nomad.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Nomad.components.1.label>左前轮</VVE_Nomad.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Nomad.components.10.label>左侧面板</VVE_Nomad.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Nomad.components.11.label>右侧面板</VVE_Nomad.components.11.label>
+  <!--EN: Front Panel Panel-->
+  <VVE_Nomad.components.12.label>前面板 面板</VVE_Nomad.components.12.label>
+  <!--EN: Chemtank-->
+  <VVE_Nomad.components.13.label>化学罐</VVE_Nomad.components.13.label>
+  <!--EN: Front Bumper-->
+  <VVE_Nomad.components.14.label>前保险杠</VVE_Nomad.components.14.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Nomad.components.15.label>后保险杠</VVE_Nomad.components.15.label>
+  <!--EN: Upholstery-->
+  <VVE_Nomad.components.16.label>室内装潢</VVE_Nomad.components.16.label>
+  <!--EN: Dashboard-->
+  <VVE_Nomad.components.17.label>仪表板</VVE_Nomad.components.17.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Nomad.components.18.label>方向盘</VVE_Nomad.components.18.label>
+  <!--EN: Alternator-->
+  <VVE_Nomad.components.19.label>交流发电机</VVE_Nomad.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Nomad.components.2.label>右前轮</VVE_Nomad.components.2.label>
+  <!--EN: Hood-->
+  <VVE_Nomad.components.20.label>兜帽</VVE_Nomad.components.20.label>
+  <!--EN: Roof-->
+  <VVE_Nomad.components.21.label>屋顶</VVE_Nomad.components.21.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Nomad.components.3.label>左后轮</VVE_Nomad.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Nomad.components.4.label>右后轮</VVE_Nomad.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Nomad.components.5.label>左前悬架</VVE_Nomad.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Nomad.components.6.label>右前悬架</VVE_Nomad.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Nomad.components.7.label>左后悬架</VVE_Nomad.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Nomad.components.8.label>右后悬架</VVE_Nomad.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Nomad.components.9.label>变速箱</VVE_Nomad.components.9.label>
+  <!--EN: An armoured all-rounder vehicle, the Nomad performs remarkably well in all categories with an excellent cargo and passenger capacity. Performs well in any and all terrain, with some minor issues in the cold.\n\nA relatively general purpose tier 3, effectively being a lightly armoured APC. While it excels in off road capabilities and works well in all situations, other vehicles perform even better on roads or in specialized tasks.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Nomad.description>作为一款全能装甲车，Nomad 在所有类别中都表现出色，具有出色的货运和客运能力。在任何和所有地形中都表现良好，但在寒冷条件下会出现一些小问题。
+
+相对通用的第 3 层，实际上是轻装甲 APC。虽然它具有出色的越野能力并且在所有情况下都表现良好，但其他车辆在道路或特殊任务中表现甚至更好。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt;驾驶员 x1，乘客 x3
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Nomad.description>
+  <!--EN: Nomad-->
+  <VVE_Nomad.label>游牧者</VVE_Nomad.label>
+  <!--EN: Driver-->
+  <VVE_Nomad.properties.roles.0.label>司机</VVE_Nomad.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Nomad.properties.roles.1.label>乘客</VVE_Nomad.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Paladin.components.0.label>引擎</VVE_Paladin.components.0.label>
+  <!--EN: First Left Wheel-->
+  <VVE_Paladin.components.1.label>第一个左轮</VVE_Paladin.components.1.label>
+  <!--EN: Second Left Suspension-->
+  <VVE_Paladin.components.10.label>第二左悬架</VVE_Paladin.components.10.label>
+  <!--EN: Third Left Suspension-->
+  <VVE_Paladin.components.11.label>第三左悬架</VVE_Paladin.components.11.label>
+  <!--EN: Fourth Left Suspension-->
+  <VVE_Paladin.components.12.label>第四左悬架</VVE_Paladin.components.12.label>
+  <!--EN: First Right Suspension-->
+  <VVE_Paladin.components.13.label>第一右悬架</VVE_Paladin.components.13.label>
+  <!--EN: Second Right Suspension-->
+  <VVE_Paladin.components.14.label>第二右悬架</VVE_Paladin.components.14.label>
+  <!--EN: Third Right Suspension-->
+  <VVE_Paladin.components.15.label>第三右悬挂</VVE_Paladin.components.15.label>
+  <!--EN: Fourth Right Suspension-->
+  <VVE_Paladin.components.16.label>第四右悬架</VVE_Paladin.components.16.label>
+  <!--EN: Gearbox-->
+  <VVE_Paladin.components.17.label>变速箱</VVE_Paladin.components.17.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Paladin.components.18.label>前装甲板</VVE_Paladin.components.18.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Paladin.components.19.label>左装甲板</VVE_Paladin.components.19.label>
+  <!--EN: Second Left Wheel-->
+  <VVE_Paladin.components.2.label>左第二轮</VVE_Paladin.components.2.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Paladin.components.20.label>右装甲板</VVE_Paladin.components.20.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Paladin.components.21.label>后部装甲板</VVE_Paladin.components.21.label>
+  <!--EN: Chemtank-->
+  <VVE_Paladin.components.22.label>化学罐</VVE_Paladin.components.22.label>
+  <!--EN: Dashboard-->
+  <VVE_Paladin.components.23.label>仪表板</VVE_Paladin.components.23.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Paladin.components.24.label>转向装置</VVE_Paladin.components.24.label>
+  <!--EN: Alternator-->
+  <VVE_Paladin.components.25.label>交流发电机</VVE_Paladin.components.25.label>
+  <!--EN: Roof-->
+  <VVE_Paladin.components.26.label>屋顶</VVE_Paladin.components.26.label>
+  <!--EN: Third Left Wheel-->
+  <VVE_Paladin.components.3.label>左第三轮</VVE_Paladin.components.3.label>
+  <!--EN: Fourth Left Wheel-->
+  <VVE_Paladin.components.4.label>左第四轮</VVE_Paladin.components.4.label>
+  <!--EN: First Right Wheel-->
+  <VVE_Paladin.components.5.label>第一个右轮</VVE_Paladin.components.5.label>
+  <!--EN: Second Right Wheel-->
+  <VVE_Paladin.components.6.label>第二个右轮</VVE_Paladin.components.6.label>
+  <!--EN: Third Right Wheel-->
+  <VVE_Paladin.components.7.label>右第三轮</VVE_Paladin.components.7.label>
+  <!--EN: Fourth Right Wheel-->
+  <VVE_Paladin.components.8.label>右第四轮</VVE_Paladin.components.8.label>
+  <!--EN: First Left Suspension-->
+  <VVE_Paladin.components.9.label>第一左悬架</VVE_Paladin.components.9.label>
+  <!--EN: A general purpose armoured personnel carrier, the Paladin is a fast and hardy troop transport. Decent cargo holds, reinforced armour plating, all-terrain capability and a smoke grenade turret for screening troop deployment. The major downsides are no tracks for better terrain navigation and thinner plating on the rear.\n\nCompared to previous generations, this APC is designed to quickly drop infantry off at a desired location and quickly retreat. It can act as temporary cover but ideally it should be able to deploy its cargo and bring it home safely.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x6\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Paladin.description>圣骑士是一种通用装甲运兵车，是一种快速、坚固的部队运输工具。体面的货舱、强化装甲板、全地形能力和用于筛选部队部署的烟雾弹炮塔。主要缺点是没有履带以实现更好的地形导航，并且后部装甲较薄。
+
+与前几代相比，这款 APC 旨在将步兵快速投放到所需位置并快速撤退。它可以充当临时掩体，但理想情况下它应该能够部署货物并将其安全带回家。
+
+&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员x1，炮手x1，乘客x6
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Paladin.description>
+  <!--EN: Paladin-->
+  <VVE_Paladin.label>圣骑士</VVE_Paladin.label>
+  <!--EN: Driver-->
+  <VVE_Paladin.properties.roles.0.label>司机</VVE_Paladin.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Paladin.properties.roles.1.label>炮手</VVE_Paladin.properties.roles.1.label>
+  <!--EN: Passenger-->
+  <VVE_Paladin.properties.roles.2.label>乘客</VVE_Paladin.properties.roles.2.label>
+  <!--EN: Engine-->
+  <VVE_Springbok.components.0.label>引擎</VVE_Springbok.components.0.label>
+  <!--EN: Front Left Wheel-->
+  <VVE_Springbok.components.1.label>左前轮</VVE_Springbok.components.1.label>
+  <!--EN: Left Side Panel-->
+  <VVE_Springbok.components.10.label>左侧面板</VVE_Springbok.components.10.label>
+  <!--EN: Right Side Panel-->
+  <VVE_Springbok.components.11.label>右侧面板</VVE_Springbok.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Springbok.components.12.label>化学罐</VVE_Springbok.components.12.label>
+  <!--EN: Front Bumper-->
+  <VVE_Springbok.components.13.label>前保险杠</VVE_Springbok.components.13.label>
+  <!--EN: Rear Bumper-->
+  <VVE_Springbok.components.14.label>后保险杠</VVE_Springbok.components.14.label>
+  <!--EN: Upholstery-->
+  <VVE_Springbok.components.15.label>室内装潢</VVE_Springbok.components.15.label>
+  <!--EN: Dashboard-->
+  <VVE_Springbok.components.16.label>仪表板</VVE_Springbok.components.16.label>
+  <!--EN: Steering Wheel-->
+  <VVE_Springbok.components.17.label>方向盘</VVE_Springbok.components.17.label>
+  <!--EN: Alternator-->
+  <VVE_Springbok.components.18.label>交流发电机</VVE_Springbok.components.18.label>
+  <!--EN: Hood-->
+  <VVE_Springbok.components.19.label>兜帽</VVE_Springbok.components.19.label>
+  <!--EN: Front Right Wheel-->
+  <VVE_Springbok.components.2.label>右前轮</VVE_Springbok.components.2.label>
+  <!--EN: Roof-->
+  <VVE_Springbok.components.20.label>屋顶</VVE_Springbok.components.20.label>
+  <!--EN: Back Left Wheel-->
+  <VVE_Springbok.components.3.label>左后轮</VVE_Springbok.components.3.label>
+  <!--EN: Back Right Wheel-->
+  <VVE_Springbok.components.4.label>右后轮</VVE_Springbok.components.4.label>
+  <!--EN: Front Left Suspension-->
+  <VVE_Springbok.components.5.label>左前悬架</VVE_Springbok.components.5.label>
+  <!--EN: Front Right Suspension-->
+  <VVE_Springbok.components.6.label>右前悬架</VVE_Springbok.components.6.label>
+  <!--EN: Back Left Suspension-->
+  <VVE_Springbok.components.7.label>左后悬架</VVE_Springbok.components.7.label>
+  <!--EN: Back Right Suspension-->
+  <VVE_Springbok.components.8.label>右后悬架</VVE_Springbok.components.8.label>
+  <!--EN: Gearbox-->
+  <VVE_Springbok.components.9.label>变速箱</VVE_Springbok.components.9.label>
+  <!--EN: A general all-rounder vehicle, the Springbok performs well in all categories with a good cargo and passenger capacity. The old, robust build and loud engine negatively affect its fuel efficiency and visibility. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nA slightly worse performer compared to tier 2 vehicles, it is instead a stylish vehicle to drive and will provide a mood boost to all passengers.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Springbok.description>作为一款通用型全能型车辆，Springbok 在所有类别中均表现出色，具有良好的货运和载客能力。老式、坚固的结构和吵闹的发动机对其燃油效率和能见度产生了负面影响。最适合在平坦的道路上行驶，在山地、雪地或冬季瓷砖上行驶时会有些困难。
+
+与 2 级车辆相比，性能稍差，但它是一辆时尚的驾驶车辆，将为所有乘客带来好心情。
+
+&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt; 驾驶员 x1，乘客x3
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Springbok.description>
+  <!--EN: Springbok-->
+  <VVE_Springbok.label>跳羚</VVE_Springbok.label>
+  <!--EN: Driver-->
+  <VVE_Springbok.properties.roles.0.label>司机</VVE_Springbok.properties.roles.0.label>
+  <!--EN: Passenger-->
+  <VVE_Springbok.properties.roles.1.label>乘客</VVE_Springbok.properties.roles.1.label>
+  <!--EN: Engine-->
+  <VVE_Udar.components.0.label>引擎</VVE_Udar.components.0.label>
+  <!--EN: Left Track-->
+  <VVE_Udar.components.1.label>左轨道</VVE_Udar.components.1.label>
+  <!--EN: Right Armor Plating-->
+  <VVE_Udar.components.10.label>右装甲板</VVE_Udar.components.10.label>
+  <!--EN: Rear Armor Plating-->
+  <VVE_Udar.components.11.label>后部装甲板</VVE_Udar.components.11.label>
+  <!--EN: Chemtank-->
+  <VVE_Udar.components.12.label>化学罐</VVE_Udar.components.12.label>
+  <!--EN: Dashboard-->
+  <VVE_Udar.components.13.label>仪表板</VVE_Udar.components.13.label>
+  <!--EN: Steering Apparatus-->
+  <VVE_Udar.components.14.label>转向装置</VVE_Udar.components.14.label>
+  <!--EN: Alternator-->
+  <VVE_Udar.components.15.label>交流发电机</VVE_Udar.components.15.label>
+  <!--EN: Roof-->
+  <VVE_Udar.components.16.label>屋顶</VVE_Udar.components.16.label>
+  <!--EN: Right Track-->
+  <VVE_Udar.components.2.label>正轨</VVE_Udar.components.2.label>
+  <!--EN: Front Left Drive Sprocket-->
+  <VVE_Udar.components.3.label>左前驱动链轮</VVE_Udar.components.3.label>
+  <!--EN: Front Right Drive Sprocket-->
+  <VVE_Udar.components.4.label>右前驱动链轮</VVE_Udar.components.4.label>
+  <!--EN: Back Left Drive Sprocket-->
+  <VVE_Udar.components.5.label>左后驱动链轮</VVE_Udar.components.5.label>
+  <!--EN: Back Right Drive Sprocket-->
+  <VVE_Udar.components.6.label>右后驱动链轮</VVE_Udar.components.6.label>
+  <!--EN: Gearbox-->
+  <VVE_Udar.components.7.label>变速箱</VVE_Udar.components.7.label>
+  <!--EN: Front Armor Plating-->
+  <VVE_Udar.components.8.label>前装甲板</VVE_Udar.components.8.label>
+  <!--EN: Left Armor Plating-->
+  <VVE_Udar.components.9.label>左装甲板</VVE_Udar.components.9.label>
+  <!--EN: A dedicated artillery unit, the Udar is a long-range siege weapon that can be operated by a two-man crew for faster loading speeds. Small and inefficient fuel reserves are its limiting factor, as it can drive through any terrain without issue.\n\nA priority target and defenseless by itself or in close range, especially with its thin rear plating, a well-defended Udar can lay down quick barrages of mortar shells and reposition out of danger.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x2\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
+  <VVE_Udar.description>Udar 是一种专用火炮部队，是一种远程攻城武器，可由两人操作，以实现更快的装载速度。 小和低效的燃料储备是它的限制因素，因为它可以毫无问题地穿过任何地形。
+
+是一个优先目标，无论是在自身还是近距离内都毫无防御能力，特别是其后板很薄，防御良好的乌达尔可以快速发射迫击炮弹幕炮弹并重新定位在危险。
+
+&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x2
+&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Udar.description>
+  <!--EN: Udar-->
+  <VVE_Udar.label>罢工</VVE_Udar.label>
+  <!--EN: Driver-->
+  <VVE_Udar.properties.roles.0.label>司机</VVE_Udar.properties.roles.0.label>
+  <!--EN: Gunner-->
+  <VVE_Udar.properties.roles.1.label>炮手</VVE_Udar.properties.roles.1.label>
+</LanguageData>

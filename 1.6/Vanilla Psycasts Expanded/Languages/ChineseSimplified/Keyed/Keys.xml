@@ -1,31 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Cannot have more puppets due to the puppet limit.-->
-  <VPEP.CannotHaveMorePuppets>Cannot have more puppets due to the puppet limit.</VPEP.CannotHaveMorePuppets>
+  <VPEP.CannotHaveMorePuppets>由于人偶限制，无法拥有更多人偶。</VPEP.CannotHaveMorePuppets>
   <!--EN: It was caused by the Degrade psycast.-->
-  <VPEP.DegradePsycast>It was caused by the Degrade psycast.</VPEP.DegradePsycast>
+  <VPEP.DegradePsycast>这是由退化精神造成的。</VPEP.DegradePsycast>
   <!--EN: {Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer.-->
-  <VPEP.MindJumpText>{Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer.</VPEP.MindJumpText>
+  <VPEP.MindJumpText>{Puppeteer_nameDef} 已死亡。在{Puppeteer_pronoun}死亡之前，{Puppeteer_pronoun}对{NewPuppeteer_nameDef}使用了心灵跳跃能力。现在 {NewPuppeteer_nameDef} 是一位新的木偶师。</VPEP.MindJumpText>
   <!--EN: Mind jump-->
-  <VPEP.MindJumpTitle>Mind jump</VPEP.MindJumpTitle>
+  <VPEP.MindJumpTitle>心灵跳跃</VPEP.MindJumpTitle>
   <!--EN: No puppets.-->
-  <VPEP.NoPuppets>No puppets.</VPEP.NoPuppets>
+  <VPEP.NoPuppets>没有木偶。</VPEP.NoPuppets>
   <!--EN: Puppets-->
-  <VPEP.Puppets>Puppets</VPEP.Puppets>
+  <VPEP.Puppets>木偶</VPEP.Puppets>
   <!--EN: A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a {0} coma.\n\nPsychic capacity: {1}-->
-  <VPEP.PuppetsGizmoTip>A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a {0} coma.\n\nPsychic capacity: {1}</VPEP.PuppetsGizmoTip>
+  <VPEP.PuppetsGizmoTip>傀儡师只有在有足够的心灵能力的情况下才能维持傀儡。通过施展心灵分裂获得更多的心灵能力来维持更多的傀儡，但请记住，这会让傀儡师及其所有傀儡陷入{0}昏迷。
+
+心灵能力：{1}</VPEP.PuppetsGizmoTip>
   <!--EN: Current puppets:-->
-  <VPEP.PuppetsUsage>Current puppets:</VPEP.PuppetsUsage>
+  <VPEP.PuppetsUsage>目前的木偶：</VPEP.PuppetsUsage>
   <!--EN: Target cannot be colonist.-->
-  <VPEP.TargetCannotBeSameFactionAsCaster>Target cannot be colonist.</VPEP.TargetCannotBeSameFactionAsCaster>
+  <VPEP.TargetCannotBeSameFactionAsCaster>目标不能是殖民者。</VPEP.TargetCannotBeSameFactionAsCaster>
   <!--EN: Target is a puppet already.-->
-  <VPEP.TargetIsPuppetAlready>Target is a puppet already.</VPEP.TargetIsPuppetAlready>
+  <VPEP.TargetIsPuppetAlready>目标已经是傀儡了。</VPEP.TargetIsPuppetAlready>
   <!--EN: Target must be prisoner or slave.-->
-  <VPEP.TargetMustBePrisonerOrSlave>Target must be prisoner or slave.</VPEP.TargetMustBePrisonerOrSlave>
+  <VPEP.TargetMustBePrisonerOrSlave>目标必须是囚犯或奴隶。</VPEP.TargetMustBePrisonerOrSlave>
   <!--EN: Target must be a puppet of the caster.-->
-  <VPEP.TargetMustBePuppetOfCaster>Target must be a puppet of the caster.</VPEP.TargetMustBePuppetOfCaster>
+  <VPEP.TargetMustBePuppetOfCaster>目标必须是施法者的傀儡。</VPEP.TargetMustBePuppetOfCaster>
   <!--EN: Target must be prisoner or colonist.-->
-  <VPEP.TargetMustBeSameFactionAsCaster>Target must be prisoner or colonist.</VPEP.TargetMustBeSameFactionAsCaster>
+  <VPEP.TargetMustBeSameFactionAsCaster>目标必须是囚犯或殖民者。</VPEP.TargetMustBeSameFactionAsCaster>
   <!--EN: Target must have brain leech from the caster.-->
-  <VPEP.TargetMustHaveBrainLeech>Target must have brain leech from the caster.</VPEP.TargetMustHaveBrainLeech>
+  <VPEP.TargetMustHaveBrainLeech>目标必须从施法者身上吸取大脑。</VPEP.TargetMustHaveBrainLeech>
 </LanguageData>
