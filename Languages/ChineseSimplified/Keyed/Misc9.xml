@@ -3,13 +3,13 @@
   <!--EN: Vanilla Skills Expanded-->
   <VSE>原版技能扩展</VSE>
   <!--EN: Allow expertise overlap-->
-  <VSE.AllowExpertiseOverlap>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.AllowExpertiseOverlap>
+  <VSE.AllowExpertiseOverlap>允许专业知识重叠</VSE.AllowExpertiseOverlap>
   <!--EN: If false, then only 1 expertise can be chosen per skill, regardless of max expertise setting.-->
   <VSE.AllowExpertiseOverlap.Desc>如果为 false，则无论最大专业知识设置如何，每个技能只能选择 1 个专业知识。</VSE.AllowExpertiseOverlap.Desc>
   <!--EN: Allow multiple critical passions-->
   <VSE.AllowMultiCritical>允许多种批判热情</VSE.AllowMultiCritical>
   <!--EN: If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless.-->
-  <VSE.AllowMultiCritical.Desc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.AllowMultiCritical.Desc>
+  <VSE.AllowMultiCritical.Desc>如果为 false，将确保每个棋子只会产生一种批判热情，以避免它们重叠并导致它们都无用。</VSE.AllowMultiCritical.Desc>
   <!--EN: At max expertise-->
   <VSE.AtMaxExpertise>最大专业知识</VSE.AtMaxExpertise>
   <!--EN: Bad:-->
@@ -23,7 +23,7 @@
   <!--EN: Effects:-->
   <VSE.Effects>效果：</VSE.Effects>
   <!--EN: Effects (per level):-->
-  <VSE.Effects.PerLevel>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Effects.PerLevel>
+  <VSE.Effects.PerLevel>效果（每级）：</VSE.Effects.PerLevel>
   <!--EN: Enable "Expertise Available" alert-->
   <VSE.EnableAlert>启用“可用专业知识”警报</VSE.EnableAlert>
   <!--EN: Re-enable skill loss-->
@@ -33,49 +33,49 @@
   <!--EN: Expertise-->
   <VSE.Expertise>专业知识</VSE.Expertise>
   <!--EN: Interested in it-->
-  <VSE.Expertise0>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise0>
+  <VSE.Expertise0>对它感兴趣</VSE.Expertise0>
   <!--EN: Hobbyist-->
   <VSE.Expertise1>爱好者</VSE.Expertise1>
   <!--EN: Very Skilled Professional-->
-  <VSE.Expertise10>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise10>
+  <VSE.Expertise10>非常熟练的专业人士</VSE.Expertise10>
   <!--EN: Almost Expert-->
-  <VSE.Expertise11>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise11>
+  <VSE.Expertise11>几乎专家</VSE.Expertise11>
   <!--EN: Self-Proclaimed Expert-->
-  <VSE.Expertise12>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise12>
+  <VSE.Expertise12>自称专家</VSE.Expertise12>
   <!--EN: Expert-->
   <VSE.Expertise13>专家</VSE.Expertise13>
   <!--EN: Strong Expert-->
-  <VSE.Expertise14>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise14>
+  <VSE.Expertise14>实力专家</VSE.Expertise14>
   <!--EN: Very Strong Expert-->
-  <VSE.Expertise15>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise15>
+  <VSE.Expertise15>非常强的专家</VSE.Expertise15>
   <!--EN: Colony-Known Expert-->
-  <VSE.Expertise16>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise16>
+  <VSE.Expertise16>殖民地知名专家</VSE.Expertise16>
   <!--EN: Region-Known Expert-->
-  <VSE.Expertise17>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise17>
+  <VSE.Expertise17>地区知名专家</VSE.Expertise17>
   <!--EN: Region-Leading Expert-->
-  <VSE.Expertise18>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise18>
+  <VSE.Expertise18>地区领先专家</VSE.Expertise18>
   <!--EN: Planet-Known Expert-->
   <VSE.Expertise19>星球知名专家</VSE.Expertise19>
   <!--EN: Aspiring Apprentice-->
-  <VSE.Expertise2>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise2>
+  <VSE.Expertise2>有抱负的学徒</VSE.Expertise2>
   <!--EN: Legendary Expert-->
-  <VSE.Expertise20>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise20>
+  <VSE.Expertise20>传奇专家</VSE.Expertise20>
   <!--EN: Apprentice-->
   <VSE.Expertise3>学徒</VSE.Expertise3>
   <!--EN: Excellent Apprentice-->
-  <VSE.Expertise4>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise4>
+  <VSE.Expertise4>优秀徒弟</VSE.Expertise4>
   <!--EN: Weak Professional-->
-  <VSE.Expertise5>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise5>
+  <VSE.Expertise5>弱专业</VSE.Expertise5>
   <!--EN: Professional-->
   <VSE.Expertise6>专业的</VSE.Expertise6>
   <!--EN: Employable Professional-->
-  <VSE.Expertise7>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise7>
+  <VSE.Expertise7>可就业专业人士</VSE.Expertise7>
   <!--EN: Solid Professional-->
-  <VSE.Expertise8>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise8>
+  <VSE.Expertise8>扎实专业</VSE.Expertise8>
   <!--EN: Skilled Professional-->
-  <VSE.Expertise9>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.Expertise9>
+  <VSE.Expertise9>熟练的专业人士</VSE.Expertise9>
   <!--EN: Colonist can gain expertise-->
-  <VSE.ExpertiseAvailable>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.ExpertiseAvailable>
+  <VSE.ExpertiseAvailable>殖民者可以获得专业知识</VSE.ExpertiseAvailable>
   <!--EN: Your colonist has reached high enough level in a skill they are passionate about that they can gain expertise.\n\nConsider picking an expertise for them to gain new bonuses to the work type they are good at.\n\nColonists that can get expertise:\n\n-->
   <VSE.ExpertiseAvailableDesc>您的殖民者在他们热情的技能方面已达到足够高的水平，他们可以获得专业知识。
 
@@ -83,7 +83,7 @@
 
 可以获得专业知识的殖民者：</VSE.ExpertiseAvailableDesc>
   <!--EN: Colonists can gain expertise-->
-  <VSE.ExpertiseAvailableMultiple>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.ExpertiseAvailableMultiple>
+  <VSE.ExpertiseAvailableMultiple>殖民者可以获得专业知识</VSE.ExpertiseAvailableMultiple>
   <!--EN: Selecting an expertise will unlock a new skill that your pawn will level up, granting them powerful, but very specific bonuses.\nYou can only select {0} expertise, and only in skills your pawns is passionate about.-->
   <VSE.ExpertiseDesc>选择一项专长将解锁一项新技能，您的 pawn 将升级该技能，从而赋予他们强大但非常具体的奖励。
 您只能选择 {0} 专长，并且只有您的棋子的技能与 热情 相关。</VSE.ExpertiseDesc>
@@ -96,29 +96,29 @@
   <!--EN: Random passion chance in growth moments-->
   <VSE.GrowthMomentRandomPassions>成长时刻的随机激情机会</VSE.GrowthMomentRandomPassions>
   <!--EN: By default, 5% of the time a growth moment will select one of the skills that have no passions and assign either a Natural or an Apathy passion.-->
-  <VSE.GrowthMomentRandomPassionsDesc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.GrowthMomentRandomPassionsDesc>
+  <VSE.GrowthMomentRandomPassionsDesc>默认情况下，成长时刻有 5% 的情况会选择一项没有激情的技能，并分配自然激情或冷漠激情。</VSE.GrowthMomentRandomPassionsDesc>
   <!--EN: \n   - Learns Others {0}-->
   <VSE.LearnOther>- 学习他人 {0}</VSE.LearnOther>
   <!--EN: \n   - Learns {0}\n   - Forgets {1}-->
-  <VSE.LearnsForgets>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.LearnsForgets>
+  <VSE.LearnsForgets>\n - 学习 {0}\n - 忘记 {1}</VSE.LearnsForgets>
   <!--EN: Maximum expertise per colonist:-->
-  <VSE.MaxExpertise>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.MaxExpertise>
+  <VSE.MaxExpertise>每个殖民者的最大专业知识：</VSE.MaxExpertise>
   <!--EN: Minimum skill to get an expertise-->
   <VSE.MinSkillForExpertise>获得专业知识的最低技能</VSE.MinSkillForExpertise>
   <!--EN: The colonist will need to reach this skill level before being offered an expertise.-->
-  <VSE.MinSkillForExpertiseDesc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.MinSkillForExpertiseDesc>
+  <VSE.MinSkillForExpertiseDesc>殖民者需要达到这个技能水平才能获得专业知识。</VSE.MinSkillForExpertiseDesc>
   <!--EN: No passion-->
-  <VSE.NoPassion>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.NoPassion>
+  <VSE.NoPassion>没有激情</VSE.NoPassion>
   <!--EN: Reset to default-->
   <VSE.Reset>重置为默认值</VSE.Reset>
   <!--EN: Select expertise-->
-  <VSE.SelectExpertise>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.SelectExpertise>
+  <VSE.SelectExpertise>选择专业知识</VSE.SelectExpertise>
   <!--EN: Insufficient skill-->
-  <VSE.SkillTooLow>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</VSE.SkillTooLow>
+  <VSE.SkillTooLow>技能不足</VSE.SkillTooLow>
   <!--EN: Expertise stat factor / offset multiplier-->
   <VSE.StatMultiplier>专业知识统计系数/偏移乘数</VSE.StatMultiplier>
   <!--EN: Is our balance too easy? Too hard? Go bitch on Reddit! Errrr... I mean, change it with this slider! The effects expertise have on stats will be multiplied by this number, so 0.1 will make expertise super weak, while 5 will make them incredibly overpowered.-->
-  <VSE.StatMultiplierDesc>我们的平衡是不是太容易了？太难了？去 Reddit 上撒娇吧！呃……我的意思是，用这个滑块改变它！专业知识对统计数据的影响将乘以这个数字，因此 0.1 将使专业知识超级弱，而 5 将使它们难以置信地强大。</VSE.StatMultiplierDesc>
+  <VSE.StatMultiplierDesc>Is our balance too easy? Too hard? Go bitch on Reddit!呃……我的意思是，用这个滑块改变它！ The effects expertise have on stats will be multiplied by this number, so 0.1 will make expertise super weak, while 5 will make them incredibly overpowered.</VSE.StatMultiplierDesc>
   <!--EN: Passion: {0}-->
   <VSE_Passion>热情：{0}</VSE_Passion>
 </LanguageData>
