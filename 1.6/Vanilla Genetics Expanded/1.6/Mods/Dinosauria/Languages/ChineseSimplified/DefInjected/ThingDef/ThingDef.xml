@@ -1,191 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: It is often said that birds are little more than evolved dinosaurs. Well, this small theropod hybrid is both a dinosaur AND a bird. Take that, science!\n\n<color=#E5E54C>Gameplay effect:</color> Chickennathus are great egg layers.-->
-  <GR_Chickennathus.description>人们常说鸟类只不过是进化而来的恐龙。好吧，这种小型兽脚亚目杂种动物既是恐龙又是鸟类。接受吧，科学！
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt; Chickennathus 是很棒的蛋鸡。</GR_Chickennathus.description>
+  <GR_Chickennathus.description>It is often said that birds are little more than evolved dinosaurs. Well, this small theropod hybrid is both a dinosaur AND a bird. Take that, science!\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Chickennathus are great egg layers.</GR_Chickennathus.description>
   <!--EN: chickennathus-->
-  <GR_Chickennathus.label>鸡内瑟斯</GR_Chickennathus.label>
+  <GR_Chickennathus.label>chickennathus</GR_Chickennathus.label>
   <!--EN: left claw-->
-  <GR_Chickennathus.tools.0.label>左爪</GR_Chickennathus.tools.0.label>
+  <GR_Chickennathus.tools.0.label>left claw</GR_Chickennathus.tools.0.label>
   <!--EN: right claw-->
-  <GR_Chickennathus.tools.1.label>右爪</GR_Chickennathus.tools.1.label>
+  <GR_Chickennathus.tools.1.label>right claw</GR_Chickennathus.tools.1.label>
   <!--EN: teeth-->
-  <GR_Chickennathus.tools.2.label>牙齿</GR_Chickennathus.tools.2.label>
+  <GR_Chickennathus.tools.2.label>teeth</GR_Chickennathus.tools.2.label>
   <!--EN: Fertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickennathus.-->
-  <GR_ChickennathusEggFertilized.description>受精鸡蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利，它应该孵化成小鸡。</GR_ChickennathusEggFertilized.description>
+  <GR_ChickennathusEggFertilized.description>Fertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickennathus.</GR_ChickennathusEggFertilized.description>
   <!--EN: chickennathus egg (fert.)-->
-  <GR_ChickennathusEggFertilized.label>鸡纳瑟斯鸡蛋（已发酵）</GR_ChickennathusEggFertilized.label>
+  <GR_ChickennathusEggFertilized.label>chickennathus egg (fert.)</GR_ChickennathusEggFertilized.label>
   <!--EN: Unfertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_ChickennathusEggUnfertilized.description>未受精的鸡蛋。它可以生吃，但煮熟后吃效果更好。</GR_ChickennathusEggUnfertilized.description>
+  <GR_ChickennathusEggUnfertilized.description>Unfertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked.</GR_ChickennathusEggUnfertilized.description>
   <!--EN: chickennathus egg (unfert.)-->
-  <GR_ChickennathusEggUnfertilized.label>鸡蛋（未受精）</GR_ChickennathusEggUnfertilized.label>
+  <GR_ChickennathusEggUnfertilized.label>chickennathus egg (unfert.)</GR_ChickennathusEggUnfertilized.label>
   <!--EN: This seems to be an amalgamation of feathers, scales and wool, perfectly interweaved. Gives adequate defense against blunt attacks, and is quite warm.-->
-  <GR_DinoFeatherWool.description>这似乎是羽毛、鳞片和羊毛的融合体，完美地交织在一起。对猛烈攻击有足够的防御力，而且相当温暖。</GR_DinoFeatherWool.description>
+  <GR_DinoFeatherWool.description>This seems to be an amalgamation of feathers, scales and wool, perfectly interweaved. Gives adequate defense against blunt attacks, and is quite warm.</GR_DinoFeatherWool.description>
   <!--EN: dino featherwool-->
-  <GR_DinoFeatherWool.label>恐龙羽毛</GR_DinoFeatherWool.label>
+  <GR_DinoFeatherWool.label>dino featherwool</GR_DinoFeatherWool.label>
   <!--EN: A payload of dinosaur genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via a dinosaur genome excavator from:-->
-  <GR_DinoGenetic.description>恐龙遗传物质的有效负载。可用于基因变形器以创建杂交动物的生长细胞。该第 2 层基因组只能用作主基因组。
-
-&lt;color=#E5E54C&gt;提取：&lt;/color&gt; 可以通过 恐龙 基因组挖掘机从以下位置提取：</GR_DinoGenetic.description>
+  <GR_DinoGenetic.description>A payload of dinosaur genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n&lt;color=#E5E54C&gt;Extraction:&lt;/color&gt; Can be extracted via a dinosaur genome excavator from:</GR_DinoGenetic.description>
   <!--EN: dinosaur genome-->
-  <GR_DinoGenetic.label>恐龙基因组</GR_DinoGenetic.label>
+  <GR_DinoGenetic.label>dinosaur genome</GR_DinoGenetic.label>
   <!--EN: Use genome excavator-->
-  <GR_DinoGenomeExcavator.comps.0.useLabel>使用基因组挖掘机</GR_DinoGenomeExcavator.comps.0.useLabel>
+  <GR_DinoGenomeExcavator.comps.0.useLabel>Use genome excavator</GR_DinoGenomeExcavator.comps.0.useLabel>
   <!--EN: A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes:-->
-  <GR_DinoGenomeExcavator.description>一种简化的基因组提取装置，即使是最简单的暴徒也可以使用，因此它类似于反向工作的填缝枪。最好的遗传物质可以在大脑中找到，自动化的一次性设计会立即将这种物质压缩成可用的基因组。
-
-所需的受试者需要温顺并信任打算在一个非瞬时过程中挖出他们的大脑的用户。建议对生物进行麻醉，因为它们的任何突然动作都会中断整个过程。或者，它也适用于尸体...
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该挖掘机可用于获取以下基因组：</GR_DinoGenomeExcavator.description>
+  <GR_DinoGenomeExcavator.description>A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; This excavator can be used to acquire the following genomes:</GR_DinoGenomeExcavator.description>
   <!--EN: dino genome excavator-->
-  <GR_DinoGenomeExcavator.label>恐龙基因组挖掘机</GR_DinoGenomeExcavator.label>
+  <GR_DinoGenomeExcavator.label>dino genome excavator</GR_DinoGenomeExcavator.label>
   <!--EN: Dinobeetles are huge beasts that produce a nutrient rich, amber-like substance. They probably would use it to build complex structures similar to bees, but they don't because... well, because they are a scientific abomination doomed from the start... Because of its unique biological properties, it can nourish almost any creature and never rots.-->
-  <GR_DinoInsectJelly.description>恐龙甲虫是一种巨大的野兽，能产生营养丰富的琥珀状物质。他们可能会用它来建造类似于蜜蜂的复杂结构，但他们不会，因为……好吧，因为它们从一开始就是注定要腐烂的科学怪物……由于其独特的生物特性，它几乎可以滋养任何生物并且永不腐烂。</GR_DinoInsectJelly.description>
+  <GR_DinoInsectJelly.description>Dinobeetles are huge beasts that produce a nutrient rich, amber-like substance. They probably would use it to build complex structures similar to bees, but they don't because... well, because they are a scientific abomination doomed from the start... Because of its unique biological properties, it can nourish almost any creature and never rots.</GR_DinoInsectJelly.description>
   <!--EN: dino insect jelly-->
-  <GR_DinoInsectJelly.label>恐龙昆虫果冻</GR_DinoInsectJelly.label>
+  <GR_DinoInsectJelly.label>dino insect jelly</GR_DinoInsectJelly.label>
   <!--EN: Thick leather partially covered in scales and dino-fuzz. Harvested from a dinosaur hybrid, this thick skin insulates and protects very well.-->
-  <GR_DinoLeather.description>厚厚的皮革部分覆盖着鳞片和恐龙绒毛。这种厚皮取自恐龙杂交种，具有很好的绝缘和保护作用。</GR_DinoLeather.description>
+  <GR_DinoLeather.description>Thick leather partially covered in scales and dino-fuzz. Harvested from a dinosaur hybrid, this thick skin insulates and protects very well.</GR_DinoLeather.description>
   <!--EN: dinosaur leather-->
-  <GR_DinoLeather.label>恐龙皮革</GR_DinoLeather.label>
+  <GR_DinoLeather.label>dinosaur leather</GR_DinoLeather.label>
   <!--EN: Triceramuffalos produce a secretion from various parts of their upper digestive tract. The resulting "milk" is fed to their offspring via regurgitation, and is similar to what mammals produce; it contains similar levels of fat and protein, along with carotenoids and antibodies. Now, why would anyone want to drink this? 'Cause it's the Rim, baby!-->
-  <GR_DinoMilk.description>三角牛从其上消化道的各个部位产生分泌物。由此产生的“牛奶”通过反流喂给它们的后代，与哺乳动物产生的类似。它含有相似水平的脂肪和蛋白质，以及类胡萝卜素和抗体。现在，为什么有人想喝这个？因为这是边缘，宝贝！</GR_DinoMilk.description>
+  <GR_DinoMilk.description>Triceramuffalos produce a secretion from various parts of their upper digestive tract. The resulting "milk" is fed to their offspring via regurgitation, and is similar to what mammals produce; it contains similar levels of fat and protein, along with carotenoids and antibodies. Now, why would anyone want to drink this? 'Cause it's the Rim, baby!</GR_DinoMilk.description>
   <!--EN: dino "milk"-->
-  <GR_DinoMilk.label>恐龙“牛奶”</GR_DinoMilk.label>
+  <GR_DinoMilk.label>dino "milk"</GR_DinoMilk.label>
   <!--EN: This huge sauropod hybrid has notable insectoid traits. It is hard to see how such a creature could have any predators, since it would probably leave its herbivorous diet and just eat them whole.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Diplobeetles produce a very nutritive jelly.-->
-  <GR_Diplobeetle.description>这种巨大的蜥脚类恐龙杂交体具有显着的类昆虫特征。很难看出这样的生物怎么会有捕食者，因为它很可能会离开草食性饮食，直接吃掉它们。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有类昆虫杂种都拥有良好的装甲并且没有毒性敏感性，但它们总是不育且无法繁殖，即使使用生育增强剂来创造它们也是如此。双叶甲虫产生一种营养丰富的果冻。</GR_Diplobeetle.description>
+  <GR_Diplobeetle.description>This huge sauropod hybrid has notable insectoid traits. It is hard to see how such a creature could have any predators, since it would probably leave its herbivorous diet and just eat them whole.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Diplobeetles produce a very nutritive jelly.</GR_Diplobeetle.description>
   <!--EN: diplobeetle-->
-  <GR_Diplobeetle.label>双叶甲虫</GR_Diplobeetle.label>
+  <GR_Diplobeetle.label>diplobeetle</GR_Diplobeetle.label>
   <!--EN: tail-->
-  <GR_Diplobeetle.tools.0.label>一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</GR_Diplobeetle.tools.0.label>
+  <GR_Diplobeetle.tools.0.label>tail</GR_Diplobeetle.tools.0.label>
   <!--EN: left leg-->
-  <GR_Diplobeetle.tools.1.label>左腿</GR_Diplobeetle.tools.1.label>
+  <GR_Diplobeetle.tools.1.label>left leg</GR_Diplobeetle.tools.1.label>
   <!--EN: right leg-->
-  <GR_Diplobeetle.tools.2.label>右腿</GR_Diplobeetle.tools.2.label>
+  <GR_Diplobeetle.tools.2.label>right leg</GR_Diplobeetle.tools.2.label>
   <!--EN: Deprecated. No hybrid should produce this now.-->
-  <GR_FossilChemfuel.description>已弃用。现在任何混合体都不应该产生这种效果。</GR_FossilChemfuel.description>
+  <GR_FossilChemfuel.description>Deprecated. No hybrid should produce this now.</GR_FossilChemfuel.description>
   <!--EN: fossil chemfuel-->
-  <GR_FossilChemfuel.label>化石化学燃料</GR_FossilChemfuel.label>
+  <GR_FossilChemfuel.label>fossil chemfuel</GR_FossilChemfuel.label>
   <!--EN: This hybrid ornithopod has two cranial crests, which it uses in mating rituals. Their whole body is covered in large sacs of volatile chemicals.\n\n<color=#E5E54C>Gameplay effect:</color> This animal was created with one goal in mind: to produce huge amounts of chemfuel. Their corpses can be directly refined into compressed chemfuel in a biorefinery.-->
-  <GR_Parasaurolope.description>这种杂交鸟脚类动物有两个颅嵴，用于交配仪式。它们的全身覆盖着大袋的挥发性化学物质。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;创造这种动物的目的只有一个：生产大量化学燃料。他们的尸体可以在生物精炼厂中直接提炼成压缩化学燃料。</GR_Parasaurolope.description>
+  <GR_Parasaurolope.description>This hybrid ornithopod has two cranial crests, which it uses in mating rituals. Their whole body is covered in large sacs of volatile chemicals.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; This animal was created with one goal in mind: to produce huge amounts of chemfuel. Their corpses can be directly refined into compressed chemfuel in a biorefinery.</GR_Parasaurolope.description>
   <!--EN: parasaurolope-->
-  <GR_Parasaurolope.label>副蜥蜴</GR_Parasaurolope.label>
+  <GR_Parasaurolope.label>parasaurolope</GR_Parasaurolope.label>
   <!--EN: head-->
-  <GR_Parasaurolope.tools.0.label>头</GR_Parasaurolope.tools.0.label>
+  <GR_Parasaurolope.tools.0.label>head</GR_Parasaurolope.tools.0.label>
   <!--EN: Fertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a parasaurolope.-->
-  <GR_ParasaurolopeEggFertilized.description>受精的副蜥蜴蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利，它应该会孵化成副蜥蜴。</GR_ParasaurolopeEggFertilized.description>
+  <GR_ParasaurolopeEggFertilized.description>Fertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a parasaurolope.</GR_ParasaurolopeEggFertilized.description>
   <!--EN: parasaurolope egg (fert.)-->
-  <GR_ParasaurolopeEggFertilized.label>副蜥蜴蛋（受精）</GR_ParasaurolopeEggFertilized.label>
+  <GR_ParasaurolopeEggFertilized.label>parasaurolope egg (fert.)</GR_ParasaurolopeEggFertilized.label>
   <!--EN: Unfertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_ParasaurolopeEggUnfertilized.description>未受精的副蜥蜴卵。它可以生吃，但煮熟后吃效果更好。</GR_ParasaurolopeEggUnfertilized.description>
+  <GR_ParasaurolopeEggUnfertilized.description>Unfertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked.</GR_ParasaurolopeEggUnfertilized.description>
   <!--EN: parasaurolope egg (unfert.)-->
-  <GR_ParasaurolopeEggUnfertilized.label>副蜥蜴蛋（未受精）</GR_ParasaurolopeEggUnfertilized.label>
+  <GR_ParasaurolopeEggUnfertilized.label>parasaurolope egg (unfert.)</GR_ParasaurolopeEggUnfertilized.label>
   <!--EN: This raptor theropod has strange turtle traits. Why strange? Well, if you picture an armored dinosaur you tend to imagine something like an ankylosaurus, not a raptor with a tortoise shell on its back.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have good temperature tolerance ranges and venomous attacks.-->
-  <GR_Raptortoise.description>这种猛禽兽脚亚目恐龙具有奇怪的海龟特征。为什么奇怪？好吧，如果你想象一个装甲恐龙，你会倾向于想象类似甲龙的东西，而不是背上有乌龟壳的猛禽。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有爬行动物混合物都有良好的温度耐受范围和有毒攻击。</GR_Raptortoise.description>
+  <GR_Raptortoise.description>This raptor theropod has strange turtle traits. Why strange? Well, if you picture an armored dinosaur you tend to imagine something like an ankylosaurus, not a raptor with a tortoise shell on its back.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All reptile hybrids have good temperature tolerance ranges and venomous attacks.</GR_Raptortoise.description>
   <!--EN: raptortoise-->
-  <GR_Raptortoise.label>猛禽</GR_Raptortoise.label>
+  <GR_Raptortoise.label>raptortoise</GR_Raptortoise.label>
   <!--EN: left claw-->
-  <GR_Raptortoise.tools.0.label>左爪</GR_Raptortoise.tools.0.label>
+  <GR_Raptortoise.tools.0.label>left claw</GR_Raptortoise.tools.0.label>
   <!--EN: right claw-->
-  <GR_Raptortoise.tools.1.label>右爪</GR_Raptortoise.tools.1.label>
+  <GR_Raptortoise.tools.1.label>right claw</GR_Raptortoise.tools.1.label>
   <!--EN: teeth-->
-  <GR_Raptortoise.tools.2.label>牙齿</GR_Raptortoise.tools.2.label>
+  <GR_Raptortoise.tools.2.label>teeth</GR_Raptortoise.tools.2.label>
   <!--EN: Fertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a raptortoise.-->
-  <GR_RaptortoiseEggFertilized.description>受精的猛禽蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利的话，它应该会孵化成猛禽。</GR_RaptortoiseEggFertilized.description>
+  <GR_RaptortoiseEggFertilized.description>Fertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a raptortoise.</GR_RaptortoiseEggFertilized.description>
   <!--EN: raptortoise egg (fert.)-->
-  <GR_RaptortoiseEggFertilized.label>猛禽蛋（受精）</GR_RaptortoiseEggFertilized.label>
+  <GR_RaptortoiseEggFertilized.label>raptortoise egg (fert.)</GR_RaptortoiseEggFertilized.label>
   <!--EN: Unfertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_RaptortoiseEggUnfertilized.description>未受精的猛禽蛋。它可以生吃，但煮熟后吃效果更好。</GR_RaptortoiseEggUnfertilized.description>
+  <GR_RaptortoiseEggUnfertilized.description>Unfertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked.</GR_RaptortoiseEggUnfertilized.description>
   <!--EN: raptortoise egg (unfert.)-->
-  <GR_RaptortoiseEggUnfertilized.label>猛禽蛋（未受精）</GR_RaptortoiseEggUnfertilized.label>
+  <GR_RaptortoiseEggUnfertilized.label>raptortoise egg (unfert.)</GR_RaptortoiseEggUnfertilized.label>
   <!--EN: This enormous bear pelt is part hair and part scales. It is probably valuable as a trade good. Or it can also be repurposed as a huge rug.-->
-  <GR_ScalyBearPelt.description>这块巨大的熊皮一半是毛发，一半是鳞片。作为贸易品，它可能很有价值。或者它也可以重新用作一张巨大的地毯。</GR_ScalyBearPelt.description>
+  <GR_ScalyBearPelt.description>This enormous bear pelt is part hair and part scales. It is probably valuable as a trade good. Or it can also be repurposed as a huge rug.</GR_ScalyBearPelt.description>
   <!--EN: scaly bear pelt-->
-  <GR_ScalyBearPelt.label>有鳞的熊毛皮</GR_ScalyBearPelt.label>
+  <GR_ScalyBearPelt.label>scaly bear pelt</GR_ScalyBearPelt.label>
   <!--EN: Really, couldn't you decorate with vinyl decals, like a normal, non-insane person? This looks horrendous. Some of the colonists seem to like it, though..-->
-  <GR_ScalyBearRug.description>真的，你不能像一个正常的、没有精神错乱的人一样用乙烯基贴花装饰吗？这看起来很可怕。不过，一些殖民者似乎很喜欢它。</GR_ScalyBearRug.description>
+  <GR_ScalyBearRug.description>Really, couldn't you decorate with vinyl decals, like a normal, non-insane person? This looks horrendous. Some of the colonists seem to like it, though..</GR_ScalyBearRug.description>
   <!--EN: scaly bear rug-->
-  <GR_ScalyBearRug.label>鳞片熊地毯</GR_ScalyBearRug.label>
+  <GR_ScalyBearRug.label>scaly bear rug</GR_ScalyBearRug.label>
   <!--EN: This hybrid therapod has bear-like characteristics. There are several theories concerning the use of the Spinosaur's spinal fan-sail, but in the case of the Spinobear it is clear what use it has: kicking your ass.\n\n<color=#E5E54C>Gameplay effect:</color> All bear hybrids have stun attacks. Aside from obviously being a very powerful creature, they produce a weird mixture of wool and scales that can be sheared and used in textile operations. They can also be slaughtered for their pelts. Like all dinosaur hybrids, they are oviparous.-->
-  <GR_Spinobear.description>这种混合兽脚类动物具有类似熊的特征。关于棘龙脊椎扇帆的用途有多种理论，但就棘熊而言，它的用途很明显：踢你的屁股。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有混合熊都有眩晕攻击。除了明显是一种非常强大的生物之外，它们还生产出一种奇怪的羊毛和鳞片混合物，可以剪切并用于纺织操作。它们也可以被宰杀以获取毛皮。像所有恐龙杂交种一样，它们是卵生的。</GR_Spinobear.description>
+  <GR_Spinobear.description>This hybrid therapod has bear-like characteristics. There are several theories concerning the use of the Spinosaur's spinal fan-sail, but in the case of the Spinobear it is clear what use it has: kicking your ass.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All bear hybrids have stun attacks. Aside from obviously being a very powerful creature, they produce a weird mixture of wool and scales that can be sheared and used in textile operations. They can also be slaughtered for their pelts. Like all dinosaur hybrids, they are oviparous.</GR_Spinobear.description>
   <!--EN: spinobear-->
-  <GR_Spinobear.label>棘熊</GR_Spinobear.label>
+  <GR_Spinobear.label>spinobear</GR_Spinobear.label>
   <!--EN: left leg-->
-  <GR_Spinobear.tools.0.label>左腿</GR_Spinobear.tools.0.label>
+  <GR_Spinobear.tools.0.label>left leg</GR_Spinobear.tools.0.label>
   <!--EN: right leg-->
-  <GR_Spinobear.tools.1.label>右腿</GR_Spinobear.tools.1.label>
+  <GR_Spinobear.tools.1.label>right leg</GR_Spinobear.tools.1.label>
   <!--EN: teeth-->
-  <GR_Spinobear.tools.2.label>牙齿</GR_Spinobear.tools.2.label>
+  <GR_Spinobear.tools.2.label>teeth</GR_Spinobear.tools.2.label>
   <!--EN: Fertilized spinobear egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into an spinobear.-->
-  <GR_SpinobearEggFertilized.description>受精的棘熊蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利，它应该会孵化成一只棘熊。</GR_SpinobearEggFertilized.description>
+  <GR_SpinobearEggFertilized.description>Fertilized spinobear egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into an spinobear.</GR_SpinobearEggFertilized.description>
   <!--EN: spinobear egg (fert.)-->
-  <GR_SpinobearEggFertilized.label>棘熊蛋（受精）</GR_SpinobearEggFertilized.label>
+  <GR_SpinobearEggFertilized.label>spinobear egg (fert.)</GR_SpinobearEggFertilized.label>
   <!--EN: Unfertilized spinobear egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_SpinobearEggUnfertilized.description>未受精的棘熊卵。它可以生吃，但煮熟后吃效果更好。</GR_SpinobearEggUnfertilized.description>
+  <GR_SpinobearEggUnfertilized.description>Unfertilized spinobear egg. It can be eaten raw, but it's much, much better cooked.</GR_SpinobearEggUnfertilized.description>
   <!--EN: spinobear egg (unfert.)-->
-  <GR_SpinobearEggUnfertilized.label>棘熊蛋（未受精）</GR_SpinobearEggUnfertilized.label>
+  <GR_SpinobearEggUnfertilized.label>spinobear egg (unfert.)</GR_SpinobearEggUnfertilized.label>
   <!--EN: A colossal, armored dinosaur-thrumbo hybrid. Probably not as smart as a thrumbo, but it makes up for it by being incredibly tough.\n\n<color=#E5E54C>Gameplay effect:</color> All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Greater stamina ability: twice per day, the Stegothrumbo can become almost impervious to damage.-->
-  <GR_Stegothrumbo.description>一种巨大的装甲恐龙与敲击兽的混合体。可能不像敲击手那么聪明，但它的坚韧程度弥补了这一点。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有巨型混合体的攻击速度都很慢，但打击非常猛烈，并且拥有天生的护甲。更强的耐力：每天两次，Stegothrumbo 几乎不会受到伤害。</GR_Stegothrumbo.description>
+  <GR_Stegothrumbo.description>A colossal, armored dinosaur-thrumbo hybrid. Probably not as smart as a thrumbo, but it makes up for it by being incredibly tough.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Greater stamina ability: twice per day, the Stegothrumbo can become almost impervious to damage.</GR_Stegothrumbo.description>
   <!--EN: stegothrumbo-->
-  <GR_Stegothrumbo.label>剑瑟伦博</GR_Stegothrumbo.label>
+  <GR_Stegothrumbo.label>stegothrumbo</GR_Stegothrumbo.label>
   <!--EN: tail-->
-  <GR_Stegothrumbo.tools.0.label>一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</GR_Stegothrumbo.tools.0.label>
+  <GR_Stegothrumbo.tools.0.label>tail</GR_Stegothrumbo.tools.0.label>
   <!--EN: head-->
-  <GR_Stegothrumbo.tools.1.label>头</GR_Stegothrumbo.tools.1.label>
+  <GR_Stegothrumbo.tools.1.label>head</GR_Stegothrumbo.tools.1.label>
   <!--EN: Fertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive! If all goes well, it should hatch into a stegothrumbo.-->
-  <GR_StegothrumboEggFertilized.description>受精的 stegothrumbo 蛋。它可以生吃，但煮熟后吃效果更好。这营养太丰富了！如果一切顺利，它应该会孵化成剑巨龙。</GR_StegothrumboEggFertilized.description>
+  <GR_StegothrumboEggFertilized.description>Fertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive! If all goes well, it should hatch into a stegothrumbo.</GR_StegothrumboEggFertilized.description>
   <!--EN: stegothrumbo egg (fert.)-->
-  <GR_StegothrumboEggFertilized.label>Stegothrumbo 蛋（已受精）</GR_StegothrumboEggFertilized.label>
+  <GR_StegothrumboEggFertilized.label>stegothrumbo egg (fert.)</GR_StegothrumboEggFertilized.label>
   <!--EN: Unfertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive!-->
-  <GR_StegothrumboEggUnfertilized.description>未受精的 stegothrumbo 卵。它可以生吃，但煮熟后吃效果更好。这营养太丰富了！</GR_StegothrumboEggUnfertilized.description>
+  <GR_StegothrumboEggUnfertilized.description>Unfertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive!</GR_StegothrumboEggUnfertilized.description>
   <!--EN: stegothrumbo egg (unfert.)-->
-  <GR_StegothrumboEggUnfertilized.label>Stegothrumbo 蛋（未受精）</GR_StegothrumboEggUnfertilized.label>
+  <GR_StegothrumboEggUnfertilized.label>stegothrumbo egg (unfert.)</GR_StegothrumboEggUnfertilized.label>
   <!--EN: This enormous ceratopsid can be used as an incredibly powerful pack beast. It is also quite capable of defending itself, with its sheer mass and huge horns.\n\n<color=#E5E54C>Gameplay effect:</color> Produces wool, eggs, milk, and acts as a very powerful, though slow, pack beast.-->
-  <GR_Triceraffalo.description>这种巨大的角龙可以用作极其强大的群兽。它也具有很强的自卫能力，其庞大的质量和巨大的角。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;生产羊毛、鸡蛋、牛奶，是一种非常强大但缓慢的驮兽。</GR_Triceraffalo.description>
+  <GR_Triceraffalo.description>This enormous ceratopsid can be used as an incredibly powerful pack beast. It is also quite capable of defending itself, with its sheer mass and huge horns.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Produces wool, eggs, milk, and acts as a very powerful, though slow, pack beast.</GR_Triceraffalo.description>
   <!--EN: triceraffalo-->
-  <GR_Triceraffalo.label>三角牛</GR_Triceraffalo.label>
+  <GR_Triceraffalo.label>triceraffalo</GR_Triceraffalo.label>
   <!--EN: horns-->
-  <GR_Triceraffalo.tools.0.label>喇叭</GR_Triceraffalo.tools.0.label>
+  <GR_Triceraffalo.tools.0.label>horns</GR_Triceraffalo.tools.0.label>
   <!--EN: head-->
-  <GR_Triceraffalo.tools.1.label>头</GR_Triceraffalo.tools.1.label>
+  <GR_Triceraffalo.tools.1.label>head</GR_Triceraffalo.tools.1.label>
   <!--EN: Fertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a triceraffalo.-->
-  <GR_TriceraffaloEggFertilized.description>受精的三角水牛蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利的话，它应该会孵化成三角牛。</GR_TriceraffaloEggFertilized.description>
+  <GR_TriceraffaloEggFertilized.description>Fertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a triceraffalo.</GR_TriceraffaloEggFertilized.description>
   <!--EN: triceraffalo egg (fert.)-->
-  <GR_TriceraffaloEggFertilized.label>三角水牛蛋（已受精）</GR_TriceraffaloEggFertilized.label>
+  <GR_TriceraffaloEggFertilized.label>triceraffalo egg (fert.)</GR_TriceraffaloEggFertilized.label>
   <!--EN: Unfertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_TriceraffaloEggUnfertilized.description>未受精的三角水牛蛋。它可以生吃，但煮熟后吃效果更好。</GR_TriceraffaloEggUnfertilized.description>
+  <GR_TriceraffaloEggUnfertilized.description>Unfertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked.</GR_TriceraffaloEggUnfertilized.description>
   <!--EN: triceraffalo egg (unfert.)-->
-  <GR_TriceraffaloEggUnfertilized.label>三角水牛蛋（未受精）</GR_TriceraffaloEggUnfertilized.label>
+  <GR_TriceraffaloEggUnfertilized.label>triceraffalo egg (unfert.)</GR_TriceraffaloEggUnfertilized.label>
   <!--EN: This raptor theropod hybrid escaped the shame of having feathers by instead having hair. So, uhm, still ridiculous.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards.-->
-  <GR_Velociwolf.description>这种猛禽兽脚亚目混血儿通过长毛发而摆脱了拥有羽毛的耻辱。所以，呃，还是很可笑。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有犬类混种都获得肾上腺素冲刺能力，这使得它们可以在短时间内以200%的速度移动，但之后半天会感到疲倦并移动缓慢。</GR_Velociwolf.description>
+  <GR_Velociwolf.description>This raptor theropod hybrid escaped the shame of having feathers by instead having hair. So, uhm, still ridiculous.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards.</GR_Velociwolf.description>
   <!--EN: velociwolf-->
-  <GR_Velociwolf.label>速度狼</GR_Velociwolf.label>
+  <GR_Velociwolf.label>velociwolf</GR_Velociwolf.label>
   <!--EN: left claw-->
-  <GR_Velociwolf.tools.0.label>左爪</GR_Velociwolf.tools.0.label>
+  <GR_Velociwolf.tools.0.label>left claw</GR_Velociwolf.tools.0.label>
   <!--EN: right claw-->
-  <GR_Velociwolf.tools.1.label>右爪</GR_Velociwolf.tools.1.label>
+  <GR_Velociwolf.tools.1.label>right claw</GR_Velociwolf.tools.1.label>
   <!--EN: teeth-->
-  <GR_Velociwolf.tools.2.label>牙齿</GR_Velociwolf.tools.2.label>
+  <GR_Velociwolf.tools.2.label>teeth</GR_Velociwolf.tools.2.label>
   <!--EN: Fertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a velociwolf.-->
-  <GR_VelociwolfEggFertilized.description>受精的速度狼蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利的话，它应该会孵化成一只速度狼。</GR_VelociwolfEggFertilized.description>
+  <GR_VelociwolfEggFertilized.description>Fertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a velociwolf.</GR_VelociwolfEggFertilized.description>
   <!--EN: velociwolf egg (fert.)-->
-  <GR_VelociwolfEggFertilized.label>速度狼蛋（受精）</GR_VelociwolfEggFertilized.label>
+  <GR_VelociwolfEggFertilized.label>velociwolf egg (fert.)</GR_VelociwolfEggFertilized.label>
   <!--EN: Unfertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked.-->
-  <GR_VelociwolfEggUnfertilized.description>未受精的速度狼卵。它可以生吃，但煮熟后吃效果更好。</GR_VelociwolfEggUnfertilized.description>
+  <GR_VelociwolfEggUnfertilized.description>Unfertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked.</GR_VelociwolfEggUnfertilized.description>
   <!--EN: velociwolf egg (unfert.)-->
-  <GR_VelociwolfEggUnfertilized.label>速度狼蛋（未受精）</GR_VelociwolfEggUnfertilized.label>
+  <GR_VelociwolfEggUnfertilized.label>velociwolf egg (unfert.)</GR_VelociwolfEggUnfertilized.label>
 </LanguageData>
