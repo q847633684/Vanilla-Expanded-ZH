@@ -1,48 +1,48 @@
-key,text,tag,file,type
-VBE_BrewLemonCoffee.label,brew espresso romano,label,RecipeDef/RecipeDef.xml,def
-VBE_BrewLemonCoffee.description,"Brew an already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it.",description,RecipeDef/RecipeDef.xml,def
-VBE_BrewLemonCoffee.jobString,Brewing espresso romano.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MixLemonade.label,mix lemonade,label,RecipeDef/RecipeDef.xml,def
-VBE_MixLemonade.description,"Squeeze a few lemons, mix the juice with water and add some sugar.",description,RecipeDef/RecipeDef.xml,def
-VBE_MixLemonade.jobString,Mixing lemonade.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeLemonTea.label,make lemon tea,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeLemonTea.description,"Make a dark tea cut with water, chilled and garnished with a wedge of bright lemon.",description,RecipeDef/RecipeDef.xml,def
-VBE_MakeLemonTea.jobString,Making lemon tea.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeEarlGreyTea.label,make earl grey tea,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeEarlGreyTea.description,Make a very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.,description,RecipeDef/RecipeDef.xml,def
-VBE_MakeEarlGreyTea.jobString,Making earl grey tea.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_EarlGreyTea.label,earl grey tea,label,ThingDef/ThingDef.xml,def
-VBE_EarlGreyTea.description,A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.,description,ThingDef/ThingDef.xml,def
-VBE_EarlGreyTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
-VBE_EarlGreyTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
-VBE_DrankEarlGreyTea.stages.0.label,Tea. Earl Grey. Hot,label,ThoughtDef/ThoughtDef.xml,def
-VBE_DrankEarlGreyTea.stages.0.description,Make it so.,description,ThoughtDef/ThoughtDef.xml,def
-VBE_DrankEarlGreyTea.label,drank earl grey tea,label,HediffDef/HediffDef.xml,def
-VBE_DrankEarlGreyTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Earl grey tea provides a 10% research speed bonus.",description,HediffDef/HediffDef.xml,def
-VBE_LemonCoffee.label,espresso romano,label,ThingDef/ThingDef.xml,def
-VBE_LemonCoffee.description,"A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites.",description,ThingDef/ThingDef.xml,def
-VBE_LemonCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
-VBE_LemonCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
-VBE_LemonCoffeeHigh.label,lemon coffee high,label,HediffDef/HediffDef.xml,def
-VBE_LemonCoffeeHigh.labelNoun,a lemon coffee high,labelNoun,HediffDef/HediffDef.xml,def
-VBE_LemonCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia. Lemon coffee acts as a remedy against Gut Worms, increasing tending quality with each coffee drank.",description,HediffDef/HediffDef.xml,def
-VBE_LemonCoffeeHigh.stages.0.label,Lemony awakening,label,ThoughtDef/ThoughtDef.xml,def
-VBE_LemonCoffeeHigh.stages.0.description,"That lemon coffee hit the spot, now let’s get some work done.",description,ThoughtDef/ThoughtDef.xml,def
-VBE_Lemonade.label,lemonade,label,ThingDef/ThingDef.xml,def
-VBE_Lemonade.description,"A sweet beverage mixed together with lemon juice, sugar, and water.",description,ThingDef/ThingDef.xml,def
-VBE_Lemonade.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
-VBE_Lemonade.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
-VBE_LemonTea.label,lemon tea,label,ThingDef/ThingDef.xml,def
-VBE_LemonTea.description,"A dark tea cut with water, chilled and garnished with a wedge of bright lemon.",description,ThingDef/ThingDef.xml,def
-VBE_LemonTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def
-VBE_LemonTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
-VBE_DrankLemonTea.stages.0.label,A Healthy cup!,label,ThoughtDef/ThoughtDef.xml,def
-VBE_DrankLemonTea.stages.0.description,A tasty cup of lemon tea a day keeps the doctor away.,description,ThoughtDef/ThoughtDef.xml,def
-VBE_DrankLemonTea.label,drank lemon tea,label,HediffDef/HediffDef.xml,def
-VBE_DrankLemonTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Lemon tea acts as a remedy against Gut Worms, increasing tending quality with each coffee drank.",description,HediffDef/HediffDef.xml,def
-VCE_RawLemon.label,lemons,label,ThingDef/ThingDef.xml,def
-VCE_RawLemon.description,"An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee.",description,ThingDef/ThingDef.xml,def
-VBE_LemonTree.label,lemon tree,label,ThingDef/ThingDef.xml,def
-VBE_LemonTree.description,"A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready.",description,ThingDef/ThingDef.xml,def
-VBE_DrankLemonadeThought.stages.0.label,Refreshing tang,label,ThoughtDef/ThoughtDef.xml,def
-VBE_DrankLemonadeThought.stages.0.description,I drank a bottle of lemonade. It's not much but it makes me feel nice.,description,ThoughtDef/ThoughtDef.xml,def
+key,text,tag,file,type,protected_text
+VBE_BrewLemonCoffee.label,brew espresso romano,label,RecipeDef/RecipeDef.xml,def,brew espresso romano
+VBE_BrewLemonCoffee.description,"Brew an already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it.",description,RecipeDef/RecipeDef.xml,def,"Brew an already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it."
+VBE_BrewLemonCoffee.jobString,Brewing espresso romano.,jobString,RecipeDef/RecipeDef.xml,def,Brewing espresso romano.
+VBE_MixLemonade.label,mix lemonade,label,RecipeDef/RecipeDef.xml,def,mix lemonade
+VBE_MixLemonade.description,"Squeeze a few lemons, mix the juice with water and add some sugar.",description,RecipeDef/RecipeDef.xml,def,"Squeeze a few lemons, mix the juice with water and add some sugar."
+VBE_MixLemonade.jobString,Mixing lemonade.,jobString,RecipeDef/RecipeDef.xml,def,Mixing lemonade.
+VBE_MakeLemonTea.label,make lemon tea,label,RecipeDef/RecipeDef.xml,def,make lemon tea
+VBE_MakeLemonTea.description,"Make a dark tea cut with water, chilled and garnished with a wedge of bright lemon.",description,RecipeDef/RecipeDef.xml,def,"Make a dark tea cut with water, chilled and garnished with a wedge of bright lemon."
+VBE_MakeLemonTea.jobString,Making lemon tea.,jobString,RecipeDef/RecipeDef.xml,def,Making lemon tea.
+VBE_MakeEarlGreyTea.label,make earl grey tea,label,RecipeDef/RecipeDef.xml,def,make earl grey tea
+VBE_MakeEarlGreyTea.description,Make a very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.,description,RecipeDef/RecipeDef.xml,def,Make a very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.
+VBE_MakeEarlGreyTea.jobString,Making earl grey tea.,jobString,RecipeDef/RecipeDef.xml,def,Making earl grey tea.
+VBE_EarlGreyTea.label,earl grey tea,label,ThingDef/ThingDef.xml,def,earl grey tea
+VBE_EarlGreyTea.description,A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.,description,ThingDef/ThingDef.xml,def,A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize.
+VBE_EarlGreyTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def,Drink (PH_1)
+VBE_EarlGreyTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def,Drinking (PH_1).
+VBE_DrankEarlGreyTea.stages.0.label,Tea. Earl Grey. Hot,label,ThoughtDef/ThoughtDef.xml,def,Tea. Earl Grey. Hot
+VBE_DrankEarlGreyTea.stages.0.description,Make it so.,description,ThoughtDef/ThoughtDef.xml,def,Make it so.
+VBE_DrankEarlGreyTea.label,drank earl grey tea,label,HediffDef/HediffDef.xml,def,drank earl grey tea
+VBE_DrankEarlGreyTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Earl grey tea provides a 10% research speed bonus.",description,HediffDef/HediffDef.xml,def,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Earl grey tea provides a 10% research speed bonus."
+VBE_LemonCoffee.label,espresso romano,label,ThingDef/ThingDef.xml,def,espresso romano
+VBE_LemonCoffee.description,"A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites.",description,ThingDef/ThingDef.xml,def,"A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites."
+VBE_LemonCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def,Drink (PH_1)
+VBE_LemonCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def,Drinking (PH_1).
+VBE_LemonCoffeeHigh.label,lemon coffee high,label,HediffDef/HediffDef.xml,def,lemon coffee high
+VBE_LemonCoffeeHigh.labelNoun,a lemon coffee high,labelNoun,HediffDef/HediffDef.xml,def,a lemon coffee high
+VBE_LemonCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia. Lemon coffee acts as a remedy against Gut Worms, increasing tending quality with each coffee drank.",description,HediffDef/HediffDef.xml,def,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia. Lemon coffee acts as a remedy against Gut Worms, increasing tending quality with each coffee drank."
+VBE_LemonCoffeeHigh.stages.0.label,Lemony awakening,label,ThoughtDef/ThoughtDef.xml,def,Lemony awakening
+VBE_LemonCoffeeHigh.stages.0.description,"That lemon coffee hit the spot, now let’s get some work done.",description,ThoughtDef/ThoughtDef.xml,def,"That lemon coffee hit the spot, now let’s get some work done."
+VBE_Lemonade.label,lemonade,label,ThingDef/ThingDef.xml,def,lemonade
+VBE_Lemonade.description,"A sweet beverage mixed together with lemon juice, sugar, and water.",description,ThingDef/ThingDef.xml,def,"A sweet beverage mixed together with lemon juice, sugar, and water."
+VBE_Lemonade.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def,Drink (PH_1)
+VBE_Lemonade.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def,Drinking (PH_1).
+VBE_LemonTea.label,lemon tea,label,ThingDef/ThingDef.xml,def,lemon tea
+VBE_LemonTea.description,"A dark tea cut with water, chilled and garnished with a wedge of bright lemon.",description,ThingDef/ThingDef.xml,def,"A dark tea cut with water, chilled and garnished with a wedge of bright lemon."
+VBE_LemonTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/ThingDef.xml,def,Drink (PH_1)
+VBE_LemonTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/ThingDef.xml,def,Drinking (PH_1).
+VBE_DrankLemonTea.stages.0.label,A Healthy cup!,label,ThoughtDef/ThoughtDef.xml,def,A Healthy cup!
+VBE_DrankLemonTea.stages.0.description,A tasty cup of lemon tea a day keeps the doctor away.,description,ThoughtDef/ThoughtDef.xml,def,A tasty cup of lemon tea a day keeps the doctor away.
+VBE_DrankLemonTea.label,drank lemon tea,label,HediffDef/HediffDef.xml,def,drank lemon tea
+VBE_DrankLemonTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Lemon tea acts as a remedy against Gut Worms, increasing tending quality with each coffee drank.",description,HediffDef/HediffDef.xml,def,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Lemon tea acts as a remedy against Gut Worms, increasing tending quality with each coffee drank."
+VCE_RawLemon.label,lemons,label,ThingDef/ThingDef.xml,def,lemons
+VCE_RawLemon.description,"An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee.",description,ThingDef/ThingDef.xml,def,"An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee."
+VBE_LemonTree.label,lemon tree,label,ThingDef/ThingDef.xml,def,lemon tree
+VBE_LemonTree.description,"A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready.",description,ThingDef/ThingDef.xml,def,"A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready."
+VBE_DrankLemonadeThought.stages.0.label,Refreshing tang,label,ThoughtDef/ThoughtDef.xml,def,Refreshing tang
+VBE_DrankLemonadeThought.stages.0.description,I drank a bottle of lemonade. It's not much but it makes me feel nice.,description,ThoughtDef/ThoughtDef.xml,def,I drank a bottle of lemonade. It's not much but it makes me feel nice.

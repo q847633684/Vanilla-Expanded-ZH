@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Blinding venom in the bloodstream. This venom is not lethal, but it will last for a while before it stops affecting sight.-->
-  <RB_BlindingBuildup.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</RB_BlindingBuildup.description>
+  <RB_BlindingBuildup.description>血液中的致盲毒液。这种毒液并不致命，但会持续一段时间，然后才会停止影响视力。</RB_BlindingBuildup.description>
   <!--EN: blinding venom-->
-  <RB_BlindingBuildup.label>活跃机械师高</RB_BlindingBuildup.label>
+  <RB_BlindingBuildup.label>致盲毒液</RB_BlindingBuildup.label>
   <!--EN: initial-hidden-->
   <RB_BlindingBuildup.stages.0.label>初始隐藏</RB_BlindingBuildup.stages.0.label>
   <!--EN: initial-->
-  <RB_BlindingBuildup.stages.1.label>提款</RB_BlindingBuildup.stages.1.label>
+  <RB_BlindingBuildup.stages.1.label>最初的</RB_BlindingBuildup.stages.1.label>
   <!--EN: minor-->
   <RB_BlindingBuildup.stages.2.label>次要的</RB_BlindingBuildup.stages.2.label>
   <!--EN: moderate-->
@@ -21,13 +21,17 @@
   <!--EN: Chemfuel in the bloodstream.
 \nAt high doses, this is lethal. Even at low doses, it can generate cancers.
 \nContrary to base game toxic buildup, creatures who die with injected chemfuel can be eaten.-->
-  <RB_ChemfuelBuildup.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</RB_ChemfuelBuildup.description>
+  <RB_ChemfuelBuildup.description>血液中的化学燃料。
+
+高剂量时，这是致命的。即使剂量很低，它也会产生癌症。
+
+与基础游戏中的毒性积累相反，因注射化学燃料而死亡的生物可以被吃掉。</RB_ChemfuelBuildup.description>
   <!--EN: injected chemfuel-->
-  <RB_ChemfuelBuildup.label>活跃机械师高</RB_ChemfuelBuildup.label>
+  <RB_ChemfuelBuildup.label>喷射化学燃料</RB_ChemfuelBuildup.label>
   <!--EN: initial-->
-  <RB_ChemfuelBuildup.stages.0.label>初始隐藏</RB_ChemfuelBuildup.stages.0.label>
+  <RB_ChemfuelBuildup.stages.0.label>最初的</RB_ChemfuelBuildup.stages.0.label>
   <!--EN: initial-->
-  <RB_ChemfuelBuildup.stages.1.label>提款</RB_ChemfuelBuildup.stages.1.label>
+  <RB_ChemfuelBuildup.stages.1.label>最初的</RB_ChemfuelBuildup.stages.1.label>
   <!--EN: minor-->
   <RB_ChemfuelBuildup.stages.2.label>次要的</RB_ChemfuelBuildup.stages.2.label>
   <!--EN: moderate-->
@@ -37,31 +41,35 @@
   <!--EN: extreme-->
   <RB_ChemfuelBuildup.stages.5.label>极端</RB_ChemfuelBuildup.stages.5.label>
   <!--EN: A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while.-->
-  <RB_ParalysisBuildup.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</RB_ParalysisBuildup.description>
+  <RB_ParalysisBuildup.description>一种快速作用的毒素正在该生物的静脉中流动，使他的肌肉发达的角色。瘫痪。一段时间后就会消失。</RB_ParalysisBuildup.description>
   <!--EN: paralysis-->
-  <RB_ParalysisBuildup.label>活跃机械师高</RB_ParalysisBuildup.label>
+  <RB_ParalysisBuildup.label>麻痹</RB_ParalysisBuildup.label>
   <!--EN: initial-->
-  <RB_ParalysisBuildup.stages.0.label>初始隐藏</RB_ParalysisBuildup.stages.0.label>
+  <RB_ParalysisBuildup.stages.0.label>最初的</RB_ParalysisBuildup.stages.0.label>
   <!--EN: stunned-->
-  <RB_ParalysisBuildup.stages.1.label>提款</RB_ParalysisBuildup.stages.1.label>
+  <RB_ParalysisBuildup.stages.1.label>目瞪口呆</RB_ParalysisBuildup.stages.1.label>
   <!--EN: very stunned-->
-  <RB_ParalysisBuildup.stages.2.label>次要的</RB_ParalysisBuildup.stages.2.label>
+  <RB_ParalysisBuildup.stages.2.label>非常震惊</RB_ParalysisBuildup.stages.2.label>
   <!--EN: paralysed-->
-  <RB_ParalysisBuildup.stages.3.label>缓和</RB_ParalysisBuildup.stages.3.label>
+  <RB_ParalysisBuildup.stages.3.label>瘫痪的</RB_ParalysisBuildup.stages.3.label>
   <!--EN: Genetic honey is strengthening this creature's stamina.-->
-  <RB_Stamina.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</RB_Stamina.description>
+  <RB_Stamina.description>基因蜂蜜正在增强这种生物的耐力。</RB_Stamina.description>
   <!--EN: increased stamina (from honey)-->
-  <RB_Stamina.label>活跃机械师高</RB_Stamina.label>
+  <RB_Stamina.label>增加耐力（来自蜂蜜）</RB_Stamina.label>
   <!--EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
 \nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
 \nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.-->
-  <RB_ToxicBuildup.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</RB_ToxicBuildup.description>
+  <RB_ToxicBuildup.description>血液中的毒素。这可能来自多种来源，包括环境毒素、毒液叮咬或有毒武器。
+
+高剂量时，毒性累积是致命的。即使剂量很低，它也会产生癌症。
+
+与基础游戏中的毒性累积相反，死于这种毒性伤害的生物可以被吃掉。</RB_ToxicBuildup.description>
   <!--EN: poisoned blood-->
-  <RB_ToxicBuildup.label>活跃机械师高</RB_ToxicBuildup.label>
+  <RB_ToxicBuildup.label>中毒了血</RB_ToxicBuildup.label>
   <!--EN: initial-->
-  <RB_ToxicBuildup.stages.0.label>初始隐藏</RB_ToxicBuildup.stages.0.label>
+  <RB_ToxicBuildup.stages.0.label>最初的</RB_ToxicBuildup.stages.0.label>
   <!--EN: initial-->
-  <RB_ToxicBuildup.stages.1.label>提款</RB_ToxicBuildup.stages.1.label>
+  <RB_ToxicBuildup.stages.1.label>最初的</RB_ToxicBuildup.stages.1.label>
   <!--EN: minor-->
   <RB_ToxicBuildup.stages.2.label>次要的</RB_ToxicBuildup.stages.2.label>
   <!--EN: moderate-->

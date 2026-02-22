@@ -1,29 +1,29 @@
-key,text,tag,file,type
-VBE_MakeCocktailGourmet.label,make gourmet cocktail,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.description,"Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.",description,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.jobString,Making gourmet cocktail.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.ingredients.0.filter.customSummary,simple spirits,customSummary,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.ingredients.1.filter.customSummary,luxury spirits,customSummary,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.ingredients.2.filter.customSummary,non-alcoholic drinks,customSummary,RecipeDef/RecipeDef.xml,def
-VBE_MakeCocktailGourmet.ingredients.3.filter.customSummary,condiments,customSummary,RecipeDef/RecipeDef.xml,def
-VBE_MakeLuciferiumPowder.label,make luciferium powder,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeLuciferiumPowder.description,Make a very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful.,description,RecipeDef/RecipeDef.xml,def
-VBE_MakeLuciferiumPowder.jobString,Making luciferium powder.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeGoJuiceStock.label,make go-juice stock,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeGoJuiceStock.description,"Make a gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails.",description,RecipeDef/RecipeDef.xml,def
-VBE_MakeGoJuiceStock.jobString,Making go-juice stock.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeWakeUpPowder.label,make wake-up powder,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeWakeUpPowder.description,"Make a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso.",description,RecipeDef/RecipeDef.xml,def
-VBE_MakeWakeUpPowder.jobString,Making wake-up powder.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeSodaSyrupBulk.label,make soda syrup (efficient),label,RecipeDef/RecipeDef.xml,def
-VBE_MakeSodaSyrupBulk.description,Make soda syrup by mixing natural fruit juice with sugar. This recipe is much more efficient.,description,RecipeDef/RecipeDef.xml,def
-VBE_MakeSodaSyrupBulk.jobString,Making soda syrup.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_MakeWhiskeyMashFromFlour.label,make whiskey mash from flour,label,RecipeDef/RecipeDef.xml,def
-VBE_MakeWhiskeyMashFromFlour.description,Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.,description,RecipeDef/RecipeDef.xml,def
-VBE_MakeWhiskeyMashFromFlour.jobString,Making whiskey mash.,jobString,RecipeDef/RecipeDef.xml,def
-VBE_LuciferiumPowder.label,luciferium powder,label,ThingDef/ThingDef.xml,def
-VBE_LuciferiumPowder.description,A very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. Provides a very diluted version of the drug without risk of addictions.,description,ThingDef/ThingDef.xml,def
-VBE_WakeUpPowder.label,wake-up powder,label,ThingDef/ThingDef.xml,def
-VBE_WakeUpPowder.description,"A crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. Provides a very diluted version of the drug without risk of addictions.",description,ThingDef/ThingDef.xml,def
-VBE_GoJuiceStock.label,go-juice stock,label,ThingDef/ThingDef.xml,def
-VBE_GoJuiceStock.description,"A gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. Provides a very diluted version of the drug without risk of addictions.",description,ThingDef/ThingDef.xml,def
+key,text,tag,file,type,protected_text
+VBE_MakeCocktailGourmet.label,make gourmet cocktail,label,RecipeDef/RecipeDef.xml,def,make gourmet cocktail
+VBE_MakeCocktailGourmet.description,"Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.",description,RecipeDef/RecipeDef.xml,def,"Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible."
+VBE_MakeCocktailGourmet.jobString,Making gourmet cocktail.,jobString,RecipeDef/RecipeDef.xml,def,Making gourmet cocktail.
+VBE_MakeCocktailGourmet.ingredients.0.filter.customSummary,simple spirits,customSummary,RecipeDef/RecipeDef.xml,def,simple spirits
+VBE_MakeCocktailGourmet.ingredients.1.filter.customSummary,luxury spirits,customSummary,RecipeDef/RecipeDef.xml,def,luxury spirits
+VBE_MakeCocktailGourmet.ingredients.2.filter.customSummary,non-alcoholic drinks,customSummary,RecipeDef/RecipeDef.xml,def,non-alcoholic drinks
+VBE_MakeCocktailGourmet.ingredients.3.filter.customSummary,condiments,customSummary,RecipeDef/RecipeDef.xml,def,condiments
+VBE_MakeLuciferiumPowder.label,make luciferium powder,label,RecipeDef/RecipeDef.xml,def,make luciferium powder
+VBE_MakeLuciferiumPowder.description,Make a very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful.,description,RecipeDef/RecipeDef.xml,def,Make a very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful.
+VBE_MakeLuciferiumPowder.jobString,Making luciferium powder.,jobString,RecipeDef/RecipeDef.xml,def,Making luciferium powder.
+VBE_MakeGoJuiceStock.label,make go-juice stock,label,RecipeDef/RecipeDef.xml,def,make go-juice stock
+VBE_MakeGoJuiceStock.description,"Make a gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails.",description,RecipeDef/RecipeDef.xml,def,"Make a gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails."
+VBE_MakeGoJuiceStock.jobString,Making go-juice stock.,jobString,RecipeDef/RecipeDef.xml,def,Making go-juice stock.
+VBE_MakeWakeUpPowder.label,make wake-up powder,label,RecipeDef/RecipeDef.xml,def,make wake-up powder
+VBE_MakeWakeUpPowder.description,"Make a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso.",description,RecipeDef/RecipeDef.xml,def,"Make a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso."
+VBE_MakeWakeUpPowder.jobString,Making wake-up powder.,jobString,RecipeDef/RecipeDef.xml,def,Making wake-up powder.
+VBE_MakeSodaSyrupBulk.label,make soda syrup (efficient),label,RecipeDef/RecipeDef.xml,def,make soda syrup (efficient)
+VBE_MakeSodaSyrupBulk.description,Make soda syrup by mixing natural fruit juice with sugar. This recipe is much more efficient.,description,RecipeDef/RecipeDef.xml,def,Make soda syrup by mixing natural fruit juice with sugar. This recipe is much more efficient.
+VBE_MakeSodaSyrupBulk.jobString,Making soda syrup.,jobString,RecipeDef/RecipeDef.xml,def,Making soda syrup.
+VBE_MakeWhiskeyMashFromFlour.label,make whiskey mash from flour,label,RecipeDef/RecipeDef.xml,def,make whiskey mash from flour
+VBE_MakeWhiskeyMashFromFlour.description,Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.,description,RecipeDef/RecipeDef.xml,def,Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.
+VBE_MakeWhiskeyMashFromFlour.jobString,Making whiskey mash.,jobString,RecipeDef/RecipeDef.xml,def,Making whiskey mash.
+VBE_LuciferiumPowder.label,luciferium powder,label,ThingDef/ThingDef.xml,def,luciferium powder
+VBE_LuciferiumPowder.description,A very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. Provides a very diluted version of the drug without risk of addictions.,description,ThingDef/ThingDef.xml,def,A very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. Provides a very diluted version of the drug without risk of addictions.
+VBE_WakeUpPowder.label,wake-up powder,label,ThingDef/ThingDef.xml,def,wake-up powder
+VBE_WakeUpPowder.description,"A crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. Provides a very diluted version of the drug without risk of addictions.",description,ThingDef/ThingDef.xml,def,"A crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. Provides a very diluted version of the drug without risk of addictions."
+VBE_GoJuiceStock.label,go-juice stock,label,ThingDef/ThingDef.xml,def,go-juice stock
+VBE_GoJuiceStock.description,"A gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. Provides a very diluted version of the drug without risk of addictions.",description,ThingDef/ThingDef.xml,def,"A gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. Provides a very diluted version of the drug without risk of addictions."
