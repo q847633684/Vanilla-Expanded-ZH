@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A new insectoid hive has emerged in a nearby area. If not destroyed, it will soon form a new colony, spreading infestation in the region. The hive is controlled by [siteFaction_name].
-\n[asker_nameDef] is asking us to destroy the hive, which means eliminating all insectoids and nests. [asker_label] says that [sitePart0_description].-->
-    <li>[asker_faction_name] 的 questDescription-&gt;[asker_nameFull]、[asker_faction_leaderTitle] 向我们发送了一条消息。附近地区出现了一个新的类昆虫蜂巢。如果不被消灭，它很快就会形成一个新的群体，在该地区传播感染。蜂巢由 [siteFaction_name] 控制。
+  <VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A new insectoid hive has emerged in a nearby area. If not destroyed, it will soon form a new colony, spreading infestation in the region. The hive is controlled by [siteFaction_name].
+\n[asker_nameDef] is asking us to destroy the hive, which means eliminating all insectoids and nests. [asker_label] says that [sitePart0_description].--><li>[asker_faction_name] 的 questDescription-&gt;[asker_nameFull]、[asker_faction_leaderTitle] 向我们发送了一条消息。附近地区出现了一个新的类昆虫蜂巢。如果不被消灭，它很快就会形成一个新的群体，在该地区传播感染。蜂巢由 [siteFaction_name] 控制。
 
-[asker_nameDef] 要求我们摧毁蜂巢，这意味着消灭所有昆虫和巢穴。 [asker_label] 表示 [sitePart0_description]。</li>
-  </VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+[asker_nameDef] 要求我们摧毁蜂巢，这意味着消灭所有昆虫和巢穴。 [asker_label] 表示 [sitePart0_description]。</li></VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
   <VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
     <!--EN: questName->The [insectoid] [hive]-->
     <li>questName-&gt;[insectoid] [hive]</li>

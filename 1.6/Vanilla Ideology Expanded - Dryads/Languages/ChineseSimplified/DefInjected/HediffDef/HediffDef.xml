@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain.-->
-  <VDE_NoPain.description>该动物的疼痛敏感性降低，并且由于疼痛而需要更长的时间才能被击倒。</VDE_NoPain.description>
+  <VDE_NoPain.description>痛觉神经的退化使这只生物很难被击倒。</VDE_NoPain.description>
   <!--EN: no pain sensitivity-->
-  <VDE_NoPain.label>没有疼痛敏感性</VDE_NoPain.label>
+  <VDE_NoPain.label>痛感屏蔽</VDE_NoPain.label>
   <!--EN: When an awakened dryad reaches 2 years of age, they start getting affected by separation sickness. This sickness is progressive and always lethal. It is caused by the dryad losing its connection to the Gauranlen tree, and not being able to restore it due to being unshackled.\n\nSeparation sickness can be slowed down by medicine, but eventually every Awakened dryad dies.-->
-  <VDE_SeparationSickness.description>当觉醒的树妖年满 2 岁时，他们就会开始受到分离病的影响。这种疾病是进行性的并且总是致命的。这是由于树妖失去了与高兰兰树的联系，并且由于被解开而无法恢复连接而引起的。
-
-分离病可以通过药物减缓，但最终每个觉醒的树妖都会死亡。</VDE_SeparationSickness.description>
+  <VDE_SeparationSickness.description>由于失去了与灵枢仙树间的共生联结，觉醒树精会在寿命满2年时患上诀离症，最终迎来不可避免的死亡。\n\n诀离症可通过药物治疗来缓解，但这依然无法改变觉醒树精最终死亡的命运。</VDE_SeparationSickness.description>
   <!--EN: separation sickness-->
-  <VDE_SeparationSickness.label>分离病</VDE_SeparationSickness.label>
+  <VDE_SeparationSickness.label>诀离症</VDE_SeparationSickness.label>
   <!--EN: weakened-->
-  <VDE_SeparationSickness.stages.0.label>削弱</VDE_SeparationSickness.stages.0.label>
+  <VDE_SeparationSickness.stages.0.label>消亡</VDE_SeparationSickness.stages.0.label>
   <!--EN: withering-->
-  <VDE_SeparationSickness.stages.1.label>枯萎</VDE_SeparationSickness.stages.1.label>
+  <VDE_SeparationSickness.stages.1.label>虚弱</VDE_SeparationSickness.stages.1.label>
   <!--EN: vanishing-->
-  <VDE_SeparationSickness.stages.2.label>消失</VDE_SeparationSickness.stages.2.label>
+  <VDE_SeparationSickness.stages.2.label>凋零</VDE_SeparationSickness.stages.2.label>
 </LanguageData>

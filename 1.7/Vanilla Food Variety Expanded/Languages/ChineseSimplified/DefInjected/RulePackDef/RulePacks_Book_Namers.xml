@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VCEV_CookingBook_Namer.rulePack.rulesStrings>
+    <!--EN: title->[titleBasic]-->
+    <li>title-&gt;[titleBasic]</li>
+    <!--EN: title(p=2)->[titleAuthoredNoSubject]-->
+    <li>title(p=2)-&gt;[titleAuthoredNoSubject]</li>
+    <!--EN: titleBasic(p=6)->[randAdjective] [subject_primary]-->
+    <li>titleBasic(p=6)-&gt;[randAdjective] [subject_primary]</li>
+    <!--EN: titleBasic(p=6)->[randNoun] and [subject_primary]-->
+    <li>titleBasic(p=6)-&gt;[randNoun] and [subject_primary]</li>
+    <!--EN: titleBasic->The Flavours of [subject_primary]-->
+    <li>titleBasic-&gt;The Flavours of [subject_primary]</li>
+    <!--EN: titleBasic->Savoury [subject_primary]-->
+    <li>titleBasic-&gt;Savoury [subject_primary]</li>
+    <!--EN: titleBasic->Global Gourmet [subject_primary]-->
+    <li>titleBasic-&gt;Global Gourmet [subject_primary]</li>
+    <!--EN: titleBasic->Fresh from [subject_primary]-->
+    <li>titleBasic-&gt;Fresh from [subject_primary]</li>
+    <!--EN: titleBasic->Spice Odyssey on [subject_primary]-->
+    <li>titleBasic-&gt;Spice Odyssey on [subject_primary]</li>
+    <!--EN: titleBasic->Quick and Easy Weeknight Meals of [subject_primary]-->
+    <li>titleBasic-&gt;Quick and Easy Weeknight Meals of [subject_primary]</li>
+    <!--EN: titleBasic->Grandma's Kitchen in [subject_primary]-->
+    <li>titleBasic-&gt;Grandma's Kitchen in [subject_primary]</li>
+    <!--EN: titleBasic->The Healthy Plate of [subject_primary]-->
+    <li>titleBasic-&gt;The Healthy Plate of [subject_primary]</li>
+    <!--EN: titleBasic->The Ultimate Vegan Cookbook in [subject_primary]-->
+    <li>titleBasic-&gt;The Ultimate Vegan Cookbook in [subject_primary]</li>
+    <!--EN: titleBasic->Culinary Classics of [subject_primary]-->
+    <li>titleBasic-&gt;Culinary Classics of [subject_primary]</li>
+    <!--EN: titleBasic->Cooking with Love in [subject_primary]-->
+    <li>titleBasic-&gt;Cooking with Love in [subject_primary]</li>
+    <!--EN: titleBasic->Fire and Smoke: A Griller's Guide to [subject_primary]-->
+    <li>titleBasic-&gt;Fire and Smoke: A Griller's Guide to [subject_primary]</li>
+    <!--EN: titleBasic->Bake It Easy: [subject_primary]-->
+    <li>titleBasic-&gt;Bake It Easy: [subject_primary]</li>
+    <!--EN: titleBasic->Fusion Feast: [subject_primary]-->
+    <li>titleBasic-&gt;Fusion Feast: [subject_primary]</li>
+    <!--EN: titleBasic->Soulful Southern Cooking: [subject_primary]-->
+    <li>titleBasic-&gt;Soulful Southern Cooking: [subject_primary]</li>
+    <!--EN: titleBasic->The One-Pot Wonder: [subject_primary]-->
+    <li>titleBasic-&gt;The One-Pot Wonder: [subject_primary]</li>
+    <!--EN: titleBasic->The Lazy Cook's Handbook of [subject_primary]-->
+    <li>titleBasic-&gt;The Lazy Cook's Handbook of [subject_primary]</li>
+    <!--EN: titleBasic->Perfect Pasta Every Time: [subject_primary]-->
+    <li>titleBasic-&gt;Perfect Pasta Every Time: [subject_primary]</li>
+    <!--EN: titleBasic->Wholesome Meals for the Family: [subject_primary]-->
+    <li>titleBasic-&gt;Wholesome Meals for the Family: [subject_primary]</li>
+    <!--EN: titleBasic->Tips, Tricks, and Recipes of [subject_primary]-->
+    <li>titleBasic-&gt;Tips, Tricks, and Recipes of [subject_primary]</li>
+    <!--EN: titleBasic->Desserts to Die For: [subject_primary]-->
+    <li>titleBasic-&gt;Desserts to Die For: [subject_primary]</li>
+    <!--EN: titleBasic->The Chocolate Lover's Cookbook of [subject_primary]-->
+    <li>titleBasic-&gt;The Chocolate Lover's Cookbook of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookbook of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Cookbook of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s [randAdjective] Recipes of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s [randAdjective] Recipes of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipes of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Recipes of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Culinary Guide of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Culinary Guide of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipe Collection of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Recipe Collection of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Kitchen Manual of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Kitchen Manual of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookery Book of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Cookery Book of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomy Guide of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Gastronomy Guide of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Food Guide of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Food Guide of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Chef’s Handbook of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Chef’s Handbook of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cooking Compendium of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Cooking Compendium of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cook’s Companion of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Cook’s Companion of [subject_primary]</li>
+    <!--EN: titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomic Bible of [subject_primary]-->
+    <li>titleAuthoredNoSubject-&gt;[ANYPAWN_nameIndef]'s Gastronomic Bible of [subject_primary]</li>
+  </VCEV_CookingBook_Namer.rulePack.rulesStrings>
+</LanguageData>

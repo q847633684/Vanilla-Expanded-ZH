@@ -1,0 +1,636 @@
+key,text,tag,file,type
+VFEI_ModNameForSettings,VFE - Insectoids 2,VFEI_ModNameForSettings,Keys.xml,keyed
+VFEI_InsectTerritoryScale,Infested area,VFEI_InsectTerritoryScale,Keys.xml,keyed
+VFEI_Infestation,Infestation,VFEI_Infestation,Keys.xml,keyed
+VFEI_InfestationTooltip,"Whether this tile is under the effects of an insectoid infestation.
+
+Areas around insectoid hives are often teeming with insects, with various insect-built structures affecting the environment. Infestations are much more likely to occur, and travelling parties may find roaming insectoids.",VFEI_InfestationTooltip,Keys.xml,keyed
+VFEI_Present,Present,VFEI_Present,Keys.xml,keyed
+VFEI_SettleWarning,"This tile is near an insectoid hive, so there will be an ever-present insectoid influence on it. Infestations will happen every {0} days. Large infestations are much more likely to happen, and may occur anywhere, not just in dark areas. Megaspiders, spelopedes and megascarabs are roaming free, and travelling caravans may have to fend off insectoid swarms.",VFEI_SettleWarning,Keys.xml,keyed
+VFEI_LarvaeTimeSpawn,{0} before next swarmling spawn.,VFEI_LarvaeTimeSpawn,Keys.xml,keyed
+VFEI_NoMoreSpawningAllowed,Queen is resting.,VFEI_NoMoreSpawningAllowed,Keys.xml,keyed
+VFEI2_RoyalInsectJelly,Royal insect jelly fullness:,VFEI2_RoyalInsectJelly,Keys.xml,keyed
+VFEI2_Chemfuel,Chemfuel fullness:,VFEI2_Chemfuel,Keys.xml,keyed
+VFEI2_Chitin,Shedding chitin in:,VFEI2_Chitin,Keys.xml,keyed
+VFEI_CocoonInsectSpawnIn,{0} before insect spawn.,VFEI_CocoonInsectSpawnIn,Keys.xml,keyed
+VFEI_CreatingCocoon,{0} to create cocoon,VFEI_CreatingCocoon,Keys.xml,keyed
+VFEI_CannotPlaceCloseToOtherCreeper,Cannot be placed close to other creeper.,VFEI_CannotPlaceCloseToOtherCreeper,Keys.xml,keyed
+VFEI_CannotPlaceCloseToOtherJellyFarm,Cannot be placed close to other jelly farm.,VFEI_CannotPlaceCloseToOtherJellyFarm,Keys.xml,keyed
+VFEI_Insectoids,Insectoids,VFEI_Insectoids,Keys.xml,keyed
+VFEI_ChooseInsectoidColor,Choose insectoid {0} color,VFEI_ChooseInsectoidColor,Keys.xml,keyed
+VFEI_DefenderDesc,Defender insectoids vigilantly protect their hive by attacking any hostile entities that come within a designated radius.,VFEI_DefenderDesc,Keys.xml,keyed
+VFEI_HunterDesc,"Hunter insectoids proactively search for and hunt wildlife near their hive, bringing back and storing kills for communal consumption.",VFEI_HunterDesc,Keys.xml,keyed
+VFEI_WorkerDesc,"Worker insectoids are tasked with constructing and maintaining insectoid-specific structures, as well as performing essential hauling and mining duties.",VFEI_WorkerDesc,Keys.xml,keyed
+VFEI_InsectoidWillBeSpawnedIn,{0} will be spawned in: {1},VFEI_InsectoidWillBeSpawnedIn,Keys.xml,keyed
+VFEI_SpawningStoppedMaxCapacity,Spawning stopped: maximum amount reached.,VFEI_SpawningStoppedMaxCapacity,Keys.xml,keyed
+VFEI_AlreadyActivated,already activated,VFEI_AlreadyActivated,Keys.xml,keyed
+VFEI_OnCooldown,will be available in {0},VFEI_OnCooldown,Keys.xml,keyed
+VFEI_OtherThumperIsActive,other thumper is active,VFEI_OtherThumperIsActive,Keys.xml,keyed
+VFEI_PherocoreCanBeUsedOnHive,{0} can only be used on an {1}.,VFEI_PherocoreCanBeUsedOnHive,Keys.xml,keyed
+VFEI_HiveCannotBeUpgradedMore,Cannot upgrade: reached maximum size of the {0}.,VFEI_HiveCannotBeUpgradedMore,Keys.xml,keyed
+VFEI_InfestationHasSpread,Quest failed: {0},VFEI_InfestationHasSpread,Keys.xml,keyed
+VFEI_InfestationHasSpreadDesc,The insectoid hive has spread. The quest {0} has ended.,VFEI_InfestationHasSpreadDesc,Keys.xml,keyed
+VFEI_InsectSummonWarning,Activating the {0} will summon the following hostile insects:\n\n{PAWNS}\n\nAre you ready to fight?,VFEI_InsectSummonWarning,Keys.xml,keyed
+VFEI_LetterLabelInsectWaveSummoned,{0} summoned,VFEI_LetterLabelInsectWaveSummoned,Keys.xml,keyed
+VFEI_LetterInsectWaveSummoned,"Attracted by your thumper vibrations, an insectoid leader from {0} will emerge from the ground soon. Be prepared.",VFEI_LetterInsectWaveSummoned,Keys.xml,keyed
+VFEI_LetterLabelInsectWaveArrived,{0} arrived,VFEI_LetterLabelInsectWaveArrived,Keys.xml,keyed
+VFEI_LetterInsectWaveArrived,"An insectoid leader from {0} has come to eradicate you, along with escorts.\n\nThe assault group is composed of the following insects:\n\n{1}",VFEI_LetterInsectWaveArrived,Keys.xml,keyed
+VFEI_AlertInsectWaveIncoming,{0} incoming,VFEI_AlertInsectWaveIncoming,Keys.xml,keyed
+VFEI_AlertInsectWaveIncomingDesc,"Alerted by your thumper, a hostile {0} with an army of insectoids are digging their way towards the surface. They will arrive in a few hours.",VFEI_AlertInsectWaveIncomingDesc,Keys.xml,keyed
+VFEI_HiveArea,Hive area,VFEI_HiveArea,Keys.xml,keyed
+VFEI_HiveAreaClear,Clear hive area,VFEI_HiveAreaClear,Keys.xml,keyed
+VFEI_HiveAreaClearDesc,"Removes a hive area. Your insectoids will no longer work, look for prey and attack hostile targets here.",VFEI_HiveAreaClearDesc,Keys.xml,keyed
+VFEI_HiveAreaExpand,Hive area,VFEI_HiveAreaExpand,Keys.xml,keyed
+VFEI_HiveAreaExpandDesc,"Create a hive area where your insectoid hives will work, look for prey and attack hostile targets. Your insectoids will not leave the hive area.",VFEI_HiveAreaExpandDesc,Keys.xml,keyed
+VFEI_HiveCloseProximityWarning,Constructing artificial hives in close proximity to each other will increase their maintenance need.,VFEI_HiveCloseProximityWarning,Keys.xml,keyed
+VFEI_MaintenanceLossSpeed,Maintenance loss speed: {0},VFEI_MaintenanceLossSpeed,Keys.xml,keyed
+VFEI_MinHiveStabilityDistance,Nearby artificial hive distance penalty,VFEI_MinHiveStabilityDistance,Keys.xml,keyed
+VFEI_StabilityHiveMaintenancePenalty,Stability Hive maintenance penalty,VFEI_StabilityHiveMaintenancePenalty,Keys.xml,keyed
+VFEI_CannotUseRoofed,Caster is in a roofed area.,VFEI_CannotUseRoofed,Keys.xml,keyed
+VFEI_JellyFarmProductionAmount,Jelly farm production amount,VFEI_JellyFarmProductionAmount,Keys.xml,keyed
+VFEI_CreeperSpawnSpeed,Creeper spawn speed,VFEI_CreeperSpawnSpeed,Keys.xml,keyed
+VFEI_TendrilmossSpawnSpeed,Tendril farm spawn speed,VFEI_TendrilmossSpawnSpeed,Keys.xml,keyed
+VFEI_BaseArtificalInsectCount,Base artificial hive insect count,VFEI_BaseArtificalInsectCount,Keys.xml,keyed
+VFEI_TimeUntilThornsRegrow,Time until thorns regrow: {0},VFEI_TimeUntilThornsRegrow,Keys.xml,keyed
+VFEI_MaintainedByHivenode,Maintained by hivenode,VFEI_MaintainedByHivenode,Keys.xml,keyed
+VFEI_NeedsToBeMaintainedIn,Due for maintenance in {0},VFEI_NeedsToBeMaintainedIn,Keys.xml,keyed
+VFEI_DueForMaintenance,Due for maintenance. {0} until it starts deteriorating.,VFEI_DueForMaintenance,Keys.xml,keyed
+VFEI_CannotPlaceCloseToOtherBasicHive,Cannot be placed close to other artificial basic hive,VFEI_CannotPlaceCloseToOtherBasicHive,Keys.xml,keyed
+VFEI_NextInsectBurrowing,Next insectoid burrowing in: {0},VFEI_NextInsectBurrowing,Keys.xml,keyed
+VFEI_BurrowWaves,{0} insectoid waves out of {1},VFEI_BurrowWaves,Keys.xml,keyed
+VFEI_BurrowCollapsed,Insectoid burrow has become unstable and collapsed.,VFEI_BurrowCollapsed,Keys.xml,keyed
+VFEI_NotForPlayers,This Patriarch is under player control and therefore has no connection to a wild hive,VFEI_NotForPlayers,Keys.xml,keyed
+VFEI_BaseTimeBetweenHanHordeWaves,Base time between Han Horde-mode waves,VFEI_BaseTimeBetweenHanHordeWaves,Keys.xml,keyed
+VFEI_ResearchUnlockedForCompletingWave,{0} has been unlocked for completing the wave.,VFEI_ResearchUnlockedForCompletingWave,Keys.xml,keyed
+VFEI_CargoPodsSentForCompletingWave,Cargo pods have been sent for completing the wave.,VFEI_CargoPodsSentForCompletingWave,Keys.xml,keyed
+VFEI_WaveActivityOverlay,"Activity: {0}.
+Wave size multiplier: {1}.
+Time before the wave: {2}.
+Chosen geneline: {3}.",VFEI_WaveActivityOverlay,Keys.xml,keyed
+VFEI_EnemiesComing,Enemies coming:,VFEI_EnemiesComing,Keys.xml,keyed
+VFEI_RequiresFloor,{0_label} needs {1} underneath.,VFEI_RequiresFloor,Keys.xml,keyed
+VFEI2_PatriarchNotTameable,Patriarch cannot be tamed,VFEI2_PatriarchNotTameable,Keys.xml,keyed
+VFEI2_FlameSpew.label,flame spew,label,AbilityDef/Abilities.xml,def
+VFEI2_FlameSpew.description,"Eject a flow of adhesive, combustible fluid from the oral cavity. This fluid, upon contact, can set ablaze any target or create burning patches upon surfaces. It is produced and held within a gland located in the throat, accompanied by a distinct sac filled with a spontaneously igniting chemical, ensuring immediate combustion upon expulsion.",description,AbilityDef/Abilities.xml,def
+VFEI2_InsectAcidSpit.label,insect acid spit,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectAcidSpit.description,Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them.,description,AbilityDef/Abilities.xml,def
+VFEI2_InsectAcidSpew.label,insect acid spew,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectAcidSpew.description,Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them.,description,AbilityDef/Abilities.xml,def
+VFEI2_LargeAcidSpew.label,large acid spew,label,AbilityDef/Abilities.xml,def
+VFEI2_LargeAcidSpew.description,Insectoid sprays a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid deals damage over time.,description,AbilityDef/Abilities.xml,def
+VFEI2_ChemfuelSpew.label,fuel spew,label,AbilityDef/Abilities.xml,def
+VFEI2_ChemfuelSpew.description,"Discharge a stream of liquid chemfuel from the mouth. This liquid, when released, can coat any object or individual it contacts, without igniting or causing immediate combustion. The chemfuel is synthesized and stored within a specialized organ in the neck area.",description,AbilityDef/Abilities.xml,def
+VFEI2_ChemfuelSpit.label,chemfuel spit,label,AbilityDef/Abilities.xml,def
+VFEI2_ChemfuelSpit.description,Titantick vomits a giant blob of burning chemfuel over a large distance.,description,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Short.label,insect shortglide,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Short.description,Insectoid does a wing-assisted jump to a close location using strong hind legs.,description,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Short.verbProperties.label,insect shortglide,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Medium.label,insect glide,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Medium.description,Insectoid does a wing-assisted jump to a location using strong hind legs.,description,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Medium.verbProperties.label,insect glide,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Far.label,insect farglide,label,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Far.description,Insectoid does a wing-assisted jump to a very distant location using strong hind legs.,description,AbilityDef/Abilities.xml,def
+VFEI2_InsectGlide_Far.verbProperties.label,insect farglide,label,AbilityDef/Abilities.xml,def
+VFEI2_WideTunnels.label,breacher charge,label,AbilityDef/Abilities.xml,def
+VFEI2_WideTunnels.description,"Insectoid charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease.",description,AbilityDef/Abilities.xml,def
+VFEI2_WideTunnels.verbProperties.label,wide tunnels,label,AbilityDef/Abilities.xml,def
+VFEI2_CreateSmallBurrow.label,create small burrow,label,AbilityDef/Abilities.xml,def
+VFEI2_CreateSmallBurrow.description,"Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a small burrow.",description,AbilityDef/Abilities.xml,def
+VFEI2_CreateMediumBurrow.label,create burrow,label,AbilityDef/Abilities.xml,def
+VFEI2_CreateMediumBurrow.description,"Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a medium burrow.",description,AbilityDef/Abilities.xml,def
+VFEI2_CreateLargeBurrow.label,create large burrow,label,AbilityDef/Abilities.xml,def
+VFEI2_CreateLargeBurrow.description,"Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a large burrow.",description,AbilityDef/Abilities.xml,def
+VFEI2_ClawedInsectoid.label,clawed insectoid,label,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.0.customLabel,left elytra,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.1.customLabel,right elytra,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.4.parts.0.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.4.parts.0.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.4.parts.0.parts.3.customLabel,left antenna,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.4.parts.0.parts.4.customLabel,right antenna,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.7.customLabel,front left leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.8.customLabel,front right leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.9.customLabel,middle left leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.10.customLabel,middle right leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.11.customLabel,rear left leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_ClawedInsectoid.corePart.parts.12.customLabel,rear right leg,customLabel,BodyDef/Bodies_ClawedInsectoid.xml,def
+VFEI2_Swarmling.label,swarmling,label,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_Swarmling.corePart.parts.0.customLabel,swarmling,customLabel,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_Swarmling.corePart.parts.1.customLabel,swarmling,customLabel,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_Swarmling.corePart.parts.2.customLabel,swarmling,customLabel,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_Swarmling.corePart.parts.3.customLabel,swarmling,customLabel,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_Swarmling.corePart.parts.4.customLabel,swarmling,customLabel,BodyDef/Bodies_Swarmling.xml,def
+VFEI2_ClawAttackTool.label,claws,label,BodyPartGroupDef/BodyPartGroups.xml,def
+VFEI2_SwarmlingA.label,swarmling,label,BodyPartGroupDef/BodyPartGroups.xml,def
+VFEI2_SwarmlingB.label,swarmling,label,BodyPartGroupDef/BodyPartGroups.xml,def
+VFEI2_SwarmlingC.label,swarmling,label,BodyPartGroupDef/BodyPartGroups.xml,def
+VFEI2_SwarmlingD.label,swarmling,label,BodyPartGroupDef/BodyPartGroups.xml,def
+VFEI2_Swarmling.label,swarmling,label,BodyPartDef/BodyParts_Insectoids.xml,def
+VFEI2_LeftClaw.label,left claw,label,BodyPartDef/BodyParts_Insectoids.xml,def
+VFEI2_RightClaw.label,right claw,label,BodyPartDef/BodyParts_Insectoids.xml,def
+VFEI2_ToxicSting.label,toxic sting,label,DamageDef/DamageMisc.xml,def
+VFEI2_ToxicSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/DamageMisc.xml,def
+VFEI2_AcidBite.label,acidic bite,label,DamageDef/DamageMisc.xml,def
+VFEI2_AcidBite.deathMessage,{0} has been bitten to death.,deathMessage,DamageDef/DamageMisc.xml,def
+VFEI2_TeramantisStun.label,cut,label,DamageDef/DamageMisc.xml,def
+VFEI2_TeramantisStun.deathMessage,{0} has been cut to death.,deathMessage,DamageDef/DamageMisc.xml,def
+VFEI2_AcidSpit.label,acid spit,label,DamageDef/DamageMisc.xml,def
+VFEI2_AcidSpit.deathMessage,{0} has been corroded to death.,deathMessage,DamageDef/DamageMisc.xml,def
+VFEI2_RoyalInsectJelly.label,royal insect jelly,label,ThingDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalInsectJelly.description,"A golden, shining jelly used by the insect queens to create new spawn. It is smooth, rich, and brings joy to those who consume it. Because of its unique biological composition, it boosts immunity and nourishes anyone who has a taste of it. Addiction to royal jelly can compromise the immunity system of the addict. It is also known to increase the speed of gestating hive leaders in victims.",description,ThingDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyHigh.label,high on royal jelly,label,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyHigh.description,High on royal jelly,description,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyChemical.label,royal jelly,label,ChemicalDef/RoyalInsectJelly.xml,def
+VFEI2_Chemical_RoyalJelly.label,royal jelly,label,NeedDef/RoyalInsectJelly.xml,def
+VFEI2_Chemical_RoyalJelly.description,"Because of a royal jelly addiction, this person needs to regularly consume the jelly to avoid withdrawal symptoms, which include complete halt of the immune system.",description,NeedDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyTolerance.label,royal jelly tolerance,label,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyTolerance.description,Royal jelly tolerance,description,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyAddiction.label,royal jelly addiction,label,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyAddiction.description,"A chemical addiction to royal jelly. Regular consumption of royal jelly has caused immunological adaptations at the genetic level, so the immune system can no longer function properly without the drug. Whenever an infection happen, the addicted person will not be able to overcome it without royal jelly. However, extended abstinence will force the immune system to adapt back to its normal state, resolving the addiction.",description,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyAddiction.stages.0.label,addicted,label,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJellyAddiction.stages.1.label,withdrawal,label,HediffDef/RoyalInsectJelly.xml,def
+VFEI2_AteRoyalJelly.stages.0.label,consumed royal jelly,label,ThoughtDef/RoyalInsectJelly.xml,def
+VFEI2_AteRoyalJelly.stages.0.description,What is the charge? Eating a meal? A succulent jelly meal?,description,ThoughtDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJelly_Withdrawal.stages.1.label,royal jelly withdrawal,label,ThoughtDef/RoyalInsectJelly.xml,def
+VFEI2_RoyalJelly_Withdrawal.stages.1.description,"Man, I wish I had some royal jelly.",description,ThoughtDef/RoyalInsectJelly.xml,def
+VFEI2_PlayerOutpost.label,New Squad,label,FactionDef/Factions_Player.xml,def
+VFEI2_PlayerOutpost.description,"A small squad of mercenaries, ready for combat.",description,FactionDef/Factions_Player.xml,def
+VFEI2_PlayerOutpost.pawnSingular,mercenary,pawnSingular,FactionDef/Factions_Player.xml,def
+VFEI2_PlayerOutpost.pawnsPlural,mercenaries,pawnsPlural,FactionDef/Factions_Player.xml,def
+VFEI2_ToxicBuildup.description,"Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.label,toxic buildup,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.0.label,initial,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.1.label,initial,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.2.label,minor,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.3.label,moderate,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.4.label,serious,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ToxicBuildup.stages.5.label,extreme,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ArmorDegradation.description,The armor of this insectoid has been cracked and lost part of its efficiency.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_ArmorDegradation.label,armor degradation,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_TeramantisStun.description,This creature has recently been stunned from a surprise attack.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_TeramantisStun.label,recently stunned,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_AcidImmunity.description,Insectoids from the Kemia geneline are immune to acid.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_AcidImmunity.label,acid immunity,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI_WorkerInsectType.label,worker type,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI_HunterInsectType.label,hunter type,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI_DefenderInsectType.label,defender type,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI_ToBeCocooned.label,to be cocooned,label,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI_ToBeCocooned.description,To be cocooned.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VFEI2_EmpressSpawn.label,empress spawn,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_EmpressSpawn.description,"A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony.",description,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_EmpressSpawn.stages.0.label,egg,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_EmpressSpawn.stages.1.label,larva,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_EmpressSpawn.stages.2.label,pupa,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_EmpressSpawn.stages.3.label,juvenile,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.label,gigamite spawn,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.description,"A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony.",description,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.stages.0.label,egg,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.stages.1.label,larva,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.stages.2.label,pupa,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_GigamiteSpawn.stages.3.label,juvenile,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.label,silverfish spawn,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.description,"A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony.",description,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.stages.0.label,egg,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.stages.1.label,larva,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.stages.2.label,pupa,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_SilverfishSpawn.stages.3.label,juvenile,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.label,titantick spawn,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.description,"A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony.",description,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.stages.0.label,egg,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.stages.1.label,larva,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.stages.2.label,pupa,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TitantickSpawn.stages.3.label,juvenile,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.label,teramantis spawn,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.description,"A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony.",description,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.stages.0.label,egg,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.stages.1.label,larva,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.stages.2.label,pupa,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI2_TeramantisSpawn.stages.3.label,juvenile,label,HediffDef/Hediffs_Reproduction.xml,def
+VFEI_InfestedChunkCrash.label,infested chunk crash,label,IncidentDef/Incidents.xml,def
+VFEI_InfestedChunkCrash.letterLabel,Infested chunk crash,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_InfestedChunkCrash.letterText,A number of small chunks of an ancient ship has crashed nearby. \n\nThey seem to be infested with an organic mass. Bizarre insect chittering can be heard within the hull. \n\nDestroy them as soon as possible.,letterText,IncidentDef/Incidents.xml,def
+VFEI_InfestedPartCrash.label,infested part crash,label,IncidentDef/Incidents.xml,def
+VFEI_InfestedPartCrash.letterLabel,Infested part crash,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_InfestedPartCrash.letterText,A large piece of an ancient ship has crashed nearby.\n\nIt seems to be infested with an organic mass. Bizarre insect chittering can be heard within the hull.\n\nDestroy it as soon as possible.,letterText,IncidentDef/Incidents.xml,def
+VFEI_InfestedModuleCrash.label,infested module crash,label,IncidentDef/Incidents.xml,def
+VFEI_InfestedModuleCrash.letterLabel,Infested module crash,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_InfestedModuleCrash.letterText,A mysterious segment of a long destroyed spaceship has crashed nearby.\n\nIt seems to be completely covered in biomass and lumps of insectoid jelly. It is fairly certain that this old wreckage may contain ancient dangers.\n\nDestroy it as soon as possible.,letterText,IncidentDef/Incidents.xml,def
+VFEI_RoamingInsectoids.label,roaming insectoids,label,IncidentDef/Incidents.xml,def
+VFEI_RoamingInsectoids.letterText,{0} has been ambushed by insectoids from {2}!,letterText,IncidentDef/Incidents.xml,def
+VFEI_RoamingInsectoids.letterLabel,Roaming insectoids,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_LargeInfestation.label,large infestation,label,IncidentDef/Incidents.xml,def
+VFEI_LargeInfestation.letterLabel,Large infestation,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_LargeInfestation.letterText,"A large swarm of giant insects is tunneling towards you! They will break through in a few seconds and plant hives, as well as other insectoid-built formations.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.",letterText,IncidentDef/Incidents.xml,def
+VFEI_BurrowSiege.label,burrow siege,label,IncidentDef/Incidents.xml,def
+VFEI_BurrowSiege.letterLabel,Burrow Siege,letterLabel,IncidentDef/Incidents.xml,def
+VFEI_BurrowSiege.letterText,"A swarm of rare royal insects is tunneling towards you! They will break through in a few seconds and create burrows, that will allow more and more insects to reach the surface. These burrows can only be destroyed using explosives, but they will also collapse after some time.\n\nThe burrows will send insectoids in decreasing intervals until they become too unstable.\n\nThe insects belong to the royal geneline and are significantly harder to kill than their standard counterparts.",letterText,IncidentDef/Incidents.xml,def
+VFEI_HordeWaveRaid.label,horde wave raid,label,IncidentDef/Incidents.xml,def
+VFEI_InsectHunt.reportString,hunting TargetA.,reportString,JobDef/Jobs.xml,def
+VFEI_UpgradeHive.reportString,upgrading TargetA.,reportString,JobDef/Jobs.xml,def
+VFE_Mercenary.label,mercenary,label,PawnKindDef/PawnKinds_Player.xml,def
+VFEI_InsectoidHiveRatingOne.label,insectoid hive,label,SitePartDef/Script_EmergingHive.xml,def
+VFEI_InsectoidHiveRatingOne.description,An insectoid hive.,description,SitePartDef/Script_EmergingHive.xml,def
+VFEI_InsectoidHiveRatingTwo.label,insectoid hive,label,SitePartDef/Script_EmergingHive.xml,def
+VFEI_InsectoidHiveRatingTwo.description,An insectoid hive.,description,SitePartDef/Script_EmergingHive.xml,def
+VFEI_InsectoidHiveRatingThree.label,insectoid hive,label,SitePartDef/Script_EmergingHive.xml,def
+VFEI_InsectoidHiveRatingThree.description,An insectoid hive.,description,SitePartDef/Script_EmergingHive.xml,def
+VFEI2_Util_GenerateSite.root.singleSitePartRules.rulesStrings.0,root->there are (*Threat)[count] insectoid hives(/Threat),li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.0,questName->The [insectoid] [hive],li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.1,questName->[insectoid] [hive],li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.2,questName->[asker_nameDef] and the [hive],li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.3,hive->Hive,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.4,hive->Nest,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.5,hive->Colony,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.6,hive->Swarm,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.7,insectoid->Insectoid,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.8,insectoid->Creeping,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.9,insectoid->Chitinous,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.10,insectoid->Feral,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings.11,insectoid->Voracious,li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings.0,"questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A new insectoid hive has emerged in a nearby area. If not destroyed, it will soon form a new colony, spreading infestation in the region. The hive is controlled by [siteFaction_name].
+\n[asker_nameDef] is asking us to destroy the hive, which means eliminating all insectoids and nests. [asker_label] says that [sitePart0_description].",li,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.root.nodes.12.node.nodes.1.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.root.nodes.12.node.nodes.1.text,The insectoid hive has established a new colony. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.root.nodes.13.node.nodes.1.nodeIfChosenPawnSignalUsed.label,[asker_faction_royalFavorLabel],label,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_OpportunitySite_InsectoidHive.root.nodes.13.node.nodes.1.nodeIfChosenPawnSignalUsed.text,These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.,text,QuestScriptDef/Script_EmergingHive.xml,def
+VFEI2_AdministerSornePherocore.label,administer Sorne pherocore,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerSornePherocore.description,Administer Sorne pherocore to convert this person into an Empress.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerSornePherocore.jobString,Administering Sorne pherocore to convert this person into an Empress.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerNuchadusPherocore.label,administer Nuchadus pherocore,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerNuchadusPherocore.description,Administer Nuchadus pherocore to convert this person into a Titantick.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerNuchadusPherocore.jobString,Administering Nuchadus pherocore to convert this person into a Titantick.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerChelisPherocore.label,administer Chelis pherocore,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerChelisPherocore.description,Administer Chelis pherocore to convert this person into a Teramantis.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerChelisPherocore.jobString,Administering Chelis pherocore to convert this person into a Teramantis.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerKemianPherocore.label,administer Kemian pherocore,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerKemianPherocore.description,Administer Kemian pherocore to convert this person into a Gigamite.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerKemianPherocore.jobString,Administering Kemian pherocore to convert this person into a Gigamite.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerXanidesPherocore.label,administer Xanides pherocore,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerXanidesPherocore.description,Administer Xanides pherocore to convert this person into a Silverfish.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_AdministerXanidesPherocore.jobString,Administering Xanides pherocore to convert this person into a Silverfish.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VFEI2_BasicHivetech.label,basic hivetech,label,ResearchProjectDef/ResearchProjects.xml,def
+VFEI2_BasicHivetech.description,The technology needed for your colony to create basic-tier hives.,description,ResearchProjectDef/ResearchProjects.xml,def
+VFEI2_StandardHivetech.label,standard hivetech,label,ResearchProjectDef/ResearchProjects.xml,def
+VFEI2_StandardHivetech.description,The technology needed for your colony to create standard-tier hives. The construction of various thumpers will allow you to summon powerful insectoid bosses.,description,ResearchProjectDef/ResearchProjects.xml,def
+VFEI2_ExoticHivetech.label,exotic hivetech,label,ResearchProjectDef/ResearchProjects.xml,def
+VFEI2_ExoticHivetech.description,The technology needed for your colony to create exotic-tier hives.,description,ResearchProjectDef/ResearchProjects.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.0,damage_source->A [grinding] silverfish [crushed],li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.1,destroyed_present(p=3)->tearing off,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.2,grinding->stampeding,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.3,grinding->passing,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.4,grinding(p=10)->,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.5,crushed(p=8)->crushed,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.6,crushed->pulverized,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFEI2_DamageEvent_Crushing.rulePack.rulesStrings.7,crushed->squashed,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.0,r_name->[inhive] [hivename],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.1,r_name->[hiveadjective] [hivename],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.2,r_name->The [hiveadjective] [hivename],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.3,r_name->[inhive] [hiveadjective] [hivename],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.4,r_name->The [inhive] [hivename],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.5,inhive->[insectsyllable][insectsyllable]hive,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.6,inhive->[insectsyllable][insectsyllable]clan,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.7,inhive->[insectsyllable][insectsyllable]swarm,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.8,inhive->[insectsyllable][insectsyllable]colony,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.9,hivename->[insectsyllable][insectsyllable][insectsyllable],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.10,hivename->[insectsyllable][insectsyllable][suffix],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.11,hivename->[prefix][insectsyllable][insectsyllable],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.12,hiveadjective->[insectadjective],li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.13,insectsyllable->skrit,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.14,insectsyllable->krax,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.15,insectsyllable->vith,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.16,insectsyllable->zarn,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.17,insectsyllable->klak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.18,insectsyllable->thak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.19,insectsyllable->grix,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.20,insectsyllable->drik,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.21,insectsyllable->brak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.22,insectsyllable->krak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.23,insectsyllable->nith,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.24,insectsyllable->slek,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.25,insectsyllable->tik,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.26,insectsyllable->vok,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.27,insectsyllable->zlik,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.28,insectsyllable->trak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.29,insectsyllable->grith,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.30,prefix->Xa,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.31,prefix->Zo,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.32,prefix->Ki,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.33,prefix->Va,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.34,prefix->La,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.35,prefix->Ba,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.36,prefix->Da,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.37,prefix->Ta,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.38,prefix->Fa,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.39,suffix->tor,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.40,suffix->lox,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.41,suffix->rix,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.42,suffix->zoth,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.43,suffix->kar,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.44,suffix->lok,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.45,suffix->gorn,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.46,suffix->vrax,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.47,suffix->drak,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.48,insectadjective->venomous,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.49,insectadjective->chitinous,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.50,insectadjective->winged,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.51,insectadjective->pincered,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.52,insectadjective->fanged,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.53,insectadjective->segmented,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.54,insectadjective->hissing,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.55,insectadjective->clawed,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFE_NamerFactionInsectoidHives.rulePack.rulesStrings.56,insectadjective->armored,li,RulePackDef/RulePacks_Namers_Insectoids.xml,def
+VFEI2_MercenarySquad.label,New Squad,label,ScenarioDef/Scenario.xml,def
+VFEI2_MercenarySquad.description,"The four of you, armed to the teeth, drop on an emerging insectoid nest. Eliminating this bug menace will be imperative to secure the local area.",description,ScenarioDef/Scenario.xml,def
+VFEI2_MercenarySquad.scenario.summary,"A group of mercenaries, diving into an insectoid menace. A classic VFE - Insectoids 2 experience.",summary,ScenarioDef/Scenario.xml,def
+VFEI2_MercenarySquad.scenario.description,"Hired by an urbworld magnate with a thirst for thrilling holovid content, your mission was as perilous as it was lucrative. Armed to the teeth, your squad plunges from orbit in experimental hellpods, targeting a land swarming with deadly insectoids. The promise of a hefty payday made the risk worthwhile - until you discovered the magnate's treacherous plan to stiff you.\nAs the hellpods streak towards the surface, your trajectory locks onto a semi-developed insectoid hive colony. Expect fierce resistance, but if you triumph, the area teems with resources ripe for establishing a base - either a temporary haven or a long-term stronghold.\nYou’re aware that survival isn’t guaranteed for all, but with the element of surprise on your side, the odds tilt ever so slightly in your favor.\n\nNote: Since you start inside an insectoid megahive, this is a difficult scenario.",description,ScenarioDef/Scenario.xml,def
+VFEI2_MercenarySquad.scenario.parts.12.text,"Hired by an urbworld magnate with a thirst for thrilling holovid content, your mission was as perilous as it was lucrative. Armed to the teeth, your squad plunges from orbit in experimental hellpods, targeting a land swarming with deadly insectoids. The promise of a hefty payday made the risk worthwhile - until you discovered the magnate's treacherous plan to stiff you.
+
+As the hellpods streak towards the surface, your trajectory locks onto a semi-developed insectoid hive colony. Expect fierce resistance, but if you triumph, the area teems with resources ripe for establishing a base - either a temporary haven or a long-term stronghold.
+
+You’re aware that survival isn’t guaranteed for all, but with the element of surprise on your side, the odds tilt ever so slightly in your favor.",text,ScenarioDef/Scenario.xml,def
+Chittering.label,Chittering,label,VFEInsectoids.WaveActivityDef/HanHorde.xml,def
+Stirring.label,Stirring,label,VFEInsectoids.WaveActivityDef/HanHorde.xml,def
+Buzzing.label,Buzzing,label,VFEInsectoids.WaveActivityDef/HanHorde.xml,def
+Scuttling.label,Scuttling,label,VFEInsectoids.WaveActivityDef/HanHorde.xml,def
+Writhing.label,Writhing,label,VFEInsectoids.WaveActivityDef/HanHorde.xml,def
+VFEI_EmpressEvil.label,Empress Evil,label,StorytellerDef/Storytellers.xml,def
+VFEI_EmpressEvil.description,"Empress Evil will tell a story of sorrow, misery and struggle, where a group of brave colonists face off against impossible odds. Good events will appear only after enduring extreme hardships, and will appear so sporadically, that you will celebrate even the smallest touch of serenity in the storm of evil.",description,StorytellerDef/Storytellers.xml,def
+VFEI_HanHordeMode.label,Han Horde-mode,label,StorytellerDef/Storytellers.xml,def
+VFEI_HanHordeMode.description,"Han Horde-mode has served numerous tours on Sorne and cannot imagine a life without a worthy adversary. As such, his story will be that of the endless waves of insectoids crashing against the bulwark of the valiant defense. The insectoid waves will follow a regular pattern of low-to-high activity, and each defeated wave will reward you with technological progression.",description,StorytellerDef/Storytellers.xml,def
+VFEI2_Creep.label,creep,label,TerrainDef/Terrain_Floors.xml,def
+VFEI2_Creep.description,"A unique form of cracked soil, devoid of any minerals and nutrition, created around the insectoid infested areas. Supports insectoid structures and significantly hinders non-insectoid movement.",description,TerrainDef/Terrain_Floors.xml,def
+VFEI2_BurnedCreep.label,burned creep,label,TerrainDef/Terrain_Floors.xml,def
+VFEI2_BurnedCreep.description,Burned-out creep.,description,TerrainDef/Terrain_Floors.xml,def
+VFEI2_JellyFloor.label,jellyfloor,label,TerrainDef/Terrain_Floors.xml,def
+VFEI2_JellyFloor.description,"A special form of gellatinous floor, which sprouts from the creep in insectoid hives. Supports insectoid structures and significantly hinders non-insectoid movement. It’s much less flammable than the creep, and it’s significantly easier to clean.",description,TerrainDef/Terrain_Floors.xml,def
+VFEI2_BurnedJellyFloor.label,burned jellyfloor,label,TerrainDef/Terrain_Floors.xml,def
+VFEI2_BurnedJellyFloor.description,Burned-out jellyfloor.,description,TerrainDef/Terrain_Floors.xml,def
+VFEI2_RoyalJellyFloor.label,royal jellyfloor,label,TerrainDef/Terrain_Floors.xml,def
+VFEI2_RoyalJellyFloor.description,"A special form of gellatinous floor consisting of royal jelly, which is created as a result of enriching jellyfloors. Supports insectoid structures and significantly hinders non-insectoid movement. Unlike creep, it’s not flammable, and does not collect animal filth.",description,TerrainDef/Terrain_Floors.xml,def
+VFEI2_SmallBurrowSpawner.label,tunnel,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_SmallBurrow.label,small insect burrow,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_SmallBurrow.description,A small insectoid-made hole connecting to some unseen cave network deep under the surface. The walls are covered in insectoid goop and are too slippery to climb down. Insectoid chittering can be heard from the tunnels beneath. They will emerge regularly in decreasing intervals until the burrow collapses or is destroyed. Burrows can only be damaged by explosions.,description,ThingDef/Buildings_Burrows.xml,def
+VFEI2_MediumBurrowSpawner.label,tunnel,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_MediumBurrow.label,insect burrow,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_MediumBurrow.description,A medium-sized insectoid-made hole connecting to some unseen cave network deep under the surface. The walls are covered in insectoid goop and are too slippery to climb down. Insectoid chittering can be heard from the tunnels beneath. They will emerge regularly in decreasing intervals until the burrow collapses or is destroyed. Burrows can only be damaged by explosions.,description,ThingDef/Buildings_Burrows.xml,def
+VFEI2_LargeBurrowSpawner.label,tunnel,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_LargeBurrow.label,large insect burrow,label,ThingDef/Buildings_Burrows.xml,def
+VFEI2_LargeBurrow.description,A massive insectoid-made hole connecting to some unseen cave network deep under the surface. The walls are covered in insectoid goop and are too slippery to climb down. Insectoid chittering can be heard from the tunnels beneath. They will emerge regularly in regular intervals until the burrow collapses or is destroyed. Burrows can only be damaged by explosions.,description,ThingDef/Buildings_Burrows.xml,def
+VFEI_HiveWall.label,hive wall,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI_HiveWall.description,An impassable wall made from insectoid goop. Capable of holding up a roof.,description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InsectJellyWall.label,insect jelly wall,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InsectJellyWall.description,"An impassable wall made from insect jelly, constructed by the worker caste of an insectoid geneline. Capable of holding up a roof.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_RoyalJellyWall.label,royal jelly wall,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_RoyalJellyWall.description,"An impassable, hard wall made from royal jelly, constructed by the worker caste of an insectoid geneline. Capable of holding up a roof.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI_HivestoneWall.label,hivestone wall,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI_HivestoneWall.description,"An impassable rock wall reinforced with thick and solidified insect goop. Much stronger than standard rock wall, but flammable. Capable of holding up a roof.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_LargeGlowPod.label,large glow pod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_LargeGlowPod.description,A large bioluminescent pod produced by giant insects. Glows under its own light and does not perish with time. Needs to be constructed on the creep.,description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_GlowPodFormation.label,glow pod formation,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_GlowPodFormation.description,A large cluster of bioluminescent pods produced by giant insects. Glows under its own light and does not perish with time. Needs to be constructed on the creep.,description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_GlowPodSpire.label,glow pod spire,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_GlowPodSpire.description,An incredibly tall spire of bioluminescent pods produced by giant insects. Lights an area brightly enough to grow crops and does not perish with time. Needs to be constructed on the creep.,description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_StaticPod.label,staticpod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_StaticPod.description,"A medium-sized hive structure capable of generating small amounts of electricity, produced by giant insects. Needs to be constructed on the creep and connected via conduits to batteries.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_FoamPod.label,foampod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_FoamPod.description,"An organic, firefoam pod produced by giant insects. When it senses fire, the pod pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. After some time has passed, it dies.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_TendrilFarm.label,tendril farm,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_TendrilFarm.description,"A pillar that slowly grows clusters of insectoid tendrilmoss. Needs to be constructed on the creep. While tendrilmoss generally acts as good and strong cover, it can be harvested and eaten.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Creeper.label,creeper,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Creeper.description,"A hive-like structure created by giant insects. It continuously extracts minerals and nutrition from the ground around it, feeding the hive and creating creep in surrounding area that greatly hinders the movement of anything that’s not an insectoid. If all area around a creeper is turned into creep, it will begin expunging insect jelly in regular intervals.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_JellyFarm.label,jelly farm,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_JellyFarm.description,"A deep organic bioreactor constantly generating insect jelly from nearby minerals and nutrition, produced by giant insects. Needs to be constructed on the creep.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipChunk.label,infested ship chunk,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipChunk.description,"A chunk of a spacecraft covered in biomass and insect jelly. Bizarre insect chittering can be heard within the hull. Can be deconstructed to yield useful steel and components. If left alone, it is impossible to tell when the insects will emerge from within.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipPart.label,infested ship part,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipPart.description,"An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one seems to be covered in biomass and insect jelly. Bizarre insect chittering can be heard within the hull. If left alone, it is impossible to tell when the insects will emerge from within.\n\nA mysterious crashed piece of a spaceship. It may contain exotic materials, computers, even AI personas. This kind of technology can be dangerous.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipModule.label,infested ship module,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InfestedShipModule.description,"A mysterious segment of a long destroyed spaceship. It may contain exotic materials, computers, even AI personas. It seems to be completely covered in biomass and lumps of insectoid jelly. It is fairly certain that this old wreckage may contain great dangers. Bizarre insect chittering can be heard within the hull. If left alone, it is impossible to tell when the insects will emerge from within.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI_InfestedMeteorIncoming.label,infested meteor (incoming),label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_KemianHive.label,kemian hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_KemianHive.description,"A hive of giant insects of the Kemian geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ChelisHive.label,chelis hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ChelisHive.description,"A hive of giant insects of the Chelis geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_XanidesHive.label,xanides hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_XanidesHive.description,"A hive of giant insects of the Xanides geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_NuchadusHive.label,nuchadus hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_NuchadusHive.description,"A hive of giant insects of the Nuchadus geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. May explode if damaged.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InsectoidCocoon.label,insectoid cocoon,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_InsectoidCocoon.description,"These jelly cocoons keep swarmlings safe from fire, extreme temperatures, and other threats while they undergo a metamorphosis process. After some time has passed, the cocoon will burst, releasing a fully grown insectoid.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialBasicHive.label,artificial basic hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialBasicHive.description,"An artificially constructed hive of giant insects. It is capable of spawning the most basic insectoids over time, as well as small amounts of valuable insect jelly. It requires no maintenance, but will still affect the maintenance of nearby hives.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialSorneHive.label,artificial sorne hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialSorneHive.description,"An artificially constructed hive of giant insects. It is capable of spawning various Sorne geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialNuchadusHive.label,artificial nuchadus hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialNuchadusHive.description,"An artificially constructed hive of giant insects. It is capable of spawning various Nuchadus geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialChelisHive.label,artificial chelis hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialChelisHive.description,"An artificially constructed hive of giant insects. It is capable of spawning various Chelis geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialKemianHive.label,artificial kemian hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialKemianHive.description,"An artificially constructed hive of giant insects. It is capable of spawning various Kemian geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialXanidesHive.label,artificial xanides hive,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_ArtificialXanidesHive.description,"An artificially constructed hive of giant insects. It is capable of spawning various Xanides geneline insectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_HeatPod.label,heat pod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_HeatPod.description,"A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_DeepHeater.label,deep heater,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_DeepHeater.description,"A deep canal that connects to some underground steam caverns, dug up by giant insects. Sprays out superheated steam at random, similar to steam geysers.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_JellyMorpher.label,jelly morpher,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_JellyMorpher.description,"An exotic, pulsating bioformation that forces attached insect jelly to undergo a chemical process that changes it into royal jelly. Produced by giant insects. Needs to be constructed on the creep and requires refueling with insect jelly in order to produce the royal variant.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_LargeTunnelHiveSpawner.label,tunnel,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI_HellpodActiveDropPod.label,hellpod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI_HellpodIncoming.label,hellpod (incoming),label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Petroglypher.label,petroglypher,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Petroglypher.description,"A hive-like structure created by giant insects. It continuously reinforces nearby rock formations with thick, resin-like insect goop, creating hivestone walls in the process. It will only turn natural rock walls into hivestone and will have no effect on any other wall types. If all walls around a petroglypher are turned into hivestone, it will begin expunging  chitin in regular intervals.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Hivenode.label,hivenode,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Hivenode.description,"A large, exotic goop spire created by giant insects. Hivenodes lie in the center of the hive, nourishing nearby insectoid structures with required sustenance and warmth, removing any maintenance need. When destroyed, it may explode in a large, fiery explosion.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornpod.label,thornpod,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornpod.description,"A volatile pod covered in sharp chitin thorns, produced by giant insects. If any target gets close to it, the pod expunges the thorns, after which it will take some time to grow them back.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Bullet_Thorn.label,thorn,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Vilelobber.label,vilelobber,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Vilelobber.description,"A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a vilelobber insectoid. This creature is adept at spitting large, corrosive acid blobs over considerable distances, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the vilelobber will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Vilelobber_Gun.label,vilelobber,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Vilelobber_Gun.description,"A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a vilelobber insectoid. This creature is adept at spitting large, corrosive acid blobs over considerable distances, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the vilelobber will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Vilelobber_Projectile.label,vilelobber projectile,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornworm.label,thornworm,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornworm.description,"A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornworm insectoid. This creature is capable of ejecting rapidly-growing chitin thorns at enemies nearby, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornworm_Gun.label,thornworm,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornworm_Gun.description,"A small mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornworm insectoid. This creature is capable of ejecting rapidly-growing chitin thorns at enemies nearby, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornworm_Projectile.label,thornworm projectile,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornspitter.label,thornspitter,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornspitter.description,"A tiny mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornspitter insectoid. This creature is capable of ejecting inaccurate chitin thorns at enemies close-by, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornspitter_Gun.label,thornspitter,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornspitter_Gun.description,"A tiny mound serving as the entrance to an expansive deephive cluster below ground, topped by the emergence of a thornspitter insectoid. This creature is capable of ejecting inaccurate chitin thorns at enemies close-by, provided it is regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the thornworm will retreat back into the deephive tunnels.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thornspitter_Projectile.label,thornspitter projectile,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_HiveDoor.label,hive door,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_HiveDoor.description,A passable insect door made from insectoid goop. Capable of holding up a roof.,description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Jellyspreader.label,jellyspreader,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Jellyspreader.description,"A hive-like formation of insectoid jelly that slowly pumps that jelly into the creep around it, nourishing it and creating a soft jelly terrain in a large radius. Jelly terrain created this way can support insectoid structures and in many ways behaves similar to creep, except it’s easier to clean and slows down non-insectoid movement even more. It needs to be fueled with insect jelly, otherwise it will stop transforming creep around itself.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_RoyalJellyspreader.label,royal jellyspreader,label,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_RoyalJellyspreader.description,"A hive-like formation of royal insectoid jelly that enriches nearby insectoid jellyfloors with the royal molecules. Royal jelly terrain created this way can support insectoid structures and in many ways behaves similar to creep, except it’s much easier to clean, cannot burn and slows down non-insectoid movement even more. It needs to be fueled with royal insect jelly, otherwise it will stop enriching jellyfloors around it.",description,ThingDef/Buildings_Insectoid.xml,def
+VFEI2_Thumper_Empress.label,empress thumper,label,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Empress.description,"A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid empress to attack with its escorts. If you can defeat her, you can collect a special pherocore from her corpse. The thumps destabilise the thumper, so this building can only be used once.",description,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Titantick.label,titantick thumper,label,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Titantick.description,"A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid titantick to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once.",description,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Teramantis.label,teramantis thumper,label,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Teramantis.description,"A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid teramantis to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once.",description,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Gigamite.label,gigamite thumper,label,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Gigamite.description,"A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid gigamite to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once.",description,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Silverfish.label,silverfish thumper,label,ThingDef/Buildings_Thumper.xml,def
+VFEI2_Thumper_Silverfish.description,"A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an insectoid silverfish to attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once.",description,ThingDef/Buildings_Thumper.xml,def
+VFEI2_PherocoreSorne.label,sorne pherocore,label,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreSorne.description,"A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the oldest geneline from the planet Sorne, which is known for their great numbers and versatility.",description,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreNuchadus.label,nuchadus pherocore,label,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreNuchadus.description,A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the hyper-aggressive geneline from the volcanic planet Nuchadus.,description,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreChelis.label,chelis pherocore,label,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreChelis.description,"A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the great geneline from the planet Chelis, known for their locust-like appearance and ability to fly for thousands of miles.",description,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreKemian.label,kemian pherocore,label,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreKemian.description,"A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the mutated geneline from the toxic world of Kemia, known for their ability to use toxins to dispose of their enemies.",description,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreXanides.label,xanides pherocore,label,ThingDef/Items_Exotic.xml,def
+VFEI2_PherocoreXanides.description,"A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the Xanides geneline, which has evolved in a mineral-rich planet and create nearly impenetrable armor around themselves.",description,ThingDef/Items_Exotic.xml,def
+VFEI2_Chitin.label,chitin,label,ThingDef/Items_Resource_Leathers.xml,def
+VFEI2_Chitin.description,"An extremely thick composition of rare minerals and biomass, commonly found in a form of insect exoskeletons.",description,ThingDef/Items_Resource_Leathers.xml,def
+VFEI2_Tendrilmoss.label,tendrilmoss,label,ThingDef/Items_Resource_RawPlant.xml,def
+VFEI2_Tendrilmoss.description,Raw tendrilmoss obtained by harvesting tendrilmoss vines growing around insectoid tendril farms.,description,ThingDef/Items_Resource_RawPlant.xml,def
+VFEI2_Filth_InsectJelly.label,insect jelly smear,label,ThingDef/Filth_Various.xml,def
+VFEI2_Filth_RoyalJelly.label,royal jelly smear,label,ThingDef/Filth_Various.xml,def
+VFEI2_Filth_FlammableBile.label,flammable bile,label,ThingDef/Filth_Various.xml,def
+VFEI2_Proj_Acid.label,acid,label,ThingDef/Projectiles.xml,def
+VFEI2_ChemfuelSpit.label,chemfuel spit,label,ThingDef/Projectiles.xml,def
+VFEI2_TendrilmossVines.label,tendrilmoss vines,label,ThingDef/Plants_Misc.xml,def
+VFEI2_TendrilmossVines.description,"Twisted, nutrient-rich moss that grows cultivated by insectoids in clumps in hive areas. Moss takes a long time to grow, but is very frost-resistant. Significantly slows down movement speed, but acts as cover.",description,ThingDef/Plants_Misc.xml,def
+VFEI2_Acidspitter.label,acidspitter,label,ThingDef/Races_AcidSpitter.xml,def
+VFEI2_Acidspitter.description,"A giant, heavy insectoid with a large acid sack on the lower abdomen, that glides on a few tiny legs. While its armor is not thick, or its mandibles sharp, it is capable of utilizing its acid glands to spew gallons of corrosive acid forward. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics.",description,ThingDef/Races_AcidSpitter.xml,def
+VFEI2_Acidspitter.tools.0.label,head claw,label,ThingDef/Races_AcidSpitter.xml,def
+VFEI2_Acidspitter.tools.1.label,mandibles,label,ThingDef/Races_AcidSpitter.xml,def
+VFEI2_Acidspitter.tools.2.label,head,label,ThingDef/Races_AcidSpitter.xml,def
+VFEI2_Acidspitter.label,acidspitter,label,PawnKindDef/Races_AcidSpitter.xml,def
+VFEI2_Boomtick.label,boomtick,label,ThingDef/Races_Boomtick.xml,def
+VFEI2_Boomtick.description,"A large, genetically-engineered tick. Bred for the purpose of fuel refining on the molten planet of Nuchadus, boomtick is now often seen across many planets, where it is considered a dangerous, volatile pest. Its chemfuel sack explodes on death, setting everything nearby on fire. A eusocial creature, it cannot reproduce individually.",description,ThingDef/Races_Boomtick.xml,def
+VFEI2_Boomtick.tools.0.label,mandibles,label,ThingDef/Races_Boomtick.xml,def
+VFEI2_Boomtick.tools.1.label,head,label,ThingDef/Races_Boomtick.xml,def
+VFEI2_Boomtick.label,boomtick,label,PawnKindDef/Races_Boomtick.xml,def
+VFEI2_Durapod.label,durapod,label,ThingDef/Races_Durapod.xml,def
+VFEI2_Durapod.description,"A medium-sized bioengineered insectoid the size of a goat. The durapod is the lowest caste of the Xanides geneline, taking care of most work tasks. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots.",description,ThingDef/Races_Durapod.xml,def
+VFEI2_Durapod.tools.0.label,head claw,label,ThingDef/Races_Durapod.xml,def
+VFEI2_Durapod.tools.1.label,head,label,ThingDef/Races_Durapod.xml,def
+VFEI2_Durapod.label,durapod,label,PawnKindDef/Races_Durapod.xml,def
+VFEI2_Empress.label,empress,label,ThingDef/Races_Empress.xml,def
+VFEI2_Empress.description,"An incredibly rare and monstrously large insectoid of the Sorne geneline, the empress insectoid is incredibly effective at birthing offspring. Her specialized larval chambers allow her to spawn large swarms of swarmlings quickly. While she's not as dangerous in close quarters, the vast numbers of her offspring can easily swarm and overwhelm enemies. While all insectoids are almost equally terrifying, many who have seen the empress find the sight of her even more disturbing, as she embodies all that is wrong with genetic engineering. Upon death, it’s possible to extract a Sorne pherocore from her body.",description,ThingDef/Races_Empress.xml,def
+VFEI2_Empress.tools.0.label,head claw,label,ThingDef/Races_Empress.xml,def
+VFEI2_Empress.tools.1.label,front claw,label,ThingDef/Races_Empress.xml,def
+VFEI2_Empress.tools.2.label,head,label,ThingDef/Races_Empress.xml,def
+VFEI2_Empress.label,empress,label,PawnKindDef/Races_Empress.xml,def
+VFEI2_Fuelmite.label,fuelmite,label,ThingDef/Races_Fuelmite.xml,def
+VFEI2_Fuelmite.description,"A large, genetically-engineered mite native to the planet Nuchadus, where it fuels gigantic megaforges of the corporations. Fuelmites are capable of synthesising volatile chemfuel in their fuel sacks, and can eject it from their fuelglands over huge distances. While fuel itself is not dangerous, a single spark is enough to set the area on fire. It is, however, quite slow in open terrain.",description,ThingDef/Races_Fuelmite.xml,def
+VFEI2_Fuelmite.tools.0.label,head claw,label,ThingDef/Races_Fuelmite.xml,def
+VFEI2_Fuelmite.tools.1.label,head,label,ThingDef/Races_Fuelmite.xml,def
+VFEI2_Fuelmite.label,fuelmite,label,PawnKindDef/Races_Fuelmite.xml,def
+VFEI2_Gigalocust.label,gigalocust,label,ThingDef/Races_Gigalocust.xml,def
+VFEI2_Gigalocust.description,"A genetically-engineered hunter drone the size of an elephant. It can fly over long distances, dropping down on unsuspecting targets, ripping them to shreds with its several sets of ripper-blades and sharp mandibles. It is, however, quite slow in open terrain.",description,ThingDef/Races_Gigalocust.xml,def
+VFEI2_Gigalocust.tools.0.label,head claw,label,ThingDef/Races_Gigalocust.xml,def
+VFEI2_Gigalocust.tools.1.label,head,label,ThingDef/Races_Gigalocust.xml,def
+VFEI2_Gigalocust.label,gigalocust,label,PawnKindDef/Races_Gigalocust.xml,def
+VFEI2_Gigamite.label,gigamite,label,ThingDef/Races_Gigamite.xml,def
+VFEI2_Gigamite.description,"An incredibly rare and monstrously large insectoid of the Kemia geneline, the gigamite is a towering insectoid native to the most toxic planet ever discovered, renowned for its unique adaptation to the hostile environment. This creature features a massive acid gland, prominently mounted on its back, which produces a potent corrosive acid. While the gigamite lacks prowess in close-quarters combat, it compensates with its ability to project a continuous, high-velocity stream of acid over considerable distances. This devastating attack not only burns through organic matter but also rapidly corrodes structures and vehicles. Upon death, it’s possible to extract a Kemia pherocore from its body.",description,ThingDef/Races_Gigamite.xml,def
+VFEI2_Gigamite.tools.0.label,head claw,label,ThingDef/Races_Gigamite.xml,def
+VFEI2_Gigamite.tools.1.label,head,label,ThingDef/Races_Gigamite.xml,def
+VFEI2_Gigamite.label,gigamite,label,PawnKindDef/Races_Gigamite.xml,def
+VFEI2_Hellbeetle.label,hellbeetle,label,ThingDef/Races_Hellbeetle.xml,def
+VFEI2_Hellbeetle.description,"Not actually a beetle, the hellbeetle is a genetically-engineered giant insectoid the size of a bear. Designed for the forges of the planet Nuchadus, hellbeetles have brittle armor, but are capable of spitting liquid fire from their giant jaws. In close quarters, the sharp horns and ripper-blades will dispose of flesh and metal alike. It is, however, quite slow in open terrain.",description,ThingDef/Races_Hellbeetle.xml,def
+VFEI2_Hellbeetle.tools.0.label,head claw,label,ThingDef/Races_Hellbeetle.xml,def
+VFEI2_Hellbeetle.tools.1.label,head,label,ThingDef/Races_Hellbeetle.xml,def
+VFEI2_Hellbeetle.label,hellbeetle,label,PawnKindDef/Races_Hellbeetle.xml,def
+VFEI2_Ironclad.label,ironclad,label,ThingDef/Races_Ironclad.xml,def
+VFEI2_Ironclad.description,"A giant, genetically-engineered insectoid responsible for the hive defense. The incredible claws the size of a failed vidtuber’s ego can break and crush anything trying to harm the new spawn. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots.",description,ThingDef/Races_Ironclad.xml,def
+VFEI2_Ironclad.tools.0.label,head claw,label,ThingDef/Races_Ironclad.xml,def
+VFEI2_Ironclad.tools.1.label,head,label,ThingDef/Races_Ironclad.xml,def
+VFEI2_Ironclad.label,ironclad,label,PawnKindDef/Races_Ironclad.xml,def
+VFEI2_Macrofly.label,macrofly,label,ThingDef/Races_Macrofly.xml,def
+VFEI2_Macrofly.description,"A medium-sized bioengineered flying insectoid the size of a pig. The macrofly is the lowest caste of the Chelis hive, responsible for most of the resource gathering and work. It’s capable of lunging towards enemies at incredible speed, and it uses the digging claws to rip them in close quarters. It's dangerous in combat, but slow on open ground.",description,ThingDef/Races_Macrofly.xml,def
+VFEI2_Macrofly.tools.0.label,head claw,label,ThingDef/Races_Macrofly.xml,def
+VFEI2_Macrofly.tools.1.label,head,label,ThingDef/Races_Macrofly.xml,def
+VFEI2_Macrofly.label,macrofly,label,PawnKindDef/Races_Macrofly.xml,def
+VFEI2_Megapede.label,megapede,label,ThingDef/Races_Megapede.xml,def
+VFEI2_Megapede.description,"A giant, heavy insectoid that glides on dozens of tiny legs. Its thick chitin armor and sharp mandibles the size of an elephant’s tusk make it an excellent siege machine. Due to being extremely slow, they are somewhat vulnerable to hit-and-run tactics.",description,ThingDef/Races_Megapede.xml,def
+VFEI2_Megapede.tools.0.label,head claw,label,ThingDef/Races_Megapede.xml,def
+VFEI2_Megapede.tools.1.label,mandibles,label,ThingDef/Races_Megapede.xml,def
+VFEI2_Megapede.tools.2.label,head,label,ThingDef/Races_Megapede.xml,def
+VFEI2_Megapede.label,megapede,label,PawnKindDef/Races_Megapede.xml,def
+VFEI2_Megathrips.label,megathrips,label,ThingDef/Races_Megathrips.xml,def
+VFEI2_Megathrips.description,"A large, genetically-engineered thrips. A worker caste of an artificial ecosystem of insectoids designed to fight against humans in large scale wars, it now often makes up for the majority of the kemian geneline hives. Megathrisp uses sharp mandibles to rip the armor into shreds, while overcharged acid glands coat the exposed flesh in corrosive substance, causing severe burns. A eusocial creature, it cannot reproduce individually.",description,ThingDef/Races_Megathrips.xml,def
+VFEI2_Megathrips.tools.0.label,mandibles,label,ThingDef/Races_Megathrips.xml,def
+VFEI2_Megathrips.tools.1.label,head,label,ThingDef/Races_Megathrips.xml,def
+VFEI2_Megathrips.label,megathrips,label,PawnKindDef/Races_Megathrips.xml,def
+VFEI2_Megawasp.label,megawasp,label,ThingDef/Races_Megawasp.xml,def
+VFEI2_Megawasp.description,"Not actually a wasp, the megawasp is a genetically-engineered giant flying insectoid the size of a cow. Designed as the hunter and the hive defender, megawasp soars through the air to engage enemies in close quarters, where it uses long and sharp ripper-blades and mandibles to cut anyone they face into pieces. The sharpness of the claws means that they are capable of eliminating even the most heavily armored enemies. It is, however, quite slow in open terrain.",description,ThingDef/Races_Megawasp.xml,def
+VFEI2_Megawasp.tools.0.label,head claw,label,ThingDef/Races_Megawasp.xml,def
+VFEI2_Megawasp.tools.1.label,head,label,ThingDef/Races_Megawasp.xml,def
+VFEI2_Megawasp.label,megawasp,label,PawnKindDef/Races_Megawasp.xml,def
+VFEI2_Patriarch.label,patriarch,label,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.description,"The gargantuan patriarch of the Sorne geneline serves as the primary male responsible for the survival and protection of the royal caste. His immense digger claws, essential for both hive construction and defense, double as formidable shields capable of absorbing extraordinary amounts of damage. Mounted on his back are vast insect jelly sacks, which provide the resources necessary for rapidly constructing any hive defenses. In battle, his sets of extremely sharp ripper blades and razor-sharp mandibles can efficiently dispatch any threat to the hive. The Patriarch possesses the ability to summon royal caste insectoids from deep underground tunnels, enabling reinforcements to swiftly emerge onto the surface. Upon death, it’s possible to extract a Sorne pherocore from his body.",description,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.tools.0.label,head claw,label,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.tools.1.label,front claw,label,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.tools.2.label,head,label,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.comps.5.message,VFEI2_PatriarchNotTameable,message,ThingDef/Races_Patriarch.xml,def
+VFEI2_Patriarch.label,patriarch,label,PawnKindDef/Races_Patriarch.xml,def
+VFEI2_Queen.label,insectoid queen,label,ThingDef/Races_Queen.xml,def
+VFEI2_Queen.description,"A giant, genetically-engineered insectoid responsible for creating new spawn. A mother to the insects in her hive, a queen doesn’t do heavy work, and tries to avoid combat if possible. As massive as an adult thrumbo, the queen instills fear in most opponents. Her thick chitinous armor makes her hard to kill, whilst long, deadly blades can tear through plasteel shielding in seconds. Despite being quite slow in open terrain, an insectoid queen is capable of creating new swarmlings at a rapid pace, and should never be allowed to settle down.",description,ThingDef/Races_Queen.xml,def
+VFEI2_Queen.tools.0.label,head claw,label,ThingDef/Races_Queen.xml,def
+VFEI2_Queen.tools.1.label,head,label,ThingDef/Races_Queen.xml,def
+VFEI2_Queen.label,insectoid queen,label,PawnKindDef/Races_Queen.xml,def
+VFEI2_RoyalMegascarab.label,royal megascarab,label,ThingDef/Races_RoyalMegascarab.xml,def
+VFEI2_RoyalMegascarab.description,"A medium-sized naturally-evolved insectoid the size of a sheep. Being part of the royal hive, these larger megascarabs act as a worker caste of the primary hives, and are always seen serving around the hive leaders. Its size and hard shell make it dangerous when it attacks. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists.",description,ThingDef/Races_RoyalMegascarab.xml,def
+VFEI2_RoyalMegascarab.tools.0.label,mandibles,label,ThingDef/Races_RoyalMegascarab.xml,def
+VFEI2_RoyalMegascarab.tools.1.label,head,label,ThingDef/Races_RoyalMegascarab.xml,def
+VFEI2_RoyalMegascarab.label,royal megascarab,label,PawnKindDef/Races_RoyalMegascarab.xml,def
+VFEI2_RoyalMegaspider.label,royal megaspider,label,ThingDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalMegaspider.description,"Not actually a spider, the royal megaspider is a naturally-evolved insectoid the size of an elephant. Its thick chitin armor and a pair of strong ripper-blades makes it a perfect designated primary hive defender and hunter. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists.",description,ThingDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalMegaspider.tools.0.label,head claw,label,ThingDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalMegaspider.tools.1.label,mandibles,label,ThingDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalMegaspider.tools.2.label,head,label,ThingDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalMegaspider.label,royal megaspider,label,PawnKindDef/Races_RoyalMegaspider.xml,def
+VFEI2_RoyalSpelopede.label,royal spelopede,label,ThingDef/Races_RoyalSpelopede.xml,def
+VFEI2_RoyalSpelopede.description,"A naturally-evolved insectoid the size of a bear. Royal spelopedes are the middle caste of the primary hives and act as defenders and workers of the insectoid hive leaders. Their thick chitinous armor makes them very hard to kill, while the strong digging claws allow them to take care of most of the tasks at hand. Unlike their bioengineered cousins, these insectoids have been created by the hive leaders to protect the most important hives, and their genetic composition and evolution path are a mystery to scientists.",description,ThingDef/Races_RoyalSpelopede.xml,def
+VFEI2_RoyalSpelopede.tools.0.label,head claw,label,ThingDef/Races_RoyalSpelopede.xml,def
+VFEI2_RoyalSpelopede.tools.1.label,head,label,ThingDef/Races_RoyalSpelopede.xml,def
+VFEI2_RoyalSpelopede.label,royal spelopede,label,PawnKindDef/Races_RoyalSpelopede.xml,def
+VFEI2_Silverfish.label,silverfish,label,ThingDef/Races_Silverfish.xml,def
+VFEI2_Silverfish.description,"An incredibly rare and monstrously large insectoid of the Xanides geneline, the silverfish, a colossal bug from the mineral-rich planet of Xanides, is encased in a nearly impenetrable exoskeleton composed of rocky formations. Despite its slow movement, this giant insectoid is highly effective at tunneling through the planet's dense terrain, using its massive pincer claws to dig wide tunnels and dismantle defensive structures with ease. Although its rocky armor shields it from most attacks, strategically targeted shots can expose vulnerable spots beneath its hardened exterior. Upon death, it’s possible to extract a Xanides pherocore from its body.",description,ThingDef/Races_Silverfish.xml,def
+VFEI2_Silverfish.tools.0.label,right claw,label,ThingDef/Races_Silverfish.xml,def
+VFEI2_Silverfish.tools.1.label,left claw,label,ThingDef/Races_Silverfish.xml,def
+VFEI2_Silverfish.tools.2.label,head,label,ThingDef/Races_Silverfish.xml,def
+VFEI2_Silverfish.label,silverfish,label,PawnKindDef/Races_Silverfish.xml,def
+VFEI2_Swarmling.label,swarmlings,label,ThingDef/Races_Swarmling.xml,def
+VFEI2_Swarmling.description,"The juvenile form of insectoids, swarmlings are more or less harmless, slow and easy to kill. After some time has passed, they undergo a metamorphosis, forming a cocoon from which an adult insectoid will emerge. There is no way to tell what kind of insect will crawl out of its cocoon.",description,ThingDef/Races_Swarmling.xml,def
+VFEI2_Swarmling.tools.0.label,mouth,label,ThingDef/Races_Swarmling.xml,def
+VFEI2_Swarmling.label,swarmlings,label,PawnKindDef/Races_Swarmling.xml,def
+VFEI2_Tankroach.label,tankroach,label,ThingDef/Races_Tankroach.xml,def
+VFEI2_Tankroach.description,"A giant, heavy insectoid that glides on dozens of tiny legs. Its extremely thick rock carapace makes it very slow but also very durable, but excessive damage will chip away the armor exposing the weak spots.",description,ThingDef/Races_Tankroach.xml,def
+VFEI2_Tankroach.tools.0.label,head claw,label,ThingDef/Races_Tankroach.xml,def
+VFEI2_Tankroach.tools.1.label,mandibles,label,ThingDef/Races_Tankroach.xml,def
+VFEI2_Tankroach.tools.2.label,head,label,ThingDef/Races_Tankroach.xml,def
+VFEI2_Tankroach.label,tankroach,label,PawnKindDef/Races_Tankroach.xml,def
+VFEI2_Teramantis.label,teramantis,label,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.description,"An incredibly rare and monstrously large insectoid of the Chelis geneline, the teramantis is the formidable leader of insectoid hives on the steppe planets of Chelis. Known as a prime male, this massive insectoid is equipped with lethal ripper claws sharp enough to cleave armored vehicles in two. Complementing its fearsome offensive capabilities, the teramantis boasts a large set of wings, granting it the ability to soar across the vast landscapes in pursuit of prey for hundreds of miles. Its aerial prowess and deadly strength make it a dreaded apex predator on Chelis, commanding respect and fear from all who dwell within its territory. Upon death, it’s possible to extract a Chelis pherocore from its body.",description,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.tools.0.label,head claw,label,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.tools.1.label,right claw,label,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.tools.2.label,left claw,label,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.tools.3.label,head,label,ThingDef/Races_Teramantis.xml,def
+VFEI2_Teramantis.label,teramantis,label,PawnKindDef/Races_Teramantis.xml,def
+VFEI2_Titantick.label,titantick,label,ThingDef/Races_Titantick.xml,def
+VFEI2_Titantick.description,"An incredibly rare and monstrously large insectoid of the Nuchadus geneline, the titantick is a formidable engineered tick, designed to serve as a mobile fuel depot on the harsh magma planet of Nuchadus. This creature features an enormous chemfuel sack attached to its lower abdomen, which is prone to leaking vast quantities of fuel when damaged. In addition to its capacity to store fuel, the titantick can also project streams of burning chemfuel over long distances, making it a dangerous adversary in combat. The volatile nature of its fuel sack means that upon death, the titantick will explode spectacularly, but it’s still possible to extract a Nuchadus pherocore from his body.",description,ThingDef/Races_Titantick.xml,def
+VFEI2_Titantick.tools.0.label,head horn,label,ThingDef/Races_Titantick.xml,def
+VFEI2_Titantick.tools.1.label,head,label,ThingDef/Races_Titantick.xml,def
+VFEI2_Titantick.label,titantick,label,PawnKindDef/Races_Titantick.xml,def
+VFEI2_Venomite.label,venomite,label,ThingDef/Races_Venomite.xml,def
+VFEI2_Venomite.description,"Not actually a mite, the venomite is a genetically-engineered giant insectoid the size of a lion. Designed to inflict maximum damage to organic enemies, venomite is capable of spitting globs of highly corrosive acid over long distances. Upon impact, it will cause severe burns, but won’t result in permanent damage. Relatively easy to defeat in close quarters due to shorter ripper blades than the Sorne variety. It is quite slow in open terrain.",description,ThingDef/Races_Venomite.xml,def
+VFEI2_Venomite.tools.0.label,head claw,label,ThingDef/Races_Venomite.xml,def
+VFEI2_Venomite.tools.1.label,head,label,ThingDef/Races_Venomite.xml,def
+VFEI2_Venomite.label,venomite,label,PawnKindDef/Races_Venomite.xml,def
+VFEI2_ToxicSting.label,toxic stinging,label,ToolCapacityDef/ToolCapacity.xml,def
+VFEI2_AcidBite.label,acidic bite,label,ToolCapacityDef/ToolCapacity.xml,def
+VFEI2_TeramantisStun.label,teramantis claws,label,ToolCapacityDef/ToolCapacity.xml,def
+VFEI2_Insectoids.label,insectoids,label,DesignationCategoryDef/DesignationCategories.xml,def
+VFEI2_Creep.label,creep or jellyfloors,label,TerrainAffordanceDef/TerrainAffordances.xml,def
+VFEI2_JellyFloor.label,jellyfloor,label,TerrainAffordanceDef/TerrainAffordances.xml,def

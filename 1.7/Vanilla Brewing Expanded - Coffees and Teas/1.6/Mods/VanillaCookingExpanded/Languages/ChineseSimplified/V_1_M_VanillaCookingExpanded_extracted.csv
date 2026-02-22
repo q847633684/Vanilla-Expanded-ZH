@@ -1,0 +1,73 @@
+key,text,tag,file,type
+VBE_BrewMintCoffee.label,brew mint coffee,label,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_BrewMintCoffee.description,"Brew a bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath.",description,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_BrewMintCoffee.jobString,Brewing mint coffee.,jobString,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_BrewDalgonaCoffee.label,brew dalgona coffee,label,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_BrewDalgonaCoffee.description,"Brew a trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking.",description,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_BrewDalgonaCoffee.jobString,Brewing dalgona coffee.,jobString,RecipeDef/Recipes_Coffee_Cooking.xml,def
+VBE_MakeGreenTea.label,make green tea,label,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeGreenTea.description,"Make a light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor.",description,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeGreenTea.jobString,Making green tea.,jobString,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMintTea.label,make mint tea,label,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMintTea.description,"Make black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh.",description,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMintTea.jobString,Making mint tea.,jobString,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMasalaChai.label,make masala chai,label,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMasalaChai.description,"Make a musty, warm, almost woody tea crafted by simple leaves and complex spices. Alleged to be good against high cholesterol.",description,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeMasalaChai.jobString,Making masala chai.,jobString,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeNoonChai.label,make noon chai,label,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeNoonChai.description,"Make an ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Very efficient for treating those with a high blood pressure.",description,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_MakeNoonChai.jobString,Making noon chai.,jobString,RecipeDef/Recipes_Tea_Cooking.xml,def
+VBE_DalgonaCoffee.label,dalgona coffee,label,ThingDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffee.description,"A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading.",description,ThingDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffeeHigh.label,dalgona coffee high,label,HediffDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffeeHigh.labelNoun,a dalgona coffee high,labelNoun,HediffDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Cold coffee reduces heatstroke. Dalgona coffee provides a 10% research speed bonus.",description,HediffDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffeeHigh.stages.0.label,Sugary awakening,label,ThoughtDef/Drinks_DalgonaCoffee.xml,def
+VBE_DalgonaCoffeeHigh.stages.0.description,"That dalgona coffee hit the spot, now let’s get some work done.",description,ThoughtDef/Drinks_DalgonaCoffee.xml,def
+VBE_GreenTea.label,green tea,label,ThingDef/Drinks_GreenTea.xml,def
+VBE_GreenTea.description,"A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor.",description,ThingDef/Drinks_GreenTea.xml,def
+VBE_GreenTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_GreenTea.xml,def
+VBE_GreenTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_GreenTea.xml,def
+VBE_MasalaChai.label,masala chai,label,ThingDef/Drinks_MasalaChai.xml,def
+VBE_MasalaChai.description,"A musty, warm, almost woody tea crafted by simple leaves and complex spices. Masala chai acts as a home remedy against wound infections, reducing the severity of a random infection by 5%.",description,ThingDef/Drinks_MasalaChai.xml,def
+VBE_MasalaChai.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_MasalaChai.xml,def
+VBE_MasalaChai.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_MasalaChai.xml,def
+VBE_DrankMasalaChai.stages.0.label,Fancied a zesty cuppa,label,ThoughtDef/Drinks_MasalaChai.xml,def
+VBE_DrankMasalaChai.stages.0.description,A delightfully complex cup of spicy masala chai really brightens the day.,description,ThoughtDef/Drinks_MasalaChai.xml,def
+VBE_DrankMasalaChai.label,drank masala chai,label,HediffDef/Drinks_MasalaChai.xml,def
+VBE_DrankMasalaChai.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Masala chai acts as a home remedy against wound infections, reducing the severity of a random infection by 5%.",description,HediffDef/Drinks_MasalaChai.xml,def
+VBE_MintCoffee.label,mint coffee,label,ThingDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffee.description,"Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath.",description,ThingDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffeeHigh.label,mint coffee high,label,HediffDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffeeHigh.labelNoun,a mint coffee high,labelNoun,HediffDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia. Mint coffee provides fresh breath, increasing social impact by 10%.",description,HediffDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffeeHigh.stages.0.label,Fresh awakening,label,ThoughtDef/Drinks_MintCoffee.xml,def
+VBE_MintCoffeeHigh.stages.0.description,"That mint coffee hit the spot, now let’s get some work done.",description,ThoughtDef/Drinks_MintCoffee.xml,def
+VBE_MintTea.label,mint tea,label,ThingDef/Drinks_MintTea.xml,def
+VBE_MintTea.description,"Black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh.",description,ThingDef/Drinks_MintTea.xml,def
+VBE_MintTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_MintTea.xml,def
+VBE_MintTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_MintTea.xml,def
+VBE_DrankMintTea.stages.0.label,Refreshing tea,label,ThoughtDef/Drinks_MintTea.xml,def
+VBE_DrankMintTea.stages.0.description,A delightfully fresh cup of mint tea really brightens the day.,description,ThoughtDef/Drinks_MintTea.xml,def
+VBE_DrankMintTea.label,drank mint tea,label,HediffDef/Drinks_MintTea.xml,def
+VBE_DrankMintTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Mint tea provides fresh breath, increasing social impact by 10%.",description,HediffDef/Drinks_MintTea.xml,def
+VBE_NoonChai.label,noon chai,label,ThingDef/Drinks_NoonChai.xml,def
+VBE_NoonChai.description,"An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Used for treating muscle parasites.",description,ThingDef/Drinks_NoonChai.xml,def
+VBE_NoonChai.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_NoonChai.xml,def
+VBE_NoonChai.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_NoonChai.xml,def
+VBE_DrankNoonChai.stages.0.label,Fancied a salty cuppa,label,ThoughtDef/Drinks_NoonChai.xml,def
+VBE_DrankNoonChai.stages.0.description,A delightful cup of noon chai really brightens the day.,description,ThoughtDef/Drinks_NoonChai.xml,def
+VBE_DrankNoonChai.label,drank noon chai,label,HediffDef/Drinks_NoonChai.xml,def
+VBE_DrankNoonChai.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Used for treating muscle parasites.",description,HediffDef/Drinks_NoonChai.xml,def
+VBE_MintLeaves.label,mint leaves,label,ThingDef/Items_Condiments_Mint.xml,def
+VBE_MintLeaves.description,"Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Mint leaves rot quite fast.",description,ThingDef/Items_Condiments_Mint.xml,def
+VCE_ConsumedMintLeaves.stages.0.label,consumed mint,label,ThoughtDef/Items_Condiments_Mint.xml,def
+VCE_ConsumedMintLeaves.stages.0.description,Fresh breath!,description,ThoughtDef/Items_Condiments_Mint.xml,def
+VCE_ConsumedMintLeaves.label,consumed mint (from meal),label,HediffDef/Items_Condiments_Mint.xml,def
+VCE_ConsumedMintLeaves.description,Consumed some fresh mint leaves. The fresh breath increases social impact by 10%.,description,HediffDef/Items_Condiments_Mint.xml,def
+VBE_MintPlant.label,mint plant,label,ThingDef/Plants_Cultivated_Farm_Mint.xml,def
+VBE_MintPlant.description,"A plant sprouting into an array of mint leaves. Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Flourishes indoors and in plant pots, while being pleasant to look at.",description,ThingDef/Plants_Cultivated_Farm_Mint.xml,def

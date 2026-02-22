@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: hyperthermic slowdown revealed-->
-  <VRESaurids_HyperthermicReveal.label>揭示了高温减速</VRESaurids_HyperthermicReveal.label>
+  <VRESaurids_HyperthermicReveal.label>高温怠惰行为</VRESaurids_HyperthermicReveal.label>
   <VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
     <!--EN: tale_noun->[PAWN_nameDef] overheating-->
-    <li>tale_noun-&gt;[PAWN_nameDef]过热</li>
+    <li>tale_noun-&gt;[PAWN_nameDef]太热了</li>
     <!--EN: image->[PAWN_nameFull] trudging through sand [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]在沙地中艰难前行 [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，在沙地上费力行走着</li>
     <!--EN: image->[PAWN_nameFull] huddled in the shade of a [TerrainFeature] [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull] 蜷缩在 [TerrainFeature] [circumstance_group] 的树荫下</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，躲在[TerrainFeature]的阴影里</li>
     <!--EN: image->[PAWN_nameFull] searching for water [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]寻找水源[circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，在寻找水源</li>
     <!--EN: image->[PAWN_nameFull] searching for shade [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull] 搜索阴影 [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，在寻找阴凉处</li>
     <!--EN: image->[PAWN_nameFull] crawling across sun-baked dirt [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]在阳光炙烤的泥土上爬行[circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，在被太阳烤焦的土地上爬行</li>
     <!--EN: circumstance_phrase->and covered in sweat-->
     <li>circumstance_phrase-&gt;浑身是汗</li>
     <!--EN: circumstance_phrase->with cracked dry lips-->
     <li>circumstance_phrase-&gt;嘴唇干裂</li>
     <!--EN: circumstance_phrase->while vomiting-->
-    <li>circumstance_phrase-&gt;呕吐时</li>
+    <li>circumstance_phrase-&gt;恶心发呕</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] dessicated [Animal] corpses surround the area.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase]干燥的[Animal]尸体包围了该区域。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]具[Animal]的干尸遍布该地区。</li>
     <!--EN: desc_sentence->[PAWN_nameDef]'s clothes are tattered and torn.-->
     <li>desc_sentence-&gt;[PAWN_nameDef]的衣服破烂不堪。</li>
     <!--EN: desc_sentence->A blazing sun looms in the background.-->
-    <li>desc_sentence-&gt;背景中隐现着炽热的太阳。</li>
+    <li>desc_sentence-&gt;背景里一轮烈日若隐若现。</li>
     <!--EN: desc_sentence->The scene takes place inside a blazing desert.-->
-    <li>desc_sentence-&gt;场景发生在一片炽热的沙漠中。</li>
+    <li>desc_sentence-&gt;画面是一片炽热的沙漠。</li>
     <!--EN: desc_sentence->The scene appears to take place inside, next to a heater.-->
-    <li>desc_sentence-&gt;场景似乎发生在室内，靠近加热器。</li>
+    <li>desc_sentence-&gt;这个画面似乎发生在室内，靠近着加热器。</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase]一动不动的[Animal]包围着场景。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]只一动不动的[Animal]出现在画面里。</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase] 垂死的 [Animal] 躺在地上。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]只垂死的[Animal]倒在地上。</li>
   </VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
   <!--EN: hypothic slowdown revealed-->
-  <VRESaurids_HypothermicReveal.label>假想的放缓显露出来</VRESaurids_HypothermicReveal.label>
+  <VRESaurids_HypothermicReveal.label>低温怠惰行为</VRESaurids_HypothermicReveal.label>
   <VRESaurids_HypothermicReveal.rulePack.rulesStrings>
     <!--EN: tale_noun->[PAWN_nameDef] freezing to death-->
-    <li>tale_noun-&gt;[PAWN_nameDef]冻死</li>
+    <li>tale_noun-&gt;[PAWN_nameDef]太冷了</li>
     <!--EN: image->[PAWN_nameFull] trudging through snow [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]在雪地里艰难前行 [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，在雪中缓慢前行</li>
     <!--EN: image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull] 挤在 [TerrainFeature] [circumstance_group] 旁边</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，蜷缩在[TerrainFeature]旁边</li>
     <!--EN: image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]寻找温暖的[Apparel][circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，寻找温暖的[Apparel]</li>
     <!--EN: image->[PAWN_nameFull] crouching next to a fire [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]蹲在火边[circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，蜷缩在火堆旁</li>
     <!--EN: image->[PAWN_nameFull] trying to light a fire [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]试图生火[circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull][circumstance_group]，试图生火</li>
     <!--EN: circumstance_phrase->while [PAWN_possessive] face slowly turns blue-->
-    <li>circumstance_phrase-&gt;而[PAWN_possessive]的脸慢慢变成蓝色</li>
+    <li>circumstance_phrase-&gt;的脸在慢慢变蓝</li>
     <!--EN: circumstance_phrase->and shivering uncontrollably-->
-    <li>circumstance_phrase-&gt;并且无法控制地颤抖</li>
+    <li>circumstance_phrase-&gt;无法控制颤抖</li>
     <!--EN: circumstance_phrase->while covered in frost-->
-    <li>circumstance_phrase-&gt;被霜覆盖时</li>
+    <li>circumstance_phrase-&gt;披着霜</li>
     <!--EN: circumstance_phrase->while exhaling clouds of fog-->
-    <li>circumstance_phrase-&gt;一边呼出云雾</li>
+    <li>circumstance_phrase-&gt;嘴里吐着雾气</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] frozen [Animal] corpses surround the area.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase]冰冻的[Animal]尸体包围了该区域。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]具[Animal]的冰尸遍布该地区。</li>
     <!--EN: desc_sentence->[PAWN_nameDef]'s clothes are tattered and worn.-->
     <li>desc_sentence-&gt;[PAWN_nameDef]的衣服破烂不堪。</li>
     <!--EN: desc_sentence->A cold blue moon looms in the background.-->
-    <li>desc_sentence-&gt;一轮冰冷的蓝色月亮在背景中若隐若现。</li>
+    <li>desc_sentence-&gt;背景里一轮冷蓝色的月亮若隐若现。</li>
     <!--EN: desc_sentence->The scene takes place inside a snow-covered [TreeType] forest.-->
-    <li>desc_sentence-&gt;场景发生在白雪覆盖的 [TreeType] 森林内。</li>
+    <li>desc_sentence-&gt;画面是一片白雪覆盖的[TreeType]森林。</li>
     <!--EN: desc_sentence->The scene appears to take place inside a freezer.-->
-    <li>desc_sentence-&gt;场景似乎发生在冰箱内。</li>
+    <li>desc_sentence-&gt;这个画面是一个冰箱的内部。</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase]颤抖的[Animal]包围了场景。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]只颤抖的[Animal]出现在画面里。</li>
     <!--EN: desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.-->
-    <li>desc_sentence-&gt;[Quantity_adjphrase] 垂死的 [Animal] 躺在地上。</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase]只垂死的[Animal]倒在地上。</li>
   </VRESaurids_HypothermicReveal.rulePack.rulesStrings>
   <!--EN: human egg eaten-->
-  <VRESaurids_KilledEggChild.label>人的蛋被吃了</VRESaurids_KilledEggChild.label>
+  <VRESaurids_KilledEggChild.label>吃异种人蛋</VRESaurids_KilledEggChild.label>
 </LanguageData>

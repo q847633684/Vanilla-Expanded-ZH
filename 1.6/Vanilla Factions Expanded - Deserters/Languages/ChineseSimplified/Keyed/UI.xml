@@ -11,11 +11,11 @@
   <!--EN: Expect intense combat-->
   <VFED.CombatHighDesc>期待激烈的战斗</VFED.CombatHighDesc>
   <!--EN: Combat: Minimal-->
-  <VFED.CombatLow>战斗力：最小</VFED.CombatLow>
+  <VFED.CombatLow>战斗：最小</VFED.CombatLow>
   <!--EN: Expect minimal combat-->
-  <VFED.CombatLowDesc>预计战斗最少</VFED.CombatLowDesc>
+  <VFED.CombatLowDesc>预计最小战斗</VFED.CombatLowDesc>
   <!--EN: Combat: Medium-->
-  <VFED.CombatMedium>战斗力：中</VFED.CombatMedium>
+  <VFED.CombatMedium>战斗：中</VFED.CombatMedium>
   <!--EN: Expect some combat-->
   <VFED.CombatMediumDesc>期待一些战斗</VFED.CombatMediumDesc>
   <!--EN: Completed on {0}-->
@@ -23,17 +23,17 @@
   <!--EN: Contact Deserters-->
   <VFED.ContactDeserters>联系逃兵</VFED.ContactDeserters>
   <!--EN: Items purchased via the contraband system do not arrive in your colony with cargo pods. Instead, a dead drop pick up quest will become available after some amount of time, and the quest will only be available for a brief moment. This is where you pick up purchased contraband.-->
-  <VFED.ContrabandRecieveDesc>通过违禁品系统购买的物品不会通过货舱到达您的殖民地。相反，死亡掉落拾取任务将在一段时间后变得可用，并且该任务仅在短暂的时刻内可用。您可以在这里领取购买的违禁品。</VFED.ContrabandRecieveDesc>
+  <VFED.ContrabandRecieveDesc>通过违禁品系统购买的物品不会通过货运舱到达您的殖民地。相反，死掉的拾取任务将在一段时间后变得可用，并且该任务只会在很短的时间内可用。您可以在这里领取购买的违禁品。</VFED.ContrabandRecieveDesc>
   <!--EN: Time to receive contraband:-->
   <VFED.ContrabandRecieveTimeModifier>接收违禁品的时间：</VFED.ContrabandRecieveTimeModifier>
   <!--EN: Availability of the dead drops:-->
-  <VFED.ContrabandSiteTimeModifier>死角的可用性：</VFED.ContrabandSiteTimeModifier>
+  <VFED.ContrabandSiteTimeModifier>死点的可用性：</VFED.ContrabandSiteTimeModifier>
   <!--EN: Cost-->
   <VFED.Cost>成本</VFED.Cost>
   <!--EN: Critical quests-->
   <VFED.CriticalQuests>关键任务</VFED.CriticalQuests>
   <!--EN: Current visibility:-->
-  <VFED.CurrentVisibility>当前能见度：</VFED.CurrentVisibility>
+  <VFED.CurrentVisibility>当前可见性：</VFED.CurrentVisibility>
   <!--EN: This is a deserter quest. It may provide intel on the Shattered Empire, but it may also increase your faction’s visibility.-->
   <VFED.DeserterQuestDesc>这是一个逃兵任务。它可能会提供有关破碎帝国的情报，但也可能会增加你的派系的知名度。</VFED.DeserterQuestDesc>
   <!--EN: Effects:-->
@@ -43,27 +43,27 @@
   <!--EN: Hull integrity-->
   <VFED.HullIntegrity>船体完整性</VFED.HullIntegrity>
   <!--EN: Time for Imperial response:-->
-  <VFED.ImperialResponseTime>帝国回应时间：</VFED.ImperialResponseTime>
+  <VFED.ImperialResponseTime>帝国响应时间：</VFED.ImperialResponseTime>
   <!--EN: Type of Imperial response:-->
-  <VFED.ImperialResponseType>帝国回应类型：</VFED.ImperialResponseType>
+  <VFED.ImperialResponseType>英制响应类型：</VFED.ImperialResponseType>
   <!--EN: Amount of {0} in range of powered trading beacons.-->
-  <VFED.IntelAmount>动力交易信标范围内的 {0} 数量。</VFED.IntelAmount>
+  <VFED.IntelAmount>供电交易信标范围内的数量为 {0}。</VFED.IntelAmount>
   <!--EN: Intel cost:-->
   <VFED.IntelCostModifier>英特尔成本：</VFED.IntelCostModifier>
   <!--EN: Name of the item-->
-  <VFED.ItemName>物品名称</VFED.ItemName>
+  <VFED.ItemName>项目名称</VFED.ItemName>
   <!--EN: No quest selected-->
   <VFED.NoQuestSelected>未选择任务</VFED.NoQuestSelected>
   <!--EN: No response-->
-  <VFED.NoResponse>没有回应</VFED.NoResponse>
+  <VFED.NoResponse>无响应</VFED.NoResponse>
   <!--EN: None-->
-  <VFED.None>没有任何</VFED.None>
+  <VFED.None>无</VFED.None>
   <!--EN: Not enough {0}. Need {1}, have {2}-->
-  <VFED.NotEnough>不够{0}。需要 {1}，有 {2}</VFED.NotEnough>
+  <VFED.NotEnough>不够 {0}。需要 {1}，有 {2}</VFED.NotEnough>
   <!--EN: Other services-->
   <VFED.OtherServices>其他服务</VFED.OtherServices>
   <!--EN: Plot description-->
-  <VFED.PlotDesc>剧情描述</VFED.PlotDesc>
+  <VFED.PlotDesc>绘图描述</VFED.PlotDesc>
   <!--EN: Target: {0}-->
   <VFED.PlotTarget>目标：{0}</VFED.PlotTarget>
   <!--EN: Purchase-->
@@ -75,23 +75,23 @@
   <!--EN: Rewards-->
   <VFED.Rewards>奖励</VFED.Rewards>
   <!--EN: Rush delivery-->
-  <VFED.RushDelivery>加急发货</VFED.RushDelivery>
+  <VFED.RushDelivery>加急配送</VFED.RushDelivery>
   <!--EN: You can rush delivery to receive the items instantly via drop pods, however it doubles the Intel cost of this order.-->
-  <VFED.RushDeliveryDesc>您可以通过投递舱紧急送货以立即收到物品，但这会使该订单的英特尔成本增加一倍。</VFED.RushDeliveryDesc>
+  <VFED.RushDeliveryDesc>您可以通过投递箱加急送货以立即收到物品，但这会使该订单的英特尔成本增加一倍。</VFED.RushDeliveryDesc>
   <!--EN: Select-->
   <VFED.Select>选择</VFED.Select>
   <!--EN: Show active quest-->
-  <VFED.ShowActiveQuest>显示活跃任务</VFED.ShowActiveQuest>
+  <VFED.ShowActiveQuest>显示活动任务</VFED.ShowActiveQuest>
   <!--EN: Special effects:-->
   <VFED.SpecialEffects>特殊效果：</VFED.SpecialEffects>
   <!--EN: Start Mission-->
   <VFED.StartMission>开始任务</VFED.StartMission>
   <!--EN: Time to receive and time to pick up depends on the amount of items you’re purchasing, as well as your current visibility level. After time to receive has elapsed, a dead drop quest will become available. It will only be active for the duration in ‘Time to pick up’. If you fail to collect it in time, the items will be gone.-->
-  <VFED.TimeLimitDesc>收货时间和提货时间取决于您购买的商品数量以及您当前的可见度级别。接收时间过后，将可以进行死亡掉落任务。它只会在“接机时间”期间有效。如果您未能及时收集，物品就会消失。</VFED.TimeLimitDesc>
+  <VFED.TimeLimitDesc>接收时间和提货时间取决于您购买的商品数量以及您当前的可见度级别。接收时间过后，将可以进行死亡掉落任务。它只会在“接机时间”期间有效。如果未能及时领取，物品就会消失。</VFED.TimeLimitDesc>
   <!--EN: Time to pick up: (*DateTime){0} days(/DateTime)-->
-  <VFED.TimeToPickup>接机时间：(*DateTime){0} days(/DateTime)</VFED.TimeToPickup>
+  <VFED.TimeToPickup>取件时间：(*DateTime){0} 天(/DateTime)</VFED.TimeToPickup>
   <!--EN: Estimated time to receive: (*DateTime){0}-{1} days(/DateTime)-->
-  <VFED.TimeToReceive>预计接收时间：(*DateTime){0}-{1} days(/DateTime)</VFED.TimeToReceive>
+  <VFED.TimeToReceive>预计接收时间：(*DateTime){0}-{1} 天(/DateTime)</VFED.TimeToReceive>
   <!--EN: Total basket cost-->
   <VFED.TotalCost>篮子总成本</VFED.TotalCost>
   <!--EN: Total quest cost-->

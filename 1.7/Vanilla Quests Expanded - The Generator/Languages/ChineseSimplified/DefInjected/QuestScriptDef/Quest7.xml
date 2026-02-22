@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].</li>
+    <!--EN: questDescription(askerIsNull==true)->We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].-->
+    <li>questDescription(askerIsNull==true)-&gt;We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].</li>
+    <!--EN: sitePart0_description->the site is partially overgrown, with remnants of its original machinery scattered around-->
+    <li>sitePart0_description-&gt;the site is partially overgrown, with remnants of its original machinery scattered around</li>
+    <!--EN: sitePart0_description->the bandits have reinforced the area with crude barricades and guard posts-->
+    <li>sitePart0_description-&gt;the bandits have reinforced the area with crude barricades and guard posts</li>
+    <!--EN: sitePart0_description->the geothermal ARC appears heavily worn but intact enough to salvage parts-->
+    <li>sitePart0_description-&gt;the geothermal ARC appears heavily worn but intact enough to salvage parts</li>
+    <!--EN: sitePart0_description->the facility's infrastructure is still standing, though it shows signs of significant wear-->
+    <li>sitePart0_description-&gt;the facility's infrastructure is still standing, though it shows signs of significant wear</li>
+    <!--EN: sitePart0_description->hostile patrols have been spotted in the area, ensuring no one approaches unchallenged-->
+    <li>sitePart0_description-&gt;hostile patrols have been spotted in the area, ensuring no one approaches unchallenged</li>
+    <!--EN: sitePart0_description->the bandits seem to be utilizing the ARC to power their operations-->
+    <li>sitePart0_description-&gt;the bandits seem to be utilizing the ARC to power their operations</li>
+  </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+  <VQE_GeothermalArcSite.questNameRules.rulesStrings>
+    <!--EN: questName->[adj] [arcType] [siteType]-->
+    <li>questName-&gt;[adj] [arcType] [siteType]</li>
+    <!--EN: adj->seized-->
+    <li>adj-&gt;seized</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->guarded-->
+    <li>adj-&gt;guarded</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->overrun-->
+    <li>adj-&gt;overrun</li>
+    <!--EN: adj->occupied-->
+    <li>adj-&gt;occupied</li>
+    <!--EN: adj->contested-->
+    <li>adj-&gt;contested</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: arcType->geothermal ARC-->
+    <li>arcType-&gt;geothermal ARC</li>
+    <!--EN: arcType->ARC generator-->
+    <li>arcType-&gt;ARC generator</li>
+    <!--EN: arcType->geothermal core-->
+    <li>arcType-&gt;geothermal core</li>
+    <!--EN: arcType->ARC station-->
+    <li>arcType-&gt;ARC station</li>
+    <!--EN: arcType->energy core-->
+    <li>arcType-&gt;energy core</li>
+    <!--EN: arcType->power source-->
+    <li>arcType-&gt;power source</li>
+    <!--EN: arcType->geothermal plant-->
+    <li>arcType-&gt;geothermal plant</li>
+    <!--EN: siteType->site-->
+    <li>siteType-&gt;site</li>
+    <!--EN: siteType->facility-->
+    <li>siteType-&gt;facility</li>
+    <!--EN: siteType->outpost-->
+    <li>siteType-&gt;outpost</li>
+    <!--EN: siteType->complex-->
+    <li>siteType-&gt;complex</li>
+    <!--EN: siteType->camp-->
+    <li>siteType-&gt;camp</li>
+    <!--EN: siteType->station-->
+    <li>siteType-&gt;station</li>
+  </VQE_GeothermalArcSite.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label>Quest expired: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label>
+  <!--EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.-->
+  <VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label>Quest failed: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label>
+  <!--EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.-->
+  <VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text>
+</LanguageData>

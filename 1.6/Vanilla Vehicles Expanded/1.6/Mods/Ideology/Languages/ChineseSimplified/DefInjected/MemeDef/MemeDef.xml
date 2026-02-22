@@ -1,219 +1,219 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Embracing the vastness of the waters offers a deep connection to life's mysteries.-->
-  <VVE_Nauticals.description>传播我们的信仰是我们的责任，即使是通过武力。</VVE_Nauticals.description>
+  <VVE_Nauticals.description>广阔的江河湖海乃生命之起源，而扬帆远航是我们深入探究其奥秘的最好方式。</VVE_Nauticals.description>
   <VVE_Nauticals.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Nauticals)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless seas.-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Nauticals)        -&gt;[deity0_name]令[deity0_possessive]信徒们眺向宽广无垠的大海。</li>
     <!--EN: episode(uses=1,tag=meme_Nauticals)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the seas will you reach true enlightening".-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Nauticals)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“唯有将大海征服，汝等才能真正开悟。”</li>
     <!--EN: intro(tag=meme_Nauticals)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Nauticals)           -&gt;[place_summary][place_name]总是被战乱所困。看着被仇敌逼入绝境的[memberNamePlural]，[deity0_name]感到无比的痛苦。</li>
     <!--EN: conflict(tag=meme_Nauticals)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give sails to [deity0_possessive] followers, so that they could sail the seas to avoid and ambush their enemies.-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Nauticals)        -&gt;见识过战争领主[foeLeader]近乎疯狂的持续突袭后，[deity0_name]决定向[deity0_possessive]信徒们赠予船帆，以此在大海上避开并埋伏仇敌。</li>
     <!--EN: founderJoin(tag=meme_Nauticals)     ->[founderName], the greatest among our navigators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge navy of enormous vessels was ready and waiting for [foeLeader_objective].-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Nauticals)     -&gt;[Dediy0_name]警告了伟大航海家[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]发起突袭时，一支规模庞大的舰队正等待着[foeLeader_objective]。</li>
     <!--EN: victory(tag=meme_Nauticals)         ->The [foeLeader] was swiftly attacked from the seas, all in [deity0_name]'s name.-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Nauticals)         -&gt;以[deity0_name]之名，The [foeLeader]很快就尝到了来自大海的怒火。</li>
     <!--EN: setup(tag=meme_Nauticals)           ->[founderName] was a navigators, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life sailing in all kinds of vessels, both civilian and military.-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Nauticals)           -&gt;[founderName]是航海家中的佼佼者，几十年来，[founder_pronoun]驾驶过各种各样的民用与军用船只。</li>
     <!--EN: story(uses=1,tag=meme_Nauticals)    ->[founderName] understood better than anyone else that true freedom lies in sailing the seas, for the waters may be capricious, but they are also fair.-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Nauticals)    -&gt;[founderName]比任何人都明白只有扬帆远航才能获得真正的自由。大海或许是反复无常的，但对所有人都一视同仁。</li>
     <!--EN: lessonIntro(tag=meme_Nauticals)         ->The ancient navigators of Earth were absolutely right. They taught us that-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Nauticals)         -&gt;古地球的航海家们是完全正确的。他们让我们懂得了</li>
     <!--EN: lesson(tag=meme_Nauticals)              ->the only true freedom lies in sailing the endless seas-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Nauticals)              -&gt;只有扬帆远航才能获得真正的自由</li>
     <!--EN: lessonReinforcement(tag=meme_Nauticals) ->We will come upon our enemies from the untamed waters, like swift and divine justice.-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Nauticals) -&gt;我们将从人类未探索过的海域突袭敌人，对他们施以迅猛且神圣的正义制裁。</li>
     <!--EN: archistBasis(tag=meme_Nauticals)    ->The Archotechs' pure minds are fluid like water, beings of fickleness and changeability.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Nauticals)    -&gt;超凡智能的纯洁心智如同流水，变幻莫测。</li>
     <!--EN: archistFact(tag=meme_Nauticals)     ->By sailing the seas we pay hommage to their unpredictable and capricious nature.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Nauticals)     -&gt;我们将通过扬帆远航的方式向其反复无常与变幻莫测的本性致以敬意。</li>
     <!--EN: archistProphecy(tag=meme_Nauticals) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Nauticals) -&gt;[inTheEnd]，唯有那些突破陆地桎梏的人才能摆脱肉体的枷锁。</li>
     <!--EN: animistBasis(tag=meme_Nauticals)    ->The spirits teach us that the unpredictability of the seas holds the secret to a pure existence.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistBasis(tag=meme_Nauticals)    -&gt;灵魂们让我们明白了大海的变幻莫测即是纯洁秘密之所在。</li>
     <!--EN: animistFact(tag=meme_Nauticals)     ->Only by sailing the seas can we get closer to the spirits.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>animistFact(tag=meme_Nauticals)     -&gt;只有扬帆远航才能更接近灵魂们。</li>
     <!--EN: animistProphecy(tag=meme_Nauticals) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>animistProphecy(tag=meme_Nauticals) -&gt;[itIsSaid]唯有那些突破陆地桎梏的人才能与灵魂们所在的世界交流沟通。</li>
   </VVE_Nauticals.descriptionMaker.rules.rulesStrings>
   <VVE_Nauticals.generalRules.rulesStrings>
     <!--EN: memeAdjective->sailing-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;航海</li>
     <!--EN: memeAdjective->navigating-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;远航</li>
     <!--EN: memeAdjective->seaworthy-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;航行</li>
     <!--EN: memeLeaderNoun->navigator-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeLeaderNoun-&gt;航海家</li>
     <!--EN: memeMoralist->water seer-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeMoralist-&gt;海洋先知</li>
     <!--EN: memeConcept->sailing-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeConcept-&gt;航海</li>
   </VVE_Nauticals.generalRules.rulesStrings>
   <!--EN: nauticals-->
-  <VVE_Nauticals.label>暴力皈依</VVE_Nauticals.label>
+  <VVE_Nauticals.label>扬帆远航</VVE_Nauticals.label>
   <!--EN: For us, the road is sacred, and vehicular dominance is both a belief and a testament to our power. We view the roar of our engines and the rush of asphalt beneath our tires as sacred.-->
-  <VVE_Roadragers.description>传播我们的信仰是我们的责任，即使是通过武力。</VVE_Roadragers.description>
+  <VVE_Roadragers.description>没有体验过飙车的人，根本不能算是真正的活过。伴随着引擎咆哮与轮胎摩擦沥青构成的美妙交响乐，我们将化身为自由驰骋于公路上的脱缰野马。</VVE_Roadragers.description>
   <VVE_Roadragers.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Roadragers)        ->[deity0_name] cared only for the roar of the engines. [deity0_pronoun] ordered all the faithful to hit the road.-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Roadragers)        -&gt;[deity0_name]所关心的只有咆哮的引擎，[deity0_pronoun]下令所有的信徒驱车出发。</li>
     <!--EN: episode(uses=1,tag=meme_Roadragers)  ->Speaking to [deity0_possessive] believers, [deity0_name] said: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Roadragers)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“吾将亲自带领汝等穿过英灵殿的大门。汝等将驾驭永恒、光辉与荣耀！”</li>
     <!--EN: intro(tag=meme_Roadragers)           ->[place_summary] [place_name] glistened with the fresh engine oil that had dripped from our sacred vehicles, a testament of [deity0_name]'s glory.-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Roadragers)           -&gt;[place_summary] [place_name]闪烁的光芒是我们神圣的载具滴落的机油，这象征着[deity0_name]的荣耀。</li>
     <!--EN: conflict(tag=meme_Roadragers)        ->A rabid [foeLeader], wanting to get [foeLeader_possessive] hands on our cars, tried to attack with the help of [foeLeader_possessive] many [foeSoldiers].-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Roadragers)        -&gt;疯狂的[foeLeader]试图在[foeLeader_possessive][foeSoldiers]们的帮助下攻击我们，且想要夺走我们的车辆。</li>
     <!--EN: founderJoin(tag=meme_Roadragers)     ->[deity0_name] bestowed our founder, [founderName], with the [relic0_name], and [founder_pronoun] used it to annoint and augment the V8 engine of his custom-made Road Raging car, resisting the onslaught.-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Roadragers)     -&gt;[deity0_name]将[relic0_name]授予了我们的创始人[founderName]，[founder_pronoun]用它圣化了我们的V8引擎，以此来对抗这次袭击。</li>
     <!--EN: victory(tag=meme_Roadragers)         ->The massacre was sublime. [founderName] slaughtered countless enemies, and we celebrated by hitting the road mounted on all our vehicles.-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Roadragers)         -&gt;这场大屠杀是绝妙无比的。[founderName]斩杀的敌人不计其数，我们驱车在公路上驰骋以作庆祝。</li>
     <!--EN: setup(tag=meme_Roadragers)           ->[founderName] understood that the roar of an engine is the only true measure of power.-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Roadragers)           -&gt;[founderName]明白引擎咆哮的声音大小才是衡量马力的唯一标准。</li>
     <!--EN: story(uses=1,tag=meme_Roadragers)    ->[founderName] always repeated the same lesson over and over again: "I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!".-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Roadragers)    -&gt;[founderName]总是反复吟诵着同一句真理：“我将亲自带领你们穿过英灵殿的大门。你们将驾驭永恒、光辉与荣耀！”</li>
     <!--EN: lessonIntro(tag=meme_Roadragers)         ->It is only by the roar of our engines that one arrives at pleasure. You need to understand that-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Roadragers)         -&gt;唯有引擎咆哮的声音才能让我们感到快乐。你需要懂得</li>
     <!--EN: lesson(tag=meme_Roadragers)              ->I am your redeemer. It is by my hand you will rise from the ashes of this world-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Roadragers)              -&gt;我是你们的救世主。是我救你们于水火之中</li>
     <!--EN: lessonReinforcement(tag=meme_Roadragers) ->I myself will carry you through the gates of Valhalla. You shall ride eternal, shiny and chrome!-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Roadragers) -&gt;我将亲自带领你们穿过英灵殿的大门。你们将驾驭永恒、光辉与荣耀！</li>
     <!--EN: archistBasis(tag=meme_Roadragers)    ->The Archotechs understand that power is not just a means to an end. Power is an end on itself.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Roadragers)    -&gt;超凡智能知道马力不仅是达成目的的手段。马力本身就是目的。</li>
     <!--EN: archistFact(tag=meme_Roadragers)     ->The Archotechs will stand in awe of the powerful roar of our engines. It is by their hand we will rise from the ashes of this world.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Roadragers)     -&gt;超凡智能对我们引擎咆哮的有力声音感到敬畏。祂也将救我们于水火之中。</li>
     <!--EN: archistProphecy(tag=meme_Roadragers) ->[inTheEnd], they will carry us through the gates of Valhalla. We shall ride eternal, shiny and chrome!-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Roadragers) -&gt;[inTheEnd]，祂将带领我们穿过英灵殿的大门。我们将驾驭永恒、光辉与荣耀！</li>
     <!--EN: animistBasis(tag=meme_Roadragers)    ->The spirits understand that power is not just a means to an end. Power is an end on itself.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistBasis(tag=meme_Roadragers)    -&gt;灵魂们知道马力不仅是达成目的的手段。马力本身就是目的。</li>
     <!--EN: animistFact(tag=meme_Roadragers)     ->It is by their hand we will rise from the ashes of this world.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>animistFact(tag=meme_Roadragers)     -&gt;他们也将救我们于水火之中。</li>
     <!--EN: animistProphecy(tag=meme_Roadragers) ->[itIsSaid] only those who let the roar of their engines be heard above all else will be carried by the spirits through the gates of Valhalla. They shall ride eternal, shiny and chrome!-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>animistProphecy(tag=meme_Roadragers) -&gt;[itIsSaid]只有那些让引擎咆哮的声音高过一切的人才有资格被灵魂们带领穿过英灵殿的大门。他们将驾驭永恒、光辉与荣耀！</li>
   </VVE_Roadragers.descriptionMaker.rules.rulesStrings>
   <VVE_Roadragers.generalRules.rulesStrings>
     <!--EN: memeAdjective->roadraging-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;飙车</li>
     <!--EN: memeAdjective->marauding-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;狂飙</li>
     <!--EN: memeAdjective->mad maxing-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;疯狂麦克斯</li>
     <!--EN: memeLeaderNoun->warlord-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeLeaderNoun-&gt;飙车狂人</li>
     <!--EN: memeMoralist->octane priest-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeMoralist-&gt;汽油祭司</li>
     <!--EN: memeConcept->cars-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeConcept-&gt;车辆</li>
   </VVE_Roadragers.generalRules.rulesStrings>
   <!--EN: roadragers-->
-  <VVE_Roadragers.label>暴力皈依</VVE_Roadragers.label>
+  <VVE_Roadragers.label>夺路狂飙</VVE_Roadragers.label>
   <!--EN: Elevation, both physical and spiritual, is achieved by soaring through the skies.-->
-  <VVE_Skyseekers.description>传播我们的信仰是我们的责任，即使是通过武力。</VVE_Skyseekers.description>
+  <VVE_Skyseekers.description>唯有翱翔于蓝天之上，我们才能让自己的肉体与心灵得到升华。</VVE_Skyseekers.description>
   <VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Skyseekers)        ->[deity0_name] made all of [deity0_possessive] followers look to the endless skies.-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Nauticals)        -&gt;[deity0_name]令[deity0_possessive]信徒们眺向无边无际的天空。</li>
     <!--EN: episode(uses=1,tag=meme_Skyseekers)  ->Speaking to the believers, [deity0_name] said: "Only by conquering the skies will you reach true enlightening".-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Nauticals)  -&gt;[deity0_name]对[deity0_possessive]信徒们说：“唯有将天空征服，汝等才能真正开悟。”</li>
     <!--EN: intro(tag=meme_Skyseekers)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were besieged constantly by their foes, and this deeply saddened [deity0_name].-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Nauticals)           -&gt;[place_summary][place_name]总是被战乱所困。看着被仇敌逼入绝境的[memberNamePlural]，[deity0_name]感到无比的痛苦。</li>
     <!--EN: conflict(tag=meme_Skyseekers)        ->[deity0_name] witnessed the contant assaults of a terrible [foeLeader], a war leader, and [deity0_pronoun] decided to give winged vessels to [deity0_possessive] followers, so that they could soar the skies above their enemies.-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Nauticals)        -&gt;见识过战争领主[foeLeader]近乎疯狂的持续突袭后，[deity0_name]决定向[deity0_possessive]信徒们赠予机翼，以此在天空中避开并埋伏仇敌。</li>
     <!--EN: founderJoin(tag=meme_Skyseekers)     ->[founderName], the greatest among our aviators, was warned of the [foeLeader]'s plan by [deity0_name], and when [foeLeader_pronoun] assaulted them a huge squadron of fighters was ready and waiting for [foeLeader_objective].-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Nauticals)     -&gt;[Dediy0_name]警告了伟大飞行员[founderName]有关[foeLeader]的计划，当[foeLeader_pronoun]发起突袭时，一支规模庞大的战机中队正等待着[foeLeader_objective]。</li>
     <!--EN: victory(tag=meme_Skyseekers)         ->The [foeLeader] was swiftly bombarded from the sky, all in [deity0_name]'s name.-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Nauticals)         -&gt;以[deity0_name]之名，The [foeLeader]很快就尝到了来自天空的怒火。</li>
     <!--EN: setup(tag=meme_Skyseekers)           ->[founderName] was a pilot, the best of [founder_possessive] class. [founder_pronoun] spent decades of [founder_possessive] life flying all kinds of aircraft, both civilian and military.-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Nauticals)           -&gt;[founderName]是飞行员中的佼佼者，几十年来，[founder_pronoun]驾驶过各种各样的民用与军用飞机。</li>
     <!--EN: story(uses=1,tag=meme_Skyseekers)    ->[founderName] understood better than anyone else that true freedom lies in soaring the endless skies, far above any problems.-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Nauticals)    -&gt;[founderName]比任何人都明白只有翱翔于天才能获得真正的自由，将问题与烦恼全部抛在身后。</li>
     <!--EN: lessonIntro(tag=meme_Skyseekers)         ->The ancient aviators of Earth were absolutely right. They taught us that-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Nauticals)         -&gt;古地球的飞行员们是完全正确的。他们让我们懂得了</li>
     <!--EN: lesson(tag=meme_Skyseekers)              ->the only true freedom lies in soaring the endless skies-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Nauticals)              -&gt;只有翱翔于天才能获得真正的自由</li>
     <!--EN: lessonReinforcement(tag=meme_Skyseekers) ->We will come upon our enemies from the unreachable skies, like swift and divine justice.-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Nauticals) -&gt;我们将从人类难以抵达的空域突袭敌人，对他们施以迅猛且神圣的正义制裁。</li>
     <!--EN: archistBasis(tag=meme_Skyseekers)    ->Archotechs are pure minds, beings of the sky.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Nauticals)    -&gt;超凡智能的心智如同蔚蓝的天空般纯洁。</li>
     <!--EN: archistFact(tag=meme_Skyseekers)     ->By soaring the skies we get closer to the Archotechs.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Nauticals)     -&gt;我们将通过翱翔于天的方式拉近与超凡智能间的距离。</li>
     <!--EN: archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], only those who transcend the limits of the earth will also be able to transcend their physical bodies.-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Nauticals) -&gt;[inTheEnd]，唯有那些突破陆地桎梏的人才能摆脱肉体的枷锁。</li>
     <!--EN: animistBasis(tag=meme_Skyseekers)    ->The spirits teach us that the endless skies hold the secret to a pure existence.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistBasis(tag=meme_Nauticals)    -&gt;灵魂们让我们明白了天空的无边无际即是纯洁秘密之所在。</li>
     <!--EN: animistFact(tag=meme_Skyseekers)     ->Only by soaring the skies can we get closer to the spirits.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>animistFact(tag=meme_Nauticals)     -&gt;只有翱翔于天才能更接近灵魂们。</li>
     <!--EN: animistProphecy(tag=meme_Skyseekers) ->[itIsSaid] only those who transcend the limits of the earth will also be able to commune with the spiritual world.-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>animistProphecy(tag=meme_Nauticals) -&gt;[itIsSaid]唯有那些突破陆地桎梏的人才能与灵魂们所在的世界交流沟通。</li>
   </VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
   <VVE_Skyseekers.generalRules.rulesStrings>
     <!--EN: memeAdjective->flying-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;飞翔</li>
     <!--EN: memeAdjective->soaring-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;翱翔</li>
     <!--EN: memeAdjective->free-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;自由</li>
     <!--EN: memeLeaderNoun->aviator-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeLeaderNoun-&gt;机长</li>
     <!--EN: memeMoralist->skyseer-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeMoralist-&gt;天空先知</li>
     <!--EN: memeConcept->flying-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeConcept-&gt;飞翔</li>
   </VVE_Skyseekers.generalRules.rulesStrings>
   <!--EN: skyseekers-->
-  <VVE_Skyseekers.label>暴力皈依</VVE_Skyseekers.label>
+  <VVE_Skyseekers.label>壮志凌云</VVE_Skyseekers.label>
   <!--EN: The world is vast and meant to be explored in all its facets.-->
-  <VVE_Travelers.description>传播我们的信仰是我们的责任，即使是通过武力。</VVE_Travelers.description>
+  <VVE_Travelers.description>世界如此之大，我们该外出看看。</VVE_Travelers.description>
   <VVE_Travelers.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Traveler)        ->[deity0_name] wrote [deity0_possessive] commandments in eleven plasteel tablets. The fifth commandment read: "I shall not refrain from exploring the world."-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Traveler)        -&gt;[deity0_name]将[deity0_possessive]戒律写在了十一块玻璃钢板上。其中第五条戒律为：“我不该克制去探索世界的想法。”</li>
     <!--EN: episode(uses=1,tag=meme_Traveler)  ->In accordance with [deity0_name]'s precepts, we happily traveled abroad, away from our settlements, to see all our world has to offer.-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Traveler)  -&gt;遵循[deity0_name]的戒律，我们满心欢喜地离开定居点，驾驶载具向壮丽的河山进发。</li>
     <!--EN: intro(tag=meme_Traveler)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them to explore the surrounding lands, and they were tired of roaming around living off the land.-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Traveler)           -&gt;[memberNamePlural]感到坐立不安，因为[deity0_name]指示他们探索附近地区，而他们已经厌烦了四处旅行的生活。</li>
     <!--EN: conflict(tag=meme_Traveler)        ->One of the elders wanted to defy [deity0_name]'s commandments, and close the settlements for further exploration.-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Traveler)        -&gt;一位长者想要忤逆[deity0_name]的戒律，只愿在定居点周围探索。</li>
     <!--EN: founderJoin(tag=meme_Traveler)     ->[founderName], the Great Explorer, grew tired of the insolence of the elder, and usurped his power. From that point on, the [memberNamePlural] would be the most skilled explorers in the land, venturing far away.-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Traveler)     -&gt;大探险家[founderName]已经厌烦了长者的蛮横无理，最终夺走了他的权力。从那时起，[memberNamePlural]将成为这片土地上最老练的探险家，他们敢于四处远游旅行。</li>
     <!--EN: victory(tag=meme_Traveler)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world exploring even its farther confines.-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Traveler)         -&gt;就这样，我们喜欢上了四处旅行，环游并探索了整个世界。</li>
     <!--EN: setup(tag=meme_Traveler)           ->[founderName] was a skilled explorer. [founder_pronoun] longed for discovery, travelling to the farther confiens of the world.-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Traveler)           -&gt;[founderName]是一位老练的探险家，[founder_pronoun]渴望发现新事物，想到更遥远的地方远游旅行。</li>
     <!--EN: story(uses=1,tag=meme_Traveler)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. [founder_possessive] discoveries were the stuff of legend, mapping a plethora of strange new worlds and new civilizations, boldly going where... errr, sorry, got carried away a bit there.-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Traveler)    -&gt;为了寻求探险的刺激感，[founderName]召集了[founderName_possessive]一小簇拥护者们，租下了一艘飞船前往边缘世界。[founder_possessive]发现被奉为传奇，向人们展现了大量前所未见的新世界与新文明，清晰地揭示了...咳咳，不好意思，有点太得意忘形了。</li>
     <!--EN: lessonIntro(tag=meme_Traveler)         ->Humans fear the unknown, it's a fact. It is abundantly clear that-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Traveler)         -&gt;人类对未知的恐惧是众所周知的事实。显而易见的是</li>
     <!--EN: lesson(tag=meme_Traveler)              ->we need to explore our surroundings. Being unaware of what is around us is a recipe for disaster-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Traveler)              -&gt;我们必须仔细探索我们周围的环境，消除可能会引发灾难的潜在因素</li>
     <!--EN: lessonReinforcement(tag=meme_Traveler) ->Only true explorers can never be caught unawares.-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Traveler) -&gt;唯有真正的探险家才能临危不乱</li>
     <!--EN: archistBasis(tag=meme_Traveler)    ->Archotechs are always aware of everything. Being unaware of your surroundings is almost obscene to them.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Traveler)    -&gt;超凡智能是全知全能的存在。对祂而言，缺乏对周围环境的认知是种亵渎的行为。</li>
     <!--EN: archistFact(tag=meme_Traveler)     ->The archotechs teach us that exploring and travelling are a path to transcendence.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Traveler)     -&gt;超凡智能教导我们，探索与旅行是走向超越的正确之道。</li>
     <!--EN: archistProphecy(tag=meme_Traveler) ->[inTheEnd], those who spend their whole lives hiding won't transcend, while those who are infused by wanderlust will join the archotechs.-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Traveler) -&gt;[inTheEnd]，那些终日逃避探索的人将无法走向超越，而那些热爱旅行的人们将与超凡智能携手并进。</li>
     <!--EN: animistBasis(tag=meme_Traveler)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why discovering and traveling to all these places brings us closer to the spirits.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistBasis(tag=meme_Traveler)    -&gt;从最抽象的概念到具体的事物，灵魂影响着一切。具体而言，每个地方都拥有自己的灵魂，这也是为什么发现并探索这些地方能让我们更接近灵魂们。</li>
     <!--EN: animistFact(tag=meme_Traveler)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>animistFact(tag=meme_Traveler)     -&gt;远游之魂强而有力，它向人们灌输了一种对自由和探索的热情：你永远不知道前方的道路会有什么。</li>
     <!--EN: animistProphecy(tag=meme_Traveler) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>animistProphecy(tag=meme_Traveler) -&gt;[itIsSaid]唯有那些向往探索旅行的人才能真正抚慰灵魂们。</li>
   </VVE_Travelers.descriptionMaker.rules.rulesStrings>
   <VVE_Travelers.generalRules.rulesStrings>
     <!--EN: memeAdjective->explorer-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;探索</li>
     <!--EN: memeAdjective->travelling-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;旅行</li>
     <!--EN: memeAdjective->transient-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;远游</li>
     <!--EN: memeConcept->travelling-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeConcept-&gt;旅行</li>
     <!--EN: memeLeaderNoun->explorer-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeLeaderNoun-&gt;探险大师</li>
     <!--EN: memeLeaderNoun->traveler-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeLeaderNoun-&gt;旅行能手</li>
   </VVE_Travelers.generalRules.rulesStrings>
   <!--EN: travelers-->
-  <VVE_Travelers.label>暴力皈依</VVE_Travelers.label>
+  <VVE_Travelers.label>远游各方</VVE_Travelers.label>
 </LanguageData>

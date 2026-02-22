@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.-->
+  <VRE_ChestburstPregnancyHediff.description>When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.</VRE_ChestburstPregnancyHediff.description>
+  <!--EN: chestburst pregnancy needs implantation-->
+  <VRE_ChestburstPregnancyHediff.label>chestburst pregnancy needs implantation</VRE_ChestburstPregnancyHediff.label>
+  <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.-->
+  <VRE_ChestburstPregnancy_Victim.description>Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.</VRE_ChestburstPregnancy_Victim.description>
+  <!--EN: chestburst pregnancy-->
+  <VRE_ChestburstPregnancy_Victim.label>chestburst pregnancy</VRE_ChestburstPregnancy_Victim.label>
+  <!--EN: egg-->
+  <VRE_ChestburstPregnancy_Victim.stages.0.label>egg</VRE_ChestburstPregnancy_Victim.stages.0.label>
+  <!--EN: larva-->
+  <VRE_ChestburstPregnancy_Victim.stages.1.label>larva</VRE_ChestburstPregnancy_Victim.stages.1.label>
+  <!--EN: pupa-->
+  <VRE_ChestburstPregnancy_Victim.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim.stages.2.label>
+  <!--EN: juvenile-->
+  <VRE_ChestburstPregnancy_Victim.stages.3.label>juvenile</VRE_ChestburstPregnancy_Victim.stages.3.label>
+  <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <!--EN: chestburst pregnancy-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>chestburst pregnancy</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <!--EN: egg-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>egg</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
+  <!--EN: larva-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>larva</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
+  <!--EN: pupa-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>pupa</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
+  <!--EN: juvenile-->
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>juvenile</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
+  <!--EN: This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.-->
+  <VRE_Parthenogenesis.description>This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.</VRE_Parthenogenesis.description>
+  <!--EN: parthenogenesis-->
+  <VRE_Parthenogenesis.label>parthenogenesis</VRE_Parthenogenesis.label>
+</LanguageData>

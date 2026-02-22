@@ -1,0 +1,15 @@
+key,text,tag,file,type
+Bed_OperatingTable.label,operating table,label,ThingDef/Buildings_Beds.xml,def
+Bed_OperatingTable.description,"A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds.",description,ThingDef/Buildings_Beds.xml,def
+Bed_CryptoBed.label,cryptosleep suspender,label,ThingDef/Buildings_Beds.xml,def
+Bed_CryptoBed.description,"A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.",description,ThingDef/Buildings_Beds.xml,def
+Facility_VitalsCentre.label,vitals centre,label,ThingDef/Buildings_Facilities.xml,def
+Facility_VitalsCentre.description,"A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit.",description,ThingDef/Buildings_Facilities.xml,def
+Facility_IVDrip.label,intravenous drip stand,label,ThingDef/Buildings_Facilities.xml,def
+Facility_IVDrip.description,"An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect.",description,ThingDef/Buildings_Facilities.xml,def
+Facility_ResearchCounter.label,research counter,label,ThingDef/Buildings_Facilities.xml,def
+Facility_ResearchCounter.description,A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times.,description,ThingDef/Buildings_Facilities.xml,def
+VFEM_Wall_Sterile.label,sterile wall,label,ThingDef/Buildings_Structure.xml,def
+VFEM_Wall_Sterile.description,An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment.,description,ThingDef/Buildings_Structure.xml,def
+Minor_CryptoSickness.label,cryptosleep sickness (minor),label,HediffDef/Hediffs_Global_Misc.xml,def
+Minor_CryptoSickness.description,minor cryptosleep sickness,description,HediffDef/Hediffs_Global_Misc.xml,def

@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: sharing ideas-->
-  <VFET_TribalGatheringInteraction.label>分享想法</VFET_TribalGatheringInteraction.label>
+  <VFET_TribalGatheringInteraction.label>分享点子</VFET_TribalGatheringInteraction.label>
   <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][talkedabout][TalkTopicLight]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][talkedabout][TalkTopicLight]的点子。</li>
     <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].-->
-    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight]。</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef][commentedabout][TalkTopicLight]的想法。</li>
     <!--EN: talkedabout(p=4)->chatted about-->
-    <li>talkedabout(p=4)-&gt;聊了</li>
+    <li>talkedabout(p=4)-&gt;闲聊了有关</li>
     <!--EN: talkedabout->shared a word about-->
     <li>talkedabout-&gt;分享了有关</li>
     <!--EN: talkedabout->spoke about-->
-    <li>talkedabout-&gt;谈到</li>
+    <li>talkedabout-&gt;谈到了有关</li>
     <!--EN: talkedabout->gabbed about-->
-    <li>talkedabout-&gt;闲聊</li>
+    <li>talkedabout-&gt;喋喋不休讨论着有关</li>
     <!--EN: talkedabout->talked about-->
-    <li>talkedabout-&gt;谈论过</li>
+    <li>talkedabout-&gt;谈论着有关</li>
     <!--EN: talkedabout->joked about-->
-    <li>talkedabout-&gt;开玩笑说</li>
+    <li>talkedabout-&gt;开玩笑地说着有关</li>
     <!--EN: talkedabout->quipped about-->
-    <li>talkedabout-&gt;打趣说</li>
+    <li>talkedabout-&gt;打趣地聊着有关</li>
     <!--EN: commentedabout->said something about-->
-    <li>commentedabout-&gt;说了一些关于</li>
+    <li>commentedabout-&gt;聊了很多有关</li>
     <!--EN: commentedabout->said a word about-->
-    <li>commentedabout-&gt;说了一句话</li>
+    <li>commentedabout-&gt;说了几句有关</li>
     <!--EN: commentedabout->made a comment about-->
-    <li>commentedabout-&gt;发表了评论</li>
+    <li>commentedabout-&gt;点评了有关</li>
     <!--EN: commentedabout->commented about-->
-    <li>commentedabout-&gt;评论了</li>
+    <li>commentedabout-&gt;讨论了有关</li>
     <!--EN: commentedabout->told a joke about-->
-    <li>commentedabout-&gt;讲了一个关于</li>
+    <li>commentedabout-&gt;调侃了有关</li>
   </VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
 </LanguageData>

@@ -1,0 +1,55 @@
+key,text,tag,file,type
+VPEP.TargetCannotBeSameFactionAsCaster,Target cannot be colonist.,VPEP.TargetCannotBeSameFactionAsCaster,Keys.xml,keyed
+VPEP.TargetMustBeSameFactionAsCaster,Target must be prisoner or colonist.,VPEP.TargetMustBeSameFactionAsCaster,Keys.xml,keyed
+VPEP.TargetMustBePrisonerOrSlave,Target must be prisoner or slave.,VPEP.TargetMustBePrisonerOrSlave,Keys.xml,keyed
+VPEP.DegradePsycast,It was caused by the Degrade psycast.,VPEP.DegradePsycast,Keys.xml,keyed
+VPEP.TargetMustHaveBrainLeech,Target must have brain leech from the caster.,VPEP.TargetMustHaveBrainLeech,Keys.xml,keyed
+VPEP.TargetIsPuppetAlready,Target is a puppet already.,VPEP.TargetIsPuppetAlready,Keys.xml,keyed
+VPEP.CannotHaveMorePuppets,Cannot have more puppets due to the puppet limit.,VPEP.CannotHaveMorePuppets,Keys.xml,keyed
+VPEP.Puppets,Puppets,VPEP.Puppets,Keys.xml,keyed
+VPEP.PuppetsGizmoTip,"A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a {0} coma.\n\nPsychic capacity: {1}",VPEP.PuppetsGizmoTip,Keys.xml,keyed
+VPEP.PuppetsUsage,Current puppets:,VPEP.PuppetsUsage,Keys.xml,keyed
+VPEP.TargetMustBePuppetOfCaster,Target must be a puppet of the caster.,VPEP.TargetMustBePuppetOfCaster,Keys.xml,keyed
+VPEP.NoPuppets,No puppets.,VPEP.NoPuppets,Keys.xml,keyed
+VPEP.MindJumpTitle,Mind jump,VPEP.MindJumpTitle,Keys.xml,keyed
+VPEP.MindJumpText,"{Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer.",VPEP.MindJumpText,Keys.xml,keyed
+VPEP_PuppetSettings.label,this def will have various settings used for puppets. Can be used for mod compatibility from outside via xml patches.,label,VPEPuppeteer.PuppetSettings/PuppeteerSettings.xml,def
+VPEP_BrainCut.label,brain cut,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_BrainCut.description,An intentional misuse of the reprogramming psycast which creates a permanent rift in the target’s brain. The damage scales with the target’s psychic sensitivity and always disorients for 2 seconds.,description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_BrainLeech.label,brain leech,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_BrainLeech.description,Creates a psionic link on a colleague or prisoner that redirects brain processing power to the leacher. The effect is inefficient and reaches its maximum after 2 days before fading into obscurity. Only a single leech can be maintained.,description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Subjugation.label,subjugation,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Subjugation.description,Induces a form of indoctrination on a prisoner by altering neuron pathways so that thoughts of the target’s faction triggers negative reactions. The effects are quite nauseating and “convinces” them to switch sides after 7 days.,description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Degrade.label,degrade,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Degrade.description,"Reverts the humanoid target’s behavioral instincts to a considerably more primitive state, forcibly triggering the mental break “run wild”.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Puppet.label,puppet,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Puppet.description,"Targeting a pawn affected by Brain Leech, this psycast permanently overwrites their personality with the caster’s own. Locks the short-term memory portion of the brain to synchronize with the caster, in turn putting them into a short coma. Number of puppets is initially limited to one.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_SummonPuppet.label,summon puppet,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_SummonPuppet.description,"By causing an effect similar to an extreme case of “homesickness”, the caster can force the puppet to skip itself to them almost instantaneously and regardless of distance.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_MindSplit.label,mind split,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_MindSplit.description,"By taking the psionic equivalent of a hammer and chisel to their own consciousness, the caster can permanently increase their limit of controllable puppets by one. Effectively painless as they knock themselves unconscious for a short duration from shattering their sense of self.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_PuppetSwarm.label,puppet swarm,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_PuppetSwarm.description,"By causing an effect similar to an extreme case of “homesickness”, the caster can force all linked puppets to skip themselves to them almost instantaneously and regardless of distance.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Ascension.label,ascension,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_Ascension.description,"Targets a controlled puppet and causes them to commit suicide through psychic overload, annihilating itself and the surrounding 5 tiles. The sum of the puppet’s learned skills is converted into psychic energy for the detonation, with a fraction absorbed by the caster as psycasting XP.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_MindJump.label,mind jump,label,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_MindJump.description,"Permanently swaps the caster and the targeted puppet’s bodies, with the puppet becoming the master with all of their psycasting capabilities. The sudden change in consciousness and adaptation to a new vessel locks the new master into a scaled 48-hour psychic coma.",description,VEF.Abilities.AbilityDef/Puppeteer.xml,def
+VPEP_BrainLeech.label,Brain leech,label,HediffDef/Hediffs.xml,def
+VPEP_BrainLeech.description,A brain parasite that leeches consciousness of the victim and gives a fraction of that consciousness to the psycaster that cast it.,description,HediffDef/Hediffs.xml,def
+VPEP_Leeching.label,Leeching,label,HediffDef/Hediffs.xml,def
+VPEP_Leeching.description,A psychic consciousness boost provided by the brain leech on another person.,description,HediffDef/Hediffs.xml,def
+VPEP_Subjugation.label,subjugation,label,HediffDef/Hediffs.xml,def
+VPEP_Subjugation.description,"A psychic indoctrination that reduces consciousness, manipulation and breathing of the subject until they reach a breaking point and join your colony.",description,HediffDef/Hediffs.xml,def
+VPEP_Subjugation.stages.0.label,minor,label,HediffDef/Hediffs.xml,def
+VPEP_Subjugation.stages.1.label,major,label,HediffDef/Hediffs.xml,def
+VPEP_Subjugation.stages.2.label,extreme,label,HediffDef/Hediffs.xml,def
+VPEP_Puppeteer.label,Puppeteer,label,HediffDef/Hediffs.xml,def
+VPEP_Puppeteer.description,"This individual is a puppeteer and uses psychic influence to control puppets. Puppets share their experience gain with the puppeteer. If the puppeteer dies, a psychic shockwave will knock all puppets into paralytic abasia.",description,HediffDef/Hediffs.xml,def
+VPEP_Puppet.label,Puppet,label,HediffDef/Hediffs.xml,def
+VPEP_Puppet.description,"This individual is a puppet. They inherit their backstories and traits from their puppetmaster, however they have no needs other than food and rest. They have lowered consiousness and have their experience gain greatly reduced. They will enter the same mental state as their puppeteer.",description,HediffDef/Hediffs.xml,def
+VPEP_StripGear.reportString,stripping gear.,reportString,JobDef/Jobs.xml,def
+VPEP_Puppeteer.label,puppeteer,label,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEP_Puppeteer.description,Puppeteers provide the ways to exploit minds and dominate others. They are the masters of subjugating enemies and creating mindless husks upon which they feed.,description,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEP_Puppeteer.tooltip,"Masters of psychic manipulation, puppeteers can delve into minds, inflicting deep psychic wounds or taking control. They craft mindless puppets, extensions of their own will, which collect knowledge and serve their whims. In times of danger, a puppeteer can transfer their very essence into a puppet, achieving a form of immortality. This arcane art is jealously guarded, known only to the elite empire-born nobles.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEP_Degrade.label,degrade,label,ThingDef/Projectiles.xml,def
+VPEP_MindJump.label,mind jump,label,ThingDef/Projectiles.xml,def

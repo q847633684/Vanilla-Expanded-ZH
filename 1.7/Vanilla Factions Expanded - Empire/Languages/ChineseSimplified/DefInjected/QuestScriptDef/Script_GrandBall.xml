@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VFEE_GrandBall.questContentRules.rulesStrings>
+    <!--EN: lastOrNot(nobleCount==1)->-->
+    <li>lastOrNot(nobleCount==1)-&gt;</li>
+    <!--EN: lastOrNot(nobleCount>=2)->last-->
+    <li>lastOrNot(nobleCount&gt;=2)-&gt;last</li>
+    <!--EN: lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]-->
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</li>
+    <!--EN: lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]-->
+    <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <!--EN: decidedToLeave->Are leaving immediately, and will not remember this event fondly!-->
+    <li>decidedToLeave-&gt;Are leaving immediately, and will not remember this event fondly!</li>
+    <!--EN: oneOfThe->one of the nobles you invited to the grand ball-->
+    <li>oneOfThe-&gt;one of the nobles you invited to the grand ball</li>
+    <!--EN: questOver->The quest '[resolvedQuestName]' is over.-->
+    <li>questOver-&gt;The quest '[resolvedQuestName]' is over.</li>
+    <!--EN: CeremonyFailedLetterLabel->GrandBall failed-->
+    <li>CeremonyFailedLetterLabel-&gt;GrandBall failed</li>
+    <!--EN: CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Ball. [asker_pronoun] is leaving with [asker_possessive] guests-->
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] is disappointed by your failure to make for an enjoyable Ball. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <!--EN: CeremonyTimeoutLetterLabel->GrandBall failed-->
+    <li>CeremonyTimeoutLetterLabel-&gt;GrandBall failed</li>
+    <!--EN: CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the ball. [asker_pronoun] is leaving with [asker_possessive] guests.-->
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] has grown tired of waiting for you to start the ball. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
+    <li>letterIntroArrested-&gt;You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested-->
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrested</li>
+    <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] died: Departure</li>
+    <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
+    <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Surgery: Departure</li>
+    <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Kidnapped: Departure</li>
+    <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Banished: Departure</li>
+    <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.-->
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <!--EN: lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure-->
+    <li>lodgerPsychicRitualTargetLabel-&gt;[lodgersLabel] Psychic Ritual: Departure</li>
+    <!--EN: lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]-->
+    <li>lodgerPsychicRitualTargetText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, has been destroyed</li>
+    <!--EN: ShuttleDestroyedLabel->Shuttle destroyed: Ball Cancelled-->
+    <li>ShuttleDestroyedLabel-&gt;Shuttle destroyed: Ball Cancelled</li>
+    <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--EN: raidArrivedLetterLabel->Deserter assasination attempt-->
+    <li>raidArrivedLetterLabel-&gt;Deserter assasination attempt</li>
+    <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".-->
+    <li>raidArrivedLetterText-&gt;A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".</li>
+    <!--EN: BallSuccessLetterLetterLabel->GrandBall Success-->
+    <li>BallSuccessLetterLetterLabel-&gt;GrandBall Success</li>
+    <!--EN: BallSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.-->
+    <li>BallSuccessLetterText-&gt;The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.</li>
+  </VFEE_GrandBall.questContentRules.rulesStrings>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+    <!--EN: lodgersLabel->noble-->
+    <li>lodgersLabel-&gt;noble</li>
+    <!--EN: lodgersLabelPlural->nobles-->
+    <li>lodgersLabelPlural-&gt;nobles</li>
+    <!--EN: lodgersDef(nobleCount==1)->[lodgers0_nameDef]-->
+    <li>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</li>
+    <!--EN: lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]-->
+    <li>lodgersDef(nobleCount&gt;=2)-&gt;the [lodgersLabelPlural]</li>
+    <!--EN: joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]-->
+    <li>joinerEnding-&gt;You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
+    <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
+    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <!--EN: theirHisHer(nobleCount>=2)->their-->
+    <li>theirHisHer(nobleCount&gt;=2)-&gt;their</li>
+    <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
+    <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
+    <!--EN: lodgersPronoun(nobleCount>=2)->they-->
+    <li>lodgersPronoun(nobleCount&gt;=2)-&gt;they</li>
+    <!--EN: lodgersWasWere(nobleCount==1)->was-->
+    <li>lodgersWasWere(nobleCount==1)-&gt;was</li>
+    <!--EN: lodgersWasWere(nobleCount>=2)->were-->
+    <li>lodgersWasWere(nobleCount&gt;=2)-&gt;were</li>
+    <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
+    <li>appreciateAppreciates(nobleCount==1)-&gt;appreciates</li>
+    <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
+    <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;appreciate</li>
+    <!--EN: questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like you to organise a grand ball. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a ballroom present in your colony. If at any point the ballroom is destroyed or the instruments in it become unusable, the grand ball will be called off\n[asker_nameFull] has forwarded you a list of nobility that was invited to the ball and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the ball. If anything happens to any of the guests, the grand ball will be cancelled. \nDeserters might use this opportunity to launch an assassination attempt.-->
+    <li>questDescription-&gt;[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like you to organise a grand ball. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a ballroom present in your colony. If at any point the ballroom is destroyed or the instruments in it become unusable, the grand ball will be called off\n[asker_nameFull] has forwarded you a list of nobility that was invited to the ball and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the ball. If anything happens to any of the guests, the grand ball will be cancelled. \nDeserters might use this opportunity to launch an assassination attempt.</li>
+  </VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_GrandBall.questNameRules.rulesStrings>
+    <!--EN: questName->[lodgerIndef] desires a grand ball-->
+    <li>questName-&gt;[lodgerIndef] desires a grand ball</li>
+    <!--EN: lodgerIndef->a royal-->
+    <li>lodgerIndef-&gt;a royal</li>
+    <!--EN: lodgerIndef->a noble-->
+    <li>lodgerIndef-&gt;a noble</li>
+  </VFEE_GrandBall.questNameRules.rulesStrings>
+</LanguageData>

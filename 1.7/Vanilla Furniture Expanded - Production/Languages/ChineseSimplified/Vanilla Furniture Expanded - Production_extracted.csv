@@ -1,0 +1,41 @@
+key,text,tag,file,type
+VFE_DrugCabinet.label,drug cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_DrugCabinet.description,Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_MachiningCabinet.label,machining cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_MachiningCabinet.description,Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_SmithyCabinet.label,smithing cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_SmithyCabinet.description,Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_KitchenSinkCabinet.label,kitchen sink cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_KitchenSinkCabinet.description,Increases work speed when placed nearby a cooking stove.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_TailorCabinet.label,tailor cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_TailorCabinet.description,Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_FabricationCabinet.label,fabrication cabinet,label,ThingDef/Buildings_Linkables.xml,def
+VFE_FabricationCabinet.description,Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets.,description,ThingDef/Buildings_Linkables.xml,def
+VFE_TableMachiningLarge.label,large machining table,label,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableMachiningLarge.description,A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.,description,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableSmithyLarge.label,large electric smithy,label,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableSmithyLarge.description,An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.,description,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableStoveLarge.label,large stove,label,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableStoveLarge.description,A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.,description,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableTailorLarge.label,large tailoring table,label,ThingDef/Buildings_Manufacturing.xml,def
+VFE_TableTailorLarge.description,A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.,description,ThingDef/Buildings_Manufacturing.xml,def
+VFE_ComponentFabricationBench.label,assembly bench,label,ThingDef/Buildings_Production.xml,def
+VFE_ComponentFabricationBench.description,A workbench equipped with advanced tools to produce components.,description,ThingDef/Buildings_Production.xml,def
+VFE_TableButcherElectric.label,electric butcher,label,ThingDef/Buildings_Production.xml,def
+VFE_TableButcherElectric.description,A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.,description,ThingDef/Buildings_Production.xml,def
+VFE_TableDrugLabElectric.label,electric drug lab,label,ThingDef/Buildings_Production.xml,def
+VFE_TableDrugLabElectric.description,"An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.",description,ThingDef/Buildings_Production.xml,def
+VFE_FueledSmelter.label,fueled smelter,label,ThingDef/Buildings_Production.xml,def
+VFE_FueledSmelter.description,A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.,description,ThingDef/Buildings_Production.xml,def
+VFE_TableStonecutterElectric.label,electric stonecutter's table,label,ThingDef/Buildings_Production.xml,def
+VFE_TableStonecutterElectric.description,An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.,description,ThingDef/Buildings_Production.xml,def
+VFE_Manufacturing.label,Manufacturing,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.description,Build manufacturing benches and efficient work center.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.0,subject->the dawn of industry,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.1,"subject_story->pioneered the integration of complex machinery for mass production, heralding a new era of efficiency",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.2,"subject_story->transformed raw materials into marvels of utility, fueling the expansion of civilization",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.3,subject_story->devised systems of assembly that became the heartbeat of the community's economic engine,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.4,"subject_story->cultivated a culture of innovation, where every tool and machine is a step towards the future",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.5,"subject_story->founded the principles of modern manufacturing, blending craftsmanship with the precision of technology",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFE_Manufacturing.generalRules.rulesStrings.6,subject_gerund->carving the path towards a self-sustaining society with the power of industrial manufacturing,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def

@@ -1,0 +1,233 @@
+key,text,tag,file,type
+VFESecurity.Submerged,submerged,VFESecurity.Submerged,Keys.xml,keyed
+VFESecurity.WorldTileRange,World tile range,VFESecurity.WorldTileRange,Keys.xml,keyed
+VFESecurity.TargetWorldTile,Target world tile,VFESecurity.TargetWorldTile,Keys.xml,keyed
+VFESecurity.TargetWorldTile_Description,Select a world tile for this {0} to fire at.,VFESecurity.TargetWorldTile_Description,Keys.xml,keyed
+VFESecurity.TargetWorldTile_DescriptionShort,Select a world tile to fire at.,VFESecurity.TargetWorldTile_DescriptionShort,Keys.xml,keyed
+VFESecurity.CommandTargetTileFailNoArtillery,This {0} does not have any suitable artillery.,VFESecurity.CommandTargetTileFailNoArtillery,Keys.xml,keyed
+VFESecurity.TargetWorldTileOutOfRange,Tile is out of range.,VFESecurity.TargetWorldTileOutOfRange,Keys.xml,keyed
+VFESecurity.TargetMap,Target map,VFESecurity.TargetMap,Keys.xml,keyed
+VFESecurity.TargetPeaceTalks,Target peace talks,VFESecurity.TargetPeaceTalks,Keys.xml,keyed
+VFESecurity.TargetSettlement,Target settlement,VFESecurity.TargetSettlement,Keys.xml,keyed
+VFESecurity.TargetOutpost,Target outpost,VFESecurity.TargetOutpost,Keys.xml,keyed
+VFESecurity.TargetSite,Target site,VFESecurity.TargetSite,Keys.xml,keyed
+VFESecurity.TargetWorldTileEmpty,Target area (will have no effect),VFESecurity.TargetWorldTileEmpty,Keys.xml,keyed
+VFESecurity.TargetWorldFlyingObject,Cannot target flying objects.,VFESecurity.TargetWorldFlyingObject,Keys.xml,keyed
+VFESecurity.TargetWorldTileSameTile,Cannot target the same tile.,VFESecurity.TargetWorldTileSameTile,Keys.xml,keyed
+VFESecurity.MessageTargetWorldTileInvalid,Targeted area is invalid.,VFESecurity.MessageTargetWorldTileInvalid,Keys.xml,keyed
+VFESecurity.Settlement,settlement,VFESecurity.Settlement,Keys.xml,keyed
+VFESecurity.MessageTargetWorldTileOutOfRange,Targeted area is out of the {0}'s range.,VFESecurity.MessageTargetWorldTileOutOfRange,Keys.xml,keyed
+VFESecurity.GoodwillChangedReason_ArtilleryStrike,attacked by artillery,VFESecurity.GoodwillChangedReason_ArtilleryStrike,Keys.xml,keyed
+VFESecurity.Message_ArtilleryBombardmentEnded,{0} from {1} have stopped bombarding your settlements.,VFESecurity.Message_ArtilleryBombardmentEnded,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeProvokedGeneric_Letter,Provoked {0},VFESecurity.ArtilleryStrikeProvokedGeneric_Letter,Keys.xml,keyed
+VFESecurity.ArtilleryStrikePeaceTalks_LetterText,"By sending an artillery strike at their peace talks negotiation party, relations between you and {0} have soured. They may send a raiding party in retaliation.",VFESecurity.ArtilleryStrikePeaceTalks_LetterText,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeSettlement_Letter,Artillery retaliation,VFESecurity.ArtilleryStrikeSettlement_Letter,Keys.xml,keyed
+VFESecurity.ArtilleryStrikeSettlement_LetterText,"Due to your provocation via artillery strike, the {0} at {1} have decided to return fire at your settlements using their own artillery!\n\nThis bombardment will go on for a few days, or until you destroy the settlement.",VFESecurity.ArtilleryStrikeSettlement_LetterText,Keys.xml,keyed
+VFESecurity.LetterFactionBaseDefeatedStrike,The enemy base {0} has been destroyed.,VFESecurity.LetterFactionBaseDefeatedStrike,Keys.xml,keyed
+VFESecurity.PsychicPylonExposure,Psychic pylon exposure,VFESecurity.PsychicPylonExposure,Keys.xml,keyed
+VFESecurity.AmmoCrate,Ammo crate,VFESecurity.AmmoCrate,Keys.xml,keyed
+VFESecurity.Armed,Armed,VFESecurity.Armed,Keys.xml,keyed
+VFESecurity.NeedsRearming,Needs rearming,VFESecurity.NeedsRearming,Keys.xml,keyed
+VFESecurity.DesignatorRearmTraps,Rearm,VFESecurity.DesignatorRearmTraps,Keys.xml,keyed
+VFESecurity.DesignatorRearmTraps_Description,Mark unarmed rearmable traps to be rearmed by your colonists.,VFESecurity.DesignatorRearmTraps_Description,Keys.xml,keyed
+VFESecurity.MessageMustDesignateRearmables,Must designate unarmed rearmable traps.,VFESecurity.MessageMustDesignateRearmables,Keys.xml,keyed
+VFESecurity.ArtileryHitMessage,Artillery shell has hit the {0} location. ({1} destruction).,VFESecurity.ArtileryHitMessage,Keys.xml,keyed
+VFESecurity.ArtileryDestruction,{0} destruction from artillery,VFESecurity.ArtileryDestruction,Keys.xml,keyed
+VFESecurity.ArtileryHitDestroyedMessage,Artillery shell has destroyed the {0} location.,VFESecurity.ArtileryHitDestroyedMessage,Keys.xml,keyed
+VFES_Deploy,Deploy,VFES_Deploy,Keys.xml,keyed
+VFES_DeployDesc,Deploy the structure from the submerged state.,VFES_DeployDesc,Keys.xml,keyed
+VFES_Submerge,Submerge,VFES_Submerge,Keys.xml,keyed
+VFES_SubmergeDesc,"Submerge the structure into the ground, making it much harder for it to take damage.",VFES_SubmergeDesc,Keys.xml,keyed
+VFES_OnCooldown,On cooldown: {0},VFES_OnCooldown,Keys.xml,keyed
+VFES_DesignatorRearmTraps,Rearm Traps,VFES_DesignatorRearmTraps,Keys.xml,keyed
+VFES_DesignatorRearmTraps_Description,Designate traps to be rearmed by colonists.,VFES_DesignatorRearmTraps_Description,Keys.xml,keyed
+VFES_MessageMustDesignateRearmables,Must designate rearmable traps.,VFES_MessageMustDesignateRearmables,Keys.xml,keyed
+VFES_Armed,Armed,VFES_Armed,Keys.xml,keyed
+VFES_NeedsRearming,Needs rearming,VFES_NeedsRearming,Keys.xml,keyed
+VFES_SecondaryFuel,Secondary fuel,VFES_SecondaryFuel,Keys.xml,keyed
+VFES_CommandToggleAllowAutoRefuelSecondary,Toggle auto-refuel ammunition,VFES_CommandToggleAllowAutoRefuelSecondary,Keys.xml,keyed
+VFES_ManSecondary,(secondary),VFES_ManSecondary,Keys.xml,keyed
+VFES_SetWorldTarget,Set world target,VFES_SetWorldTarget,Keys.xml,keyed
+VFES_SetWorldTargetDesc,Set the target on the world map for the artillery to fire at. Shots fired over the world map are less accurate. Can only fire at revealed locations.,VFES_SetWorldTargetDesc,Keys.xml,keyed
+VFES_NeedsManned,Needs to be manned.,VFES_NeedsManned,Keys.xml,keyed
+VFES_ArtilleryNeedsVisibleMap,"Artillery needs to target a visible, explored map.",VFES_ArtilleryNeedsVisibleMap,Keys.xml,keyed
+VFES_ArtilleryOutOfRange,Target is out of range.,VFES_ArtilleryOutOfRange,Keys.xml,keyed
+VFES_ArtilleryInvalidFiringMode,Artillery cannot fire in this direction.,VFES_ArtilleryInvalidFiringMode,Keys.xml,keyed
+VFES_ArtilleryInvalidGroundToSpace,Artillery cannot fire from planet to space.,VFES_ArtilleryInvalidGroundToSpace,Keys.xml,keyed
+VFES_ArtilleryInvalidSpaceToSpace,Artillery cannot fire from space to space.,VFES_ArtilleryInvalidSpaceToSpace,Keys.xml,keyed
+VFES_ArtilleryInvalidSpaceToGround,Artillery cannot fire from space to ground.,VFES_ArtilleryInvalidSpaceToGround,Keys.xml,keyed
+VFES_ArtilleryInvalidGroundToGround,Artillery cannot fire from ground to ground,VFES_ArtilleryInvalidGroundToGround,Keys.xml,keyed
+VFES_TrenchTerrain.label,in a trench,label,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_TrenchTerrain.description,this person is standing in a trench or other defensive structure.,description,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_PlatformTerrain.label,on a platform,label,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_PlatformTerrain.description,this person is standing on a platform or other structure.,description,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_Dazzled.label,dazzled,label,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_Dazzled.labelNoun,a dazzled eye,labelNoun,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_Dazzled.description,Significant impairment of vision as a result of over-exposure to light.,description,HediffDef/Hediffs_Local_Misc.xml,def
+VFES_RearmTrap.reportString,rearming TargetA.,reportString,JobDef/Jobs_Misc.xml,def
+VFES_ManSecondary.reportString,manning TargetA.,reportString,JobDef/Jobs_Misc.xml,def
+VFES_TrapsRearmed.label,traps rearmed,label,RecordDef/Records_Misc.xml,def
+VFES_TrapsRearmed.description,Number of traps rearmed.,description,RecordDef/Records_Misc.xml,def
+VFES_SiegeEquipment.label,siege equipment,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.description,Construct medieval siege equipment.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.0,subject->masters of siege,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.1,subject_story->revived ancient methods for breaching the stoutest defenses,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.2,"subject_story->crafted engines of war that thunder across fields, striking fear into foes",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.3,subject_story->engineered trebuchets and battering rams from sturdy timber and iron,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.4,"subject_story->led sieges that would become legendary, their tactics studied for ages",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_SiegeEquipment.generalRules.rulesStrings.5,subject_gerund->laying siege to the future by rediscovering the past,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.label,trench warfare,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.description,Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.0,subject->digging in,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.1,"subject_story->adopted the grim tactics of entrenched battles, shaping landscapes into mazes of mud and death",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.2,subject_story->innovated with rapid entrenching tools and techniques for swift fortification,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.3,subject_story->balanced the horror of no-man's-land with the safety of well-prepared defenses,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.4,subject_story->transformed warfare with the introduction of close-quarters combat within the earth's embrace,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.5,subject_gerund->embracing the earth for protection and strategy,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.label,concealed defenses,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.description,"Construct submersible barriers and turrets, perfect for indoor defenses.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.0,subject->hidden strength,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.1,"subject_story->mastered the art of concealment, making fortifications vanish before the enemy's eyes",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.2,"subject_story->innovated with submersible turrets and traps, revealing strength at the moment of surprise",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.3,"subject_story->designed defenses that blend seamlessly with the environment, striking unseen",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.4,"subject_story->created a network of hidden armaments, ensuring security through invisibility",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_ConcealedDefenses.generalRules.rulesStrings.5,subject_gerund->camouflaging power in plain sight,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.label,railgun,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.description,Adapt spacecraft weaponry as part of your defensive systems.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.0,subject->precision unleashed,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.1,subject_story->adapted the devastating power of spacecraft armaments for ground warfare,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.2,subject_story->engineered railguns to deliver unmatched velocity and destruction,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.3,subject_story->redefined the art of siege with technology torn from the stars,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.4,subject_story->ushered in a new age where the clash of titans is decided by the silent whisper of magnetic acceleration,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_Railgun.generalRules.rulesStrings.5,subject_gerund->bridging worlds with the thunder of railguns,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.label,electromagnetic pulse,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.description,Develop EMP traps and tesla blasters capable of stunning mechanoids.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.0,subject->the silent storm,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.1,"subject_story->crafted weapons that speak in the language of lightning, silencing the mechanical behemoths of war",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.2,subject_story->melded the might of electromagnetic pulses with strategic defense,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.3,"subject_story->paved the way for victory in silence, stunning adversaries with invisible force",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.4,subject_story->mastered the dance of electrons to protect and paralyze,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_EMPCannon.generalRules.rulesStrings.5,subject_gerund->commanding the battlefield with the whisper of currents,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.label,repulsor technology,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.description,Build ultratech shield generators that project energy fields to repel projectiles.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.0,subject->force fields forged,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.1,"subject_story->unveiled the secrets of repulsor tech, casting domes of protection across the land",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.2,"subject_story->engineered bastions of safety, where energy shields deflect the fury of war",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.3,subject_story->merged the ancient dreams of invincibility with the tangible touch of science,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.4,"subject_story->ensured peace within the storm, under the watchful gaze of shimmering barriers",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VFES_RepulsorTechnology.generalRules.rulesStrings.5,subject_gerund->weaving the fabric of defense with threads of pure energy,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VFES_TrapMeleeHits.label,trap melee hits,label,StatDef/Stats_Building_Special.xml,def
+VFES_TrapMeleeHits.description,How many times does this trap hit its targets.\n\nThe total trap damage is spread evenly across all the hits.,description,StatDef/Stats_Building_Special.xml,def
+VFES_Turret_AntiAir.label,anti-air turret,label,ThingDef/Buildings_AntiAir.xml,def
+VFES_Turret_AntiAir.description,"A specialized defensive turret that intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target's velocity. Requires steel to refurbish its barrels after heavy use.",description,ThingDef/Buildings_AntiAir.xml,def
+VFES_Gun_PointDefense.label,point defense gun,label,ThingDef/Buildings_AntiAir.xml,def
+VFES_Gun_PointDefense.description,A rapid-fire gun for point-defense applications.,description,ThingDef/Buildings_AntiAir.xml,def
+VFES_Turret_AutomatedMortar.label,automated mortar,label,ThingDef/Buildings_Artillery.xml,def
+VFES_Turret_AutomatedMortar.description,"An automated mortar that launches high-explosive shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. Due to a delicate firing mechanism, it's only calibrated to fire high-explosive shells.",description,ThingDef/Buildings_Artillery.xml,def
+Gun_AutomatedMortar.label,automated mortar,label,ThingDef/Buildings_Artillery.xml,def
+VFES_Turret_Artillery.label,artillery,label,ThingDef/Buildings_Artillery.xml,def
+VFES_Turret_Artillery.description,"A powerful, manned artillery cannon designed for long-range bombardment. Though it fires slower than a mortar, its improved targeting systems allow for far greater accuracy, making it ideal for precise strikes against enemy structures or high-value targets. Can be crewed by two people to double its firing speed. Capable of providing fire support across the world map, but only on revealed locations.",description,ThingDef/Buildings_Artillery.xml,def
+VFES_Artillery_ArtilleryGun.label,artillery gun,label,ThingDef/Buildings_Artillery.xml,def
+VFES_Artillery_ArtilleryGun.description,Artillery launcher. Lobs bombs over walls. Accurate and long-ranged.,description,ThingDef/Buildings_Artillery.xml,def
+VFES_Turret_Concealed.label,concealed turret,label,ThingDef/Buildings_Concealed.xml,def
+VFES_Turret_Concealed.description,"A compact automatic turret equipped with retractable armor plating and a submersion mechanism. It is capable of submerging into the ground, becoming impossible to target. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Concealed.xml,def
+VFES_Bullet_ConcealedTurret.label,concealed turret bullet,label,ThingDef/Buildings_Concealed.xml,def
+VFES_Gun_ConcealedTurret.label,concealed turret gun,label,ThingDef/Buildings_Concealed.xml,def
+VFES_Gun_ConcealedTurret.description,A simple automatic gun made to be mounted on a turret.,description,ThingDef/Buildings_Concealed.xml,def
+VFES_ConcealedBarrier.label,concealed barrier,label,ThingDef/Buildings_Concealed.xml,def
+VFES_ConcealedBarrier.description,"A retractable, waist-high barrier for use as cover from incoming shots. It provides strong cover while deployed and is almost invisible when submerged. Barricades will block certain kinds of animals the same way that fences do. Requires power.",description,ThingDef/Buildings_Concealed.xml,def
+VFES_SmallRepulsor.label,small repulsor,label,ThingDef/Buildings_Repulsors.xml,def
+VFES_SmallRepulsor.description,"An ultratech device that projects a potent energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nRepulsors only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time.",description,ThingDef/Buildings_Repulsors.xml,def
+VFES_LargeRepulsor.label,large repulsor,label,ThingDef/Buildings_Repulsors.xml,def
+VFES_LargeRepulsor.description,"A large, ultratech device that projects an extremely vast energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nRepulsors only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time.",description,ThingDef/Buildings_Repulsors.xml,def
+VFES_BearTrap.label,bear trap,label,ThingDef/Buildings_Traps.xml,def
+VFES_BearTrap.description,"Two heavy metal jaws held open under tension, connected to a pressure-sensitive trigger. When stepped on, the jaws snap shut with high force, inflicting severe damage. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. When triggered, it can be re-armed.",description,ThingDef/Buildings_Traps.xml,def
+VFES_CavalrySpikes.label,cavalry spikes,label,ThingDef/Buildings_Traps.xml,def
+VFES_CavalrySpikes.description,"A row of sharpened spikes laid low across the ground. Designed to maim or cripple those who attempt to charge through, especially fast-moving animals or mounted units. Can be placed next to other cavalry spikes. Upon being triggered, cavalry spikes will need to be rebuilt.",description,ThingDef/Buildings_Traps.xml,def
+VEFS_TrapLandmine.label,landmine,label,ThingDef/Buildings_Traps.xml,def
+VEFS_TrapLandmine.description,"A sophisticated explosive charge connected to a pressure plate trigger which detonates immediately on touch. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/Buildings_Traps.xml,def
+VEFS_TrapShockmine.label,shockmine,label,ThingDef/Buildings_Traps.xml,def
+VEFS_TrapShockmine.description,"A concealed high-tech trap that releases a localized EMP pulse when triggered. It resets automatically after a short cooldown. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.",description,ThingDef/Buildings_Traps.xml,def
+VFES_BarbedWire.label,razor wire,label,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_BarbedWire.description,"A razor wire fence consisting of sharp edges and points arranged at intervals. Not only does it slow down movement of enemies, it also inflicts cuts and puncture wounds. Razor wire will block certain kinds of animals the same way that fences do.",description,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Dugout.label,dugout,label,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Dugout.description,"A long, narrow ditch dug into the ground. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People inside the dugout suffer weapon range penalty, but gain significant cover and protection from explosive damage.",description,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Trench.label,trench,label,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Trench.description,"A long, damage-resistant reinforced trench. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People inside the trench suffer a weapon range penalty, but gain significant cover and protection from explosive damage.",description,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Platform.label,platform,label,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Platform.description,"A long, narrow platform. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People on the platform receive a bonus to weapon range, but suffer from lower cover.",description,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_AmmoCrate.label,ammo box,label,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_AmmoCrate.description,A small ammunition box that improves the reload speed of everyone nearby. Will explode if damaged.,description,ThingDef/Buildings_TrenchWarfare.xml,def
+VFES_Turret_Catapult.label,catapult,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Catapult.description,"A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Artillery_Catapult.label,catapult,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Artillery_Catapult.description,A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_Catapult.label,massive boulder,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Ballista.label,ballista,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Ballista.description,An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. Needs to be manned in order to fire.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_BallistaTurret.label,ballista,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_BallistaTurret.description,An ancient military siege engine in a form of a crossbow mounted on a wooden construct.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_Ballista.label,ballista bolt,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_MilitaryTurret.label,military turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_MilitaryTurret.description,"A refined turret with military-grade stabilization, targeting routines, and hardened casing. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_MilitaryTurret.label,military turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_MilitaryTurret.description,A refined automatic gun made to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ArmoredTurret.label,armored turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ArmoredTurret.description,"An armored, portable automatic turret. Requires steel to refurbish its barrel after heavy use. Extra armor plating allows the turret to provide some cover, makes it more resistant to enemy fire and prevents explosion in case of severe damage. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ArmoredTurret.label,military turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ArmoredTurret.description,A refined automatic gun made to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Searchlight.label,searchlight,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Searchlight.description,"An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_Searchlight.label,searchlight,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_Searchlight.description,A searchlight for a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Flame.label,flamer turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Flame.description,"A portable flamethrower turret, capable of spewing a cone of flame that engulfs enemies and terrain. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_FlameTurret.label,flame turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_FlameTurret.description,A flamethrower made to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_FlameTurret.label,flamer shot,label,VEF.Weapons.ExpandableProjectileDef/Buildings_Turrets.xml,def
+VFES_Turret_ShotgunTurret.label,shotgun turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ShotgunTurret.description,"A compact automatic turret fitted with a semi-automatic shotgun. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ShotgunTurret.label,shotgun turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ShotgunTurret.description,An automatic shotgun made to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_AutocannonDouble.label,double autocannon turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_AutocannonDouble.description,"A twin-barreled variant of the autocannon turret. While less accurate and slightly shorter-ranged than its single-barreled cousin, it compensates with a high volume of fire. It cannot fire at close-up targets, and may explode when damaged.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_TurretDoubleAutocannon_Top.label,double autocannon,label,ThingDef/Buildings_Turrets.xml,def
+VFES_TurretDoubleAutocannon_Top.description,A self-loading large-bore double cannon designed to be attached to a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Hmg.label,HMG complex,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Hmg.description,A heavy machine gun mounted on sandbags to grant cover. Needs to be manned in order to fire. Requires steel to refurbish its barrel after heavy use.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexHmg_Top.label,HMG,label,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexHmg_Top.description,A self-loading HMG designed to be attached to a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_HMG.label,HMG bullet,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Minigun.label,minigun complex,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Minigun.description,"A multi-barrel machine gun mounted on sandbags to grant cover and provide stability. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. Needs to be manned in order to fire. Requires steel to refurbish its barrels after heavy use.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexMinigun_Top.label,minigun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexMinigun_Top.description,A self-loading minigun designed to be attached to a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Minigun.label,minigun turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_Minigun.description,"A heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. Requires steel to refurbish its barrels after heavy use.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_TurretMinigun_Top.label,minigun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_TurretMinigun_Top.description,A self-loading minigun designed to be attached to a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ChargeTurret.label,charge turret,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ChargeTurret.description,"A portable automatic charged-shot turret. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ChargeTurret.label,charged turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_ChargeTurret.description,A charge rifle made to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_ChargeTurretShot.label,charge shot,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ChargeRailgun.label,charge railgun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_ChargeRailgun.description,"A cutting-edge, pulse-charged, rail-assisted weapon system that fires a short burst of high-velocity projectiles, energized with unstable plasma as they leave the rail. The resulting shots pierce armor and bodies alike, but the turret requires new plasteel barrel after use. It cannot fire at close range, and may explode when damaged.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_RailgunTurret.label,charged turret gun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Gun_RailgunTurret.description,An advanced railgun designed to launch electromagnetically accelerated projectiles.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_ChargeRailgunShot.label,charge railgun shot,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_TeslaBlaster.label,tesla blaster,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Turret_TeslaBlaster.description,"A cutting-edge utility turret designed to counter the mechanoid advances. Four capacitors are charged to release a bolt of electricity. Upon impact, the power surge stuns affected mechanoid, before seeking to jump to another. Will only target mechanoids.",description,ThingDef/Buildings_Turrets.xml,def
+Bullet_TeslaBlaster.label,tesla blaster bolt,label,ThingDef/Buildings_Turrets.xml,def
+Gun_TeslaBlaster.label,tesla blaster,label,ThingDef/Buildings_Turrets.xml,def
+Gun_TeslaBlaster.description,A specialized electrical weapon designed to be mounted on a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Charge.label,charge complex,label,ThingDef/Buildings_Turrets.xml,def
+VFES_Complex_Charge.description,"A heavy, pulse-charged rapid-fire blaster mounted on a barricade to grant cover. Needs to be manned in order to fire. Requires plasteel to refurbish its barrel after heavy use.",description,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexCharge_Top.label,minigun,label,ThingDef/Buildings_Turrets.xml,def
+VFES_ComplexCharge_Top.description,A self-loading minigun designed to be attached to a turret.,description,ThingDef/Buildings_Turrets.xml,def
+VFES_Bullet_ChargeComplex.label,charge shot,label,ThingDef/Buildings_Turrets.xml,def
+VFES_ConstructRearmTrap.label,rearm traps,label,WorkGiverDef/WorkGivers.xml,def
+VFES_ConstructRearmTrap.verb,rearm,verb,WorkGiverDef/WorkGivers.xml,def
+VFES_ConstructRearmTrap.gerund,rearming,gerund,WorkGiverDef/WorkGivers.xml,def
+VFES_ArtilleryProjectile.label,artillery shot,label,WorldObjectDef/WorldObjects.xml,def

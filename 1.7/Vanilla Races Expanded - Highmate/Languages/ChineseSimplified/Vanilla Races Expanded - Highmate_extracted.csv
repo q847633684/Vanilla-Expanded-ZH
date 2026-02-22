@@ -1,0 +1,174 @@
+key,text,tag,file,type
+VRE_EnableCatHighmates,"Enable ""Cat genes"" on Highmates (requires game restart)",VRE_EnableCatHighmates,Misc_Gameplay.xml,keyed
+VRE_EnableCatHighmatesDescription,Disabling this toggle will make newly created Highmates appear without the Feline ears and Feline tail genes. Bear in mind this will have no effect on already existing Highmates. Will require a game reload.,VRE_EnableCatHighmatesDescription,Misc_Gameplay.xml,keyed
+VRE_NotEnoughLovin,Demands lovin',VRE_NotEnoughLovin,Misc_Gameplay.xml,keyed
+VRE_LovinNeed,Lovin' need,VRE_LovinNeed,Misc_Gameplay.xml,keyed
+VRE_LovinNeedDesc,"These people have a too low lovin' need (less than 50%). If they reach 0% lovin' in approximately 15 days, they will attempt to leave the colony:\n\n{0}",VRE_LovinNeedDesc,Misc_Gameplay.xml,keyed
+VRE_MessageCantUseLovinOnOtherFactions,This ability can't be used on members of other factions,VRE_MessageCantUseLovinOnOtherFactions,Misc_Gameplay.xml,keyed
+VRE_MessageCantUseLovinOnResistingPersons,This ability can't be used on enemies,VRE_MessageCantUseLovinOnResistingPersons,Misc_Gameplay.xml,keyed
+VRE_CantUseLovinLowOpinion,{0} cannot initiate lovin’ with {1} as {1} has too low opinion of {0} (Opinion of {0}: {2}),VRE_CantUseLovinLowOpinion,Misc_Gameplay.xml,keyed
+VRE_TooYoungForLovin,{0} cannot initiate lovin’ with {1} as {1} is too young.,VRE_TooYoungForLovin,Misc_Gameplay.xml,keyed
+VRE_TooYoungForLovinCaster,{0} cannot initiate lovin’ with {1} as {0} is too young.,VRE_TooYoungForLovinCaster,Misc_Gameplay.xml,keyed
+VRE_CantUseLovinWithTraitAsexual,{0} cannot initiate lovin’ with {1} as {1} is Asexual.,VRE_CantUseLovinWithTraitAsexual,Misc_Gameplay.xml,keyed
+VRE_CantUseLovinWithTraitPrude,{0} cannot initiate lovin’ with {1} as {1} is a Prude.,VRE_CantUseLovinWithTraitPrude,Misc_Gameplay.xml,keyed
+VRE_RelationshipWillBreak,"{0} will initiate lovin’ with {1}, despite being in a relationship with {2}. This will result in a break up.",VRE_RelationshipWillBreak,Misc_Gameplay.xml,keyed
+VRE_RelationshipWillBreakTarget,"{0} will initiate lovin’ with {1}, despite the target, {1}, being in a relationship with {2}. This will result in a break up.",VRE_RelationshipWillBreakTarget,Misc_Gameplay.xml,keyed
+VRE_CantUseOnFamily,"{0} can't initiate lovin’ with {1}, as they are blood relatives.",VRE_CantUseOnFamily,Misc_Gameplay.xml,keyed
+VRE_PsychicConceptionDesc,Psychic conception (pregnancy guaranteed),VRE_PsychicConceptionDesc,Misc_Gameplay.xml,keyed
+VRE_LovinForPleasureDesc,Lovin’ for pleasure (pregnancy chance x0%),VRE_LovinForPleasureDesc,Misc_Gameplay.xml,keyed
+VRE_NoPsychicConceptionDesc,No psychic conception,VRE_NoPsychicConceptionDesc,Misc_Gameplay.xml,keyed
+VRE_NoLovinForPleasureDesc,Normal lovin',VRE_NoLovinForPleasureDesc,Misc_Gameplay.xml,keyed
+VRE_AwardedHighmate,Awarded Highmate,VRE_AwardedHighmate,Misc_Gameplay.xml,keyed
+VRE_AwardedHighmateDesc,"Due to the newly acquired Baron rank, the Empire has awarded {0} with the presence of a Highmate, who will immediately join the colony.\n\nDesigned companions and concubines with a unique ability to psychically bond with a mate, highmates are empathic, beautiful, cheerful, and talented in social matters. They are also inept at manual tasks, physically weak, and mentally incapable of violence.",VRE_AwardedHighmateDesc,Misc_Gameplay.xml,keyed
+VRE_InitiateLovin.label,initiate lovin',label,AbilityDef/Abilities.xml,def
+VRE_InitiateLovin.description,"Approach the target and initiate lovin’ with them. If in relationship with anyone else, this will be considered cheating and will result in a break up, unless the ideo has the ""Lovin: Free and Approved"" precept.",description,AbilityDef/Abilities.xml,def
+VRE_FelineEars.label,feline ears,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FelineEars.description,"Carriers of this gene will have soft, furry, feline ears.",description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FelineTail.label,feline tail,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FelineTail.description,Carriers of this gene grow a furry tail that does not have any purpose other than decorative.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_PerfectBody.label,perfect body,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_PerfectBody.description,"Carriers of this gene have perfect bodies with no flaws what-so-ever. Their bodies are symmetrical, with soft skin that feels like silk to the touch. People who get intimate with carriers of this gene will not be satisfied when lovin’ anyone without perfect body.",description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HighmateHair.label,beautiful-haired,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HighmateHair.description,Carriers of this gene are guaranteed to use specific Highmate hair styles.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_DominantGenome.label,dominant genome,label,GeneDef/GeneDefs_GeneticDominance.xml,def
+VRE_DominantGenome.description,"Carriers of this gene inherently pass on all their traits to offspring, as this gene overpowers the genetic contributions of the other parent during reproduction. If both partners have dominant genome gene, the genes passed down will be randomized.",description,GeneDef/GeneDefs_GeneticDominance.xml,def
+VRE_RecessiveGenome.label,recessive genome,label,GeneDef/GeneDefs_GeneticDominance.xml,def
+VRE_RecessiveGenome.description,"Carriers of this gene have a unique genetic makeup that recedes during reproduction, resulting in none of their traits being passed on to their offspring. If both partners have recessive genome gene, the genes passed down will be randomized.",description,GeneDef/GeneDefs_GeneticDominance.xml,def
+VRE_Libido_VeryHigh.label,very high libido,label,GeneDef/GeneDefs_Loving.xml,def
+VRE_Libido_VeryHigh.description,"Carriers of this gene are very keen to engage in lovin’ with their partner, or with anyone else for that matter. They can initiate lovin’ anywhere and anytime.",description,GeneDef/GeneDefs_Loving.xml,def
+VRE_LovinDependency.label,lovin' dependency,label,GeneDef/GeneDefs_Loving.xml,def
+VRE_LovinDependency.description,"Carriers of this gene need to partake in lovin’ on a regular basis to survive. After 5 days without lovin’, carriers will suffer from lovin’ deficiency. After 30 days without lovin’, they may abandon the colony.",description,GeneDef/GeneDefs_Loving.xml,def
+VRE_Flirty.label,flirty,label,GeneDef/GeneDefs_Traits.xml,def
+VRE_Flirty.description,"Carriers of this gene get emotional stimulation from playful flirting. They will offer kind, flirty words to brighten the moods of those around them. This helps in developing stronger bonds in the community, but may lead to romances and even break ups.",description,GeneDef/GeneDefs_Traits.xml,def
+VRE_Distressed.label,distressed,label,GeneDef/GeneDefs_Traits.xml,def
+VRE_Distressed.description,"Carriers of this gene take much longer to process hard, distressing memories. Negative thoughts related to human and animal suffering will last twice as long.",description,GeneDef/GeneDefs_Traits.xml,def
+VRE_Harmless.label,harmless,label,GeneDef/GeneDefs_Violence.xml,def
+VRE_Harmless.description,"Carriers of this gene are not considered a threat by others, and will not be attacked unless they are holding a weapon or have been recently drafted. Carriers of this gene can still be hit by friendly fire and stray bullets, and will still be attacked by manhunting animals.",description,GeneDef/GeneDefs_Violence.xml,def
+VRE_Lowmate.label,lowmate,label,XenotypeDef/XenotypeDefs.xml,def
+VRE_Lowmate.description,"Derived from popular highmates with a greater focus on physical aspects of lovin’, lowmates are attractive companions for those looking for no-risk thrills without the risk of pregnancy. They also lack any violence inhibitors, both to defend themselves against people who won’t take “no” as an answer and for the client with more eclectic tastes.\n\nDeveloped for the lower classes of urbworlds, lowmate xenogerms are tied with employment contracts for those willing to sell their bodies regularly. Numerous controversies surround its development, as the workers become physically dependent on their work and are almost always on the hunt for their next “meal”, however it’s also recognized that taking any legislative action would remove any protections they are legally guaranteed with their contracts. Lowmates typically are on the lookout for regulars, but some are actively deployed as social weapons in politics.",description,XenotypeDef/XenotypeDefs.xml,def
+VRE_Lowmate.descriptionShort,"Derived from popular highmates with a greater focus on physical aspects of lovin’, lowmates are attractive companions for those looking for no-risk thrills without the risk of pregnancy. They also lack any violence inhibitors, both to defend themselves against people who won’t take “no” as an answer and for the client with more eclectic tastes.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VRE_HighmateHairAngela.label,angela,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairAutumn.label,autumn,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairDanger.label,danger,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairElfie.label,elfie,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairLena.label,lena,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairMia.label,mia,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairRae.label,rae,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairRhoades.label,rhoades,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairRiley.label,riley,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairSkylar.label,skylar,label,HairDef/HairsGeneral.xml,def
+VRE_HighmateHairSweetie.label,sweetie,label,HairDef/HairsGeneral.xml,def
+VRE_Highmate.label,highmate,label,StyleItemCategoryDef/StyleItemCategoryDefs.xml,def
+VRE_LovinDependencyHediff.label,lovin' dependency,label,HediffDef/Hediffs_Various.xml,def
+VRE_LovinDependencyHediff.description,"This person has a genetically-induced biochemical dependency on lovin'. They will need to partake in lovin’ on a regular basis to be content. After 5 days without lovin’, carriers will suffer from lovin’ deficiency. After 30 days without lovin’, they may abandon the colony.\n\nTakes effect after age: 16.",description,HediffDef/Hediffs_Various.xml,def
+VRE_Naked.label,naked,label,HediffDef/Hediffs_Various.xml,def
+VRE_Naked.description,This person is naked.,description,HediffDef/Hediffs_Various.xml,def
+VRE_PsychicBondBloodlust.label,Psychic bond (Warrior),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondBloodlust.description,Both psychically-bonded individuals benefit from increased melee damage at the cost of violent mental breaks.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondFastLearner.label,Psychic bond (Teacher),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondFastLearner.description,Both psychically-bonded individuals benefit from increased skill learning speed.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondIndustrious.label,Psychic bond (Worker),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondIndustrious.description,Both psychically-bonded individuals benefit from increased work speed.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondSanguine.label,Psychic bond (Optimist),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondSanguine.description,Both psychically-bonded individuals benefit from increased happiness.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondSanguine.stages.0.label,Psychic bond (Optimist),label,ThoughtDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondSanguine.stages.0.description,I am happy I found the one.,description,ThoughtDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondIronWilled.label,Psychic bond (Brave),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondIronWilled.description,Both psychically-bonded individuals benefit from increased having a lower mental break threshold.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondCarefulShooter.label,Psychic bond (Hunter),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondCarefulShooter.description,Both psychically-bonded individuals benefit from increased ranged weapon accuracy.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondPsychicallyHypersensitive.label,Psychic bond (Psychic),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondPsychicallyHypersensitive.description,Both psychically-bonded individuals benefit from greatly increased psychic sensitivity.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondGreatMemory.label,Psychic bond (Wise),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondGreatMemory.description,Both psychically-bonded individuals benefit from greatly lowered skill loss rate.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondAbrasive.label,Psychic bond (Abrasive),label,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_PsychicBondAbrasive.description,Both psychically-bonded individuals benefit from being able to contain their abrasive words.,description,HediffDef/HighmateBondEffectHediffs.xml,def
+VRE_FlirtingAttempt.label,flirty words,label,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.1,wooed->tried to flirt with,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.2,wooed->flirted with,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.3,wooed->tried to attract,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.4,wooed->tried to woo,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.5,wooed->wooed,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.6,wooed->pursued,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.7,wooed->charmed,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.8,wooed->courted,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.9,wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.10,wootactic->telling a story about [TalkTopicAny],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.11,wootactic->telling a tale about [TalkTopicAny],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.12,wootactic->joking about [TalkTopicAny],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.13,wootactic->making an observation about [TalkTopicAny],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.14,wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.15,wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.16,wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.17,boasting->boasting about,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.18,boasting->mentioning,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.19,boasting->implying good things about,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.20,boasting->exaggerating,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.21,boasting->talking about,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.22,boasting->drawing attention to,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.23,complimenting(p=3)->complimenting,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.24,complimenting->subtly complimenting,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.25,complimenting->lauding,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.26,complimenting->commending,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.27,complimenting->saying good things about,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.28,complimenting(p=2)->playfully making fun of,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.29,complimenting->jokingly poking at,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.30,complimenting->jokingly half-complimenting,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.31,complimenting->impishly questioning,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.32,complimenting->cheerfully making fun of,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.33,romantic_adj->beautiful,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.34,romantic_adj->shining,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.35,romantic_adj->glimmering,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.36,romantic_adj->heavenly,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.37,romantic_adj->golden,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.38,romantic_adj->bright,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.39,romantic_adj->breathtaking,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.40,romantic_adj->charming,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.41,romantic_adj->dazzling,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.42,romantic_adj->delicate,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.43,romantic_adj->fine,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.44,romantic_adj->magnificent,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.45,romantic_adj->lovely,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.46,romantic_adj->wonderful,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.47,romantic_adj(p=3)->[AdjectiveBadass],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.48,romantic_noun->flower,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.49,romantic_noun->spring,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.50,romantic_noun->river,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.51,romantic_noun->star,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.52,romantic_noun->moon,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.53,romantic_noun->sun,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.54,romantic_noun->house,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.55,romantic_noun->aurora,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.56,romantic_noun->[TreeType] tree,li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.57,romantic_noun(p=2)->[TerrainFeature],li,InteractionDef/Interactions_Romance.xml,def
+VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.58,romantic_noun(p=2)->[NaturalObject],li,InteractionDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.0,sent->[RECIPIENT_nameDef] thanked [INITIATOR_nameDef].,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.1,sent->[RECIPIENT_nameDef] laughed playfully with [INITIATOR_nameDef].,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.2,sent->[RECIPIENT_nameDef] became aroused and thanked [INITIATOR_nameDef] for the compliment.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.0,sent->[RECIPIENT_nameDef] ignored the compliment.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.1,sent->[RECIPIENT_nameDef] ignored the flirt.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.2,sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.3,sent->[RECIPIENT_nameDef] turned away.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.4,sent->[RECIPIENT_nameDef] gave a minimal response.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.5,sent->[RECIPIENT_nameDef] did not respond.,li,RulePackDef/Interactions_Romance.xml,def
+VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.6,sent->[RECIPIENT_nameDef] scolded [INITIATOR_objective].,li,RulePackDef/Interactions_Romance.xml,def
+VRE_InitiateLovin.reportString,initiating lovin'.,reportString,JobDef/Jobs_Work.xml,def
+VRE_Lovin.label,lovin',label,NeedDef/Needs.xml,def
+VRE_Lovin.description,"People with lovin' dependency have a strong desire to partake in lovin' on regular basis. If it isn't satisfied, the person will become very unhappy and may decide to abandon the colony in pursuit of lovin'.",description,NeedDef/Needs.xml,def
+VRE_PsychicConception.label,Psychic conception (pregnancy guaranteed),label,VEF.Pawns.PregnancyApproachDef/PregnancyApproaches.xml,def
+VRE_LovinForPleasure.label,Lovin’ for pleasure (pregnancy chance x0%),label,VEF.Pawns.PregnancyApproachDef/PregnancyApproaches.xml,def
+VRE_Flirted.stages.0.label,flirted with,label,ThoughtDef/Thoughts_Memory_Social.xml,def
+VRE_WhatAPerfectBody.stages.0.label,what a perfect body,label,ThoughtDef/Thoughts_Memory_Social.xml,def
+VRE_GotSomeLovin.stages.0.label,got some lovin',label,ThoughtDef/Thoughts_Memory_Social.xml,def
+VRE_GotSomeLovin.stages.0.description,There's nothing like a tumble between the sheets to lift the mood.,description,ThoughtDef/Thoughts_Memory_Social.xml,def
+VRE_LovinNeedThoughts.stages.0.label,needs lovin',label,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_LovinNeedThoughts.stages.0.description,I crave lovin’. Give me some of it!,description,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_LovinNeedThoughts.stages.1.label,demands lovin',label,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_LovinNeedThoughts.stages.1.description,"If I don’t get any lovin’ right here, right now…",description,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_LovinNeedThoughts.stages.2.label,demands lovin' (leaving),label,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_LovinNeedThoughts.stages.2.description,"If I don’t get any lovin’ right here, right now…",description,ThoughtDef/Thoughts_Situation_Special.xml,def
+VRE_Flirty.degreeDatas.0.label,flirty,label,TraitDef/Traits_Singular.xml,def
+VRE_Flirty.degreeDatas.0.description,"{PAWN_nameDef} is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around {PAWN_objective}. {PAWN_pronoun} has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when {PAWN_possessive} playful intentions are misinterpreted.",description,TraitDef/Traits_Singular.xml,def
+VRE_Distressed.degreeDatas.0.label,distressed,label,TraitDef/Traits_Singular.xml,def
+VRE_Distressed.degreeDatas.0.description,"{PAWN_nameDef} is exceptionally empathetic and sensitive to the suffering of others. Whenever {PAWN_pronoun} witnesses pain or hardship, it deeply affects {PAWN_objective}, resulting in memories of these events haunting {PAWN_nameDef} for a much longer time.",description,TraitDef/Traits_Singular.xml,def

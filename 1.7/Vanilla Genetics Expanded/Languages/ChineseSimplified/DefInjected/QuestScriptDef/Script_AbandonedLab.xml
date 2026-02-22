@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(askerIsNull==true)->We've intercepted radio transmissions from a seemingly abandoned genetics research lab not far from [map_definite]. The site may have some interesting ancient technology scattered around, so it could be a good idea to investigate it.\n\nWe should be well prepared, as genetic monstrosities may still be roaming the derelict installation.-->
+    <li>questDescription(askerIsNull==true)-&gt;We've intercepted radio transmissions from a seemingly abandoned genetics research lab not far from [map_definite]. The site may have some interesting ancient technology scattered around, so it could be a good idea to investigate it.\n\nWe should be well prepared, as genetic monstrosities may still be roaming the derelict installation.</li>
+  </GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+  <GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+    <!--EN: questName(priority=1)->[journey] the [adjectiveLab] [ruins]-->
+    <li>questName(priority=1)-&gt;[journey] the [adjectiveLab] [ruins]</li>
+    <!--EN: journey->Journey to-->
+    <li>journey-&gt;Journey to</li>
+    <!--EN: journey->Expedition to-->
+    <li>journey-&gt;Expedition to</li>
+    <!--EN: journey->Mission to-->
+    <li>journey-&gt;Mission to</li>
+    <!--EN: journey->Exploration of-->
+    <li>journey-&gt;Exploration of</li>
+    <!--EN: journey->Investigation of-->
+    <li>journey-&gt;Investigation of</li>
+    <!--EN: journey->Research into-->
+    <li>journey-&gt;Research into</li>
+    <!--EN: adjectiveLab->Abandoned-->
+    <li>adjectiveLab-&gt;Abandoned</li>
+    <!--EN: adjectiveLab->Derelict-->
+    <li>adjectiveLab-&gt;Derelict</li>
+    <!--EN: adjectiveLab->Dilapidated-->
+    <li>adjectiveLab-&gt;Dilapidated</li>
+    <!--EN: adjectiveLab->Run down-->
+    <li>adjectiveLab-&gt;Run down</li>
+    <!--EN: adjectiveLab->Desolate-->
+    <li>adjectiveLab-&gt;Desolate</li>
+    <!--EN: ruins->lab-->
+    <li>ruins-&gt;lab</li>
+    <!--EN: ruins->installation-->
+    <li>ruins-&gt;installation</li>
+    <!--EN: ruins->laboratory-->
+    <li>ruins-&gt;laboratory</li>
+    <!--EN: ruins->reseach post-->
+    <li>ruins-&gt;reseach post</li>
+  </GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.label>
+  <!--EN: Intercepted communications indicate the abandoned lab has been scavenged by others. The quest [resolvedQuestName] has expired.-->
+  <GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.text>Intercepted communications indicate the abandoned lab has been scavenged by others. The quest [resolvedQuestName] has expired.</GR_OpportunitySite_AbandonedLab.root.nodes.9.node.nodes.0.text>
+</LanguageData>

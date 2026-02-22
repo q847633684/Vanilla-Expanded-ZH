@@ -1,0 +1,69 @@
+key,text,tag,file,type
+VME_MakeADessert.label,make a dessert,label,AbilityDef/Abilities_Patissier.xml,def
+VME_MakeADessert.description,Targets a meal to turn it into a dessert.,description,AbilityDef/Abilities_Patissier.xml,def
+VME_SweetTeeth.label,sweet teeth,label,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.description,"Every meal should include a dessert, it's important to indulge.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Unlocks a ""Desserts Need"" that will make colonists happier if they consume desserts and chocolate regularly (needs expectation to be moderate or higher)\n - Unlocks sowing the cocoa bush, a cocoa producing plant that is more efficient than the tree and can be grown indoors and on hydroponics\n - Colony receives 15 Chocolate to start",description,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.0,memeAdjective->sweet,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.1,memeAdjective->sugary,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.2,memeAdjective->saccharine,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.3,memeAdjective->candied,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.4,memeAdjective->sweet-toothed,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.5,memeHyphenPrefix->sweet,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.6,memeConcept->desserts,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.generalRules.rulesStrings.7,memeLeaderNoun->pastry chef,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.0,"creation(tag=meme_SweetTeeth)        ->[deity0_name] spoke to all [deity0_possessive] followers and said: ""Whoever eats this cake that is my flesh remains in me, and I in them.""",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_SweetTeeth)  ->[deity0_name] said to all the [memberNamePlural], ""Look upon the world like it’s a gigantic birthday cake. Take a piece, but don’t take too much.""",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_SweetTeeth)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and filled it with sugary sweets to serve to any visiting pilgrims.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_SweetTeeth)        ->A stern [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to get rid of all the delicious desserts, for [foeLeader_pronoun] was on a strict diet.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_SweetTeeth)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] unending appetite and creativity, and [founder_pronoun] created the greatest confectionery creations that anyone had ever seen.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.5,"victory(tag=meme_SweetTeeth)         ->[founderName] served [founderName_possessive] creations to the [foeSoldiers] and they were delighted. Even the [foeLeader] was convinced of their sublime quality, and [foeLeader_pronoun] proclaimed the wisdom of [deity0_name]'s will.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.6,"setup(tag=meme_SweetTeeth)           ->Our founder [founderName] was a pastry chef, maker of the greatest confectionery creations that anyone had ever seen.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_SweetTeeth)    ->[founderName] believed that [founderName_possessive] art was not merely a tool to feed people, but something deeper that could unite and reconcile even the greatest foes.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.8,"lessonIntro(tag=meme_SweetTeeth)         ->I have been labouring as a pastry chef for many, many years, and I have learned that",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.9,lesson(tag=meme_SweetTeeth)              ->nothing in this world is better than cake but more cake,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.10,lessonReinforcement(tag=meme_SweetTeeth) ->Obsessive doesn’t even begin to describe my love for cake. I’ll even fight little children if I have to.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.11,archistBasis(tag=meme_SweetTeeth)    ->The archotechs blessed us with exquisite appetites so that we can enjoy the sweetest flavours in life.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.12,archistFact(tag=meme_SweetTeeth)     ->Archotechs don't want us to spend our lives without enjoying ourselves and treating our palates.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.13,"archistProphecy(tag=meme_SweetTeeth) ->[inTheEnd], the archotechs will show us that transcendence without indulging in some of the simplest pleasures is just an empty goal.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.14,animistFact(tag=meme_SweetTeeth)     ->The spirits want us to explore our senses and enjoy the sweetest flavours in life. They don't want us to spend our lives without enjoying ourselves and treating our palates.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.15,serketistProphecy(tag=meme_SweetTeeth)->[itIsSaid] we will learn to incorporate their wisdom on our own culinary recipes. Insect Jelly is an ambrosia that provides one of the sweetest tastes in nature.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.16,"chthonianProphecy(tag=meme_SweetTeeth)->There is no escape, no release. We might as well engorge ourselves with delicious pastries and enjoy our brief and sordid lives.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.17,esotericismProphecy(tag=meme_SweetTeeth)->Perhaps hidden between all the arcana lies a wondrous recipe for a mind-shattering confectionery delicacy. One can dream.,li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.18,"eschatologismFact(tag=meme_SweetTeeth)->We will cover everything in a sea of blood and... cake. Yes, cake.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_SweetTeeth.descriptionMaker.rules.rulesStrings.19,"introMemo(tag=meme_SweetTeeth)->As you know, there is a company-wide policy to celebrate birthdays of your coworkers by bringing a minimum of 4 pastries per asistant. We had to regulate this because SOMEONE was abusing it and eating more than his share. You know who you are, and should be ashamed of yourself.",li,MemeDef/Memes_VanillaCookingExpanded.xml,def
+VME_Desserts.label,desserts,label,NeedDef/Needs_VanillaCookingExpanded.xml,def
+VME_Desserts.description,Dessert need represents the desire to engorge yourself with lusciously sinful confectionery creations.,description,NeedDef/Needs_VanillaCookingExpanded.xml,def
+VME_IdeoRole_Patissier.label,pâtissier,label,PreceptDef/Precepts_Role_Patissier.xml,def
+VME_IdeoRole_Patissier.description,A talented and epicurious provisioner of all things sweet. Capable of deftly altering any variety of meal into a most tantalizing dessert. Remarkably swift at cooking regardless of meal type.\n\n<color=#E5E54C>Stats:</color>\n - The pâtissier receives a +20% Cooking speed bonus.,description,PreceptDef/Precepts_Role_Patissier.xml,def
+VME_Sweets.label,sweets,label,IssueDef/Precepts_Sweets.xml,def
+VME_AteSimpleDessert.label,ate simple dessert,label,HistoryEventDef/Precepts_Sweets.xml,def
+VME_AteFineDessert.label,ate fine dessert,label,HistoryEventDef/Precepts_Sweets.xml,def
+VME_AteLavishDessert.label,ate lavish dessert,label,HistoryEventDef/Precepts_Sweets.xml,def
+VME_AteGourmetDessert.label,ate gourmet dessert,label,HistoryEventDef/Precepts_Sweets.xml,def
+VME_AteChocolateSweetTeeth.label,ate chocolate,label,HistoryEventDef/Precepts_Sweets.xml,def
+VME_Sweets_Craved.label,craved,label,PreceptDef/Precepts_Sweets.xml,def
+VME_Sweets_Craved.description,"Desserts and treats shouldn’t be withheld, sugary confections should be eaten at least every couple days.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Bear in mind this precept has a minimum expectation required. Moderate expectations or higher are needed for the ""Desserts"" need to show up.\n\n - Desserts that increase the need: Chocolate (15%), Simple dessert (30%), Fine dessert (40%), Lavish dessert (50%), Gourmet dessert (75%)",description,PreceptDef/Precepts_Sweets.xml,def
+VCE_AteSimpleDessert_Craved.stages.0.label,ate simple dessert (craved),label,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteSimpleDessert_Craved.stages.0.description,"That dessert was very simple, but certainly tasty.",description,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteFineDessert_Craved.stages.0.label,ate fine dessert (craved),label,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteFineDessert_Craved.stages.0.description,That dessert was really good! I want more!,description,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteLavishDessert_Craved.stages.0.label,ate lavish dessert (craved),label,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteLavishDessert_Craved.stages.0.description,"That dessert was unbelievably good, I'm so eager to eat more of it!",description,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteGourmetDessert_Craved.stages.0.label,ate gourmet dessert (craved),label,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteGourmetDessert_Craved.stages.0.description,Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more!,description,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteChocolate_Craved.stages.0.label,ate chocolate (craved),label,ThoughtDef/Precepts_Sweets.xml,def
+VCE_AteChocolate_Craved.stages.0.description,Chocolate IS love.,description,ThoughtDef/Precepts_Sweets.xml,def
+VME_Sweets_Impartial.label,impartial,label,PreceptDef/Precepts_Sweets.xml,def
+VME_Sweets_Impartial.description,"Sweets aren’t that great, they can easily be left behind.",description,PreceptDef/Precepts_Sweets.xml,def
+VCE_ChocolateBush.label,cocoa bush,label,ThingDef/Plants_ChocolateBush.xml,def
+VCE_ChocolateBush.description,"A low-lying bush that produces chocolate, genetically engineered to sweeten its own product, and be plantable in almost any vessel.",description,ThingDef/Plants_ChocolateBush.xml,def
+VME_NeedSweets.stages.0.label,craving dessert,label,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.0.description,"I'm craving some sweet food badly... I feel so tired... this is ridiculous, I’d do just about anything for a single sprinkle.",description,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.1.label,desiring dessert,label,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.1.description,I haven't had a sweet treat in a while now. Is a chocolate bar or piece of cake too much to ask for?,description,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.2.label,wanting dessert,label,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.2.description,How about some dessert? It has been a while...,description,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.3.label,full,label,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.3.description,"I've recently eaten some dessert, it was amazing.",description,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.4.label,completely full,label,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def
+VME_NeedSweets.stages.4.description,"I'm in heaven. Sweet, greasy, delicious heaven.",description,ThoughtDef/Thoughts_Situation_Needs_VanillaCookingExpanded.xml,def

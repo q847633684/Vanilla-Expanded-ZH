@@ -1,0 +1,159 @@
+key,text,tag,file,type
+VAspirE.CompletedOn,Completed on:,VAspirE.CompletedOn,UI.xml,keyed
+VAspirE.AspirationComplete,{0} has achieved their {1} aspiration.,VAspirE.AspirationComplete,UI.xml,keyed
+VAspirE.AspirationStat,{0} aspirations complete: {1},VAspirE.AspirationStat,UI.xml,keyed
+VAspirE.Gains,{0} gains {1}: {2},VAspirE.Gains,UI.xml,keyed
+VAspirE.Implant,implant,VAspirE.Implant,UI.xml,keyed
+VAspirE.Thought,thought,VAspirE.Thought,UI.xml,keyed
+VAspirE.Xenotype,xenotype,VAspirE.Xenotype,UI.xml,keyed
+VAspirE.AbilityLevel,psycast level,VAspirE.AbilityLevel,UI.xml,keyed
+VAspirE.Abilities,abilities,VAspirE.Abilities,UI.xml,keyed
+VAspirE.Trait,trait,VAspirE.Trait,UI.xml,keyed
+VAspirE.Gene,gene,VAspirE.Gene,UI.xml,keyed
+VAspirE.Recipe,{0} completes the recipe {1},VAspirE.Recipe,UI.xml,keyed
+VAspirE.HediffRemoval,{0} gets rid of the health condition {1},VAspirE.HediffRemoval,UI.xml,keyed
+VAspirE.RecipeProduct,"{0} completes the recipe {1}, using at least 1 {2}",VAspirE.RecipeProduct,UI.xml,keyed
+VAspirE.NuzzledBy,{0} nuzzled by: {1},VAspirE.NuzzledBy,UI.xml,keyed
+VAspirE.Wealth,{0} is in a colony with greater than {1} wealth,VAspirE.Wealth,UI.xml,keyed
+VAspirE.Title,royal title,VAspirE.Title,UI.xml,keyed
+VAspirE.Becomes,{0} becomes {1} to another.,VAspirE.Becomes,UI.xml,keyed
+VAspirE.BecomesList,{0} becomes {1} to one of these: {2}.,VAspirE.BecomesList,UI.xml,keyed
+VAspirE.Condition,condition,VAspirE.Condition,UI.xml,keyed
+VAspirE.Prosthetic,prosthetic,VAspirE.Prosthetic,UI.xml,keyed
+VAspirE.SatisfiedWhen,Satisfied when:,VAspirE.SatisfiedWhen,UI.xml,keyed
+VAspireE.AspirationComplete,{0} has achieved their {1} aspiration.,VAspireE.AspirationComplete,UI.xml,keyed
+VAspirE.SelectAspirationSingular,Select an aspiration.,VAspirE.SelectAspirationSingular,UI.xml,keyed
+VAspirE.SelectAspirationsPlural,Select {0} aspirations.,VAspirE.SelectAspirationsPlural,UI.xml,keyed
+VAspirE.BirthdaySelectAspirationSingular,Choose an aspiration for {0} to gain:,VAspirE.BirthdaySelectAspirationSingular,UI.xml,keyed
+VAspirE.BirthdaySelectAspirationsPlural,Choose aspirations for {0} to gain:,VAspirE.BirthdaySelectAspirationsPlural,UI.xml,keyed
+VAspirE.AspirationDesc,"Aspirations are goals that {0} will want to achieve in their life. Achieving them will increase their mental break threshold, and if all aspirations are fulfilled, {0} will undergo another growth moment.",VAspirE.AspirationDesc,UI.xml,keyed
+VAspirE.AspirationSelectionArchiveSingular,Aspiration {0} was gained.,VAspirE.AspirationSelectionArchiveSingular,UI.xml,keyed
+VAspirE.AspirationSelectionArchivePlural,Aspirations were gained: {0}.,VAspirE.AspirationSelectionArchivePlural,UI.xml,keyed
+VAspirE.FullfilledGrowthMoment,{0} has achieved fulfillment from their aspirations and has experienced a growth moment.,VAspirE.FullfilledGrowthMoment,UI.xml,keyed
+VAspirE.FullfilledGrowthMoment.Desc,{0_nameDef} has demonstrated excellent determination in meeting their lifelong goals and is incredibly content with what they have achieved in their life. {0_nameDef} hopes that they have made a difference in the world.,VAspirE.FullfilledGrowthMoment.Desc,UI.xml,keyed
+VAspirE.Scar,scar (permanent),VAspirE.Scar,UI.xml,keyed
+VAspirE.ModName,Vanilla Aspirations Expanded,VAspirE.ModName,UI.xml,keyed
+VAspirE.Search,Search,VAspirE.Search,UI.xml,keyed
+VAspirE.Enabled,{0} enabled,VAspirE.Enabled,UI.xml,keyed
+VAspirE_BecomeParent.label,become a parent,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeParent.description,{0} wants to become a parent and have a child of their own.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeGrandParent.label,become a grandparent,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeGrandParent.description,{0} wants to become a grandparent and have a grandchild.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_FormPsychicBond.label,form a psychic bond,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_FormPsychicBond.description,{0} wants to psychically bond with a perfect partner.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeSanguophage.label,become a sanguophage,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeSanguophage.description,{0} wants to live forever as a sanguophage.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeMechanitor.label,become a mechanitor,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeMechanitor.description,{0} wants to control the march of the machines.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomePsycaster.label,become a psycaster,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomePsycaster.description,{0} wants to become acquainted with the psychic powers of psycasters.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AnimaTreeLink.label,link with anima tree,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AnimaTreeLink.description,{0} wants to undergo an anima tree linking ritual with them as the main recipient of the boons.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HearAnimaScream.label,hear anima scream,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HearAnimaScream.description,{0} wants to hear the screams of a dying anima tree.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeNoble.label,become noble,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeNoble.description,{0} wants to join the imperial great hierarchy.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_WieldBladelink.label,wield bladelink weapon,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_WieldBladelink.description,{0} would like to bond with a bladelink weapon.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AttendSpeech.label,attend an inspirational throne speech,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AttendSpeech.description,{0} wants to be there when an inspirational speech is given.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeIdeologicalFigure.label,become an ideological figure,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeIdeologicalFigure.description,{0} wants to become a meaningful figure in their ideology.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeLeader.label,become a leader,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeLeader.description,{0} wants to lead their people from a position of power.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConnectWithGauranlenTree.label,connect with a gauranlen tree,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConnectWithGauranlenTree.description,{0} would love to connect with a Gauranlen tree in a tree linking ceremony.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetMarried.label,get married,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetMarried.description,{0} would like to get married.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_Propose.label,propose,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_Propose.description,{0} would like to propose to somebody.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetSomeLovin.label,get some lovin',label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetSomeLovin.description,{0} would like to get some lovin’.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConsumeLuciferium.label,consume luciferium,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConsumeLuciferium.description,{0} wants to ride the luciferium high.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConsumeHumanMeat.label,consume human meat,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ConsumeHumanMeat.description,{0} wants to see what long pig tastes like.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_Overdose.label,overdose,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_Overdose.description,{0} wants to see what it’s like to overdose.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBlackoutDrunk.label,get blackout drunk,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBlackoutDrunk.description,{0} wants to get absolutely shitfaced.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBeautifulLover.label,get a beautiful lover,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBeautifulLover.description,"{0} wants to be told that they are punching above their weight, and become lovers with a beautiful person.",description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GrowOld.label,grow old,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GrowOld.description,{0} wants to live long enough to see a different person in the mirror.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetJoywired.label,get joywired,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetJoywired.description,{0} would like to feel the effects of joywire.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBionicSpine.label,get bionic spine,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetBionicSpine.description,{0} would love to have a bionic spine.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetInspiration.label,get inspiration,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetInspiration.description,{0} aspires to be inspired.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_CreateLegendary.label,create a legendary work,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_CreateLegendary.description,{0} wants to leave their mark on the world and create a legendary work.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ObtainLegendaryGear.label,obtain legendary gear,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ObtainLegendaryGear.description,{0} wants to feel the work of a legendary master in their grasp.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BondWithAnimal.label,bond with an animal,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BondWithAnimal.description,{0} wants to bond with an animal companion.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeRich.label,become rich,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeRich.description,{0} wants their colony to prosper and become excessively rich.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_KillSomeone.label,kill someone,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_KillSomeone.description,{0} wants to inflict pain and kill another being.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeLiked.label,become liked,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeLiked.description,{0} wants to be liked by many of their peers.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeDisliked.label,become disliked,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeDisliked.description,{0} wants to be hated by many of their peers.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_FeelCatharsis.label,feel catharsis,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_FeelCatharsis.description,{0} wants to unbottle their feelings and feel the serenity afterwards.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DefeatFactionLeader.label,defeat faction leader,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DefeatFactionLeader.description,{0} wants to be the one to defeat an enemy faction leader.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HaveWonderfulRoom.label,have a wonderful room,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HaveWonderfulRoom.description,{0} wants to have the most wonderful bedroom.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_SeeAurora.label,see an aurora,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_SeeAurora.description,{0} wants to skygaze during an aurora.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_CompleteMachineBody.label,complete machine body,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_CompleteMachineBody.description,{0} would like to have 6 different artificial body parts.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DeadRival.label,dead rival,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DeadRival.description,"{0} would like to have a rival, and for them to die.",description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GainALevel5Psycast.label,gain a level five psycast,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GainALevel5Psycast.description,{0} would like to gain access to a psycast of the fifth level.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BurnSomeLuciferium.label,burn some luciferium,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BurnSomeLuciferium.description,{0} wants to get rid of some disgusting luciferium in a crematorium or fireplace.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ExperienceResurrection.label,experience resurrection,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ExperienceResurrection.description,{0} wants to experience true death and be resurrected using a mech serum.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfAsthma.label,get rid of asthma,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfAsthma.description,{0} wants to get rid of asthma.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfCataracts.label,get rid of cataracts,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfCataracts.description,{0} wants to get rid of cataracts.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfHearingLoss.label,get rid of hearing loss,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetRidOfHearingLoss.description,{0} wants to get rid of hearing loss.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetFiveBurnScars.label,get five burn scars,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetFiveBurnScars.description,{0} wants to get five burn scars.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AchieveExcruciatingPain.label,achieve excruciating pain,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_AchieveExcruciatingPain.description,"{0} wants to achieve an exquisite, excruciating pain.",description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetUltimateRevengeOnCentipede.label,get ultimate revenge on a Centipede,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetUltimateRevengeOnCentipede.description,{0} wants to shred a Centipede blaster to show him who's boss now.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_LearnToShapeFlesh.label,witness flesh shaping,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_LearnToShapeFlesh.description,{0} wants to see another person use the flesh shaping ability.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeInhuman.label,become inhuman,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeInhuman.description,{0} wants to be dominated by the psychic patterns of the void and become inhuman.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeAHentaiCharacter.label,get a tentacle,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_BecomeAHentaiCharacter.description,{0} wants to get a warped body.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetDigested.label,get digested,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_GetDigested.description,{0} wants to get digested whole. {0} swears this is not a kink thing.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_PlayWithCube.label,play with a golden cube,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_PlayWithCube.description,{0} wants to play with a golden cube.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ReadAFascinatingTome.label,read a fascinating tome,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ReadAFascinatingTome.description,{0} wants to read a fascinating eldritch tome.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HeldConcert.label,held a concert,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_HeldConcert.description,{0} would like to hold a concert for other colonists.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DestroyCluster.label,destroy a mech cluster,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DestroyCluster.description,{0} wants to completely destroy a mech cluster.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DestroyInsectHive.label,destroy an insect hive,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_DestroyInsectHive.description,{0} wants to completely destroy an insect hive.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_UseFireWeapon.label,use a flame weapon,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_UseFireWeapon.description,{0} wants to use a flame weapon in combat.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ReadAmazingBook.label,read an amazing book,label,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_ReadAmazingBook.description,{0} wants to read a book detailing a skill on which they are passionate about.,description,VAspirE.AspirationDef/Aspirations.xml,def
+VAspirE_Fulfillment.label,fulfillment,label,NeedDef/Needs.xml,def
+VAspirE_Fulfillment.description,"Fulfillment represents how happy someone is with their personal achievements in life. If they achieve their dreams and complete their lifetime goals, the fulfillment will increase. Each stage of fulfillment decreases mental break threshold. Achieving maximum fulfillment will result in a final growth moment.",description,NeedDef/Needs.xml,def
+VAE_WitnessedFleshShaping.stages.0.label,witnessed flesh shaping,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VAE_WitnessedFleshShaping.stages.0.description,"A bit shocking, to say the least.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def

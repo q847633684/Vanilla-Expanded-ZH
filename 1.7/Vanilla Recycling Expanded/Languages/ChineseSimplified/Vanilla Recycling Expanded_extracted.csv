@@ -1,0 +1,69 @@
+key,text,tag,file,type
+VRecyclingE_NotWorking,This machine is not working at the moment,VRecyclingE_NotWorking,Misc.xml,keyed
+VRecyclingE_Leaking,This reactive isotopack is leaking radiation,VRecyclingE_Leaking,Misc.xml,keyed
+VRecyclingE_DurationUntilNextProcess,Time until {1} {0_labelPlural} are ready,VRecyclingE_DurationUntilNextProcess,Misc.xml,keyed
+VRecyclingE_ContainedThings,Contained {0},VRecyclingE_ContainedThings,Misc.xml,keyed
+VRecyclingE_DissolutionWasteCrate,Protected (won't dissolve).,VRecyclingE_DissolutionWasteCrate,Misc.xml,keyed
+VRecyclingE_HaulToCompactor.reportString,hauling TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VRecyclingE_HaulToAlloySplitter.reportString,hauling TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VRecyclingE_TrashToBricks.label,Trash to trashbricks,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VRecyclingE_TrashToBricks.description,Turns 10 trash into 25 trashbricks.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VRecyclingE_SplitStabilizedAlloypack.label,Split stabilized alloypack,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VRecyclingE_SplitStabilizedAlloypack.description,"Turns 1 stabilized alloypack into 1 Plasteel, 1 Gold and 2 Steel.",description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VRecyclingE_Recycle_WastepackIntoChempack.label,recycle wastepacks into reactive chempacks,label,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_WastepackIntoChempack.description,"Use manual labor to recycle toxic wastepacks into reactive chempacks, creating reclaimed biopacks as a byproduct.",description,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_WastepackIntoChempack.jobString,Recycling wastepacks into reactive chempacks.,jobString,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_ChempackIntoChemfuel.label,recycle reactive chempacks into chemfuel,label,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_ChempackIntoChemfuel.description,Use manual labor to separate viable chemfuel from trash in reactive chempacks.,description,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_ChempackIntoChemfuel.jobString,Recycling reactive chempacks into chemfuel.,jobString,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_WastepackIntoToxpack.label,recycle wastepacks into volatile toxpacks,label,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_WastepackIntoToxpack.description,"Use manual labor to recycle toxic wastepacks into volatile toxpacks, creating trash as a byproduct.",description,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_WastepackIntoToxpack.jobString,Recycling wastepacks into volatile toxpacks.,jobString,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_BreakDownToxpack.label,recycle volatile toxpacks into isotopacks and alloypacks,label,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_BreakDownToxpack.description,Use manual labor to recycle volatile toxpacks into stabilized alloypacks and radioactive isotopacks.,description,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_BreakDownToxpack.jobString,Recycling volatile toxpacks into isotopacks and alloypacks.,jobString,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_IsotopackIntoUranium.label,recycle radioactive isotopacks into uranium,label,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_IsotopackIntoUranium.description,Use manual labor to separate viable uranium from trash in radioactive isotopacks.,description,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_Recycle_IsotopackIntoUranium.jobString,Recycling radioactive isotopacks into uranium.,jobString,RecipeDef/Recipes_Recycling.xml,def
+VRecyclingE_BasicRecycling.label,basic recycling,label,ResearchProjectDef/ResearchProjects.xml,def
+VRecyclingE_BasicRecycling.description,"Discover basic recycling, giving you the ability to recycle wastepacks into a variety of different resources.",description,ResearchProjectDef/ResearchProjects.xml,def
+VRecyclingE_ComplexRecycling.label,complex recycling,label,ResearchProjectDef/ResearchProjects.xml,def
+VRecyclingE_ComplexRecycling.description,Learn to recycle isotopacks and alloypacks into new resources and build garbage compactors to craft trashbricks.,description,ResearchProjectDef/ResearchProjects.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VRecyclingE_TrashBrickFloor.label,trashbrick floor,label,TerrainDef/Terrain_Floors.xml,def
+VRecyclingE_TrashBrickFloor.description,"A rough floor made with trashbricks. Not pretty, but cheap to make.",description,TerrainDef/Terrain_Floors.xml,def
+VRecyclingE_SpecializedPacks.label,recycling packs,label,ThingCategoryDef/ThingCategories.xml,def
+VRecyclingE_LargePollutionPump.label,large pollution pump,label,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_LargePollutionPump.description,"A large, groundwater-filtering pump which slowly cleans large swathes of polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away.",description,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_PollutionFastPump.label,pollution fastpump,label,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_PollutionFastPump.description,"A rapidly-working, groundwater-filtering pump which cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. It requires a large amount of electricity to work, but it works extremely quickly.",description,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_WasteCrate.label,waste crate,label,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_WasteCrate.description,A hermetically sealed container that prevents toxic waste stored inside from dissolving and leaking into the environment. Can only hold a limited amount of waste. Does nothing to prevent the waste from burning.,description,ThingDef/Buildings_Misc.xml,def
+VRecyclingE_RecyclingWorkbench.label,recycling bench,label,ThingDef/Buildings_Production.xml,def
+VRecyclingE_RecyclingWorkbench.description,A workbench for recycling wastepacks into other resources. Works at 50% of the speed of an electric recycling workbench.,description,ThingDef/Buildings_Production.xml,def
+VRecyclingE_ElectricRecyclingWorkbench.label,electric-powered recycling bench,label,ThingDef/Buildings_Production.xml,def
+VRecyclingE_ElectricRecyclingWorkbench.description,"A workbench with automated sorters and electric tools, used in recycling wastepacks into other resources. Can work without electricity at 50% of normal speed.",description,ThingDef/Buildings_Production.xml,def
+VRecyclingE_GarbageCompactor.label,garbage compactor,label,ThingDef/Buildings_Production.xml,def
+VRecyclingE_GarbageCompactor.description,"An industrial-tech device that condenses trash using hydraulic press into trashbricks. While it does not neutralize the trash completely, it allows for a creation of a construction resource out of it. The process requires considerable amounts of power and emits tox gas during operation.",description,ThingDef/Buildings_Production.xml,def
+VRecyclingE_AlloypackSplitter.label,alloypack splitter,label,ThingDef/Buildings_Production.xml,def
+VRecyclingE_AlloypackSplitter.description,"A spacertech device that separates stabilized alloypacks into steel, plasteel and gold compounds. This process takes a long time and requires a lot of power.\n\nConsider that the building will need free space behind it to produce its output!",description,ThingDef/Buildings_Production.xml,def
+VRecyclingE_ReclaimedBiopack.label,reclaimed biopack,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_ReclaimedBiopack.description,"A repurposed package of nutrient-rich bio-material, recovered from toxic waste through advanced recycling processes. The surface is heat-sealed for safe transport. Reclaimed Biopacks improve soil fertility if they deteriorate on standard soil. If damaged or burned, they emit a small amount of disgusting rot stink.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_ReactiveChempack.label,reactive chempack,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_ReactiveChempack.description,"A volatile package of highly reactive chemicals, generated as a byproduct of recycling toxic waste. The surface is heat-sealed for safe transport. Reactive Chempacks are extremely dangerous and can cause devastating explosions if not handled carefully. If damaged or burned, they may explode in a big fireball.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_StabilizedAlloypack.label,stabilized alloypack,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_StabilizedAlloypack.description,"An amalgamation of strong and lightweight alloys, synthesized from toxic waste through complex chemical reactions. The surface is heat-sealed for safe transport. Stabilized Alloypacks contain high-quality material for crafting advanced weapons, armor, and components. If damaged or burned, they release a small puff of non-toxic smoke.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_VolatileToxpack.label,volatile toxpack,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_VolatileToxpack.description,"An unstable package of highly concentrated toxic waste, created as a byproduct in more complex recycling projects. The surface is heat-sealed for safe transport. Volatile toxpacks are extremely dangerous due to their instability and propensity to emit large amounts of tox gas and pollution. If burned or damaged, they release a massive cloud of deadly tox gas.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_RadioactiveIsotopack.label,radioactive isotopack,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_RadioactiveIsotopack.description,"A hazardous package of radioactive isotopes, resulting from the recycling of toxic waste. The surface is heat-sealed for safe transport. Radioactive Isotopacks emit high levels of radiation, posing a serious threat to the health of colonists and animals. If damaged or burned, they release a burst of dangerous radiation.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_Trash.label,trash,label,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_Trash.description,"A package of non-toxic rubbish, carefully sorted and compacted for efficient storage. The surface is heat-sealed for safe transport. Trash poses no risk of pollution or deterioration, making it safe for long-term storage. However, if burned, trash will release a moderate amount of tox gas as a byproduct of combustion.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VRecyclingE_TrashBrick.label,trashbrick,label,ThingDef/Items_Resource_Stuff.xml,def
+VRecyclingE_TrashBrick.description,"A stack of solid bricks, created by compressing non-toxic trash into a brick form. The surface is heat-sealed for safe transport. Trashbricks are a durable building material for constructing walls and structures. If damaged or burned, they will release a moderate amount of toxic fumes. Trashbricks do not deteriorate.",description,ThingDef/Items_Resource_Stuff.xml,def
+VRecyclingE_TrashBrick.stuffProps.stuffAdjective,trashbrick,stuffAdjective,ThingDef/Items_Resource_Stuff.xml,def
+VRecyclingE_HaulToCompactor.label,haul resources to trash compactor,label,WorkGiverDef/WorkGivers.xml,def
+VRecyclingE_HaulToAlloySplitter.label,haul resources to alloy splitter,label,WorkGiverDef/WorkGivers.xml,def
+VRecyclingE_DoBillsRecyclingBench.label,make things at recycling bench,label,WorkGiverDef/WorkGivers.xml,def
+VRecyclingE_DoBillsRecyclingBench.verb,work,verb,WorkGiverDef/WorkGivers.xml,def
+VRecyclingE_DoBillsRecyclingBench.gerund,working at,gerund,WorkGiverDef/WorkGivers.xml,def

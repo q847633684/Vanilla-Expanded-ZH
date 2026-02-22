@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VFEE_Parade.questContentRules.rulesStrings>
+    <!--EN: lastOrNot(nobleCount==1)->-->
+    <li>lastOrNot(nobleCount==1)-&gt;</li>
+    <!--EN: lastOrNot(nobleCount>=2)->last-->
+    <li>lastOrNot(nobleCount&gt;=2)-&gt;last</li>
+    <!--EN: lodgersLabelSingularOrPlural(nobleCount==1)->[lodgersLabel]-->
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</li>
+    <!--EN: lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]-->
+    <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <!--EN: decidedToLeave->Are leaving immediately, and will not remember this event fondly!-->
+    <li>decidedToLeave-&gt;Are leaving immediately, and will not remember this event fondly!</li>
+    <!--EN: oneOfThe->one of the nobles visting for the parade-->
+    <li>oneOfThe-&gt;one of the nobles visting for the parade</li>
+    <!--EN: questOver->The quest '[resolvedQuestName]' is over.-->
+    <li>questOver-&gt;The quest '[resolvedQuestName]' is over.</li>
+    <!--EN: CeremonyFailedLetterLabel->Parade failed-->
+    <li>CeremonyFailedLetterLabel-&gt;Parade failed</li>
+    <!--EN: CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests-->
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests</li>
+    <!--EN: CeremonyTimeoutLetterLabel->Parade failed-->
+    <li>CeremonyTimeoutLetterLabel-&gt;Parade failed</li>
+    <!--EN: CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.-->
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.</li>
+    <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
+    <li>letterIntroArrested-&gt;You arrested {SUBJECT_definite}, [oneOfThe].</li>
+    <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested-->
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrested</li>
+    <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] has died.</li>
+    <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] died: Departure</li>
+    <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], was violated by surgery.</li>
+    <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
+    <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Surgery: Departure</li>
+    <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], was kidnapped.</li>
+    <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Kidnapped: Departure</li>
+    <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], was banished.</li>
+    <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Banished: Departure</li>
+    <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <!--EN: letterIntroPsychicRitualTarget->{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.-->
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], was the target of a psychic ritual.</li>
+    <!--EN: lodgerPsychicRitualTargetLabel->[lodgersLabel] Psychic Ritual: Departure-->
+    <li>lodgerPsychicRitualTargetLabel-&gt;[lodgersLabel] Psychic Ritual: Departure</li>
+    <!--EN: lodgerPsychicRitualTargetText->[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]-->
+    <li>lodgerPsychicRitualTargetText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, has been destroyed</li>
+    <!--EN: ShuttleDestroyedLabel->Shuttle destroyed: Parade Failed-->
+    <li>ShuttleDestroyedLabel-&gt;Shuttle destroyed: Parade Failed</li>
+    <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <!--EN: raidArrivedLetterLabel->Deserter assasination attempt-->
+    <li>raidArrivedLetterLabel-&gt;Deserter assasination attempt</li>
+    <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!-->
+    <li>raidArrivedLetterText-&gt;A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!</li>
+    <!--EN: ParadeSuccessLetterLetterLabel->Parade Success-->
+    <li>ParadeSuccessLetterLetterLabel-&gt;Parade Success</li>
+    <!--EN: ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!-->
+    <li>ParadeSuccessLetterText-&gt;The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!</li>
+  </VFEE_Parade.questContentRules.rulesStrings>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+    <!--EN: lodgersLabel->noble-->
+    <li>lodgersLabel-&gt;noble</li>
+    <!--EN: lodgersLabelPlural->nobles-->
+    <li>lodgersLabelPlural-&gt;nobles</li>
+    <!--EN: lodgersDef(nobleCount==1)->[lodgers0_nameDef]-->
+    <li>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</li>
+    <!--EN: lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]-->
+    <li>lodgersDef(nobleCount&gt;=2)-&gt;the [lodgersLabelPlural]</li>
+    <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
+    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <!--EN: theirHisHer(nobleCount>=2)->their-->
+    <li>theirHisHer(nobleCount&gt;=2)-&gt;their</li>
+    <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
+    <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
+    <!--EN: lodgersPronoun(nobleCount>=2)->they-->
+    <li>lodgersPronoun(nobleCount&gt;=2)-&gt;they</li>
+    <!--EN: lodgersWasWere(nobleCount==1)->was-->
+    <li>lodgersWasWere(nobleCount==1)-&gt;was</li>
+    <!--EN: lodgersWasWere(nobleCount>=2)->were-->
+    <li>lodgersWasWere(nobleCount&gt;=2)-&gt;were</li>
+    <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
+    <li>appreciateAppreciates(nobleCount==1)-&gt;appreciates</li>
+    <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
+    <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;appreciate</li>
+    <!--EN: questDescription->[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.-->
+    <li>questDescription-&gt;[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.</li>
+  </VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_Parade.questNameRules.rulesStrings>
+    <!--EN: questName->High Stellarch Ascension-->
+    <li>questName-&gt;High Stellarch Ascension</li>
+  </VFEE_Parade.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor.-->
-  <VBE_AmbrosiaMush.description>制作切片和压榨的美食，可以单独放置成熟成葡萄汁，进一步蒸馏成极细的酒。</VBE_AmbrosiaMush.description>
+  <VBE_AmbrosiaMush.description>将仙馐果捣碎成果糊，需要放置一段时间自然成熟后才能开始蒸馏。</VBE_AmbrosiaMush.description>
   <!--EN: Making ambrosia mush.-->
-  <VBE_AmbrosiaMush.jobString>制作豚草糊状。</VBE_AmbrosiaMush.jobString>
+  <VBE_AmbrosiaMush.jobString>正在制作仙馐果糊</VBE_AmbrosiaMush.jobString>
   <!--EN: make ambrosia mush-->
-  <VBE_AmbrosiaMush.label>使豚草糊状</VBE_AmbrosiaMush.label>
+  <VBE_AmbrosiaMush.label>制作仙馐果糊</VBE_AmbrosiaMush.label>
   <!--EN: Make a small, rolled paper tube stuffed loosely with tobacco leaves.-->
-  <VBE_MakeCigarettes.description>制作一张小卷纸管，松散地塞满烟叶。</VBE_MakeCigarettes.description>
+  <VBE_MakeCigarettes.description>把烟草卷在纸里面做成香烟。</VBE_MakeCigarettes.description>
   <!--EN: Making cigarettes.-->
-  <VBE_MakeCigarettes.jobString>制作香烟。</VBE_MakeCigarettes.jobString>
+  <VBE_MakeCigarettes.jobString>正在制作香烟</VBE_MakeCigarettes.jobString>
   <!--EN: make cigarettes-->
-  <VBE_MakeCigarettes.label>做香烟</VBE_MakeCigarettes.label>
+  <VBE_MakeCigarettes.label>制作香烟</VBE_MakeCigarettes.label>
   <!--EN: Make a fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it.-->
-  <VBE_MakeCigars.description>制作一张肥厚的干烟叶，里面塞满更多的烟叶，并用金箔包裹起来。</VBE_MakeCigars.description>
+  <VBE_MakeCigars.description>将干烟草塞在一个厚实的金箔外壳里面，做成雪茄烟。</VBE_MakeCigars.description>
   <!--EN: Making cigars.-->
-  <VBE_MakeCigars.jobString>制作雪茄。</VBE_MakeCigars.jobString>
+  <VBE_MakeCigars.jobString>正在制作雪茄烟</VBE_MakeCigars.jobString>
   <!--EN: make cigars-->
-  <VBE_MakeCigars.label>制作雪茄</VBE_MakeCigars.label>
+  <VBE_MakeCigars.label>制作雪茄烟</VBE_MakeCigars.label>
   <!--EN: Make a fine cocktail, mixed precisely from multiple ingredients.-->
-  <VBE_MakeCocktailFine.description>制作一杯精致的鸡尾酒，由多种成分精确混合。</VBE_MakeCocktailFine.description>
+  <VBE_MakeCocktailFine.description>将多种材料精心混合，制作一杯相对精致的鸡尾酒。</VBE_MakeCocktailFine.description>
   <!--EN: simple or luxury spirits-->
   <VBE_MakeCocktailFine.ingredients.0.filter.customSummary>简单或奢华的烈酒</VBE_MakeCocktailFine.ingredients.0.filter.customSummary>
   <!--EN: non-alcoholic drinks-->
   <VBE_MakeCocktailFine.ingredients.1.filter.customSummary>非酒精饮料</VBE_MakeCocktailFine.ingredients.1.filter.customSummary>
   <!--EN: Making fine cocktail.-->
-  <VBE_MakeCocktailFine.jobString>制作精良鸡尾酒。</VBE_MakeCocktailFine.jobString>
+  <VBE_MakeCocktailFine.jobString>正在调制精致鸡尾酒</VBE_MakeCocktailFine.jobString>
   <!--EN: make fine cocktail-->
-  <VBE_MakeCocktailFine.label>好好做鸡尾酒</VBE_MakeCocktailFine.label>
+  <VBE_MakeCocktailFine.label>调制精致鸡尾酒</VBE_MakeCocktailFine.label>
   <!--EN: Make a lavish cocktail, mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.-->
-  <VBE_MakeCocktailLavish.description>制作丰盛的鸡尾酒，将多种原料混合并冷冻至完美，然后精心摇匀并上桌。</VBE_MakeCocktailLavish.description>
+  <VBE_MakeCocktailLavish.description>将很多种材料精心调配，冷藏并认真摇匀制作一杯奢侈的鸡尾酒。</VBE_MakeCocktailLavish.description>
   <!--EN: simple spirits-->
   <VBE_MakeCocktailLavish.ingredients.0.filter.customSummary>简单的精神</VBE_MakeCocktailLavish.ingredients.0.filter.customSummary>
   <!--EN: luxury spirits-->
@@ -37,71 +37,71 @@
   <!--EN: non-alcoholic drinks-->
   <VBE_MakeCocktailLavish.ingredients.2.filter.customSummary>非酒精饮料</VBE_MakeCocktailLavish.ingredients.2.filter.customSummary>
   <!--EN: Making lavish cocktail.-->
-  <VBE_MakeCocktailLavish.jobString>制作奢华的鸡尾酒。</VBE_MakeCocktailLavish.jobString>
+  <VBE_MakeCocktailLavish.jobString>正在调制奢侈鸡尾酒</VBE_MakeCocktailLavish.jobString>
   <!--EN: make lavish cocktail-->
-  <VBE_MakeCocktailLavish.label>奢华鸡尾酒</VBE_MakeCocktailLavish.label>
+  <VBE_MakeCocktailLavish.label>调制奢侈鸡尾酒</VBE_MakeCocktailLavish.label>
   <!--EN: Make a simple cocktail quickly mixed from a duo of ingredients.-->
-  <VBE_MakeCocktailSimple.description>将两种成分快速混合，制作简单的鸡尾酒。</VBE_MakeCocktailSimple.description>
+  <VBE_MakeCocktailSimple.description>用少许材料调制一杯简单的鸡尾酒。</VBE_MakeCocktailSimple.description>
   <!--EN: simple spirits-->
   <VBE_MakeCocktailSimple.ingredients.0.filter.customSummary>简单的精神</VBE_MakeCocktailSimple.ingredients.0.filter.customSummary>
   <!--EN: non-alcoholic drinks-->
   <VBE_MakeCocktailSimple.ingredients.1.filter.customSummary>非酒精饮料</VBE_MakeCocktailSimple.ingredients.1.filter.customSummary>
   <!--EN: Making simple cocktail.-->
-  <VBE_MakeCocktailSimple.jobString>制作简单鸡尾酒。</VBE_MakeCocktailSimple.jobString>
+  <VBE_MakeCocktailSimple.jobString>正在调制简单鸡尾酒</VBE_MakeCocktailSimple.jobString>
   <!--EN: make simple cocktail-->
-  <VBE_MakeCocktailSimple.label>变得简单鸡尾酒</VBE_MakeCocktailSimple.label>
+  <VBE_MakeCocktailSimple.label>调制简单鸡尾酒</VBE_MakeCocktailSimple.label>
   <!--EN: Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma.-->
-  <VBE_MakeCoffee.description>制作一种温热的苦味饮料，通常添加牛奶和糖。由于咖啡因含量高且香气宜人，深受整个银河系学生和上班族的喜爱。</VBE_MakeCoffee.description>
+  <VBE_MakeCoffee.description>制作一份浓厚味苦的咖啡饮料。几乎全银河的学生和社畜都在饮用咖啡以获取咖啡因。</VBE_MakeCoffee.description>
   <!--EN: Making coffee.-->
-  <VBE_MakeCoffee.jobString>煮咖啡。</VBE_MakeCoffee.jobString>
+  <VBE_MakeCoffee.jobString>正在制作咖啡</VBE_MakeCoffee.jobString>
   <!--EN: make coffee-->
-  <VBE_MakeCoffee.label>煮咖啡</VBE_MakeCoffee.label>
+  <VBE_MakeCoffee.label>制作咖啡</VBE_MakeCoffee.label>
   <!--EN: Make a sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation.-->
-  <VBE_MakeEnergyDrink.description>制作一杯带有一丝苦味的酸味碳酸饮料。糖和咖啡因的结合意味着前期能量爆发，但随后就会崩溃。明显的辐射余味。</VBE_MakeEnergyDrink.description>
+  <VBE_MakeEnergyDrink.description>制作一份酸苦的发泡饮料。大量的糖和咖啡因会短时间内增加身体机能，但在那之后会倍加虚弱。有核辐射一般的回味。</VBE_MakeEnergyDrink.description>
   <!--EN: Making energy drink.-->
-  <VBE_MakeEnergyDrink.jobString>制作能量饮料。</VBE_MakeEnergyDrink.jobString>
+  <VBE_MakeEnergyDrink.jobString>正在制作能量饮料</VBE_MakeEnergyDrink.jobString>
   <!--EN: make energy drink-->
   <VBE_MakeEnergyDrink.label>制作能量饮料</VBE_MakeEnergyDrink.label>
   <!--EN: Make a clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented.-->
-  <VBE_MakeGinMush.description>将榨汁的浆果和杂粮制成澄清但混浊的混合物，准备发酵。</VBE_MakeGinMush.description>
+  <VBE_MakeGinMush.description>将莓果榨汁，制作一份半透明的原浆，以备酿造。</VBE_MakeGinMush.description>
   <!--EN: Making gin mush.-->
-  <VBE_MakeGinMush.jobString>制作杜松子酒糊状。</VBE_MakeGinMush.jobString>
+  <VBE_MakeGinMush.jobString>正在制作琴酒原浆</VBE_MakeGinMush.jobString>
   <!--EN: make gin mush-->
-  <VBE_MakeGinMush.label>使杜松子酒糊状</VBE_MakeGinMush.label>
+  <VBE_MakeGinMush.label>制作琴酒原浆</VBE_MakeGinMush.label>
   <!--EN: Make soda syrup by mixing natural fruit juice with high fructose corn syrup.-->
-  <VBE_MakeSodaSyrup.description>将天然果汁与高果糖玉米糖浆混合制成苏打糖浆。</VBE_MakeSodaSyrup.description>
+  <VBE_MakeSodaSyrup.description>用天然果汁和玉米里的果糖来制作糖浆。</VBE_MakeSodaSyrup.description>
   <!--EN: Making soda syrup.-->
-  <VBE_MakeSodaSyrup.jobString>制作苏打糖浆。</VBE_MakeSodaSyrup.jobString>
+  <VBE_MakeSodaSyrup.jobString>正在制作汽水糖浆</VBE_MakeSodaSyrup.jobString>
   <!--EN: make soda syrup-->
-  <VBE_MakeSodaSyrup.label>制作苏打糖浆</VBE_MakeSodaSyrup.label>
+  <VBE_MakeSodaSyrup.label>制作汽水糖浆（果糖）</VBE_MakeSodaSyrup.label>
   <!--EN: Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water.-->
-  <VBE_MakeTea.description>将一袋茶叶浸泡在沸水中，制成令人愉悦的芳香饮料。</VBE_MakeTea.description>
+  <VBE_MakeTea.description>将茶叶浸入开水，制作一份茶。</VBE_MakeTea.description>
   <!--EN: Making tea.-->
-  <VBE_MakeTea.jobString>泡茶。</VBE_MakeTea.jobString>
+  <VBE_MakeTea.jobString>正在制作茶</VBE_MakeTea.jobString>
   <!--EN: make tea-->
-  <VBE_MakeTea.label>泡茶</VBE_MakeTea.label>
+  <VBE_MakeTea.label>制作茶</VBE_MakeTea.label>
   <!--EN: Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel.-->
-  <VBE_MakeTequilaMust.description>将榨汁的龙舌兰汁液和昆虫肉发酵剂制成稀薄混合物，准备好切割并在桶中发酵。</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.description>用龙舌兰汁和虫肉制作一份稀薄的原浆，以备酿造。</VBE_MakeTequilaMust.description>
   <!--EN: Making tequila must.-->
-  <VBE_MakeTequilaMust.jobString>制作龙舌兰酒必备。</VBE_MakeTequilaMust.jobString>
+  <VBE_MakeTequilaMust.jobString>正在制作龙舌兰酒原浆</VBE_MakeTequilaMust.jobString>
   <!--EN: make tequila must from agave-->
-  <VBE_MakeTequilaMust.label>用龙舌兰酿造龙舌兰酒</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.label>制作龙舌兰酒原浆</VBE_MakeTequilaMust.label>
   <!--EN: Make a thick, starchy mash of raw potatoes and a starter, ready to be fermented.-->
-  <VBE_MakeVodkaMash.description>将生土豆和发酵剂制成浓稠的淀粉糊，准备发酵。</VBE_MakeVodkaMash.description>
+  <VBE_MakeVodkaMash.description>制作一份浓稠的，混合着土豆淀粉的原浆，以备酿造。</VBE_MakeVodkaMash.description>
   <!--EN: Making vodka mash.-->
-  <VBE_MakeVodkaMash.jobString>制作伏特加泥。</VBE_MakeVodkaMash.jobString>
+  <VBE_MakeVodkaMash.jobString>正在制作伏特加原浆</VBE_MakeVodkaMash.jobString>
   <!--EN: make vodka mash-->
-  <VBE_MakeVodkaMash.label>制作伏特加泥</VBE_MakeVodkaMash.label>
+  <VBE_MakeVodkaMash.label>制作伏特加原浆</VBE_MakeVodkaMash.label>
   <!--EN: Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged.-->
-  <VBE_MakeWhiskeyMash.description>制作淀粉质且大部分为液体的混合物，并撒上果肉块。准备好变老了。</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.description>将玉米碎成糊状，制成散落着玉米淀粉的固液混合剂，以备酿造。</VBE_MakeWhiskeyMash.description>
   <!--EN: Making whiskey mash.-->
-  <VBE_MakeWhiskeyMash.jobString>制作威士忌泥。</VBE_MakeWhiskeyMash.jobString>
+  <VBE_MakeWhiskeyMash.jobString>正在制作威士忌原浆</VBE_MakeWhiskeyMash.jobString>
   <!--EN: make whiskey mash-->
-  <VBE_MakeWhiskeyMash.label>制作威士忌泥</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.label>制作威士忌原浆（玉米）</VBE_MakeWhiskeyMash.label>
   <!--EN: Mix a simple fruit juice made from a few fruits.-->
-  <VBE_MixJuice.description>将几种水果混合制成简单的果汁。</VBE_MixJuice.description>
+  <VBE_MixJuice.description>将水果榨汁，制作一份简单的果汁。</VBE_MixJuice.description>
   <!--EN: Mixing fruit juice.-->
-  <VBE_MixJuice.jobString>混合果汁。</VBE_MixJuice.jobString>
+  <VBE_MixJuice.jobString>正在榨果汁</VBE_MixJuice.jobString>
   <!--EN: mix fruit juice-->
-  <VBE_MixJuice.label>混合果汁</VBE_MixJuice.label>
+  <VBE_MixJuice.label>榨果汁</VBE_MixJuice.label>
 </LanguageData>

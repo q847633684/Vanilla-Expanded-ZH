@@ -1,80 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Harvested bileceps. Can be cooked into meals or eaten raw.-->
-  <VPE_Bileceps.description>收获的胆头肌。可煮饭或生吃。</VPE_Bileceps.description>
+  <VPE_Bileceps.description>收割下来的食尸菇，可进一步烹饪为菜肴或生吃。</VPE_Bileceps.description>
   <!--EN: raw bileceps-->
-  <VPE_Bileceps.label>生胆头肌</VPE_Bileceps.label>
+  <VPE_Bileceps.label>生食尸菇</VPE_Bileceps.label>
   <!--EN: Raw blisscap obtained by harvesting blisscap mushrooms. When eaten, makes people incredibly high, but also incredibly drowsy.-->
-  <VPE_Blisscap.description>通过收获极乐蘑菇而获得的原始极乐。食用后，会令人难以置信的兴奋，但也会令人难以置信的昏昏欲睡。</VPE_Blisscap.description>
+  <VPE_Blisscap.description>收割下来的极乐菇。食用后会带来快感和困意。</VPE_Blisscap.description>
   <!--EN: raw blisscap-->
-  <VPE_Blisscap.label>原始幸福帽</VPE_Blisscap.label>
+  <VPE_Blisscap.label>生极乐菇</VPE_Blisscap.label>
   <!--EN: A large, bulbous, beige mushroom that is known to produce small amounts of electricity as it grows. Needs to be placed on power conduits in order to use the newly produced energy. In case of an electrical short, zapcaps amplify the released energy, causing significantly more damage.-->
-  <VPE_Building_Zapcap.description>一种大型球状米色蘑菇，在生长过程中会产生少量电力。需要放置在电力管道上才能使用新产生的能源。如果发生电气短路，Zapcaps 会放大释放的能量，从而造成更大的损坏。</VPE_Building_Zapcap.description>
+  <VPE_Building_Zapcap.description>一种球型的大型棕色菇类，可以在生长时产生少许电力。需要放置在电路上才能采集到生产的电力。当电缆发生短路时，滋啦菇会放大失控的能量，造成更大的损失。</VPE_Building_Zapcap.description>
   <!--EN: zapcap-->
-  <VPE_Building_Zapcap.label>扎普卡普</VPE_Building_Zapcap.label>
+  <VPE_Building_Zapcap.label>滋啦菇</VPE_Building_Zapcap.label>
   <!--EN: Cotton-like, edible fabric extracted from mycothread mushrooms. It’s soft to the touch and easy to work with, deteriorates quickly, has an unusual color, and oddly still smells and tastes like mushrooms.-->
-  <VPE_Mycothread.description>从丝状蘑菇中提取的类似棉花的可食用织物。它触感柔软，易于加工，很快就会变质，颜色不寻常，奇怪的是，它的气味和味道仍然像蘑菇。</VPE_Mycothread.description>
+  <VPE_Mycothread.description>纤维菇里提取出来的菌丝织物，可以食用。它触感柔软，方便加工，老化迅速，有一种独特的颜色。难得的是，它还能被当作蘑菇食用。</VPE_Mycothread.description>
   <!--EN: mycothread-->
-  <VPE_Mycothread.label>菌丝</VPE_Mycothread.label>
+  <VPE_Mycothread.label>菌丝布</VPE_Mycothread.label>
   <!--EN: Bileceps is a peculiar, coral-like mushroom that thrives on the bile of decaying bodies. Despite its unappetizing source, it possesses a meaty flavor and offers a protein-rich harvest. Its distinctive, cancerous appearance does little to deter colonists from utilizing it as an alternate source of meat.\n\n<color=#E5E54C>Gameplay effect:</color> Requires corpse bile on its tile to grow properly. Time to get a Helixien slug!-->
-  <VPE_Plant_Bileceps.description>胆头菌是一种奇特的珊瑚状蘑菇，依靠腐烂尸体的胆汁生长。尽管其来源令人倒胃口，但它具有肉味，并提供丰富的蛋白质。其独特的癌性外观并没有阻止殖民者利用它作为肉类的替代来源。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;其瓷砖上需要尸体胆汁才能正常生长。是时候获得赫利西恩鼻涕虫了！</VPE_Plant_Bileceps.description>
+  <VPE_Plant_Bileceps.description>食尸菇是一种外形类似珊瑚的菇类，会在腐烂的尸体上快速生长。虽然生长方法可能有点恶心，但它丰富的肉含量和口感都与生肉无异。它非同寻常的外表丝毫不能阻止殖民者们将它当作肉食的一大来源。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;种植区域需要包含尸体才能正常生长。</VPE_Plant_Bileceps.description>
   <!--EN: bileceps-->
-  <VPE_Plant_Bileceps.label>肱二头肌</VPE_Plant_Bileceps.label>
+  <VPE_Plant_Bileceps.label>食尸菇</VPE_Plant_Bileceps.label>
   <!--EN: A long, light-blue mushroom that offers more than just sustenance. Eating it induces a state of blissful happiness, making the consumer exceptionally content, yet notably drowsy. It is known to greatly enhance the psychic sensitivity of whoever eats it, and is often consumed by hippie communities on various core planets, allowing them to ‘see into the future’.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, blisscap ignores light levels for growth. Sunlight won't destroy it. It will still rest during the night period.-->
-  <VPE_Plant_Blisscap.description>一种长长的浅蓝色蘑菇，它提供的不仅仅是食物。食用它会带来一种幸福的状态，使消费者异常满足，但特别昏昏欲睡。众所周知，食用它可以极大地增强食用者的心灵敏感度，并且经常被各个核心行星上的嬉皮社区食用，让他们能够“看到未来”。(​​PH_4)
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其他植物相反，blisscap 会忽略生长的光照水平。阳光不会破坏它。夜间仍会休息。</VPE_Plant_Blisscap.description>
+  <VPE_Plant_Blisscap.description>一种长杆的亮蓝色菇类，除了本身的营养外还会带来大量的快感，让摄入者浑身放松，昏昏欲睡。它能增强食用者的心灵敏感度，核心世界的嬉皮士们常常觉得这能让他们“看到未来的预兆”。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其它植物不同，光照程度对它的生长没有影响。阳光并不会破坏它。它依旧会在夜间进入休眠。</VPE_Plant_Blisscap.description>
   <!--EN: blisscap-->
-  <VPE_Plant_Blisscap.label>极乐</VPE_Plant_Blisscap.label>
+  <VPE_Plant_Blisscap.label>极乐菇</VPE_Plant_Blisscap.label>
   <!--EN: An ugly, thick mushroom with a cap that smells of muffalo fecal matter. It needs to be grown in flower pots. If it comes into contact with fire once matured, it explodes, ejecting a spray of firefoam over a short distance.-->
-  <VPE_Plant_Foampuffer.description>一种丑陋、厚实的蘑菇，菌盖散发着野牛粪便的气味。它需要种植在花盆中。一旦成熟，如果它接触到火，它就会爆炸，在短距离内喷出火焰泡沫。</VPE_Plant_Foampuffer.description>
+  <VPE_Plant_Foampuffer.description>一种肥大丑陋的菇类，气味神似雪牛的排泄物。它只能在花盆中种植。成熟后一旦接触火焰就会自爆，向周围散发灭火泡沫。</VPE_Plant_Foampuffer.description>
   <!--EN: foampuffer-->
-  <VPE_Plant_Foampuffer.label>泡沫填充剂</VPE_Plant_Foampuffer.label>
+  <VPE_Plant_Foampuffer.label>粉爆菇</VPE_Plant_Foampuffer.label>
   <!--EN: A small blue mushroom typically found in caves. The smell it emits is absolutely repulsive - but it tastes surprisingly good when cooked. It lights up the area around it, but the light is not strong enough to grow crops.-->
-  <VPE_Plant_Glowcap.description>一种通常在洞穴中发现的小蓝色蘑菇。它散发出的气味绝对令人厌恶——但煮熟后味道却出奇的好。它照亮了周围的区域，但光线不足以种植农作物。</VPE_Plant_Glowcap.description>
+  <VPE_Plant_Glowcap.description>常在洞穴中生长的一种小型蓝色菇类。它闻起来臭，吃起来香。它会照亮周围一小片区域，但亮度并不足以让作物生长。</VPE_Plant_Glowcap.description>
   <!--EN: glowcap-->
-  <VPE_Plant_Glowcap.label>发光帽</VPE_Plant_Glowcap.label>
+  <VPE_Plant_Glowcap.label>荧光菇</VPE_Plant_Glowcap.label>
   <!--EN: Healtruffle is a mushroom that grows slowly by using nutrients from rotstink - it requires a supply of rotstink gas around it in order to grow. Harvesting it gives you herbal medicine. However, it takes a lot of work to plant and collect because it's very delicate. It's been grown for a long time by settlers for its medicinal properties.-->
-  <VPE_Plant_Healtruffle.description>黑松露是一种利用腐臭中的营养物质缓慢生长的蘑菇 - 它需要周围有腐臭气体才能生长。收获它可以给你草药。然而，由于它非常娇嫩，种植和采集需要花费大量的工作。由于其药用特性，定居者长期以来一直种植它。</VPE_Plant_Healtruffle.description>
+  <VPE_Plant_Healtruffle.description>熏药松露是一种特殊的菇类，它依靠腐臭中的营养缓慢生长。它成熟后能产出草药。然而由于结构脆弱，不论是种植还是收割都十分费工夫。由于本身的药用性能，它在殖民者中非常流行。</VPE_Plant_Healtruffle.description>
   <!--EN: healtruffle-->
-  <VPE_Plant_Healtruffle.label>健康松露</VPE_Plant_Healtruffle.label>
+  <VPE_Plant_Healtruffle.label>熏药松露</VPE_Plant_Healtruffle.label>
   <!--EN: A special kind of mushroom that emits calming spores, ideal for planting next to a bed. Needs to be planted in a flower pot. Its presence soothes the sleeping individual, creating a more restful slumber and promoting overall comfort. Its gentle, sleep-inducing properties make it a favorite among colonists seeking a peaceful night's rest.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, lullabloom ignores light levels for growth. Sunlight won't destroy it. It will still rest during the night period.\n\nNullifies the "disturbed sleep" thought.\n\nWill link to vanilla and Vanilla Furniture Expanded beds.-->
-  <VPE_Plant_Lullabloom.description>一种特殊的蘑菇，能散发出平静的孢子，非常适合种植在床边。需要种植在花盆里。它的存在可以安抚睡眠者，创造更安宁的睡眠并提高整体舒适度。其温和、诱导睡眠的特性使其成为寻求宁静夜晚休息的殖民者的最爱。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其他植物相反，摇篮花忽略生长的光照水平。阳光不会破坏它。它仍然会在夜间休息。
-
-消除了“睡眠受到干扰”的想法。
-
-将链接到香草和香草家具扩展床。</VPE_Plant_Lullabloom.description>
+  <VPE_Plant_Lullabloom.description>一种特殊菇类，能散发出使人舒心的孢子，适合在床头种植。需要在花盆中种植。它能辅助睡眠，在周围休息的人会更加舒适。它在有睡眠障碍的人们中非常流行。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其它植物不同，光照程度对它的生长没有影响。阳光并不会破坏它。它依旧会在夜间进入休眠。\n\n它会消除“睡眠被打扰”的效果。\n\n会与原版和原版家具扩展中的床连接。</VPE_Plant_Lullabloom.description>
   <!--EN: lullabloom-->
-  <VPE_Plant_Lullabloom.label>摇篮曲</VPE_Plant_Lullabloom.label>
+  <VPE_Plant_Lullabloom.label>安神菇</VPE_Plant_Lullabloom.label>
   <!--EN: This mushroom has been cultivated for ages by tunneler mining colonies, as it produces a thick but flexible cotton-like fabric which can be used to craft ropes, clothing and furniture. While it takes an incredibly long time to grow, and dies when exposed to any sort of light, for some colonies it is the only reliable way of obtaining good quality textiles.-->
-  <VPE_Plant_MycothreadMushroom.description>这种蘑菇多年来一直被隧道采矿者种植，因为它能产生厚实但柔韧的棉状织物，可用于制作绳索、衣服和家具。虽然它需要非常长的时间才能生长，并且在暴露于任何光线下都会死亡，但对于某些殖民地来说，这是获得优质纺织品的唯一可靠方法。</VPE_Plant_MycothreadMushroom.description>
+  <VPE_Plant_MycothreadMushroom.description>这种蘑菇被矿业殖民地种植了上百年，因为它会产出一种厚实且柔软的布料，可以用来做成工具，衣物和家具。虽然生长周期很长，而且丝毫不能见光，但对有需要的人来说，它还是必不可少的织物来源。</VPE_Plant_MycothreadMushroom.description>
   <!--EN: mycothread mushroom-->
-  <VPE_Plant_MycothreadMushroom.label>菌丝蘑菇</VPE_Plant_MycothreadMushroom.label>
+  <VPE_Plant_MycothreadMushroom.label>纤维菇</VPE_Plant_MycothreadMushroom.label>
   <!--EN: A cultivated mushroom with a beautiful red cap and a somewhat short lifespan. Recaps are beautiful, but may need to be replanted often.-->
-  <VPE_Plant_Redcap.description>一种栽培蘑菇，具有美丽的红色菌盖，但寿命稍短。回顾很漂亮，但可能需要经常重新种植。</VPE_Plant_Redcap.description>
+  <VPE_Plant_Redcap.description>短命的蘑菇，有着优美的鲜红外表。它能美化殖民地，但需要频繁地重新种植。</VPE_Plant_Redcap.description>
   <!--EN: redcap-->
-  <VPE_Plant_Redcap.label>红帽子</VPE_Plant_Redcap.label>
+  <VPE_Plant_Redcap.label>红伞菇</VPE_Plant_Redcap.label>
   <!--EN: A small, fast-growing mushroom that forms large patches. It produces rotstink through a chemical process. Despite its unpleasant odor, it can be harvested for edible fungus. It can grow anywhere, however exposure to sunlight will kill it.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other mushrooms, stinkers can handle light source up to 50% luminosity, such as torches.-->
-  <VPE_Plant_Stinker.description>一种生长迅速的小蘑菇，形成大片斑块。它通过化学过程产生腐臭味。尽管有难闻的气味，但仍可收获作为食用菌。它可以在任何地方生长，但暴露在阳光下会杀死它。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其他蘑菇相反，臭蘑菇可以处理高达 50% 光度的光源，例如火把。</VPE_Plant_Stinker.description>
+  <VPE_Plant_Stinker.description>生长迅速的小型菇类，会长出肥大的鼓包。它会分泌出散发腐臭的物质。虽然臭味十分恼人，但仍然可以食用。它能在任何地方种植，除了不能见阳光。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其它蘑菇不同，恶臭菇能够应付最高50%的光照，例如火把。</VPE_Plant_Stinker.description>
   <!--EN: stinker-->
-  <VPE_Plant_Stinker.label>恶臭</VPE_Plant_Stinker.label>
+  <VPE_Plant_Stinker.label>恶臭菇</VPE_Plant_Stinker.label>
   <!--EN: A rare, large mushroom that needs to be grown in flower pots. Once mature, thermoregulus emits varying temperature depending on the ambient temperature around it. At all times it will aim to bring the temperature of the room it’s in to 16C. \n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other mushroom, sunlight won't destroy it.-->
-  <VPE_Plant_Thermoregulus.description>一种罕见的大型蘑菇，需要在花盆中种植。一旦成熟，调温器就会根据周围的环境温度发出不同的温度。它始终致力于将房间温度控制在 16 摄氏度。 
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其他蘑菇相反，阳光不会破坏它。</VPE_Plant_Thermoregulus.description>
+  <VPE_Plant_Thermoregulus.description>一种稀有的大型菇类，只能在花盆中种植。成熟后，恒温菇会根据环境自发地释放出不同温度的气体，尝试将气温稳定在16℃左右。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其它蘑菇不同，阳光并不会破坏它。</VPE_Plant_Thermoregulus.description>
   <!--EN: thermoregulus-->
-  <VPE_Plant_Thermoregulus.label>调温器</VPE_Plant_Thermoregulus.label>
+  <VPE_Plant_Thermoregulus.label>恒温菇</VPE_Plant_Thermoregulus.label>
   <!--EN: A short, brown mushroom with a hard stem. When harvested, it yields a small amount of wood-like substance.-->
-  <VPE_Plant_Timbercap.description>一种短的棕色蘑菇，有坚硬的茎。收获时，它会产生少量类似木材的物质。</VPE_Plant_Timbercap.description>
+  <VPE_Plant_Timbercap.description>一种矮小的棕色菇类，有着坚硬的菌杆，收割后会产出少量木头。</VPE_Plant_Timbercap.description>
   <!--EN: timbercap-->
-  <VPE_Plant_Timbercap.label>木帽</VPE_Plant_Timbercap.label>
+  <VPE_Plant_Timbercap.label>木本菇</VPE_Plant_Timbercap.label>
   <!--EN: A large, bulbous, beige mushroom that is known to produce small amounts of electricity as it grows. Needs to be placed on power conduits in order to use the newly produced energy. In case of an electrical short, zapcaps amplify the released energy, causing significantly more damage.-->
-  <VPE_Plant_Zapcap.description>一种大型球状米色蘑菇，在生长过程中会产生少量电力。需要放置在电力管道上才能使用新产生的能源。如果发生电气短路，Zapcaps 会放大释放的能量，从而造成更大的损坏。</VPE_Plant_Zapcap.description>
+  <VPE_Plant_Zapcap.description>一种球型的大型棕色菇类，可以在生长时产生少许电力。需要放置在电路上才能采集到生产的电力。当电缆发生短路时，滋啦菇会放大失控的能量，造成更大的损失。</VPE_Plant_Zapcap.description>
   <!--EN: zapcap-->
-  <VPE_Plant_Zapcap.label>扎普卡普</VPE_Plant_Zapcap.label>
+  <VPE_Plant_Zapcap.label>滋啦菇</VPE_Plant_Zapcap.label>
 </LanguageData>

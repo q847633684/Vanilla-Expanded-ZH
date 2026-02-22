@@ -3,53 +3,39 @@
   <!--EN: Body clock-->
   <NocturnalAnimals.BodyClock>生物钟</NocturnalAnimals.BodyClock>
   <!--EN: Crepuscular-->
-  <NocturnalAnimals.BodyClock_Crepuscular>暮</NocturnalAnimals.BodyClock_Crepuscular>
+  <NocturnalAnimals.BodyClock_Crepuscular>暮间</NocturnalAnimals.BodyClock_Crepuscular>
   <!--EN: Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.-->
-  <NocturnalAnimals.BodyClock_Description>确定动物何时睡觉以及何时醒着。
-
-昼行性动物在夜间睡觉并在白天醒来，而夜行性动物则在白天睡觉并在夜间醒来。黄昏动物主要在黄昏时活动。</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Description>决定动物的睡眠作息。\n\n日间动物在白天活动，夜间动物则在白天休眠。暮间动物主要在黄昏时分活动。</NocturnalAnimals.BodyClock_Description>
   <!--EN: Diurnal-->
-  <NocturnalAnimals.BodyClock_Diurnal>昼夜</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Diurnal>日间</NocturnalAnimals.BodyClock_Diurnal>
   <!--EN: Nocturnal-->
-  <NocturnalAnimals.BodyClock_Nocturnal>夜</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>夜间</NocturnalAnimals.BodyClock_Nocturnal>
   <!--EN: Add release into wild button to all animals-->
-  <VAEE.AddBanishGizmoToAllAnimals>为所有动物添加释放到野生按钮</VAEE.AddBanishGizmoToAllAnimals>
+  <VAEE.AddBanishGizmoToAllAnimals>将所有动物标记为放归自然</VAEE.AddBanishGizmoToAllAnimals>
   <!--EN: Add release to repopulate button to all animals-->
-  <VAEE.AddBanishGizmoToAllAnimalsRepopulate>为所有动物添加释放重新填充按钮</VAEE.AddBanishGizmoToAllAnimalsRepopulate>
+  <VAEE.AddBanishGizmoToAllAnimalsRepopulate>将所有动物标记为放归重新繁殖</VAEE.AddBanishGizmoToAllAnimalsRepopulate>
   <!--EN: Cancel-->
   <VAEE.Cancel>取消</VAEE.Cancel>
   <!--EN: A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild will boost relations with tribal and outlander factions.-->
-  <VAEE.LetterExtintAnimalsPasses>一对极度濒危的{0}漫步到该地区。
-
-它们很容易成为大型掠食者和偷猎者的猎物，但您可以驯服它们并将它们带到安全的地方。 
-
-将濒临灭绝的动物放归野外将增进与部落和外地派系的关系。</VAEE.LetterExtintAnimalsPasses>
+  <VAEE.LetterExtintAnimalsPasses>一对濒临灭绝的{0}已经游荡到本地区。\n\n它们很容易成为大型捕食者和偷猎者的猎物，但你可以驯服它们并把它们带到安全的地方。\n\n将濒危动物放归自然可改善与部落和外来者派系的关系。</VAEE.LetterExtintAnimalsPasses>
   <!--EN: A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild to repopulate the species will boost relations with tribal and outlander factions.-->
-  <VAEE.LetterExtintAnimalsPassesRepopulate>一对极度濒危的{0}漫步到该地区。
-
-它们很容易成为大型掠食者和偷猎者的猎物，但您可以驯服它们并将它们带到安全的地方。 
-
-将濒临灭绝的动物放归野外以重新繁衍物种将促进与部落和外地派系的关系。</VAEE.LetterExtintAnimalsPassesRepopulate>
+  <VAEE.LetterExtintAnimalsPassesRepopulate>一对濒临灭绝的{0}已经游荡到本地区。\n\n它们很容易成为大型捕食者和偷猎者的猎物，但你可以驯服它们并把它们带到安全的地方。\n\n将濒危动物放归自然重新繁殖以扩大种群数量，可改善与部落和外来者派系的关系。</VAEE.LetterExtintAnimalsPassesRepopulate>
   <!--EN: Endangered Animals.-->
   <VAEE.LetterLabelExtintAnimalsPasses>濒危动物。</VAEE.LetterLabelExtintAnimalsPasses>
   <!--EN: Release to the wild-->
-  <VAEE.ReleaseIntoWild>放归野外</VAEE.ReleaseIntoWild>
+  <VAEE.ReleaseIntoWild>放归自然</VAEE.ReleaseIntoWild>
   <!--EN: Release this animal to the wild and increase relations with tribal and outlander factions.-->
-  <VAEE.ReleaseIntoWildDesc>将这种动物释放到野外并增加与部落和外地派系的关系。</VAEE.ReleaseIntoWildDesc>
+  <VAEE.ReleaseIntoWildDesc>将这只动物放归自然，并改善与部落和外来者派系的关系。</VAEE.ReleaseIntoWildDesc>
   <!--EN: Release to repopulate-->
-  <VAEE.ReleaseToRepopulate>释放以重新填充</VAEE.ReleaseToRepopulate>
+  <VAEE.ReleaseToRepopulate>放归重新繁殖</VAEE.ReleaseToRepopulate>
   <!--EN: Release this animal to the wild to repupulate and increase relations with tribal and outlander factions.-->
-  <VAEE.ReleaseToRepopulateDesc>将这种动物释放到野外，以重新繁殖并增加与部落和外地派系的关系。</VAEE.ReleaseToRepopulateDesc>
+  <VAEE.ReleaseToRepopulateDesc>将这种动物放归自然重新繁殖以扩大种群数量，可改善与部落和外来者派系的关系。</VAEE.ReleaseToRepopulateDesc>
   <!--EN: Releasing to the wild\n\nReleasing an animal to the wild means you will never see it again, as the animal will walk off the map.-->
-  <VAEE.ReleasingToTheWildConfirmation>放归野外
-
-将动物放归野外意味着您将再也见不到它，因为该动物会离开地图。</VAEE.ReleasingToTheWildConfirmation>
+  <VAEE.ReleasingToTheWildConfirmation>放归自然\n\n将动物放归自然意味着你再也见不到它了，因为动物会离开地图。</VAEE.ReleasingToTheWildConfirmation>
   <!--EN: Releasing to repopulate\n\nReleasing an animal to the wild to repopulate the species means you will never see it again, as the animal will walk off the map.-->
-  <VAEE.ReleasingToTheWildConfirmationRepopulate>放生以重新繁衍
-
-将动物放归野外以重新繁衍该物种意味着您将永远不会再看到它，因为该动物将从地图上消失。</VAEE.ReleasingToTheWildConfirmationRepopulate>
+  <VAEE.ReleasingToTheWildConfirmationRepopulate>放归重新繁殖\n\n将动物放归自然重新繁殖以扩大种群数量意味着你再也见不到它了，因为动物会离开地图。</VAEE.ReleasingToTheWildConfirmationRepopulate>
   <!--EN: Releasing an endangered animal into the wild improved relations with tribal and outlander factions by +2.-->
-  <VAEE.ReleasingToTheWildMessage>将濒临灭绝的动物释放到野外可以将与部落和外地派系的关系改善+2。</VAEE.ReleasingToTheWildMessage>
+  <VAEE.ReleasingToTheWildMessage>因将濒危动物放归自然，你与部落和外来者派系的关系提高了2。</VAEE.ReleasingToTheWildMessage>
   <!--EN: Releasing an endangered animal into the wild to repopulate the species improved relations with tribal and outlander factions by +2.-->
-  <VAEE.ReleasingToTheWildMessageRepopulate>将濒临灭绝的动物释放到野外以重新繁衍该物种可以将与部落和外地派系的关系改善+2。</VAEE.ReleasingToTheWildMessageRepopulate>
+  <VAEE.ReleasingToTheWildMessageRepopulate>因将濒危动物放归自然重新繁殖以扩大种群数量，你与部落和外来者派系的关系提高了2。</VAEE.ReleasingToTheWildMessageRepopulate>
 </LanguageData>

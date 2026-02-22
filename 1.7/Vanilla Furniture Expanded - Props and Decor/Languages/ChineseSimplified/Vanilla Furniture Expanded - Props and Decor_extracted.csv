@@ -1,0 +1,1243 @@
+key,text,tag,file,type
+VFE_ChoosePropCategory,Select prop category:,VFE_ChoosePropCategory,Misc.xml,keyed
+VFE_GoBack,Go back,VFE_GoBack,Misc.xml,keyed
+VFE_PrefabSearch,Search,VFE_PrefabSearch,Misc.xml,keyed
+VFE_NoSilver,Not enough silver in stockpiles. You need to have at least {0} silver to build this prop,VFE_NoSilver,Misc.xml,keyed
+VFE_PropCostMultiplier,Prop cost multiplier,VFE_PropCostMultiplier,Misc.xml,keyed
+VFE_PropCostMultiplierDesc,"Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs.",VFE_PropCostMultiplierDesc,Misc.xml,keyed
+VFE_SilverReturnMultiplier,Silver return multiplier,VFE_SilverReturnMultiplier,Misc.xml,keyed
+VFE_SilverReturnMultiplierDesc,"When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting.",VFE_SilverReturnMultiplierDesc,Misc.xml,keyed
+VFE_Reset,Reset,VFE_Reset,Misc.xml,keyed
+VPE_NeedsMats,Built,VPE_NeedsMats,Misc.xml,keyed
+VPE_NeedsMatsDesc,"This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves",VPE_NeedsMatsDesc,Misc.xml,keyed
+VFEPD_BuildProps,build props,VFEPD_BuildProps,Misc.xml,keyed
+VFEPD_BuildPropsDesc,Open a menu to build props with a silver cost.,VFEPD_BuildPropsDesc,Misc.xml,keyed
+VFEPD_ResearchNeeded,Can't be built until {0} has been researched by the colony,VFEPD_ResearchNeeded,Misc.xml,keyed
+VFEPD_MakeCopy,Make copy,VFEPD_MakeCopy,Misc.xml,keyed
+VFEPD_MakeCopyDesc,Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles.,VFEPD_MakeCopyDesc,Misc.xml,keyed
+AP_PropCategory_Floors.label,floors,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+AP_PropCategory_Floors.description,Floors that are used for purely decorative purposes.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+AP_PropCategory_Walls.label,walls,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+AP_PropCategory_Walls.description,Walls that are used mostly for decorative purposes.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Structures.label,structures,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Structures.description,"General structures such as fake columns, doors, pipes, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Borders.label,borders,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Borders.description,Ground borders to properly demarcate your pathways.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Decals.label,decals,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Decals.description,Decal props that are set on the ground with different informational data.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_LargeDecals.label,big decals,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_LargeDecals.description,Large decal props that are set on the ground with different informational data.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Medieval.label,medieval,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Medieval.description,Medieval props fit for a grand castle or a simple peasant village.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Farm.label,farm,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Farm.description,"Farm props such as hay and wood piles, wooden carts, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Furniture.label,furniture,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Furniture.description,"Furniture that has no gameplay mechanic behind it, such as decorative armoires, mirrors, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Office.label,office,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Office.description,"Encompasses items such as desks, chairs, computers, laboratory equipment, whiteboards, office supplies, and other elements commonly found in professional workspaces.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Industrial.label,industrial,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Industrial.description,"Industrial props such as barrels, pallets, boxes and containers.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Kitchen.label,kitchen,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Kitchen.description,"Kitchen props such as cooking appliances, kitchen furniture, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Power.label,power,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Power.description,"Props related to power structures, generators, gas tanks, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Spacer.label,spacer,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Spacer.description,High-tech props related to the spacer tech level.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Vehicles.label,vehicles,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Vehicles.description,"Vehicles props. Trucks, cars, lorries, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Spaceships.label,spaceships,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Spaceships.description,Spaceship props. All kinds of vehicles designed for space travel.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Park.label,parks,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Park.description,General outdoors props in a nature setting.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Workshop.label,workshop,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Workshop.description,Production and workshop props that fit in a crafting environment.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Filth.label,filth,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Filth.description,Base game filth as props. Cradle not included.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Anomaly.label,anomaly,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Anomaly.description,Furniture and miscellaneous Props related to the Anomaly DLC.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Ancient.label,ancient,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Ancient.description,"Ancient props that are usually scattered around the map. Note these will not work for the Scrapper meme in VE: Memes and Structures, as they are purely decorative.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Vaults.label,vaults,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Vaults.description,Props found in ancient vaults.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Empire.label,imperial,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Empire.description,Props from the Empire.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Labs.label,labs,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Labs.description,Props found in ancient abandoned labs. Usually quite derelict.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Bedroom.label,bedroom,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Bedroom.description,"Items such as beds, bedding, furniture (dressers, nightstands), lamps, curtains, and other decor elements commonly found in bedrooms.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_DiningRoom.label,dining room,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_DiningRoom.description,"Items such as tables, chairs, tableware (plates, glasses, utensils), tablecloths, centerpieces, and other decor elements commonly found in dining settings.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Hospital.label,hospital,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Hospital.description,"Items such as medical equipment (beds, surgical tools, monitors), signage, and other items commonly found in healthcare environments.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Military.label,military,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Military.description,"Items like replica weapons, uniforms, helmets, insignia, and other military-related paraphernalia designed for visual and thematic accuracy.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Prison.label,prison,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Prison.description,"Prison bars, cells, inmate uniforms, guards' uniforms, surveillance cameras, signage, and other elements associated with correctional facilities.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Royal.label,royal,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Royal.description,"Crowns, scepters, thrones, royal attire, coats of arms, ceremonial swords, and other regal symbols.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Storage.label,storage,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Storage.description,"Props such as shelves, containers, crates, storage bins, and labels, as well as tools or equipment associated with organizing and managing stored items.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Temple.label,temple,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Temple.description,"Religious artifacts, ceremonial objects, statues, altars, ritualistic tools, and other elements representing the spiritual or cultural significance of a temple.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Recreation.label,recreation,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Recreation.description,"Sports equipment, games, picnic supplies, outdoor furniture, and other elements associated with leisure and entertainment.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Children.label,children,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Children.description,"Children props, such as toys, children furniture, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Plants.label,plants,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Plants.description,"Base game plants as props. Bear in mind these are decorative. They don't grow, don't produce anything, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_ExoticPlants.label,exotic plants,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_ExoticPlants.description,"Exotic plants from Alpha Biomes. Bear in mind these are decorative. They don't grow, don't produce anything, etc.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Mechs.label,mechanoid,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Mechs.description,"Props based on mech clusters, or other structures of mechanoid design.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Insectoids.label,insectoid,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Insectoids.description,"Props based on insectoids, such as cocoons and spider webs.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Effecters.label,effects,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Effecters.description,"Invisible props that release particles from effecters. Bear in mind these will be laggy, so use in moderation.",description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Misc.label,misc,label,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFE_PropCategory_Misc.description,Miscellaneous props that don't fit any other category.,description,VFEProps.PropCategoryDef/PropCategoryDefs.xml,def
+VFEPD_ShipChunk.label,ship chunk,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ShipChunk.description,A chunk of a spacecraft. Upon closer inspection it seems to be made of painted cardboard.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ScrapChunk.label,scrap ship chunk,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ScrapChunk.description,A chunk of a scrapped spacecraft. Upon closer inspection it seems to be made of painted cardboard.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ShipPart.label,ship part,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ShipPart.description,An ancient ship part. Upon closer inspection it seems to be made of painted cardboard.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ShipPartDefoliator.label,defoliator ship part,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_ShipPartDefoliator.description,An ancient ship part. Upon closer inspection it seems to be made of painted cardboard.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientConcreteBarrier.label,ancient concrete barrier,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientConcreteBarrier.description,A traffic management solution from long ago.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientLamppost.label,ancient lamppost,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientLamppost.description,Road lighting from long ago. No longer functional.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_Urn.label,urn,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_Urn.description,An ancient-style decorative container.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientCryptosleepPod.label,ancient cryptosleep pod,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientCryptosleepPod.description,A single-use pod for preserving one person in a state of suspended animation. Sealed shut.,description,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientLamp.label,ancient lamp,label,ThingDef/Buildings_Ancient.xml,def
+VFEPD_AncientLamp.description,An ancient self-powered lamp. Its internal power supply is completely depleted.,description,ThingDef/Buildings_Ancient.xml,def
+VFE_CarpetBorder_Straight.label,carpet border,label,ThingDef/Buildings_Borders.xml,def
+VFE_CarpetBorder_Straight.description,"A simple, paintable cloth carpet border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_CarpetBorder_Corner.label,carpet border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_CarpetBorder_Corner.description,"A simple, paintable cloth carpet border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFE_FlagstoneBorder_Straight.label,flagstone border,label,ThingDef/Buildings_Borders.xml,def
+VFE_FlagstoneBorder_Straight.description,"A simple, paintable flagstone border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_FlagstoneBorder_Corner.label,flagstone border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_FlagstoneBorder_Corner.description,"A simple, paintable flagstone border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFE_StoneBorder_Straight.label,stone border,label,ThingDef/Buildings_Borders.xml,def
+VFE_StoneBorder_Straight.description,"A simple, paintable stone border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_StoneBorder_Corner.label,stone border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_StoneBorder_Corner.description,"A simple, paintable stone border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFE_MetalBorder_Straight.label,metal border,label,ThingDef/Buildings_Borders.xml,def
+VFE_MetalBorder_Straight.description,"A simple, paintable metal border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_MetalBorder_Corner.label,metal border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_MetalBorder_Corner.description,"A simple, paintable metal border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFE_WoodenBorder_Straight.label,wooden border,label,ThingDef/Buildings_Borders.xml,def
+VFE_WoodenBorder_Straight.description,"A simple, paintable wooden border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_WoodenBorder_Corner.label,wooden border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_WoodenBorder_Corner.description,"A simple, paintable wooden border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFE_WarningBorder_Straight.label,warning border,label,ThingDef/Buildings_Borders.xml,def
+VFE_WarningBorder_Straight.description,"A simple, paintable warning border.",description,ThingDef/Buildings_Borders.xml,def
+VFE_WarningBorder_Corner.label,warning border corner,label,ThingDef/Buildings_Borders.xml,def
+VFE_WarningBorder_Corner.description,"A simple, paintable warning border. To be placed in the corner.",description,ThingDef/Buildings_Borders.xml,def
+VFEPD_LargeDecalArrowLong.label,large arrow long symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowShort.label,large arrow short symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowWide.label,large arrow wide symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowLeft.label,large arrow left symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowRight.label,large arrow right symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowBoth.label,large arrow left and right symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowDouble.label,large arrow double symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowLeftStraight.label,large arrow left and straight symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowRightStraight.label,large arrow right and straight symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalArrowThreeWays.label,large arrow three ways symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineDouble.label,large decal line double,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineDoubleCornerInner.label,large decal line double inner corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineDoubleCornerInnerRound.label,large decal line double inner corner round,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineDoubleCornerOuter.label,large decal line double outer corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineDoubleCornerOuterRound.label,large decal line double outer corner round,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThin.label,large decal line thin,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerInner.label,large decal line thin inner corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerInnerRound.label,large decal line thin inner corner round,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerOuter.label,large decal line thin outer corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerOuterRound.label,large decal line thin outer corner round,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalArrowDiagonalLarge.label,large diagonal arrow,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolA.label,large A symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolB.label,large B symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolC.label,large C symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolD.label,large D symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolE.label,large E symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolF.label,large F symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolG.label,large G symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolH.label,large H symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolI.label,large I symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolJ.label,large J symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolK.label,large K symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolL.label,large L symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolM.label,large M symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolN.label,large N symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolO.label,large O symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolP.label,large P symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolQ.label,large Q symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolV.label,large V symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolR.label,large R symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolS.label,large S symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolT.label,large T symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolU.label,large U symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolW.label,large W symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolX.label,large X symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolY.label,large Y symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolZ.label,large Z symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolOne.label,large 1 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolTwo.label,large 2 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolThree.label,large 3 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolFour.label,large 4 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolFive.label,large 5 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolSix.label,large 6 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolSeven.label,large 7 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolEight.label,large 8 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolNine.label,large 9 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalSymbolZero.label,large 0 symbol,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordArmory.label,large armory decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordBarracks.label,large barracks decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordBlock.label,large block decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordCafeteria.label,large cafeteria decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordCargo.label,large cargo decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordChamber.label,large chamber decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordClimate.label,large climate decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordCommand.label,large command decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordControl.label,large control decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordEngineer.label,large engineer decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordFarming.label,large farming decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordFreezer.label,large freezer decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordFridge.label,large fridge decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordHangar.label,large hangar decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordHospital.label,large hospital decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordKill.label,large kill decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordKitchen.label,large kitchen decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordLanding.label,large landing decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordMedical.label,large medical decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordMess.label,large mess decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordMorgue.label,large morgue decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordMortar.label,large mortar decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordPlay.label,large play decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordPrison.label,large prison decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordReactor.label,large reactor decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordRecreation.label,large recreation decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordRefinery.label,large refinery decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordRelax.label,large relax decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordResearch.label,large research decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSecurity.label,large security decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordShipping.label,large shipping decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSleeping.label,large sleeping decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmelting.label,large smelting decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordStorage.label,large storage decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordWarning.label,large warning decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordWorkshop.label,large workshop decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallBase.label,large base decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallBay.label,large bay decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallBox.label,large box decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallCell.label,large cell decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallClear.label,large clear decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallDock.label,large dock decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallGas.label,large gas decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallHall.label,large hall decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallKeep.label,large keep decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallLab.label,large lab decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallPad.label,large pad decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallRoom.label,large room decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallWing.label,large wing decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallZone.label,large zone decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordSmallDanger.label,large danger decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWordStop.label,large stop decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWarningGeneric.label,large warning decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWarningRadiation.label,large radiation decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWarningElectric.label,large electricity decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalWarningBiohazard.label,large biohazard decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinDiagonal.label,large decal line thin diagonal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerInnerDiagonal.label,large decal line thin inner corner diagonal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCornerOuterDiagonal.label,large decal line thin outer corner diagonal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalFakeStairs.label,large fake stairs,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalFakeStairsCorner.label,large fake stairs corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalFakeStairsInvertedCorner.label,large fake stairs inverted corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCentered.label,large decal line thin centered,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCenteredCorner.label,large decal line thin centered corner,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCenteredDiagonal.label,large decal line thin centered diagonal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_LargeDecalLineThinCenteredRound.label,large decal line thin centered round,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalHelipadSquareLarge.label,large square helipad,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalHelipadRoundLarge.label,large round helipad,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalHelipadSquareLargeGeneric.label,large generic square helipad,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalHelipadRoundLargeGeneric.label,large generic round helipad,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalWarningStripesLarge.label,large warning stripes,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalWarningStripesCleanLarge.label,large clean warning stripes,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalWarningArrowLarge.label,large warning arrow,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalWarningArrowCleanLarge.label,large clean warning arrow,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalBikeLaneLarge.label,large bike lane decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalStopSignLarge.label,large stop symbol decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalPedestrianLaneLarge.label,large pedestrian lane decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalYieldLarge.label,large yield decal,label,ThingDef/Buildings_DecalsLarge.xml,def
+VFEPD_DecalArrowLong.label,arrow long symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowShort.label,arrow short symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowWide.label,arrow wide symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowLeft.label,arrow left symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowRight.label,arrow right symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowBoth.label,arrow left and right symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowDouble.label,arrow double symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowLeftStraight.label,arrow left and straight symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowRightStraight.label,arrow right and straight symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowThreeWays.label,arrow three ways symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineDouble.label,decal line double,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineDoubleCornerInner.label,decal line double inner corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineDoubleCornerInnerRound.label,decal line double inner corner round,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineDoubleCornerOuter.label,decal line double outer corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineDoubleCornerOuterRound.label,decal line double outer corner round,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThin.label,decal line thin,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerInner.label,decal line thin inner corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerInnerRound.label,decal line thin inner corner round,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerOuter.label,decal line thin outer corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerOuterRound.label,decal line thin outer corner round,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalArrowDiagonal.label,diagonal arrow,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolA.label,A symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolB.label,B symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolC.label,C symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolD.label,D symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolE.label,E symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolF.label,F symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolG.label,G symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolH.label,H symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolI.label,I symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolJ.label,J symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolK.label,K symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolL.label,L symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolM.label,M symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolN.label,N symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolO.label,O symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolP.label,P symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolQ.label,Q symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolV.label,V symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolR.label,R symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolS.label,S symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolT.label,T symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolU.label,U symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolW.label,W symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolX.label,X symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolY.label,Y symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolZ.label,Z symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolOne.label,1 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolTwo.label,2 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolThree.label,3 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolFour.label,4 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolFive.label,5 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolSix.label,6 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolSeven.label,7 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolEight.label,8 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolNine.label,9 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalSymbolZero.label,0 symbol,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordArmory.label,armory decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordBarracks.label,barracks decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordBlock.label,block decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordCafeteria.label,cafeteria decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordCargo.label,cargo decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordChamber.label,chamber decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordClimate.label,climate decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordCommand.label,command decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordControl.label,control decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordEngineer.label,engineer decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordFarming.label,farming decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordFreezer.label,freezer decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordFridge.label,fridge decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordHangar.label,hangar decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordHospital.label,hospital decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordKill.label,kill decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordKitchen.label,kitchen decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordLanding.label,landing decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordMedical.label,medical decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordMess.label,mess decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordMorgue.label,morgue decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordMortar.label,mortar decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordPlay.label,play decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordPrison.label,prison decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordReactor.label,reactor decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordRecreation.label,recreation decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordRefinery.label,refinery decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordRelax.label,relax decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordResearch.label,research decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSecurity.label,security decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordShipping.label,shipping decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSleeping.label,sleeping decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmelting.label,smelting decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordStorage.label,storage decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordWarning.label,warning decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordWorkshop.label,workshop decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallBase.label,base decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallBay.label,bay decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallBox.label,box decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallCell.label,cell decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallClear.label,clear decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallDock.label,dock decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallGas.label,gas decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallHall.label,hall decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallKeep.label,keep decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallLab.label,lab decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallPad.label,pad decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallRoom.label,room decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallWing.label,wing decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordSmallZone.label,zone decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordDanger.label,danger decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWordStop.label,stop decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningGeneric.label,warning decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningRadiation.label,radiation decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningElectric.label,electricity decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningBiohazard.label,biohazard decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinDiagonal.label,decal line thin diagonal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerInnerDiagonal.label,decal line thin inner corner diagonal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCornerOuterDiagonal.label,decal line thin outer corner diagonal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalFakeStairs.label,fake stairs,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalFakeStairsCorner.label,fake stairs corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalFakeStairsInvertedCorner.label,fake stairs inverted corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCentered.label,decal line thin centered,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCenteredCorner.label,decal line thin centered corner,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCenteredDiagonal.label,decal line thin centered diagonal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalLineThinCenteredRound.label,decal line thin centered round,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalHelipadSquare.label,square helipad,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalHelipadRound.label,round helipad,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalHelipadSquareGeneric.label,generic square helipad,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalHelipadRoundGeneric.label,generic round helipad,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningStripes.label,warning stripes,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningStripesClean.label,clean warning stripes,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningArrow.label,warning arrow,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalWarningArrowClean.label,clean warning arrow,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalBikeLane.label,bike lane decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalStopSign.label,stop symbol decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalPedestrianLane.label,pedestrian lane decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_DecalYield.label,yield decal,label,ThingDef/Buildings_DecalsSmall.xml,def
+VFEPD_CleanEffect.label,clean,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_CleanEffect.description,"This is an effecter prop for ""Clean"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_PaintEffect.label,paint,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_PaintEffect.description,"This is an effecter prop for ""Paint"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructMetalEffect.label,construct metal,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructMetalEffect.description,"This is an effecter prop for ""Construct Metal"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructWoodEffect.label,construct wood,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructWoodEffect.description,"This is an effecter prop for ""Construct Wood"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructDirtEffect.label,construct dirt,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ConstructDirtEffect.description,"This is an effecter prop for ""Construct Dirt"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_BuryPawnEffect.label,bury pawn,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_BuryPawnEffect.description,"This is an effecter prop for ""Bury Pawn"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_RoofWorkEffect.label,roof work,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_RoofWorkEffect.description,"This is an effecter prop for ""Roof Work"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_EatMeatEffect.label,eat meat,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_EatMeatEffect.description,"This is an effecter prop for ""Eat Meat"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_EatVegetarianEffect.label,eat vegetarian,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_EatVegetarianEffect.description,"This is an effecter prop for ""Eat Vegetarian"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_DrillEffect.label,drill,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_DrillEffect.description,"This is an effecter prop for ""Drill"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ResearchEffect.label,research,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ResearchEffect.description,"This is an effecter prop for ""Research"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ClearSnowEffect.label,clear snow,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ClearSnowEffect.description,"This is an effecter prop for ""Clear Snow"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_SowEffect.label,sow,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_SowEffect.description,"This is an effecter prop for ""Sow"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Harvest_PlantEffect.label,harvest,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Harvest_PlantEffect.description,"This is an effecter prop for ""Harvest Plant"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_VomitEffect.label,vomit,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_VomitEffect.description,"This is an effecter prop for ""Vomit"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_PlayPokerEffect.label,play poker,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_PlayPokerEffect.description,"This is an effecter prop for ""Play Poker"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_DisabledByEMPEffect.label,disabled by EMP,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_DisabledByEMPEffect.description,"This is an effecter prop for ""Disabled by EMP"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_SurgeryEffect.label,surgery,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_SurgeryEffect.description,"This is an effecter prop for ""Surgery"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ButcherMechanoidEffect.label,butcher mechanoid,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_ButcherMechanoidEffect.description,"This is an effecter prop for ""Butcher Mechanoid"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_RepairEffect.label,repair,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_RepairEffect.description,"This is an effecter prop for ""Repair"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Smoke_JointEffect.label,smoke,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Smoke_JointEffect.description,"This is an effecter prop for ""Smoke"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Power_Cell_BurningEffect.label,power cell burning,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Power_Cell_BurningEffect.description,"This is an effecter prop for ""Power Cell Burning"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Power_Cell_SparksEffect.label,power cell sparks,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Power_Cell_SparksEffect.description,"This is an effecter prop for ""Power Cell Sparks"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_CutStoneEffect.label,stone bits,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_CutStoneEffect.description,"This is an effecter prop for ""Cut Stone, Tailor, Smith and Sculpt"", which share a similar effecter. Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_CookEffect.label,cook,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_CookEffect.description,"This is an effecter prop for ""Cook"". Intrinsically laggy, use in moderation.",description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_FalseFire.label,fake fire,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_FalseFire.description,This is just smoke and mirrors.,description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_BigFalseFire.label,big fake fire,label,ThingDef/Buildings_Effecters.xml,def
+VFEPD_BigFalseFire.description,This is just smoke and mirrors.,description,ThingDef/Buildings_Effecters.xml,def
+VFEPD_Galactivine.label,galactivine,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Galactivine.description,An exotic space plant. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Nebulafrond.label,nebulafrond,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Nebulafrond.description,An exotic space plant. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Biofluxium.label,biofluxium,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Biofluxium.description,An exotic space plant. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Levitree.label,levitree,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Levitree.description,An exotic space tree. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Quasarbloom.label,quasarbloom,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Quasarbloom.description,An exotic space plant. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Plasmablossom.label,plasmablossom,label,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_Plasmablossom.description,An exotic space plant. This one is fake.,description,ThingDef/Buildings_ExoticPlantProps.xml,def
+VFEPD_FoodBox.label,empty food boxes,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_FoodBox.description,A stack of empty food boxes.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleLarge.label,large hay bale,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleLarge.description,A large roll of hay.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleMedium.label,medium hay bale,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleMedium.description,A medium block of hay.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleSmall.label,small hay bale,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_HayBaleSmall.description,A medium block of hay.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_Hedge.label,hedge,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_Hedge.description,A natural hedge.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenLogs.label,wooden logs,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenLogs.description,"A small, passable stack of wooden logs.",description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenLogsLarge.label,large wooden logs,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenLogsLarge.description,"A large, impassable stack of wooden logs.",description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenWagon.label,wooden wagon,label,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_WoodenWagon.description,A large stationary wagon to carry goods.,description,ThingDef/Buildings_FarmProps.xml,def
+VFEPD_FilthDirt.label,dirt,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthDirt.description,A small amount of dirt.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAnimalFilth.label,animal filth,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAnimalFilth.description,A small amount of animal filth.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthSand.label,sand,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthSand.description,A small amount of sand.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthTrash.label,trash,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthTrash.description,A small amount of trash.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleRock.label,rock rubble,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleRock.description,A small amount of rock rubble.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleSlag.label,scattered slag,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleSlag.description,A small amount of scattered slag.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleSandbags.label,scattered sandbags,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRubbleSandbags.description,A small amount of scattered sandbags.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBlood.label,blood,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBlood.description,A splatter of blood.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBugBlood.label,bugblood,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBugBlood.description,A splatter of insect blood.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthMachineBits.label,machine bits,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthMachineBits.description,A bunch of machine bits.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAmnioticFluid.label,amniotic fluid,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAmnioticFluid.description,A pool of amniotic fluid.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthSlime.label,slime,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthSlime.description,A spatter of slime.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthVomit.label,vomit,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthVomit.description,"A small, oozing pool of vomit.",description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthFireFoam.label,firefoam,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthFireFoam.description,A large pile of firefoam.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthChemfuel.label,chemfuel puddle,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthChemfuel.description,A puddle of flammable chemfuel.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthCorpseBile.label,corpse bile,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthCorpseBile.description,A small spatter of corpse bile.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAsh.label,ash,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthAsh.description,A pile of ash.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBones.label,bones,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthBones.description,A pile of bones.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRadioactiveDust.label,radioactive dust,label,ThingDef/Buildings_Filth.xml,def
+VFEPD_FilthRadioactiveDust.description,A pile of radioactive dust.,description,ThingDef/Buildings_Filth.xml,def
+VFEPD_FakeDoor.label,fake door,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeDoor.description,A non-functional door. It's just two painted plywood panels and won't open. Can be traversed.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeAnimalDoor.label,fake flap door,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeAnimalDoor.description,A non-functional flap door. It's just two painted cloth sheets. Can be traversed.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeAutoDoor.label,fake autodoor,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeAutoDoor.description,A non-functional autodoor. It's just two painted metal sheets. Can be traversed.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeFenceDoor.label,fake fence door,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeFenceDoor.description,A non-functional fence door. It's just two painted plywood panels and won't open. Can be traversed.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeColumn.label,fake column,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeColumn.description,"A fake, painted plywood column that won't hold any ceiling.",description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelATM.label,ATM,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelATM.description,A non-functional money dispensing machine.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelBookshelf.label,bookshelf,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelBookshelf.description,A bookshelf containing a variety of unreadable tomes and publications.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboard.label,cupboard,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboard.description,An empty large cupboard.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardDouble.label,double cupboard,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardDouble.description,An empty large double cupboard.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardPlates.label,cupboard with plates,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardPlates.description,A large cupboard with some plates.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardNarrow.label,narrow cupboard,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenCupboardNarrow.description,A narrow empty cupboard.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenTallCabinet.label,tall cabinet,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenTallCabinet.description,A tall cabinet unit.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenShortCupboard.label,short cupboard,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenShortCupboard.description,"A short, empty cupboard.",description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenShortCupboardPlates.label,short cupboard with plates,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenShortCupboardPlates.description,A short cupboard with plates.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_Desk.label,desk,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_Desk.description,A large desk.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_CoffeeTable.label,coffee table (2x1),label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_CoffeeTable.description,A coffee table.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_CoffeeTableSmall.label,coffee table (1x1),label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_CoffeeTableSmall.description,A small coffee table.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenDivider.label,divider,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenDivider.description,"A tall, impassable room divider.",description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelPlankDivider.label,plank divider,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelPlankDivider.description,"A tall, impassable room divider.",description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenMirror.label,mirror,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WoodenMirror.description,A standing mirror.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelVendingMachine.label,vending machine,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_SteelVendingMachine.description,A non-functional vending machine.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WashingMachine.label,washing machine,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WashingMachine.description,A washing machine.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WarehouseShelfEmpty.label,warehouse shelf,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WarehouseShelfEmpty.description,An impassable empty warehouse shelf.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WarehouseShelfBoxes.label,warehouse shelf with boxes,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_WarehouseShelfBoxes.description,An impassable warehouse shelf with boxes.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeSarcophagus.label,fake sarcophagus,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeSarcophagus.description,A fake sarcophagus with nothing inside. Sealed shut.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeGrave.label,fake grave,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakeGrave.description,A fake grave with nothing buried beneath it.,description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakePlantPot.label,plant pot,label,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_FakePlantPot.description,"A fake plant pot. Colonists will not plant anything here, so you can put a fake flower on top.",description,ThingDef/Buildings_FurnitureProps.xml,def
+VFEPD_BinBag.label,bin bag,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BinBag.description,A black bag containing various sort of rubbish.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BoxLarge.label,large box,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BoxLarge.description,A large box with various contents.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BoxSmall.label,small box,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BoxSmall.description,A small box with various contents.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_CardboardBoxLarge.label,large cardboard box,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_CardboardBoxLarge.description,A large cardboard box with various content.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_CardboardBoxSmall.label,small cardboard box,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_CardboardBoxSmall.description,A small cardboard box with various content.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BrickPile.label,brick pile,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BrickPile.description,A pile of bricks.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BarrelGreen.label,barrel,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_BarrelGreen.description,A small metal barrel.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletCardboard.label,pallet with cardboard boxes,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletCardboard.description,A large pallet with several cardboard boxes.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletBoxes.label,pallet with boxes,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletBoxes.description,A large pallet with several boxes.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Pallet.label,pallet,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Pallet.description,A large pallet.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletBarrelGreen.label,pallet with barrels,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_PalletBarrelGreen.description,A bunch of metal barrels on a wooden pallet.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ContainerGreen.label,cargo container,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ContainerGreen.description,A metal cargo container. Impassable. Cannot hold roof.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Pipes.label,pipes,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Pipes.description,A large stack of industrial pipes.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Planks.label,planks,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Planks.description,A large stack of planks.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Cone.label,cone,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Cone.description,An industrial street cone.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ConcreteBags.label,concrete bags,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ConcreteBags.description,A large stack of concrete bags.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_WaterTank.label,water tank,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_WaterTank.description,An industrial water tank.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_VentilationShaft.label,ventilation shaft,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_VentilationShaft.description,An exhaust to a ventilation system.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ElectricalCabinet.label,electrical cabinet,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_ElectricalCabinet.description,A small metal cabinet containing electrical circuits and fuses.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Lockers.label,lockers,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Lockers.description,"A metal locker unit, allowing workers to store valuable belongings.",description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_GasTank.label,gas tank,label,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_GasTank.description,A large metal gas tank.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VCHE_FakePipes.label,fake pipe,label,ThingDef/Buildings_IndustrialProps.xml,def
+VCHE_FakePipes.description,Steel pipes. These do not transport anything.,description,ThingDef/Buildings_IndustrialProps.xml,def
+VFEPD_Hive.label,fake hive,label,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_Hive.description,Not a real insect hive.,description,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_SpaceHive.label,space hive,label,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_SpaceHive.description,A decorative space hive. Won't produce any insects.,description,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_GlowPod.label,fake glow pod,label,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_GlowPod.description,This doesn't even glow! I want to speak with the manager!,description,ThingDef/Buildings_InsectoidProps.xml,def
+VFEPD_MopBucket.label,mop bucket,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_MopBucket.description,A sterile mop bucket. Ideal for a mop.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_BrewingBarrel.label,brewing barrel,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_BrewingBarrel.description,"A large, empty brewing barrel.",description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Cooker.label,cooker,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Cooker.description,A cooker unit.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Microwave.label,microwave,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Microwave.description,A tabletop microwave device.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Oven.label,oven,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Oven.description,A large oven.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Fridge.label,fridge,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Fridge.description,A large fridge with an in-built freezer.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_WaterDispenser.label,water dispenser,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_WaterDispenser.description,"A large, standing fresh water dispenser.",description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_FoodTrolley.label,food trolley,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_FoodTrolley.description,A four wheeled trolley for empty plates and food trays.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSurface.label,kitchen surface,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSurface.description,A simple kitchen surface with a cutting board.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSurfaceEmpty.label,"kitchen surface, empty",label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSurfaceEmpty.description,A simple kitchen surface.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSink.label,kitchen sink,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_KitchenSink.description,A long kitchen sink.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_WineRack.label,wine rack,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_WineRack.description,A civilised wine storage rack.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CookingAppliances.label,pot,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CookingAppliances.description,A large pot.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CookingPan.label,pan,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CookingPan.description,A large pan.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CuttingBoard.label,cutting board,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_CuttingBoard.description,A wooden cutting board.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Knives.label,knives,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Knives.description,A set of cooking knives.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_DinnerSet.label,dinner set,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_DinnerSet.description,A simple dinner set containing all the required utensils.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Spices.label,spices,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Spices.description,A wide assortment of different spices,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_MeatSmokerEmpty.label,empty smoker,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_MeatSmokerEmpty.description,An empty meat smoker coming from the old Vanilla Factions Expanded - Medieval. Non-functional.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_MeatSmokerFull.label,filled smoker,label,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_MeatSmokerFull.description,A closed meat smoker coming from the old Vanilla Factions Expanded - Medieval. Non-functional.,description,ThingDef/Buildings_KitchenProps.xml,def
+VFEPD_Banner.label,banner,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_Banner.description,A decorative banner hanging from a vertical wooden frame.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenPlatform.label,wooden platform,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenPlatform.description,A wooden platform to walk on.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_Anvil.label,anvil,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_Anvil.description,A heavy forge anvil.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArmorStandEmpty.label,empty armor stand,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArmorStandEmpty.description,An armor stand. There is currently no armor mounted on it.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArmorStandFull.label,full armor stand,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArmorStandFull.description,An armor stand. There is a suit of plate armor mounted on it.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArrowCage.label,arrow cage,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_ArrowCage.description,A small cage with arrows,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_CageBrazier.label,cage brazier,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_CageBrazier.description,A metal cage shaped empty brazier.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BrazierEmpty.label,empty brazier,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BrazierEmpty.description,A bowl-shaped furnishing used to hold a fire.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BucketEmpty.label,empty bucket,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BucketEmpty.description,A wooden bucket.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BucketwithWater.label,water bucket,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_BucketwithWater.description,A wooden bucket filled with water.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenChest.label,wooden chest,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenChest.description,A medium size wooden chest.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenChestLarge.label,large wooden chest,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenChestLarge.description,A large size wooden chest.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackEmpty.label,empty weapon rack,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackEmpty.description,A long weapon rack. There aren't any weapons on it at the moment.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackSwords.label,sword weapon rack,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackSwords.description,A long weapon rack. There is a selection of swords mounted on it.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackSpears.label,spears weapon rack,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WeaponRackSpears.description,A long weapon rack. There is a selection of spears mounted on it.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenSign.label,wooden sign,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_WoodenSign.description,A tall post with signs pointing in different directions.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_TanningRack.label,tanning rack,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_TanningRack.description,A tanning rack with a pelt mounted on it.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_CagePlatform.label,cage platform,label,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_CagePlatform.description,A cage platform to walk on.,description,ThingDef/Buildings_MedievalProps.xml,def
+VFEPD_FakeSnowman.label,fake snowman,label,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_FakeSnowman.description,"This is not made of snow, but a very fake looking polyurethane foam.",description,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_Present.label,present,label,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_Present.description,A festive present. Actually just a painted cardboard box. Booooh.,description,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_Geyser.label,fake steam geyser,label,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_Geyser.description,"This is just a shallow hole with a tiny device spewing tepid, misted water. Provides no heat or energy, but looks cool.",description,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_FakeBridge.label,fake bridge,label,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_FakeBridge.description,This is a false bridge support that won't hold any bridge above it.,description,ThingDef/Buildings_MiscProps.xml,def
+VFEPD_Glowstool.label,glowstool,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Glowstool.description,"A fake small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Agarilux.label,agarilux,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Agarilux.description,"A fake, enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Bryolux.label,bryolux,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Bryolux.description,"A fake blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rose.label,rose,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rose.description,"A fake beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Daylily.label,daylily,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Daylily.description,"A cultivated fake flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rice.label,rice plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rice.description,"A fake, short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Potato.label,potato plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Potato.description,"A fake, highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Corn.label,corn plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Corn.description,"A fake tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Strawberry.label,strawberry plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Strawberry.description,"A fake, low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Haygrass.label,haygrass,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Haygrass.description,"A fake mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Cotton.label,cotton plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Cotton.description,A fake mid-size crop that yields fine white cotton fibers. These are used to make cloth.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Devilstrand.label,devilstrand,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Devilstrand.description,"This fake fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Healroot.label,healroot,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Healroot.description,"A fake, slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called ""healer's hand"" by tribespeople - a nickname it owes to its five major medicinal virtues.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Hops.label,hop plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Hops.description,"A fake flowering crop that yields hops, an essential ingredient in beer.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Smokeleaf.label,smokeleaf plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Smokeleaf.description,"A fake leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Psychoid.label,psychoid plant,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Psychoid.description,"A fake leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BurnedTree.label,burned tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BurnedTree.description,A fake burned tree stump. It's ugly and yields no usable wood.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_WillowTree.label,willow tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_WillowTree.description,"One of the fastest growing shade trees, fake willows provide a beautiful, leafy canopy. It doesn't yield much usable wood.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_CypressTree.label,cypress tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_CypressTree.description,"A fake, tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_MapleTree.label,maple tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_MapleTree.description,"A fake, common medium-sized tree, easily identifiable by its distinct three-pointed leaf.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Chokevine.label,chokevine,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Chokevine.description,"A fake, tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_OakTree.label,oak tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_OakTree.description,"A fake hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PoplarTree.label,poplar tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PoplarTree.description,"A fake softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PineTree.label,pine tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PineTree.description,A fake large conifer covered with prickly pine cones. It grows in a distinctive conical shape.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BirchTree.label,birch tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BirchTree.description,"A fake temperate-biome tree known for its thin, white, paper-like bark.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_TeakTree.label,teak tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_TeakTree.description,"A fake, exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_CecropiaTree.label,cecropia tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_CecropiaTree.description,"One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PalmTree.label,palm tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PalmTree.description,"A fake tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_TreeCocoa.label,cocoa tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_TreeCocoa.description,"A fake tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BambooTree.label,bamboo tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BambooTree.description,"A fake, fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_DragoTree.label,drago tree,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_DragoTree.description,"A fake, hardy desert tree topped with thick, pointed leaves.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_SaguaroCactus.label,saguaro cactus,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_SaguaroCactus.description,"A fake, large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Agave.label,agave,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Agave.description,"A fake, large-leafed desert plant with edible flowers and stalks.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PincushionCactus.label,pincushion cactus,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_PincushionCactus.description,A fake short cactus. It is so named because it resembles a pincushion.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_GrassShort.label,short grass,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_GrassShort.description,Fake wild grass. Grows anywhere there is a little light and minimally fertile ground.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_GrassLong.label,long grass,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_GrassLong.description,Fake wild tall grass.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Bush.label,bush,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Bush.description,"A fake, short shrub. Does not typically talk.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Brambles.label,brambles,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Brambles.description,"Fake, tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BerryBush.label,berry bush,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_BerryBush.description,"A fake bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Alocasia.label,alocasia,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Alocasia.description,A fake tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Clivia.label,clivia,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Clivia.description,"An unusual plant with tall, pretty flowers. Some call it the 'bush lily'.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rafflesia.label,giant rafflesia,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Rafflesia.description,"A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh.",description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Ambrosia.label,ambrosia bush,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Ambrosia.description,A fake rare wild bush which yields the ambrosia fruit.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Tinctoria.label,tinctoria,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Tinctoria.description,A fake genetically-engineered flower-like crop which secretes a self-altering dye.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Dandelion.label,dandelions,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Dandelion.description,A fake tiny yellow flower which grows in large clusters.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Astragalus.label,astragalus,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Astragalus.description,A fake small perennial wildflower that grows in alpine climates.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Moss_Base.label,moss,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_Moss_Base.description,Fake wild moss that grows in clumps in areas of low light and cool temperatures.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_ShrubLow.label,low shrubs,label,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_ShrubLow.description,Various fake low broadleaf shrubs. These grow in clusters and slow down movement.,description,ThingDef/Buildings_PlantProps.xml,def
+VFEPD_SteelTank.label,large steel tank,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_SteelTank.description,A large steel tank.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_ChemfuelTank.label,large chemfuel tank,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_ChemfuelTank.description,A large tank filled with explosive chemfuel.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_LiquidTank.label,large liquid tank,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_LiquidTank.description,A large tank filled with water-based liquid.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_AdvancedRotor.label,advanced rotor,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_AdvancedRotor.description,An advanced rotor unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Rotor.label,rotor,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Rotor.description,A rotor unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Battery.label,battery,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Battery.description,A simple device that stores power. This one is out-of-service.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Exhaust.label,exhaust,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Exhaust.description,An exhaust port for the fumes of industrialism.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_SmallExhaust.label,small exhaust,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_SmallExhaust.description,A small exhaust port for the fumes of industrialism.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Generator.label,generator,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_Generator.description,A very basic generator unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_IndustrialGenerator.label,industrial generator,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_IndustrialGenerator.description,"A large, industrial generator unit.",description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GeneratorUnitLarge.label,generator unit,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GeneratorUnitLarge.description,A large part of an industrial generator unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GeneratorUnitSmall.label,small generator unit,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GeneratorUnitSmall.description,A small part of an industrial generator unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GasStorageUnit.label,gas storage unit,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_GasStorageUnit.description,An industrial style gas storage unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_ToxicWasteBarrel.label,toxic waste barrel,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_ToxicWasteBarrel.description,A small barrel of toxic waste.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_PowerConverter.label,power converter,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_PowerConverter.description,A large power converter unit.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_CoalBurner.label,coal burner,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_CoalBurner.description,An industrial style coal burner.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_PowerPole.label,power pole,label,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_PowerPole.description,A tall post to mount cables on.,description,ThingDef/Buildings_PowerProps.xml,def
+VFEPD_DataConsole.label,data console,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DataConsole.description,An advanced data console accepting several different types of file formatting.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DataConveyor.label,data conveyor,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DataConveyor.description,A large box holding cables and pipes for data transfer.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DisplayScreen.label,display screen,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DisplayScreen.description,A large data display screen.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DisplayTable.label,display table,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_DisplayTable.description,A large size display screen mounted on a large table.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SmallDisplayTable.label,small display table,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SmallDisplayTable.description,A small sized display screen mounted on a tiny table.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_LongCommandConsole.label,long command console,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_LongCommandConsole.description,A long console with several different command modules.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PlanningScreen.label,planning screen,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PlanningScreen.description,"A glass screen, ideal for planning out combat scenarios.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PlanningTable.label,planning table,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PlanningTable.description,A large size planning screen mounted on a large table.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SmallPlanningTable.label,small planning table,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SmallPlanningTable.description,A small sized planning screen mounted on a tiny table.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_TripleDisplay.label,triple display dashboard,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_TripleDisplay.description,"A large dashboard with several display screens, for up-to-date information on all mod releases.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SingleDisplay.label,single display dashboard,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SingleDisplay.description,"A small dashboard with a single display screen, for up-to-date information on all mod releases.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainer.label,spacer container,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainer.description,"A medium sized, triple sealed, password protected box.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainerLarge.label,spacer container large,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainerLarge.description,"A large sized, triple sealed, password protected box.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainerStack.label,spacer container stack,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerContainerStack.description,"A large stack of different sized, triple sealed, password protected boxes.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerStorage.label,advanced storage device,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SpacerStorage.description,"A large, multi-chamber advanced storage device.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SwitchPanel.label,switch panel,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SwitchPanel.description,A medium sized panel containing varius levers and switches.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRack.label,server rack,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRack.description,"A large server rack, containing multiple hard drives and advanced computer components.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRackAlternate.label,server rack,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRackAlternate.description,"A large server rack, containing multiple hard drives and advanced computer components.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRackAlternateTwo.label,server rack,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_ServerRackAlternateTwo.description,"A large server rack, containing multiple hard drives and advanced computer components.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SensorPlatform.label,sensor platform,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_SensorPlatform.description,A small platform containing a variety of sensors.,description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PersonalConsole.label,personal console,label,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_PersonalConsole.description,"A small, futuristic personal communications console.",description,ThingDef/Buildings_SpacerProps.xml,def
+VFEPD_Personalpod.label,personal pod,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_Personalpod.description,"A small, out-of-service, multi use drop pod.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_Superpod.label,superpod,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_Superpod.description,"A large, out-of-service, multi use drop pod.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_SkipBlack.label,skip,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_SkipBlack.description,"A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_SpacerShuttle.label,shuttle,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_SpacerShuttle.description,"A light-weight, out-of-service shuttle, allowing users to travel comfortably for a short distance.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_AlbatrossBlack.label,gunship,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_AlbatrossBlack.description,"A large, multi-personel transport ship currently out of service.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_HeavyDropship.label,heavy dropship,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_HeavyDropship.description,"A large, multi-personel heavy dropship currently out of service.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_Shuttle_HeavyCargo.label,heavy cargo shuttle,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_Shuttle_HeavyCargo.description,"A large, multi-personel heavy cargo shuttle currently out of service.",description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Radiator.label,ship radiator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Radiator.description,A decorative radiator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AdvancedRadiator.label,ship advanced radiator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AdvancedRadiator.description,A decorative advanced radiator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechRadiator.label,ship archotech radiator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechRadiator.description,A decorative archotech radiator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_MechanoidRadiator.label,mechanoid ship radiator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_MechanoidRadiator.description,A decorative mechanoid radiator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand.label,ship solar panel,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand.description,A decorative solar panel for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand_Archotech.label,archotech solar panel,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand_Archotech.description,A decorative archotech solar panel for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand_Mechanoid.label,mechanoid solar panel,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SolarExpand_Mechanoid.description,A decorative mechanoid solar panel for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Engine_Small.label,small rocket engine,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Engine_Small.description,A decorative small rocket engine for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Engine.label,rocket engine,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Engine.description,A decorative rocket engine for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_NuclearEngine.label,nuclear engine,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_NuclearEngine.description,A decorative nuclear engine for a spaceship. This piece will connect to base game spaceships. Bucko Drink approved.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_JohnsonTanaka_Drive.label,Johnson-Tanaka drive,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_JohnsonTanaka_Drive.description,A decorative Johnson-Tanaka drive for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.label,ruined Johnson-Tanaka drive,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_JohnsonTanaka_Drive_Ruined.description,A decorative ruined Johnson-Tanaka drive for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Archotech_Thruster.label,archotech thruster,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Archotech_Thruster.description,A decorative archotech thruster for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1_Thing.label,1x1 ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1_Thing.description,A decorative 1x1 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1_Flipped.label,"1x1 ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1_Flipped.description,A decorative 1x1 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2_Thing.label,1x2 ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2_Thing.description,A decorative 1x2 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2_Flipped.label,"1x2 ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2_Flipped.description,A decorative 1x2 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3_Thing.label,1x3 ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3_Thing.description,A decorative 1x3 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3_Flipped.label,"1x3 ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3_Flipped.description,A decorative 1x3 ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x1_Thing.label,1x1 archoship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x1_Thing.description,A decorative 1x1 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.label,"1x1 archoship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x1_Flipped.description,A decorative 1x1 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x2_Thing.label,1x2 archoship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x2_Thing.description,A decorative 1x2 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.label,"1x2 archoship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x2_Flipped.description,A decorative 1x2 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x3_Thing.label,1x3 archoship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x3_Thing.description,A decorative 1x3 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.label,"1x3 archoship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShipAngle1x3_Flipped.description,A decorative 1x3 archoship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1Mech.label,1x1 mech ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1Mech.description,A decorative 1x1 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.label,"1x1 mech ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x1Mech_Flipped.description,A decorative 1x1 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2Mech.label,1x2 mech ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2Mech.description,A decorative 1x2 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.label,"1x2 mech ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x2Mech_Flipped.description,A decorative 1x2 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3Mech.label,1x3 mech ship corner,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3Mech.description,A decorative 1x3 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.label,"1x3 mech ship corner, flipped",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipAngle1x3Mech_Flipped.description,A decorative 1x3 mech ship corner for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AutosleepPod.label,autosleep pod,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AutosleepPod.description,A decorative autosleep pod for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AutosleepPod_Off.label,"autosleep pod, off",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AutosleepPod_Off.description,A decorative autosleep pod for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AvatarCasket.label,avatar casket,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AvatarCasket.description,A decorative avatar casket for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CapacitorSmall.label,small ship capacitor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CapacitorSmall.description,A decorative small ship capacitor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Capacitor.label,ship capacitor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Capacitor.description,A decorative ship capacitor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CritterSleep_Small.label,small animal caskets,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CritterSleep_Small.description,Decorative small animal caskets for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CritterSleep_Large.label,large animal caskets,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CritterSleep_Large.description,Decorative large animal caskets for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Cryptonest.label,cryptonest,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Cryptonest.description,Decorative cryptonest for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Cryptonest_Off.label,"cryptonest, off",label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Cryptonest_Off.description,Decorative cryptonest for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HoloEmitter.label,basic holo emitter,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HoloEmitter.description,A decorative basic holo emitter for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AdvancedHoloEmitter.label,advanced holo emitter,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_AdvancedHoloEmitter.description,A decorative advanced holo emitter for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoHoloEmitter.label,archo holo emitter,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoHoloEmitter.description,A decorative archotech holo emitter for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HoloRepeater.label,holo repeater,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HoloRepeater.description,A decorative holo repeater for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipComputer.label,ship computer,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipComputer.description,A decorative ship computer for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipComputer_AI.label,AI ship computer,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipComputer_AI.description,A decorative AI ship computer for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Heatsink.label,heatsink,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Heatsink.description,A decorative heatsink for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HeatsinkLarge.label,large heatsink,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HeatsinkLarge.description,A decorative large heatsink for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_PurgePort.label,purge port,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_PurgePort.description,A decorative purge port for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_PurgePortLarge.label,large purge port,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_PurgePortLarge.description,A decorative large purge port for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_QuickHeatsink.label,quick heatsink,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_QuickHeatsink.description,A decorative quick heatsink for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoHeatsink.label,archo heatsink,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoHeatsink.description,A decorative archo heatsink for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SmallLifeSupport.label,small life support,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SmallLifeSupport.description,A decorative small life support for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_LifeSupport.label,life support,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_LifeSupport.description,A decorative life support for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShieldGenerator.label,shield generator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShieldGenerator.description,A decorative shield generator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShieldGenerator.label,archo shield generator,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoShieldGenerator.description,A decorative archo shield generator for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CloakingDevice.label,cloaking device,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_CloakingDevice.description,A decorative cloaking device for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HullFoamDistributor.label,foam distributor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_HullFoamDistributor.description,A decorative foam distributor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SalvageBay.label,salvage bay,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_SalvageBay.description,A decorative salvage bay for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_SensorCluster.label,sensor cluster,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_SensorCluster.description,A decorative sensor cluster for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_SensorCluster_Large.label,large sensor cluster,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_SensorCluster_Large.description,A decorative large sensor cluster for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_BigConsole.label,big console,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_BigConsole.description,A decorative big console for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Bridge.label,ship bridge,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Bridge.description,A decorative ship bridge for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Bridge_Small.label,small ship bridge,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Ship_Bridge_Small.description,A decorative small ship bridge for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactor.label,ship reactor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactor.description,A decorative ship reactor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactorAdv.label,advanced ship reactor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactorAdv.description,A decorative advanced ship reactor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactorDamaged.label,ruined ship reactor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ShipReactorDamaged.description,A decorative ruined ship reactor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechReactor.label,archo reactor,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechReactor.description,A decorative archo reactor for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Shuttle_Bay.label,shuttle bay,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_Shuttle_Bay.description,A decorative shuttle bay for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes_Single.label,single torpedo tube,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes_Single.description,Decorative single torpedo tube for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes_Small.label,small torpedo tubes,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes_Small.description,Decorative small torpedo tubes for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes.label,torpedo tubes,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_TorpedoTubes.description,Decorative torpedo tubes for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoSphere.label,archo sphere,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoSphere.description,Decorative archo sphere for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechUplink.label,archotech uplink,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchotechUplink.description,Decorative archotech uplink for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarA.label,archo pillar,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarA.description,Decorative archo pillar for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarB.label,archo pillar,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarB.description,Decorative archo pillar for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarC.label,archo pillar,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarC.description,Decorative archo pillar for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarD.label,archo pillar,label,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_ShipPart_ArchoPillarD.description,Decorative archo pillar for a spaceship. This piece will connect to base game spaceships.,description,ThingDef/Buildings_Spaceships.xml,def
+VFEPD_CarForklift.label,forklift,label,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarForklift.description,An industrial style forklift. Non-functional: all its internal wiring and its motor have been removed.,description,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarDeliveryBlack.label,delivery truck,label,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarDeliveryBlack.description,A large delivery truck. Non-functional: all its internal wiring and its motor have been removed.,description,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarFamilyBlack.label,family car,label,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarFamilyBlack.description,A family car. Non-functional: all its internal wiring and its motor have been removed.,description,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarPickupBlack.label,pickup truck,label,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarPickupBlack.description,A pickup truck. Non-functional: all its internal wiring and its motor have been removed.,description,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarVintageBlack.label,vintage car,label,ThingDef/Buildings_Vehicles.xml,def
+VFEPD_CarVintageBlack.description,A vintage style car. Non-functional: all its internal wiring and its motor have been removed.,description,ThingDef/Buildings_Vehicles.xml,def
+VFEP_ShortWalls.label,short wall,label,ThingDef/Buildings_WallProps.xml,def
+VFEP_ShortWalls.description,A passable chest-height wall. Cannot support roofs.,description,ThingDef/Buildings_WallProps.xml,def
+VPEPD_EmptyAdvResearch.label,empty hi-tech research bench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyAdvResearch.description,A working surface to fill with laboratory stuff. Non-functional for research purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyBrewery.label,empty brewery,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyBrewery.description,A working surface to fill with brewery stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyElectricSmelter.label,empty smelter,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyElectricSmelter.description,A working surface to fill with smeltery stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyFabrication.label,empty fabrication bench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyFabrication.description,A working surface to fill with fabrication stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyResearch.label,empty research bench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyResearch.description,A working surface to fill with laboratory stuff. Non-functional for research purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyScultingTable.label,empty sculpting table,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyScultingTable.description,A working surface to fill with sculpting stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptySmithy.label,empty smithing table,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptySmithy.description,A working surface to fill with smithing stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyStonecutter.label,empty stonecutting table,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyStonecutter.description,A working surface to fill with stonecutting stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyTableMachining.label,empty machining table,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyTableMachining.description,A working surface to fill with machining stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyTailoring.label,empty tailoring table,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyTailoring.description,A working surface to fill with tailoring stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyWorkbench.label,empty workbench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VPEPD_EmptyWorkbench.description,A working surface to fill with production stuff. Non-functional for crafting purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Smelter.label,smelter,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Smelter.description,A small smelter. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ChemfuelTankSmall.label,chemfuel tank,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ChemfuelTankSmall.description,A small chemfuel tank. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterExhaust.label,smelter exhaust,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterExhaust.description,A small smelter exhaust. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ConveyorInput.label,conveyor input,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ConveyorInput.description,A small conveyor input. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterGizmo.label,smelter gizmo,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterGizmo.description,A small smelter gizmo. God knows what this does. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BrownSmelterGizmo.label,"smelter gizmo, grey",label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BrownSmelterGizmo.description,A small smelter gizmo. God knows what this does. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterHeater.label,smelter heater,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmelterHeater.description,A small smelter heater. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AdjustableWrench.label,adjustable wrench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AdjustableWrench.description,A small adjustable wrench. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallAlembic.label,small alembic,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallAlembic.description,A small alembic. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Alembic.label,alembic,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Alembic.description,An alembic. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_DoubleAlembic.label,double alembic,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_DoubleAlembic.description,A double alembic. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVials.label,assorted vials,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVials.description,Assorted vials. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVialsB.label,assorted vials,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVialsB.description,Assorted vials. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVialsC.label,assorted vials,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_AssortedVialsC.description,Assorted vials. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Beakers.label,beakers,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Beakers.description,Assorted beakers. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryLargeBarrel.label,biorefinery large barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryLargeBarrel.description,The large barrel of a biorefinery. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryLargeBarrelHorizontal.label,biorefinery large barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryLargeBarrelHorizontal.description,The large barrel of a biorefinery. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryMediumBarrel.label,biorefinery medium barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryMediumBarrel.description,The medium barrel of a biorefinery. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryMediumBarrelHorizontal.label,biorefinery medium barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefineryMediumBarrelHorizontal.description,The medium barrel of a biorefinery. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefinerySmallBarrel.label,biorefinery small barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BioRefinerySmallBarrel.description,The small barrel of a biorefinery. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileA.label,pile of blocks,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileA.description,A pile of blocks in the process of being chiseled. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileB.label,pile of blocks,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileB.description,A pile of blocks in the process of being chiseled. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileC.label,pile of blocks,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BlocksPileC.description,A pile of blocks in the process of being chiseled. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BloodSplatter.label,blood splatter,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BloodSplatter.description,Blood splatter from a butcher table. Intended to be placed alongside an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BreweryBarrel.label,brewery barrel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BreweryBarrel.description,A small brewery barrel. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BreweryTablet.label,brewery mat,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_BreweryTablet.description,"A brewery mat to process the plants into must. Or something. Don't look at me, I'm not a beer maker. Intended to be placed alongside an empty workbench. Just for decorative purposes.",description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Chisel.label,chisel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Chisel.description,A small chisel. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Cleaver.label,cleaver,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Cleaver.description,A small cleaver. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ConeWrench.label,cone wrench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ConeWrench.description,A small cone wrench. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_CuttingTableWithKnife.label,"cutting table, knife",label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_CuttingTableWithKnife.description,A cutting table with a sharpened knife. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Docs.label,scattered docs,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Docs.description,A bunch of scattered research documents. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ManyDocs.label,many docs,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ManyDocs.description,A bunch of many scattered research documents. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_DoubleOven.label,double oven,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_DoubleOven.description,A double oven. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationComputer.label,fabrication computer,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationComputer.description,A fabrication computer. It computes. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoA.label,fabrication lathe,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoA.description,A fabrication lathe. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoB.label,fabrication lathe,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoB.description,A fabrication lathe. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoC.label,fabrication lathe,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationGizmoC.description,A fabrication lathe. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLargeGizmo.label,fabrication computers,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLargeGizmo.description,A bunch of fabrication structures. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLaser.label,fabrication laser,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLaser.description,A fabrication laser. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLathe.label,fabrication small lathe,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricationLathe.description,A fabrication laser. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollA.label,fabric rolls,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollA.description,A bunch of fabric rolls. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollB.label,fabric rolls,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollB.description,A bunch of fabric rolls. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollC.label,fabric rolls,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_FabricRollC.description,A bunch of fabric rolls. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_File.label,file,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_File.description,A small file. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_HalfFinishedGun.label,half-finished gun,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_HalfFinishedGun.description,A small half-finished gun. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_HeavyHammer.label,heavy hammer,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_HeavyHammer.description,A huge and heavy hammer. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallScreen.label,small screen,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallScreen.description,A small computer screen. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MediumScreen.label,medium screen,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MediumScreen.description,A medium computer screen. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_LargeScreen.label,large screen,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_LargeScreen.description,A large computer screen. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MachiningHammer.label,machining hammer,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MachiningHammer.description,A small machining hammer. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MustBucket.label,must bucket,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MustBucket.description,A small must bucket. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MustBuckets.label,must buckets,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_MustBuckets.description,Two small must buckets. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Potentiometer.label,potentiometer,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Potentiometer.description,A potentiometer unit. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_PotentiometerOven.label,converted oven,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_PotentiometerOven.description,An oven converted for smelters. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchDatabase.label,research database,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchDatabase.description,A research database. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchStructure.label,research structure,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchStructure.description,A research structure. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchStructureB.label,research structure,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ResearchStructureB.description,A research structure. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Sandpaper.label,sandpaper,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Sandpaper.description,A sheet of sandpaper. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Saw.label,saw,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Saw.description,A small saw. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Scissors.label,scissors,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Scissors.description,"A small pair of scissors. Wait, but it's that two of them? Or a single unit? Intended to be placed over an empty workbench. Just for decorative purposes.",description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Scraper.label,scraper,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Scraper.description,A small scraper. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SewingMachine.label,sewing machine,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SewingMachine.description,A small sewing machine. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SingleBeaker.label,single beaker,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SingleBeaker.description,A small beaker. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallKnife.label,small knife,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallKnife.description,A small knife. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallVent.label,small vent,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallVent.description,A small vent. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallWrench.label,small wrench,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SmallWrench.description,A small wrench. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SpinningWheel.label,spinning wheel,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_SpinningWheel.description,A small spinning wheel. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_StoneGrinder.label,stone grinder,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_StoneGrinder.description,A small stone grinder. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_TextilesCardboardBox.label,textiles box,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_TextilesCardboardBox.description,A small textiles box. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_TinyVent.label,vent,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_TinyVent.description,A small vent. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Tongs.label,tongs,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Tongs.description,A small tongs. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Tools.label,tools,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_Tools.description,A tools tray. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ToolsBoard.label,tools tray,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_ToolsBoard.description,A tools tray. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_UnfinishedCloth.label,unfinished cloth,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_UnfinishedCloth.description,Scraps of unfinished cloth. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_WoodenMallet.label,wooden mallet,label,ThingDef/Buildings_WorkshopProps.xml,def
+VFEPD_WoodenMallet.description,A small wooden mallet. Intended to be placed over an empty workbench. Just for decorative purposes.,description,ThingDef/Buildings_WorkshopProps.xml,def

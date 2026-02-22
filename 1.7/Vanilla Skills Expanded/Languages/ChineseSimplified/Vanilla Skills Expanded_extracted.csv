@@ -1,0 +1,197 @@
+key,text,tag,file,type
+VSE.Expertise0,Interested in it,VSE.Expertise0,Misc.xml,keyed
+VSE.Expertise1,Hobbyist,VSE.Expertise1,Misc.xml,keyed
+VSE.Expertise2,Aspiring Apprentice,VSE.Expertise2,Misc.xml,keyed
+VSE.Expertise3,Apprentice,VSE.Expertise3,Misc.xml,keyed
+VSE.Expertise4,Excellent Apprentice,VSE.Expertise4,Misc.xml,keyed
+VSE.Expertise5,Weak Professional,VSE.Expertise5,Misc.xml,keyed
+VSE.Expertise6,Professional,VSE.Expertise6,Misc.xml,keyed
+VSE.Expertise7,Employable Professional,VSE.Expertise7,Misc.xml,keyed
+VSE.Expertise8,Solid Professional,VSE.Expertise8,Misc.xml,keyed
+VSE.Expertise9,Skilled Professional,VSE.Expertise9,Misc.xml,keyed
+VSE.Expertise10,Very Skilled Professional,VSE.Expertise10,Misc.xml,keyed
+VSE.Expertise11,Almost Expert,VSE.Expertise11,Misc.xml,keyed
+VSE.Expertise12,Self-Proclaimed Expert,VSE.Expertise12,Misc.xml,keyed
+VSE.Expertise13,Expert,VSE.Expertise13,Misc.xml,keyed
+VSE.Expertise14,Strong Expert,VSE.Expertise14,Misc.xml,keyed
+VSE.Expertise15,Very Strong Expert,VSE.Expertise15,Misc.xml,keyed
+VSE.Expertise16,Colony-Known Expert,VSE.Expertise16,Misc.xml,keyed
+VSE.Expertise17,Region-Known Expert,VSE.Expertise17,Misc.xml,keyed
+VSE.Expertise18,Region-Leading Expert,VSE.Expertise18,Misc.xml,keyed
+VSE.Expertise19,Planet-Known Expert,VSE.Expertise19,Misc.xml,keyed
+VSE.Expertise20,Legendary Expert,VSE.Expertise20,Misc.xml,keyed
+VSE.Expertise,Expertise,VSE.Expertise,Misc.xml,keyed
+VSE.ForgetSpeed,Forgetting Speed,VSE.ForgetSpeed,Misc.xml,keyed
+VSE.Effects,Effects:,VSE.Effects,Misc.xml,keyed
+VSE.Effects.PerLevel,Effects (per level):,VSE.Effects.PerLevel,Misc.xml,keyed
+VSE.ExpertiseAvailable,Colonist can gain expertise,VSE.ExpertiseAvailable,Misc.xml,keyed
+VSE.ExpertiseAvailableMultiple,Colonists can gain expertise,VSE.ExpertiseAvailableMultiple,Misc.xml,keyed
+VSE.SelectExpertise,Select expertise,VSE.SelectExpertise,Misc.xml,keyed
+VSE.ExpertiseDesc,"Selecting an expertise will unlock a new skill that your pawn will level up, granting them powerful, but very specific bonuses.\nYou can only select {0} expertise, and only in skills your pawns is passionate about.",VSE.ExpertiseDesc,Misc.xml,keyed
+VSE.ExpertiseAvailableDesc,Your colonist has reached high enough level in a skill they are passionate about that they can gain expertise.\n\nConsider picking an expertise for them to gain new bonuses to the work type they are good at.\n\nColonists that can get expertise:\n\n,VSE.ExpertiseAvailableDesc,Misc.xml,keyed
+VSE.LearnsForgets,\n   - Learns {0}\n   - Forgets {1},VSE.LearnsForgets,Misc.xml,keyed
+VSE.LearnOther,\n   - Learns Others {0},VSE.LearnOther,Misc.xml,keyed
+VSE.NoPassion,No passion,VSE.NoPassion,Misc.xml,keyed
+VSE.SkillTooLow,Insufficient skill,VSE.SkillTooLow,Misc.xml,keyed
+VSE.AtMaxExpertise,At max expertise,VSE.AtMaxExpertise,Misc.xml,keyed
+VSE.ExpertiseOverlap,Expertise overlap,VSE.ExpertiseOverlap,Misc.xml,keyed
+VSE,Vanilla Skills Expanded,VSE,Misc.xml,keyed
+VSE.MaxExpertise,Maximum expertise per colonist:,VSE.MaxExpertise,Misc.xml,keyed
+VSE.AllowMultiCritical,Allow multiple critical passions,VSE.AllowMultiCritical,Misc.xml,keyed
+VSE.AllowMultiCritical.Desc,"If false, will ensure that only one Critical passion will generate per pawn, to avoid them overlapping and causing them both to be useless.",VSE.AllowMultiCritical.Desc,Misc.xml,keyed
+VSE.CriticalEffectPassions,Critical affects passions,VSE.CriticalEffectPassions,Misc.xml,keyed
+VSE.CriticalEffectPassions.Desc,"If false, the learn rate factor debuff on other skills from Critical will not effect other skills the pawn is passionate about.",VSE.CriticalEffectPassions.Desc,Misc.xml,keyed
+VSE.Commonalities,"Edit passion commonalities, groups are separate",VSE.Commonalities,Misc.xml,keyed
+VSE.Reset,Reset to default,VSE.Reset,Misc.xml,keyed
+VSE.Bad,Bad:,VSE.Bad,Misc.xml,keyed
+VSE.Good,Good:,VSE.Good,Misc.xml,keyed
+VSE.AllowExpertiseOverlap,Allow expertise overlap,VSE.AllowExpertiseOverlap,Misc.xml,keyed
+VSE.AllowExpertiseOverlap.Desc,"If false, then only 1 expertise can be chosen per skill, regardless of max expertise setting.",VSE.AllowExpertiseOverlap.Desc,Misc.xml,keyed
+VSE.EnableSkillLoss,Re-enable skill loss,VSE.EnableSkillLoss,Misc.xml,keyed
+VSE.EnableAlert,"Enable ""Expertise Available"" alert",VSE.EnableAlert,Misc.xml,keyed
+VSE.EnableSkillsLoss.Desc,"By default, Ducks' Insane Skills disables all skill loss. By selecting this option, this mod will override Ducks and enable it again. Use this if you still want to be able to take advantage of the forget speed changes in the new passions.",VSE.EnableSkillsLoss.Desc,Misc.xml,keyed
+VSE.MinSkillForExpertise,Minimum skill to get an expertise,VSE.MinSkillForExpertise,Misc.xml,keyed
+VSE.MinSkillForExpertiseDesc,The colonist will need to reach this skill level before being offered an expertise.,VSE.MinSkillForExpertiseDesc,Misc.xml,keyed
+VSE.StatMultiplier,Expertise stat factor / offset multiplier,VSE.StatMultiplier,Misc.xml,keyed
+VSE.StatMultiplierDesc,"Is our balance too easy? Too hard? Go bitch on Reddit! Errrr... I mean, change it with this slider! The effects expertise have on stats will be multiplied by this number, so 0.1 will make expertise super weak, while 5 will make them incredibly overpowered.",VSE.StatMultiplierDesc,Misc.xml,keyed
+VSE.GrowthMomentRandomPassions,Random passion chance in growth moments,VSE.GrowthMomentRandomPassions,Misc.xml,keyed
+VSE.GrowthMomentRandomPassionsDesc,"By default, 5% of the time a growth moment will select one of the skills that have no passions and assign either a Natural or an Apathy passion.",VSE.GrowthMomentRandomPassionsDesc,Misc.xml,keyed
+VSE_Passion,Passion: {0},VSE_Passion,Misc.xml,keyed
+Precision.label,Sharpshooting,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Precision.description,An expertise in accuracy when firing both high-tech and low-tech ranged weapons.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+CloseQuarters.label,Aiming,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+CloseQuarters.description,An expertise in aiming when firing both high-tech and low-tech ranged weapons.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Gunner.label,Reloading,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Gunner.description,An expertise in reloading both high-tech and low-tech ranged weapons.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Sniping.label,Sniping,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Sniping.description,An expertise in firing ranged weapons over much longer distances.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Sharp.label,Piercing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Sharp.description,An expertise in armor piercing when using sharp melee weapons.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Blunt.label,Dueling,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Blunt.description,An expertise in the fast-paced armed melee combat.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Striking.label,Striking,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Striking.description,An expertise in hitting accurately with melee attacks.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tamer.label,Taming,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tamer.description,An expertise in taming wild animals.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Rancher.label,Ranching,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Rancher.description,An expertise in ranching and animal produce gathering.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Hunter.label,Hunting,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Hunter.description,An expertise in the art of hunting.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Trainer.label,Handling,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Trainer.description,An expertise in handling and training colony animals.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+QualityExpert.label,Art Quality,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+QualityExpert.description,An expertise in creating works of art with increased quality.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+QuantityExpert.label,Art Quantity,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+QuantityExpert.description,An expertise in creating works of art quickly and efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Flooring.label,Flooring,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Flooring.description,An expertise in constructing floors.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Repairman.label,Repairing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Repairman.description,An expertise in repairing broken down and damaged structures.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Architect.label,Architecture,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Architect.description,An expertise in creating complex and beautiful buildings.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Foreman.label,Building,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Foreman.description,An expertise in constructing massive amounts of buildings quickly and efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Smoothing.label,Smoothing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Smoothing.description,An expertise in smoothing surfaces such as walls and floors.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Butcher.label,Butchering,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Butcher.description,An expertise in butchering dead animals.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+DrugChef.label,Drug Cooking,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+DrugChef.description,An expertise in creating drugs.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+TopChef.label,Food Hygiene,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+TopChef.description,An expertise in creating safe to consume meals in any environment.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+IndustrialChef.label,Feeding,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+IndustrialChef.description,An expertise in creating large amounts of meals to feed many people quickly.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+MechanoidExpert.label,Disassembler,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+MechanoidExpert.description,"An expertise in all things mechanoids, including shredding and disassembling them.",description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tailor.label,Tailoring,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tailor.description,An expertise in tailoring excellent clothes.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Weaponsmith.label,Weaponsmithing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Weaponsmith.description,An expertise in creating excellent weapons.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+IndustrialProcessExpert.label,Fabricating,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+IndustrialProcessExpert.description,An expertise in crafting components efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Surgeon.label,Surgery,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Surgeon.description,An expertise in performing safe and effective surgeries.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+BattlefieldMedic.label,First Aid,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+BattlefieldMedic.description,An expertise at rapid treatment and medical tend speed.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+InfectiousDiseaseExpert.label,Nursing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+InfectiousDiseaseExpert.description,"An expertise in caring for ill patients, suffering from various diseases.",description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Operating.label,Operating,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Operating.description,An expertise in performing surgeries quickly and efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Driller.label,Drilling,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Driller.description,An expertise in using a deep drill to mine resources more efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+OreExpert.label,Prospecting,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+OreExpert.description,An expertise in digging up ore and finding more of it.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tunneller.label,Tunnelling,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Tunneller.description,An expertise in digging massive tunnels and caverns.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Geologist.label,Geology,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Geologist.description,An expertise in rocks and obtaining more stone chunks when digging.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Pharmacologist.label,Synthesizing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Pharmacologist.description,An expertise in creating complex drugs efficiently.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Hacker.label,Hacking,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Hacker.description,An expertise in hacking terminals and ancient systems.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Researcher.label,Researching,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Researcher.description,An expertise in researching new technologies.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Writing.label,Writing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Writing.description,An expertise in both reading and writing books in a timely manner.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_DarkStudy.label,Dark study,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_DarkStudy.description,An expertise in analyzing and learning from entities and absorbing dark knowledge.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Forager.label,Foraging,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Forager.description,An expertise in living off the land and foraging the fruits of the forest.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Treespeaker.label,Pruning,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Treespeaker.description,An expertise in communicating psychically and pruning the Gauranlen trees.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+HarvesterCareful.label,Harvesting,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+HarvesterCareful.description,An expertise in ensuring no parts of the plant are wasted on harvesting.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+GreenThumb.label,Sowing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+GreenThumb.description,An expertise in quickly sowing and harvesting large amounts of plants.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Warden.label,Wardening,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Warden.description,"An expertise in handling prisoners and slaves, recruiting them and arresting them if needed.",description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Negotiator.label,Negotiating,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Negotiator.description,An expertise in handling negotiations and trading.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Proselytizer.label,Proselytizing,label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+Proselytizer.description,An expertise in converting others to their own ways of thinking.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Lovin.label,Lovin',label,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+VSE_Lovin.description,An expertise in lovin’ and social impact.,description,VSE.Expertise.ExpertiseDef/Expertise.xml,def
+None.label,none,label,VSE.Passions.PassionDef/Passions.xml,def
+None.description,no passion,description,VSE.Passions.PassionDef/Passions.xml,def
+Minor.label,interested,label,VSE.Passions.PassionDef/Passions.xml,def
+Minor.description,"This skill is found enjoyable, but it’s more of a hobby than a calling.",description,VSE.Passions.PassionDef/Passions.xml,def
+Major.label,burning,label,VSE.Passions.PassionDef/Passions.xml,def
+Major.description,"A defining skill, driven by deep passion or a pivotal moment in their past.",description,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Apathy.label,apathy,label,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Apathy.description,Absolutely no interest in this skill.,description,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Natural.label,natural,label,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Natural.description,"Naturally good at this skill. However, this means they won’t keep up their practice.",description,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Critical.label,critical,label,VSE.Passions.PassionDef/Passions.xml,def
+VSE_Critical.description,"This skill is extremely important in some way, most likely due to events in their past.",description,VSE.Passions.PassionDef/Passions.xml,def
+VSE_ArmorPenetrationFactor.label,armor penetration factor,label,StatDef/Stats.xml,def
+VSE_ArmorPenetrationFactor.description,A multiplier applied to armor penetration of attacks by this pawn.,description,StatDef/Stats.xml,def
+VSE_MeleeCooldownFactor.label,melee cooldown factor,label,StatDef/Stats.xml,def
+VSE_MeleeCooldownFactor.description,A multiplier applied to the cooldown of melee attacks by this pawn.,description,StatDef/Stats.xml,def
+VSE_AttackOnFailChanceFactor.label,attack on tame fail chance factor,label,StatDef/Stats.xml,def
+VSE_AttackOnFailChanceFactor.description,A modifier applied to the chance for failed taming attempts to result in animals attacking this pawn.,description,StatDef/Stats.xml,def
+VSE_ArtQuality.label,art quality bonus,label,StatDef/Stats.xml,def
+VSE_ArtQuality.description,A bonus to the quality of art produced by this pawn.,description,StatDef/Stats.xml,def
+VSE_CraftingQuality.label,crafting quality bonus,label,StatDef/Stats.xml,def
+VSE_CraftingQuality.description,A bonus to the quality of non-art crafts produced by this pawn.,description,StatDef/Stats.xml,def
+VSE_ArtSpeed.label,art creation speed,label,StatDef/Stats.xml,def
+VSE_ArtSpeed.description,A multiplier to how fast this pawn creates art.,description,StatDef/Stats.xml,def
+VSE_RoofSpeed.label,roof work speed,label,StatDef/Stats.xml,def
+VSE_RoofSpeed.description,How fast this pawn can work on roofs.,description,StatDef/Stats.xml,def
+VSE_FloorSpeed.label,floor work speed,label,StatDef/Stats.xml,def
+VSE_FloorSpeed.description,How fast this pawn can work on floors.,description,StatDef/Stats.xml,def
+VSE_RepairSpeed.label,repair speed,label,StatDef/Stats.xml,def
+VSE_RepairSpeed.description,How fast this pawn can do repairs.,description,StatDef/Stats.xml,def
+VSE_ConstructQuality.label,construction quality bonus,label,StatDef/Stats.xml,def
+VSE_ConstructQuality.description,A bonus added to the quality of things built by this pawn.,description,StatDef/Stats.xml,def
+VSE_TailoringSpeed.label,tailoring speed,label,StatDef/Stats.xml,def
+VSE_TailoringSpeed.description,How fast this pawn tailors clothes.,description,StatDef/Stats.xml,def
+VSE_WeaponCreationSpeed.label,weapon creation speed,label,StatDef/Stats.xml,def
+VSE_WeaponCreationSpeed.description,How fast this pawn can create weapons.,description,StatDef/Stats.xml,def
+VSE_ComponentCraftingSpeed.label,component crafting speed,label,StatDef/Stats.xml,def
+VSE_ComponentCraftingSpeed.description,How fast this pawn can create components (both industrial and advanced).,description,StatDef/Stats.xml,def
+VSE_RockChunkChance.label,rock chunk chance,label,StatDef/Stats.xml,def
+VSE_RockChunkChance.description,The chance for this pawn to get a chunk when mining natural rock.,description,StatDef/Stats.xml,def
+VSE_RecruitRate.label,recruitment rate,label,StatDef/Stats.xml,def
+VSE_RecruitRate.description,How fast this pawn can recruit prisoners to the colony.,description,StatDef/Stats.xml,def
+VSE_PeaceTalksChance.label,peace talks success chance,label,StatDef/Stats.xml,def
+VSE_PeaceTalksChance.description,How likely this pawn is to succeed at peace talks.,description,StatDef/Stats.xml,def

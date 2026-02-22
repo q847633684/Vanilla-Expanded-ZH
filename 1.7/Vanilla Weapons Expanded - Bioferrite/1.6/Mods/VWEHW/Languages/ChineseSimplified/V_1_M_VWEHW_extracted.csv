@@ -1,0 +1,7 @@
+key,text,tag,file,type
+VWEB_HeavyIncinerator.label,heavy incinerator,label,ThingDef/HeavyRangedIndustrial.xml,def
+VWEB_HeavyIncinerator.description,"A powerful, experimental incinerator that can spray a stream of flame into an area. It can shoot in an arc over allies without harming them. The flame burns off rapidly, so it will only ignite the most flammable targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nWhile the main incinerator flamethrower has limited number of uses, the weapon also comes equipped with a bioferrite-powered vaporizer unit which generates a massive blast of superheated plasma from a pressurized bioferrite charge, destroying everything hit. The vaporizer unit must be refueled after each use.",description,ThingDef/HeavyRangedIndustrial.xml,def
+VWEB_HeavyIncinerator.tools.0.label,stock,label,ThingDef/HeavyRangedIndustrial.xml,def
+VWEB_HeavyIncinerator.tools.1.label,barrel,label,ThingDef/HeavyRangedIndustrial.xml,def
+VWEB_HeavyIncineratorVaporizer.label,heavy incinerator vaporizer,label,AbilityDef/HeavyRangedIndustrial.xml,def
+VWEB_HeavyIncineratorVaporizer.description,"Fire a short-ranged vaporizer stream, melting everything in front of the user. This burner works a little bit differently than the hellcat one. Instead of being a typical firespew, it’s more like an Incinerator arc.",description,AbilityDef/HeavyRangedIndustrial.xml,def

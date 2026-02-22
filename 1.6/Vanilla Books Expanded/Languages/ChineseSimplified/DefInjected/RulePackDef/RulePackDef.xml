@@ -502,7 +502,7 @@
   </ArtDescription_BookMiningName.rulePack.rulesStrings>
   <ArtDescription_BookShooting.rulePack.rulesStrings>
     <!--EN: physical_description_root->[ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the shooting skill.-->
-    <li>physical_description_root-&gt;[ShootingSkill][maybe_cont]。 [middle_book] [ShootingSkill][maybe_cont]。 [ending] [ShootingSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。学习这本书可以提高射击技巧。</li>
+    <li>physical_description_root-&gt;[ShootingSkill][maybe_cont]。[middle_book][maybe_cont][ShootingSkill]。[ending][ShootingSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加射击技能经验。</li>
   </ArtDescription_BookShooting.rulePack.rulesStrings>
   <ArtDescription_BookShootingDesc.rulePack.rulesStrings>
     <!--EN: r_art_name->[first_chapters] [ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. This book is [book_context][maybe_writingstyles]. Studying this book increases the shooting skill.-->
@@ -606,79 +606,79 @@
   </ArtDescription_BookSocialName.rulePack.rulesStrings>
   <ArtDescription_Newspaper.rulePack.rulesStrings>
     <!--EN: r_art_name->[Newspapers] of [nearnameinitial] [political_union_outlander]-->
-    <li>[nearnameinitial] [political_union_outlander] 的 r_art_name-&gt;[Newspapers]</li>
+    <li>r_art_name-&gt;有关[nearnameinitial][political_union_outlander]的[Newspapers]</li>
     <!--EN: r_art_name->[Newspapers] of [nearnameinitial] [political_adjective] [political_union_outlander]-->
-    <li>[nearnameinitial] [political_adjective] [political_union_outlander] 的 r_art_name-&gt;[Newspapers]</li>
+    <li>r_art_name-&gt;有关[nearnameinitial][political_adjective][political_union_outlander]的[Newspapers]</li>
     <!--EN: r_art_name->[Newspapers] of [political_union_outlander] of [nearnameinitial]-->
-    <li>[nearnameinitial] [political_union_outlander] 的 r_art_name-&gt;[Newspapers]</li>
+    <li>r_art_name-&gt;有关[nearnameinitial]的[political_union_outlander]的[Newspapers]</li>
     <!--EN: r_art_name->[PeopleBadass]'s [Newspapers]-->
-    <li>r_art_name-&gt;[PeopleBadass] 的 [Newspapers]</li>
+    <li>r_art_name-&gt;[PeopleBadass]的[Newspapers]</li>
     <!--EN: r_art_name->[Newspapers] of [PlaceOutlander]-->
-    <li>r_art_name-&gt;[Newspapers] [PlaceOutlander]</li>
+    <li>r_art_name-&gt;有关[PlaceOutlander]的[Newspapers]</li>
     <!--EN: r_art_name->[Newspapers] of [Direction] [PlaceOutlander]-->
-    <li>[Direction] [PlaceOutlander] 的 r_art_name-&gt;[Newspapers]</li>
+    <li>r_art_name-&gt;有关[Direction][PlaceOutlander]的[Newspapers]</li>
     <!--EN: r_art_name->[Newspapers] [Digit]-->
-    <li>r_art_name-&gt;[Newspapers] [Digit]</li>
+    <li>r_art_name-&gt;[Newspapers][Digit]</li>
     <!--EN: r_art_name->[Newspapers] [maybe_letter][Digit][maybe_letter]-->
-    <li>r_art_name-&gt;[Newspapers] [maybe_letter][Digit][maybe_letter]</li>
+    <li>r_art_name-&gt;[Newspapers][maybe_letter][Digit][maybe_letter]</li>
     <!--EN: r_art_name->[Newspapers] [maybe_letter][Digit][Digit][maybe_letter]-->
     <li>r_art_name-&gt;[Newspapers][maybe_letter][Digit][Digit][maybe_letter]</li>
     <!--EN: r_art_name->[Newspapers] [maybe_letter][Digit][Digit][Digit][maybe_letter]-->
     <li>r_art_name-&gt;[Newspapers][maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
     <!--EN: r_art_name->[Newspapers] [maybe_letter][RomanNumeral][maybe_letter]-->
-    <li>r_art_name-&gt;[Newspapers] [maybe_letter][RomanNumeral][maybe_letter]</li>
+    <li>r_art_name-&gt;[Newspapers][maybe_letter][RomanNumeral][maybe_letter]</li>
     <!--EN: r_art_name->[ANYPAWN_nameIndef]'s [Newspapers]-->
-    <li>r_art_name-&gt;[ANYPAWN_nameIndef] 的 [Newspapers]</li>
+    <li>r_art_name-&gt;[ANYPAWN_nameIndef]的[Newspapers]</li>
     <!--EN: title->[desc]-->
     <li>title-&gt;[desc]</li>
   </ArtDescription_Newspaper.rulePack.rulesStrings>
   <ArtDescription_NewspaperDesc.rulePack.rulesStrings>
     <!--EN: r_art_name->This newspaper goes indepth about the events of the last couple of days.-->
-    <li>r_art_name-&gt;本报深入报道了过去几天发生的事件。</li>
+    <li>r_art_name-&gt;这份报纸深入报道了过去几天发生的事件。</li>
   </ArtDescription_NewspaperDesc.rulePack.rulesStrings>
   <VBE_BookDescription_Animals.rulePack.rulesStrings>
     <!--EN: r_animalsbook_desc->[cover] [first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being an animals book, reading it will increase the knowledge of animals.-->
-    <li>r_animalsbook_desc-&gt;[cover][first_chapters][AnimalsSkill][maybe_cont]。 [middle_book] [AnimalsSkill][maybe_cont]。 [ending] [AnimalsSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。作为一本动物书籍，阅读它会增加动物的知识。</li>
+    <li>r_animalsbook_desc-&gt;[cover][first_chapters][AnimalsSkill][maybe_cont]。[middle_book][AnimalsSkill][maybe_cont]。[ending][AnimalsSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加驯兽技能经验。</li>
   </VBE_BookDescription_Animals.rulePack.rulesStrings>
   <VBE_BookDescription_Art.rulePack.rulesStrings>
     <!--EN: r_artbook_desc->[cover] [first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being an art book, reading it will increase the knowledge of art.-->
-    <li>r_artbook_desc-&gt;[cover][first_chapters][ArtSkill][maybe_cont]。 [middle_book] [ArtSkill][maybe_cont]。 [ending] [ArtSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。作为一本艺术书籍，阅读它会增长艺术知识。</li>
+    <li>r_artbook_desc-&gt;[cover][first_chapters][ArtSkill][maybe_cont]。[middle_book][ArtSkill][maybe_cont]。[ending][ArtSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加艺术技能经验。</li>
   </VBE_BookDescription_Art.rulePack.rulesStrings>
   <VBE_BookDescription_Construction.rulePack.rulesStrings>
     <!--EN: r_constructionbook_desc->[cover] [first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a construction book, reading it will increase the knowledge of construction.-->
-    <li>r_constructionbook_desc-&gt;[cover][first_chapters][ConstructionSkill][maybe_cont]。 [middle_book] [ConstructionSkill][maybe_cont]。 [ending] [ConstructionSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。作为一本建筑书籍，阅读它会增加建筑知识。</li>
+    <li>r_constructionbook_desc-&gt;[cover][first_chapters][ConstructionSkill][maybe_cont]。[middle_book][ConstructionSkill][maybe_cont]。[ending][ConstructionSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加建造技能经验。</li>
   </VBE_BookDescription_Construction.rulePack.rulesStrings>
   <VBE_BookDescription_Cooking.rulePack.rulesStrings>
     <!--EN: r_cookingbook_desc->[cover] [first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the cooking skill.-->
-    <li>r_cookingbook_desc-&gt;[cover][first_chapters][CookingSkill][maybe_cont]。 [middle_book] [CookingSkill][maybe_cont]。 [ending] [CookingSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。读这本书可以提高烹饪技巧。</li>
+    <li>r_cookingbook_desc-&gt;[cover][first_chapters][CookingSkill][maybe_cont]。[middle_book][CookingSkill][maybe_cont]。[ending][CookingSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加烹饪技能经验。</li>
   </VBE_BookDescription_Cooking.rulePack.rulesStrings>
   <VBE_BookDescription_Crafting.rulePack.rulesStrings>
     <!--EN: r_craftingbook_desc->[cover] [first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the crafting skill.-->
-    <li>r_craftingbook_desc-&gt;[cover][first_chapters][CraftingSkill][maybe_cont]。 [middle_book] [CraftingSkill][maybe_cont]。 [ending] [CraftingSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。阅读本书将提高制作技能。</li>
+    <li>r_craftingbook_desc-&gt;[cover][first_chapters][CraftingSkill][maybe_cont]。[middle_book][CraftingSkill][maybe_cont]。[ending][CraftingSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加手工技能经验。</li>
   </VBE_BookDescription_Crafting.rulePack.rulesStrings>
   <VBE_BookDescription_Growing.rulePack.rulesStrings>
     <!--EN: r_growingbook_desc->[cover] [first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the growing skill.-->
-    <li>r_growingbook_desc-&gt;[cover][first_chapters][GrowingSkill][maybe_cont]。 [middle_book] [GrowingSkill][maybe_cont]。 [ending] [GrowingSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。学习这本书可以提高技能。</li>
+    <li>r_growingbook_desc-&gt;[cover][first_chapters][GrowingSkill][maybe_cont]。[middle_book][GrowingSkill][maybe_cont]。[ending][GrowingSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加种植技能经验。</li>
   </VBE_BookDescription_Growing.rulePack.rulesStrings>
   <VBE_BookDescription_Intellectual.rulePack.rulesStrings>
     <!--EN: r_intellectualbook_desc->[cover] [first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the intellectual skill.-->
-    <li>r_intellectualbook_desc-&gt;[cover][first_chapters][IntellectualSkill][maybe_cont]。 [middle_book] [IntellectualSkill][maybe_cont]。 [ending] [IntellectualSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。阅读本书将提高智力。</li>
+    <li>r_intellectualbook_desc-&gt;[cover][first_chapters][IntellectualSkill][maybe_cont]。[middle_book][IntellectualSkill][maybe_cont]。[ending][IntellectualSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加智识技能经验。</li>
   </VBE_BookDescription_Intellectual.rulePack.rulesStrings>
   <VBE_BookDescription_Medical.rulePack.rulesStrings>
     <!--EN: r_medicalbook_desc->[cover] [first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Studying this book increases the medical skill.-->
-    <li>r_medicalbook_desc-&gt;[cover][first_chapters][MedicalSkill][maybe_cont]。 [middle_book] [MedicalSkill][maybe_cont]。 [ending] [MedicalSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。学习这本书可以提高医疗技能。</li>
+    <li>r_medicalbook_desc-&gt;[cover][first_chapters][MedicalSkill][maybe_cont]。[middle_book][MedicalSkill][maybe_cont]。[ending][MedicalSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加医疗技能经验。</li>
   </VBE_BookDescription_Medical.rulePack.rulesStrings>
   <VBE_BookDescription_Melee.rulePack.rulesStrings>
     <!--EN: r_meleebook_desc->[cover] [first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a melee book, reading it will increase the knowledge of melee combat.-->
-    <li>r_meleebook_desc-&gt;[cover][first_chapters][MeleeSkill][maybe_cont]。 [middle_book] [MeleeSkill][maybe_cont]。 [ending] [MeleeSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。作为一本近战书，阅读它会增加近战战斗的知识。</li>
+    <li>r_meleebook_desc-&gt;[cover][first_chapters][MeleeSkill][maybe_cont]。[middle_book][MeleeSkill][maybe_cont]。[ending][MeleeSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加格斗技能经验。</li>
   </VBE_BookDescription_Melee.rulePack.rulesStrings>
   <VBE_BookDescription_Mining.rulePack.rulesStrings>
     <!--EN: r_miningbook_desc->[cover] [first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Reading this book will increase the mining skill.-->
-    <li>r_miningbook_desc-&gt;[cover][first_chapters][MiningSkill][maybe_cont]。 [middle_book] [MiningSkill][maybe_cont]。 [ending] [MiningSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。阅读本书将提高采矿技能。</li>
+    <li>r_miningbook_desc-&gt;[cover][first_chapters][MiningSkill][maybe_cont]。[middle_book][MiningSkill][maybe_cont]。[ending][MiningSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加采矿技能经验。</li>
   </VBE_BookDescription_Mining.rulePack.rulesStrings>
   <VBE_BookDescription_Social.rulePack.rulesStrings>
     <!--EN: r_socialbook_desc->[cover] [first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. This [book] is [book-context][maybe_writingstyles]. Being a social book, reading it will increase the knowledge of social.-->
-    <li>r_socialbook_desc-&gt;[cover][first_chapters][SocialSkill][maybe_cont]。 [middle_book] [SocialSkill][maybe_cont]。 [ending] [SocialSkill][maybe_cont]。此 [book] 是 [book-context][maybe_writingstyles]。作为一本社交书籍，阅读它会增长社交知识。</li>
+    <li>r_socialbook_desc-&gt;[cover][first_chapters][SocialSkill][maybe_cont]。[middle_book][SocialSkill][maybe_cont]。[ending][SocialSkill][maybe_cont]。这本[book][book_context][maybe_writingstyles]。学习这本书可以增加社交技能经验。</li>
   </VBE_BookDescription_Social.rulePack.rulesStrings>
   <VBE_BookUtility.rulePack.rulesStrings>
     <!--EN: maybe_adjective->-->
@@ -696,255 +696,255 @@
     <!--EN: Adjective->[AdjectiveAngsty]-->
     <li>Adjective-&gt;[AdjectiveAngsty]</li>
     <!--EN: cover->the cover of this book [depicts] [image]-->
-    <li>cover-&gt;本书的封面 [depicts] [image]</li>
+    <li>cover-&gt;该书的封面[depicts][image]</li>
     <!--EN: cover->this book's cover bears a [depiction] of [image]-->
-    <li>cover-&gt;本书封面的 [depiction] 为 [image]</li>
+    <li>cover-&gt;该书的封面承载了[image]的[depiction]</li>
     <!--EN: cover->on this book's cover is a [depiction] of [image]-->
-    <li>cover-&gt;这本书的封面是 [depiction] [image]</li>
+    <li>cover-&gt;该书的封面是一个[image]的[depiction]</li>
     <!--EN: first_chapters->the first few chapters of this book describe the use of-->
-    <li>first_chapters-&gt;本书的前几章描述了</li>
+    <li>first_chapters-&gt;该书的开始几章描述了用于</li>
     <!--EN: first_chapters->first part of the book goes in detail about-->
-    <li>first_chapters-&gt;本书的第一部分详细介绍了</li>
+    <li>first_chapters-&gt;该书的第一部分详细解释了</li>
     <!--EN: first_chapters->first few pages describe the use of-->
-    <li>first_chapters-&gt;前几页描述了</li>
+    <li>first_chapters-&gt;该书的开始几页描述了用于</li>
     <!--EN: first_chapters->the beginning of the book revolves around-->
-    <li>first_chapters-&gt;本书的开头围绕</li>
+    <li>first_chapters-&gt;该书的开头部分详细探讨了</li>
     <!--EN: first_chapters->the book starts off with-->
-    <li>first_chapters-&gt;这本书开头是</li>
+    <li>first_chapters-&gt;该书的开头是</li>
     <!--EN: first_chapters->the beginning is about-->
-    <li>first_chapters-&gt;开头是关于</li>
+    <li>first_chapters-&gt;该书的开头是关于</li>
     <!--EN: maybe_cont(p=2)->-->
     <li>maybe_cont(p=2)-&gt;</li>
     <!--EN: maybe_cont-> within the context of [ConceptAny]-->
-    <li>maybe_cont-&gt; 在 [ConceptAny] 范围内</li>
+    <li>maybe_cont-&gt;在[ConceptAny]的范围内</li>
     <!--EN: maybe_cont-> in a [AdjectiveBadass] tone-->
-    <li>maybe_cont-&gt; 以 [AdjectiveBadass] 语气</li>
+    <li>maybe_cont-&gt;以[AdjectiveBadass]语气</li>
     <!--EN: maybe_cont-> and the importance of [ConceptAny]-->
-    <li>maybe_cont-&gt; 以及 [ConceptAny] 的重要性</li>
+    <li>maybe_cont-&gt;和[ConceptAny]的重要性</li>
     <!--EN: maybe_cont-> with emphasis on the use of [TerrainFeature]-->
-    <li>maybe_cont-&gt;，重点是使用 [TerrainFeature]</li>
+    <li>maybe_cont-&gt;强调了[TerrainFeature]的用处</li>
     <!--EN: maybe_cont-> and how [Vegetable]s can be used to improve it-->
-    <li>maybe_cont-&gt; 以及如何使用 [Vegetable] 来改进它</li>
+    <li>maybe_cont-&gt;以及如何用[Vegetable]来改进它</li>
     <!--EN: maybe_cont-> during the game of [Game]-->
-    <li>maybe_cont-&gt; 在 [Game] 比赛期间</li>
+    <li>maybe_cont-&gt;在[Game]的比赛中</li>
     <!--EN: maybe_cont-> within the world of the [Animal]s-->
-    <li>maybe_cont-&gt; 在 [Animal] 的世界里</li>
+    <li>maybe_cont-&gt;在[Animal]的世界中</li>
     <!--EN: maybe_cont-> and the beauty of [Gore]-->
-    <li>maybe_cont-&gt; 和 [Gore] 的美丽</li>
+    <li>maybe_cont-&gt;以及[Gore]的美</li>
     <!--EN: maybe_cont-> and compares it to a [NaturalObject]-->
-    <li>maybe_cont-&gt; 并将其与 [NaturalObject] 进行比较</li>
+    <li>maybe_cont-&gt;并把它与[NaturalObject]相比</li>
     <!--EN: maybe_cont-> from the perspective of the [Enemy]-->
-    <li>maybe_cont-&gt; 从 [Enemy] 的角度来看</li>
+    <li>maybe_cont-&gt;从[Enemy]的视角来看</li>
     <!--EN: maybe_cont-> based on experience from the middle of a [Community]-->
-    <li>maybe_cont-&gt; 基于 [Community] 中间的经验</li>
+    <li>maybe_cont-&gt;基于在[Community]之中积累的经验</li>
     <!--EN: maybe_cont->, with personal insights from a [Character]-->
-    <li>maybe_cont-&gt;，来自 [Character] 的个人见解</li>
+    <li>maybe_cont-&gt;，以及对[Character]的个人见解</li>
     <!--EN: maybe_cont->, based on the interview with the minor celebrity [NamePerson]-->
-    <li>maybe_cont-&gt;，基于对小名人的采访 [NamePerson]</li>
+    <li>maybe_cont-&gt;，基于与小明星[NamePerson]的会面</li>
     <!--EN: maybe_cont->, and how color [Color] was always associated with it-->
-    <li>maybe_cont-&gt;，以及颜色 [Color] 如何始终与其关联</li>
+    <li>maybe_cont-&gt;，和[Color]为何与其息息相关</li>
     <!--EN: maybe_cont->, and how [Animal] can be used to improve it-->
-    <li>maybe_cont-&gt;，以及如何使用 [Animal] 来改进它</li>
+    <li>maybe_cont-&gt;以及如何用[Animal]来改进它</li>
     <!--EN: maybe_cont->, describing various applications of [Weapon] within that field-->
-    <li>maybe_cont-&gt;，描述 [Weapon] 在该领域内的各种应用</li>
+    <li>maybe_cont-&gt;，描述了在该领域中[Weapon]的应用</li>
     <!--EN: maybe_cont->, based on the various surveys performed with [AdjectiveFriendly] [PersonJob]s-->
-    <li>maybe_cont-&gt;，基于 [AdjectiveFriendly] [PersonJob] 进行的各种调查</li>
+    <li>maybe_cont-&gt;，基于和[AdjectiveFriendly][PersonJob]们进行的各项调查</li>
     <!--EN: maybe_cont-> and the importance of [Apparel]-->
-    <li>maybe_cont-&gt; 以及 [Apparel] 的重要性</li>
+    <li>maybe_cont-&gt;和[Apparel]的重要性</li>
     <!--EN: maybe_cont-> and how [ConceptPositive] and [ConceptPositive] improve it-->
-    <li>maybe_cont-&gt; 以及 [ConceptPositive] 和 [ConceptPositive] 如何改进它</li>
+    <li>maybe_cont-&gt;还有如何用[ConceptPositive][ConceptPositive]改进它</li>
     <!--EN: maybe_cont-> written in a [bookstyle_adj] style-->
-    <li>maybe_cont-&gt; 以 [bookstyle_adj] 风格编写</li>
+    <li>maybe_cont-&gt;用[bookstyle_adj]风格写就</li>
     <!--EN: middle_book->The author then proceeds to describe-->
-    <li>middle_book-&gt;作者接着描述</li>
+    <li>middle_book-&gt;作者继续描述了</li>
     <!--EN: middle_book->The following chapters allow the reader to contemplate on-->
-    <li>middle_book-&gt;以下章节允许读者思考</li>
+    <li>middle_book-&gt;接下来的几张让读者思考</li>
     <!--EN: middle_book->The next chapters discuss-->
-    <li>middle_book-&gt;接下来的章节讨论</li>
+    <li>middle_book-&gt;下一张探讨了</li>
     <!--EN: middle_book->After that, the author went to great lengths to explain-->
-    <li>middle_book-&gt;之后作者又煞费苦心地解释</li>
+    <li>middle_book-&gt;随后，作者用大量篇幅解释了</li>
     <!--EN: middle_book->The middle of the book speaks about-->
-    <li>middle_book-&gt;书的中间谈到</li>
+    <li>middle_book-&gt;书的中间部分讲述了</li>
     <!--EN: middle_book->The next bit is about-->
-    <li>middle_book-&gt;下一点是关于</li>
+    <li>middle_book-&gt;之后是关于</li>
     <!--EN: ending->Near the ending, author summarizes-->
-    <li>ending-&gt;接近尾声，作者总结</li>
+    <li>ending-&gt;在结尾处，作者总结了</li>
     <!--EN: ending->By the end of the book, emphasis is placed on-->
-    <li>ending-&gt;在本书的结尾，重点放在</li>
+    <li>ending-&gt;在书的最后，强调了</li>
     <!--EN: ending->The last few chapters mention-->
-    <li>ending-&gt;最后几章提到</li>
+    <li>ending-&gt;最后几章提及了</li>
     <!--EN: ending->Ending of the book is about-->
-    <li>ending-&gt;本书的结尾是关于</li>
+    <li>ending-&gt;书的结尾是关于</li>
     <!--EN: ending->The final chapter revolves around-->
-    <li>ending-&gt;最后一章围绕</li>
+    <li>ending-&gt;最后一章分析了</li>
     <!--EN: ending->The last page mentions-->
-    <li>ending-&gt;最后一页提到</li>
+    <li>ending-&gt;最后几页提及了</li>
     <!--EN: ending->The last part of the book is about-->
-    <li>ending-&gt;本书的最后一部分是关于</li>
+    <li>ending-&gt;书的结尾部分是关于</li>
     <!--EN: ending->Author decided to devote the last part of the book to-->
-    <li>ending-&gt;作者决定将本书的最后一部分用于</li>
+    <li>ending-&gt;作者在结尾处写了</li>
     <!--EN: book_context->infused with the idea of [ConceptAny] and is done in a [bookstyle_adj] style-->
-    <li>book_context-&gt;融入了 [ConceptAny] 的理念，并以 [bookstyle_adj] 风格完成</li>
+    <li>book_context-&gt;注入了[ConceptAny]的概念并以[bookstyle_adj]手法写成。</li>
     <!--EN: book_context->written in a [bookstyle_adj] style-->
-    <li>book_context-&gt;以 [bookstyle_adj] 风格编写</li>
+    <li>book_context-&gt;应用了[bookstyle_adj]手法</li>
     <!--EN: book_context->executed in a [bookstyle_adj] style-->
-    <li>book_context-&gt;以 [bookstyle_adj] 风格执行</li>
+    <li>book_context-&gt;表现了[bookstyle_adj]手法</li>
     <!--EN: book_context->[bookstyle_adj] with [bookstyle_adj] elements-->
-    <li>book_context-&gt;[bookstyle_adj] 与 [bookstyle_adj] 元素</li>
+    <li>book_context-&gt;[bookstyle_adj]和[bookstyle_adj]元素</li>
     <!--EN: book_context->[bookstyle_adj]-->
     <li>book_context-&gt;[bookstyle_adj]</li>
     <!--EN: book_context->[bookstyle_adj] yet [bookstyle_adj]-->
-    <li>book_context-&gt;[bookstyle_adj]还[bookstyle_adj]</li>
+    <li>book_context-&gt;[bookstyle_adj]却[bookstyle_adj]</li>
     <!--EN: maybe_writingstyles(p=3)->-->
     <li>maybe_writingstyles(p=3)-&gt;</li>
     <!--EN: maybe_writingstyles->, using a large amount of [bookstyle]-->
-    <li>maybe_writingstyles-&gt;，使用大量 [bookstyle]</li>
+    <li>maybe_writingstyles-&gt;，使用了大量[bookstyle]</li>
     <!--EN: maybe_writingstyles->, riddled with [bookstyle]-->
-    <li>maybe_writingstyles-&gt;，充满了 [bookstyle]</li>
+    <li>maybe_writingstyles-&gt;，用[bookstyle]装点</li>
     <!--EN: maybe_writingstyles->, without using [bookstyle] even once-->
-    <li>maybe_writingstyles-&gt;，甚至一次都不使用 [bookstyle]</li>
+    <li>maybe_writingstyles-&gt;，没有丝毫的[bookstyle]</li>
     <!--EN: maybe_writingstyles->, written only using [bookstyle]-->
-    <li>maybe_writingstyles-&gt;，仅使用 [bookstyle] 写入</li>
+    <li>maybe_writingstyles-&gt;，只使用[bookstyle]的手法</li>
     <!--EN: maybe_writingstyles->, with a high amount of [bookstyle] and absolutely no [bookstyle]-->
-    <li>maybe_writingstyles-&gt;，具有大量 [bookstyle]，并且绝对没有 [bookstyle]</li>
+    <li>maybe_writingstyles-&gt;，加入了大量[bookstyle]并且没有一丝[bookstyle]</li>
     <!--EN: maybe_writingstyles->. Author used a number of [bookstyle], mixed in with [bookstyle] and [bookstyle]-->
-    <li>maybe_writingstyles-&gt;。作者使用了多个 [bookstyle]，与 [bookstyle] 和 [bookstyle] 混合在一起</li>
+    <li>maybe_writingstyles-&gt;，作者适当使用了[bookstyle]，混入了部分的[bookstyle]和[bookstyle]</li>
     <!--EN: maybe_writingstyles-> with a number of [bookstyle_adj] [bookstyle]-->
-    <li>maybe_writingstyles-&gt; 具有多个 [bookstyle_adj] [bookstyle]</li>
+    <li>maybe_writingstyles-&gt;带有一些[bookstyle]和[bookstyle]</li>
     <!--EN: book->book-->
     <li>book-&gt;书</li>
     <!--EN: book->work-->
-    <li>book-&gt;工作</li>
+    <li>book-&gt;作品</li>
     <!--EN: book->piece of writing-->
     <li>book-&gt;文章</li>
     <!--EN: book->work of writing-->
-    <li>book-&gt;写作工作</li>
+    <li>book-&gt;书籍</li>
     <!--EN: book->text-->
-    <li>book-&gt;文本</li>
+    <li>book-&gt;图书</li>
     <!--EN: book_general->The purpose of this [book] is to explain in depth-->
-    <li>book_general-&gt;此[book]的目的是深入解释</li>
+    <li>book_general-&gt;该[book]的目的在于详细解释</li>
     <!--EN: book_general->This [book] provides the reader with insight into-->
-    <li>book_general-&gt;此 [book] 让读者深入了解</li>
+    <li>book_general-&gt;该[book]给读者提供了灵感于</li>
     <!--EN: book_general->Reading this [book] gives valuable information on-->
-    <li>book_general-&gt;阅读本文 [book] 可以提供有关以下方面的宝贵信息</li>
+    <li>book_general-&gt;该[book]提供了宝贵的信息于</li>
     <!--EN: book_general->This [book] is about-->
-    <li>book_general-&gt;此 [book] 是关于</li>
+    <li>book_general-&gt;该[book]是关于</li>
     <!--EN: book_general->Author when writing this [book] wanted readers to focus on-->
-    <li>book_general-&gt;作者在撰写本文时 [book] 希望读者关注</li>
+    <li>book_general-&gt;该[book]的作者希望读者关注</li>
     <!--EN: maybe_ShootingSkill->-->
     <li>maybe_ShootingSkill-&gt;</li>
     <!--EN: maybe_ShootingSkill-> and [ShootingSkill]-->
-    <li>maybe_ShootingSkill-&gt; 和 [ShootingSkill]</li>
+    <li>maybe_ShootingSkill-&gt;和[ShootingSkill]</li>
     <!--EN: maybe_ShootingSkill-> as well as [ShootingSkill]-->
-    <li>maybe_ShootingSkill-&gt; 以及 [ShootingSkill]</li>
+    <li>maybe_ShootingSkill-&gt;以及[ShootingSkill]</li>
     <!--EN: maybe_AnimalsSkill->-->
     <li>maybe_AnimalsSkill-&gt;</li>
     <!--EN: maybe_AnimalsSkill-> and [AnimalsSkill]-->
-    <li>maybe_AnimalsSkill-&gt; 和 [AnimalsSkill]</li>
+    <li>maybe_AnimalsSkill-&gt;和[AnimalsSkill]</li>
     <!--EN: maybe_AnimalsSkill-> as well as [AnimalsSkill]-->
-    <li>maybe_AnimalsSkill-&gt; 以及 [AnimalsSkill]</li>
+    <li>maybe_AnimalsSkill-&gt;以及[AnimalsSkill]</li>
     <!--EN: maybe_ArtSkill->-->
     <li>maybe_ArtSkill-&gt;</li>
     <!--EN: maybe_ArtSkill-> and [ArtSkill]-->
-    <li>maybe_ArtSkill-&gt; 和 [ArtSkill]</li>
+    <li>maybe_ArtSkill-&gt;和[ArtSkill]</li>
     <!--EN: maybe_ArtSkill-> as well as [ArtSkill]-->
-    <li>maybe_ArtSkill-&gt; 以及 [ArtSkill]</li>
+    <li>maybe_ArtSkill-&gt;以及[ArtSkill]</li>
     <!--EN: maybe_ConstructionSkill->-->
     <li>maybe_ConstructionSkill-&gt;</li>
     <!--EN: maybe_ConstructionSkill-> and [ConstructionSkill]-->
-    <li>maybe_ConstructionSkill-&gt; 和 [ConstructionSkill]</li>
+    <li>maybe_ConstructionSkill-&gt;和[ConstructionSkill]</li>
     <!--EN: maybe_ConstructionSkill-> as well as [ConstructionSkill]-->
-    <li>maybe_ConstructionSkill-&gt; 以及 [ConstructionSkill]</li>
+    <li>maybe_ConstructionSkill-&gt;以及[ConstructionSkill]</li>
     <!--EN: maybe_CookingSkill->-->
     <li>maybe_CookingSkill-&gt;</li>
     <!--EN: maybe_CookingSkill-> and [CookingSkill]-->
-    <li>maybe_CookingSkill-&gt; 和 [CookingSkill]</li>
+    <li>maybe_CookingSkill-&gt;和[CookingSkill]</li>
     <!--EN: maybe_CookingSkill-> as well as [CookingSkill]-->
-    <li>maybe_CookingSkill-&gt; 以及 [CookingSkill]</li>
+    <li>maybe_CookingSkill-&gt;以及[CookingSkill]</li>
     <!--EN: maybe_CraftingSkill->-->
     <li>maybe_CraftingSkill-&gt;</li>
     <!--EN: maybe_CraftingSkill-> and [CraftingSkill]-->
-    <li>maybe_CraftingSkill-&gt; 和 [CraftingSkill]</li>
+    <li>maybe_CraftingSkill-&gt;和[CraftingSkill]</li>
     <!--EN: maybe_CraftingSkill-> as well as [CraftingSkill]-->
-    <li>maybe_CraftingSkill-&gt; 以及 [CraftingSkill]</li>
+    <li>maybe_CraftingSkill-&gt;以及[CraftingSkill]</li>
     <!--EN: maybe_GrowingSkill->-->
     <li>maybe_GrowingSkill-&gt;</li>
     <!--EN: maybe_GrowingSkill-> and [GrowingSkill]-->
-    <li>maybe_GrowingSkill-&gt; 和 [GrowingSkill]</li>
+    <li>maybe_GrowingSkill-&gt;和[GrowingSkill]</li>
     <!--EN: maybe_GrowingSkill-> as well as [GrowingSkill]-->
-    <li>maybe_GrowingSkill-&gt; 以及 [GrowingSkill]</li>
+    <li>maybe_GrowingSkill-&gt;以及[GrowingSkill]</li>
     <!--EN: maybe_IntellectualSkill->-->
     <li>maybe_IntellectualSkill-&gt;</li>
     <!--EN: maybe_IntellectualSkill-> and [IntellectualSkill]-->
-    <li>maybe_IntellectualSkill-&gt; 和 [IntellectualSkill]</li>
+    <li>maybe_IntellectualSkill-&gt;和[IntellectualSkill]</li>
     <!--EN: maybe_IntellectualSkill-> as well as [IntellectualSkill]-->
-    <li>maybe_IntellectualSkill-&gt; 以及 [IntellectualSkill]</li>
+    <li>maybe_IntellectualSkill-&gt;以及[IntellectualSkill]</li>
     <!--EN: maybe_MedicalSkill->-->
     <li>maybe_MedicalSkill-&gt;</li>
     <!--EN: maybe_MedicalSkill-> and [MedicalSkill]-->
-    <li>maybe_MedicalSkill-&gt; 和 [MedicalSkill]</li>
+    <li>maybe_MedicalSkill-&gt;和[MedicalSkill]</li>
     <!--EN: maybe_MedicalSkill-> as well as [MedicalSkill]-->
-    <li>maybe_MedicalSkill-&gt; 以及 [MedicalSkill]</li>
+    <li>maybe_MedicalSkill-&gt;以及[MedicalSkill]</li>
     <!--EN: maybe_MeleeSkill->-->
     <li>maybe_MeleeSkill-&gt;</li>
     <!--EN: maybe_MeleeSkill-> and [MeleeSkill]-->
-    <li>maybe_MeleeSkill-&gt; 和 [MeleeSkill]</li>
+    <li>maybe_MeleeSkill-&gt;和[MeleeSkill]</li>
     <!--EN: maybe_MeleeSkill-> as well as [MeleeSkill]-->
-    <li>maybe_MeleeSkill-&gt; 以及 [MeleeSkill]</li>
+    <li>maybe_MeleeSkill-&gt;以及[MeleeSkill]</li>
     <!--EN: maybe_MiningSkill->-->
     <li>maybe_MiningSkill-&gt;</li>
     <!--EN: maybe_MiningSkill-> and [MiningSkill]-->
-    <li>maybe_MiningSkill-&gt; 和 [MiningSkill]</li>
+    <li>maybe_MiningSkill-&gt;和[MiningSkill]</li>
     <!--EN: maybe_MiningSkill-> as well as [MiningSkill]-->
-    <li>maybe_MiningSkill-&gt; 以及 [MiningSkill]</li>
+    <li>maybe_MiningSkill-&gt;以及[MiningSkill]</li>
     <!--EN: maybe_SocialSkill->-->
     <li>maybe_SocialSkill-&gt;</li>
     <!--EN: maybe_SocialSkill-> and [SocialSkill]-->
-    <li>maybe_SocialSkill-&gt; 和 [SocialSkill]</li>
+    <li>maybe_SocialSkill-&gt;和[SocialSkill]</li>
     <!--EN: maybe_SocialSkill-> as well as [SocialSkill]-->
-    <li>maybe_SocialSkill-&gt; 以及 [SocialSkill]</li>
+    <li>maybe_SocialSkill-&gt;以及[SocialSkill]</li>
     <!--EN: inspired->Inspired by the bestselling book titled-->
-    <li>inspired-&gt;受到畅销书《</li>
+    <li>inspired-&gt;灵感来源于一本畅销书，叫做</li>
     <!--EN: inspired->A prequel to the popular book named-->
-    <li>inspired-&gt;畅销书的前传</li>
+    <li>inspired-&gt;是一本前传，写给一本备受赞誉的书，名叫</li>
     <!--EN: inspired->Based heavily on the book titled-->
-    <li>inspired-&gt;主要基于名为</li>
+    <li>inspired-&gt;大体上上基于一本书，叫</li>
     <!--EN: inspired->In order to contradict the statement in-->
-    <li>inspired-&gt;为了与中的陈述相矛盾</li>
+    <li>inspired-&gt;为了反对一本书中的观点，该书名为</li>
     <!--EN: context_newspaper->This [newspaper] goes indepth about the [tale_noun] on [DATE].-->
-    <li>context_newspaper-&gt;此[newspaper]深入了解[DATE]上的[tale_noun]。</li>
+    <li>context_newspaper-&gt;这份[newspaper]深入报道了[DATE]的[tale_noun]。</li>
     <!--EN: context_newspaper->This [newspaper] relates to [tale_noun] on [DATE].-->
-    <li>context_newspaper-&gt;此[newspaper]与[DATE]上的[tale_noun]相关。</li>
+    <li>context_newspaper-&gt;这份[newspaper]涉及到了[DATE]的[tale_noun]。</li>
     <!--EN: context_newspaper->This [newspaper] tells the story of [tale_noun] on [DATE].-->
-    <li>context_newspaper-&gt;此[newspaper]讲述了[tale_noun]在[DATE]上的故事。</li>
+    <li>context_newspaper-&gt;这份[newspaper]讲述了[DATE][tale_noun]的故事。</li>
     <!--EN: context_newspaper->This [newspaper] is about [tale_noun] on [DATE].-->
-    <li>context_newspaper-&gt;此[newspaper]与[DATE]上的[tale_noun]有关。</li>
+    <li>context_newspaper-&gt;这份[newspaper]是关于[DATE][tale_noun]的。</li>
     <!--EN: context_newspaper->This [newspaper] informs the reader about [tale_noun] on [DATE].-->
-    <li>context_newspaper-&gt;此[newspaper]告知读者有关[DATE]的[tale_noun]。</li>
+    <li>context_newspaper-&gt;这份[newspaper]向读者介绍了[DATE][tale_noun]的消息。</li>
     <!--EN: newspaper->newspaper-->
     <li>newspaper-&gt;报纸</li>
     <!--EN: newspaper->paper-->
-    <li>newspaper-&gt;纸</li>
+    <li>newspaper-&gt;文件</li>
     <!--EN: newspaper->article-->
     <li>newspaper-&gt;文章</li>
     <!--EN: newspaper->magazine-->
     <li>newspaper-&gt;杂志</li>
     <!--EN: ShootingBook->[Books] of [maybe_adjective] [ShootingSkill]-->
-    <li>[maybe_adjective] [ShootingSkill] 的 ShootingBook-&gt;[Books]</li>
+    <li>ShootingBook-&gt;[maybe_adjective][ShootingSkill][Books]</li>
     <!--EN: ShootingBook->[AdjectiveBadass] [Books] of [ShootingSkill]-->
-    <li>ShootingBook-&gt;[AdjectiveBadass] [Books] [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[ShootingSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: ShootingBook->[AdjectiveLarge] [Books] of [ShootingSkill]-->
-    <li>ShootingBook-&gt;[AdjectiveLarge] [Books] [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[ShootingSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: ShootingBook->[PeopleBadass]'s [Books] of [ShootingSkill]-->
-    <li>ShootingBook-&gt;[PeopleBadass] 的 [Books]，共 [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[PeopleBadass]的[ShootingSkill][Books]</li>
     <!--EN: ShootingBook->[Books] of [maybe_adjective] [ShootingSkill]-->
-    <li>[maybe_adjective] [ShootingSkill] 的 ShootingBook-&gt;[Books]</li>
+    <li>ShootingBook-&gt;[maybe_adjective][ShootingSkill][Books]</li>
     <!--EN: ShootingBook->[AdjectiveBadass] [Books] of the [ShootingSkill]-->
-    <li>ShootingBook-&gt;[AdjectiveBadass] [Books] [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[AdjectiveBadass][ShootingSkill][Books]</li>
     <!--EN: ShootingBook->The [Adjective] [Noun]: History of	[ShootingSkill]-->
-    <li>ShootingBook-&gt;[Adjective] [Noun]：[ShootingSkill] 的历史</li>
+    <li>ShootingBook-&gt;[Adjective][Noun]：[ShootingSkill]的历史</li>
     <!--EN: ShootingBook->[ShootingSkill] [Digit]-->
-    <li>ShootingBook-&gt;[ShootingSkill] [Digit]</li>
+    <li>ShootingBook-&gt;[ShootingSkill][Digit]</li>
     <!--EN: ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkill]-->
     <li>ShootingBook-&gt;[maybe_letter][Digit][maybe_letter]：[ShootingSkill]</li>
     <!--EN: ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill]-->
@@ -954,33 +954,33 @@
     <!--EN: ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill]-->
     <li>ShootingBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[ShootingSkill]</li>
     <!--EN: ShootingBook->[ANYPAWN_nameIndef]'s [Books] of the [ShootingSkill]-->
-    <li>ShootingBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[ANYPAWN_nameIndef]的[ShootingSkill][Books]</li>
     <!--EN: ShootingBook->[ShootingSkill] of [ANYPAWN_nameIndef]-->
-    <li>ShootingBook-&gt;[ShootingSkill] [ANYPAWN_nameIndef]</li>
+    <li>ShootingBook-&gt;[ANYPAWN_nameIndef]的[ShootingSkill]</li>
     <!--EN: ShootingBook->[ANYPAWN_nameIndef]'s [Books]: [ShootingSkill]-->
-    <li>ShootingBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[ShootingSkill]</li>
+    <li>ShootingBook-&gt;[ANYPAWN_nameIndef]的[Books]：[ShootingSkill]</li>
     <!--EN: ShootingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill]-->
-    <li>ShootingBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[ShootingSkill]</li>
+    <li>ShootingBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ShootingSkill]</li>
     <!--EN: ShootingBook->[Noun] and [ShootingSkill]-->
-    <li>ShootingBook-&gt;[Noun] 和 [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[Noun]与[ShootingSkill]</li>
     <!--EN: ShootingBook->[ConceptAny] and [ShootingSkill]-->
-    <li>ShootingBook-&gt;[ConceptAny] 和 [ShootingSkill]</li>
+    <li>ShootingBook-&gt;[ConceptAny]与[ShootingSkill]</li>
     <!--EN: AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill]-->
-    <li>[maybe_adjective] [AnimalsSkill] 的 AnimalsBook-&gt;[Books]</li>
+    <li>AnimalsBook-&gt;[maybe_adjective][AnimalsSkill][Books]</li>
     <!--EN: AnimalsBook->[AdjectiveBadass] [Books] of [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[AdjectiveBadass] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[AnimalsSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: AnimalsBook->[AdjectiveLarge] [Books] of [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[AdjectiveLarge] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[AnimalsSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: AnimalsBook->[PeopleBadass]'s [Books] of [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[PeopleBadass] 的 [Books]，共 [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[PeopleBadass]的[AnimalsSkill][Books]</li>
     <!--EN: AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill]-->
-    <li>[maybe_adjective] [AnimalsSkill] 的 AnimalsBook-&gt;[Books]</li>
+    <li>AnimalsBook-&gt;[maybe_adjective][AnimalsSkill][Books]</li>
     <!--EN: AnimalsBook->[AdjectiveBadass] [Books] of the [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[AdjectiveBadass] [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[AdjectiveBadass][AnimalsSkill][Books]</li>
     <!--EN: AnimalsBook->The [Adjective] [Noun]: History of [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[Adjective] [Noun]：[AnimalsSkill] 的历史</li>
+    <li>AnimalsBook-&gt;[Adjective][Noun]：[AnimalsSkill]的历史</li>
     <!--EN: AnimalsBook->[AnimalsSkill] [Digit]-->
-    <li>AnimalsBook-&gt;[AnimalsSkill] [Digit]</li>
+    <li>AnimalsBook-&gt;[AnimalsSkill][Digit]</li>
     <!--EN: AnimalsBook->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill]-->
     <li>AnimalsBook-&gt;[maybe_letter][Digit][maybe_letter]：[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill]-->
@@ -990,33 +990,33 @@
     <!--EN: AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill]-->
     <li>AnimalsBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[ANYPAWN_nameIndef]'s [Books] of the [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[ANYPAWN_nameIndef]的[AnimalsSkill][Books]</li>
     <!--EN: AnimalsBook->[AnimalsSkill] of [ANYPAWN_nameIndef]-->
-    <li>AnimalsBook-&gt;[AnimalsSkill] [ANYPAWN_nameIndef]</li>
+    <li>AnimalsBook-&gt;[ANYPAWN_nameIndef]的[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[ANYPAWN_nameIndef]'s [Books]: [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[ANYPAWN_nameIndef]的[Books]：[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[Noun] and [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[Noun] 和 [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[Noun]与[AnimalsSkill]</li>
     <!--EN: AnimalsBook->[ConceptAny] and [AnimalsSkill]-->
-    <li>AnimalsBook-&gt;[ConceptAny] 和 [AnimalsSkill]</li>
+    <li>AnimalsBook-&gt;[ConceptAny]与[AnimalsSkill]</li>
     <!--EN: ArtBook->[Books] of [maybe_adjective] [ArtSkill]-->
-    <li>[maybe_adjective] [ArtSkill] 的 ArtBook-&gt;[Books]</li>
+    <li>ArtBook-&gt;[maybe_adjective][ArtSkill][Books]</li>
     <!--EN: ArtBook->[AdjectiveBadass] [Books] of [ArtSkill]-->
-    <li>ArtBook-&gt;[AdjectiveBadass] [Books] [ArtSkill]</li>
+    <li>ArtBook-&gt;[ArtSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: ArtBook->[AdjectiveLarge] [Books] of [ArtSkill]-->
-    <li>ArtBook-&gt;[AdjectiveLarge] [Books] [ArtSkill]</li>
+    <li>ArtBook-&gt;[ArtSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: ArtBook->[PeopleBadass]'s [Books] of [ArtSkill]-->
-    <li>ArtBook-&gt;[PeopleBadass] 的 [Books]，共 [ArtSkill]</li>
+    <li>ArtBook-&gt;[PeopleBadass]的[ArtSkill][Books]</li>
     <!--EN: ArtBook->[Books] of [maybe_adjective] [ArtSkill]-->
-    <li>[maybe_adjective] [ArtSkill] 的 ArtBook-&gt;[Books]</li>
+    <li>ArtBook-&gt;[maybe_adjective][ArtSkill][Books]</li>
     <!--EN: ArtBook->[AdjectiveBadass] [Books] of the [ArtSkill]-->
-    <li>ArtBook-&gt;[AdjectiveBadass] [Books] [ArtSkill]</li>
+    <li>ArtBook-&gt;[AdjectiveBadass][ArtSkill][Books]</li>
     <!--EN: ArtBook->The [Adjective] [Noun]: History of	[ArtSkill]-->
-    <li>ArtBook-&gt;[Adjective] [Noun]：[ArtSkill] 的历史</li>
+    <li>ArtBook-&gt;[Adjective][Noun]：[ArtSkill]的历史</li>
     <!--EN: ArtBook->[ArtSkill] [Digit]-->
-    <li>ArtBook-&gt;[ArtSkill] [Digit]</li>
+    <li>ArtBook-&gt;[ArtSkill][Digit]</li>
     <!--EN: ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkill]-->
     <li>ArtBook-&gt;[maybe_letter][Digit][maybe_letter]：[ArtSkill]</li>
     <!--EN: ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill]-->
@@ -1026,33 +1026,33 @@
     <!--EN: ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill]-->
     <li>ArtBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[ArtSkill]</li>
     <!--EN: ArtBook->[ANYPAWN_nameIndef]'s [Books] of the [ArtSkill]-->
-    <li>ArtBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [ArtSkill]</li>
+    <li>ArtBook-&gt;[ANYPAWN_nameIndef]的[ArtSkill][Books]</li>
     <!--EN: ArtBook->[ArtSkill] of [ANYPAWN_nameIndef]-->
-    <li>ArtBook-&gt;[ArtSkill] [ANYPAWN_nameIndef]</li>
+    <li>ArtBook-&gt;[ANYPAWN_nameIndef]的[ArtSkill]</li>
     <!--EN: ArtBook->[ANYPAWN_nameIndef]'s [Books]: [ArtSkill]-->
-    <li>ArtBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[ArtSkill]</li>
+    <li>ArtBook-&gt;[ANYPAWN_nameIndef]的[Books]：[ArtSkill]</li>
     <!--EN: ArtBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill]-->
-    <li>ArtBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[ArtSkill]</li>
+    <li>ArtBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ArtSkill]</li>
     <!--EN: ArtBook->[Noun] and [ArtSkill]-->
-    <li>ArtBook-&gt;[Noun] 和 [ArtSkill]</li>
+    <li>ArtBook-&gt;[Noun]与[ArtSkill]</li>
     <!--EN: ArtBook->[ConceptAny] and [ArtSkill]-->
-    <li>ArtBook-&gt;[ConceptAny] 和 [ArtSkill]</li>
+    <li>ArtBook-&gt;[ConceptAny]与[ArtSkill]</li>
     <!--EN: ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill]-->
-    <li>[maybe_adjective] [ConstructionSkill] 的 ConstructionBook-&gt;[Books]</li>
+    <li>ConstructionBook-&gt;[maybe_adjective][ConstructionSkill][Books]</li>
     <!--EN: ConstructionBook->[AdjectiveBadass] [Books] of [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[AdjectiveBadass] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[ConstructionSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: ConstructionBook->[AdjectiveLarge] [Books] of [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[AdjectiveLarge] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[ConstructionSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: ConstructionBook->[PeopleBadass]'s [Books] of [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[PeopleBadass] 的 [Books]，共 [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[PeopleBadass]的[ConstructionSkill][Books]</li>
     <!--EN: ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill]-->
-    <li>[maybe_adjective] [ConstructionSkill] 的 ConstructionBook-&gt;[Books]</li>
+    <li>ConstructionBook-&gt;[maybe_adjective][ConstructionSkill][Books]</li>
     <!--EN: ConstructionBook->[AdjectiveBadass] [Books] of the [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[AdjectiveBadass] [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[AdjectiveBadass][ConstructionSkill][Books]</li>
     <!--EN: ConstructionBook->The [Adjective] [Noun]: History of	[ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[Adjective] [Noun]：[ConstructionSkill] 的历史</li>
+    <li>ConstructionBook-&gt;[Adjective][Noun]：[ConstructionSkill]的历史</li>
     <!--EN: ConstructionBook->[ConstructionSkill] [Digit]-->
-    <li>ConstructionBook-&gt;[ConstructionSkill] [Digit]</li>
+    <li>ConstructionBook-&gt;[ConstructionSkill][Digit]</li>
     <!--EN: ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill]-->
     <li>ConstructionBook-&gt;[maybe_letter][Digit][maybe_letter]：[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill]-->
@@ -1062,33 +1062,33 @@
     <!--EN: ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill]-->
     <li>ConstructionBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[ANYPAWN_nameIndef]'s [Books] of the [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[ANYPAWN_nameIndef]的[ConstructionSkill][Books]</li>
     <!--EN: ConstructionBook->[ConstructionSkill] of [ANYPAWN_nameIndef]-->
-    <li>ConstructionBook-&gt;[ConstructionSkill] [ANYPAWN_nameIndef]</li>
+    <li>ConstructionBook-&gt;[ANYPAWN_nameIndef]的[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[ANYPAWN_nameIndef]'s [Books]: [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[ANYPAWN_nameIndef]的[Books]：[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[Noun] and [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[Noun] 和 [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[Noun]与[ConstructionSkill]</li>
     <!--EN: ConstructionBook->[ConceptAny] and [ConstructionSkill]-->
-    <li>ConstructionBook-&gt;[ConceptAny] 和 [ConstructionSkill]</li>
+    <li>ConstructionBook-&gt;[ConceptAny]与[ConstructionSkill]</li>
     <!--EN: CookingBook->[Books] of [maybe_adjective] [CookingSkill]-->
-    <li>[maybe_adjective] [CookingSkill] 的 CookingBook-&gt;[Books]</li>
+    <li>CookingBook-&gt;[maybe_adjective][CookingSkill][Books]</li>
     <!--EN: CookingBook->[AdjectiveBadass] [Books] of [CookingSkill]-->
-    <li>CookingBook-&gt;[AdjectiveBadass] [Books] [CookingSkill]</li>
+    <li>CookingBook-&gt;[CookingSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: CookingBook->[AdjectiveLarge] [Books] of [CookingSkill]-->
-    <li>CookingBook-&gt;[AdjectiveLarge] [Books] [CookingSkill]</li>
+    <li>CookingBook-&gt;[CookingSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: CookingBook->[PeopleBadass]'s [Books] of [CookingSkill]-->
-    <li>CookingBook-&gt;[PeopleBadass] 的 [Books]，共 [CookingSkill]</li>
+    <li>CookingBook-&gt;[PeopleBadass]的[CookingSkill][Books]</li>
     <!--EN: CookingBook->[Books] of [maybe_adjective] [CookingSkill]-->
-    <li>[maybe_adjective] [CookingSkill] 的 CookingBook-&gt;[Books]</li>
+    <li>CookingBook-&gt;[maybe_adjective][CookingSkill][Books]</li>
     <!--EN: CookingBook->[AdjectiveBadass] [Books] of the [CookingSkill]-->
-    <li>CookingBook-&gt;[AdjectiveBadass] [Books] [CookingSkill]</li>
+    <li>CookingBook-&gt;[AdjectiveBadass][CookingSkill][Books]</li>
     <!--EN: CookingBook->The [Adjective] [Noun]: History of	[CookingSkill]-->
-    <li>CookingBook-&gt;[Adjective] [Noun]：[CookingSkill] 的历史</li>
+    <li>CookingBook-&gt;[Adjective][Noun]：[CookingSkill]的历史</li>
     <!--EN: CookingBook->[CookingSkill] [Digit]-->
-    <li>CookingBook-&gt;[CookingSkill] [Digit]</li>
+    <li>CookingBook-&gt;[CookingSkill][Digit]</li>
     <!--EN: CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkill]-->
     <li>CookingBook-&gt;[maybe_letter][Digit][maybe_letter]：[CookingSkill]</li>
     <!--EN: CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill]-->
@@ -1098,33 +1098,33 @@
     <!--EN: CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill]-->
     <li>CookingBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[CookingSkill]</li>
     <!--EN: CookingBook->[ANYPAWN_nameIndef]'s [Books] of the [CookingSkill]-->
-    <li>CookingBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [CookingSkill]</li>
+    <li>CookingBook-&gt;[ANYPAWN_nameIndef]的[CookingSkill][Books]</li>
     <!--EN: CookingBook->[CookingSkill] of [ANYPAWN_nameIndef]-->
-    <li>CookingBook-&gt;[CookingSkill] [ANYPAWN_nameIndef]</li>
+    <li>CookingBook-&gt;[ANYPAWN_nameIndef]之[CookingSkill]</li>
     <!--EN: CookingBook->[ANYPAWN_nameIndef]'s [Books]: [CookingSkill]-->
-    <li>CookingBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[CookingSkill]</li>
+    <li>CookingBook-&gt;[ANYPAWN_nameIndef]的[Books]：[CookingSkill]</li>
     <!--EN: CookingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill]-->
-    <li>CookingBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[CookingSkill]</li>
+    <li>CookingBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[CookingSkill]</li>
     <!--EN: CookingBook->[Noun] and [CookingSkill]-->
-    <li>CookingBook-&gt;[Noun] 和 [CookingSkill]</li>
+    <li>CookingBook-&gt;[Noun]与[CookingSkill]</li>
     <!--EN: CookingBook->[ConceptAny] and [CookingSkill]-->
-    <li>CookingBook-&gt;[ConceptAny] 和 [CookingSkill]</li>
+    <li>CookingBook-&gt;[ConceptAny]与[CookingSkill]</li>
     <!--EN: CraftingBook->[Books] of [maybe_adjective] [CraftingSkill]-->
-    <li>[maybe_adjective] [CraftingSkill] 的 CraftingBook-&gt;[Books]</li>
+    <li>CraftingBook-&gt;[maybe_adjective][CraftingSkill][Books]</li>
     <!--EN: CraftingBook->[AdjectiveBadass] [Books] of [CraftingSkill]-->
-    <li>CraftingBook-&gt;[AdjectiveBadass] [Books] [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[CraftingSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: CraftingBook->[AdjectiveLarge] [Books] of [CraftingSkill]-->
-    <li>CraftingBook-&gt;[AdjectiveLarge] [Books] [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[CraftingSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: CraftingBook->[PeopleBadass]'s [Books] of [CraftingSkill]-->
-    <li>CraftingBook-&gt;[PeopleBadass] 的 [Books]，共 [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[PeopleBadass]的[CraftingSkill][Books]</li>
     <!--EN: CraftingBook->[Books] of [maybe_adjective] [CraftingSkill]-->
-    <li>[maybe_adjective] [CraftingSkill] 的 CraftingBook-&gt;[Books]</li>
+    <li>CraftingBook-&gt;[maybe_adjective][CraftingSkill][Books]</li>
     <!--EN: CraftingBook->[AdjectiveBadass] [Books] of the [CraftingSkill]-->
-    <li>CraftingBook-&gt;[AdjectiveBadass] [Books] [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[AdjectiveBadass][CraftingSkill][Books]</li>
     <!--EN: CraftingBook->The [Adjective] [Noun]: History of	[CraftingSkill]-->
-    <li>CraftingBook-&gt;[Adjective] [Noun]：[CraftingSkill] 的历史</li>
+    <li>CraftingBook-&gt;[Adjective][Noun]：[CraftingSkill]的历史</li>
     <!--EN: CraftingBook->[CraftingSkill] [Digit]-->
-    <li>CraftingBook-&gt;[CraftingSkill] [Digit]</li>
+    <li>CraftingBook-&gt;[CraftingSkill][Digit]</li>
     <!--EN: CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkill]-->
     <li>CraftingBook-&gt;[maybe_letter][Digit][maybe_letter]：[CraftingSkill]</li>
     <!--EN: CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill]-->
@@ -1134,33 +1134,33 @@
     <!--EN: CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill]-->
     <li>CraftingBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[CraftingSkill]</li>
     <!--EN: CraftingBook->[ANYPAWN_nameIndef]'s [Books] of the [CraftingSkill]-->
-    <li>CraftingBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[ANYPAWN_nameIndef]的[CraftingSkill][Books]</li>
     <!--EN: CraftingBook->[CraftingSkill] of [ANYPAWN_nameIndef]-->
-    <li>CraftingBook-&gt;[CraftingSkill] [ANYPAWN_nameIndef]</li>
+    <li>CraftingBook-&gt;[ANYPAWN_nameIndef]的[CraftingSkill]</li>
     <!--EN: CraftingBook->[ANYPAWN_nameIndef]'s [Books]: [CraftingSkill]-->
-    <li>CraftingBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[CraftingSkill]</li>
+    <li>CraftingBook-&gt;[ANYPAWN_nameIndef]的[Books]：[CraftingSkill]</li>
     <!--EN: CraftingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill]-->
-    <li>CraftingBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[CraftingSkill]</li>
+    <li>CraftingBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[CraftingSkill]</li>
     <!--EN: CraftingBook->[Noun] and [CraftingSkill]-->
-    <li>CraftingBook-&gt;[Noun] 和 [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[Noun]与[CraftingSkill]</li>
     <!--EN: CraftingBook->[ConceptAny] and [CraftingSkill]-->
-    <li>CraftingBook-&gt;[ConceptAny] 和 [CraftingSkill]</li>
+    <li>CraftingBook-&gt;[ConceptAny]与[CraftingSkill]</li>
     <!--EN: GrowingBook->[Books] of [maybe_adjective] [GrowingSkill]-->
-    <li>[maybe_adjective] [GrowingSkill] 的 GrowingBook-&gt;[Books]</li>
+    <li>GrowingBook-&gt;[maybe_adjective][GrowingSkill][Books][Books]</li>
     <!--EN: GrowingBook->[AdjectiveBadass] [Books] of [GrowingSkill]-->
-    <li>GrowingBook-&gt;[AdjectiveBadass] [Books] [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[GrowingSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: GrowingBook->[AdjectiveLarge] [Books] of [GrowingSkill]-->
-    <li>GrowingBook-&gt;[AdjectiveLarge] [Books] [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[GrowingSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: GrowingBook->[PeopleBadass]'s [Books] of [GrowingSkill]-->
-    <li>GrowingBook-&gt;[PeopleBadass] 的 [Books]，共 [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[PeopleBadass]的[GrowingSkill][Books]</li>
     <!--EN: GrowingBook->[Books] of [maybe_adjective] [GrowingSkill]-->
-    <li>[maybe_adjective] [GrowingSkill] 的 GrowingBook-&gt;[Books]</li>
+    <li>GrowingBook-&gt;[maybe_adjective][GrowingSkill][Books]</li>
     <!--EN: GrowingBook->[AdjectiveBadass] [Books] of the [GrowingSkill]-->
-    <li>GrowingBook-&gt;[AdjectiveBadass] [Books] [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[AdjectiveBadass][GrowingSkill][Books]</li>
     <!--EN: GrowingBook->The [Adjective] [Noun]: History of	[GrowingSkill]-->
-    <li>GrowingBook-&gt;[Adjective] [Noun]：[GrowingSkill] 的历史</li>
+    <li>GrowingBook-&gt;[Adjective][Noun]：[GrowingSkill]的历史</li>
     <!--EN: GrowingBook->[GrowingSkill] [Digit]-->
-    <li>GrowingBook-&gt;[GrowingSkill] [Digit]</li>
+    <li>GrowingBook-&gt;[GrowingSkill][Digit]</li>
     <!--EN: GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkill]-->
     <li>GrowingBook-&gt;[maybe_letter][Digit][maybe_letter]：[GrowingSkill]</li>
     <!--EN: GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill]-->
@@ -1170,33 +1170,33 @@
     <!--EN: GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill]-->
     <li>GrowingBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[GrowingSkill]</li>
     <!--EN: GrowingBook->[ANYPAWN_nameIndef]'s [Books] of the [GrowingSkill]-->
-    <li>GrowingBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[ANYPAWN_nameIndef]的[GrowingSkill][Books]</li>
     <!--EN: GrowingBook->[GrowingSkill] of [ANYPAWN_nameIndef]-->
-    <li>GrowingBook-&gt;[GrowingSkill] [ANYPAWN_nameIndef]</li>
+    <li>GrowingBook-&gt;[ANYPAWN_nameIndef]的[GrowingSkill]</li>
     <!--EN: GrowingBook->[ANYPAWN_nameIndef]'s [Books]: [GrowingSkill]-->
-    <li>GrowingBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[GrowingSkill]</li>
+    <li>GrowingBook-&gt;[ANYPAWN_nameIndef]的[Books]：[GrowingSkill]</li>
     <!--EN: GrowingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill]-->
-    <li>GrowingBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[GrowingSkill]</li>
+    <li>GrowingBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[GrowingSkill]</li>
     <!--EN: GrowingBook->[Noun] and [GrowingSkill]-->
-    <li>GrowingBook-&gt;[Noun] 和 [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[Noun]与[GrowingSkill]</li>
     <!--EN: GrowingBook->[ConceptAny] and [GrowingSkill]-->
-    <li>GrowingBook-&gt;[ConceptAny] 和 [GrowingSkill]</li>
+    <li>GrowingBook-&gt;[ConceptAny]与[GrowingSkill]</li>
     <!--EN: IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill]-->
-    <li>[maybe_adjective] [IntellectualSkill] 的 IntellectualBook-&gt;[Books]</li>
+    <li>IntellectualBook-&gt;[maybe_adjective][IntellectualSkill]的[Books]</li>
     <!--EN: IntellectualBook->[AdjectiveBadass] [Books] of [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[AdjectiveBadass] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[IntellectualSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: IntellectualBook->[AdjectiveLarge] [Books] of [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[AdjectiveLarge] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[IntellectualSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: IntellectualBook->[PeopleBadass]'s [Books] of [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[PeopleBadass] 的 [Books]，共 [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[PeopleBadass]的[IntellectualSkill][Books]</li>
     <!--EN: IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill]-->
-    <li>[maybe_adjective] [IntellectualSkill] 的 IntellectualBook-&gt;[Books]</li>
+    <li>IntellectualBook-&gt;[maybe_adjective][IntellectualSkill][Books]</li>
     <!--EN: IntellectualBook->[AdjectiveBadass] [Books] of the [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[AdjectiveBadass] [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[AdjectiveBadass][IntellectualSkill][Books]</li>
     <!--EN: IntellectualBook->The [Adjective] [Noun]: History of	[IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[Adjective] [Noun]：[IntellectualSkill] 的历史</li>
+    <li>IntellectualBook-&gt;[Adjective][Noun]：[IntellectualSkill]的历史</li>
     <!--EN: IntellectualBook->[IntellectualSkill] [Digit]-->
-    <li>IntellectualBook-&gt;[IntellectualSkill] [Digit]</li>
+    <li>IntellectualBook-&gt;[IntellectualSkill][Digit]</li>
     <!--EN: IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill]-->
     <li>IntellectualBook-&gt;[maybe_letter][Digit][maybe_letter]：[IntellectualSkill]</li>
     <!--EN: IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill]-->
@@ -1206,33 +1206,33 @@
     <!--EN: IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill]-->
     <li>IntellectualBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[IntellectualSkill]</li>
     <!--EN: IntellectualBook->[ANYPAWN_nameIndef]'s [Books] of the [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[ANYPAWN_nameIndef]的[IntellectualSkill][Books]</li>
     <!--EN: IntellectualBook->[IntellectualSkill] of [ANYPAWN_nameIndef]-->
-    <li>IntellectualBook-&gt;[IntellectualSkill] [ANYPAWN_nameIndef]</li>
+    <li>IntellectualBook-&gt;[ANYPAWN_nameIndef]的[IntellectualSkill]</li>
     <!--EN: IntellectualBook->[ANYPAWN_nameIndef]'s [Books]: [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[ANYPAWN_nameIndef]的[Books]: [IntellectualSkill]</li>
     <!--EN: IntellectualBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[IntellectualSkill]</li>
     <!--EN: IntellectualBook->[Noun] and [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[Noun] 和 [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[Noun]与[IntellectualSkill]</li>
     <!--EN: IntellectualBook->[ConceptAny] and [IntellectualSkill]-->
-    <li>IntellectualBook-&gt;[ConceptAny] 和 [IntellectualSkill]</li>
+    <li>IntellectualBook-&gt;[ConceptAny]与[IntellectualSkill]</li>
     <!--EN: MedicalBook->[Books] of [maybe_adjective] [MedicalSkill]-->
-    <li>[maybe_adjective] [MedicalSkill] 的 MedicalBook-&gt;[Books]</li>
+    <li>MedicalBook-&gt;[maybe_adjective][MedicalSkill][Books]</li>
     <!--EN: MedicalBook->[AdjectiveBadass] [Books] of [MedicalSkill]-->
-    <li>MedicalBook-&gt;[AdjectiveBadass] [Books] [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[MedicalSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: MedicalBook->[AdjectiveLarge] [Books] of [MedicalSkill]-->
-    <li>MedicalBook-&gt;[AdjectiveLarge] [Books] [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[MedicalSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: MedicalBook->[PeopleBadass]'s [Books] of [MedicalSkill]-->
-    <li>MedicalBook-&gt;[PeopleBadass] 的 [Books]，共 [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[PeopleBadass]的[MedicalSkill][Books]</li>
     <!--EN: MedicalBook->[Books] of [maybe_adjective] [MedicalSkill]-->
-    <li>[maybe_adjective] [MedicalSkill] 的 MedicalBook-&gt;[Books]</li>
+    <li>MedicalBook-&gt;[maybe_adjective][MedicalSkill][Books]</li>
     <!--EN: MedicalBook->[AdjectiveBadass] [Books] of the [MedicalSkill]-->
-    <li>MedicalBook-&gt;[AdjectiveBadass] [Books] [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[AdjectiveBadass][MedicalSkill][Books]</li>
     <!--EN: MedicalBook->The [Adjective] [Noun]: History of	[MedicalSkill]-->
-    <li>MedicalBook-&gt;[Adjective] [Noun]：[MedicalSkill] 的历史</li>
+    <li>MedicalBook-&gt;[Adjective][Noun]：[MedicalSkill]的历史</li>
     <!--EN: MedicalBook->[MedicalSkill] [Digit]-->
-    <li>MedicalBook-&gt;[MedicalSkill] [Digit]</li>
+    <li>MedicalBook-&gt;[MedicalSkill][Digit]</li>
     <!--EN: MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkill]-->
     <li>MedicalBook-&gt;[maybe_letter][Digit][maybe_letter]：[MedicalSkill]</li>
     <!--EN: MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill]-->
@@ -1242,33 +1242,33 @@
     <!--EN: MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill]-->
     <li>MedicalBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[MedicalSkill]</li>
     <!--EN: MedicalBook->[ANYPAWN_nameIndef]'s [Books] of the [MedicalSkill]-->
-    <li>MedicalBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[ANYPAWN_nameIndef]的[MedicalSkill][Books]</li>
     <!--EN: MedicalBook->[MedicalSkill] of [ANYPAWN_nameIndef]-->
-    <li>MedicalBook-&gt;[MedicalSkill] [ANYPAWN_nameIndef]</li>
+    <li>MedicalBook-&gt;[ANYPAWN_nameIndef]的[MedicalSkill]</li>
     <!--EN: MedicalBook->[ANYPAWN_nameIndef]'s [Books]: [MedicalSkill]-->
-    <li>MedicalBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[MedicalSkill]</li>
+    <li>MedicalBook-&gt;[ANYPAWN_nameIndef]的[Books]：[MedicalSkill]</li>
     <!--EN: MedicalBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill]-->
-    <li>MedicalBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[MedicalSkill]</li>
+    <li>MedicalBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MedicalSkill]</li>
     <!--EN: MedicalBook->[Noun] and [MedicalSkill]-->
-    <li>MedicalBook-&gt;[Noun] 和 [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[Noun]与[MedicalSkill]</li>
     <!--EN: MedicalBook->[ConceptAny] and [MedicalSkill]-->
-    <li>MedicalBook-&gt;[ConceptAny] 和 [MedicalSkill]</li>
+    <li>MedicalBook-&gt;[ConceptAny]与[MedicalSkill]</li>
     <!--EN: MeleeBook->[Books] of [maybe_adjective] [MeleeSkill]-->
-    <li>[maybe_adjective] [MeleeSkill] 的 MeleeBook-&gt;[Books]</li>
+    <li>MeleeBook-&gt;[maybe_adjective][MeleeSkill][Books]</li>
     <!--EN: MeleeBook->[AdjectiveBadass] [Books] of [MeleeSkill]-->
-    <li>MeleeBook-&gt;[AdjectiveBadass] [Books] [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[MeleeSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: MeleeBook->[AdjectiveLarge] [Books] of [MeleeSkill]-->
-    <li>MeleeBook-&gt;[AdjectiveLarge] [Books] [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[MeleeSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: MeleeBook->[PeopleBadass]'s [Books] of [MeleeSkill]-->
-    <li>MeleeBook-&gt;[PeopleBadass] 的 [Books]，共 [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[PeopleBadass]的[MeleeSkill][Books]</li>
     <!--EN: MeleeBook->[Books] of [maybe_adjective] [MeleeSkill]-->
-    <li>[maybe_adjective] [MeleeSkill] 的 MeleeBook-&gt;[Books]</li>
+    <li>MeleeBook-&gt;[maybe_adjective][MeleeSkill][Books]</li>
     <!--EN: MeleeBook->[AdjectiveBadass] [Books] of the [MeleeSkill]-->
-    <li>MeleeBook-&gt;[AdjectiveBadass] [Books] [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[AdjectiveBadass][MeleeSkill][Books]</li>
     <!--EN: MeleeBook->The [Adjective] [Noun]: History of	[MeleeSkill]-->
-    <li>MeleeBook-&gt;[Adjective] [Noun]：[MeleeSkill] 的历史</li>
+    <li>MeleeBook-&gt;The [Adjective] [Noun]：[MeleeSkill]的历史</li>
     <!--EN: MeleeBook->[MeleeSkill] [Digit]-->
-    <li>MeleeBook-&gt;[MeleeSkill] [Digit]</li>
+    <li>MeleeBook-&gt;[MeleeSkill][Digit]</li>
     <!--EN: MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkill]-->
     <li>MeleeBook-&gt;[maybe_letter][Digit][maybe_letter]：[MeleeSkill]</li>
     <!--EN: MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill]-->
@@ -1278,33 +1278,33 @@
     <!--EN: MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill]-->
     <li>MeleeBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[MeleeSkill]</li>
     <!--EN: MeleeBook->[ANYPAWN_nameIndef]'s [Books] of the [MeleeSkill]-->
-    <li>MeleeBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[ANYPAWN_nameIndef]的[MeleeSkill][Books]</li>
     <!--EN: MeleeBook->[MeleeSkill] of [ANYPAWN_nameIndef]-->
-    <li>MeleeBook-&gt;[MeleeSkill] [ANYPAWN_nameIndef]</li>
+    <li>MeleeBook-&gt;[ANYPAWN_nameIndef]的[MeleeSkill]</li>
     <!--EN: MeleeBook->[ANYPAWN_nameIndef]'s [Books]: [MeleeSkill]-->
-    <li>MeleeBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[MeleeSkill]</li>
+    <li>MeleeBook-&gt;[ANYPAWN_nameIndef]的[Books]：[MeleeSkill]</li>
     <!--EN: MeleeBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill]-->
-    <li>MeleeBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[MeleeSkill]</li>
+    <li>MeleeBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MeleeSkill]</li>
     <!--EN: MeleeBook->[Noun] and [MeleeSkill]-->
-    <li>MeleeBook-&gt;[Noun] 和 [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[Noun]与[MeleeSkill]</li>
     <!--EN: MeleeBook->[ConceptAny] and [MeleeSkill]-->
-    <li>MeleeBook-&gt;[ConceptAny] 和 [MeleeSkill]</li>
+    <li>MeleeBook-&gt;[ConceptAny]与[MeleeSkill]</li>
     <!--EN: MiningBook->[Books] of [maybe_adjective] [MiningSkill]-->
-    <li>[maybe_adjective] [MiningSkill] 的 MiningBook-&gt;[Books]</li>
+    <li>MiningBook-&gt;[maybe_adjective][MiningSkill][Books]</li>
     <!--EN: MiningBook->[AdjectiveBadass] [Books] of [MiningSkill]-->
-    <li>MiningBook-&gt;[AdjectiveBadass] [Books] [MiningSkill]</li>
+    <li>MiningBook-&gt;[MiningSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: MiningBook->[AdjectiveLarge] [Books] of [MiningSkill]-->
-    <li>MiningBook-&gt;[AdjectiveLarge] [Books] [MiningSkill]</li>
+    <li>MiningBook-&gt;[MiningSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: MiningBook->[PeopleBadass]'s [Books] of [MiningSkill]-->
-    <li>MiningBook-&gt;[PeopleBadass] 的 [Books]，共 [MiningSkill]</li>
+    <li>MiningBook-&gt;[PeopleBadass]的[MiningSkill][Books]</li>
     <!--EN: MiningBook->[Books] of [maybe_adjective] [MiningSkill]-->
-    <li>[maybe_adjective] [MiningSkill] 的 MiningBook-&gt;[Books]</li>
+    <li>MiningBook-&gt;[maybe_adjective][MiningSkill][Books]</li>
     <!--EN: MiningBook->[AdjectiveBadass] [Books] of the [MiningSkill]-->
-    <li>MiningBook-&gt;[AdjectiveBadass] [Books] [MiningSkill]</li>
+    <li>MiningBook-&gt;[AdjectiveBadass][MiningSkill][Books]</li>
     <!--EN: MiningBook->The [Adjective] [Noun]: History of	[MiningSkill]-->
-    <li>MiningBook-&gt;[Adjective] [Noun]：[MiningSkill] 的历史</li>
+    <li>MiningBook-&gt;[Adjective][Noun]：[MiningSkill]的历史</li>
     <!--EN: MiningBook->[MiningSkill] [Digit]-->
-    <li>MiningBook-&gt;[MiningSkill] [Digit]</li>
+    <li>MiningBook-&gt;[MiningSkill][Digit]</li>
     <!--EN: MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkill]-->
     <li>MiningBook-&gt;[maybe_letter][Digit][maybe_letter]：[MiningSkill]</li>
     <!--EN: MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill]-->
@@ -1314,33 +1314,33 @@
     <!--EN: MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill]-->
     <li>MiningBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[MiningSkill]</li>
     <!--EN: MiningBook->[ANYPAWN_nameIndef]'s [Books] of the [MiningSkill]-->
-    <li>MiningBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [MiningSkill]</li>
+    <li>MiningBook-&gt;[ANYPAWN_nameIndef]的[MiningSkill][Books]</li>
     <!--EN: MiningBook->[MiningSkill] of [ANYPAWN_nameIndef]-->
-    <li>MiningBook-&gt;[MiningSkill] [ANYPAWN_nameIndef]</li>
+    <li>MiningBook-&gt;[ANYPAWN_nameIndef]的[MiningSkill]</li>
     <!--EN: MiningBook->[ANYPAWN_nameIndef]'s [Books]: [MiningSkill]-->
-    <li>MiningBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[MiningSkill]</li>
+    <li>MiningBook-&gt;[ANYPAWN_nameIndef]的[Books]：[MiningSkill]</li>
     <!--EN: MiningBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill]-->
-    <li>MiningBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[MiningSkill]</li>
+    <li>MiningBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[MiningSkill]</li>
     <!--EN: MiningBook->[Noun] and [MiningSkill]-->
-    <li>MiningBook-&gt;[Noun] 和 [MiningSkill]</li>
+    <li>MiningBook-&gt;[Noun]与[MiningSkill]</li>
     <!--EN: MiningBook->[ConceptAny] and [MiningSkill]-->
-    <li>MiningBook-&gt;[ConceptAny] 和 [MiningSkill]</li>
+    <li>MiningBook-&gt;[ConceptAny]与[MiningSkill]</li>
     <!--EN: SocialBook->[Books] of [maybe_adjective] [SocialSkill]-->
-    <li>[maybe_adjective] [SocialSkill] 的 SocialBook-&gt;[Books]</li>
+    <li>SocialBook-&gt;[maybe_adjective][SocialSkill][Books]</li>
     <!--EN: SocialBook->[AdjectiveBadass] [Books] of [SocialSkill]-->
-    <li>SocialBook-&gt;[AdjectiveBadass] [Books] [SocialSkill]</li>
+    <li>SocialBook-&gt;[SocialSkill]的[AdjectiveBadass][Books]</li>
     <!--EN: SocialBook->[AdjectiveLarge] [Books] of [SocialSkill]-->
-    <li>SocialBook-&gt;[AdjectiveLarge] [Books] [SocialSkill]</li>
+    <li>SocialBook-&gt;[SocialSkill]的[AdjectiveLarge][Books]</li>
     <!--EN: SocialBook->[PeopleBadass]'s [Books] of [SocialSkill]-->
-    <li>SocialBook-&gt;[PeopleBadass] 的 [Books]，共 [SocialSkill]</li>
+    <li>SocialBook-&gt;[PeopleBadass]的[SocialSkill][Books]</li>
     <!--EN: SocialBook->[Books] of [maybe_adjective] [SocialSkill]-->
-    <li>[maybe_adjective] [SocialSkill] 的 SocialBook-&gt;[Books]</li>
+    <li>SocialBook-&gt;[maybe_adjective][SocialSkill][Books]</li>
     <!--EN: SocialBook->[AdjectiveBadass] [Books] of the [SocialSkill]-->
-    <li>SocialBook-&gt;[AdjectiveBadass] [Books] [SocialSkill]</li>
+    <li>SocialBook-&gt;[AdjectiveBadass][SocialSkill][Books]</li>
     <!--EN: SocialBook->The [Adjective] [Noun]: History of	[SocialSkill]-->
-    <li>SocialBook-&gt;[Adjective] [Noun]：[SocialSkill] 的历史</li>
+    <li>SocialBook-&gt;[Adjective][Noun]：[SocialSkill]的历史</li>
     <!--EN: SocialBook->[SocialSkill] [Digit]-->
-    <li>SocialBook-&gt;[SocialSkill] [Digit]</li>
+    <li>SocialBook-&gt;[SocialSkill][Digit]</li>
     <!--EN: SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkill]-->
     <li>SocialBook-&gt;[maybe_letter][Digit][maybe_letter]：[SocialSkill]</li>
     <!--EN: SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill]-->
@@ -1350,16 +1350,16 @@
     <!--EN: SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill]-->
     <li>SocialBook-&gt;[maybe_letter][RomanNumeral][maybe_letter]：[SocialSkill]</li>
     <!--EN: SocialBook->[ANYPAWN_nameIndef]'s [Books] of the [SocialSkill]-->
-    <li>SocialBook-&gt;[ANYPAWN_nameIndef] 的 [Books] [SocialSkill]</li>
+    <li>SocialBook-&gt;[ANYPAWN_nameIndef]的[SocialSkill][Books]</li>
     <!--EN: SocialBook->[SocialSkill] of [ANYPAWN_nameIndef]-->
-    <li>SocialBook-&gt;[SocialSkill] [ANYPAWN_nameIndef]</li>
+    <li>SocialBook-&gt;[ANYPAWN_nameIndef]的[SocialSkill]</li>
     <!--EN: SocialBook->[ANYPAWN_nameIndef]'s [Books]: [SocialSkill]-->
-    <li>SocialBook-&gt;[ANYPAWN_nameIndef] 的 [Books]：[SocialSkill]</li>
+    <li>SocialBook-&gt;[ANYPAWN_nameIndef]的[Books]：[SocialSkill]</li>
     <!--EN: SocialBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]-->
-    <li>SocialBook-&gt;[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]：[SocialSkill]</li>
+    <li>SocialBook-&gt;[maybe_a][ANYPAWN_nameIndef][Trans][Color]：[SocialSkill]</li>
     <!--EN: SocialBook->[Noun] and [SocialSkill]-->
-    <li>SocialBook-&gt;[Noun] 和 [SocialSkill]</li>
+    <li>SocialBook-&gt;[Noun]与[SocialSkill]</li>
     <!--EN: SocialBook->[ConceptAny] and [SocialSkill]-->
-    <li>SocialBook-&gt;[ConceptAny] 和 [SocialSkill]</li>
+    <li>SocialBook-&gt;[ConceptAny]与[SocialSkill]</li>
   </VBE_BookUtility.rulePack.rulesStrings>
 </LanguageData>

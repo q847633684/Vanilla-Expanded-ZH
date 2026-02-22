@@ -1,39 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants.-->
-  <VFE_Ecosystem.description>在人工密封的生态系统中快速生长植物。需要大量的电力才能工作；如果断电，植物就会死亡。
-
-包含一个内置太阳灯，为植物提供光照。</VFE_Ecosystem.description>
+  <VFE_Ecosystem.description>在独立的人工生态系统中快速培育植物，甚至能适配于对生长环境最为挑剔的植物。运行时需要消耗大量电力。断电后植物会死亡。内置有可供植物进行光合作用的太阳灯。</VFE_Ecosystem.description>
   <!--EN: artificial ecosystem-->
   <VFE_Ecosystem.label>人工生态系统</VFE_Ecosystem.label>
   <!--EN: Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary.-->
-  <VFE_Ecosystem_Tilable.description>在人工密封的生态系统中快速种植植物，该生态系统可以配置为有效地种植甚至挑剔的植物。需要大量的电力才能工作；如果断电，植物就会死亡。包含一个内置太阳灯，为植物提供光照。
-
-此版本是模块化的，可以组装成任何必要的形状。</VFE_Ecosystem_Tilable.description>
+  <VFE_Ecosystem_Tilable.description>在独立的人工生态系统中快速培育植物，甚至能适配于对生长环境最为挑剔的植物。运行时需要消耗大量电力。断电后植物会死亡。内置有可供植物进行光合作用的太阳灯。\n\n这种模组化的版本可以随心拼接组装成各种形状。</VFE_Ecosystem_Tilable.description>
   <!--EN: tilable artificial ecosystem-->
-  <VFE_Ecosystem_Tilable.label>可耕种的人工生态系统</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.label>模块型人工生态系统</VFE_Ecosystem_Tilable.label>
   <!--EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary.-->
-  <VFE_Hydroponics_Tilable.description>用于植物生长的人工营养浴。营养液泵必须连续工作；如果断电，植物就会死亡。
-
-此版本是模块化的，可以组装成任何必要的形状。</VFE_Hydroponics_Tilable.description>
+  <VFE_Hydroponics_Tilable.description>在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。\n\n这种模组化的版本可以随心拼接组装成各种形状。</VFE_Hydroponics_Tilable.description>
   <!--EN: tilable hydroponics basin-->
-  <VFE_Hydroponics_Tilable.label>可平铺水培盆</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.label>模块型水栽培植物盆</VFE_Hydroponics_Tilable.label>
   <!--EN: Grows plants in a box of soil. Does not require power to work.-->
-  <VFE_PlanterBox.description>在一盒土壤中种植植物。不需要电源即可工作。</VFE_PlanterBox.description>
+  <VFE_PlanterBox.description>装有土壤的种植箱。无需电力即可运作。</VFE_PlanterBox.description>
   <!--EN: planter box-->
-  <VFE_PlanterBox.label>花盆箱</VFE_PlanterBox.label>
+  <VFE_PlanterBox.label>种植箱</VFE_PlanterBox.label>
   <!--EN: Grows plants in a box of soil. Does not require power to work.\n\nCan be constructed in any desired shape.-->
-  <VFE_PlanterBox_Tilable.description>在一盒土壤中种植植物。不需要电源即可工作。
-
-可以构造成任何所需的形状。</VFE_PlanterBox_Tilable.description>
+  <VFE_PlanterBox_Tilable.description>装有土壤的种植箱。无需电力即可运作。\n\n这种模组化的版本可以随心拼接组装成各种形状。</VFE_PlanterBox_Tilable.description>
   <!--EN: tilable planter box-->
-  <VFE_PlanterBox_Tilable.label>可平铺的花盆</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.label>模块型种植箱</VFE_PlanterBox_Tilable.label>
   <!--EN: A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach.-->
-  <VFE_Scarecrow.description>一个用干草制成的人形人物，穿着穿着旧衣服，以阻止大范围内的动物。 小动物会害怕接近。</VFE_Scarecrow.description>
+  <VFE_Scarecrow.description>用干草制成的人形装置，穿戴着旧衣物。可以吓退大片范围内的小动物。</VFE_Scarecrow.description>
   <!--EN: scarecrow-->
   <VFE_Scarecrow.label>稻草人</VFE_Scarecrow.label>
   <!--EN: A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants.-->
-  <VFE_Sprinkler.description>喷水器，为周围区域提供水。促进周围植物的生长。</VFE_Sprinkler.description>
+  <VFE_Sprinkler.description>自动洒水器，给周围的植被提供水分，促其生长。</VFE_Sprinkler.description>
   <!--EN: sprinkler-->
-  <VFE_Sprinkler.label>洒水器</VFE_Sprinkler.label>
+  <VFE_Sprinkler.label>喷灌器</VFE_Sprinkler.label>
 </LanguageData>

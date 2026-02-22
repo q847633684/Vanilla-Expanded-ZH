@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: {0} has hatched from an egg!-->
-  <VGE_EggHatched>{0} 已从蛋中孵化出来！</VGE_EggHatched>
+  <VGE_EggHatched>{0}从蛋中孵化了出来！</VGE_EggHatched>
   <!--EN: {0} hatched!-->
-  <VGE_EggHatchedLabel>{0} 孵化了！</VGE_EggHatchedLabel>
+  <VGE_EggHatchedLabel>{0}已成功孵化！</VGE_EggHatchedLabel>
   <!--EN: {0} has laid an egg! Keep it warm and protected.-->
-  <VGE_EggLaid>{0} 下了一个蛋！保持温暖并受到保护。</VGE_EggLaid>
+  <VGE_EggLaid>{0}产下了一颗蛋！若想顺利孵化，请确保蛋处于温度适宜的安全环境下。</VGE_EggLaid>
   <!--EN: {0} laid an egg!-->
-  <VGE_EggLaidLabel>{0}生了蛋！</VGE_EggLaidLabel>
+  <VGE_EggLaidLabel>{0}产下了一颗蛋！</VGE_EggLaidLabel>
   <!--EN: {0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid.-->
-  <VGE_EggPregnancy>{0}的卵已受精！产卵过程将持续到产下受精卵为止。</VGE_EggPregnancy>
+  <VGE_EggPregnancy>{0}的蛋已成功受精！产蛋进程将持续至一颗受精蛋被产下。</VGE_EggPregnancy>
   <!--EN: {0} fertilized!-->
-  <VGE_EggPregnancyLabel>{0}受精了！</VGE_EggPregnancyLabel>
+  <VGE_EggPregnancyLabel>{0}已成功受精！</VGE_EggPregnancyLabel>
   <!--EN: {0} only gene.-->
-  <VGE_ForGenderOnly>{0}唯一的基因。</VGE_ForGenderOnly>
+  <VGE_ForGenderOnly>{0}限定基因。</VGE_ForGenderOnly>
   <!--EN: Males don't lay eggs-->
-  <VGE_Male_Egg>雄性不产卵</VGE_Male_Egg>
+  <VGE_Male_Egg>男性无法产蛋</VGE_Male_Egg>
   <!--EN: Pregnancy factor gene: {0} gestation speed-->
-  <VGE_PregnancyFactor>怀孕因子基因：{0}妊娠速度</VGE_PregnancyFactor>
+  <VGE_PregnancyFactor>妊娠速度受到基因影响：加成数量 x{0}</VGE_PregnancyFactor>
   <!--EN: light sensitivity-->
-  <VGE_StatsReport_AnyLightSensitivity>光敏度</VGE_StatsReport_AnyLightSensitivity>
+  <VGE_StatsReport_AnyLightSensitivity>光源下</VGE_StatsReport_AnyLightSensitivity>
   <!--EN: armoured-->
-  <VGE_StatsReport_Armoured>装甲的</VGE_StatsReport_Armoured>
+  <VGE_StatsReport_Armoured>着甲</VGE_StatsReport_Armoured>
   <!--EN: below 0ºC-->
-  <VGE_StatsReport_Below0>0℃以下</VGE_StatsReport_Below0>
+  <VGE_StatsReport_Below0>低于0℃</VGE_StatsReport_Below0>
   <!--EN: on colony map-->
-  <VGE_StatsReport_ColonyMap>在殖民地地图上</VGE_StatsReport_ColonyMap>
+  <VGE_StatsReport_ColonyMap>殖民地内</VGE_StatsReport_ColonyMap>
   <!--EN: below 50% lit-->
-  <VGE_StatsReport_InDarkness>低于 50% 点亮</VGE_StatsReport_InDarkness>
+  <VGE_StatsReport_InDarkness>亮度低于50%</VGE_StatsReport_InDarkness>
   <!--EN: above 50% lit-->
-  <VGE_StatsReport_InLight>超过 50% 点亮</VGE_StatsReport_InLight>
+  <VGE_StatsReport_InLight>亮度高于50%</VGE_StatsReport_InLight>
   <!--EN: in pain-->
-  <VGE_StatsReport_InPain>在痛苦</VGE_StatsReport_InPain>
+  <VGE_StatsReport_InPain>疼痛状态</VGE_StatsReport_InPain>
   <!--EN: in the planet-->
   <VGE_StatsReport_InPlanet>在这个星球上</VGE_StatsReport_InPlanet>
   <!--EN: in polluted terrain-->
-  <VGE_StatsReport_InPollution>在受污染的地区</VGE_StatsReport_InPollution>
+  <VGE_StatsReport_InPollution>污染环境中</VGE_StatsReport_InPollution>
   <!--EN: in Space-->
   <VGE_StatsReport_InSpace>在太空中</VGE_StatsReport_InSpace>
   <!--EN: in vacuum-->
@@ -43,15 +43,15 @@
   <!--EN: indoors-->
   <VGE_StatsReport_Inside>室内</VGE_StatsReport_Inside>
   <!--EN: no sunlight-->
-  <VGE_StatsReport_NoSunlight>没有阳光</VGE_StatsReport_NoSunlight>
+  <VGE_StatsReport_NoSunlight>无日光直射</VGE_StatsReport_NoSunlight>
   <!--EN: on dry land-->
-  <VGE_StatsReport_NotWater>在干燥的土地上</VGE_StatsReport_NotWater>
+  <VGE_StatsReport_NotWater>陆地</VGE_StatsReport_NotWater>
   <!--EN: outdoors-->
-  <VGE_StatsReport_Outside>户外</VGE_StatsReport_Outside>
+  <VGE_StatsReport_Outside>室外</VGE_StatsReport_Outside>
   <!--EN: outside colony map-->
-  <VGE_StatsReport_OutsideColonyMap>殖民地外地图</VGE_StatsReport_OutsideColonyMap>
+  <VGE_StatsReport_OutsideColonyMap>殖民地外</VGE_StatsReport_OutsideColonyMap>
   <!--EN: over 40ºC-->
-  <VGE_StatsReport_Over40>超过40℃</VGE_StatsReport_Over40>
+  <VGE_StatsReport_Over40>高于40℃</VGE_StatsReport_Over40>
   <!--EN: on water-->
-  <VGE_StatsReport_Water>在水上</VGE_StatsReport_Water>
+  <VGE_StatsReport_Water>水中</VGE_StatsReport_Water>
 </LanguageData>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.-->
-  <Bed_CryptoBed.description>一种使用部分加密睡眠来减缓伤口退化并帮助身体愈合的医疗方法，尽管具有与加密睡眠相同的副作用，但严重程度较低。</Bed_CryptoBed.description>
+  <Bed_CryptoBed.description>一种使用部分低温休眠技术来促进伤口恢复和帮助身体愈合的设备，尽管存在同样的低温休眠症副作用，但程度较轻。</Bed_CryptoBed.description>
   <!--EN: cryptosleep suspender-->
-  <Bed_CryptoBed.label>加密睡眠背带</Bed_CryptoBed.label>
+  <Bed_CryptoBed.label>低温休眠吊舱</Bed_CryptoBed.label>
   <!--EN: A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds.-->
-  <Bed_OperatingTable.description>一张简陋的桌子上堆满了据说可以使手术更容易的仪器，但桌子的清洁度值得怀疑。与普通病床相比，略微改善医疗效果。</Bed_OperatingTable.description>
+  <Bed_OperatingTable.description>一张粗糙的桌子上堆满了便于操作手术的器械，但是桌子的清洁度是值得怀疑的。治疗效率比普通床稍有改善。</Bed_OperatingTable.description>
   <!--EN: operating table-->
   <Bed_OperatingTable.label>手术台</Bed_OperatingTable.label>
   <!--EN: An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect.-->
-  <Facility_IVDrip.description>静脉滴注架直接放置在医院病床或手术台附近，可快速向患者输送流失的液体，帮助免疫系统和血液恢复流失。仅适用于医院病床或手术台 - 普通病床不会受益。在同一张床上安装多个支架不会产生任何效果。</Facility_IVDrip.description>
+  <Facility_IVDrip.description>静脉滴注架，用于快速向患者补充液体，放置在毗邻医疗床或手术台的位置时，可以帮助患者提高免疫速度和从失血状态中恢复过来。只对医疗床或手术台有效，普通床不会获得加成。在同一个医疗床或手术台旁放置多个静脉滴注架不会产生叠加效果。</Facility_IVDrip.description>
   <!--EN: intravenous drip stand-->
   <Facility_IVDrip.label>静脉滴注架</Facility_IVDrip.label>
   <!--EN: A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times.-->
-  <Facility_ResearchCounter.description>A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean.最多可叠加 20 次。</Facility_ResearchCounter.description>
+  <Facility_ResearchCounter.description>齐腰高的消毒柜，常用于进行敏感研究。小幅提高研究速度与房间的清洁度。需要放置在研究台附近。一个研究台最多可以同时连接二十个研究柜。</Facility_ResearchCounter.description>
   <!--EN: research counter-->
-  <Facility_ResearchCounter.label>研究柜台</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.label>研究柜</Facility_ResearchCounter.label>
   <!--EN: A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit.-->
-  <Facility_VitalsCentre.description>放置在病床或手术台附近时，可以同时监测多名患者的生命体征的大型中心，可提高医疗质量、手术成功率和免疫增益速度。仅适用于医院病床或手术台 - 普通病床不会受益。</Facility_VitalsCentre.description>
+  <Facility_VitalsCentre.description>大型生命体征控制中心，用于同时监测多个患者的生命体征。放置在毗邻医疗床或手术台的位置时，可以提高医疗质量、手术成功率，以及免疫速度。只对医疗床或手术台有效，普通床不会获得加成。在同一个医疗床或手术台旁放置多个生命体征控制中心不会产生叠加效果。</Facility_VitalsCentre.description>
   <!--EN: vitals centre-->
-  <Facility_VitalsCentre.label>生命体征中心</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.label>生命体征控制中心</Facility_VitalsCentre.label>
   <!--EN: An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment.-->
-  <VFEM_Wall_Sterile.description>一堵无法逾越的墙。能撑起屋顶。具有特殊的清洁增强特性，可创造无菌环境。</VFEM_Wall_Sterile.description>
+  <VFEM_Wall_Sterile.description>一面无法通过的墙。可以支撑起屋顶。具有特殊的增强清洁度特性以便营造无菌环境。</VFEM_Wall_Sterile.description>
   <!--EN: sterile wall-->
   <VFEM_Wall_Sterile.label>无菌墙</VFEM_Wall_Sterile.label>
   <!--EN: blue sterile wall-->

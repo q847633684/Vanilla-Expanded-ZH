@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.-->
-    <li>questDescription-&gt;[asker_nameFull]，一种强大的植物素，正在从附近呼唤。她因给他们错误的建议而被 [enemyFaction_name] 驱逐，现在正在被搜索队追捕。 [enemyFaction_pawnsPlural] 的搜索队由以下人员组成：
-
-[raid/raidPawnKinds]
-
-[asker_nameFull] 希望您保证她在 [map_definite] 的安全。如果您接受，她将立即到达，但您需要击败的搜索队将跟随她。
-
-植物蛋白是基于植物的人形生物，强调对称性和共生性。它们仅依靠阳光生存的能力以及与任何和所有植物生命的亲和力使它们特别适合帮助新建立的殖民地或表现不佳的工业化农场。</li>
-  </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.--><li>questDescription-&gt;[asker_nameFull]是一个强大的树人种，她正在附近向你发起请求。她因提供了错误的情报而被[enemyFaction_name]驱逐并正被一支搜查队追捕中。[enemyFaction_pawnsPlural]的搜查队由以下人员组成：\n\n[raid/raidPawnKinds]\n\n[asker_nameFull]希望你能在[map_definite]保护她的安全。如果你同意请求，她将会马上到达，但你需要打败紧随她而来的的搜查队。\n\n树人种是以植物为基础的异种人，她们强调和谐与互助。她们仅依靠阳光生存的能力和对所有植物都有异常亲和力，特别适合帮助那些新建立不久的殖民地或者表现不佳的工业化农场。</li></VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
   <VRE_Intro_Phytokin.questNameRules.rulesStrings>
     <!--EN: questName->the [adjAny] Phytokin-->
-    <li>questName-&gt;[adjAny] 植物蛋白</li>
+    <li>questName-&gt;[adjAny]树人种</li>
     <!--EN: adjAny->hunted-->
-    <li>adjAny-&gt;被追捕</li>
+    <li>adjAny-&gt;惊恐的</li>
     <!--EN: adjAny->fleeing-->
-    <li>adjAny-&gt;逃离</li>
+    <li>adjAny-&gt;逃跑的</li>
     <!--EN: adjAny->solitary-->
-    <li>adjAny-&gt;孤独</li>
+    <li>adjAny-&gt;孤零零的</li>
     <!--EN: adjAny->ambushed-->
-    <li>adjAny-&gt;遭到伏击</li>
+    <li>adjAny-&gt;中埋伏的</li>
   </VRE_Intro_Phytokin.questNameRules.rulesStrings>
 </LanguageData>

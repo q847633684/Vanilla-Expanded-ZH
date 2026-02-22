@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: The rate at which the car accelerate, in cells per second. Higher rate means the vehicle will accelerate to its maximum speed faster. This also affects deceleration rate, which is double the acceleration rate.-->
-  <AccelerationRate.description>汽车加速的速度，以每秒的单元格为单位。速率越高意味着车辆将更快地加速到其最大速度。这也会影响减速度，减速度是加速度的两倍。</AccelerationRate.description>
+  <AccelerationRate.description>载具加速的速率。同时也影响减速效率（会是加速时的两倍）。</AccelerationRate.description>
   <!--EN: Acceleration rate-->
   <AccelerationRate.label>加速度</AccelerationRate.label>
 </LanguageData>

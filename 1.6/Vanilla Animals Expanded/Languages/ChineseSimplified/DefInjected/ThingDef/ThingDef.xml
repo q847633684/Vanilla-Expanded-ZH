@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water.-->
-  <AEXP_Anaconda.description>森蚺是已知的最重、最长的蛇类之一，长度可达 5 米。 They are a primarily nocturnal species that tends to spend most of its life in or around water.</AEXP_Anaconda.description>
+  <AEXP_Anaconda.description>水蟒是已知最重、最长的蛇类，能达5米长。夜行性物种，大部分时间生活在水中或水边。</AEXP_Anaconda.description>
   <!--EN: anaconda-->
-  <AEXP_Anaconda.label>蟒蛇</AEXP_Anaconda.label>
+  <AEXP_Anaconda.label>水蟒</AEXP_Anaconda.label>
   <!--EN: head-->
   <AEXP_Anaconda.tools.1.label>头</AEXP_Anaconda.tools.1.label>
   <!--EN: A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.-->
-  <AEXP_ArcticCoyote.description>一种原产于苔原和北方森林的小型犬科动物。它能够捕猎更大的猎物，并且经常成群出现，类似于狼。</AEXP_ArcticCoyote.description>
+  <AEXP_ArcticCoyote.description>一种小型犬科动物，往往成群生活于苔原和针叶林。狩猎能力出色，能解决更大的猎物。</AEXP_ArcticCoyote.description>
   <!--EN: arctic coyote-->
-  <AEXP_ArcticCoyote.label>北极狼</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.label>北极郊狼</AEXP_ArcticCoyote.label>
   <!--EN: left claw-->
   <AEXP_ArcticCoyote.tools.0.label>左爪</AEXP_ArcticCoyote.tools.0.label>
   <!--EN: right claw-->
@@ -17,7 +17,7 @@
   <!--EN: head-->
   <AEXP_ArcticCoyote.tools.3.label>头</AEXP_ArcticCoyote.tools.3.label>
   <!--EN: A small scent hound developed primarily to hunt hares. It's intelligence and loyalty make it a valuable companion on the hunt.-->
-  <AEXP_Beagle.description>一种小型嗅觉猎犬，主要用于捕猎野兔。它的智慧和忠诚使其成为狩猎时的宝贵伙伴。</AEXP_Beagle.description>
+  <AEXP_Beagle.description>比格犬又称为米格鲁猎兔犬，在分类上属于狩猎犬。是非常古老的品种，另一重要作用是试验犬，很多的生理、医药试验必须在该品种个体身上通过验证，才能被承认。\n\n该犬喜吠叫，发情时叫声频繁。体高41cm以下；被毛中等长度、紧密，毛色较杂。</AEXP_Beagle.description>
   <!--EN: beagle-->
   <AEXP_Beagle.label>比格犬</AEXP_Beagle.label>
   <!--EN: left claw-->
@@ -29,7 +29,7 @@
   <!--EN: head-->
   <AEXP_Beagle.tools.3.label>头</AEXP_Beagle.tools.3.label>
   <!--EN: A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form.-->
-  <AEXP_Beaver.description>一种大型半水生啮齿动物，具有扁平的桨状一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。和有蹼的后足。海狸以其与生俱来的建筑技能而闻名，它们用树枝、树枝、岩石和湖泊、溪流和潮汐河三角洲的泥土建造自己的家园或“小屋”。海狸以在溪流上修建水坝并在形成的人工池塘中建造巢穴而闻名。</AEXP_Beaver.description>
+  <AEXP_Beaver.description>一种大型半水栖啮齿动物，尾巴扁平，桨状，后脚有蹼。海狸以其天生的建筑技能而闻名，它们用树枝、树叶、岩石和淤泥在湖泊、溪流和三角洲建造家园或“小屋”。海狸以在溪流上筑坝和在池塘中筑巢而闻名。</AEXP_Beaver.description>
   <!--EN: beaver-->
   <AEXP_Beaver.label>海狸</AEXP_Beaver.label>
   <!--EN: left claw-->
@@ -39,19 +39,17 @@
   <!--EN: head-->
   <AEXP_Beaver.tools.3.label>头</AEXP_Beaver.tools.3.label>
   <!--EN: Beaver dams or beaver impoundments are dams built by beavers to provide ponds as protection against predators such as coyotes, wolves, and bears, and to provide easy access to food during winter.-->
-  <AEXP_BeaverDam.description>海狸水坝或海狸蓄水池是由海狸建造的水坝，目的是提供池塘来抵御土狼、狼和熊等掠食者，并在冬季方便获取食物。</AEXP_BeaverDam.description>
+  <AEXP_BeaverDam.description>海狸坝或海狸蓄水池是由海狸建造的堤坝，用以保护水塘，以抵御野狼、狼和熊等掠食者，并在冬季方便其获取食物。</AEXP_BeaverDam.description>
   <!--EN: beaver dam-->
   <AEXP_BeaverDam.label>海狸坝</AEXP_BeaverDam.label>
   <!--EN: A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.-->
-  <AEXP_BlackBear.description>一种适应寒冷气候的中型杂食性哺乳动物。熊厚厚的脂肪和毛皮使它们在冬天保持温暖。
-
-虽然它们通常的饮食包括鱼、浆果、蜂蜜和腐烂的肉，但黑熊能够利用其巨大的力量和致命的爪子杀死活的猎物。对于这种笨重的生物来说，它们的速度快得惊人。</AEXP_BlackBear.description>
+  <AEXP_BlackBear.description>一种适应了寒冷气候的中型杂食性哺乳动物。它们厚厚的脂肪和皮毛可以在冬季保暖。\n\n虽然它们平时的饮食包括鱼、浆果、蜂蜜、腐肉，灰熊仍能利用其巨大的力量和致命的爪子杀死活着的猎物。虽然它们的外形看起来很笨重，但却出人意料的十分敏捷。</AEXP_BlackBear.description>
   <!--EN: black bear-->
   <AEXP_BlackBear.label>黑熊</AEXP_BlackBear.label>
   <!--EN: Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed.-->
-  <AEXP_Boombat.description>由于一些疯狂的实验，这些可爱、拟人化的动物角色，具有人的个性与特点。的啮齿动物在被杀死时会产生强大的起火爆炸。</AEXP_Boombat.description>
+  <AEXP_Boombat.description>疯狂实验的产物。这些可爱而毛茸茸的啮齿类生物在被杀害时会引发可怕的爆炸。</AEXP_Boombat.description>
   <!--EN: boombat-->
-  <AEXP_Boombat.label>轰击者</AEXP_Boombat.label>
+  <AEXP_Boombat.label>爆炸袋熊</AEXP_Boombat.label>
   <!--EN: left claw-->
   <AEXP_Boombat.tools.0.label>左爪</AEXP_Boombat.tools.0.label>
   <!--EN: right claw-->
@@ -59,9 +57,7 @@
   <!--EN: head-->
   <AEXP_Boombat.tools.3.label>头</AEXP_Boombat.tools.3.label>
   <!--EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.-->
-  <AEXP_Camel.description>适应干旱环境的大型陆地哺乳动物。自古以来就被驯化，它的羊毛和皮革都非常适合抵御沙漠的酷热，而且它的乳汁也非常有营养。它可以用作群居动物，但两个驼峰让骑起来非常不舒服。
-
-通过在大驼峰中储存水并在呼气时从呼吸中回收水分，它可以数周不喝水。</AEXP_Camel.description>
+  <AEXP_Camel.description>一种大型的旱地哺乳类动物，从古时就开始被驯养，皮毛有不错的加工价值，在干旱的坏境下也能产不少的乳汁。同时也是出色的驼运动物，但因为自带的驼峰，可能骑起来不会太舒适。\n\n会在驼峰里存水，还能通过呼吸吸收空气中的水分，能在无水饮用的情况下生存两周。</AEXP_Camel.description>
   <!--EN: camel-->
   <AEXP_Camel.label>骆驼</AEXP_Camel.label>
   <!--EN: left hoof-->
@@ -71,7 +67,7 @@
   <!--EN: head-->
   <AEXP_Camel.tools.3.label>头</AEXP_Camel.tools.3.label>
   <!--EN: A slender, fine-boned, medium sized shrubland cat.-->
-  <AEXP_CatAbyssinian.description>细长、骨骼细密、中等大小的灌木丛猫。</AEXP_CatAbyssinian.description>
+  <AEXP_CatAbyssinian.description>传说阿比西尼亚猫是古埃及被崇拜为“神圣之物”的古埃及猫的后裔。由于它们的整体外形、毛色、直立耳均同非洲山猫接近，亦有人认为它们源于非洲山猫。\n\n阿比西尼亚猫身躯柔软灵活，有着楔形的脸蛋、大而尖的耳朵、呈杏仁状的双眼，眼睛的颜色为琥珀色、浅褐色或是绿色，眼睛的周围并有一圈深色的色环，像是画了眼线一般。</AEXP_CatAbyssinian.description>
   <!--EN: abyssinian cat-->
   <AEXP_CatAbyssinian.label>阿比西尼亚猫</AEXP_CatAbyssinian.label>
   <!--EN: left claw-->
@@ -81,9 +77,9 @@
   <!--EN: head-->
   <AEXP_CatAbyssinian.tools.3.label>头</AEXP_CatAbyssinian.tools.3.label>
   <!--EN: A domesticated hybrid of a domestic cat and tropical leopard.-->
-  <AEXP_CatBengal.description>家养猫和热带豹的驯化杂交种。</AEXP_CatBengal.description>
+  <AEXP_CatBengal.description>孟加拉豹猫是一种很独特的猫种。它们的祖先是亚洲豹纹猫和埃及家猫的混种猫。\n\n突出的口鼻与宽大而接近圆形的眼睛、有点小的头部使它们有着狂野的外表。它们凹曲线的侧面轮廓是平滑而接近直线的，相对短的耳朵有着宽的耳根与圆的耳尖更增加了这种猫的独特性。\n\n它们短而稠密的披毛有着独特的柔软与丝绸般的触感。它们的披毛可能有光毛也可能没有，不管有没有都是相当美的。粗厚、低垂、中等至长的尾巴更增加了它们的平衡感与美感。</AEXP_CatBengal.description>
   <!--EN: bengal cat-->
-  <AEXP_CatBengal.label>孟加拉 猫</AEXP_CatBengal.label>
+  <AEXP_CatBengal.label>孟加拉豹猫</AEXP_CatBengal.label>
   <!--EN: left claw-->
   <AEXP_CatBengal.tools.0.label>左爪</AEXP_CatBengal.tools.0.label>
   <!--EN: right claw-->
@@ -91,9 +87,9 @@
   <!--EN: head-->
   <AEXP_CatBengal.tools.3.label>头</AEXP_CatBengal.tools.3.label>
   <!--EN: A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless.-->
-  <AEXP_CatBritishShorthair.description>普通英国猫猫的纯种版本，具有独特的粗壮身体、浓密的被毛和非常宽阔的脸。虽然由于胸部大和爪子大而看起来相对强大，但这些猫绝对无害。</AEXP_CatBritishShorthair.description>
+  <AEXP_CatBritishShorthair.description>英国短毛猫，体形圆胖，四肢粗短发达，毛短而密，头大脸圆，温柔平静，对人友善，极易饲养。大而圆的眼睛根据被毛不同而呈现各种颜色。\n\n作为一个古老的猫品种，其历史可追溯至古罗马时期的家猫。英国短毛猫除了拥有固定而聚，代表性的遗传特征之外，又具有丰富的变异性，如背毛色眼睛颜色等。</AEXP_CatBritishShorthair.description>
   <!--EN: british shorthair cat-->
-  <AEXP_CatBritishShorthair.label>英国短毛猫猫</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.label>英国短毛猫</AEXP_CatBritishShorthair.label>
   <!--EN: left claw-->
   <AEXP_CatBritishShorthair.tools.0.label>左爪</AEXP_CatBritishShorthair.tools.0.label>
   <!--EN: right claw-->
@@ -101,9 +97,9 @@
   <!--EN: head-->
   <AEXP_CatBritishShorthair.tools.3.label>头</AEXP_CatBritishShorthair.tools.3.label>
   <!--EN: A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant."-->
-  <AEXP_CatMaineCoon.description>体型最大的驯养动物猫，拥有独特的外貌和宝贵的狩猎技能。它体型庞大且善于交际猫，因此被赋予了“温柔的巨人”的绰号。</AEXP_CatMaineCoon.description>
+  <AEXP_CatMaineCoon.description>缅因猫因原产于古地球美国缅因州而得名，是北美自然产生的第一个大型长毛猫品种。体格强壮，捕鼠技巧精湛，能忍受恶劣的天气。\n\n它们最特别的是以拥有一身顺滑，而浓密的披毛，光滑有层次，底层的绒毛细软，背部和腿部的毛长而浓密，尾部的毛像羽毛一样散开。颈部有毛领圈。\n\n另一不同寻常的特点是它们能发出像小鸟般唧唧的轻叫声，非常动听。</AEXP_CatMaineCoon.description>
   <!--EN: maine coon-->
-  <AEXP_CatMaineCoon.label>缅因浣熊</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.label>缅因猫</AEXP_CatMaineCoon.label>
   <!--EN: left claw-->
   <AEXP_CatMaineCoon.tools.0.label>左爪</AEXP_CatMaineCoon.tools.0.label>
   <!--EN: right claw-->
@@ -111,9 +107,9 @@
   <!--EN: head-->
   <AEXP_CatMaineCoon.tools.3.label>头</AEXP_CatMaineCoon.tools.3.label>
   <!--EN: Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle.-->
-  <AEXP_CatMunchkin.description>这种新的猫品种也被称为香肠猫，具有明显的短腿。这些猫性情甜美、顽皮、以人为本，是懒惰生活方式的人的完美伴侣。</AEXP_CatMunchkin.description>
+  <AEXP_CatMunchkin.description>曼切堪猫中等身形，身体略长。有一双特有的短脚，这是由家猫常染色体的显性基因而得来的。\n\n曼切堪猫性格友善、聪明，很快便能学会一些小把戏，终生都保留着小猫的天真活泼的特性。</AEXP_CatMunchkin.description>
   <!--EN: munchkin cat-->
-  <AEXP_CatMunchkin.label>芒奇金猫</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.label>曼切堪猫</AEXP_CatMunchkin.label>
   <!--EN: left claw-->
   <AEXP_CatMunchkin.tools.0.label>左爪</AEXP_CatMunchkin.tools.0.label>
   <!--EN: right claw-->
@@ -121,7 +117,7 @@
   <!--EN: head-->
   <AEXP_CatMunchkin.tools.3.label>头</AEXP_CatMunchkin.tools.3.label>
   <!--EN: A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair.-->
-  <AEXP_CatNorwegianForest.description>一种猫适应非常寒冷的气候，因为它的表层毛发有光泽、易脱落的毛发。</AEXP_CatNorwegianForest.description>
+  <AEXP_CatNorwegianForest.description>挪威森林猫常常以像妖精的猫出现在古地球北欧的神话之中。\n\n挪威森林猫生长的环境非常寒冷和恶劣，因此它们长有比其他猫更厚密的被毛和强壮的体格，奔跑速度极快，不怕日晒雨淋，行走时颈毛和尾毛飘逸，非常美丽。</AEXP_CatNorwegianForest.description>
   <!--EN: norwegian forest cat-->
   <AEXP_CatNorwegianForest.label>挪威森林猫</AEXP_CatNorwegianForest.label>
   <!--EN: left claw-->
@@ -131,9 +127,9 @@
   <!--EN: head-->
   <AEXP_CatNorwegianForest.tools.3.label>头</AEXP_CatNorwegianForest.tools.3.label>
   <!--EN: A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds.-->
-  <AEXP_CatPersian.description>波斯猫是一种长毛猫，起源于沙漠野猫，高贵、聪明、敏捷，这使得它们非常适合捕猎小型啮齿动物和鸟类。</AEXP_CatPersian.description>
+  <AEXP_CatPersian.description>波斯猫是以古地球阿富汗的土种长毛猫和土耳其的安哥拉长毛猫为基础，在英国经过100多年的选种繁殖，于1860年诞生的一个品种。\n长毛，圆胖型。中型到大型都有。骨骼粗壮，肌肉发达。四肢短而直，脚掌大呈短圆形。尾巴短与身材对称，毛膨松而长，非常高贵有气派。头大而圆，额、鼻、颚都是平平的。鼻子很短，鼻梁宽。全身满是像丝一般柔软和有光泽的膨松的毛。\n波斯猫一向给人一副高贵傲慢的气质，可爱的脸和表情，膨松的尾巴都是自古以来受欢迎的特征。性格温驯，乖巧，斯文，波斯猫的反应是非常快和热烈，所以深得饲主疼爱。</AEXP_CatPersian.description>
   <!--EN: persian cat-->
-  <AEXP_CatPersian.label>波斯语 猫</AEXP_CatPersian.label>
+  <AEXP_CatPersian.label>波斯猫</AEXP_CatPersian.label>
   <!--EN: left claw-->
   <AEXP_CatPersian.tools.0.label>左爪</AEXP_CatPersian.tools.0.label>
   <!--EN: right claw-->
@@ -141,9 +137,9 @@
   <!--EN: head-->
   <AEXP_CatPersian.tools.3.label>头</AEXP_CatPersian.tools.3.label>
   <!--EN: A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature.-->
-  <AEXP_CatSiamese.description>一只猫，有着独特的三角形头部、蓝色的眼睛和长而肌肉发达的角色。发达的身体，以其社会性而闻名。</AEXP_CatSiamese.description>
+  <AEXP_CatSiamese.description>暹罗猫体型中等，修长苗条。骨胳纤细，肌肉结实。颈长，体长，尾细长。从肩至臀部呈圆筒状。\n\n暹罗猫能够较好适应主人当地的气候，且性格刚烈好动，机智灵活，好奇心特强，善解人意。暹罗猫喜欢与人为伴，可用皮带拴着散步。它们需要主人的不断爱抚和关心，对主人忠心耿耿、感情深厚，如果强制与主人分开，则可能会抑郁而死。暹罗猫还十分聪明，能很快学会翻筋斗叼回抛物等技巧。暹罗猫的叫声独特或像小孩的啼哭声，而且声音很大。</AEXP_CatSiamese.description>
   <!--EN: siamese cat-->
-  <AEXP_CatSiamese.label>暹罗 猫</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.label>暹罗猫</AEXP_CatSiamese.label>
   <!--EN: left claw-->
   <AEXP_CatSiamese.tools.0.label>左爪</AEXP_CatSiamese.tools.0.label>
   <!--EN: right claw-->
@@ -151,9 +147,9 @@
   <!--EN: head-->
   <AEXP_CatSiamese.tools.3.label>头</AEXP_CatSiamese.tools.3.label>
   <!--EN: A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes.-->
-  <AEXP_CatSomali.description>灌木丛猫，与阿比西尼亚猫属于同一科。它有一个浓密的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。和杏仁形的眼睛。</AEXP_CatSomali.description>
+  <AEXP_CatSomali.description>索马里猫十分聪明、性格温和，善解人意。可以像猴子般横行，而抓食物或东西的方式也像猴子一样。大部份的索马利猫都懂得开水龙头，因为它们都喜欢玩水。\n它们那蹦紧的肌肉和严肃的脸给人一种非常野性的感觉，它们的运动神经极为发达，因而动作敏捷，喜欢自由活动，叫声也特别的清澈响亮，因而不适合养在公寓里。</AEXP_CatSomali.description>
   <!--EN: somali cat-->
-  <AEXP_CatSomali.label>索马里语 猫</AEXP_CatSomali.label>
+  <AEXP_CatSomali.label>索马里猫</AEXP_CatSomali.label>
   <!--EN: left claw-->
   <AEXP_CatSomali.tools.0.label>左爪</AEXP_CatSomali.tools.0.label>
   <!--EN: right claw-->
@@ -161,7 +157,7 @@
   <!--EN: head-->
   <AEXP_CatSomali.tools.3.label>头</AEXP_CatSomali.tools.3.label>
   <!--EN: A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources.-->
-  <AEXP_CatSphynx.description>一种因缺乏皮毛而闻名的猫，是通过选择性繁殖而发育的。由于对触摸感到温暖，它们很容易失去体温，从而使其寻找热源。</AEXP_CatSphynx.description>
+  <AEXP_CatSphynx.description>加拿大无毛猫亦称斯芬克斯猫，是古地球多伦多市养猫爱好者在1966年从一窝几乎是无毛的猫仔中，经过近交选育，特意为对猫毛过敏的爱猫者培育成的。\n\n这种猫是自然的基因突变产生的宠物猫，除了在耳、口、鼻、尾前段、脚等部位有些又薄又软的胎毛外，其他全身部分均无毛，皮肤多皱有弹性。\n\n加拿大无毛猫性情温顺，独立性强，无攻击性，能与其他猫狗相处。</AEXP_CatSphynx.description>
   <!--EN: sphynx cat-->
   <AEXP_CatSphynx.label>斯芬克斯猫</AEXP_CatSphynx.label>
   <!--EN: left claw-->
@@ -171,13 +167,13 @@
   <!--EN: head-->
   <AEXP_CatSphynx.tools.3.label>头</AEXP_CatSphynx.tools.3.label>
   <!--EN: These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs.-->
-  <AEXP_Cheetah.description>这些猫又瘦又瘦，使它们能够达到令人难以置信的速度。它们有棕褐色的皮毛，上面有纯黑色的圆形斑点，腿很长，有一条长而窄的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。以保持平衡，胸部很深，里面有很大的肺部。</AEXP_Cheetah.description>
+  <AEXP_Cheetah.description>这种大猫精瘦而修长，配有健壮的长腿、细长的尾巴和大型的肺部，可以达到很高很高的奔跑速度。皮毛配有黑色斑纹用着，便于隐藏。</AEXP_Cheetah.description>
   <!--EN: cheetah-->
   <AEXP_Cheetah.label>猎豹</AEXP_Cheetah.label>
   <!--EN: A small dog, just a little bit bigger than a rat. Back in ancient times considered to be reincarnations of different deities and are to this day considered sacred.-->
-  <AEXP_Chihuahua.description>一只小狗，只比老鼠大一点点。在古代，它们被认为是不同神的转世，至今仍被认为是神圣的。</AEXP_Chihuahua.description>
+  <AEXP_Chihuahua.description>吉娃娃犬是世界上最小型的犬种之一，头部圆形，耳大薄而直立，眼睛圆而大。\n\n吉娃娃犬警惕而勇敢，不惧怕大型犬，排斥外来犬。黏人，对主人有占有欲。精力充沛，但无特别的户外需求，且怕冷。</AEXP_Chihuahua.description>
   <!--EN: chihuahua-->
-  <AEXP_Chihuahua.label>奇瓦瓦州</AEXP_Chihuahua.label>
+  <AEXP_Chihuahua.label>吉娃娃犬</AEXP_Chihuahua.label>
   <!--EN: left claw-->
   <AEXP_Chihuahua.tools.0.label>左爪</AEXP_Chihuahua.tools.0.label>
   <!--EN: right claw-->
@@ -187,7 +183,7 @@
   <!--EN: head-->
   <AEXP_Chihuahua.tools.3.label>头</AEXP_Chihuahua.tools.3.label>
   <!--EN: Historically used for cattle herding, Corgis quickly became popular on imperial worlds and are recognized as a symbol of royalty.-->
-  <AEXP_Corgi.description>柯基犬历史上用于放牧，很快在帝国世界中流行起来，并被认为是皇室的象征。</AEXP_Corgi.description>
+  <AEXP_Corgi.description>柯基犬是一种小型护卫犬，它们的胆子很大，也相当机警，可以高度警惕地守护家园。它们很快就在帝国世界里流行开来，并成为了皇权的象征之一。</AEXP_Corgi.description>
   <!--EN: corgi-->
   <AEXP_Corgi.label>柯基犬</AEXP_Corgi.label>
   <!--EN: left claw-->
@@ -199,9 +195,9 @@
   <!--EN: head-->
   <AEXP_Corgi.tools.3.label>头</AEXP_Corgi.tools.3.label>
   <!--EN: A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.-->
-  <AEXP_Coyote.description>草原狼原产于沙漠和灌木丛地区。它能够捕猎更大的猎物，并且经常成群出现，类似于狼。</AEXP_Coyote.description>
+  <AEXP_Coyote.description>一种生活在半灌木地半沙漠的野狼。样貌和捕猎方式都像狼，经常集团行动，能捕猎远比起大的猎物。</AEXP_Coyote.description>
   <!--EN: coyote-->
-  <AEXP_Coyote.label>土狼</AEXP_Coyote.label>
+  <AEXP_Coyote.label>郊狼</AEXP_Coyote.label>
   <!--EN: left claw-->
   <AEXP_Coyote.tools.0.label>左爪</AEXP_Coyote.tools.0.label>
   <!--EN: right claw-->
@@ -209,11 +205,11 @@
   <!--EN: head-->
   <AEXP_Coyote.tools.3.label>头</AEXP_Coyote.tools.3.label>
   <!--EN: A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes.-->
-  <AEXP_Crocodile.description>一种大型半水生爬行动物，最常见于河岸。它的捕食本能与极其强壮的下巴相结合，使它们能够应对更大的猎物。年长的鳄鱼可以长到巨大的体型。</AEXP_Crocodile.description>
+  <AEXP_Crocodile.description>一种大型的两栖爬行类动物，通常栖息于河畔边上。出色的捕猎本能加上极强的咬合力，使得它们可以扭倒比自身大得多的猎物。年长而出色的鳄鱼能长到怪物般的尺寸。</AEXP_Crocodile.description>
   <!--EN: crocodile-->
   <AEXP_Crocodile.label>鳄鱼</AEXP_Crocodile.label>
   <!--EN: This heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame.-->
-  <AEXP_DesertTortoise.description>这种全副武装的沙漠爬行动物以其缓慢的移动速度和极其坚硬的扁平圆顶外壳而闻名，使其难以被杀死。沙漠陆龟虽然体型较小，但却是出色的战斗动物，而且相对容易驯服。</AEXP_DesertTortoise.description>
+  <AEXP_DesertTortoise.description>一种身着“重甲”的沙漠爬行类动物，行动缓慢但加壳异常坚硬。虽然体型小，但防御力和咬合力都很好，是不错的战斗动物，也相对容易被驯服。</AEXP_DesertTortoise.description>
   <!--EN: desert tortoise-->
   <AEXP_DesertTortoise.label>沙漠龟</AEXP_DesertTortoise.label>
   <!--EN: beak-->
@@ -221,63 +217,63 @@
   <!--EN: head-->
   <AEXP_DesertTortoise.tools.1.label>头</AEXP_DesertTortoise.tools.1.label>
   <!--EN: A fertilized anaconda egg. If all goes well, it should hatch into an anaconda. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggAnacondaFertilized.description>受精的水蚺卵。如果一切顺利，它应该会孵化成蟒蛇。它可以生吃，但煮熟后效果更好。</AEXP_EggAnacondaFertilized.description>
+  <AEXP_EggAnacondaFertilized.description>已受精的水蟒蛋。如果一切顺利应该可以孵化出小水蟒。可以生吃，但是最好烹饪后食用。</AEXP_EggAnacondaFertilized.description>
   <!--EN: anaconda egg (fert.)-->
-  <AEXP_EggAnacondaFertilized.label>蟒蛇蛋（受精）</AEXP_EggAnacondaFertilized.label>
+  <AEXP_EggAnacondaFertilized.label>水蟒蛋（已受精）</AEXP_EggAnacondaFertilized.label>
   <!--EN: An unfertilized anaconda egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggAnacondaUnfertilized.description>未受精的蟒蛇卵。它可以生吃，但煮熟后吃效果更好。</AEXP_EggAnacondaUnfertilized.description>
+  <AEXP_EggAnacondaUnfertilized.description>未受精的水蟒蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggAnacondaUnfertilized.description>
   <!--EN: anaconda egg (unfert.)-->
-  <AEXP_EggAnacondaUnfertilized.label>蟒蛇蛋（未受精）</AEXP_EggAnacondaUnfertilized.label>
+  <AEXP_EggAnacondaUnfertilized.label>水蟒蛋（未受精）</AEXP_EggAnacondaUnfertilized.label>
   <!--EN: A fertilized crocodile egg. If all goes well, it should hatch into a crocodile. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggCrocodileFertilized.description>受精的鳄鱼蛋。如果一切顺利的话，它应该会孵化成鳄鱼。它可以生吃，但煮熟后效果更好。</AEXP_EggCrocodileFertilized.description>
+  <AEXP_EggCrocodileFertilized.description>已受精的鳄鱼蛋。如果一切顺利应该可以孵化出小鳄鱼。可以生吃，但是最好烹饪后食用。</AEXP_EggCrocodileFertilized.description>
   <!--EN: crocodile egg (fert.)-->
-  <AEXP_EggCrocodileFertilized.label>鳄鱼蛋（受精）</AEXP_EggCrocodileFertilized.label>
+  <AEXP_EggCrocodileFertilized.label>鳄鱼蛋（已受精）</AEXP_EggCrocodileFertilized.label>
   <!--EN: An unfertilized crocodile egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggCrocodileUnfertilized.description>未受精的鳄鱼蛋。它可以生吃，但煮熟后吃效果更好。</AEXP_EggCrocodileUnfertilized.description>
+  <AEXP_EggCrocodileUnfertilized.description>未受精的鳄鱼蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggCrocodileUnfertilized.description>
   <!--EN: crocodile egg (unfert.)-->
   <AEXP_EggCrocodileUnfertilized.label>鳄鱼蛋（未受精）</AEXP_EggCrocodileUnfertilized.label>
   <!--EN: A fertilized desert tortoise egg. If all goes well, it should hatch into a baby desert tortoise. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggDesertTortoiseFertilized.description>沙漠龟受精卵。如果一切顺利，它应该会孵化成小沙漠龟。它可以生吃，但煮熟后效果更好。</AEXP_EggDesertTortoiseFertilized.description>
+  <AEXP_EggDesertTortoiseFertilized.description>已受精的沙漠龟蛋。如果一切顺利应该可以孵化出小沙漠龟。可以生吃，但是最好烹饪后食用。</AEXP_EggDesertTortoiseFertilized.description>
   <!--EN: desert tortoise egg (fert.)-->
-  <AEXP_EggDesertTortoiseFertilized.label>沙漠龟蛋（受精）</AEXP_EggDesertTortoiseFertilized.label>
+  <AEXP_EggDesertTortoiseFertilized.label>沙漠龟蛋（已受精）</AEXP_EggDesertTortoiseFertilized.label>
   <!--EN: An unfertilized desert tortoise egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggDesertTortoiseUnfertilized.description>未受精的沙漠龟蛋。它可以生吃，但煮熟后吃效果更好。</AEXP_EggDesertTortoiseUnfertilized.description>
+  <AEXP_EggDesertTortoiseUnfertilized.description>未受精的沙漠龟蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggDesertTortoiseUnfertilized.description>
   <!--EN: desert tortoise egg (unfert.)-->
   <AEXP_EggDesertTortoiseUnfertilized.label>沙漠龟蛋（未受精）</AEXP_EggDesertTortoiseUnfertilized.label>
   <!--EN: A fertilized gila monster egg. If all goes well, it should hatch into a baby gila monster. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggGilaMonsterFertilized.description>受精的毒蜥怪物卵。如果一切顺利，它应该会孵化成小希拉怪物。它可以生吃，但煮熟后效果更好。</AEXP_EggGilaMonsterFertilized.description>
+  <AEXP_EggGilaMonsterFertilized.description>已受精的钝尾毒蜥蛋。如果一切顺利应该可以孵化出小钝尾毒蜥。可以生吃，但是最好烹饪后食用。</AEXP_EggGilaMonsterFertilized.description>
   <!--EN: gila monster egg (fert.)-->
-  <AEXP_EggGilaMonsterFertilized.label>疯狂的怪物蛋（受精）</AEXP_EggGilaMonsterFertilized.label>
+  <AEXP_EggGilaMonsterFertilized.label>钝尾毒蜥蛋（已受精）</AEXP_EggGilaMonsterFertilized.label>
   <!--EN: An unfertilized desert gila monster egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggGilaMonsterUnfertilized.description>未受精的沙漠毒蜥怪物蛋。它可以生吃，但煮熟后吃效果更好。</AEXP_EggGilaMonsterUnfertilized.description>
+  <AEXP_EggGilaMonsterUnfertilized.description>未受精的沙漠钝尾毒蜥蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggGilaMonsterUnfertilized.description>
   <!--EN: gila monster egg (unfert.)-->
-  <AEXP_EggGilaMonsterUnfertilized.label>希拉 怪物 蛋（未受精）</AEXP_EggGilaMonsterUnfertilized.label>
+  <AEXP_EggGilaMonsterUnfertilized.label>钝尾毒蜥蛋（未受精）</AEXP_EggGilaMonsterUnfertilized.label>
   <!--EN: A fertilized platypus egg. If all goes well, it should hatch into a baby platypus. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggPlatypusFertilized.description>鸭嘴兽的受精卵。如果一切顺利，它应该会孵化成小鸭嘴兽。它可以生吃，但煮熟后效果更好。</AEXP_EggPlatypusFertilized.description>
+  <AEXP_EggPlatypusFertilized.description>已受精的鸭嘴兽蛋。如果一切顺利应该可以孵化出小鸭嘴兽。可以生吃，但是最好烹饪后食用。</AEXP_EggPlatypusFertilized.description>
   <!--EN: platypus egg (fert.)-->
-  <AEXP_EggPlatypusFertilized.label>鸭嘴兽蛋（受精）</AEXP_EggPlatypusFertilized.label>
+  <AEXP_EggPlatypusFertilized.label>鸭嘴兽蛋（已受精）</AEXP_EggPlatypusFertilized.label>
   <!--EN: An unfertilized platypus egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggPlatypusUnfertilized.description>未受精的鸭嘴兽卵。它可以生吃，但煮熟后吃效果更好。</AEXP_EggPlatypusUnfertilized.description>
+  <AEXP_EggPlatypusUnfertilized.description>未受精的鸭嘴兽蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggPlatypusUnfertilized.description>
   <!--EN: platypus egg (unfert.)-->
   <AEXP_EggPlatypusUnfertilized.label>鸭嘴兽蛋（未受精）</AEXP_EggPlatypusUnfertilized.label>
   <!--EN: A fertilized rattlesnake egg. If all goes well, it should hatch into a rattlesnake. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggRattlesnakeFertilized.description>响尾蛇受精卵。如果一切顺利，它应该会孵化成响尾蛇。它可以生吃，但煮熟后效果更好。</AEXP_EggRattlesnakeFertilized.description>
+  <AEXP_EggRattlesnakeFertilized.description>已受精的响尾蛇蛋。如果一切顺利应该可以孵化出小响尾蛇。可以生吃，但是最好烹饪后食用。</AEXP_EggRattlesnakeFertilized.description>
   <!--EN: rattlesnake egg (fert.)-->
-  <AEXP_EggRattlesnakeFertilized.label>响尾蛇蛋（受精）</AEXP_EggRattlesnakeFertilized.label>
+  <AEXP_EggRattlesnakeFertilized.label>响尾蛇蛋（已受精）</AEXP_EggRattlesnakeFertilized.label>
   <!--EN: An unfertilized rattlesnake egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggRattlesnakeUnfertilized.description>未受精的响尾蛇卵。它可以生吃，但煮熟后吃效果更好。</AEXP_EggRattlesnakeUnfertilized.description>
+  <AEXP_EggRattlesnakeUnfertilized.description>未受精的响尾蛇蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggRattlesnakeUnfertilized.description>
   <!--EN: rattlesnake egg (unfert.)-->
   <AEXP_EggRattlesnakeUnfertilized.label>响尾蛇蛋（未受精）</AEXP_EggRattlesnakeUnfertilized.label>
   <!--EN: A fertilized wild goose egg. If all goes well, it should hatch into a baby wild gosling. It can be eaten raw, but it's much better cooked.-->
-  <AEXP_EggWildGooseFertilized.description>受精的大雁蛋。如果一切顺利，它应该会孵化成小野鹅。它可以生吃，但煮熟后效果更好。</AEXP_EggWildGooseFertilized.description>
+  <AEXP_EggWildGooseFertilized.description>已受精的大雁蛋。如果一切顺利应该可以孵化出小雁。可以生吃，但是最好烹饪后食用。</AEXP_EggWildGooseFertilized.description>
   <!--EN: wild goose egg (fert.)-->
-  <AEXP_EggWildGooseFertilized.label>雁蛋（已受精）</AEXP_EggWildGooseFertilized.label>
+  <AEXP_EggWildGooseFertilized.label>大雁蛋（已受精）</AEXP_EggWildGooseFertilized.label>
   <!--EN: An unfertilized wild goose egg. It can be eaten raw, but it's much, much better cooked.-->
-  <AEXP_EggWildGooseUnfertilized.description>未受精的雁蛋。它可以生吃，但煮熟后吃效果更好。</AEXP_EggWildGooseUnfertilized.description>
+  <AEXP_EggWildGooseUnfertilized.description>未受精的大雁蛋。可以生吃，但是最好烹饪后食用。</AEXP_EggWildGooseUnfertilized.description>
   <!--EN: wild goose egg (unfert.)-->
-  <AEXP_EggWildGooseUnfertilized.label>雁蛋（未受精）</AEXP_EggWildGooseUnfertilized.label>
+  <AEXP_EggWildGooseUnfertilized.label>大雁蛋（未受精）</AEXP_EggWildGooseUnfertilized.label>
   <!--EN: Originally used for bull-baiting, which is an act of pitting one species of animal against bulls, these bulldogs are fierce opponents and due to their small body-size, they are fast, agile and lethal.-->
-  <AEXP_FrenchBulldog.description>斗牛犬最初用于斗牛，即一种动物与公牛进行对抗的行为，这些斗牛犬是凶猛的对手，由于体型较小，它们速度快、敏捷且致命。</AEXP_FrenchBulldog.description>
+  <AEXP_FrenchBulldog.description>法国斗牛犬活泼、聪明且肌肉发达，其骨骼沉重，背毛平滑、结构紧凑，体型中等或较小。对小孩和善，同时也作风彪悍，能力强，对于新鲜事物有极强的好奇心。</AEXP_FrenchBulldog.description>
   <!--EN: french bulldog-->
   <AEXP_FrenchBulldog.label>法国斗牛犬</AEXP_FrenchBulldog.label>
   <!--EN: left claw-->
@@ -289,7 +285,7 @@
   <!--EN: head-->
   <AEXP_FrenchBulldog.tools.3.label>头</AEXP_FrenchBulldog.tools.3.label>
   <!--EN: A large sized working dog. Easy to train and good at following instructions, they are often seen accompanying glitterworld police forces and rimworld farmers.-->
-  <AEXP_GermanShepherd.description>大型工作犬。它们易于训练且善于遵循指示，经常看到它们伴随着闪光世界的警察部队和边缘世界的农民。</AEXP_GermanShepherd.description>
+  <AEXP_GermanShepherd.description>德国牧羊犬，别名德国黑背。于1880年此犬已经在古地球德国各地固定下来，并做为牧羊犬使用。它们敏捷，且适合动作式的工作环境，它们经常被部署各种任务。而后于第一次世界大战期间被德军募集，做为军犬随军。由德军取长补短培育后，基本定型。因为体型高大，外观威猛，且具备极强的工作能力，因此在全世界范围以军犬、警犬、搜救犬、导盲犬、牧羊犬、观赏犬，以及家养宠物犬等身份活跃。</AEXP_GermanShepherd.description>
   <!--EN: german shepherd-->
   <AEXP_GermanShepherd.label>德国牧羊犬</AEXP_GermanShepherd.label>
   <!--EN: left claw-->
@@ -301,9 +297,9 @@
   <!--EN: head-->
   <AEXP_GermanShepherd.tools.3.label>头</AEXP_GermanShepherd.tools.3.label>
   <!--EN: A large, slow moving type of lizard found mostly in the desert, known for its highly venomous bite which inflicts a severe toxic build-up in its prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that its foul breath is lethal.-->
-  <AEXP_GilaMonster.description>一种大型、移动缓慢的蜥蜴，主要出现在沙漠中，以其剧毒的咬伤而闻名，这种咬伤会导致猎物体内产生严重的毒性。时至今日，外地人仍相信一些传说，称这种蜥蜴是地狱的产物，它的恶臭呼吸是致命的。</AEXP_GilaMonster.description>
+  <AEXP_GilaMonster.description>一种常于沙漠发现的大型蜥蜴，行动缓慢，口部滋养巨量细菌和病毒，能迅速感染猎物。外来者们认为它们来自地狱，仅仅吐息就足以致命。</AEXP_GilaMonster.description>
   <!--EN: gila monster-->
-  <AEXP_GilaMonster.label>疯狂怪物</AEXP_GilaMonster.label>
+  <AEXP_GilaMonster.label>钝尾毒蜥</AEXP_GilaMonster.label>
   <!--EN: left claw-->
   <AEXP_GilaMonster.tools.0.label>左爪</AEXP_GilaMonster.tools.0.label>
   <!--EN: right claw-->
@@ -313,7 +309,7 @@
   <!--EN: head-->
   <AEXP_GilaMonster.tools.3.label>头</AEXP_GilaMonster.tools.3.label>
   <!--EN: A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores.-->
-  <AEXP_Giraffe.description>长颈鹿是银河系中最高的哺乳动物之一，它利用长脖子来够到小型食草动物无法够到的树叶和树枝。</AEXP_Giraffe.description>
+  <AEXP_Giraffe.description>长颈鹿是银河系中最高的哺乳类动物之一。得益于这长脖子，能够吃到其他草食性动物够不着的树叶和嫩枝。</AEXP_Giraffe.description>
   <!--EN: giraffe-->
   <AEXP_Giraffe.label>长颈鹿</AEXP_Giraffe.label>
   <!--EN: left hoof-->
@@ -323,7 +319,7 @@
   <!--EN: head-->
   <AEXP_Giraffe.tools.3.label>头</AEXP_Giraffe.tools.3.label>
   <!--EN: One of the largest species of dogs, Great Danes are dignified, elegant and strong.-->
-  <AEXP_GreatDane.description>大丹犬是体型最大的犬种之一，庄严、优雅且强壮。</AEXP_GreatDane.description>
+  <AEXP_GreatDane.description>曾被古地球欧洲王室及贵族饲养，是贵族身份地位的象征，体高一般为70~90公分，体重为50~70公斤。毛短厚而富有光泽，头大而窄长，毛呈黄褐、虎斑、蓝色，黑色或黑白花色等。\n\n外表高贵优雅，体形大，肌肉丰满，强壮有力。在大型的工作犬中，是唯一体态匀称，可以轻松长途跋涉的犬。人们称它们为太阳神的犬。</AEXP_GreatDane.description>
   <!--EN: great dane-->
   <AEXP_GreatDane.label>大丹犬</AEXP_GreatDane.label>
   <!--EN: left claw-->
@@ -333,7 +329,7 @@
   <!--EN: head-->
   <AEXP_GreatDane.tools.3.label>头</AEXP_GreatDane.tools.3.label>
   <!--EN: Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators.-->
-  <AEXP_Hedgehog.description>刺猬是一种小型哺乳动物，有着圆锥形的脸、短腿和长满豪猪般的刺的身体。当遇到危险时，刺猬会滚成一个球，使刺猬覆盖其身体的整个区域，从而保护刺猬免受捕食者的侵害。</AEXP_Hedgehog.description>
+  <AEXP_Hedgehog.description>刺猬是一种身材矮小的哺乳类动物，有圆锥形的脸，短腿，身体上覆盖着豪猪一样的刺。遇到危险时，刺猬会滚成一个球，这样刺猬就可以将它们暴露在外的身体部分整个包裹住，保护其免受捕食者的伤害。</AEXP_Hedgehog.description>
   <!--EN: hedgehog-->
   <AEXP_Hedgehog.label>刺猬</AEXP_Hedgehog.label>
   <!--EN: left claw-->
@@ -343,7 +339,7 @@
   <!--EN: head-->
   <AEXP_Hedgehog.tools.3.label>头</AEXP_Hedgehog.tools.3.label>
   <!--EN: A large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights.-->
-  <AEXP_Hyena.description>一种像狗一样的大型食肉动物，最常见于灌木丛和沙漠。作为部落传说中的常见比喻，这些动物发出的笑声可以在漫长的沙漠夜晚播下恐惧的种子。</AEXP_Hyena.description>
+  <AEXP_Hyena.description>一种大型犬科食肉动物，通常生活灌木林和沙漠共存的地区。在一些原始部落中，常常作为恐惧的象征，在各种传说和故事中出现。</AEXP_Hyena.description>
   <!--EN: hyena-->
   <AEXP_Hyena.label>鬣狗</AEXP_Hyena.label>
   <!--EN: left claw-->
@@ -353,7 +349,7 @@
   <!--EN: head-->
   <AEXP_Hyena.tools.3.label>头</AEXP_Hyena.tools.3.label>
   <!--EN: The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head.-->
-  <AEXP_IndianElephant.description>印度象是最大的未经改造的陆地动物之一。一般来说，印度象体型较小，耳朵较小，但头骨相对较非洲象更宽，象鼻也较大，身体最高点位于头部。</AEXP_IndianElephant.description>
+  <AEXP_IndianElephant.description>印度象是最大的原生陆地动物之一。一般来说，印度象比非洲象体型更小，耳朵更小，头骨和象牙更大，头部上的重力支点也更高。</AEXP_IndianElephant.description>
   <!--EN: indian elephant-->
   <AEXP_IndianElephant.label>印度象</AEXP_IndianElephant.label>
   <!--EN: left foot-->
@@ -363,19 +359,19 @@
   <!--EN: head-->
   <AEXP_IndianElephant.tools.2.label>头</AEXP_IndianElephant.tools.2.label>
   <!--EN: A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain.-->
-  <AEXP_Jaguar.description>一种大型猫科动物，也是旧地球中美洲豹中唯一现存的成员。这只斑点猫与豹子非常相似，但通常更大更强壮。美洲虎喜欢游泳，在很大程度上是一种孤独的、机会主义的、潜伏式的捕食者，位于食物的顶端链。</AEXP_Jaguar.description>
+  <AEXP_Jaguar.description>一种大型猫科动物，是唯一原产于美洲的豹属现存成员。这种斑点猫科动物与豹类似，但通常体型更大、更结实。美洲豹喜欢游泳，很大程度上是一种独行的生物，懂得投机取巧，经常采用潜行、埋伏战术，在食物链的顶端。</AEXP_Jaguar.description>
   <!--EN: jaguar-->
-  <AEXP_Jaguar.label>捷豹</AEXP_Jaguar.label>
+  <AEXP_Jaguar.label>美洲豹</AEXP_Jaguar.label>
   <!--EN: Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers.-->
-  <AEXP_Kangaroo.description>袋鼠。是一种大型、人类大小的有袋动物，拥有强壮的腿和有力的手臂。由于其肉质细嫩、皮革耐热，深受部落猎人的青睐。袋鼠。在近战中是强大的对手，并且可以轻松训练成为动物超级士兵。</AEXP_Kangaroo.description>
+  <AEXP_Kangaroo.description>袋鼠是袋类动物的典型代表，袋类动物是发育不完全的动物，属早产胎儿。母袋鼠有四个乳头，两个高脂肪，两个低脂肪，母袋鼠一般每胎产3至4个崽，袋鼠出生后即要入袋，食用低脂肪乳水。这就决定了每胎袋鼠仔一般只能存活2个。\n\n袋鼠不会行走，但是跳得最高最远的哺乳类动物。除了强劲有力的后腿外，袋鼠的尾巴也十分强大，能提供高效的平衡、支撑和进攻能力。\n\n袋鼠属夜间动物，通常在太阳下山后几个小时才出来寻食。袋鼠是群居动物，但有着强烈的族群观念，对于外来的袋鼠十分排斥。</AEXP_Kangaroo.description>
   <!--EN: kangaroo-->
   <AEXP_Kangaroo.label>袋鼠</AEXP_Kangaroo.label>
   <!--EN: head-->
   <AEXP_Kangaroo.tools.3.label>头</AEXP_Kangaroo.tools.3.label>
   <!--EN: Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect.-->
-  <AEXP_Koala.description>考拉因其粗壮的身体和大而圆的头部以及拟人化的动物角色，具有人的个性与特点。的耳朵而很容易辨认。它们通常栖息在干旱和温带的林地中，但在热带地区很少见到。考拉因其奇妙的用鼻子蹭蹭的效果而受到皇室的喜爱，是很好的家养动物。</AEXP_Koala.description>
+  <AEXP_Koala.description>树袋熊，又称考拉，其英文名“Koala”来源于土著语，意思是“no drink”。因为树袋熊从它们取食的桉树叶中获得所需的90%的水分，只在生病和干旱的时候喝水。\n\n树熊主要栖息在桉树上，依靠奇特的肝脏分离桉树叶中的有毒物质，因此考拉需要20小时左右的睡眠时间来消化有毒物质。清醒的时候，它们的大部分时间也用来吃东西。一般在夜间及晨昏时活动，因为这比在白天气温较高时活动更能节省水分与能量消耗。\n\n考拉性情温驯，行动迟缓，从不对其他动物构成威胁。由于树熊极度依赖环境，而自然灾害越发频繁、持续、严重，它们正在面临功能性灭绝。</AEXP_Koala.description>
   <!--EN: koala-->
-  <AEXP_Koala.label>考拉</AEXP_Koala.label>
+  <AEXP_Koala.label>树熊</AEXP_Koala.label>
   <!--EN: left claw-->
   <AEXP_Koala.tools.0.label>左爪</AEXP_Koala.tools.0.label>
   <!--EN: right claw-->
@@ -383,19 +379,19 @@
   <!--EN: head-->
   <AEXP_Koala.tools.3.label>头</AEXP_Koala.tools.3.label>
   <!--EN: A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists.-->
-  <AEXP_Leather_Lion.description>动物王国领袖的坚韧、奢华皮革。经常受到都市世界慈善家的追捧。</AEXP_Leather_Lion.description>
+  <AEXP_Leather_Lion.description>百兽之王坚韧且奢华的皮，很受都市世界慈善家们的喜爱。</AEXP_Leather_Lion.description>
   <!--EN: lion pelt-->
-  <AEXP_Leather_Lion.label>狮子 毛皮</AEXP_Leather_Lion.label>
+  <AEXP_Leather_Lion.label>狮子皮</AEXP_Leather_Lion.label>
   <!--EN: Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again.-->
-  <AEXP_Leather_Platypus.description>在古老的泰拉时代，鸭嘴兽的皮毛被认为是一种有价值的商品，这一事实几乎导致鸭嘴兽灭绝。幸运的是，这只动物受到了保护并再次繁衍生息。</AEXP_Leather_Platypus.description>
+  <AEXP_Leather_Platypus.description>鸭嘴兽通身长满柔软的皮毛，像一层上好的防水衣。因为其皮毛的良好性能，它们被人类大量捕杀，面临着灭绝的危机。已被列入保护动物。</AEXP_Leather_Platypus.description>
   <!--EN: platypus leather-->
-  <AEXP_Leather_Platypus.label>鸭嘴兽皮革</AEXP_Leather_Platypus.label>
+  <AEXP_Leather_Platypus.label>鸭嘴兽皮</AEXP_Leather_Platypus.label>
   <!--EN: A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases.-->
-  <AEXP_Leather_Wildebeest.description>厚而易碎的角马毛皮和皮革。虽然它提供了一定程度的损坏保护，但该物品的整体寿命会缩短。</AEXP_Leather_Wildebeest.description>
+  <AEXP_Leather_Wildebeest.description>这种皮毛虽然厚，但比较脆。虽然能提供一定防护效果，但使用寿命相对短。</AEXP_Leather_Wildebeest.description>
   <!--EN: wildebeest pelt-->
-  <AEXP_Leather_Wildebeest.label>角马毛皮</AEXP_Leather_Wildebeest.label>
+  <AEXP_Leather_Wildebeest.label>牛羚皮</AEXP_Leather_Wildebeest.label>
   <!--EN: A small primate, lemurs are arboreal, and usually nocturnal. They have a pointed snout, large eyes, and a long tail. Although they are social creatures, they have traditionally been regarded as being less intelligent than other primates, since they don't exhibit behaviours of tool use in the wild.-->
-  <AEXP_Lemur.description>狐猴是一种小型灵长类动物，是树栖动物，通常在夜间活动。它们有尖鼻子、大眼睛和长一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。。尽管它们是群居动物，但传统上人们认为它们不如其他灵长类动物聪明，因为它们在野外不会表现出使用工具的行为。</AEXP_Lemur.description>
+  <AEXP_Lemur.description>一种小型灵长类动物，树栖，通常夜间活动。它们有一个尖鼻子，大眼睛，和长尾。尽管它们是群居生物，它们历来被认为没有其他灵长类动物聪明，因为它们不懂得在使用野外工具。</AEXP_Lemur.description>
   <!--EN: lemur-->
   <AEXP_Lemur.label>狐猴</AEXP_Lemur.label>
   <!--EN: left fist-->
@@ -405,7 +401,7 @@
   <!--EN: head-->
   <AEXP_Lemur.tools.3.label>头</AEXP_Lemur.tools.3.label>
   <!--EN: A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their Wildness.-->
-  <AEXP_Lion.description>作为动物王国的国王，狮子 是一种肌肉发达的角色。发达、胸部深邃的 猫，头部较短，鬃毛突出。作为猫物种中体型最大的，狮子尽管具有野性，但却是优秀的战斗动物。</AEXP_Lion.description>
+  <AEXP_Lion.description>这种猫科动物被誉为百兽之王，肌肉发达，胸部雄浑，头部短小，雄性个体有着显眼的鬃毛。野性十足，是极出色的战斗动物。</AEXP_Lion.description>
   <!--EN: lion-->
   <AEXP_Lion.label>狮子</AEXP_Lion.label>
   <!--EN: left claw-->
@@ -415,7 +411,7 @@
   <!--EN: head-->
   <AEXP_Lion.tools.3.label>头</AEXP_Lion.tools.3.label>
   <!--EN: Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps.-->
-  <AEXP_Mandrill.description>山魈是所有猴子中最大的一种。它们是害羞而隐居的灵长类动物，只生活在雨林中。山魈的色彩极其丰富，也许比任何其他哺乳动物都色彩缤纷。他们脸上的蓝色和红色皮肤以及颜色鲜艳的臀部很容易辨认。</AEXP_Mandrill.description>
+  <AEXP_Mandrill.description>山魈是最大的猿猴类之一。性情羞涩，隐居在雨林中。山魈色彩华美，远比其他哺乳类要多彩。你能通过它们脸部的蓝、红色和有明亮色彩的臀部轻易地辨认出它们来。</AEXP_Mandrill.description>
   <!--EN: mandrill-->
   <AEXP_Mandrill.label>山魈</AEXP_Mandrill.label>
   <!--EN: left fist-->
@@ -425,9 +421,9 @@
   <!--EN: head-->
   <AEXP_Mandrill.tools.3.label>头</AEXP_Mandrill.tools.3.label>
   <!--EN: A giant, genetically-engineered predator with massive paws to rip apart prey. Thick fur allows it to survive the coldest of climates, whilst it strength allows it to hunt even the largest of mammals for food.-->
-  <AEXP_MegaWolverine.description>一种巨大的基因工程掠食者，拥有巨大的爪子可以撕碎猎物。厚厚的皮毛使其能够在最寒冷的气候中生存，而其力量使其甚至可以捕猎最大的哺乳动物作为食物。</AEXP_MegaWolverine.description>
+  <AEXP_MegaWolverine.description>一种经过基因工程改造的巨型捕食者，可以用硕大的双爪撕裂猎物。厚厚的皮毛能使它们在最寒冷的气候条件下生存，强大力量也便于它们捕猎，甚至能以最庞大的哺乳类动物为食。</AEXP_MegaWolverine.description>
   <!--EN: megawolverine-->
-  <AEXP_MegaWolverine.label>巨型金刚狼</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.label>巨狼獾</AEXP_MegaWolverine.label>
   <!--EN: left claw-->
   <AEXP_MegaWolverine.tools.0.label>左爪</AEXP_MegaWolverine.tools.0.label>
   <!--EN: right claw-->
@@ -435,9 +431,9 @@
   <!--EN: head-->
   <AEXP_MegaWolverine.tools.3.label>头</AEXP_MegaWolverine.tools.3.label>
   <!--EN: A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually.-->
-  <AEXP_Megascorpion.description>一只巨大的基因工程蝎子。一旦被创造为完美的暗杀工具，它就很少会回到它的自然栖息地——沙漠。它的毒刺中含有一种非常有效的毒液，可以帮助它捕捉更大的猎物。作为群居生物，它不能单独繁殖。</AEXP_Megascorpion.description>
+  <AEXP_Megascorpion.description>这种巨大的蝎子是基因工程的产物，被用于袭击和刺杀。拥有极其强力的毒液，可以毒倒远比其强壮的猎物。</AEXP_Megascorpion.description>
   <!--EN: megascorpion-->
-  <AEXP_Megascorpion.label>巨型蝎子</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.label>巨蝎</AEXP_Megascorpion.label>
   <!--EN: stinger-->
   <AEXP_Megascorpion.tools.0.label>刺</AEXP_Megascorpion.tools.0.label>
   <!--EN: mandibles-->
@@ -445,7 +441,7 @@
   <!--EN: head-->
   <AEXP_Megascorpion.tools.2.label>头</AEXP_Megascorpion.tools.2.label>
   <!--EN: Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs.-->
-  <AEXP_Platypus.description>鸭嘴兽是该动物家族中唯一幸存的代表。它们是河狸尾、鸭嘴哺乳动物，以产卵而闻名。它是一种杂食动物，能够用有毒的踝刺杀死小型啮齿动物。</AEXP_Platypus.description>
+  <AEXP_Platypus.description>鸭嘴兽是最原始的哺乳类动物之一，它们是未完全进化的哺乳类动物，种类极少，同属之中只有鸭嘴兽一种动物，也是最低等的哺乳类动物之一。\n\n鸭嘴兽全身裹着柔软褐色的浓密短毛。四肢很短，五趾具钩爪，趾间有薄膜似的蹼，酷似鸭足，在行走或挖掘时，蹼反方向褶于掌部。公鸭嘴兽的膝盖背面有一根空心的刺，在用后肢向敌人猛戳时它们会放出毒液。\n\n嘴巴极宽扁，像面具一样装在脑袋上，形似鸭嘴，质地柔软，似皮革一般，上面布满神经，能像雷达扫描器一般，接受其他动物发出的电波。鸭嘴兽仗着这一利器，在水中寻找食物和辨明方向。嘴内有宽的角质牙龈，但没有牙齿，尾大而扁平，占体长的1/4，在水里游泳时起着舵的作用。\n\n鸭嘴兽为哺乳类动物，虽然母体也分泌乳汁哺育幼仔成长，但却不是胎生而是卵生。\n\n鸭嘴兽是夜行性生物，它们惯于白天睡觉，夜晚活动，冬季不活动或冬眠。</AEXP_Platypus.description>
   <!--EN: platypus-->
   <AEXP_Platypus.label>鸭嘴兽</AEXP_Platypus.label>
   <!--EN: left claw-->
@@ -455,7 +451,7 @@
   <!--EN: head-->
   <AEXP_Platypus.tools.4.label>头</AEXP_Platypus.tools.4.label>
   <!--EN: Large, pampered dogs, historically used for bird hunting, now mostly residing in imperial palaces and royal gardens.-->
-  <AEXP_Poodle.description>大，娇生惯养的狗，历史上用于捕鸟，现在大多居住在皇宫和皇家花园中。</AEXP_Poodle.description>
+  <AEXP_Poodle.description>头颅顶部稍圆，眉头随浅但很清晰，面颊平坦。眼睛颜色很深呈卵圆形，两眼间距宽，眼神机警。吻部长直而纤细，眼睛下方有轻微诶凹陷。颈部强壮，颈长可以使头部高高抬起。胸部深而扩张，肋部伸展。后脚跟短，与地面垂直。\n\n它们的被毛有卷曲型和绳索型。身体各部位被毛长度不等，颈部、躯干、头部和耳部的被毛很长。</AEXP_Poodle.description>
   <!--EN: poodle-->
   <AEXP_Poodle.label>贵宾犬</AEXP_Poodle.label>
   <!--EN: left claw-->
@@ -465,9 +461,9 @@
   <!--EN: head-->
   <AEXP_Poodle.tools.3.label>头</AEXP_Poodle.tools.3.label>
   <!--EN: A small dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. They are known for being extremely social and friendly, however due to years of genetic alterations they have a very short lifespan. Whatever life they have, they will always cheer up people around them.-->
-  <AEXP_Pug.description>一种小狗，具有明显的身体特征：有皱纹、短口吻的脸和卷曲的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。。它们以极其社交和友好而闻名，但由于多年的基因改变，它们的寿命非常短。无论他们过着什么样的生活，他们总是会给周围的人带来欢乐。</AEXP_Pug.description>
+  <AEXP_Pug.description>巴哥犬是古地球中国的本土犬种，别称京巴犬。特征是体型小，口吻轮廓硬，额头皮毛呈现出相挤、折叠的样子。以咕噜的呼吸声及象马一样抽鼻子的声音作为沟通的方式。</AEXP_Pug.description>
   <!--EN: pug-->
-  <AEXP_Pug.label>哈巴狗</AEXP_Pug.label>
+  <AEXP_Pug.label>巴哥犬</AEXP_Pug.label>
   <!--EN: left claw-->
   <AEXP_Pug.tools.0.label>左爪</AEXP_Pug.tools.0.label>
   <!--EN: right claw-->
@@ -477,7 +473,7 @@
   <!--EN: head-->
   <AEXP_Pug.tools.3.label>头</AEXP_Pug.tools.3.label>
   <!--EN: A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin.-->
-  <AEXP_Rattlesnake.description>一种剧毒蛇，因其一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。末端的拨浪鼓而得名。发出的声音听起来是对任何捕食者的警告，但如果它不起作用，响尾蛇的毒牙会造成极其痛苦的毒素。</AEXP_Rattlesnake.description>
+  <AEXP_Rattlesnake.description>一种剧毒蛇类，可以震动尾部发出响声，警告冒犯者。如警告无效，毒牙也能给对方带来极大的痛苦。</AEXP_Rattlesnake.description>
   <!--EN: rattlesnake-->
   <AEXP_Rattlesnake.label>响尾蛇</AEXP_Rattlesnake.label>
   <!--EN: venom-fangs-->
@@ -485,7 +481,7 @@
   <!--EN: head-->
   <AEXP_Rattlesnake.tools.1.label>头</AEXP_Rattlesnake.tools.1.label>
   <!--EN: The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed.-->
-  <AEXP_RedPanda.description>小熊猫是一种小型哺乳动物，比家养的猫稍大，具有熊般的身体和厚厚的黄褐色皮毛。腹部和四肢呈黑色，头部侧面和小眼睛上方有白色斑纹。小熊猫是一种非常熟练和杂技的动物，主要生活在树上。它是一种独居动物，主要从黄昏到黎明活跃，但如果驯服得当，它们也会非常友善。</AEXP_RedPanda.description>
+  <AEXP_RedPanda.description>小熊猫是一种小型哺乳类动物，体型略大于家猫，身体酷似熊，皮毛呈黄褐色。腹部和四肢是黑色的，头部侧面和小眼上方有白色斑纹。小熊猫非常灵巧，主要栖息于树上。它们喜欢独行，主要活动于黄昏到黎明，尽管如此，驯服得当的它们仍是粘人的宠物。</AEXP_RedPanda.description>
   <!--EN: red panda-->
   <AEXP_RedPanda.label>小熊猫</AEXP_RedPanda.label>
   <!--EN: left fist-->
@@ -495,7 +491,7 @@
   <!--EN: head-->
   <AEXP_RedPanda.tools.3.label>头</AEXP_RedPanda.tools.3.label>
   <!--EN: A large domestic dog and one of the oldest herding breeds. Being one of the most hard working dogs, it is a perfect companions for farmers and cattle herders.-->
-  <AEXP_Rottweiler.description>一种大型家犬，也是最古老的放牧品种之一。作为最勤劳的狗之一，它是农民和牧民的完美伴侣。</AEXP_Rottweiler.description>
+  <AEXP_Rottweiler.description>罗威纳犬身体强壮，动作迅猛，气势强悍，是世界上最具有勇气和力量的犬种之一。\n\n罗威纳犬曾经被用于看守牛群，也是杰出的护卫犬，能攻击侵入者，中世纪时，有钱的商人们为了避免钱财被盗，便把钱袋挂在罗威纳犬颈部上。\n\n此犬个性沉稳，极富感情，同时亦可成为极有身价的家庭犬。</AEXP_Rottweiler.description>
   <!--EN: rottweiler-->
   <AEXP_Rottweiler.label>罗威纳犬</AEXP_Rottweiler.label>
   <!--EN: left claw-->
@@ -505,7 +501,7 @@
   <!--EN: head-->
   <AEXP_Rottweiler.tools.3.label>头</AEXP_Rottweiler.tools.3.label>
   <!--EN: An oriental toy dog, Shih-Tzu have extremely long and soft hair. While they are kind of useless, petting them provides people with great comfort.-->
-  <AEXP_Shih-Tzu.description>西施犬是一种东方玩具狗，有着极长而柔软的毛发。虽然它们有点无用，但抚摸它们可以给人们带来很大的安慰。</AEXP_Shih-Tzu.description>
+  <AEXP_Shih-Tzu.description>西施犬，别名狮子犬，起源于古地球的西藏。\n\n被毛华丽，双层毛，丰厚浓密，毛长而平滑。下毛毛质好，为直毛或波状毛。\n\n性情开朗，对所有人的友好而信任。</AEXP_Shih-Tzu.description>
   <!--EN: shih-tzu-->
   <AEXP_Shih-Tzu.label>西施犬</AEXP_Shih-Tzu.label>
   <!--EN: left claw-->
@@ -517,15 +513,15 @@
   <!--EN: head-->
   <AEXP_Shih-Tzu.tools.3.label>头</AEXP_Shih-Tzu.tools.3.label>
   <!--EN: A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions.-->
-  <AEXP_Tapir.description>貘是一种大型草食性哺乳动物，形状类似于猪，鼻干较短，栖息在丛林和森林地区。</AEXP_Tapir.description>
+  <AEXP_Tapir.description>一种大型的草食性哺乳类动物，体型和形状与猪相仿，有一根突出来的管状短鼻子，栖息于丛林和森林。</AEXP_Tapir.description>
   <!--EN: tapir-->
   <AEXP_Tapir.label>貘</AEXP_Tapir.label>
   <!--EN: head-->
   <AEXP_Tapir.tools.1.label>头</AEXP_Tapir.tools.1.label>
   <!--EN: A hunting dog, welsh terriers are perfect for small rodents, foxes and badgers. Due to their intelligence they are perfect at way-finding, always able to return home after running into the woods.-->
-  <AEXP_WelshTerrier.description>威尔士梗是一种猎犬，非常适合小型啮齿动物、狐狸和獾。由于它们的聪明才智，它们非常擅长寻路，跑进树林后总能回家。</AEXP_WelshTerrier.description>
+  <AEXP_WelshTerrier.description>威尔士㹴，原产地为古地球英国，起源于19世纪。\n\n威尔士㹴是一种结构坚实、紧凑、笃实的小型犬，长有粗糙不平的刚毛。腿、下半身和头部呈黄褐色；背部等处为黑色（有时呈灰色）“夹克”。断尾，使其成为“正方形”狗，体长与肩高大致相等。\n\n威尔士㹴非常友好，外出时与其他人及狗能和睦相处。显示出热情和勇气。</AEXP_WelshTerrier.description>
   <!--EN: welsh terrier-->
-  <AEXP_WelshTerrier.label>威尔士梗</AEXP_WelshTerrier.label>
+  <AEXP_WelshTerrier.label>威尔士㹴</AEXP_WelshTerrier.label>
   <!--EN: left claw-->
   <AEXP_WelshTerrier.tools.0.label>左爪</AEXP_WelshTerrier.tools.0.label>
   <!--EN: right claw-->
@@ -533,7 +529,7 @@
   <!--EN: head-->
   <AEXP_WelshTerrier.tools.3.label>头</AEXP_WelshTerrier.tools.3.label>
   <!--EN: A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option.-->
-  <AEXP_WildGoose.description>一种非驯化的灰鹅。与它们经过数千年驯化而体型较大的同类相比，大雁产下的蛋并不多，而且它们以好斗的性情而闻名。和平从来都不是一个选择。</AEXP_WildGoose.description>
+  <AEXP_WildGoose.description>大雁其实就是一种未驯养的灰鹅。与它们被驯养的同类相比，大雁的体型要大许多，相比之下，大雁的产卵量却不那么多，它们以好斗的性情而闻名。与它们和平相处是不可能的。</AEXP_WildGoose.description>
   <!--EN: wild goose-->
   <AEXP_WildGoose.label>大雁</AEXP_WildGoose.label>
   <!--EN: claws-->
@@ -543,11 +539,9 @@
   <!--EN: head-->
   <AEXP_WildGoose.tools.2.label>头</AEXP_WildGoose.tools.2.label>
   <!--EN: Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its Wildness, it produces milk at much slower rate than a standard cow.-->
-  <AEXP_Wildebeest.description>这种野牛也被称为 Gnu，因其险恶的 角、尖胡须和大头而得名。这些动物可以通过它们的迁徙和牛群规模来了解。
-
-由于其野生性，它产奶的速度比标准奶牛慢得多。</AEXP_Wildebeest.description>
+  <AEXP_Wildebeest.description>牛羚也叫角马，因其凶恶无比的双角而得名。它们有着尖胡子和大大的头，会大规模地进行大迁徙。/n/n由于野性更高，牛羚的产奶速度要比普通的牛更慢。</AEXP_Wildebeest.description>
   <!--EN: wildebeest-->
-  <AEXP_Wildebeest.label>角马</AEXP_Wildebeest.label>
+  <AEXP_Wildebeest.label>牛羚</AEXP_Wildebeest.label>
   <!--EN: head-->
   <AEXP_Wildebeest.tools.1.label>头</AEXP_Wildebeest.tools.1.label>
   <!--EN: left hoof-->
@@ -555,7 +549,7 @@
   <!--EN: right hoof-->
   <AEXP_Wildebeest.tools.3.label>右蹄</AEXP_Wildebeest.tools.3.label>
   <!--EN: A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals.-->
-  <AEXP_Zebra.description>原产于干旱和沙漠地区的马家族成员。虽然它的体型与马不同，但由于多年的进化，它是最快的有蹄动物之一。</AEXP_Zebra.description>
+  <AEXP_Zebra.description>生活在半干旱荒漠半草原地区的马类动物。虽然体型跟普通的马有点差距，但依然是跑得最快的有蹄类动物之一。</AEXP_Zebra.description>
   <!--EN: zebra-->
   <AEXP_Zebra.label>斑马</AEXP_Zebra.label>
   <!--EN: head-->
@@ -565,7 +559,7 @@
   <!--EN: right hoof-->
   <AEXP_Zebra.tools.2.label>右蹄</AEXP_Zebra.tools.2.label>
   <!--EN: Camel's wool. It provides good insulation from heat.-->
-  <WoolCamel.description>骆驼毛。它提供良好的隔热效果。</WoolCamel.description>
+  <WoolCamel.description>骆驼的毛。隔热能力出色。</WoolCamel.description>
   <!--EN: camel wool-->
   <WoolCamel.label>骆驼毛</WoolCamel.label>
 </LanguageData>

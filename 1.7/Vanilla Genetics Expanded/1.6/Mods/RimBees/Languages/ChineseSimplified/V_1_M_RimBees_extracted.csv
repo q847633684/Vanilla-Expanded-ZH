@@ -1,0 +1,207 @@
+key,text,tag,file,type
+RB_Quill.label,ranged quill,label,AbilityDef/Abilities_AlphaBees_Ranged.xml,def
+RB_Quill.description,"Fire a shower of small but deadly venomous barbs that pierce skin and deliver a potent toxin, weakening targets over time.",description,AbilityDef/Abilities_AlphaBees_Ranged.xml,def
+RB_BeeBody.label,bee body,label,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.3.parts.0.parts.1.customLabel,left first eye,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.3.parts.0.parts.2.customLabel,left second eye,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.5.customLabel,left first leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.6.customLabel,right first leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.7.customLabel,left second leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.8.customLabel,right second leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.9.customLabel,left third leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.10.customLabel,right third leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.11.customLabel,right first wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.12.customLabel,right second wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.13.customLabel,left first wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_BeeBody.corePart.parts.14.customLabel,left second wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.label,horned bee body,label,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.3.parts.0.parts.1.customLabel,left first eye,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.3.parts.0.parts.2.customLabel,left second eye,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.5.customLabel,left first leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.6.customLabel,right first leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.7.customLabel,left second leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.8.customLabel,right second leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.9.customLabel,left third leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.10.customLabel,right third leg,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.11.customLabel,right first wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.12.customLabel,right second wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.13.customLabel,left first wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_HornedBeeBody.corePart.parts.14.customLabel,left second wing,customLabel,BodyDef/Bodies_Bee.xml,def
+RB_Sting.label,stinger,label,BodyPartGroupDef/BodyPartGroups_RimBees.xml,def
+RB_LegAttackTool.label,leg,label,BodyPartGroupDef/BodyPartGroups_RimBees.xml,def
+RB_Thorax.label,thorax,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_InsectMouth.label,mouth,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_Abdomen.label,abdomen,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_InsectWing.label,wing,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_SmallInsectLeg.label,small leg,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_InsectSting.label,stinger,label,BodyPartDef/BodyParts_RimBees.xml,def
+RB_ToxicSting.label,toxic sting,label,DamageDef/Damage_RimBees.xml,def
+RB_ToxicSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+RB_VeryToxicSting.label,very toxic sting,label,DamageDef/Damage_RimBees.xml,def
+RB_VeryToxicSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+RB_ChemfuelSting.label,chemfuel sting,label,DamageDef/Damage_RimBees.xml,def
+RB_ChemfuelSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+RB_BlindingSting.label,blinding sting,label,DamageDef/Damage_RimBees.xml,def
+RB_BlindingSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+RB_ParalyzingSting.label,paralyzing sting,label,DamageDef/Damage_RimBees.xml,def
+RB_ParalyzingSting.deathMessage,{0} has been stung to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+BR_BeeExplosion.label,bee explosion,label,DamageDef/Damage_RimBees.xml,def
+BR_BeeExplosion.deathMessage,{0} has been poisoned to death.,deathMessage,DamageDef/Damage_RimBees.xml,def
+RB_ToxicBuildup.label,poisoned blood,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.description,"Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.",description,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.0.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.1.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.2.label,minor,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.3.label,moderate,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.4.label,serious,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ToxicBuildup.stages.5.label,extreme,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.label,injected chemfuel,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.description,"Chemfuel in the bloodstream.
+\nAt high doses, this is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with injected chemfuel can be eaten.",description,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.0.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.1.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.2.label,minor,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.3.label,moderate,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.4.label,serious,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ChemfuelBuildup.stages.5.label,extreme,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.description,"Blinding venom in the bloodstream. This venom is not lethal, but it will last for a while before it stops affecting sight.",description,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.label,blinding venom,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.0.label,initial-hidden,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.1.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.2.label,minor,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.3.label,moderate,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.4.label,serious,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.5.label,extreme,label,HediffDef/Hediffs_RimBees.xml,def
+RB_BlindingBuildup.stages.6.label,nauseating,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.label,paralysis,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.description,"A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while.",description,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.stages.0.label,initial,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.stages.1.label,stunned,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.stages.2.label,very stunned,label,HediffDef/Hediffs_RimBees.xml,def
+RB_ParalysisBuildup.stages.3.label,paralysed,label,HediffDef/Hediffs_RimBees.xml,def
+RB_Stamina.label,increased stamina (from honey),label,HediffDef/Hediffs_RimBees.xml,def
+RB_Stamina.description,Genetic honey is strengthening this creature's stamina.,description,HediffDef/Hediffs_RimBees.xml,def
+GR_ExtractBeeGenes.label,extract genes from several bees,label,RecipeDef/Recipes_Genes_RimBees.xml,def
+GR_ExtractBeeGenes.description,Extract genetic material from several bees.,description,RecipeDef/Recipes_Genes_RimBees.xml,def
+GR_ExtractBeeGenes.jobString,Extracting Genetic Material,jobString,RecipeDef/Recipes_Genes_RimBees.xml,def
+GR_OrganicBeeCreation.label,create basic genetic bees,label,RecipeDef/Recipes_GeneticExtractionTable_RimBees.xml,def
+GR_OrganicBeeCreation.description,Create basic genetically enhanced bees that can later be hybridized with other creatures.,description,RecipeDef/Recipes_GeneticExtractionTable_RimBees.xml,def
+GR_OrganicBeeCreation.jobString,creating basic genetic bees,jobString,RecipeDef/Recipes_GeneticExtractionTable_RimBees.xml,def
+GR_GenoframeAwfulRecipeFromWax.label,Create Genoframe (Awful) from Genewax,label,RecipeDef/Recipes_Genoframes_RimBees.xml,def
+GR_GenoframeAwfulRecipeFromWax.description,Create an awful quality genoframe from genewax.,description,RecipeDef/Recipes_Genoframes_RimBees.xml,def
+RB_CreateGeneticTierResearch.label,create genetic tier bee research,label,RecipeDef/Recipes_Research_RimBees.xml,def
+RB_CreateGeneticTierResearch.description,Research bee combinations to create genetic tier bees. This research is random and you may get duplicate results.,description,RecipeDef/Recipes_Research_RimBees.xml,def
+RB_CreateGeneticTierResearch.jobString,Researching bees,jobString,RecipeDef/Recipes_Research_RimBees.xml,def
+RB_BeeResearchTierGenetic.label,"bee research, genetic tier",label,ThingCategoryDef/ThingCategories_RimBees.xml,def
+RB_RandomGeneticResearch.label,bee research (unfinished),label,ThingDef/Items_BeeResearch_RimBees.xml,def
+RB_RandomGeneticResearch.description,This research is in progress.,description,ThingDef/Items_BeeResearch_RimBees.xml,def
+RB_Bee_Organic_Drone.label,organic drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Organic_Queen.label,organic queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Cattle_Drone.label,cattle drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Cattle_Queen.label,cattle queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Clucking_Drone.label,clucking drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Clucking_Queen.label,clucking queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Exploding_Drone.label,exploding drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Exploding_Queen.label,exploding queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Horned_Drone.label,horned drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Horned_Queen.label,horned queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Hound_Drone.label,hound drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Hound_Queen.label,hound queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Hybernating_Drone.label,hybernating drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Hybernating_Queen.label,hybernating queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Megaspidery_Drone.label,megaspidery drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Megaspidery_Queen.label,megaspidery queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Mousy_Drone.label,mousy drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Mousy_Queen.label,mousy queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Purring_Drone.label,purring drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Purring_Queen.label,purring queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Scaly_Drone.label,scaly drone,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Bee_Scaly_Queen.label,scaly queen,label,ThingDef/Items_Bees_RimBees.xml,def
+RB_Organic_Honeycomb.label,organic honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Organic_Honeycomb.description,"This is a honeycomb produced by organic bees. Organic bees are genetically modified bees that extract cellulose fibers from nearby plants and convert it into a slurry of genetic material which can be refined into template genomes. The main use of these bees, however, is to hybridize them with other bees to create genetic bees of different subspecies. Honeycombs can be procesed in a Honey Extractor to get honey, beeswax and template genomes.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Cattle_Honeycomb.label,cattle honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Cattle_Honeycomb.description,"This is a honeycomb produced by cattle bees. Cattle bees have muffalo genes spliced in their genome. They are covered in a thick white pelt, and produce milk, wool and muffalo genetic material. Honeycombs can be procesed in a Honey Extractor to get milk, wool and muffalo genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Clucking_Honeycomb.label,clucking honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Clucking_Honeycomb.description,"This is a honeycomb produced by clucking bees. Clucking bees have chicken genes spliced in their genome. They are covered in feathers, and produce eggs and avian genetic material. Honeycombs can be procesed in a Honey Extractor to get bee eggs, genewax and avian genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Exploding_Honeycomb.label,exploding honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Exploding_Honeycomb.description,"This is a honeycomb produced by exploding bees. Exploding bees have boomalope genes spliced in their genome. This bees produce genetic honey, chemfuel, and boom genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, chemfuel, and booma genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Horned_Honeycomb.label,horned honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Horned_Honeycomb.description,"This is a honeycomb produced by horned bees. Horned bees have thrumbo genes spliced in their genome. They take a very long time to generate honeycombs, but they produce highly sought after colossal genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax, and colossal genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Hound_Honeycomb.label,hound honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Hound_Honeycomb.description,"This is a honeycomb produced by hound bees. Hound bees have wolf genes spliced in their genome. They produce canine genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and canine genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Hybernating_Honeycomb.label,hybernating honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Hybernating_Honeycomb.description,"This is a honeycomb produced by hybernating bees. Hybernating bees have grizzly bear genes spliced in their genome. They are covered in a soft fur. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and bear genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Megaspidery_Honeycomb.label,megaspidery honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Megaspidery_Honeycomb.description,"This is a honeycomb produced by megaspidery bees. Megaspidery bees have insectoid genes spliced in their genome. They are covered in chitinous plates and produce insect jelly and insectoid genetic materials. Honeycombs can be procesed in a Honey Extractor to get insect jelly, genewax and insectoid genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Mousy_Honeycomb.label,mousy honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Mousy_Honeycomb.description,"This is a honeycomb produced by mousy bees. Mousy bees have rodent genes spliced in their genome. They produce rodent genetic materials and many find their constant high-pitched squeaking sounds to be quite distracting. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and rodent genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Purring_Honeycomb.label,purring honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Purring_Honeycomb.description,"This is a honeycomb produced by purring bees. Purring bees have cat genes spliced in their genome. They produce feline genetic materials and a lot of videos on the internet. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and feline genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_Scaly_Honeycomb.label,scaly honeycomb,label,ThingDef/Items_Combs_RimBees.xml,def
+RB_Scaly_Honeycomb.description,"TScaly bees have reptile genes spliced in their genome. They are covered in tough looking scales and produce reptilian genetic materials. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and reptile genetic material.",description,ThingDef/Items_Combs_RimBees.xml,def
+RB_GeneticHoney.label,genetic honey,label,ThingDef/Items_Honey_RimBees.xml,def
+RB_GeneticHoney.description,"This honey has been extracted from any genetic honeycomb, and has a very strange greenish tone that makes it less appetizing. Decays incredibly fast, but it can be consumed as a potent physically enhancing drug that doesn't cause any side effects. This honey can be consumed raw or cooked with other ingredients, and its properties transfer to the resulting meal.",description,ThingDef/Items_Honey_RimBees.xml,def
+RB_BeeEggsActive.label,chickenbee egg (fert.),label,ThingDef/Items_Resource_HybridAnimalEggs_RimBees.xml,def
+RB_BeeEggsActive.description,"Fertilized chickenbee egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickenbee.",description,ThingDef/Items_Resource_HybridAnimalEggs_RimBees.xml,def
+GR_BeeGenetic.label,bee genome,label,ThingDef/Items_Resource_Manufactured_RimBees.xml,def
+GR_BeeGenetic.description,A payload of bee genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used only as a primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All bee hybrids hover over terrain.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table from a combination of 10 bees.,description,ThingDef/Items_Resource_Manufactured_RimBees.xml,def
+RB_Bee_Leather.label,bee leather,label,ThingDef/Items_Resource_Stuff_Leather_RimBees.xml,def
+RB_Bee_Leather.description,"Hard overlapping scales of insect chitin laid over a thick layer of semi-rigid leather. Quite durable in combat, but provides little protection from weather.",description,ThingDef/Items_Resource_Stuff_Leather_RimBees.xml,def
+RB_Genewax.label,genewax,label,ThingDef/Items_Wax_RimBees.xml,def
+RB_Genewax.description,"Genewax is extracted from combs of the Genetic family (any Vanilla Genetics Expanded hybrid bees) and is much less resistant than regular beeswax. Its only practical application is that it can be used to create genoframes, instead of corpses.",description,ThingDef/Items_Wax_RimBees.xml,def
+RB_Quill.label,quill,label,ThingDef/Animal_Projectiles_RimBees.xml,def
+RB_BeeBomb.label,bee shell,label,ThingDef/Animal_Projectiles_RimBees.xml,def
+GR_BeeHybrid_Bearbee.label,bearbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Bearbee.description,"A Bear / Bee hybrid. This huge bee hybrid is fiercely agressive and territorial. It will act as a very powerful attack animal with venomous attacks if properly trained.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Bearbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Bearbee.label,bearbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Boombee.label,boombee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Boombee.description,"A Boomalope / Bee hybrid. This bee hybrid is covered in chemfuel pustules and it is highly unstable.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The boombee injects chemfuel with its stinger, instead of venom, which is as painful as it sounds. It will also explode in a cloud of bees when it dies, which is incredibly stupid from a scientific standpoint, but it is cool, so meh. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Boombee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Boombee.label,boombee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Catbee.label,catbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Catbee.description,"A Cat / Bee hybrid. The agile catbee is an affectionate pet that will also sting your enemies to death.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The catbee has a powerful venomous sting that makes its prey blind for a while. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Catbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Catbee.label,catbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Chickenbee.label,chickenbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Chickenbee.description,"A Chicken / Bee hybrid. As it is often the case with avian hybrids, they are not very strong on their own, but when used in high enough numbers they can be a real nuisance.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The chickenbee is an excellent egg layer. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Chickenbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Chickenbee.label,chickenbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Spiderbee.label,spiderbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Spiderbee.description,"A Megaspider / Bee hybrid. A powerful, armoured bee hybrid that cannot reproduce on its own. It has a dangerous ranged attack.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting, and a ranged sting attack. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Spiderbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Spiderbee.tools.2.label,slicing mandibles,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Spiderbee.label,spiderbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Muffalobee.label,muffalobee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Muffalobee.description,"A Muffalo / Bee hybrid. This docile bee hybrid is a versatile pack beast, since it ignores terrain movement costs. Apart from its honeycombs, it also produces additional small amounts of milk and wool.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Muffalobee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Muffalobee.label,muffalobee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Lizardbee.label,lizardbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Lizardbee.description,"A Lizard / Bee hybrid. This bee hybrid is covered in scales, providing it with a thick natural armor.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. Lizardbees have a very potent venom. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Lizardbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Lizardbee.label,lizardbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Mousebee.label,mousebee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Mousebee.description,"A Mouse / Bee hybrid. These diminutive bee hybrids reproduce really fast.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The mousebee reproduces with blinding speed. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Mousebee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Mousebee.label,mousebee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Thrumbee.label,thrumbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Thrumbee.description,"A Thrumbo / Bee hybrid. This gigantic bee hybrid is very intelligent, and it can easily be the backbone of a colony's defense if trained to do it.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Thrumbee.tools.0.label,horn,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Thrumbee.tools.2.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Thrumbee.label,thrumbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Wolfbee.label,wolfbee,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Wolfbee.description,"A Wolf / Bee hybrid. A fearsome flying predator. One of the fastest creatures on the Rim, due to its ability to ignore rugged terrain. Perfect for chasing down intruders.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The wolfbee has a powerful venomous sting that paralyzes its prey. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.",description,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Wolfbee.tools.1.label,claws,label,ThingDef/Races_Animal_Beehybrids.xml,def
+GR_BeeHybrid_Wolfbee.label,wolfbee,label,PawnKindDef/Races_Animal_Beehybrids.xml,def
+RB_AteGeneticHoney.stages.0.label,ate genetic honey,label,ThoughtDef/Thoughts_Memory_Eating_RimBees.xml,def
+RB_AteGeneticHoney.stages.0.description,That genetic honey has given me a boost of strength. I feel good.,description,ThoughtDef/Thoughts_Memory_Eating_RimBees.xml,def
+RB_AteGeneticHoneyIngredient.stages.0.label,ate genetic honey,label,ThoughtDef/Thoughts_Memory_Eating_RimBees.xml,def
+RB_AteGeneticHoneyIngredient.stages.0.description,The genetic honey that meal was made with has given me a boost of strength. I feel good.,description,ThoughtDef/Thoughts_Memory_Eating_RimBees.xml,def
+RB_ToxicSting.label,toxic sting,label,ToolCapacityDef/ToolCapacity_RimBees.xml,def
+RB_VeryToxicSting.label,very toxic sting,label,ToolCapacityDef/ToolCapacity_RimBees.xml,def
+RB_ChemfuelSting.label,chemfuel sting,label,ToolCapacityDef/ToolCapacity_RimBees.xml,def
+RB_ParalyzingSting.label,paralyzing sting,label,ToolCapacityDef/ToolCapacity_RimBees.xml,def
+RB_BlindingSting.label,blinding sting,label,ToolCapacityDef/ToolCapacity_RimBees.xml,def

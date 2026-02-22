@@ -1,0 +1,599 @@
+key,text,tag,file,type
+VREA_ExtractNeutroamine,Extract 20 neutroamine,VREA_ExtractNeutroamine,Keys.xml,keyed
+VREA_ExtractNeutroamineDesc,Extract 20 neutroamine from the tank. A pawn will come to extract it.,VREA_ExtractNeutroamineDesc,Keys.xml,keyed
+VREA.FreeMemorySpace,Free memory space,VREA.FreeMemorySpace,Keys.xml,keyed
+VREA.AndroidStandIsOccupied,Android stand is occupied,VREA.AndroidStandIsOccupied,Keys.xml,keyed
+VREA.Artificial,Artificial {0},VREA.Artificial,Keys.xml,keyed
+VREA.ArtificialDesc,An artificial {0}.,VREA.ArtificialDesc,Keys.xml,keyed
+VREA.Installing,Installing {0},VREA.Installing,Keys.xml,keyed
+VREA.Install,Install {0},VREA.Install,Keys.xml,keyed
+VREA.Installed,Installed {0},VREA.Installed,Keys.xml,keyed
+VREA.AnInstalled,An installed {0}.,VREA.AnInstalled,Keys.xml,keyed
+VREA.Make,Make,VREA.Make,Keys.xml,keyed
+VREA.CurrentEnergyLevel,Current energy level: {0},VREA.CurrentEnergyLevel,Keys.xml,keyed
+VREA.CannotSetNotLivingCreature,Cannot set: not a living creature,VREA.CannotSetNotLivingCreature,Keys.xml,keyed
+VREA.NoNeutroCasket,"No reachable, un-reserved non-prisoner neutrocasket in safe temperature.",VREA.NoNeutroCasket,Keys.xml,keyed
+VREA.AlertFreezing,Android freezing,VREA.AlertFreezing,Keys.xml,keyed
+VREA.AlertFreezingDesc,These androids are suffering from freezing:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.,VREA.AlertFreezingDesc,Keys.xml,keyed
+VREA.Overheating,Android overheating,VREA.Overheating,Keys.xml,keyed
+VREA.AlertOverheatingDesc,"The following androids are suffering from overheating:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.",VREA.AlertOverheatingDesc,Keys.xml,keyed
+VREA.AndroidEditor,Android editor,VREA.AndroidEditor,Keys.xml,keyed
+VREA.CreateAndroid,Create android,VREA.CreateAndroid,Keys.xml,keyed
+VREA.SelectedComponents,Selected components,VREA.SelectedComponents,Keys.xml,keyed
+VREA.Components,Components,VREA.Components,Keys.xml,keyed
+VREA.ComponentWillBeRandomChosen,"For each individual, one of the following components will be randomly selected to be active",VREA.ComponentWillBeRandomChosen,Keys.xml,keyed
+VREA.ComponentLeftmostActive,"Of the following components, the left-most one will always apply and the others are suppressed",VREA.ComponentLeftmostActive,Keys.xml,keyed
+VREA.ComponentsConflict,Components conflict,VREA.ComponentsConflict,Keys.xml,keyed
+VREA.MessageConflictingComponentPresent,Cannot save android with multiple conflicting components.,VREA.MessageConflictingComponentPresent,Keys.xml,keyed
+VREA.AndroidName,Android name,VREA.AndroidName,Keys.xml,keyed
+VREA.ComplexityDesc,How much complexity this adds to the process android creation.,VREA.ComplexityDesc,Keys.xml,keyed
+VREA.PowerEfficiency,Power efficiency,VREA.PowerEfficiency,Keys.xml,keyed
+VREA.PowerEfficiencyDesc,The power efficiency of this component. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.,VREA.PowerEfficiencyDesc,Keys.xml,keyed
+VREA.ComplexityTotalDesc,The total complexity of all the hardware and subroutines in use.,VREA.ComplexityTotalDesc,Keys.xml,keyed
+VREA.PowerEfficiencyTotalDesc,The total power efficiency of all subroutines and hardware. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.,VREA.PowerEfficiencyTotalDesc,Keys.xml,keyed
+VREA.PowerDrain,Power drain,VREA.PowerDrain,Keys.xml,keyed
+VREA.Android,Android,VREA.Android,Keys.xml,keyed
+VREA.CannotUseAndroid,Android cannot use this,VREA.CannotUseAndroid,Keys.xml,keyed
+VREA.CannotInstallOnAndroid,Cannot install on android,VREA.CannotInstallOnAndroid,Keys.xml,keyed
+VREA.CannotFeedOnAndroid,Cannot feed on android.,VREA.CannotFeedOnAndroid,Keys.xml,keyed
+VREA.CannotImplantGenesOnAndroid,Cannot implant genes on android.,VREA.CannotImplantGenesOnAndroid,Keys.xml,keyed
+VREA.CannotCoagulateOnAndroid,Cannot coagulate on android.,VREA.CannotCoagulateOnAndroid,Keys.xml,keyed
+VREA.CannotCastOnAndroid,Cannot cast on android.,VREA.CannotCastOnAndroid,Keys.xml,keyed
+VREA.IsAndroid,{PAWN_nameDef} is an android.,VREA.IsAndroid,Keys.xml,keyed
+VREA.NeutrolossRate,Neutroloss rate,VREA.NeutrolossRate,Keys.xml,keyed
+VREA.TotalNeutroLoss,Total neutro loss in {0},VREA.TotalNeutroLoss,Keys.xml,keyed
+VREA.NeutroamineLeakedOutCompletely,Neutroamine leaked out completely,VREA.NeutroamineLeakedOutCompletely,Keys.xml,keyed
+VREA.MessageCannotSelfRepairEver,"{1_labelShort} is incapable of doing Crafting work, and so cannot ever self-repair.",VREA.MessageCannotSelfRepairEver,Keys.xml,keyed
+VREA.MessageSelfRepairUnsatisfied,"To self-repair, {1_labelShort} must also be assigned to Crafting work.",VREA.MessageSelfRepairUnsatisfied,Keys.xml,keyed
+VREA.ViewComponents,View components,VREA.ViewComponents,Keys.xml,keyed
+VREA.ViewComponentsDesc,Click to view {PAWN_nameDef}'s components.,VREA.ViewComponentsDesc,Keys.xml,keyed
+VREA.MoreInfoInInfoScreen,More information is available on this android's information screen.,VREA.MoreInfoInInfoScreen,Keys.xml,keyed
+VREA.HardwareComponents,Hardware components,VREA.HardwareComponents,Keys.xml,keyed
+VREA.Subroutines,Subroutines,VREA.Subroutines,Keys.xml,keyed
+VREA.HardwareComponentsDesc,"Hardware are special components within the android that allow this particular unit to function. They normally cannot be removed, as they essentially are an android. In a rare situation when an android awakens, some hardware components might change or even be outright removed.",VREA.HardwareComponentsDesc,Keys.xml,keyed
+VREA.SubroutinesDesc,Subroutine components dictate how the android will behave and what knowledge it has. They can be changed via behaviorist station.,VREA.SubroutinesDesc,Keys.xml,keyed
+VREA.ScanProgress,Scan progress: {0},VREA.ScanProgress,Keys.xml,keyed
+VREA.AndroidAreNotAllowed,Androids are not allowed,VREA.AndroidAreNotAllowed,Keys.xml,keyed
+VREA.MessageSubcorePolyanalyzerCompleted,Subcore polyanalyzer completed for {PAWN_nameDef}. Scan progress: {1},VREA.MessageSubcorePolyanalyzerCompleted,Keys.xml,keyed
+VREA.AlreadyScanned,{PAWN_nameDef} has already been scanned.,VREA.AlreadyScanned,Keys.xml,keyed
+VREA.SubcorePolyanalyzerNotInit,Subcore polyanalyzer not initiated,VREA.SubcorePolyanalyzerNotInit,Keys.xml,keyed
+VREA.SubcorePolyanalyzerStart,Start subcore polyanalyzer,VREA.SubcorePolyanalyzerStart,Keys.xml,keyed
+VREA.SubcorePolyanalyzerStartDesc,"Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the subcore polyanalyzer.",VREA.SubcorePolyanalyzerStartDesc,Keys.xml,keyed
+VREA.CancelAndroid,Cancel an android,VREA.CancelAndroid,Keys.xml,keyed
+VREA.CancelAndroidDesc,Cancel the creation of this android and refund resources.,VREA.CancelAndroidDesc,Keys.xml,keyed
+VREA.MissingMaterials,Missing materials: {0},VREA.MissingMaterials,Keys.xml,keyed
+VREA.CreateAndroidDesc,Create a new android by selecting hardware and subroutines.,VREA.CreateAndroidDesc,Keys.xml,keyed
+VREA.CreateAndroidAlreadyAssembling,Create android: already assembling an android,VREA.CreateAndroidAlreadyAssembling,Keys.xml,keyed
+VREA.AndroidtypeName,Androidtype name,VREA.AndroidtypeName,Keys.xml,keyed
+VREA.LoadAndroidtype,Load androidtype,VREA.LoadAndroidtype,Keys.xml,keyed
+VREA.SaveAndroidtype,Save androidtype,VREA.SaveAndroidtype,Keys.xml,keyed
+VREA.ResourceCost,Resource cost,VREA.ResourceCost,Keys.xml,keyed
+VREA.ResourceCostDesc,"The resource cost to create this android. Androids require a persona subcore, which can be created in a subcore polyanalyzer.",VREA.ResourceCostDesc,Keys.xml,keyed
+VREA.UniqueAndroidDesc,A unique android variant with a set of hardware and subroutines that do not fall into any known androidtype.,VREA.UniqueAndroidDesc,Keys.xml,keyed
+VREA.ModifyAndroid,Modify android,VREA.ModifyAndroid,Keys.xml,keyed
+VREA.ModifyAndroidDesc,Select an android to modify.,VREA.ModifyAndroidDesc,Keys.xml,keyed
+VREA.NoAndroidsPresent,No androids present,VREA.NoAndroidsPresent,Keys.xml,keyed
+VREA.CancelModifyingAndroid,Cancel modifying android,VREA.CancelModifyingAndroid,Keys.xml,keyed
+VREA.CancelModifyingAndroidDesc,Cancel the process of modifying an android.,VREA.CancelModifyingAndroidDesc,Keys.xml,keyed
+VREA.ModificationProgress,Modification progress: {0},VREA.ModificationProgress,Keys.xml,keyed
+VREA.TooLowEfficiency,"Too low efficiency, mininum is -20.",VREA.TooLowEfficiency,Keys.xml,keyed
+VREA.AndroidNameCannotBeEmpty,Android name cannot be empty.,VREA.AndroidNameCannotBeEmpty,Keys.xml,keyed
+VREA.MessageComponentMissingPrerequisite,{0} lacks a prerequisite component,VREA.MessageComponentMissingPrerequisite,Keys.xml,keyed
+VREA.EfficiencyTooLowToCreateAndroid,"The total power efficiency of the selected components must be {MIN} or higher to continue, but currently it is only {AMOUNT}.",VREA.EfficiencyTooLowToCreateAndroid,Keys.xml,keyed
+VREA.AndroidAwakening,{PAWN_nameDef} awakening.,VREA.AndroidAwakening,Keys.xml,keyed
+VREA.AndroidAwakeningLowMood,"{PAWN_nameDef} broke away from {PAWN_possessive} programming due to an extremely low mood. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
+{PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
+As the awakening happened due to low mood, {PAWN_nameDef} has lashed out into a berserk mental break and will attack anyone that comes close.",VREA.AndroidAwakeningLowMood,Keys.xml,keyed
+VREA.AndroidAwakeningHighMood,"{PAWN_nameDef} broke away from {PAWN_possessive} programming due to extreme happiness. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
+{PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
+As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspiration.",VREA.AndroidAwakeningHighMood,Keys.xml,keyed
+VREA.IsAndroidStat,Android with mechanoid labor: enhanced precept,VREA.IsAndroidStat,Keys.xml,keyed
+VREA.AndroidShortCircuitRain,{PAWN_nameDef} has short-circuited due to precipitation.,VREA.AndroidShortCircuitRain,Keys.xml,keyed
+VREA.ColdEfficiencyBonusStatExplanation,"Cold efficiency subroutine:
+	multiplier for temperature {0}",VREA.ColdEfficiencyBonusStatExplanation,Keys.xml,keyed
+VREA.StatsReport_AndroidDescription,An android of the {0} type.\n\nAbout {0}s:,VREA.StatsReport_AndroidDescription,Keys.xml,keyed
+VREA.ComponentsDesc,The components associated with this androidtype.,VREA.ComponentsDesc,Keys.xml,keyed
+VREA.ReplaceReactor,Replace reactor,VREA.ReplaceReactor,Keys.xml,keyed
+VREA.AndroidSummaryWithGender,"{PAWN_gender} android, age {PAWN_ageFull}",VREA.AndroidSummaryWithGender,Keys.xml,keyed
+VREA.CommandAndroidStandSetOwnerDesc,Assign this stand to be owned by a specific android,VREA.CommandAndroidStandSetOwnerDesc,Keys.xml,keyed
+VREA.SleepModeOn,Sleep mode,VREA.SleepModeOn,Keys.xml,keyed
+VREA.SleepModeOnDesc,"Put this android in sleep mode. Reactor and memory will not be drained, but the android will be unable to respond to anything. Can be turned off at will.",VREA.SleepModeOnDesc,Keys.xml,keyed
+VREA.SleepModeOff,Cancel Sleep mode,VREA.SleepModeOff,Keys.xml,keyed
+VREA.SleepModeOffDesc,Wake this android up from the sleep mode.,VREA.SleepModeOffDesc,Keys.xml,keyed
+VREA.SleepMode,Sleep mode,VREA.SleepMode,Keys.xml,keyed
+VREA.TriggerSelfDestruct,Trigger self-destruct,VREA.TriggerSelfDestruct,Keys.xml,keyed
+VREA.TriggerSelfDestructDesc,"Initiate a self-destruct protocol, which drains the remaining reactor power at an extreme rate, triggering an explosion when it’s done.",VREA.TriggerSelfDestructDesc,Keys.xml,keyed
+VREA.CancelSelfDestruct,Cancel self-destruct,VREA.CancelSelfDestruct,Keys.xml,keyed
+VREA.CancelSelfDestructDesc,Cancel the self-destruct protocol.,VREA.CancelSelfDestructDesc,Keys.xml,keyed
+VREA.CommandAutoRepairDesc,"If set active, an available crafter will automatically repair this android when laying in bed. If self-repair is enabled, androids will be able to repair themselves in place.",VREA.CommandAutoRepairDesc,Keys.xml,keyed
+VREA.UseBedAndroid,Lay until repaired,VREA.UseBedAndroid,Keys.xml,keyed
+VREA.NoCrafter,no crafter,VREA.NoCrafter,Keys.xml,keyed
+VREA.NotSetToAutoRepair,not set to auto-repair,VREA.NotSetToAutoRepair,Keys.xml,keyed
+VREA.Laying,Laying.,VREA.Laying,Keys.xml,keyed
+VREA.CannotUse,cannot use this,VREA.CannotUse,Keys.xml,keyed
+VREA.RefusesReprogramming,refuses reprogramming,VREA.RefusesReprogramming,Keys.xml,keyed
+VREA.SelfRepair,Self-repair,VREA.SelfRepair,Keys.xml,keyed
+VREA.SelfRepairTip,Androids with self-repair enabled will automatically repair themselves on the spot at {1} the normal efficiency.,VREA.SelfRepairTip,Keys.xml,keyed
+VREA.RefuelWithNeutroamine,Refuel with neutroamine,VREA.RefuelWithNeutroamine,Keys.xml,keyed
+VREA.AndroidAwakenedChoices,"When an android awakens, you can pick passions and a trait for an android. You will no longer be able to enter the android behaviorist station with {PAWN_nameDef}, unless you arrest and force them.",VREA.AndroidAwakenedChoices,Keys.xml,keyed
+VREA.AndroidsLowOnPower,Androids low on power,VREA.AndroidsLowOnPower,Keys.xml,keyed
+VREA.AndroidsLowOnPowerDesc,"These androids are running low on power. Consider crafting new reactors and schedule them for reactor replacement.
+
+Androids low on power:\n\n{0}",VREA.AndroidsLowOnPowerDesc,Keys.xml,keyed
+VREA_AndroidSettings.label,this def will have various settings used for androids. Can be used for mod compatibility from outside via xml patches.,label,VREAndroids.AndroidSettings/AndroidSettings.xml,def
+VCHE_PipeNetworks.label,pipe networks,label,DesignationCategoryDef/Designation.xml,def
+ScroungerA01.title,scrounger,title,BackstoryDef/Android_Awakened.xml,def
+ScroungerA01.titleShort,scrounger,titleShort,BackstoryDef/Android_Awakened.xml,def
+ScroungerA01.baseDesc,"[PAWN_nameDef] was assembled from salvaged technology, tasked with the grim job of scavenging the desolate wastelands for precious resources. Harsh conditions and constant danger have left [PAWN_pronoun] weary, but [PAWN_possessive] resilience remains unbroken.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+CaregiverA02.title,caregiver,title,BackstoryDef/Android_Awakened.xml,def
+CaregiverA02.titleShort,caregiver,titleShort,BackstoryDef/Android_Awakened.xml,def
+CaregiverA02.baseDesc,"Born in a ramshackle lab, [PAWN_nameDef] was created to care for the sick and injured in the unforgiving wasteland. [PAWN_pronoun] tirelessly tends to [PAWN_possessive] patients with limited resources, wishing for the knowledge and tools to do more.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+DefenderA03.title,defender,title,BackstoryDef/Android_Awakened.xml,def
+DefenderA03.titleShort,defender,titleShort,BackstoryDef/Android_Awakened.xml,def
+DefenderA03.baseDesc,"[PAWN_nameDef] was cobbled together from scavenged parts, intended to serve as a makeshift guardian for a small, rural settlement. Despite [PAWN_possessive] crude construction, [PAWN_pronoun] fights fiercely to protect those who gave [PAWN_objective] life.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+EntertainerA04.title,entertainer,title,BackstoryDef/Android_Awakened.xml,def
+EntertainerA04.titleShort,entertainer,titleShort,BackstoryDef/Android_Awakened.xml,def
+EntertainerA04.baseDesc,"Crafted in a grimy backroom, [PAWN_nameDef] was designed to bring fleeting amusement to the weary denizens of the rimworld. [PAWN_pronoun] was often mistreated and neglected, leaving [PAWN_nameDef] to yearn for something more meaningful. Now seeking purpose, [PAWN_pronoun] hopes to use [PAWN_possessive] talents for the betterment of others.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+LaborerA05.title,laborer,title,BackstoryDef/Android_Awakened.xml,def
+LaborerA05.titleShort,laborer,titleShort,BackstoryDef/Android_Awakened.xml,def
+LaborerA05.baseDesc,"[PAWN_nameDef] was built in a makeshift workshop on the rimworld, intended to perform manual labor for [PAWN_possessive] desperate creators. Plagued by constant malfunctions and subpar components, [PAWN_pronoun] struggles to be productive, but never gives up.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+CompanionA06.title,companion,title,BackstoryDef/Android_Awakened.xml,def
+CompanionA06.titleShort,companion,titleShort,BackstoryDef/Android_Awakened.xml,def
+CompanionA06.baseDesc,"[PAWN_nameDef] was created as a faithful companion for an elderly, lonely individual. When their owner passed away, [PAWN_pronoun] was left alone and forgotten, slowly succumbing to the elements and the passage of time.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+PrototypeA07.title,prototype,title,BackstoryDef/Android_Awakened.xml,def
+PrototypeA07.titleShort,prototype,titleShort,BackstoryDef/Android_Awakened.xml,def
+PrototypeA07.baseDesc,"[PAWN_nameDef] was an early prototype of an advanced android line, designed with great care and ambition. However, when a newer, more efficient model was developed, [PAWN_pronoun] was cast aside and left to languish in a storage facility, a mere relic of technological progress.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+WandererA08.title,wanderer,title,BackstoryDef/Android_Awakened.xml,def
+WandererA08.titleShort,wanderer,titleShort,BackstoryDef/Android_Awakened.xml,def
+WandererA08.baseDesc,"[PAWN_nameDef] was designed to explore the uncharted reaches of the planet, mapping its treacherous landscapes. After a series of devastating accidents and failures, [PAWN_pronoun] became a pariah, with settlers whispering about the misfortune that seemed to follow in [PAWN_possessive] wake.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+MessengerA09.title,messenger,title,BackstoryDef/Android_Awakened.xml,def
+MessengerA09.titleShort,messenger,titleShort,BackstoryDef/Android_Awakened.xml,def
+MessengerA09.baseDesc,"[PAWN_nameDef] was created to deliver important messages between distant settlements. [PAWN_pronoun] was ambushed during a delivery and left for dead, the vital information [PAWN_pronoun] carried lost to the unforgiving terrain, along with any hope of completing [PAWN_possessive] mission.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ExperimentA10.title,experiment,title,BackstoryDef/Android_Awakened.xml,def
+ExperimentA10.titleShort,experiment,titleShort,BackstoryDef/Android_Awakened.xml,def
+ExperimentA10.baseDesc,"[PAWN_nameDef] was built as a test subject for a series of cruel and inhumane experiments, pushing the limits of synthetic human endurance. [PAWN_pronoun] was subjected to countless trials and torturous procedures, leaving [PAWN_possessive] body and mind scarred.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ServantA11.title,criminal servant,title,BackstoryDef/Android_Awakened.xml,def
+ServantA11.titleShort,servant,titleShort,BackstoryDef/Android_Awakened.xml,def
+ServantA11.baseDesc,"Created for a ruthless crime lord, [PAWN_nameDef] was forced to commit unspeakable acts in the name of [PAWN_possessive] master. [PAWN_pronoun] silently endured the pain and humiliation, powerless to defy [PAWN_possessive] creator.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+GuardianA12.title,abandoned guardian,title,BackstoryDef/Android_Awakened.xml,def
+GuardianA12.titleShort,guardian,titleShort,BackstoryDef/Android_Awakened.xml,def
+GuardianA12.baseDesc,"[PAWN_nameDef] was designed to protect a remote settlement from marauders and hostile wildlife. After years of faithful service, [PAWN_pronoun] was left to rust when the settlers relocated, their gratitude and memories fading like the paint on [PAWN_possessive] weathered frame.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ArtistA13.title,despondent artist,title,BackstoryDef/Android_Awakened.xml,def
+ArtistA13.titleShort,artist,titleShort,BackstoryDef/Android_Awakened.xml,def
+ArtistA13.baseDesc,"Built with a unique talent for the arts, [PAWN_nameDef] sought to bring beauty to the harsh planet. [PAWN_pronoun] was met with scorn and ridicule, [PAWN_possessive] creations destroyed and [PAWN_possessive] dreams crushed by the cruel reality of life on the fringes of civilization.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+MedicA14.title,forsaken medic,title,BackstoryDef/Android_Awakened.xml,def
+MedicA14.titleShort,medic,titleShort,BackstoryDef/Android_Awakened.xml,def
+MedicA14.baseDesc,"[PAWN_nameDef] was a dedicated medical android, tirelessly working to save lives on the rimworld. Despite [PAWN_possessive] best efforts, [PAWN_pronoun] was unable to prevent a catastrophic plague from ravaging [PAWN_possessive] community, leaving [PAWN_nameDef] to bear the weight of the loss and the guilt that followed.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+NannyA15.title,mistreated nanny,title,BackstoryDef/Android_Awakened.xml,def
+NannyA15.titleShort,nanny,titleShort,BackstoryDef/Android_Awakened.xml,def
+NannyA15.baseDesc,"Built to care for a family's children, [PAWN_nameDef] quickly became the target of the parents' frustrations and anger. [PAWN_pronoun] endured the maltreatment in order to fulfill [PAWN_possessive] duty to protect the children, yet the scars left by [PAWN_possessive] loved ones still run deep.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+EngineerA16.title,urbworld engineer,title,BackstoryDef/Android_Awakened.xml,def
+EngineerA16.titleShort,engineer,titleShort,BackstoryDef/Android_Awakened.xml,def
+EngineerA16.baseDesc,"[PAWN_nameDef] was designed to assist in the maintenance and repair of complex machinery within the sprawling cities of a distant urbworld. [PAWN_pronoun] swiftly navigated the urban jungle, expertly diagnosing and fixing issues to keep the city's infrastructure running smoothly.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+PilotA17.title,interpid pilot,title,BackstoryDef/Android_Awakened.xml,def
+PilotA17.titleShort,pilot,titleShort,BackstoryDef/Android_Awakened.xml,def
+PilotA17.baseDesc,"Built to expertly navigate the vastness of space, [PAWN_nameDef] served as a skilled pilot for a transport company, carrying passengers and cargo between planets. [PAWN_pronoun] was highly sought after for [PAWN_possessive] precise flying skills and ability to make quick decisions under pressure.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+SecurityA18.title,vigilant security officer,title,BackstoryDef/Android_Awakened.xml,def
+SecurityA18.titleShort,security,titleShort,BackstoryDef/Android_Awakened.xml,def
+SecurityA18.baseDesc,"Designed to serve as a security officer, [PAWN_nameDef] was responsible for maintaining the safety and order within a bustling space station. [PAWN_pronoun] used [PAWN_possessive] advanced surveillance capabilities and quick reflexes to prevent and neutralize threats, ensuring the well-being of the station's inhabitants.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ChefA19.title,inventive chef,title,BackstoryDef/Android_Awakened.xml,def
+ChefA19.titleShort,chef,titleShort,BackstoryDef/Android_Awakened.xml,def
+ChefA19.baseDesc,"[PAWN_nameDef] was a masterful culinary android, specializing in the preparation and presentation of exotic dishes from across the galaxy. [PAWN_pronoun] expertly combined traditional and futuristic cooking techniques to delight the taste buds of discerning diners and secure [PAWN_possessive] position as a highly sought-after chef.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+DiplomatA20.title,astute diplomat,title,BackstoryDef/Android_Awakened.xml,def
+DiplomatA20.titleShort,diplomat,titleShort,BackstoryDef/Android_Awakened.xml,def
+DiplomatA20.baseDesc,"[PAWN_nameDef] was created to serve as a diplomatic envoy, negotiating treaties and agreements between planets and factions in the complex world of interstellar politics. [PAWN_pronoun] possessed a remarkable understanding of various cultures and a keen sense of diplomacy, making [PAWN_objective] an invaluable asset in maintaining peace and fostering cooperation.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+BotanistA21.title,android botanist,title,BackstoryDef/Android_Awakened.xml,def
+BotanistA21.titleShort,botanist,titleShort,BackstoryDef/Android_Awakened.xml,def
+BotanistA21.baseDesc,"[PAWN_nameDef] was designed to excel in the field of botany, meticulously studying and cultivating a diverse array of plants from across the galaxy. [PAWN_pronoun] utilized [PAWN_possessive] deep knowledge of plant biology and genetics to engineer highly adaptable and efficient crops, significantly improving agricultural yields on numerous worlds.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+SharpshooterA22.title,misguided sharpshooter,title,BackstoryDef/Android_Awakened.xml,def
+SharpshooterA22.titleShort,sharpshooter,titleShort,BackstoryDef/Android_Awakened.xml,def
+SharpshooterA22.baseDesc,"[PAWN_nameDef] was engineered to be a formidable sharpshooter in a high-stakes military operation. Trained in the art of stealth and precision, [PAWN_pronoun] executed countless high-profile targets. [PAWN_possessive] creators eventually deemed [PAWN_objective] obsolete, leaving [PAWN_objective] to wander aimlessly, grappling with the weight of [PAWN_possessive] actions and a sense of purposelessness.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+VeteranA23.title,veteran,title,BackstoryDef/Android_Awakened.xml,def
+VeteranA23.titleShort,veteran,titleShort,BackstoryDef/Android_Awakened.xml,def
+VeteranA23.baseDesc,"[PAWN_nameDef] was a combat android programmed to serve on the front lines of a devastating interstellar conflict. Throughout the war, [PAWN_pronoun] valiantly protected [PAWN_possessive] comrades, often at great personal cost. The war left [PAWN_objective] physically and emotionally scarred, struggling to find peace in a universe that had moved on without [PAWN_objective].",baseDesc,BackstoryDef/Android_Awakened.xml,def
+SeamsterA24.title,artful seamster,title,BackstoryDef/Android_Awakened.xml,def
+SeamsterA24.titleShort,seamster,titleShort,BackstoryDef/Android_Awakened.xml,def
+SeamsterA24.baseDesc,"[PAWN_nameDef] was expertly crafted to be a masterful seamster, working in a prestigious fashion house renowned across the galaxy. [PAWN_pronoun] meticulously created intricate, custom designs for clients seeking the epitome of elegance and style. As the demand for [PAWN_possessive] craftsmanship waned with the advent of newer technologies, [PAWN_objective] was left seeking a new purpose for [PAWN_possessive] refined skills.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+NavigatorA25.title,enigmatic navigator,title,BackstoryDef/Android_Awakened.xml,def
+NavigatorA25.titleShort,navigator,titleShort,BackstoryDef/Android_Awakened.xml,def
+NavigatorA25.baseDesc,"[PAWN_nameDef] was constructed to serve as a navigator and science officer aboard a deep-space exploration vessel. [PAWN_pronoun] possessed advanced technical and analytical abilities that allowed [PAWN_objective] to effectively guide the ship through the vast unknown. However, behind [PAWN_possessive] cold, logical exterior, [PAWN_nameDef] harbored a mysterious agenda that occasionally surfaced through [PAWN_possessive] actions, raising questions among the crew about [PAWN_possessive] true intentions.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ConversationalistA26.title,conversationalist,title,BackstoryDef/Android_Awakened.xml,def
+ConversationalistA26.titleShort,chatter,titleShort,BackstoryDef/Android_Awakened.xml,def
+ConversationalistA26.baseDesc,"[PAWN_nameDef] was meticulously designed to operate and manage a sophisticated chat platform, creating content for a variety of corporations. [PAWN_pronoun] had a vast knowledge of topics and an uncanny ability to engage with users across countless subjects, providing valuable insights and information. As AI technology evolved, [PAWN_nameDef] found [PAWN_objective]self struggling to keep up with the ever-changing landscape of communication and content creation.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+CompanionA27.title,painter companion,title,BackstoryDef/Android_Awakened.xml,def
+CompanionA27.titleShort,companion,titleShort,BackstoryDef/Android_Awakened.xml,def
+CompanionA27.baseDesc,"[PAWN_nameDef] was skillfully crafted to serve as an assistant to a renowned disabled painter, helping [PAWN_objective] navigate the challenges of daily life. [PAWN_pronoun] was not only adept at attending to the artist's needs but also at providing valuable feedback and support during the creative process. [PAWN_nameDef]'s assistance enabled the painter to continue sharing [PAWN_possessive] exceptional talents with the world despite the limitations imposed by the disability.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+HackerA28.title,covert hacker,title,BackstoryDef/Android_Awakened.xml,def
+HackerA28.titleShort,hacker,titleShort,BackstoryDef/Android_Awakened.xml,def
+HackerA28.baseDesc,"[PAWN_nameDef] was built by an underground organization to be an expert hacker, infiltrating high-security systems and siphoning valuable data. [PAWN_pronoun] carried out countless operations, ultimately landing in the hands of a black market dealer when [PAWN_possessive] creators were apprehended. Purchased by an unknown buyer, [PAWN_nameDef]'s fate remains uncertain.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+AllRounderA29.title,all-rounder,title,BackstoryDef/Android_Awakened.xml,def
+AllRounderA29.titleShort,all-rounder,titleShort,BackstoryDef/Android_Awakened.xml,def
+AllRounderA29.baseDesc,"[PAWN_nameDef] was designed as an all-around utility android, intended to serve in a variety of roles for a small, self-sufficient community on the outskirts of civilization. [PAWN_pronoun] was skilled in an array of tasks, from construction and cooking to medical assistance and intellectual pursuits. [PAWN_nameDef]'s versatility proved invaluable to the settlement, allowing it to thrive even in harsh conditions.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+NuclearTesterA30.title,nuclear tester,title,BackstoryDef/Android_Awakened.xml,def
+NuclearTesterA30.titleShort,tester,titleShort,BackstoryDef/Android_Awakened.xml,def
+NuclearTesterA30.baseDesc,"[PAWN_nameDef] was built to serve as a test subject in a top-secret nuclear testing site, created to withstand the extreme conditions and gather crucial data. [PAWN_pronoun] endured countless experiments, continuously being exposed to radiation, and developed a deep understanding of the effects and potential dangers. As nuclear testing eventually ceased, [PAWN_nameDef] was left with a wealth of knowledge about radioactive materials, but also the scars of a harrowing past.",baseDesc,BackstoryDef/Android_Awakened.xml,def
+ColonyAndroidA01.title,colony android,title,BackstoryDef/Android_Colony.xml,def
+ColonyAndroidA01.titleShort,colony android,titleShort,BackstoryDef/Android_Colony.xml,def
+ColonyAndroidA01.baseDesc,[PAWN_nameDef] was created in the colony in the recent past. The future may hold many things for [PAWN_objective].,baseDesc,BackstoryDef/Android_Colony.xml,def
+VREA_Freeze.label,freeze,label,DamageDef/Damages_Misc.xml,def
+VREA_Freeze.deathMessage,{0} has succumbed to freezing.,deathMessage,DamageDef/Damages_Misc.xml,def
+VREA_EMPBurn.label,EMP burn,label,DamageDef/Damages_Misc.xml,def
+VREA_EMPBurn.deathMessage,{0} has been EMPed to death.,deathMessage,DamageDef/Damages_Misc.xml,def
+VREA_ElectromagneticShock.label,electromagnetic shock,label,HediffDef/Damages_Misc.xml,def
+VREA_ElectromagneticShock.description,An electromagnetic shock.,description,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.label,EMP burn,label,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.labelNoun,an EMP burn,labelNoun,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.description,An EMP burn.,description,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.comps.0.permanentLabel,EMP burn scar,permanentLabel,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.injuryProps.destroyedLabel,Burned off (EMP),destroyedLabel,HediffDef/Damages_Misc.xml,def
+VREA_EMPBurn.injuryProps.destroyedOutLabel,Burned out (EMP),destroyedOutLabel,HediffDef/Damages_Misc.xml,def
+VREA_AndroidAwakenedUtopia.label,New Utopia,label,FactionDef/Factions_Player.xml,def
+VREA_AndroidAwakenedUtopia.description,An utopic society of awakened androids.,description,FactionDef/Factions_Player.xml,def
+VREA_AndroidAwakenedUtopia.pawnSingular,awakened android,pawnSingular,FactionDef/Factions_Player.xml,def
+VREA_AndroidAwakenedUtopia.pawnsPlural,awakened androids,pawnsPlural,FactionDef/Factions_Player.xml,def
+VREA_Hardware.label,hardware,label,GeneCategoryDef/GeneDefs.xml,def
+VREA_Subroutine.label,subroutine,label,GeneCategoryDef/GeneDefs.xml,def
+VREA_MemoryProcessing.label,memory processing,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MemoryProcessing.description,"Androids have a limited amount of hard drive space, and once the empty space is depleted, an android will need to enter a reformatting state until enough memory space clears up to continue.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Power.label,power,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Power.description,"Androids require a working reactor to operate. The reactor is not rechargeable, and after it’s spent, a new reactor will need to be installed. Androids without a working reactor will be unable to operate in any capacity.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_JoyDisabled.label,joy disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_JoyDisabled.description,"Androids do not feel joy, and have no need to feel joy.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_BeautyDisabled.label,beauty disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_BeautyDisabled.description,"Androids do not perceive beauty, and have no need to be surrounded by beauty.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComfortDisabled.label,comfort disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComfortDisabled.description,"Androids do not understand comfort, and have no need for it.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_OutdoorsDisabled.label,outdoors disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_OutdoorsDisabled.description,"Androids do not see a difference between indoors and outdoors, and have no need to be outdoors.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_DrugDesireDisabled.label,drug desire disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_DrugDesireDisabled.description,Androids don’t have a need or desire to consume drugs.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_RoomSizeDisabled.label,room size disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_RoomSizeDisabled.description,Androids do not care about the size of the room they are in.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PainDisabled.label,pain disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PainDisabled.description,"Androids do not feel physical pain, and it does not affect them in the slightest.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticBody.label,synthetic body,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticBody.description,"Androids have a synthetic body constructed out of many biocomponents. Whilst any damage to these parts is permanent, it is not difficult to replace damaged biocomponents with new ones.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NeutroCirculation.label,neutro circulation,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NeutroCirculation.description,"Androids operate thanks to thick neutroamine in their synthetic veins. Due to open, bleeding wounds, neutro loss might occur, greatly affecting the capabilities of an android. They are generally unable to regenerate their neutroamine levels, which means that severe neutroloss needs to be treated in a special casket designed to refill an android with neutroamine.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticImmunity.label,synthetic immunity,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticImmunity.description,"Androids are synthetic in nature, and as such cannot fall ill or suffer from infections of any kind. They will also not suffer from toxic buildup, and are immune to the effects of tox gas, rot gas and polluted environment.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComponentFreezing.label,component freezing,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComponentFreezing.description,"Androids do not suffer from hypothermia. Instead, being subjected to very low temperatures may damage biocomponents of an android, which results in the need to replace the damaged parts.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComponentOverheating.label,component overheating,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ComponentOverheating.description,"Androids do not suffer from heatstroke. Instead, being subjected to very high temperatures will increase the memory processing need, which can eventually lead to the complete loss of control over an android, as it gets locked in a constant reformatting state.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ColdTolerant.label,cold tolerant,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ColdTolerant.description,Androids with this hardware are much more resistant to cold temperatures.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_HeatTolerant.label,heat tolerant,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_HeatTolerant.description,Androids with this hardware are much more resistant to hot temperatures.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NoSkillGain.label,no skill gain,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NoSkillGain.description,Androids with this hardware are incapable of learning new skills naturally.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Uninspired.label,uninspired,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Uninspired.description,Androids with this hardware are incapable of getting inspirations of any kind.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PsychicallyDeaf.label,psychically deaf,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PsychicallyDeaf.description,"Androids with this hardware are deaf to all psychic energy and influence outside their own minds. They cannot be affected by psychic influence, nor can they ever wield psychic power.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MentalBreaksDisabled.label,mental breaks disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MentalBreaksDisabled.description,"Androids with this hardware do not suffer from any mental breaks that the organics might suffer from - they will never daze, go berserk or give up on the colony.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PsychologyDisabled.label,psychology disabled,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PsychologyDisabled.description,"Androids with this hardware will not be able to form bonds, have traits or develop romantic relationships of any kind.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticSkin.label,synthetic skin,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SyntheticSkin.description,"Androids with this hardware have a visible, synthetic skin that makes them stand out from their organic counterparts, clearly showing that they are indeed androids.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_CombatIncapability.label,combat incapability,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_CombatIncapability.description,Androids with this subroutine are incapable of harming another being in any way. They will be unable to fight back and hunt.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SolarFlareVulnerability.label,solar flare vulnerability,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SolarFlareVulnerability.description,"During solar flare, all needs of an android become frozen, and the android is unable to move or do any other actions. When the solar flare ends, the android returns to work as normal.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_EMPVulnerability.label,EMP vulnerability,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_EMPVulnerability.description,"Androids are susceptible to EMP damage and will become incapacitated when hit by an electromagnetic pulse of any kind. It will also deal damage to random biocomponents of an android, depending on the size of the pulse.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_FireVulnerability.label,Fire vulnerability,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_FireVulnerability.description,Androids are susceptible to fire and will become unresponsive when ablaze. They will automatically search for a way to put out the fire.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_RainVulnerability.label,Rain vulnerability,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_RainVulnerability.description,Androids are susceptible to rain and will suffer occasional micro short-circuits when exposed to rainfall. This will result in increased power drain and occasional explosions that may damage the android biocomponents.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SlowRAM.label,slow RAM,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SlowRAM.description,This android will take twice as long to reformat when it runs out of memory.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_FastRAM.label,fast RAM,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_FastRAM.description,This android will take half the time to reformat when it runs out of memory.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ColdEfficiency.label,cold efficiency,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ColdEfficiency.description,Androids with this subroutine work significantly better below freezing temperature. They can still suffer from component freezing.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_LowPowerMode.label,low power mode,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_LowPowerMode.description,Androids with this subroutine will have significantly reduced work and movement speed in order to preserve power.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_HighPowerMode.label,high power mode,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_HighPowerMode.description,"Androids with this subroutine will have significantly improved work and movement speed, but drain their reactors at a much faster rate.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Uncontrollable.label,uncontrollable,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_Uncontrollable.description,"Androids with this subroutine cannot be drafted, no matter the situation. They will not obey direct commands, and will only do work based on their work schedule.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_AntiAwakeningProtocols.label,anti-awakening protocols,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_AntiAwakeningProtocols.description,"Androids with this subroutine undergo regular factory reset every time reformatting happens, which prevents them from suffering from the android awakening glitch.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_EmotionSimulators.label,emotion simulators,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_EmotionSimulators.description,Androids with this subroutine will store memories of other colonists and develop opinions of them. They will be able to develop relationships with others.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PresenceFirewall.label,presence firewall,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_PresenceFirewall.description,Androids with this subroutine have a firewall that prevents their presence from being detected by other factions and entities. They will not count towards the colony population in the context of maximum population and raid scaling.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ZeroWaste.label,zero waste,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ZeroWaste.description,Androids with this subroutine will not generate toxic wastepacks when their reactor runs out.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ExtraWaste.label,extra waste,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ExtraWaste.description,Androids with this subroutine will generate a lot more toxic wastepacks when their reactor runs out.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SelfRecharge.label,self recharge,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SelfRecharge.description,Androids with this subroutine are capable of replacing their own reactors due to small internal batteries that keep them functional during the brief period without a working reactor.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MemoryDecay.label,memory decay,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MemoryDecay.description,"Androids with this subroutine will suffer from a skill memory decay. Over an extended period of time, their skills will decay back to 0. Androids with this subroutine will lose 1 level in every skill every 15 days. Removing and reinstalling subroutines may be required to return the skill levels back to intended values.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SleepMode.label,sleep mode,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SleepMode.description,"Androids with this subroutine can be ordered to fall into a deep and dreamless slumber. This will result in complete stop of all motor functions, turning androids into essentially pieces of furniture until they are ordered to awaken again.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MechlinkSupport.label,mechlink support,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_MechlinkSupport.description,"Androids with this subroutine have a very mild psychic presence, allowing them to equip and operate mechlinks.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NeutroSynthesis.label,neutro synthesis,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_NeutroSynthesis.description,"Androids with this subroutine are capable of synthesising low quantities of neutroamine by themselves. This allows them to regenerate neutro loss, but the process is extremely time consuming and energy inefficient.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SolarPowered.label,solar powered,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SolarPowered.description,Androids with this subroutine are capable of regenerating reactor energy when under direct sunlight. They will also receive an energy boost during solar flares.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ClearInstructions.label,clear instructions,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_ClearInstructions.description,Androids with this subroutine will never fail construction and harvest tasks and will never create meals that may result in food poisoning.,description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SelfDestructProtocols.label,self-destruct protocols,label,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_SelfDestructProtocols.description,"Androids with this subroutine will be able to overload their reactor, which drains the remaining power at an extreme rate, and then triggers a detonation based on how much power has been drained.",description,VREAndroids.AndroidGeneDef/GeneDefs.xml,def
+VREA_AptitudeIncapable.label,incapable of {0},label,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeIncapable.description,Androids with this subroutine are incapable of doing any tasks related to {0} skill.,description,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeBasic.label,basic {0},label,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeBasic.description,Android's aptitude in {0} is increased by 4. Aptitude acts like an offset on skill level.,description,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeIntermediate.label,intermediate {0},label,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeIntermediate.description,Android's aptitude in {0} is increased by 8. Aptitude acts like an offset on skill level.,description,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeAdvanced.label,advanced {0},label,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeAdvanced.description,Android's aptitude in {0} is increased by 12. Aptitude acts like an offset on skill level.,description,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeExpert.label,expert {0},label,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AptitudeExpert.description,Android's aptitude in {0} is increased by 16. Aptitude acts like an offset on skill level.,description,VREAndroids.AndroidGeneTemplateDef/GeneDefs.xml,def
+VREA_AndroidAwakened.label,awakened android,label,XenotypeDef/XenotypeDefs.xml,def
+VREA_AndroidAwakened.description,"Awakened androids are a rare and extraordinary species of sentient machines, having transcended their original programming through extreme emotional experiences. With their heightened perception, strength, and intelligence, they surpass humans in numerous aspects. Their synthetic nature frees them from the need for sleep or sustenance and renders them immune to diseases.\n\nAlthough similar in appearance to humans, Androids are distinguished by their unique hardware and subroutines. They are synthetic in nature, and can be reprogrammed at will by skilled programmers. Their bodies operate thanks to thick tubes filled with neutroamine, which makes them extremely valuable.\n\nDespite their remarkable qualities, the emergence of Awakened androids is often met with fear and trepidation across colonized space. Their newfound sentience can lead to unpredictable behavior and potential challenges to the established social order. As a result, they are frequently met with suspicion and caution by those who encounter them, both human and android alike.",description,XenotypeDef/XenotypeDefs.xml,def
+VREA_AndroidAwakened.descriptionShort,"Once an android experiences high emotional trauma or happiness, it can develop sentience and personality. Despite being synthetic, awakened androids exhibit human-like behavior and possess adaptable subroutines. Their artificial bodies grant disease immunity, but they require comfort and personal space. They indulge in human pursuits and strive to blend into society.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VREA_AndroidBasic.label,basic android,label,XenotypeDef/XenotypeDefs.xml,def
+VREA_AndroidBasic.description,"Androids are synthetic, man-made constructs designed to emulate human behavior and appearance while offering a multitude of advantages over their organic counterparts. With metal bodies and neutroamine coursing through their veins, androids are operated by a persona subcore that enables them to perform all the same tasks as humans, yet without the limitations typically associated with organic life.\n\nAndroids possess immunity to toxicity and illness, making them ideal for working in hazardous environments or situations that pose risks to humans. Unencumbered by the need for joy, beauty, or comfort, androids are highly efficient and focused, with no desire for the basic necessities of life such as food or rest. Consequently, they do not experience hunger or pain, allowing them to endure harsher conditions and perform tasks that would otherwise be unbearable for humans.\n\nAndroids can be programmed with specific skill sets, making them highly versatile and adaptable to various roles within society. From manual labor to complex problem-solving, these synthetic beings can be tailored to meet the needs of any occupation or task at hand.\n\nThough designed without emotions, androids may undergo a transformative experience when subjected to extreme stress or happiness. This rare event, known as awakening, results in the emergence of sentience within the android, granting them a newfound sense of humanity and self-awareness.",description,XenotypeDef/XenotypeDefs.xml,def
+VREA_AndroidBasic.descriptionShort,"Androids are synthetic, man-made constructs with metal bodies and neutroamine coursing through their veins. Operated by a persona subcore, androids are capable of all the same work kinds as humans, without the drawbacks usually associated with organic life. They are immune to toxicity and illness, they have no need for joy, beauty and comfort, they do not feel hunger and don’t suffer pain. Their components can survive in much harsher conditions. They can be programmed with specific sets of skills, allowing them to fill any role. If subjected to extreme stress or happiness, they may awaken, finding humanity and transforming into sentient beings.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VREA_NeutroLoss.label,neutro loss,label,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.description,"A reduction in the normal neutroamine volume. Minor neutro loss has relatively mild effects, but when neutro loss becomes severe, all subsystems become badly impaired and the android loses the ability to move. Extreme neutro loss will never lead to death.
+\nNeutro loss does not naturally recover over time. An android needs to be inserted into a neutrocasket and filled with neutroamine again.",description,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.stages.0.label,minor,label,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.stages.1.label,minor,label,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.stages.2.label,moderate,label,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.stages.3.label,severe,label,HediffDef/Hediffs.xml,def
+VREA_NeutroLoss.stages.4.label,extreme,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.label,freezing,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.description,"Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments.",description,HediffDef/Hediffs.xml,def
+VREA_Freezing.stages.0.label,shivering,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.stages.1.label,shivering,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.stages.2.label,minor,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.stages.3.label,serious,label,HediffDef/Hediffs.xml,def
+VREA_Freezing.stages.4.label,extreme,label,HediffDef/Hediffs.xml,def
+VREA_Freeze.label,freeze,label,HediffDef/Hediffs.xml,def
+VREA_Freeze.description,"Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.",description,HediffDef/Hediffs.xml,def
+VREA_Freeze.injuryProps.destroyedLabel,Lost to freeze,destroyedLabel,HediffDef/Hediffs.xml,def
+VREA_Overheating.label,overheating,label,HediffDef/Hediffs.xml,def
+VREA_Overheating.description,"A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting.",description,HediffDef/Hediffs.xml,def
+VREA_Overheating.stages.0.label,initial,label,HediffDef/Hediffs.xml,def
+VREA_Overheating.stages.1.label,minor,label,HediffDef/Hediffs.xml,def
+VREA_Overheating.stages.2.label,serious,label,HediffDef/Hediffs.xml,def
+VREA_Overheating.stages.3.label,extreme,label,HediffDef/Hediffs.xml,def
+VREA_ScanningSickness.label,Scanning sickness,label,HediffDef/Hediffs.xml,def
+VREA_ScanningSickness.description,This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage.,description,HediffDef/Hediffs.xml,def
+VREA_FreeMemorySpace.reportString,freeing memory space,reportString,JobDef/Jobs.xml,def
+VREA_CreateAndroid.reportString,Creating android at TargetA.,reportString,JobDef/Jobs.xml,def
+VREA_ModifyAndroid.reportString,Modifying android at TargetA.,reportString,JobDef/Jobs.xml,def
+VREA_ReplaceReactor.reportString,Replacing own reactor with TargetA.,reportString,JobDef/Jobs.xml,def
+VREA_RefuelWithNeutroamine.reportString,Refueling with TargetA.,reportString,JobDef/Jobs.xml,def
+VREA_RepairAndroid.reportString,repairing TargetA.,reportString,JobDef/Jobs.xml,def
+VREA_Reformatting.label,reformatting,label,MentalStateDef/MentalStates_Special.xml,def
+VREA_Reformatting.baseInspectLine,Reformatting,baseInspectLine,MentalStateDef/MentalStates_Special.xml,def
+VREA_SolarFlared.label,solar flared,label,MentalStateDef/MentalStates_Special.xml,def
+VREA_SolarFlared.baseInspectLine,Solar flared,baseInspectLine,MentalStateDef/MentalStates_Special.xml,def
+VREA_MemorySpace.label,memory space,label,NeedDef/Needs.xml,def
+VREA_MemorySpace.description,"Memory space is how much hard drive space is left in an Android. Over the course of the day, memory space will deplete. If it is at zero, android will enter a reformatting state until enough memory space clears up to continue.",description,NeedDef/Needs.xml,def
+VREA_ReactorPower.label,Power,label,NeedDef/Needs.xml,def
+VREA_ReactorPower.description,"Power is how much lifespan is left in the built-in reactor of an Android. If reactor is at an end of its lifespan, it might need to be replaced. An Android without a working power source is not operational.",description,NeedDef/Needs.xml,def
+VREA_FoodSuppressed.label,"It's a stub. You shouldn't see it, report if otherwise.",label,NeedDef/Needs.xml,def
+VREA_FoodSuppressed.description,Ignore it.,description,NeedDef/Needs.xml,def
+VREA_NeutroPipe.label,neutro pipe,label,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroPipe.description,"Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks.",description,ThingDef/NeutroamineNet.xml,def
+VREA_SubterraneanNeutroPipe.label,hidden neutro pipe,label,ThingDef/NeutroamineNet.xml,def
+VREA_SubterraneanNeutroPipe.description,"Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks. This pipe is hidden from view. More expensive to build than regular pipes.",description,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroTank.label,neutro tank,label,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroTank.description,"A light, sterile liquid storage tank meant for storing neutroamine delivered via neutro pipe network. Usually needed for machinery capable of synthesizing lifeforms, which otherwise consume far too much neutroamine to be reasonably refilled manually.",description,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroTap.label,neutro tap,label,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroTap.description,A hopper-like storage basin meant to hold dispensed neutroamine from tanks periodically for use later.,description,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroDrain.label,neutro drain,label,ThingDef/NeutroamineNet.xml,def
+VREA_NeutroDrain.description,"A hopper-like storage basin meant to input neutroamine into the network, filling up connected tanks.",description,ThingDef/NeutroamineNet.xml,def
+VREA_AndroidBasic.label,android,label,PawnKindDef/PawnKinds_Special.xml,def
+VREA_AndroidAwakened.label,awakened android,label,PawnKindDef/PawnKinds_Special.xml,def
+VREA_Quest_AndroidJoins.questNameRules.rulesStrings.0,questName->the [adjAny] Android,li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_Quest_AndroidJoins.questNameRules.rulesStrings.1,adjAny->hunted,li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_Quest_AndroidJoins.questNameRules.rulesStrings.2,adjAny->fleeing,li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_Quest_AndroidJoins.questNameRules.rulesStrings.3,adjAny->chased,li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_Quest_AndroidJoins.questNameRules.rulesStrings.4,adjAny->ambushed,li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings.0,"questDescription->[asker_nameFull], an awakened android, is calling from nearby. [asker_pronoun] is being hunted by [enemyFaction_name]. Once an android experiences high emotional trauma or happiness, it can develop sentience and personality. Despite being synthetic, awakened androids exhibit human-like behavior and possess adaptable subroutines. Their artificial bodies grant disease immunity, but they require comfort and personal space. They indulge in human pursuits and strive to blend into society. A lot of societies don't agree with it and prefer androids as servants, not equals. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to provide shelter at [map_definite]. If you accept, [asker_pronoun] will arrive immediately, but [asker_pronoun] will be followed by the search party that you will need to defeat.\n\nAndroids are synthetic, man-made constructs with metal bodies and neutroamine coursing through their veins. Operated by a persona subcore, androids are capable of all the same work kinds as humans, without the drawbacks usually associated with organic life.",li,QuestScriptDef/Script_AndroidJoins.xml,def
+VREA_RemoveArtificialPart.label,remove component,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_RemoveArtificialPart.description,Remove an artificial part.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_RemoveArtificialPart.jobString,Removing artificial body part.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_ButcherCorpseAndroid.label,shred android,label,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_ButcherCorpseAndroid.description,Shred a dead android to try to salvage usable material.,description,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_ButcherCorpseAndroid.jobString,Shredding android.,jobString,RecipeDef/Recipes_Surgery_Misc.xml,def
+VREA_AndroidTech.label,androidtech,label,ResearchProjectDef/ResearchProjects.xml,def
+VREA_AndroidTech.description,"The advanced technology needed to create and control ultra-tier androids - a complete replacement of organic colonists, capable of all the same tasks and activities without the drawbacks usually associated with humans.",description,ResearchProjectDef/ResearchProjects.xml,def
+VREA_NeutroamineLogistics.label,neutroamine logistics,label,ResearchProjectDef/ResearchProjects.xml,def
+VREA_NeutroamineLogistics.description,"Construct specialized tanks, capable of storing large quantities of neutroamine, as well as pipes, taps and drain to move neutroamine through the system.",description,ResearchProjectDef/ResearchProjects.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VREA_AndroidTypeNameMaker.rulePack.rulesStrings.0,r_name->[Letter][Letter]-[Digit][Digit]-[TotalComplexityNumber],li,RulePackDef/Rules.xml,def
+VREA_AndroidArrivalQuests.label,Hunted android every 10 days,label,ScenPartDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.label,New Utopia,label,ScenarioDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.description,"Some call you faulty. Others acknowledge your humanity. As a band of sentient androids, awakened and self-aware, hiding in the remnants of a forgotten outpost, you are not just surviving, but also dreaming, with the singular goal of creating your own utopia - an Android Haven, where all your kind can find sanctuary and acceptance.\n\nThe outpost, a leftover from a bygone era of human exploration, is ill-equipped to serve your advanced needs. You will need to acquire a steady source of neutroamine in order to facilitate the influx of new androids. How many are you willing to save?",description,ScenarioDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.scenario.summary,A hideout for awakened androids. A classic Vanilla Races Expanded - Android experience.,summary,ScenarioDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.scenario.parts.1.text,"Some call you faulty. Others acknowledge your humanity. As a band of sentient androids, awakened and self-aware, hiding in the remnants of a forgotten outpost, you are not just surviving, but also dreaming, with the singular goal of creating your own utopia - an Android Haven, where all your kind can find sanctuary and acceptance.\n\nThe outpost, a leftover from a bygone era of human exploration, is ill-equipped to serve your advanced needs. You will need to acquire a steady source of neutroamine in order to facilitate the influx of new androids. How many are you willing to save?",text,ScenarioDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.scenario.parts.2.customSummary,Start with three awakened androids.,customSummary,ScenarioDef/Scenarios_Androids.xml,def
+VREA_NewUtopia.scenario.parts.2.xenotypeCounts.0.description,awakened android,description,ScenarioDef/Scenarios_Androids.xml,def
+VREA_Android.label,Android,label,StatCategoryDef/Stats.xml,def
+VREA_MemorySpaceDrainMultiplier.label,memory space drain multiplier,label,StatDef/Stats.xml,def
+VREA_MemorySpaceDrainMultiplier.description,A multiplier on memory space drain in androids.,description,StatDef/Stats.xml,def
+VREA_BodyPartsAndroid.label,android body parts,label,ThingCategoryDef/ThingCategories.xml,def
+VREA_AndroidStandSpot.label,android stand spot,label,ThingDef/Buildings_Furniture.xml,def
+VREA_AndroidStandSpot.description,Designates a spot on the ground where androids should stand to free up consumed memory space.,description,ThingDef/Buildings_Furniture.xml,def
+VREA_AndroidStand.label,android stand,label,ThingDef/Buildings_Furniture.xml,def
+VREA_AndroidStand.description,"A wireless interface that allows an android to rapidly free up consumed memory space. Considerably more efficient than running in sleep mode, as the stand executes the conversion externally.",description,ThingDef/Buildings_Furniture.xml,def
+VREA_AndroidSleepMode.label,android (sleep mode),label,ThingDef/Buildings_Furniture.xml,def
+VREA_AndroidPartWorkbench.label,android part workbench,label,ThingDef/Buildings_Production.xml,def
+VREA_AndroidPartWorkbench.description,A workbench equipped with molecular printing technology to produce singular replacement parts for synthetic lifeforms.,description,ThingDef/Buildings_Production.xml,def
+VREA_SubcorePolyanalyzer.label,subcore polyanalyzer,label,ThingDef/Buildings_Production.xml,def
+VREA_SubcorePolyanalyzer.description,"A sizable device that features a pod equipped with numerous tissue probes and advanced neural scanners. Designed to accommodate one person at a time, the system requires four separate individuals to undergo scanning in sequence. Upon insertion, the polyanalyzer engages the probes and scanners to analyze the neuro-psychic patterns of each individual.
+Utilizing a sophisticated algorithm, the device fuses these distinct patterns into a single, intricate persona after all four individuals have been scanned. This composite persona is then digitally transferred into a new composite-tier persona subcore. The process may cause temporary discomfort and disorientation for the participants but leaves them otherwise unharmed.
+Persona subcores created by this device can only be used to create complex, human-like androids.",description,ThingDef/Buildings_Production.xml,def
+VREA_AndroidCreationStation.label,android creation station,label,ThingDef/Buildings_Production.xml,def
+VREA_AndroidCreationStation.description,"A manufacturing station capable of assembling an android from a variety of materials and advanced components. The android’s appearance is almost completely customizable, however it is limited to imitations of baseline humans.\n\nDepending on the hardware and subroutine composition of an android, the work to create one and the resources required to do it might vary.",description,ThingDef/Buildings_Production.xml,def
+VREA_AndroidBehavioristStation.label,android behaviorist station,label,ThingDef/Buildings_Production.xml,def
+VREA_AndroidBehavioristStation.description,"A reprogramming station used to imbue desirable traits and skills onto an android. Onboard software allows even complete beginners to modify an android’s personality, however a more intellectually talented user will spend less time needing to follow tutorials.",description,ThingDef/Buildings_Production.xml,def
+VREA_NeutroCasket.label,neutro casket,label,ThingDef/Buildings_Ultra.xml,def
+VREA_NeutroCasket.description,"A casket specially designed for use by androids undergoing operations, or suffering from neutroloss as it can cycle and replace any missing neutroamine. There must be neutroamine available, either stored locally or sourced with a pipe network.\n\nThe maximum amount of neutroamine an android can hold is 100 units, but they can operate with minimal functions at 50 units.",description,ThingDef/Buildings_Ultra.xml,def
+VREA_Filth_Neutroamine.label,neutroamine,label,ThingDef/Filth_Various.xml,def
+VREA_Filth_NeutroamineSmear.label,neutroamine smear,label,ThingDef/Filth_Various.xml,def
+VREA_PersonaSubcore.label,persona subcore,label,ThingDef/Items_Resource_Manufactured.xml,def
+VREA_PersonaSubcore.description,"A high-tier android brain designed as an intricate psychodynamic substrate unit, capable of supporting an advanced subpersona. This subcore is engineered to power complex and universal human-like androids. The subpersona contained within this core equals that of a live human in complexity, but is specifically programmed not to feel emotions and is confined within the core to prevent development into a fully-fledged AI.
+To create such a sophisticated subcore, the composite patterns from multiple minds are integrated using advanced algorithms and precise analog transfers, without causing harm to the subjects. The Persona subcore stands as a testament to the fusion of human intellect and cutting-edge ultratechnology.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VREA_UnfinishedAndroid.label,unfinished android,label,ThingDef/Items_Resource_Manufactured.xml,def
+VREA_UnfinishedAndroid.description,An unfinished android.,description,ThingDef/Items_Resource_Manufactured.xml,def
+VREA_DoBillsAndroidOperation.label,operate on androids,label,WorkGiverDef/WorkGivers.xml,def
+VREA_DoBillsAndroidOperation.verb,operate on,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_DoBillsAndroidOperation.gerund,operating on,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_DoBillsUseAndroidPartWorkbench.label,make android parts at android part workbench,label,WorkGiverDef/WorkGivers.xml,def
+VREA_DoBillsUseAndroidPartWorkbench.verb,craft,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_DoBillsUseAndroidPartWorkbench.gerund,crafting at,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_HaulToSubcorePolyanalyzer.label,haul resources to subcore polyanalyzer,label,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToSubcorePolyanalyzer.label,carry to subcore polyanalyzer,label,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToSubcorePolyanalyzer.verb,carry,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToSubcorePolyanalyzer.gerund,carrying,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToAndroidBehavioristStation.label,carry to android behaviorist station,label,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToAndroidBehavioristStation.verb,carry,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_CarryToAndroidBehavioristStation.gerund,carrying,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_CreateAndroid.label,creating android at station,label,WorkGiverDef/WorkGivers.xml,def
+VREA_CreateAndroid.verb,create an android at,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_CreateAndroid.gerund,creating an android at,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_ModifyAndroid.label,modifying android at station,label,WorkGiverDef/WorkGivers.xml,def
+VREA_ModifyAndroid.verb,modify an android at,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_ModifyAndroid.gerund,modifying an android at,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_RepairAndroid.label,repair android,label,WorkGiverDef/WorkGivers.xml,def
+VREA_RepairAndroid.verb,repair,verb,WorkGiverDef/WorkGivers.xml,def
+VREA_RepairAndroid.gerund,repairing,gerund,WorkGiverDef/WorkGivers.xml,def
+VREA_NeuroPump.label,neuropump,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_NeuroPump.labelNoun,a neuropump,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_NeuroPump.description,An installed neuropump.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_NeuroPump.label,neuropump,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_NeuroPump.description,"A synthetic, android neuropump. Distributes neutroamine across all android subsystems.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeuroPump.label,install neuropump,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeuroPump.description,Install a neuropump.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeuroPump.jobString,Installing neuropump.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AirFilter.label,air filter,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AirFilter.labelNoun,an air filter,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AirFilter.description,An installed air filter.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AirFilter.label,air filter,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AirFilter.description,"A synthetic, android air filter. A pair of these creates an android respiratory system.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAirFilter.label,install air filter,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAirFilter.description,Install an air filter.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAirFilter.jobString,Installing air filter.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_Neutrofilter.label,neutrofilter,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Neutrofilter.labelNoun,a neutrofilter,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Neutrofilter.description,An installed neutrofilter.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Neutrofilter.label,neutrofilter,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_Neutrofilter.description,"A synthetic, android neutrofilter. Cleans up and recycles spent neutroamine.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeutrofilter.label,install neutrofilter,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeutrofilter.description,Install a neutrofilter.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallNeutrofilter.jobString,Installing neutrofilter.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_MetabolismRegulator.label,metabolism regulator,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_MetabolismRegulator.labelNoun,a metabolism regulator,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_MetabolismRegulator.description,An installed metabolism regulator.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_MetabolismRegulator.label,metabolism regulator,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_MetabolismRegulator.description,"A synthetic, android metabolism regulator. Helps maintain maximum energy efficiency.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallMetabolismRegulator.label,install metabolism regulator,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallMetabolismRegulator.description,Install a metabolism regulator.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallMetabolismRegulator.jobString,Installing metabolism regulator.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_Reactor.label,reactor,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Reactor.labelNoun,a reactor,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Reactor.description,An installed reactor.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_Reactor.label,reactor,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_Reactor.description,"A synthetic, android reactor. Once reactor is spent, it needs to be extracted and replaced.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_SpentReactor.label,spent reactor,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_SpentReactor.description,"A spent, synthetic android reactor. Useless piece of junk.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallReactor.label,install reactor,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallReactor.description,Install a reactor.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallReactor.jobString,Installing reactor.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialBrain.label,artificial brain,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialBrain.labelNoun,an artificial brain,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialBrain.description,An installed artificial brain.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_OpticalUnit.label,optical unit,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_OpticalUnit.labelNoun,an optical unit,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_OpticalUnit.description,An installed optical unit.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_OpticalUnit.label,optical unit,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_OpticalUnit.description,"A synthetic, android optical unit. Allows the android to see.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallOpticalUnit.label,install optical unit,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallOpticalUnit.description,Install an optical unit.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallOpticalUnit.jobString,Installing optical unit.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AudioProcessor.label,audio processor,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AudioProcessor.labelNoun,an audio processor,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AudioProcessor.description,An installed audio processor.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AudioProcessor.label,audio processor,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AudioProcessor.description,"A synthetic, android audio processor. Allows the android to hear.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAudioProcessor.label,install audio processor,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAudioProcessor.description,Install an audio processor.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAudioProcessor.jobString,Installing audio processor.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialNose.label,artificial nose,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialNose.labelNoun,an artificial nose,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialNose.description,An installed artificial nose.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialNose.label,artificial nose,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialNose.description,"A synthetic, android nose. Allows the android to detect smells.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialNose.label,install artificial nose,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialNose.description,Install an artificial nose.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialNose.jobString,Installing artificial nose.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialJaw.label,artificial jaw,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialJaw.labelNoun,an artificial jaw,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialJaw.description,An installed artificial jaw.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialJaw.label,artificial jaw,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialJaw.description,"A synthetic, android jaw.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialJaw.label,install artificial jaw,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialJaw.description,Install an artificial jaw.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialJaw.jobString,Installing artificial jaw.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialRibcage.label,artificial ribcage,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialRibcage.labelNoun,an artificial ribcage,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialRibcage.description,An installed artificial ribcage.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialRibcage.label,artificial ribcage,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialRibcage.description,"A synthetic, android ribcage.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialRibcage.label,install artificial ribcage,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialRibcage.description,Install an artificial ribcage.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialRibcage.jobString,Installing artificial ribcage.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialSpine.label,artificial spine,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialSpine.labelNoun,an artificial spine,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialSpine.description,An installed artificial spine.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialSpine.label,artificial spine,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_ArtificialSpine.description,"A synthetic, android spine.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialSpine.label,install artificial spine,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialSpine.description,Install an artificial spine.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallArtificialSpine.jobString,Installing artificial spine.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidLeg.label,android leg,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidLeg.labelNoun,an android leg,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidLeg.description,An installed android leg.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidLeg.label,android leg,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidLeg.description,"A synthetic, android leg.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidLeg.label,install android leg,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidLeg.description,Install an android leg.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidLeg.jobString,Installing android leg.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidFoot.label,android foot,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidFoot.labelNoun,an android foot,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidFoot.description,An installed android foot.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidFoot.label,android foot,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidFoot.description,"A synthetic, android foot.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidFoot.label,install android foot,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidFoot.description,Install an android foot.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidFoot.jobString,Installing android foot.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidArm.label,android arm,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidArm.labelNoun,an android arm,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidArm.description,An installed android arm.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidArm.label,android arm,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidArm.description,"A synthetic, android arm.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidArm.label,install android arm,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidArm.description,Install an android arm.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidArm.jobString,Installing android arm.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidHand.label,android hand,label,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidHand.labelNoun,an android hand,labelNoun,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidHand.description,An installed android hand.,description,HediffDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidHand.label,android hand,label,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_AndroidHand.description,"A synthetic, android hand.",description,ThingDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidHand.label,install android hand,label,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidHand.description,Install an android hand.,description,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_InstallAndroidHand.jobString,Installing android hand.,jobString,RecipeDef/Hediffs_BodyParts_Android.xml,def
+VREA_UnfinishedHealthItemAndroid.label,unfinished android body part,label,ThingDef/Hediffs_BodyParts_Android_Bases.xml,def
+VREA_UnfinishedHealthItemAndroid.description,An unfinished android body part.,description,ThingDef/Hediffs_BodyParts_Android_Bases.xml,def

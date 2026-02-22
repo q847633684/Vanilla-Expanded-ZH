@@ -1,0 +1,110 @@
+key,text,tag,file,type
+GR_InsanityCloud.label,invoke insanity,label,AbilityDef/Abilities_CosmicHorrors.xml,def
+GR_InsanityCloud.description,Invokes the insanity of That Which Man Is Not Meant to Know,description,AbilityDef/Abilities_CosmicHorrors.xml,def
+GR_DetonatePsionic.label,detonate psionic,label,AbilityDef/Abilities_CosmicHorrors.xml,def
+GR_DetonatePsionic.description,Remotely detonate the psionic chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion.,description,AbilityDef/Abilities_CosmicHorrors.xml,def
+GR_Amorphous.label,amorphous,label,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.2.customLabel,left lung,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.3.customLabel,right lung,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.4.customLabel,left kidney,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.5.customLabel,right kidney,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.7.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Amorphous.corePart.parts.7.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Amorphous_CosmicHorrors.xml,def
+GR_Hydra.label,hydra,label,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.2.customLabel,left lung,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.3.customLabel,right lung,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.4.customLabel,left kidney,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.5.customLabel,right kidney,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.7.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.7.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.8.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.8.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.9.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.9.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.10.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.10.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.11.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.11.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.12.parts.1.customLabel,left eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_Hydra.corePart.parts.12.parts.2.customLabel,right eye,customLabel,BodyDef/Bodies_Animal_Hydra_CosmicHorrors.xml,def
+GR_PsionicExplosion.label,psionic explosion,label,DamageDef/Damages_LocalInjury_CosmicHorrors.xml,def
+GR_PsionicExplosion.deathMessage,{0} has died from psychic shock.,deathMessage,DamageDef/Damages_LocalInjury_CosmicHorrors.xml,def
+GR_MaddeningHairballBite.label,suffocating maddening attack,label,DamageDef/Damages_LocalInjury_CosmicHorrors.xml,def
+GR_ROM_Spawn.label,spawn,label,LifeStageDef/LifeStages_CosmicHorrors.xml,def
+GR_ROM_FullyFormed.label,fully formed,label,LifeStageDef/LifeStages_CosmicHorrors.xml,def
+GR_ROM_Ancient.label,ancient,label,LifeStageDef/LifeStages_CosmicHorrors.xml,def
+GR_ROM_Eldritch.label,eldritch,label,LifeStageDef/LifeStages_CosmicHorrors.xml,def
+GR_CraftCosmicHorrorsExcavator.label,Craft Eldritch Genome excavator,label,RecipeDef/Recipes_Excavators_CosmicHorrors.xml,def
+GR_CraftCosmicHorrorsExcavator.description,Craft a genome excavator to extract genomes from tamed or dead animals. This excavator can extract Cosmic Horrors genomes.,description,RecipeDef/Recipes_Excavators_CosmicHorrors.xml,def
+GR_EldritchExcavator.label,eldritch genome excavator,label,ThingDef/Items_Resource_GenomeExcavators_CosmicHorrors.xml,def
+GR_EldritchExcavator.description,"A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes:",description,ThingDef/Items_Resource_GenomeExcavators_CosmicHorrors.xml,def
+GR_EldritchExcavator.comps.0.useLabel,Use genome excavator,useLabel,ThingDef/Items_Resource_GenomeExcavators_CosmicHorrors.xml,def
+GR_EldritchGenetic.label,eldritch genome,label,ThingDef/Items_Resource_Genomes_CosmicHorrors.xml,def
+GR_EldritchGenetic.description,A payload of eldritch genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via an eldritch genome excavator from:,description,ThingDef/Items_Resource_Genomes_CosmicHorrors.xml,def
+GR_EldritchChickenEggUnfertilized.label,chicken of Mi-go egg (unfert.),label,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchChickenEggUnfertilized.description,"Unfertilized chicken of Mi-go egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting.",description,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchChickenEggFertilized.label,chicken of Mi-go egg (fert.),label,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchChickenEggFertilized.description,"Fertilized chicken of Mi-go egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. If all goes well, it should hatch into a chicken of Mi-go.",description,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchReptileEggUnfertilized.label,snake of Yig egg (unfert.),label,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchReptileEggUnfertilized.description,"Unfertilized snake of Yig egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting.",description,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchReptileEggFertilized.label,snake of Yig egg (fert.),label,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchReptileEggFertilized.description,"Fertilized snake of Yig egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. If all goes well, it should hatch into an snake of Yig egg.",description,ThingDef/Items_Resource_HybridAnimalEggs_CosmicHorrors.xml,def
+GR_EldritchMilk.label,eldritch milk,label,ThingDef/Items_Resource_HybridAnimalProducts_Milks_CosmicHorrors.xml,def
+GR_EldritchMilk.description,"This milk is purple coloured, and its smell is indescribable. It whispers to you...",description,ThingDef/Items_Resource_HybridAnimalProducts_Milks_CosmicHorrors.xml,def
+GR_DarkYoungWoodLog.label,eldritch wood,label,ThingDef/Items_Resource_HybridAnimalProducts_Other_CosmicHorrors.xml,def
+GR_DarkYoungWoodLog.description,This wood-like material has been extracted from the tentacles of an eldritch creature. Let's make a cupboard out of them!,description,ThingDef/Items_Resource_HybridAnimalProducts_Other_CosmicHorrors.xml,def
+GR_DarkYoungWoodLog.stuffProps.stuffAdjective,eldritch wooden,stuffAdjective,ThingDef/Items_Resource_HybridAnimalProducts_Other_CosmicHorrors.xml,def
+GR_EldritchInsectJelly.label,eldritch insect jelly,label,ThingDef/Items_Resource_HybridAnimalProducts_Other_CosmicHorrors.xml,def
+GR_EldritchInsectJelly.description,"Jelly stored and used as food by oversized insects. It is smooth, rich, and brings incredible joy to those who consume it. Also, it quickly erodes their sanity and turns them into insane psychopaths, but it's so tasty! Because of its unique biological properties, it can nourish almost any creature and never rots.",description,ThingDef/Items_Resource_HybridAnimalProducts_Other_CosmicHorrors.xml,def
+GR_EldritchWool.label,eldritch wool,label,ThingDef/Items_Resource_HybridAnimalProducts_Wools_CosmicHorrors.xml,def
+GR_EldritchWool.description,"This purple wool seems to be irrigated by pulsing, throbbing purple veins. However, they can only be detected by sight, not by touch.",description,ThingDef/Items_Resource_HybridAnimalProducts_Wools_CosmicHorrors.xml,def
+GR_Shiftskin.label,formless boomalope shiftskin,label,ThingDef/Items_Resource_Stuff_Leather_CosmicHorrors.xml,def
+GR_ROM_RawCHFood_FormlessMeat.label,formless spawn meat,label,ThingDef/Items_StrangeFood_CosmicHorrors.xml,def
+GR_ROM_RawCHFood_FormlessMeat.description,Raw meat from a formless spawn of Tsathoggua. Or... or at least a boomalope abomination that *looked* similar. Hard to know with these things.,description,ThingDef/Items_StrangeFood_CosmicHorrors.xml,def
+GR_Insanity_Cloud.label,insanity cloud,label,ThingDef/Gas_Various_CosmicHorrors.xml,def
+GR_EldritchBear.label,bear young,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBear.description,"This otherworldly bear has repulsive, purple coloured tentacles protruding from its maw. Its pelt has a strange wooden-like appearance. Its ravenous appetite can only be sated by consuming large amounts of meat, which the creature dissolves with the green acidic goo dropping from its many gaping maws.\n\n<color=#E5E54C>Gameplay effect:</color> All bear hybrids have stun attacks. Since the creature constantly regenerates, its tentacles can be trimmed every few days, and used as a substitute for wood.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBear.tools.0.label,hooves,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBear.tools.1.label,tentacles,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBear.tools.3.label,head,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBear.label,bear young,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBoomalope.label,formless boomalope of Tsathoggua,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBoomalope.description,"This polymorphic entity is made of light brown ichor and looks like amorphous goo. It seems to be extremely resilient and very difficult to dispatch. Its pelt seems to be powerfully acidic in substance and can dissolve human flesh with even a slight touch.\n\n<color=#E5E54C>Gameplay effect:</color> Explodes on death with a very powerful psionic blast. This explosion can also be triggered on command, though it will damage the creature too!",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBoomalope.tools.0.label,amoebic tentacle,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBoomalope.tools.1.label,head,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchBoomalope.label,formless boomalope of Tsathoggua,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchChicken.label,chicken of Mi-go,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchChicken.description,"An unholy amalgamation of fungus, crustacean, insect and... chicken. Can this creature even be considered to be truly alive?\n\n<color=#E5E54C>Gameplay effect:</color> This psionic chicken lays A LOT of purple eggs that erode your sanity. What's not to love?",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchChicken.tools.0.label,overwhelming mind,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchChicken.tools.1.label,body,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchChicken.label,chicken of Mi-go,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.label,armoured chthonian larva,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.description,"This engorged, tick-like creature has a writhing mass of tentacles where its head would normally be, sensing their surroundings by a combination of touch and echolocation. They have lost their capacity to burrow underground, but they are capable of powerful psionic attacks.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Produces eldritch insect jelly, a very nutritive and enjoyable food that quickly erodes your sanity.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.tools.0.label,grasping tentacles,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.tools.1.label,overwhelming mind,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.tools.2.label,mandibles,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchInsectoid.label,armoured chthonian larva,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchMuffalo.label,star vampire muffalo,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchMuffalo.description,"This blind muffalo can detect its prey by scent, and is attracted to animal -and human- blood, although it can also consume vegetal matter.\n\n<color=#E5E54C>Gameplay effect:</color> Decent pack beast that doesn't need to be penned. Produces milk and wool. Purple milk and wool...",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchMuffalo.tools.0.label,vampiric teeth,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchMuffalo.label,star vampire muffalo,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchReptile.label,snake of Yig,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchReptile.description,"This multi-headed snake has been blessed by Yig, the Father of Serpents. Or maybe it is just a very unfortunate snake which has been the target of your colonists' mad science... It is most likely the latter, to be honest.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have good temperature tolerance ranges and venomous attacks. The snake of Yig has six mouths, and attacks incredibly fast.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchReptile.tools.0.label,toxic bite,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchReptile.label,snake of Yig,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchThrumbo.label,cthrumbo,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchThrumbo.description,"Iä! Iä! Cthrumbo fhtagn! Ph'nglui mglw'nfah Cthrumbo Rimworld wgah'nagl fhtagn! A gigantic, squid-like creature that feeds on fear and nightmares. Legends say that an Eldritch Cthrumbo is really the wisest creature in the universe - it simply would melt the minds of everyone near it should it choose to speak.\n\n<color=#E5E54C>Gameplay effect:</color> All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Invoke insanity ability: twice a day, the Cthrumbo can release a cloud of insanity that erodes its prey's mind.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchThrumbo.tools.0.label,rending claws,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchThrumbo.tools.1.label,mandibles,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchThrumbo.label,cthrumbo,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchWolf.label,wolf-Sothoth,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchWolf.description,"The back of this feral looking wolf is an indistinct mass of tentacles and malign eyes, constantly shifting in place and being reabsorbed into its pelt again.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. This creature doesn't have a huge health pool, but it is nearly impervious to damage.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchWolf.tools.0.label,venomous fangs,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_EldritchWolf.label,wolf-Sothoth,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.label,cathulhu,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.description,"You seriously have to wonder who comes up with ideas to play with things beyond their understanding. Have you ever had an octopus attach itself to your face and try to climb down your throat? Well now you can find out, with an extra helping of teeth, claws and furballs.\n\nA feline hybrid with recessive Eldritch genes. Comparable to a regular big cat, such as a panther, however its bite not only causes blindness but also inflicts bouts of insanity from the lingering touch of the tentacles. Oddly enough it also enjoys fondling its master with those same tentacles, notably without its teeth out. Oh, did I not mention the fact it has teeth along those tentacles?\n\n<color=#E5E54C>Gameplay effect:</color> Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. Its bites cause suffocation and sanity loss.",description,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.tools.0.label,rending tentacles,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.tools.1.label,left claw,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.tools.2.label,right claw,label,ThingDef/Races_Animal_Horrorhybrids.xml,def
+GR_Cathulhu.label,cathulhu,label,PawnKindDef/Races_Animal_Horrorhybrids.xml,def
+GR_MaddeningHairballBite.label,suffocating and maddening bite,label,ToolCapacityDef/ToolCapacity_CosmicHorrors.xml,def

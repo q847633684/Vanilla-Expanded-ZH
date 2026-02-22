@@ -1,163 +1,163 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Floors that are used for purely decorative purposes.-->
-  <AP_PropCategory_Floors.description>用于纯粹装饰目的的地板。</AP_PropCategory_Floors.description>
+  <AP_PropCategory_Floors.description>此分类包括各种装饰用的地板。</AP_PropCategory_Floors.description>
   <!--EN: floors-->
-  <AP_PropCategory_Floors.label>楼层</AP_PropCategory_Floors.label>
+  <AP_PropCategory_Floors.label>地板</AP_PropCategory_Floors.label>
   <!--EN: Walls that are used mostly for decorative purposes.-->
-  <AP_PropCategory_Walls.description>主要用于装饰目的的墙壁。</AP_PropCategory_Walls.description>
+  <AP_PropCategory_Walls.description>此分类包括各种装饰用的墙体。</AP_PropCategory_Walls.description>
   <!--EN: walls-->
-  <AP_PropCategory_Walls.label>墙壁</AP_PropCategory_Walls.label>
+  <AP_PropCategory_Walls.label>墙体</AP_PropCategory_Walls.label>
   <!--EN: Ancient props that are usually scattered around the map. Note these will not work for the Scrapper meme in VE: Memes and Structures, as they are purely decorative.-->
-  <VFE_PropCategory_Ancient.description>通常散布在地图各处的古代道具。请注意，这些不适用于 VE：模因和结构中的 Scrapper meme，因为它们纯粹是装饰性的。</VFE_PropCategory_Ancient.description>
+  <VFE_PropCategory_Ancient.description>此分类包括随机生成在地图上的各种远古残骸。\n由于是没有实际功能的装饰用仿真道具，因此对Vanilla Ideology Expanded - Memes and Structures的“节俭主义”模因无效。</VFE_PropCategory_Ancient.description>
   <!--EN: ancient-->
-  <VFE_PropCategory_Ancient.label>古老的</VFE_PropCategory_Ancient.label>
+  <VFE_PropCategory_Ancient.label>远古残骸</VFE_PropCategory_Ancient.label>
   <!--EN: Furniture and miscellaneous Props related to the Anomaly DLC.-->
-  <VFE_PropCategory_Anomaly.description>与 Anomaly DLC 相关的家具和杂项道具。</VFE_PropCategory_Anomaly.description>
+  <VFE_PropCategory_Anomaly.description>此分类包括与异象DLC有关的各种元素。</VFE_PropCategory_Anomaly.description>
   <!--EN: anomaly-->
-  <VFE_PropCategory_Anomaly.label>异常</VFE_PropCategory_Anomaly.label>
+  <VFE_PropCategory_Anomaly.label>异象</VFE_PropCategory_Anomaly.label>
   <!--EN: Items such as beds, bedding, furniture (dressers, nightstands), lamps, curtains, and other decor elements commonly found in bedrooms.-->
-  <VFE_PropCategory_Bedroom.description>床、床上用品、家具（梳妆台、床头柜）、灯具、窗帘和卧室中常见的其他装饰元素等物品。</VFE_PropCategory_Bedroom.description>
+  <VFE_PropCategory_Bedroom.description>此分类包括床、寝具、落地灯、窗帘等与卧室有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Bedroom.description>
   <!--EN: bedroom-->
   <VFE_PropCategory_Bedroom.label>卧室</VFE_PropCategory_Bedroom.label>
   <!--EN: Ground borders to properly demarcate your pathways.-->
-  <VFE_PropCategory_Borders.description>地面边界可以正确划分您的路径。</VFE_PropCategory_Borders.description>
+  <VFE_PropCategory_Borders.description>此分类包括各种放置在地板上起到起到分隔作用的边界板。</VFE_PropCategory_Borders.description>
   <!--EN: borders-->
   <VFE_PropCategory_Borders.label>边界</VFE_PropCategory_Borders.label>
   <!--EN: Children props, such as toys, children furniture, etc.-->
-  <VFE_PropCategory_Children.description>儿童道具，如玩具、儿童家具等。</VFE_PropCategory_Children.description>
+  <VFE_PropCategory_Children.description>此分类包括与儿童有关的各种元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Children.description>
   <!--EN: children-->
-  <VFE_PropCategory_Children.label>孩子们</VFE_PropCategory_Children.label>
+  <VFE_PropCategory_Children.label>儿童</VFE_PropCategory_Children.label>
   <!--EN: Decal props that are set on the ground with different informational data.-->
-  <VFE_PropCategory_Decals.description>用不同的信息数据设置在地面上的贴花道具。</VFE_PropCategory_Decals.description>
+  <VFE_PropCategory_Decals.description>此分类包括各种放置在地板上起到提示作用的贴标。</VFE_PropCategory_Decals.description>
   <!--EN: decals-->
-  <VFE_PropCategory_Decals.label>贴花</VFE_PropCategory_Decals.label>
+  <VFE_PropCategory_Decals.label>贴标</VFE_PropCategory_Decals.label>
   <!--EN: Items such as tables, chairs, tableware (plates, glasses, utensils), tablecloths, centerpieces, and other decor elements commonly found in dining settings.-->
-  <VFE_PropCategory_DiningRoom.description>桌子、椅子、餐具（盘子、眼镜、器皿）、桌布、中心装饰品以及用餐环境中常见的其他装饰元素等物品。</VFE_PropCategory_DiningRoom.description>
+  <VFE_PropCategory_DiningRoom.description>此分类包括餐桌、餐椅、餐具、桌布等与餐厅有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_DiningRoom.description>
   <!--EN: dining room-->
-  <VFE_PropCategory_DiningRoom.label>饭厅</VFE_PropCategory_DiningRoom.label>
+  <VFE_PropCategory_DiningRoom.label>餐厅</VFE_PropCategory_DiningRoom.label>
   <!--EN: Invisible props that release particles from effecters. Bear in mind these will be laggy, so use in moderation.-->
-  <VFE_PropCategory_Effecters.description>从效应器中释放粒子的隐形道具。请记住，这些会很滞后，因此请适量使用。</VFE_PropCategory_Effecters.description>
+  <VFE_PropCategory_Effecters.description>此分类包括出现在游戏中的各种特效动画。需要注意的是，放置过多可能会导致卡顿。</VFE_PropCategory_Effecters.description>
   <!--EN: effects-->
-  <VFE_PropCategory_Effecters.label>效果</VFE_PropCategory_Effecters.label>
+  <VFE_PropCategory_Effecters.label>特效</VFE_PropCategory_Effecters.label>
   <!--EN: Props from the Empire.-->
-  <VFE_PropCategory_Empire.description>来自帝国的道具。</VFE_PropCategory_Empire.description>
+  <VFE_PropCategory_Empire.description>此分类包括与破碎帝国有关的各种元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Empire.description>
   <!--EN: imperial-->
-  <VFE_PropCategory_Empire.label>帝国的</VFE_PropCategory_Empire.label>
+  <VFE_PropCategory_Empire.label>帝国</VFE_PropCategory_Empire.label>
   <!--EN: Exotic plants from Alpha Biomes. Bear in mind these are decorative. They don't grow, don't produce anything, etc.-->
-  <VFE_PropCategory_ExoticPlants.description>来自阿尔法生物群落的外来植物。请记住，这些都是装饰性的。它们不生长，不生产任何东西，等等。</VFE_PropCategory_ExoticPlants.description>
+  <VFE_PropCategory_ExoticPlants.description>此分类包括来自Alpha Biomes和原Save Our Ship 2的各种异域植物。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_ExoticPlants.description>
   <!--EN: exotic plants-->
-  <VFE_PropCategory_ExoticPlants.label>外来植物</VFE_PropCategory_ExoticPlants.label>
+  <VFE_PropCategory_ExoticPlants.label>异域植物</VFE_PropCategory_ExoticPlants.label>
   <!--EN: Farm props such as hay and wood piles, wooden carts, etc.-->
-  <VFE_PropCategory_Farm.description>农场道具，如干草和木堆、木车等。</VFE_PropCategory_Farm.description>
+  <VFE_PropCategory_Farm.description>此分类包括干草捆、原木堆、马车等与农场有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Farm.description>
   <!--EN: farm-->
   <VFE_PropCategory_Farm.label>农场</VFE_PropCategory_Farm.label>
   <!--EN: Base game filth as props. Cradle not included.-->
-  <VFE_PropCategory_Filth.description>基础游戏污物作为道具。不含摇篮。</VFE_PropCategory_Filth.description>
+  <VFE_PropCategory_Filth.description>此分类包括各种地上的污物。当然，它们都是不会影响美观度的装饰用仿真道具。</VFE_PropCategory_Filth.description>
   <!--EN: filth-->
-  <VFE_PropCategory_Filth.label>污秽</VFE_PropCategory_Filth.label>
+  <VFE_PropCategory_Filth.label>污物</VFE_PropCategory_Filth.label>
   <!--EN: Furniture that has no gameplay mechanic behind it, such as decorative armoires, mirrors, etc.-->
-  <VFE_PropCategory_Furniture.description>背后没有游戏机制的家具，例如装饰性衣橱、镜子等。</VFE_PropCategory_Furniture.description>
+  <VFE_PropCategory_Furniture.description>此分类包括落地镜、橱柜、书架等家具。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Furniture.description>
   <!--EN: furniture-->
   <VFE_PropCategory_Furniture.label>家具</VFE_PropCategory_Furniture.label>
   <!--EN: Items such as medical equipment (beds, surgical tools, monitors), signage, and other items commonly found in healthcare environments.-->
-  <VFE_PropCategory_Hospital.description>医疗设备（床、手术工具、监视器）、标牌和医疗保健环境中常见的其他物品等物品。</VFE_PropCategory_Hospital.description>
+  <VFE_PropCategory_Hospital.description>此分类包括医疗床、手术工具、监测仪器等与医疗有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Hospital.description>
   <!--EN: hospital-->
-  <VFE_PropCategory_Hospital.label>医院</VFE_PropCategory_Hospital.label>
+  <VFE_PropCategory_Hospital.label>医疗</VFE_PropCategory_Hospital.label>
   <!--EN: Industrial props such as barrels, pallets, boxes and containers.-->
-  <VFE_PropCategory_Industrial.description>工业道具，如桶、托盘、盒子和容器。</VFE_PropCategory_Industrial.description>
+  <VFE_PropCategory_Industrial.description>此分类包括集装箱、电器柜、管道、通风井、货物托盘等与工业有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Industrial.description>
   <!--EN: industrial-->
-  <VFE_PropCategory_Industrial.label>工业的</VFE_PropCategory_Industrial.label>
+  <VFE_PropCategory_Industrial.label>工业</VFE_PropCategory_Industrial.label>
   <!--EN: Props based on insectoids, such as cocoons and spider webs.-->
   <VFE_PropCategory_Insectoids.description>基于昆虫的道具，例如茧和蜘蛛网。</VFE_PropCategory_Insectoids.description>
   <!--EN: insectoid-->
   <VFE_PropCategory_Insectoids.label>类昆虫</VFE_PropCategory_Insectoids.label>
   <!--EN: Kitchen props such as cooking appliances, kitchen furniture, etc.-->
-  <VFE_PropCategory_Kitchen.description>厨房道具如炊具、厨房家具等。</VFE_PropCategory_Kitchen.description>
+  <VFE_PropCategory_Kitchen.description>此分类包括刀具、烤箱、冰箱、灶台等与厨房有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Kitchen.description>
   <!--EN: kitchen-->
   <VFE_PropCategory_Kitchen.label>厨房</VFE_PropCategory_Kitchen.label>
   <!--EN: Props found in ancient abandoned labs. Usually quite derelict.-->
-  <VFE_PropCategory_Labs.description>在古代废弃实验室中发现的道具。通常相当废弃。</VFE_PropCategory_Labs.description>
+  <VFE_PropCategory_Labs.description>此分类包括随机生成在废弃实验室中的各种远古残骸。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Labs.description>
   <!--EN: labs-->
   <VFE_PropCategory_Labs.label>实验室</VFE_PropCategory_Labs.label>
   <!--EN: Large decal props that are set on the ground with different informational data.-->
-  <VFE_PropCategory_LargeDecals.description>Large 贴花道具设置在地面上，具有不同的信息数据。</VFE_PropCategory_LargeDecals.description>
+  <VFE_PropCategory_LargeDecals.description>此分类包括各种放置在地板上起到提示作用的大型贴标。</VFE_PropCategory_LargeDecals.description>
   <!--EN: big decals-->
-  <VFE_PropCategory_LargeDecals.label>大贴花</VFE_PropCategory_LargeDecals.label>
+  <VFE_PropCategory_LargeDecals.label>大型贴标</VFE_PropCategory_LargeDecals.label>
   <!--EN: Props based on mech clusters, or other structures of mechanoid design.-->
-  <VFE_PropCategory_Mechs.description>基于机甲集群或其他机械设计结构的道具。</VFE_PropCategory_Mechs.description>
+  <VFE_PropCategory_Mechs.description>此分类包括与机械体有关的各种元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Mechs.description>
   <!--EN: mechanoid-->
-  <VFE_PropCategory_Mechs.label>机械机器人</VFE_PropCategory_Mechs.label>
+  <VFE_PropCategory_Mechs.label>机械体</VFE_PropCategory_Mechs.label>
   <!--EN: Medieval props fit for a grand castle or a simple peasant village.-->
-  <VFE_PropCategory_Medieval.description>中世纪的道具适合宏伟的城堡或简单的乡村。</VFE_PropCategory_Medieval.description>
+  <VFE_PropCategory_Medieval.description>此分类包括中世纪风格的各种元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Medieval.description>
   <!--EN: medieval-->
   <VFE_PropCategory_Medieval.label>中世纪</VFE_PropCategory_Medieval.label>
   <!--EN: Items like replica weapons, uniforms, helmets, insignia, and other military-related paraphernalia designed for visual and thematic accuracy.-->
-  <VFE_PropCategory_Military.description>复制品武器、制服、头盔、徽章和其他为视觉和主题准确性而设计的军事相关用具等物品。</VFE_PropCategory_Military.description>
+  <VFE_PropCategory_Military.description>此分类包括仿真武器、制服、头盔、徽章等与军事有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Military.description>
   <!--EN: military-->
-  <VFE_PropCategory_Military.label>军队</VFE_PropCategory_Military.label>
+  <VFE_PropCategory_Military.label>军事</VFE_PropCategory_Military.label>
   <!--EN: Miscellaneous props that don't fit any other category.-->
-  <VFE_PropCategory_Misc.description>不属于任何其他类别的杂项道具。</VFE_PropCategory_Misc.description>
+  <VFE_PropCategory_Misc.description>此分类包括各种乱七八糟的杂散元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Misc.description>
   <!--EN: misc-->
   <VFE_PropCategory_Misc.label>杂项</VFE_PropCategory_Misc.label>
   <!--EN: Encompasses items such as desks, chairs, computers, laboratory equipment, whiteboards, office supplies, and other elements commonly found in professional workspaces.-->
-  <VFE_PropCategory_Office.description>包括桌子、椅子、计算机、实验室设备、白板、办公用品以及专业工作空间中常见的其他元素等物品。</VFE_PropCategory_Office.description>
+  <VFE_PropCategory_Office.description>此分类包括办公桌、椅子、计算机、实验设备、白板、办公用品等与办公有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Office.description>
   <!--EN: office-->
-  <VFE_PropCategory_Office.label>办公室</VFE_PropCategory_Office.label>
+  <VFE_PropCategory_Office.label>办公</VFE_PropCategory_Office.label>
   <!--EN: General outdoors props in a nature setting.-->
-  <VFE_PropCategory_Park.description>自然环境中的一般户外道具。</VFE_PropCategory_Park.description>
+  <VFE_PropCategory_Park.description>此分类包括各种用于搭建户外公园的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Park.description>
   <!--EN: parks-->
   <VFE_PropCategory_Park.label>公园</VFE_PropCategory_Park.label>
   <!--EN: Base game plants as props. Bear in mind these are decorative. They don't grow, don't produce anything, etc.-->
-  <VFE_PropCategory_Plants.description>基础游戏植物作为道具。请记住，这些都是装饰性的。它们不生长，不生产任何东西，等等。</VFE_PropCategory_Plants.description>
+  <VFE_PropCategory_Plants.description>此分类包括能在边缘世界上见到的各种植物。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Plants.description>
   <!--EN: plants-->
   <VFE_PropCategory_Plants.label>植物</VFE_PropCategory_Plants.label>
   <!--EN: Props related to power structures, generators, gas tanks, etc.-->
-  <VFE_PropCategory_Power.description>与动力结构、发电机、储气罐等相关的道具</VFE_PropCategory_Power.description>
+  <VFE_PropCategory_Power.description>此分类包括能源设备、发电机、储存罐等与能源有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Power.description>
   <!--EN: power-->
-  <VFE_PropCategory_Power.label>力量</VFE_PropCategory_Power.label>
+  <VFE_PropCategory_Power.label>能源</VFE_PropCategory_Power.label>
   <!--EN: Prison bars, cells, inmate uniforms, guards' uniforms, surveillance cameras, signage, and other elements associated with correctional facilities.-->
-  <VFE_PropCategory_Prison.description>监狱酒吧、牢房、囚犯制服、警卫制服、监控摄像头、标牌以及与惩教设施相关的其他元素。</VFE_PropCategory_Prison.description>
+  <VFE_PropCategory_Prison.description>此分类包括监狱围栏、单间牢房、囚犯制服、狱卒制服、监控摄像、标识牌等与监狱有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Prison.description>
   <!--EN: prison-->
   <VFE_PropCategory_Prison.label>监狱</VFE_PropCategory_Prison.label>
   <!--EN: Sports equipment, games, picnic supplies, outdoor furniture, and other elements associated with leisure and entertainment.-->
-  <VFE_PropCategory_Recreation.description>运动器材、游戏、野餐用品、户外家具以及其他与休闲娱乐相关的元素。</VFE_PropCategory_Recreation.description>
+  <VFE_PropCategory_Recreation.description>此分类包括健身器材、游戏、野餐用品、户外家具等与休闲娱乐有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Recreation.description>
   <!--EN: recreation-->
   <VFE_PropCategory_Recreation.label>娱乐</VFE_PropCategory_Recreation.label>
   <!--EN: Crowns, scepters, thrones, royal attire, coats of arms, ceremonial swords, and other regal symbols.-->
-  <VFE_PropCategory_Royal.description>王冠、权杖、王座、皇家服装、徽章、礼仪剑和其他帝王象征。</VFE_PropCategory_Royal.description>
+  <VFE_PropCategory_Royal.description>此分类包括冠冕、权杖、宝座、豪华衣物、盾徽、仪礼剑等与皇权有关的元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Royal.description>
   <!--EN: royal-->
-  <VFE_PropCategory_Royal.label>皇家的</VFE_PropCategory_Royal.label>
+  <VFE_PropCategory_Royal.label>皇权</VFE_PropCategory_Royal.label>
   <!--EN: High-tech props related to the spacer tech level.-->
-  <VFE_PropCategory_Spacer.description>与间隔物科技水平相关的高科技道具。</VFE_PropCategory_Spacer.description>
+  <VFE_PropCategory_Spacer.description>此分类包括太空时代风格的各种高科技元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Spacer.description>
   <!--EN: spacer-->
-  <VFE_PropCategory_Spacer.label>垫片</VFE_PropCategory_Spacer.label>
+  <VFE_PropCategory_Spacer.label>太空</VFE_PropCategory_Spacer.label>
   <!--EN: Spaceship props. All kinds of vehicles designed for space travel.-->
-  <VFE_PropCategory_Spaceships.description>宇宙飞船道具。专为太空旅行设计的各种车辆。</VFE_PropCategory_Spaceships.description>
+  <VFE_PropCategory_Spaceships.description>此分类包括可以在太空中航行的各种飞船。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Spaceships.description>
   <!--EN: spaceships-->
-  <VFE_PropCategory_Spaceships.label>宇宙飞船</VFE_PropCategory_Spaceships.label>
+  <VFE_PropCategory_Spaceships.label>飞船</VFE_PropCategory_Spaceships.label>
   <!--EN: Props such as shelves, containers, crates, storage bins, and labels, as well as tools or equipment associated with organizing and managing stored items.-->
-  <VFE_PropCategory_Storage.description>货架、容器、板条箱、储物箱和标签等道具，以及与组织和管理存储物品相关的工具或设备。</VFE_PropCategory_Storage.description>
+  <VFE_PropCategory_Storage.description>此分类包括物品架、箱子、柜子、标签等与物品储存有关的工具或设备。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Storage.description>
   <!--EN: storage-->
-  <VFE_PropCategory_Storage.label>贮存</VFE_PropCategory_Storage.label>
+  <VFE_PropCategory_Storage.label>储存</VFE_PropCategory_Storage.label>
   <!--EN: General structures such as fake columns, doors, pipes, etc.-->
-  <VFE_PropCategory_Structures.description>一般结构如假柱、门、管道等。</VFE_PropCategory_Structures.description>
+  <VFE_PropCategory_Structures.description>此分类包括支撑柱、门、管道等结构。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Structures.description>
   <!--EN: structures-->
   <VFE_PropCategory_Structures.label>结构</VFE_PropCategory_Structures.label>
   <!--EN: Religious artifacts, ceremonial objects, statues, altars, ritualistic tools, and other elements representing the spiritual or cultural significance of a temple.-->
-  <VFE_PropCategory_Temple.description>宗教文物、礼仪物品、雕像、祭坛、仪式工具以及代表寺庙精神或文化意义的其他元素。</VFE_PropCategory_Temple.description>
+  <VFE_PropCategory_Temple.description>此分类包括祭坛、圣物、雕塑等常出现在圣殿礼堂内的文化元素。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Temple.description>
   <!--EN: temple-->
-  <VFE_PropCategory_Temple.label>寺庙</VFE_PropCategory_Temple.label>
+  <VFE_PropCategory_Temple.label>圣殿</VFE_PropCategory_Temple.label>
   <!--EN: Props found in ancient vaults.-->
-  <VFE_PropCategory_Vaults.description>在古代金库中发现的道具。</VFE_PropCategory_Vaults.description>
+  <VFE_PropCategory_Vaults.description>此分类包括常见于古代人避难所中的各种设备和残骸。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Vaults.description>
   <!--EN: vaults-->
-  <VFE_PropCategory_Vaults.label>拱顶</VFE_PropCategory_Vaults.label>
+  <VFE_PropCategory_Vaults.label>避难所</VFE_PropCategory_Vaults.label>
   <!--EN: Vehicles props. Trucks, cars, lorries, etc.-->
-  <VFE_PropCategory_Vehicles.description>车辆道具。卡车、轿车、货车等</VFE_PropCategory_Vehicles.description>
+  <VFE_PropCategory_Vehicles.description>此分类包括卡车、坦克、马车、直升机等各种载具。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Vehicles.description>
   <!--EN: vehicles-->
-  <VFE_PropCategory_Vehicles.label>车辆</VFE_PropCategory_Vehicles.label>
+  <VFE_PropCategory_Vehicles.label>载具</VFE_PropCategory_Vehicles.label>
   <!--EN: Production and workshop props that fit in a crafting environment.-->
-  <VFE_PropCategory_Workshop.description>适合手工环境的生产和车间道具。</VFE_PropCategory_Workshop.description>
+  <VFE_PropCategory_Workshop.description>此分类包括常出现在工作间内的各种工具和设备。当然，它们基本都是没有实际功能的装饰用仿真道具。</VFE_PropCategory_Workshop.description>
   <!--EN: workshop-->
-  <VFE_PropCategory_Workshop.label>车间</VFE_PropCategory_Workshop.label>
+  <VFE_PropCategory_Workshop.label>工作间</VFE_PropCategory_Workshop.label>
 </LanguageData>

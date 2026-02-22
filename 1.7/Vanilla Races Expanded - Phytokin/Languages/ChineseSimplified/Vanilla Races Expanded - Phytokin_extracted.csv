@@ -1,0 +1,85 @@
+key,text,tag,file,type
+VRE_ProgressiveAttunementOffset,Progressive attunement gene,VRE_ProgressiveAttunementOffset,Misc_Gameplay.xml,keyed
+VRE_SaplingBirthReady,Sapling child,VRE_SaplingBirthReady,Misc_Gameplay.xml,keyed
+VRE_SaplingBirthReadyDesc,"When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.",VRE_SaplingBirthReadyDesc,Misc_Gameplay.xml,keyed
+VRE_PlantSaplingchild,Plant saplingchild,VRE_PlantSaplingchild,Misc_Gameplay.xml,keyed
+VRE_PlantSaplingchildDesc,Plant a saplingchild. If this isn't done before the second semester begins (6 days since pregnancy) it will count as a miscarriage. The saplingchild will need to be protected.,VRE_PlantSaplingchildDesc,Misc_Gameplay.xml,keyed
+VRE_SaplingNeedsSoil,Saplingchild needs to be planted on soil,VRE_SaplingNeedsSoil,Misc_Gameplay.xml,keyed
+VRE_SaplingchildNeedsToBePlanted,Saplingchild needs to be planted,VRE_SaplingchildNeedsToBePlanted,Misc_Gameplay.xml,keyed
+VRE_SaplingchildNeedsToBePlantedDesc,"When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to plant their saplingchild:\n\n{0}",VRE_SaplingchildNeedsToBePlantedDesc,Misc_Gameplay.xml,keyed
+VRE_MotherXenotype,Mother xenotype: {0},VRE_MotherXenotype,Misc_Gameplay.xml,keyed
+VRE_DestroyedByTemp,has been destroyed by temperature,VRE_DestroyedByTemp,Misc_Gameplay.xml,keyed
+VRE_SaplingHatched,{0} has hatched from a sapling!,VRE_SaplingHatched,Misc_Gameplay.xml,keyed
+VRE_SaplingHatchedLabel,{0} hatched!,VRE_SaplingHatchedLabel,Misc_Gameplay.xml,keyed
+VRE_TimeToHatch,Time until birth: {0},VRE_TimeToHatch,Misc_Gameplay.xml,keyed
+VRE_UnlockedByGeneAnima,Unlocked via Anima Affinity gene,VRE_UnlockedByGeneAnima,Misc_Gameplay.xml,keyed
+VRE_UnlockedByGeneGau,Unlocked via Gauranlen Affinity gene,VRE_UnlockedByGeneGau,Misc_Gameplay.xml,keyed
+VRE_CanOnlyBeUsedOnAnimaTree,This ability needs to be used on an anima tree,VRE_CanOnlyBeUsedOnAnimaTree,Misc_Gameplay.xml,keyed
+VRE_CanOnlyBePlantedOnFertile,This ability needs to be used on terrain with fertility of at least 0.05,VRE_CanOnlyBePlantedOnFertile,Misc_Gameplay.xml,keyed
+VRE_TwoPreviousDryadsMustBeDead,A maximum of two dryads per colonist with Gauranlen affinity can be alive at the same time,VRE_TwoPreviousDryadsMustBeDead,Misc_Gameplay.xml,keyed
+VRE_RitualPredictedOutcomeDescAffinityGeneCount,Anima Affinity gene,VRE_RitualPredictedOutcomeDescAffinityGeneCount,Misc_Gameplay.xml,keyed
+VRE_RitualPredictedOutcomeDescAffinityGeneCountGau,Gauranlen Affinity gene,VRE_RitualPredictedOutcomeDescAffinityGeneCountGau,Misc_Gameplay.xml,keyed
+VRE_PlantPoluxTree.label,plant polux bush,label,AbilityDef/Abilities.xml,def
+VRE_PlantPoluxTree.description,Plants a polux bush in the designated spot.,description,AbilityDef/Abilities.xml,def
+VRE_Photosynthesis.label,photosynthesis,label,GeneDef/GeneDefs_Archite.xml,def
+VRE_Photosynthesis.description,Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight.,description,GeneDef/GeneDefs_Archite.xml,def
+VRE_SaplingBirth.label,saplingbirth,label,GeneDef/GeneDefs_Archite.xml,def
+VRE_SaplingBirth.description,"Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it.",description,GeneDef/GeneDefs_Archite.xml,def
+VRE_PoluxAffinity.label,polux affinity,label,GeneDef/GeneDefs_Archite.xml,def
+VRE_PoluxAffinity.description,"Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger.",description,GeneDef/GeneDefs_Archite.xml,def
+VRE_SapBlood.label,sap blood,label,GeneDef/GeneDefs_Blood.xml,def
+VRE_SapBlood.description,"Carriers of this gene have thick, sticky, orange blood that greatly slows down their bleed out time, however it also impacts their ability to do work.",description,GeneDef/GeneDefs_Blood.xml,def
+VRE_BarkSkin.label,barkskin,label,GeneDef/GeneDefs_Bodies.xml,def
+VRE_BarkSkin.description,Carriers of this gene have their skin resembling tree bark. This allows them to withstand blunt trauma that would normally knock people unconscious.,description,GeneDef/GeneDefs_Bodies.xml,def
+VRE_FoliageHair.label,foliage hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FoliageHair.description,"Carriers of this gene have natural-looking, leafy hair.",description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HairColor_Anima.label,anima hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HairColor_Gauranlen.label,gauranlen hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HairColor_Pollux.label,pollux hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Female.label,female-only,label,GeneDef/GeneDefs_Gender.xml,def
+VRE_Female.description,Carriers of this gene are guaranteed to be female when born.,description,GeneDef/GeneDefs_Gender.xml,def
+VRE_GreenThumb.label,green thumb,label,GeneDef/GeneDefs_Mood.xml,def
+VRE_GreenThumb.description,Carriers of this gene become very happy when taking part in plant sowing.,description,GeneDef/GeneDefs_Mood.xml,def
+VRE_ProgressiveAttunement.label,progressive attunement,label,GeneDef/GeneDefs_Psychic.xml,def
+VRE_ProgressiveAttunement.description,"Carriers of this gene become more psychically attuned as they age, greatly increasing their psychic sensitivity.",description,GeneDef/GeneDefs_Psychic.xml,def
+VRE_Poluxkin.label,poluxkin,label,XenotypeDef/XenotypeDefs.xml,def
+VRE_Poluxkin.description,"Based on genetic data retrofitted from Gauranlen Inc.’s investment into dendrology following the Fall of Sorne, phytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.\n\nBased on research from the forest planet of Phytok that committed to extensive analysis on human-compatibility with psychic energy, phytokin xenogerms are typically exclusive to high-ranking, supporting roles in megacorporations and planetary governments. Their unique way of reproduction has resulted in many identical offspring, with each generation becoming successively more competent than their progenitor, further contributing to their extremely low numbers. Their affinity with plantlife, along with the side effect of extremely high and ever-increasing psychic sensitivity, mean that any phytokin xenohumans found on the Rim are always adapted to high-concept, dominant trees that are present on their residing planet.\n\nThis particular xenogerm has adapted itself to Polux trees, allowing it to germinate new Polux bushes and improve local Polux bushes’ ability to consume toxic waste. While they are also immune to toxicity, they have developed a psychological requirement to consume and metabolize toxic wastepacks regularly.",description,XenotypeDef/XenotypeDefs.xml,def
+VRE_Poluxkin.descriptionShort,"Powerful advisors to rulers and despots, poluxkins are beautiful and cunning and possess an ability to connect with a polux tree, greatly enhancing its abilities. They are immune to toxicity and in fact can help the environment by consuming and metabolizing waste. They are excellent at taking care of plants and reproduce via planting a saplingchild.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VRE_FoliageHairEve.label,eve,label,HairDef/HairsGeneral.xml,def
+VRE_FoliageHairHope.label,hope,label,HairDef/HairsGeneral.xml,def
+VRE_FoliageHairKathy.label,kathy,label,HairDef/HairsGeneral.xml,def
+VRE_FoliageHairLeafein.label,leafein,label,HairDef/HairsGeneral.xml,def
+VRE_FoliageHairOphie.label,ophie,label,HairDef/HairsGeneral.xml,def
+VRE_FoliageHairPixie.label,pixie,label,HairDef/HairsGeneral.xml,def
+VRE_Phytokin.label,phytokin,label,StyleItemCategoryDef/StyleItemCategoryDefs.xml,def
+VRE_Photosynthetic.label,photosynthesis,label,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_Photosynthetic.description,This person is capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_Photosynthetic.stages.0.label,in sunlight,label,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_Photosynthetic.stages.1.label,out of sunlight,label,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_SapBlood.label,sap blood,label,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_SapBlood.description,"This person has a thick, sticky, orange blood that greatly slows down their bleed out time, however it also impacts their ability to do work.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_Saplingchild.label,saplingchild needs planting,label,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_Saplingchild.description,"When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VRE_TempSterile.label,sapling fatigue,label,HediffDef/Hediff_Sterile.xml,def
+VRE_TempSterile.description,"After being ready to create a sapligchild, the person with the saplingbirth gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.",description,HediffDef/Hediff_Sterile.xml,def
+VRE_GiveQuest_Intro_Phytokin.label,wandering phytokin,label,IncidentDef/Incidents_World_Quests.xml,def
+VRE_PlantSaplingchild.reportString,planting saplingchild.,reportString,JobDef/Jobs_Work.xml,def
+VRE_ConsumeWastepack.reportString,consuming TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VRE_Intro_Phytokin.questNameRules.rulesStrings.0,questName->the [adjAny] Phytokin,li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_Intro_Phytokin.questNameRules.rulesStrings.1,adjAny->hunted,li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_Intro_Phytokin.questNameRules.rulesStrings.2,adjAny->fleeing,li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_Intro_Phytokin.questNameRules.rulesStrings.3,adjAny->solitary,li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_Intro_Phytokin.questNameRules.rulesStrings.4,adjAny->ambushed,li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_Intro_Phytokin.questDescriptionRules.rulesStrings.0,"questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.",li,QuestScriptDef/Script_Intro_Phytokin.xml,def
+VRE_NamePhytokin.rulePack.rulesStrings.0,r_name->[firstName] [lastName],li,RulePackDef/RulePacks_Namers_Xenohumans.xml,def
+VRE_NamePhytokin.rulePack.rulesStrings.1,firstName->[namePhytokin],li,RulePackDef/RulePacks_Namers_Xenohumans.xml,def
+VRE_NamePhytokin.rulePack.rulesStrings.2,lastName->[namePhytokin],li,RulePackDef/RulePacks_Namers_Xenohumans.xml,def
+VRE_SaplingchildTree.label,saplingchild,label,ThingDef/Buildings_Natural.xml,def
+VRE_SaplingchildTree.description,"A small, cabbage-like plant created in the first trimester of the pregnancy by a sapling-mother. After 30 days, saplingchild will hatch and a child will emerge from it.\n\nMust be kept between -15 and 60ºC. If the plant is destroyed it will be treated as a stillbirth for the mother who planted it.",description,ThingDef/Buildings_Natural.xml,def
+VRE_SapBlood.label,sap blood,label,ThingDef/Filth_Various.xml,def
+VRE_PoluxBush.label,polux bush,label,ThingDef/Plants_Special.xml,def
+VRE_PoluxBush.description,"A bush that has evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux bushes do not create toxic wastepacks.",description,ThingDef/Plants_Special.xml,def
+VRE_GreenThumbHappy.stages.0.label,sowed a plant,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VRE_GreenThumbHappy.stages.0.description,What the world needs is more plants!,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VRE_WastepacksNeed.stages.0.label,need wastepacks,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VRE_WastepacksNeed.stages.0.description,I have a need to consume and metabolize waste. It’s my purpose.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def

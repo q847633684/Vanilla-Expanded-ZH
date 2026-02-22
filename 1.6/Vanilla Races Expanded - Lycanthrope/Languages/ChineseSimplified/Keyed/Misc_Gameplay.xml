@@ -1,33 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Disable photophobia message-->
-  <VRE_DisablePhotophobiaMessage>禁用畏光消息</VRE_DisablePhotophobiaMessage>
+  <VRE_DisablePhotophobiaMessage>禁用恐光症信封提示</VRE_DisablePhotophobiaMessage>
   <!--EN: By default, every time a pawn with the photophobia gene fless from light the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed.-->
-  <VRE_DisablePhotophobiaMessage_Description>默认情况下，每次带有畏光基因的 pawn 远离光线时，游戏都会生成一封信通知玩家。如果你有很多棋子经常逃跑，这可能有点太多了，所以你可以用这个开关禁用它。请记住，棋子仍然会逃跑，只是你不会得到通知。</VRE_DisablePhotophobiaMessage_Description>
+  <VRE_DisablePhotophobiaMessage_Description>通常来讲，每当携带有“恐光症”基因的殖民者试图逃离光源时，都会在屏幕右侧弹出信封提示，而一旦这样的殖民者多起来，就会显得很烦人了。勾选此项可以禁用弹出信封提示。</VRE_DisablePhotophobiaMessage_Description>
   <!--EN: {PAWN_nameDef} suffering from endogene loss shock-->
-  <VRE_EndogeneLossShockPresent>{PAWN_nameDef}遭受内源性损失休克</VRE_EndogeneLossShockPresent>
+  <VRE_EndogeneLossShockPresent>{PAWN_nameDef}已陷入基因缺失冲击状态</VRE_EndogeneLossShockPresent>
   <!--EN: Force germline implantation-->
-  <VRE_ForceGermlineImplantation>强制种系植入</VRE_ForceGermlineImplantation>
+  <VRE_ForceGermlineImplantation>强制植入系谱胚芽</VRE_ForceGermlineImplantation>
   <!--EN: Force this person to implant their germline into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a germline will overwrite the target's endogenes. Xenogenes will be unaffected.-->
-  <VRE_ForceGermlineImplantationDesc>强迫这个人使用特殊的注射器器官将其种系植入另一个人体内。如果此人的基因当前正在重新生长，它们将在此过程中死亡。
-
-植入后，种系将覆盖目标的内基因。 Xenogenes 将不受影响。</VRE_ForceGermlineImplantationDesc>
+  <VRE_ForceGermlineImplantationDesc>迫使这个人使用一个特殊的注射器官将他们的系谱基因植入另一个人体内。如果这个人的基因目前正在重构，将在这个过程中死亡。\n\n植入后，系谱基因将覆盖目标的系谱基因。异种基因将不受影响。</VRE_ForceGermlineImplantationDesc>
   <!--EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} germline into {TARGET_nameDef}, passing all endogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in an endogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} germline again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die.-->
-  <VRE_LetterTextGenesImplanted>{CASTER_nameDef} 已将 {CASTER_possessive} 种系的副本植入到 {TARGET_nameDef} 中，将所有内源基因传递到 {TARGET_objective}。
-
-{TARGET_nameDef} 将在下一个 {COMADURATION} 处于内萌发昏迷状态，而{TARGET_possessive}身体会适应这些变化。
-
-{CASTER_nameDef}将在下一个{SHOCKDURATION}中遭受基因丢失冲击。 {CASTER_possessive} 基因也需要重新生长。这个过程需要时间。如果 {CASTER_nameDef} 在 {CASTER_possessive} 基因重新生长之前再次植入 {CASTER_possessive} 种系，{CASTER_pronoun} 将死亡。</VRE_LetterTextGenesImplanted>
+  <VRE_LetterTextGenesImplanted>{CASTER_nameDef}已将{CASTER_possessive}系谱胚芽副本植入{TARGET_nameDef}，将所有系谱基因传递给{TARGET_objective}。\n\n{TARGET_nameDef}将在接下来的{COMADURATION}中处于系谱基因适应昏迷状态，同时{TARGET_possessive}身体会适应这些变化。\n\n{CASTER_nameDef}将在接下来的{SHOCKDURATION}内陷入基因缺失冲击状态。{CASTER_possessive}基因也将需要重构。这个过程需要时间，如果{CASTER_nameDef}在{CASTER_possessive}基因重构之前再次植入{CASTER_possessive}系谱胚芽，{CASTER_pronoun}将死亡。</VRE_LetterTextGenesImplanted>
   <!--EN: Absorbing {PAWN_nameDef}'s germline will anger {0}.-->
-  <VRE_MessageAbsorbingGermlineWillAngerFaction>吸收 {PAWN_nameDef} 的种系会激怒 {0}。</VRE_MessageAbsorbingGermlineWillAngerFaction>
+  <VRE_MessageAbsorbingGermlineWillAngerFaction>吸收{PAWN_nameDef}的系谱胚芽将激怒{0}。</VRE_MessageAbsorbingGermlineWillAngerFaction>
   <!--EN: {0_labelShort} has no available endogenes to implant.-->
-  <VRE_MessagePawnHasNoGermline>{0_labelShort} 没有可用于植入的内源基因。</VRE_MessagePawnHasNoGermline>
+  <VRE_MessagePawnHasNoGermline>{0_labelShort}没有可以植入的系谱基因。</VRE_MessagePawnHasNoGermline>
   <!--EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} germline.-->
-  <VRE_MessageTargetMustBeDownedToForceReimplant>必须先击倒 {PAWN_nameDef}，然后才能强制 {PAWN_objective} 重新植入 {PAWN_possessive} 种系。</VRE_MessageTargetMustBeDownedToForceReimplant>
+  <VRE_MessageTargetMustBeDownedToForceReimplant>若要强行植入{PAWN_nameDef}的系谱胚芽，必须先放倒{PAWN_objective}。</VRE_MessageTargetMustBeDownedToForceReimplant>
   <!--EN: This quest can only be accepted during daytime-->
-  <VRE_OnlyOnDaytime>该任务只能在白天接受</VRE_OnlyOnDaytime>
+  <VRE_OnlyOnDaytime>此任务仅能在白天接受</VRE_OnlyOnDaytime>
   <!--EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue?-->
-  <VRE_WarningPawnWillDieFromReimplanting>警告：{PAWN_nameDef} 的基因目前正在重新生长。如果 {PAWN_pronoun} 在 {PAWN_possessive} 基因完全重新生长之前植入 {PAWN_possessive} 种系，它将杀死 {PAWN_objective}。
-
-您确定要继续吗？</VRE_WarningPawnWillDieFromReimplanting>
+  <VRE_WarningPawnWillDieFromReimplanting>警告：{PAWN_nameDef}的基因正在重构，如果{PAWN_pronoun}在{PAWN_possessive}基因完全重构之前植入{PAWN_possessive}系谱胚芽，这会让{PAWN_objective}死亡。\n\n你确定想要继续吗？</VRE_WarningPawnWillDieFromReimplanting>
 </LanguageData>

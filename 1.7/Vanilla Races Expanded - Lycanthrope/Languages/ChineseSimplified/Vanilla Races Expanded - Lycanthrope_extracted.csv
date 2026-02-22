@@ -1,0 +1,148 @@
+key,text,tag,file,type
+VRE_DisablePhotophobiaMessage,Disable photophobia message,VRE_DisablePhotophobiaMessage,Misc_Gameplay.xml,keyed
+VRE_DisablePhotophobiaMessage_Description,"By default, every time a pawn with the photophobia gene fless from light the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed.",VRE_DisablePhotophobiaMessage_Description,Misc_Gameplay.xml,keyed
+VRE_OnlyOnDaytime,This quest can only be accepted during daytime,VRE_OnlyOnDaytime,Misc_Gameplay.xml,keyed
+VRE_MessagePawnHasNoGermline,{0_labelShort} has no available endogenes to implant.,VRE_MessagePawnHasNoGermline,Misc_Gameplay.xml,keyed
+VRE_WarningPawnWillDieFromReimplanting,"Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue?",VRE_WarningPawnWillDieFromReimplanting,Misc_Gameplay.xml,keyed
+VRE_LetterTextGenesImplanted,"{CASTER_nameDef} has implanted a copy of {CASTER_possessive} germline into {TARGET_nameDef}, passing all endogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in an endogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} germline again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die.",VRE_LetterTextGenesImplanted,Misc_Gameplay.xml,keyed
+VRE_ForceGermlineImplantation,Force germline implantation,VRE_ForceGermlineImplantation,Misc_Gameplay.xml,keyed
+VRE_ForceGermlineImplantationDesc,"Force this person to implant their germline into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a germline will overwrite the target's endogenes. Xenogenes will be unaffected.",VRE_ForceGermlineImplantationDesc,Misc_Gameplay.xml,keyed
+VRE_MessageAbsorbingGermlineWillAngerFaction,Absorbing {PAWN_nameDef}'s germline will anger {0}.,VRE_MessageAbsorbingGermlineWillAngerFaction,Misc_Gameplay.xml,keyed
+VRE_EndogeneLossShockPresent,{PAWN_nameDef} suffering from endogene loss shock,VRE_EndogeneLossShockPresent,Misc_Gameplay.xml,keyed
+VRE_MessageTargetMustBeDownedToForceReimplant,{PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} germline.,VRE_MessageTargetMustBeDownedToForceReimplant,Misc_Gameplay.xml,keyed
+VRE_Morph.label,morph,label,AbilityDef/Abilities.xml,def
+VRE_Morph.description,Morph into a different xenotype.,description,AbilityDef/Abilities.xml,def
+VRE_WarHowl.label,war howl,label,AbilityDef/Abilities.xml,def
+VRE_WarHowl.description,Emit a loud war howl that increases stacking combat capabilities of allies nearby.,description,AbilityDef/Abilities.xml,def
+VRE_ReimplantGermline.label,implant genes,label,AbilityDef/Abilities.xml,def
+VRE_ReimplantGermline.description,"Implant this person's germline into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their germline and die in the process.\n\nWhen implanted, a germline will overwrite the target's germline. Xenogenes will be unaffected.",description,AbilityDef/Abilities.xml,def
+VRE_WolfmanBeards.label,wolfman,label,StyleItemCategoryDef/BeardDefs.xml,def
+VRE_Allison.label,allison,label,BeardDef/BeardDefs.xml,def
+VRE_Basset.label,basset,label,BeardDef/BeardDefs.xml,def
+VRE_Bill.label,bill,label,BeardDef/BeardDefs.xml,def
+VRE_Boswell.label,boswell,label,BeardDef/BeardDefs.xml,def
+VRE_Hays.label,hays,label,BeardDef/BeardDefs.xml,def
+VRE_Hickock.label,hickock,label,BeardDef/BeardDefs.xml,def
+VRE_Holliday.label,holliday,label,BeardDef/BeardDefs.xml,def
+VRE_Materson.label,materson,label,BeardDef/BeardDefs.xml,def
+VRE_Morgan.label,morgan,label,BeardDef/BeardDefs.xml,def
+VRE_Pat.label,pat,label,BeardDef/BeardDefs.xml,def
+VRE_Virgil.label,virgil,label,BeardDef/BeardDefs.xml,def
+VRE_WolfmenFaction.label,wolfmen,label,FactionDef/Factions_Misc.xml,def
+VRE_WolfmenFaction.pawnSingular,wolfman,pawnSingular,FactionDef/Factions_Misc.xml,def
+VRE_WolfmenFaction.pawnsPlural,wolfmen,pawnsPlural,FactionDef/Factions_Misc.xml,def
+VRE_WolfmenFaction.description,A wolfmen pack.,description,FactionDef/Factions_Misc.xml,def
+VRE_WolfmenFaction.leaderTitle,pack leader,leaderTitle,FactionDef/Factions_Misc.xml,def
+VRE_Morphs.label,morphs,label,GeneCategoryDef/GeneCategoryDefs.xml,def
+VRE_MeleeDodge.label,melee dodge,label,GeneCategoryDef/GeneCategoryDefs.xml,def
+VRE_WarHowl.label,warhowl,label,GeneDef/GeneDefs_Abilities.xml,def
+VRE_WarHowl.description,"Carriers of this gene can perform a wicked warhowl, using a powerful bellow and psychic connection to call on their allies to fight more aggressively.",description,GeneDef/GeneDefs_Abilities.xml,def
+VRE_GermlineReimplanter.label,germline reimplanter,label,GeneDef/GeneDefs_Abilities.xml,def
+VRE_GermlineReimplanter.description,"Carriers of this gene can implant a copy of their germline into another person through an injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Xenogenes will be unaffected.",description,GeneDef/GeneDefs_Abilities.xml,def
+VRE_ChestFur.label,chest fur,label,GeneDef/GeneDefs_Bodies.xml,def
+VRE_ChestFur.description,Carriers of this gene grow thick fur on their chest.,description,GeneDef/GeneDefs_Bodies.xml,def
+VRE_SpeechInability.label,speech inability,label,GeneDef/GeneDefs_Capacities.xml,def
+VRE_SpeechInability.description,Carriers of this gene lost the ability to understand and partake in the act of talking.,description,GeneDef/GeneDefs_Capacities.xml,def
+VRE_CanineEars.label,canine ears,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_CanineEars.description,Carriers of this gene will grow wolf-like ears.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_CanineNose.label,canine nose,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_CanineNose.description,Carriers of this gene have wolf-like noses.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_CanineTail.label,wolf tail,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_CanineTail.description,Carriers of this gene grow a wolf-like tail that helps them with movement slightly.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_OnlySideburns.label,only sideburns,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_OnlySideburns.description,Male carriers of this gene experience rapid beard growth on the sides of their face.,description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_SuperiorDarkVision.label,superior dark vision,label,GeneDef/GeneDefs_Health.xml,def
+VRE_SuperiorDarkVision.description,"Carriers of this gene see much better low light than well lit areas, and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark.",description,GeneDef/GeneDefs_Health.xml,def
+VRE_LightSensitivity.label,light sensitivity,label,GeneDef/GeneDefs_LightSensitivity.xml,def
+VRE_LightSensitivity.description,Carriers of this gene have biological compounds in their eyes that react painfully to light photons. They are unusually sensitive to any light sources.,description,GeneDef/GeneDefs_LightSensitivity.xml,def
+VRE_IntenseLightSensitivity.label,intense light sensitivity,label,GeneDef/GeneDefs_LightSensitivity.xml,def
+VRE_IntenseLightSensitivity.description,Carriers of this gene have biological compounds in their eyes that react dangerously to light photons. They are intensely sensitive to any light sources.,description,GeneDef/GeneDefs_LightSensitivity.xml,def
+VRE_ImprovedDodge.label,improved dodge,label,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_ImprovedDodge.description,"Carriers of this gene can dodge attacks more easily. Extra-capable in perception, they anticipate attacks before they happen.",description,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_SuperiorDodge.label,superior dodge,label,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_SuperiorDodge.description,"Carriers of this gene can dodge attacks very easily. Extra-capable in perception, they anticipate attacks before they happen.",description,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_DodgeDisabled.label,dodge disabled,label,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_DodgeDisabled.description,Carriers of this gene are incapable of dodging attacks. Lack of combat perception results in being hit by every swing - even the one that would miss.,description,GeneDef/GeneDefs_MeleeDodge.xml,def
+VRE_Photophobia.label,photophobia,label,GeneDef/GeneDefs_MentalState.xml,def
+VRE_Photophobia.description,"Carriers of this gene have an intense fear of light. When any light source is close, there is a chance they will have a mental breakdown at any moment.",description,GeneDef/GeneDefs_MentalState.xml,def
+VRE_PackMentality.label,pack mentality,label,GeneDef/GeneDefs_Miscellaneous.xml,def
+VRE_PackMentality.description,"Carriers of this gene are capable of forming tightly knit communities, and become happier the stronger their community is.",description,GeneDef/GeneDefs_Miscellaneous.xml,def
+VRE_Territorial.label,territorial,label,GeneDef/GeneDefs_Mood.xml,def
+VRE_Territorial.description,"Carriers of this gene are extremely territorial and will feel more calm in their own land, and at the same time increasingly uneasy as they leave it.",description,GeneDef/GeneDefs_Mood.xml,def
+VRE_Morphs_NocturnalMorphing.label,nocturnal morphing,label,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_NocturnalMorphing.description,Carriers of this gene undergo a morphing process every night. It cannot be stopped or prevented. They will only morph back come morning.,description,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_AdulthoodMorphing.label,adulthood morphing,label,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_AdulthoodMorphing.description,Carriers of this gene undergo a morphing process when reaching adulthood. It cannot be stopped or prevented. They will never morph back.,description,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_SeasonalMorphing.label,seasonal morphing,label,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_SeasonalMorphing.description,"Carriers of this gene undergo a morphing process on 1st of Septober, and then morph back on 1st of Aprimay.",description,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_DamageMorphing.label,damage morphing,label,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_DamageMorphing.description,"Carriers of this gene undergo a morphing process when badly wounded, and will only morph back when almost fully regenerated.",description,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_RandomMorphing.label,random morphing,label,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Morphs_RandomMorphing.description,"Carriers of this gene undergo a morphing process seemingly at random. Nobody knows what the morphing condition is, or whether it can be controlled in any way. Morphing will occur in random time intervals.",description,GeneDef/GeneDefs_MorphConditions.xml,def
+VRE_Nocturnal.label,nocturnal,label,GeneDef/GeneDefs_Sleep.xml,def
+VRE_Nocturnal.description,Carriers of this gene prefer to work at night. They are happier if awake at nights and unhappy if awake during the day.,description,GeneDef/GeneDefs_Sleep.xml,def
+VRE_MoveSpeed_ExtremelyQuick.label,extremely fast runner,label,GeneDef/GeneDefs_Speed.xml,def
+VRE_MoveSpeed_ExtremelyQuick.description,Carriers of this gene have a special type of muscle-stimulating cell that allows them to move at superhuman speeds.,description,GeneDef/GeneDefs_Speed.xml,def
+VRE_Morphs.label,morph: {0},label,VanillaRacesExpandedLycanthrope.MorphGeneTemplateDef/MorphGeneTemplateDefs.xml,def
+VRE_Morphs.description,"Carriers of this gene have the extraordinary archite-powered ability to rapidly morph into a {0} xenotype at will. They will inherit all the genetic abilities and drawbacks of that xenotype, but they will be able to morph back at any time.",description,VanillaRacesExpandedLycanthrope.MorphGeneTemplateDef/MorphGeneTemplateDefs.xml,def
+VRE_Wolfman.label,wolfman,label,XenotypeDef/XenotypeDefs.xml,def
+VRE_Wolfman.description,"A dubious xenogerm of debated origin, wolfmen/lycans have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others.\n\nThere is no clear history established regarding the history of lycans, made especially murky as each new pack tends to fabricate their own origins. This has led to widely varying conspiracy theories, most of which at least partially involve sanguophages, especially due to similarities in their genes. The most prevalent one is that a sanguophage fell in love with an yttakin, later transforming them into one of their ilk, however there were complications as the newly-changed sanguophage was pregnant. The child was born but was abandoned by their parents, yet managed to survive living amongst stray dogs. Eventually they set out to make their own family, whether through blood or water, and to always consider that family comes first.",description,XenotypeDef/XenotypeDefs.xml,def
+VRE_Wolfman.descriptionShort,"A dubious xenogerm of debated origin, wolfmen/lycans have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VRE_Lycan.label,lycan,label,XenotypeDef/XenotypeDefs.xml,def
+VRE_Lycan.description,"A dubious xenogerm of debated origin, wolfmen/lycans have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their lycan form has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.\n\nThere is no clear history established regarding the history of lycans, made especially murky as each new pack tends to fabricate their own origins. This has led to widely varying conspiracy theories, most of which at least partially involve sanguophages, especially due to similarities in their genes. The most prevalent one is that a sanguophage fell in love with an yttakin, later transforming them into one of their ilk, however there were complications as the newly-changed sanguophage was pregnant. The child was born but was abandoned by their parents, yet managed to survive living amongst stray dogs. Eventually they set out to make their own family, whether through blood or water, and to always consider that family comes first.",description,XenotypeDef/XenotypeDefs.xml,def
+VRE_Lycan.descriptionShort,"A dubious xenogerm of debated origin, wolfmen/lycans have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their lycan form has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VRE_MoveSpeed_ExtremelyQuick.label,extremely quick,label,HediffDef/Hediffs_Health.xml,def
+VRE_MoveSpeed_ExtremelyQuick.description,This person moves extremely quick. They will ignore terrain movement costs when moving.,description,HediffDef/Hediffs_Health.xml,def
+VRE_WarHowlHediff.label,warhowl,label,HediffDef/Hediffs_Health.xml,def
+VRE_WarHowlHediff.description,Increase to combat capabilities caused by the warhowl ability. Stacks up to 10 times and lasts 3 hours.,description,HediffDef/Hediffs_Health.xml,def
+VRE_EndogerminationComa.label,endogermination coma,label,HediffDef/Hediffs_Health.xml,def
+VRE_EndogerminationComa.description,"A germline was implanted in this person. The germline needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the germline keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a germline with better medical facilities and more skilled doctors.",description,HediffDef/Hediffs_Health.xml,def
+VRE_EndogermLossShock.label,endogene loss shock,label,HediffDef/Hediffs_Health.xml,def
+VRE_EndogermLossShock.description,"This person's endogenes were recently removed or expelled. This has destabilized the person's metabolism and hormones, leaving them temporarily weak and drowsy, with a weakened immune system.",description,HediffDef/Hediffs_Health.xml,def
+VRE_AbsorbGermline.reportString,absorbing germline from TargetA.,reportString,JobDef/Jobs_Misc.xml,def
+VRE_Photophobia.label,light terror,label,MentalBreakDef/MentalStates_Special.xml,def
+VRE_Photophobia.label,panic-fleeing light,label,MentalStateDef/MentalStates_Special.xml,def
+VRE_Photophobia.beginLetterLabel,fleeing light,beginLetterLabel,MentalStateDef/MentalStates_Special.xml,def
+VRE_Photophobia.beginLetter,{0} is fleeing the light.,beginLetter,MentalStateDef/MentalStates_Special.xml,def
+VRE_Photophobia.recoveryMessage,{0} is no longer fleeing the light.,recoveryMessage,MentalStateDef/MentalStates_Special.xml,def
+VRE_Photophobia.baseInspectLine,Mental state: Fleeing the light,baseInspectLine,MentalStateDef/MentalStates_Special.xml,def
+VRE_PackMember.label,pack member,label,PawnRelationDef/PawnRelations_Special.xml,def
+VRE_PackMember.labelFemale,pack member,labelFemale,PawnRelationDef/PawnRelations_Special.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.0,questName->[shipAdjective] [shipNoun],li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.1,shipAdjective->wolfmen,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.2,shipAdjective->wolf,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.3,shipAdjective->lycan,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.4,shipAdjective->werewolf,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.5,shipAdjective->nocturnal,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.6,shipAdjective->howling,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.7,shipAdjective->furry,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.8,shipAdjective->canine,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.9,shipNoun->ship,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.10,shipNoun->shuttle,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.11,shipNoun->craft,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.12,shipNoun->hulk,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.13,shipNoun->crash,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questNameRules.rulesStrings.14,shipNoun->wreck,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questDescriptionRules.rulesStrings.0,"questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]",li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questDescriptionRules.rulesStrings.1,"wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)",li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.0,wolfmanShuttleCrashedLetterLabel->Crashed shuttle,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.1,wolfmanShuttleCrashedLetterText->A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.2,reinforcementsArrivedLetterLabel->Wolfmen reinforcements,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.3,reinforcementsArrivedLetterText->Wolfmen are arriving in drop pods to reinforce the crashed refugees.,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.4,letterLabelBeggarsBetrayed->Betrayed refugees,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_WolfmenTransport.questContentRules.rulesStrings.5,letterTextBeggarsBetrayed->The wolfmen refugees are betrayed by your actions and will try to defend themselves.,li,QuestScriptDef/Script_LycanShip.xml,def
+VRE_LightSensitivity.stages.0.label,light sensitivity,label,ThoughtDef/Thoughts_Light.xml,def
+VRE_LightSensitivity.stages.0.description,Light is unpleasant and hurts my eyes.,description,ThoughtDef/Thoughts_Light.xml,def
+VRE_IntenseLightSensitivity.stages.0.label,light sensitivity,label,ThoughtDef/Thoughts_Light.xml,def
+VRE_IntenseLightSensitivity.stages.0.description,"There is too much light here, it hurts!",description,ThoughtDef/Thoughts_Light.xml,def
+VRE_Photophobia.stages.0.label,afraid of light,label,ThoughtDef/Thoughts_Light.xml,def
+VRE_Photophobia.stages.0.description,The light makes me so nervous. It's like it burns me with its intensity!,description,ThoughtDef/Thoughts_Light.xml,def
+PackMemberDied.stages.0.label,pack member {0} died,label,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+PackMemberDied.stages.0.description,My pack member died. The pack is weaker.,description,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+LostPackMember.stages.0.label,pack member {0} lost,label,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+LostPackMember.stages.0.description,We lost a valuable pack member. Can they survive without their pack?,description,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+KilledPackMember.stages.0.label,killed pack member,label,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+SoldPackMember.stages.0.label,pack member {0} sold,label,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+SoldPackMember.stages.0.description,We have just sold off a pack member. Can we really call ourselves a pack?,description,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+VRE_PackMentality.stages.0.label,pack mentality,label,ThoughtDef/Thoughts_Pack_Mentality.xml,def
+VRE_PackMentality.stages.0.description,"Our pack grows stronger. The bigger the pack, the more comfortable we will feel.",description,ThoughtDef/Thoughts_Pack_Mentality.xml,def

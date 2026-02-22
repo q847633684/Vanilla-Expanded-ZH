@@ -1,0 +1,22 @@
+key,text,tag,file,type
+VBE_CiderAsIngredient.label,drank cider based cocktail,label,HediffDef/Hediffs_Global_Misc_Cider.xml,def
+VBE_CiderAsIngredient.description,This colonist drank a cocktail that had cider as one of its ingredients. Many praise cider for its supposed antioxidant properties. Slightly removes toxic buildup.,description,HediffDef/Hediffs_Global_Misc_Cider.xml,def
+VBE_MakeUnfermentedCider.label,make unfermented cider,label,RecipeDef/Recipes_Cider.xml,def
+VBE_MakeUnfermentedCider.description,Make unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage.,description,RecipeDef/Recipes_Cider.xml,def
+VBE_MakeUnfermentedCider.jobString,Making unfermented cider.,jobString,RecipeDef/Recipes_Cider.xml,def
+VBE_MakeUnfermentedCider.ingredients.0.filter.customSummary,fruits,customSummary,RecipeDef/Recipes_Cider.xml,def
+VBE_MakeTequilaMustFromPears.label,make tequila must from prickly pear,label,RecipeDef/Recipes_Tequila_Pears.xml,def
+VBE_MakeTequilaMustFromPears.description,"Make a thin mixture of prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel.",description,RecipeDef/Recipes_Tequila_Pears.xml,def
+VBE_MakeTequilaMustFromPears.jobString,Making tequila must.,jobString,RecipeDef/Recipes_Tequila_Pears.xml,def
+VBE_UnfermentedCider.label,unfermented cider,label,ThingDef/Items_Cider.xml,def
+VBE_UnfermentedCider.description,Unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage.,description,ThingDef/Items_Cider.xml,def
+VBE_Cider.label,cider,label,ThingDef/Items_Cider.xml,def
+VBE_Cider.description,"A barely alcoholic beverage meant to be refreshing and fruity. Try as anybody might it is pointless trying to get inebriated by cider alone, thus it is popular among those with prior addiction. Anecdotally, many praise it for supposed antioxidant properties.",description,ThingDef/Items_Cider.xml,def
+VBE_Cider.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Items_Cider.xml,def
+VBE_Cider.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Items_Cider.xml,def
+VBE_CiderHigh.label,cider high,label,HediffDef/Items_Cider.xml,def
+VBE_CiderHigh.labelNoun,a cider high,labelNoun,HediffDef/Items_Cider.xml,def
+VBE_CiderHigh.description,"Alcohol from cider in the bloodstream. It makes people happy, but reduces capacities. Cannot cause alcohol addiction. Cannot get past the “warm” drunken stage no matter how many are downed.",description,HediffDef/Items_Cider.xml,def
+VBE_CiderHigh.stages.0.label,warm,label,HediffDef/Items_Cider.xml,def
+VBE_CiderAsIngredient.stages.0.label,Drank cider-based cocktail,label,ThoughtDef/Thoughts_Memory_Cider.xml,def
+VBE_CiderAsIngredient.stages.0.description,Yummy.,description,ThoughtDef/Thoughts_Memory_Cider.xml,def

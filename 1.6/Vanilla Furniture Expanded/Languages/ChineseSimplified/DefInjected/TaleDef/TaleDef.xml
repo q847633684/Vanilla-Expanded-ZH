@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: used computer-->
-  <Tale_UsedComputer.label>二手电脑</Tale_UsedComputer.label>
+  <Tale_UsedComputer.label>使用计算机</Tale_UsedComputer.label>
   <Tale_UsedComputer.rulePack.rulesStrings>
     <!--EN: tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them-->
-    <li>tale_noun-&gt;[PAWN_nameDef] 重点关注前方的 [OBJECT_label]</li>
+    <li>故事-&gt;[PAWN_nameDef] 集中在他们前面的[OBJECT_label]上。</li>
     <!--EN: tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]-->
-    <li>tale_noun-&gt;[PAWN_nameDef]愤怒地看着[OBJECT_label]</li>
+    <li>故事-&gt;[PAWN_nameDef]愤怒地看着[OBJECT_label]</li>
     <!--EN: tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]-->
-    <li>tale_noun-&gt;[PAWN_nameDef]在[OBJECT_label]享受[PAWN_objective]自己</li>
+    <li>故事-&gt;[PAWN_nameDef]在[OBJECT_label]上[PAWN_objective]放飞自我</li>
     <!--EN: image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull] 停在 [OBJECT_label]、[circumstance_group] 上方</li>
+    <li>图像-&gt;[PAWN_nameFull]在[OBJECT_label], [circumstance_group]上沉着以对。</li>
     <!--EN: image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]在 [OBJECT_label]、[circumstance_group] 上大量打字</li>
+    <li>图片-&gt;[PAWN_nameFull]在[OBJECT_label], [circumstance_group]上大量输入</li>
     <!--EN: circumstance_phrase->concentrating-->
-    <li>circumstance_phrase-&gt;集中注意力</li>
+    <li>环境-&gt;集中</li>
     <!--EN: circumstance_phrase->[PAWN_possessive] body loose and relaxed-->
-    <li>circumstance_phrase-&gt;[PAWN_possessive]身体宽松</li>
+    <li>环境-&gt;让[PAWN_possessive]的身体放松放松</li>
     <!--EN: circumstance_phrase->leaning back in [PAWN_possessive] chair-->
-    <li>circumstance_phrase-&gt;靠在 [PAWN_possessive] 椅子上</li>
+    <li>环境-&gt;[PAWN_possessive]在椅子上向后靠</li>
     <!--EN: desc_sentence->A [Color] aurora shines in the background.-->
-    <li>desc_sentence-&gt;[Color]极光在背景中闪耀。</li>
+    <li>描述-&gt;一个[Color]的极光挂在天幕上。</li>
     <!--EN: desc_sentence->In the distance, a [Community] is visible.-->
-    <li>desc_sentence-&gt;在远处可以看到一个[Community]。</li>
+    <li>描述-&gt;在远处，可以看到一个[community]。</li>
     <!--EN: desc_sentence->In the distance, a [TerrainFeature] is visible.-->
-    <li>desc_sentence-&gt;在远处可以看到一个[TerrainFeature]。</li>
+    <li>描述-&gt;在远处，可以看到一个[TerrainFeature]。</li>
     <!--EN: desc_sentence->[PAWN_nameDef] focused on the screen.-->
-    <li>desc_sentence-&gt;[PAWN_nameDef] 聚焦在屏幕上。</li>
+    <li>描述句子-&gt;[兵名定义]聚焦在屏幕上。</li>
     <!--EN: desc_sentence->[PAWN_nameDef] towers above the scene.-->
-    <li>desc_sentence-&gt;[PAWN_nameDef] 位于场景上方。</li>
+    <li>描述-&gt;[PAWN_nameDef]耸立在场景中。</li>
   </Tale_UsedComputer.rulePack.rulesStrings>
   <!--EN: used punching bag-->
-  <Tale_UsedPunchingBag.label>用过的沙袋</Tale_UsedPunchingBag.label>
+  <Tale_UsedPunchingBag.label>使用沙袋</Tale_UsedPunchingBag.label>
   <Tale_UsedPunchingBag.rulePack.rulesStrings>
     <!--EN: tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label]-->
-    <li>tale_noun-&gt;[PAWN_nameDef]将愤怒发泄在[OBJECT_label]上</li>
+    <li>故事-&gt;[PAWN_nameDef]在[OBJECT_label]上发泄他的愤怒</li>
     <!--EN: tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]-->
-    <li>tale_noun-&gt;[PAWN_nameDef]愤怒地看着[OBJECT_label]</li>
+    <li>故事-&gt;[PAWN_nameDef]愤怒地看着[OBJECT_label]</li>
     <!--EN: tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]-->
-    <li>tale_noun-&gt;[PAWN_nameDef]在[OBJECT_label]享受[PAWN_objective]自己</li>
+    <li>故事-&gt;[PAWN_nameDef]在[OBJECT_label]上[PAWN_objective]放飞自我</li>
     <!--EN: image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull] 停在 [OBJECT_label]、[circumstance_group] 上方</li>
+    <li>图像-&gt;[PAWN_nameFull]在[OBJECT_label], [circumstance_group]上沉着以对。</li>
     <!--EN: image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]-->
-    <li>image-&gt;[PAWN_nameFull]猛击[OBJECT_label]、[circumstance_group]</li>
+    <li>图像-&gt;[PAWN_nameFull] 击打 [OBJECT_label], [circumstance_group]</li>
     <!--EN: circumstance_phrase->tense with energy-->
-    <li>circumstance_phrase-&gt;充满能量的紧张</li>
+    <li>环境-&gt;紧张的能量</li>
     <!--EN: circumstance_phrase->[PAWN_possessive] body loose and relaxed-->
-    <li>circumstance_phrase-&gt;[PAWN_possessive]身体宽松</li>
+    <li>环境-&gt;让[PAWN_possessive]的身体放松放松</li>
     <!--EN: circumstance_phrase->gently massaging [PAWN_possessive] wrists-->
-    <li>circumstance_phrase-&gt;轻轻按摩[PAWN_possessive]手腕</li>
+    <li>环境-&gt;轻轻按摩[PAWN_possessive]手腕</li>
     <!--EN: circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression-->
-    <li>circumstance_phrase-&gt;[angstyverb] 与 [AdjectiveAngsty] 表达式</li>
+    <li>环境-&gt;[angstyverb]带有[AdjectiveAngsty]的表现</li>
     <!--EN: circumstance_phrase->wrapping their hands in tape-->
-    <li>circumstance_phrase-&gt;用胶带缠住他们的手</li>
+    <li>环境-&gt;用胶带包住他们的手</li>
     <!--EN: circumstance_phrase->[angstyverb]-->
-    <li>circumstance_phrase-&gt;[angstyverb]</li>
+    <li>环境-&gt;[angstyverb]</li>
     <!--EN: desc_sentence->A [Color] aurora shines in the background.-->
-    <li>desc_sentence-&gt;[Color]极光在背景中闪耀。</li>
+    <li>描述-&gt;一个[Color]的极光挂在天幕上。</li>
     <!--EN: desc_sentence->In the distance, a [Community] is visible.-->
-    <li>desc_sentence-&gt;在远处可以看到一个[Community]。</li>
+    <li>描述-&gt;在远处，可以看到一个[community]。</li>
     <!--EN: desc_sentence->In the distance, a [TerrainFeature] is visible.-->
-    <li>desc_sentence-&gt;在远处可以看到一个[TerrainFeature]。</li>
+    <li>描述-&gt;在远处，可以看到一个[TerrainFeature]。</li>
     <!--EN: desc_sentence->[PAWN_nameDef]'s features are exaggerated.-->
-    <li>desc_sentence-&gt;[PAWN_nameDef]的特征被夸大了。</li>
+    <li>描述-&gt;[PAWN_nameDef]的特征被夸大了。</li>
     <!--EN: desc_sentence->[PAWN_nameDef] towers above the scene.-->
-    <li>desc_sentence-&gt;[PAWN_nameDef] 位于场景上方。</li>
+    <li>描述-&gt;[PAWN_nameDef]耸立在场景中。</li>
   </Tale_UsedPunchingBag.rulePack.rulesStrings>
 </LanguageData>

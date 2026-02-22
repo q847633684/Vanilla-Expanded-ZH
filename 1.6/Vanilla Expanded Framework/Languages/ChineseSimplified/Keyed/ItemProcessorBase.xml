@@ -1,135 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Bring Ingredients-->
-  <IP_BringIngredients>带上食材</IP_BringIngredients>
+  <IP_BringIngredients>添加原料</IP_BringIngredients>
   <!--EN: Bring ingredients to start the process-->
-  <IP_BringIngredientsDesc>带上原料开始这个过程</IP_BringIngredientsDesc>
+  <IP_BringIngredientsDesc>添加原料以开始制作</IP_BringIngredientsDesc>
   <!--EN: Cancel Bringing Ingredients-->
-  <IP_CancelIngredients>取消携带食材</IP_CancelIngredients>
+  <IP_CancelIngredients>取消添加原料</IP_CancelIngredients>
   <!--EN: Cancel Bringing Ingredients to this building-->
-  <IP_CancelIngredientsDesc>取消将食材带入该建筑物</IP_CancelIngredientsDesc>
+  <IP_CancelIngredientsDesc>取消向此建筑添加原料</IP_CancelIngredientsDesc>
   <!--EN: No items of that kind ({0}) found in this map-->
-  <IP_CantFindThing>在此地图中找不到此类项目 ({0})</IP_CantFindThing>
+  <IP_CantFindThing>当前地区没有这种物品（{0}）</IP_CantFindThing>
   <!--EN: Choose Ingredient-->
-  <IP_ChooseIngredient>选择成分</IP_ChooseIngredient>
+  <IP_ChooseIngredient>选择原料</IP_ChooseIngredient>
   <!--EN: Choose Fourth Ingredient-->
-  <IP_ChooseIngredientFourth>选择第四种成分</IP_ChooseIngredientFourth>
+  <IP_ChooseIngredientFourth>选择第三样原料</IP_ChooseIngredientFourth>
   <!--EN: Choose Second Ingredient-->
-  <IP_ChooseIngredientSecond>选择第二种成分</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientSecond>选择第二样原料</IP_ChooseIngredientSecond>
   <!--EN: Choose Third Ingredient-->
-  <IP_ChooseIngredientThird>选择第三种成分</IP_ChooseIngredientThird>
+  <IP_ChooseIngredientThird>选择第三样原料</IP_ChooseIngredientThird>
   <!--EN: Choose Output-->
-  <IP_ChooseOutput>选择输出</IP_ChooseOutput>
+  <IP_ChooseOutput>选择产出物</IP_ChooseOutput>
   <!--EN: Choose Auto Quality-->
-  <IP_ChooseQualityAuto>选择自动质量</IP_ChooseQualityAuto>
+  <IP_ChooseQualityAuto>选择目标品质</IP_ChooseQualityAuto>
   <!--EN: {0} is filled with {1}-->
-  <IP_FilledWith>{0} 填充为 {1}</IP_FilledWith>
+  <IP_FilledWith>{0}需要填入{1}。</IP_FilledWith>
   <!--EN: {0}'s 4th slot is filled with {1}-->
-  <IP_FilledWithFourth>{0} 的第 4 个插槽填充有 {1}</IP_FilledWithFourth>
+  <IP_FilledWithFourth>{0}的四号槽位需要填入{1}。</IP_FilledWithFourth>
   <!--EN: {0}'s 2nd slot is filled with {1}-->
-  <IP_FilledWithSecond>{0} 的第二个槽已填充 {1}</IP_FilledWithSecond>
+  <IP_FilledWithSecond>{0}的二号槽位需要填入{1}。</IP_FilledWithSecond>
   <!--EN: {0}'s 3rd slot is filled with {1}-->
-  <IP_FilledWithThird>{0} 的第 3 个插槽填充有 {1}</IP_FilledWithThird>
+  <IP_FilledWithThird>{0}的三号槽位需要填入{1}。</IP_FilledWithThird>
   <!--EN: A product has finished processing and is waiting for pickup-->
-  <IP_GenericProductFinished>产品已加工完毕，等待提货</IP_GenericProductFinished>
+  <IP_GenericProductFinished>成品已经完成，等待被收取。</IP_GenericProductFinished>
   <!--EN: One of the ingredients has been improperly defined to work with the item processor, contact the mod's author-->
-  <IP_IngredientImproperlyDefined>其中一种成分的定义不正确，无法与物品处理器一起使用，请联系模组作者</IP_IngredientImproperlyDefined>
+  <IP_IngredientImproperlyDefined>某一个原料的定义出现错误，无法使用该加工设备制作，请联系mod作者。</IP_IngredientImproperlyDefined>
   <!--EN: (filled at {0} of {1})-->
-  <IP_IngredientPercentage>（填写在 {1} 的 {0} 处）</IP_IngredientPercentage>
+  <IP_IngredientPercentage>已填入{0}/{1}</IP_IngredientPercentage>
   <!--EN: Insert-->
-  <IP_InsertFirstItemDesc>插入</IP_InsertFirstItemDesc>
+  <IP_InsertFirstItemDesc>加入</IP_InsertFirstItemDesc>
   <!--EN: Insert-->
-  <IP_InsertFourthItemDesc>插入</IP_InsertFourthItemDesc>
+  <IP_InsertFourthItemDesc>加入</IP_InsertFourthItemDesc>
   <!--EN: Insert-->
-  <IP_InsertSecondItemDesc>插入</IP_InsertSecondItemDesc>
+  <IP_InsertSecondItemDesc>加入</IP_InsertSecondItemDesc>
   <!--EN: Insert-->
-  <IP_InsertThirdItemDesc>插入</IP_InsertThirdItemDesc>
+  <IP_InsertThirdItemDesc>加入</IP_InsertThirdItemDesc>
   <!--EN: Insert {0}-->
-  <IP_InsertVariable>插入 {0}</IP_InsertVariable>
+  <IP_InsertVariable>加入{0}</IP_InsertVariable>
   <!--EN: Insert {0} in 2nd slot-->
-  <IP_InsertVariableSecond>将 {0} 插入第二个插槽</IP_InsertVariableSecond>
+  <IP_InsertVariableSecond>在二号槽位加入{0}</IP_InsertVariableSecond>
   <!--EN: Insert {0} in 3rd slot-->
-  <IP_InsertVariableThird>将 {0} 插入第三个插槽</IP_InsertVariableThird>
+  <IP_InsertVariableThird>在三号槽位加入{0}</IP_InsertVariableThird>
   <!--EN: {0} is empty-->
-  <IP_IsEmpty>{0} 为空</IP_IsEmpty>
+  <IP_IsEmpty>{0}是空的</IP_IsEmpty>
   <!--EN: The process in this machine is being interrupted due to inclement weather and will be spoiled soon-->
-  <IP_ItRains>由于恶劣天气，这台机器的加工过程正在中断，很快就会变质</IP_ItRains>
+  <IP_ItRains>由于暴露于雨中，该建筑已停止运行并且制品即将腐烂。</IP_ItRains>
   <!--EN: {0} needs to have an adequate light level to start working-->
-  <IP_LightDestroysWarning>{0} 需要有足够的光照水平才能开始工作</IP_LightDestroysWarning>
+  <IP_LightDestroysWarning>需要给{0}合适的光照才能开始运作。</IP_LightDestroysWarning>
   <!--EN: No combination found for these ingredients-->
-  <IP_NoCombination>未找到这些成分的组合</IP_NoCombination>
+  <IP_NoCombination>该组合没有对应产物</IP_NoCombination>
   <!--EN: {0} needs to be fueled to start working-->
-  <IP_NoFuelDestroysWarning>{0} 需要加油才能开始工作</IP_NoFuelDestroysWarning>
+  <IP_NoFuelDestroysWarning>需要给{0}添加燃料才能开始运作。</IP_NoFuelDestroysWarning>
   <!--EN: No ingredient found on map-->
-  <IP_NoIngredientFound>地图上没有找到成分</IP_NoIngredientFound>
+  <IP_NoIngredientFound>当前地区没有原料</IP_NoIngredientFound>
   <!--EN: The result is spoiling due to a power failure in the item processor-->
-  <IP_NoPowerDestroysInitialWarning>由于项目处理器断电，结果被破坏</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysInitialWarning>由于断电，制品即将腐烂。</IP_NoPowerDestroysInitialWarning>
   <!--EN: The result has spoiled due to a power failure in the item processor-->
-  <IP_NoPowerDestroysMessage>由于项目处理器断电，结果已损坏</IP_NoPowerDestroysMessage>
+  <IP_NoPowerDestroysMessage>由于断电，制品已经腐烂。</IP_NoPowerDestroysMessage>
   <!--EN: {0} needs to be powered to start working-->
-  <IP_NoPowerDestroysWarning>{0} 需要通电才能开始工作</IP_NoPowerDestroysWarning>
+  <IP_NoPowerDestroysWarning>需要给{0}接入电源才能开始运作。</IP_NoPowerDestroysWarning>
   <!--EN: No modded recipes found for this factory-->
-  <IP_NoRecipesHere>没有找到该工厂的修改配方</IP_NoRecipesHere>
+  <IP_NoRecipesHere>找不到此工厂的新配方</IP_NoRecipesHere>
   <!--EN: Output {0}-->
-  <IP_Output>输出 {0}</IP_Output>
+  <IP_Output>生产{0}</IP_Output>
   <!--EN: Processor will output {0}. It needs to be fed {1}-->
-  <IP_OutputDesc>处理器将输出{0}。需要喂它{1}</IP_OutputDesc>
+  <IP_OutputDesc>加工设备将生产{0}。这需要加入一定数量的{1}</IP_OutputDesc>
   <!--EN: Output {0} from {1}-->
-  <IP_OutputVariable>从 {1} 输出 {0}</IP_OutputVariable>
+  <IP_OutputVariable>用{1}来生产{0}</IP_OutputVariable>
   <!--EN: The process in this machine is being interrupted due to an inadequate level of light and will be spoiled soon-->
-  <IP_OutsideLightRange>由于光线不足，这台机器中的进程正在中断，很快就会损坏</IP_OutsideLightRange>
+  <IP_OutsideLightRange>由于光照不符合需求，该建筑已停止运行并且制品即将腐烂。</IP_OutsideLightRange>
   <!--EN: Waiting for output to clear. Output limit is {0}-->
-  <IP_OverThreshold>等待输出清除。输出限制为 {0}</IP_OverThreshold>
+  <IP_OverThreshold>正在等待产出清除。产出限制为{0}</IP_OverThreshold>
   <!--EN: {0} is processing {1}. {2} will be ready with {3} quality in {4}-->
-  <IP_ProcessingInProgress>{0} 正在处理 {1}。 {2} 将以 {3} 质量在 {4} 中准备就绪</IP_ProcessingInProgress>
+  <IP_ProcessingInProgress>{0}正在加工{1}。{2}会在{4}内以{3}品质完成</IP_ProcessingInProgress>
   <!--EN: {0} is processing {1}. {2} will be ready in {3}-->
-  <IP_ProcessingInProgressNoQuality>{0} 正在处理 {1}。 {2} 将在 {3} 内准备就绪</IP_ProcessingInProgressNoQuality>
+  <IP_ProcessingInProgressNoQuality>{0}正在加工{1}。{2}会在{3}内完成</IP_ProcessingInProgressNoQuality>
   <!--EN: {0} is paused:-->
-  <IP_ProcessorPaused>{0} 已暂停：</IP_ProcessorPaused>
+  <IP_ProcessorPaused>{0}已暂停：</IP_ProcessorPaused>
   <!--EN: {0} is working:-->
-  <IP_ProcessorWorking>{0} 正在运行：</IP_ProcessorWorking>
+  <IP_ProcessorWorking>{0}正在运作：</IP_ProcessorWorking>
   <!--EN: Waiting for pickup-->
-  <IP_ProductWaiting>等待取货</IP_ProductWaiting>
+  <IP_ProductWaiting>正在等待取出</IP_ProductWaiting>
   <!--EN: Auto Quality, product will be extracted at quality level: {0}-->
-  <IP_QualityAutoEstablished>自动质量，将按质量级别提取产品：{0}</IP_QualityAutoEstablished>
+  <IP_QualityAutoEstablished>已设置自动目标品质，成品会在达到该品质时被取出：{0}</IP_QualityAutoEstablished>
   <!--EN: Auto Quality: {0}-->
-  <IP_QualityAutoIs>自动质量：{0}</IP_QualityAutoIs>
+  <IP_QualityAutoIs>目标品质：{0}</IP_QualityAutoIs>
   <!--EN: Disable Auto Quality-->
-  <IP_QualityAutoNot>禁用自动质量</IP_QualityAutoNot>
+  <IP_QualityAutoNot>关闭自动目标品质</IP_QualityAutoNot>
   <!--EN: {0} needs to not be raining to start working-->
-  <IP_RainDestroysWarning>{0} 需要在不下雨的情况下才能开始工作</IP_RainDestroysWarning>
+  <IP_RainDestroysWarning>需要给{0}遮雨才能开始运作。</IP_RainDestroysWarning>
   <!--EN: Remove {0} ({1})-->
-  <IP_RemoveProduct>删除 {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProduct>移除{0}（{1}）</IP_RemoveProduct>
   <!--EN: Remove {0} from the {1}. The product will be ready at the present quality level ({2})-->
-  <IP_RemoveProductDesc>从 {1} 中删除 {0}。产品将按当前质量水平准备就绪 ({2})</IP_RemoveProductDesc>
+  <IP_RemoveProductDesc>从{1}移除{0}。该产品会以{2}品质完成</IP_RemoveProductDesc>
   <!--EN: Reset Machine-->
-  <IP_ResetFullAuto>重置机器</IP_ResetFullAuto>
+  <IP_ResetFullAuto>重置装置</IP_ResetFullAuto>
   <!--EN: Fully resets the machine and makes it stop. Warning, it will destroy the process and the input items-->
-  <IP_ResetFullAutoDesc>完全重置机器并使其停止。警告，它会破坏进程和输入项</IP_ResetFullAutoDesc>
+  <IP_ResetFullAutoDesc>完全重置此装置并使其停止运作。警告，此举将会摧毁里面的原料和产出物</IP_ResetFullAutoDesc>
   <!--EN: Reset Recipes-->
-  <IP_ResetSemiautomatic>重置食谱</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomatic>重置配方</IP_ResetSemiautomatic>
   <!--EN: This will reset the building after the current product is finished, so a new input ingredient can be chosen-->
-  <IP_ResetSemiautomaticDesc>这将在当前产品完成后重置建筑物，因此可以选择新的输入成分</IP_ResetSemiautomaticDesc>
+  <IP_ResetSemiautomaticDesc>在当前产品完成后会重置该建筑，以便选择一个新配方</IP_ResetSemiautomaticDesc>
   <!--EN: Set quality for product extraction. When the product reaches this quality, a colonist will automatically retrieve it and carry it to an stockpile if available. If not set, products will be extracted manually, or at Legendary quality.-->
-  <IP_SetAutoQuality>设置产品提取的质量。当产品达到此质量时，殖民者将自动检索它并将其运送到库存（如果有）。如果未设置，产品将被手动提取，或以传奇品质提取。</IP_SetAutoQuality>
+  <IP_SetAutoQuality>设置目标品质。当成品达到该品质时，殖民者会自动将其取出并放入储存区。如果未设定，则只能手动取出成品或是在其达到传奇级品质时自动取出。</IP_SetAutoQuality>
   <!--EN: The product in this machine has spoiled due to an inadequate level of light-->
-  <IP_SpoiledDueToLight>由于光线不足，机器中的产品已变质</IP_SpoiledDueToLight>
+  <IP_SpoiledDueToLight>由于光照不符合需求，制品已经腐烂。</IP_SpoiledDueToLight>
   <!--EN: The product in this machine has spoiled due to inclement weather-->
-  <IP_SpoiledDueToRain>本机中的产品因恶劣天气而变质</IP_SpoiledDueToRain>
+  <IP_SpoiledDueToRain>由于暴露于雨中，制品已经腐烂。</IP_SpoiledDueToRain>
   <!--EN: The product has spoiled due to an unsuitable temperature. Needs between {0} and {1} ºC-->
-  <IP_SpoiledDueToWrongTemp>由于温度不合适，产品已变质。需要在 {0} 和 {1} ℃ 之间</IP_SpoiledDueToWrongTemp>
+  <IP_SpoiledDueToWrongTemp>由于温度不符合需求，制品已经腐烂。</IP_SpoiledDueToWrongTemp>
   <!--EN: Current process needs a temperature between {0} and {1} ºC-->
-  <IP_TempRangeInThisMachine>当前过程需要的温度介于 {0} 和 {1} ℃ 之间</IP_TempRangeInThisMachine>
+  <IP_TempRangeInThisMachine>。该发酵桶需求{0}至{1}的温度</IP_TempRangeInThisMachine>
   <!--EN: {0} needs to have an adequate temperature ({1} - {2}) to start working-->
-  <IP_TemperatureDestroysWarning>{0} 需要有足够的温度 ({1} - {2}) 才能开始工作</IP_TemperatureDestroysWarning>
+  <IP_TemperatureDestroysWarning>需要给{0}{1}至{2}的温度环境才能开始运作。</IP_TemperatureDestroysWarning>
   <!--EN: Auto Ingredient Acquiring-->
-  <IP_ToggleAuto>自动获取原料</IP_ToggleAuto>
+  <IP_ToggleAuto>正在自动获取原料</IP_ToggleAuto>
   <!--EN: If set to active, this building will automatically grab ingredients from adjacent hoppers, and automatically start working again once the product is removed. If not, colonists will haul the ingredients to the building, and it will need to be activated manually once refilled-->
-  <IP_ToggleAutoDesc>如果设置为活动状态，该建筑物将自动从相邻料斗中抓取原料，并在产品被移除后自动重新开始工作。如果没有，殖民者会将原料拖到建筑物中，并且在重新填充后需要手动激活</IP_ToggleAutoDesc>
+  <IP_ToggleAutoDesc>如果开启，建筑会自动从最近的进料口获得原料，并在成品被取出后自动开始下一轮运作。如果关闭，殖民者会将原料搬运至建筑，并且之后需要手动开启运作。</IP_ToggleAutoDesc>
   <!--EN: Pause / Restart-->
-  <IP_TogglePause>暂停/重新启动</IP_TogglePause>
+  <IP_TogglePause>暂停/重启</IP_TogglePause>
   <!--EN: Pause / Restart this machine's processing-->
-  <IP_TogglePauseDesc>暂停/重新启动本机的处理</IP_TogglePauseDesc>
+  <IP_TogglePauseDesc>暂停/重启此加工设备的生产进程</IP_TogglePauseDesc>
   <!--EN: The process in this machine is being interrupted due to an unsuitable temperature and will be spoiled soon-->
-  <IP_WrongTemp>由于温度不合适，该机器中的加工过程正在中断，并且很快就会变质</IP_WrongTemp>
+  <IP_WrongTemp>由于温度不符合需求，该建筑已停止运行并且制品即将腐烂。</IP_WrongTemp>
 </LanguageData>

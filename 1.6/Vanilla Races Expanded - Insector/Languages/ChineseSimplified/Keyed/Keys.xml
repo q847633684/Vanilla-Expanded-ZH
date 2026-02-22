@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Individual is already pregnant-->
-  <VRE_AlreadyPregnant>个人已经怀孕</VRE_AlreadyPregnant>
+  <VRE_AlreadyPregnant>无法在已怀孕时使用。</VRE_AlreadyPregnant>
   <!--EN: Cannot save: {0}-->
   <VRE_CannotSave>无法保存：{0}</VRE_CannotSave>
   <!--EN: Can't be injected on ghouls-->
@@ -11,98 +11,92 @@
   <!--EN: Change to: {0}-->
   <VRE_ChangeTo>更改为：{0}</VRE_ChangeTo>
   <!--EN: Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable.-->
-  <VRE_ChangingGenelineExplanation>改变基因系的基因将导致属于该基因系的所有昆虫进入后足阶段。后足阶段将持续24小时，在此期间昆虫将无法使用。</VRE_ChangingGenelineExplanation>
+  <VRE_ChangingGenelineExplanation>对已有基因种系进行编辑后，所有属于此基因种系的异虫种都会立即进入化形茧阶段。化形茧阶段会持续24小时。</VRE_ChangingGenelineExplanation>
   <!--EN: A newborn, {0}, has hatched from a host, killing it in the process-->
-  <VRE_ChestburstBirth>一个新生儿 {0} 从宿主中孵化出来，并在此过程中杀死了宿主</VRE_ChestburstBirth>
+  <VRE_ChestburstBirth>破胸胎儿{0}健康出生了，而被植入者却在痛苦中死去。</VRE_ChestburstBirth>
   <!--EN: {0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process!-->
-  <VRE_ChestburstBirthHidden>{0}在不知情的情况下怀上了胸爆怀孕！一只新生昆虫，{1}，已从宿主体内孵化出来，并在此过程中杀死了宿主！</VRE_ChestburstBirthHidden>
+  <VRE_ChestburstBirthHidden>{0}不知何时被植入了破胸胎儿！\n\n破胸胎儿{1}健康出生了，而被植入者{0}却在痛苦中死去。</VRE_ChestburstBirthHidden>
   <!--EN: Chestburst birth!-->
-  <VRE_ChestburstBirthHiddenLabel>胸膛爆胎！</VRE_ChestburstBirthHiddenLabel>
+  <VRE_ChestburstBirthHiddenLabel>破胸胎儿出生！</VRE_ChestburstBirthHiddenLabel>
   <!--EN: Chestburst birth-->
-  <VRE_ChestburstBirthLabel>胸部爆裂分娩</VRE_ChestburstBirthLabel>
+  <VRE_ChestburstBirthLabel>破胸胎儿出生</VRE_ChestburstBirthLabel>
   <!--EN: Chestburst implantation needed-->
-  <VRE_ChestburstImplantationNeeded>需要胸腔植入</VRE_ChestburstImplantationNeeded>
+  <VRE_ChestburstImplantationNeeded>破胸胎儿待植入</VRE_ChestburstImplantationNeeded>
   <!--EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0}-->
-  <VRE_ChestburstImplantationNeededDesc>当带有胸爆怀孕基因的殖民者成为怀孕时，他们需要指定另一个愿意或不愿意的个体来植入胎儿。一旦胎儿成熟，它就会从受害者的胸腔中冲出，杀死宿主。如果他们在妊娠中期开始（6 天）之前不这样做，妊娠将被终止。这些殖民者需要植入胎儿：
-
-{0}</VRE_ChestburstImplantationNeededDesc>
+  <VRE_ChestburstImplantationNeededDesc>你的殖民者在拥有“破胸妊娠”基因的情况下怀孕，需要将胎儿植入其他生物体内。当胎儿发育完全后，便会从胸口处破体而出，被植入者将在痛苦中死去。如果胎儿长时间未被植入（6天），则此状态会自动终止。\n\n以下殖民者需要将胎儿植入其他生物体内：\n\n{0}</VRE_ChestburstImplantationNeededDesc>
   <!--EN: Chestburst pregnancy-->
-  <VRE_ChestburstPregnancyReady>胸爆怀孕</VRE_ChestburstPregnancyReady>
+  <VRE_ChestburstPregnancyReady>破胸胎儿</VRE_ChestburstPregnancyReady>
   <!--EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.-->
-  <VRE_ChestburstPregnancyReadyDesc>当带有胸爆怀孕基因的殖民者成为怀孕时，他们需要指定另一个愿意或不愿意的个体来植入胎儿。一旦胎儿成熟，它就会从受害者的胸腔中冲出，杀死宿主。如果他们在妊娠中期开始（6 天）之前不这样做，妊娠将被终止。</VRE_ChestburstPregnancyReadyDesc>
+  <VRE_ChestburstPregnancyReadyDesc>你的殖民者在拥有“破胸妊娠”基因的情况下怀孕，需要将胎儿植入其他生物体内。当胎儿发育完全后，便会从胸口处破体而出，被植入者将在痛苦中死去。如果胎儿长时间未被植入（6天），则此状态会自动终止。</VRE_ChestburstPregnancyReadyDesc>
   <!--EN: Create a new geneline-->
-  <VRE_CreateGeneline>创建一个新的基因系</VRE_CreateGeneline>
+  <VRE_CreateGeneline>定制新的基因种系</VRE_CreateGeneline>
   <!--EN: You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours.-->
-  <VRE_CreateGenelineExplanation>您可以编辑现有的基因系或创建全新的基因系。请记住，改变基因系将要求您的昆虫进入持续 24 小时的后足阶段。</VRE_CreateGenelineExplanation>
+  <VRE_CreateGenelineExplanation>你可以在这里编辑已有的基因种系，或定制新的基因种系。\n注意：更改基因种系后，你的异虫种会构造出包裹自身的化形茧以进行变态发育。化形茧阶段会持续24小时。</VRE_CreateGenelineExplanation>
   <!--EN: Degrades-->
-  <VRE_Degrades>降级</VRE_Degrades>
+  <VRE_Degrades>退化</VRE_Degrades>
   <!--EN: text.todo-->
-  <VRE_DegradesDesc>文本.todo</VRE_DegradesDesc>
+  <VRE_DegradesDesc>退化</VRE_DegradesDesc>
   <!--EN: You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.
 Insector colonists that will be affected:
 
 {0}-->
-  <VRE_DeleteGenelineConfirmation>你即将移除一些殖民者使用的基因系。移除它会导致这些昆虫立即进入后足阶段并转变为基线昆虫。
-受影响的昆虫殖民者：
-
-{0}</VRE_DeleteGenelineConfirmation>
+  <VRE_DeleteGenelineConfirmation>你的一些异虫种殖民者属于当前基因种系，将其删除会使他们立即进入化形茧阶段，最终变回最普通的异虫种。\n以下异虫种殖民者会受到影响：\n\n{0}</VRE_DeleteGenelineConfirmation>
   <!--EN: Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors.-->
-  <VRE_DeleteThisGeneline>删除这个基因。去除它将导致所有具有该基因系的昆虫立即进入后足阶段并转变为基线昆虫。</VRE_DeleteThisGeneline>
+  <VRE_DeleteThisGeneline>删除当前基因种系。如果你这么做，所有属于此基因种系的异虫种都会立即进入化形茧阶段，最终变回最普通的异虫种。</VRE_DeleteThisGeneline>
   <!--EN: Edit geneline-->
-  <VRE_EditGeneline>整体编辑</VRE_EditGeneline>
+  <VRE_EditGeneline>编辑基因种系</VRE_EditGeneline>
   <!--EN: Evolutions-->
-  <VRE_Evolutions>演变</VRE_Evolutions>
+  <VRE_Evolutions>进化</VRE_Evolutions>
   <!--EN: Evolutions-->
-  <VRE_EvolutionsDesc>演变</VRE_EvolutionsDesc>
+  <VRE_EvolutionsDesc>进化</VRE_EvolutionsDesc>
   <!--EN: Geneline {0}-->
-  <VRE_GenelineName>一般 {0}</VRE_GenelineName>
+  <VRE_GenelineName>基因种系 {0}</VRE_GenelineName>
   <!--EN: Geneline name cannot be empty.-->
-  <VRE_GenelineNameCannotBeEmpty>基因名称不能为空。</VRE_GenelineNameCannotBeEmpty>
+  <VRE_GenelineNameCannotBeEmpty>基因种系的名字不能为空。</VRE_GenelineNameCannotBeEmpty>
   <!--EN: Genelines-->
-  <VRE_Genelines>一般线路</VRE_Genelines>
+  <VRE_Genelines>基因种系</VRE_Genelines>
   <!--EN: text.todo-->
-  <VRE_GenelinesDesc>文本.todo</VRE_GenelinesDesc>
+  <VRE_GenelinesDesc>拥有“基因种系进化”基因的人可以按照自己的想法定制并形成具有独特进化/退化基因的不同种系。</VRE_GenelinesDesc>
   <!--EN: {0} has self-impregnated!-->
-  <VRE_GotPregnant>{0} 已自怀孕！</VRE_GotPregnant>
+  <VRE_GotPregnant>{0}已自我受孕！</VRE_GotPregnant>
   <!--EN: Consume {0} to unlock a new mutation / evolution-->
   <VRE_IngestPherocore>消耗{0}来解锁新的突变/进化</VRE_IngestPherocore>
   <!--EN: Inject chestburst fetus-->
-  <VRE_InjectChestburstFetus>注射胸爆胎儿</VRE_InjectChestburstFetus>
+  <VRE_InjectChestburstFetus>植入破胸胎儿</VRE_InjectChestburstFetus>
   <!--EN: Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host.-->
-  <VRE_InjectChestburstFetusDesc>将胎儿注射到受害者体内，胎儿会在成熟时从受害者的胸腔中冲出，杀死宿主。</VRE_InjectChestburstFetusDesc>
+  <VRE_InjectChestburstFetusDesc>将破胸胎儿植入其他生物体内。当胎儿发育完全后，便会从胸口处破体而出，被植入者将在痛苦中死去。</VRE_InjectChestburstFetusDesc>
   <!--EN: Manage genelines-->
-  <VRE_ManageGenelines>管理基因</VRE_ManageGenelines>
+  <VRE_ManageGenelines>管理基因种系</VRE_ManageGenelines>
   <!--EN: Change the currently selected geneline or create new genelines.-->
-  <VRE_ManageGenelinesDesc>更改当前选择的基因系或创建新的基因系。</VRE_ManageGenelinesDesc>
+  <VRE_ManageGenelinesDesc>编辑当前选择的基因种系或定制新的基因种系。</VRE_ManageGenelinesDesc>
   <!--EN: Cannot save geneline with multiple conflicting genes.-->
-  <VRE_MessageConflictingGenesPresent>无法保存具有多个冲突基因的基因系。</VRE_MessageConflictingGenesPresent>
+  <VRE_MessageConflictingGenesPresent>由于存在相互冲突的基因，无法保存此基因种系。</VRE_MessageConflictingGenesPresent>
   <!--EN: Cannot change genelines due to metapod sickness.-->
-  <VRE_MetapodSicknessCannotChangeGeneline>由于后足疾病，无法改变基因。</VRE_MetapodSicknessCannotChangeGeneline>
+  <VRE_MetapodSicknessCannotChangeGeneline>受化形茧后遗症的影响，无法更改基因种系。</VRE_MetapodSicknessCannotChangeGeneline>
   <!--EN: Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly.-->
-  <VRE_MetapodTimer>{PAWN_nameDef} 出现的时间： {1}
-将昆虫果冻插入后足中可显着加快该过程。</VRE_MetapodTimer>
+  <VRE_MetapodTimer>距{PAWN_nameDef}完成变态发育还剩：{1}\n为化形茧补充虫胶可以加速此过程。</VRE_MetapodTimer>
   <!--EN: Needs equal amount of evolutions and degrades.-->
-  <VRE_NeedEqualAmount>需要等量的进化和退化。</VRE_NeedEqualAmount>
+  <VRE_NeedEqualAmount>进化与退化基因的数量必须保持平衡。</VRE_NeedEqualAmount>
   <!--EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1-->
-  <VRE_NeedsHumanoidOrAnimal>需要注射到人形目标或体型大于 1 的 成人 动物上</VRE_NeedsHumanoidOrAnimal>
+  <VRE_NeedsHumanoidOrAnimal>只能对人类或体型大于1的成年动物植入。</VRE_NeedsHumanoidOrAnimal>
   <!--EN: No more genes can be unlocked with the {0}-->
   <VRE_NoUnlockableGenes>{0} 无法解锁更多基因</VRE_NoUnlockableGenes>
   <!--EN: Parthenogenesis can only be targeted on self-->
-  <VRE_OnlyOnSelf>单性生殖只能针对自身</VRE_OnlyOnSelf>
+  <VRE_OnlyOnSelf>孤雌生殖只能以自身为目标。</VRE_OnlyOnSelf>
   <!--EN: Only available for females-->
-  <VRE_PawnIsMale>仅适用于女性</VRE_PawnIsMale>
+  <VRE_PawnIsMale>只对女性有效。</VRE_PawnIsMale>
   <!--EN: {0} is too young!-->
-  <VRE_PawnIsTooYoung>{0}太年轻了！</VRE_PawnIsTooYoung>
+  <VRE_PawnIsTooYoung>{0}年龄太小了！</VRE_PawnIsTooYoung>
   <!--EN: Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene-->
   <VRE_PherocoreConsumed>消耗{0}已解锁所有基因进化基因携带者的{1}{2}</VRE_PherocoreConsumed>
   <!--EN: Save geneline-->
-  <VRE_SaveGeneline>保存跨</VRE_SaveGeneline>
+  <VRE_SaveGeneline>保存基因种系</VRE_SaveGeneline>
   <!--EN: Self-impregnate-->
-  <VRE_SelfImpregnate>自浸渍</VRE_SelfImpregnate>
+  <VRE_SelfImpregnate>自我受孕</VRE_SelfImpregnate>
   <!--EN: Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent.-->
-  <VRE_SelfImpregnateDesc>女性个体自我受精，创造出一个完美复制父母的胎儿。</VRE_SelfImpregnateDesc>
+  <VRE_SelfImpregnateDesc>立即进行自我受孕，创造出相当于自身“完美复制品”的胎儿。</VRE_SelfImpregnateDesc>
   <!--EN: Swarm synapse gene-->
   <VRE_SwarmSynapseOffset>群体突触基因</VRE_SwarmSynapseOffset>
   <!--EN: {0} is still suffering from implantation fatigue-->
-  <VRE_TempSterile>{0} is still suffering from implantation fatigue</VRE_TempSterile>
+  <VRE_TempSterile>{0}仍处于不育疲劳期状态。</VRE_TempSterile>
 </LanguageData>

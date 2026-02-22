@@ -1,0 +1,746 @@
+key,text,tag,file,type
+VCE_OpenedPresent,The opened present contained {0} inside!,VCE_OpenedPresent,Misc_Gameplay.xml,keyed
+VCE_FestiveFavor,Festive Favor: {0},VCE_FestiveFavor,Misc_Gameplay.xml,keyed
+VCE_DaysUntilPresents,Days until festive presents: {0},VCE_DaysUntilPresents,Misc_Gameplay.xml,keyed
+VCE_ChangeDecorationsDesc,Change the festive decorations of the object.,VCE_ChangeDecorationsDesc,Misc_Gameplay.xml,keyed
+VCE_ChangeDecorations,Change decorations,VCE_ChangeDecorations,Misc_Gameplay.xml,keyed
+VCE_FestiveFavor_Label,Festive Favor,VCE_FestiveFavor_Label,Misc_Gameplay.xml,keyed
+VCE_NotDecembary,Not Decembary,VCE_NotDecembary,Misc_Gameplay.xml,keyed
+VCE_GingerbreadInDecembary,Gingerbread object in Decembary: x2,VCE_GingerbreadInDecembary,Misc_Gameplay.xml,keyed
+VCE_ActivateSnowSpewer,Activate snow spewer,VCE_ActivateSnowSpewer,Misc_Gameplay.xml,keyed
+VCE_ActivateSnowSpewerDesc,"Initiate the snow spewing process, which will gradually lower the local temperature and generate snowfall.",VCE_ActivateSnowSpewerDesc,Misc_Gameplay.xml,keyed
+VCE_DeactivateSnowSpewer,Stop snow spewer,VCE_DeactivateSnowSpewer,Misc_Gameplay.xml,keyed
+VCE_DeactivateSnowSpewerDesc,Stop the snow spewing process.,VCE_DeactivateSnowSpewerDesc,Misc_Gameplay.xml,keyed
+VCE_AerodroneSelfDestructsIn,Aerodrone self-destructs in {0},VCE_AerodroneSelfDestructsIn,Misc_Gameplay.xml,keyed
+VCE_LetterLabelAerodroneIncoming,Aerodrone incoming,VCE_LetterLabelAerodroneIncoming,Misc_Gameplay.xml,keyed
+VCE_LetterTextAerodroneIncoming,An aerodrone is landing nearby.,VCE_LetterTextAerodroneIncoming,Misc_Gameplay.xml,keyed
+VCE_LetterTextRaidSpacedrone,A raid from {0} has arrived to destroy the {1} that was forced to land nearby.,VCE_LetterTextRaidSpacedrone,Misc_Gameplay.xml,keyed
+VCE_QuestPartRaidsDelay,Raids arriving in {0},VCE_QuestPartRaidsDelay,Misc_Gameplay.xml,keyed
+VCE_QuestPartRaidsDelayDesc,Raids will start arriving in {0}.\n\nThe raiders will target the aerodrone and attempt to destroy it.,VCE_QuestPartRaidsDelayDesc,Misc_Gameplay.xml,keyed
+VCE_SnowSpreadRadius,Snow spread radius: {0},VCE_SnowSpreadRadius,Misc_Gameplay.xml,keyed
+VCE_DonatedToys,"Since you’ve donated {0} toys to {1}, you have received {2} festive favor!",VCE_DonatedToys,Misc_Gameplay.xml,keyed
+VCE_Eggnog.label,eggnog,label,ThingDef/Alcohol_Eggnog.xml,def
+VCE_Eggnog.description,"A rich, creamy holiday drink made from milk, eggs, and sugar, often spiced with nutmeg. Eggnog is sweet and comforting, but its festive charm is enhanced when spiked with alcohol, leading to warmth—and potential overindulgence.",description,ThingDef/Alcohol_Eggnog.xml,def
+VCE_Eggnog.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Alcohol_Eggnog.xml,def
+VCE_Eggnog.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Alcohol_Eggnog.xml,def
+VCE_ColdSnap.label,festive cold,label,GameConditionDef/GameConditions_Misc.xml,def
+VCE_ColdSnap.description,A festive cold snap is freezing the region.,description,GameConditionDef/GameConditions_Misc.xml,def
+VCE_ColdSnap.endMessage,The festive cold is over.,endMessage,GameConditionDef/GameConditions_Misc.xml,def
+VCE_ColdSnap.letterText,"An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.",letterText,GameConditionDef/GameConditions_Misc.xml,def
+VCE_Toys.label,toys,label,OrderedTakeGroupDef/OrderedTakeGroupDefs.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.0,questName->[santaAdj] [aerodrone] redirect,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.1,questName->[aerodrone] [cargo] interception,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.2,questName->[santaAdj] [cargo] crash,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.3,santaAdj->festive,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.4,santaAdj->jolly,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.5,santaAdj->holiday,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.6,santaAdj->gift-laden,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.7,aerodrone->aerodrone,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.8,aerodrone->delivery drone,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.9,aerodrone->giftship,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.10,aerodrone->sleighdrone,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.11,cargo->cargo,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.12,cargo->presents,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.13,cargo->gifts,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questNameRules.rulesStrings.14,cargo->treasures,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.0,"questDescription->A festive aerodrone has been detected in orbit, carrying a shipment of presents. You've acquired the means to redirect it, causing it to crash at [map_definite].\n\nWhen it crashes, the aerodrone will eject numerous presents into the air, scattering them across the area. Quickly collect them before they are lost or destroyed. [raidsDescription]\n\nThe aerodrone's remains will self-destruct in [destroyDelayTicks_duration], leaving nothing behind.",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.1,"questDescription->A jolly aerodrone laden with presents has been detected in orbit. With the right codes, you can redirect it to crash at [map_definite].\n\nUpon impact, the drone will scatter its precious cargo of presents across the area. Gather them quickly before they are claimed by others or destroyed. [raidsDescription]\n\nBe aware that the aerodrone’s wreckage will self-destruct in [destroyDelayTicks_duration].",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.2,"questDescription->A festive delivery drone carrying a shipment of gifts has been located. You can use a special code to force it to crash at [map_definite].\n\nWhen it crashes, a burst of presents will rain down over the area, ripe for collection. Secure as many as you can before danger arrives. [raidsDescription]\n\nThe drone wreckage will obliterate itself in [destroyDelayTicks_duration].",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.3,"questDescription->You've intercepted a signal from a holiday aerodrone packed with presents. Redirect it to crash at [map_definite] and claim the bounty of scattered gifts it will eject upon impact. [raidsDescription]\n\nHurry, as the drone’s remains will self-destruct in [destroyDelayTicks_duration], leaving nothing behind.",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.4,"questDescription->An orbiting aerodrone brimming with festive presents has been detected. Using your codes, you can cause it to crash at [map_definite], releasing a cascade of gifts into the air. Collect them quickly and prepare for potential trouble. [raidsDescription]\n\nThe drone wreckage will destroy itself in [destroyDelayTicks_duration].",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.5,"raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. They’ll attempt to seize the presents, sending attackers approximately every [raidIntervalAvg_duration]. You’ll have a brief window to secure the area and defend your haul before they arrive.",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.6,raidsDescription(allowViolence==false)->,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.7,droneDetectionMethod(enemyFactionNeolithic==true)->spot the aerodrone during its descent,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.8,droneDetectionMethod(enemyFactionNeolithic==false)->detect the aerodrone's energy signature,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.9,droneDetectionMethod(enemyFactionNeolithic==true)->spot the festive aerodrone during its descent,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.10,droneDetectionMethod(enemyFactionNeolithic==false)->detect the festive aerodrone's unique energy signature,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.11,"raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. They'll attempt to seize the presents, sending attackers approximately every [raidIntervalAvg_duration]. Use the time before their arrival to fortify your defenses and secure the gifts.",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.12,raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] are sure to [droneDetectionMethod]. They’ll launch attacks roughly every [raidIntervalAvg_duration] in an attempt to claim the loot. Be ready to defend your spoils.,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.13,"raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. Convinced of the aerodrone’s value, they’ll attack approximately every [raidIntervalAvg_duration]. Prepare to protect the presents from their grasp.",li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_SantaAerodrone.questDescriptionRules.rulesStrings.14,raidsDescription(allowViolence==false)->,li,QuestScriptDef/Script_SantaAerodrone.xml,def
+VCE_MakeEggnog.label,make eggnog,label,RecipeDef/Recipes_Eggnog.xml,def
+VCE_MakeEggnog.description,"Make a rich and creamy beverage crafted from eggs, perfect for festive occasions or a sweet treat.",description,RecipeDef/Recipes_Eggnog.xml,def
+VCE_MakeEggnog.jobString,Making eggnog.,jobString,RecipeDef/Recipes_Eggnog.xml,def
+VCE_MakeEggnog.ingredients.0.filter.customSummary,eggs,customSummary,RecipeDef/Recipes_Eggnog.xml,def
+VCE_MakeHotCocoa.label,make hot cocoa,label,RecipeDef/Recipes_HotCocoa.xml,def
+VCE_MakeHotCocoa.description,Make a comforting and creamy beverage offering a rich chocolate flavor that warms both body and soul.,description,RecipeDef/Recipes_HotCocoa.xml,def
+VCE_MakeHotCocoa.jobString,Making hot cocoa.,jobString,RecipeDef/Recipes_HotCocoa.xml,def
+VCE_MakeMilkAndCookies.label,make milk and cookies,label,RecipeDef/Recipes_MilkAndCookies.xml,def
+VCE_MakeMilkAndCookies.description,Make a sweet and tasty dessert bound to make anyone happy.,description,RecipeDef/Recipes_MilkAndCookies.xml,def
+VCE_MakeMilkAndCookies.jobString,Making milk and cookies.,jobString,RecipeDef/Recipes_MilkAndCookies.xml,def
+VCE_MakeToy_Cloth.label,make a plushie toy,label,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Cloth.description,Make a small toy out of cloth.,description,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Cloth.jobString,Making toy out of cloth.,jobString,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Metal.label,make a metal toy,label,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Metal.description,Make a small toy out of steel.,description,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Metal.jobString,Making toy out of steel.,jobString,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Wooden.label,make a wooden toy,label,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Wooden.description,Make a small toy out of wood,description,RecipeDef/Recipes_Toys.xml,def
+VCE_MakeToy_Wooden.jobString,Making toy out of wood.,jobString,RecipeDef/Recipes_Toys.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.0,desc->[toy_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.1,toy_description_group->[woodtoy_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.2,toy_description_group->[woodtoy_clause] [toy_conjunction]. [woodtoy_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.3,toy_description_group->[woodtoy_clause] [toy_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.4,toy_description_group->[woodtoy_extra_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.5,toy_conjunction(p=6)->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.6,toy_conjunction->adding a touch of nostalgia,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.7,toy_conjunction->highlighting the craftsmanship,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.8,toy_conjunction->with a sense of simplicity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.9,toy_conjunction->giving it a rustic charm,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.10,toy_conjunction->revealing a story untold,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.11,toy_conjunction->hinting at the passage of time,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.12,toy_conjunction->while sparking the imagination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.13,toy_conjunction->with an air of timelessness,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.14,toy_conjunction->evoking a sense of wonder,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.15,woodtoy_clause->the surface of this toy is [surface_texture] and [surface_markings],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.16,"woodtoy_clause->its edges are [edge_quality], blending into [form_quality]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.17,"woodtoy_clause->the grain of the wood runs [grain_quality], giving this toy [visual_tone]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.18,woodtoy_clause->small [imperfections] in the wood make this toy feel [emotive_descriptor],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.19,"woodtoy_clause->the toy's balance feels [balance_descriptor], inviting [action_descriptor]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.20,"woodtoy_clause->[smell_descriptor] lingers on the wood, adding to its charm",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.21,woodtoy_clause->the design of this toy is both [design_quality] and [emotional_tone],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.22,woodtoy_extra_clause->subtle traces of [use_quality] mark its surface,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.23,woodtoy_extra_clause->the edges are smoothed by [time_effect],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.24,woodtoy_extra_clause->the shape hints at [vague_inspiration],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.25,woodtoy_extra_clause->a faint [color_descriptor] hue can be seen in the grain,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.26,woodtoy_extra_clause->the simplicity of the form carries a sense of [abstract_concept],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.27,woodtoy_extra_clause->the toy radiates [emotive_descriptor] energy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.28,woodtoy_extra_clause->the faint markings tell a story of [implied_history],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.29,surface_texture->smooth,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.30,surface_texture->rough,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.31,surface_texture->polished,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.32,surface_texture->slightly uneven,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.33,surface_markings->covered in faint scratches,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.34,surface_markings->etched with subtle lines,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.35,surface_markings->showing gentle wear,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.36,surface_markings->streaked with tiny imperfections,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.37,edge_quality->soft and rounded,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.38,edge_quality->slightly uneven,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.39,edge_quality->carefully defined,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.40,form_quality->organic and flowing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.41,form_quality->precise and angular,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.42,form_quality->simple yet elegant,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.43,grain_quality->straight and uniform,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.44,grain_quality->twisted and intricate,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.45,grain_quality->subtle and faint,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.46,grain_quality->bold and pronounced,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.47,visual_tone->a warm glow,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.48,visual_tone->a cool undertone,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.49,visual_tone->a sense of depth,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.50,visual_tone->a natural simplicity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.51,imperfections->knots,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.52,imperfections->cracks,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.53,imperfections->dents,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.54,emotive_descriptor->charming,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.55,emotive_descriptor->humble,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.56,emotive_descriptor->lived-in,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.57,emotive_descriptor->authentic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.58,balance_descriptor->perfectly even,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.59,balance_descriptor->slightly off-center,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.60,balance_descriptor->unexpectedly steady,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.61,action_descriptor->gentle play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.62,action_descriptor->curious exploration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.63,action_descriptor->careful handling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.64,smell_descriptor->a woody scent,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.65,smell_descriptor->an earthy scent,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.66,smell_descriptor->a slightly sweet smell,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.67,design_quality->minimalist,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.68,design_quality->intuitive,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.69,design_quality->balanced,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.70,emotional_tone->playful,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.71,emotional_tone->nostalgic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.72,emotional_tone->thoughtful,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.73,use_quality->gentle handling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.74,use_quality->frequent play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.75,use_quality->loving care,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.76,time_effect->time-worn hands,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.77,time_effect->years of enjoyment,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.78,time_effect->countless memories,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.79,vague_inspiration->childhood dreams,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.80,vague_inspiration->nature’s simplicity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.81,vague_inspiration->imagination’s reach,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.82,color_descriptor->golden,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.83,color_descriptor->honey-like,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.84,color_descriptor->reddish,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.85,color_descriptor->ash-gray,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.86,abstract_concept->joy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.87,abstract_concept->innocence,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.88,abstract_concept->wonder,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.89,abstract_concept->comfort,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.90,implied_history->generations past,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.91,implied_history->quiet evenings,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.92,implied_history->long-forgotten days,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.93,implied_history->playful adventures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.94,play_description_group->[woodtoy_play_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.95,play_description_group->[woodtoy_play_clause] [play_conjunction] [woodtoy_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.96,play_description_group->[woodtoy_play_clause] [play_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.97,play_description_group->[woodtoy_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.98,play_description_group->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.99,play_conjunction(p=6)->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.100,"play_conjunction->sparking a new idea,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.101,"play_conjunction->with endless possibilities,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.102,"play_conjunction->leading to more imaginative play,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.103,"play_conjunction->revealing hidden uses,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.104,"play_conjunction->with surprising simplicity,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.105,"play_conjunction->adding a sense of discovery,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.106,"play_conjunction->making every moment special,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.107,"play_conjunction->bringing joy in unexpected ways,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.108,"play_conjunction->delighting in small victories,",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.109,"woodtoy_play_clause->it can be spun on its [surface_feature], creating [spin_effect]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.110,woodtoy_play_clause->stacking its parts feels [stacking_descriptor] and [action_tone],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.111,woodtoy_play_clause->rolling it across the floor creates [rolling_effect],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.112,"woodtoy_play_clause->it invites [action_type], encouraging [play_style]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.113,"woodtoy_play_clause->it can be balanced [balance_location], showcasing [skill_descriptor]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.114,woodtoy_play_clause->the pieces interlock in a way that feels [connection_quality],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.115,woodtoy_play_clause->its moving parts allow for [movement_style],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.116,"woodtoy_play_clause->it’s perfect for [pretend_play], inspiring [imaginative_theme]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.117,woodtoy_play_clause->it makes a satisfying [sound_effect] when [sound_trigger],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.118,woodtoy_play_clause->its simple design encourages [creative_use],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.119,woodtoy_play_extra_clause->its flexibility allows for [unexpected_use],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.120,woodtoy_play_extra_clause->the toy works perfectly as [alternative_use],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.121,"woodtoy_play_extra_clause->it’s fun to [interactive_action] with it, especially [action_setting]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.122,woodtoy_play_extra_clause->the tactile sensation of [material_quality] adds to the play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.123,woodtoy_play_extra_clause->the way it responds to [play_interaction] is endlessly fascinating,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.124,"woodtoy_play_extra_clause->it invites [collaborative_play], strengthening bonds",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.125,woodtoy_play_extra_clause->every piece feels like it was made for [specific_action],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.126,"woodtoy_play_extra_clause->the toy rewards [skill_testing], creating a sense of accomplishment",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.127,surface_feature->smooth base,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.128,surface_feature->rounded bottom,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.129,surface_feature->flat side,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.130,surface_feature->curved edge,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.131,spin_effect->a mesmerizing whirl,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.132,spin_effect->an uneven wobble,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.133,spin_effect->a rhythmic dance,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.134,stacking_descriptor->steady,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.135,stacking_descriptor->challenging,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.136,stacking_descriptor->exciting,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.137,action_tone->calm,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.138,action_tone->energetic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.139,rolling_effect->a satisfying rattle,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.140,rolling_effect->a smooth glide,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.141,rolling_effect->a gentle thump,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.142,action_type->small movements,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.143,action_type->careful precision,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.144,action_type->quick motions,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.145,play_style->focused attention,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.146,play_style->spontaneous fun,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.147,play_style->group play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.148,balance_location->on one edge,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.149,balance_location->on its center point,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.150,balance_location->at a precarious angle,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.151,skill_descriptor->delicate control,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.152,skill_descriptor->playful experimentation,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.153,connection_quality->seamless,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.154,connection_quality->secure yet flexible,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.155,connection_quality->loose but creative,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.156,movement_style->gentle motion,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.157,movement_style->smooth rotation,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.158,movement_style->satisfying clicks,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.159,pretend_play->a miniature adventure,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.160,pretend_play->a playful competition,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.161,pretend_play->an imaginary journey,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.162,imaginative_theme->endless exploration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.163,imaginative_theme->wild storytelling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.164,sound_effect->clack,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.165,sound_effect->thud,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.166,sound_effect->tap,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.167,sound_trigger->tapped together,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.168,sound_trigger->rolled along,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.169,sound_trigger->snapped into place,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.170,creative_use->new ways of playing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.171,creative_use->endless improvisation,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.172,unexpected_use->a balancing act,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.173,unexpected_use->a tiny building block,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.174,unexpected_use->a rhythm instrument,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.175,alternative_use->a simple puzzle,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.176,alternative_use->a display piece,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.177,interactive_action->tap,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.178,interactive_action->roll,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.179,interactive_action->spin,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.180,interactive_action->stack,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.181,action_setting->on a tabletop,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.182,action_setting->on a smooth floor,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.183,action_setting->in the sandbox,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.184,material_quality->smooth wood,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.185,material_quality->textured grain,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.186,play_interaction->gentle nudges,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.187,play_interaction->forceful rolls,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.188,play_interaction->careful stacking,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.189,collaborative_play->shared creativity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.190,collaborative_play->friendly competition,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.191,specific_action->perfect balancing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.192,specific_action->intricate stacking,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.193,skill_testing->dexterity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.194,skill_testing->focus,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings.195,skill_testing->imagination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.0,desc->[toy_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.1,toy_description_group->[metaltoy_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.2,toy_description_group->[metaltoy_clause] [toy_conjunction]. [metaltoy_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.3,toy_description_group->[metaltoy_clause] [toy_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.4,toy_description_group->[metaltoy_extra_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.5,toy_conjunction(p=6)->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.6,toy_conjunction->reflecting a sense of nostalgia,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.7,toy_conjunction->gleaming with precision,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.8,toy_conjunction->with a sturdy craftsmanship,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.9,toy_conjunction->highlighting its timeless appeal,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.10,toy_conjunction->hinting at journeys untold,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.11,toy_conjunction->with a playful elegance,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.12,toy_conjunction->inviting exploration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.13,toy_conjunction->evoking a sense of wonder,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.14,metaltoy_clause->the surface of this toy is [metal_texture] and [metal_markings],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.15,"metaltoy_clause->its edges are [edge_quality], blending into [form_quality]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.16,"metaltoy_clause->the metal finish on this toy is [finish_quality], giving it [visual_tone]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.17,metaltoy_clause->tiny [imperfections] in the metal make this toy feel [emotive_descriptor],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.18,"metaltoy_clause->the toy's balance feels [balance_descriptor], encouraging [action_descriptor]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.19,"metaltoy_clause->[sound_effect] echoes when this toy moves, adding to its charm",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.20,metaltoy_clause->the design of this toy is both [design_quality] and [emotional_tone],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.21,metaltoy_extra_clause->subtle [use_quality] marks its surface,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.22,metaltoy_extra_clause->the edges are polished by [time_effect],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.23,metaltoy_extra_clause->the shape hints at [vague_inspiration],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.24,metaltoy_extra_clause->a faint [color_descriptor] sheen reflects light,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.25,metaltoy_extra_clause->its precision carries a sense of [abstract_concept],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.26,metaltoy_extra_clause->the toy radiates [emotive_descriptor] energy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.27,metaltoy_extra_clause->small dents tell a story of [implied_history],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.28,metal_texture->smooth and cold,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.29,metal_texture->slightly rough,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.30,metal_texture->polished to a shine,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.31,metal_texture->worn and matte,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.32,"metal_texture->smooth like glass, with faint ripples",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.33,metal_texture->ridged with delicate grooves,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.34,metal_texture->faintly pockmarked with imperfections,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.35,metal_texture->polished to a mirror-like shine,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.36,"metal_texture->etched with sharp, intricate patterns",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.37,metal_texture->adorned with uneven wear from countless hands,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.38,metal_texture->peppered with tiny spots of discoloration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.39,metal_texture->marred by subtle lines from years of motion,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.40,metal_markings->etched with fine details,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.41,metal_markings->streaked with scratches,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.42,metal_markings->scuffed from play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.43,metal_markings->showing signs of age,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.44,edge_quality->crisp and defined,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.45,edge_quality->slightly rounded,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.46,edge_quality->smooth and precise,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.47,edge_quality->sharp and finely tapered,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.48,edge_quality->rounded but precisely angled,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.49,edge_quality->softly curved and fluid,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.50,edge_quality->heavily reinforced with thick edges,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.51,edge_quality->sculpted into a dynamic and bold form,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.52,"edge_quality->geometrically perfect, with sharp intersections",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.53,"edge_quality->balanced and symmetrical, almost architectural",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.54,edge_quality->a hybrid of soft curves and hard lines,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.55,form_quality->sleek and streamlined,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.56,form_quality->geometric and angular,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.57,form_quality->compact and balanced,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.58,finish_quality->shiny and reflective,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.59,finish_quality->brushed and subtle,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.60,finish_quality->weathered and dull,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.61,finish_quality->pristine and flawless,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.62,"finish_quality->brilliantly polished, catching every glint of light",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.63,"finish_quality->muted and matte, giving it a mysterious allure",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.64,finish_quality->softly glowing with a subtle sheen,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.65,finish_quality->worn to a gentle luster over time,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.66,finish_quality->gleaming with a radiant metallic hue,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.67,finish_quality->frosted with a brushed finish,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.68,finish_quality->darkened with a smoky patina,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.69,finish_quality->vibrant with a polished brass warmth,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.70,visual_tone->a metallic gleam,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.71,visual_tone->a muted glow,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.72,visual_tone->a striking sheen,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.73,visual_tone->a subtle patina,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.74,imperfections->tiny nicks,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.75,imperfections->minute dents,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.76,imperfections->slight discolorations,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.77,imperfections->fine scratches,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.78,imperfections->tiny scratches that tell a story of play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.79,imperfections->minute dents suggesting a history of tumbles,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.80,"imperfections->faint abrasions along its surface, giving it character",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.81,imperfections->speckles of oxidation hinting at age,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.82,imperfections->a barely perceptible wobble in its form,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.83,"imperfections->slightly warped, as if softened by heat long ago",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.84,imperfections->soft edges from repeated handling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.85,imperfections->uneven coloring that adds depth and intrigue,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.86,emotive_descriptor->charming,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.87,emotive_descriptor->nostalgic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.88,emotive_descriptor->robust,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.89,emotive_descriptor->timeless,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.90,balance_descriptor->precisely weighted,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.91,balance_descriptor->slightly off-kilter,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.92,balance_descriptor->unexpectedly stable,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.93,action_descriptor->careful handling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.94,action_descriptor->playful rolling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.95,action_descriptor->curious examination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.96,sound_effect->a faint clink,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.97,sound_effect->a metallic ping,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.98,sound_effect->a soft rattle,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.99,design_quality->minimalist,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.100,design_quality->industrial,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.101,design_quality->intricate,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.102,emotional_tone->playful,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.103,emotional_tone->imaginative,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.104,emotional_tone->futuristic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.105,use_quality->gentle wear,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.106,use_quality->frequent play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.107,use_quality->careful preservation,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.108,time_effect->decades of enjoyment,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.109,time_effect->years of use,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.110,time_effect->countless adventures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.111,vague_inspiration->dreams of flight,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.112,vague_inspiration->mechanical precision,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.113,vague_inspiration->distant futures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.114,color_descriptor->silver,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.115,color_descriptor->golden,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.116,color_descriptor->bronze,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.117,color_descriptor->steel-gray,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.118,abstract_concept->imagination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.119,abstract_concept->exploration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.120,abstract_concept->ingenuity,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.121,abstract_concept->progress,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.122,implied_history->adventurous journeys,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.123,implied_history->quiet hours of play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.124,implied_history->forgotten dreams,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.125,implied_history->careful hands of a craftsman,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.126,play_description_group->[metaltoy_play_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.127,play_description_group->[metaltoy_play_clause] [play_conjunction] [metaltoy_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.128,play_description_group->[metaltoy_play_clause] [play_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.129,play_description_group->[metaltoy_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.130,play_description_group->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.131,"metaltoy_play_clause->it can be rolled along its [surface_feature], creating [motion_effect]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.132,metaltoy_play_clause->balancing it feels [balance_descriptor] and [action_tone],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.133,metaltoy_play_clause->the moving parts click together with [sound_effect],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.134,"metaltoy_play_clause->it invites [action_type], encouraging [play_style]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.135,metaltoy_play_clause->its compact design is ideal for [imaginative_theme],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.136,"metaltoy_play_clause->it makes [sound_effect] when turned, adding [play_quality]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.137,metaltoy_play_extra_clause->its durability allows for [unexpected_use],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.138,"metaltoy_play_extra_clause->the toy can withstand [action_setting], enhancing play",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.139,metaltoy_play_extra_clause->its precise construction feels [tactile_quality],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.140,metaltoy_play_extra_clause->the way it moves hints at [vague_inspiration],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.141,"metaltoy_play_extra_clause->it encourages [skill_testing], rewarding creativity",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings.142,metaltoy_play_extra_clause->the sound it makes during play is [sound_quality],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.0,desc->[plushie_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.1,plushie_description_group->[plushie_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.2,plushie_description_group->[plushie_clause] [toy_conjunction]. [plushie_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.3,plushie_description_group->[plushie_clause] [toy_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.4,plushie_description_group->[plushie_extra_clause]. [play_description_group],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.5,toy_conjunction(p=6)->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.6,toy_conjunction->bringing a sense of comfort,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.7,toy_conjunction->with an irresistible charm,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.8,toy_conjunction->inviting endless cuddles,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.9,toy_conjunction->with a softness that soothes,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.10,toy_conjunction->bringing back childhood memories,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.11,toy_conjunction->carrying a touch of whimsy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.12,toy_conjunction->with a playful warmth,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.13,toy_conjunction->sparkling a sense of imagination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.14,plushie_clause->the surface of the toy is [plush_texture] and [plush_markings],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.15,"plushie_clause->the seams of this toy are [seam_quality], holding together [stuffing_quality]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.16,"plushie_clause->the fabric of this toy feels [fabric_quality], giving it [visual_tone]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.17,plushie_clause->small [imperfections] add to its [emotive_descriptor] character,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.18,plushie_clause->this toy’s weighted just enough to feel [balance_descriptor],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.19,"plushie_clause->[scent_descriptor] lingers, enhancing its charm",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.20,plushie_clause->the design of this toy is both [design_quality] and [emotional_tone],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.21,plushie_extra_clause->subtle [use_quality] marks its fabric,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.22,plushie_extra_clause->the edges are slightly worn from [time_effect],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.23,plushie_extra_clause->the shape hints at [vague_inspiration],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.24,plushie_extra_clause->a faint [color_descriptor] hue softens its appearance,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.25,plushie_extra_clause->it radiates a sense of [abstract_concept],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.26,plushie_extra_clause->tiny stitches tell a story of [implied_history],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.27,plushie_extra_clause->the softness carries an energy of [emotive_descriptor],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.28,plush_texture->velvety soft,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.29,plush_texture->slightly worn,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.30,plush_texture->smooth and fluffy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.31,plush_texture->patchy and uneven,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.32,plush_markings->patterned with gentle stripes,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.33,plush_markings->dotted with playful spots,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.34,plush_markings->faded in places from hugs,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.35,plush_markings->bearing faint scuffs of play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.36,"plush_texture->silky smooth, with a gentle sheen",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.37,"plush_texture->delicately fuzzy, like a warm cloud",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.38,"plush_texture->patchy, with signs of love and care",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.39,plush_texture->soft as freshly spun cotton,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.40,plush_texture->lightly matted from countless hugs,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.41,plush_markings->speckled with faint patterns,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.42,plush_markings->marked by tiny frays along the edges,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.43,plush_markings->adorned with faded embroidery,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.44,"plush_markings->showing small, irregular spots of wear",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.45,plush_markings->decorated with whimsical stitching,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.46,seam_quality->neatly stitched,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.47,seam_quality->slightly frayed,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.48,seam_quality->reinforced for durability,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.49,seam_quality->delicately hand-sewn,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.50,stuffing_quality->light and airy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.51,stuffing_quality->firm but soft,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.52,stuffing_quality->slightly uneven,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.53,stuffing_quality->plush and dense,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.54,"seam_quality->stitched with playful, colorful thread",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.55,seam_quality->hidden neatly within the fabric,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.56,seam_quality->reinforced with overlapping layers,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.57,"seam_quality->loosely aligned, but sturdy",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.58,"stuffing_quality->light and bouncy, perfect for cuddling",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.59,stuffing_quality->plush and slightly squishy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.60,stuffing_quality->dense and firmly packed,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.61,stuffing_quality->soft with a slight spring to it,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.62,stuffing_quality->uneven but endearing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.63,fabric_quality->soft and comforting,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.64,fabric_quality->smooth with a gentle sheen,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.65,fabric_quality->delicate and inviting,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.66,fabric_quality->slightly coarse but endearing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.67,"visual_tone->a warm, pastel glow",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.68,visual_tone->a vibrant burst of color,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.69,"visual_tone->a muted, cozy hue",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.70,visual_tone->a cheerful pattern,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.71,fabric_quality->warm and fuzzy to the touch,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.72,fabric_quality->slightly coarse but cozy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.73,fabric_quality->smooth with playful ridges,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.74,"fabric_quality->delicate, with a gentle texture",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.75,visual_tone->a calming pastel glow,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.76,"visual_tone->a playful, vibrant palette",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.77,"visual_tone->a gentle, earthy tone",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.78,visual_tone->a mix of cheerful and soothing colors,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.79,"visual_tone->a patchwork of bright, contrasting hues",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.80,imperfections->tiny loose threads,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.81,imperfections->faded patches,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.82,imperfections->minor mismatched seams,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.83,imperfections->slightly uneven shape,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.84,emotive_descriptor->adorable,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.85,emotive_descriptor->huggable,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.86,emotive_descriptor->playful,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.87,emotive_descriptor->nostalgic,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.88,imperfections->loose threads trailing along the seams,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.89,imperfections->slightly flattened sections from frequent use,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.90,imperfections->tiny worn patches revealing the stuffing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.91,imperfections->mismatched stitching that adds personality,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.92,imperfections->crooked seam that gives it character,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.93,emotive_descriptor->heartwarming,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.94,emotive_descriptor->endearing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.95,emotive_descriptor->snuggly,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.96,emotive_descriptor->innocent,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.97,emotive_descriptor->delightful,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.98,scent_descriptor->lavender fragrance,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.99,scent_descriptor->cottony smell,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.100,scent_descriptor->whiff of fabric softener,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.101,"scent_descriptor->gentle, sweet aroma",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.102,balance_descriptor->perfectly comforting,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.103,balance_descriptor->softly weighted,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.104,balance_descriptor->light yet steady,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.105,balance_descriptor->delicately balanced,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.106,scent_descriptor->whiff of chamomile,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.107,scent_descriptor->trace of baby powder,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.108,scent_descriptor->of freshly cleaned linen,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.109,scent_descriptor->warm vanilla aroma,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.110,balance_descriptor->light enough to carry everywhere,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.111,balance_descriptor->weighted slightly in the center,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.112,balance_descriptor->perfectly balanced for cuddling,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.113,balance_descriptor->just heavy enough to stay in place,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.114,design_quality->simple and inviting,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.115,design_quality->charming and intricate,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.116,design_quality->whimsical and creative,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.117,design_quality->childlike and pure,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.118,use_quality->gentle wear from countless hugs,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.119,use_quality->faint marks from small adventures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.120,use_quality->signs of love and care,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.121,use_quality->subtle traces of long ownership,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.122,design_quality->crafted with intricate details,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.123,design_quality->designed to be simple yet appealing,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.124,"design_quality->playfully asymmetrical, adding charm",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.125,design_quality->sewn with thoughtful care,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.126,use_quality->softened by years of gentle hugs,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.127,use_quality->marked with faint traces of small adventures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.128,use_quality->faintly worn from countless playful squeezes,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.129,use_quality->showing signs of being a constant companion,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.130,time_effect->years of cherished play,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.131,time_effect->generations of love,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.132,time_effect->countless quiet moments,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.133,vague_inspiration->innocent dreams,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.134,vague_inspiration->playful imagination,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.135,vague_inspiration->comfort in the small things,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.136,color_descriptor->a rosy pink colour,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.137,color_descriptor->a soft cream colour,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.138,color_descriptor->a light pastel blue colour,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.139,color_descriptor->a gentle lavender colour,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.140,abstract_concept->comfort,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.141,abstract_concept->security,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.142,abstract_concept->playfulness,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.143,abstract_concept->love,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.144,time_effect->days spent as a comforting presence,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.145,time_effect->years of treasured companionship,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.146,time_effect->memories held in every thread,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.147,time_effect->endless nights of peaceful sleep,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.148,vague_inspiration->gentle care and safety,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.149,vague_inspiration->dreams of adventures in a magical world,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.150,vague_inspiration->imaginative tales told by small hands,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.151,color_descriptor->a warm golden beige,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.152,color_descriptor->a playful mint green,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.153,color_descriptor->a vibrant sunshine yellow,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.154,color_descriptor->a soft lilac tint,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.155,abstract_concept->companionship,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.156,abstract_concept->innocence,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.157,abstract_concept->joy,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.158,abstract_concept->warmth,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.159,implied_history->a child’s treasured friend,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.160,implied_history->endless bedtime stories,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.161,implied_history->small hands that clutched it tightly,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.162,implied_history->quiet naps in the afternoon,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.163,implied_history->a source of comfort on rainy days,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.164,implied_history->a quiet witness to countless bedtime stories,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.165,implied_history->a steadfast friend during lonely moments,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.166,implied_history->a constant companion on many adventures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.167,play_description_group->[plushie_play_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.168,play_description_group->[plushie_play_clause] [play_conjunction] [plushie_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.169,play_description_group->[plushie_play_clause] [play_conjunction].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.170,play_description_group->[plushie_play_extra_clause].,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.171,play_description_group->,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.172,"plushie_play_clause->it invites endless cuddling, feeling [tactile_quality]",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.173,plushie_play_clause->its soft weight is perfect for [pretend_play],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.174,plushie_play_clause->hugging it feels [hug_quality],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.175,plushie_play_clause->its floppy limbs inspire [imaginative_theme],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.176,plushie_play_clause->its shape is ideal for [interactive_action],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.177,plushie_play_clause->its fabric responds to touch with [fabric_reaction],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.178,plushie_play_clause->its floppy arms are perfect for dramatic gestures,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.179,plushie_play_clause->its soft weight makes it ideal for tea parties,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.180,"plushie_play_clause->squeezing it provides a delightful, squishy sensation",li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.181,plushie_play_clause->its form inspires wild tales and playful scenarios,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.182,plushie_play_clause->it’s perfectly sized for carrying everywhere,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.183,plushie_play_clause->its texture invites endless tactile exploration,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.184,plushie_play_extra_clause->its comforting presence encourages [collaborative_play],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.185,plushie_play_extra_clause->its softness rewards [skill_testing],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.186,plushie_play_extra_clause->it feels warm and welcoming when [play_interaction],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.187,plushie_play_extra_clause->its design sparks [creative_play],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.188,plushie_play_extra_clause->it fosters a sense of [playful_emotion],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.189,plushie_play_extra_clause->its stitching hints at [implied_story],li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.190,plushie_play_extra_clause->it shines during group storytelling sessions,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.191,plushie_play_extra_clause->it becomes a hero in pretend rescue missions,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.192,plushie_play_extra_clause->its presence inspires creative play with friends,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.193,plushie_play_extra_clause->its well-loved nature makes it a central figure in games,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.194,plushie_play_extra_clause->its softness helps calm and soothe during playtime,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings.195,plushie_play_extra_clause->its design suggests endless imaginative uses,li,RulePackDef/RulePacks_Toy_Descriptions.xml,def
+VCE_SantaSeasonal.label,Santa Seasonal,label,StorytellerDef/Storytellers.xml,def
+VCE_SantaSeasonal.description,"Santa knows that festive season is important. He will ensure that the story during the festive season is that of calm, joy and peace, and will start letting hell loose the further you are from the 10th of Decembrary. By doing good deeds, you will gain festive favor, which will be translated into rewards on the Christmas day.",description,StorytellerDef/Storytellers.xml,def
+VCE_FestivityBaby.label,festivity baby,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityBaby.description,"A torso-sized piece of material sculpted into an artistic form, depicting a festive baby in a crib. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityFather.label,festivity father,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityFather.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive father keeping a watchful eye. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityMother.label,festivity mother,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityMother.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive mother kneeling on the floor with a loving expression. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityDonkey.label,festivity donkey,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityDonkey.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive donkey kneeling with reverence. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityOx.label,festivity ox,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityOx.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive ox kneeling with reverence. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivitySheep.label,festivity sheep,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivitySheep.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive sheep kneeling with reverence. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityShepherd.label,festivity shepherd,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityShepherd.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive shepherd giving away his animals as a gift. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityHunter.label,festivity hunter,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityHunter.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive hunter submitting his hard work as tithe. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FestivityKing.label,festivity king,label,ThingDef/Buildings_Art.xml,def
+VCE_FestivityKing.description,"A person-sized piece of material sculpted into an artistic form, depicting a festive king bending his knee. Placing all pieces of the festivity scene next to each other is bound to greatly increase their beauty.",description,ThingDef/Buildings_Art.xml,def
+VCE_FairyLamps.label,fairy lamps,label,ThingDef/Buildings_FairyLamps.xml,def
+VCE_FairyLamps.description,"A wall-mounted string of lamps that light up a small area using electricity. It is much less powerful than a standing lamp, but can be mounted on walls.",description,ThingDef/Buildings_FairyLamps.xml,def
+VCE_FestiveJukebox.label,festive jukebox,label,ThingDef/Buildings_FestiveJukebox.xml,def
+VCE_FestiveJukebox.description,"A classic music-playing device equipped with colorful lights and a selection of timeless festive tracks. Even on the rimworlds, a jukebox can fill the room with lively tunes or jolly melodies to lift the spirits.",description,ThingDef/Buildings_FestiveJukebox.xml,def
+VCE_GrandFestiveTree.label,grand festive tree,label,ThingDef/Buildings_GrandFestiveTree.xml,def
+VCE_GrandFestiveTree.description,"A grand, carefully decorated tree with hundreds of ornaments, chains of lamps and tinsels. Lights up a large area. In Decembrary, grand festive trees contribute towards festive favor greatly, and depending on their quality, generate less or more festive favor every day. It takes a long time to construct a grand festive tree, but once built, decorations can be changed at will.",description,ThingDef/Buildings_GrandFestiveTree.xml,def
+VCE_FestivePresent.label,festive present,label,ThingDef/Buildings_Presents.xml,def
+VCE_FestivePresent.description,"A festive present. Depending on the quality, it may contain valuable items or resources, or complete garbage.",description,ThingDef/Buildings_Presents.xml,def
+VCE_FestivePresentProjectile.label,festive present,label,ThingDef/Buildings_Presents.xml,def
+VCE_SantaAerodrone_Crashed.label,crashed present-shipper,label,ThingDef/Buildings_SantaAerodrone.xml,def
+VCE_SantaAerodrone_Crashed.description,"A crashed variant of an aerodrone that ships presents across the planet. All the presents have been destroyed upon crashlanding, but it might be possible to obtain some festive crackers upon deconstructing this wreck. This wreck seems to emit some festive music, and due to some psychic influence, spreads snow around itself.",description,ThingDef/Buildings_SantaAerodrone.xml,def
+VCE_Turret_Snowthrower.label,snowthrower,label,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Turret_Snowthrower.description,"A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Bullet_Snowthrower.label,snowball,label,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_GunTurret_Snowthrower.label,snowthrower,label,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_GunTurret_Snowthrower.description,"A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.",description,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Turret_Snowcannon.label,Snowcannon,label,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Turret_Snowcannon.description,"A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged.",description,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Gun_SnowcannonTurret.label,snowcannon,label,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_Gun_SnowcannonTurret.description,"A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged.",description,ThingDef/Buildings_Security_Turrets.xml,def
+VCE_SnowSculpture.label,snow sculpture,label,ThingDef/Buildings_SnowSculpture.xml,def
+VCE_SnowSculpture.description,"A person-sized sculpture out of snow, representing an artistic form of a human being. Whilst it will melt in the summer, it will continuously provide festive favor as long as it’s kept ‘alive’.",description,ThingDef/Buildings_SnowSculpture.xml,def
+VCE_SnowSpewer.label,snow spewer,label,ThingDef/Buildings_SnowSpewer.xml,def
+VCE_SnowSpewer.description,"An advanced climatic manipulator designed for environmental transformation. By extracting atmospheric moisture and seeding it with ultra-cold nano-crystals, the snow spewer blankets entire regions with continuous snowfall, turning any landscape into a frozen wonderland.",description,ThingDef/Buildings_SnowSpewer.xml,def
+VCE_StandingFestiveTree.label,standing festive tree,label,ThingDef/Buildings_StandingFestiveTree.xml,def
+VCE_StandingFestiveTree.description,"A small, decorative tree with a number of festive lights that light up an area. People need light to move and work at full speed.",description,ThingDef/Buildings_StandingFestiveTree.xml,def
+VCE_MilkAndCookies.label,milk and cookies,label,ThingDef/Items_Food.xml,def
+VCE_MilkAndCookies.description,"Sweet and tasty and bound to make anyone happy, this dessert has a tendency to disappear on the morning of December 10th. Fear not, however, as when it disappears, it increases festive favor greatly.",description,ThingDef/Items_Food.xml,def
+VCE_FestiveCracker.label,festive cracker,label,ThingDef/Items_Luxury.xml,def
+VCE_FestiveCracker.description,"A small package of plastic waste and candy. When pulled apart, sprays confetti, bringing festive joy to everyone.",description,ThingDef/Items_Luxury.xml,def
+VCE_HotCocoa.label,hot cocoa,label,ThingDef/Items_Luxury.xml,def
+VCE_HotCocoa.description,"A comforting and creamy beverage offering a rich chocolate flavor that warms both body and soul. Perfect for cold days or as a delightful treat, it’s a simple yet indulgent classic.",description,ThingDef/Items_Luxury.xml,def
+VCE_Gingerbread.label,gingerbread,label,ThingDef/Items_RawPlant.xml,def
+VCE_Gingerbread.description,"Sweet and spicy gingerbread. Can be consumed raw or added as an ingredient in meals, but can also be used to construct sturdy objects with high beauty value.",description,ThingDef/Items_RawPlant.xml,def
+VCE_Snow.label,snow,label,ThingDef/Items_Stuff.xml,def
+VCE_Snow.description,Compressed frozen water crystals that can be shaped into sturdy structures that will melt and disappear in heat.,description,ThingDef/Items_Stuff.xml,def
+VCE_Toy_Cloth.label,plushie toy,label,ThingDef/Items_Toys.xml,def
+VCE_Toy_Cloth.description,"A small plushie toy. When carried by children, helps them create long lasting memories. The impact that such a toy can have depends on the quality of its craftsmanship. It is also widely known that donating toys to those in need is a very festive thing to do.",description,ThingDef/Items_Toys.xml,def
+VCE_Toy_Metal.label,metal toy,label,ThingDef/Items_Toys.xml,def
+VCE_Toy_Metal.description,"A small metal toy. When carried by children, helps them create long lasting memories. The impact that such a toy can have depends on the quality of its craftsmanship. It is also widely known that donating toys to those in need is a very festive thing to do.",description,ThingDef/Items_Toys.xml,def
+VCE_Toy_Wooden.label,wooden toy,label,ThingDef/Items_Toys.xml,def
+VCE_Toy_Wooden.description,"A small wooden toy. When carried by children, helps them create long lasting memories. The impact that such a toy can have depends on the quality of its craftsmanship. It is also widely known that donating toys to those in need is a very festive thing to do.",description,ThingDef/Items_Toys.xml,def
+VCE_Apparel_WarmHat.label,warm hat,label,ThingDef/Apparel_Headgear.xml,def
+VCE_Apparel_WarmHat.description,"A warm, fluffy, thick cap. Ideal for keeping warm in winter.",description,ThingDef/Apparel_Headgear.xml,def
+VCE_Apparel_WarmJacket.label,warm jacket,label,ThingDef/Apparel_Various.xml,def
+VCE_Apparel_WarmJacket.description,"A cozy, thick and fluffy jacket for staying warm even in the coldest of temperatures.",description,ThingDef/Apparel_Various.xml,def
+VCE_SantaAerodrone_Crashing.label,present-shipper,label,ThingDef/Ethereal_Skyfallers.xml,def
+VCE_SantaAerodrone_Crashing.description,A variant of an aerodrone that ships presents across the planet.,description,ThingDef/Ethereal_Skyfallers.xml,def
+VCE_Filth_Water.label,water puddle,label,ThingDef/Filth_Various.xml,def
+VCE_FestiveRug_Medium.label,festive rug (medium),label,ThingDef/FloorCoverings.xml,def
+VCE_FestiveRug_Medium.description,"A festive rug with a wintery pattern, for decorating a floor.",description,ThingDef/FloorCoverings.xml,def
+VCE_FestiveRug_Broad.label,festive rug (broad),label,ThingDef/FloorCoverings.xml,def
+VCE_FestiveRug_Broad.description,"A festive rug with a wintery pattern, for decorating a floor.",description,ThingDef/FloorCoverings.xml,def
+VCE_GingerRoot.label,ginger root,label,ThingDef/Plants_Farm.xml,def
+VCE_GingerRoot.description,"A spicy-sweet root with a warm, festive aroma. Ginger root thrives only in the chill of Decembrary and is the key ingredient for creating delicious gingerbread treats.",description,ThingDef/Plants_Farm.xml,def
+VCE_Plant_TreeSpruce.label,spruce tree,label,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Plant_TreeSpruce.description,"A tall conifer with dark green needles and densely packed branches. Its slender, conical shape is ideal for cold, snowy climates.",description,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Plant_TreeFir.label,fir tree,label,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Plant_TreeFir.description,"A majestic evergreen with soft, flat needles and smooth bark. Its symmetrical silhouette is often admired in alpine forests.",description,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Plant_TreeJuniper.label,juniper tree,label,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Plant_TreeJuniper.description,"A hardy evergreen shrub or small tree with spiky needles and aromatic berries. It thrives in rocky, arid landscapes.",description,ThingDef/Plants_Wild_Trees.xml,def
+VCE_Megareindeer.label,megareindeer,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.description,"A colossal, herd-dwelling herbivore adapted to the harshest cold environments. The megareindeer boasts enormous, intricately branched antlers used for both display and defense. Originally engineered for arctic survival, it serves as a robust pack animal, capable of carrying heavy loads across frozen landscapes. Its thick, insulated fur is prized for crafting warm clothing. Generally docile, the megareindeer will fiercely maul enemies with its massive antlers if threatened.",description,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.tools.0.label,left hoof,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.tools.1.label,right hoof,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.tools.2.label,left hoof,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.tools.3.label,right hoof,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.tools.5.label,head,label,ThingDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.label,megareindeer,label,PawnKindDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.lifeStages.0.label,megareindeer calf,label,PawnKindDef/Races_Animal_Megareindeer.xml,def
+VCE_Megareindeer.lifeStages.0.labelPlural,megareindeer calves,labelPlural,PawnKindDef/Races_Animal_Megareindeer.xml,def
+VCE_ConsumedEggnog.stages.0.label,consumed eggnog,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedEggnog.stages.0.description,I can feel the festive spirit. Eggnog tastes so good.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedFestiveCracker.stages.0.label,consumed festive cracker,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedFestiveCracker.stages.0.description,It felt so great to crack open the festive cracker.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedMilkAndCookies.stages.0.label,milk and cookies!,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedMilkAndCookies.stages.0.description,These cookies and milk are divine!,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_Thought_FestiveJukebox.stages.0.label,jolly songs,label,ThoughtDef/Thoughts_Misc.xml,def
+VCE_Thought_FestiveJukebox.stages.0.description,I’m listening to some festive hits!,description,ThoughtDef/Thoughts_Misc.xml,def
+VCE_Thought_Toy_Children.stages.0.label,awful toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.0.description,"It’s kinda busted, but I can still play with it!",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.1.label,poor toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.1.description,"It’s not the best, but I can still make up fun stuff with it!",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.2.label,normal toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.2.description,This toy is pretty cool! I like playing with it a lot!,description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.3.label,good toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.3.description,This toy is awesome! It’s really fun to play with!,description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.4.label,excellent toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.4.description,This is the coolest toy ever! I love it so much!,description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.5.label,masterwork toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.5.description,This toy is the best in the whole world! I never want to stop playing with it!,description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.6.label,legendary toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Children.stages.6.description,Whoa! This toy is like magic—it’s so amazing!,description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.0.label,awful toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.0.description,"Ugh, this thing is trash. Why even bother?",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.1.label,poor toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.1.description,"Yeah, okay, this toy kinda sucks, but whatever.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.2.label,normal toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.2.description,"It’s… fine, I guess. Not terrible, not great.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.3.label,good toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.3.description,"Huh, this is actually kinda nice. Better than I expected.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.4.label,excellent toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.4.description,"Hey, this is a pretty cool toy. I actually like it.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.5.label,masterwork toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.5.description,"Wow, this toy’s legit amazing. Makes me feel like a kid again.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.6.label,legendary toy,label,ThoughtDef/Thoughts_Toys.xml,def
+VCE_Thought_Toy_Teenager.stages.6.description,"Okay, this is next level. Like, it’s so good I can’t even pretend not to love it.",description,ThoughtDef/Thoughts_Toys.xml,def
+VCE_FestiveSnow.stages.0.label,festive snow,label,ThoughtDef/Thoughts_Weather.xml,def
+VCE_FestiveSnow.stages.0.description,This festive snow sure lifts my spirits.,description,ThoughtDef/Thoughts_Weather.xml,def
+VCE_SantaAerodroneTransportShipDef.label,crashed present-shipper,label,TransportShipDef/TransportShipDefs.xml,def
+VCE_FestiveSnow.label,festive snow,label,WeatherDef/Weathers.xml,def
+VCE_FestiveSnow.description,"Festive snow lifts the spirits of everyone around. Like regular snow, it reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",description,WeatherDef/Weathers.xml,def

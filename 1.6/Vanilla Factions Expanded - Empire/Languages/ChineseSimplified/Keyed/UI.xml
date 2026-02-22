@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Change character-->
-  <VFEE.ChangeCharacter>改变性格</VFEE.ChangeCharacter>
+  <VFEE.ChangeCharacter>更改字符</VFEE.ChangeCharacter>
   <!--EN: {0} {1} created every day.-->
-  <VFEE.Created>{0} {1} 每天创建。</VFEE.Created>
+  <VFEE.Created>每天创建 {0} {1}。</VFEE.Created>
   <!--EN: {0} {1} created every {2} days.-->
-  <VFEE.CreatedSpecial>{0} {1} 每 {2} 天创建一次。</VFEE.CreatedSpecial>
+  <VFEE.CreatedSpecial>每 {2} 天创建一次 {0} {1}。</VFEE.CreatedSpecial>
   <!--EN: Honor: {0}-->
   <VFEE.CurrentHonor>荣誉：{0}</VFEE.CurrentHonor>
   <!--EN: Current title: {0}-->
   <VFEE.CurrentTitle>当前标题：{0}</VFEE.CurrentTitle>
   <!--EN: Deliver-->
-  <VFEE.Deliver>递送</VFEE.Deliver>
+  <VFEE.Deliver>发货</VFEE.Deliver>
   <!--EN: Every {0} days-->
   <VFEE.Deliver.DaysSpecific>每 {0} 天</VFEE.Deliver.DaysSpecific>
   <!--EN: Every 15 days-->
-  <VFEE.Deliver.EveryQuadrum>每15天一次</VFEE.Deliver.EveryQuadrum>
+  <VFEE.Deliver.EveryQuadrum>每 15 天</VFEE.Deliver.EveryQuadrum>
   <!--EN: Every 7 days-->
-  <VFEE.Deliver.EveryWeek>每7天一次</VFEE.Deliver.EveryWeek>
+  <VFEE.Deliver.EveryWeek>每 7 天</VFEE.Deliver.EveryWeek>
   <!--EN: Once a year-->
   <VFEE.Deliver.EveryYear>每年一次</VFEE.Deliver.EveryYear>
   <!--EN: Never (pause)-->
-  <VFEE.Deliver.Never>从来没有（停顿）</VFEE.Deliver.Never>
+  <VFEE.Deliver.Never>从不（暂停）</VFEE.Deliver.Never>
   <!--EN: Developer mode-->
   <VFEE.DevMode>开发者模式</VFEE.DevMode>
   <!--EN: {FACTION} cannot be disabled as it's required by Vanilla Factions Expanded - Deserters.-->
@@ -33,21 +33,19 @@
   <!--EN: Bestow Honor-->
   <VFEE.Honor.Bestow>授予荣誉</VFEE.Honor.Bestow>
   <!--EN: Bestow pending honors for this noble. Will give the following honors:\n{0}-->
-  <VFEE.Honor.Bestow.Desc>授予这位贵族待定的荣誉。将授予以下荣誉：
-{0}</VFEE.Honor.Bestow.Desc>
+  <VFEE.Honor.Bestow.Desc>授予这位贵族待定的荣誉。将授予以下荣誉：\n{0}</VFEE.Honor.Bestow.Desc>
   <!--EN: {0} has been bestowed with their pending honors. They have gained:\n{0}-->
-  <VFEE.Honor.Bestow.Success>{0} 已被授予悬而未决的荣誉。他们获得了：
-{0}</VFEE.Honor.Bestow.Success>
+  <VFEE.Honor.Bestow.Success>{0} 已获得待授予的荣誉。他们获得了：\n{0}</VFEE.Honor.Bestow.Success>
   <!--EN: Bestow Honors-->
   <VFEE.Honor.BestowPlural>授予荣誉</VFEE.Honor.BestowPlural>
   <!--EN: Must have pending honors to bestow.-->
   <VFEE.Honor.NoHonors>必须有待授予的荣誉。</VFEE.Honor.NoHonors>
   <!--EN: This must be bestowed in a ceremony before it will become active.-->
-  <VFEE.Honor.Pending>这必须在仪式上授予，然后才能生效。</VFEE.Honor.Pending>
+  <VFEE.Honor.Pending>必须在仪式中授予此荣誉才能生效。</VFEE.Honor.Pending>
   <!--EN: Honors-->
-  <VFEE.Honors>荣誉资质</VFEE.Honors>
+  <VFEE.Honors>荣誉</VFEE.Honors>
   <!--EN: These honors are active on your noble. Drag them to the right to remove them from this character.-->
-  <VFEE.Honors.Active>这些荣誉对你的贵族来说是活跃的。将它们拖到右侧以将其从该角色中删除。</VFEE.Honors.Active>
+  <VFEE.Honors.Active>这些荣誉对您的贵族有效。将它们拖到右侧以将其从该角色中删除。</VFEE.Honors.Active>
   <!--EN: These honors are available to be equipped on your nobles. Drag them to the left to activate them on the chosen noble.-->
   <VFEE.Honors.Available>这些荣誉可以装备在你的贵族身上。将它们拖到左侧以在所选贵族身上激活它们。</VFEE.Honors.Available>
   <!--EN: Remove all honors-->
@@ -57,46 +55,45 @@
   <!--EN: Honors of {0}, {1}-->
   <VFEE.HonorsOf>{0}、{1} 的荣誉</VFEE.HonorsOf>
   <!--EN: {0} in stockpile: {1}-->
-  <VFEE.InStockpile>库存中的 {0}：{1}</VFEE.InStockpile>
+  <VFEE.InStockpile>库存中有 {0}：{1}</VFEE.InStockpile>
   <!--EN: Invite as visitor-->
-  <VFEE.Invite>邀请作为访客</VFEE.Invite>
+  <VFEE.Invite>邀请访客</VFEE.Invite>
   <!--EN: Invite as {0} (Cost: {1} honor)-->
-  <VFEE.InviteAs>作为 {0} 邀请（费用：{1} 荣誉）</VFEE.InviteAs>
+  <VFEE.InviteAs>以 {0} 身份邀请（费用：{1} 荣誉）</VFEE.InviteAs>
   <!--EN: Must be lord of {0}-->
-  <VFEE.MustBeLordOf>必须是{0}的领主</VFEE.MustBeLordOf>
+  <VFEE.MustBeLordOf>必须是 {0} 的领主</VFEE.MustBeLordOf>
   <!--EN: Must have a parent-->
-  <VFEE.MustHaveParent>必须有父母</VFEE.MustHaveParent>
+  <VFEE.MustHaveParent>必须有父级</VFEE.MustHaveParent>
   <!--EN: Must wield {0}-->
   <VFEE.MustWield>必须使用 {0}</VFEE.MustWield>
   <!--EN: Can't vassalize: Too far away-->
   <VFEE.NoVassalize>无法附庸：太远</VFEE.NoVassalize>
   <!--EN: {0} of the {1}-->
-  <VFEE.OfThe>{1} 的 {0}</VFEE.OfThe>
+  <VFEE.OfThe>{0}，共 {1}</VFEE.OfThe>
   <!--EN: Unused permit points: {0}-->
   <VFEE.PermitPoints>未使用的许可点：{0}</VFEE.PermitPoints>
   <!--EN: Release all vassals-->
   <VFEE.ReleaseAllVassals>释放所有封臣</VFEE.ReleaseAllVassals>
   <!--EN: Releasing vassals will causes resources stored to be lost. Are you sure?-->
-  <VFEE.ReleaseAllVassals.Confirm>释放封臣会导致储存的资源丢失。你确定吗？</VFEE.ReleaseAllVassals.Confirm>
+  <VFEE.ReleaseAllVassals.Confirm>释放附庸将导致存储的资源丢失。您确定吗？</VFEE.ReleaseAllVassals.Confirm>
   <!--EN: dance space for all instruments-->
   <VFEE.RoomRequirementInstrumentSpace>所有乐器的舞蹈空间</VFEE.RoomRequirementInstrumentSpace>
   <!--EN: See also:-->
-  <VFEE.SeeAlso>参见：</VFEE.SeeAlso>
+  <VFEE.SeeAlso>另请参阅：</VFEE.SeeAlso>
   <!--EN: Skip to next Colonist-->
   <VFEE.Skip.Colonist.Next>跳到下一个殖民者</VFEE.Skip.Colonist.Next>
   <!--EN: Skip to previous Colonist-->
   <VFEE.Skip.Colonist.Previous>跳到上一个殖民者</VFEE.Skip.Colonist.Previous>
   <!--EN: Skip to next title-->
-  <VFEE.Skip.Title.Next>跳至下一个标题</VFEE.Skip.Title.Next>
+  <VFEE.Skip.Title.Next>跳到下一个标题</VFEE.Skip.Title.Next>
   <!--EN: Skip to previous title-->
-  <VFEE.Skip.Title.Previous>跳至上一个标题</VFEE.Skip.Title.Previous>
+  <VFEE.Skip.Title.Previous>跳到上一个标题</VFEE.Skip.Title.Previous>
   <!--EN: Successful-->
   <VFEE.Successful>成功的</VFEE.Successful>
   <!--EN: Tithes will be delivered via drop-pods after designated time has elapsed.-->
-  <VFEE.TitheDesc>指定时间过后，什一税将通过投递舱交付。</VFEE.TitheDesc>
+  <VFEE.TitheDesc>在指定时间过后，什一税将通过投放舱交付。</VFEE.TitheDesc>
   <!--EN: You can only vassalize bases that are less than 100 tiles away from you or your vassals\nVassalize more towns to increase the reach and unlock more potential vassal subjects-->
-  <VFEE.VassalDesc>您只能附庸距离您或您的附庸不到 100 格的基地
-附庸更多城镇以扩大覆盖范围并解锁更多潜在附庸国</VFEE.VassalDesc>
+  <VFEE.VassalDesc>你只能附庸距离你或你的附庸国不到 100 格的基地\n附庸更多城镇以扩大覆盖范围并解锁更多潜在附庸国</VFEE.VassalDesc>
   <!--EN: Unused vassalage points: {0}-->
   <VFEE.VassalPoints>未使用的附庸点：{0}</VFEE.VassalPoints>
   <!--EN: Vassalize-->
@@ -106,7 +103,7 @@
   <!--EN: Bestowing ceremony organized by {ORGANIZER} ended.-->
   <VFEEmpire.BestowTitle.Finished>{ORGANIZER}组织的授予仪式结束。</VFEEmpire.BestowTitle.Finished>
   <!--EN: Must be colonist.-->
-  <VFEEmpire.RitualRoleTitled.NotColonist>一定是殖民者。</VFEEmpire.RitualRoleTitled.NotColonist>
+  <VFEEmpire.RitualRoleTitled.NotColonist>必须是殖民者。</VFEEmpire.RitualRoleTitled.NotColonist>
   <!--EN: Must be title holder.-->
   <VFEEmpire.RitualRoleTitled.NotTitled>必须是头衔持有者。</VFEEmpire.RitualRoleTitled.NotTitled>
   <!--EN: Royal address organized by {ORGANIZER} ended.-->

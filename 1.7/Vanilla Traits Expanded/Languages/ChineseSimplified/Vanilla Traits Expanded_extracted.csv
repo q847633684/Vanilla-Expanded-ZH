@@ -1,0 +1,238 @@
+key,text,tag,file,type
+VTE.HasDestroyedItem,{PAWN_nameDef} has destroyed the item {PAWN_pronon} just crafted due to the item not being of sufficient quality,VTE.HasDestroyedItem,Keys.xml,keyed
+VTE.GotBruise,{PAWN_nameDef} got a bruise due to being clumsy,VTE.GotBruise,Keys.xml,keyed
+VTE.CantBeWokenUpHeavySleeper,{PAWN_nameDef} is too heavy of a sleeper to be drafted.,VTE.CantBeWokenUpHeavySleeper,Keys.xml,keyed
+VTE.DecisesInterruptCurrentCostructionJob,{PAWN_nameDef} has given up on {0} for now due to being a perfectionist,VTE.DecisesInterruptCurrentCostructionJob,Keys.xml,keyed
+VTE.CavaranSpeedIsDoubledWanderlusts,Wanderlust pawns will traverse to foreign locations at an increased speed,VTE.CavaranSpeedIsDoubledWanderlusts,Keys.xml,keyed
+VTE.KleptomaniacStealsItemFrom,"{PAWN_nameDef} has stolen a possession not belonging to their faction, this may damage relations between affiliated factions",VTE.KleptomaniacStealsItemFrom,Keys.xml,keyed
+VTE.KleptomaniacFailedToStealItemFrom,"{PAWN_nameDef} was caught trying to steal another factions possessions, this may damage relations between affiliated factions",VTE.KleptomaniacFailedToStealItemFrom,Keys.xml,keyed
+VTE.PawnBreaksChairs,{PAWN_nameDef} has damaged {0} due to their weight or strange posture,VTE.PawnBreaksChairs,Keys.xml,keyed
+VTE.PawnStoleItem,{PAWN_nameDef} stole {0} from {VICTIM_nameDef},VTE.PawnStoleItem,Keys.xml,keyed
+VTE.PawnFailedToStealItem,{PAWN_nameDef} failed to steal {0} from {VICTIM_nameDef}. This has angered the {VICTIM_nameDef} faction,VTE.PawnFailedToStealItem,Keys.xml,keyed
+VTE.PawnCowardlyFlees,{PAWN_nameDef} runs away from combat due to being a coward,VTE.PawnCowardlyFlees,Keys.xml,keyed
+VTE.PawnCowardlyExitMapHostile,{PAWN_nameDef} runs away from combat due to being a coward,VTE.PawnCowardlyExitMapHostile,Keys.xml,keyed
+VTE.PawnCowardlyExitMapAlly,{PAWN_nameDef} runs away from combat due to being a coward,VTE.PawnCowardlyExitMapAlly,Keys.xml,keyed
+VTE.PawnCowardlyExitMapNeutral,{PAWN_nameDef} runs away from combat due to being a coward,VTE.PawnCowardlyExitMapNeutral,Keys.xml,keyed
+VTE.PawnStopsForcedJob,{PAWN_nameDef} has defied or forgotten their orders and stopped working for the time being,VTE.PawnStopsForcedJob,Keys.xml,keyed
+VTE.VictimDropsEquipmentMartialArtist,{PAWN_nameDef} has disarmed {VICTIM_nameDef} in melee combat,VTE.VictimDropsEquipmentMartialArtist,Keys.xml,keyed
+VTE_SlowWorkSpeed.label,slow work,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowWorkSpeed.labelNoun,slow work,labelNoun,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowWorkSpeed.description,slow work,description,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowWorkSpeed.stages.0.label,inactive,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowWorkSpeed.stages.1.label,active,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_RestSlowFallFactor.label,Insomnia,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_RestSlowFallFactor.labelNoun,Insomnia,labelNoun,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_RestSlowFallFactor.description,"Pronounced mental or physical unrest causes insomnia, insomnia means one can often feel sluggish or exhausted and find themselves hardly ever capable of sleep.",description,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowerBleedingRate.label,hyper-coagulant,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowerBleedingRate.labelNoun,hyper-coagulation,labelNoun,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_SlowerBleedingRate.description,"Higher red blood-cell count means hyper-coagulation occurs, causing wounds to bleed much less profusely.",description,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_HigherBleedingRate.label,hemophilic,label,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_HigherBleedingRate.labelNoun,hemophilia,labelNoun,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_HigherBleedingRate.description,"Hemophilia is the inability for blood to clot properly, causing wounds to bleed much more profusely.",description,HediffDef/Hediffs_Local_Misc.xml,def
+VTE_StealItems.reportString,stealing items from TargetA,reportString,JobDef/Jobs_Misc.xml,def
+VTE_TechnophobeTantrum.label,technophobe tantrum,label,MentalStateDef/MentalStates_Mood.xml,def
+VTE_TechnophobeTantrum.recoveryMessage,{0} is no longer in a technophobe tantrum.,recoveryMessage,MentalStateDef/MentalStates_Mood.xml,def
+VTE_TechnophobeTantrum.beginLetter,{0} has flown into a technophobe tantrum.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on technology.,beginLetter,MentalStateDef/MentalStates_Mood.xml,def
+VTE_TechnophobeTantrum.baseInspectLine,Mental state: technophobe tantrum,baseInspectLine,MentalStateDef/MentalStates_Mood.xml,def
+VTE_PanicFreezing.label,panicking,label,MentalStateDef/MentalStates_Mood.xml,def
+VTE_PanicFreezing.beginLetterLabel,panic attack,beginLetterLabel,MentalStateDef/MentalStates_Mood.xml,def
+VTE_PanicFreezing.beginLetter,{0} is freezing in panic.,beginLetter,MentalStateDef/MentalStates_Mood.xml,def
+VTE_PanicFreezing.recoveryMessage,{0} is no longer suffering a panic attack.,recoveryMessage,MentalStateDef/MentalStates_Mood.xml,def
+VTE_PanicFreezing.baseInspectLine,Mental state: panicking,baseInspectLine,MentalStateDef/MentalStates_Mood.xml,def
+VTE_Kleptomaniac.label,kleptomaniac,label,MentalStateDef/MentalStates_Mood.xml,def
+VTE_Kleptomaniac.beginLetterLabel,Kleptomaniac,beginLetterLabel,MentalStateDef/MentalStates_Mood.xml,def
+VTE_Kleptomaniac.beginLetter,{0} is stealing items from visitors.,beginLetter,MentalStateDef/MentalStates_Mood.xml,def
+VTE_Kleptomaniac.recoveryMessage,{0} is no longer stealing items from visitors.,recoveryMessage,MentalStateDef/MentalStates_Mood.xml,def
+VTE_Kleptomaniac.baseInspectLine,Mental state: Kleptomaniac,baseInspectLine,MentalStateDef/MentalStates_Mood.xml,def
+VTE_BondedAnimalDiedHater.stages.0.label,bonded animal {0} died,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalDiedHater.stages.0.description,"Such a gross, annoying animal. I'm glad it's gone.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalLostHater.stages.0.label,bonded animal {0} lost,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalLostHater.stages.0.description,"Such a gross, annoying animal. I'm glad it's gone.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalBanishedHater.stages.0.label,bonded animal {0} banished,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalBanishedHater.stages.0.description,My bonded animal was banished. Good.,description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NuzzledHater.stages.0.label,nuzzled,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NuzzledHater.stages.0.description,A disgusting animal nuzzled me.,description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_KilledMyBondedAnimalHater.stages.0.label,killed my bonded animal,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_SoldMyBondedAnimalHater.stages.0.label,bonded animal given away.,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_SoldMyBondedAnimalHater.stages.0.description,"My nasty bonded animal was given away, about time.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_SoldMyBondedAnimalMoodHater.stages.0.label,bonded animal given away,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_SoldMyBondedAnimalMoodHater.stages.0.description,"My nasty bonded animal was given away, about time.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_KilledColonyAnimalHater.stages.0.label,killed colony animal,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalMasterHater.stages.0.label,{0}'s master,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalMasterHater.stages.0.description,Being around that nasty thing makes me hate life itself.,description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalMasterHater.stages.1.label,master of {0},label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_BondedAnimalMasterHater.stages.1.description,Being around that nasty thing makes me hate life itself.,description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NotBondedAnimalMasterHater.stages.0.label,not {0}'s master,label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NotBondedAnimalMasterHater.stages.0.description,"That thing may like me, but I certainly don't like it back--I'm glad somebody else took it.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NotBondedAnimalMasterHater.stages.1.label,not master of {0},label,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_NotBondedAnimalMasterHater.stages.1.description,"That thing may like me, but I certainly don't like it back--I'm glad somebody else took it.",description,ThoughtDef/Thoughts_Memory_Animals.xml,def
+VTE_CreatedLowQualityItem.stages.0.label,Created low quality item,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_CreatedLowQualityItem.stages.0.description,I crafted junk. I feel like I can't do anything right.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_CouldNotFinishItem.stages.0.label,Сould not finish item,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_CouldNotFinishItem.stages.0.description,"I couldn't finish my project, it just wasn't coming along correctly.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_PassionateCleaningWork.stages.0.label,Passionately cleaning,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_PassionateCleaningWork.stages.0.description,I really enjoy organizing and cleaning up the place.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_MyRivalsAreAlive.stages.0.label,My rivals are alive,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_MyRivalsAreAlive.stages.0.description,I hate them. Why should they deserve to live?,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_MechanoidIsKilled.stages.0.label,Mechanoid died,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_MechanoidIsKilled.stages.0.description,Those evil machines don't deserve to function.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ObservedManyBlood.stages.0.label,observed much blood,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ObservedManyBlood.stages.0.description,"I saw so much blood and bits, just remembering it makes me gag.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_WatchedTelevisor.stages.0.label,Watched television recently,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_WatchedTelevisor.stages.0.description,I got to laze around and catch up on my shows.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_NoDedicatedLaboratory.stages.0.label,No dedicated laboratory,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_NoDedicatedLaboratory.stages.0.description,I have nowhere to study in peace. How annoying.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.0.label,No animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.0.description,We don't have a single animal.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.1.label,Hardly any animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.1.description,"We have hardly any animals in the colony, this sucks.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.2.label,Hardly any animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.2.description,"We have hardly any animals in the colony, it's something I guess.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.3.label,Hardly any animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.3.description,"We have hardly any animals in the colony, it's something I guess.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.4.label,A few animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.4.description,"We have a few animals in the colony, that's nice.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.5.label,A few animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.5.description,"We have a few animals in the colony, that's nice.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.6.label,Some animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.6.description,"We've got a decent amount of animals now, we're getting there.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.7.label,Some animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.7.description,"We've got a decent amount of animals now, we're getting there.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.8.label,Some animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.8.description,"We've got a decent amount of animals now, we're getting there.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.9.label,Some animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.9.description,"We've got a decent amount of animals now, we're getting there.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.10.label,Lots of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.10.description,"We've got a lot of animals around the colony now, they're wonderful.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.11.label,Lots of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.11.description,"We've got a lot of animals around the colony now, they're wonderful.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.12.label,Lots of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.12.description,"We've got a lot of animals around the colony now, they're wonderful.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.13.label,A ton of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.13.description,We've got so many animals now! It makes me so happy to see them all.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.14.label,A ton of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.14.description,We've got so many animals now! It makes me so happy to see them all.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.15.label,A ton of animals in the colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AnimalsInColony.stages.15.description,We've got so many animals now! It makes me so happy to see them all.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ChildOfSea.stages.0.label,Ocean lover,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ChildOfSea.stages.0.description,"I really like being around the ocean and rivers, water is beautiful.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ChildOfMountain.stages.0.label,Mountain lover,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_ChildOfMountain.stages.0.description,"I really like being around the mountains, they take my breath away.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HaventHarvestedOrgansForLongTime.stages.0.label,Hasn't harvested organs,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HaventHarvestedOrgansForLongTime.stages.0.description,"I'm growing impatient, I need more subjects.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HarvestedOrgans.stages.0.label,Harvested organs,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HarvestedOrgans.stages.0.description,"The operation went just as expected, my collection has grown.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HaventExitedColonyForLongTime.stages.0.label,Has not left colony,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_HaventExitedColonyForLongTime.stages.0.description,"I haven't left home in a while, I'd really like to travel for a change.",description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_SoakingWetChildOfTheSea.stages.0.label,soaking wet,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_SoakingWetChildOfTheSea.stages.0.description,I'm soaking wet. Love it.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_EnvironmentDark.stages.0.label,darkness,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_EnvironmentDark.stages.0.description,I've been in the dark for a while. I like it.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_Dunce.stages.0.label,Dunce,label,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_Dunce.stages.0.description,I don't understand why everybody is so upset all the time.,description,ThoughtDef/Thoughts_Memory_Misc.xml,def
+VTE_AbsentMinded.degreeDatas.0.label,absent-minded,label,TraitDef/Traits_Singular.xml,def
+VTE_AbsentMinded.degreeDatas.0.description,"{PAWN_nameDef} tends to let {PAWN_possessive} mind drift, even in the middle of work. {PAWN_pronoun} may sometimes stop tasks at random.",description,TraitDef/Traits_Singular.xml,def
+VTE_Eccentric.degreeDatas.0.label,eccentric,label,TraitDef/Traits_Singular.xml,def
+VTE_Eccentric.degreeDatas.0.description,"{PAWN_nameDef} has a screw loose, but it comes with a sharper scientific mind.",description,TraitDef/Traits_Singular.xml,def
+VTE_Perfectionist.degreeDatas.0.label,perfectionist,label,TraitDef/Traits_Singular.xml,def
+VTE_Perfectionist.degreeDatas.0.description,"{PAWN_nameDef} strives for perfection in {PAWN_possessive} work. {PAWN_pronoun} produces higher-quality products, but works more slowly. Failing to meet {PAWN_possessive} standards causes unhappiness, and on rare occasions {PAWN_pronoun} may abandon a project mid-way.",description,TraitDef/Traits_Singular.xml,def
+VTE_Coward.degreeDatas.0.label,coward,label,TraitDef/Traits_Singular.xml,def
+VTE_Coward.degreeDatas.0.description,"{PAWN_nameDef}'s instincts lean heavily toward cowardice. In danger, {PAWN_pronoun} will often hide or run before standing to fight.",description,TraitDef/Traits_Singular.xml,def
+VTE_Brave.degreeDatas.0.label,brave,label,TraitDef/Traits_Singular.xml,def
+VTE_Brave.degreeDatas.0.description,"{PAWN_nameDef} has stronger mental and physical fortitude than most. {PAWN_pronoun} can endure pain more readily, and is slower to break under harsh conditions.",description,TraitDef/Traits_Singular.xml,def
+VTE_Clumsy.degreeDatas.0.label,clumsy,label,TraitDef/Traits_Singular.xml,def
+VTE_Clumsy.degreeDatas.0.description,"Minor bruises and scrapes plague {PAWN_nameDef}, usually from tripping or falling due to poor coordination.",description,TraitDef/Traits_Singular.xml,def
+VTE_HeatInclined.degreeDatas.0.label,heat inclined,label,TraitDef/Traits_Singular.xml,def
+VTE_HeatInclined.degreeDatas.0.description,{PAWN_nameDef} enjoys the heat of a dry summer day. {PAWN_pronoun} doesn't mind working up a sweat or sleeping in warmth.,description,TraitDef/Traits_Singular.xml,def
+VTE_ColdInclined.degreeDatas.0.label,cold inclined,label,TraitDef/Traits_Singular.xml,def
+VTE_ColdInclined.degreeDatas.0.description,{PAWN_nameDef} enjoys the chill of a brisk winter night. {PAWN_pronoun} doesn't mind shivering or sleeping in the cold.,description,TraitDef/Traits_Singular.xml,def
+VTE_HeavySleeper.degreeDatas.0.label,heavy sleeper,label,TraitDef/Traits_Singular.xml,def
+VTE_HeavySleeper.degreeDatas.0.description,"A bomb could go off beside {PAWN_nameDef} while {PAWN_pronoun} sleeps, and {PAWN_pronoun} would keep right on sleeping. {PAWN_pronoun} can't be bothered to work or defend the colony mid-nap.",description,TraitDef/Traits_Singular.xml,def
+VTE_Neat.degreeDatas.0.label,neat,label,TraitDef/Traits_Singular.xml,def
+VTE_Neat.degreeDatas.0.description,"{PAWN_nameDef} is naturally hygienic and organized. {PAWN_pronoun} doesn't track dirt or scatter trash, and enjoys cleaning.",description,TraitDef/Traits_Singular.xml,def
+VTE_Slob.degreeDatas.0.label,slob,label,TraitDef/Traits_Singular.xml,def
+VTE_Slob.degreeDatas.0.description,"{PAWN_nameDef} is naturally sloppy, leaving trash and dirt scattered around. At least {PAWN_pronoun} isn't much bothered by messy surroundings.",description,TraitDef/Traits_Singular.xml,def
+VTE_Workaholic.degreeDatas.0.label,workaholic,label,TraitDef/Traits_Singular.xml,def
+VTE_Workaholic.degreeDatas.0.description,"{PAWN_nameDef} struggles to take breaks or rest mid-job. {PAWN_pronoun} will keep working, even at the expense of {PAWN_possessive} health or sleep.",description,TraitDef/Traits_Singular.xml,def
+VTE_IronStomach.degreeDatas.0.label,iron stomach,label,TraitDef/Traits_Singular.xml,def
+VTE_IronStomach.degreeDatas.0.description,{PAWN_nameDef} has never known nausea. Food poisoning and vomiting are foreign to {PAWN_objective}.,description,TraitDef/Traits_Singular.xml,def
+VTE_AnimalLover.degreeDatas.0.label,animal lover,label,TraitDef/Traits_Singular.xml,def
+VTE_AnimalLover.degreeDatas.0.description,"{PAWN_nameDef} can't stand cruelty toward animals. {PAWN_pronoun} feels happier when nuzzled or acting as master to a tamed animal, but is more deeply upset when losing one. {PAWN_pronoun} also refuses to butcher animals.",description,TraitDef/Traits_Singular.xml,def
+VTE_AnimalHater.degreeDatas.0.label,animal hater,label,TraitDef/Traits_Singular.xml,def
+VTE_AnimalHater.degreeDatas.0.description,"{PAWN_nameDef} believes in human superiority over animals. {PAWN_pronoun} dislikes bonding or being nuzzled, but feels satisfaction when animals die or are sold.",description,TraitDef/Traits_Singular.xml,def
+VTE_BigBoned.degreeDatas.0.label,big-boned,label,TraitDef/Traits_Singular.xml,def
+VTE_BigBoned.degreeDatas.0.description,"Whether from bulk or awkward posture, {PAWN_nameDef} has broken a few chairs in {PAWN_possessive} time, and is likely to break more.",description,TraitDef/Traits_Singular.xml,def
+VTE_Rebel.degreeDatas.0.label,rebel,label,TraitDef/Traits_Singular.xml,def
+VTE_Rebel.degreeDatas.0.description,"{PAWN_nameDef} only plays by {PAWN_possessive} own rules. When forced, {PAWN_pronoun} will drag {PAWN_possessive} feet and work more slowly.",description,TraitDef/Traits_Singular.xml,def
+VTE_Submissive.degreeDatas.0.label,submissive,label,TraitDef/Traits_Singular.xml,def
+VTE_Submissive.degreeDatas.0.description,"{PAWN_nameDef} needs clear direction on when and how to act. {PAWN_pronoun} works at normal speed only when ordered, and otherwise slows down.",description,TraitDef/Traits_Singular.xml,def
+VTE_Vengeful.degreeDatas.0.label,vengeful,label,TraitDef/Traits_Singular.xml,def
+VTE_Vengeful.degreeDatas.0.description,"{PAWN_nameDef} is fueled by spite. {PAWN_pronoun} can’t stand sharing the colony with rivals, and feels happier when one of them dies.",description,TraitDef/Traits_Singular.xml,def
+VTE_Technophobe.degreeDatas.0.label,technophobe,label,TraitDef/Traits_Singular.xml,def
+VTE_Technophobe.degreeDatas.0.description,"Whether from trauma or fear of change, {PAWN_nameDef} rejects modernity. {PAWN_pronoun} may lash out at machines, refuses to research, and feels satisfaction from destroying mechanoids.",description,TraitDef/Traits_Singular.xml,def
+VTE_FunLoving.degreeDatas.0.label,fun-loving,label,TraitDef/Traits_Singular.xml,def
+VTE_FunLoving.degreeDatas.0.description,"{PAWN_nameDef} lives for a good time. {PAWN_pronoun} remembers parties fondly, and the joy lasts far longer than it does for most.",description,TraitDef/Traits_Singular.xml,def
+VTE_Dunce.degreeDatas.0.label,dunce,label,TraitDef/Traits_Singular.xml,def
+VTE_Dunce.degreeDatas.0.description,"{PAWN_nameDef} has limited mental capacity. {PAWN_pronoun} learns slowly and struggles with conversation, but tends to be naturally happy.",description,TraitDef/Traits_Singular.xml,def
+VTE_MartialArtist.degreeDatas.0.label,martial artist,label,TraitDef/Traits_Singular.xml,def
+VTE_MartialArtist.degreeDatas.0.description,{PAWN_nameDef} has trained in melee combat and learned a special move to disarm opponents.,description,TraitDef/Traits_Singular.xml,def
+VTE_Snob.degreeDatas.0.label,snob,label,TraitDef/Traits_Singular.xml,def
+VTE_Snob.degreeDatas.0.description,"{PAWN_nameDef} believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",description,TraitDef/Traits_Singular.xml,def
+VTE_Squeamish.degreeDatas.0.label,squeamish,label,TraitDef/Traits_Singular.xml,def
+VTE_Squeamish.degreeDatas.0.description,{PAWN_nameDef} gets a sour stomach around blood or corpses. Vomiting is just part of life for {PAWN_objective}.,description,TraitDef/Traits_Singular.xml,def
+VTE_Anxious.degreeDatas.0.label,anxious,label,TraitDef/Traits_Singular.xml,def
+VTE_Anxious.degreeDatas.0.description,"{PAWN_nameDef} is naturally anxious, especially in social situations. {PAWN_pronoun} avoids gatherings and sometimes retreats to {PAWN_possessive} room to cope.",description,TraitDef/Traits_Singular.xml,def
+VTE_Insatiable.degreeDatas.0.label,insatiable,label,TraitDef/Traits_Singular.xml,def
+VTE_Insatiable.degreeDatas.0.description,No amount of lovin’ is ever enough for {PAWN_nameDef}. {PAWN_pronoun} tends to move between partners and seeks intimacy often.,description,TraitDef/Traits_Singular.xml,def
+VTE_Prude.degreeDatas.0.label,prude,label,TraitDef/Traits_Singular.xml,def
+VTE_Prude.degreeDatas.0.description,{PAWN_nameDef} gives {PAWN_possessive} body only to a spouse and would never initiate divorce. {PAWN_pronoun} also dislikes nudity more than most.,description,TraitDef/Traits_Singular.xml,def
+VTE_CouchPotato.degreeDatas.0.label,couch potato,label,TraitDef/Traits_Singular.xml,def
+VTE_CouchPotato.degreeDatas.0.description,"An armchair and a screen are all {PAWN_nameDef} needs to be happy. {PAWN_pronoun} never tires of watching television, and always feels good after.",description,TraitDef/Traits_Singular.xml,def
+VTE_CatPerson.degreeDatas.0.label,cat person,label,TraitDef/Traits_Singular.xml,def
+VTE_CatPerson.degreeDatas.0.description,"{PAWN_nameDef} enjoys the company of cats and gravitates toward bonding with them, but dislikes dogs.",description,TraitDef/Traits_Singular.xml,def
+VTE_DogPerson.degreeDatas.0.label,dog person,label,TraitDef/Traits_Singular.xml,def
+VTE_DogPerson.degreeDatas.0.description,"{PAWN_nameDef} enjoys the company of dogs and gravitates toward bonding with them, but dislikes cats.",description,TraitDef/Traits_Singular.xml,def
+VTE_Prodigy.degreeDatas.0.label,prodigy,label,TraitDef/Traits_Singular.xml,def
+VTE_Prodigy.degreeDatas.0.description,"{PAWN_nameDef} has a sharp, logical mind. {PAWN_pronoun} researches faster than most, and {PAWN_possessive} rational outlook makes {PAWN_objective} less prone to mental breaks.",description,TraitDef/Traits_Singular.xml,def
+VTE_Menagerist.degreeDatas.0.label,menagerist,label,TraitDef/Traits_Singular.xml,def
+VTE_Menagerist.degreeDatas.0.description,"{PAWN_nameDef} believes animals are essential to life and society. {PAWN_pronoun} feels happier with more of them around, and is especially skilled at taming and training.",description,TraitDef/Traits_Singular.xml,def
+VTE_ChildOfSea.degreeDatas.0.label,Ocean lover,label,TraitDef/Traits_Singular.xml,def
+VTE_ChildOfSea.degreeDatas.0.description,The sea calls to {PAWN_nameDef}. {PAWN_pronoun} feels happier when near the ocean or a deep river.,description,TraitDef/Traits_Singular.xml,def
+VTE_ChildOfMountain.degreeDatas.0.label,Mountain lover,label,TraitDef/Traits_Singular.xml,def
+VTE_ChildOfMountain.degreeDatas.0.description,The mountains call to {PAWN_nameDef}. {PAWN_pronoun} feels happier when near a large mountain.,description,TraitDef/Traits_Singular.xml,def
+VTE_MadSurgeon.degreeDatas.0.label,mad surgeon,label,TraitDef/Traits_Singular.xml,def
+VTE_MadSurgeon.degreeDatas.0.description,"{PAWN_nameDef} hides a twisted obsession. {PAWN_pronoun} treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes {PAWN_objective} happy, but going too long without fuels growing unrest.",description,TraitDef/Traits_Singular.xml,def
+VTE_DrunkenMaster.degreeDatas.0.label,drunken master,label,TraitDef/Traits_Singular.xml,def
+VTE_DrunkenMaster.degreeDatas.0.description,{PAWN_nameDef} fights best when drunk. {PAWN_pronoun} grows more dangerous in melee the more intoxicated {PAWN_pronoun} becomes.,description,TraitDef/Traits_Singular.xml,def
+VTE_Kleptomaniac.degreeDatas.0.label,kleptomaniac,label,TraitDef/Traits_Singular.xml,def
+VTE_Kleptomaniac.degreeDatas.0.description,"{PAWN_nameDef} is compelled to steal, even from guests and allies, risking angering others.",description,TraitDef/Traits_Singular.xml,def
+VTE_Stoner.degreeDatas.0.label,stoner,label,TraitDef/Traits_Singular.xml,def
+VTE_Stoner.degreeDatas.0.description,Smokeleaf is a way of life for {PAWN_nameDef}. {PAWN_pronoun} adores it and would rather die than give it up.,description,TraitDef/Traits_Singular.xml,def
+VTE_Lush.degreeDatas.0.label,lush,label,TraitDef/Traits_Singular.xml,def
+VTE_Lush.degreeDatas.0.description,Alcohol is a way of life for {PAWN_nameDef}. {PAWN_pronoun} adores drinking and would rather die than give it up.,description,TraitDef/Traits_Singular.xml,def
+VTE_Wanderlust.degreeDatas.0.label,wanderlust,label,TraitDef/Traits_Singular.xml,def
+VTE_Wanderlust.degreeDatas.0.description,"{PAWN_nameDef} loves to travel and feels happiest on the move. {PAWN_pronoun} grows restless when staying too long in one place, but moves quickly and forages well while caravanning.",description,TraitDef/Traits_Singular.xml,def
+VTE_Insomniac.degreeDatas.0.label,insomniac,label,TraitDef/Traits_Singular.xml,def
+VTE_Insomniac.degreeDatas.0.description,"{PAWN_nameDef} is never fully asleep or awake. {PAWN_pronoun} lurches along in a slow, shambler-like state, and only sleeps once every few days.",description,TraitDef/Traits_Singular.xml,def
+VTE_WorldWeary.degreeDatas.0.label,world weary,label,TraitDef/Traits_Singular.xml,def
+VTE_WorldWeary.degreeDatas.0.description,"{PAWN_nameDef} has grown tired of the world. {PAWN_pronoun} struggles with bleak thoughts, making {PAWN_possessive} personality difficult to befriend.",description,TraitDef/Traits_Singular.xml,def
+VTE_Desensitized.degreeDatas.0.label,desensitized,label,TraitDef/Traits_Singular.xml,def
+VTE_Desensitized.degreeDatas.0.description,"{PAWN_nameDef} is hardened by old emotional trauma. {PAWN_pronoun} feels nothing from death or loss, whether animal, colonist, family, or prisoner.",description,TraitDef/Traits_Singular.xml,def
+VTE_RefinedPalate.degreeDatas.0.label,refined palate,label,TraitDef/Traits_Singular.xml,def
+VTE_RefinedPalate.degreeDatas.0.description,"Only the finest meals satisfy {PAWN_nameDef}. {PAWN_pronoun} feels indifferent toward ordinary food, but savors lavish meals and gains greater joy from them.",description,TraitDef/Traits_Singular.xml,def
+VTE_Academian.degreeDatas.0.label,academian,label,TraitDef/Traits_Singular.xml,def
+VTE_Academian.degreeDatas.0.description,"Through scholastic pursuit, {PAWN_nameDef} has become well-read. {PAWN_pronoun} excels in science and medicine, and tends patients with greater skill.",description,TraitDef/Traits_Singular.xml,def
+VTE_Groundbreaker.degreeDatas.0.label,groundbreaker,label,TraitDef/Traits_Singular.xml,def
+VTE_Groundbreaker.degreeDatas.0.description,"{PAWN_nameDef} believes infrastructure is everything. {PAWN_pronoun} is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.",description,TraitDef/Traits_Singular.xml,def
+VTE_Gastronomist.degreeDatas.0.label,gastronomist,label,TraitDef/Traits_Singular.xml,def
+VTE_Gastronomist.degreeDatas.0.description,"To {PAWN_nameDef}, food is art. {PAWN_pronoun} creates beautiful, delicious meals that are almost always safe to eat.",description,TraitDef/Traits_Singular.xml,def
+VTE_Ecologist.degreeDatas.0.label,ecologist,label,TraitDef/Traits_Singular.xml,def
+VTE_Ecologist.degreeDatas.0.description,"Flora and fauna are vital to {PAWN_nameDef}. {PAWN_pronoun} uses every part of plants and animals, and appreciates nature’s gifts.",description,TraitDef/Traits_Singular.xml,def
+VTE_Tycoon.degreeDatas.0.label,tycoon,label,TraitDef/Traits_Singular.xml,def
+VTE_Tycoon.degreeDatas.0.description,"{PAWN_nameDef} has an eye for silver and a silver tongue to match. {PAWN_pronoun} values {PAWN_possessive} own goods highly, and convinces others to do the same.",description,TraitDef/Traits_Singular.xml,def
+VTE_ThickSkinned.degreeDatas.0.label,thick skinned,label,TraitDef/Traits_Singular.xml,def
+VTE_ThickSkinned.degreeDatas.0.description,{PAWN_nameDef} is strangely hypercoagulating and will bleed much more slowly than most.,description,TraitDef/Traits_Singular.xml,def
+VTE_ThinSkinned.degreeDatas.0.label,thin skinned,label,TraitDef/Traits_Singular.xml,def
+VTE_ThinSkinned.degreeDatas.0.description,{PAWN_nameDef} is strangely hemophilic and tends to bleed much more profusely than others.,description,TraitDef/Traits_Singular.xml,def
+VTE_Schizoid.degreeDatas.0.label,schizoid,label,TraitDef/Traits_Singular.xml,def
+VTE_Schizoid.degreeDatas.0.description,"{PAWN_nameDef} bottles up {PAWN_possessive} feelings for long stretches of time. When the pressure grows too great, {PAWN_pronoun} may suddenly break down.",description,TraitDef/Traits_Singular.xml,def

@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Small, domestic rabbit that has developed an ability to enhance the neural heat dissipation of anyone they bond with. Unfortunately, as a side effect, it the bonded master of the angora rabbit dies, the rabbit will also die of sadness and loss.\n\n<color=#E5E54C>Gameplay effect:</color> As long as an Angora Rabbit is bonded to a colonist, this colonist will receive a psychic connection that helps with neural heat dissipation.-->
-  <VAERoy_AngoraRabbit.description>小，家养的兔子已经发展出一种能力，可以增强与他们有联系的任何人的神经散热能力。不幸的是，作为副作用，如果安哥拉兔的绑定主人兔子死亡，兔子也会因悲伤和失落而死亡。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;只要安哥拉兔与殖民者绑定，该殖民者就会获得心灵联系有助于神经散热。</VAERoy_AngoraRabbit.description>
+  <VAERoy_AngoraRabbit.description>浑身覆有长长绒毛的兔科动物。这些经过基因工程改造的长毛兔生来便具有一种特殊的能力——当与殖民者产生牵绊后，它们可以加快主人的心灵熵消散速度，但若主人不幸逝去，它们也会在痛苦与悲伤中走向死亡。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与长毛兔建立牵绊的殖民者将获得加快心灵熵消散速度的增益效果。</VAERoy_AngoraRabbit.description>
   <!--EN: angora rabbit-->
-  <VAERoy_AngoraRabbit.label>安哥拉猫兔子</VAERoy_AngoraRabbit.label>
+  <VAERoy_AngoraRabbit.label>长毛兔</VAERoy_AngoraRabbit.label>
   <!--EN: head-->
   <VAERoy_AngoraRabbit.tools.1.label>头</VAERoy_AngoraRabbit.tools.1.label>
   <!--EN: A large, long legged bird species, cranes are a symbol of royalty and nobility and often populate royal gardens. It is believed that people of imperial rank will appreciate having plenty of cranes around them.\n\n<color=#E5E54C>Gameplay effect:</color> If you have at least 5 cranes under your control, any pawn with a nobility rank of any kind receives a +5 mood boost.-->
-  <VAERoy_Crane.description>鹤是一种大型、长腿的鸟类，是皇室和贵族的象征，经常出现在皇家花园中。据信，帝国等级的人会喜欢身边有大量的起重机。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;如果你控制着至少 5 只起重机，任何具有贵族等级的任何 pawn 都会获得 +5 情绪提升。</VAERoy_Crane.description>
+  <VAERoy_Crane.description>美丽、优雅且腿长的大型基因工程禽类动物。鹤自古以来便被一些王朝视作“祥瑞之鸟”，它们也常常会在皇家园林中繁衍生息。有传言说，许多破碎帝国的王公贵戚们都喜欢在身边大量饲养这种赏心悦目的动物。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;当殖民地中饲养了5只以上的鹤时，任何拥有破碎帝国头衔的殖民者都将获得+5的心情增益。</VAERoy_Crane.description>
   <!--EN: crane-->
-  <VAERoy_Crane.label>起重机</VAERoy_Crane.label>
+  <VAERoy_Crane.label>鹤</VAERoy_Crane.label>
   <!--EN: claws-->
   <VAERoy_Crane.tools.0.label>爪子</VAERoy_Crane.tools.0.label>
   <!--EN: beak-->
@@ -21,35 +17,33 @@
   <!--EN: head-->
   <VAERoy_Crane.tools.2.label>头</VAERoy_Crane.tools.2.label>
   <!--EN: A fertilized crane egg. If all goes well, it should hatch into a baby crane. It can be eaten raw, but it's much better cooked.-->
-  <VAERoy_EggCraneFertilized.description>受精的鹤蛋。如果一切顺利，它应该会孵化成小鹤。它可以生吃，但煮熟后效果更好。</VAERoy_EggCraneFertilized.description>
+  <VAERoy_EggCraneFertilized.description>已受精的鹤蛋。如果一切顺利应该可以孵化出鹤仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggCraneFertilized.description>
   <!--EN: crane egg (fert.)-->
-  <VAERoy_EggCraneFertilized.label>鹤蛋（受精）</VAERoy_EggCraneFertilized.label>
+  <VAERoy_EggCraneFertilized.label>鹤蛋（已受精）</VAERoy_EggCraneFertilized.label>
   <!--EN: An unfertilized crane egg. It can be eaten raw, but it's much, much better cooked.-->
-  <VAERoy_EggCraneUnfertilized.description>未受精的鹤蛋。它可以生吃，但煮熟后吃效果更好。</VAERoy_EggCraneUnfertilized.description>
+  <VAERoy_EggCraneUnfertilized.description>未受精的鹤蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggCraneUnfertilized.description>
   <!--EN: crane egg (unfert.)-->
   <VAERoy_EggCraneUnfertilized.label>鹤蛋（未受精）</VAERoy_EggCraneUnfertilized.label>
   <!--EN: A fertilized megachicken egg. If all goes well, it should hatch into a megachicken. It can be eaten raw, but it's much better cooked.-->
-  <VAERoy_EggMegaChickenFertilized.description>受精的巨型鸡蛋。如果一切顺利的话，它应该会孵化成一只巨型鸡。它可以生吃，但煮熟后效果更好。</VAERoy_EggMegaChickenFertilized.description>
+  <VAERoy_EggMegaChickenFertilized.description>已受精的巨皇鸡蛋。如果一切顺利应该可以孵化出巨皇鸡仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggMegaChickenFertilized.description>
   <!--EN: megachicken egg (fert.)-->
-  <VAERoy_EggMegaChickenFertilized.label>巨型鸡蛋（已受精）</VAERoy_EggMegaChickenFertilized.label>
+  <VAERoy_EggMegaChickenFertilized.label>巨皇鸡蛋（已受精）</VAERoy_EggMegaChickenFertilized.label>
   <!--EN: An unfertilized megachicken egg. It can be eaten raw, but it's much, much better cooked.-->
-  <VAERoy_EggMegaChickenUnfertilized.description>未受精的巨型鸡蛋。它可以生吃，但煮熟后吃效果更好。</VAERoy_EggMegaChickenUnfertilized.description>
+  <VAERoy_EggMegaChickenUnfertilized.description>未受精的巨皇鸡蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggMegaChickenUnfertilized.description>
   <!--EN: megachicken egg (unfert.)-->
-  <VAERoy_EggMegaChickenUnfertilized.label>巨型鸡蛋（未受精）</VAERoy_EggMegaChickenUnfertilized.label>
+  <VAERoy_EggMegaChickenUnfertilized.label>巨皇鸡蛋（未受精）</VAERoy_EggMegaChickenUnfertilized.label>
   <!--EN: A fertilized pheasant egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked.-->
-  <VAERoy_EggPheasantFertilized.description>一颗受精的野鸡蛋。如果一切顺利，它应该孵化成孔雀。它可以生吃，但煮熟后效果更好。</VAERoy_EggPheasantFertilized.description>
+  <VAERoy_EggPheasantFertilized.description>已受精的雉鸡蛋。如果一切顺利应该可以孵化出雉鸡仔。可以生吃，但是最好烹饪后食用。</VAERoy_EggPheasantFertilized.description>
   <!--EN: pheasant egg (fert.)-->
-  <VAERoy_EggPheasantFertilized.label>雉鸡蛋</VAERoy_EggPheasantFertilized.label>
+  <VAERoy_EggPheasantFertilized.label>雉鸡蛋（已受精）</VAERoy_EggPheasantFertilized.label>
   <!--EN: An unfertilized pheasant egg. It can be eaten raw, but it's much, much better cooked.-->
-  <VAERoy_EggPheasantUnfertilized.description>未受精的雉鸡蛋。它可以生吃，但煮熟后吃效果更好。</VAERoy_EggPheasantUnfertilized.description>
+  <VAERoy_EggPheasantUnfertilized.description>未受精的雉鸡蛋。可以生吃，但是最好烹饪后食用。</VAERoy_EggPheasantUnfertilized.description>
   <!--EN: pheasant egg (unfert.)-->
   <VAERoy_EggPheasantUnfertilized.label>雉鸡蛋（未受精）</VAERoy_EggPheasantUnfertilized.label>
   <!--EN: The unusual royal farm bird, the megachicken is raised by spoiled royalty as a pet project. This bird simply never stops growing, and if taken care of, it can reach gargantuan sizes. Royalty is known to compare their megacocks, and usually the one with the biggest specimen wins. Those that lose often argue that it’s not about the size, it’s about what you do with it.\n\n<color=#E5E54C>Gameplay effect:</color> Megachicken have five growth stages, at 0, 3, 8, 12 and 18 years of age. Their abilities get increasingly powerful as they age.-->
-  <VAERoy_Megachicken.description>巨型鸡是一种不寻常的皇家农场鸟类，是被宠坏的皇室作为宠物饲养的。这种鸟永远不会停止生长，如果得到照顾，它可以长到巨大的体型。众所周知，皇室成员会比较他们的巨型公鸡，通常拥有最大标本的人会获胜。那些失败的人经常争辩说，这不是大小的问题，而是你用它做什么的问题。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;巨型鸡有五个成长阶段，分别为0、3、8、12和18岁。随着年龄的增长，他们的能力变得越来越强大。</VAERoy_Megachicken.description>
+  <VAERoy_Megachicken.description>这种与众不同的巨型禽类动物是“皇家宠物”项目的基因工程成果之一。如果照料得当，巨皇鸡便会永无止境地成长下去，最终达到极其惊人的大小。破碎帝国的王公贵戚们很喜欢在闲暇之时举行“巨皇鸡评比赛”——体型最大者得胜。落败者们常常会这样安慰自己：“巨皇鸡的体型根本就不重要，能够饲养并安置好它们的人才配称得上是真正的胜利者。”\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;巨皇鸡拥有5个成长阶段（0岁，3岁，8岁，12岁和18岁），它们的体型会随着年龄增长而不断变大。</VAERoy_Megachicken.description>
   <!--EN: megachicken-->
-  <VAERoy_Megachicken.label>巨型鸡</VAERoy_Megachicken.label>
+  <VAERoy_Megachicken.label>巨皇鸡</VAERoy_Megachicken.label>
   <!--EN: claws-->
   <VAERoy_Megachicken.tools.0.label>爪子</VAERoy_Megachicken.tools.0.label>
   <!--EN: beak-->
@@ -57,9 +51,7 @@
   <!--EN: head-->
   <VAERoy_Megachicken.tools.2.label>头</VAERoy_Megachicken.tools.2.label>
   <!--EN: A great ape invented and patented on Sophiamunda, orangutans are intelligent and can hold a normal conversation with humans. They are often used as home teachers in the Empire, educating young nobles in history, arts and correct etiquette.\n\n<color=#E5E54C>Gameplay effect:</color> When holding sophisticated conversations with humans, they boost their social recreation. Furthermore, each conversation with an orangutan gives a little bit of XP to a random skill.-->
-  <VAERoy_Orangutan.description>猩猩是索菲亚蒙达发明并获得专利的类人猿，它们非常聪明，可以与人类进行正常对话。他们经常被用作帝国的向校外的学生提供私人学术援助的人士。，教育年轻贵族历史、艺术和正确的礼仪。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;当与人类进行复杂的对话时，他们增强了社交娱乐性。此外，与猩猩的每次对话都会为随机技能提供一点 XP。</VAERoy_Orangutan.description>
+  <VAERoy_Orangutan.description>索菲亚蒙达星特有的猿类动物。这些经过基因工程改造的猩猩有着足以和人类流畅交谈的高级智力，如果你有幸受邀到破碎帝国的领地里做客，请不要对它们作为私人教师辅导纨绔子弟们学习历史、艺术和礼仪的奇特景象感到惊讶。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;猩猩偶尔会与殖民者聊天，并提高他们的娱乐值和随机技能的经验值。</VAERoy_Orangutan.description>
   <!--EN: orangutan-->
   <VAERoy_Orangutan.label>猩猩</VAERoy_Orangutan.label>
   <!--EN: left fist-->
@@ -69,11 +61,9 @@
   <!--EN: head-->
   <VAERoy_Orangutan.tools.3.label>头</VAERoy_Orangutan.tools.3.label>
   <!--EN: Small, noble poultry that was genetically engineered to be an excellent small game animal. When pheasants run away from danger, they emit a psychic invisibility blast, making their allies hidden from sight.\n\n<color=#E5E54C>Gameplay effect:</color> Whenever a pheasant is in danger (it starts fleeing), it emits a psychic shockwave in radius of 6 cells around itself. It only does it once every 24 hours. This shockwave gives all pawns under player control in that radius Psychic Invisibility for a short period of time, making them untargetable by enemies.-->
-  <VAERoy_Pheasant.description>小，高贵的家禽，经过基因改造，成为优秀的小型猎物。当野鸡逃离危险时，它们会发出心灵隐形爆炸，使盟友隐藏起来。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;每当野鸡遇到危险（开始逃跑）时，它就会在自身周围6个单元格的半径范围内发出心灵冲击波。它每 24 小时只执行一次。此冲击波使该半径内玩家控制下的所有棋子在短时间内获得心灵隐形，使他们无法成为敌人的目标。</VAERoy_Pheasant.description>
+  <VAERoy_Pheasant.description>华丽且机警的小型狩猎用禽类动物。当这些经过基因工程改造的雉鸡因遭遇危险而逃跑时，它们会向四周散发隐身心灵波以保护殖民者。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;处于逃跑状态的雉鸡会散发以自身为中心、半径约6格左右的心灵波，在此范围内的殖民者都将进入无法被敌人瞄准的心灵隐形状态（每24小时内仅能使用1次）。</VAERoy_Pheasant.description>
   <!--EN: pheasant-->
-  <VAERoy_Pheasant.label>野鸡</VAERoy_Pheasant.label>
+  <VAERoy_Pheasant.label>雉鸡</VAERoy_Pheasant.label>
   <!--EN: claws-->
   <VAERoy_Pheasant.tools.0.label>爪子</VAERoy_Pheasant.tools.0.label>
   <!--EN: beak-->
@@ -81,13 +71,13 @@
   <!--EN: head-->
   <VAERoy_Pheasant.tools.2.label>头</VAERoy_Pheasant.tools.2.label>
   <!--EN: Raw meat from a quail, extremely tasty. Instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations.-->
-  <VAERoy_QuailMeat.description>鹌鹑的生肉，非常美味。立即将任何简单或精致的餐点变成丰盛的餐点。它还将使香草烹饪的烧烤和烘焙扩展到其丰富的变化。</VAERoy_QuailMeat.description>
+  <VAERoy_QuailMeat.description>新鲜屠宰的皇家禽肉。口感滑嫩鲜美，用它们烹饪的简单或精致食物都会升级为奢侈食物（包括原版厨艺扩展的烤肉和面点）。</VAERoy_QuailMeat.description>
   <!--EN: royal poultry-->
-  <VAERoy_QuailMeat.label>皇家家禽</VAERoy_QuailMeat.label>
+  <VAERoy_QuailMeat.label>皇家禽肉</VAERoy_QuailMeat.label>
   <!--EN: A large, genetically engineered sabretooth tiger that evolved in captivity. Nobility often buys them for their spoiled children, as in reality, royal tiger is not dangerous at all, and prefers fleeing at the first sight of danger.-->
-  <VAERoy_RoyalTiger.description>一种大型基因工程剑齿虎老虎，在圈养条件下进化。贵族经常为他们被宠坏的孩子购买它们，因为实际上，皇室老虎根本不危险，一看到危险就更喜欢逃跑。</VAERoy_RoyalTiger.description>
+  <VAERoy_RoyalTiger.description>样貌与剑齿虎相似的大型猫科动物。破碎帝国的王公贵戚们常常会为自己娇生惯养的孩子购买这些经过基因工程改造的皇家虎，因为它们根本就不可怕，甚至一遇到危险就会迅速逃跑。</VAERoy_RoyalTiger.description>
   <!--EN: royal tiger-->
-  <VAERoy_RoyalTiger.label>皇家老虎</VAERoy_RoyalTiger.label>
+  <VAERoy_RoyalTiger.label>皇家虎</VAERoy_RoyalTiger.label>
   <!--EN: left claw-->
   <VAERoy_RoyalTiger.tools.0.label>左爪</VAERoy_RoyalTiger.tools.0.label>
   <!--EN: right claw-->
@@ -95,7 +85,7 @@
   <!--EN: head-->
   <VAERoy_RoyalTiger.tools.3.label>头</VAERoy_RoyalTiger.tools.3.label>
   <!--EN: A beautiful nest of a swan.-->
-  <VAERoy_SwanNest.description>美丽的天鹅巢。</VAERoy_SwanNest.description>
+  <VAERoy_SwanNest.description>天鹅用花朵搭建的美丽巢穴。</VAERoy_SwanNest.description>
   <!--EN: swan nest-->
-  <VAERoy_SwanNest.label>天鹅巢</VAERoy_SwanNest.label>
+  <VAERoy_SwanNest.label>天鹅花巢</VAERoy_SwanNest.label>
 </LanguageData>

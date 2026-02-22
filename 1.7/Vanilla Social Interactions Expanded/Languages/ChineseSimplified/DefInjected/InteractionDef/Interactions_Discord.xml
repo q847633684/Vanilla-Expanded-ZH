@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: discord-->
+  <VSIE_Discord.label>discord</VSIE_Discord.label>
+  <VSIE_Discord.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].-->
+    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <!--EN: target(p=4)->[RECIPIENT_nameDef]-->
+    <li>target(p=4)-&gt;[RECIPIENT_nameDef]</li>
+    <!--EN: target->[RECIPIENT_nameDef]'s [PersonFamily]-->
+    <li>target-&gt;[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <!--EN: insulted(p=3)->insulted-->
+    <li>insulted(p=3)-&gt;insulted</li>
+    <!--EN: insulted->openly insulted-->
+    <li>insulted-&gt;openly insulted</li>
+    <!--EN: insulted->loudly insulted-->
+    <li>insulted-&gt;loudly insulted</li>
+    <!--EN: insulted->flagrantly insulted-->
+    <li>insulted-&gt;flagrantly insulted</li>
+    <!--EN: insulted->directly insulted-->
+    <li>insulted-&gt;directly insulted</li>
+    <!--EN: insulted->viciously insulted-->
+    <li>insulted-&gt;viciously insulted</li>
+    <!--EN: insulted->flagrantly disrespected-->
+    <li>insulted-&gt;flagrantly disrespected</li>
+    <!--EN: insulted->slandered-->
+    <li>insulted-&gt;slandered</li>
+    <!--EN: insulted->hurled invective about-->
+    <li>insulted-&gt;hurled invective about</li>
+    <!--EN: insulted->derided-->
+    <li>insulted-&gt;derided</li>
+    <!--EN: insultcomparison(p=2)->[Animal]-->
+    <li>insultcomparison(p=2)-&gt;[Animal]</li>
+    <!--EN: insultcomparison->[Enemy]-->
+    <li>insultcomparison-&gt;[Enemy]</li>
+  </VSIE_Discord.logRulesInitiator.rulesStrings>
+</LanguageData>

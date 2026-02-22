@@ -1,0 +1,51 @@
+key,text,tag,file,type
+VPEH.DeathrestBuilding,Is a deathrest building.,VPEH.DeathrestBuilding,Keys.xml,keyed
+VPEH.DeathrestBuildingsNearby,{0} deathrest buildings nearby.,VPEH.DeathrestBuildingsNearby,Keys.xml,keyed
+VPEH.HemogenTooLow,Hemogen is too low. Minimum {0} is required.,VPEH.HemogenTooLow,Keys.xml,keyed
+VPEH.NoHemogenGene,Pawn does not have hemogen gene.,VPEH.NoHemogenGene,Keys.xml,keyed
+VPEH.MustBeNotDessicated,Corpse must be not dessicated.,VPEH.MustBeNotDessicated,Keys.xml,keyed
+VPEH.OnlyNonHemogenic,Cannot cast: target is hemogenic.,VPEH.OnlyNonHemogenic,Keys.xml,keyed
+VPEH.CancelBloodfocus,Cancel Bloodfocus,VPEH.CancelBloodfocus,Keys.xml,keyed
+VPEH.CancelBloodfocusDesc,Click to cancel Bloodfocus on the caster.,VPEH.CancelBloodfocusDesc,Keys.xml,keyed
+VPEH.HemogenLetter,H,VPEH.HemogenLetter,Keys.xml,keyed
+VPEH.OnlyHumanlikes,Cannot cast: target is not human,VPEH.OnlyHumanlikes,Keys.xml,keyed
+VPEH_Bloodfocus.label,blood focus,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Bloodfocus.description,"By forcibly manipulating the body’s stores of hemogen, the caster can enter a state of rapid meditation, regaining psyfocus at the cost of hemogen.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodShard.label,blood shard,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodShard.description,Launch a small amount of excess blood as a lethal projectile by forcibly expelling hemogen that has been solidified into a crystalline structure.,description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodSpew.label,blood spew,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodSpew.description,"Spew forth a fine mist of hemogen towards the targets, coating them in sticky, nauseating blood. Those affected are overcome with intense vomiting.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_CloseWounds.label,close wounds,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_CloseWounds.description,"Forcibly move excess blood to stop any ongoing bleeding. However, it does not actually heal.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Hemodrain.label,hemodrain,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Hemodrain.description,Forcibly extracts the blood of the target at a distance and converts it to hemogen. Practical but inefficient.,description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_CorpseExplosion.label,corpse explosion,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_CorpseExplosion.description,"Uses the caster’s hemogen to overstimulate the blood of a corpse, causing an explosion which deals no damage, but covers everyone in thick bloodmist. Those affected are overcome with intense vomiting.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_WordofOffering.label,word of offering,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_WordofOffering.description,Convinces the target to offer their blood to the caster. Can be used on visitors or even during combat.,description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_SanguineSpear.label,sanguine spear,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_SanguineSpear.description,"Launches a pressurized spear of blood over to the target, damaging the target and creating a bloodmist explosion. Damage depends on the caster's hemogen level.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodRite.label,blood rite,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_BloodRite.description,"Creates a mote of hemogen that follows the caster, acting as an amplifier for psychic sensitivity based on the caster’s current hemogen level.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Bloodstorm.label,bloodstorm,label,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Bloodstorm.description,"Creates a downpour of blood, inflicting non-hemogenic individuals with bloodmist, causing intense vomiting. Sanguophages instead regenerate hemogen, and don’t gain psychic heat when casting any psycasts under the effects of bloodstorm.",description,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Bloodstorm.modExtensions.3.message,"If you use bloodstorm, everyone in this local area will be affected by it, and you will lose goodwill with every non-hostile faction that currently is visiting this place.\n\nBloodstorm takes 10 seconds to cast, and cannot be interrupted. When complete, the rain of blood will fall everywhere, affecting both normal people and sanguophages.\n\nEveryone on the map except Sanguophages will be affected by blood mist, causing intense vomiting. Sanguophages will not generate Psychic heat when casting psycasts of any kind.\n\nDo you really want to cast bloodstorm?",message,VEF.Abilities.AbilityDef/Hemosage.xml,def
+VPEH_Bloodfocus.label,Bloodfocus,label,HediffDef/Hediffs.xml,def
+VPEH_Bloodfocus.description,Rapidly regenerating psyfocus at the cost of hemogen.,description,HediffDef/Hediffs.xml,def
+VPEH_Bloodmist.label,Bloodmist,label,HediffDef/Hediffs.xml,def
+VPEH_Bloodmist.description,A special sanguophage particle is blocking the airways and causes intense vomiting.,description,HediffDef/Hediffs.xml,def
+VPEH_BloodRite.label,blood rite,label,HediffDef/Hediffs.xml,def
+VPEH_BloodRite.description,Psychic sensitivity is amplified by the current hemogen level.,description,HediffDef/Hediffs.xml,def
+VPEH_Deathrest.label,deathrest,label,MeditationFocusDef/Foci.xml,def
+VPEH_Hemosage.label,hemosage,label,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEH_Hemosage.description,Hemosages are masters of blood magic that use hemogen as a resource to cast unique psycasts.,description,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEH_Hemosage.tooltip,"Hemosages are powerful, elder psycasters that use their connection with an engine of evil and their bloody curse to inflict pain and manipulate matter in vile, wicked ways. Relying on hemogen, they can drain and leech life from everyone around them, instilling incredible pain and even worse nightmares. Only those that have access to the power of hemogen can become a true hemosage.",tooltip,VanillaPsycastsExpanded.PsycasterPathDef/Paths.xml,def
+VPEH_BloodShard.label,blood shard,label,ThingDef/Projectiles.xml,def
+VPEH_BloodSpew.label,blood spew,label,VEF.Weapons.ExpandableProjectileDef/Projectiles.xml,def
+VPEH_SanguineSpear.label,sanguine spear,label,ThingDef/Projectiles.xml,def
+VPEH_SoakedInBlood.stages.0.label,soaked in blood,label,ThoughtDef/Thoughts.xml,def
+VPEH_SoakedInBlood.stages.0.description,I'm soaking in blood.,description,ThoughtDef/Thoughts.xml,def
+VPEH_SoakedInBlood.stages.1.label,soaked in blood,label,ThoughtDef/Thoughts.xml,def
+VPEH_SoakedInBlood.stages.1.description,I'm soaking in blood.,description,ThoughtDef/Thoughts.xml,def
+VPEH_Bloodstorm.label,bloodstorm,label,WeatherDef/Weathers.xml,def
+VPEH_Bloodstorm.description,"Mystical downpour of blood, caused by forbidden hemosage psycast. While non-hemogenic individuals are choking on blood, sanguophages regenerate hemogen and can cast psycasts without worrying about psychic heat.",description,WeatherDef/Weathers.xml,def

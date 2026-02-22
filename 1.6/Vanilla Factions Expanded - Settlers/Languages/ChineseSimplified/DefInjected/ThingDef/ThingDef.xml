@@ -1,79 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A great dress, most often worn by ladies and suffragettes. Greatly enhances social interactions.-->
-  <Apparel_GreatDress.description>一件很棒的衣服，最常被女士和妇女参政论者穿着。大大增强了社交互动。</Apparel_GreatDress.description>
+  <Apparel_GreatDress.description>女士、议员们钟爱的华服，对社交也有相当的助力。</Apparel_GreatDress.description>
   <!--EN: great dress-->
-  <Apparel_GreatDress.label>很棒的衣服</Apparel_GreatDress.label>
+  <Apparel_GreatDress.label>华服</Apparel_GreatDress.label>
   <!--EN: A simple vest, providing a decent layer of insulation from both heat and cold. Greatly enhances social interactions.-->
-  <Apparel_Vest.description>一件简单的背心，提供了一层不错的隔热层和防寒层。大大增强了社交互动。</Apparel_Vest.description>
+  <Apparel_Vest.description>简约而不简单的背心，隔热保温能力优秀，对社交也有相当的助力。</Apparel_Vest.description>
   <!--EN: vest-->
   <Apparel_Vest.label>背心</Apparel_Vest.label>
   <!--EN: A barrel for fermenting chemshine.-->
-  <Building_ChemshineBarrel.description>用于发酵化学物质的桶。</Building_ChemshineBarrel.description>
+  <Building_ChemshineBarrel.description>一个将化合燃料发酵成光醚的桶。</Building_ChemshineBarrel.description>
   <!--EN: chemshine barrel-->
-  <Building_ChemshineBarrel.label>凯盛桶</Building_ChemshineBarrel.label>
+  <Building_ChemshineBarrel.label>光醚发酵桶</Building_ChemshineBarrel.label>
   <!--EN: gattling bullet-->
-  <Bullet_GatlingGun.label>加特林子弹</Bullet_GatlingGun.label>
+  <Bullet_GatlingGun.label>弹雨</Bullet_GatlingGun.label>
   <!--EN: A device that converts chemfuel into heat. Simple machinery doesn't allow the temperature to be adjusted.-->
-  <ChemBoiler.description>将化学燃料转化为热量的装置。简单的机械无法调节温度。</ChemBoiler.description>
+  <ChemBoiler.description>将化合燃料转化为热量的设备。由于结构简单，它并不具备调节温度的功能。</ChemBoiler.description>
   <!--EN: chemboiler-->
-  <ChemBoiler.label>化学锅炉</ChemBoiler.label>
+  <ChemBoiler.label>燃油加热炉</ChemBoiler.label>
   <!--EN: A lamp fueled by chemfuel. Can be safely placed outside.-->
-  <Chemlamp.description>以化学燃料为燃料的灯。可以安全地放置在室外。</Chemlamp.description>
+  <Chemlamp.description>使用化合燃料的燃油灯。可安全地放在室外。</Chemlamp.description>
   <!--EN: chemlamp-->
-  <Chemlamp.label>化学灯</Chemlamp.label>
+  <Chemlamp.label>燃油灯</Chemlamp.label>
   <!--EN: A post with a pre-industrial chemfuel lamp. Can be safely placed outside.-->
-  <ChemlampPost.description>带有工业化前化学燃料灯的柱子。可以安全地放置在室外。</ChemlampPost.description>
+  <ChemlampPost.description>安装有燃油灯的立柱。可安全地放在室外。</ChemlampPost.description>
   <!--EN: chemlamp post-->
-  <ChemlampPost.label>化学灯柱</ChemlampPost.label>
+  <ChemlampPost.label>燃油灯柱</ChemlampPost.label>
   <!--EN: A dangerous alcohol usually consumed by rimworld prospectors and industrial settlers. Whilst it takes away the sadness and pain, chemshine intoxicates the blood of the drinker with chemfuel, resulting in a powerful explosion upon death.-->
-  <Chemshine.description>一种危险的酒精，通常由边缘世界探矿者和工业定居者饮用。虽然它能带走悲伤和疼痛，但化学光会用化学燃料使饮用者的血液中毒，导致死亡时发生强大的爆炸。</Chemshine.description>
+  <Chemshine.description>类酒化学麻醉饮品，闪烁着危险的光芒，通过麻痹引用者的感官来帮助他们暂时忘却痛苦，在边缘世界的底层矿工、拓荒者之间非常流行。如果血液中光醚浓度太高，死亡后会原地爆炸。\n\n不知为何，光醚对雪牛有着难以抵挡的诱惑力。它们会痛饮所能遇到的任何光醚，直到醉倒为止。</Chemshine.description>
   <!--EN: Drink {0}-->
-  <Chemshine.ingestible.ingestCommandString>喝{0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestCommandString>饮用{0}</Chemshine.ingestible.ingestCommandString>
   <!--EN: Drinking {0}.-->
-  <Chemshine.ingestible.ingestReportString>饮酒 {0}。</Chemshine.ingestible.ingestReportString>
+  <Chemshine.ingestible.ingestReportString>正在饮用{0}。</Chemshine.ingestible.ingestReportString>
   <!--EN: chemshine-->
-  <Chemshine.label>化学光</Chemshine.label>
+  <Chemshine.label>光醚</Chemshine.label>
   <!--EN: A saloon door for your country needs. Whilst it doesn't provide much protection, it swings open nearly instantaneously.-->
-  <DoorSaloon.description>满足您所在国家/地区需求的沙龙门。虽然它不能提供太多保护，但它几乎可以立即打开。</DoorSaloon.description>
+  <DoorSaloon.description>美观大方的沙龙门。虽然非常脆弱，但能以极快的速度开关。</DoorSaloon.description>
   <!--EN: saloon door-->
   <DoorSaloon.label>沙龙门</DoorSaloon.label>
   <!--EN: A simple automatic gun made to be mounted on a turret.-->
-  <Gun_GatlingGun.description>一种安装在炮塔上的简单自动枪。</Gun_GatlingGun.description>
+  <Gun_GatlingGun.description>安装在炮塔上的简易加特林机枪。</Gun_GatlingGun.description>
   <!--EN: gatling gun-->
   <Gun_GatlingGun.label>加特林机枪</Gun_GatlingGun.label>
   <!--EN: This highly volatile root is farmed for its chemfuel. It's difficult to harvest and only grows in extremely fertile soil. Despite the risk of a large, chain explosion, these plants are frequently farmed by desperate ranchers and imperial agro-companies alike.-->
-  <Plant_Chemroot.description>这种高度挥发性的根是为其化学燃料而种植的。它很难收获，只能生长在极其肥沃的土壤中。尽管存在大规模爆炸的风险，这些植物仍经常由绝望的牧场主和帝国农业公司种植。</Plant_Chemroot.description>
+  <Plant_Chemroot.description>这种植物高挥发性的根系可用来提取化合燃料。它很难收获，只能在极其肥沃的土壤中生长。尽管存在大规模连锁爆炸的风险，但油气参经常被濒临破产的农场主和唯利是图的帝国农业公司等耕种。</Plant_Chemroot.description>
   <!--EN: chemroot-->
-  <Plant_Chemroot.label>化学根</Plant_Chemroot.label>
+  <Plant_Chemroot.label>油气参</Plant_Chemroot.label>
   <!--EN: An old-styled post to hold down a roof.-->
-  <Post.description>固定屋顶的老式柱子。</Post.description>
+  <Post.description>用来支撑屋顶的老式柱子。</Post.description>
   <!--EN: post-->
-  <Post.label>邮政</Post.label>
+  <Post.label>立柱</Post.label>
   <!--EN: A simple bar stool.-->
-  <StoolBar.description>一个简单的吧台凳。</StoolBar.description>
+  <StoolBar.description>简单的吧台凳。</StoolBar.description>
   <!--EN: bar stool-->
   <StoolBar.label>吧台凳</StoolBar.label>
   <!--EN: Simple, circular table that can be eaten off of.-->
-  <TableCircular.description>简单的圆形桌子，可以在上面吃东西。</TableCircular.description>
+  <TableCircular.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</TableCircular.description>
   <!--EN: Circular table-->
   <TableCircular.label>圆桌</TableCircular.label>
   <!--EN: A soft-topped bound table for playing faro. Allows up to two players at a time.-->
-  <TableFaro.description>用于玩法罗的软顶 绑住的 桌子。一次最多允许两名玩家。</TableFaro.description>
+  <TableFaro.description>用于打法罗牌的小桌。一次最多允许两名玩家。</TableFaro.description>
   <!--EN: faro table-->
-  <TableFaro.label>法鲁表</TableFaro.label>
+  <TableFaro.label>法罗牌桌</TableFaro.label>
   <!--EN: A wooden table for playing five finger fillet. Might lose a finger or two.\n\nWhilst this activity leads to cuts on the fingers of players, it also slowly trains melee skill.-->
-  <TableFiveFingerFilet.description>一张用于演奏五指鱼片的木桌。可能会失去一两根手指。
-
-虽然此活动会导致玩家手指割伤，但它也会慢慢训练近战技能。</TableFiveFingerFilet.description>
+  <TableFiveFingerFilet.description>经典的小游戏，可能会导致手指受伤，可以训练格斗技能。</TableFiveFingerFilet.description>
   <!--EN: five finger fillet table-->
   <TableFiveFingerFilet.label>五指圆角桌</TableFiveFingerFilet.label>
   <!--EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged.-->
-  <Turret_GatlingGun.description>一个便携式的老式炮塔。需要有人操作才能进行操作。大量使用后需要钢材来翻新其枪管。该炮塔开火时间越长，开火速度就会越高。损坏时可能会爆炸。</Turret_GatlingGun.description>
+  <Turret_GatlingGun.description>老式的便携机枪塔。长时间使用后需要大量的钢铁维护炮管。射击时间越长，冷却越短。损坏时可能会爆炸。</Turret_GatlingGun.description>
   <!--EN: gatling gun turret-->
-  <Turret_GatlingGun.label>加特林炮塔</Turret_GatlingGun.label>
+  <Turret_GatlingGun.label>加特林机枪塔</Turret_GatlingGun.label>
   <!--EN: An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw.-->
-  <VFES_Gun_DoubleActionRevolver.description>一种古老图案的双动左轮手枪。它不是很精确，但对于手枪来说具有不错的射击速度并且开枪速度很快。</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.description>古老的双动式左轮手枪。准头较差，射速一般，冷却时间短。</VFES_Gun_DoubleActionRevolver.description>
   <!--EN: double-action revolver-->
   <VFES_Gun_DoubleActionRevolver.label>双动左轮手枪</VFES_Gun_DoubleActionRevolver.label>
   <!--EN: grip-->
@@ -81,7 +79,7 @@
   <!--EN: barrel-->
   <VFES_Gun_DoubleActionRevolver.tools.1.label>桶</VFES_Gun_DoubleActionRevolver.tools.1.label>
   <!--EN: An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets.-->
-  <VFES_Gun_DoubleBarreledShotgun.description>一种古老设计的霰弹枪，有两个单独装载的枪管，可发射紧密的弹丸喷雾。</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.description>古老的双管独立填充式霰弹枪，能发射出密集的小弹丸。</VFES_Gun_DoubleBarreledShotgun.description>
   <!--EN: double-barreled shotgun-->
   <VFES_Gun_DoubleBarreledShotgun.label>双管霰弹枪</VFES_Gun_DoubleBarreledShotgun.label>
   <!--EN: stock-->
@@ -89,45 +87,45 @@
   <!--EN: barrel-->
   <VFES_Gun_DoubleBarreledShotgun.tools.1.label>桶</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
   <!--EN: An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting.-->
-  <VFES_Gun_HuntingRifle.description>一种带有瞄准镜的古代式栓动步枪。凭借其出色的射程和较低的射速，它不太可能驱使动物进行报复，这使其成为狩猎的绝佳选择。</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.description>古老的栓动式步枪，配备有瞄准镜。射程极远，射速低，不容易吸引到猎物的仇恨，非常适合打猎。</VFES_Gun_HuntingRifle.description>
   <!--EN: hunting rifle-->
-  <VFES_Gun_HuntingRifle.label>狩猎步枪</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.label>猎枪</VFES_Gun_HuntingRifle.label>
   <!--EN: stock-->
   <VFES_Gun_HuntingRifle.tools.0.label>库存</VFES_Gun_HuntingRifle.tools.0.label>
   <!--EN: barrel-->
   <VFES_Gun_HuntingRifle.tools.1.label>桶</VFES_Gun_HuntingRifle.tools.1.label>
   <!--EN: A warm and long piece of fabric protecting the jaw from exposure to wind. Makes one hard to remember.-->
-  <VFES_Headgear_Bandana.description>一块温暖的长织物，保护下巴免受风吹。让人很难记住。</VFES_Headgear_Bandana.description>
+  <VFES_Headgear_Bandana.description>温暖的长条型织物，保护颌部免遭风吹日晒，也能掩盖自己的相貌。</VFES_Headgear_Bandana.description>
   <!--EN: bandana-->
-  <VFES_Headgear_Bandana.label>一个覆盖头部和胸部的面纱，主要用于遮盖头发。</VFES_Headgear_Bandana.label>
+  <VFES_Headgear_Bandana.label>方巾</VFES_Headgear_Bandana.label>
   <!--EN: A flat and handy cap. Somewhat protecting from the sun. Worn by settlers and colonists during their daily occupations.-->
-  <VFES_Headgear_FlatCap.description>扁平且方便的帽子。有点防晒。定居者和殖民者在日常工作中穿着。</VFES_Headgear_FlatCap.description>
+  <VFES_Headgear_FlatCap.description>平顶便帽，可以防晒，拓荒者们在工作时常戴的帽子。</VFES_Headgear_FlatCap.description>
   <!--EN: flat cap-->
-  <VFES_Headgear_FlatCap.label>平帽</VFES_Headgear_FlatCap.label>
+  <VFES_Headgear_FlatCap.label>平顶帽</VFES_Headgear_FlatCap.label>
   <!--EN: Used to shield the wearer from the sun. Required for any kind of stand-off.-->
-  <VFES_Headgear_Sombrero.description>用于保护佩戴者免受阳光照射。任何类型的对峙都需要。</VFES_Headgear_Sombrero.description>
+  <VFES_Headgear_Sombrero.description>为穿戴着遮挡毒辣的阳光。</VFES_Headgear_Sombrero.description>
   <!--EN: sombrero-->
-  <VFES_Headgear_Sombrero.label>阔边帽</VFES_Headgear_Sombrero.label>
+  <VFES_Headgear_Sombrero.label>宽边帽</VFES_Headgear_Sombrero.label>
   <!--EN: frag grenade-->
-  <VFES_Proj_Dynamite.label>破片手榴弹</VFES_Proj_Dynamite.label>
+  <VFES_Proj_Dynamite.label>雷管破片</VFES_Proj_Dynamite.label>
   <!--EN: A single-handed axe resembling of a hatchet. Light enough to be thrown accurately at medium range.-->
-  <VFES_Tomahawk.description>类似斧头的单手斧头。足够轻，可以在中距离准确投掷。</VFES_Tomahawk.description>
+  <VFES_Tomahawk.description>一样类似斧头的单手飞斧。十分轻巧，在中程投掷时精准度很高。</VFES_Tomahawk.description>
   <!--EN: tomahawk-->
-  <VFES_Tomahawk.label>钺</VFES_Tomahawk.label>
+  <VFES_Tomahawk.label>飞斧</VFES_Tomahawk.label>
   <!--EN: handle-->
   <VFES_Tomahawk.tools.0.label>处理</VFES_Tomahawk.tools.0.label>
   <!--EN: blade-->
   <VFES_Tomahawk.tools.1.label>刀刃</VFES_Tomahawk.tools.1.label>
   <!--EN: throwing tomahawk-->
-  <VFES_Tomahawk_Thrown.label>投掷战斧</VFES_Tomahawk_Thrown.label>
+  <VFES_Tomahawk_Thrown.label>投掷飞斧</VFES_Tomahawk_Thrown.label>
   <!--EN: A makeshift explosive stick of chemfuel. They can be thrown a short distance, where it will explode after a random amount of time.-->
-  <VFES_Weapon_GrenadeDynamite.description>化学燃料的临时炸药棒。它们可以被扔出很短的距离，在随机的时间后它会爆炸。</VFES_Weapon_GrenadeDynamite.description>
+  <VFES_Weapon_GrenadeDynamite.description>填充了化合燃料的简陋炸药棒。可以近距离投掷，一段时间后会爆炸。</VFES_Weapon_GrenadeDynamite.description>
   <!--EN: dynamite-->
-  <VFES_Weapon_GrenadeDynamite.label>炸药</VFES_Weapon_GrenadeDynamite.label>
+  <VFES_Weapon_GrenadeDynamite.label>雷管</VFES_Weapon_GrenadeDynamite.label>
   <!--EN: throw dynamite-->
   <VFES_Weapon_GrenadeDynamite.verbs.0.label>扔炸药</VFES_Weapon_GrenadeDynamite.verbs.0.label>
   <!--EN: A wind-powered electrical generator of older make. Requires a large clear space in front and behind for optimal air flow.-->
-  <Windmill.description>老式风力发电机。前后需要有较大的净空间，以实现最佳气流。</Windmill.description>
+  <Windmill.description>老式风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。</Windmill.description>
   <!--EN: windmill-->
   <Windmill.label>风车</Windmill.label>
 </LanguageData>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle.-->
+  <VFED_Aerodrone.description>Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle.</VFED_Aerodrone.description>
+  <!--EN: aerodrone-->
+  <VFED_Aerodrone.label>aerodrone</VFED_Aerodrone.label>
+  <!--EN: A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses.-->
+  <VFED_AerodroneBatteryPack.description>A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses.</VFED_AerodroneBatteryPack.description>
+  <!--EN: aerodrone battery pack-->
+  <VFED_AerodroneBatteryPack.label>aerodrone battery pack</VFED_AerodroneBatteryPack.label>
+  <!--EN: A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions.-->
+  <VFED_AerodroneMunitionsCrate.description>A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions.</VFED_AerodroneMunitionsCrate.description>
+  <!--EN: aerodrone munitions crate-->
+  <VFED_AerodroneMunitionsCrate.label>aerodrone munitions crate</VFED_AerodroneMunitionsCrate.label>
+  <!--EN: A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged.-->
+  <VFED_AmmoBox_Autocannon.description>A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged.</VFED_AmmoBox_Autocannon.description>
+  <!--EN: autocannon ammo box-->
+  <VFED_AmmoBox_Autocannon.label>autocannon ammo box</VFED_AmmoBox_Autocannon.label>
+  <!--EN: A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged.-->
+  <VFED_AmmoBox_Missile.description>A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged.</VFED_AmmoBox_Missile.description>
+  <!--EN: missile ammo box-->
+  <VFED_AmmoBox_Missile.label>missile ammo box</VFED_AmmoBox_Missile.label>
+  <!--EN: A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged.-->
+  <VFED_AmmoBox_UraniumSlug.description>A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged.</VFED_AmmoBox_UraniumSlug.description>
+  <!--EN: uranium slug ammo box-->
+  <VFED_AmmoBox_UraniumSlug.label>uranium slug ammo box</VFED_AmmoBox_UraniumSlug.label>
+  <!--EN: A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it.\n\nAny attempt to destroy it will destroy the items as well.-->
+  <VFED_BiosecuredCrate.description>A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it.\n\nAny attempt to destroy it will destroy the items as well.</VFED_BiosecuredCrate.description>
+  <!--EN: biosecured crate-->
+  <VFED_BiosecuredCrate.label>biosecured crate</VFED_BiosecuredCrate.label>
+  <!--EN: A deserter device capable of intercepting imperial communication. When activated, it will begin intel scraping, emitting a pulse in regular intervals. Each pulse has a chance of generating a small amount of intel, but it may also increase your visibility and even alert an imperial strike force. After 10 pulses, the machine burns out and triggers a fiery explosion.-->
+  <VFED_BurnoutIntelScraper.description>A deserter device capable of intercepting imperial communication. When activated, it will begin intel scraping, emitting a pulse in regular intervals. Each pulse has a chance of generating a small amount of intel, but it may also increase your visibility and even alert an imperial strike force. After 10 pulses, the machine burns out and triggers a fiery explosion.</VFED_BurnoutIntelScraper.description>
+  <!--EN: burnout intel scraper-->
+  <VFED_BurnoutIntelScraper.label>burnout intel scraper</VFED_BurnoutIntelScraper.label>
+  <!--EN: A crashed imperial aerodrone.-->
+  <VFED_CrashedAerodrone.description>A crashed imperial aerodrone.</VFED_CrashedAerodrone.description>
+  <!--EN: crashed aerodrone-->
+  <VFED_CrashedAerodrone.label>crashed aerodrone</VFED_CrashedAerodrone.label>
+  <!--EN: A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction.-->
+  <VFED_FuelTank.description>A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction.</VFED_FuelTank.description>
+  <!--EN: fuel tank-->
+  <VFED_FuelTank.label>fuel tank</VFED_FuelTank.label>
+  <!--EN: The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield.-->
+  <VFED_ImperialMaxpack.description>The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield.</VFED_ImperialMaxpack.description>
+  <!--EN: imperial maxpack-->
+  <VFED_ImperialMaxpack.label>imperial maxpack</VFED_ImperialMaxpack.label>
+  <!--EN: An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power.-->
+  <VFED_ImperialMegaHighShield.description>An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power.</VFED_ImperialMegaHighShield.description>
+  <!--EN: imperial mega high-shield-->
+  <VFED_ImperialMegaHighShield.label>imperial mega high-shield</VFED_ImperialMegaHighShield.label>
+  <!--EN: An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate.-->
+  <VFED_ImperialUnderfarm.description>An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate.</VFED_ImperialUnderfarm.description>
+  <!--EN: imperial underfarm-->
+  <VFED_ImperialUnderfarm.label>imperial underfarm</VFED_ImperialUnderfarm.label>
+  <!--EN: A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location.-->
+  <VFED_StrikeBuoy.description>A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location.</VFED_StrikeBuoy.description>
+  <!--EN: strike buoy-->
+  <VFED_StrikeBuoy.label>strike buoy</VFED_StrikeBuoy.label>
+  <!--EN: A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while.\n\nAny attempt to destroy it will destroy the items as well.-->
+  <VFED_SupplyCrate.description>A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while.\n\nAny attempt to destroy it will destroy the items as well.</VFED_SupplyCrate.description>
+  <!--EN: supply crate-->
+  <VFED_SupplyCrate.label>supply crate</VFED_SupplyCrate.label>
+  <!--EN: An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector.-->
+  <VFED_SurveillanceDisplayBank.description>An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector.</VFED_SurveillanceDisplayBank.description>
+  <!--EN: surveillance display bank-->
+  <VFED_SurveillanceDisplayBank.label>surveillance display bank</VFED_SurveillanceDisplayBank.label>
+  <!--EN: A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid.-->
+  <VFED_SurveillancePillar.description>A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid.</VFED_SurveillancePillar.description>
+  <!--EN: surveillance pillar-->
+  <VFED_SurveillancePillar.label>surveillance pillar</VFED_SurveillancePillar.label>
+  <!--EN: A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector.-->
+  <VFED_SurveillanceStation.description>A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector.</VFED_SurveillanceStation.description>
+  <!--EN: surveillance console-->
+  <VFED_SurveillanceStation.label>surveillance console</VFED_SurveillanceStation.label>
+  <!--EN: A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames.-->
+  <VFED_TechiteDiscStack.description>A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames.</VFED_TechiteDiscStack.description>
+  <!--EN: techite disc stack-->
+  <VFED_TechiteDiscStack.label>techite disc stack</VFED_TechiteDiscStack.label>
+  <!--EN: The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies.-->
+  <VFED_Techprinter.description>The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies.</VFED_Techprinter.description>
+  <!--EN: techprinter-->
+  <VFED_Techprinter.label>techprinter</VFED_Techprinter.label>
+  <!--EN: A large node connecting all the nearby water mains. Required for the underfarms to operate.-->
+  <VFED_WaterMain.description>A large node connecting all the nearby water mains. Required for the underfarms to operate.</VFED_WaterMain.description>
+  <!--EN: water main-->
+  <VFED_WaterMain.label>water main</VFED_WaterMain.label>
+  <!--EN: A relic of ancient Sophiamundan technology, the Zeus Cannon is a closely guarded secret of the Empire. This formidable artillery piece has the unique ability to convert vast quantities of electricity into potent energy blasts. With unmatched range, it can pierce the atmosphere to target and obliterate objects in orbit. A testament to lost engineering brilliance, it stands as both a weapon and a symbol of the Empire's might.\n\nIt has a long charging cycle, after which it will aim at the target and release a devastating energy blast.-->
+  <VFED_ZeusCannon.description>A relic of ancient Sophiamundan technology, the Zeus Cannon is a closely guarded secret of the Empire. This formidable artillery piece has the unique ability to convert vast quantities of electricity into potent energy blasts. With unmatched range, it can pierce the atmosphere to target and obliterate objects in orbit. A testament to lost engineering brilliance, it stands as both a weapon and a symbol of the Empire's might.\n\nIt has a long charging cycle, after which it will aim at the target and release a devastating energy blast.</VFED_ZeusCannon.description>
+  <!--EN: zeus cannon-->
+  <VFED_ZeusCannon.label>zeus cannon</VFED_ZeusCannon.label>
+  <!--EN: A capacitor bank that transforms electricity into raw energy for the Zeus cannon. Will release a large EMP shockwave when destroyed, potentially disabling the Zeus cannon itself.-->
+  <VFED_ZeusCannonCapacitorBank.description>A capacitor bank that transforms electricity into raw energy for the Zeus cannon. Will release a large EMP shockwave when destroyed, potentially disabling the Zeus cannon itself.</VFED_ZeusCannonCapacitorBank.description>
+  <!--EN: zeus cannon capacitor bank-->
+  <VFED_ZeusCannonCapacitorBank.label>zeus cannon capacitor bank</VFED_ZeusCannonCapacitorBank.label>
+  <!--EN: This terminal serves as the primary interface for operating the Zeus Cannon batteries. Equipped with sophisticated controls and targeting systems, the Zeus Cannon Control Station ensures precision and coordination when deploying the formidable firepower of the Zeus Cannons. Operators need to be within its radius to control it.-->
+  <VFED_ZeusCannonControlStation.description>This terminal serves as the primary interface for operating the Zeus Cannon batteries. Equipped with sophisticated controls and targeting systems, the Zeus Cannon Control Station ensures precision and coordination when deploying the formidable firepower of the Zeus Cannons. Operators need to be within its radius to control it.</VFED_ZeusCannonControlStation.description>
+  <!--EN: zeus cannon control station-->
+  <VFED_ZeusCannonControlStation.label>zeus cannon control station</VFED_ZeusCannonControlStation.label>
+</LanguageData>

@@ -1,0 +1,109 @@
+key,text,tag,file,type
+VRE_InfectionLabel,"Gene infection ({0}), {1}",VRE_InfectionLabel,Misc_Gameplay.xml,keyed
+VRE_InfectionDescription,"Infection caused by the contact with a {0}. Upon reaching 100%, colonist will turn into a {0}",VRE_InfectionDescription,Misc_Gameplay.xml,keyed
+VRE_InfectedLabel,Gene infected ({0} days),VRE_InfectedLabel,Misc_Gameplay.xml,keyed
+VRE_InfectionChance,Gene infection chance,VRE_InfectionChance,Misc_Gameplay.xml,keyed
+VRE_InfectionChanceDesc,"Chance of the gene infection to infect the target. By default it is 20%. Bear in mind this only applies to claw and teeth attacks, if the person with a gene infector gene carries melee weapons this will reduce infection chances.",VRE_InfectionChanceDesc,Misc_Gameplay.xml,keyed
+VRE_Reset,Reset,VRE_Reset,Misc_Gameplay.xml,keyed
+VRE_FungoidApocalypse,Fungoid apocalypse,VRE_FungoidApocalypse,Misc_Gameplay.xml,keyed
+VRE_FungoidApocalypseDesc,"With this mod option enabled, ALL incoming humanoid raids will be fungoids!",VRE_FungoidApocalypseDesc,Misc_Gameplay.xml,keyed
+VRE_TextMote_RepulsiveColonist,Repulsive colonist!,VRE_TextMote_RepulsiveColonist,Misc_Gameplay.xml,keyed
+VRE_Infection.label,gene infection,label,DamageDef/Damages.xml,def
+VRE_Infection_Bite.label,gene infection,label,DamageDef/Damages.xml,def
+VRE_SkillLoss.label,skills,label,GeneCategoryDef/GeneCategoryDefs.xml,def
+VRE_MindCoalescence.label,mind coalescence,label,GeneDef/GeneDefs_Archite.xml,def
+VRE_MindCoalescence.description,"Carriers of this gene have a psychic connection to other carriers, allowing them to share some of the emotions with them. A portion of average happiness gets shared with mind coalescent individuals. Due to that, they also all share mental states and suffer them at the same time.",description,GeneDef/GeneDefs_Archite.xml,def
+VRE_GeneInfector.label,gene infector,label,GeneDef/GeneDefs_Archite.xml,def
+VRE_GeneInfector.description,"Carriers of this gene implant a copy of their xenogerm into another person through attacks with their claws or teeth. This in turn triggers a progressing infection in the victim, which if left untreated will apply the carrier’s xenogerm to them.",description,GeneDef/GeneDefs_Archite.xml,def
+VRE_Repulsive.label,repulsive,label,GeneDef/GeneDefs_Beauty.xml,def
+VRE_Repulsive.description,"Carriers of this gene have twisted, unnatural, terrifying looks. They barely resemble humans. Any social interactions with them can people sick.",description,GeneDef/GeneDefs_Beauty.xml,def
+VRE_RotBlood.label,rotblood,label,GeneDef/GeneDefs_Blood.xml,def
+VRE_RotBlood.description,Carriers of this gene bleed stinking rot blood.,description,GeneDef/GeneDefs_Blood.xml,def
+VRE_FungalCrest.label,fungal crest,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FungalCrest.description,"Carriers of this gene grow a large, colorful fungal crest protruding from the top of their head.",description,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_HairMushroom.label,fungal hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_DarkTan.label,dark tan hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_SwampGreen.label,swamp green hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_Salmon.label,salmon hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_Wenge.label,wenge hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_Tumbleweed.label,tumbleweed hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_RoseTaupe.label,rose taupe hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_Fungoid_Hair_MistyMoss.label,misty moss hair,label,GeneDef/GeneDefs_Cosmetic.xml,def
+VRE_FungalArmor.label,fungal armor,label,GeneDef/GeneDefs_GeneInfection.xml,def
+VRE_FungalArmor.description,"Carriers of this gene have fungal weave in their skin, greatly decreasing incoming damage. The effects increase in severity with time.",description,GeneDef/GeneDefs_GeneInfection.xml,def
+VRE_FungalRegeneration.label,fungal regeneration,label,GeneDef/GeneDefs_GeneInfection.xml,def
+VRE_FungalRegeneration.description,Carriers of this gene are capable of fungal regeneration. The effects increase in severity with time.,description,GeneDef/GeneDefs_GeneInfection.xml,def
+VRE_TotalAntirotLungs.label,total antirot lungs,label,GeneDef/GeneDefs_Health.xml,def
+VRE_TotalAntirotLungs.description,Carriers of this gene are immune to rot stink exposure.,description,GeneDef/GeneDefs_Health.xml,def
+VRE_PartialAntirotLungs.label,partial antirot lungs,label,GeneDef/GeneDefs_Health.xml,def
+VRE_PartialAntirotLungs.description,Carriers of this gene build up rot stink exposure slower.,description,GeneDef/GeneDefs_Health.xml,def
+VRE_FungalFlesh.label,fungal flesh,label,GeneDef/GeneDefs_Misc.xml,def
+VRE_FungalFlesh.description,Carriers of this gene have fungal matter in their flesh. Consuming any fungus by them is classed as cannibalism.,description,GeneDef/GeneDefs_Misc.xml,def
+VRE_Telepathy.label,telepathy,label,GeneDef/GeneDefs_Misc.xml,def
+VRE_Telepathy.description,Carriers of this gene can communicate with other carriers of this gene via psychic telepathy. Proximity is not required for social interactions.,description,GeneDef/GeneDefs_Misc.xml,def
+VRE_ExtremeSkillLoss.label,extreme skill loss,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_ExtremeSkillLoss.description,Carriers of this gene forget skills twice as fast.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_SevereSkillLoss.label,severe skill loss,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_SevereSkillLoss.description,Carriers of this gene forget skills 50% faster.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_MinorSkillLoss.label,minor skill loss,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_MinorSkillLoss.description,Carriers of this gene forget skills half as slow.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_NoSkillLoss.label,no skill loss,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_NoSkillLoss.description,Carriers of this gene do not suffer from forgetting skills.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_SkillDegradation.label,skill degradation,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_SkillDegradation.description,Carriers of this gene suffer from forgetting skills regardless of their current skill level.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_NoStudy.label,no study,label,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_NoStudy.description,Carriers of this gene are incapable of learning new skills.,description,GeneDef/GeneDefs_SkillLoss.xml,def
+VRE_DeadVoice.label,dead voice,label,GeneDef/GeneDefs_Voices.xml,def
+VRE_DeadVoice.description,"Carriers of this gene have a raspy, sickly voice.",description,GeneDef/GeneDefs_Voices.xml,def
+VRE_Fungoid.label,fungoid,label,XenotypeDef/XenotypeDefs.xml,def
+VRE_Fungoid.description,"A private military project gone awry, fungoids were initially developed as militarized mycelium to be deployed against the increasingly prevalent Insectoid threat. Subjects eventually succumb to degradation of higher reasoning skills but develop increasing resistance to injury and subsequent recovery. Can infect non-carriers through melee attacks, which is their main method of reproduction, if left untreated.\n\nDuring initial testing phases, the fungoid genome successfully infected numerous insectoid test subjects which were then released into controlled sites to determine their actual viability. In order to reduce their reliance on archite capsules, carriers were capable of transmitting infections through touch or airborne particles. However, foreign insectoids destroyed them as well as any of their own that showed signs of infection. Further still, due to the infectivity of the mycelium, any humans that were working on the project became infected.\n\nDue to concerns and misunderstandings on treatment, the operation site was glassed, but many of those present had managed to flee into orbit, only to become carriers themselves and infect others.",description,XenotypeDef/XenotypeDefs.xml,def
+VRE_Fungoid.descriptionShort,"A private military project gone awry, fungoids were initially developed as militarized mycelium to be deployed against the increasingly prevalent Insectoid threat. Subjects eventually succumb to degradation of higher reasoning skills but develop increasing resistance to injury and subsequent recovery. Can infect non-carriers through melee attacks, which is their main method of reproduction, if left untreated.",descriptionShort,XenotypeDef/XenotypeDefs.xml,def
+VRE_FungoidHairs.label,fungoid,label,StyleItemCategoryDef/HairDefs.xml,def
+VRE_Hair_Agaricus.label,agaricus,label,HairDef/HairDefs.xml,def
+VRE_Hair_Boletus.label,boletus,label,HairDef/HairDefs.xml,def
+VRE_Hair_Chanterelle.label,chanterelle,label,HairDef/HairDefs.xml,def
+VRE_Hair_Cordyceps.label,cordyceps,label,HairDef/HairDefs.xml,def
+VRE_Hair_Cyclocybe.label,cyclocybe,label,HairDef/HairDefs.xml,def
+VRE_Hair_Flammulina.label,flammulina,label,HairDef/HairDefs.xml,def
+VRE_Hair_Hydnum.label,hydnum,label,HairDef/HairDefs.xml,def
+VRE_Hair_Matsutake.label,matsutake,label,HairDef/HairDefs.xml,def
+VRE_Hair_Morels.label,morels,label,HairDef/HairDefs.xml,def
+VRE_Hair_Portabella.label,portabella,label,HairDef/HairDefs.xml,def
+VRE_Hair_Redcap.label,redcap,label,HairDef/HairDefs.xml,def
+VRE_InfectorMouth.label,infector mouth,label,HediffDef/Hediffs_Attacks.xml,def
+VRE_InfectorMouth.description,Melee attacks from this person have a 20% chance to spread a gene infection.,description,HediffDef/Hediffs_Attacks.xml,def
+VRE_InfectorMouth.comps.0.tools.0.label,infector mouth,label,HediffDef/Hediffs_Attacks.xml,def
+VRE_InfectorHands.label,infector hand,label,HediffDef/Hediffs_Attacks.xml,def
+VRE_InfectorHands.description,Melee attacks from this person have a 20% chance to spread a gene infection.,description,HediffDef/Hediffs_Attacks.xml,def
+VRE_InfectorHands.comps.0.tools.0.label,infector hand,label,HediffDef/Hediffs_Attacks.xml,def
+VRE_FungalArmor.label,fungal armor,label,HediffDef/Hediffs_GeneInfection.xml,def
+VRE_FungalArmor.description,"This person has a fungal weave in their skin, greatly decreasing incoming damage. The effects increase in severity with time.",description,HediffDef/Hediffs_GeneInfection.xml,def
+VRE_FungalRegeneration.label,fungal regeneration,label,HediffDef/Hediffs_GeneInfection.xml,def
+VRE_FungalRegeneration.description,This person is capable of fungal regeneration. The effects increase in severity with time.,description,HediffDef/Hediffs_GeneInfection.xml,def
+VRE_GeneInfection.label,gene infection,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.labelNoun,a gene infection,labelNoun,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.description,"This person was implanted a copy of a xenogerm through a melee attack. This has triggered a progressing infection which, if left untreated will apply this xenogerm to them.",description,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.comps.2.discoverLetterText,"{0} has been afflicted with a gene infection! If the infection is not treated successfully, they'll be painfully converted into the xenotype of the person who infected them.",discoverLetterText,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.stages.0.label,minor,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.stages.1.label,major,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.stages.2.label,extreme,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfection.stages.3.label,extreme,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfected.label,gene infected,label,HediffDef/Hediffs_Health.xml,def
+VRE_GeneInfected.description,This person was the victim of a gene infection that altered their xenotype. This can't be cured.,description,HediffDef/Hediffs_Health.xml,def
+VRE_SelectiveBerserk.label,mindless rage,label,MentalStateDef/MentalStates_Special.xml,def
+VRE_SelectiveBerserk.beginLetter,{0} is raging!,beginLetter,MentalStateDef/MentalStates_Special.xml,def
+VRE_SelectiveBerserk.recoveryMessage,{0}'s rage has come to an end.,recoveryMessage,MentalStateDef/MentalStates_Special.xml,def
+VRE_SelectiveBerserk.baseInspectLine,Raging,baseInspectLine,MentalStateDef/MentalStates_Special.xml,def
+VRE_AncientFungoid.label,ancient fungoid,label,PawnKindDef/PawnKinds_AncientFungoids.xml,def
+VRE_FungoidShipPartCrash.label,ship part crash (fungoid),label,IncidentDef/Incidents_Map_Threats.xml,def
+VRE_FungoidShipPartCrash.letterLabel,Fungoid ship,letterLabel,IncidentDef/Incidents_Map_Threats.xml,def
+VRE_FungoidShipPartCrash.letterText,"A large piece of an ancient ship has crashed nearby.\n\nYour colonists have heard the stories of the dawn of space exploration and all the ancient vessels that went missing in outer space. Judging by the markings, it must be one of those vessels. They can hear scratching and growling emanating from the inside.\n\nDestroy it as soon as possible. But beware - something may emerge when you open fire at the ship.",letterText,IncidentDef/Incidents_Map_Threats.xml,def
+VRE_FungoidShipPart.label,ship part (fungoid),label,ThingDef/Buildings_Exotic.xml,def
+VRE_FungoidShipPart.description,"An ancient ship part, torn off of an old space exploration craft, mostly destroyed on reentry. It might be thousands of years old.\n\nThis one may contain one or more of the remaining space crew. Governments used to send out crafts filled with immortal fungoids, wicked, twisted experimental xenotypes that can survive the centuries-long space journeys. The fungoids onboard have most likely lost their sense of self long ago. They must have been stuck in this space craft module for hundreds of years.",description,ThingDef/Buildings_Exotic.xml,def
+VRE_AncientAstrosuit.label,ancient astrosuit,label,ThingDef/Apparel_Various.xml,def
+VRE_AncientAstrosuit.description,"A resilient relic from the spacer astronaut era. Offers unmatched insulation and near total fire resistance, safeguarding wearers from environmental hazards in space. Its outdated design significantly hampers movement, making wearers slow and less agile. Despite its minimal armor capabilities, its historical significance as a piece of early space exploration history remains undiminished.",description,ThingDef/Apparel_Various.xml,def
+VRE_Filth_RotBlood.label,rotblood,label,ThingDef/Filth_Various.xml,def
+VRE_CoalescenceThought.stages.0.label,mind coalescence,label,ThoughtDef/Thoughts_Situation_Needs.xml,def
+VRE_CoalescenceThought.stages.0.description,We are many. We feel alike.,description,ThoughtDef/Thoughts_Situation_Needs.xml,def
+VRE_Infection.label,gene infection,label,ToolCapacityDef/ToolCapacity.xml,def
+VRE_Infection_Bite.label,gene infection,label,ToolCapacityDef/ToolCapacity.xml,def

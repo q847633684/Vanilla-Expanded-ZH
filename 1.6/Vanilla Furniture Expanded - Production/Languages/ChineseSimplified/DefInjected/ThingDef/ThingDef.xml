@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A workbench equipped with advanced tools to produce components.-->
-  <VFE_ComponentFabricationBench.description>配备先进工具的工作台，用于生产组件。</VFE_ComponentFabricationBench.description>
+  <VFE_ComponentFabricationBench.description>一个配备了先进工具的简易工作台，可用于生产零部件。</VFE_ComponentFabricationBench.description>
   <!--EN: assembly bench-->
-  <VFE_ComponentFabricationBench.label>装配台</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.label>简易装配台</VFE_ComponentFabricationBench.label>
   <!--EN: Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.-->
-  <VFE_DrugCabinet.description>放置在药物实验室附近时可提高工作速度。一个工作台可连接两个药柜。</VFE_DrugCabinet.description>
+  <VFE_DrugCabinet.description>用于提高放置在附近的药物实验台的工作效率。一个药物实验台最多可以同时连接两个药品柜。</VFE_DrugCabinet.description>
   <!--EN: drug cabinet-->
   <VFE_DrugCabinet.label>药品柜</VFE_DrugCabinet.label>
   <!--EN: Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets.-->
-  <VFE_FabricationCabinet.description>放置在制造台附近时可提高工作速度。一台工作台最多可连接两个制造柜。</VFE_FabricationCabinet.description>
+  <VFE_FabricationCabinet.description>用于提高放置在附近的精密装配台的工作效率。一个精密装配台最多可以同时连接两个装配柜。</VFE_FabricationCabinet.description>
   <!--EN: fabrication cabinet-->
-  <VFE_FabricationCabinet.label>制造柜</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.label>装配柜</VFE_FabricationCabinet.label>
   <!--EN: A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.-->
-  <VFE_FueledSmelter.description>一个以木材为燃料的冶炼站。从矿渣块和其他混合金属物品中提取可用金属。</VFE_FueledSmelter.description>
+  <VFE_FueledSmelter.description>从钢渣和其他含有金属的物品中提炼出有用的金属。消耗燃料。</VFE_FueledSmelter.description>
   <!--EN: fueled smelter-->
-  <VFE_FueledSmelter.label>燃料冶炼厂</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.label>熔炼器（燃料）</VFE_FueledSmelter.label>
   <!--EN: Increases work speed when placed nearby a cooking stove.-->
-  <VFE_KitchenSinkCabinet.description>放置在炉灶附近时可提高工作速度。</VFE_KitchenSinkCabinet.description>
+  <VFE_KitchenSinkCabinet.description>用于提高放置在附近的炉灶的工作效率。一个炉灶最多可以同时连接一个洗涤柜。</VFE_KitchenSinkCabinet.description>
   <!--EN: kitchen sink cabinet-->
-  <VFE_KitchenSinkCabinet.label>厨房水槽柜</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.label>洗涤柜</VFE_KitchenSinkCabinet.label>
   <!--EN: Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.-->
-  <VFE_MachiningCabinet.description>放置在加工台附近时可提高工作速度。一台工作台可连接两台加工柜。</VFE_MachiningCabinet.description>
+  <VFE_MachiningCabinet.description>用于提高放置在附近的机械加工台的工作效率。一个机械加工台最多可以同时连接两个工控柜。</VFE_MachiningCabinet.description>
   <!--EN: machining cabinet-->
-  <VFE_MachiningCabinet.label>机加工柜</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.label>工控柜</VFE_MachiningCabinet.label>
   <!--EN: Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.-->
-  <VFE_SmithyCabinet.description>放置在铁匠铺附近时可以提高工作速度。一张工作台可连接两个铁匠柜。</VFE_SmithyCabinet.description>
+  <VFE_SmithyCabinet.description>用于提高放置在附近的锻造台的工作效率。一个锻造台最多可以同时连接两个锻造柜。</VFE_SmithyCabinet.description>
   <!--EN: smithing cabinet-->
   <VFE_SmithyCabinet.label>锻造柜</VFE_SmithyCabinet.label>
   <!--EN: A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.-->
-  <VFE_TableButcherElectric.description>带有旋转锯片的电动工作台，用于更快地将死去的生物屠宰成精确的生肉片。消耗大量电力。</VFE_TableButcherElectric.description>
+  <VFE_TableButcherElectric.description>一个用于将死掉的动物宰成肉块的厚重桌子。消耗大量电力。</VFE_TableButcherElectric.description>
   <!--EN: electric butcher-->
-  <VFE_TableButcherElectric.label>电动屠宰机</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.label>屠宰台（电力）</VFE_TableButcherElectric.label>
   <!--EN: An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.-->
-  <VFE_TableDrugLabElectric.description>配备容器、加热器和测量装置的先进工作台，可更高效地生产各种药品。消耗大量电力。</VFE_TableDrugLabElectric.description>
+  <VFE_TableDrugLabElectric.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。消耗大量电力。</VFE_TableDrugLabElectric.description>
   <!--EN: electric drug lab-->
-  <VFE_TableDrugLabElectric.label>电动药物实验室</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.label>药物实验台（电力）</VFE_TableDrugLabElectric.label>
   <!--EN: A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.-->
-  <VFE_TableMachiningLarge.description>工作台配备先进的工具和足够的空间，可以在更短的时间内用更简单的材料创造出技术奇迹。消耗电力。</VFE_TableMachiningLarge.description>
+  <VFE_TableMachiningLarge.description>配备先进工具和足够空间的工作台，可在更短的时间内用较简单的材料制成物品。 需要消耗电力。</VFE_TableMachiningLarge.description>
   <!--EN: large machining table-->
-  <VFE_TableMachiningLarge.label>大型加工台</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.label>机械加工中心</VFE_TableMachiningLarge.label>
   <!--EN: An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.-->
-  <VFE_TableSmithyLarge.description>用于锻造非机械武器和工具的电动工作中心。消耗大量电力。</VFE_TableSmithyLarge.description>
+  <VFE_TableSmithyLarge.description>用于锻造非机械武器和工具的电动工作台。耗电很大。</VFE_TableSmithyLarge.description>
   <!--EN: large electric smithy-->
-  <VFE_TableSmithyLarge.label>大型电铁匠铺</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.label>锻造中心</VFE_TableSmithyLarge.label>
   <!--EN: An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.-->
-  <VFE_TableStonecutterElectric.description>先进的工作台，配有电锯和支架，可在装配线上在更短的时间内将石块切割成可用的块。消耗大量电力。</VFE_TableStonecutterElectric.description>
+  <VFE_TableStonecutterElectric.description>一个配备有切石工具的工作台。用于把不规则的岩石切割成可用的石块。消耗大量电力。</VFE_TableStonecutterElectric.description>
   <!--EN: electric stonecutter's table-->
-  <VFE_TableStonecutterElectric.label>电动切石机工作台</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.label>切石桌（电力）</VFE_TableStonecutterElectric.label>
   <!--EN: A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.-->
-  <VFE_TableStoveLarge.description>一个大型制造炉以及多个烤箱，可以更快地准备饭菜和烹饪。</VFE_TableStoveLarge.description>
+  <VFE_TableStoveLarge.description>配备大型灶台以及多个烤箱，可用来准备餐点，并显著的加快了烹饪速度及产量。此工作台可批量生产食物。</VFE_TableStoveLarge.description>
   <!--EN: large stove-->
-  <VFE_TableStoveLarge.label>大炉子</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.label>烹饪中心</VFE_TableStoveLarge.label>
   <!--EN: A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.-->
-  <VFE_TableTailorLarge.description>大型制造工作台，配有多种设计师工具和一台用于快速裁剪衣服的缝纫机。断电时可以正常速度的33%工作。</VFE_TableTailorLarge.description>
+  <VFE_TableTailorLarge.description>配有多个设计工具和一台缝纫机，可快速裁剪衣服。可以在没有电力的情况下工作，但只有33％的工作效率。</VFE_TableTailorLarge.description>
   <!--EN: large tailoring table-->
-  <VFE_TableTailorLarge.label>大裁缝台</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.label>裁缝中心</VFE_TableTailorLarge.label>
   <!--EN: Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.-->
-  <VFE_TailorCabinet.description>放置在裁缝台附近时可提高工作速度。一张工作台可连接两个裁缝柜。</VFE_TailorCabinet.description>
+  <VFE_TailorCabinet.description>用于提高放置在附近的裁缝台的工作效率。一个裁缝台最多可以同时连接两个裁缝柜。</VFE_TailorCabinet.description>
   <!--EN: tailor cabinet-->
   <VFE_TailorCabinet.label>裁缝柜</VFE_TailorCabinet.label>
 </LanguageData>

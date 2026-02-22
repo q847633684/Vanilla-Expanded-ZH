@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Every meal should include a dessert, it's important to indulge.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Unlocks a "Desserts Need" that will make colonists happier if they consume desserts and chocolate regularly (needs expectation to be moderate or higher)\n - Unlocks sowing the cocoa bush, a cocoa producing plant that is more efficient than the tree and can be grown indoors and on hydroponics\n - Colony receives 15 Chocolate to start-->
+  <VME_SweetTeeth.description>Every meal should include a dessert, it's important to indulge.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Unlocks a "Desserts Need" that will make colonists happier if they consume desserts and chocolate regularly (needs expectation to be moderate or higher)\n - Unlocks sowing the cocoa bush, a cocoa producing plant that is more efficient than the tree and can be grown indoors and on hydroponics\n - Colony receives 15 Chocolate to start</VME_SweetTeeth.description>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_SweetTeeth)        ->[deity0_name] spoke to all [deity0_possessive] followers and said: "Whoever eats this cake that is my flesh remains in me, and I in them."-->
+    <li>creation(tag=meme_SweetTeeth)        -&gt;[deity0_name] spoke to all [deity0_possessive] followers and said: "Whoever eats this cake that is my flesh remains in me, and I in them."</li>
+    <!--EN: episode(uses=1,tag=meme_SweetTeeth)  ->[deity0_name] said to all the [memberNamePlural], "Look upon the world like it’s a gigantic birthday cake. Take a piece, but don’t take too much."-->
+    <li>episode(uses=1,tag=meme_SweetTeeth)  -&gt;[deity0_name] said to all the [memberNamePlural], "Look upon the world like it’s a gigantic birthday cake. Take a piece, but don’t take too much."</li>
+    <!--EN: intro(tag=meme_SweetTeeth)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and filled it with sugary sweets to serve to any visiting pilgrims.-->
+    <li>intro(tag=meme_SweetTeeth)           -&gt;[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and filled it with sugary sweets to serve to any visiting pilgrims.</li>
+    <!--EN: conflict(tag=meme_SweetTeeth)        ->A stern [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to get rid of all the delicious desserts, for [foeLeader_pronoun] was on a strict diet.-->
+    <li>conflict(tag=meme_SweetTeeth)        -&gt;A stern [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to get rid of all the delicious desserts, for [foeLeader_pronoun] was on a strict diet.</li>
+    <!--EN: founderJoin(tag=meme_SweetTeeth)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] unending appetite and creativity, and [founder_pronoun] created the greatest confectionery creations that anyone had ever seen.-->
+    <li>founderJoin(tag=meme_SweetTeeth)     -&gt;[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] unending appetite and creativity, and [founder_pronoun] created the greatest confectionery creations that anyone had ever seen.</li>
+    <!--EN: victory(tag=meme_SweetTeeth)         ->[founderName] served [founderName_possessive] creations to the [foeSoldiers] and they were delighted. Even the [foeLeader] was convinced of their sublime quality, and [foeLeader_pronoun] proclaimed the wisdom of [deity0_name]'s will.-->
+    <li>victory(tag=meme_SweetTeeth)         -&gt;[founderName] served [founderName_possessive] creations to the [foeSoldiers] and they were delighted. Even the [foeLeader] was convinced of their sublime quality, and [foeLeader_pronoun] proclaimed the wisdom of [deity0_name]'s will.</li>
+    <!--EN: setup(tag=meme_SweetTeeth)           ->Our founder [founderName] was a pastry chef, maker of the greatest confectionery creations that anyone had ever seen.-->
+    <li>setup(tag=meme_SweetTeeth)           -&gt;Our founder [founderName] was a pastry chef, maker of the greatest confectionery creations that anyone had ever seen.</li>
+    <!--EN: story(uses=1,tag=meme_SweetTeeth)    ->[founderName] believed that [founderName_possessive] art was not merely a tool to feed people, but something deeper that could unite and reconcile even the greatest foes.-->
+    <li>story(uses=1,tag=meme_SweetTeeth)    -&gt;[founderName] believed that [founderName_possessive] art was not merely a tool to feed people, but something deeper that could unite and reconcile even the greatest foes.</li>
+    <!--EN: lessonIntro(tag=meme_SweetTeeth)         ->I have been labouring as a pastry chef for many, many years, and I have learned that-->
+    <li>lessonIntro(tag=meme_SweetTeeth)         -&gt;I have been labouring as a pastry chef for many, many years, and I have learned that</li>
+    <!--EN: lesson(tag=meme_SweetTeeth)              ->nothing in this world is better than cake but more cake-->
+    <li>lesson(tag=meme_SweetTeeth)              -&gt;nothing in this world is better than cake but more cake</li>
+    <!--EN: lessonReinforcement(tag=meme_SweetTeeth) ->Obsessive doesn’t even begin to describe my love for cake. I’ll even fight little children if I have to.-->
+    <li>lessonReinforcement(tag=meme_SweetTeeth) -&gt;Obsessive doesn’t even begin to describe my love for cake. I’ll even fight little children if I have to.</li>
+    <!--EN: archistBasis(tag=meme_SweetTeeth)    ->The archotechs blessed us with exquisite appetites so that we can enjoy the sweetest flavours in life.-->
+    <li>archistBasis(tag=meme_SweetTeeth)    -&gt;The archotechs blessed us with exquisite appetites so that we can enjoy the sweetest flavours in life.</li>
+    <!--EN: archistFact(tag=meme_SweetTeeth)     ->Archotechs don't want us to spend our lives without enjoying ourselves and treating our palates.-->
+    <li>archistFact(tag=meme_SweetTeeth)     -&gt;Archotechs don't want us to spend our lives without enjoying ourselves and treating our palates.</li>
+    <!--EN: archistProphecy(tag=meme_SweetTeeth) ->[inTheEnd], the archotechs will show us that transcendence without indulging in some of the simplest pleasures is just an empty goal.-->
+    <li>archistProphecy(tag=meme_SweetTeeth) -&gt;[inTheEnd], the archotechs will show us that transcendence without indulging in some of the simplest pleasures is just an empty goal.</li>
+    <!--EN: animistFact(tag=meme_SweetTeeth)     ->The spirits want us to explore our senses and enjoy the sweetest flavours in life. They don't want us to spend our lives without enjoying ourselves and treating our palates.-->
+    <li>animistFact(tag=meme_SweetTeeth)     -&gt;The spirits want us to explore our senses and enjoy the sweetest flavours in life. They don't want us to spend our lives without enjoying ourselves and treating our palates.</li>
+    <!--EN: serketistProphecy(tag=meme_SweetTeeth)->[itIsSaid] we will learn to incorporate their wisdom on our own culinary recipes. Insect Jelly is an ambrosia that provides one of the sweetest tastes in nature.-->
+    <li>serketistProphecy(tag=meme_SweetTeeth)-&gt;[itIsSaid] we will learn to incorporate their wisdom on our own culinary recipes. Insect Jelly is an ambrosia that provides one of the sweetest tastes in nature.</li>
+    <!--EN: chthonianProphecy(tag=meme_SweetTeeth)->There is no escape, no release. We might as well engorge ourselves with delicious pastries and enjoy our brief and sordid lives.-->
+    <li>chthonianProphecy(tag=meme_SweetTeeth)-&gt;There is no escape, no release. We might as well engorge ourselves with delicious pastries and enjoy our brief and sordid lives.</li>
+    <!--EN: esotericismProphecy(tag=meme_SweetTeeth)->Perhaps hidden between all the arcana lies a wondrous recipe for a mind-shattering confectionery delicacy. One can dream.-->
+    <li>esotericismProphecy(tag=meme_SweetTeeth)-&gt;Perhaps hidden between all the arcana lies a wondrous recipe for a mind-shattering confectionery delicacy. One can dream.</li>
+    <!--EN: eschatologismFact(tag=meme_SweetTeeth)->We will cover everything in a sea of blood and... cake. Yes, cake.-->
+    <li>eschatologismFact(tag=meme_SweetTeeth)-&gt;We will cover everything in a sea of blood and... cake. Yes, cake.</li>
+    <!--EN: introMemo(tag=meme_SweetTeeth)->As you know, there is a company-wide policy to celebrate birthdays of your coworkers by bringing a minimum of 4 pastries per asistant. We had to regulate this because SOMEONE was abusing it and eating more than his share. You know who you are, and should be ashamed of yourself.-->
+    <li>introMemo(tag=meme_SweetTeeth)-&gt;As you know, there is a company-wide policy to celebrate birthdays of your coworkers by bringing a minimum of 4 pastries per asistant. We had to regulate this because SOMEONE was abusing it and eating more than his share. You know who you are, and should be ashamed of yourself.</li>
+  </VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+  <VME_SweetTeeth.generalRules.rulesStrings>
+    <!--EN: memeAdjective->sweet-->
+    <li>memeAdjective-&gt;sweet</li>
+    <!--EN: memeAdjective->sugary-->
+    <li>memeAdjective-&gt;sugary</li>
+    <!--EN: memeAdjective->saccharine-->
+    <li>memeAdjective-&gt;saccharine</li>
+    <!--EN: memeAdjective->candied-->
+    <li>memeAdjective-&gt;candied</li>
+    <!--EN: memeAdjective->sweet-toothed-->
+    <li>memeAdjective-&gt;sweet-toothed</li>
+    <!--EN: memeHyphenPrefix->sweet-->
+    <li>memeHyphenPrefix-&gt;sweet</li>
+    <!--EN: memeConcept->desserts-->
+    <li>memeConcept-&gt;desserts</li>
+    <!--EN: memeLeaderNoun->pastry chef-->
+    <li>memeLeaderNoun-&gt;pastry chef</li>
+  </VME_SweetTeeth.generalRules.rulesStrings>
+  <!--EN: sweet teeth-->
+  <VME_SweetTeeth.label>sweet teeth</VME_SweetTeeth.label>
+</LanguageData>

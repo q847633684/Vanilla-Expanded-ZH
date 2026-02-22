@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: High corruption-->
+  <VEM_HighCorruption>High corruption</VEM_HighCorruption>
+  <!--EN: These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0}-->
+  <VEM_HighCorruptionDesc>These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0}</VEM_HighCorruptionDesc>
+  <!--EN: Low corruption-->
+  <VEM_LowCorruption>Low corruption</VEM_LowCorruption>
+  <!--EN: These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0}-->
+  <VEM_LowCorruptionDesc>These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0}</VEM_LowCorruptionDesc>
+  <!--EN: Interrogation failed!-->
+  <VFEAncients.InterrogationFailure>Interrogation failed!</VFEAncients.InterrogationFailure>
+  <!--EN: Interrogation Success-->
+  <VFEAncients.InterrogationSuccess>Interrogation Success</VFEAncients.InterrogationSuccess>
+  <!--EN: {0} has successfully interrogated {1}, who has revealed the location of {2}.-->
+  <VFEAncients.InterrogationSuccessDetail>{0} has successfully interrogated {1}, who has revealed the location of {2}.</VFEAncients.InterrogationSuccessDetail>
+  <!--EN: No warden is capable of this recruitment.-->
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>No warden is capable of this recruitment.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <!--EN: Meal is already a dessert. This ability needs to target a meal that isn't a dessert.-->
+  <VME_AbilityAlreadyADessert>Meal is already a dessert. This ability needs to target a meal that isn't a dessert.</VME_AbilityAlreadyADessert>
+  <!--EN: A trader caravan has been attracted to your settlement and will arrive in approximately a day.-->
+  <VME_AbilityCaravanWillArrive>A trader caravan has been attracted to your settlement and will arrive in approximately a day.</VME_AbilityCaravanWillArrive>
+  <!--EN: No reachable wicker man.-->
+  <VME_AbilityDisabledNoWickerMan>No reachable wicker man.</VME_AbilityDisabledNoWickerMan>
+  <!--EN: This ability needs to target a free colonist.-->
+  <VME_AbilityNeedsAColonist>This ability needs to target a free colonist.</VME_AbilityNeedsAColonist>
+  <!--EN: This ability needs to target a turret or mechanoid.-->
+  <VME_AbilityNeedsATurret>This ability needs to target a turret or mechanoid.</VME_AbilityNeedsATurret>
+  <!--EN: This ability needs to target a fresh humanoid corpse.-->
+  <VME_AbilityNeedsCorpse>This ability needs to target a fresh humanoid corpse.</VME_AbilityNeedsCorpse>
+  <!--EN: This ability needs to target a wild or hostile insectoid.-->
+  <VME_AbilityNeedsInsect>This ability needs to target a wild or hostile insectoid.</VME_AbilityNeedsInsect>
+  <!--EN: This ability needs to target food categorized as a meal.-->
+  <VME_AbilityNeedsMeal>This ability needs to target food categorized as a meal.</VME_AbilityNeedsMeal>
+  <!--EN: {0}'s ideo lacks the Organ use: post mortem precept. Ability can't be used without it-->
+  <VME_AbilityNeedsOrganPostMortemPrecept>{0}'s ideo lacks the Organ use: post mortem precept. Ability can't be used without it</VME_AbilityNeedsOrganPostMortemPrecept>
+  <!--EN: This ability needs to target an empty spot under mountain roof.-->
+  <VME_AbilityNeedsRoof>This ability needs to target an empty spot under mountain roof.</VME_AbilityNeedsRoof>
+  <!--EN: This ability needs to target an empty spot.-->
+  <VME_AbilityNeedsSpotEmpty>This ability needs to target an empty spot.</VME_AbilityNeedsSpotEmpty>
+  <!--EN: Allow high impact memes for fluid ideos-->
+  <VME_AllowHighImpactMemesForFluidIdeos>Allow high impact memes for fluid ideos</VME_AllowHighImpactMemesForFluidIdeos>
+  <!--EN: By default, fluid ideos only let you choose one meme with impact 1 or 2, blocking impact 3 memes from being chosen. With this option toggle you can make it so impact 3 memes are available too.-->
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>By default, fluid ideos only let you choose one meme with impact 1 or 2, blocking impact 3 memes from being chosen. With this option toggle you can make it so impact 3 memes are available too.</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
+  <!--EN: Automation efficiency: increased precept-->
+  <VME_Automation>Automation efficiency: increased precept</VME_Automation>
+  <!--EN: Automation efficiency: decreased precept-->
+  <VME_AutomationDecreased>Automation efficiency: decreased precept</VME_AutomationDecreased>
+  <!--EN: Crafting speed: slower for manual precept-->
+  <VME_AutomationManual>Crafting speed: slower for manual precept</VME_AutomationManual>
+  <!--EN: Crafting speed: faster for manual precept-->
+  <VME_AutomationManualFaster>Crafting speed: faster for manual precept</VME_AutomationManualFaster>
+  <!--EN: Bonfire at {0}% strength-->
+  <VME_BonfireDyingIn>Bonfire at {0}% strength</VME_BonfireDyingIn>
+  <!--EN: Last straw: cosmic horror-->
+  <VME_BreakCorruption>Last straw: cosmic horror</VME_BreakCorruption>
+  <!--EN: max buildings-->
+  <VME_Buildings>max buildings</VME_Buildings>
+  <!--EN: Max number of ideo buildings allowed (default is 2)-->
+  <VME_BuildingsAmount>Max number of ideo buildings allowed (default is 2)</VME_BuildingsAmount>
+  <!--EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes.-->
+  <VME_BuildingsAmountTooltip>Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes.</VME_BuildingsAmountTooltip>
+  <!--EN: Cancel uninstall building-->
+  <VME_CancelDeconstructBuildingDesc>Cancel uninstall building</VME_CancelDeconstructBuildingDesc>
+  <!--EN: Cancel uninstall building-->
+  <VME_CancelDeconstructBuildingLabel>Cancel uninstall building</VME_CancelDeconstructBuildingLabel>
+  <!--EN: You need a reasonably healthy prisoner to start the ritual-->
+  <VME_CantStartRitualNoConvertee>You need a reasonably healthy prisoner to start the ritual</VME_CantStartRitualNoConvertee>
+  <!--EN: You need a prisoner to start the wicker man ritual.-->
+  <VME_CantStartWickerManRitual>You need a prisoner to start the wicker man ritual.</VME_CantStartWickerManRitual>
+  <!--EN: 200 silver needs to be found in stockpiles near a trading beacon for the fair to bot be considered "cheap"-->
+  <VME_CheapTradingFair>200 silver needs to be found in stockpiles near a trading beacon for the fair to bot be considered "cheap"</VME_CheapTradingFair>
+  <!--EN: Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible-->
+  <VME_DeconstructBuildingDesc>Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible</VME_DeconstructBuildingDesc>
+  <!--EN: Uninstall building-->
+  <VME_DeconstructBuildingLabel>Uninstall building</VME_DeconstructBuildingLabel>
+  <!--EN: Eldritch Corruption too low-->
+  <VME_ExtraCertaintyLoss>Eldritch Corruption too low</VME_ExtraCertaintyLoss>
+  <!--EN: Recreation: loved precept-->
+  <VME_ExtraJoyGain>Recreation: loved precept</VME_ExtraJoyGain>
+  <!--EN: Pâtissier role-->
+  <VME_ExtraPatissierCooking>Pâtissier role</VME_ExtraPatissierCooking>
+  <!--EN: Heir changed-->
+  <VME_HeirChange>Heir changed</VME_HeirChange>
+  <!--EN: Due to royal inheritance, {1} has been automatically designated as the heir of {0}-->
+  <VME_HeirChangeDesc>Due to royal inheritance, {1} has been automatically designated as the heir of {0}</VME_HeirChangeDesc>
+  <!--EN: Next large fish caught in-->
+  <VME_LargeFishCaughtIn>Next large fish caught in</VME_LargeFishCaughtIn>
+  <!--EN: This fish trap can catch large fish:-->
+  <VME_LargeFishTrapDescriptionInspect>This fish trap can catch large fish:</VME_LargeFishTrapDescriptionInspect>
+  <!--EN: Insect nest maintenance: {0}%-->
+  <VME_Maintenance>Insect nest maintenance: {0}%</VME_Maintenance>
+  <!--EN: Maintenance needed. If it reaches 0% the nest will be destroyed.-->
+  <VME_MaintenanceNeeded>Maintenance needed. If it reaches 0% the nest will be destroyed.</VME_MaintenanceNeeded>
+  <!--EN: Meditation: exquisite precept-->
+  <VME_MeditationSpotExtra>Meditation: exquisite precept</VME_MeditationSpotExtra>
+  <!--EN: Next medium fish caught in-->
+  <VME_MediumFishCaughtIn>Next medium fish caught in</VME_MediumFishCaughtIn>
+  <!--EN: This fish trap can catch medium fish:-->
+  <VME_MediumFishTrapDescriptionInspect>This fish trap can catch medium fish:</VME_MediumFishTrapDescriptionInspect>
+  <!--EN: max memes-->
+  <VME_Meme>max memes</VME_Meme>
+  <!--EN: Max number of memes allowed (default is 4)-->
+  <VME_MemeAmount>Max number of memes allowed (default is 4)</VME_MemeAmount>
+  <!--EN: Max number of memes allowed. Note that this only applies to player ideoligions.-->
+  <VME_MemeAmountTooltip>Max number of memes allowed. Note that this only applies to player ideoligions.</VME_MemeAmountTooltip>
+  <!--EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme.-->
+  <VME_MessageJunkChunkDrop>Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme.</VME_MessageJunkChunkDrop>
+  <!--EN: Colonist must be capable of Talking-->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>Colonist must be capable of Talking</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <!--EN: Participant must be a slave.-->
+  <VME_MessageRitualRoleMustBeSlave>Participant must be a slave.</VME_MessageRitualRoleMustBeSlave>
+  <!--EN: Organizer and participants must be consenting adults.-->
+  <VME_NeedsAdults>Organizer and participants must be consenting adults.</VME_NeedsAdults>
+  <!--EN: Fish traps must be built at least 10 tiles apart from each other.-->
+  <VME_NeedsDistance>Fish traps must be built at least 10 tiles apart from each other.</VME_NeedsDistance>
+  <!--EN: Ritual needs the Exalted Priesthood meme-->
+  <VME_NeedsExaltedPriesthood>Ritual needs the Exalted Priesthood meme</VME_NeedsExaltedPriesthood>
+  <!--EN: Must be built on passable water.-->
+  <VME_NeedsWater>Must be built on passable water.</VME_NeedsWater>
+  <!--EN: Could not find any valid party spot or organizer was unavailable.-->
+  <VME_NoValidPartySpot>Could not find any valid party spot or organizer was unavailable.</VME_NoValidPartySpot>
+  <!--EN: {0} saw our reasonable ways and was converted to our ideoligion.-->
+  <VME_NonViolentOutcome>{0} saw our reasonable ways and was converted to our ideoligion.</VME_NonViolentOutcome>
+  <!--EN: This gigantic insectoid is immune to this ability-->
+  <VME_NotTheQueen>This gigantic insectoid is immune to this ability</VME_NotTheQueen>
+  <!--EN: Eldritch Corruption-->
+  <VME_NullCertaintyLoss>Eldritch Corruption</VME_NullCertaintyLoss>
+  <!--EN: Only adults can participate in this ritual-->
+  <VME_PawnMustBeAnAdult>Only adults can participate in this ritual</VME_PawnMustBeAnAdult>
+  <!--EN: {0} must be the best melee fighter in the colony!-->
+  <VME_PawnMustBeBestMelee>{0} must be the best melee fighter in the colony!</VME_PawnMustBeBestMelee>
+  <!--EN: {0} is not harbouring suicidal thoughts!-->
+  <VME_PawnMustBeSuicidal>{0} is not harbouring suicidal thoughts!</VME_PawnMustBeSuicidal>
+  <!--EN: max relics-->
+  <VME_Relics>max relics</VME_Relics>
+  <!--EN: Max number of ideo relics allowed (default is 3)-->
+  <VME_RelicsAmount>Max number of ideo relics allowed (default is 3)</VME_RelicsAmount>
+  <!--EN: Max number of ideo relics allowed-->
+  <VME_RelicsAmountTooltip>Max number of ideo relics allowed</VME_RelicsAmountTooltip>
+  <!--EN: Reset-->
+  <VME_Reset>Reset</VME_Reset>
+  <!--EN: max rituals-->
+  <VME_Ritual>max rituals</VME_Ritual>
+  <!--EN: Max number non-meme specific rituals allowed (default is 6)-->
+  <VME_RitualAmount>Max number non-meme specific rituals allowed (default is 6)</VME_RitualAmount>
+  <!--EN: Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions.-->
+  <VME_RitualAmountTooltip>Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions.</VME_RitualAmountTooltip>
+  <!--EN: Ritual needs to be done at night, and with clear weather.-->
+  <VME_RitualNeedsClearWeather>Ritual needs to be done at night, and with clear weather.</VME_RitualNeedsClearWeather>
+  <!--EN: Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count).-->
+  <VME_RitualNeedsNightOrDarkness>Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count).</VME_RitualNeedsNightOrDarkness>
+  <!--EN: An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area.-->
+  <VME_RitualTargetDivineTheStarsInfo>An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area.</VME_RitualTargetDivineTheStarsInfo>
+  <!--EN: Next small fish caught in-->
+  <VME_SmallFishCaughtIn>Next small fish caught in</VME_SmallFishCaughtIn>
+  <!--EN: This fish trap can catch small fish:-->
+  <VME_SmallFishTrapDescriptionInspect>This fish trap can catch small fish:</VME_SmallFishTrapDescriptionInspect>
+  <!--EN: max styles-->
+  <VME_Styles>max styles</VME_Styles>
+  <!--EN: Max number of ideo visual styles allowed (default is 3)-->
+  <VME_StylesAmount>Max number of ideo visual styles allowed (default is 3)</VME_StylesAmount>
+  <!--EN: Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them.-->
+  <VME_StylesAmountTooltip>Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them.</VME_StylesAmountTooltip>
+  <!--EN: Catches until breaking: {0}-->
+  <VME_UsesLeftUntilItBreaks>Catches until breaking: {0}</VME_UsesLeftUntilItBreaks>
+  <!--EN: Unfortunately, {0} refused to see our reasonable ways and was sacrificed.-->
+  <VME_ViolentOutcome>Unfortunately, {0} refused to see our reasonable ways and was sacrificed.</VME_ViolentOutcome>
+  <!--EN: A built wicker man.-->
+  <VME_WickerManInfo>A built wicker man.</VME_WickerManInfo>
+</LanguageData>

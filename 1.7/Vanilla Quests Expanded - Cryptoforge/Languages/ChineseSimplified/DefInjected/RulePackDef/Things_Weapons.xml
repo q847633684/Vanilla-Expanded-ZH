@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <NamerWeaponCryptoNorse.rulePack.rulesStrings>
+    <!--EN: r_weapon_name(p=3)->[norseNoun][norseVerber]-->
+    <li>r_weapon_name(p=3)-&gt;[norseNoun][norseVerber]</li>
+    <!--EN: r_weapon_name(p=2)->[norseBeginSyl][norseMiddleSyl][norseEndSyl]-->
+    <li>r_weapon_name(p=2)-&gt;[norseBeginSyl][norseMiddleSyl][norseEndSyl]</li>
+    <!--EN: r_weapon_name(p=1)->[norseBeginSyl][norseMiddleSyl][norseMiddleSyl][norseEndSyl]-->
+    <li>r_weapon_name(p=1)-&gt;[norseBeginSyl][norseMiddleSyl][norseMiddleSyl][norseEndSyl]</li>
+    <!--EN: r_weapon_name(p=1)->[norseBeginSyl][norseEndSyl]-->
+    <li>r_weapon_name(p=1)-&gt;[norseBeginSyl][norseEndSyl]</li>
+    <!--EN: r_weapon_name(p=1)->[NorseGod]-->
+    <li>r_weapon_name(p=1)-&gt;[NorseGod]</li>
+    <!--EN: r_weapon_name(p=1)->[norseAnimal]-->
+    <li>r_weapon_name(p=1)-&gt;[norseAnimal]</li>
+    <!--EN: norseAnimal->Fenrir-->
+    <li>norseAnimal-&gt;Fenrir</li>
+    <!--EN: norseAnimal->Jörmungandr-->
+    <li>norseAnimal-&gt;Jörmungandr</li>
+    <!--EN: norseAnimal->Hrafn-->
+    <li>norseAnimal-&gt;Hrafn</li>
+    <!--EN: norseAnimal->Ulv-->
+    <li>norseAnimal-&gt;Ulv</li>
+    <!--EN: norseAnimal->Dreki-->
+    <li>norseAnimal-&gt;Dreki</li>
+    <!--EN: norseAnimal->Alvitr-->
+    <li>norseAnimal-&gt;Alvitr</li>
+    <!--EN: norseAnimal->Arvakr-->
+    <li>norseAnimal-&gt;Arvakr</li>
+    <!--EN: norseAnimal->Baldfaxi-->
+    <li>norseAnimal-&gt;Baldfaxi</li>
+    <!--EN: norseAnimal->Blodughófi-->
+    <li>norseAnimal-&gt;Blodughófi</li>
+    <!--EN: norseAnimal->Bran-->
+    <li>norseAnimal-&gt;Bran</li>
+    <!--EN: norseAnimal->Bruni-->
+    <li>norseAnimal-&gt;Bruni</li>
+    <!--EN: norseAnimal->Dainsleif-->
+    <li>norseAnimal-&gt;Dainsleif</li>
+    <!--EN: norseAnimal->Dökkálfr-->
+    <li>norseAnimal-&gt;Dökkálfr</li>
+    <!--EN: norseAnimal->Dyrfjall-->
+    <li>norseAnimal-&gt;Dyrfjall</li>
+    <!--EN: norseAnimal->Eikþyrnir-->
+    <li>norseAnimal-&gt;Eikþyrnir</li>
+    <!--EN: norseAnimal->Fafnir-->
+    <li>norseAnimal-&gt;Fafnir</li>
+    <!--EN: norseAnimal->Fenrisson-->
+    <li>norseAnimal-&gt;Fenrisson</li>
+    <!--EN: norseAnimal->Fjalar-->
+    <li>norseAnimal-&gt;Fjalar</li>
+    <!--EN: norseAnimal->Flóki-->
+    <li>norseAnimal-&gt;Flóki</li>
+    <!--EN: norseAnimal->Galar-->
+    <li>norseAnimal-&gt;Galar</li>
+    <!--EN: norseAnimal->Garmr-->
+    <li>norseAnimal-&gt;Garmr</li>
+    <!--EN: norseAnimal->Gullinbursti-->
+    <li>norseAnimal-&gt;Gullinbursti</li>
+    <!--EN: norseAnimal->Gyllir-->
+    <li>norseAnimal-&gt;Gyllir</li>
+    <!--EN: norseAnimal->Hafgufa-->
+    <li>norseAnimal-&gt;Hafgufa</li>
+    <!--EN: norseAnimal->Hati-->
+    <li>norseAnimal-&gt;Hati</li>
+    <!--EN: norseAnimal->Haugvígr-->
+    <li>norseAnimal-&gt;Haugvígr</li>
+    <!--EN: norseAnimal->Hjalmþér-->
+    <li>norseAnimal-&gt;Hjalmþér</li>
+    <!--EN: norseAnimal->Hrafnblod-->
+    <li>norseAnimal-&gt;Hrafnblod</li>
+    <!--EN: norseAnimal->Hrimfaxi-->
+    <li>norseAnimal-&gt;Hrimfaxi</li>
+    <!--EN: norseAnimal->Hróðvitnir-->
+    <li>norseAnimal-&gt;Hróðvitnir</li>
+    <!--EN: norseAnimal->Íssvín-->
+    <li>norseAnimal-&gt;Íssvín</li>
+    <!--EN: norseAnimal->Járnbjörn-->
+    <li>norseAnimal-&gt;Járnbjörn</li>
+    <!--EN: norseAnimal->Jörundr-->
+    <li>norseAnimal-&gt;Jörundr</li>
+    <!--EN: norseAnimal->Klakahrafn-->
+    <li>norseAnimal-&gt;Klakahrafn</li>
+    <!--EN: norseAnimal->Loddfáfnir-->
+    <li>norseAnimal-&gt;Loddfáfnir</li>
+    <!--EN: norseAnimal->Miðgarðsormr-->
+    <li>norseAnimal-&gt;Miðgarðsormr</li>
+    <!--EN: norseAnimal->Móðgudr-->
+    <li>norseAnimal-&gt;Móðgudr</li>
+    <!--EN: norseAnimal->Naglfari-->
+    <li>norseAnimal-&gt;Naglfari</li>
+    <!--EN: norseAnimal->Narfi-->
+    <li>norseAnimal-&gt;Narfi</li>
+    <!--EN: norseAnimal->Skaði’s Fang-->
+    <li>norseAnimal-&gt;Skaði’s Fang</li>
+    <!--EN: norseAnimal->Skaldbjörn-->
+    <li>norseAnimal-&gt;Skaldbjörn</li>
+    <!--EN: norseAnimal->Sköll-->
+    <li>norseAnimal-&gt;Sköll</li>
+    <!--EN: norseAnimal->Stórrormr-->
+    <li>norseAnimal-&gt;Stórrormr</li>
+    <!--EN: norseAnimal->Surtr’s Claw-->
+    <li>norseAnimal-&gt;Surtr’s Claw</li>
+    <!--EN: norseAnimal->Vánagandr-->
+    <li>norseAnimal-&gt;Vánagandr</li>
+    <!--EN: norseNoun->saga-->
+    <li>norseNoun-&gt;saga</li>
+    <!--EN: norseNoun->skald-->
+    <li>norseNoun-&gt;skald</li>
+    <!--EN: norseNoun->blod-->
+    <li>norseNoun-&gt;blod</li>
+    <!--EN: norseNoun->drapa-->
+    <li>norseNoun-&gt;drapa</li>
+    <!--EN: norseNoun->brynja-->
+    <li>norseNoun-&gt;brynja</li>
+    <!--EN: norseNoun->skjold-->
+    <li>norseNoun-&gt;skjold</li>
+    <!--EN: norseNoun->storm-->
+    <li>norseNoun-&gt;storm</li>
+    <!--EN: norseNoun->hrafn-->
+    <li>norseNoun-&gt;hrafn</li>
+    <!--EN: norseNoun->skugga-->
+    <li>norseNoun-&gt;skugga</li>
+    <!--EN: norseNoun->vargr-->
+    <li>norseNoun-&gt;vargr</li>
+    <!--EN: norseNoun->jotunn-->
+    <li>norseNoun-&gt;jotunn</li>
+    <!--EN: norseNoun->nid-->
+    <li>norseNoun-&gt;nid</li>
+    <!--EN: norseNoun->aska-->
+    <li>norseNoun-&gt;aska</li>
+    <!--EN: norseNoun->blod-->
+    <li>norseNoun-&gt;blod</li>
+    <!--EN: norseNoun->brandr-->
+    <li>norseNoun-&gt;brandr</li>
+    <!--EN: norseNoun->brynja-->
+    <li>norseNoun-&gt;brynja</li>
+    <!--EN: norseNoun->dauði-->
+    <li>norseNoun-&gt;dauði</li>
+    <!--EN: norseNoun->drepa-->
+    <li>norseNoun-&gt;drepa</li>
+    <!--EN: norseNoun->drengr-->
+    <li>norseNoun-&gt;drengr</li>
+    <!--EN: norseNoun->dómi-->
+    <li>norseNoun-&gt;dómi</li>
+    <!--EN: norseNoun->eldur-->
+    <li>norseNoun-&gt;eldur</li>
+    <!--EN: norseNoun->fen-->
+    <li>norseNoun-&gt;fen</li>
+    <!--EN: norseNoun->fjall-->
+    <li>norseNoun-&gt;fjall</li>
+    <!--EN: norseNoun->flokkr-->
+    <li>norseNoun-&gt;flokkr</li>
+    <!--EN: norseNoun->frysta-->
+    <li>norseNoun-&gt;frysta</li>
+    <!--EN: norseNoun->galdr-->
+    <li>norseNoun-&gt;galdr</li>
+    <!--EN: norseNoun->gjöll-->
+    <li>norseNoun-&gt;gjöll</li>
+    <!--EN: norseNoun->grið-->
+    <li>norseNoun-&gt;grið</li>
+    <!--EN: norseNoun->gunnr-->
+    <li>norseNoun-&gt;gunnr</li>
+    <!--EN: norseNoun->hati-->
+    <li>norseNoun-&gt;hati</li>
+    <!--EN: norseNoun->helgrindr-->
+    <li>norseNoun-&gt;helgrindr</li>
+    <!--EN: norseNoun->hrafn-->
+    <li>norseNoun-&gt;hrafn</li>
+    <!--EN: norseNoun->hríð-->
+    <li>norseNoun-&gt;hríð</li>
+    <!--EN: norseNoun->íss-->
+    <li>norseNoun-&gt;íss</li>
+    <!--EN: norseNoun->járn-->
+    <li>norseNoun-&gt;járn</li>
+    <!--EN: norseNoun->jötunn-->
+    <li>norseNoun-&gt;jötunn</li>
+    <!--EN: norseNoun->knifr-->
+    <li>norseNoun-&gt;knifr</li>
+    <!--EN: norseNoun->kráka-->
+    <li>norseNoun-&gt;kráka</li>
+    <!--EN: norseNoun->laguz-->
+    <li>norseNoun-&gt;laguz</li>
+    <!--EN: norseNoun->ljós-->
+    <li>norseNoun-&gt;ljós</li>
+    <!--EN: norseNoun->myrkr-->
+    <li>norseNoun-&gt;myrkr</li>
+    <!--EN: norseNoun->níð-->
+    <li>norseNoun-&gt;níð</li>
+    <!--EN: norseNoun->ormr-->
+    <li>norseNoun-&gt;ormr</li>
+    <!--EN: norseNoun->ráð-->
+    <li>norseNoun-&gt;ráð</li>
+    <!--EN: norseNoun->reið-->
+    <li>norseNoun-&gt;reið</li>
+    <!--EN: norseNoun->rún-->
+    <li>norseNoun-&gt;rún</li>
+    <!--EN: norseNoun->skaði-->
+    <li>norseNoun-&gt;skaði</li>
+    <!--EN: norseNoun->skjold-->
+    <li>norseNoun-&gt;skjold</li>
+    <!--EN: norseNoun->sorg-->
+    <li>norseNoun-&gt;sorg</li>
+    <!--EN: norseNoun->stormr-->
+    <li>norseNoun-&gt;stormr</li>
+    <!--EN: norseNoun->úlfur-->
+    <li>norseNoun-&gt;úlfur</li>
+    <!--EN: norseNoun->vápn-->
+    <li>norseNoun-&gt;vápn</li>
+    <!--EN: norseVerber->smidr-->
+    <li>norseVerber-&gt;smidr</li>
+    <!--EN: norseVerber->drengr-->
+    <li>norseVerber-&gt;drengr</li>
+    <!--EN: norseVerber->bani-->
+    <li>norseVerber-&gt;bani</li>
+    <!--EN: norseVerber->riva-->
+    <li>norseVerber-&gt;riva</li>
+    <!--EN: norseVerber->falla-->
+    <li>norseVerber-&gt;falla</li>
+    <!--EN: norseVerber->knuser-->
+    <li>norseVerber-&gt;knuser</li>
+    <!--EN: norseVerber->bryter-->
+    <li>norseVerber-&gt;bryter</li>
+    <!--EN: norseVerber->banar-->
+    <li>norseVerber-&gt;banar</li>
+    <!--EN: norseVerber->strid-->
+    <li>norseVerber-&gt;strid</li>
+    <!--EN: norseVerber->brenner-->
+    <li>norseVerber-&gt;brenner</li>
+    <!--EN: norseVerber->bani-->
+    <li>norseVerber-&gt;bani</li>
+    <!--EN: norseVerber->brjótr-->
+    <li>norseVerber-&gt;brjótr</li>
+    <!--EN: norseVerber->brennir-->
+    <li>norseVerber-&gt;brennir</li>
+    <!--EN: norseVerber->drengr-->
+    <li>norseVerber-&gt;drengr</li>
+    <!--EN: norseVerber->dreper-->
+    <li>norseVerber-&gt;dreper</li>
+    <!--EN: norseVerber->fari-->
+    <li>norseVerber-&gt;fari</li>
+    <!--EN: norseVerber->fjǫrga-->
+    <li>norseVerber-&gt;fjǫrga</li>
+    <!--EN: norseVerber->fornleif-->
+    <li>norseVerber-&gt;fornleif</li>
+    <!--EN: norseVerber->fǫrumaðr-->
+    <li>norseVerber-&gt;fǫrumaðr</li>
+    <!--EN: norseVerber->glöttr-->
+    <li>norseVerber-&gt;glöttr</li>
+    <!--EN: norseVerber->griðníðingr-->
+    <li>norseVerber-&gt;griðníðingr</li>
+    <!--EN: norseVerber->grimmir-->
+    <li>norseVerber-&gt;grimmir</li>
+    <!--EN: norseVerber->hǫggvar-->
+    <li>norseVerber-&gt;hǫggvar</li>
+    <!--EN: norseVerber->hrjóðr-->
+    <li>norseVerber-&gt;hrjóðr</li>
+    <!--EN: norseVerber->hugprúðr-->
+    <li>norseVerber-&gt;hugprúðr</li>
+    <!--EN: norseVerber->jǫtunnbani-->
+    <li>norseVerber-&gt;jǫtunnbani</li>
+    <!--EN: norseVerber->kviðr-->
+    <li>norseVerber-&gt;kviðr</li>
+    <!--EN: norseVerber->lýstr-->
+    <li>norseVerber-&gt;lýstr</li>
+    <!--EN: norseVerber->móðníðingr-->
+    <li>norseVerber-&gt;móðníðingr</li>
+    <!--EN: norseVerber->níðingr-->
+    <li>norseVerber-&gt;níðingr</li>
+    <!--EN: norseVerber->rífr-->
+    <li>norseVerber-&gt;rífr</li>
+    <!--EN: norseVerber->róttari-->
+    <li>norseVerber-&gt;róttari</li>
+    <!--EN: norseVerber->runari-->
+    <li>norseVerber-&gt;runari</li>
+    <!--EN: norseVerber->sigrverðugr-->
+    <li>norseVerber-&gt;sigrverðugr</li>
+    <!--EN: norseVerber->skelfir-->
+    <li>norseVerber-&gt;skelfir</li>
+    <!--EN: norseVerber->skǫglar-->
+    <li>norseVerber-&gt;skǫglar</li>
+    <!--EN: norseVerber->sleggja-->
+    <li>norseVerber-&gt;sleggja</li>
+    <!--EN: norseVerber->sveigir-->
+    <li>norseVerber-&gt;sveigir</li>
+    <!--EN: norseVerber->tveggjar-->
+    <li>norseVerber-&gt;tveggjar</li>
+    <!--EN: norseVerber->týrstríðandi-->
+    <li>norseVerber-&gt;týrstríðandi</li>
+    <!--EN: norseVerber->vargur-->
+    <li>norseVerber-&gt;vargur</li>
+    <!--EN: norseVerber->vegrandi-->
+    <li>norseVerber-&gt;vegrandi</li>
+    <!--EN: norseVerber->verndrengr-->
+    <li>norseVerber-&gt;verndrengr</li>
+    <!--EN: norseVerber->vígr-->
+    <li>norseVerber-&gt;vígr</li>
+    <!--EN: norseVerber->víkingr-->
+    <li>norseVerber-&gt;víkingr</li>
+    <!--EN: norseVerber->vinfári-->
+    <li>norseVerber-&gt;vinfári</li>
+    <!--EN: norseVerber->vǫrn-->
+    <li>norseVerber-&gt;vǫrn</li>
+    <!--EN: norseVerber->yrkjandi-->
+    <li>norseVerber-&gt;yrkjandi</li>
+    <!--EN: norseVerber->ǫrr-->
+    <li>norseVerber-&gt;ǫrr</li>
+    <!--EN: NorseGod->Odin-->
+    <li>NorseGod-&gt;Odin</li>
+    <!--EN: NorseGod->Thor-->
+    <li>NorseGod-&gt;Thor</li>
+    <!--EN: NorseGod->Loki-->
+    <li>NorseGod-&gt;Loki</li>
+    <!--EN: NorseGod->Freyr-->
+    <li>NorseGod-&gt;Freyr</li>
+    <!--EN: NorseGod->Freyja-->
+    <li>NorseGod-&gt;Freyja</li>
+    <!--EN: NorseGod->Baldr-->
+    <li>NorseGod-&gt;Baldr</li>
+    <!--EN: NorseGod->Tyr-->
+    <li>NorseGod-&gt;Tyr</li>
+    <!--EN: NorseGod->Njörðr-->
+    <li>NorseGod-&gt;Njörðr</li>
+    <!--EN: NorseGod->Heimdallr-->
+    <li>NorseGod-&gt;Heimdallr</li>
+    <!--EN: NorseGod->Bragi-->
+    <li>NorseGod-&gt;Bragi</li>
+    <!--EN: NorseGod->Ullr-->
+    <li>NorseGod-&gt;Ullr</li>
+    <!--EN: NorseGod->Vidar-->
+    <li>NorseGod-&gt;Vidar</li>
+    <!--EN: NorseGod->Höðr-->
+    <li>NorseGod-&gt;Höðr</li>
+    <!--EN: NorseGod->Skadi-->
+    <li>NorseGod-&gt;Skadi</li>
+    <!--EN: NorseGod->Forseti-->
+    <li>NorseGod-&gt;Forseti</li>
+    <!--EN: NorseGod->Hœnir-->
+    <li>NorseGod-&gt;Hœnir</li>
+    <!--EN: NorseGod->Sif-->
+    <li>NorseGod-&gt;Sif</li>
+    <!--EN: NorseGod->Ran-->
+    <li>NorseGod-&gt;Ran</li>
+    <!--EN: NorseGod->Gefjon-->
+    <li>NorseGod-&gt;Gefjon</li>
+    <!--EN: NorseGod->Nanna-->
+    <li>NorseGod-&gt;Nanna</li>
+    <!--EN: NorseGod->Sol-->
+    <li>NorseGod-&gt;Sol</li>
+    <!--EN: NorseGod->Mani-->
+    <li>NorseGod-&gt;Mani</li>
+    <!--EN: NorseGod->Mimir-->
+    <li>NorseGod-&gt;Mimir</li>
+    <!--EN: NorseGod->Hel-->
+    <li>NorseGod-&gt;Hel</li>
+    <!--EN: NorseGod->Angrboda-->
+    <li>NorseGod-&gt;Angrboda</li>
+    <!--EN: NorseGod->Fenrir-->
+    <li>NorseGod-&gt;Fenrir</li>
+    <!--EN: NorseGod->Jormungandr-->
+    <li>NorseGod-&gt;Jormungandr</li>
+    <!--EN: NorseGod->Ymir-->
+    <li>NorseGod-&gt;Ymir</li>
+    <!--EN: NorseGod->Surtr-->
+    <li>NorseGod-&gt;Surtr</li>
+    <!--EN: NorseGod->Gullveig-->
+    <li>NorseGod-&gt;Gullveig</li>
+    <!--EN: NorseGod->Modi-->
+    <li>NorseGod-&gt;Modi</li>
+    <!--EN: NorseGod->Magni-->
+    <li>NorseGod-&gt;Magni</li>
+    <!--EN: NorseGod->Vali-->
+    <li>NorseGod-&gt;Vali</li>
+    <!--EN: NorseGod->Sigyn-->
+    <li>NorseGod-&gt;Sigyn</li>
+    <!--EN: NorseGod->Kvasir-->
+    <li>NorseGod-&gt;Kvasir</li>
+    <!--EN: NorseGod->Hati-->
+    <li>NorseGod-&gt;Hati</li>
+    <!--EN: NorseGod->Skoll-->
+    <li>NorseGod-&gt;Skoll</li>
+    <!--EN: NorseGod->Eir-->
+    <li>NorseGod-&gt;Eir</li>
+    <!--EN: NorseGod->Jord-->
+    <li>NorseGod-&gt;Jord</li>
+    <!--EN: NorseGod->Narfi-->
+    <li>NorseGod-&gt;Narfi</li>
+    <!--EN: norseBeginSyl->hjal-->
+    <li>norseBeginSyl-&gt;hjal</li>
+    <!--EN: norseBeginSyl->val-->
+    <li>norseBeginSyl-&gt;val</li>
+    <!--EN: norseBeginSyl->ulf-->
+    <li>norseBeginSyl-&gt;ulf</li>
+    <!--EN: norseBeginSyl->grim-->
+    <li>norseBeginSyl-&gt;grim</li>
+    <!--EN: norseBeginSyl->ragn-->
+    <li>norseBeginSyl-&gt;ragn</li>
+    <!--EN: norseBeginSyl->thrym-->
+    <li>norseBeginSyl-&gt;thrym</li>
+    <!--EN: norseBeginSyl->skol-->
+    <li>norseBeginSyl-&gt;skol</li>
+    <!--EN: norseBeginSyl->havi-->
+    <li>norseBeginSyl-&gt;havi</li>
+    <!--EN: norseBeginSyl->bjorn-->
+    <li>norseBeginSyl-&gt;bjorn</li>
+    <!--EN: norseBeginSyl->gunn-->
+    <li>norseBeginSyl-&gt;gunn</li>
+    <!--EN: norseBeginSyl->surt-->
+    <li>norseBeginSyl-&gt;surt</li>
+    <!--EN: norseBeginSyl->frost-->
+    <li>norseBeginSyl-&gt;frost</li>
+    <!--EN: norseMiddleSyl->var-->
+    <li>norseMiddleSyl-&gt;var</li>
+    <!--EN: norseMiddleSyl->brim-->
+    <li>norseMiddleSyl-&gt;brim</li>
+    <!--EN: norseMiddleSyl->jarn-->
+    <li>norseMiddleSyl-&gt;jarn</li>
+    <!--EN: norseMiddleSyl->hraf-->
+    <li>norseMiddleSyl-&gt;hraf</li>
+    <!--EN: norseMiddleSyl->tyr-->
+    <li>norseMiddleSyl-&gt;tyr</li>
+    <!--EN: norseMiddleSyl->strid-->
+    <li>norseMiddleSyl-&gt;strid</li>
+    <!--EN: norseMiddleSyl->hell-->
+    <li>norseMiddleSyl-&gt;hell</li>
+    <!--EN: norseMiddleSyl->varg-->
+    <li>norseMiddleSyl-&gt;varg</li>
+    <!--EN: norseMiddleSyl->bjorn-->
+    <li>norseMiddleSyl-&gt;bjorn</li>
+    <!--EN: norseMiddleSyl->frid-->
+    <li>norseMiddleSyl-&gt;frid</li>
+    <!--EN: norseMiddleSyl->skel-->
+    <li>norseMiddleSyl-&gt;skel</li>
+    <!--EN: norseEndSyl->ulf-->
+    <li>norseEndSyl-&gt;ulf</li>
+    <!--EN: norseEndSyl->skel-->
+    <li>norseEndSyl-&gt;skel</li>
+    <!--EN: norseEndSyl->grim-->
+    <li>norseEndSyl-&gt;grim</li>
+    <!--EN: norseEndSyl->son-->
+    <li>norseEndSyl-&gt;son</li>
+    <!--EN: norseEndSyl->val-->
+    <li>norseEndSyl-&gt;val</li>
+    <!--EN: norseEndSyl->hild-->
+    <li>norseEndSyl-&gt;hild</li>
+    <!--EN: norseEndSyl->gald-->
+    <li>norseEndSyl-&gt;gald</li>
+    <!--EN: norseEndSyl->thal-->
+    <li>norseEndSyl-&gt;thal</li>
+    <!--EN: norseEndSyl->heim-->
+    <li>norseEndSyl-&gt;heim</li>
+    <!--EN: norseEndSyl->bjorn-->
+    <li>norseEndSyl-&gt;bjorn</li>
+    <!--EN: norseEndSyl->jord-->
+    <li>norseEndSyl-&gt;jord</li>
+    <!--EN: norseEndSyl->thrym-->
+    <li>norseEndSyl-&gt;thrym</li>
+  </NamerWeaponCryptoNorse.rulePack.rulesStrings>
+</LanguageData>

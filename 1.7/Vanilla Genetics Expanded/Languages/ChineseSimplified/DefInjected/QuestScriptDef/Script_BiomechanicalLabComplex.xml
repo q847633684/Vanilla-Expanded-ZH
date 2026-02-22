@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(askerIsNull==true)->The biomechanical lab beacon managed to decode the strange radio signals emanating from inside the strange mechanoid chip, revealing the coordinates of a lab complex not far from [map_definite]. This site seems to have been better hidden than the abandoned labs we have been exploring lately.\n\nThe beacon also revealed the original function of the lab complex: infusing paragon hybrids with reconstructive mechanites to somehow increase their power. Perhaps we should travel to the site with some of these hybrids.-->
+    <li>questDescription(askerIsNull==true)-&gt;The biomechanical lab beacon managed to decode the strange radio signals emanating from inside the strange mechanoid chip, revealing the coordinates of a lab complex not far from [map_definite]. This site seems to have been better hidden than the abandoned labs we have been exploring lately.\n\nThe beacon also revealed the original function of the lab complex: infusing paragon hybrids with reconstructive mechanites to somehow increase their power. Perhaps we should travel to the site with some of these hybrids.</li>
+  </GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+  <GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+    <!--EN: questName(priority=1)->[journey] the [adjectiveLab] [ruins]-->
+    <li>questName(priority=1)-&gt;[journey] the [adjectiveLab] [ruins]</li>
+    <!--EN: journey->Mission to-->
+    <li>journey-&gt;Mission to</li>
+    <!--EN: journey->Exploration of-->
+    <li>journey-&gt;Exploration of</li>
+    <!--EN: journey->Investigation of-->
+    <li>journey-&gt;Investigation of</li>
+    <!--EN: journey->Research into-->
+    <li>journey-&gt;Research into</li>
+    <!--EN: adjectiveLab->Mysterious-->
+    <li>adjectiveLab-&gt;Mysterious</li>
+    <!--EN: adjectiveLab->Hidden-->
+    <li>adjectiveLab-&gt;Hidden</li>
+    <!--EN: adjectiveLab->Concealed-->
+    <li>adjectiveLab-&gt;Concealed</li>
+    <!--EN: adjectiveLab->Secret-->
+    <li>adjectiveLab-&gt;Secret</li>
+    <!--EN: adjectiveLab->Camouflaged-->
+    <li>adjectiveLab-&gt;Camouflaged</li>
+    <!--EN: ruins->biomechanical lab-->
+    <li>ruins-&gt;biomechanical lab</li>
+    <!--EN: ruins->biomechanical complex-->
+    <li>ruins-&gt;biomechanical complex</li>
+    <!--EN: ruins->mechanoid installation-->
+    <li>ruins-&gt;mechanoid installation</li>
+  </GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</GR_OpportunitySite_BiomechanicalLab.root.nodes.9.node.nodes.0.label>
+  <!--EN: Intercepted communications indicate the biomechanical lab has been scavenged by others. The quest [resolvedQuestName] has expired.-->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.9.node.nodes.0.text>Intercepted communications indicate the biomechanical lab has been scavenged by others. The quest [resolvedQuestName] has expired.</GR_OpportunitySite_BiomechanicalLab.root.nodes.9.node.nodes.0.text>
+</LanguageData>

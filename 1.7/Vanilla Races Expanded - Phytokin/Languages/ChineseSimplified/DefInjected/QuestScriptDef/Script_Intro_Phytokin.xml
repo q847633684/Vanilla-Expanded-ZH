@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription->[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.-->
+    <li>questDescription-&gt;[asker_nameFull], a powerful phytokin, is calling from nearby. She was cast out by [enemyFaction_name] for giving them wrong advice, and is now being hunted by a search party. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to keep her safe at [map_definite]. If you accept, she will arrive immediately, but she will be followed by the search party that you will need to defeat.\n\nPhytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.</li>
+  </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+  <VRE_Intro_Phytokin.questNameRules.rulesStrings>
+    <!--EN: questName->the [adjAny] Phytokin-->
+    <li>questName-&gt;the [adjAny] Phytokin</li>
+    <!--EN: adjAny->hunted-->
+    <li>adjAny-&gt;hunted</li>
+    <!--EN: adjAny->fleeing-->
+    <li>adjAny-&gt;fleeing</li>
+    <!--EN: adjAny->solitary-->
+    <li>adjAny-&gt;solitary</li>
+    <!--EN: adjAny->ambushed-->
+    <li>adjAny-&gt;ambushed</li>
+  </VRE_Intro_Phytokin.questNameRules.rulesStrings>
+</LanguageData>

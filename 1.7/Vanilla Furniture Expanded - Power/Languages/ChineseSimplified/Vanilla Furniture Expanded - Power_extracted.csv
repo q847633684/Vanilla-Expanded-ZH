@@ -1,0 +1,168 @@
+key,text,tag,file,type
+VPE_PipesNotConnected,Pipes not connected to generator or tanks,VPE_PipesNotConnected,Misc_Gameplay.xml,keyed
+VPE_PipeConnectedRateStored,Pipe grid excess/stored: {0} ml / {1} ml-d,VPE_PipeConnectedRateStored,Misc_Gameplay.xml,keyed
+VPE_LiquidTankStored,Gas stored,VPE_LiquidTankStored,Misc_Gameplay.xml,keyed
+VPE_LiquidTankEfficiency,Tank efficiency,VPE_LiquidTankEfficiency,Misc_Gameplay.xml,keyed
+VPE_TankLeakage,Minimum sealant leakage,VPE_TankLeakage,Misc_Gameplay.xml,keyed
+VPE_NutrientNeeded,Gas needed,VPE_NutrientNeeded,Misc_Gameplay.xml,keyed
+VPE_LiquidOutput,Gas output,VPE_LiquidOutput,Misc_Gameplay.xml,keyed
+VPE_MustPlaceOnGasGeyser,This building must be placed on top of a helixien gas geyser,VPE_MustPlaceOnGasGeyser,Misc_Gameplay.xml,keyed
+VPE_PlugHole,Fill hole,VPE_PlugHole,Misc_Gameplay.xml,keyed
+VPE_PlugHoleDesc,Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.,VPE_PlugHoleDesc,Misc_Gameplay.xml,keyed
+VPE_CancelPlugHole,Cancel fill hole,VPE_CancelPlugHole,Misc_Gameplay.xml,keyed
+VPE_CancelPlugHoleDesc,Cancels the hole filling job.,VPE_CancelPlugHoleDesc,Misc_Gameplay.xml,keyed
+VPE_MustPlaceAdjacentToPipe,"Gas powered buildings must be placed adjacent to gas pipes, not on top",VPE_MustPlaceAdjacentToPipe,Misc_Gameplay.xml,keyed
+VPE_DeconstructGasPipes,Deconstruct Gas Network,VPE_DeconstructGasPipes,Misc_Gameplay.xml,keyed
+VPE_DeconstructGasPipesDesc,Deconstruct only gas pipes and subterranean gas pipes,VPE_DeconstructGasPipesDesc,Misc_Gameplay.xml,keyed
+VPE_DisableGasPathCalculations,Disable Helixien gas path calculations (use to reduce lag),VPE_DisableGasPathCalculations,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.GasNetworkInspectString,Gas excess (stored) in network: {0} ({1}),Fluffy.GasNetwork.GasNetworkInspectString,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.Stored,Gas stored: {0}/{1},Fluffy.GasNetwork.Stored,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.Production,Gas produced: {0},Fluffy.GasNetwork.Production,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.Consumption,Gas consumed: {0},Fluffy.GasNetwork.Consumption,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.GasOff,Gas turned off.,Fluffy.GasNetwork.GasOff,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.NoNetwork,Not connected to gas network.,Fluffy.GasNetwork.NoNetwork,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.ValveOpen,Valve is open.,Fluffy.GasNetwork.ValveOpen,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.ValveClosed,Valve is closed.,Fluffy.GasNetwork.ValveClosed,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.CommandToggleGas.Label,Toggle gas flow,Fluffy.GasNetwork.CommandToggleGas.Label,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.CommandToggleGas.Desc,Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.,Fluffy.GasNetwork.CommandToggleGas.Desc,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.DesiredBuffer,Target gas storage: {0}/{1},Fluffy.GasNetwork.DesiredBuffer,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.BufferOff,Gas storage turned off.,Fluffy.GasNetwork.BufferOff,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit,Preferred unit of wind speed,Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit,Misc_Gameplay.xml,keyed
+Fluffy.GasNetwork.Settings.Wind.Category,Wind Simulation,Fluffy.GasNetwork.Settings.Wind.Category,Misc_Gameplay.xml,keyed
+VPE_RadiationProduced,Warning: Reactor producing radiation in a {0} meters radius,VPE_RadiationProduced,Misc_Gameplay.xml,keyed
+VPE_TempInReactorRoom,Temperature in reactor room: {0}ºC,VPE_TempInReactorRoom,Misc_Gameplay.xml,keyed
+VPE_TempInReactorRoomCritical,Warning: Temperature in reactor room: {0}ºC,VPE_TempInReactorRoomCritical,Misc_Gameplay.xml,keyed
+VPE_Meltdown,"Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of",VPE_Meltdown,Misc_Gameplay.xml,keyed
+VPE_MeltdownLetterLabel,Reactor Meltdown,VPE_MeltdownLetterLabel,Misc_Gameplay.xml,keyed
+VPE_MeltdownLetter,"A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours.",VPE_MeltdownLetter,Misc_Gameplay.xml,keyed
+VPE_NoReactorRoom,"Reactor room must be a roofed, enclosed space",VPE_NoReactorRoom,Misc_Gameplay.xml,keyed
+VPE_MustPlaceRoofed,"This building needs to be placed in an indoors, roofed area",VPE_MustPlaceRoofed,Misc_Gameplay.xml,keyed
+VPE_SoulsTime,Souls stored for:,VPE_SoulsTime,Misc_Gameplay.xml,keyed
+VPE_Producing,Producing {0} W of electricity,VPE_Producing,Misc_Gameplay.xml,keyed
+VPE_NotProducing,No souls absorbed. The Machine Gods are hungry for human souls.,VPE_NotProducing,Misc_Gameplay.xml,keyed
+VPE_ToggleViolenceGenerator,Switch Generator,VPE_ToggleViolenceGenerator,Misc_Gameplay.xml,keyed
+VPE_ToggleViolenceGeneratorDesc,Switch Generator between a working and an inactive state,VPE_ToggleViolenceGeneratorDesc,Misc_Gameplay.xml,keyed
+VPE_GeneratorIsOff,Violence generator is toggled off and inactive right now,VPE_GeneratorIsOff,Misc_Gameplay.xml,keyed
+VPE_LightningTime,Lightning energy stored for:,VPE_LightningTime,Misc_Gameplay.xml,keyed
+VPE_NotLightningProducing,Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.,VPE_NotLightningProducing,Misc_Gameplay.xml,keyed
+VPE_AGasPipe,a gas pipe,VPE_AGasPipe,Misc_Gameplay.xml,keyed
+VPE_GasExplosion,A fault in {0} has caused a gas explosion.,VPE_GasExplosion,Misc_Gameplay.xml,keyed
+VPE_GasExplosionStartedFire,A fault in {0} has caused a gas explosion which started a fire.,VPE_GasExplosionStartedFire,Misc_Gameplay.xml,keyed
+VPE_GasExplosionLostGas,All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.,VPE_GasExplosionLostGas,Misc_Gameplay.xml,keyed
+VPE_GasExplosionLWasLarge,This large amount of gas has created an explosion of considerable size.,VPE_GasExplosionLWasLarge,Misc_Gameplay.xml,keyed
+VPE_GasExplosionLWasHuge,That really is a huge explosion. Wow.,VPE_GasExplosionLWasHuge,Misc_Gameplay.xml,keyed
+VPE_LetterLabelGasExplosion,Kaboom!,VPE_LetterLabelGasExplosion,Misc_Gameplay.xml,keyed
+VPE_PondHasFuel,This chemfuel pond has {0} units of chemfuel left,VPE_PondHasFuel,Misc_Gameplay.xml,keyed
+VPE_PondNoFuel,This chemfuel pond is depleted,VPE_PondNoFuel,Misc_Gameplay.xml,keyed
+VPE_MustPlaceOnChemfuelPond,The chemfuel pump needs to be built on top of a chemfuel pond,VPE_MustPlaceOnChemfuelPond,Misc_Gameplay.xml,keyed
+VPE_PumpProducing,The pump will produce {0} units of chemfuel in {1},VPE_PumpProducing,Misc_Gameplay.xml,keyed
+VPE_NeedsWater,This power plant must be built on water,VPE_NeedsWater,Misc_Gameplay.xml,keyed
+VPE_NeedsDistance,Tidal power plants must be built with at least 40 tiles of separation of each other,VPE_NeedsDistance,Misc_Gameplay.xml,keyed
+VPE_GasUpdateNoticeLetterLabel,Power Mod Update,VPE_GasUpdateNoticeLetterLabel,Misc_Gameplay.xml,keyed
+VPE_GasUpdateNoticeLetterText,"The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.",VPE_GasUpdateNoticeLetterText,Misc_Gameplay.xml,keyed
+VPE_Reset,Reset,VPE_Reset,Misc_Gameplay.xml,keyed
+VPE_NuclearPlantHeader,Nuclear Plant,VPE_NuclearPlantHeader,Misc_Gameplay.xml,keyed
+VPE_NuclearPlantMultiplier,Nuclear plant output multiplier,VPE_NuclearPlantMultiplier,Misc_Gameplay.xml,keyed
+VPE_NuclearPlantMultiplierTooltip,The amount of power produced by a nuclear plant will be multiplied by this amount.,VPE_NuclearPlantMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_NuclearPlantRadiationMultiplier,Radiation radius multiplier,VPE_NuclearPlantRadiationMultiplier,Misc_Gameplay.xml,keyed
+VPE_NuclearPlantRadiationMultiplierTooltip,The radius of the radiation produced by the nuclear plant if fuel is over 50% or if in meltdown will be multiplied by this amount.,VPE_NuclearPlantRadiationMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_DisableNuclearMeltdowns,Disable Nuclear Meltdowns,VPE_DisableNuclearMeltdowns,Misc_Gameplay.xml,keyed
+VPE_DisableNuclearMeltdownsDesc,"If activated, nuclear plants won't ever meltdown, even if reaching critical temperature.",VPE_DisableNuclearMeltdownsDesc,Misc_Gameplay.xml,keyed
+VPE_SolarHeader,Advanced Solar,VPE_SolarHeader,Misc_Gameplay.xml,keyed
+VPE_AdvSolarOutputMultiplier,Adv. Solar output multiplier,VPE_AdvSolarOutputMultiplier,Misc_Gameplay.xml,keyed
+VPE_AdvSolarOutputMultiplierTooltip,The amount of power produced by an advanced solar generator will be multiplied by this amount.,VPE_AdvSolarOutputMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_SoulHeader,Archotech violence generator,VPE_SoulHeader,Misc_Gameplay.xml,keyed
+VPE_SoulMultiplier,Hours of power per corpse consumed,VPE_SoulMultiplier,Misc_Gameplay.xml,keyed
+VPE_SoulMultiplierTooltip,"By default, every corpse consumed by the reactor produces 2 hours of power. This will be multiplied by this factor.",VPE_SoulMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_TidalHeader,Tidal generator,VPE_TidalHeader,Misc_Gameplay.xml,keyed
+VPE_TidalMultiplier,Tidal generator output multiplier,VPE_TidalMultiplier,Misc_Gameplay.xml,keyed
+VPE_TidalMultiplierTooltip,The amount of power produced by a tidal generator will be multiplied by this amount.,VPE_TidalMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_TidalSeparation,Tidal generator separation,VPE_TidalSeparation,Misc_Gameplay.xml,keyed
+VPE_TidalSeparationTooltip,"By default tidal generators need 40 tiles between them, but this can be changed with this setting.",VPE_TidalSeparationTooltip,Misc_Gameplay.xml,keyed
+VPE_WindmillHeader,Advanced wind turbine,VPE_WindmillHeader,Misc_Gameplay.xml,keyed
+VPE_AdvWindmillOutputMultiplier,Advanced wind turbine output multiplier,VPE_AdvWindmillOutputMultiplier,Misc_Gameplay.xml,keyed
+VPE_AdvWindmillOutputMultiplierTooltip,The amount of power produced by an advanced wind turbine will be multiplied by this amount.,VPE_AdvWindmillOutputMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_WatermillHeader,Advanced watermill generator,VPE_WatermillHeader,Misc_Gameplay.xml,keyed
+VPE_AdvWatermillOutputMultiplier,Advanced watermill generator output multiplier,VPE_AdvWatermillOutputMultiplier,Misc_Gameplay.xml,keyed
+VPE_AdvWatermillOutputMultiplierTooltip,The amount of power produced by an advanced watermill generator will be multiplied by this amount.,VPE_AdvWatermillOutputMultiplierTooltip,Misc_Gameplay.xml,keyed
+VPE_AdvGeoHeader,Advanced geothermal generator,VPE_AdvGeoHeader,Misc_Gameplay.xml,keyed
+VPE_AdvGeoOutputMultiplier,Advanced geothermal generator output multiplier,VPE_AdvGeoOutputMultiplier,Misc_Gameplay.xml,keyed
+VPE_AdvGeoOutputMultiplierTooltip,The amount of power produced by an advanced geothermal generator will be multiplied by this amount.,VPE_AdvGeoOutputMultiplierTooltip,Misc_Gameplay.xml,keyed
+VFE_IndustrialGenerators.label,industrial generators,label,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.description,"Build industrial-grade generators, capable of storing significantly more fuel and producing higher power.",description,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.0,subject->the era of industrial power,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.1,subject_story->ushered in robust solutions to meet the growing energy demands of burgeoning industries,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.2,"subject_story->developed generators with unparalleled fuel efficiency and output, powering the machinery of progress",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.3,"subject_story->overcame the limitations of earlier power sources, setting the stage for an era of expansion and invention",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.4,"subject_story->engineered durability and reliability into every unit, ensuring the wheels of industry never slow",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_IndustrialGenerators.generalRules.rulesStrings.5,subject_gerund->fueling the industrial revolution with advanced power generation,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.label,advanced battery,label,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.description,"Build spacertech batteries, capable of efficiently storing large amounts of energy.",description,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.0,subject->the capacitors of tomorrow,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.1,"subject_story->broke new ground in energy storage, with batteries that hold the promise of tomorrow",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.2,"subject_story->crafted compact yet powerful storage solutions, harnessing spacertech to leap forward in efficiency",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.3,"subject_story->pioneered systems that safeguard against power fluctuations, securing energy for critical moments",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.4,"subject_story->transformed the way civilizations store and manage their power, making energy scarcity a tale of the past",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedBatteries.generalRules.rulesStrings.5,subject_gerund->storing the pulse of progress in advanced batteries,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.label,advanced power sources,label,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.description,"Construct spacertech green power generators, including advanced solar panels and wind turbines.",description,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.0,subject->harvesting the elements,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.1,"subject_story->harnessed the power of the sun and wind with unprecedented efficiency, through advanced solar panels and turbines",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.2,"subject_story->elevated green power technologies to new heights, combining sustainability with high performance",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.3,"subject_story->initiated a green revolution in energy production, reducing reliance on finite resources",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.4,"subject_story->integrated smart technologies to optimize energy capture and utilization, even in the most challenging environments",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_AdvancedPowerSources.generalRules.rulesStrings.5,subject_gerund->leading the charge towards a sustainable future with green power,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.label,nuclear power,label,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.description,"The ultimate power generation method, nuclear power is as sufficient as it is deadly.",description,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.0,subject->the atomic frontier,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.1,"subject_story->unlocked the atom's heart, unleashing a torrent of power sufficient to light cities and drive the engines of industry",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.2,"subject_story->balanced the immense potential with rigorous safety protocols, ensuring the boon of nuclear power wasn't overshadowed by its risks",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.3,"subject_story->catalyzed a shift in power generation, where the atom's quiet hum underpins the bustling life of civilizations",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.4,"subject_story->led a scientific and engineering marvel, making nuclear power the cornerstone of a new era of energy sufficiency",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_NuclearPower.generalRules.rulesStrings.5,subject_gerund->embracing the nucleus of progress with nuclear power,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.label,tidal power,label,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.description,Build tidal generators on water to produce a large volume of sustainable green energy.,description,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.0,subject->the rhythm of the seas,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.1,"subject_story->tapped into the ceaseless motion of the oceans, converting the tides into a vast, unending source of power",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.2,"subject_story->innovated with underwater turbines that dance with the currents, generating clean energy in harmony with nature",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.3,"subject_story->overcame the challenges of marine power generation, protecting ecosystems while harnessing their strength",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.4,"subject_story->showcased the potential of the planet's largest renewable resource, leading by example in the pursuit of sustainability",li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VFE_TidalPower.generalRules.rulesStrings.5,subject_gerund->syncing civilization's heartbeat with the tides,li,ResearchProjectDef/ResearchProjects_2_Electricity.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VPE_ReactorRoom.label,Reactor Room,label,RoomRoleDef/RoomRoles.xml,def
+VFE_AdvancedWindTurbine.label,advanced wind turbine,label,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_AdvancedWindTurbine.description,"A spacertech, advanced wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.",description,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_AdvancedSolarGenerator.label,advanced solar generator,label,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_AdvancedSolarGenerator.description,This spacertech solar generator is capable of extracting significantly more energy from sunlight. Does not work in the dark or under artificial light.,description,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_AdvancedWatermillGenerator.label,advanced watermill generator,label,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_AdvancedWatermillGenerator.description,"A spacertech building that produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.",description,ThingDef/Buildings_AdvancedPower.xml,def
+VPE_AdvancedGeothermalGenerator.label,advanced geothermal generator,label,ThingDef/Buildings_AdvancedPower.xml,def
+VPE_AdvancedGeothermalGenerator.description,"This advanced, spacertech generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser.",description,ThingDef/Buildings_AdvancedPower.xml,def
+VFE_LargeBattery.label,large battery,label,ThingDef/Buildings_Batteries.xml,def
+VFE_LargeBattery.description,Stores a large amount of electricity for later use. Charged large batteries explode when exposed to rain or fire.,description,ThingDef/Buildings_Batteries.xml,def
+VFE_SmallBattery.label,small battery,label,ThingDef/Buildings_Batteries.xml,def
+VFE_SmallBattery.description,Stores a small amount of electricity for later use. Charged batteries explode when exposed to rain or fire.,description,ThingDef/Buildings_Batteries.xml,def
+VFE_AdvancedBattery.label,advanced battery,label,ThingDef/Buildings_Batteries.xml,def
+VFE_AdvancedBattery.description,"Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain.",description,ThingDef/Buildings_Batteries.xml,def
+VFE_LargeAdvancedBattery.label,large advanced battery,label,ThingDef/Buildings_Batteries.xml,def
+VFE_LargeAdvancedBattery.description,"Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.",description,ThingDef/Buildings_Batteries.xml,def
+VPE_NuclearGenerator.label,nuclear reactor,label,ThingDef/Buildings_Nuclear.xml,def
+VPE_NuclearGenerator.description,"A large nuclear reactor repurposed from a ship power core. Consumes uranium to produce large amounts of power. Can be overloaded, resulting in even larger power output at the cost of local radiation.\n\nNuclear reactor will quickly overheat and should be cooled at all times.\n\nCannot be placed outdoors.",description,ThingDef/Buildings_Nuclear.xml,def
+VFE_PortableWoodFiredGenerator.label,portable wood-fired generator,label,ThingDef/Buildings_Power.xml,def
+VFE_PortableWoodFiredGenerator.description,Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around.,description,ThingDef/Buildings_Power.xml,def
+VFE_PortableChemfuelPoweredGenerator.label,portable chemfuel powered generator,label,ThingDef/Buildings_Power.xml,def
+VFE_PortableChemfuelPoweredGenerator.description,Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around.,description,ThingDef/Buildings_Power.xml,def
+VFE_IndustrialWoodFiredGenerator.label,industrial wood-fired generator,label,ThingDef/Buildings_Power.xml,def
+VFE_IndustrialWoodFiredGenerator.description,Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand.,description,ThingDef/Buildings_Power.xml,def
+VFE_IndustrialChemfuelPoweredGenerator.label,industrial chemfuel powered generator,label,ThingDef/Buildings_Power.xml,def
+VFE_IndustrialChemfuelPoweredGenerator.description,Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand.,description,ThingDef/Buildings_Power.xml,def
+VFE_TidalGenerator.label,tidal generator,label,ThingDef/Buildings_Power.xml,def
+VFE_TidalGenerator.description,"Produces electricity from moving masses of water, particularly tides. Must be placed on water.",description,ThingDef/Buildings_Power.xml,def
+VFE_SmallVanometricPowerCell.label,small vanometric power cell,label,ThingDef/Buildings_Special.xml,def
+VFE_SmallVanometricPowerCell.description,"Generates a very small amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.",description,ThingDef/Buildings_Special.xml,def
+VFE_LargeVanometricPowerCell.label,large vanometric power cell,label,ThingDef/Buildings_Special.xml,def
+VFE_LargeVanometricPowerCell.description,"Generates a large amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.",description,ThingDef/Buildings_Special.xml,def
+VPE_ArchotechViolenceGenerator.label,archotech violence generator,label,ThingDef/Buildings_Special.xml,def
+VPE_ArchotechViolenceGenerator.description,"This device taps into psychic energy leaving the bodies of surrounding humanoids, changing it directly into usable energy. This technology is developed by archotechs, and is beyond even most glitterworld societies.",description,ThingDef/Buildings_Special.xml,def
+VPE_RadioactiveFog.label,radioactive fog,label,WeatherDef/Weathers.xml,def
+VPE_RadioactiveFog.description,A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.,description,WeatherDef/Weathers.xml,def

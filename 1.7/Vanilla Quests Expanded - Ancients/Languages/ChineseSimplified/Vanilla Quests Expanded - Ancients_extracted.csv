@@ -1,0 +1,651 @@
+key,text,tag,file,type
+VQEA_ArchiteInjectionTitle,Archite Injection,VQEA_ArchiteInjectionTitle,Keys.xml,keyed
+VQEA_ArchiteInjection_MainDesc,"{PAWN} will be injected with volatile archites, causing {PAWN_objective} to develop a random archite gene. The process is dangerous and can cause development of random unwanted genes, rejection or even a drastic mutation. Obtain more ancient archite lab equipment to improve the process.",VQEA_ArchiteInjection_MainDesc,Keys.xml,keyed
+VQEA_ExpectedInfusionDuration,Expected infusion duration,VQEA_ExpectedInfusionDuration,Keys.xml,keyed
+VQEA_InfusionComaDuration,Infusion coma duration,VQEA_InfusionComaDuration,Keys.xml,keyed
+VQEA_PawnGeneticComplexity,{0}'s genetic complexity,VQEA_PawnGeneticComplexity,Keys.xml,keyed
+VQEA_PatientGownBonus,Success chance increased due to patient gown.,VQEA_PatientGownBonus,Keys.xml,keyed
+VQEA_ExpectedMetabolismSideEffect,Expected metabolism efficiency of the side effect gene,VQEA_ExpectedMetabolismSideEffect,Keys.xml,keyed
+VQEA_SuccessChance,Success chance,VQEA_SuccessChance,Keys.xml,keyed
+VQEA_RejectionChance,Rejection chance,VQEA_RejectionChance,Keys.xml,keyed
+VQEA_SplicelingChance,Spliceling mutation chance,VQEA_SplicelingChance,Keys.xml,keyed
+VQEA_SplicehulkChance,Splicehulk mutation chance,VQEA_SplicehulkChance,Keys.xml,keyed
+VQEA_SplicefiendChance,Splicefiend mutation chance,VQEA_SplicefiendChance,Keys.xml,keyed
+VQEA_CompleteMoreAncientLabQuests,You can complete more ancient lab quests to find and loot more lab equipment. Each piece of the lab provides unique benefits that will improve the odds of a succesful injection.,VQEA_CompleteMoreAncientLabQuests,Keys.xml,keyed
+VQEA_LinkedLabEquipment,Linked Lab Equipment,VQEA_LinkedLabEquipment,Keys.xml,keyed
+VQEA_RequiresArchiteCapsule,The process requires 1 Archite capsule available.,VQEA_RequiresArchiteCapsule,Keys.xml,keyed
+VQEA_AvailableArchiteCapsules,Available archite capsules in storage: {0},VQEA_AvailableArchiteCapsules,Keys.xml,keyed
+VQEA_Inject,Inject,VQEA_Inject,Keys.xml,keyed
+VQEA_Days,{0} days,VQEA_Days,Keys.xml,keyed
+VQEA_Metabolism,{0} metabolism,VQEA_Metabolism,Keys.xml,keyed
+VQEA_StartInjection,Start injection process,VQEA_StartInjection,Keys.xml,keyed
+VQEA_StartInjectionDesc,"Initialize the archogen injector, allowing a person to be inserted.",VQEA_StartInjectionDesc,Keys.xml,keyed
+VQEA_InsertPerson,Insert person,VQEA_InsertPerson,Keys.xml,keyed
+VQEA_InsertPersonDesc,"Insert a person into the archogen injector. Their genetic material will be injected with chaotic archites, which will cause random genetic mutations with a chance to form an archite gene, but also random other xenogenes.\n\nArchite injection is a painful process and will force the subject into a temporary coma while the organism adapts to the new genetic composition.",VQEA_InsertPersonDesc,Keys.xml,keyed
+VQEA_InsertPersonIntoWonderdocDesc,"Insert the person into the ancient wonderdoc. They will then undergo the selected procedure, but with a risk of malfunction occurring.",VQEA_InsertPersonIntoWonderdocDesc,Keys.xml,keyed
+VQEA_LetterLabel_Success,Archogen injection: success,VQEA_LetterLabel_Success,Keys.xml,keyed
+VQEA_LetterDesc_Success,"The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\nAs a side effect, {PAWN_nameDef} has also developed an additional gene: {SIDEEFFECTGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition.",VQEA_LetterDesc_Success,Keys.xml,keyed
+VQEA_LetterDesc_SuccessNoSideEffect,The archite injection has been successful.\n\n{PAWN_nameDef} has been injected with volatile archites and has gained a new archite gene: {ARCHITEGENE_label}.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body adapts to the new genetic composition.,VQEA_LetterDesc_SuccessNoSideEffect,Keys.xml,keyed
+VQEA_LetterLabel_Rejection,Archogen injection: rejection,VQEA_LetterLabel_Rejection,Keys.xml,keyed
+VQEA_LetterDesc_Rejection,"The archite injection has been rejected.\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body rejected the alterations to the genetic composition.\n\n{PAWN_pronoun} will now enter an injection coma while {PAWN_possessive} body recovers.",VQEA_LetterDesc_Rejection,Keys.xml,keyed
+VQEA_LetterLabel_Mutation,Archogen injection: mutation,VQEA_LetterLabel_Mutation,Keys.xml,keyed
+VQEA_LetterDesc_Mutation,"The archite injection has caused a mutation!\n\n{PAWN_nameDef} has been injected with volatile archites, but {PAWN_possessive} body reacted badly to the forced evolution, turning {PAWN_objective} into a mutant.\n\n{PAWN_pronoun} have emerged from the archogen injector and will destroy all the lab equipment {PAWN_pronoun} can find in the blind, animalistic rage.\n\nYou can try and stop {PAWN_objective}, or let {PAWN_objective} leave.",VQEA_LetterDesc_Mutation,Keys.xml,keyed
+VQEA_ExperimentJoinsLetterLabel,Experiment joins: {PAWN_nameDef},VQEA_ExperimentJoinsLetterLabel,Keys.xml,keyed
+VQEA_ExperimentJoinsLetterDescription,"The {PAWN_title} known as {PAWN_nameDef} has emerged from a rusty cryptosleep casket, wearing nothing but a thin patient gown. They immediately join your colony.\n\n{PAWN_nameFull} is known as an ideal patient. Their body accepts every archite injection without risk of rejection, as though their cells were made to adapt to genetic change. This makes them uniquely suited for experiments with advanced archite technology - in fact, they have already undergone a few experiments before, as they carry several archite genes.\n\n{PAWN_labelShort} also suffers from a rare illness called Hemocollapse Syndrome. Their blood slowly fails over time, leaving them weaker as the days pass. Care and treatment can slow the disease, but it cannot be cured, and in the end, it will take their life.",VQEA_ExperimentJoinsLetterDescription,Keys.xml,keyed
+VQEA_ArchogenInjectorWaitingForCapsule,Waiting for archite capsule.,VQEA_ArchogenInjectorWaitingForCapsule,Keys.xml,keyed
+VQEA_ArchogenInjectorWaitingForPawn,Waiting for person.,VQEA_ArchogenInjectorWaitingForPawn,Keys.xml,keyed
+VQEA_ArchogenInjectorPawnInside,"Pawn inside, waiting for injection confirmation",VQEA_ArchogenInjectorPawnInside,Keys.xml,keyed
+VQEA_ArchogenInjectorInjecting,Injecting. Time remaining: {0},VQEA_ArchogenInjectorInjecting,Keys.xml,keyed
+VQEA_ArchogenInjectorNotInit,The archogen injector process has not been started.,VQEA_ArchogenInjectorNotInit,Keys.xml,keyed
+VQEA_ArchogenInjectorOccupied,Archogen Injector is occupied.,VQEA_ArchogenInjectorOccupied,Keys.xml,keyed
+VQEA_ArchogenInjectorComplete,Injection complete.,VQEA_ArchogenInjectorComplete,Keys.xml,keyed
+VQEA_NoArchiteCapsules,No archite capsules available.,VQEA_NoArchiteCapsules,Keys.xml,keyed
+VQEA_HasInjectionComa,In injection coma.,VQEA_HasInjectionComa,Keys.xml,keyed
+VQEA_ChooseGenesTitle,Choose genes,VQEA_ChooseGenesTitle,Keys.xml,keyed
+VQEA_MustSelectGenes,You must select a gene from each category.,VQEA_MustSelectGenes,Keys.xml,keyed
+VQEA_MustSelectArchiteGene,You must select an archite gene.,VQEA_MustSelectArchiteGene,Keys.xml,keyed
+VQEA_MustSelectSideEffectGene,You must select a side-effect gene.,VQEA_MustSelectSideEffectGene,Keys.xml,keyed
+VQEA_AddsBurningPassionIn,Adds burning passion in {0_label}.,VQEA_AddsBurningPassionIn,Keys.xml,keyed
+VQEA_ArchiteGenes,Archite genes,VQEA_ArchiteGenes,Keys.xml,keyed
+VQEA_NoArchiteGenes,No archite genes available.,VQEA_NoArchiteGenes,Keys.xml,keyed
+VQEA_SideEffectGenes,Side-effect genes,VQEA_SideEffectGenes,Keys.xml,keyed
+VQEA_NoSideEffectGenes,No side-effect genes available.,VQEA_NoSideEffectGenes,Keys.xml,keyed
+VQEA_ChooseArchiteGene,Choose an archite gene,VQEA_ChooseArchiteGene,Keys.xml,keyed
+VQEA_ChooseSideEffectGene,Choose a side effect gene,VQEA_ChooseSideEffectGene,Keys.xml,keyed
+VQEA_NoInjectablePawns,No pawns available for injection.,VQEA_NoInjectablePawns,Keys.xml,keyed
+VQEA_TextMote_ExceededExpectations,Exceeded expectations,VQEA_TextMote_ExceededExpectations,Keys.xml,keyed
+VQEA_TextMote_MedicinePreserved,Medicine preserved,VQEA_TextMote_MedicinePreserved,Keys.xml,keyed
+VQEA_PawnRecruitable,{0} is no longer unwaveringly loyal due to {1}'s {2} gene.,VQEA_PawnRecruitable,Keys.xml,keyed
+VQEA_Override,Override,VQEA_Override,Keys.xml,keyed
+VQEA_OverrideDesc,"Select a colonist to override the ancient pipeline junction, siphoning a large amount of chemfuel from it. The pipeline junction will need time before it can be hacked again.",VQEA_OverrideDesc,Keys.xml,keyed
+VQEA_OverrideDesc_Generic,Select a colonist to override the security on this.,VQEA_OverrideDesc_Generic,Keys.xml,keyed
+VQEA_OverrideDesc_Queue,Order this container to be opened by overriding its security.,VQEA_OverrideDesc_Queue,Keys.xml,keyed
+VQEA_CancelOverride,Cancel override,VQEA_CancelOverride,Keys.xml,keyed
+VQEA_CancelOverrideDesc,Cancel overriding this building.,VQEA_CancelOverrideDesc,Keys.xml,keyed
+VQEA_LockedAncientVaultDoor,This ancient vault door is locked.,VQEA_LockedAncientVaultDoor,Keys.xml,keyed
+VQEA_InterceptBroadcast,Intercept broadcast,VQEA_InterceptBroadcast,Keys.xml,keyed
+VQEA_InterceptBroadcastDesc,Intercept the broadcast to find out the location of another lab where the broadcast is directed.,VQEA_InterceptBroadcastDesc,Keys.xml,keyed
+VQEA_CarryToBioBattery,Carry {0} to biobattery,VQEA_CarryToBioBattery,Keys.xml,keyed
+VQEA_MassLeft,Mass Left: {0} / {1} ({2}),VQEA_MassLeft,Keys.xml,keyed
+VQEA_LoadCargo,Load cargo,VQEA_LoadCargo,Keys.xml,keyed
+VQEA_LoadCargoDesc,Load cargo into a capsule that will be sent to some other vault far away.,VQEA_LoadCargoDesc,Keys.xml,keyed
+VQEA_LaunchCapsule,Launch capsule,VQEA_LaunchCapsule,Keys.xml,keyed
+VQEA_LaunchCapsuleDesc,Launch the capsule with cargo down the pneumatic system. You may receive some goods from another vault in return.,VQEA_LaunchCapsuleDesc,Keys.xml,keyed
+VQEA_PneumaticCapsuleReady,Pneumatic capsule is fully loaded and ready to be sent.,VQEA_PneumaticCapsuleReady,Keys.xml,keyed
+VQEA_PneumaticCapsuleArrived,Pneumatic capsule from another vault has arrived.,VQEA_PneumaticCapsuleArrived,Keys.xml,keyed
+VQEA_PneumaticTubeReturning,A pneumatic capsule is returning.,VQEA_PneumaticTubeReturning,Keys.xml,keyed
+VQEA_MessageCantLoadMoreIntoPneumaticTube,Your {1} can't finish loading the pneumatic capsule because some items became unavailable ({2_labelShort}).,VQEA_MessageCantLoadMoreIntoPneumaticTube,Keys.xml,keyed
+VQE_EnterVault,Enter vault,VQE_EnterVault,Keys.xml,keyed
+VQE_ExitVault,Exit vault,VQE_ExitVault,Keys.xml,keyed
+VQE_ViewVault,View vault,VQE_ViewVault,Keys.xml,keyed
+VQE_ViewVaultDesc,View the destination vault interior,VQE_ViewVaultDesc,Keys.xml,keyed
+VQEA_WonderdocContains,Contains: {0},VQEA_WonderdocContains,Keys.xml,keyed
+VQEA_WonderdocCycle,Cycle: {0},VQEA_WonderdocCycle,Keys.xml,keyed
+VQEA_WonderdocTimeRemaining,Time remaining: {0},VQEA_WonderdocTimeRemaining,Keys.xml,keyed
+VQEA_WonderdocBioregenerationSuccess,{PAWN_nameDef} successfully completed their wonderdoc bioregeneration wondercycle.,VQEA_WonderdocBioregenerationSuccess,Keys.xml,keyed
+VQEA_WonderdocInstarehabSuccess,{PAWN_nameDef} successfully completed their wonderdoc instarehab wondercycle.,VQEA_WonderdocInstarehabSuccess,Keys.xml,keyed
+VQEA_WonderdocTimeReversalSuccess,{PAWN_nameDef} successfully completed their wonderdoc time reversal wondercycle.,VQEA_WonderdocTimeReversalSuccess,Keys.xml,keyed
+VQEA_WonderdocSkillReformattingSuccess,{PAWN_nameDef} successfully completed their wonderdoc skill reformatting wondercycle.,VQEA_WonderdocSkillReformattingSuccess,Keys.xml,keyed
+VQEA_WonderdocMalfunction,Ancient wonderdoc suffered a malfunction during the wondercycle on {PAWN_nameDef}.,VQEA_WonderdocMalfunction,Keys.xml,keyed
+VQEA_ChanceToMalfunction,Chance to malfunction: {0},VQEA_ChanceToMalfunction,Keys.xml,keyed
+VQEA_WonderdocOccupied,Wonderdoc is occupied.,VQEA_WonderdocOccupied,Keys.xml,keyed
+VQEA_NoPawnsAvailableForWonderdoc,No pawns available for wonderdoc.,VQEA_NoPawnsAvailableForWonderdoc,Keys.xml,keyed
+VQEA_Levitation.label,levitation,label,AbilityDef/Abilities.xml,def
+VQEA_Levitation.description,Use a delicate psychic field to levitate to the target location.,description,AbilityDef/Abilities.xml,def
+VQEA_Levitation.verbProperties.label,levitation,label,AbilityDef/Abilities.xml,def
+VQEA_Invisibility.label,invisibility,label,AbilityDef/Abilities.xml,def
+VQEA_Invisibility.description,Use psychic suggestion to turn yourself invisible for a short duration.,description,AbilityDef/Abilities.xml,def
+VQEA_InfernoSpew.label,inferno spew,label,AbilityDef/Abilities.xml,def
+VQEA_InfernoSpew.description,"Expel a dense jet of sticky, flammable bile from the mouth. Upon contact, it can ignite targets and leave behind burning puddles on the ground. The bile is produced and stored in a specialized gland in the neck, paired with a separate chamber containing a hypergolic compound used for ignition.",description,AbilityDef/Abilities.xml,def
+VQEA_HellsphereBlast.label,hellsphere blast,label,AbilityDef/Abilities.xml,def
+VQEA_HellsphereBlast.description,"Unleash a concentrated beam of destructive energy from the eyes, identical to the blast fired by a hellsphere cannon. After a short duration, the microscoping skipgates in the eyes release a searing pulse of power capable of melting concrete and incinerating anything within the blast zone.",description,AbilityDef/Abilities.xml,def
+VQEA_Bullet_HellsphereCannonGun.label,hellsphere cannon shot,label,ThingDef/Abilities.xml,def
+VQEA_EMPPulse.label,electromagnetic pulse,label,AbilityDef/Abilities.xml,def
+VQEA_EMPPulse.description,"Release a powerful electromagnetic pulse, damaging all electronics in radius. If used outside, lightning strikes may hit the area around the caster.",description,AbilityDef/Abilities.xml,def
+VQEA_MatterPhasing.label,matter phasing,label,AbilityDef/Abilities.xml,def
+VQEA_MatterPhasing.description,"The colonist briefly shifts into an intangible state, letting them pass through walls before becoming solid again.",description,AbilityDef/Abilities.xml,def
+VQEA_SuicideAttack.label,suicide attack,label,DamageDef/DamageMisc.xml,def
+VQEA_SuicideAttack.deathMessage,{0} has been bitten to death.,deathMessage,DamageDef/DamageMisc.xml,def
+VQEA_Scalpel.label,scalpel slash,label,DamageDef/DamageMisc.xml,def
+VQEA_ArchiteAptitudes.label,archite aptitudes,label,GeneCategoryDef/GeneCategoryDefs.xml,def
+VQEA_Herculean.label,herculean,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Herculean.description,"Carriers of this gene possess immense superhuman strength, enabling them to strike with devastating force and carry vast loads with ease. Their blows can shatter bones, and they are never staggered by impact.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Prowess.label,prowess,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Prowess.description,"Carriers of this gene are masterful close-quarters combatants. Their accuracy and reflexes make them nearly impossible to hit in melee, while their strikes land with flawless precision.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_BlurRunner.label,blur runner,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_BlurRunner.description,"Carriers of this gene move at blinding speed, making them difficult to target with ranged attacks. Their enhanced reflexes and kinetic control allow them to traverse the battlefield in a blur.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Woundless.label,woundless,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Woundless.description,"Carriers of this gene rapidly heal from bleeding wounds. Their flesh seals itself moments after injury, preventing blood loss entirely and allowing them to fight through trauma that would kill others.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Marksman.label,marksman,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Marksman.description,"Carriers of this gene exhibit superhuman ranged precision. Their shots are faster, more accurate, and more lethal, giving them a distinct advantage in any firefight.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PerfectVision.label,perfect vision,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PerfectVision.description,"Carriers of this gene see with supernatural clarity at all distances and in total darkness. They are unaffected by low light or long range, and their perception dramatically improves ranged combat effectiveness.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PlasteelSkin.label,plasteel skin,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PlasteelSkin.description,"Carriers of this gene possess dense, reinforced dermal armor. Their skin resists bullets, absorbs blunt force, and disperses heat, turning their entire body into a living shield.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PlasteelClaws.label,plasteel claws,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PlasteelClaws.description,Carriers of this gene grow synthetic alloy claws capable of slicing through armor and flesh. These natural weapons are always equipped and strike with brutal efficiency.,description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Genius.label,genius,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Genius.description,"Carriers of this gene learn at phenomenal speed and retain all knowledge. They do not suffer skill decay and can interface with technology at unmatched speeds, completing hacking tasks instantly.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Levitation.label,levitation,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Levitation.description,"Carriers of this gene can lift themselves using a controlled psychic field. They float over obstacles and terrain unharmed, immune to damage during transit and unaffected by difficult terrain.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Serene.label,serene,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Serene.description,"Carriers of this gene have archites embedded in their neural pathways that suppress fear, anger, and stress responses. As a result, they are utterly unshakable, incapable of mental breaks, social fights, or resisting arrest.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PassiveMeditation.label,passive meditation,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_PassiveMeditation.description,"Carriers of this gene possess archites that passively channel ambient psychic energy, replenishing psyfocus without meditation. These ever-attuned minds remain sharp, composed, and ready to cast at all times.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Bulwark.label,bulwark,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Bulwark.description,"Archites within the carrier’s tissues reinforce cellular structures, reducing incoming damage by half. Pain receptors are dampened in favor of combat awareness, and the body itself resists trauma that would cripple an ordinary human.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Enormous.label,enormous,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Enormous.description,"Carriers of this gene are saturated with growth-regulating archites that massively increase body size and muscle mass. Their immense frame allows for feats of brute strength, at the cost of speed and appetite.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_SubstanceImpervious.label,substance impervious,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_SubstanceImpervious.description,"Specialized detoxifying archites patrol the bloodstream of carriers, instantly neutralizing addictive compounds and preventing overdose. No drug, however potent, can compromise their system.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulAnimals.label,masterful animals,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulAnimals.description,"The carrier's aptitude in Animals is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Animals. Specialized archites embedded in the limbic system and motor cortex enable this enhanced empathy and coordination, creating a unique form of joy called animal relaxation while tending to animals.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulArtistic.label,masterful artistic,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulArtistic.description,"The carrier's aptitude in Artistic is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Artistic. They work with intense passion, and when they create a masterpiece, a portion of the resources used is miraculously reclaimed. This is made possible by archites that optimize muscle memory and visual-spatial reasoning, recycling material with remarkable efficiency.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulConstruction.label,masterful construction,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulConstruction.description,"The carrier's aptitude in Construction is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Construction. Occasionally, they exceed expectations, returning some of the materials used during construction as a result of their efficiency.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulCooking.label,masterful cooking,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulCooking.description,"The carrier's aptitude in Cooking is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Cooking. Nanoscopic archites in the sensory cortex fine-tune taste and motor control, doubling the cooking speed.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulCrafting.label,masterful crafting,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulCrafting.description,"The carrier's aptitude in Crafting is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Crafting. Archites guide the carrier’s fine motor skills and decision-making, ensuring peak performance in crafting.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMedical.label,masterful medical,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMedical.description,"The carrier's aptitude in Medical is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Medical. Archites enhance decision-making and precision during operations, and preserve medicine during treatment.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMelee.label,masterful melee,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMelee.description,"The carrier's aptitude in Melee is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Melee. They instinctively strike for the heart or brain, dispatching enemies with terrifying efficiency. Archites synchronize muscle memory and visual targeting systems to prioritize lethal organs in combat.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMining.label,masterful mining,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulMining.description,"The carrier's aptitude in Mining is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Mining. Archites augment perception of mineral seams and tool control, granting increased yield and removing any usual mining yield caps.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulPlants.label,masterful plants,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulPlants.description,"The carrier's aptitude in Plants is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Plants. Their expertise removes standard yield limits, allowing for extraordinary agricultural output.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulIntellectual.label,masterful intellectual,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulIntellectual.description,"The carrier's aptitude in Intellectual is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Intellectual. They conduct research subconsciously, constantly generating scientific progress even while performing other tasks or resting. Archites woven into their neural network accelerate retention, synthesis, and intuition, allowing discoveries to emerge without active study.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulShooting.label,masterful shooting,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulShooting.description,"The carrier's aptitude in Shooting is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Shooting. Every shot is precisely placed: if a head is present, it will be hit. Archites modify visual tracking and ballistic prediction, locking onto cranial targets with terrifying consistency.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulSocial.label,masterful social,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MasterfulSocial.description,"The carrier's aptitude in Social is increased by 16. Aptitude acts like an offset on skill level. Additionally, two levels of passion are added to Social. They can recruit even the most unwavering pawns and exert immense ideological influence.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_InfernoSpew.label,inferno spew,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_InfernoSpew.description,"Carriers of this gene can unleash a superheated stream of igniting bile, covering enemies and terrain in burning liquid. This ability turns any battlefield into a fiery trap.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_HellsphereBlast.label,hellsphere blast,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_HellsphereBlast.description,"Carriers of this gene can emit a devastating beam of energy from their eyes, vaporizing everything in its path. It mimics the firepower of a hellsphere cannon, condensed into a humanoid frame.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Invisibility.label,invisibility,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Invisibility.description,"Carriers of this gene can bend light and thermal signatures around their bodies using specialized archite nanites, causing them to vanish from sight. While the effect only lasts a short while, it can be used again almost immediately.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_SelfRepairingTissue.label,self-repairing tissue,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_SelfRepairingTissue.description,"Carriers of this gene possess archite-woven regenerative tissue that continuously rebuilds damaged cells and restores lost structure. They are capable of regrowing missing organs and body parts, but the process takes time.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Electromagnetized.label,electromagnetized,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Electromagnetized.description,"Carriers of this gene generate a stable internal electromagnetic field that makes them fully immune to EMP attacks. They can also release this charge in a powerful EMP burst, disabling electronics and mechanoids nearby.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MatterPhasing.label,matter phasing,label,GeneDef/GeneDefs_Archite.xml,def
+VQEA_MatterPhasing.description,"Carriers of this gene can temporarily shift their bodies into a semi-intangible state, allowing them to pass through walls and solid obstacles. The effect lasts only briefly before their form solidifies again.",description,GeneDef/GeneDefs_Archite.xml,def
+VQEA_Woundless.label,woundless,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Woundless.description,"Carriers of this gene rapidly heal from bleeding wounds. Their flesh seals itself moments after injury, preventing blood loss entirely and allowing them to fight through trauma that would kill others.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_PlasteelSkin.label,plasteel skin,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_PlasteelSkin.description,"Carriers of this gene possess dense, reinforced dermal armor. Their skin resists bullets, absorbs blunt force, and disperses heat, turning their entire body into a living shield.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_PlasteelClaws.label,plasteel claw,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_PlasteelClaws.description,Carriers of this gene grow synthetic alloy claws capable of slicing through armor and flesh. These natural weapons are always equipped and strike with brutal efficiency.,description,HediffDef/Hediffs_Genes.xml,def
+VQEA_PlasteelClaws.comps.0.tools.0.label,plasteel claw,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_PassiveMeditation.label,passive meditation,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_PassiveMeditation.description,"Carriers of this gene possess archites that passively channel ambient psychic energy, replenishing psyfocus without meditation. These ever-attuned minds remain sharp, composed, and ready to cast at all times.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Bulwark.label,bulwark,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Bulwark.description,"Archites within the carrier’s tissues reinforce cellular structures, reducing incoming damage by half. Pain receptors are dampened in favor of combat awareness, and the body itself resists trauma that would cripple an ordinary human.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Enormous.label,enormous,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Enormous.description,"Carriers of this gene are saturated with growth-regulating archites that massively increase body size and muscle mass. Their immense frame allows for feats of brute strength, at the cost of speed and appetite.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_MasterfulIntellectual.label,masterful intellectual,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_MasterfulIntellectual.description,"This person will conduct research subconsciously, constantly generating scientific progress even while performing other tasks or resting.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_NoPain.description,"This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_NoPain.label,no pain sensitivity,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_InjectionComa.label,injection coma,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_InjectionComa.description,"This person has undergone an archite injection. The injected archites are actively rewriting their genetic composition, altering tissues and cellular chemistry throughout the body. During this process, the body cannot safely function, so the subject is held in a deep coma.\n\nThe duration of this coma can be shortened with advanced lab equipment.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.label,hemocollapse syndrome,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.description,"A rare and terminal disorder where the bone marrow gradually fails to produce vital hemogen components. The body weakens and the organs strain, eventually leading to death.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.stages.0.label,latent,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.stages.1.label,progressive,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.stages.2.label,advanced,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_HemocollapseSyndrome.stages.3.label,terminal,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Levitation.label,levitation,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Levitation.description,Limited flight that allows this colonist to levitate over terrain. They will ignore terrain movement costs when moving.,description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Invisibility.label,invisibility,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Invisibility.description,This person has used psychic suggestion to turn themselves invisible for a short duration.,description,HediffDef/Hediffs_Genes.xml,def
+VQEA_SelfRepairingTissue.label,self-repairing tissue,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_SelfRepairingTissue.description,"This person possesses archite-woven regenerative tissue that continuously rebuilds damaged cells and restores lost structure. They are capable of regrowing missing organs and body parts, but the process takes time.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Regenerating.label,regenerating,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_Regenerating.description,"Regenerating wounds, new and old.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Regenerating.injuryProps.destroyedLabel,Destroyed,destroyedLabel,HediffDef/Hediffs_Genes.xml,def
+VQEA_MatterPhasing.label,matter phasing,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_MatterPhasing.description,"This person has shifted into an intangible state, letting them pass through walls before becoming solid again.",description,HediffDef/Hediffs_Genes.xml,def
+VQEA_SuicideHediff.label,dying,label,HediffDef/Hediffs_Genes.xml,def
+VQEA_SuicideHediff.description,This creature is dying.,description,HediffDef/Hediffs_Genes.xml,def
+VQEA_Play_AncientFoosballTable.reportString,playing foosball.,reportString,JobDef/Jobs_Joy.xml,def
+VQEA_CarryToBioBattery.reportString,carrying TargetA to biobattery tank.,reportString,JobDef/Jobs_Misc.xml,def
+VQEA_AnimalRelaxation.label,animal relaxation,label,JoyKindDef/JoyKinds.xml,def
+VQEA_MutantBerserk.baseInspectLine,Berserk,baseInspectLine,MentalStateDef/MentalStateDefs.xml,def
+VQE_Patient.label,patient,label,PawnKindDef/PawnKinds_Spacer.xml,def
+VQEA_AncientComplex.label,ancient complex,label,MapGeneratorDef/AncientComplexMapGenerator.xml,def
+VQEA_AncientComplex.label,ancient complex,label,WeatherDef/AncientComplexMapGenerator.xml,def
+VQEA_AncientComplex.label,ancient complex,label,GameConditionDef/AncientComplexMapGenerator.xml,def
+VQEA_AncientComplex.description,It's dark and damp here.,description,GameConditionDef/AncientComplexMapGenerator.xml,def
+VQEA_AncientComplex.label,ancient complex,label,BiomeDef/AncientComplexMapGenerator.xml,def
+VQEA_AncientComplex.description,This ancient complex is filled with the machinery of forgotten experiments.,description,BiomeDef/AncientComplexMapGenerator.xml,def
+VQE_TheAncientLab.label,The Ancient Lab,label,VEF.Storyteller.QuestChainDef/QuestChain_TheAncientLab.xml,def
+VQE_TheAncientLab.description,"This quest chain will have you explore several underground lab complexes created by the ancient military to try and create supersoldiers through something called archite injection. You may be able to retrieve valuable lab equipment for yourself, to eventually create your own super soldiers, horrible abominations, or both.",description,VEF.Storyteller.QuestChainDef/QuestChain_TheAncientLab.xml,def
+VQE_AncientLabComplex.questNameRules.rulesStrings.0,questName->Supersoldier lab,li,QuestScriptDef/Quest_AncientLabComplex.xml,def
+VQE_AncientLabComplex.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has intercepted a mysterious broadcast. The signal carries encryption markers associated with an ancient military supersoldier program, and appears to have been transmitted from a site not far from our colony. \n\n[asker_nameDef] believes that tracking this signal will reveal the location of a hidden installation. On arrival, scouts reported finding a small, abandoned surface outpost with an open vault entrance leading deep underground.\n\nBeneath lies a sealed laboratory complex. Inside must be some kind of ancient broadcasting station - intercepting the signal from it will allow us to trace its destination. \n\nThe underground vault also contains something invaluable: an intact Archogen Injector. This rare device can be used to begin creating supersoldiers by injecting archites directly into human subjects. The injector, along with any other surviving lab equipment, should be claimed and brought back to the colony. \n\nThe lab itself shows no active defenders, but ancient traps may still be functional and must be navigated with care.",li,QuestScriptDef/Quest_AncientLabComplex.xml,def
+VQE_AncientLabComplex.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==True)->We've intercepted an unstable remote broadcast, requesting reinforcements for some unknown event. While seemingly not intended for us, the signal appears to originate from a laboratory responsible for producing ancient supersoldiers. \n\nThe site must contain the broadcasting station responsible for the message. It is imperative that we intercept the broadcast on-site, to track where it is broadcasting to. \n\nThis trek might be dangerous, as we have no way of knowing what lies at the site. Remaining technology at the site could prove useful, we should look at each piece of equipment carefully to take back with us if we dream of creating supersoldiers of our own.",li,QuestScriptDef/Quest_AncientLabComplex.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.0,questName(priority=1)->E352 - [verb] the seized [place],li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.1,verb->Secure,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.2,verb->Contain,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.3,verb->Unseal,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.4,place->lab,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.5,place->vault,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questNameRules.rulesStrings.6,place->site,li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questDescriptionRules.rulesStrings.0,"questDescription->Your radio lights up with another request for E352. The automated satellite tells you of another vault, lurking somewhere in the distance. This vault is marked one of many in a series of ""seized vaults"", where supersoldier patients sealed off the genetic monstrosities underground. \n\nThe site briefing attatched reads as follows:\n[story]\n\n The satellite wants you to take care of the supersoldiers, then reopen the vault door. It refuses to elaborate on what the purpose of the mission is. Your only directive is to re-open the underground section of the vault. Once it has been unsealed, you may leave or loot the site for ancient technology.",li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questDescriptionRules.rulesStrings.1,"story->This vault's patients guard the exterior, after they heard rumors of letting the monstrosities roam free. Afraid for their descendants, they staged an uprising to stop the entire operation. They took out several doctors then rushed to seal the massive underground vault door. After some deliberation, a group of patients decided to remain at the site. Choosing to give their lives to ensure their captors don't return to unleash the horrors onto the world was their way of keeping their families safe.",li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questDescriptionRules.rulesStrings.2,"story->This vault contained a cult born from captivity. Through an experiment, a patient gained a powerful ability based around the external manipulation of the inner-self. He took it upon himself to thrust his ideology onto the other patients, until a unity of intention formed among the captives. They were to seize this site for themselves, and guard it as a beacon to their new leader. Executives heard this rumor, and chose to capture him. Strapped to machines, they numbed his synapses and attempted to remove his ability with experimental treatments. As the cult burst out of containment and stormed the halls, they were unaware of the state of their leader as they mercilessly took revenge on their captors. After escaping the underground vault, the members sealed the door and stood to guard their temple. It remains unclear whether the leader managed to escape, or became a monstrosity himself in their process of detainment.",li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questDescriptionRules.rulesStrings.3,"story->Those who surround the vault guard a terrible secret. A patient was given the remarkable ability of telepathy through an experiment. The doctors were shocked as the man divulged specific details about their private lives. After being placed with the other patients, it is said the telepath began to disturb them with his accuracy. He began to unearth intimate details about their personal affairs, and the secrets they kept buried. Things changed when he looked at a disheveled patient for too long and heard a piece of information too dark to bear. The patients arranged to have the telepath killed, but executives intervened. The telepath used that opportunity to read the layout of the vault from one of the doctor's thoughts, and unseal the vault door. As he and a handful of other patients reached the surface, the disheveled man kicked the telepath back downstairs into the vault. Him and the other patients agreed to keep him sealed there forever, guarding their buried secrets with the horrors underneath.",li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_AncientResearchVault.questDescriptionRules.rulesStrings.4,"story->This vault is guarded by a loyal group of friends. The underground halls once contained a gifted patient with the ability to manipulate her form. She could transform into anything on a whim. The doctors would bring out turtles and rabbits to test her skill, and through a painful melting process she was able to form a shell and become unmistakably a turtle. Overtime, this process became too grueling to tolerate. She was well-liked among the other patients, and they ended up taking great pity on her. On one night, they convinced the girl to melt into the form of a doctor to stage a breakout. She managed to bring all her friends to the vault door in her disguise, but was said to have instead accidentally unleashed a wave of the failed genetic horrors. The group of patients managed to escape, but the girl was left behind. Her friends now camp above the vault, hoping to one day rescue her from the depths. They speculate that the only way she could have survived is if she assumed the form of one of the monstrosities, forced to roam the halls masquerading as one of them.",li,QuestScriptDef/Quest_AncientResearchVault.xml,def
+VQE_ArchiteArraySite.questNameRules.rulesStrings.0,questName->E352 - Final Assignment,li,QuestScriptDef/Quest_ArchiteArraySite.xml,def
+VQE_ArchiteArraySite.questDescriptionRules.rulesStrings.0,"questDescription(askerIsNull==True)->Your radio lights up with another request for E352. The automated satellite ominously claims that this will be your most integral assignment. The voice tells you about an important piece of technology. The most legendary component to the supersoldier program, a device called the archite pathing array. It is meant to manipulate the unpredictable flow of archovapor, potentially doubling your returns. The voice tells you to reach the vault and recover the technology, not stating a clear reason why.\n\nOur objective is to clear the laboratory, and claim the archite pathing array. It can be inferred that there will be hostile forces swarming the site.",li,QuestScriptDef/Quest_ArchiteArraySite.xml,def
+VQE_ArchiteControlVault.questNameRules.rulesStrings.0,questName->Intercepted supersoldier vault,li,QuestScriptDef/Quest_ArchiteControlVault.xml,def
+VQE_ArchiteControlVault.questDescriptionRules.rulesStrings.0,"questDescription(askerIsNull==True)->After intercepting the broadcasting station, we have identified an additional ancient laboratory site communicating with the previous. The lab is transmitting a code red signal, likely signifying an even stronger threat presence. It appears some of the monstrosities might have even escaped underground containment and broken onto the surface.\n\nThe site must contain an additional broadcasting station responsible for the message. It is imperative that we also intercept this broadcast on-site, to track where it is broadcasting to. Functioning technology at the site may prove useful in the improvement of supersoldier production. We should look at each piece of equipment carefully to take back with us if we intend to reliably produce supersoldiers of our own.",li,QuestScriptDef/Quest_ArchiteControlVault.xml,def
+VQE_InhibitorResearchLab.questNameRules.rulesStrings.0,questName->E352 - Reconnaissance request,li,QuestScriptDef/Quest_InhibitorResearchLab.xml,def
+VQE_InhibitorResearchLab.questDescriptionRules.rulesStrings.0,"questDescription(askerIsNull==True)->Garbled through the static, it seems some ancient network has mistaken your radio for that of an ancient reconnaissance worker after detecting your travels through an automated satellite.\n\nThe message harshly refers to you as E352, and tasks you with scouting another supersoldier laboratory. Though this broadcast seems to have been running from some time now, it warns of a major uprising event within the lab. Supersoldiers had risen out of containment, and now roam the facility locked inside. The reconnaissance task states that the site was evacuated, yet the uprising was never contained and it is likely some may have escaped.\n\nThe broadcast also contains schematics of the location including your real objective. A device called the mutagen inhibitor core. Though just a prototype prior to its sudden abandonment, it is built to suppress unstable genetic mutations. It is likely that other valuable equipment remains here as well. offering transparent probabilities on genetic experiments. Our objective will be to locate the uplink and uninstall it for use in our own laboratory.",li,QuestScriptDef/Quest_InhibitorResearchLab.xml,def
+VQE_SpliceframeBlacksite.questNameRules.rulesStrings.0,questName->Infested supersoldier lab,li,QuestScriptDef/Quest_SpliceframeBlacksite.xml,def
+VQE_SpliceframeBlacksite.questDescriptionRules.rulesStrings.0,"questDescription(askerIsNull==True)->The intercepted transmission is an urgent distress call from an additional covert laboratory site codenamed ""Spliceframe Blacksite"". The broadcast warns that the entire laboratory has been compromised after a disaster, falling to a sudden massive infestation of insectoids drawn toward a chemical leak.\n\nThe broadcast refers to a useful genetic device called a spliceframe uplink capable of offering transparent probabilities on genetic experiments. Our objective is to locate the uplink and uninstall it for use in our own laboratory. We should approach well prepared to deal with a large insectoid threat.",li,QuestScriptDef/Quest_SpliceframeBlacksite.xml,def
+VQEA_SealedVault.label,sealed vault,label,MapGeneratorDef/SealedVaultMapGenerator.xml,def
+VQE_ExperimentMaleNames.rulePack.rulesStrings.0,r_first_name->[ExperimentNameFirstMale],li,RulePackDef/RulePacks_NameMakers.xml,def
+VQE_ExperimentFemaleNames.rulePack.rulesStrings.0,r_first_name->[ExperimentNameFirstFemale],li,RulePackDef/RulePacks_NameMakers.xml,def
+VQE_ExperimentLastNames.rulePack.rulesStrings.0,r_last_name->[ExperimentNameLast],li,RulePackDef/RulePacks_NameMakers.xml,def
+VQEA_CargoCult.label,Cargo Cult,label,ScenarioDef/Scenarios_CargoCult.xml,def
+VQEA_CargoCult.description,"It was a fortuitous find: The tribe's foragers were out gathering berries when they spotted a strange metal building half-sunken into the earth, its walls threaded with coiling tubes like the veins of some sleeping giant. Was it crafted by ancient hands, or shaped by the gods themselves? We soon learned it must be divine. Offerings placed within the ""pneumatic nexus"" vanished with a holy whoosh, only to return later as transformed gifts.\n\nNote: You'll start poor and lack technology, but having the pneumatic nexus means this start is easier than a standard tribal one.",description,ScenarioDef/Scenarios_CargoCult.xml,def
+VQEA_CargoCult.scenario.summary,Five lost tribespeople stumble upon a pneumatic nexus and start revering it. Moderate-High difficulty.,summary,ScenarioDef/Scenarios_CargoCult.xml,def
+VQEA_CargoCult.scenario.parts.11.text,"It was a fortuitous find: The tribe's foragers were out gathering berries when they spotted a strange metal building half-sunken into the earth, its walls threaded with coiling tubes like the veins of some sleeping giant. Was it crafted by ancient hands, or shaped by the gods themselves? We soon learned it must be divine. Offerings placed within the ""pneumatic nexus"" vanished with a holy whoosh, only to return later as transformed gifts.",text,ScenarioDef/Scenarios_CargoCult.xml,def
+VQE_NewVault.label,Sealed Vault,label,ScenarioDef/Scenarios_SealedVault.xml,def
+VQE_NewVault.description,"A memory drifts into your fractured mind as you stumble into a rusted chamber. An experiment, a group of doctors wearing abstract masks, and a flash of golden yellow light enveloping your body. You feel something deeply unnatural pulsing in your chest, you have been modified somehow and have been sleeping for a very long time. Your legs shake as you remember what this place is, a near impenetrable fortress capable of keeping rescue out and captives in. The vault contains an underground section guarded by a sealed door. After so many years, your captives appear long gone. The cold realization thuds onto your chest, what unknown force may have placed you back here?",description,ScenarioDef/Scenarios_SealedVault.xml,def
+VQE_NewVault.scenario.summary,A long forgotten supersoldier guarding their post. A classic VQE - Ancients experience.,summary,ScenarioDef/Scenarios_SealedVault.xml,def
+VQE_NewVault.scenario.parts.9.text,"A memory drifts into your fractured mind as you stumble into a rusted chamber. An experiment, a group of doctors wearing abstract masks, and a flash of golden yellow light enveloping your body. You feel something deeply unnatural pulsing in your chest, you have been modified somehow and have been sleeping for a very long time. Your legs shake as you remember what this place is, a near impenetrable fortress capable of keeping rescue out and captives in. The vault contains an underground section guarded by a sealed door. After so many years, your captives appear long gone. The cold realization thuds onto your chest, what unknown force may have placed you back here?",text,ScenarioDef/Scenarios_SealedVault.xml,def
+VQEA_SealedVaultPart.label,start with sealed vault,label,ScenPartDef/Scenarios_SealedVault.xml,def
+VQE_NewVaultPlayerFaction.label,New vault,label,FactionDef/Scenarios_SealedVault.xml,def
+VQE_NewVaultPlayerFaction.description,A secret ancient vault hiding a mysterious past.,description,FactionDef/Scenarios_SealedVault.xml,def
+VQE_NewVaultPlayerFaction.pawnSingular,colonist,pawnSingular,FactionDef/Scenarios_SealedVault.xml,def
+VQE_NewVaultPlayerFaction.pawnsPlural,colonists,pawnsPlural,FactionDef/Scenarios_SealedVault.xml,def
+VQEA_AncientLabComplexSite.label,abandoned supersoldier lab,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_AncientLabComplexSite.description,A small underground lab complex.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_ArchiteControlVaultSite.label,dangerous supersoldier lab,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_ArchiteControlVaultSite.description,A massive underground laboratory complex.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_SpliceframeBlacksiteSite.label,infested supersoldier lab,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_SpliceframeBlacksiteSite.description,A covert underground site housing a spliceframe uplink.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_InhibitorResearchLabSite.label,Reconnaissance request,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_InhibitorResearchLabSite.description,A research facility containing a mutagen inhibitor core.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_ArchiteArraySite.label,archite array site,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_ArchiteArraySite.description,A vast complex housing an archite pathing array.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_AncientResearchVaultSite.label,ancient research vault,label,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_AncientResearchVaultSite.description,A research vault containing lost ancient technologies.,description,SitePartDef/SiteParts_TheAncientLab.xml,def
+VQEA_MasterfulCooking.label,masterful cooking,label,StatDef/Stats_Pawns_General.xml,def
+VQEA_MasterfulCooking.description,"A multiplier on cooking speed, associated with the masterful cooking archite gene.",description,StatDef/Stats_Pawns_General.xml,def
+VQEA_Prowess.label,prowess,label,StatDef/Stats_Pawns_General.xml,def
+VQEA_Prowess.description,"A multiplier on melee hit chance and dodge chance, associated with the prowess archite gene. Bear in mind base game doesn't show Melee hit chance on this infobox.",description,StatDef/Stats_Pawns_General.xml,def
+VQED_AncientHospitalFloor.label,ancient hospital floor,label,TerrainDef/Terrain_Floors.xml,def
+VQED_AncientHospitalFloor.description,An ancient hospital vinyl flooring. Some faded blood can still be seen on it.,description,TerrainDef/Terrain_Floors.xml,def
+VQED_AncientReinforcedConcrete.label,ancient reinforced concrete,label,TerrainDef/Terrain_Floors.xml,def
+VQED_AncientReinforcedConcrete.description,An ancient reinforced concrete floor. It’s old and ugly.,description,TerrainDef/Terrain_Floors.xml,def
+VQED_AncientNurseryCarpet.label,ancient nursery carpet,label,TerrainDef/Terrain_Floors.xml,def
+VQED_AncientNurseryCarpet.description,"An ancient, ripped nursery carpet.",description,TerrainDef/Terrain_Floors.xml,def
+VQEA_BuildingsLab.label,archite injection lab,label,ThingCategoryDef/ThingCategories.xml,def
+VQEA_AncientLaboratoryCasket_Empty.label,empty ancient laboratory casket,label,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_AncientLaboratoryCasket_Empty.description,An empty research pod once used to contain human test subjects.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_AncientLaboratoryCasket.label,ancient laboratory casket,label,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_AncientLaboratoryCasket.description,A sealed research pod once used to contain human test subjects. Opening it may release whoever or whatever was left inside.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_CandidateCryptosleepCasket_Empty.label,empty candidate cryptosleep casket,label,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_CandidateCryptosleepCasket_Empty.description,A specialized cryptosleep chamber once used to preserve designated ideal test subjects for experiments. It now sits empty.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_CandidateCryptosleepCasket.label,candidate cryptosleep casket,label,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_CandidateCryptosleepCasket.description,"A specialized cryptosleep chamber once used to preserve designated ideal test subjects for experiments. It still hums faintly with power, holding something dormant inside.",description,ThingDef/Buildings_Cryptopods.xml,def
+VQEA_RuinedArchogenInjector.label,ruined archogen injector,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedArchogenInjector.description,"Once a functioning archite injection pod, its chamber and internal systems are completely destroyed. Nothing remains but twisted scrap metal.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedNeurostabilizerArray.label,ruined neurostabilizer array,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedNeurostabilizerArray.description,"This stabilizer module once calmed volatile archite reactions, but now its coils and casing are shattered. Only warped scraps are left.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedCognitiveRecoveryArray.label,ruined cognitive recovery array,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedCognitiveRecoveryArray.description,"Once used to ease recovery after injections, its circuitry is burned out and the frame is collapsing. All that remains is bent metal and debris.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedRapidInfusionPump.label,ruined rapid infusion pump,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedRapidInfusionPump.description,The infusion pump’s conduits are ruptured and its inner mechanisms destroyed. Only twisted scrap can be collected from it.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedArchiteRecycler.label,ruined archite recycler,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedArchiteRecycler.description,"Previously a device for reclaiming unused archite capsules, it is now crushed beyond recognition. Nothing useful remains besides twisted metal.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedGenomicAttenuator.label,ruined genomic attenuator,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedGenomicAttenuator.description,"The attenuator’s panels are torn open and its internals melted. Only broken, worthless scrap is left behind.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedRejectionBufferCoil.label,ruined rejection buffer coil,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedRejectionBufferCoil.description,"Once a shielding coil, it is now bent, split, and entirely inert. Only scraps of twisted metal remain.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedSpliceframeUplink.label,ruined spliceframe uplink,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedSpliceframeUplink.description,This uplink console has collapsed into a pile of crushed arrays and dead wiring. Only jagged scrap can be recovered.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedMutagenInhibitorCore.label,ruined mutagen inhibitor core,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedMutagenInhibitorCore.description,A massive suppression engine reduced to buckled plating and destroyed conduits. Nothing remains but heavy twisted scrap.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedTraitSelectionPrism.label,ruined trait selection prism,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedTraitSelectionPrism.description,The crystal housing is shattered and the prism array completely destroyed. Only splintered debris and warped scrap remain.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedAberrationRedirector.label,ruined aberration redirector,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedAberrationRedirector.description,"Once a mutation-control device, now a heap of caved-in panels and ruined internal channels. Only useless scrap is left.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedComplexityHarmonizer.label,ruined complexity harmonizer,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedComplexityHarmonizer.description,The harmonizer’s cores have collapsed and its chassis is split wide open. Nothing survives except twisted metal fragments.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedArchitePathingArray.label,ruined archite pathing array,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RuinedArchitePathingArray.description,This routing array is now a crushed frame with its circuitry burned out. Only warped scrap can be taken from it.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientFauxPlant.label,ancient faux plant,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientFauxPlant.description,A fake decorative plant used to brighten sterile rooms. It’s covered in dust but still adds a bit of color.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalArmchair.label,ancient hospital armchair,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalArmchair.description,A comfortable chair used in old hospital waiting rooms. The padding is worn but surprisingly intact.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalBench.label,ancient hospital bench,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalBench.description,"A simple bench used for patients or visitors. It’s old, sturdy, and oddly comfortable.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalCrib.label,ancient hospital crib,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientHospitalCrib.description,A small metal crib once used in the vault’s nursery ward. The frame is rusted and the bedding long decayed.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientIncubator.label,ancient incubator,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientIncubator.description,"An ancient incubation unit used for medical research or premature infants. Its systems are dead, but the shell remains mostly intact.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientIVStand.label,ancient IV stand,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientIVStand.description,A simple stand with long-empty fluid bags still hanging from it. It once delivered medicine or nutrients to patients.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientKitchenette.label,ancient kitchenette,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientKitchenette.description,A compact cooking unit used by lab staff. The surfaces are corroded and the appliances no longer work.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientSink.label,ancient small sink,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientSink.description,A rust-stained sink once used for washing hands or instruments. Water no longer flows through its cracked pipes.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientMedicalPartition.label,ancient medical partition,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientMedicalPartition.description,A folding partition used to divide patient areas for privacy. Its fabric is torn and coated in dust.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientOfficeDesk.label,ancient office desk,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientOfficeDesk.description,A sturdy desk once belonging to a researcher or administrator. Old data slates and papers still clutter the surface.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientRepairBench.label,ancient repair desk,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientRepairBench.description,"A heavy workbench used to maintain laboratory equipment. The tools are gone, but the grease stains remain.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientResearchCountertop.label,ancient research countertop,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientResearchCountertop.description,A long research table covered in scorched metal and broken instruments. It was used for genetic and chemical experiments.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_BustedControlPanel.label,busted control panel,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_BustedControlPanel.description,A ruined wall console once connected to the vault’s systems. Sparks still flicker from its shattered screen.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientOfficePrinter.label,ancient office printer,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientOfficePrinter.description,"A dusty old office printer. It hums quietly, though it’s unlikely to print anything useful anymore.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientTripWarning.label,trip warning sign,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientTripWarning.description,A faded caution sign warning of hazards ahead. It serves no real purpose now except decoration.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientStorageHeater.label,ancient storage heater,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientStorageHeater.description,A compact electric heater from the ancient labs. It warms the air to a comfortable level when powered.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientToyBox.label,ancient toy box,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientToyBox.description,"A small toy chest from the nursery wing. It’s filled with broken dolls and faded blocks. Toy boxes can be used to play with babies, satisfying their need for play.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientVitalsMonitor.label,ancient vitals monitor,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientVitalsMonitor.description,A bedside monitor used to track patient health. Its display is now cracked and it’s broken beyond repair.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientWaterCooler.label,ancient water cooler,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientWaterCooler.description,A dusty water dispenser used by ancient lab staff. It no longer functions but remains as a relic of everyday life.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_CreepyBabyToy.label,creepy baby toy,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_CreepyBabyToy.description,"A small, broken toy that once comforted children. Something makes it unsettling to look at. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_LargeWoodenMilitaryCrate.label,rotten military crate,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_LargeWoodenMilitaryCrate.description,A decaying wooden crate once used for storing military supplies. It’s too rotten to contain anything now.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_WoodenMilitaryCrate.label,rotten military box,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_WoodenMilitaryCrate.description,"A small, rusted box that once held munitions or rations. Now it’s empty and falling apart.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RubbishPile.label,trash bags,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RubbishPile.description,Piles of old plastic waste left from the laboratory staff. They smell foul.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RustedWheeledTray.label,rusted wheeled tray,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RustedWheeledTray.description,A rusted metal tray once used for medical instruments. It squeaks when moved and is covered in grime.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_VaultTerminal.label,vault terminal,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_VaultTerminal.description,"An ancient computer terminal used to control vault systems. It’s inactive, but its screen still flickers faintly.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_VaultTerminalBank.label,vault terminal bank,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_VaultTerminalBank.description,"A row of old computer terminals used to monitor vault operations. Most are dark, but a few lights still blink faintly.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_WarpedMopBucket.label,warped mop bucket,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_WarpedMopBucket.description,"A melted mop bucket left behind by cleaning staff. The handle has fused to the rim, making it useless.",description,ThingDef/Buildings_Decorative.xml,def
+VQEA_RustedHospitalBed.label,rusted hospital bed,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_RustedHospitalBed.description,An adjustable medical bed with cracked padding and rusted rails. It was once used for surgeries and recovery.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_WheeledBed.label,wheeled bed,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_WheeledBed.description,A simple rolling hospital bed designed to move patients between rooms. The wheels squeal when pushed.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_EmptyContainment.label,empty containment,label,ThingDef/Buildings_Decorative.xml,def
+VQEA_EmptyContainment.description,An empty containment pod. Whatever was inside got out long ago.,description,ThingDef/Buildings_Decorative.xml,def
+VQEA_AncientFoosballTable.label,ancient foosball table,label,ThingDef/Buildings_Joy.xml,def
+VQEA_AncientFoosballTable.description,A relic from better days. Colonists can play table football here to relax and gain recreation.,description,ThingDef/Buildings_Joy.xml,def
+VQEA_ArchogenInjector.label,archogen injector,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ArchogenInjector.description,"An ancient, hermetically sealed pod designed to induce powerful but chaotic genetic alterations through archovapor immersion. A primary slot seems to feed archite capsules into a destabilization chamber, where they are vaporized and channeled into the host body. Efforts can be made to control the process from there, but perhaps trying to harness this power is what left this machine abandoned in the first place.
+\n\nUsed to inject a colonist with archite capsules, triggering genetic alteration and producing a random archite gene with possible side effects. Success can be improved by linking it with additional ancient equipment.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_NeurostabilizerArray.label,neurostabilizer array,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_NeurostabilizerArray.description,A compact neural-phase regulator fitted with microtuned synapse coils and a vented cortex lattice that emits a steady hum of stabilizing neurostatic fields. Its core uses drifting neuroflux anchors to calm archite turbulence during injection cycles.\n\nImproves the success chance of archite injections when linked to an archogen injector. Up to 10 neurostabilizer Arrays can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_CognitiveRecoveryArray.label,cognitive recovery array,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_CognitiveRecoveryArray.description,"A slim neuro-cascade module lined with mnemonic pulse coils and echo-field dampers that cycle through soft, rhythmic memory stabilization waves. Its internal neurogel reservoir circulates thought-restorative pulses that soothe post-archite neural disruption.\n\nReduces the duration of the injection coma by 1 day when linked to an archogen injector.. Up to 6 cognitive recovery arrays can link to a single archogen injector.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_RapidInfusionPump.label,rapid infusion pump,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_RapidInfusionPump.description,A high-pressure archite-flow pump fitted with tri-phase accelerators and microchannel conduits that push volatile nanites through the injector lattice at extreme speed. Stabilizing fins vibrate as the pump regulates infusion pressure across the gene chamber.\n\nShortens the overall injection time by 12 hours when linked to an archogen injector.\n\nUp to 9 rapid infusion pumps can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ArchiteRecycler.label,archite recycler,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ArchiteRecycler.description,"A two-chamber nanite reclamation unit fitted with siphon coils and phase-binding spirals that draw unstable archite residue back into a containment loop. Inside, a dense mesh of microfiltration veins reassembles loose nanite clusters into a usable capsule.\n\nRefunds the archite capsule on a rejected injection when linked to an archogen injector.\n\nUp to 1 archite recycler can link to a single archogen injector.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_GenomicAttenuator.label,genomic attenuator,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_GenomicAttenuator.description,A large quad-node stabilizer rig packed with geno-dampening regulators and microphase baffles that mute unstable metabolic signatures. Its internal attenuation plates hum softly as they pare down excessive gene volatility during archite infusion.\n\nReduces the metabolism strength of the random side-effect gene by 1 when linked to an archogen injector.\n\nUp to 4 genomic attenuators can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_RejectionBufferCoil.label,rejection buffer coil,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_RejectionBufferCoil.description,"An insulated coil wrapped in ionized synapse wire and anchored with anti-reflux stabilizers that shield the injector chamber from archite backlash. When active, it emits a soft oscillation designed to suppress rejection-triggering impulses in the nanite stream.\n\nDecreases the rejection chance of the injection procedure when linked to an archogen injector.\n\nUp to 5 rejection buffer coils can link to a single archogen injector.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_SpliceframeUplink.label,spliceframe uplink,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_SpliceframeUplink.description,A dense uplink pillar fitted with resonance spire arrays and gene-phase telemetry coils that scrape and decode archite fluctuation patterns. Its chroma-linked neural mesh emits faint pulses as it maps unstable outcomes across an ancient spliceframe network.\n\nReveals all outcome chances in the archogen injector and slightly increases the odds of mutation outcomes.\n\nUp to 1 spliceframe uplink can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_MutagenInhibitorCore.label,mutagen inhibitor core,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_MutagenInhibitorCore.description,"A massive containment engine built around a tri-core genoquench reactor and layered inhibition plates designed to neutralize runaway mutagenic surges. Thick conduits cycle suppressive counterwaves that smother mutation cascades before they can form.\n\nRemoves all mutation outcome chances entirely when linked to an Archogen Injector, but greatly increases the rejection chance.\n\nUp to 1 mutagen inhibitor core can link to a single archogen injector.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_TraitSelectionPrism.label,trait selection prism,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_TraitSelectionPrism.description,A crystalline multi-lens console powered by phased neuro-optic conduits and reflective geno-beam sequencers that split archite outcomes into selectable possibility streams. Its prism array glows with shifting spectral patterns when a stable result is detected.\n\nAllows choosing between two different archite genes on a successful injection.\n\nUp to 1 trait selection prism can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AberrationRedirector.label,aberration redirector,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AberrationRedirector.description,A heavy redirection module built from stacked mutation siphons and counterphase nodules that reroute unstable gene echoes into controlled outcome channels. The device hums as its internal actuators shift to isolate potential aberrations.\n\nAllows choosing between two different negative side genes on a successful injection.\n\nUp to 1 aberration redirector can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ComplexityHarmonizer.label,complexity harmonizer,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ComplexityHarmonizer.description,"A tall stabilization unit filled with layered geno-harmonic plates and oscillating phase regulators that smooth out chaotic complexity spikes within the archite stream. Its internal synchronizer cores emit low rhythmic pulses as they bring tangled genetic pathways into orderly alignment.\n\nPrevents genetic complexity from reducing success chance, but each point of complexity will increase the injection procedure duration by 1 hour.\n\nUp to 1 complexity harmonizer can link to a single archogen injector.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ArchitePathingArray.label,archite pathing array,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_ArchitePathingArray.description,A heavy tri-spire console built with archite-routing conduits and branching nanoflux matrices that split the injection stream into parallel mutagenic pathways. The array’s central node glows with shifting colors as it maps new routes for rogue archite clusters.\n\nProvides a chance to gain a second random archite gene or a second random offset gene after a successful injection.\n\nUp to 1 archite pathing array can link to a single archogen injector.,description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.label,ancient wonderdoc,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.description,"A mysterious ancient medical machine capable of performing powerful “wondercycles” that heal, reshape, or alter a patient in dramatic ways. Its long-neglected systems can malfunction, and the risk grows with every successful procedure. The technology is difficult to comprehend.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.0.label,Bioregeneration wondercycle,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.0.description,"Initiate the bioregeneration wondercycle. This cycle will heal all fresh wounds, heal all permanent injuries, and restore all missing body parts, including limbs.\n\nIf a malfunction occurs, the patient will receive random illnesses, which may include carcinoma, as well as severe damage to some of their limbs.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.1.label,Instarehab wondercycle,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.1.description,"Initiate the instarehab wondercycle. This cycle will cure all addictions, including a luciferium addiction. If an addiction is caused by a genetic dependency, the responsible gene will also be removed.\n\nIf a malfunction occurs, the patient will receive a random genetic drug dependency.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.2.label,Time reversal wondercycle,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.2.description,"Initiate the time reversal wondercycle. This cycle will de-age the patient by 10 years.\n\nIf a malfunction occurs, the patient will either become a toddler again, or will become an elderly.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.3.label,Skill reformatting wondercycle,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientWonderdoc.comps.2.cycles.3.description,"Initiate the skill reformatting wondercycle. This cycle will redistribute the current skill levels equally across all skills the patient is capable of.\n\nIf a malfunction occurs, the effect will still occur, but the experience will be distributed randomly.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_BustedAncientWonderdoc.label,busted ancient wonderdoc,label,ThingDef/Buildings_Laboratory.xml,def
+VQEA_BustedAncientWonderdoc.description,"Once capable of performing powerful wondercycles, this ancient medical machine has fully broken down after a catastrophic malfunction. Its chambers are cracked, its systems dead, and it can no longer be used. Some valuables may still be salvaged from it.",description,ThingDef/Buildings_Laboratory.xml,def
+VQEA_AncientSunLamp.label,ancient sun lamp,label,ThingDef/Buildings_Lights.xml,def
+VQEA_AncientSunLamp.description,An old surgical lamp that shines brightly enough to grow crops when powered.,description,ThingDef/Buildings_Lights.xml,def
+VQEA_AncientVaultLamp.label,ancient vault lamp,label,ThingDef/Buildings_Lights.xml,def
+VQEA_AncientVaultLamp.description,"A standing lamp built for the vaults. It emits a steady, cold light.",description,ThingDef/Buildings_Lights.xml,def
+VQEA_AncientPipelineJunction_Off.label,ancient pipeline junction,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientPipelineJunction_Off.description,"A junction of old chemfuel pipes that still leaks faint fumes. It can be tapped to extract a small amount of chemfuel, though no one knows its source.",description,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientPipelineJunction_On.label,ancient pipeline junction,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientPipelineJunction_On.description,"A junction of old chemfuel pipes that still leaks faint fumes. It can be tapped to extract a small amount of chemfuel, though no one knows its source. It can be tapped now.",description,ThingDef/Buildings_Lootables.xml,def
+VQEA_ArchiteCapsuleContainment_Empty.label,archite capsule containment,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_ArchiteCapsuleContainment_Empty.description,A containment unit built to store and release archite capsules for experimentation. It's empty.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_ArchiteCapsuleContainment.label,archite capsule containment,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_ArchiteCapsuleContainment.description,A containment unit built to store and release archite capsules for experimentation. It still hums softly when approached. Can be opened to release an archite capsule.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientGenepackCrate_Empty.label,ancient genepack crate,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientGenepackCrate_Empty.description,A secure storage crate used to hold genetic data packs. It's empty now.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientGenepackCrate.label,ancient genepack crate,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientGenepackCrate.description,A secure storage crate used to hold genetic data packs. It can be hacked open to recover the genepacks inside.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Empty.label,empty storage shelf,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Empty.description,"An empty, wobbly storage shelf. Anything of value is long gone.",description,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Meals.label,survival meals shelf,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Meals.description,A wobbly storage shelf containing packaged survival meals.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Medicine.label,medicine shelf,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Medicine.description,A wobbly storage shelf containing medicine.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Neutroamine.label,neutroamine shelf,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Neutroamine.description,A wobbly storage shelf containing bottles of neutroamine.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Gowns.label,patient gowns shelf,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_StorageShelf_Gowns.description,A wobbly storage shelf with stacks of patient gowns.,description,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientOrganBox_Empty.label,empty ancient organ box,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientOrganBox_Empty.description,"An empty storage box with a built-in cooling system, typically used to preserve organs over extended durations.",description,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientOrganBox.label,ancient organ box,label,ThingDef/Buildings_Lootables.xml,def
+VQEA_AncientOrganBox.description,"A secure storage box with a built-in cooling system, typically used to preserve organs over extended durations. Can be hacked open to release whatever remains inside.",description,ThingDef/Buildings_Lootables.xml,def
+VQEA_PneumaticTubeLaunchPort.label,pneumatic tube launch port,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubeLaunchPort.description,"A large transfer station for the ancient pneumatic tube network. It was used to send supply capsules between distant vaults, moving food, tools, and research materials through sealed underground tunnels. Cargo can still be loaded and launched, and a return capsule may arrive from another vault after some time.",description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes.label,pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Long.label,pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Long.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Triple.label,pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Triple.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Corner.label,pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Corner.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Underground.label,underground pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Underground.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Wall.label,pneumatic tubes,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Wall.description,A network of ancient tubes used to deliver small and medium items between vaults. Some of the capsules remain stuck inside.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Terminus.label,empty pneumatic tubes terminus,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Terminus.description,The pneumatic tubes network had an exit port here. It is empty.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Terminus_Closed.label,closed pneumatic tubes terminus,label,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_PneumaticTubes_Terminus_Closed.description,The pneumatic tubes network had an exit port here. It can be opened to access its contents.,description,ThingDef/Buildings_PneumaticTubes.xml,def
+VQEA_AncientChemfuelGenerator.label,ancient chemfuel generator,label,ThingDef/Buildings_Power.xml,def
+VQEA_AncientChemfuelGenerator.description,A bulky chemfuel-powered generator from a bygone era. It produces large amounts of power but needs to be manually “kicked” back into operation when it stalls.,description,ThingDef/Buildings_Power.xml,def
+VQEA_AncientChemfuelGenerator.comps.6.jobString,Kick generator,jobString,ThingDef/Buildings_Power.xml,def
+VQEA_AncientBioBattery.label,ancient biobattery,label,ThingDef/Buildings_Power.xml,def
+VQEA_AncientBioBattery.description,"An old power vat that dissolves a living creature inside it to generate electricity. The power output varies based on the bodysize of the creature, and the duration depends on the creature’s mass.",description,ThingDef/Buildings_Power.xml,def
+VQEA_AncientWorkshop.label,ancient workshop,label,ThingDef/Buildings_Production.xml,def
+VQEA_AncientWorkshop.description,"An ancient work station for assembling machinery like guns and ammunition, smithing non-mechanical weapons and tools, or breaking down dead mechanoids.",description,ThingDef/Buildings_Production.xml,def
+VqEA_AncientCookingStation.label,ancient cooking station,label,ThingDef/Buildings_Production.xml,def
+VqEA_AncientCookingStation.description,An electrically-powered stove with an attached countertop for preparing meals. It can also be used for butchering dead creatures into pieces of raw meat.,description,ThingDef/Buildings_Production.xml,def
+VQEA_AncientGreenbed.label,ancient greenbed,label,ThingDef/Buildings_Production.xml,def
+VQEA_AncientGreenbed.description,A small but very efficient artificial greenbed for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.,description,ThingDef/Buildings_Production.xml,def
+VQEA_AncientBroadcastingStation.label,ancient broadcasting station,label,ThingDef/Buildings_QuestStructures.xml,def
+VQEA_AncientBroadcastingStation.description,An old communications console used to transmit encrypted signals between ancient facilities. Can be used to intercept broadcasts and trace their origin.,description,ThingDef/Buildings_QuestStructures.xml,def
+VQEA_AncientBroadcastingStation_Off.label,disabled ancient broadcasting station,label,ThingDef/Buildings_QuestStructures.xml,def
+VQEA_AncientBroadcastingStation_Off.description,An old communications console used to transmit encrypted signals between ancient facilities. Seems that whatever information it stored is long gone.,description,ThingDef/Buildings_QuestStructures.xml,def
+VQEA_AncientVaultWall.label,ancient vault wall,label,ThingDef/Buildings_Structure.xml,def
+VQEA_AncientVaultWall.description,"An impassable, indestructible vault wall. Capable of holding up a roof.",description,ThingDef/Buildings_Structure.xml,def
+VQEA_AncientVaultDoor.label,ancient vault door,label,ThingDef/Buildings_Structure.xml,def
+VQEA_AncientVaultDoor.description,"A heavily fortified, nearly indestructible door. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor.label,locked ancient vault door,label,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor.description,"A heavily fortified, indestructible door. It needs to be hacked in order to open it. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor.comps.0.jobString,Force this locked ancient vault door open,jobString,ThingDef/Buildings_Structure.xml,def
+VQEA_AncientVaultDoor_Large.label,ancient large vault door,label,ThingDef/Buildings_Structure.xml,def
+VQEA_AncientVaultDoor_Large.description,"A large, heavily fortified, nearly indestructible door. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor_Large.label,locked ancient large vault door,label,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor_Large.description,"A heavily fortified, indestructible door. It needs to be hacked in order to open it. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQEA_LockedAncientVaultDoor_Large.comps.0.jobString,Force this locked ancient vault door open,jobString,ThingDef/Buildings_Structure.xml,def
+VQEA_SplicelingContainment.label,spliceling containment,label,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicelingContainment.description,A containment pod filled with murky liquid. It seems a sleeping spliceling lies inside.,description,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicehulkContainment.label,splicehulk containment,label,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicehulkContainment.description,A containment pod filled with murky liquid. A large splicehulk fills up almost the entire tube.,description,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicefiendContainment.label,splicefiend containment,label,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicefiendContainment.description,A containment pod filled with murky liquid. The glass bursts at the seams due to the large splicefiend inside.,description,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicetootsContainment.label,splicetoots containment,label,ThingDef/Buildings_Traps.xml,def
+VQEA_SplicetootsContainment.description,"A containment pod filled with murky liquid. Several small splicetoots float around in it, restlessly.",description,ThingDef/Buildings_Traps.xml,def
+VQEA_AncientEmergencyPurifier.label,ancient emergency purifier,label,ThingDef/Buildings_Traps.xml,def
+VQEA_AncientEmergencyPurifier.description,An old automatic purifier that releases extreme heat bursts to sterilize contaminated areas. It still activates on a timed cycle.,description,ThingDef/Buildings_Traps.xml,def
+VQEA_AncientEmergencyPurifier_Off.label,ancient emergency purifier,label,ThingDef/Buildings_Traps.xml,def
+VQEA_AncientEmergencyPurifier_Off.description,An old automatic purifier that releases extreme heat bursts to sterilize contaminated areas. It still activates on a timed cycle.,description,ThingDef/Buildings_Traps.xml,def
+VQEA_LockedVaultDoor.label,sealed vault door,label,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_LockedVaultDoor.description,"A sealed vault entrance leading to an underground laboratory. Still structurally sound, but heavily pressurized. Can be forced open to allow access.",description,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_LockedVaultDoor.comps.0.jobString,Force this door open,jobString,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_VaultRamp.label,vault ramp,label,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_VaultRamp.description,"A heavily reinforced vehicle ramp with personnel access stairway going down the middle. Leads deeper underground, into a sealed ancient vault.",description,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_VaultExitRamp.label,vault exit ramp,label,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_VaultExitRamp.description,"A heavily reinforced vehicle ramp with personnel access stairway going up, allowing ascending back to the surface.",description,ThingDef/Buildings_VaultEntrances.xml,def
+VQEA_Apparel_PatientGown.label,patient gown,label,ThingDef/Apparel_Various.xml,def
+VQEA_Apparel_PatientGown.description,"Old and rugged patient gown. Provides no protection or insulation, but makes the medical procedures on a person wearing one just a little bit easier.",description,ThingDef/Apparel_Various.xml,def
+VQEA_Filth_DriedBlood.label,dried-up blood,label,ThingDef/Filth_Various.xml,def
+VQEA_Filth_OldDocuments.label,old documents,label,ThingDef/Filth_Various.xml,def
+VQEA_MeleeWeapon_Scalpel.label,scalpel,label,ThingDef/Weapons_Various.xml,def
+VQEA_MeleeWeapon_Scalpel.description,"A precision-crafted cutting tool designed for delicate work. Despite its size, the scalpel’s razor‑thin blade allows for incisions far more precise than any knife. The damage it can deal with each stab reflects the medical skill of the user.",description,ThingDef/Weapons_Various.xml,def
+VQEA_MeleeWeapon_Scalpel.tools.0.label,blade,label,ThingDef/Weapons_Various.xml,def
+VQEA_Spliceling.label,spliceling,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Spliceling.description,"A bent and malformed mutant, vaguely resembling what was once a human. Its gaunt face is a patchwork of assorted features shifting onto itself without purpose. It moves erratically, seemingly driven by sudden bursts of sharp pain and an urge for violence. Though its thin stretched skin looks decently fragile, its unpredictability makes it a dangerous foe.\n\nIt is unclear whether a broken human consciousness still lingers inside, or if it is nothing more than a hollow puppet of scrambled genes.",description,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Spliceling.tools.0.label,left mutated fist,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Spliceling.tools.1.label,flesh club,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Spliceling.tools.2.label,head,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Spliceling.label,spliceling,label,PawnKindDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.label,splicehulk,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.description,"A swollen bloated mutant that quivers with every labored step. Its skin splits under its own weight, oozing yellow fluid from raw seams. Vaguely resembling what was once a human, its limbs of mismatched size flail clumsily at anything nearby. Somehow, it’s able to regenerate all wounds at an unnatural speed.\n\nWhile slow and ponderous, its immense bulk crushes obstacles with ease leaving little hope for anything caught in its path.",description,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.tools.0.label,left swollen arm,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.tools.1.label,right swollen arm,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.tools.2.label,body slam,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicehulk.label,splicehulk,label,PawnKindDef/Races_Animal_Mutants.xml,def
+VQEA_Splicefiend.label,splicefiend,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicefiend.description,"A towering mutant angered and prodded by its endless agony. Its proportions are wildly distorted, with its arms dragging along the floor. Its bursting chest is stretched open wide with straining cords of flesh, as it walks with legs thick enough to shatter stone underfoot.\n\nUnlike its sluggish kin, the splicefiend moves with alarming speed and precision, overwhelming prey with violent charges and rending strikes.",description,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicefiend.tools.0.label,left massive fist,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicefiend.tools.1.label,right massive fist,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicefiend.label,splicefiend,label,PawnKindDef/Races_Animal_Mutants.xml,def
+VQEA_Splicetoot.label,splicetoot,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicetoot.description,"A small, bloated mutant that crawls awkwardly on underdeveloped limbs, resembling a grotesque parody of a toddler. Its enlarged belly sloshes with rotstink gas, swelling and trembling with each jerking movement. Upon reaching its victim, the fragile body ruptures in a violent explosion, releasing a choking cloud of dangerous gas. Whether it was once a child or simply shaped to mock one is a cruelty too dreadful to think about.",description,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicetoot.tools.0.label,bite,label,ThingDef/Races_Animal_Mutants.xml,def
+VQEA_Splicetoot.label,splicetoot,label,PawnKindDef/Races_Animal_Mutants.xml,def
+VQEA_SuicideAttack.label,suicide attack,label,ToolCapacityDef/ToolCapacity.xml,def
+VQEA_Scalpel.label,scalpel slash,label,ToolCapacityDef/ToolCapacity.xml,def
+VQE_IdealPatient.degreeDatas.0.label,ideal patient,label,TraitDef/Traits.xml,def
+VQE_IdealPatient.degreeDatas.0.description,{PAWN_nameDef}'s body accepts archite alterations with unnatural ease. {PAWN_pronoun} will never suffer rejections during the injection process.,description,TraitDef/Traits.xml,def
+VQEA_HaulToArchogenInjector.label,haul resources to archogen injector,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterArchogenInjector.label,enter archogen injector,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterArchogenInjector.verb,enter,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterArchogenInjector.gerund,entering,gerund,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToArchogenInjector.label,carry to archogen injector,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToArchogenInjector.verb,carry,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToArchogenInjector.gerund,carrying,gerund,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterAncientWonderdoc.label,enter ancient wonderdoc,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterAncientWonderdoc.verb,enter,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_EnterAncientWonderdoc.gerund,entering,gerund,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToAncientWonderdoc.label,carry to ancient wonderdoc,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToAncientWonderdoc.verb,carry,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_CarryToAncientWonderdoc.gerund,carrying,gerund,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientWorkshop.label,work at ancient workshop,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientWorkshop.verb,work,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientWorkshop.gerund,working at,gerund,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientCookingStation.label,cook meals at ancient cookingStation,label,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientCookingStation.verb,cook at,verb,WorkGiverDef/WorkGivers.xml,def
+VQEA_DoBillsAncientCookingStation.gerund,cooking at,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_ArchiteVolunteer1.title,archite volunteer,title,BackstoryDef/Patient_Adult.xml,def
+VQE_ArchiteVolunteer1.titleShort,volunteer,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_ArchiteVolunteer1.description,"[PAWN_nameDef] enlisted in a secret military program that promised glory and strength. The experiments left [PAWN_objective] tougher than most, but the treatments damaged [PAWN_possessive] fine motor skills and stability.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_TrialSubject2.title,trial subject,title,BackstoryDef/Patient_Adult.xml,def
+VQE_TrialSubject2.titleShort,subject,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_TrialSubject2.description,"[PAWN_nameDef] signed away [PAWN_possessive] rights for a chance to join an experimental unit. Endless injections and training made [PAWN_objective] resilient, but constant observation and confinement left [PAWN_objective] anxious and withdrawn.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_GeneFighter3.title,gene fighter,title,BackstoryDef/Patient_Adult.xml,def
+VQE_GeneFighter3.titleShort,fighter,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_GeneFighter3.description,"Chosen for a military experiment, [PAWN_nameDef] underwent forced genetic alterations meant to create stronger soldiers. The project gave [PAWN_objective] an edge in battle, but the constant tests left little time for education or civilian skills.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_MilitaryExperiment4.title,military experiment,title,BackstoryDef/Patient_Adult.xml,def
+VQE_MilitaryExperiment4.titleShort,experiment,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_MilitaryExperiment4.description,"[PAWN_nameDef] volunteered for classified experiments, believing it was [PAWN_possessive] duty. Enhanced reflexes and stronger muscles were the results — but at the cost of chronic pain and a short temper.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_EnhancedSoldier5.title,enhanced soldier,title,BackstoryDef/Patient_Adult.xml,def
+VQE_EnhancedSoldier5.titleShort,soldier,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_EnhancedSoldier5.description,"[PAWN_nameDef] became part of a military program to create supersoldiers through archite injections. The procedures hardened [PAWN_objective] for combat, but the constant modifications dulled [PAWN_possessive] sense of self and left [PAWN_objective] detached from ordinary life.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_BoneReforged6.title,bone reforged,title,BackstoryDef/Patient_Adult.xml,def
+VQE_BoneReforged6.titleShort,reforged,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_BoneReforged6.description,"[PAWN_nameDef] was subjected to a brutal trial where every bone in [PAWN_possessive] body was shattered, replaced, and rebuilt with reinforced grafts. The process left [PAWN_objective] nearly unbreakable, but the constant agony scarred [PAWN_possessive] mind forever.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_SkinGrafted7.title,skin grafted,title,BackstoryDef/Patient_Adult.xml,def
+VQE_SkinGrafted7.titleShort,grafted,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_SkinGrafted7.description,"[PAWN_nameDef] underwent repeated skin-flaying and regenerative grafting, designed to test rapid healing serums. The experiments made [PAWN_objective] resistant to injury, but also dulled [PAWN_possessive] sense of touch and left [PAWN_possessive] body covered in scars.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_BrainProbed8.title,brain probed,title,BackstoryDef/Patient_Adult.xml,def
+VQE_BrainProbed8.titleShort,probed,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_BrainProbed8.description,"[PAWN_nameDef] was part of a horrific program where archite nodes were drilled directly into [PAWN_possessive] brain. The procedures heightened reflexes and memory recall, but frequent blackouts and haunting visions still plague [PAWN_objective].",description,BackstoryDef/Patient_Adult.xml,def
+VQE_MuscleStitched9.title,muscle stitched,title,BackstoryDef/Patient_Adult.xml,def
+VQE_MuscleStitched9.titleShort,stitched,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_MuscleStitched9.description,"[PAWN_nameDef] endured endless cycles of muscle excision and forced regrowth, each time restitched into denser configurations. The outcome was immense strength, but [PAWN_possessive] body remains grotesquely uneven and constantly aches from the strain.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_EyeReplaced10.title,eye replaced,title,BackstoryDef/Patient_Adult.xml,def
+VQE_EyeReplaced10.titleShort,augmented,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_EyeReplaced10.description,"[PAWN_nameDef] had both eyes removed and replaced with unstable experimental augments, meant to track targets in darkness. The implants improved [PAWN_possessive] aim, but left [PAWN_objective] sensitive to light and forever reliant on strange visual overlays.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_StressTest11.title,stress test subject,title,BackstoryDef/Patient_Adult.xml,def
+VQE_StressTest11.titleShort,subject,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_StressTest11.description,"[PAWN_nameDef] was confined for weeks in controlled conditions, deprived of sleep and overloaded with sensory input to measure endurance. The tests broke [PAWN_possessive] nerves, leaving [PAWN_objective] twitchy but strangely resistant to stress.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_ToxicExposure12.title,toxic exposure,title,BackstoryDef/Patient_Adult.xml,def
+VQE_ToxicExposure12.titleShort,exposed,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_ToxicExposure12.description,"[PAWN_nameDef] was sealed in chambers filled with toxic vapors as part of a military resilience program. The experience scarred [PAWN_possessive] lungs and burned [PAWN_possessive] skin, but [PAWN_pronoun] learned to push through sickness and pain.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_PainTolerance13.title,pain tolerance trial,title,BackstoryDef/Patient_Adult.xml,def
+VQE_PainTolerance13.titleShort,trialed,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_PainTolerance13.description,"[PAWN_nameDef] endured endless procedures designed to push the limits of human pain tolerance. Though the agony left [PAWN_objective] hardened, [PAWN_pronoun] never truly recovered [PAWN_possessive] sense of trust in others.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationChamber14.title,isolation chamber,title,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationChamber14.titleShort,isolated,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationChamber14.description,"[PAWN_nameDef] was kept alone in a silent, lightless cell for months while researchers studied the effects of sensory deprivation. The ordeal left [PAWN_objective] distant and withdrawn, but strangely focused when working alone.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_CombatDrills15.title,combat drill subject,title,BackstoryDef/Patient_Adult.xml,def
+VQE_CombatDrills15.titleShort,drilled,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_CombatDrills15.description,"[PAWN_nameDef] was forced through punishing combat drills meant to test the breaking point of soldiers under fire. The brutal regimen honed [PAWN_possessive] instincts, but left [PAWN_objective] with lingering injuries and a deep mistrust of authority.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_DeceptionStudy16.title,deception study,title,BackstoryDef/Patient_Adult.xml,def
+VQE_DeceptionStudy16.titleShort,deceiver,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_DeceptionStudy16.description,"[PAWN_nameDef] was placed in a program that rewarded lying and punished honesty. Over time, [PAWN_pronoun] became skilled at reading people, but found it difficult to form genuine connections.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_GroupConflict17.title,conflict subject,title,BackstoryDef/Patient_Adult.xml,def
+VQE_GroupConflict17.titleShort,conflicted,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_GroupConflict17.description,"[PAWN_nameDef] was locked in rooms with other subjects while researchers manipulated resources to force conflict. The constant fighting sharpened [PAWN_possessive] survival instincts, but trust became impossible.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_ObedienceTrial18.title,obedience trial,title,BackstoryDef/Patient_Adult.xml,def
+VQE_ObedienceTrial18.titleShort,obedient,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_ObedienceTrial18.description,"[PAWN_nameDef] spent years in a program designed to test the limits of obedience to authority. Following orders became second nature, but [PAWN_objective] never learned to make decisions for [PAWN_objective]self.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationTest19.title,isolation test,title,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationTest19.titleShort,isolated,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_IsolationTest19.description,"[PAWN_nameDef] was forced into false social situations where allies would suddenly vanish or betray them. The shifting rules left [PAWN_objective] paranoid, but keenly aware of small details others overlook.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_LossExperiment20.title,loss experiment,title,BackstoryDef/Patient_Adult.xml,def
+VQE_LossExperiment20.titleShort,bereaved,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_LossExperiment20.description,"[PAWN_nameDef] was made to form bonds with fellow subjects, only to watch them be taken away again and again. The grief left scars, but also gave [PAWN_objective] an unusual resilience to despair.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_BetrayalStudy21.title,betrayal study,title,BackstoryDef/Patient_Adult.xml,def
+VQE_BetrayalStudy21.titleShort,betrayed,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_BetrayalStudy21.description,"[PAWN_nameDef] was forced into experiments where subjects were paired as close companions, only to be tricked into betraying one another for survival. The cruelty broke [PAWN_possessive] ability to trust, but sharpened [PAWN_possessive] instincts for danger.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_FalseFamily22.title,false family,title,BackstoryDef/Patient_Adult.xml,def
+VQE_FalseFamily22.titleShort,orphaned,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_FalseFamily22.description,"[PAWN_nameDef] was placed into simulated households with strangers acting as kin, only to have them vanish without explanation. This cycle repeated until [PAWN_pronoun] stopped forming bonds at all, surviving instead through cold detachment.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_StarvationTrial23.title,starvation trial,title,BackstoryDef/Patient_Adult.xml,def
+VQE_StarvationTrial23.titleShort,starved,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_StarvationTrial23.description,"[PAWN_nameDef] endured experiments where food was withheld and rations were deliberately uneven, forcing subjects to beg or fight for scraps. Hunger carved deep scars into [PAWN_possessive] mind, leaving [PAWN_objective] restless and distrustful of generosity.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_CompassionPunished24.title,compassion punished,title,BackstoryDef/Patient_Adult.xml,def
+VQE_CompassionPunished24.titleShort,hardened,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_CompassionPunished24.description,"[PAWN_nameDef] lived through trials where showing kindness meant punishment, while cruelty was rewarded. Over time, [PAWN_pronoun] learned to hide compassion behind a mask of cold obedience, though the instinct to care never fully left.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_SilenceStudy25.title,silence study,title,BackstoryDef/Patient_Adult.xml,def
+VQE_SilenceStudy25.titleShort,silent,titleShort,BackstoryDef/Patient_Adult.xml,def
+VQE_SilenceStudy25.description,"[PAWN_nameDef] was raised in enforced silence, punished for speaking or even making noise. The isolation left [PAWN_objective] almost mute in groups, but gave [PAWN_possessive] an uncanny focus when working alone.",description,BackstoryDef/Patient_Adult.xml,def
+VQE_KidnappedChild.title,kidnapped child,title,BackstoryDef/Solid_Rare.xml,def
+VQE_KidnappedChild.titleShort,kidnapped,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_KidnappedChild.description,"[PAWN_nameDef] was abducted at a young age and raised in captivity. Deprived of proper schooling, [PAWN_pronoun] survived by learning to listen, to obey, and to read the moods of [PAWN_possessive] captors. The experience left [PAWN_objective] wary of others and untrained in most practical skills, but unusually sensitive to people’s intentions.",description,BackstoryDef/Solid_Rare.xml,def
+VQE_IdealPatient.title,ideal patient,title,BackstoryDef/Solid_Rare.xml,def
+VQE_IdealPatient.titleShort,patient,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_IdealPatient.description,"[PAWN_nameDef] was chosen for countless experimental procedures with archite technology. For reasons unknown, [PAWN_pronoun] never rejected an implant, making [PAWN_objective] the perfect subject for radical genetic experiments. The treatments left [PAWN_objective] frail in body, but adapted to pain and unusually tolerant of hardship. Sadly, one of the treatments has resulted in a slowly progressing terminal illness.",description,BackstoryDef/Solid_Rare.xml,def

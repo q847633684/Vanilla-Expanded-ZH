@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon?-->
+  <VPWE.AlreadyBondedWarning>{PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon?</VPWE.AlreadyBondedWarning>
+  <!--EN: Claim for {PAWN_nameDef}-->
+  <VPWE.ClaimFor>Claim for {PAWN_nameDef}</VPWE.ClaimFor>
+  <!--EN: Claim a {0}-->
+  <VPWE.ClaimWeapon>Claim a {0}</VPWE.ClaimWeapon>
+  <!--EN: Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again.-->
+  <VPWE.ConfirmReject>Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again.</VPWE.ConfirmReject>
+  <!--EN: Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}.-->
+  <VPWE.GainedPersonaWeaponDesc>Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+  <!--EN: Persona weapon for {PAWN_nameDef}-->
+  <VPWE.GainedPersonaWeaponTitle>Persona weapon for {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+  <!--EN: {WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue?-->
+  <VPWE.NoCustomizationWeapon>{WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue?</VPWE.NoCustomizationWeapon>
+  <!--EN: Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}.-->
+  <VPWE.NoDeliverySpotFound>Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
+  <!--EN: {PAWN_labelShort} is dead-->
+  <VPWE.NotAllowedDead>{PAWN_labelShort} is dead</VPWE.NotAllowedDead>
+  <!--EN: {PAWN_labelShort} no longer has the required title-->
+  <VPWE.NotAllowedNoTitle>{PAWN_labelShort} no longer has the required title</VPWE.NotAllowedNoTitle>
+  <!--EN: {PAWN_labelShort} is no longer part of your faction-->
+  <VPWE.NotPlayerFaction>{PAWN_labelShort} is no longer part of your faction</VPWE.NotPlayerFaction>
+  <!--EN: Persona:-->
+  <VPWE.Persona>Persona:</VPWE.Persona>
+  <!--EN: Postpone-->
+  <VPWE.Postpone>Postpone</VPWE.Postpone>
+  <!--EN: Psycast:-->
+  <VPWE.Psycast>Psycast:</VPWE.Psycast>
+  <!--EN: {0} for {PAWN_nameDef} has arrived nearby.-->
+  <VPWE.ReceivedWeaponDesc>{0} for {PAWN_nameDef} has arrived nearby.</VPWE.ReceivedWeaponDesc>
+  <!--EN: Cargo pods (Persona weapon)-->
+  <VPWE.ReceivedWeaponTitle>Cargo pods (Persona weapon)</VPWE.ReceivedWeaponTitle>
+  <!--EN: Reject-->
+  <VPWE.RejectLetter>Reject</VPWE.RejectLetter>
+</LanguageData>

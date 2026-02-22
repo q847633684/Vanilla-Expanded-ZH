@@ -1,0 +1,5 @@
+key,text,tag,file,type
+VCE_RawBlueberries.label,blueberries,label,ThingDef/Items_Resource_RawFruit_Vikings.xml,def
+VCE_RawBlueberries.description,"A sweet, edible fruit hailed as a ""superfood"", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.",description,ThingDef/Items_Resource_RawFruit_Vikings.xml,def
+VCE_Blueberry.label,blueberry plant,label,ThingDef/Plants_Cultivated_Farm_Vikings.xml,def
+VCE_Blueberry.description,"A shrub prized for its sweet edible fruits. Hailed as a ""superfood"", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.\n\n<color=#E5E54C>Gameplay effect:</color> Blueberries are pollinated by bees: they will receive a growth boost if an apiary is found in a radius of 6 tiles. To avoid lag this is only calculated once, when the plant is sown, so apiaries placed after sowing it will have no effect. If there are no apiaries it will behave as a slower strawberry plant.",description,ThingDef/Plants_Cultivated_Farm_Vikings.xml,def

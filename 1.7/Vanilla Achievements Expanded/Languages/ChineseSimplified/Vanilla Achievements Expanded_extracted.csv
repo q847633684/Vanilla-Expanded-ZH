@@ -1,0 +1,226 @@
+key,text,tag,file,type
+VAE,Vanilla Achievements Expanded,VAE,TranslationKeys.xml,keyed
+DebugWriter,Enable DebugWriter,DebugWriter,TranslationKeys.xml,keyed
+DebugWriterConfirmation,Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging.,DebugWriterConfirmation,TranslationKeys.xml,keyed
+GenerateLogInfo,Write to File,GenerateLogInfo,TranslationKeys.xml,keyed
+GenerateLogInfoTooltip,Push achievement related logs to file. For debugging purposes only.,GenerateLogInfoTooltip,TranslationKeys.xml,keyed
+SuccessfulWriteToFile,Successfully pushed achievement logs to AchievementLog.txt,SuccessfulWriteToFile,TranslationKeys.xml,keyed
+SideBarInfo,Unlock achievements and earn Storyteller points which you can redeem for various events.,SideBarInfo,TranslationKeys.xml,keyed
+VAE_SideBarInfoNoRedeem,Unlock achievements and earn Storyteller points to gauge your performance.,VAE_SideBarInfoNoRedeem,TranslationKeys.xml,keyed
+StorytellerPoints,Storyteller Points,StorytellerPoints,TranslationKeys.xml,keyed
+PointsRedeem,Redeem Points,PointsRedeem,TranslationKeys.xml,keyed
+PointsAvailable,Available: {0},PointsAvailable,TranslationKeys.xml,keyed
+PointsEarned,Total earnt: {0},PointsEarned,TranslationKeys.xml,keyed
+UnlockedDevMode,Unlocked with DevMode,UnlockedDevMode,TranslationKeys.xml,keyed
+AchievementLocked,Locked,AchievementLocked,TranslationKeys.xml,keyed
+AchievementsUnlocked,Achievements Unlocked: {0},AchievementsUnlocked,TranslationKeys.xml,keyed
+AchievementsTotalUnlocked,Total Achievements Unlocked: {0},AchievementsTotalUnlocked,TranslationKeys.xml,keyed
+AchievementUnlocked,Achievement Unlocked!,AchievementUnlocked,TranslationKeys.xml,keyed
+FailedRewardEvent,Failed to redeem reward {0},FailedRewardEvent,TranslationKeys.xml,keyed
+FailedTargetFinder,Must have map loaded or IncidentTarget object selected on World Map,FailedTargetFinder,TranslationKeys.xml,keyed
+NoValidMap,Must be purchased with PlayerHome map in view.,NoValidMap,TranslationKeys.xml,keyed
+IncidentNotAvailable,Incident not available right now.,IncidentNotAvailable,TranslationKeys.xml,keyed
+NotEnoughPoints,Not Enough Points,NotEnoughPoints,TranslationKeys.xml,keyed
+RandomQuestRewardItemLetter,Quest Item,RandomQuestRewardItemLetter,TranslationKeys.xml,keyed
+RandomQuestRewardItem,Random quest item dropped!,RandomQuestRewardItem,TranslationKeys.xml,keyed
+VAE_UsePointsSystem,Use achievement points reward system,VAE_UsePointsSystem,TranslationKeys.xml,keyed
+VAE_UsePointsSystemDesc,"By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count.",VAE_UsePointsSystemDesc,TranslationKeys.xml,keyed
+VAE_CollateModTabs,Collate mod tabs,VAE_CollateModTabs,TranslationKeys.xml,keyed
+VAE_CollateModTabsDesc,By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs,VAE_CollateModTabsDesc,TranslationKeys.xml,keyed
+VAE_AchievementHidden,Hidden until monolith level {0},VAE_AchievementHidden,TranslationKeys.xml,keyed
+VAE_VeryCapable.label,Very Capable,label,AchievementsExpanded.AchievementDef/Abilities.xml,def
+VAE_VeryCapable.description,Get a total of 100 abilities across your colonists. Hard mode: without DLC or mods (can't be done),description,AchievementsExpanded.AchievementDef/Abilities.xml,def
+comfierThanUsual.label,Comfier Than Usual,label,AchievementsExpanded.AchievementDef/Building.xml,def
+comfierThanUsual.description,Construct a human leather armchair,description,AchievementsExpanded.AchievementDef/Building.xml,def
+theArchitect.label,The Architect,label,AchievementsExpanded.AchievementDef/Building.xml,def
+theArchitect.description,Build 1000 Walls,description,AchievementsExpanded.AchievementDef/Building.xml,def
+buildingTheSkynet.label,Building the Skynet,label,AchievementsExpanded.AchievementDef/Building.xml,def
+buildingTheSkynet.description,Construct 30 mini-turrets,description,AchievementsExpanded.AchievementDef/Building.xml,def
+itAintRocketScience.label,It Ain't Rocket Science,label,AchievementsExpanded.AchievementDef/Building.xml,def
+itAintRocketScience.description,Build a spaceship,description,AchievementsExpanded.AchievementDef/Building.xml,def
+iWillSurvive.label,I Will Survive,label,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+iWillSurvive.description,Have 7 colonists,description,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+imStillStanding.label,I'm Still Standing,label,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+imStillStanding.description,Have 12 colonists,description,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+imASurvivor.label,I'm a Survivor,label,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+imASurvivor.description,Have 18 colonists,description,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+aintNoStoppingUsNow.label,Ain't no Stopping us Now,label,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+aintNoStoppingUsNow.description,Have 33 colonists,description,AchievementsExpanded.AchievementDef/ColonistCount.xml,def
+VAE_IceCold.label,Ice Cold,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_IceCold.description,Have colonists consume 100 beers,description,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_Munchies.label,The Munchies,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_Munchies.description,Have your pawns eat 100 (non-veg or carnivore) lavish meals,description,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_TastesLikePeanuts.label,Tastes Like Peanuts,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_TastesLikePeanuts.description,Have your pawns eat 100 meals containing insect meat,description,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_NoEnergyNoTown.label,No Energy no Town,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_NoEnergyNoTown.description,Have pigs or wildboars feed on corpses 100 times,description,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_TheOtherPig.label,The Other Pig,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_TheOtherPig.description,Have colonists commit raw cannibalism 50 times,description,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_CaptainPlanetWouldGetAStroke.label,Captain Planet Would Have a Stroke,label,AchievementsExpanded.AchievementDef/Food.xml,def
+VAE_CaptainPlanetWouldGetAStroke.description,Have your pet thrumbos consume 50 trees,description,AchievementsExpanded.AchievementDef/Food.xml,def
+T-800.label,T-800,label,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+T-800.description,"Have a single pawn with bionic legs, arms, spine, ears and eyes",description,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+imAPirate.label,I'm A Pirate!,label,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+imAPirate.description,Install a peg leg on a pawn,description,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+thatllShowHim.label,That'll Show Him,label,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+thatllShowHim.description,Starve a pawn to death,description,AchievementsExpanded.AchievementDef/Hediffs.xml,def
+thisIsWhereTheFunBegins.label,This Is Where The Fun Begins,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+thisIsWhereTheFunBegins.description,Get raided for the first time,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+showMustGoOn.label,Show Must Go On,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+showMustGoOn.description,Have a man in black join your colony,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+brrr.label,Brrr,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+brrr.description,Have a coldsnap happen in winter,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+phew.label,Phew,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+phew.description,Have a heatwave happen in summer,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+outOfTheFryingPan.label,Out Of The Frying Pan,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+outOfTheFryingPan.description,Have a colonist develop a bond with a pig,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+intoTheFire.label,Into The Fire,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+intoTheFire.description,Have a bonded pig die on fire,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+blitzkrieg.label,Blitzkrieg,label,AchievementsExpanded.AchievementDef/Incidents.xml,def
+blitzkrieg.description,Destroy 5 faction bases,description,AchievementsExpanded.AchievementDef/Incidents.xml,def
+oneStepCloser.label,One Step Closer,label,AchievementsExpanded.AchievementDef/Items.xml,def
+oneStepCloser.description,Obtain an AI Persona Core,description,AchievementsExpanded.AchievementDef/Items.xml,def
+humanLeatherHat.label,Human Leather Cowboy Hat,label,AchievementsExpanded.AchievementDef/Items.xml,def
+humanLeatherHat.description,Craft a human leather cowboy hat,description,AchievementsExpanded.AchievementDef/Items.xml,def
+midas.label,Midas,label,AchievementsExpanded.AchievementDef/Items.xml,def
+midas.description,Have 5000 gold,description,AchievementsExpanded.AchievementDef/Items.xml,def
+fourtwentyblazeIt.label,4/20 Blaze It,label,AchievementsExpanded.AchievementDef/Items.xml,def
+fourtwentyblazeIt.description,Obtain 420 smokeleaf,description,AchievementsExpanded.AchievementDef/Items.xml,def
+silenceOfTheLambs.label,Silence of the Lambs,label,AchievementsExpanded.AchievementDef/Items.xml,def
+silenceOfTheLambs.description,Obtain 100 human meat,description,AchievementsExpanded.AchievementDef/Items.xml,def
+theStuffOfLegends.label,The Stuff Of Legends,label,AchievementsExpanded.AchievementDef/Items.xml,def
+theStuffOfLegends.description,Craft any legendary item,description,AchievementsExpanded.AchievementDef/Items.xml,def
+futureCaveman.label,Future Caveman,label,AchievementsExpanded.AchievementDef/Items.xml,def
+futureCaveman.description,Make a plasteel club,description,AchievementsExpanded.AchievementDef/Items.xml,def
+VAE_MidasTouch.label,Midas' Touch,label,AchievementsExpanded.AchievementDef/Items.xml,def
+VAE_MidasTouch.description,Craft a gold item of excellent quality or higher,description,AchievementsExpanded.AchievementDef/Items.xml,def
+firstBlood.label,First Blood,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+firstBlood.description,Kill another pawn,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+bloodlust.label,Bloodlust,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+bloodlust.description,Kill 100 humanlikes in total,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+bloodForTheBloodGod.label,Blood For The Blood God,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+bloodForTheBloodGod.description,Kill 1000 humanlikes in total,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+bigGameHunter.label,Big Game Hunter,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+bigGameHunter.description,Hunt and kill 20 Thrumbos,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+exterminator.label,Exterminator,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+exterminator.description,Kill 150 Insectoids,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+dragonSlayer.label,Dragon Slayer,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+dragonSlayer.description,Kill 50 Iguanas,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+australianRevenge.label,Australian Revenge,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+australianRevenge.description,Kill 30 Emus,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+VAE_TacticalNukeInbound.label,Tactical Nuke Inbound,label,AchievementsExpanded.AchievementDef/Kills.xml,def
+VAE_TacticalNukeInbound.description,Kill a human with a doomsday rocket launcher,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+VAE_TakeThatMickey.label,"Take That, Mickey",label,AchievementsExpanded.AchievementDef/Kills.xml,def
+VAE_TakeThatMickey.description,Have a rat die by a spike trap,description,AchievementsExpanded.AchievementDef/Kills.xml,def
+threeLittlePigs.label,Three Little Pigs,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+threeLittlePigs.description,Have 3 Pigs and 1 Timberwolf,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+lookAtAllThoseChickens.label,Look At All Those Chickens,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+lookAtAllThoseChickens.description,Have 20 Geese,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+sustainableFuelSource.label,Sustainable Fuel Source,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+sustainableFuelSource.description,Have 8 Boomalopes,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+muffaloRancher.label,Muffalo Rancher,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+muffaloRancher.description,Have 12 Muffalos,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+arkHalfFull.label,Ark Half Full,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+arkHalfFull.description,Have 1 of every vanilla animal at the same time.,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+gentleGiant.label,Gentle Giant,label,AchievementsExpanded.AchievementDef/Livestock.xml,def
+gentleGiant.description,Tame a Thrumbo,description,AchievementsExpanded.AchievementDef/Livestock.xml,def
+aFormalComplaint.label,A Formal Complaint,label,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+aFormalComplaint.description,Have a pawn go berserk,description,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+callOfTheWild.label,Call Of The Wild,label,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+callOfTheWild.description,Have a pawn run wild,description,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+letsStartARevolution.label,Let's Start A Revolution,label,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+letsStartARevolution.description,Have 5 pawns on mental break at the same time,description,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+fiftyShadesOfGrey.label,50 Shades Of Grey,label,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+fiftyShadesOfGrey.description,Have a pawn go into a sadistic rage on a prisoner,description,AchievementsExpanded.AchievementDef/MentalBreaks.xml,def
+VAE_BabysFirstMods.label,Baby’s First Mods,label,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+VAE_BabysFirstMods.description,Have 10 active mods in a modlist,description,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+VAE_NoRedErrors.label,No Red Errors,label,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+VAE_NoRedErrors.description,Have 100 active mods in a modlist,description,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+VAE_TheyAreAllQoL.label,They Are All QoL!,label,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+VAE_TheyAreAllQoL.description,Have 500 active mods in a modlist,description,AchievementsExpanded.AchievementDef/ModAmount.xml,def
+aHappyEnding.label,A Happy Ending,label,AchievementsExpanded.AchievementDef/Mood.xml,def
+aHappyEnding.description,Have a 90% average mood in the colony,description,AchievementsExpanded.AchievementDef/Mood.xml,def
+areYouNotEntertained.label,Are You Not Entertained?,label,AchievementsExpanded.AchievementDef/Mood.xml,def
+areYouNotEntertained.description,Have a 5% average mood in the colony,description,AchievementsExpanded.AchievementDef/Mood.xml,def
+VAE_FirstHarvest.label,First Harvest,label,AchievementsExpanded.AchievementDef/Plants.xml,def
+VAE_FirstHarvest.description,Harvest 50 corn plants,description,AchievementsExpanded.AchievementDef/Plants.xml,def
+VAE_FinestCloth.label,Finest cloth,label,AchievementsExpanded.AchievementDef/Plants.xml,def
+VAE_FinestCloth.description,Harvest 100 Devilstrand,description,AchievementsExpanded.AchievementDef/Plants.xml,def
+VAE_FreedomDenied.label,Freedom Denied,label,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+VAE_FreedomDenied.description,Have your first prisoner,description,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+VAE_RuraPenthe.label,Rura Penthe,label,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+VAE_RuraPenthe.description,Have 10 prisoners at the same time,description,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+VAE_PrisonArchitect.label,Prison Architect,label,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+VAE_PrisonArchitect.description,Capture 100 prisoners (cummulative),description,AchievementsExpanded.AchievementDef/Prisoners.xml,def
+mercenary.label,Mercenary,label,AchievementsExpanded.AchievementDef/Quests.xml,def
+mercenary.description,Complete any 5 quests,description,AchievementsExpanded.AchievementDef/Quests.xml,def
+ambassadorOfPeace.label,Ambassador Of Peace,label,AchievementsExpanded.AchievementDef/Quests.xml,def
+ambassadorOfPeace.description,Complete 3 PeaceTalks quests,description,AchievementsExpanded.AchievementDef/Quests.xml,def
+OneShotOneKill.label,One Shot One Kill,label,AchievementsExpanded.AchievementDef/Records.xml,def
+OneShotOneKill.description,Have a single pawn score 100 headshots.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+TriggerHappy.label,Trigger-Happy,label,AchievementsExpanded.AchievementDef/Records.xml,def
+TriggerHappy.description,Have a single pawn fire 2000 shots,description,AchievementsExpanded.AchievementDef/Records.xml,def
+OneSolidGardner.label,One Solid Gardner,label,AchievementsExpanded.AchievementDef/Records.xml,def
+OneSolidGardner.description,Have a single pawn sow 10000 plants.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+LifeSentence.label,Life Sentence,label,AchievementsExpanded.AchievementDef/Records.xml,def
+LifeSentence.description,Have a single prisoner for 2 years.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+IMightNeedAShrink.label,I Might Need A Shrink,label,AchievementsExpanded.AchievementDef/Records.xml,def
+IMightNeedAShrink.description,Have a single pawn spend 24 hours total in Mental Breaks.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+DrDolittle.label,Dr. Dolittle,label,AchievementsExpanded.AchievementDef/Records.xml,def
+DrDolittle.description,Have a single pawn tame 50 animals.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+ProfessionalStripper.label,Professional Stripper,label,AchievementsExpanded.AchievementDef/Records.xml,def
+ProfessionalStripper.description,Have a single pawn strip 100 bodies.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+BladeRunner.label,Blade Runner,label,AchievementsExpanded.AchievementDef/Records.xml,def
+BladeRunner.description,Have a single pawn kill 50 mechanoids,description,AchievementsExpanded.AchievementDef/Records.xml,def
+ThreeStarMichelin.label,3 Star Michelin,label,AchievementsExpanded.AchievementDef/Records.xml,def
+ThreeStarMichelin.description,Have a single pawn cook 10000 meals.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+ScrubUp.label,Scrub Up,label,AchievementsExpanded.AchievementDef/Records.xml,def
+ScrubUp.description,Perform a total of 50 operations.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+TheRimsBrightest.label,The Rim's Brightest,label,AchievementsExpanded.AchievementDef/Records.xml,def
+TheRimsBrightest.description,Spend a total of 2 years researching.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+IWishThisWasIkea.label,I Wish This Was IKEA,label,AchievementsExpanded.AchievementDef/Records.xml,def
+IWishThisWasIkea.description,Construct AND Disassemble a total of 100 structures.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+ImOnFire.label,I'm On Fire!,label,AchievementsExpanded.AchievementDef/Records.xml,def
+ImOnFire.description,Have a single pawn spend a total of 3 days on fire.,description,AchievementsExpanded.AchievementDef/Records.xml,def
+sticksAndStones.label,Sticks And Stones,label,AchievementsExpanded.AchievementDef/Research.xml,def
+sticksAndStones.description,Research all neolithic technologies,description,AchievementsExpanded.AchievementDef/Research.xml,def
+outOfTheDarkAges.label,Out of the Dark Ages,label,AchievementsExpanded.AchievementDef/Research.xml,def
+outOfTheDarkAges.description,Research all medieval technologies,description,AchievementsExpanded.AchievementDef/Research.xml,def
+industrialRevolution.label,Industrial Revolution,label,AchievementsExpanded.AchievementDef/Research.xml,def
+industrialRevolution.description,Research all industrial technologies,description,AchievementsExpanded.AchievementDef/Research.xml,def
+offToTheStars.label,Off To The Stars,label,AchievementsExpanded.AchievementDef/Research.xml,def
+offToTheStars.description,Research all spacer technologies,description,AchievementsExpanded.AchievementDef/Research.xml,def
+sharpshooter.label,Sharpshooter,label,AchievementsExpanded.AchievementDef/Skills.xml,def
+sharpshooter.description,Have a colonist reach level 20 in shooting,description,AchievementsExpanded.AchievementDef/Skills.xml,def
+mrPresident.label,Mr. President,label,AchievementsExpanded.AchievementDef/Skills.xml,def
+mrPresident.description,Have a colonist reach level 20 in Social,description,AchievementsExpanded.AchievementDef/Skills.xml,def
+conanTheBarbarian.label,Conan The Barbarian,label,AchievementsExpanded.AchievementDef/Skills.xml,def
+conanTheBarbarian.description,Have a colonist reach level 20 in Melee,description,AchievementsExpanded.AchievementDef/Skills.xml,def
+couldBeWorse.label,Could Be Worse,label,AchievementsExpanded.AchievementDef/Time.xml,def
+couldBeWorse.description,Survive a Quadrum,description,AchievementsExpanded.AchievementDef/Time.xml,def
+itsAllDownhillFromHere.label,It's All Downhill From Here,label,AchievementsExpanded.AchievementDef/Time.xml,def
+itsAllDownhillFromHere.description,Survive a year,description,AchievementsExpanded.AchievementDef/Time.xml,def
+tenHoursWoah.label,10 Hours? Woah!,label,AchievementsExpanded.AchievementDef/Time.xml,def
+tenHoursWoah.description,Spend 10 hours playing the current colony,description,AchievementsExpanded.AchievementDef/Time.xml,def
+waitAMinute.label,Wait a Minute!,label,AchievementsExpanded.AchievementDef/Time.xml,def
+waitAMinute.description,Spend 100 hours playing the current colony,description,AchievementsExpanded.AchievementDef/Time.xml,def
+pabloEmilioEscobarGaviria.label,Pablo Emilio Escobar Gaviria,label,AchievementsExpanded.AchievementDef/Trade.xml,def
+pabloEmilioEscobarGaviria.description,Sell 400 Yayo to a single trader in a single transaction,description,AchievementsExpanded.AchievementDef/Trade.xml,def
+wolfOfWallStreet.label,Wolf Of Wall Street,label,AchievementsExpanded.AchievementDef/Trade.xml,def
+wolfOfWallStreet.description,Earn 3000 silver from a single transaction,description,AchievementsExpanded.AchievementDef/Trade.xml,def
+slaverScum.label,Slaver Scum,label,AchievementsExpanded.AchievementDef/Trade.xml,def
+slaverScum.description,Sell 5 prisoners in a single transaction,description,AchievementsExpanded.AchievementDef/Trade.xml,def
+inForAPenny.label,In For A Penny,label,AchievementsExpanded.AchievementDef/Wealth.xml,def
+inForAPenny.description,Amass colony wealth of 100000,description,AchievementsExpanded.AchievementDef/Wealth.xml,def
+inForAPound.label,In For A Pound,label,AchievementsExpanded.AchievementDef/Wealth.xml,def
+inForAPound.description,Amass colony wealth of 1000000,description,AchievementsExpanded.AchievementDef/Wealth.xml,def
+Main.label,Main,label,AchievementsExpanded.AchievementTabDef/AchievementTabDef_Main.xml,def
+VAE_ModsTab.label,Mods,label,AchievementsExpanded.AchievementTabDef/AchievementTabDef_Main.xml,def
+Achievements.label,achievements,label,MainButtonDef/MainButtons.xml,def
+Achievements.description,"Unlock achievements, earn points, manage progress.",description,MainButtonDef/MainButtons.xml,def
+EnemyRaidReward.label,Summon A Raid,label,AchievementsExpanded.Reward_EnemyRaid/Rewards.xml,def
+TradeCaravanReward.label,Summon a Trade Caravan,label,AchievementsExpanded.Reward_MapIncident/Rewards.xml,def
+RandomEventReward.label,Random Event,label,AchievementsExpanded.Reward_RandomEvent/Rewards.xml,def
+CargoPodsReward.label,Spawn Cargo Pods,label,AchievementsExpanded.Reward_MapIncident/Rewards.xml,def
+RandomRewardQuestItem.label,Random Quest Item,label,AchievementsExpanded.Reward_RandomQuestItem/Rewards.xml,def
+ManInBlackReward.label,Man in Black Joins,label,AchievementsExpanded.Reward_MapIncident/Rewards.xml,def

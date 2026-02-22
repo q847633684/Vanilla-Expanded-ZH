@@ -1,0 +1,463 @@
+key,text,tag,file,type
+VCE_InsertSoup,insert soup,VCE_InsertSoup,Misc_Gameplay.xml,keyed
+VCE_InsertSoupDesc,Soup to Cook,VCE_InsertSoupDesc,Misc_Gameplay.xml,keyed
+VCE_NoSoupsFound,No soups of that kind found in this map.,VCE_NoSoupsFound,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupSimple,simple soup,VCE_UncookedSoupSimple,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupFine,fine soup,VCE_UncookedSoupFine,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupLavish,lavish soup,VCE_UncookedSoupLavish,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupGourmet,gourmet soup,VCE_UncookedSoupGourmet,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupSimple_InsertSoup,insert simple soup,VCE_UncookedSoupSimple_InsertSoup,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupFine_InsertSoup,insert fine soup,VCE_UncookedSoupFine_InsertSoup,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupLavish_InsertSoup,insert lavish soup,VCE_UncookedSoupLavish_InsertSoup,Misc_Gameplay.xml,keyed
+VCE_UncookedSoupGourmet_InsertSoup,insert gourmet soup,VCE_UncookedSoupGourmet_InsertSoup,Misc_Gameplay.xml,keyed
+VCE_SelectSoup,Select a type of soup to be cooked,VCE_SelectSoup,Misc_Gameplay.xml,keyed
+VCE_StartInsertion,Bring Soup,VCE_StartInsertion,Misc_Gameplay.xml,keyed
+VCE_StartInsertionDesc,Bring a soup to the electric pot to start cooking,VCE_StartInsertionDesc,Misc_Gameplay.xml,keyed
+VCE_RemoveSoup,Remove Soup,VCE_RemoveSoup,Misc_Gameplay.xml,keyed
+VCE_RemoveSoupDesc,Remove the soup from the pot. This can only be done before you start cooking it.,VCE_RemoveSoupDesc,Misc_Gameplay.xml,keyed
+VCE_CancelBringingSoup,Cancel Bringing Soup,VCE_CancelBringingSoup,Misc_Gameplay.xml,keyed
+VCE_CancelBringingSoupDesc,Cancel bringing soup to the electric pot.,VCE_CancelBringingSoupDesc,Misc_Gameplay.xml,keyed
+VCE_WaitTillJobsEnd,"Wait until the soup has been brought to the electric pot, or cancel the job.",VCE_WaitTillJobsEnd,Misc_Gameplay.xml,keyed
+VCE_NotPowered,The electric pot is not powered,VCE_NotPowered,Misc_Gameplay.xml,keyed
+VCE_Engage,Cook Soup,VCE_Engage,Misc_Gameplay.xml,keyed
+VCE_EngageDesc,"Start cooking soup. This process takes 3 days and can't be interrupted, or the soup will be destroyed.",VCE_EngageDesc,Misc_Gameplay.xml,keyed
+VCE_SoupFailurePower,The soup has spoiled due to a power failure in the electric pot,VCE_SoupFailurePower,Misc_Gameplay.xml,keyed
+VCE_SoupFailurePowerWarning,The soup is spoiling fast due to a lack of fuel in the electric pot,VCE_SoupFailurePowerWarning,Misc_Gameplay.xml,keyed
+VCE_SoupFinished,A soup has finished cooking in the electric pot,VCE_SoupFinished,Misc_Gameplay.xml,keyed
+VCE_SoupInProgress,An {0} is cooking. It will be ready in {1},VCE_SoupInProgress,Misc_Gameplay.xml,keyed
+VCE_SoupReady,A soup has finished cooking and is waiting for pickup,VCE_SoupReady,Misc_Gameplay.xml,keyed
+VCE_SoupPotNotWorking,This electric pot is not working at the moment,VCE_SoupPotNotWorking,Misc_Gameplay.xml,keyed
+VCE_InsertMilkDesc,Select Milk to press in the cheese press. Different milks might produce different types of cheese.,VCE_InsertMilkDesc,Misc_Gameplay.xml,keyed
+VCE_InsertMilk,Select Milk,VCE_InsertMilk,Misc_Gameplay.xml,keyed
+VCE_InsertMilkVariable,Insert {0},VCE_InsertMilkVariable,Misc_Gameplay.xml,keyed
+VCE_NoMilksFound,No milks of that kind found in this map.,VCE_NoMilksFound,Misc_Gameplay.xml,keyed
+VCE_SelectMilk,Select a type of milk to be pressed,VCE_SelectMilk,Misc_Gameplay.xml,keyed
+VCE_StartInsertionMilk,Bring Milk,VCE_StartInsertionMilk,Misc_Gameplay.xml,keyed
+VCE_StartInsertionMilkDesc,Bring milk to the cheese press to start pressing,VCE_StartInsertionMilkDesc,Misc_Gameplay.xml,keyed
+VCE_RemoveMilk,Remove Milk,VCE_RemoveMilk,Misc_Gameplay.xml,keyed
+VCE_RemoveMilkDesc,Remove the milk from the press. This can only be done before you start pressing it.,VCE_RemoveMilkDesc,Misc_Gameplay.xml,keyed
+VCE_CancelBringingMilk,Cancel Bringing Milk,VCE_CancelBringingMilk,Misc_Gameplay.xml,keyed
+VCE_CancelBringingMilkDesc,Cancel bringing milk to the cheese press.,VCE_CancelBringingMilkDesc,Misc_Gameplay.xml,keyed
+VCE_WaitTillJobsEndMilk,"Wait until the milk has been brought to the cheese press, or cancel the job.",VCE_WaitTillJobsEndMilk,Misc_Gameplay.xml,keyed
+VCE_EngageMilk,Press Into Cheese,VCE_EngageMilk,Misc_Gameplay.xml,keyed
+VCE_EngageMilkDesc,Start pressing milk into cheese. This process takes a variable time and cheese will increase in quality with ripening. You can remove it at any time after the initial period.,VCE_EngageMilkDesc,Misc_Gameplay.xml,keyed
+VCE_CheeseFinished,A cheese has finished ripening in the cheese press,VCE_CheeseFinished,Misc_Gameplay.xml,keyed
+VCE_CheeseInProgress,Cheese press is pressing {0}. It will be ready with {1} quality in {2},VCE_CheeseInProgress,Misc_Gameplay.xml,keyed
+VCE_CheeseReady,This cheese has reached its desired degree of ripening and is waiting for pickup,VCE_CheeseReady,Misc_Gameplay.xml,keyed
+VCE_MilkImproperlyDefined,"This milk has been improperly defined to work with the cheese press, contact the milk mod's author",VCE_MilkImproperlyDefined,Misc_Gameplay.xml,keyed
+VCE_RemoveCheese,Remove Cheese ({0}),VCE_RemoveCheese,Misc_Gameplay.xml,keyed
+VCE_RemoveCheeseDesc,Remove cheese from the cheese press. The cheese will be ready at the present quality level ({0}),VCE_RemoveCheeseDesc,Misc_Gameplay.xml,keyed
+VCE_CheesePressEmpty,Cheese press is empty right now,VCE_CheesePressEmpty,Misc_Gameplay.xml,keyed
+VCE_CheesePressFilled,Cheese press filled with {0},VCE_CheesePressFilled,Misc_Gameplay.xml,keyed
+VCE_CheesePressWorking,Cheese press is working:,VCE_CheesePressWorking,Misc_Gameplay.xml,keyed
+VCE_ResourcePercentage,(filled at {0} of {1}),VCE_ResourcePercentage,Misc_Gameplay.xml,keyed
+VCE_CheesePressNotWorking,This cheese press is not working at the moment,VCE_CheesePressNotWorking,Misc_Gameplay.xml,keyed
+VCE_CondimentEffects,Condiment Effects,VCE_CondimentEffects,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsTitle,Acting as condiment,VCE_CondimentEffectsTitle,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsAgave,"Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Consuming meals that include this condiment gives a 15% immunity gain speed boost for 12 hours.",VCE_CondimentEffectsAgave,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsSugar,"Sugar is easily converted into energy by the body, which may result in a nice burst of energy. Consuming meals that include this condiment increases moving stat by 15% for 12 hours.",VCE_CondimentEffectsSugar,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsSpices,A variety of aromatic and pungent spices. Consuming meals that include this condiment increases manipulation stat by 10% for 12 hours.,VCE_CondimentEffectsSpices,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsSalt,Consuming meals that include this condiment increases mood by 5 for 12 hours.,VCE_CondimentEffectsSalt,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsMayo,"Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. Consuming meals that include this condiment lowers hunger rate by 15% for 12 hours.",VCE_CondimentEffectsMayo,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsJelly,Consuming meals that include this condiment increases mood by 10 for 12 hours.,VCE_CondimentEffectsJelly,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsButter,Consuming meals that include this condiment creates a smokeleaf high without addiction risks.,VCE_CondimentEffectsButter,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsSyrup,Consuming meals that include this condiment increases mood by 7 for 12 hours.,VCE_CondimentEffectsSyrup,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsNanites,Consuming meals that include this condiment increases manipulation by 1% for 12 hours. The colonist will be resurrected if it is killed during that time.,VCE_CondimentEffectsNanites,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsKetchup,Consuming meals that include this condiment increases mood by 3 for 12 hours.,VCE_CondimentEffectsKetchup,Misc_Gameplay.xml,keyed
+VCE_CondimentEffectsSauce,"While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Consuming meals that include this condiment boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours. Mood will be reduced by 3.",VCE_CondimentEffectsSauce,Misc_Gameplay.xml,keyed
+VCE_HealthEffects,Health Effects,VCE_HealthEffects,Misc_Gameplay.xml,keyed
+VCE_NoEffect,No health effects,VCE_NoEffect,Misc_Gameplay.xml,keyed
+VCE_NoEffectDesc,Consuming meals that include this condiment causes no negative health effects.,VCE_NoEffectDesc,Misc_Gameplay.xml,keyed
+VCE_DiabetesEffect,Diabetes,VCE_DiabetesEffect,Misc_Gameplay.xml,keyed
+VCE_DiabetesEffectDescHalfPoint,Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.,VCE_DiabetesEffectDescHalfPoint,Misc_Gameplay.xml,keyed
+VCE_DiabetesEffectDescOneAndHalfPoint,Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.,VCE_DiabetesEffectDescOneAndHalfPoint,Misc_Gameplay.xml,keyed
+VCE_DiabetesEffectDescThreeQuarterPoint,Consuming meals that include this condiment causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.75%.,VCE_DiabetesEffectDescThreeQuarterPoint,Misc_Gameplay.xml,keyed
+VCE_DiabetesDessertSimpleDesc,Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 0.5%.,VCE_DiabetesDessertSimpleDesc,Misc_Gameplay.xml,keyed
+VCE_DiabetesDessertFineDesc,Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 1.5%.,VCE_DiabetesDessertFineDesc,Misc_Gameplay.xml,keyed
+VCE_DiabetesDessertLavishDesc,Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 2.5%.,VCE_DiabetesDessertLavishDesc,Misc_Gameplay.xml,keyed
+VCE_DiabetesDessertGourmetDesc,Consuming this meal causes Diabetes. Each ingestion of such a meal will increase colonist's Diabetes by 3.5%.,VCE_DiabetesDessertGourmetDesc,Misc_Gameplay.xml,keyed
+VCE_HighBloodPressureEffect,High Blood Pressure,VCE_HighBloodPressureEffect,Misc_Gameplay.xml,keyed
+VCE_HighBloodPressureEffectDesc,Consuming meals that include this condiment causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 0.75%.,VCE_HighBloodPressureEffectDesc,Misc_Gameplay.xml,keyed
+VCE_HighBloodPressureEffectDescCanned,Consuming canned goods causes High Blood Pressure. Each ingestion of such a meal will increase colonist's High Blood Pressure by 1.5%.,VCE_HighBloodPressureEffectDescCanned,Misc_Gameplay.xml,keyed
+VCE_CholesterolEffect,Cholesterol,VCE_CholesterolEffect,Misc_Gameplay.xml,keyed
+VCE_CholesterolEffectDesc,Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1%.,VCE_CholesterolEffectDesc,Misc_Gameplay.xml,keyed
+VCE_CholesterolEffectDescOneAndHalfPoint,Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.,VCE_CholesterolEffectDescOneAndHalfPoint,Misc_Gameplay.xml,keyed
+VCE_CholesterolEffectDescDouble,Consuming meals that include this condiment causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 2%.,VCE_CholesterolEffectDescDouble,Misc_Gameplay.xml,keyed
+VCE_CholesterolDescDeepFried,Consuming deep fried foods causes Cholesterol. Each ingestion of such a meal will increase colonist's Cholesterol by 1.5%.,VCE_CholesterolDescDeepFried,Misc_Gameplay.xml,keyed
+VCE_ConsumedMayo.label,consumed mayo (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedMayo.description,"Mayo is a thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. It lowers hunger rate by 15% for 12 hours.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedAgave.label,consumed agave nectar (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedAgave.description,"Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Gives a 15% immunity gain speed boost for 12 hours.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedSpices.label,consumed spices (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedSpices.description,"Consumed a variety of aromatic and pungent spices, increases manipulation stat by 5% for 12 hours.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFed.label,well fed (from grilled meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFed.description,I have eaten a delicious and filling grilled meat. It lowers hunger rate by 35% for 12 hours.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedSimple.label,well fed (from grilled meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedSimple.description,I ate a delicious and filling grilled meat. Doing so lowers hunger rate by 35% for 12 hours..,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedFine.label,well fed (from grilled meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedFine.description,I ate a delicious and filling grilled meat. Doing so lowers hunger rate by 35% for 12 hours.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedLavish.label,well fed (from grilled meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedLavish.description,I ate a delicious and filling grilled meat. Doing so lowers hunger rate by 35% for 12 hours.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedGourmet.label,well fed (from grilled meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_WellFedGourmet.description,I ate a delicious and filling grilled meat. Doing so lowers hunger rate by 35% for 12 hours.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedDigestibleResurrectorNanites.label,consumed resurrector nanites (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_ConsumedDigestibleResurrectorNanites.description,Resurrector nanites will resurrect this person as long as they are active. The effect lasts for 12 hours.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_SugarRush.label,consumed sugar (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_SugarRush.description,"Sugar is easily converted into energy by the body, which may result in a nice burst of energy. It increases moving stat by 15% for 12 hours.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_AteGourmetMeal.label,consumed gourmet food (from meal),label,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_AteGourmetMeal.description,This colonist consumed an incredible food.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VCE_Confectionery.label,dessert consumption,label,JoyKindDef/JoyKinds.xml,def
+VCE_MilkIntoCheese.label,Milk into cheese,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_MilkIntoCheese.description,Turns 50 milk into 25 cheese.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_JellyIntoCheese.label,Insect jelly into cheese,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_JellyIntoCheese.description,Turns 50 insect jelly into 25 cheese.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_SimpleSoupRecipe.label,Cook Simple Soup,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_SimpleSoupRecipe.description,Turns an uncooked simple soup into 10 cooked simple soups.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_FineSoupRecipe.label,Cook Fine Soup,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_FineSoupRecipe.description,Turns an uncooked fine soup into 10 cooked fine soups.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_LavishSoupRecipe.label,Cook Lavish Soup,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_LavishSoupRecipe.description,Turns an uncooked lavish soup into 10 cooked lavish soups.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_GourmetSoupRecipe.label,Cook Gourmet Soup,label,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_GourmetSoupRecipe.description,Turns an uncooked gourmet soup into 10 cooked gourmet soups.,description,PipeSystem.ProcessDef/ProcessDefs.xml,def
+VCE_CookBakeSimple.label,cook simple bake x2,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeSimple.description,Cook two simple bakes quickly cooked from flour.,description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeSimple.jobString,Cooking simple bake x2.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeSimpleBulk.label,cook simple bake x8,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeSimpleBulk.description,Cook 8 simple bakes quickly cooked from flour.,description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeSimpleBulk.jobString,Cooking simple bake x8.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFine.label,cook fine bake x2,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFine.description,Cook two complex bakes assembled with care from a wide selection of ingredients and flour.,description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFine.jobString,Cooking fine bake x2.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFineBulk.label,cook fine bake x8,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFineBulk.description,Cook 8 complex bakes assembled with care from a wide selection of ingredients and flour.,description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeFineBulk.jobString,Cooking fine bake x8.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavish.label,cook lavish bake x2,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavish.description,"Cook two masterpieces of the culinary arts, these bakes nourish the body, mind, and soul.",description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavish.jobString,Cooking lavish bake x2.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavishBulk.label,cook lavish bake x8,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavishBulk.description,"Cook 8 masterpieces of the culinary arts, these bakes nourish the body, mind, and soul.",description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeLavishBulk.jobString,Cooking lavish bake x8.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeGourmet.label,cook gourmet bake x2,label,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeGourmet.description,"Cook two culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.\n\nThis recipe does not allow mixed ingredients.",description,RecipeDef/Recipes_Bakes.xml,def
+VCE_CookBakeGourmet.jobString,Cooking gourmet bake x2.,jobString,RecipeDef/Recipes_Bakes.xml,def
+VCE_CanMeats.label,can meats x20,label,RecipeDef/Recipes_Canning.xml,def
+VCE_CanMeats.description,Safely store meat chunks in a steel can. Canning food extends its shelf life almost indefinitely.,description,RecipeDef/Recipes_Canning.xml,def
+VCE_CanMeats.jobString,Canning meats.,jobString,RecipeDef/Recipes_Canning.xml,def
+VCE_CanProduce.label,can produce x20,label,RecipeDef/Recipes_Canning.xml,def
+VCE_CanProduce.description,Safely store vegetables in a steel can. Canning food extends its shelf life almost indefinitely.,description,RecipeDef/Recipes_Canning.xml,def
+VCE_CanProduce.jobString,Canning produce.,jobString,RecipeDef/Recipes_Canning.xml,def
+VCE_CanFruit.label,can fruit x20,label,RecipeDef/Recipes_Canning.xml,def
+VCE_CanFruit.description,Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts.,description,RecipeDef/Recipes_Canning.xml,def
+VCE_CanFruit.jobString,Canning fruit.,jobString,RecipeDef/Recipes_Canning.xml,def
+VCE_CanEggs.label,can eggs x20,label,RecipeDef/Recipes_Canning.xml,def
+VCE_CanEggs.description,Safely store boiled eggs in a steel can. Canning food extends its shelf life almost indefinitely.,description,RecipeDef/Recipes_Canning.xml,def
+VCE_CanEggs.jobString,Canning eggs.,jobString,RecipeDef/Recipes_Canning.xml,def
+VCE_ChopCondiments.label,mix condiments into kibble,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_ChopCondiments.description,Mix a batch of different condiments into a barely edible organic mass that can be fed to animals. Still better than supermarket pet food.,description,RecipeDef/Recipes_Condiments.xml,def
+VCE_ChopCondiments.jobString,Mixing condiments into kibble.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSalt.label,make salt,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSalt.description,Grind and process natural stone to extract edible salts from within stone chunks.\n\nUses the Cooking skill.,description,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSalt.jobString,Making salt.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSaltfromBlocks.label,make salt (blocks),label,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSaltfromBlocks.description,Grind and process natural stone to extract edible salts from within stone blocks.\n\nUses the Cooking skill.,description,RecipeDef/Recipes_Condiments.xml,def
+VCE_MakeSaltfromBlocks.jobString,Making salt from blocks.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_AgaveNectar.label,make agave nectar,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_AgaveNectar.description,"Create agave nectar from agave. Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties.",description,RecipeDef/Recipes_Condiments.xml,def
+VCE_AgaveNectar.jobString,Making agave nectar.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_InsectJellyPreserves.label,make insect jelly preserves,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_InsectJellyPreserves.description,"Create insect jelly preserves from insect jelly. Very rich and sweet, while being surprisingly healthy.",description,RecipeDef/Recipes_Condiments.xml,def
+VCE_InsectJellyPreserves.jobString,Making insect jelly preserves.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_Mayo.label,make mayo,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_Mayo.description,"Create mayo from eggs. A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense.",description,RecipeDef/Recipes_Condiments.xml,def
+VCE_Mayo.jobString,Making mayo.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_SmokeleafButter.label,make smokeleaf butter,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_SmokeleafButter.description,"Create smokeleaf butter from smokeleaf and milk. A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint.",description,RecipeDef/Recipes_Condiments.xml,def
+VCE_SmokeleafButter.jobString,Making smokeleaf butter.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_ChocolateSyrup.label,make chocolate syrup,label,RecipeDef/Recipes_Condiments.xml,def
+VCE_ChocolateSyrup.description,"Create chocolate syrup from genetically modified chocolate. While still not good for you, chocolate syrup is not quite as bad as straight sugar.",description,RecipeDef/Recipes_Condiments.xml,def
+VCE_ChocolateSyrup.jobString,Making chocolate syrup.,jobString,RecipeDef/Recipes_Condiments.xml,def
+VCE_CookDessertSimple.label,cook simple dessert,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertSimple.description,Cook a simple dessert quickly made from a few fruits and other ingredients.,description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertSimple.jobString,Cooking simple dessert.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertSimpleBulk.label,cook simple dessert x4,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertSimpleBulk.description,Cook 4 simple desserts quickly made from a few fruits and other ingredients.,description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertSimpleBulk.jobString,Cooking simple dessert x4.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFine.label,cook fine dessert,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFine.description,"Cook a complex dessert assembled with care from a wide selection of ingredients.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage.",description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFine.jobString,Cooking fine dessert.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFineBulk.label,cook fine dessert x4,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFineBulk.description,Cook 4 complex desserts assembled with care from a wide selection of ingredients.,description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertFineBulk.jobString,Cooking fine dessert x4.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavish.label,cook lavish dessert,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavish.description,"Cook a masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage.",description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavish.jobString,Cooking lavish dessert.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavishBulk.label,cook lavish dessert x4,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavishBulk.description,"Cook 4 masterpieces of the culinary arts, this dessert nourishes the body, mind, and soul.",description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertLavishBulk.jobString,Cooking lavish dessert x4.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertGourmet.label,cook gourmet dessert,label,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertGourmet.description,"Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert.",description,RecipeDef/Recipes_Desserts.xml,def
+VCE_CookDessertGourmet.jobString,Cooking gourmet dessert.,jobString,RecipeDef/Recipes_Desserts.xml,def
+VCE_DeepFryMeats.label,deep fry meats x20,label,RecipeDef/Recipes_Frying.xml,def
+VCE_DeepFryMeats.description,"Deep fry large meat chunks. Deep fried food is very tasty, but not very good for your health.",description,RecipeDef/Recipes_Frying.xml,def
+VCE_DeepFryMeats.jobString,Deep frying meats.,jobString,RecipeDef/Recipes_Frying.xml,def
+VCE_DeepFryVegetables.label,deep fry vegetables x20,label,RecipeDef/Recipes_Frying.xml,def
+VCE_DeepFryVegetables.description,"Deep fry vegetables. Deep fried food is very tasty, but not very good for your health.",description,RecipeDef/Recipes_Frying.xml,def
+VCE_DeepFryVegetables.jobString,Deep frying vegetables.,jobString,RecipeDef/Recipes_Frying.xml,def
+VCE_CookGrillSimple.label,cook simple grill,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillSimple.description,Cook two simple grills quickly cooked from a few meat ingredients.,description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillSimple.jobString,Cooking simple grill.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillSimpleBulk.label,cook simple grill x4,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillSimpleBulk.description,Cook 4 simple grills quickly cooked from a few meat ingredients.,description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillSimpleBulk.jobString,Cooking simple grill x4.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFine.label,cook fine grill,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFine.description,Cook a complex grill assembled with care from a wide selection of ingredients.,description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFine.jobString,Cooking fine grill.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFineBulk.label,cook fine grill x4,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFineBulk.description,Cook 4 complex grills assembled with care from a wide selection of ingredients.,description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillFineBulk.jobString,Cooking fine grill x4.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavish.label,cook lavish grill,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavish.description,"Cook a masterpiece of the culinary arts, this grill nourishes the body, mind, and soul.",description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavish.jobString,Cooking lavish grill.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavishhBulk.label,cook lavish grill x4,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavishhBulk.description,"Cook 4 masterpieces of the culinary arts, these grills nourish the body, mind, and soul.",description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillLavishhBulk.jobString,Cooking lavish grill x4.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillGourmet.label,cook gourmet grill,label,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillGourmet.description,"Cook a culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grill.",description,RecipeDef/Recipes_Grills.xml,def
+VCE_CookGrillGourmet.jobString,Cooking gourmet grill.,jobString,RecipeDef/Recipes_Grills.xml,def
+VCE_CookMealGourmet.label,cook gourmet meal,label,RecipeDef/Recipes_Meals.xml,def
+VCE_CookMealGourmet.description,"Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity meal.",description,RecipeDef/Recipes_Meals.xml,def
+VCE_CookMealGourmet.jobString,Cooking gourmet meal.,jobString,RecipeDef/Recipes_Meals.xml,def
+VCE_CookSoupSimple.label,prepare simple soup,label,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupSimple.description,Prepare a simple uncooked soup quickly made from a few ingredients.,description,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupSimple.jobString,Preparing simple soup.,jobString,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupFine.label,prepare fine soup,label,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupFine.description,Prepare a fine uncooked soup assembled with care from a wide selection of ingredients.,description,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupFine.jobString,Preparing fine soup.,jobString,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupLavish.label,prepare lavish soup,label,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupLavish.description,"Prepare a lavish uncooked soup. A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul.",description,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupLavish.jobString,Preparing lavish soup.,jobString,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupGourmet.label,prepare gourmet soup,label,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupGourmet.description,"Prepare a gourmet uncooked soup. A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.\n\nThis recipe does not allow mixed ingredients, and takes a long time to make.",description,RecipeDef/Recipes_Soups.xml,def
+VCE_CookSoupGourmet.jobString,Preparing gourmet soup.,jobString,RecipeDef/Recipes_Soups.xml,def
+VCE_CondimentsResearch.label,food condiments,label,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.description,"A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table.",description,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.generalRules.rulesStrings.0,subject->flavors of distinction,li,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.generalRules.rulesStrings.1,subject_story->unlocked the secrets of enhancing flavor through the creation of diverse condiments,li,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.generalRules.rulesStrings.2,"subject_story->pioneered the use of herbs, spices, and sauces to transform simple meals into culinary experiences",li,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.generalRules.rulesStrings.3,"subject_story->cultivated a rich culture of taste, encouraging culinary experimentation and innovation",li,ResearchProjectDef/Research.xml,def
+VCE_CondimentsResearch.generalRules.rulesStrings.4,subject_gerund->elevating the art of flavor through condiment mastery,li,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.label,soup cooking,label,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.description,"Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups.",description,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.generalRules.rulesStrings.0,subject->the essence of nourishment,li,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.generalRules.rulesStrings.1,subject_story->mastered the delicate balance of ingredients to create soups that comfort and heal,li,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.generalRules.rulesStrings.2,"subject_story->introduced the electric pot, revolutionizing soup preparation with efficiency and precision",li,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.generalRules.rulesStrings.3,"subject_story->expanded the culinary repertoire, exploring the depths of flavor achievable in liquid form",li,ResearchProjectDef/Research.xml,def
+VCE_SoupCooking.generalRules.rulesStrings.4,subject_gerund->crafting the soul of cuisine in every pot of soup,li,ResearchProjectDef/Research.xml,def
+VCE_Grilling.label,grilling,label,ResearchProjectDef/Research.xml,def
+VCE_Grilling.description,"Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill.",description,ResearchProjectDef/Research.xml,def
+VCE_Grilling.generalRules.rulesStrings.0,subject->the primal art of fire,li,ResearchProjectDef/Research.xml,def
+VCE_Grilling.generalRules.rulesStrings.1,"subject_story->embraced the primal connection between fire and food, perfecting the technique of grilling",li,ResearchProjectDef/Research.xml,def
+VCE_Grilling.generalRules.rulesStrings.2,"subject_story->transformed the act of cooking into a celebration of flavor, texture, and aroma",li,ResearchProjectDef/Research.xml,def
+VCE_Grilling.generalRules.rulesStrings.3,subject_story->innovated with designs for grills that enhance the natural qualities of meats and vegetables,li,ResearchProjectDef/Research.xml,def
+VCE_Grilling.generalRules.rulesStrings.4,subject_gerund->searing perfection into every meal with the mastery of grilling,li,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.label,deep frying,label,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.description,"Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer.",description,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.generalRules.rulesStrings.0,subject->the golden crunch,li,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.generalRules.rulesStrings.1,"subject_story->discovered the transformative effect of deep frying, enveloping foods in a crispy, golden exterior",li,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.generalRules.rulesStrings.2,"subject_story->engineered the deep fryer, a marvel of culinary technology, to achieve consistent and perfect results",li,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.generalRules.rulesStrings.3,"subject_story->elevated the simple act of frying into a culinary craft, celebrated across cultures",li,ResearchProjectDef/Research.xml,def
+VCE_DeepFrying.generalRules.rulesStrings.4,subject_gerund->delving into the depths of flavor with the magic of deep frying,li,ResearchProjectDef/Research.xml,def
+VCE_Canning.label,canning,label,ResearchProjectDef/Research.xml,def
+VCE_Canning.description,"Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine.",description,ResearchProjectDef/Research.xml,def
+VCE_Canning.generalRules.rulesStrings.0,subject->the vaults of flavor,li,ResearchProjectDef/Research.xml,def
+VCE_Canning.generalRules.rulesStrings.1,"subject_story->revolutionized food preservation through canning, extending the bounty of the harvest",li,ResearchProjectDef/Research.xml,def
+VCE_Canning.generalRules.rulesStrings.2,"subject_story->mastered the science of sealing freshness and taste, ensuring nourishment year-round",li,ResearchProjectDef/Research.xml,def
+VCE_Canning.generalRules.rulesStrings.3,"subject_story->introduced the canning machine, a key to unlocking the potential of prolonged food storage",li,ResearchProjectDef/Research.xml,def
+VCE_Canning.generalRules.rulesStrings.4,subject_gerund->preserving the essence of the seasons within every jar and can,li,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.label,cheese making,label,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.description,"Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press.",description,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.generalRules.rulesStrings.0,subject->alchemy of milk,li,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.generalRules.rulesStrings.1,subject_story->transformed the humble origins of milk into the rich complexity of cheese,li,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.generalRules.rulesStrings.2,"subject_story->cultivated an array of cheeses, each a testament to the craft and culture of cheesemaking",li,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.generalRules.rulesStrings.3,"subject_story->designed the cheese press, squeezing out new traditions and tastes from an ancient practice",li,ResearchProjectDef/Research.xml,def
+VCE_CheeseMaking.generalRules.rulesStrings.4,subject_gerund->crafting cultures and flavors in the artful creation of cheese,li,ResearchProjectDef/Research.xml,def
+VCE_Cooking.label,Cooking Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VCE_FoodImprovementChance.label,food improvement chance,label,StatDef/Stats.xml,def
+VCE_FoodImprovementChance.description,"The chance that this colonist will convert a crafted meal into a higher type (simple to fine, fine to lavish). Applies to bakes, grills and base game meals.",description,StatDef/Stats.xml,def
+VCEF_FoodCondimentChance.label,food condiment chance,label,StatDef/Stats.xml,def
+VCEF_FoodCondimentChance.description,The chance that this colonist will add a random condiment to any crafted meal (except resurrector nanites).,description,StatDef/Stats.xml,def
+VCE_Condiments.label,condiments,label,ThingCategoryDef/ThingCategories.xml,def
+VCE_Cheese.label,cheese,label,ThingCategoryDef/ThingCategories.xml,def
+VCE_UncookedSoups.label,uncooked soups,label,ThingCategoryDef/ThingCategories.xml,def
+VCE_ElectricPot.label,electric pot,label,ThingDef/Buildings.xml,def
+VCE_ElectricPot.description,"An electric pot, also called a thermo pot, is a small appliance used for boiling water and maintaining it at a constant temperature. It is typically used to simmer soup over an extended period of time. Ingredients are submerged in water and left to cook over an extended period, allowing the flavors of the ingredients to gradually deepen and blend over time.\n\nSoup on an unpowered electric pot will spoil extremely rapidly. Beware of solar flares!",description,ThingDef/Buildings.xml,def
+VCE_Grill.label,grill,label,ThingDef/Buildings.xml,def
+VCE_Grill.description,A grill is a device that cooks food by applying heat from below. This is a wood fired grill that needs wood as fuel to work.,description,ThingDef/Buildings.xml,def
+VCE_DeepFrier.label,deep fryer,label,ThingDef/Buildings.xml,def
+VCE_DeepFrier.description,"A deep fryer is a kitchen appliance used for deep frying. Deep frying is a method of cooking by submerging food into oil at high heat, typically between temperatures of 350 °F and 375 °F (175 °C to 190 °C).",description,ThingDef/Buildings.xml,def
+VCE_CanningMachine.label,canning machine,label,ThingDef/Buildings.xml,def
+VCE_CanningMachine.description,A canning machine is an appliance to store preserved food inside metallic cans. Each canning operation needs a certain amount of Steel.,description,ThingDef/Buildings.xml,def
+VCE_CondimentPrepTable.label,condiment prep table,label,ThingDef/Buildings.xml,def
+VCE_CondimentPrepTable.description,"A working table to cut, slice and prepare condiments used in gourmet recipes.",description,ThingDef/Buildings.xml,def
+VCE_CheesePress.label,cheese press,label,ThingDef/Buildings.xml,def
+VCE_CheesePress.description,"A cheese press is a device for pressing whey from curds when making cheese. Pressing influences the cheese's hardness and texture and will also determine the shape of the block or wheel of cheese. This press also works as a ripening chamber, so the longer the cheese is left ripening, the higher its quality will be.",description,ThingDef/Buildings.xml,def
+VCE_SimpleBake.label,simple bake,label,ThingDef/Items_Bakes.xml,def
+VCE_SimpleBake.description,A simple bake quickly cooked from a few ingredients and flour.,description,ThingDef/Items_Bakes.xml,def
+VCE_FineBake.label,fine bake,label,ThingDef/Items_Bakes.xml,def
+VCE_FineBake.description,A complex bake assembled with care from a wide selection of ingredients and flour.,description,ThingDef/Items_Bakes.xml,def
+VCE_LavishBake.label,lavish bake,label,ThingDef/Items_Bakes.xml,def
+VCE_LavishBake.description,"A masterpiece of the culinary arts, this bake nourishes the body, mind, and soul.",description,ThingDef/Items_Bakes.xml,def
+VCE_GourmetBake.label,gourmet bake,label,ThingDef/Items_Bakes.xml,def
+VCE_GourmetBake.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.",description,ThingDef/Items_Bakes.xml,def
+VCE_CannedMeat.label,canned meat,label,ThingDef/Items_CannedFood.xml,def
+VCE_CannedMeat.description,"Meat vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.",description,ThingDef/Items_CannedFood.xml,def
+VCE_CannedProduce.label,canned produce,label,ThingDef/Items_CannedFood.xml,def
+VCE_CannedProduce.description,"Produce vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.",description,ThingDef/Items_CannedFood.xml,def
+VCE_CannedFruit.label,canned fruit,label,ThingDef/Items_CannedFood.xml,def
+VCE_CannedFruit.description,"Cooked and preserved fruit in a hermetically sealed, durable container. Preserved food lasts indefinitely without refrigeration.\n\nFruit differs from produce in that it is specifically required in the production of desserts.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.",description,ThingDef/Items_CannedFood.xml,def
+VCE_CannedAP.label,canned eggs,label,ThingDef/Items_CannedFood.xml,def
+VCE_CannedAP.description,"Boiled eggs vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.",description,ThingDef/Items_CannedFood.xml,def
+VCE_CannedFish.label,canned fish,label,ThingDef/Items_CannedFood.xml,def
+VCE_CannedFish.description,"Fish vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal.",description,ThingDef/Items_CannedFood.xml,def
+VCE_Cheese.label,cheese,label,ThingDef/Items_Cheese.xml,def
+VCE_Cheese.description,"Cheese is a dairy product, derived from milk and produced in a wide range of flavors, textures and forms by coagulation of the milk protein casein. Cheese is valued for its portability, long life, and high content of fat, protein, calcium, and phosphorus. It is more compact and has a longer shelf life than milk.\n\n<color=#E5E54C>Gameplay mechanics:</color> Mood impact from consuming cheese will depend on quality, from -7 to +15.",description,ThingDef/Items_Cheese.xml,def
+VCE_AgaveNectar.label,agave nectar,label,ThingDef/Items_Condiments.xml,def
+VCE_AgaveNectar.description,"A thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Although healthier than sugar, its high fructose content may be harmful if taken constantly.",description,ThingDef/Items_Condiments.xml,def
+VCE_RawSugar.label,sugar,label,ThingDef/Items_Condiments.xml,def
+VCE_RawSugar.description,"Simple crystalline cane sugar, adds a much desired sweetness. Sugar is easily converted into energy by the body, which may result in a nice burst of energy.",description,ThingDef/Items_Condiments.xml,def
+VCE_RawSpices.label,spices,label,ThingDef/Items_Condiments.xml,def
+VCE_RawSpices.description,"A variety of aromatic and pungent spices, adds several sharp notes on the tongue and puts a bit of a pep in your step.",description,ThingDef/Items_Condiments.xml,def
+VCE_Salt.label,salt,label,ThingDef/Items_Condiments.xml,def
+VCE_Salt.description,"Rock salt, like common salt, enhances the flavor profile of other ingredients it is cooked with.",description,ThingDef/Items_Condiments.xml,def
+VCE_Mayo.label,mayo,label,ThingDef/Items_Condiments.xml,def
+VCE_Mayo.description,"A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense.",description,ThingDef/Items_Condiments.xml,def
+VCE_InsectJellyPreserves.label,insect jelly preserves,label,ThingDef/Items_Condiments.xml,def
+VCE_InsectJellyPreserves.description,"Insect jelly cut with sweetener then sealed as a preserve. Very rich and sweet, while being surprisingly healthy.",description,ThingDef/Items_Condiments.xml,def
+VCE_SmokeleafButter.label,smokeleaf butter,label,ThingDef/Items_Condiments.xml,def
+VCE_SmokeleafButter.description,"A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint.",description,ThingDef/Items_Condiments.xml,def
+VCE_ChocolateSyrup.label,chocolate syrup,label,ThingDef/Items_Condiments.xml,def
+VCE_ChocolateSyrup.description,"A mixture of cocoa, water and sugar, forming a bitter-sweet pourable syrup, perfect for coating desserts. While still not good for you, chocolate syrup is not quite as bad as straight sugar.",description,ThingDef/Items_Condiments.xml,def
+VCE_DigestibleResurrectorNanites.label,digestible resurrector nanites,label,ThingDef/Items_Condiments.xml,def
+VCE_DigestibleResurrectorNanites.description,"An extremely high tech glitterworld concoction, unsafe to drink directly due to bitter taste and a mild case of intraventricular hemorrhaging. However, when cooked properly into food, these effects inexplicably seem nullified. Any pawns with this present upon death will immediately be revived as if by miracle.",description,ThingDef/Items_Condiments.xml,def
+VCE_DeepFriedBigMeat.label,deep fried meat,label,ThingDef/Items_DeepFried.xml,def
+VCE_DeepFriedBigMeat.description,"Meat tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen.",description,ThingDef/Items_DeepFried.xml,def
+VCE_DeepFriedVegetables.label,deep fried vegetables,label,ThingDef/Items_DeepFried.xml,def
+VCE_DeepFriedVegetables.description,"Vegetables julienned then patted dry before being dunked into hot oil until golden brown. As crispy and pleasing as they are, these deep fried treats are not as filling as a normal meal, nor as healthy. Deep frying vegetables in this matter reduces shelf life as well unless frozen.",description,ThingDef/Items_DeepFried.xml,def
+VCE_DeepFriedFish.label,deep fried fish,label,ThingDef/Items_DeepFried.xml,def
+VCE_DeepFriedFish.description,"Fish tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen",description,ThingDef/Items_DeepFried.xml,def
+VCE_SimpleDessert.label,simple dessert,label,ThingDef/Items_Desserts.xml,def
+VCE_SimpleDessert.description,A simple dessert quickly made from a few fruits and other ingredients.,description,ThingDef/Items_Desserts.xml,def
+VCE_FineDessert.label,fine dessert,label,ThingDef/Items_Desserts.xml,def
+VCE_FineDessert.description,A complex dessert assembled with care from a wide selection of ingredients.,description,ThingDef/Items_Desserts.xml,def
+VCE_LavishDessert.label,lavish dessert,label,ThingDef/Items_Desserts.xml,def
+VCE_LavishDessert.description,"A masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.",description,ThingDef/Items_Desserts.xml,def
+VCE_GourmetDessert.label,gourmet dessert,label,ThingDef/Items_Desserts.xml,def
+VCE_GourmetDessert.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert.",description,ThingDef/Items_Desserts.xml,def
+VCE_MealGourmet.label,gourmet meal,label,ThingDef/Items_Food.xml,def
+VCE_MealGourmet.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation.",description,ThingDef/Items_Food.xml,def
+VCE_SimpleGrill.label,simple grill,label,ThingDef/Items_Grills.xml,def
+VCE_SimpleGrill.description,"A simple grilled meat cooked from a few ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.",description,ThingDef/Items_Grills.xml,def
+VCE_RuinedSimpleGrill.label,ruined simple grill,label,ThingDef/Items_Grills.xml,def
+VCE_RuinedSimpleGrill.description,"A simple grilled meat cooked from a few ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the ""well fed"" buff.",description,ThingDef/Items_Grills.xml,def
+VCE_FineGrill.label,fine grill,label,ThingDef/Items_Grills.xml,def
+VCE_FineGrill.description,"A complex grilled meat assembled with care from a wide selection of ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.",description,ThingDef/Items_Grills.xml,def
+VCE_RuinedFineGrill.label,ruined fine grill,label,ThingDef/Items_Grills.xml,def
+VCE_RuinedFineGrill.description,"A complex grilled meat assembled with care from a wide selection of ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the ""well fed"" buff.",description,ThingDef/Items_Grills.xml,def
+VCE_LavishGrill.label,lavish grill,label,ThingDef/Items_Grills.xml,def
+VCE_LavishGrill.description,"A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.",description,ThingDef/Items_Grills.xml,def
+VCE_RuinedLavishGrill.label,ruined lavish grill,label,ThingDef/Items_Grills.xml,def
+VCE_RuinedLavishGrill.description,"A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the ""well fed"" buff.",description,ThingDef/Items_Grills.xml,def
+VCE_GourmetGrill.label,gourmet grill,label,ThingDef/Items_Grills.xml,def
+VCE_GourmetGrill.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect.",description,ThingDef/Items_Grills.xml,def
+VCE_RuinedGourmetGrill.label,ruined gourmet grill,label,ThingDef/Items_Grills.xml,def
+VCE_RuinedGourmetGrill.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the ""well fed"" buff.",description,ThingDef/Items_Grills.xml,def
+VCE_Flour.label,flour,label,ThingDef/Items_RawPlant.xml,def
+VCE_Flour.description,"Wheat flour, used in baking. Wheat flour takes a very long time to go bad, if stored in a dry environment. It was produced by wheat that has been genetically engineered to gently break into flour with a mere touch.",description,ThingDef/Items_RawPlant.xml,def
+VCE_UncookedSoupSimple.label,uncooked simple soup,label,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupSimple.description,An uncooked simple soup. This needs to be cooked in an electric pot to be edible.,description,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupSimple.label,simple soup,label,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupSimple.description,A simple soup slow cooked from a few ingredients.,description,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupFine.label,uncooked fine soup,label,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupFine.description,An uncooked fine soup. This needs to be cooked in an electric pot to be edible.,description,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupFine.label,fine soup,label,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupFine.description,A complex soup assembled with care from a wide selection of ingredients.,description,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupLavish.label,uncooked lavish soup,label,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupLavish.description,An uncooked lavish soup. This needs to be cooked in an electric pot to be edible.,description,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupLavish.label,lavish soup,label,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupLavish.description,"A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul.",description,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupGourmet.label,uncooked gourmet soup,label,ThingDef/Items_Soups.xml,def
+VCE_UncookedSoupGourmet.description,An uncooked gourmet soup. This needs to be cooked in an electric pot to be edible.,description,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupGourmet.label,gourmet soup,label,ThingDef/Items_Soups.xml,def
+VCE_CookedSoupGourmet.description,"A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.",description,ThingDef/Items_Soups.xml,def
+VCE_Sugarcane.label,sugarcane plant,label,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_Sugarcane.description,"A thick, tall, tropical grass with jointed stems. While not exactly the most nutritious thing to eat on its own, this genetically modified sugarcane is easily milled into sugar and then used for a variety of culinary creations - Particularly desserts.",description,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_Allspice.label,allspice plant,label,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_Allspice.description,"An anomalous, leafy vine bearing tiny unpalatable green fruits. When ground finely during cooking the fruits release a complex, peppery flavor, perfect for spicing dishes.",description,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_Wheat.label,wheat plant,label,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_Wheat.description,"An amber cereal plant that takes almost an entire growing season to come to fruition. While fragile and time-consuming, this wheat has been genetically engineered to gently break into flour with a mere touch.",description,ThingDef/Plants_Cultivated_Farm.xml,def
+VCE_ConsumedSugar.stages.0.label,consumed sugar,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedSugar.stages.0.description,Sugar is not love. But it can feel like it.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedChocolateSyrup.stages.0.label,consumed chocolate syrup,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedChocolateSyrup.stages.0.description,Chocolate is love.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedInsectJelly.stages.0.label,consumed insect jelly preserves,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedInsectJelly.stages.0.description,What an incredibly sweet and rich taste.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_SmokeleafButterHigh.stages.0.label,high on smokeleaf butter,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_SmokeleafButterHigh.stages.0.description,"I'm, like, stoned, man.",description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedSalt.stages.0.label,consumed salt,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedSalt.stages.0.description,A pinch of salt really enhances the flavours of a meal.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedMayo.stages.0.label,consumed mayo,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedMayo.stages.0.description,I ate some tangy mayo. Very filling.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedAgave.stages.0.label,consumed agave,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedAgave.stages.0.description,I ate some sweet agave nectar.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedSpices.stages.0.label,consumed spices,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedSpices.stages.0.description,That meal was spicy.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedDigestibleResurrectorNanites.stages.0.label,resurrector nanites,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedDigestibleResurrectorNanites.stages.0.description,I feel invincible!,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetMeal.stages.0.label,ate gourmet meal,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetMeal.stages.0.description,A mindbending culinary experience. My palate has been gifted with sensations that are beyond this world.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteSimpleDessert.stages.0.label,ate simple dessert,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteSimpleDessert.stages.0.description,"That dessert was simple, but certainly tasty.",description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFineDessert.stages.0.label,ate fine dessert,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFineDessert.stages.0.description,That dessert was really good.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteLavishDessert.stages.0.label,ate lavish dessert,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteLavishDessert.stages.0.description,That dessert was delicious.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetDessert.stages.0.label,ate gourmet dessert,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetDessert.stages.0.description,My palate had never experienced such an explosion of flavor.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteSimpleGrill.stages.0.label,ate simple grill,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteSimpleGrill.stages.0.description,A simple grill. Meh.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFineGrill.stages.0.label,ate fine grill,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFineGrill.stages.0.description,I ate a meaty meal with a few vegetables.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteLavishGrill.stages.0.label,ate lavish grill,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteLavishGrill.stages.0.description,I ate an incredible dish with expertly grilled meats and veggies. Delicious.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetGrill.stages.0.label,ate gourmet grill,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteGourmetGrill.stages.0.description,The meat melted in my mouth. Just incredible.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFriedGoods.stages.0.label,ate deep fried food,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteFriedGoods.stages.0.description,Greasy food. Yum.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedCannedGoods.stages.0.label,ate canned food,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_ConsumedCannedGoods.stages.0.description,Eating directly from a can is almost as bad as eating without a table.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.0.label,ate awful cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.0.description,I ate some poorly curdled milk with barely any cheese flavour. Disgusting.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.1.label,ate poor cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.1.description,That cheese wasn't horrible but wasn't great either. The aftertaste was kind of gross.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.2.label,ate normal cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.2.description,That was some alright cheese.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.3.label,ate good cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.3.description,I ate some fine cheese. Delicious.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.4.label,ate excellent cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.4.description,I ate some fine cheese. You can tell when it has had a good amount of time to mature.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.5.label,ate masterwork cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.5.description,That cheese was simply amazing! It doesn't get much better than this.,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.6.label,ate legendary cheese,label,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_AteCheese.stages.6.description,I've eaten quite possibly some of the best cheese I've ever tasted!,description,ThoughtDef/Thoughts_Memory_Eating.xml,def
+VCE_DoBillsGrill.label,cook at grill,label,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsGrill.verb,grill,verb,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsGrill.gerund,grilling at,gerund,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsFryer.label,cook at deep fryer,label,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsFryer.verb,deep fry,verb,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsFryer.gerund,deep frying at,gerund,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsCanning.label,work at canning machine,label,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsCanning.verb,can food,verb,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsCanning.gerund,canning food at,gerund,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsPrep.label,work on condiments at prep table,label,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsPrep.verb,prep condiments,verb,WorkGiverDef/WorkGivers.xml,def
+VCE_DoBillsPrep.gerund,working on condiments at,gerund,WorkGiverDef/WorkGivers.xml,def

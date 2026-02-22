@@ -1,65 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Activate shield field-->
-  <VFEP.ActivateShield>激活护盾场</VFEP.ActivateShield>
+  <VFEP.ActivateShield>投射护盾</VFEP.ActivateShield>
   <!--EN: Click to activate the shield field. It has 10 seconds of active mode and then 90 seconds cooldown.-->
-  <VFEP.ActivateShieldDesc>单击以激活屏蔽场。它有 10 秒的活动模式和 90 秒的冷却时间。</VFEP.ActivateShieldDesc>
+  <VFEP.ActivateShieldDesc>立即投射一个可以持续10秒左右的移动型低角护盾。</VFEP.ActivateShieldDesc>
   <!--EN: Armor frame:-->
-  <VFEP.ArmorFrame>装甲框架：</VFEP.ArmorFrame>
+  <VFEP.ArmorFrame>装甲主体：</VFEP.ArmorFrame>
   <!--EN: Cancel-->
   <VFEP.Cancel>取消</VFEP.Cancel>
   <!--EN: Children cannot use this.-->
-  <VFEP.ChildrenCannotUseThis>儿童不能使用此功能。</VFEP.ChildrenCannotUseThis>
+  <VFEP.ChildrenCannotUseThis>儿童无法使用。</VFEP.ChildrenCannotUseThis>
   <!--EN: Select Your Curses-->
-  <VFEP.ChooseCurses>选择你的诅咒</VFEP.ChooseCurses>
+  <VFEP.ChooseCurses>选择诅咒</VFEP.ChooseCurses>
   <!--EN: The more curses you select, the more pawns your storyteller will allow you to have, and the rarer big threat events will be.-->
-  <VFEP.ChooseCurses.Desc>你选择的诅咒越多，你的说书人允许你拥有的棋子就越多，重大威胁事件就越罕见。</VFEP.ChooseCurses.Desc>
+  <VFEP.ChooseCurses.Desc>你承担的诅咒越多，叙述者允许你拥有的殖民者就越多，大型威胁事件发生的频率也越低。</VFEP.ChooseCurses.Desc>
   <!--EN: Crafter:-->
-  <VFEP.Crafter>工匠：</VFEP.Crafter>
+  <VFEP.Crafter>组装者：</VFEP.Crafter>
   <!--EN: Days between Big Threats: {0}-->
-  <VFEP.DaysBigThreats>大威胁之间的天数：{0}</VFEP.DaysBigThreats>
+  <VFEP.DaysBigThreats>大型威胁事件间隔天数：{0}</VFEP.DaysBigThreats>
   <!--EN: Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them.-->
-  <VFEP.DeploySpidermineDesc>发射一枚远程蜘蛛地雷，它会自动跑向最近的敌人，并在到达敌人后立即引爆。</VFEP.DeploySpidermineDesc>
+  <VFEP.DeploySpidermineDesc>部署可以自动追踪并迅速接近周围的敌人的自爆蜘蛛雷。</VFEP.DeploySpidermineDesc>
   <!--EN: Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds.-->
-  <VFEP.DeployWarDrone>从后面的对接端口部署小型战备无人机。这些无人机可以被控制来提供火力支援，但会在 60 秒后自爆。</VFEP.DeployWarDrone>
+  <VFEP.DeployWarDrone>开启后背舱口，部署正处于待命状态的战斗无人机，提供用于暂时牵制敌人的压制火力。战斗无人机将会在1分钟后自爆。</VFEP.DeployWarDrone>
   <!--EN: Desired population max: {0}-->
-  <VFEP.DesiredPopMax>所需的最大人口数量：{0}</VFEP.DesiredPopMax>
+  <VFEP.DesiredPopMax>最大殖民者数量：{0}</VFEP.DesiredPopMax>
   <!--EN: (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.)-->
-  <VFEP.EntombInIncapableOfViolenceWarning>（警告：{PAWN_nameDef} 没有暴力能力，它会使 {PAWN_objective} 毫无用处。）</VFEP.EntombInIncapableOfViolenceWarning>
+  <VFEP.EntombInIncapableOfViolenceWarning>(警告：{PAWN_nameDef}无法从事暴力，这会使{PAWN_objective}失效。)</VFEP.EntombInIncapableOfViolenceWarning>
   <!--EN: Helmet:-->
   <VFEP.Helmet>头盔：</VFEP.Helmet>
   <!--EN: Research warcaskets to learn how to use the foundry.-->
-  <VFEP.NoWarcaskets>研究战匣以了解如何使用铸造厂。</VFEP.NoWarcaskets>
+  <VFEP.NoWarcaskets>需要研究「基础型战棺」科技才能使用。</VFEP.NoWarcaskets>
   <!--EN: Not enough chemfuel for power jump.-->
-  <VFEP.NotEnoughFuel>没有足够的化学燃料来进行动力跳跃。</VFEP.NotEnoughFuel>
+  <VFEP.NotEnoughFuel>没有足够的燃料来进行超级跳跃。</VFEP.NotEnoughFuel>
   <!--EN: Research more warcasket technology to unlock more armor pieces.-->
-  <VFEP.ResearchText>研究更多的战棺技术来解锁更多的盔甲部件。</VFEP.ResearchText>
+  <VFEP.ResearchText>需要研究更高级的战棺科技才能解锁更多的装甲部件。</VFEP.ResearchText>
   <!--EN: Resource Cost:-->
-  <VFEP.ResourceCost>资源成本：</VFEP.ResourceCost>
+  <VFEP.ResourceCost>资源消耗：</VFEP.ResourceCost>
   <!--EN: Shoulderpads:-->
   <VFEP.Shoulderpads>护肩：</VFEP.Shoulderpads>
   <!--EN: Siege mode off-->
-  <VFEP.SiegeModeOff>攻城模式关闭</VFEP.SiegeModeOff>
+  <VFEP.SiegeModeOff>攻城模式</VFEP.SiegeModeOff>
   <!--EN: Siege mode on-->
-  <VFEP.SiegeModeOn>攻城模式开启</VFEP.SiegeModeOn>
+  <VFEP.SiegeModeOn>攻城模式</VFEP.SiegeModeOn>
   <!--EN: Total Cost:-->
-  <VFEP.TotalCost>总成本：</VFEP.TotalCost>
+  <VFEP.TotalCost>总消耗：</VFEP.TotalCost>
   <!--EN: Warcasket Customization-->
-  <VFEP.WarcasketCustom>战棺定制</VFEP.WarcasketCustom>
+  <VFEP.WarcasketCustom>机体定制</VFEP.WarcasketCustom>
   <!--EN: When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin
 assembling a warcasket. The speed of the assembly depends on the crafting skill of your crafter.
 Once the process is completed, a warcasket will leave the platform. Be careful, as the pawn
 on the platform can still die of hunger when on the platform - you should prioritize the warcasket
 assembly over other tasks.-->
-  <VFEP.WarcasketText>当您按下“接受”时，您选择的工匠会将资源带到框架上并开始
-组装战棺。组装速度取决于工匠的制作技能。
-组装过程完成后，战棺将离开平台。请小心，因为平台上的pawn
-在平台上时仍然可能死于饥饿 - 您应该优先考虑战棺
-组装而不是其他任务。</VFEP.WarcasketText>
+  <VFEP.WarcasketText>当按下了“接受”选项后，你指定的组装者将会把所需资源带到铸造厂处以开始组装战棺。组装的速度取决于铸造者的手工技能等级。\n组装完成后，新的战棺将会离开铸造厂。请注意：进入铸造厂的殖民者仍然会感到饥饿——为了避免出现饿死事故，你应该优先完成战棺的组装。</VFEP.WarcasketText>
   <!--EN: Work Amount:-->
   <VFEP.WorkAmount>工作量：</VFEP.WorkAmount>
   <!--EN: Cannot entomb in warcasket: {0}-->
-  <VFEPirates.CannotEntomb>无法埋入战棺：{0}</VFEPirates.CannotEntomb>
+  <VFEPirates.CannotEntomb>无法进入铸造厂：{0}</VFEPirates.CannotEntomb>
   <!--EN: Entomb in warcasket-->
-  <VFEPirates.EntombInWarcasket>埋葬于战棺中</VFEPirates.EntombInWarcasket>
+  <VFEPirates.EntombInWarcasket>进入铸造厂</VFEPirates.EntombInWarcasket>
 </LanguageData>

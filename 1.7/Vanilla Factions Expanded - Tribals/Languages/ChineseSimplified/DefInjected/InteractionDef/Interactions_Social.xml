@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: sharing ideas-->
+  <VFET_TribalGatheringInteraction.label>sharing ideas</VFET_TribalGatheringInteraction.label>
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].-->
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].</li>
+    <!--EN: talkedabout(p=4)->chatted about-->
+    <li>talkedabout(p=4)-&gt;chatted about</li>
+    <!--EN: talkedabout->shared a word about-->
+    <li>talkedabout-&gt;shared a word about</li>
+    <!--EN: talkedabout->spoke about-->
+    <li>talkedabout-&gt;spoke about</li>
+    <!--EN: talkedabout->gabbed about-->
+    <li>talkedabout-&gt;gabbed about</li>
+    <!--EN: talkedabout->talked about-->
+    <li>talkedabout-&gt;talked about</li>
+    <!--EN: talkedabout->joked about-->
+    <li>talkedabout-&gt;joked about</li>
+    <!--EN: talkedabout->quipped about-->
+    <li>talkedabout-&gt;quipped about</li>
+    <!--EN: commentedabout->said something about-->
+    <li>commentedabout-&gt;said something about</li>
+    <!--EN: commentedabout->said a word about-->
+    <li>commentedabout-&gt;said a word about</li>
+    <!--EN: commentedabout->made a comment about-->
+    <li>commentedabout-&gt;made a comment about</li>
+    <!--EN: commentedabout->commented about-->
+    <li>commentedabout-&gt;commented about</li>
+    <!--EN: commentedabout->told a joke about-->
+    <li>commentedabout-&gt;told a joke about</li>
+  </VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

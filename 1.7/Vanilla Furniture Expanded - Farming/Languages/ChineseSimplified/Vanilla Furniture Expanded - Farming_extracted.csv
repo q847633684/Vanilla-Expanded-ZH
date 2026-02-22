@@ -1,0 +1,47 @@
+key,text,tag,file,type
+VFEF_CommandMakeCompAreaDesc,Automatically designate the specified area around this {0}.,VFEF_CommandMakeCompAreaDesc,KeyedStrings.xml,keyed
+VFEF_CommandMakeCompAreaLabel,Designate feeding area,VFEF_CommandMakeCompAreaLabel,KeyedStrings.xml,keyed
+VFEF_ScarecrowGizmo,Scare colony animals,VFEF_ScarecrowGizmo,KeyedStrings.xml,keyed
+VFEF_ScarecrowGizmoText,Allow to choose if this scarecrow should make your colony animal flee,VFEF_ScarecrowGizmoText,KeyedStrings.xml,keyed
+VFE_PlanterBox.label,planter box,label,ThingDef/Buildings_Growers.xml,def
+VFE_PlanterBox.description,Grows plants in a box of soil. Does not require power to work.,description,ThingDef/Buildings_Growers.xml,def
+VFE_Ecosystem.label,artificial ecosystem,label,ThingDef/Buildings_Growers.xml,def
+VFE_Ecosystem.description,"Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants.",description,ThingDef/Buildings_Growers.xml,def
+VFE_PlanterBox_Tilable.label,tilable planter box,label,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_PlanterBox_Tilable.description,Grows plants in a box of soil. Does not require power to work.\n\nCan be constructed in any desired shape.,description,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_Hydroponics_Tilable.label,tilable hydroponics basin,label,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_Hydroponics_Tilable.description,An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary.,description,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_Ecosystem_Tilable.label,tilable artificial ecosystem,label,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_Ecosystem_Tilable.description,"Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary.",description,ThingDef/Buildings_Growers_Tilable.xml,def
+VFE_Scarecrow.label,scarecrow,label,ThingDef/Buildings_Misc.xml,def
+VFE_Scarecrow.description,"A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach.",description,ThingDef/Buildings_Misc.xml,def
+VFE_Sprinkler.label,sprinkler,label,ThingDef/Buildings_Misc.xml,def
+VFE_Sprinkler.description,"A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants.",description,ThingDef/Buildings_Misc.xml,def
+VFE_Res_AdvancedHydroponics.label,artificial ecosystems,label,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.description,"Learn to construct artificial ecosystems, highly advanced terraria which vastly improve upon hydroponics.",description,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.0,subject->pioneering biospheres,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.1,"subject_story->conceived and created self-sustaining environments, mastering the balance of nature and technology",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.2,subject_story->ushered in a new age of food security with ecosystems that defy the natural limitations of climate and geography,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.3,"subject_story->harnessed the principles of ecological harmony, integrating advanced hydroponics with biodiverse terraria",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.4,"subject_story->enabled the cultivation of exotic flora and fauna, previously unseen on this scale",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.5,"subject_story->innovated in closed-loop water and nutrient cycles, reducing waste and increasing efficiency",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.6,subject_gerund->revolutionizing agriculture with the creation of artificial ecosystems,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.label,sprinklers,label,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.description,"Assemble schematics for a device which can automatically water fields, increasing the speed at which crops grow.",description,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.0,subject->the irrigation evolution,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.1,"subject_story->developed automated watering systems, ensuring optimal hydration for crops across vast fields",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.2,"subject_story->transformed agricultural productivity with precision irrigation, minimizing water waste",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.3,"subject_story->pioneered the use of sprinklers, marking a leap forward from traditional watering methods",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.4,subject_story->empowered farmers to control the very essence of growth - water - with the turn of a valve,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.5,"subject_story->fostered greener pastures and bountiful harvests, even in areas once thought barren",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_Sprinkler.generalRules.rulesStrings.6,subject_gerund->streamlining growth with the simplicity and efficiency of sprinklers,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.label,farming techniques,label,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.description,"Develop a theoretical basis for larger-scale farming operations, including centralized feeding and dedicated scarecrows to keep your crops uneaten.",description,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.0,subject->cultivating abundance,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.1,subject_story->rediscovered and refined ancient methods for modern largescale farming operations,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.2,"subject_story->implemented centralized feeding strategies, optimizing nutrition and yield",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.3,"subject_story->crafted scarecrows based on deep understanding of local fauna, effectively protecting crops",li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.4,subject_story->laid down the foundational practices for sustainable and efficient food production,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.5,subject_story->inspired a generation of farmers to adopt innovative approaches to agriculture,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VFE_Res_FarmingTechniques.generalRules.rulesStrings.6,subject_gerund->advancing the art and science of farming through cutting-edge techniques,li,ResearchProjectDef/ResearchProjects_VFE.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def

@@ -1,0 +1,662 @@
+key,text,tag,file,type
+VVE_AccelerationSundayDriver,Acceleration: sunday driver precept,VVE_AccelerationSundayDriver,Misc_Gameplay.xml,keyed
+VVE_AccelerationHigh,Acceleration: high precept,VVE_AccelerationHigh,Misc_Gameplay.xml,keyed
+VVE_MaxSpeed_Increased,Max speed: increased precept,VVE_MaxSpeed_Increased,Misc_Gameplay.xml,keyed
+VVE_HandbrakeDealsDamage,Handbrake deals damage,VVE_HandbrakeDealsDamage,Misc_Gameplay.xml,keyed
+VVE_StatsReport_AccelerationRate,"Acceleration rate: {0}
+Current speed: {1} c/s",VVE_StatsReport_AccelerationRate,Misc_Gameplay.xml,keyed
+VVE_HandbrakeWarning,{VEHICLE_nameDef} will not have enough room to decelerate and will need to use the handbrake. This will cause damage to the tires.,VVE_HandbrakeWarning,Misc_Gameplay.xml,keyed
+VVE_Open,Open,VVE_Open,Misc_Gameplay.xml,keyed
+VVE_Close,Close,VVE_Close,Misc_Gameplay.xml,keyed
+VVE_OpenDescription,Designate the garage door to be opened.,VVE_OpenDescription,Misc_Gameplay.xml,keyed
+VVE_CloseDescription,Designate the garage door to be closed.,VVE_CloseDescription,Misc_Gameplay.xml,keyed
+VVE_OpenDescription_AutoDoor,Open the auto garage door.,VVE_OpenDescription_AutoDoor,Misc_Gameplay.xml,keyed
+VVE_CloseDescription_AutoDoor,Close the auto garage door.,VVE_CloseDescription_AutoDoor,Misc_Gameplay.xml,keyed
+VVE_VehicleObstructingClosingGarage,Vehicle is blocking garage.,VVE_VehicleObstructingClosingGarage,Misc_Gameplay.xml,keyed
+VVE_VehicleTier,Tier,VVE_VehicleTier,Misc_Gameplay.xml,keyed
+VVE_Tier0,Tier 0,VVE_Tier0,Misc_Gameplay.xml,keyed
+VVE_Tier1,Tier 1,VVE_Tier1,Misc_Gameplay.xml,keyed
+VVE_Tier2,Tier 2,VVE_Tier2,Misc_Gameplay.xml,keyed
+VVE_Tier3,Tier 3,VVE_Tier3,Misc_Gameplay.xml,keyed
+VVE_Tier4,Tier 3,VVE_Tier4,Misc_Gameplay.xml,keyed
+VVE_Tier0Desc,"Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or neither.",VVE_Tier0Desc,Misc_Gameplay.xml,keyed
+VVE_Tier1Desc,"Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game.",VVE_Tier1Desc,Misc_Gameplay.xml,keyed
+VVE_Tier2Desc,Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles.,VVE_Tier2Desc,Misc_Gameplay.xml,keyed
+VVE_Tier3Desc,"Tier 3 vehicles are only obtainable if a specific condition is met - for example, they are first found in their wrecked form and restored. They require late game resources and generally serve a very specific purpose.",VVE_Tier3Desc,Misc_Gameplay.xml,keyed
+VVE_Tier4Desc,"Tier 4 vehicles are not able to be constructed by the player, but they can still be found, purchased or otherwise spawned. They generally represent technology beyond of what's achievable in the Rimworld setting.",VVE_Tier4Desc,Misc_Gameplay.xml,keyed
+VVE_RestoreWreck,Restore wreck,VVE_RestoreWreck,Misc_Gameplay.xml,keyed
+VVE_RestoreWreckDesc,"Deliver necessary vehicle components to restore this wreck completely, turning it into a working vehicle.",VVE_RestoreWreckDesc,Misc_Gameplay.xml,keyed
+VVE_WreckNotRestored,{0} not yet found and restored,VVE_WreckNotRestored,Misc_Gameplay.xml,keyed
+VVE_CannotBeResearched,{0} cannot be researched until you find and restore a wreck of that vehicle.,VVE_CannotBeResearched,Misc_Gameplay.xml,keyed
+VVE_Reload,Reload {0} with {AMMO_label},VVE_Reload,Misc_Gameplay.xml,keyed
+VVE_CannotReloadNotEnoughAmmo,Can't reload {0} with {1} (not enough {1}),VVE_CannotReloadNotEnoughAmmo,Misc_Gameplay.xml,keyed
+VVE_CannotReloadFullAmmo,Can't reload {0} with {1} (full ammo),VVE_CannotReloadFullAmmo,Misc_Gameplay.xml,keyed
+VVE_OpenGarage.reportString,opening garage.,reportString,JobDef/Jobs.xml,def
+VVE_CloseGarage.reportString,closing garage.,reportString,JobDef/Jobs.xml,def
+VVE_RestoreWreck.reportString,restoring TargetA.,reportString,JobDef/Jobs.xml,def
+VVE_Streaky.label,Streaky,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_8bit.label,8 Bit,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Blocky.label,Blocky,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_CallOfDuty.label,CallOfDuty,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Dots.label,Dots,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_GeometricGrunge.label,Geometric Grunge,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Gloss.label,Gloss,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Grunge.label,Grunge,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Marble.label,Marble,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Painted.label,Painted,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Processor.label,Processor,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Reactive.label,Reactive,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Rocky.label,Rocky,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Savannah.label,Savannah,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Shine.label,Shine,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Smudges.label,Smudges,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Splatter.label,Splatter,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Stamped.label,Stamped,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Vinyl.label,Vinyl,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_Wildcat.label,Wildcat,label,Vehicles.PatternDef/PatternDefs.xml,def
+VVE_BasicVehicles.label,basic vehicles,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.description,"Learn to construct basic, inefficient vehicles, from prowler buggy to roadkill single-person tanks.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.generalRules.rulesStrings.0,subject->first vehicles,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.generalRules.rulesStrings.1,subject_story->started making simple vehicles like buggies and single-person tanks,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.generalRules.rulesStrings.2,subject_story->changed how far we could go and what we could carry,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.generalRules.rulesStrings.3,subject_story->made travel faster than ever before,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_BasicVehicles.generalRules.rulesStrings.4,subject_gerund->inventing new ways to move,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.label,complex vehicles,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.description,"Learn to construct complex vehicles, such as wagons, roadrunners and snatchers, using the components you can easily fabricate.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.generalRules.rulesStrings.0,subject->better vehicles,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.generalRules.rulesStrings.1,subject_story->built more complex vehicles like wagons and fast cars,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.generalRules.rulesStrings.2,subject_story->made it easier to move things and people over long distances,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.generalRules.rulesStrings.3,subject_story->vehicles became more useful and versatile,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_ComplexVehicles.generalRules.rulesStrings.4,subject_gerund->improving our rides,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.label,aerial vehicles,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.description,"Learn to construct vehicles capable of travelling above the ground, such as a mosquito helicopter and a smuggler cargo airplane.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.generalRules.rulesStrings.0,subject->flying machines,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.generalRules.rulesStrings.1,subject_story->created helicopters and cargo planes to fly over obstacles,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.generalRules.rulesStrings.2,subject_story->opened up new ways to explore and trade,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.generalRules.rulesStrings.3,"subject_story->made air travel possible, changing how we see the world",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_AerialVehicles.generalRules.rulesStrings.4,subject_gerund->taking to the skies,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.label,combat vehicles,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.description,"Learn to construct complex combat vehicles, such as bulldog battle tanks, tango armored personnel carriers and warbird combat airplanes.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.generalRules.rulesStrings.0,subject->war vehicles,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.generalRules.rulesStrings.1,subject_story->made powerful combat vehicles like tanks and armored planes,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.generalRules.rulesStrings.2,subject_story->vehicles could now fight and defend in wars,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.generalRules.rulesStrings.3,subject_story->changed how battles are fought with these new machines,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VVE_CombatVehicles.generalRules.rulesStrings.4,subject_gerund->building for battle,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+Vehicles.label,Vehicles,label,ResearchTabDef/ResearchTabs.xml,def
+AccelerationRate.label,Acceleration rate,label,Vehicles.VehicleStatDef/VehicleStats.xml,def
+AccelerationRate.description,"The rate at which the car accelerate, in cells per second. Higher rate means the vehicle will accelerate to its maximum speed faster. This also affects deceleration rate, which is double the acceleration rate.",description,Vehicles.VehicleStatDef/VehicleStats.xml,def
+VVE_GarageCabinet.label,garage cabinet,label,ThingDef/Buildings_Misc.xml,def
+VVE_GarageCabinet.description,A handy cabinet that contains a whole bunch of extra tools of various sizes and functions. Increases work speed when placed near a garage bench. One bench can use up to two garage cabinets.,description,ThingDef/Buildings_Misc.xml,def
+VVE_RefuelingPump.label,refueling pump,label,ThingDef/Buildings_Misc.xml,def
+VVE_RefuelingPump.description,A refueling pump that will automatically refuel chemfuel-powered vehicles standing on the interaction spot. Needs to be filled with chemfuel.,description,ThingDef/Buildings_Misc.xml,def
+VVE_GarageBench.label,garage bench,label,ThingDef/Buildings_Production.xml,def
+VVE_GarageBench.description,"A specialised work station for assembling vehicle parts. For those that are desperate, rusted cars and engine blocks can be salvaged for any remaining working parts.",description,ThingDef/Buildings_Production.xml,def
+VVE_TankTrap.label,tank trap,label,ThingDef/Buildings_Security.xml,def
+VVE_TankTrap.description,"A defensive fortification for stopping vehicles. Provides small amount of cover and can be walked through on foot, but is not traversable by vehicles.",description,ThingDef/Buildings_Security.xml,def
+VVE_GarageDoor.label,garage door (1x4),label,ThingDef/Buildings_Structure.xml,def
+VVE_GarageDoor.description,"Divides rooms. Manual operation allows people to open it, letting vehicles through.",description,ThingDef/Buildings_Structure.xml,def
+VVE_GarageDoorLarge.label,garage door (1x5),label,ThingDef/Buildings_Structure.xml,def
+VVE_GarageAutoDoor.label,auto garage door (1x4),label,ThingDef/Buildings_Structure.xml,def
+VVE_GarageAutoDoor.description,"Divides rooms. Electric-powered operation allows the door to open without manual interaction, letting vehicles through.",description,ThingDef/Buildings_Structure.xml,def
+VVE_GarageAutoDoorLarge.label,auto garage door (1x5),label,ThingDef/Buildings_Structure.xml,def
+VVE_CarParts.label,car parts,label,ThingCategoryDef/Items_Resource_CarParts.xml,def
+VVE_EngineBlock.label,engine block,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_EngineBlock.description,"Literally the part that gets a vehicle moving in the first place, no vehicle can be assembled without one. Exceedingly large or heavy vehicles could require more than one.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarAlternator.label,car alternator,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarAlternator.description,The alternator is an extremely vital engine part for any vehicle that has electrical systems. Some very basic systems can get away and some more complex vehicles can require more than one.,description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarExhaust.label,car exhaust,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarExhaust.description,"A series of pipes, catalysts and fittings that transfer the exhaust from the car engine away from the driver’s cabin. Engines that will be put under a lot of strain require more exhausts.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarSuspension.label,car suspension,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarSuspension.description,"A series of transmissions, springs and shock absorbers that redirect or reduce forces transferred through the wheels. Generally, the greater the mass and cargo capacity of the vehicle, the more suspensions are needed.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarWheel.label,car wheel,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarWheel.description,"One of the most ancient technologies developed by man, the wheel takes the power from the engine and translates it into movement. As wheels have to not only move the vehicle in whichever direction necessary but also withstand the combined weight, larger and heavier vehicles can need several or dozens of them.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarBattery.label,car battery,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarBattery.description,An insulated rechargeable battery and wiring which powers numerous electronic functions. Acts as a surge protector for electronic systems and multiple batteries can augment or even replace a vehicle's engine.,description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarFuelTank.label,car fuel tank,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarFuelTank.description,Carefully manufactured fuel storage and injection systems. Ideal for vehicles that require greater fuel capacity or even increased fuel consumption without increasing the likelihood of gas leaks or engine damage.,description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarTransmission.label,car transmission,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarTransmission.description,"A dedicated, automatic transmission system delicately machined from hardened and durable materials. Due to its comparatively complex design, these are required in vehicles that require immense torque or excessive rotational speeds.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarRadiator.label,car radiator,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarRadiator.description,"A series of pipes, tubes, fans, pumps, and the radiator itself, ready to be installed in a vehicle that is expected to endure heavy loads. The harder the engine will have to work, the more radiators required to keep it cool.",description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarWiring.label,car wiring,label,ThingDef/Items_Resource_CarParts.xml,def
+VVE_CarWiring.description,Reinforced and machined wiring parts to improve electricity conduction. Typically required in vehicles that have a lot of synchronized or delicate electronic systems.,description,ThingDef/Items_Resource_CarParts.xml,def
+VVE_DoBillsGarageBench.label,make things at garage bench,label,WorkGiverDef/WorkGivers.xml,def
+VVE_DoBillsGarageBench.verb,work,verb,WorkGiverDef/WorkGivers.xml,def
+VVE_DoBillsGarageBench.gerund,working at,gerund,WorkGiverDef/WorkGivers.xml,def
+VVE_OpenGarages.label,open garages,label,WorkGiverDef/WorkGivers.xml,def
+VVE_OpenGarages.verb,open garage,verb,WorkGiverDef/WorkGivers.xml,def
+VVE_OpenGarages.gerund,opening garage,gerund,WorkGiverDef/WorkGivers.xml,def
+VVE_CloseGarages.label,close garages,label,WorkGiverDef/WorkGivers.xml,def
+VVE_CloseGarages.verb,close garage,verb,WorkGiverDef/WorkGivers.xml,def
+VVE_CloseGarages.gerund,closing garage,gerund,WorkGiverDef/WorkGivers.xml,def
+VVE_RestoreWreck.label,restore vehicle wrecks,label,WorkGiverDef/WorkGivers.xml,def
+VVE_RestoreWreck.verb,restore,verb,WorkGiverDef/WorkGivers.xml,def
+VVE_RestoreWreck.gerund,restoring,gerund,WorkGiverDef/WorkGivers.xml,def
+VVE_Bulldog_Blueprint.label,Bulldog,label,Vehicles.VehicleBuildDef/Bulldog_Buildable.xml,def
+VVE_Bulldog_Blueprint.description,"A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Bulldog_Buildable.xml,def
+Bullet_Bulldog_MainTurret.label,high-explosive shell,label,ThingDef/Bulldog_MainTurret.xml,def
+Bulldog_MainTurret.label,bulldog cannon,label,Vehicles.VehicleTurretDef/Bulldog_MainTurret.xml,def
+Bulldog_MainTurret.description,"A large, long range cannon capable of firing explosive shells over medium distance. Usually mounted on Bulldog tanks.",description,Vehicles.VehicleTurretDef/Bulldog_MainTurret.xml,def
+Bulldog_MainTurret.fireModes.0.label,Single Shot,label,Vehicles.VehicleTurretDef/Bulldog_MainTurret.xml,def
+VVE_Bulldog.label,Bulldog,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.description,"A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.properties.roles.1.label,Gunner,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.0.label,Engine,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.1.label,Left track,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.2.label,Right track,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.3.label,Front left drive sprocket,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.4.label,Front right drive sprocket,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.5.label,Back left drive sprocket,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.6.label,Back right drive sprocket,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.7.label,Gearbox,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.8.label,Front armor plating,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.9.label,Left armor plating,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.10.label,Right armor plating,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.11.label,Rear armor plating,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.12.label,Chemtank,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.13.label,Dashboard,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.14.label,Steering apparatus,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.15.label,Alternator,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Bulldog.components.16.label,Roof,label,Vehicles.VehicleDef/Bulldog_VehiclePawn.xml,def
+VVE_Charley_Blueprint.label,Charley,label,Vehicles.VehicleBuildDef/Charley_Buildable.xml,def
+VVE_Charley_Blueprint.description,"A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Charley_Buildable.xml,def
+VVE_Charley.label,Charley,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.description,"A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.properties.roles.0.label,Rider,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.components.0.label,Front wheel,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.components.1.label,Back wheel,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.components.2.label,Engine,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.components.3.label,Front suspension,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Charley.components.4.label,Back suspension,label,Vehicles.VehicleDef/Charley_VehiclePawn.xml,def
+VVE_Mosquito_Blueprint.label,Mosquito,label,Vehicles.VehicleBuildDef/Mosquito_Buildable.xml,def
+VVE_Mosquito_Blueprint.description,"A general-purpose aircraft, the Mosquito is an extremely fast and mobile mode of transportation. While it doesn’t require a landing strip, it is slower than aeroplanes and has less cargo capacity.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Mosquito_Buildable.xml,def
+VVE_Mosquito.label,Mosquito,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.description,"A general-purpose aircraft, the Mosquito is an extremely fast and mobile mode of transportation. While it doesn’t require a landing strip, it is slower than aeroplanes and has less cargo capacity.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.properties.roles.0.label,Pilot,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.0.label,Left landing skid,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.1.label,Right landing skid,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.2.label,Left horizontal stabilizer,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.3.label,Right horizontal stabilizer,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.4.label,Engine,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.5.label,Fuel intake,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.6.label,Transmission,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.7.label,Rudder,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.8.label,Left side panel,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.9.label,Right side panel,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.10.label,Chemtank,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.11.label,Rotor mast,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.12.label,Upholstery,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.13.label,Dashboard,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.14.label,Gearbox,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Mosquito.components.15.label,Servos,label,Vehicles.VehicleDef/Mosquito_VehiclePawn.xml,def
+VVE_Roadrunner_Blueprint.label,Roadrunner,label,Vehicles.VehicleBuildDef/Roadrunner_Buildable.xml,def
+VVE_Roadrunner_Blueprint.description,"A general cargo transporter, the Roadrunner is an excellent vehicle for getting a lot of material from one location to another. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Roadrunner_Buildable.xml,def
+VVE_Roadrunner.label,Roadrunner,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.description,"A general cargo transporter, the Roadrunner is an excellent vehicle for getting a lot of material from one location to another. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.0.label,Engine,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.9.label,Gearbox,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.10.label,Left side panel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.11.label,Right side panel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.12.label,Chemtank,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.13.label,Front bumper,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.14.label,Rear bumper,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.15.label,Upholstery,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.16.label,Dashboard,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.18.label,Alternator,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.19.label,Hood,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Roadrunner.components.20.label,Roof,label,Vehicles.VehicleDef/Roadrunner_VehiclePawn.xml,def
+VVE_Smuggler_Blueprint.label,Smuggler,label,Vehicles.VehicleBuildDef/Smuggler_Buildable.xml,def
+VVE_Smuggler_Blueprint.description,"A general-purpose aircraft, the Smuggler is an extremely fast and effective mode of transportation. While it is faster and can carry more cargo than helicopters, it requires a landing strip to both take off and land.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Smuggler_Buildable.xml,def
+VVE_Smuggler.label,Smuggler,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.description,"A general-purpose aircraft, the Smuggler is an extremely fast and effective mode of transportation. While it is faster and can carry more cargo than helicopters, it requires a landing strip to both take off and land.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.properties.roles.0.label,Pilot,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.0.label,Engine,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.1.label,Left landing wheel,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.2.label,Right landing wheel,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.3.label,Central landing wheel,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.4.label,Left horizontal stabilizer,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.5.label,Right horizontal stabilizer,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.6.label,Fuel intake,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.7.label,Transmission,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.8.label,Rudder,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.9.label,Fuselage,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.10.label,Chemtank,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.11.label,Left wing,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.12.label,Right wing,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.13.label,Upholstery,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.14.label,Dashboard,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Smuggler.components.15.label,Servos,label,Vehicles.VehicleDef/Smuggler_VehiclePawn.xml,def
+VVE_Snatcher_Blueprint.label,Snatcher,label,Vehicles.VehicleBuildDef/Snatcher_Buildable.xml,def
+VVE_Snatcher_Blueprint.description,"A general passenger transport, the Snatcher is a solid vehicle for transporting people to different locations. Best suited on flat roads and will seriously struggle in snow or on hills.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Snatcher_Buildable.xml,def
+VVE_Snatcher.label,Snatcher,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.description,"A general passenger transport, the Snatcher is a solid vehicle for transporting people to different locations. Best suited on flat roads and will seriously struggle in snow or on hills.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.0.label,Engine,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.7.label,Gearbox,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.8.label,Left side panel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.9.label,Right side panel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.10.label,Chemtank,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.11.label,Front bumper,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.12.label,Rear bumper,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.13.label,Upholstery,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.14.label,Dashboard,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.15.label,Steering wheel,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.16.label,Alternator,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.17.label,Hood,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Snatcher.components.18.label,Roof,label,Vehicles.VehicleDef/Snatcher_VehiclePawn.xml,def
+VVE_Tango_Blueprint.label,Tango,label,Vehicles.VehicleBuildDef/Tango_Buildable.xml,def
+VVE_Tango_Blueprint.description,"A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Tango_Buildable.xml,def
+Tango_MainTurret.label,tango autocannon,label,Vehicles.VehicleTurretDef/Tango_MainTurret.xml,def
+Tango_MainTurret.description,"A heavy automatic turret mounted on a Tango APC. Its large-caliber shells do heavy damage over significant ranges, but it’s inaccurate and uses up a lot of ammo.",description,Vehicles.VehicleTurretDef/Tango_MainTurret.xml,def
+Tango_MainTurret.fireModes.0.label,Single,label,Vehicles.VehicleTurretDef/Tango_MainTurret.xml,def
+Tango_MainTurret.fireModes.1.label,Burst,label,Vehicles.VehicleTurretDef/Tango_MainTurret.xml,def
+VVE_Tango.label,Tango,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.description,"A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.properties.roles.1.label,Gunner,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.properties.roles.2.label,Passenger,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.0.label,Engine,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.1.label,Left track,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.2.label,Right track,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.3.label,Front left drive sprocket,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.4.label,Front right drive sprocket,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.5.label,Back left drive sprocket,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.6.label,Back right drive sprocket,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.7.label,Gearbox,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.8.label,Front armor plating,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.9.label,Left armor plating,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.10.label,Right armor plating,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.11.label,Rear armor plating,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.12.label,Chemtank,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.13.label,Dashboard,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.14.label,Steering apparatus,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.15.label,Alternator,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Tango.components.16.label,Roof,label,Vehicles.VehicleDef/Tango_VehiclePawn.xml,def
+VVE_Trawler_Blueprint.label,Trawler,label,Vehicles.VehicleBuildDef/Trawler_Buildable.xml,def
+VVE_Trawler_Blueprint.description,"A general-purpose boat, the Trawler is an effective long distance transportation across open waters. Performs rather poorly on rivers and has to travel slowly during the winter season.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Trawler_Buildable.xml,def
+VVE_Trawler.label,Trawler,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.description,"A general-purpose boat, the Trawler is an effective long distance transportation across open waters. Performs rather poorly on rivers and has to travel slowly during the winter season.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.components.0.label,Engine,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.components.1.label,Left side panel,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Trawler.components.2.label,Right side panel,label,Vehicles.VehicleDef/Trawler_VehiclePawn.xml,def
+VVE_Wagon_Blueprint.label,Wagon,label,Vehicles.VehicleBuildDef/Wagon_Buildable.xml,def
+VVE_Wagon_Blueprint.description,"A general all-rounder vehicle, the Wagon performs well in all categories with a good cargo and passenger capacity. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Wagon_Buildable.xml,def
+VVE_Wagon.label,Wagon,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.description,"A general all-rounder vehicle, the Wagon performs well in all categories with a good cargo and passenger capacity. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.0.label,Engine,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.9.label,Gearbox,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.10.label,Left side panel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.11.label,Right side panel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.12.label,Chemtank,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.13.label,Front bumper,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.14.label,Rear bumper,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.15.label,Upholstery,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.16.label,Dashboard,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.18.label,Alternator,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.19.label,Hood,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Wagon.components.20.label,Roof,label,Vehicles.VehicleDef/Wagon_VehiclePawn.xml,def
+VVE_Warbird_Blueprint.label,Warbird,label,Vehicles.VehicleBuildDef/Warbird_Buildable.xml,def
+VVE_Warbird_Blueprint.description,"A general-purpose fighter plane, the Warbird is an incredibly fast and effective attack craft. With minimal cargo intended for holding maintenance equipment and fuel, its primary purpose is to engage other aircraft and initiate strafing manoeuvres.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Warbird_Buildable.xml,def
+VVE_Warbird.label,Warbird,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.description,"A general-purpose fighter plane, the Warbird is an incredibly fast and effective attack craft. With minimal cargo intended for holding maintenance equipment and fuel, its primary purpose is to engage other aircraft and initiate strafing manoeuvres.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.properties.roles.0.label,Pilot,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.0.label,Engine,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.1.label,Left landing wheel,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.2.label,Right landing wheel,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.3.label,Central landing wheel,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.4.label,Left horizontal stabilizer,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.5.label,Right horizontal stabilizer,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.6.label,Fuel intake,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.7.label,Transmission,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.8.label,Rudder,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.9.label,Fuselage,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.10.label,Chemtank,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.11.label,Left wing,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.12.label,Right wing,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.13.label,Upholstery,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.14.label,Dashboard,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Warbird.components.15.label,Servos,label,Vehicles.VehicleDef/Warbird_VehiclePawn.xml,def
+VVE_Wisent_Blueprint.label,Wisent,label,Vehicles.VehicleBuildDef/Wisent_Buildable.xml,def
+VVE_Wisent_Blueprint.description,"A military-grade all-purpose transporter, the Wisent is a powerful truck capable of transporting both plentiful cargo and soldiers into hostile territory. Terrible fuel economy, however it can quickly navigate through rough terrain.\n\nCounter to other tier 2 vehicles, this is less efficient but more effective when travelling away from roads. Passengers sitting in the back will be exposed to enemy fire and the armour plating is only suited for minimal small arms fire.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x7\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Wisent_Buildable.xml,def
+VVE_Wisent.label,Wisent,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.description,"A military-grade all-purpose transporter, the Wisent is a powerful truck capable of transporting both plentiful cargo and soldiers into hostile territory. Terrible fuel economy, however it can quickly navigate through rough terrain.\n\nCounter to other tier 2 vehicles, this is less efficient but more effective when travelling away from roads. Passengers sitting in the back will be exposed to enemy fire and the armour plating is only suited for minimal small arms fire.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x7\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.1.label,Passenger 1,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.2.label,Passenger 2,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.3.label,Passenger 3,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.4.label,Passenger 4,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.5.label,Passenger 5,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.6.label,Passenger 6,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.7.label,Passenger 7,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.8.label,Passenger 8,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.properties.roles.9.label,Passenger 9,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.0.label,Engine,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.3.label,Middle left wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.4.label,Middle right wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.5.label,Back left wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.6.label,Back right wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.7.label,Front left suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.8.label,Front right suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.9.label,Middle left suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.10.label,Middle right suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.11.label,Back left suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.12.label,Back right suspension,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.13.label,Gearbox,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.14.label,Left side panel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.15.label,Right side panel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.16.label,Left chemtank,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.17.label,Right chemtank,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.18.label,Left back panel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.19.label,Right back panel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.20.label,Front bumper,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.21.label,Rear bumper,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.22.label,Upholstery,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.23.label,Dashboard,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.24.label,Steering wheel,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.25.label,Alternator,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.26.label,Hood,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_Wisent.components.27.label,Roof,label,Vehicles.VehicleDef/Wisent_VehiclePawn.xml,def
+VVE_BangBus_Blueprint.label,Bang Bus,label,Vehicles.VehicleBuildDef/BangBus_Buildable.xml,def
+VVE_BangBus_Blueprint.description,"A basic passenger transport, the Bangbus is a relatively cheap piece of machinery to construct to transport people across roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, as the light plates of armour that protect the passengers similarly negatively affects its acceleration.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/BangBus_Buildable.xml,def
+VVE_BangBus.label,Bang Bus,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.description,"A basic passenger transport, the Bangbus is a relatively cheap piece of machinery to construct to transport people across roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, as the light plates of armour that protect the passengers similarly negatively affects its acceleration.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.properties.roles.1.label,Shotgun,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.properties.roles.2.label,Rear Passenger,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.0.label,Engine,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.1.label,Front left wheel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.2.label,Front right wheel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.3.label,Back left wheel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.4.label,Back right wheel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.5.label,Front left suspension,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.6.label,Front right suspension,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.7.label,Gearbox,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.8.label,Left side panel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.9.label,Right side panel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.10.label,Chemtank,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.11.label,Front bumper,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.12.label,Rear bumper,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.13.label,Upholstery,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.14.label,Dashboard,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.15.label,Steering wheel,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.16.label,Alternator,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.17.label,Hood,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_BangBus.components.18.label,Roof,label,Vehicles.VehicleDef/BangBus_VehiclePawn.xml,def
+VVE_Bunsen_Blueprint.label,Bunsen,label,Vehicles.VehicleBuildDef/Bunsen_Buildable.xml,def
+VVE_Bunsen_Blueprint.description,"A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Bunsen_Buildable.xml,def
+VVE_Bullet_Bunsen.label,spew,label,VEF.Weapons.ExpandableProjectileDef/Bunsen_MainTurret.xml,def
+VVE_Bunsen_MainTurret.label,bunsen flamethrower,label,Vehicles.VehicleTurretDef/Bunsen_MainTurret.xml,def
+VVE_Bunsen_MainTurret.description,"A lightly-armored medium range flamethrower turret usually mounted on bunsen tanks. Takes fuel directly from the chemtank of the vehicle. Quite devastating against infantry, bunsen flamethrower struggles against armored targets.",description,Vehicles.VehicleTurretDef/Bunsen_MainTurret.xml,def
+VVE_Bunsen_MainTurret.fireModes.0.label,Fire Spew,label,Vehicles.VehicleTurretDef/Bunsen_MainTurret.xml,def
+VVE_Bunsen.label,Bunsen,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.description,"A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.properties.roles.1.label,Gunner,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.0.label,Engine,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.1.label,Left track,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.2.label,Right track,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.3.label,Front left drive sprocket,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.4.label,Front right drive sprocket,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.5.label,Back left drive sprocket,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.6.label,Back right drive sprocket,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.7.label,Gearbox,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.8.label,Left armor plating,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.9.label,Right armor plating,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.10.label,Front armor plating,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.11.label,Back armor plating,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.12.label,Chemtank,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.13.label,Dashboard,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.14.label,Steering apparatus,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.15.label,Alternator,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Bunsen.components.16.label,Roof,label,Vehicles.VehicleDef/Bunsen_VehiclePawn.xml,def
+VVE_Dinghy_Blueprint.label,Dinghy,label,Vehicles.VehicleBuildDef/Dinghy_Buildable.xml,def
+VVE_Dinghy_Blueprint.description,"A very basic motorised boat, the Dingy is an incredibly cheap and discrete method of transportation over water. Has a good cargo capacity, however it is likely to get frozen solid in the winter times and moves slowly on rivers. The exposed rear-mounted engine is vulnerable to attacks and the hull plating should not be expected to wither projectile weapons.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Dinghy_Buildable.xml,def
+VVE_Dinghy.label,Dinghy,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.description,"A very basic motorised boat, the Dingy is an incredibly cheap and discrete method of transportation over water. Has a good cargo capacity, however it is likely to get frozen solid in the winter times and moves slowly on rivers. The exposed rear-mounted engine is vulnerable to attacks and the hull plating should not be expected to wither projectile weapons.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.1.label,Passenger 1,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.2.label,Passenger 2,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.3.label,Passenger 3,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.4.label,Passenger 4,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.properties.roles.5.label,Passenger 5,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.components.0.label,Engine,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.components.1.label,Left side panel,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dinghy.components.2.label,Right side panel,label,Vehicles.VehicleDef/Dinghy_VehiclePawn.xml,def
+VVE_Dirtbike_Blueprint.label,Dirtbike,label,Vehicles.VehicleBuildDef/Dirtbike_Buildable.xml,def
+VVE_Dirtbike_Blueprint.description,"A basic off-road motorcycle, the Dirtbike is a very cheap vehicle that allows a single user to travel quickly, efficiently and quietly. Incredibly light and practically paper-thin on armour, it performs poorly in the winter or in the snow, or both, and has absolutely no cargo capacity.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Dirtbike_Buildable.xml,def
+VVE_Dirtbike.label,Dirtbike,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.description,"A basic off-road motorcycle, the Dirtbike is a very cheap vehicle that allows a single user to travel quickly, efficiently and quietly. Incredibly light and practically paper-thin on armour, it performs poorly in the winter or in the snow, or both, and has absolutely no cargo capacity.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.properties.roles.0.label,Rider,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.components.0.label,Front wheel,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.components.1.label,Back wheel,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.components.2.label,Engine,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.components.3.label,Front suspension,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Dirtbike.components.4.label,Back suspension,label,Vehicles.VehicleDef/Dirtbike_VehiclePawn.xml,def
+VVE_Frog_Blueprint.label,Frog,label,Vehicles.VehicleBuildDef/Frog_Buildable.xml,def
+VVE_Frog_Blueprint.description,"A basic reusable transport pod, the Frog is a relatively cheap vehicle that is the first option when it comes to flying without crashing into the ground. Several times faster than conventional transport pods with acceptable armour for its single passenger, making it an ideal ambush vehicle.\n\nEven worse than other tier 1 vehicles, fuel efficiency isn’t a thing with this transportation. Care must be taken to either refuel at the landing site or travel with enough spare fuel to make the trip back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Frog_Buildable.xml,def
+VVE_Frog.label,Frog,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.description,"A basic reusable transport pod, the Frog is a relatively cheap vehicle that is the first option when it comes to flying without crashing into the ground. Several times faster than conventional transport pods with acceptable armour for its single passenger, making it an ideal ambush vehicle.\n\nEven worse than other tier 1 vehicles, fuel efficiency isn’t a thing with this transportation. Care must be taken to either refuel at the landing site or travel with enough spare fuel to make the trip back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.properties.roles.0.label,Operator,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.components.0.label,Engine,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.components.1.label,First thruster,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.components.2.label,Second thruster,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.components.3.label,Third thruster,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Frog.components.4.label,Stabilizers,label,Vehicles.VehicleDef/Frog_VehiclePawn.xml,def
+VVE_Highwayman_Blueprint.label,Highwayman,label,Vehicles.VehicleBuildDef/Highwayman_Buildable.xml,def
+VVE_Highwayman_Blueprint.description,"A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Highwayman_Buildable.xml,def
+Highwayman_MainTurret.label,highwayman turret,label,Vehicles.VehicleTurretDef/Highwayman_MainTurret.xml,def
+Highwayman_MainTurret.description,"A lightly-armored twin-linked miniturret cannon. Usually mounted on Highwaymen armored personnel carriers. Needs to be reloaded with steel. Can only fire over short range, but doesn’t have any issues with firing at enemies that engage the vehicle in melee.",description,Vehicles.VehicleTurretDef/Highwayman_MainTurret.xml,def
+Highwayman_MainTurret.fireModes.0.label,Burst,label,Vehicles.VehicleTurretDef/Highwayman_MainTurret.xml,def
+VVE_Highwayman.label,Highwayman,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.description,"A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.properties.roles.1.label,Gunner,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.properties.roles.2.label,Passenger,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.0.label,Engine,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.9.label,Gearbox,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.10.label,Front armor plating,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.11.label,Left armor plating,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.12.label,Right armor plating,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.13.label,Chemtank,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.14.label,Front bumper,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.15.label,Upholstery,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.16.label,Dashboard,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.18.label,Alternator,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Highwayman.components.19.label,Roof,label,Vehicles.VehicleDef/Highwayman_VehiclePawn.xml,def
+VVE_Mule_Blueprint.label,Mule,label,Vehicles.VehicleBuildDef/Mule_Buildable.xml,def
+VVE_Mule_Blueprint.description,"A basic cargo transport, the Mule is a relatively cheap vehicle that can carry a large amount of cargo across smooth roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, and it is very lightly armoured to save weight.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Unlike other tier 1 vehicles, this one performs better on the world map by being slightly faster and more fuel efficient.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Mule_Buildable.xml,def
+VVE_Mule.label,Mule,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.description,"A basic cargo transport, the Mule is a relatively cheap vehicle that can carry a large amount of cargo across smooth roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, and it is very lightly armoured to save weight.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Unlike other tier 1 vehicles, this one performs better on the world map by being slightly faster and more fuel efficient.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.0.label,Engine,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.9.label,Gearbox,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.10.label,Left side panel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.11.label,Right side panel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.12.label,Chemtank,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.13.label,Front bumper,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.14.label,Rear bumper,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.15.label,Upholstery,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.16.label,Dashboard,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.18.label,Alternator,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.19.label,Hood,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Mule.components.20.label,Roof,label,Vehicles.VehicleDef/Mule_VehiclePawn.xml,def
+VVE_Prowler_Blueprint.label,Prowler,label,Vehicles.VehicleBuildDef/Prowler_Buildable.xml,def
+VVE_Prowler_Blueprint.description,"A basic off-road exploration vehicle, the Prowler is relatively cheap to construct and is an effective all-weather option for efficient travel over steep terrain. Very lightly armoured with a vulnerable rear-mounted engine, it’s best to keep this single-user automobile away from combat.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Prowler_Buildable.xml,def
+VVE_Prowler.label,Prowler,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.description,"A basic off-road exploration vehicle, the Prowler is relatively cheap to construct and is an effective all-weather option for efficient travel over steep terrain. Very lightly armoured with a vulnerable rear-mounted engine, it’s best to keep this single-user automobile away from combat.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.0.label,Engine,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.9.label,Gearbox,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.10.label,Left side panel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.11.label,Right side panel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.12.label,Chemtank,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.13.label,Front bumper,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.14.label,Rear bumper,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.15.label,Upholstery,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.16.label,Dashboard,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.18.label,Alternator,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.19.label,Hood,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Prowler.components.20.label,Roof,label,Vehicles.VehicleDef/Prowler_VehiclePawn.xml,def
+VVE_Roadkill_Blueprint.label,Roadkill,label,Vehicles.VehicleBuildDef/Roadkill_Buildable.xml,def
+VVE_Roadkill_Blueprint.description,"A basic medium tank, the Roadkill is a comparatively cheap armoured vehicle suited for short engagements. Very respectfully armoured from frontal attacks, however side attacks can disable movement and the exposed rear-mounted engine makes it vulnerable to flanking.\n\nWhile other tier 1 vehicles are gas guzzlers, this one burns through fuel at an alarming rate and is extremely slow to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Roadkill_Buildable.xml,def
+Bullet_Roadkill_MainTurret.label,high-explosive shell,label,ThingDef/Roadkill_MainTurret.xml,def
+Roadkill_MainTurret.label,roadkill cannon,label,Vehicles.VehicleTurretDef/Roadkill_MainTurret.xml,def
+Roadkill_MainTurret.description,"A cannon capable of firing explosive tank shells over medium distance. Usually mounted on Roadkill tanks. Needs to be reloaded with steel. Can’t fire whilst moving. Has a decent range, but can’t target enemies too close.",description,Vehicles.VehicleTurretDef/Roadkill_MainTurret.xml,def
+Roadkill_MainTurret.fireModes.0.label,Single Shot,label,Vehicles.VehicleTurretDef/Roadkill_MainTurret.xml,def
+VVE_Roadkill.label,Roadkill,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.description,"A basic medium tank, the Roadkill is a comparatively cheap armoured vehicle suited for short engagements. Very respectfully armoured from frontal attacks, however side attacks can disable movement and the exposed rear-mounted engine makes it vulnerable to flanking.\n\nWhile other tier 1 vehicles are gas guzzlers, this one burns through fuel at an alarming rate and is extremely slow to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.0.label,Engine,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.1.label,Left track,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.2.label,Right track,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.3.label,Front left drive sprocket,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.4.label,Front right drive sprocket,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.5.label,Back left drive sprocket,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.6.label,Back right drive sprocket,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.7.label,Gearbox,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.8.label,Left armor plating,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.9.label,Right armor plating,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.10.label,Front armor plating,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.11.label,Chemtank,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.12.label,Dashboard,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.13.label,Steering apparatus,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.14.label,Alternator,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Roadkill.components.15.label,Roof,label,Vehicles.VehicleDef/Roadkill_VehiclePawn.xml,def
+VVE_Scytheman_Blueprint.label,Scytheman,label,Vehicles.VehicleBuildDef/Scytheman_Buildable.xml,def
+VVE_Scytheman_Blueprint.description,"A juryrigged multiple rocket launcher system, the Scytheman is a repurposed farming vehicle intended to saturate a location with inaccurate volleys of explosives. Due to the design, it is not intended to fire successive volleys or be exposed to enemy fire.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Performs worse in the winter but slightly better on the flat, open road.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Scytheman_Buildable.xml,def
+Rocket_Scytheman_MainTurret.label,swarmer rocket,label,ThingDef/Scytheman_MainTurret.xml,def
+Scytheman_MainTurret.label,Rocket swarm turret,label,Vehicles.VehicleTurretDef/Scytheman_MainTurret.xml,def
+Scytheman_MainTurret.description,"An inaccurate launcher capable of firing two barrages of rockets covering a large area. The turret does not fire until someone orders it to fire. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Extensive firing may overheat and disable the turret.",description,Vehicles.VehicleTurretDef/Scytheman_MainTurret.xml,def
+Scytheman_MainTurret.fireModes.0.label,Burst,label,Vehicles.VehicleTurretDef/Scytheman_MainTurret.xml,def
+VVE_Scytheman.label,Scytheman,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.description,"A juryrigged multiple rocket launcher system, the Scytheman is a repurposed farming vehicle intended to saturate a location with inaccurate volleys of explosives. Due to the design, it is not intended to fire successive volleys or be exposed to enemy fire.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Performs worse in the winter but slightly better on the flat, open road.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.0.label,Engine,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.3.label,Middle left wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.4.label,Middle right wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.5.label,Back left wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.6.label,Back right wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.7.label,Front left suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.8.label,Front right suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.9.label,Middle left suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.10.label,Middle right suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.11.label,Back left suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.12.label,Back right suspension,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.13.label,Gearbox,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.14.label,Left side panel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.15.label,Right side panel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.16.label,Chemtank,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.17.label,Dashboard,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.18.label,Steering wheel,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.19.label,Alternator,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.20.label,Roof,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Scytheman.components.21.label,Hood,label,Vehicles.VehicleDef/Scytheman_VehiclePawn.xml,def
+VVE_Toad_Blueprint.label,Toad,label,Vehicles.VehicleBuildDef/Toad_Buildable.xml,def
+VVE_Toad_Blueprint.description,"A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Operator x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Toad_Buildable.xml,def
+Toad_MainTurret.label,toad artillery,label,Vehicles.VehicleTurretDef/Toad_MainTurret.xml,def
+Toad_MainTurret.description,"A mortar turret that launches all kinds of shells, typically mounted on Toad siege pods. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field.",description,Vehicles.VehicleTurretDef/Toad_MainTurret.xml,def
+Toad_MainTurret.fireModes.0.label,Single,label,Vehicles.VehicleTurretDef/Toad_MainTurret.xml,def
+VVE_Toad.label,Toad,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.description,"A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Operator x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.properties.roles.0.label,Operator,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.0.label,Engine,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.1.label,First thruster,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.2.label,Second thruster,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.3.label,Third thruster,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.4.label,Fourth thruster,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.5.label,Chemtank,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Toad.components.6.label,Hull,label,Vehicles.VehicleDef/Toad_VehiclePawn.xml,def
+VVE_Traveller_Blueprint.label,Traveller,label,Vehicles.VehicleBuildDef/Traveller_Buildable.xml,def
+VVE_Traveller_Blueprint.description,"A basic road vehicle suited for flat terrain, the Traveller is a relatively cheap and fast option that still performs quite amicably in cold weather and snowy conditions. The light armour and exposed front-mounted engine leans to its cadence of running away from trouble rather than towards it.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. The extra speed and acceleration make it even less fuel-efficient as well as more time-consuming to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleBuildDef/Traveller_Buildable.xml,def
+VVE_Traveller.label,Traveller,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.description,"A basic road vehicle suited for flat terrain, the Traveller is a relatively cheap and fast option that still performs quite amicably in cold weather and snowy conditions. The light armour and exposed front-mounted engine leans to its cadence of running away from trouble rather than towards it.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. The extra speed and acceleration make it even less fuel-efficient as well as more time-consuming to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel",description,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.properties.roles.0.label,Driver,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.properties.roles.1.label,Passenger,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.0.label,Engine,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.1.label,Front left wheel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.2.label,Front right wheel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.3.label,Back left wheel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.4.label,Back right wheel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.5.label,Front left suspension,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.6.label,Front right suspension,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.7.label,Back left suspension,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.8.label,Back right suspension,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.9.label,Gearbox,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.10.label,Left side panel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.11.label,Right side panel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.12.label,Chemtank,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.13.label,Front bumper,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.14.label,Rear bumper,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.15.label,Upholstery,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.16.label,Dashboard,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.17.label,Steering wheel,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.18.label,Alternator,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.19.label,Hood,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def
+VVE_Traveller.components.20.label,Roof,label,Vehicles.VehicleDef/Traveller_VehiclePawn.xml,def

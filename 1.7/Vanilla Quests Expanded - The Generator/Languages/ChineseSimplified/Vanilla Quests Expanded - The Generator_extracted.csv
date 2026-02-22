@@ -1,0 +1,672 @@
+key,text,tag,file,type
+VQE_InstallWoodFiredGenetron,install wood-fired ARC core,VQE_InstallWoodFiredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallWoodFiredGenetronDesc,"Install wood-fueled furnaces that greatly improve the power output of the ARC core, but will change the generator to require wood to operate.",VQE_InstallWoodFiredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallWoodFiredGenetronDescExpanded,\n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}),VQE_InstallWoodFiredGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallWoodFueledGenetron,install automated stoker,VQE_InstallWoodFueledGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallWoodFueledGenetronDesc,"Install an automated system for feeding the fuel, keeping the furnace at optimal output with less frequent fueling.",VQE_InstallWoodFueledGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallWoodFueledGenetronDescExpanded,\n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}),VQE_InstallWoodFueledGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallWoodPoweredGenetron,install energy circulators,VQE_InstallWoodPoweredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallWoodPoweredGenetronDesc,"Install energy circulators that redirect excess heat back into the ARC core, amplifying power output with only a slight rise in fuel consumption.",VQE_InstallWoodPoweredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallWoodPoweredGenetronDescExpanded,\n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}),VQE_InstallWoodPoweredGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallWoodBlastingGenetron,install adjustable burn cylinders,VQE_InstallWoodBlastingGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallWoodBlastingGenetronDesc,"Install large, adjustable internal cylinders that allow altering the burn rate of the core, adjusting the power generated to fit the needs of the colony.",VQE_InstallWoodBlastingGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallWoodBlastingGenetronDescExpanded,\n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}),VQE_InstallWoodBlastingGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelPoweredGenetron,install chemfuel-powered ARC core,VQE_InstallChemfuelPoweredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelPoweredGenetronDesc,"Install a set of chemfuel-operated engines that power up the ARC core, providing large quantities of energy by burning chemfuel. The engines will need regular maintenance, and if they break down, will require ARC components to be replaced.",VQE_InstallChemfuelPoweredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelPoweredGenetronDescExpanded,\n\nARC needs to operate at 200% using ARC tuning uninterrupted for {0} days. (time at the moment: {1}),VQE_InstallChemfuelPoweredGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelPoweredGenetronDescNoResearch,\n\nRequires Biofuel refining research to be completed.,VQE_InstallChemfuelPoweredGenetronDescNoResearch,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelBoostedGenetron,install hyperburn chamber,VQE_InstallChemfuelBoostedGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelBoostedGenetronDesc,Install a hyperburn chamber to superheat the combustion process and extract maximum energy from each unit of fuel.,VQE_InstallChemfuelBoostedGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelBoostedGenetronDescExpanded,\n\nARC overdrive needs to be active for {0} days. (time at the moment: {1}),VQE_InstallChemfuelBoostedGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelChargedGenetron,install adaptive fuel modulator,VQE_InstallChemfuelChargedGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelChargedGenetronDesc,"Install an adaptive fuel modulator to adjust fuel flow dynamically, matching power demands and optimizing fuel usage. This ensures extended runtime and peak efficiency without sacrificing energy output.",VQE_InstallChemfuelChargedGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelChargedGenetronDescExpanded,\n\nPower surge needs to be activated {0} times. (activations at the moment: {1}),VQE_InstallChemfuelChargedGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelFortifiedGenetron,install ignition stabilizer,VQE_InstallChemfuelFortifiedGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelFortifiedGenetronDesc,"Install an ignition stabilizer gizmo to ensure consistent and steady combustion, maintaining optimal power output and reducing fluctuations in fuel consumption. This upgrade enhances the generator's reliability and fuel efficiency. The stabilizer can be calibrated to permanently improve the power output.",VQE_InstallChemfuelFortifiedGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallChemfuelFortifiedGenetronDescExpanded,\n\nARC needs to burn {0} fuel (fuel burned at the moment: {1}),VQE_InstallChemfuelFortifiedGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallGeothermalGenetron,install geothermal ARC core,VQE_InstallGeothermalGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallGeothermalGenetronDesc,"Exchange the ARC core to utilise exclusively the steam energy produced by the geothermal vent. Doing so will decrease the power output significantly, but will also remove any fuel need completely. Geothermal ARC core will require regular maintenance, but can be maintained by everyone and not just the ARC specialists.",VQE_InstallGeothermalGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallGeothermalGenetronDescNoResearch,\n\nRequires Geothermal power research to be completed.,VQE_InstallGeothermalGenetronDescNoResearch,Misc_Gameplay.xml,keyed
+VQE_InstallGeothermalGenetronDescNoStudied,\n\nA colonist needs to study an ancient geothermal ARC somewhere in the world.,VQE_InstallGeothermalGenetronDescNoStudied,Misc_Gameplay.xml,keyed
+VQE_InstallSteamPoweredGenetron,install vent booster,VQE_InstallSteamPoweredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallSteamPoweredGenetronDesc,"Install a thermal vent booster to enhance steam flow from geothermal vents, boosting the ARC’s power output during peak energy demands. This upgrade ensures higher efficiency and performance when needed most.",VQE_InstallSteamPoweredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallSteamPoweredGenetronDescExpanded,\n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}),VQE_InstallSteamPoweredGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallThermalVentGenetron,install pressure surge protectors,VQE_InstallThermalVentGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallThermalVentGenetronDesc,"Install a set of pressure surge protectors that will prevent the ARC from ever reaching a critical breaking point, while also increasing the power output.",VQE_InstallThermalVentGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallThermalVentGenetronDescExpanded,\n\nSteam boost needs to be activated {0} times. (activations at the moment: {1}),VQE_InstallThermalVentGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallHeatPoweredGenetron,install flow regulators,VQE_InstallHeatPoweredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallHeatPoweredGenetronDesc,"Install a number of internal steam flow regulators that balance steam intake to ensure consistent performance, reducing wear and tear on the generator's components. Flow regulators allow the generator to operate even during a solar flare.",VQE_InstallHeatPoweredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallHeatPoweredGenetronDescExpanded,\n\nARC needs to operate uninterrupted for {0} (time at the moment: {1}),VQE_InstallHeatPoweredGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallUraniumPoweredGenetron,install uranium-powered ARC core,VQE_InstallUraniumPoweredGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallUraniumPoweredGenetronDesc,"Install a large nuclear reactor in place of the old ARC core, utilising uranium to generate huge amounts of energy. The ARC will no longer be able to operate without fuel, and will shut down if it ever runs out of uranium. Maintenance and uranium supply will become essential in preventing devastating consequences.",VQE_InstallUraniumPoweredGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallUraniumPoweredGenetronDescNoResearch,\n\nRequires Starship reactor research to be completed.,VQE_InstallUraniumPoweredGenetronDescNoResearch,Misc_Gameplay.xml,keyed
+VQE_InstallUraniumPoweredGenetronDescNoStudied,\n\nA colonist needs to study a nuclear ARC husk somewhere in the world.,VQE_InstallUraniumPoweredGenetronDescNoStudied,Misc_Gameplay.xml,keyed
+VQE_InstallNuclearGenetron,install uranium enrichment chamber,VQE_InstallNuclearGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallNuclearGenetronDesc,"Install a chamber that allows you to slow down the decay rate of uranium, allowing it to generate power for a longer time.",VQE_InstallNuclearGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallNuclearGenetronDescExpanded,"\n\nUranium-powered ARC needs to be restarted. To do that, it needs to burn all uranium and shut down due to lack of fuel.",VQE_InstallNuclearGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallIsotopicGenetron,install radiation shielding,VQE_InstallIsotopicGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallIsotopicGenetronDesc,"Install advanced shielding to reduce radiation exposure in nearby areas, making it safer for colonists when the reactor operates in unsafe mode.",VQE_InstallIsotopicGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallIsotopicGenetronDescExpanded,\n\nARC needs to burn {0} uranium (uranium burned at the moment: {1}),VQE_InstallIsotopicGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_InstallAtomicGenetron,install emergency shut-off systems,VQE_InstallAtomicGenetron,Misc_Gameplay.xml,keyed
+VQE_InstallAtomicGenetronDesc,"Install a system that instantly shuts down the reactor in dangerous situations, avoiding catastrophic failures and giving time for repairs. Additional safety mechanisms also allow anyone to maintain the atomic ARC, not just those who studied the ancient variants.",VQE_InstallAtomicGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_InstallAtomicGenetronDescExpanded,\n\nARC needs to operate uninterrupted in hazard mode for {0} (time at the moment: {1}),VQE_InstallAtomicGenetronDescExpanded,Misc_Gameplay.xml,keyed
+VQE_DowngradeGenetron,Downgrade to {0},VQE_DowngradeGenetron,Misc_Gameplay.xml,keyed
+VQE_DowngradeGenetronDesc,Downgrade the ARC to an earlier stage of construction.,VQE_DowngradeGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_DowngradeGenetronDialog,"Warning, this will downgrade the ARC to {0}. All materials used to upgrade it to the current stage will be lost. Are you sure you want to proceed?",VQE_DowngradeGenetronDialog,Misc_Gameplay.xml,keyed
+VQE_DowngradeGenetronMeltdown,It's not possible to downgrade the ARC during a meltdown.,VQE_DowngradeGenetronMeltdown,Misc_Gameplay.xml,keyed
+VQE_GenetronOverdrive,ARC overdrive,VQE_GenetronOverdrive,Misc_Gameplay.xml,keyed
+VQE_GenetronOverdriveDesc,"Put the ARC in a temporary {0} overdrive mode. It will rapidly burn through fuel, generating significantly more energy. If at any point during the overdrive the fuel runs out, the generator will break down and require refurbishing with ARC components.",VQE_GenetronOverdriveDesc,Misc_Gameplay.xml,keyed
+VQE_GenetronOverdriveDescExtended,\n\nOverdrive has a {0} cooldown. It will be ready again in {1},VQE_GenetronOverdriveDescExtended,Misc_Gameplay.xml,keyed
+VQE_GenetronTuning,ARC tuning,VQE_GenetronTuning,Misc_Gameplay.xml,keyed
+VQE_GenetronTuningDesc,Alter the fuel consumption to increase or decrease the power generated by the ARC.,VQE_GenetronTuningDesc,Misc_Gameplay.xml,keyed
+VQE_GenetronTuningSet,set ARC output to: {0}%,VQE_GenetronTuningSet,Misc_Gameplay.xml,keyed
+VQE_GenetronTuningProjected,Projected power output: {0} Wd,VQE_GenetronTuningProjected,Misc_Gameplay.xml,keyed
+VQE_FuelConsumptionProjected,Projected fuel burn rate: {0} per day,VQE_FuelConsumptionProjected,Misc_Gameplay.xml,keyed
+VQE_GenetronFineTuning,ARC fine-tuning,VQE_GenetronFineTuning,Misc_Gameplay.xml,keyed
+VQE_GenetronFineTuningDesc,"Alter the fuel consumption to increase or decrease the power generated by the ARC, and adjust generator maintenance wear to boost the power output.",VQE_GenetronFineTuningDesc,Misc_Gameplay.xml,keyed
+VQE_SetGenetronWear,set ARC wear to: {0}%,VQE_SetGenetronWear,Misc_Gameplay.xml,keyed
+VQE_PowerSurge,power surge,VQE_PowerSurge,Misc_Gameplay.xml,keyed
+VQE_PowerSurgeDesc,"Instantly vaporize half of the remaining fuel in the ARC to create a surge of power, refilling the batteries at the cost of a significant 25% maintenance reduction of the ARC. Power surge will temporarily disable nearby electronics.",VQE_PowerSurgeDesc,Misc_Gameplay.xml,keyed
+VQE_PowerSurgeDescExtended,\n\nPower Surge has a {0} cooldown. It will be ready again in {1},VQE_PowerSurgeDescExtended,Misc_Gameplay.xml,keyed
+VQE_PowerSurgeDescNoMaintenance,Power surge cannot be activated: ARC maintenance is too low (below 30%).,VQE_PowerSurgeDescNoMaintenance,Misc_Gameplay.xml,keyed
+VQE_CalibrateEfficiency,calibrate efficiency,VQE_CalibrateEfficiency,Misc_Gameplay.xml,keyed
+VQE_CalibrateEfficiencyDesc,"Set the ARC into a low-power mode to calibrate its efficiency. While the fuel consumption will not change in the low-power mode, upon completion of the calibration, the power output will permanently increase by 1%.",VQE_CalibrateEfficiencyDesc,Misc_Gameplay.xml,keyed
+VQE_CalibrateEfficiencyDescExtended,\n\nThe efficiency calibration has a {0} cooldown. It will be ready again in {1},VQE_CalibrateEfficiencyDescExtended,Misc_Gameplay.xml,keyed
+VQE_GenetronSteamTuning,pressure tuning,VQE_GenetronSteamTuning,Misc_Gameplay.xml,keyed
+VQE_GenetronSteamTuningDesc,"Alter the pressure of the ARC, affecting the wear and tear of components and the power output.",VQE_GenetronSteamTuningDesc,Misc_Gameplay.xml,keyed
+VQE_GenetronPressureLabel,ARC pressure,VQE_GenetronPressureLabel,Misc_Gameplay.xml,keyed
+VQE_GenetronSteamTuningMaintenance,set maintenance loss per day to: {0}%,VQE_GenetronSteamTuningMaintenance,Misc_Gameplay.xml,keyed
+VQE_SteamBoost,steam boost,VQE_SteamBoost,Misc_Gameplay.xml,keyed
+VQE_SteamBoostDesc,"Temporarily enhance the steam flow by activating internal steam pumps, increasing the power output of the ARC for 5 days. The vent boosters will need to cool down for a period of time, preventing them from being used again until the temperature is optimal again.",VQE_SteamBoostDesc,Misc_Gameplay.xml,keyed
+VQE_SteamBoostDescExtended,\n\nSteam boost has a {0} cooldown. It will be ready again in {1},VQE_SteamBoostDescExtended,Misc_Gameplay.xml,keyed
+VQE_CalibrateComponents,calibrate components,VQE_CalibrateComponents,Misc_Gameplay.xml,keyed
+VQE_CalibrateComponentsDesc,"Force a soft breakdown of the ARC, requiring parts of the core to be refurbished, in order to upgrade the internal workings of the core and improve the longevity of the components by 10%.",VQE_CalibrateComponentsDesc,Misc_Gameplay.xml,keyed
+VQE_CalibrateComponentsDescExtended,\n\nCalibrate components has a {0} cooldown. It will be ready again in {1},VQE_CalibrateComponentsDescExtended,Misc_Gameplay.xml,keyed
+VQE_RestartGenetron,restart ARC,VQE_RestartGenetron,Misc_Gameplay.xml,keyed
+VQE_RestartGenetronDesc,Jumpstart the nuclear ARC that has shut down due to lack of uranium. This restart can only be done if the ARC is filled with at least {0} uranium.,VQE_RestartGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_RestartGenetronDescExtended,\n\nThere isn't enough uranium in this reactor to restart it.,VQE_RestartGenetronDescExtended,Misc_Gameplay.xml,keyed
+VQE_RestartGenetronDescNotNeeded,\n\nGenetron is running normally at the moment and doesn't require a restart.,VQE_RestartGenetronDescNotNeeded,Misc_Gameplay.xml,keyed
+VQE_CalibrateFuelRods,calibrate fuel rods,VQE_CalibrateFuelRods,Misc_Gameplay.xml,keyed
+VQE_CalibrateFuelRodsDesc,"Temporarily shut down the reactor to calibrate the fuel consumption, allowing each unit of uranium to provide power for a longer time. Each calibration of fuel rods will reduce the fuel consumption rate by 10% of the remaining value.",VQE_CalibrateFuelRodsDesc,Misc_Gameplay.xml,keyed
+VQE_CalibrateFuelRodsDescExtended,\n\nCalibrate fuel rods has a {0} cooldown. It will be ready again in {1},VQE_CalibrateFuelRodsDescExtended,Misc_Gameplay.xml,keyed
+VQE_SafeMode,safe mode,VQE_SafeMode,Misc_Gameplay.xml,keyed
+VQE_SafeModeDesc,"The ARC operates in safe mode. Burning uranium affects the maintenance of the ARC core, but no radiation is leaking from it. Activating this ability will change the ARC to operate in hazard mode.",VQE_SafeModeDesc,Misc_Gameplay.xml,keyed
+VQE_HazardMode,hazard mode,VQE_HazardMode,Misc_Gameplay.xml,keyed
+VQE_HazardModeDesc,"The ARC operates in hazard mode. Burning uranium emits an unhealthy amount of radiation in radius, generating toxic buildup to everyone caught in it without toxic-resistant gear. The radius depends on the amount of uranium in the ARC. Maintenance of the ARC does not decrease. Activating this ability will change the ARC to operate in safe mode.",VQE_HazardModeDesc,Misc_Gameplay.xml,keyed
+VQE_SafeModeInfo,Operating in safe mode.,VQE_SafeModeInfo,Misc_Gameplay.xml,keyed
+VQE_HazardModeInfo,Operating in hazard mode.,VQE_HazardModeInfo,Misc_Gameplay.xml,keyed
+VQE_EmergencyShutDown,emergency shut-down,VQE_EmergencyShutDown,Misc_Gameplay.xml,keyed
+VQE_EmergencyShutDownDesc,"Shut down the ARC. It will stop burning uranium, thus stopping the maintenance loss. It will also stop generating power until restart procedures are initiated.",VQE_EmergencyShutDownDesc,Misc_Gameplay.xml,keyed
+VQE_EmergencyShutDownDescExtended,\n\nReactor is off now.,VQE_EmergencyShutDownDescExtended,Misc_Gameplay.xml,keyed
+VQE_Alert_LowMaintenance,ARC maintenance low,VQE_Alert_LowMaintenance,Misc_Gameplay.xml,keyed
+VQE_Alert_LowMaintenance_Desc,"ARC requires maintenance. If no maintenance is performed, the ARC will critically break down.",VQE_Alert_LowMaintenance_Desc,Misc_Gameplay.xml,keyed
+VQE_Alert_CriticalMaintenance,ARC maintenance critical,VQE_Alert_CriticalMaintenance,Misc_Gameplay.xml,keyed
+VQE_Alert_CriticalMaintenance_Desc,"ARC requires urgent maintenance. If no maintenance is performed, the ARC will critically break down.",VQE_Alert_CriticalMaintenance_Desc,Misc_Gameplay.xml,keyed
+VQE_Alert_LowUranium,ARC low on uranium,VQE_Alert_LowUranium,Misc_Gameplay.xml,keyed
+VQE_Alert_LowUranium_Desc,"ARC is about to run out of uranium. When it does, it will become disabled until the restart procedures are initiated.",VQE_Alert_LowUranium_Desc,Misc_Gameplay.xml,keyed
+VQE_NeedsStudy,{0} did not study an ancient ARC.,VQE_NeedsStudy,Misc_Gameplay.xml,keyed
+VQE_NeedsStudyGeothermal,{0} did not study an ancient geothermal ARC.,VQE_NeedsStudyGeothermal,Misc_Gameplay.xml,keyed
+VQE_NeedsStudyNuclear,{0} did not study a nuclear ARC husk.,VQE_NeedsStudyNuclear,Misc_Gameplay.xml,keyed
+VQE_NeedsStudyGeneric,"This colonist can't repair critical breakdowns, as they did not study an ancient ARC",VQE_NeedsStudyGeneric,Misc_Gameplay.xml,keyed
+VQE_Overdrive,Reactor overdrive,VQE_Overdrive,Misc_Gameplay.xml,keyed
+VQE_CriticalBreakdown,Critical breakdown,VQE_CriticalBreakdown,Misc_Gameplay.xml,keyed
+VQE_CurrentMaintenance,ARC maintenance: {0},VQE_CurrentMaintenance,Misc_Gameplay.xml,keyed
+VQE_LowPowerMode,Low power mode. Remaining time: {0}.,VQE_LowPowerMode,Misc_Gameplay.xml,keyed
+VQE_ShutDownForCalibrations,Shut down for calibrations. Remaining time: {0}.,VQE_ShutDownForCalibrations,Misc_Gameplay.xml,keyed
+VQE_FuelRateAtTheMoment,Current fuel burn rate: {0} per day,VQE_FuelRateAtTheMoment,Misc_Gameplay.xml,keyed
+VQE_ReactorShutdown,Reactor shut down,VQE_ReactorShutdown,Misc_Gameplay.xml,keyed
+VQE_SetTargetUraniumLevel,Set target uranium level,VQE_SetTargetUraniumLevel,Misc_Gameplay.xml,keyed
+VQE_SetTargetUraniumLevelTo,Set target uranium level to {0},VQE_SetTargetUraniumLevelTo,Misc_Gameplay.xml,keyed
+VQE_SetTargetUraniumLevelDesc,Set desired uranium level in the ARC. Colonists will try to fill the ARC up to that level.,VQE_SetTargetUraniumLevelDesc,Misc_Gameplay.xml,keyed
+VQE_NuclearPowerOutput,Power output: {0}W,VQE_NuclearPowerOutput,Misc_Gameplay.xml,keyed
+VQE_NuclearFuelConsumption,Fuel consumption per day: {0},VQE_NuclearFuelConsumption,Misc_Gameplay.xml,keyed
+VQE_GenetronMaintenanceTooltip,"ARC maintenance
+ARC needs to be maintained by colonists. If maintenance reaches 0%, ARC will break down.",VQE_GenetronMaintenanceTooltip,Misc_Gameplay.xml,keyed
+VQE_TraitorLabel,Traitor {PAWN_nameDef}!,VQE_TraitorLabel,Misc_Gameplay.xml,keyed
+VQE_TraitorLetter,"{PAWN_nameDef}, known for creating the ARC, has turned against the colony. {PAWN_pronoun} admits that they plan to sabotage the ARC, believing the colony’s reliance on a single source of power is a fatal mistake.\n\n{PAWN_nameDef} argues that trusting one machine with everyone’s survival is a path to disaster. Unable to change minds through reason, {PAWN_pronoun} chose to act instead.\n\nYou can choose to capture {PAWN_objective}, kill them or banish them. However, preventing the sabotage is the top priority. Do not let {PAWN_nameDef} get to the ARC.",VQE_TraitorLetter,Misc_Gameplay.xml,keyed
+VQE_MaintenanceImpact,ARC Maintenance in map,VQE_MaintenanceImpact,Misc_Gameplay.xml,keyed
+VQE_NoTechnology,Will not equip: Ideology prohibits,VQE_NoTechnology,Misc_Gameplay.xml,keyed
+VQE_AbilityNeedsComponent,This ability needs to target an advanced component.,VQE_AbilityNeedsComponent,Misc_Gameplay.xml,keyed
+VQE_StudyAncientGenetron,Study {0},VQE_StudyAncientGenetron,Misc_Gameplay.xml,keyed
+VQE_StudyAncientGenetronDesc,Study the {0} to find out how to construct an operational one in your colony.,VQE_StudyAncientGenetronDesc,Misc_Gameplay.xml,keyed
+VQE_StudyAncientGenetronDescExtended,\n\nThis {0} has already been studied or is in the process of being studied.,VQE_StudyAncientGenetronDescExtended,Misc_Gameplay.xml,keyed
+VQE_FactionBecameHostileTimed,You've stayed in the village too long. The people of {FACTION_name} are attacking!,VQE_FactionBecameHostileTimed,Misc_Gameplay.xml,keyed
+VQE_ThingWithInventorName,{0}'s {1},VQE_ThingWithInventorName,Misc_Gameplay.xml,keyed
+VQE_HasStudied,{0} has thoroughly studied the {1},VQE_HasStudied,Misc_Gameplay.xml,keyed
+VQE_PawnAlreadyStudied,{0} has already studied this structure,VQE_PawnAlreadyStudied,Misc_Gameplay.xml,keyed
+VQE_TraitorSchism,Traitor schism ({0}),VQE_TraitorSchism,Misc_Gameplay.xml,keyed
+VQE_TraitorSchismDesc,"The creator of the ARC has turned out to be a traitor: {0} has been spreading their beliefs, convincing others to embrace an ideology that rejects technology. They have formed a new ideology: {1}. They argue that dependence on the ARC is reckless and will doom the colony. Their growing following now views the ARC as a threat, and whispers of sabotage have begun to surface. Left unchecked, this movement could escalate into conflict, putting your colony’s survival at risk.\n\nFollowing colonists have adopted {1}: {2}\n\nFollowers of {1} will refuse to do research. They will be unhappy if equipped with industrial-tech level or higher apparel and weapons, and will target technological items in their tantrums. Their priority will be destroying the ARC generator, and they will dislike anyone who holds the knowledge how to construct one of them.\n\nYou can consider exiling these colonists, or converting them back to their previous ideology.",VQE_TraitorSchismDesc,Misc_Gameplay.xml,keyed
+VQE_InventorJoinsDesc,"The {PAWN_title} named {PAWN_nameDef} has emerged from a cryptosleep casket and is joining the colony.\n\n{PAWN_nameFull}, the brilliant mind behind the creation of the ARC generator, brings a wealth of knowledge and experience. Across this planet, {PAWN_nameDef} tirelessly developed countless ARC prototypes, though many succumbed to neglect or external catastrophes. Despite these setbacks, {PAWN_nameDef} possesses unparalleled expertise in constructing, repairing, maintaining, and upgrading all known ARC generator types, including the advanced nuclear and geothermal variants. Moreover, {PAWN_nameDef} can attempt to salvage critical ARC components from advanced components, a skill that could prove invaluable in building or enhancing your colony’s own ARC generator.",VQE_InventorJoinsDesc,Misc_Gameplay.xml,keyed
+VQEG_DisableNeedForSteamVent,Disable the need of a steam vent to build an ARC,VQEG_DisableNeedForSteamVent,Misc_Gameplay.xml,keyed
+VQEG_DisableNeedForSteamVentTooltip,"By default, you will need a steam vent present in the map to build your ARC. With this mod option active, you can build them anywhere. Useful for gravships, for example.",VQEG_DisableNeedForSteamVentTooltip,Misc_Gameplay.xml,keyed
+VQEG_ARCTimersMultiplier,ARC upgrade timer multiplier (lower means faster),VQEG_ARCTimersMultiplier,Misc_Gameplay.xml,keyed
+VQEG_ARCTimersMultiplierTooltip,"When upgrading the ARC, there are a series of time periods the player needs to respect before being allowed to do the upgrades (eg ""the ARC needs to run for X days in this mode before being upgraded""). This setting will apply a multiplier to those periods. Bear in mind a lower number means things will go faster. A higher number will mean the ARC will take longer.",VQEG_ARCTimersMultiplierTooltip,Misc_Gameplay.xml,keyed
+VQEG_ARCFuelMultiplier,ARC upgrade fuel multiplier (lower means less fuel needed),VQEG_ARCFuelMultiplier,Misc_Gameplay.xml,keyed
+VQEG_ARCFuelMultiplierTooltip,"When upgrading the ARC, there are some times when the player needs to burn a given amount of fuel before being allowed to do the upgrades (eg ""the ARC needs to burn X wood before being upgraded""). This setting will apply a multiplier to those amount. Bear in mind a lower number means less fuel is needed. A higher number will mean more fuel.",VQEG_ARCFuelMultiplierTooltip,Misc_Gameplay.xml,keyed
+VQEG_Reset,Reset,VQEG_Reset,Misc_Gameplay.xml,keyed
+VQE_CraftAnARCComponent.label,Craft an ARC component,label,AbilityDef/Abilities.xml,def
+VQE_CraftAnARCComponent.description,"Try and turn an advanced component into an ARC component. There is an equal chance that it will turn an advanced component into an ARC component, or an industrial component.",description,AbilityDef/Abilities.xml,def
+VQE_StudiedAncientGenetron.label,studied ancient ARC,label,HediffDef/Hediffs_Conditions.xml,def
+VQE_StudiedAncientGenetron.description,"This particular colonist has studied the ancient ARC. It allows them to build, upgrade and maintain an ARC in the colony.",description,HediffDef/Hediffs_Conditions.xml,def
+VQE_StudiedAncientGeothermalGenetron.label,studied ancient geothermal ARC,label,HediffDef/Hediffs_Conditions.xml,def
+VQE_StudiedAncientGeothermalGenetron.description,"This particular colonist has studied the ancient geothermal ARC. It allows them to build, upgrade and maintain a geothermal ARC in the colony.",description,HediffDef/Hediffs_Conditions.xml,def
+VQE_StudiedAncientNuclearGenetron.label,studied nuclear ARC husk,label,HediffDef/Hediffs_Conditions.xml,def
+VQE_StudiedAncientNuclearGenetron.description,"This particular colonist has studied a nuclear ARC husk. It allows them to build, upgrade and maintain a nuclear ARC in the colony.",description,HediffDef/Hediffs_Conditions.xml,def
+VQE_TraitorousInventor.description,"Traitorous inventor. This hediff shouldn't be visible to players. If you are seeing this you will go to cheater hell, which is full of politicians.",description,HediffDef/Hediffs_Conditions.xml,def
+VQE_TraitorousInventor.label,traitorous inventor,label,HediffDef/Hediffs_Conditions.xml,def
+VQE_FixCriticallyBrokenDownBuilding.reportString,replacing broken components in TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_MaintainGenetron.reportString,maintaining TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_StudyGenetron.reportString,studying TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_SabotageGenetron.reportString,sabotaging TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_Inventor.label,Inventor,label,PawnKindDef/Inventor.xml,def
+VQE_InventorMaleNames.rulePack.rulesStrings.0,r_first_name->[InventorNameFirstMale],li,RulePackDef/Inventor.xml,def
+VQE_InventorFemaleNames.rulePack.rulesStrings.0,r_first_name->[InventorNameFirstFemale],li,RulePackDef/Inventor.xml,def
+VQE_InventorLastNames.rulePack.rulesStrings.0,r_last_name->[InventorNameLast],li,RulePackDef/Inventor.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.0,questName->The [adj] [prototypeName],li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.1,adj->unfinished,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.2,adj->abandoned,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.3,adj->experimental,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.4,adj->ancient,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.5,adj->forgotten,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.6,adj->derelict,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.7,adj->failed,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.8,adj->unproven,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.9,adj->mysterious,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.10,adj->partially completed,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.11,adj->incomplete,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.12,adj->early-stage,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.13,adj->hidden,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.14,prototypeName->prototype,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.15,prototypeName->experiment,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.16,prototypeName->design,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.17,prototypeName->project,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.18,prototypeName->power core,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.19,prototypeName->machine,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.20,prototypeName->concept,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.21,prototypeName->generator,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.22,prototypeName->energy source,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.23,prototypeName->device,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.24,prototypeName->creation,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.25,prototypeName->artifact,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.26,prototypeName->test site,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questNameRules.rulesStrings.27,prototypeName->framework,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of an ancient construction site where [inventor_nameFull] once worked on a massive prototype generator. The site appears abandoned and isolated, surrounded by the remnants of a long-forgotten project.\n\n[terminalDetails] Visiting this site may provide [potentialRewards]. [journeyDetails] [finalDetails]",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==True)->We have discovered an ancient construction site where [inventor_nameFull] was working on a large prototype generator. The site lies in a remote location, surrounded by the ruins of an unfinished project.\n\n[terminalDetails] Exploring the site may yield [potentialRewards]. [journeyDetails] [finalDetails]",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.2,terminalDetails->There is a still-operational terminal containing research notes and schematics of [inventor_nameFull]'s work.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.3,terminalDetails->An active terminal holds critical data logs and experimental insights into generator construction.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.4,terminalDetails->The site contains a terminal rumored to have design blueprints and energy research breakthroughs.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.5,"terminalDetails->Ancient systems still hum faintly, offering a glimpse into [inventor_nameFull]'s ambitious prototype.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.6,"terminalDetails->A damaged terminal may still hold data on the ARC prototype, but its condition is uncertain.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.7,"potentialRewards->rare components, advanced research data, and valuable resources",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.8,"potentialRewards->essential materials, generator schematics, and advanced technology insights",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.9,"potentialRewards->valuable knowledge, unique building materials, and rare artifacts",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.10,potentialRewards->critical research breakthroughs and a bounty of salvageable materials,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.11,potentialRewards->rare loot and potentially groundbreaking energy research,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.12,journeyDetails->The location is far away and will require careful preparation for the trip.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.13,journeyDetails->The long distance to the site makes the expedition challenging but potentially rewarding.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.14,journeyDetails->Traveling to the site will demand significant time and resources.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.15,journeyDetails->The journey to this remote site may be dangerous but worth the effort.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.16,"journeyDetails->Its remote location suggests few immediate threats, but supplies will be key.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.17,"finalDetails->While no dangers are expected, the journey itself poses risks to unprepared colonists.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.18,"finalDetails->The site seems derelict, but caution is advised—its isolation may hide unexpected challenges.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.19,"finalDetails->The area appears uninhabited, but its age may make navigation and survival difficult.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.20,finalDetails->Prepare for the worst while hoping for the best—opportunity often comes with risk.,li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questDescriptionRules.rulesStrings.21,"finalDetails->The isolation may provide safety, but also leaves little room for error if trouble arises.",li,QuestScriptDef/Quest1.xml,def
+VQE_PrototypeARC.questContentRules.rulesStrings.0,terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.,li,QuestScriptDef/Quest1.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.0,questName->The [adj] [constructionName],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.1,adj->sprawling,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.2,adj->abandoned,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.3,adj->industrial,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.4,adj->derelict,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.5,adj->ancient,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.6,adj->forgotten,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.7,adj->overgrown,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.8,adj->incomplete,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.9,adj->vast,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.10,adj->unfinished,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.11,adj->dilapidated,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.12,adj->remote,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.13,adj->mysterious,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.14,adj->failed,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.15,adj->once-thriving,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.16,constructionName->construction yard,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.17,constructionName->development site,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.18,constructionName->industrial complex,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.19,constructionName->workshop,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.20,constructionName->power yard,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.21,constructionName->generator site,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.22,constructionName->assembly area,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.23,constructionName->test facility,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.24,constructionName->work village,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.25,constructionName->prototype yard,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.26,constructionName->engineering hub,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.27,constructionName->construction facility,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.28,constructionName->ARC facility,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questNameRules.rulesStrings.29,constructionName->energy project site,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.0,"questDescription->According to the data extracted on the old prototype site, we managed to find the location of an [adj] industrial complex where construction of the [arcName] continued. This sprawling facility was once bustling with engineers and scientists pushing the boundaries of technology, but now it stands in silence, overtaken by the passage of time.\n\nThe site contains [siteDetails], but it is now [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nSuccessfully completing this expedition [questOutcome].",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.1,"questDescription->Data from the prototype site revealed the coordinates of an [adj] industrial yard, where the [arcName] was further developed by [inventor_nameFull] and their team. The facility stretches across a vast expanse, its rusting frames and crumbling walls hinting at its former glory.\n\nWithin the complex are [siteDetails], but [siteThreat] must be dealt with before any meaningful research can be done.\n\n[studyWarning] [questFailWarning]\n\nResolving this task [questOutcome].",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.2,"questDescription->Analyzing the prototype’s data, we’ve pinpointed the location of an [adj] construction yard that served as the next step in the [arcName] project. This site, once a beacon of industrial ambition, is now a graveyard of innovation, its machinery left to decay under the open sky.\n\nInside, you’ll find [siteDetails], but it is [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nYour efforts here [questOutcome].",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.3,"questDescription->The data retrieved from the old prototype has led us to an [adj] industrial complex that was pivotal in advancing the [arcName] project. Once a thriving hub of technological development, the facility now lies in ruin, its halls echoing only with the wind.\n\nAmong the remnants are [siteDetails], though the complex has become [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompleting this mission [questOutcome].",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.4,adj->forgotten,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.5,adj->ancient,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.6,adj->derelict,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.7,adj->sprawling,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.8,adj->decayed,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.9,adj->overgrown,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.10,adj->ruined,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.11,adj->industrial,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.12,adj->abandoned,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.13,arcName->ARC,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.14,arcName->generator,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.15,arcName->machine,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.16,arcName->core,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.17,arcName->power source,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.18,arcName->device,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.19,arcName->artifact,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.20,siteDetails->ancient machinery and unfinished generator components,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.21,siteDetails->critical research notes and large generator components,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.22,siteDetails->valuable schematics and industrial equipment,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.23,siteDetails->research data and prototype machinery,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.24,siteDetails->complex equipment and experimental generator blueprints,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.25,siteDetails->abandoned industrial machines and research archives,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.26,siteDetails->essential research notes and unique generator pieces,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.27,siteThreat->home to [Number] manhunting [AnimalPlural],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.28,siteThreat->overrun with [Number] manhunting [AnimalPlural],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.29,siteThreat->inhabited by a pack of [AnimalPlural],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.30,siteThreat->guarded by [Number] aggressive [AnimalPlural],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.31,siteThreat->occupied by [Number] hostile [AnimalPlural],li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.32,studyWarning->Careful examination of the area is required to uncover valuable information.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.33,studyWarning->You must study the ancient machines and generator components carefully.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.34,"studyWarning->To gain insights, you'll need to investigate the research notes and generator parts thoroughly.",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.35,studyWarning->Thorough investigation is key to retrieving useful data from the site.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.36,"studyWarning->The data here could be critical, so every effort must be made to study the area thoroughly.",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.37,"questFailWarning->If more than half of the studiable machines and notes are destroyed, the mission will fail.",li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.38,questFailWarning->Too much damage to the complex will result in failure.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.39,questFailWarning->Destroying too many research materials will cause the mission to fail.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.40,questFailWarning->Failure to preserve enough studiable components will end the mission.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.41,questFailWarning->Be mindful of your actions; the mission hinges on preserving the site's integrity.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.42,questOutcome->could lead us to the actual ARC location.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.43,questOutcome->may uncover the true ARC site.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.44,questOutcome->might point us to the final ARC project.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.45,questOutcome->should reveal the next steps to find the ancient ARC.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questDescriptionRules.rulesStrings.46,questOutcome->will bring us closer to uncovering the secrets of the ARC.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questContentRules.rulesStrings.0,allObjectsStudiedMessage->All objects are studied. You've collected the information and can now leave.,li,QuestScriptDef/Quest2.xml,def
+VQE_AbandonedARC.questContentRules.rulesStrings.1,halfOfObjectsDestroyedMessage->More than half of the research data has been lost.,li,QuestScriptDef/Quest2.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.0,questName->The [adj] [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.1,adj->forgotten,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.2,adj->ancient,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.3,adj->mysterious,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.4,adj->sacred,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.5,adj->hidden,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.6,adj->forsaken,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.7,adj->tribal,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.8,adj->lost,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.9,adj->overgrown,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.10,arcName(p=4)->ARC,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.11,arcName->structure,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.12,arcName->machine,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.13,arcName->relic,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.14,arcName->generator,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.15,arcName->core,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.16,arcName->artifact,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.17,arcName->device,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questNameRules.rulesStrings.18,arcName->source,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.0,"questDescription->You have [discoveryDesc] of a [adj] village where the potentially final prototype of [inventor_nameFull]'s [arcName] has been built. The villagers [villagerBehavior], and the site [villageCondition].\n\n[arcDetails] However, [villagerWarnings]. If [trigger], the villagers will [villagerReaction].\n\n[finalWarning]",li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.1,discoveryDesc->learned,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.2,discoveryDesc->discovered,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.3,discoveryDesc->found the location,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.4,adj->forgotten,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.5,adj->ancient,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.6,adj->hidden,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.7,adj->mysterious,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.8,adj->decayed,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.9,adj->ruined,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.10,arcName->ARC,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.11,arcName->relic,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.12,arcName->artifact,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.13,arcName->device,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.14,arcName->core,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.15,villagerBehavior->venerate the [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.16,villagerBehavior->worship the [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.17,villagerBehavior->protect the [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.18,villagerBehavior->revere the [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.19,villagerBehavior->guard the [arcName],li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.20,villageCondition->shows signs of past technological greatness,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.21,villageCondition->is overgrown and crumbling,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.22,villageCondition->has decayed into primitive simplicity,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.23,villageCondition->has long since fallen from its peak,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.24,villageCondition->bears the scars of time and neglect,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.25,arcDetails->The [arcName] is said to hold valuable secrets for your colony.,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.26,arcDetails->Studying the [arcName] could unlock vital knowledge.,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.27,arcDetails->This ancient [arcName] may reveal the means to build one yourself.,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.28,villagerWarnings->be careful not to provoke the villagers,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.29,villagerWarnings->the villagers will not take kindly to trespassers,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.30,villagerWarnings->violating their sanctity may result in hostility,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.31,villagerWarnings->their patience may be thin with outsiders,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.32,"trigger->you harm anyone, interact with the [arcName] or overstay your welcome",li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.33,villagerReaction->turn hostile and call for reinforcements,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.34,villagerReaction->attack with all their might,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.35,villagerReaction->defend their home at all costs,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.36,villagerReaction->lash out in violent retaliation,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.37,"finalWarning->If hostilities break out, reinforcements may arrive quickly.",li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.38,"finalWarning->If conflict arises, expect heavy resistance.",li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.39,finalWarning->Failure to act swiftly could spell disaster.,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questDescriptionRules.rulesStrings.40,finalWarning->Prepare for an overwhelming response if provoked.,li,QuestScriptDef/Quest3.xml,def
+VQE_AncientARC.questContentRules.rulesStrings.0,terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.,li,QuestScriptDef/Quest3.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.0,questName->[Inventor_LastName]’s [adj] [structureType],li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.1,adj->forgotten,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.2,adj->ancient,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.3,adj->hidden,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.4,adj->abandoned,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.5,adj->sealed,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.6,adj->mysterious,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.7,adj->remote,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.8,adj->lost,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.9,adj->secret,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.10,adj->forsaken,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.11,structureType->bunker,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.12,structureType->vault,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.13,structureType->crypt,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.14,structureType->tomb,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.15,structureType->chamber,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.16,structureType->sanctuary,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.17,structureType->facility,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questNameRules.rulesStrings.18,structureType->shelter,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.0,"questDescription->[dataDiscovery] revealed the location of a [adj] underground [structureType] where [inventor_nameFull] rests in cryptosleep. The journey will be grueling, as the site is afflicted by a[coldSnapDesc], bringing the region into unnaturally low temperatures. \n\nInside the bunker, a few [turretDefense] still guard the interior, powered by an ancient [arcName]. The ARC cannot be studied but can be deconstructed for [arcComponents]. Your primary task, however, is to reach the casket and release the inventor. Prepare carefully for the extreme cold or risk severe [hypothermiaDanger].",li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.1,"questDescription->Recovered data points us to a [adj] bunker buried deep beneath a region suffering from a[coldSnapDesc]. It is here that [inventor_nameFull], the legendary mind behind the ARC project, lies sealed in cryptosleep. \n\nThe area’s temperatures are falling to dangerous lows, creating an immediate risk of [hypothermiaDanger] during your approach. Inside, [turretDefense] remain active, powered by an overgrown [arcName]. The ARC can be deconstructed for [arcComponents], but the real prize is freeing the inventor and bringing them back to your colony.",li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.2,"questDescription->We’ve identified the location of a [adj] [structureType] where [inventor_nameFull] has been preserved in a cryptosleep casket. The area surrounding the site is cursed with a[coldSnapDesc], plummeting temperatures to deadly extremes. \n\nThe bunker itself houses a few [turretDefense], powered by an overgrown [arcName]. While the ARC cannot be studied, it can be salvaged for [arcComponents]. Be ready for freezing conditions and hypothermia as you attempt to retrieve the legendary inventor.",li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.3,dataDiscovery->Ancient schematics,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.4,dataDiscovery->Decoded transmissions,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.5,dataDiscovery->Recovered coordinates,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.6,dataDiscovery->Archived data logs,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.7,adj->forgotten,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.8,adj->ancient,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.9,adj->hidden,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.10,adj->sealed,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.11,adj->abandoned,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.12,adj->overgrown,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.13,adj->mysterious,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.14,adj->remote,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.15,structureType->bunker,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.16,structureType->vault,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.17,structureType->sanctuary,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.18,structureType->chamber,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.19,structureType->crypt,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.20,structureType->facility,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.21,coldSnapDesc->n unnatural coldsnap,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.22,coldSnapDesc-> bizarre freezing anomaly,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.23,coldSnapDesc->n unexplainable cold front,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.24,coldSnapDesc-> mysterious deep freeze,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.25,coldSnapDesc-> sudden extreme temperature drop,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.26,coldSnapDesc-> deadly frost anomaly,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.27,turretDefense->inactive turrets that occasionally sputter to life,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.28,turretDefense->a handful of aging security turrets,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.29,turretDefense->old but still lethal automated turrets,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.30,turretDefense->sporadically functional defense systems,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.31,turretDefense->a few crumbling yet operational turrets,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.32,arcComponents->rare ARC components,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.33,arcComponents->valuable technological salvage,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.34,arcComponents->essential ARC salvage parts,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.35,arcComponents->advanced generator fragments,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.36,hypothermiaDanger->frostbite and hypothermia,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.37,hypothermiaDanger->rapid onset hypothermia,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.38,hypothermiaDanger->life-threatening cold exposure,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.39,hypothermiaDanger->freezing injuries and exhaustion,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.40,hypothermiaDanger->severe frostbite or death,li,QuestScriptDef/Quest4.xml,def
+VQE_InventorShelter.questDescriptionRules.rulesStrings.41,arcName->ARC generator,li,QuestScriptDef/Quest4.xml,def
+VQE_UnnaturalColdSnap.label,cold snap,label,GameConditionDef/Quest4.xml,def
+VQE_UnnaturalColdSnap.description,An unnatural cold snap is freezing the region.,description,GameConditionDef/Quest4.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.0,questName->[adj] [arcName],li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.1,adj->abandoned,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.2,adj->derelict,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.3,adj->forsaken,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.4,adj->ruined,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.5,adj->remote,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.6,adj->desolate,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.7,adj->forgotten,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.8,adj->hidden,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.9,adj->bandit-controlled,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.10,adj->enemy,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.11,adj->hideout,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.12,adj->overrun,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.13,adj->dangerous,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.14,arcName->ARC generator site,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.15,arcName->power facility,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.16,arcName->generator station,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.17,arcName->industrial core,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.18,arcName->energy relic,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.19,arcName->power ruins,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.20,arcName->ARC ruins,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questNameRules.rulesStrings.21,arcName->prototype generator,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has occupied the location of an abandoned ARC generator site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the ARC generator and recover valuable ARC components. [asker_label] also says that [sitePart0_description].",li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==true)->We have received information that an old ARC generator site has been taken over by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the generator for any remaining research data and salvageable ARC components. Be prepared for resistance, as the site is likely heavily guarded. Additionally, [sitePart0_description].",li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.2,"sitePart0_description->the site is partially overgrown, with many of its original structures crumbling from age",li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.3,sitePart0_description->the bandits have fortified the site with makeshift defenses and traps,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.4,sitePart0_description->the ARC generator is visibly damaged but still holds valuable salvage,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.5,sitePart0_description->the site appears to be a mix of old ruins and hastily built bandit encampments,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.6,sitePart0_description->hostile patrols have been seen guarding the perimeter,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.questDescriptionRules.rulesStrings.7,sitePart0_description->the bandits are using the generator to power their crude operations,li,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.root.nodes.2.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.root.nodes.2.node.nodes.0.text,The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.root.nodes.3.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/Quest5.xml,def
+VQE_ArcSite.root.nodes.3.node.nodes.0.text,"After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.",text,QuestScriptDef/Quest5.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.0,questName->[adj] [nuclearArcName],li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.1,adj->abandoned,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.2,adj->ruined,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.3,adj->bandit-occupied,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.4,adj->forgotten,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.5,adj->derelict,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.6,adj->ancient,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.7,adj->overrun,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.8,adj->desecrated,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.9,adj->dangerous,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.10,adj->hidden,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.11,nuclearArcName->Nuclear ARC Site,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.12,nuclearArcName->ARC Husk,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.13,nuclearArcName->Reactor Remains,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.14,nuclearArcName->ARC Ruins,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.15,nuclearArcName->Generator Relic,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.16,nuclearArcName->Reactor Core,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.17,nuclearArcName->Power Husk,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.18,nuclearArcName->Energy Vault,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.19,nuclearArcName->Forsaken Reactor,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questNameRules.rulesStrings.20,nuclearArcName->Generator Site,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==true)->We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.2,"sitePart0_description->the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.3,sitePart0_description->the bandits have heavily fortified the area with makeshift barriers and traps,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.4,"sitePart0_description->the husk appears partially intact, holding the promise of valuable salvage",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.5,sitePart0_description->the site is a mix of ancient industrial ruins and ramshackle bandit encampments,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.6,sitePart0_description->hostile patrols have been spotted guarding the perimeter,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.7,sitePart0_description->the bandits are using the ARC husk to power their crude machinery and weapons,li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.8,"sitePart1_description->The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.9,"sitePart1_description->A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.10,"sitePart1_description->Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.11,"sitePart1_description->The site is covered in toxic fallout, making survival without protective gear extremely difficult",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.questDescriptionRules.rulesStrings.12,"sitePart1_description->Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past",li,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text,The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/Quest6.xml,def
+VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text,"After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.",text,QuestScriptDef/Quest6.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.0,questName->[adj] [arcType] [siteType],li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.1,adj->seized,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.2,adj->abandoned,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.3,adj->guarded,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.4,adj->ancient,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.5,adj->overrun,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.6,adj->occupied,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.7,adj->contested,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.8,adj->ruined,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.9,adj->forgotten,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.10,adj->hidden,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.11,arcType->geothermal ARC,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.12,arcType->ARC generator,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.13,arcType->geothermal core,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.14,arcType->ARC station,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.15,arcType->energy core,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.16,arcType->power source,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.17,arcType->geothermal plant,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.18,siteType->site,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.19,siteType->facility,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.20,siteType->outpost,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.21,siteType->complex,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.22,siteType->camp,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questNameRules.rulesStrings.23,siteType->station,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned geothermal ARC site. The camp is under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Securing the site will allow us to study the geothermal ARC and recover valuable components for future use. Additionally, [sitePart0_description].",li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==true)->We have received information that an old geothermal ARC site has been occupied by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the site to control the surrounding area.\n\nSecuring the site will give us access to study the geothermal ARC and extract useful components. The site is likely well-defended, so prepare for resistance. Additionally, [sitePart0_description].",li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.2,"sitePart0_description->the site is partially overgrown, with remnants of its original machinery scattered around",li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.3,sitePart0_description->the bandits have reinforced the area with crude barricades and guard posts,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.4,sitePart0_description->the geothermal ARC appears heavily worn but intact enough to salvage parts,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.5,"sitePart0_description->the facility's infrastructure is still standing, though it shows signs of significant wear",li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.6,"sitePart0_description->hostile patrols have been spotted in the area, ensuring no one approaches unchallenged",li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.questDescriptionRules.rulesStrings.7,sitePart0_description->the bandits seem to be utilizing the ARC to power their operations,li,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.label,Quest expired: [resolvedQuestName],label,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.root.nodes.2.node.nodes.0.text,The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.,text,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.label,Quest failed: [resolvedQuestName],label,QuestScriptDef/Quest7.xml,def
+VQE_GeothermalArcSite.root.nodes.3.node.nodes.0.text,"After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.",text,QuestScriptDef/Quest7.xml,def
+VQE_TheGeneratorQuestChain.label,The Generator,label,VEF.Storyteller.QuestChainDef/QuestChains.xml,def
+VQE_TheGeneratorQuestChain.description,"This quest chain will have you explore the various sites in which {InventorFullName} tried to construct a prototype of the ultimate power source. If you connect the dots, you may be able to pick up this endeavour and construct your own ARC generator.",description,VEF.Storyteller.QuestChainDef/QuestChains.xml,def
+VQE_DisassembleGenetronComponent.label,disassemble ARC component,label,RecipeDef/Recipes_Production.xml,def
+VQE_DisassembleGenetronComponent.description,Disassemble an ARC component to salvage potentially useful advanced parts.,description,RecipeDef/Recipes_Production.xml,def
+VQE_DisassembleGenetronComponent.jobString,disassembling ARC component.,jobString,RecipeDef/Recipes_Production.xml,def
+VQE_Quest1Site.label,ARC prototype,label,SitePartDef/Quest1Sites.xml,def
+VQE_Quest1Site.description,A derelict site with an abandoned ARC prototype.,description,SitePartDef/Quest1Sites.xml,def
+VQE_Quest2Site.label,ARC industrial complex,label,SitePartDef/Quest2Sites.xml,def
+VQE_Quest2Site.description,An abandoned industrial complex with an ARC prototype.,description,SitePartDef/Quest2Sites.xml,def
+VQE_Quest3Site.label,ancient ARC,label,SitePartDef/Quest3Sites.xml,def
+VQE_Quest3Site.description,An even larger construction site with an ARC prototype.,description,SitePartDef/Quest3Sites.xml,def
+VQE_Quest4Site.label,buried bunker,label,SitePartDef/Quest4Sites.xml,def
+VQE_Quest4Site.description,A forgotten bunker emanating a preternatural cold.,description,SitePartDef/Quest4Sites.xml,def
+VQE_Quest5Site.label,ARC site,label,SitePartDef/Quest5Sites.xml,def
+VQE_Quest5Site.description,An abandoned ARC generator site where ARC components can be scavenged.,description,SitePartDef/Quest5Sites.xml,def
+VQE_Quest5Site_Geothermal.label,geothermal ARC site,label,SitePartDef/Quest5Sites_Geothermal.xml,def
+VQE_Quest5Site_Geothermal.description,An abandoned ARC generator site with the ruins of a geothermal ARC.,description,SitePartDef/Quest5Sites_Geothermal.xml,def
+VQE_Quest5Site_Nuclear.label,nuclear ARC site,label,SitePartDef/Quest5Sites_Nuclear.xml,def
+VQE_Quest5Site_Nuclear.description,An abandoned ARC generator site with the ruins of a nuclear ARC.,description,SitePartDef/Quest5Sites_Nuclear.xml,def
+VQE_GenetronMaintenanceLoss.label,maintenance loss base rate,label,StatDef/Stats_Building_Special.xml,def
+VQE_GenetronMaintenanceLoss.description,"The base rate at which an ARC's maintenance is reduced, per day.",description,StatDef/Stats_Building_Special.xml,def
+VQE_Genetron_Basic.label,ARC,label,ThingDef/Buildings_BasicGenetron.xml,def
+VQE_Genetron_Basic.description,"Advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Must be placed on a steam geyser.",description,ThingDef/Buildings_BasicGenetron.xml,def
+VQE_Genetron_ChemfuelPowered.label,chemfuel-powered ARC,label,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelPowered.description,"Chemfuel-powered advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and chemfuel burned in a gigantic engine. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. It can also be tuned to increase the power generation even further. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelBoosted.label,chemfuel-boosted ARC,label,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelBoosted.description,"Chemfuel-boosted advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and chemfuel burned in a gigantic engine. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. It can also be tuned to increase the power generation even further. A power surge function allows it to instantly vaporize a large quantity of fuel to refill batteries in the network. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelCharged.label,chemfuel-charged ARC,label,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelCharged.description,"Chemfuel-charged advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and chemfuel burned in a gigantic engine. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. It can also be fine-tuned to increase the power generation even further or reduce maintenance loss if the strain on the components is too high. A power surge function allows it to instantly vaporize a large quantity of fuel to refill batteries in the network. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelFortified.label,chemfuel-fortified ARC,label,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_ChemfuelFortified.description,"Chemfuel-fortified advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and chemfuel burned in a gigantic engine. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. It can also be fine-tuned to increase the power generation even further or reduce maintenance loss if the strain on the components is too high. A power surge function allows it to instantly vaporize a large quantity of fuel to refill batteries in the network. It is possible to calibrate the efficiency of the ARC to permanently increase the power generated from each burnt unit of fuel. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_ChemfuelPowered_Genetrons.xml,def
+VQE_Genetron_Geothermal.label,geothermal ARC,label,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_Geothermal.description,"Geothermal advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Unlike other ARCs, however, this variant can be maintained by anyone, even those who haven’t studied the ancient generators. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Pressure can be tuned to reduce the maintenance need at the cost of lower power consumption. It is possible to calibrate the efficiency of the ARC to permanently increase the power generated. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_SteamPowered.label,steam-powered ARC,label,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_SteamPowered.description,"Steam-powered advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers. The engine requires regular maintenance, and lack of it can result in a critical breakdown of the ARC components. Unlike other ARCs, however, this variant can be maintained by anyone, even those who haven’t studied the ancient generators. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Pressure can be tuned to reduce the maintenance need at the cost of lower power consumption. It is possible to calibrate the efficiency of the ARC to permanently increase the power generated. The steam boost ability can be used to temporarily increase the power output, but requires a lengthy cool down period afterwards. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_ThermalVent.label,thermal-vent ARC,label,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_ThermalVent.description,"Thermal-vent advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers. The engine requires regular maintenance, and lack of it can result in a minor breakdown that requires just regular components to fix. Unlike other ARCs, however, this variant can be maintained by anyone, even those who haven’t studied the ancient generators. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Pressure can be tuned to reduce the maintenance need at the cost of lower power consumption. It is possible to calibrate the efficiency of the ARC to permanently increase the power generated. The steam boost ability can be used to temporarily increase the power output, but requires a lengthy cool down period afterwards. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_HeatPowered.label,heat-powered ARC,label,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_Genetron_HeatPowered.description,"Heat-powered advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers. The engine requires regular maintenance, and lack of it can result in a minor breakdown that requires just regular components to fix. Unlike other ARCs, however, this variant can be maintained by anyone, even those who haven’t studied the ancient generators. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Pressure can be tuned to reduce the maintenance need at the cost of lower power consumption. It is possible to calibrate the efficiency of the ARC to permanently increase the power generated. The steam boost ability can be used to temporarily increase the power output, but requires a lengthy cool down period afterwards. This generator will continue generating power even during a solar flare. It is also possible to calibrate the internal components, permanently lowering the maintenance need of the device. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_Geothermal_Genetrons.xml,def
+VQE_GenetronJunk.label,ARC junk,label,ThingDef/Buildings_Misc.xml,def
+VQE_GenetronJunk.description,"A twisted chunk of an ARC. Valuable parts are missing, and everything else is degraded to uselessness.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPart.label,ancient ARC part,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPart.description,"An old, rusted fragment of an ARC. It was probably abandoned when the construction project was halted. It might be possible to disassemble it to obtain some valuable ARC components.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_One.label,prototype,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_One.description,"A rusted frame of an old power generator, incomplete and barely holding together. Most of its parts are long gone, scavenged or destroyed by time. What’s left is little more than scrap, with no hope of restoration. Perhaps investigating the area could allow you to find the location of another prototype.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_Two.label,prototype,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_Two.description,"An abandoned generator. Its machinery slightly more intact but still useless. Broken panels, snapped wires, and heavy rust show it was never finished. It’s overgrown and forgotten, offering only a few parts to salvage. Perhaps investigating the area could allow you to find the location of another prototype.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_Three.label,prototype,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientARCPrototype_Three.description,"An almost-complete generator, abandoned before it could ever work. The structure is more solid, but its insides are wrecked—rust, missing pieces, and heavy overgrowth make it useless. Only a few materials can still be salvaged, but among them it is possible to find some ARC components. Perhaps investigating the area could allow you to find the location of another prototype.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientConstructionTruck.label,ancient construction truck,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientConstructionTruck.description,"A rusted, overgrown wreck of a large construction truck. Everything that isn't rusted away was looted long ago. It was most likely used in construction of an ARC generator, judging by the still present shells of a large generator unit strapped on the back.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientConstructionCrane.label,ancient construction crane,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientConstructionCrane.description,"A rusted, overgrown wreck of a large construction crane. Everything that isn't rusted away was looted long ago. Cranes like that could have been used to construct the large ARC generators, but this wreck can no longer be utilised for anything due to broken down machinery.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientDigger.label,ancient digger,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientDigger.description,"A rusted, overgrown wreck of a large digger. Everything that isn't rusted away was looted long ago. A digger of that size could’ve been used to prepare the area for the construction of an ARC generator, but this one is in a very bad state.",description,ThingDef/Buildings_Misc.xml,def
+VQE_EmptyConstructionPallet.label,empty construction pallet,label,ThingDef/Buildings_Misc.xml,def
+VQE_EmptyConstructionPallet.description,A rusted construction pallet. It’s empty.,description,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Boxes.label,construction pallet with boxes,label,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Boxes.description,"A rusted construction pallet with a stack of old, rusted steel boxes. Anything of value has been removed a long time ago.",description,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Scrap.label,construction pallet with scrap,label,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Scrap.description,A rusted construction pallet with a large container of scrap on it. Can be rummaged through to recover some steel.,description,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Components.label,construction pallet with components,label,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Components.description,A rusted construction pallet with a large container of scrapped components on it. Can be rummaged through to recover some industrial components.,description,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Chemfuel.label,construction pallet with jerrycans,label,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Chemfuel.description,A rusted construction pallet with a stack of unused chemfuel jerrycans. Can be salvaged through to recover some chemfuel.,description,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Wood.label,construction pallet with wood,label,ThingDef/Buildings_Misc.xml,def
+VQE_ConstructionPallet_Wood.description,A rusted construction pallet with a large stack of rotting wood. It is possible to recover some drier wood from it.,description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal.label,research terminal,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal.description,An ancient computer terminal. It can be used to access research notes related to an ARC generator unit.,description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal_Off.label,ancient research terminal,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal_Off.description,"An ancient computer terminal. It’s disconnected from power, or simply not working.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal_Cracked.label,cracked research terminal,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchTerminal_Cracked.description,An ancient computer terminal. The screen is cracked and any components of value have been removed.,description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchFiles.label,ancient research files,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchFiles.description,"An ancient, rusted filing cabinet containing folders with research notes regarding the construction of an ARC generator.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchFiles_Off.label,ancient filing cabinet,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientResearchFiles_Off.description,"An ancient, rusted filing cabinet. It’s completely empty.",description,ThingDef/Buildings_Misc.xml,def
+VQE_ExperimentalARCPart.label,experimental ARC part,label,ThingDef/Buildings_Misc.xml,def
+VQE_ExperimentalARCPart.description,"A bizarre piece of machinery that was designed for a large generator. Since it was covered with a tarp, it’s relatively intact. It can be studied to gain some knowledge about the ARC generator unit that may help decipher the ancient research data left by the inventor. It might be possible to disassemble it to obtain some valuable ARC components.",description,ThingDef/Buildings_Misc.xml,def
+VQE_ExperimentalARCPart_Studied.label,studied experimental ARC part,label,ThingDef/Buildings_Misc.xml,def
+VQE_ExperimentalARCPart_Studied.description,"A bizarre piece of machinery that was designed for a large generator. As you have already studied it, it can be disassembled for parts.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientChainlinkFence.label,ancient chainlink fence,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientChainlinkFence.description,An ancient fence made of reinforced metal posts connected by rusted chainlink.,description,ThingDef/Buildings_Misc.xml,def
+VQE_OvergrownCryptosleepCasket.label,cryptosleep casket,label,ThingDef/Buildings_Misc.xml,def
+VQE_OvergrownCryptosleepCasket.description,This cryptosleep casket is overgrown with brambles and looks like it has been here for a very long time. Who knows what it might contain?,description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientGenetron.label,ancient ARC,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientGenetron.description,"An ancient prototype of an ARC, ruined by time and lack of maintenance. Most of the critical machinery has been looted long ago, thwarting any restatoration attempts, however deconstructing it may still yield valuable components, useful in constructing a brand new ARC. This ancient ruin can be studied to learn how to construct and maintain an ARC.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientGeothermalGenetron.label,ancient geothermal ARC,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientGeothermalGenetron.description,"An ancient geothermal ARC, ruined by time and lack of maintenance. Most of the critical machinery has been looted long ago, thwarting any restatoration attempts, however deconstructing it may still yield valuable components, useful in constructing a brand new ARC. This ancient ruin can be studied to learn how to construct a geothermal ARC.",description,ThingDef/Buildings_Misc.xml,def
+VQE_NuclearGenetronHusk.label,nuclear ARC husk,label,ThingDef/Buildings_Misc.xml,def
+VQE_NuclearGenetronHusk.description,"A ruined husk of a nuclear ARC. Lack of maintenance or other unforeseen crisis has resulted in a devastating detonation that has twisted the metal into something quite unusable. This husk can be studied to learn how to construct and maintain a nuclear ARC, but can also be deconstructed to yield some resources back.",description,ThingDef/Buildings_Misc.xml,def
+VQE_AncientOvergrownGenetron.label,experimental ARC,label,ThingDef/Buildings_Misc.xml,def
+VQE_AncientOvergrownGenetron.description,"A mysterious, ancient, overgrown ARC. It seems to look more like a working prototype than a finished product, now fully covered in brambles and signs of aging. Somehow, despite its age, it’s still operating, generating sufficient power for nearby electrical networks. Any tampering with it is bound to irreversibly damage it, but it may be possible to extract some ARC components from it.",description,ThingDef/Buildings_Misc.xml,def
+VQE_Genetron_UraniumPowered.label,uranium-powered ARC,label,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_UraniumPowered.description,"Uranium-powered advanced reactor chamber, ARC in short, produces electricity from a reaction that occurs when uranium breaks down inside the core. The more uranium is present in the core, the faster it breaks down, but it also generates more power. If uranium ever runs out, the reactor will shut down and will need to be refilled with a large quantity of uranium to restart. The core suffers wear and tear with each uranium unit broken down, and will require continuous maintenance, as lack of it will result in a catastrophic nuclear detonation. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied a husk of a nuclear ARC generator.",description,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Nuclear.label,nuclear ARC,label,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Nuclear.description,"Nuclear advanced reactor chamber, ARC in short, produces electricity from a reaction that occurs when uranium breaks down inside the core. The more uranium is present in the core, the faster it breaks down, but it also generates more power. If uranium ever runs out, the reactor will shut down and will need to be refilled with a large quantity of uranium to restart. The core suffers wear and tear with each uranium unit broken down, and will require continuous maintenance, as lack of it will result in a catastrophic nuclear detonation. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. Fuel rods can also be calibrated to permanently reduce the rate at which uranium decays. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied a husk of a nuclear ARC generator.",description,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Isotopic.label,isotopic ARC,label,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Isotopic.description,"Isotopic advanced reactor chamber, ARC in short, produces electricity from a reaction that occurs when uranium breaks down inside the core. The more uranium is present in the core, the faster it breaks down, but it also generates more power. If uranium ever runs out, the reactor will shut down and will need to be refilled with a large quantity of uranium to restart. The core suffers wear and tear with each uranium unit broken down, and will require continuous maintenance, as lack of it will result in a catastrophic nuclear detonation. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. Fuel rods can also be calibrated to permanently reduce the rate at which uranium decays. This reactor can operate in one of two modes: basic safe mode, or hazard mode, in which maintenance does not lower when uranium is broken down, but radiation leaks out of the core affecting everyone in a large radius. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied a husk of a nuclear ARC generator.",description,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Atomic.label,atomic ARC,label,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_Atomic.description,"Atomic advanced reactor chamber, ARC in short, produces electricity from a reaction that occurs when uranium breaks down inside the core. The more uranium is present in the core, the faster it breaks down, but it also generates more power. If uranium ever runs out, the reactor will shut down and will need to be refilled with a large quantity of uranium to restart. The core suffers wear and tear with each uranium unit broken down, and will require continuous maintenance, as lack of it will result in a catastrophic nuclear detonation. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. Fuel rods can also be calibrated to permanently reduce the rate at which uranium decays. This reactor can operate in one of two modes: basic safe mode, or hazard mode, in which maintenance does not lower when uranium is broken down, but radiation leaks out of the core affecting everyone in a large radius. Emergency shut-down systems are also in place, allowing the reactor to stop at any point in order to prevent a critical meltdown. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied a husk of a nuclear ARC generator.",description,ThingDef/Buildings_Nuclear_Genetrons.xml,def
+VQE_Genetron_WoodFired.label,wood-fired ARC,label,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodFired.description,"Wood-fired advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and wood burned in a set of large furnaces. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodFueled.label,wood-fueled ARC,label,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodFueled.description,"Wood-fired advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and wood burned in a set of large furnaces. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodPowered.label,wood-powered ARC,label,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodPowered.description,"Wood-powered advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and wood burned in a set of large furnaces. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodBlasting.label,wood-blasting ARC,label,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_Genetron_WoodBlasting.description,"Wood-blasting advanced reactor chamber, ARC in short, produces electricity from geothermal steam geysers and wood burned in a set of large furnaces. Originally designed by {InventorFullName}, these ARCs are incredibly rare, but also versatile and powerful. It’s an advanced generator type that can be upgraded to accept other fuel types, unlocking powerful new abilities. It can be put into an overdrive mode, burning more fuel but generating more power. It can also be tuned to increase the power generation even further. Must be placed on a steam geyser and can only be constructed and upgraded by colonists who have studied the ancient ARC generators.",description,ThingDef/Buildings_WoodPowered_Genetrons.xml,def
+VQE_GenetronComponent.label,ARC component,label,ThingDef/Items_Resource_Manufactured.xml,def
+VQE_GenetronComponent.description,"Complex lump of ancient mechanical systems, engineered with precision and knowledge that surpasses current technological understanding. The ability to replicate these components has been lost over generations, making them rare and essential for construction of the ARCs.",description,ThingDef/Items_Resource_Manufactured.xml,def
+VQE_Apparel_Parka.label,ancient tight parka,label,ThingDef/Apparel_Various.xml,def
+VQE_Apparel_Parka.description,"A thick, ancient parka for staying warm even in the coldest of temperatures. Somehow it seems resistant to deterioration, but the way to tailor one of these has been lost to history.",description,ThingDef/Apparel_Various.xml,def
+VQE_Refuel.label,refuel fuelable buildings,label,WorkGiverDef/WorkGivers.xml,def
+VQE_Refuel.verb,refuel,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_Refuel.gerund,refueling,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_FixCriticallyBrokenDownBuilding.label,fix critically broken-down reactors,label,WorkGiverDef/WorkGivers.xml,def
+VQE_FixCriticallyBrokenDownBuilding.verb,replace broken components in,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_FixCriticallyBrokenDownBuilding.gerund,replacing broken components in,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_MaintainGenetron.label,maintain ARC,label,WorkGiverDef/WorkGivers.xml,def
+VQE_MaintainGenetron.verb,maintain,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_MaintainGenetron.gerund,maintaining,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_StudyGenetron.label,study ancient structures,label,WorkGiverDef/WorkGivers.xml,def
+VQE_StudyGenetron.verb,study,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_StudyGenetron.gerund,studying,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_AncientEngineer01.title,ancient engineer,title,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_AncientEngineer01.titleShort,engineer,titleShort,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_AncientEngineer01.description,"[PAWN_nameDef] was part of a team attempting to reverse-engineer ancient ARC components. The mysteries behind the machine’s intricate designs fascinated [PAWN_objective]. Although much of the technology was incomprehensible, [PAWN_pronoun] successfully adapted a few critical parts for modern use.",description,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_PowerArchitect02.title,power architect,title,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_PowerArchitect02.titleShort,architect,titleShort,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_PowerArchitect02.description,"[PAWN_nameDef] specialized in optimizing the power flow within ARC systems. By carefully calibrating the fuel rods, [PAWN_pronoun] was able to significantly extend the reactor's operational time. Despite lacking full knowledge of the ancient mechanisms, [PAWN_nameDef]'s adjustments became the industry standard.",description,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_ControlSystemsEngineer03.title,control systems engineer,title,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_ControlSystemsEngineer03.titleShort,controller,titleShort,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_ControlSystemsEngineer03.description,"[PAWN_nameDef] was tasked with modernizing the control systems of ARC reactors. While [PAWN_pronoun] integrated new safety protocols, many of the core functions remained a black box. Even so, [PAWN_pronoun] managed to boost efficiency by adapting the ancient algorithms.",description,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_FieldRepairTech04.title,field repair tech,title,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_FieldRepairTech04.titleShort,repair tech,titleShort,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_FieldRepairTech04.description,"[PAWN_nameDef] spent years repairing damaged ARC units in remote colonies. Despite lacking the original schematics, [PAWN_pronoun] became adept at improvising fixes. It was a dangerous job, but [PAWN_pronoun] always carried a few spare ARC components, just in case.",description,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_SafetyInspector05.title,ARC safety inspector,title,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_SafetyInspector05.titleShort,inspector,titleShort,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_SafetyInspector05.description,"As a safety inspector, [PAWN_nameDef] traveled between colonies, checking the status of ARC reactors. Although [PAWN_pronoun] could only speculate about how the core systems worked, [PAWN_pronoun] was able to identify potential failures and suggest maintenance that extended reactor lifespans.",description,BackstoryDef/Genetron_Backstories_Shuffled.xml,def
+VQE_ChildhoodInventorGenetron.title,curious tinkerer,title,BackstoryDef/Solid_Rare.xml,def
+VQE_ChildhoodInventorGenetron.titleShort,tinkerer,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_ChildhoodInventorGenetron.description,"As a child, [PAWN_nameDef] was never content with toys or simple amusements. [PAWN_pronoun] found joy in taking apart old machines and scraps salvaged from the colony’s scrapyard. While the other children played, [PAWN_nameDef] could be found elbows-deep in a broken generator or defunct mining drone, trying to understand what made it tick. The adults often saw this as a nuisance, especially when [PAWN_pronoun] ""borrowed"" essential equipment for experiments. But those who looked closer saw a spark of genius.",description,BackstoryDef/Solid_Rare.xml,def
+VQE_InventorGenetronAdulthood.title,inventor of the ARC,title,BackstoryDef/Solid_Rare.xml,def
+VQE_InventorGenetronAdulthood.titleShort,inventor,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_InventorGenetronAdulthood.description,"[PAWN_nameDef] became a legend among engineers as the inventor of the ARC, a groundbreaking power generator that changed the fate of entire colonies. Driven by a relentless desire to solve the energy shortages crippling the outer rim, [PAWN_pronoun] pushed the boundaries of safe experimentation. The first prototypes were rushed, leading to tragic accidents that claimed many lives. Though these failures weighed heavily on [PAWN_objective], they fueled [PAWN_possessive] determination. After countless trials, [PAWN_nameDef] finally succeeded, cementing [PAWN_possessive] legacy as a hero to some, and a reckless maverick to others.",description,BackstoryDef/Solid_Rare.xml,def

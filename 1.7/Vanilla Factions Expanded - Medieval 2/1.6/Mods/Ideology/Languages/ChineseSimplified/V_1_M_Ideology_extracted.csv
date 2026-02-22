@@ -1,0 +1,61 @@
+key,text,tag,file,type
+VFEM2_Structure_Norse.label,norse,label,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.description,"This ideoligion is a descendant of Germanic paganism, also known as Asatru. It may have very different precepts than those of thousands of years ago, but its symbols are similar.",description,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.0,memeAdjective->norse,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.1,memeAdjective->heathen,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.2,memeAdjective->pagan,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.3,memeAdjective->ancestral,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.4,memeAdjective->traditional,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.5,memeAdjective->old-faith,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.6,memeLeaderNoun->godi,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.7,memeLeaderNoun->volva,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.8,memeLeaderAdjective->sacred,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.9,memeLeaderAdjective->runic,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.10,memeMoralist->skald,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.11,memeMoralist->seer,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.12,memeMoralist->wise one,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.13,memeMoralist->sage,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.14,memeMoralist->keeper of lore,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.15,memeMoralist->rune master,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse.generalRules.rulesStrings.16,memeMoralist->spiritual guide,li,MemeDef/Memes_Structures_Basic.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.0,lesson(priority=-1)->things happen,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.1,"r_pattern->""[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]""\n\n  - [lessonAttribution]",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.2,lessonAttribution->fragment of a [edited] [saga] found [museum],li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.3,edited->damaged,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.4,edited->misinterpreted,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.5,edited->ancient,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.6,edited->forgotten,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.7,edited->preserved,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.8,saga->Edda,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.9,saga->rune stone inscription,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.10,saga->skaldic verse,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.11,saga->ancient saga,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.12,museum->in the archive of Yggdrasil Station,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.13,museum->on a distant star colony named Himinbjörg,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.14,museum->in the Imperial Hall of Ancient Relics,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.15,museum->in the ruins of Jotunheim Prime,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.16,museum->in the vaults of the Keepers of Memory,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.17,"asatruLessonIntro->Hear the words of Odin, All-Father, who whispers from the Well of Urd:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.18,"asatruLessonIntro->Lo, the verses of the Völuspá proclaim to all who would listen:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.19,"asatruLessonIntro->Take heed of Thor's hammer as it strikes, for it teaches:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.20,"asatruLessonIntro->Hark, the ravens Huginn and Muninn circle and cry their truth:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.21,"asatruLessonIntro->Under the shade of Yggdrasil, the gods did gather and declare:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.22,"asatruLessonIntro->By the light of Baldr's blessing, know this:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.23,"asatruLessonIntro->On the fjords of the Nine Worlds, wisdom echoes, saying:",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.24,asatruLessonIntro->The runes carved deep into the stones of Midgard teach us thus:,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.25,asatruLessonReinforcement->May your deeds echo in the halls of Valhalla.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.26,asatruLessonReinforcement->The Norns weave your destiny with threads of honor.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.27,"asatruLessonReinforcement->Stand firm, for the gods reward courage and resolve.",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.28,"asatruLessonReinforcement->Hail, for your actions shall inspire skalds to song.",li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.29,asatruLessonReinforcement->The hammer of Thor blesses those who uphold truth and strength.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.30,asatruLessonReinforcement->The All-Father watches those who honor the old ways.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.31,asatruLessonReinforcement->May you find victory in the sacred bonds of kinship.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Structure_Norse_Description.rules.rulesStrings.32,lessonReinforcement->And so the tale will live on.,li,IdeoStoryPatternDef/RulePacks_Ideo_Description.xml,def
+VFEM2_Viking.label,viking,label,StyleCategoryDef/StyleCategoryDefs_Norse.xml,def
+VFEM2_HearthDarklight.label,darklight hearth,label,ThingDef/Buildings_Furniture_Ideology.xml,def
+VFEM2_HearthDarklight.description,"A large, tightly packed fire pit capable of holding high amounts of wood at once. Provides hefty warmth and light to thronerooms and halls alike and acts as a gathering spot for idle colonists.",description,ThingDef/Buildings_Furniture_Ideology.xml,def
+VFEM2_Viking_Slab_Medium.label,viking slab (medium),label,ThingDef/FloorCoverings.xml,def
+VFEM2_Viking_Slab_Medium.description,A stone bas relief of viking imagery for decorating a floor.,description,ThingDef/FloorCoverings.xml,def
+VFEM2_Viking_Slab_Broad.label,viking slab (broad),label,ThingDef/FloorCoverings.xml,def
+VFEM2_Viking_Slab_Broad.description,A stone bas relief of viking imagery for decorating a floor.,description,ThingDef/FloorCoverings.xml,def
+VFEM2_Viking_ChessTable.overrideLabel,hnefatafl board,overrideLabel,ThingStyleDef/ThingStyleDefs_Viking.xml,def

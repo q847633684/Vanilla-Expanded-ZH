@@ -1,0 +1,164 @@
+key,text,tag,file,type
+VFEP_FiringFrenzy.label,firing frenzy,label,AbilityDef/Abilities_Captain.xml,def
+VFEP_FiringFrenzy.description,Inspire everyone nearby to increase their firing rate and withstand greater amounts of pain. The effect remains attached to the caster for 24 hours.,description,AbilityDef/Abilities_Captain.xml,def
+VFEP_FiringFrenzy.label,firing frenzy,label,HediffDef/Hediffs_Casts_Captain.xml,def
+VFEP_FiringFrenzy.description,This person is using a special ability to inspire everyone nearby. Everyone within an effect radius gains 50% decreased Shooting Aiming time and 50% increased Pain Shock Threshold.,description,HediffDef/Hediffs_Casts_Captain.xml,def
+VFEP_FiringFrenzyBuff.label,firing frenzy,label,HediffDef/Hediffs_Casts_Captain.xml,def
+VFEP_FiringFrenzyBuff.description,"Someone is using the firing frenzy ability nearby, inspiring this person to shoot faster and withstand greater amounts of physical pain.",description,HediffDef/Hediffs_Casts_Captain.xml,def
+VFEP_Speech_Shanties.label,singing shanties,label,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.1,speechtopic->searching for [Vegetable]s to avoid scurvy,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.2,speechtopic->how to be [AdjectiveFriendly] while pillaging your enemies,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.3,speechtopic->using [AnimalBadass]s as a protein source,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.4,speechtopic->how [Game] trains you to act as a crew,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.5,speechtopic->using [Weapon] in a raid,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.6,speechtopic->pillaging through [TerrainFeature]s and [TerrainFeature]s,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.7,speechtopic->how in a crew all are [PersonFamily]s and [PersonFamily]s,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.8,speechtopic->the need for [PersonJob]s in a crew,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.9,speechtopic->confronting [PersonBadass]s,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.10,speechtopic->defeating [Enemy]s through sticking together,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.11,speechtopic->relishing [Gore] during combat,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.12,speechtopic->the meaning of camaraderie,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.13,speechtopic->the comradeship of the crew,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.14,speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass],li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.15,speechtopic->how [AdjectiveBadass] the crew is,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.16,speechtopic->[AdjectiveNatural] [TerrainFeature]s,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.17,speechtopic->the crew's [AdjectiveLarge] potential,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.18,speechtopic->the [PersonalCharacteristic] of every crewmember,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.19,speechtopic->the terrible [PersonalCharacteristic] of the crew's enemies,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.20,speechtopic(p=0.25)->sticking together as group,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.21,"speechtopic(p=0.25)->the path forward through tragedy, sticking together as a crew",li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.22,speechtopic(p=0.25)->the crew and its importance,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.23,speechtopic(p=0.25)->survival of the strongest,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.24,speechtopic(p=0.25)->triumph through shared hardship,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.25,speechtopic(p=0.25)->death of your enemies as a motivator,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.26,"speechtopic(p=0.25)->strong hands and hearts, working together",li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.27,speechtopic(p=0.25)->the right to survive and defeat those who are weaker,li,InteractionDef/Interactions_Speech_Shanties.xml,def
+VFEP_PirateMeme.label,pirate,label,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.description,"Strong should take from the weak, for that is our right, but camaraderie and code should be elevated above all.",description,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.0,memeAdjective->buccaneering,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.1,memeAdjective->criminal,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.2,memeAdjective->pillaging,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.3,memeAdjective->plundering,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.4,memeAdjective->mutinous,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.5,memeAdjective->piratical,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.6,memeLeaderNoun->skipper,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.7,memeLeaderNoun->commander,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.8,memeLeaderNoun->boss,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.9,memeLeaderAdjective->gallant,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.10,memeLeaderAdjective->draconian,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.11,memeLeaderAdjective->callous,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.12,memeLeaderAdjective->brave,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.13,memeLeaderAdjective->ruthless,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.14,memeLeaderAdjective->daring,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.15,memeMoralist->chaplain,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.16,memeMoralist->first mate,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.generalRules.rulesStrings.17,memeMoralist->first officer,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.0,creation(tag=meme_Pirate)        ->[deity0_name] showed us that the [memberNamePlural] must stand together as a crew to impose [deity0_possessive] will upon those who are weaker.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_Pirate)  ->[deity0_name] shouted to all the [memberNamePlural], ""In an honest service there is thin commons, low wages, and hard labor; in piracy, plenty and satiety, pleasure and ease, liberty and power. Seize it.""",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_Pirate)           ->On the [place_summary] [place_name], the [memberNamePlural] had created a safe haven, where their plunder could be counted for the glory of [deity0_name].",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_Pirate)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] desired all the riches for [foeLeader_objective]self.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_Pirate)        ->[deity0_name]'s truest follower, captain [founderName], captured the [foeLeader] in a daring raid.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.5,"victory(tag=meme_Pirate)            ->[founderName]'s crewmates incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.6,"setup(tag=meme_Pirate)           ->[founderName] was the greatest captain, a true leader. Thousands of pirates united under [founder_possessive] terrifying banner.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_Pirate)    ->[founderName] made us understand that hardships, suffering and sacrifices must be faced together, as a crew. We learned to value the comradeship and camaraderie, and respect each other.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.8,"lessonIntro(tag=meme_Pirate)         ->I talked to the greatest pirate to ever live, a legend amongst men. He showed me that",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.9,"lesson(tag=meme_Pirate)              ->hardships, suffering and sacrifices must be faced together, as a crew",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.10,"lessonReinforcement(tag=meme_Pirate) ->He taught me to value the comradeship and camaraderie, and the merits of respecting each other.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.11,archistBasis(tag=meme_Pirate)    ->Archotechs do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.12,archistFact(tag=meme_Pirate)     ->We will prove to the archotechs that comradeship and camaraderie are the values that keep us strong.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.13,archistProphecy(tag=meme_Pirate) ->Only by standing proud together can we become worthy of transcendence.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.14,animistBasis(tag=meme_Pirate)    ->The spirits do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.15,animistFact(tag=meme_Pirate)     ->We will prove to the spirits that comradeship and camaraderie are the values that keep us strong.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.16,animistProphecy(tag=meme_Pirate) ->[itIsSaid] only by standing proud together can we make the spirits truly listen to us.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.17,serketistProphecy(tag=meme_Pirate)->[itIsSaid] we will prove that comradeship and camaraderie are the values that keep us strong.,li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.18,"chthonianProphecy(tag=meme_Pirate)->These eldritch entities would seek to destroy us, but we will stand together against them. Our camaraderie can't be shaken by anything, not even them.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.19,"esotericismProphecy(tag=meme_Pirate)->Such occult knowledge requires an unified will. We will stand together as a crew, our camaraderie allowing us to embrace these arcane secrets with ease.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.20,"eschatologismFact(tag=meme_Pirate)->We will plunder and pillage those weaker than ourselves, for the world they have created must be destroyed, and only our crew deserves their achievements.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.21,"introMemo(tag=meme_Pirate)->As a member of our Reclamation and Repossession Office, let us remind you that any resources found on this planet are the property of the Company, and as such any hostile factions trying to take possession of our assets must be terminated with EXTREME prejudice. We will not allow others to take what is rightfully ours.",li,MemeDef/Memes_Misc.xml,def
+VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.22,alienistProphecy(tag=meme_Pirate)->These wayward creatures are ours to do as we please.,li,MemeDef/Memes_Misc.xml,def
+VFEP_Camaraderie.label,camaraderie,label,IssueDef/Precepts_Camaraderie.xml,def
+VFEP_CrewmanDied.label,crewmember died,label,HistoryEventDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected.label,respected,label,PreceptDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected.description,"Different interests, yet aiming for one: hardships, suffering and sacrifices must be faced together, as a crew.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a +3 mood bonus after socializing with another colonist.",description,PreceptDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected_CrewDead.stages.0.label,lost a comrade,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected_CrewDead.stages.0.description,We’ve lost one of ours. What a sad day it is.,description,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected_Memory.stages.0.label,socialized with a comrade,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Respected_Memory.stages.0.description,"I’ve socialised with a comrade, which strengthens our bond.",description,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted.label,exalted,label,PreceptDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted.description,"In the table of brotherhood we'll dine, the banner of camaraderie will be unroll, all for one, one for all. Together, we will have the world.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists will receive a +6 mood bonus after socializing with another colonist.",description,PreceptDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_CrewDead.stages.0.label,lost a comrade,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_CrewDead.stages.0.description,We’ve lost one of ours. I need to look to others for strength.,description,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_Memory.stages.0.label,socialized with a comrade,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_Memory.stages.0.description,I’ve socialised with a comrade. We are unstoppable!,description,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.0.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.1.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.2.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.3.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.4.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.5.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.6.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.7.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.8.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.9.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.10.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.11.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.12.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.13.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.14.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.15.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.16.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.17.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.18.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_Camaraderie_Exalted_DeadCumulative.stages.19.label,been through some tough times together!,label,ThoughtDef/Precepts_Camaraderie.xml,def
+VFEP_SingingShanties.label,singing shanties,label,PreceptDef/Precepts_Ritual_SingingShanties.xml,def
+VFEP_SingingShanties.description,Colonists gather around a campfire and sing shanties to strengthen their camaraderie.,description,PreceptDef/Precepts_Ritual_SingingShanties.xml,def
+VFEP_IdeoRole_Captain.label,captain,label,PreceptDef/Precepts_Role_Captain.xml,def
+VFEP_IdeoRole_Captain.description,"Generally chosen for his daring and dominating character, a pirate captain is often admired for his cruelty and destructiveness.",description,PreceptDef/Precepts_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.0,r_roleName(p=7)->[firstPart] [secondPart],li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.1,firstPart->swarthy,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.2,firstPart->foul-mouthed,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.3,firstPart->shady,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.4,firstPart->deceitful,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.5,firstPart->unscrupulous,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.6,firstPart->sly,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.7,firstPart->beguiling,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.8,firstPart->crooked,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.9,firstPart->grungy,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.10,firstPart->strapping,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.11,firstPart->haggard,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.12,firstPart->burly,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.13,firstPart->brawny,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.14,secondPart(p=4)->buccaneer,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.15,secondPart(p=4)->privateer,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.16,secondPart(p=4)->corsair,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.17,secondPart(p=4)->freebooter,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.18,secondPart(p=4)->rover,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.19,secondPart(p=4)->picaroon,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.20,secondPart(p=4)->bootlegger,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.21,secondPart(p=4)->smuggler,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.22,secondPart(p=4)->plunderer,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.23,secondPart(p=4)->rogue,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.24,secondPart(p=4)->pilferer,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_NamerRoleCaptain.rulePack.rulesStrings.25,secondPart(p=4)->purloiner,li,RulePackDef/RulePacks_Ideo_Role_Captain.xml,def
+VFEP_BoringShanties.stages.0.label,boring singing shanties,label,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_BoringShanties.stages.0.description,The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there.,description,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_LameShanties.stages.0.label,lame singing shanties,label,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_LameShanties.stages.0.description,"The cap'n treated us like children, wanting so desperately to hear something to lift their spirits.",description,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_RousingShanties.stages.0.label,rousing singing shanties,label,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_RousingShanties.stages.0.description,"Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger.",description,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_AmazingShanties.stages.0.label,amazing singing shanties,label,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_AmazingShanties.stages.0.description,"We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away.",description,ThoughtDef/Thoughts_SingingShanties.xml,def
+VFEP_SingingShantiesBehaviour.roles.0.label,chanter,label,RitualBehaviorDef/Ritual_Behaviors_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.description,"Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. A shanty of above average quality will provide a new quest. A good quality shanty will remove negative thoughts from losing someone for all participants.",description,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.comps.0.label,chanter present,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.comps.1.label,participant count,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.comps.2.label,room impressiveness,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.0.label,Boring,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.0.description,The {0} were incredibly boring. The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there.,description,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.1.label,Lame,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.1.description,"The {0} were lame. The cap'n treated us like children, wanting so desperately to hear something to lift their spirits.",description,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.2.label,Rousing,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.2.description,"The {0} were very rousing. Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger.\n\nAnalyzing the lyrics afterwards, we found that the ancient words are actually cleverly encoded clues to a possible quest!",description,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.3.label,Amazing,label,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def
+VFEP_SingingShantiesOutcome.outcomeChances.3.description,"The {0} were amazing! We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away.\n\nAnalyzing the lyrics afterwards, we found that the ancient words are actually cleverly encoded clues to a possible quest!",description,RitualOutcomeEffectDef/Ritual_Outcomes_SingingShanties.xml,def

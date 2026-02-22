@@ -1,330 +1,309 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_BonfireOutcome.comps.0.label>{PAWN_labelShort} 的社会影响</VME_BonfireOutcome.comps.0.label>
+  <VME_BonfireOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_BonfireOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_BonfireOutcome.comps.1.label>参与者人数</VME_BonfireOutcome.comps.1.label>
+  <VME_BonfireOutcome.comps.1.label>参与者数量</VME_BonfireOutcome.comps.1.label>
   <!--EN: Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept.-->
-  <VME_BonfireOutcome.description>根据仪式的质量，参与者将获得持续 4 小时到 3 天的娱乐提升，这将提高他们的娱乐标准。他们的情绪也会在 {MOODDAYS} 天内处于 {MINMOOD} 和 {MAXMOOD} 之间。
-
-仪式篝火将持续点燃至少两个方格，提供附近的美丽奖励，并计入“火：所需戒律”周围的火的数量。</VME_BonfireOutcome.description>
+  <VME_BonfireOutcome.description>参与者将获得 4小时 到 3天 的娱乐值增幅并在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。\n\n大型篝火将持续燃烧一段时间，并为周围提供美观度加成，同时也会对“火焰：渴望”戒律的增益效果生效。</VME_BonfireOutcome.description>
   <!--EN: The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied).-->
-  <VME_BonfireOutcome.outcomeChances.0.description>{0} 太糟糕了！一些可怜的小火焰四处飘荡，但它们很快就消失了（没有应用娱乐效果）。</VME_BonfireOutcome.outcomeChances.0.description>
+  <VME_BonfireOutcome.outcomeChances.0.description>{0}非常糟糕！一些微小的火花四处迸射，篝火很快就被烧干净了。\n\n此次仪式没有获得任何娱乐加成。</VME_BonfireOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_BonfireOutcome.outcomeChances.0.label>糟糕的</VME_BonfireOutcome.outcomeChances.0.label>
   <!--EN: The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours.-->
-  <VME_BonfireOutcome.outcomeChances.1.description>{0} 表现平淡。我们原以为会发生一场奇妙的大火，但结果却是一场超大的篝火。至少还算有趣。
-
-所有参与者的娱乐时间将提高4小时。</VME_BonfireOutcome.outcomeChances.1.description>
+  <VME_BonfireOutcome.outcomeChances.1.description>{0}枯燥乏味。我们本以为会有一场美妙的火灾，结果却只是一堆大号的营火。不过至少还有点意思。\n\n所有参与者将获得4小时的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.1.description>
   <!--EN: Lackluster-->
-  <VME_BonfireOutcome.outcomeChances.1.label>黯淡无光</VME_BonfireOutcome.outcomeChances.1.label>
+  <VME_BonfireOutcome.outcomeChances.1.label>枯燥乏味的</VME_BonfireOutcome.outcomeChances.1.label>
   <!--EN: The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day.-->
-  <VME_BonfireOutcome.outcomeChances.2.description>{0} 很好。定居点上空熊熊燃烧，火焰噼啪作响，极大地振奋了我们的士气。
-
-所有参与者的娱乐活动将提高 1 天。</VME_BonfireOutcome.outcomeChances.2.description>
+  <VME_BonfireOutcome.outcomeChances.2.description>{0}令人满意。熊熊燃烧的烈火使我们每个人的精神都振奋了起来。\n\n所有参与者将获得1天的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.2.description>
   <!--EN: Good-->
-  <VME_BonfireOutcome.outcomeChances.2.label>好的</VME_BonfireOutcome.outcomeChances.2.label>
+  <VME_BonfireOutcome.outcomeChances.2.label>令人满意的</VME_BonfireOutcome.outcomeChances.2.label>
   <!--EN: The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days.-->
-  <VME_BonfireOutcome.outcomeChances.3.description>{0} 太棒了！这非常有趣，我们通过共同的经历真正建立了联系。
-
-所有参与者的娱乐时间将提高 3 天。</VME_BonfireOutcome.outcomeChances.3.description>
+  <VME_BonfireOutcome.outcomeChances.3.description>{0}充满荣耀！每个人都意犹未尽，我们分享了彼此的经验，并真正地联系在了一起。\n\n所有参与者将获得3天的娱乐值增幅。</VME_BonfireOutcome.outcomeChances.3.description>
   <!--EN: Glorious-->
-  <VME_BonfireOutcome.outcomeChances.3.label>辉煌</VME_BonfireOutcome.outcomeChances.3.label>
+  <VME_BonfireOutcome.outcomeChances.3.label>充满荣耀的</VME_BonfireOutcome.outcomeChances.3.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_CeremonialSuicideRitualOutcome.comps.0.label>{PAWN_labelShort} 的社会影响</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_CeremonialSuicideRitualOutcome.comps.0.label>
   <!--EN: room impressiveness-->
-  <VME_CeremonialSuicideRitualOutcome.comps.1.label>房间令人印象深刻</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>令人难忘的房间</VME_CeremonialSuicideRitualOutcome.comps.1.label>
   <!--EN: participant count-->
-  <VME_CeremonialSuicideRitualOutcome.comps.2.label>参与者人数</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>参与者数量</VME_CeremonialSuicideRitualOutcome.comps.2.label>
   <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend.-->
-  <VME_CeremonialSuicideRitualOutcome.description>根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。所有参与者必须身体健康才能参加。</VME_CeremonialSuicideRitualOutcome.description>
+  <VME_CeremonialSuicideRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。只有身体健康的殖民者才能参加。</VME_CeremonialSuicideRitualOutcome.description>
   <!--EN: The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting!-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0} 太糟糕了！刀刃是推力横向的，到处都是血和内脏。恶心！</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0}非常糟糕！刀刃刺入身体的角度非常诡异，鲜血与内脏喷洒的到处都是。呕...真恶心!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>糟糕的</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony.-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0} 很无聊。演讲看起来被迫。至少我们恢复了我们殖民地的荣誉。</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0}非常无聊。这次仪式似乎有些牵强附会，但至少恢复了我们殖民地的部分荣誉。</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
   <!--EN: Boring-->
   <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>无聊的</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds.-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0} 恢复了我们殖民地的荣誉。失败的阴影不再笼罩我们的心头。</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0}令人感到敬畏。失败的阴影不再笼罩我们的心灵。</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
   <!--EN: Honorable-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>尊敬的</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>可敬的</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
   <!--EN: The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless.-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0} 令人难忘！每个人都会记住勇气、自制力和坚强的决心。我们殖民地的荣誉现在一尘不染。</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0}令人难忘！每个人都会牢记勇气、自控以增强自己的决心。我们殖民地的荣誉至高无上！</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
   <!--EN: Unforgettable-->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>难忘</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>难忘的</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_DivineStarsRitualOutcome.comps.0.label>{PAWN_labelShort} 的社会影响</VME_DivineStarsRitualOutcome.comps.0.label>
+  <VME_DivineStarsRitualOutcome.comps.0.label>{PAWN_labelShort}的社交影响</VME_DivineStarsRitualOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_DivineStarsRitualOutcome.comps.1.label>参与者人数</VME_DivineStarsRitualOutcome.comps.1.label>
+  <VME_DivineStarsRitualOutcome.comps.1.label>参与者数量</VME_DivineStarsRitualOutcome.comps.1.label>
   <!--EN: Participants will get completely random results, with no regard for ritual quality.-->
-  <VME_DivineStarsRitualOutcome.description>参与者将得到完全随机的结果，不考虑仪式的质量。</VME_DivineStarsRitualOutcome.description>
+  <VME_DivineStarsRitualOutcome.description>参与者得到的结果完全随机，与仪式的效果无关。</VME_DivineStarsRitualOutcome.description>
   <!--EN: Our destiny has been revealed by the stars.-->
-  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>我们的命运已由星星揭示。</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>我们的命运已由星辰揭示。</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
   <!--EN: Inscrutable-->
-  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>深不可测</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>神秘的</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
   <!--EN: Our destiny has been revealed by the stars.-->
-  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>我们的命运已由星星揭示。</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>我们的命运已由星辰揭示。</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
   <!--EN: Inscrutable-->
-  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>深不可测</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>神秘的</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
   <!--EN: room impressiveness-->
-  <VME_IncantationOutcome.comps.0.label>房间令人印象深刻</VME_IncantationOutcome.comps.0.label>
+  <VME_IncantationOutcome.comps.0.label>令人难忘的房间</VME_IncantationOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_IncantationOutcome.comps.1.label>参与者人数</VME_IncantationOutcome.comps.1.label>
+  <VME_IncantationOutcome.comps.1.label>参与者数量</VME_IncantationOutcome.comps.1.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_IncantationOutcome.comps.2.label>{PAWN_labelShort} 的社会影响</VME_IncantationOutcome.comps.2.label>
+  <VME_IncantationOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_IncantationOutcome.comps.2.label>
   <!--EN: If the incantation ritual goes well (positive outcome) it will increase the corruption need of all participants by 20%, as well as provide a mood bonus.-->
-  <VME_IncantationOutcome.description>如果咒语仪式进行顺利（积极结果），它将增加所有参与者 20% 的腐败需求，并提供情绪奖励。</VME_IncantationOutcome.description>
+  <VME_IncantationOutcome.description>如果诅咒仪式顺利举行(积极的结果)，所有参与者都将增长10%的堕落值并获得心情增益。</VME_IncantationOutcome.description>
   <!--EN: The {0} was abnormal! An indescribably hideous gibbering! We'd even describe it as squamous, but we don't even know what that is! An unutterable word!-->
-  <VME_IncantationOutcome.outcomeChances.0.description>{0}异常！一种难以形容的狰狞的胡言乱语！我们甚至将其描述为鳞状，但我们甚至不知道那是什么！一个说不出来的词！</VME_IncantationOutcome.outcomeChances.0.description>
+  <VME_IncantationOutcome.outcomeChances.0.description>{0}恐怖无比！一种难以言喻的诡异声音环绕在我们周围！虽然我们称之为“鳞状的”，但我们根本就不知道那到底是什么东西，也不知道为什么要这样称呼！啊啊啊啊啊啊啊...有什么...不可名状的...</VME_IncantationOutcome.outcomeChances.0.description>
   <!--EN: Squamous-->
-  <VME_IncantationOutcome.outcomeChances.0.label>鳞状</VME_IncantationOutcome.outcomeChances.0.label>
+  <VME_IncantationOutcome.outcomeChances.0.label>鳞状的</VME_IncantationOutcome.outcomeChances.0.label>
   <!--EN: The {0} was suitably accursed. A litany of dark morbidities expressed in crime, perversion, and insanity.-->
-  <VME_IncantationOutcome.outcomeChances.1.description>{0} 受到了适当的诅咒。一连串的黑暗病态表现为犯罪、变态和精神错乱。</VME_IncantationOutcome.outcomeChances.1.description>
+  <VME_IncantationOutcome.outcomeChances.1.description>{0}十分可憎！这引发了一连串以犯罪、变态和精神错乱为表现的阴暗病态行为。</VME_IncantationOutcome.outcomeChances.1.description>
   <!--EN: Accursed-->
-  <VME_IncantationOutcome.outcomeChances.1.label>被诅咒的</VME_IncantationOutcome.outcomeChances.1.label>
+  <VME_IncantationOutcome.outcomeChances.1.label>可憎的</VME_IncantationOutcome.outcomeChances.1.label>
   <!--EN: The {0} was blasphemous. A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse.-->
-  <VME_IncantationOutcome.outcomeChances.2.description>{0} 是亵渎神明的。一个充满奇异生命的隐藏而深不可测的世界的承诺，它们在群星之外的深渊中脉动，并以只有死者和月光中的人才能瞥见的邪恶尺寸可怕地压在我们自己的地球上。</VME_IncantationOutcome.outcomeChances.2.description>
+  <VME_IncantationOutcome.outcomeChances.2.description>{0}亵渎了神明！我们感受到了来自某个极度未知世界中的神秘生命。祂在群星之外的虚无深渊中活动着，并从那个邪恶的维度中向我们的世界发出可怖的威压，只有死人与疯狂之人才能窥视其中的一角。</VME_IncantationOutcome.outcomeChances.2.description>
   <!--EN: Blasphemous-->
-  <VME_IncantationOutcome.outcomeChances.2.label>亵渎神灵</VME_IncantationOutcome.outcomeChances.2.label>
+  <VME_IncantationOutcome.outcomeChances.2.label>亵渎神明的</VME_IncantationOutcome.outcomeChances.2.label>
   <!--EN: The {0} was loathsome! We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.-->
-  <VME_IncantationOutcome.outcomeChances.3.description>{0} 太恶心了！我们生活在无边无际的黑海之中一座平静的无知岛屿上，这并不意味着我们应该远航。</VME_IncantationOutcome.outcomeChances.3.description>
+  <VME_IncantationOutcome.outcomeChances.3.description>{0}令人憎恶无比！在无尽的黑雾汇聚成的海洋中，我们居住在一座平和的小岛上。对外在险恶一无所知的我们决不该出航远行。</VME_IncantationOutcome.outcomeChances.3.description>
   <!--EN: Loathsome-->
-  <VME_IncantationOutcome.outcomeChances.3.label>令人厌恶的</VME_IncantationOutcome.outcomeChances.3.label>
+  <VME_IncantationOutcome.outcomeChances.3.label>憎恶无比的</VME_IncantationOutcome.outcomeChances.3.label>
   <!--EN: chanter present-->
-  <VME_InsectoidHymnRitualOutcome.comps.0.label>吟唱者在场</VME_InsectoidHymnRitualOutcome.comps.0.label>
+  <VME_InsectoidHymnRitualOutcome.comps.0.label>颂唱者出席</VME_InsectoidHymnRitualOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_InsectoidHymnRitualOutcome.comps.1.label>参与者人数</VME_InsectoidHymnRitualOutcome.comps.1.label>
+  <VME_InsectoidHymnRitualOutcome.comps.1.label>参与者数量</VME_InsectoidHymnRitualOutcome.comps.1.label>
   <!--EN: room impressiveness-->
-  <VME_InsectoidHymnRitualOutcome.comps.2.label>房间令人印象深刻</VME_InsectoidHymnRitualOutcome.comps.2.label>
+  <VME_InsectoidHymnRitualOutcome.comps.2.label>令人难忘的房间</VME_InsectoidHymnRitualOutcome.comps.2.label>
   <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
-  <VME_InsectoidHymnRitualOutcome.description>根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。</VME_InsectoidHymnRitualOutcome.description>
+  <VME_InsectoidHymnRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</VME_InsectoidHymnRitualOutcome.description>
   <!--EN: The {0} was incredibly uninteresting. Yeah, yeah, insects are cool. Bah.\n\nThe ritual had no effect over the insectoid herder's nest building ability.-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0} 非常无趣。是啊是啊，昆虫很酷。呸。
-
-仪式对类昆虫牧民的筑巢能力没有影响。</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0}非常无聊。啊，是是是，这些虫子很酷。我呸！\n\n此次仪式对虫族护工的“虫巢构建”技能没有效果。</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
   <!--EN: Uninteresting-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>无趣</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>无趣的</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was awkward. The speech was repetitive, and it did nothing to convince us of the divinity of our beloved insects.\n\nThe ritual had no effect over the insectoid herder's nest building ability.-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0} 很尴尬。演讲是重复的，并没有让我们相信我们心爱的昆虫的神性。
-
-仪式对类昆虫牧民的筑巢能力没有影响。</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0}令人尴尬。礼赞颂唱的啰里啰唆，它没能让我们能相信心爱的虫族是神圣的。\n\n此次仪式对虫族护工的“虫巢构建”技能没有效果。</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
   <!--EN: Awkward-->
   <VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>尴尬的</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} was very rousing. The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0} 非常振奋人心。吟唱者展现出令人印象深刻的技巧，圣歌恰当地歌颂了我们生活方式的美德。
-
-仪式刷新了昆虫牧民筑巢能力的冷却时间。</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0}振奋人心！颂唱者的技巧十分高超，礼赞恰如其分地颂扬了我们生活方式的优点。\n\n此次仪式重置了虫族护工的“虫巢构建”技能冷却时间。</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
   <!--EN: Rousing-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>振奋人心</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>振奋人心的</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
   <!--EN: The {0} was entrancing! We can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.\n\nThe ritual also made any insectoids that were assaulting the colony flee.-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>{0} 令人着迷！我们仍然可以听到赞美诗中令人着迷的歌词，就像无数的昆虫腿在我们的全身爬行。
-
-仪式刷新了昆虫牧民筑巢能力的冷却时间。
-
-仪式也让任何袭击殖民地的昆虫都逃走了。</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>{0}令人欣喜若狂！我们仿佛仍能听到礼赞动人的颂词，就好像有无数的虫族爬满了全身。\n\n此次仪式重置了虫族护工的“虫巢构建”技能冷却时间。</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
   <!--EN: Entrancing-->
-  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>令人着迷</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>令人欣喜的</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
   <!--EN: room impressiveness-->
-  <VME_LeaderConversionOutcome.comps.0.label>房间令人印象深刻</VME_LeaderConversionOutcome.comps.0.label>
+  <VME_LeaderConversionOutcome.comps.0.label>令人难忘的房间</VME_LeaderConversionOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_LeaderConversionOutcome.comps.1.label>参与者人数</VME_LeaderConversionOutcome.comps.1.label>
+  <VME_LeaderConversionOutcome.comps.1.label>参与者数量</VME_LeaderConversionOutcome.comps.1.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_LeaderConversionOutcome.comps.2.label>{PAWN_labelShort} 的社会影响</VME_LeaderConversionOutcome.comps.2.label>
+  <VME_LeaderConversionOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_LeaderConversionOutcome.comps.2.label>
   <!--EN: {PAWN_labelShort}'s expectations-->
   <VME_LeaderConversionOutcome.comps.3.label>{PAWN_labelShort}的期望</VME_LeaderConversionOutcome.comps.3.label>
   <!--EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs.-->
-  <VME_LeaderConversionOutcome.description>如果进展顺利，目标的意识形态确定性将会降低或者他们会转变。如果情况恶化，他们就会对自己的旧信念获得确定性。</VME_LeaderConversionOutcome.description>
+  <VME_LeaderConversionOutcome.description>如果进展顺利，目标的文化形态认可度将会降低，或者他们将会转化信仰。如果进展不顺利，他们会对自己的旧信仰更加坚定。</VME_LeaderConversionOutcome.description>
   <!--EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time.-->
-  <VME_LeaderConversionOutcome.outcomeChances.0.description>{0} 太糟糕了！从第一句话开始，就是一场没有结果的争论。它拖了很长时间，令人畏缩。</VME_LeaderConversionOutcome.outcomeChances.0.description>
+  <VME_LeaderConversionOutcome.outcomeChances.0.description>{0}太糟糕了！从一开始，这就是一场毫无结果的反复争论。它令人尴尬并且拖了很长时间。</VME_LeaderConversionOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_LeaderConversionOutcome.outcomeChances.0.label>糟糕的</VME_LeaderConversionOutcome.outcomeChances.0.label>
   <!--EN: The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense.-->
-  <VME_LeaderConversionOutcome.outcomeChances.1.description>{0} 无效。大多数论点都不清楚，而皈依者则反驳了那些有道理的论点。</VME_LeaderConversionOutcome.outcomeChances.1.description>
+  <VME_LeaderConversionOutcome.outcomeChances.1.description>{0}没什么作用。演讲者大多数论点都不清楚，皈依者反而反驳得头头是道。</VME_LeaderConversionOutcome.outcomeChances.1.description>
   <!--EN: Ineffective-->
-  <VME_LeaderConversionOutcome.outcomeChances.1.label>无效</VME_LeaderConversionOutcome.outcomeChances.1.label>
+  <VME_LeaderConversionOutcome.outcomeChances.1.label>无效的</VME_LeaderConversionOutcome.outcomeChances.1.label>
   <!--EN: The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well.-->
-  <VME_LeaderConversionOutcome.outcomeChances.2.description>{0} 有效。演讲不仅提出了坚实的论点，明显地改变了皈依者的思想，而且也让观众感到愉悦。</VME_LeaderConversionOutcome.outcomeChances.2.description>
+  <VME_LeaderConversionOutcome.outcomeChances.2.description>{0}明显起效了。演讲者不仅提供了坚实的论点，明显地动摇了皈依者的信仰，同时也使参与者感到快乐。</VME_LeaderConversionOutcome.outcomeChances.2.description>
   <!--EN: Effective-->
   <VME_LeaderConversionOutcome.outcomeChances.2.label>有效的</VME_LeaderConversionOutcome.outcomeChances.2.label>
   <!--EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted.-->
-  <VME_LeaderConversionOutcome.outcomeChances.3.description>{0} 太棒了！旧的信仰似乎毫不费力且不可避免地消失了，我们真正的知识被接受了。</VME_LeaderConversionOutcome.outcomeChances.3.description>
+  <VME_LeaderConversionOutcome.outcomeChances.3.description>{0}效果绝伦。皈依者旧有的信仰毫不费力地垮塌了，我们的信仰被接受了。</VME_LeaderConversionOutcome.outcomeChances.3.description>
   <!--EN: Masterful-->
-  <VME_LeaderConversionOutcome.outcomeChances.3.label>大师级的</VME_LeaderConversionOutcome.outcomeChances.3.label>
+  <VME_LeaderConversionOutcome.outcomeChances.3.label>精彩绝伦的</VME_LeaderConversionOutcome.outcomeChances.3.label>
   <!--EN: challenge organizer present-->
-  <VME_LeadershipChallengeRitualOutcome.comps.0.label>挑战组织者在场</VME_LeadershipChallengeRitualOutcome.comps.0.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.0.label>角逐组织者出席</VME_LeadershipChallengeRitualOutcome.comps.0.label>
   <!--EN: room impressiveness-->
-  <VME_LeadershipChallengeRitualOutcome.comps.1.label>房间令人印象深刻</VME_LeadershipChallengeRitualOutcome.comps.1.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.1.label>令人难忘的房间</VME_LeadershipChallengeRitualOutcome.comps.1.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_LeadershipChallengeRitualOutcome.comps.2.label>{PAWN_labelShort} 的社会影响</VME_LeadershipChallengeRitualOutcome.comps.2.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_LeadershipChallengeRitualOutcome.comps.2.label>
   <!--EN: participant count-->
-  <VME_LeadershipChallengeRitualOutcome.comps.3.label>参与者人数</VME_LeadershipChallengeRitualOutcome.comps.3.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.3.label>参与者数量</VME_LeadershipChallengeRitualOutcome.comps.3.label>
   <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
-  <VME_LeadershipChallengeRitualOutcome.description>根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。</VME_LeadershipChallengeRitualOutcome.description>
+  <VME_LeadershipChallengeRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</VME_LeadershipChallengeRitualOutcome.description>
   <!--EN: The leadership challenge was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad.-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>领导力的挑战是可怕的！战士们笨手笨脚地四处走动，笨拙地互相躲避，长期表现出怯懦和软弱。光是看着就让人心酸。</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>这场领袖角逐非常糟糕。战士们跌跌撞撞，相互笨拙地避开对方的攻击，他们的怯懦与软弱暴露无遗。这可真让人感到悲哀。</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>糟糕的</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>
   <!--EN: The leadership challenge was boring. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest.-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>领导力挑战很无聊。战士们不会投入，所以没有激动人心的时刻。至少我们的领袖是最强的。</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>这场领袖角逐非常无聊。战士们不愿背负承诺，而且角逐一点都不精彩。但至少我们的领袖仍旧是真正的最强者。</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
   <!--EN: Boring-->
   <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>无聊的</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
   <!--EN: The leadership challenge was good. The fighters went for blood and showed real heart. We now know that our leader is the strongest.-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>领导力挑战很好。战士们为血而奋斗，并表现出了真正的爱心。我们现在知道我们的领袖是最强的。</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>这场领袖角逐令人满意。战士们洒下鲜血，表现出了自己真正强悍的内心。我们的领袖是真正的最强者。</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
   <!--EN: Good-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>好的</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>令人满意的</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
   <!--EN: The leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us!-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>领导力挑战令人难忘！两位战士都竭尽全力，我们知道我们的领袖现在是我们之中最强的！</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>这场领袖角逐真令人难忘！两位战士都献出了自身的一切，我们的领袖是真正的最强者!</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
   <!--EN: Unforgettable-->
-  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>难忘</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>令人难忘的</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
   <!--EN: orgy organizer present-->
   <VME_OrgyRitualOutcome.comps.0.label>狂欢组织者出席</VME_OrgyRitualOutcome.comps.0.label>
   <!--EN: room impressiveness-->
-  <VME_OrgyRitualOutcome.comps.1.label>房间令人印象深刻</VME_OrgyRitualOutcome.comps.1.label>
+  <VME_OrgyRitualOutcome.comps.1.label>令人难忘的房间</VME_OrgyRitualOutcome.comps.1.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_OrgyRitualOutcome.comps.2.label>{PAWN_labelShort} 的社会影响</VME_OrgyRitualOutcome.comps.2.label>
+  <VME_OrgyRitualOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_OrgyRitualOutcome.comps.2.label>
   <!--EN: participant count-->
-  <VME_OrgyRitualOutcome.comps.3.label>参与者人数</VME_OrgyRitualOutcome.comps.3.label>
+  <VME_OrgyRitualOutcome.comps.3.label>参与者数量</VME_OrgyRitualOutcome.comps.3.label>
   <!--EN: Every participant will get a "got some lovin'" memory, but the negative effects of a bad quality orgy will be much more severe than usual. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\nNote that all participants must be consenting adults. If the moral guide is not an adult the ritual will appear as blocked.-->
-  <VME_OrgyRitualOutcome.description>每个参与者都会获得“有一些爱”的记忆，但质量差的负面影响狂欢会比平时严重得多。根据仪式的质量，参与者的情绪会持续 {MOODDAYS} 天，介于 {MINMOOD} 和 {MAXMOOD} 之间。
-请注意，所有参与者必须是同意的成年人。如果道德指南不是成人，仪式将显示为被阻止。</VME_OrgyRitualOutcome.description>
+  <VME_OrgyRitualOutcome.description>每名参与者都会获得“爱欲欢愉”的心情增益，但结果较差的狂欢盛宴带来的负面影响会比平时严重的多。参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。\n注意：所有参与者必须都是成年人。如果传道者不是成年人，此仪式将被禁止举行。</VME_OrgyRitualOutcome.description>
   <!--EN: The {0} was grotesque! When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away.-->
-  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0} 太奇怪了！当你想到狂欢时，你往往会想到有魅力的人。这……完全相反。心理图像需要一段时间才能消失。</VME_OrgyRitualOutcome.outcomeChances.0.description>
+  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0}荒诞可笑！当想要狂欢时，我们往往会想和有魅力的人一起。然而……事实完全相反。这糟糕的回忆需要一段时间以后才能消失。</VME_OrgyRitualOutcome.outcomeChances.0.description>
   <!--EN: Grotesque-->
-  <VME_OrgyRitualOutcome.outcomeChances.0.label>怪诞的</VME_OrgyRitualOutcome.outcomeChances.0.label>
+  <VME_OrgyRitualOutcome.outcomeChances.0.label>荒诞的</VME_OrgyRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was awkward. Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing.-->
-  <VME_OrgyRitualOutcome.outcomeChances.1.description>{0} 很尴尬。每个人都坐在那里，不知道该怎么办，裸体尸体遍布各处。相当令人失望。</VME_OrgyRitualOutcome.outcomeChances.1.description>
+  <VME_OrgyRitualOutcome.outcomeChances.1.description>{0}令人尴尬。大家都坐在地上不知所措，尴尬看着对方的裸体。这太令人失望了。</VME_OrgyRitualOutcome.outcomeChances.1.description>
   <!--EN: Awkward-->
   <VME_OrgyRitualOutcome.outcomeChances.1.label>尴尬的</VME_OrgyRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} was very sexy. We gave ourselves to each other in a communal expression of our deepest passions.-->
-  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0}非常性感。我们共同表达了我们最深切的激情，把自己奉献给了彼此。</VME_OrgyRitualOutcome.outcomeChances.2.description>
+  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0}令人性福！我们互相交融在了一起，共同表达出了我们内心最深处的激情。</VME_OrgyRitualOutcome.outcomeChances.2.description>
   <!--EN: Sexy-->
-  <VME_OrgyRitualOutcome.outcomeChances.2.label>性感</VME_OrgyRitualOutcome.outcomeChances.2.label>
+  <VME_OrgyRitualOutcome.outcomeChances.2.label>性福的</VME_OrgyRitualOutcome.outcomeChances.2.label>
   <!--EN: The {0} was exhilarating! We all donned our high-society masquerade masks and uncovered our bodies. A barrage of ecstasy unlike no other made our bodies tremble with barely concealed excitement.-->
-  <VME_OrgyRitualOutcome.outcomeChances.3.description>The {0} was exhilarating!我们都戴上上流社会的化装舞会面具，裸露身体。一股前所未有的狂喜让我们的身体因难以掩饰的兴奋而颤抖。</VME_OrgyRitualOutcome.outcomeChances.3.description>
+  <VME_OrgyRitualOutcome.outcomeChances.3.description>{0}令人愉悦！我们都戴上了上流社会的才会用到的化妆假面，并彼此裸露肉体。一股前所未有的愉悦感让我们的身体不停地颤抖，那种原始的性奋最终喷薄而出。</VME_OrgyRitualOutcome.outcomeChances.3.description>
   <!--EN: Exhilarating-->
-  <VME_OrgyRitualOutcome.outcomeChances.3.label>令人振奋</VME_OrgyRitualOutcome.outcomeChances.3.label>
+  <VME_OrgyRitualOutcome.outcomeChances.3.label>愉悦的</VME_OrgyRitualOutcome.outcomeChances.3.label>
   <!--EN: moral guide present-->
-  <VME_PlagueFestivalRitualOutcome.comps.2.label>道德指导存在</VME_PlagueFestivalRitualOutcome.comps.2.label>
+  <VME_PlagueFestivalRitualOutcome.comps.2.label>传道者出席</VME_PlagueFestivalRitualOutcome.comps.2.label>
   <!--EN: participant count-->
-  <VME_PlagueFestivalRitualOutcome.comps.3.label>参与者人数</VME_PlagueFestivalRitualOutcome.comps.3.label>
+  <VME_PlagueFestivalRitualOutcome.comps.3.label>参与者数量</VME_PlagueFestivalRitualOutcome.comps.3.label>
   <!--EN: an altar-->
-  <VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>一个祭坛</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
+  <VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>一座祭坛</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
   <!--EN: started at altar-->
-  <VME_PlagueFestivalRitualOutcome.comps.4.label>从祭坛开始</VME_PlagueFestivalRitualOutcome.comps.4.label>
+  <VME_PlagueFestivalRitualOutcome.comps.4.label>由祭坛开始仪式</VME_PlagueFestivalRitualOutcome.comps.4.label>
   <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the ritual is boring or better, it will reward all participants with the Plague.-->
-  <VME_PlagueFestivalRitualOutcome.description>根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。如果仪式很无聊或者更好，它将奖励所有参与者瘟疫。</VME_PlagueFestivalRitualOutcome.description>
+  <VME_PlagueFestivalRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。如果仪式结果为“无聊的”及以上，所有参与者都将患上慈父赐予的瘟疫。</VME_PlagueFestivalRitualOutcome.description>
   <!--EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time!-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0} 太糟糕了！说话结结巴巴，语无伦次，杀人手法也很拙劣。尸体躺在那里，一动不动，没有释放出任何神圣的瘴气。真是浪费时间！</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0}真是太糟糕了！演讲者结结巴巴，语无伦次，献祭的手法也搞砸了。尸体一动不动地躺在那里，没有一丝神圣的瘴气从里面出来。真是浪费时间！</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>糟糕的</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us.-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0} 很无聊。言语重复，杀人手法也明显有缺陷。然而，受祝福的瘟疫现在就在我们中间。</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0}非常无聊。演讲者的演讲重复而啰嗦，献祭手法也明显有缺陷。然而运的是，慈父赐予的瘟疫终于降临到了我们之中。</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
   <!--EN: Boring-->
   <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>无聊的</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} was satisfying. The speech felt meaningful, and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind.-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0} 令人满意。这句话听起来意味深长，一股神圣的瘴气从尸体中释放出来，让我们所有人都沐浴在神圣的瘟疫之风中。</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0}令人满意。演讲者的那番话语很有意义，一股神圣的瘴气从尸体中解放出来，使我们沐浴在一股神圣的瘟疫之风中。</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
   <!--EN: Satisfying-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>满意</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>令人满意的</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
   <!--EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us.-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0} 太壮观了！这番演讲让所有人都陷入了疯狂的边缘，一股神圣的瘟疫之风从动物的尸体上飘来，祝福着我们。</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0}引人入胜！演讲使信徒们陷入了狂热之中，神圣的瘟疫之风从动物的尸体上吹来，这是慈父赐予我们的伟大恩赐！</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
   <!--EN: Spectacular-->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>壮观</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>引人入胜的</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
   <!--EN: room impressiveness-->
-  <VME_SlaveEmancipationOutcome.comps.0.label>房间令人印象深刻</VME_SlaveEmancipationOutcome.comps.0.label>
+  <VME_SlaveEmancipationOutcome.comps.0.label>令人难忘的房间</VME_SlaveEmancipationOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_SlaveEmancipationOutcome.comps.1.label>参与者人数</VME_SlaveEmancipationOutcome.comps.1.label>
+  <VME_SlaveEmancipationOutcome.comps.1.label>参与者数量</VME_SlaveEmancipationOutcome.comps.1.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_SlaveEmancipationOutcome.comps.2.label>{PAWN_labelShort} 的社会影响</VME_SlaveEmancipationOutcome.comps.2.label>
+  <VME_SlaveEmancipationOutcome.comps.2.label>{PAWN_labelShort}的社交影响</VME_SlaveEmancipationOutcome.comps.2.label>
   <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
-  <VME_SlaveEmancipationOutcome.description>根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。</VME_SlaveEmancipationOutcome.description>
+  <VME_SlaveEmancipationOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</VME_SlaveEmancipationOutcome.description>
   <!--EN: The {0} was horribly demagogic! We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony.-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0} 具有可怕的煽动性！我们最终在这里被视为邪恶的家伙……有了这样的表现，不太可能有人愿意自由地加入这个殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0}像是在蛊惑人心！我们最终表现得像一群邪教徒...由于这样的表现，不太可能有人自愿加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
   <!--EN: Demagogic-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.0.label>煽动性的</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.label>蛊惑人心的</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
   <!--EN: The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony.-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} 很好地展示了自由思想。我们领袖的讲话清晰简洁，简洁地解释了奴隶制的一切罪恶。参与的奴隶有 25% 的机会加入殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0}令人感到思想自由的重要性。我们领袖的演讲精简干练，简明扼要地解释了奴隶制的所有罪恶。参与的奴隶有25%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
   <!--EN: Freethinking-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.1.label>自由思考</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.label>思想自由的</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
   <!--EN: The {0} was unshackling. Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. Participating slaves have a 50% chance of joining the colony.-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0} 被解开。我们领导人的讲话非常鼓舞人心，详细介绍了奴隶制造成的所有罪恶以及自由社会的巨大优势。参与的奴隶有 50% 的机会加入殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0}令人感到解放他人的重要性。我们领袖的演讲鼓舞人心，详述了奴隶制造成的所有罪恶和自由社会的巨大好处。参与的奴隶有50%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
   <!--EN: Unshackling-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>解开束缚</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>思想解放的</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
   <!--EN: The {0} was liberating! Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. Participating slaves have a 75% chance of joining the colony.-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0} 正在解放！我们领导人的演讲是一场大师级的演讲，颂扬了摆脱奴隶制束缚的自由社会的美德。参与的奴隶有 75% 的机会加入殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0}令人感到解放主义的优越性。我们领袖的演讲对摆脱了奴隶制枷锁的自由社会和美德进行了一次大师级的颂扬。参与的奴隶有75%的几率会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
   <!--EN: Liberating-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.3.label>解放</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.label>身体力行的</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
   <!--EN: The {0} was amazing! Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. Participating slaves have a 100% chance of joining the colony.-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0} 太棒了！关于我们领导人的讲话以及这些讲话将如何在未来引起共鸣、提升解放事业的传奇将被流传。参与的奴隶有100%的机会加入殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0}令人惊异！我们领袖的演讲将成为历史传奇，这些话将在未来会产生共鸣，并促进我们的解放事业发扬光大。参与的奴隶必定会加入我们的殖民地。</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
   <!--EN: Amazing-->
-  <VME_SlaveEmancipationOutcome.outcomeChances.4.label>惊人的</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.label>令人惊异的</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
   <!--EN: trading fair organizer present-->
-  <VME_TradingFairRitualOutcome.comps.0.label>交易会主办方出席</VME_TradingFairRitualOutcome.comps.0.label>
+  <VME_TradingFairRitualOutcome.comps.0.label>贸易展会组织者出席</VME_TradingFairRitualOutcome.comps.0.label>
   <!--EN: participant count-->
-  <VME_TradingFairRitualOutcome.comps.1.label>参与者人数</VME_TradingFairRitualOutcome.comps.1.label>
+  <VME_TradingFairRitualOutcome.comps.1.label>参与者数量</VME_TradingFairRitualOutcome.comps.1.label>
   <!--EN: Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nIf Microelectronics has been researched, you will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty.-->
-  <VME_TradingFairRitualOutcome.description>根据仪式质量，只要是积极的，就会有 1 到 6 支贸易商队从友好派系抵达。此外，根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 和 {MAXMOOD} 之间的情绪。
-
-如果已研究微电子学，则您需要在有效交易信标附近拥有至少 200 银子才能使集市正常工作，否则参与者将收到“廉价交易集”情绪惩罚。</VME_TradingFairRitualOutcome.description>
+  <VME_TradingFairRitualOutcome.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。只要结果是积极的，就会有1到6支贸易商队抵达你的殖民地。\n\n贸易展会必须拥有至少200白银(放置在轨道交易信标附近)才能正常举行，否则参与者将获得“敷衍的贸易展会”心情减益。</VME_TradingFairRitualOutcome.description>
   <!--EN: The {0} was very poorly organized! With such a low quality effort, no additional caravans will be attracted to our settlement...-->
-  <VME_TradingFairRitualOutcome.outcomeChances.0.description>{0} 组织得非常糟糕！如此低质量的努力，不会吸引更多的商队来到我们的定居点......</VME_TradingFairRitualOutcome.outcomeChances.0.description>
+  <VME_TradingFairRitualOutcome.outcomeChances.0.description>{0}组织得非常糟糕！贸易展会如此差劲，没有额外的商队会想造访我们的殖民地的...</VME_TradingFairRitualOutcome.outcomeChances.0.description>
   <!--EN: Poorly Organized-->
-  <VME_TradingFairRitualOutcome.outcomeChances.0.label>组织不善</VME_TradingFairRitualOutcome.outcomeChances.0.label>
+  <VME_TradingFairRitualOutcome.outcomeChances.0.label>组织糟糕的</VME_TradingFairRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was unexciting. Some exciting transactions took place, but the majority of it was boring business talk. Luckily, it was interesting enough to attract a caravan to our settlement, which should arrive soon.-->
-  <VME_TradingFairRitualOutcome.outcomeChances.1.description>{0} 并不令人兴奋。发生了一些令人兴奋的交易，但大部分都是无聊的商业谈话。幸运的是，这很有趣，足以吸引一支商队来到我们的定居点，他们应该很快就会到达。</VME_TradingFairRitualOutcome.outcomeChances.1.description>
+  <VME_TradingFairRitualOutcome.outcomeChances.1.description>{0}枯燥乏味。虽然有几桩令人兴奋的买卖，但大部分都是些无聊的商业会谈。幸运的是，这次贸易展会还是引起了一支商队的兴趣。他们应该很快就会抵达。</VME_TradingFairRitualOutcome.outcomeChances.1.description>
   <!--EN: Unexciting-->
-  <VME_TradingFairRitualOutcome.outcomeChances.1.label>平淡无奇</VME_TradingFairRitualOutcome.outcomeChances.1.label>
+  <VME_TradingFairRitualOutcome.outcomeChances.1.label>枯燥乏味的</VME_TradingFairRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} was very well organized. There was a lot of back and forth and networking. Luckily, at least three caravans will be attracted to our settlement, which should arrive soon.-->
-  <VME_TradingFairRitualOutcome.outcomeChances.2.description>{0} 组织得很好。有很多来回和网络。幸运的是，至少三支商队将被吸引到我们的定居点，他们应该很快就会到达。</VME_TradingFairRitualOutcome.outcomeChances.2.description>
+  <VME_TradingFairRitualOutcome.outcomeChances.2.description>{0}组织得还算不错。我们在商谈期间进行了许多有来有往的交流。幸运的是，这次贸易展会至少引起了三支商队的兴趣。他们应该很快就会抵达。</VME_TradingFairRitualOutcome.outcomeChances.2.description>
   <!--EN: Well Organized-->
-  <VME_TradingFairRitualOutcome.outcomeChances.2.label>组织良好</VME_TradingFairRitualOutcome.outcomeChances.2.label>
+  <VME_TradingFairRitualOutcome.outcomeChances.2.label>组织良好的</VME_TradingFairRitualOutcome.outcomeChances.2.label>
   <!--EN: The {0} was a wondrous event! We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. With such a display, at least six caravans will be attracted to our settlement, and they should arrive soon.-->
-  <VME_TradingFairRitualOutcome.outcomeChances.3.description>{0} 是一次奇妙的活动！我们讨论了令人兴奋和创新的经济范式，我们的定居点将作为金融学习中心而闻名。这样的摆设，至少会吸引六支商队来到我们的聚居地，他们应该很快就会到达。</VME_TradingFairRitualOutcome.outcomeChances.3.description>
+  <VME_TradingFairRitualOutcome.outcomeChances.3.description>{0}真是精彩绝伦！我们讨论了令人期待的创新经济模式，我们的殖民地将成为著名的金融示范中心。有了这样的展示，至少将有六支商队会前往我们的殖民地，他们应该很快就会抵达。</VME_TradingFairRitualOutcome.outcomeChances.3.description>
   <!--EN: Wondrous-->
-  <VME_TradingFairRitualOutcome.outcomeChances.3.label>奇妙的</VME_TradingFairRitualOutcome.outcomeChances.3.label>
+  <VME_TradingFairRitualOutcome.outcomeChances.3.label>精彩绝伦的</VME_TradingFairRitualOutcome.outcomeChances.3.label>
   <!--EN: participant count-->
-  <VME_ViolentConversionRitualOutcome.comps.0.label>参与者人数</VME_ViolentConversionRitualOutcome.comps.0.label>
+  <VME_ViolentConversionRitualOutcome.comps.0.label>参与者数量</VME_ViolentConversionRitualOutcome.comps.0.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_ViolentConversionRitualOutcome.comps.1.label>{PAWN_labelShort} 的社会影响</VME_ViolentConversionRitualOutcome.comps.1.label>
+  <VME_ViolentConversionRitualOutcome.comps.1.label>{PAWN_labelShort}的社交影响</VME_ViolentConversionRitualOutcome.comps.1.label>
   <!--EN: an altar or an ideogram-->
-  <VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>祭坛或表意文字</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
+  <VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>一座祭坛或符号图像</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
   <!--EN: started at altar or ideogram-->
-  <VME_ViolentConversionRitualOutcome.comps.2.label>从祭坛或表意文字开始</VME_ViolentConversionRitualOutcome.comps.2.label>
+  <VME_ViolentConversionRitualOutcome.comps.2.label>由祭坛或符号图像开始仪式</VME_ViolentConversionRitualOutcome.comps.2.label>
   <!--EN: Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
-  <VME_ViolentConversionRitualOutcome.description>暴力皈依有 50% 的几率使参与者完全转变为你的意识形态或只是被处决。根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。</VME_ViolentConversionRitualOutcome.description>
+  <VME_ViolentConversionRitualOutcome.description>暴力转化将有50%的几率完全改变参与者的文化形态，当然，也有50%的几率将参与者直接处决。参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值， 这取决于仪式的效果。</VME_ViolentConversionRitualOutcome.description>
   <!--EN: The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing.-->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0} 很尴尬。演讲拖得很长，争论没有结果。这些话含糊其辞，缺乏说服力。</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0}令人尴尬。演讲时间拖得很长，事实证明这是一场毫无结果的反复争论。这些内容含糊不清，难以令人信服。</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
   <!--EN: Awkward-->
   <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>尴尬的</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
   <!--EN: The {0} was satisfying. The speech was stirring and enjoyable to listen to.-->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0} 令人满意。演讲内容激动人心，令人听得津津有味。</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0}令人满意。演讲内容激动人心，听起来非常有趣。</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
   <!--EN: Satisfying-->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>满意</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>令人满意的</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
   <!--EN: The {0} was spectacular! Surely our beliefs will prevail over any others!-->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>{0} 太壮观了！当然，我们的信念将战胜任何其他信念！</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>{0}引人入胜！我们的信仰必将战胜其他的信仰！</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
   <!--EN: Spectacular-->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>壮观</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>引人入胜的</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
   <!--EN: participant count-->
-  <VME_WickerManBurningOutcome.comps.0.label>参与者人数</VME_WickerManBurningOutcome.comps.0.label>
+  <VME_WickerManBurningOutcome.comps.0.label>参与者数量</VME_WickerManBurningOutcome.comps.0.label>
   <!--EN: {PAWN_labelShort}'s social impact-->
-  <VME_WickerManBurningOutcome.comps.1.label>{PAWN_labelShort} 的社会影响</VME_WickerManBurningOutcome.comps.1.label>
+  <VME_WickerManBurningOutcome.comps.1.label>{PAWN_labelShort}的社交影响</VME_WickerManBurningOutcome.comps.1.label>
   <!--EN: A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
-  <VME_WickerManBurningOutcome.description>殖民地的囚犯将被锁在笼子里，并放火，在此过程中杀死囚犯。根据仪式的质量，参与者的情绪将在 {MINMOOD} 和 {MAXMOOD} 之间持续 {MOODDAYS} 天。</VME_WickerManBurningOutcome.description>
+  <VME_WickerManBurningOutcome.description>殖民地中的一名囚犯将被关在柳条人中处以火刑。参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值， 这取决于仪式的效果。</VME_WickerManBurningOutcome.description>
   <!--EN: The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon.-->
-  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0} 太糟糕了！囚犯一直把笼子弄得嘎嘎作响，笼子里弥漫着腐烂培根的味道。</VME_WickerManBurningOutcome.outcomeChances.0.description>
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0}实在是太糟糕了！着火的囚犯们不停地挣扎着摇晃笼子，并散发出腐烂熏肉般的味道。</VME_WickerManBurningOutcome.outcomeChances.0.description>
   <!--EN: Terrible-->
   <VME_WickerManBurningOutcome.outcomeChances.0.label>糟糕的</VME_WickerManBurningOutcome.outcomeChances.0.label>
   <!--EN: The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much.-->
-  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0} 表现平淡。囚犯被烧死得太快了，大火甚至没有让我们精神振奋。</VME_WickerManBurningOutcome.outcomeChances.1.description>
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0}实在是枯燥乏味。囚犯们很快就被烧死了，火焰甚至没能让我们重新振作起来。</VME_WickerManBurningOutcome.outcomeChances.1.description>
   <!--EN: Lackluster-->
-  <VME_WickerManBurningOutcome.outcomeChances.1.label>黯淡无光</VME_WickerManBurningOutcome.outcomeChances.1.label>
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>枯燥乏味的</VME_WickerManBurningOutcome.outcomeChances.1.label>
   <!--EN: The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames.-->
-  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0} 很好。囚犯痛苦的哭声将在我们心中久久回响，另一个被火焰吞噬的灵魂。</VME_WickerManBurningOutcome.outcomeChances.2.description>
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0}令人满意。囚犯痛苦的哀号会在很长一段时间里引起我们的共鸣。啊...又一个被火焰所吞噬的灵魂。</VME_WickerManBurningOutcome.outcomeChances.2.description>
   <!--EN: Good-->
-  <VME_WickerManBurningOutcome.outcomeChances.2.label>好的</VME_WickerManBurningOutcome.outcomeChances.2.label>
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>令人满意的</VME_WickerManBurningOutcome.outcomeChances.2.label>
   <!--EN: The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames.-->
-  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0} 太棒了！我们将永远记住囚犯的殴打，以及当另一个灵魂被神圣火焰吞噬时恐惧的尖叫声。</VME_WickerManBurningOutcome.outcomeChances.3.description>
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0}简直太棒了！我们将永远铭记囚犯所遭受的痛苦，被圣火所吞噬的灵魂发出的惊恐尖叫声将长久回荡在我们的脑海中。</VME_WickerManBurningOutcome.outcomeChances.3.description>
   <!--EN: Glorious-->
-  <VME_WickerManBurningOutcome.outcomeChances.3.label>辉煌</VME_WickerManBurningOutcome.outcomeChances.3.label>
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>充满荣耀的</VME_WickerManBurningOutcome.outcomeChances.3.label>
 </LanguageData>

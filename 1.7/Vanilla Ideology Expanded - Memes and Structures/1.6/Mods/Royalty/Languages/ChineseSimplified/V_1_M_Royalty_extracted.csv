@@ -1,0 +1,144 @@
+key,text,tag,file,type
+VME_WorkCommand.label,work command,label,AbilityDef/Abilities_Majordomo.xml,def
+VME_WorkCommand.description,"Instruct everyone around to work harder and be more diligent, boosting global work speed and the cost of depleting recreation. The effect remains attached to the caster for 24 hours.",description,AbilityDef/Abilities_Majordomo.xml,def
+VME_WorkCommand.label,work command,label,HediffDef/WorkCommand_Hediffs.xml,def
+VME_WorkCommand.description,"Instruct everyone around to work harder and be more diligent, boosting global work speed and the cost of depleting recreation. The effect remains attached to the caster for 24 hours.",description,HediffDef/WorkCommand_Hediffs.xml,def
+VME_WorkCommandBuff.label,work command,label,HediffDef/WorkCommand_Hediffs.xml,def
+VME_WorkCommandBuff.description,This person's work speed is boosted thanks to being near someone who is using the work command ability.,description,HediffDef/WorkCommand_Hediffs.xml,def
+VME_PsychicFocus.label,psychic focus,label,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.description,Mastering the power of the mind is essential to securing one’s place in the universe.,description,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.0,memeAdjective->mental,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.1,memeAdjective->psychic,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.2,memeAdjective->metaphysical,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.3,memeHyphenPrefix->mind,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.4,memeConcept->psychic power,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.5,memeLeaderNoun->mentalist,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.6,memeLeaderNoun->augur,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.7,memeLeaderNoun->seer,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.8,memeMoralist->prophet,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.generalRules.rulesStrings.9,memeMoralist->clairvoyant,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.0,creation(tag=meme_PsychicFocus)        ->[deity0_name] gifted humanity with psychic powers so we can follow [deity0_possessive] will.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] said to all the [memberNamePlural], ""Your mind is your greatest boon. Learn to use it, and no enemies will stand against you.""",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_PsychicFocus)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a place of learning and a school to hone one's psychic powers to exalt [deity0_name]'s will.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_PsychicFocus)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to attack [deity0_name]'s followers with insane psychic powers.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_PsychicFocus)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] uncanny mental prowess, and none could turn away when [founder_pronoun] spoke, entranced by the wise words.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.5,victory(tag=meme_PsychicFocus)         ->[founderName] mind-bent many of the [foeSoldiers] and coaxed them to pray to [deity0_name]. The [foeLeader] was shamed and never heard of again.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.6,"setup(tag=meme_PsychicFocus)           ->Our founder [founderName] was a psychic warrior in a forgotten, shattered star empire. [founder_pronoun] had an incredible mental discipline, that manifested in wondrous psychic powers.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_PsychicFocus)    ->[founder_pronoun] founded a prestigious martial academy where all [foeLeader_possessive] followers could learn how to hone their minds and use them as a weapon.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.8,"lessonIntro(tag=meme_PsychicFocus)         ->In all my years teaching the disciplines of the mind, I learned one lesson that is more important than anything else:",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.9,"lesson(tag=meme_PsychicFocus)              ->you don't use your mind as a weapon, your mind IS the weapon. You don't just use it for offensive purposes, or it is wasted",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.10,"lessonReinforcement(tag=meme_PsychicFocus) ->The greatest psychic warrior ever will not be one that knows how to use these powers, but one who knows how to think before using them.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.11,"archistBasis(tag=meme_PsychicFocus)    ->The archotechs are pure minds, pristine intellects that are so far beyond anything else as to be like gods.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.12,"archistFact(tag=meme_PsychicFocus)     ->Psychic powers are a gift from the archotechs. By awakening them in our minds we participate, albeit faintly, in the glory that is an archotech intellect.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.13,"archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd], the archotechs will choose those with the greatest command over their minds, and only them will be allowed to transcend.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.14,"animistFact(tag=meme_PsychicFocus)     ->The spirits are the ultimate minds, and by awakening and channeling our hidden psychic potential we can commune with them.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.15,"serketistProphecy(tag=meme_PsychicFocus)->[itIsSaid] we will unlock the hidden psychic potential of our minds, and use those newfound powers to venerate our beloved insects.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.16,"chthonianProphecy(tag=meme_PsychicFocus)->These eldritch entities are the ultimate intellects, as vast and deep as entire nebulae, their madness engulfing a thousand stars. Only by awakening and channeling our hidden psychic potential can we hope to stand against them.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.17,"esotericismProphecy(tag=meme_PsychicFocus)->We will awaken and channel our hidden psychic potential to unlock all these secrets, baring them for all to see.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.18,eschatologismFact(tag=meme_PsychicFocus)->We will awaken and channel our hidden psychic potential and use our destructive powers to slaughter everyone who stands in our way.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_PsychicFocus.descriptionMaker.rules.rulesStrings.19,"introMemo(tag=meme_PsychicFocus)->As you all well know, we value intelligence immensely here at the company. Therefore, those who manifest hidden psychic potential are encouraged to inform human resources as soon as possible, so they can be reassigned to a new department where they could be put at use.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.label,royal,label,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.description,"People should follow royalty, and treat them with great respect.",description,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.0,memeAdjective->kingly,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.1,memeAdjective->royal,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.2,memeAdjective->monarchal,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.3,memeAdjective->princely,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.4,memeAdjective->sovereign,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.5,memeHyphenPrefix->noble,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.6,memeConcept->aristocracy,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.7,memeConcept->nobility,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.8,memeConcept->blue blood,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.9,memeLeaderNoun->baron,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.generalRules.rulesStrings.10,memeLeaderNoun->count,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.0,"creation(tag=meme_Royal)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: ""Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled"".",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_Royal)  ->[deity0_name] said to all the [memberNamePlural]: ""Honour your leaders and treat them like my heralds on the mortal world, for they are more than mere men"".",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.2,"intro(tag=meme_Royal)           ->[memberNamePlural] built a regal [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.3,"conflict(tag=meme_Royal)        ->Constant peasant revolts threatened the existance of [deity0_name]'s temple, and the leaders of the [memberNamePlural] decided to pacify them.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.4,"founderJoin(tag=meme_Royal)     ->[deity0_name] instructed [founderName] to put the peasants in their place, for they were theatening the lives of their betters.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.5,"victory(tag=meme_Royal)         ->[founderName] crushed the peasant revolts, and his royal bloodline has been blessed ever since.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.6,"setup(tag=meme_Royal)           ->Our founder [founderName] was a great sociologist, who saw the weak democratic systems in [founder_possessive] native world and found them incredibly inadequate. [founder_pronoun] chartered a private spaceship and left with hundreds of [founder_possessive] followers to create the ideal feudal society.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.7,"story(uses=1,tag=meme_Royal)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has been stable for more than two hundred years.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.8,"lessonIntro(tag=meme_Royal)         ->In all my years ruling over the masses, I learned one lesson that stands over all:",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.9,"lesson(tag=meme_Royal)              ->some people are born to be rulers, while others are born to be ruled",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.10,lessonReinforcement(tag=meme_Royal) ->And only by honouring and obeying our noblest aristocrats can we truly build a stable society.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.11,archistBasis(tag=meme_Royal)    ->The archotechs are flawless. A perfect example of hierarchy where most live to serve the needs of the noble few.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.12,archistFact(tag=meme_Royal)     ->There is no ground for hesitation: only those truly subservient to their betters will be rewarded when the archotechs make themselves known to the rest of the Universe.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.13,"archistProphecy(tag=meme_Royal) ->[inTheEnd], the archotechs will allow those of noble blood to ascend, but their servants will be allowed to serve them afterwards too.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.14,"animistFact(tag=meme_Royal)     ->The spirits value those of pure blood above the rest, for those who can command others in life are also proving the strength of their spirit.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.15,"serketistProphecy(tag=meme_Royal)->As ants and bees have their queens and their drones, so shall we organize our societies: one of noble blood reigning supreme over his or her subjects.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.16,chthonianProphecy(tag=meme_Royal)->Our leaders of noble blood will protect us and shield us from the cosmic insanity of these terrible beings. Only by obeying them can we hope to stay sane.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.17,esotericismProphecy(tag=meme_Royal)->The noble blood of our leaders will allow them to see beyond the veil. Secrets that are to be forever hidden from their humble servants.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.18,eschatologismFact(tag=meme_Royal)->We shall name our leader the Prince of Lies. The one who brings the end of all things.,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.19,introMemo(tag=meme_Royal)->It has recently come to my attention that some of you have been abusing the royal permits for personal gain. Let me remind you that we take appropiation of company funds as a very serious offense. Remember: none of us are noble if any of us act like peasants!,li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Royal.descriptionMaker.rules.rulesStrings.20,"alienistProphecy(tag=tag=meme_Royal)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.",li,MemeDef/Memes_Misc_Royalty.xml,def
+VME_Leader_BestPsycaster.label,best psycaster,label,PreceptDef/Precepts_Leader_Royalty.xml,def
+VME_Leader_BestPsycaster.description,We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level.,description,PreceptDef/Precepts_Leader_Royalty.xml,def
+VME_Leader_HighestTitle.label,highest title,label,PreceptDef/Precepts_Leader_Royalty.xml,def
+VME_Leader_HighestTitle.description,Standing at imperial court is the most significant trait a leader can have.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest royalty title in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest royalty title in your colony. Even if the current leader has the same level.,description,PreceptDef/Precepts_Leader_Royalty.xml,def
+VME_Meditation.label,meditation,label,IssueDef/Precepts_Meditation.xml,def
+VME_Meditation_Exquisite.label,exquisite,label,PreceptDef/Precepts_Meditation.xml,def
+VME_Meditation_Exquisite.description,"Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it.",description,PreceptDef/Precepts_Meditation.xml,def
+VME_PermitCooldown.label,permit cooldown,label,IssueDef/Precepts_PermitCooldown.xml,def
+VME_PermitCooldown_Lowered.label,lowered,label,PreceptDef/Precepts_PermitCooldown.xml,def
+VME_PermitCooldown_Lowered.description,"Royalty demands swift action; thus, the cooldown of permits is lessened, allowing for a more rapid response to the ever-changing whims of noble desire.",description,PreceptDef/Precepts_PermitCooldown.xml,def
+VME_PermitCooldown_Increased.label,increased,label,PreceptDef/Precepts_PermitCooldown.xml,def
+VME_PermitCooldown_Increased.description,"Patience is a virtue, and now a necessity, as the cooldown of permits is doubled. Time crawls as the court awaits the next invocation of royal privilege.",description,PreceptDef/Precepts_PermitCooldown.xml,def
+VME_PermitHonorCost.label,permit cost,label,IssueDef/Precepts_PermitHonorCost.xml,def
+VME_PermitHonorCost_Halved.label,halved,label,PreceptDef/Precepts_PermitHonorCost.xml,def
+VME_PermitHonorCost_Halved.description,"The honored have the privilege of calling upon their allies more frequently, their requests for aid met with a nod and a half a cost, easing the burden of leadership.",description,PreceptDef/Precepts_PermitHonorCost.xml,def
+VME_PermitHonorCost_Doubled.label,doubled,label,PreceptDef/Precepts_PermitHonorCost.xml,def
+VME_PermitHonorCost_Doubled.description,"Every call for aid is a heavy toll, a demand of honor twice the usual rate. Such is the price of urgency, a cost only to be borne when the need is direst.",description,PreceptDef/Precepts_PermitHonorCost.xml,def
+VME_PsychicSensitivity.label,psychic sensitivity,label,IssueDef/Precepts_PsychicSensitivity.xml,def
+VME_PsychicSensitivity_Lowered.label,lowered,label,PreceptDef/Precepts_PsychicSensitivity.xml,def
+VME_PsychicSensitivity_Lowered.description,Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution.,description,PreceptDef/Precepts_PsychicSensitivity.xml,def
+VME_PsychicSensitivity_Heightened.label,heightened,label,PreceptDef/Precepts_PsychicSensitivity.xml,def
+VME_PsychicSensitivity_Heightened.description,Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution.,description,PreceptDef/Precepts_PsychicSensitivity.xml,def
+VME_PsyfocusGain.label,psyfocus gain,label,IssueDef/Precepts_PsyfocusGain.xml,def
+VME_PsyfocusGain_Doubled.label,doubled,label,PreceptDef/Precepts_PsyfocusGain.xml,def
+VME_PsyfocusGain_Doubled.description,By inducing trance on oneself and reaching erudition you cast away the shackles of the physical and find the ability to manipulate the world just as trivial as breathing.,description,PreceptDef/Precepts_PsyfocusGain.xml,def
+VME_IdeoRole_Majordomo.label,majordomo,label,PreceptDef/Precepts_Role_Majordomo.xml,def
+VME_IdeoRole_Majordomo.description,"A management specialist, Majordomo is the steward of nobility and overseer of estates. They wield authority to organize, manage, and ensure the seamless operation of every aspect of aristocratic life, but are unable to hold titles themselves. They possess an ability to inspire everyone around them to go an extra mile, at the cost of greatly lowering their recreation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Gains recreation from any work.",description,PreceptDef/Precepts_Role_Majordomo.xml,def
+VME_Royalty.label,royalty,label,IssueDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.label,exalted,label,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.description,"Those who drape themselves in the vestments of royalty ascend beyond mere mortals. Each step up the ladder of nobility brings greater veneration from the common folk, from a respectful nod for a Yeoman to awestruck reverence for a High Stellarch.",description,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Respected.label,respected,label,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Respected.description,"Every crown and every title is a symbol of burdens shouldered for the good of all. Regardless of the rank, a title earns a uniform respect, an acknowledgment of the wearer's elevated place in our order.",description,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Disliked.label,disliked,label,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Disliked.description,"Titles and crowns, relics of a bygone era, draw ire more than admiration. Those who flaunt their noble status find themselves at the receiving end of equal disdain.",description,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.label,hated,label,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.description,"Royal titles are chains that bind freedom, and each title is a shackle more cursed than the last. From Yeoman to High Stellarch, the disdain grows with the weight of the crown, heavy is the head that wears it.",description,PreceptDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.0.label,royalty: yeoman,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.1.label,royalty: acolyte,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.2.label,royalty: knight,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.3.label,royalty: praetor,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.4.label,royalty: baron,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.5.label,royalty: count,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.6.label,royalty: archcount,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.7.label,royalty: marquess,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.8.label,royalty: duke,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.9.label,royalty: archduke,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.10.label,royalty: consul,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.11.label,royalty: magister,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.12.label,royalty: despot,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.13.label,royalty: stellarch,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Exalted.stages.14.label,royalty: high stellarch,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Respected.stages.0.label,royalty,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Disliked.stages.0.label,royalty,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.0.label,royalty: yeoman,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.1.label,royalty: acolyte,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.2.label,royalty: knight,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.3.label,royalty: praetor,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.4.label,royalty: baron,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.5.label,royalty: count,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.6.label,royalty: archcount,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.7.label,royalty: marquess,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.8.label,royalty: duke,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.9.label,royalty: archduke,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.10.label,royalty: consul,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.11.label,royalty: magister,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.12.label,royalty: despot,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.13.label,royalty: stellarch,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_Royalty_Hated.stages.14.label,royalty: high stellarch,label,ThoughtDef/Precepts_Royalty.xml,def
+VME_TitleInheritance.label,titles,label,IssueDef/Precepts_TitleInheritance.xml,def
+VME_TitleInheritance_Inherited.label,inherited,label,PreceptDef/Precepts_TitleInheritance.xml,def
+VME_TitleInheritance_Inherited.description,"Nobility flows through blood, as titles pass from the fallen to their kin. A parent's demise elevates the firstborn, inheriting the mantle of leadership.",description,PreceptDef/Precepts_TitleInheritance.xml,def

@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Allow plant growth inside proxy heat effect radius-->
-  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>允许植物在代理热效应半径内生长</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>允许植物在室外热源的影响范围内生长</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
   <!--EN: Building has own temperature target control-->
-  <PH.BuildingHasTemperatureControl>建筑物有自己的温度目标控制</PH.BuildingHasTemperatureControl>
+  <PH.BuildingHasTemperatureControl>此建筑具有独立的温控设置</PH.BuildingHasTemperatureControl>
   <!--EN: Enable proxy heat-->
-  <PH.EnableProxyHeat>启用代理热度</PH.EnableProxyHeat>
+  <PH.EnableProxyHeat>启用Proxy Heat</PH.EnableProxyHeat>
   <!--EN: Enable proxy heat effect indoors-->
-  <PH.EnableProxyHeatEffectIndoors>启用室内代理热效应</PH.EnableProxyHeatEffectIndoors>
+  <PH.EnableProxyHeatEffectIndoors>启用“室外热源”机制</PH.EnableProxyHeatEffectIndoors>
   <!--EN: Maximum temperature threshold-->
   <PH.MaxTemperature>最高温度阈值</PH.MaxTemperature>
   <!--EN: Minimum temperature threshold-->
   <PH.MinTemperature>最低温度阈值</PH.MinTemperature>
   <!--EN: Proxy heat building settings:-->
-  <PH.ProxyHeatBuildings>代理热构建设置：</PH.ProxyHeatBuildings>
+  <PH.ProxyHeatBuildings>室外热源建筑设置：</PH.ProxyHeatBuildings>
   <!--EN: Proxy heat radius-->
-  <PH.ProxyHeatRadius>代理热半径</PH.ProxyHeatRadius>
+  <PH.ProxyHeatRadius>室外热源半径</PH.ProxyHeatRadius>
   <!--EN: Search:-->
-  <PH.Search>搜索：</PH.Search>
+  <PH.Search>查找：</PH.Search>
   <!--EN: Temperature output-->
   <PH.TemperatureOutput>温度输出</PH.TemperatureOutput>
   <!--EN: (not set)-->
   <PN.NotSet>（未设置）</PN.NotSet>
   <!--EN: Link this AC unit with the system, inheriting the desired temperature.-->
-  <VTE.AcRelinkDescription>将此空调装置与系统连接，继承所需的温度。</VTE.AcRelinkDescription>
+  <VTE.AcRelinkDescription>与空调管道网络的中控器相连接，由其统一设定目标温度。</VTE.AcRelinkDescription>
   <!--EN: Unlink this AC unit from inheriting desired temperature from the system.-->
-  <VTE.AcUnlinkDescription>取消此空调设备从系统继承所需温度的链接。</VTE.AcUnlinkDescription>
+  <VTE.AcUnlinkDescription>与空调管道网络的中控器断开连接，独立设定目标温度。</VTE.AcUnlinkDescription>
   <!--EN: Cannot be placed next to ceiling fans.-->
-  <VTE.CannotPlaceAdjacentCeilingFan>不能放置在吊扇旁边。</VTE.CannotPlaceAdjacentCeilingFan>
+  <VTE.CannotPlaceAdjacentCeilingFan>不能与其他吊扇相邻。</VTE.CannotPlaceAdjacentCeilingFan>
   <!--EN: Cannot work: Covered by roof.-->
-  <VTE.CompressorCovered>无法工作：被屋顶覆盖。</VTE.CompressorCovered>
+  <VTE.CompressorCovered>无法运行：被屋顶阻挡</VTE.CompressorCovered>
   <!--EN: Consumption-->
-  <VTE.Consumption>消耗</VTE.Consumption>
+  <VTE.Consumption>负荷值</VTE.Consumption>
   <!--EN: Network efficiency-->
-  <VTE.Efficiency>网络效率</VTE.Efficiency>
+  <VTE.Efficiency>管道网络工作效率</VTE.Efficiency>
   <!--EN: Cannot work: Not enough compressors connected.-->
-  <VTE.MissingCompressors>无法工作：连接的压缩机不足。</VTE.MissingCompressors>
+  <VTE.MissingCompressors>无法运行：管道网络缺少足够的空调压缩机</VTE.MissingCompressors>
   <!--EN: Cannot work: Missing AC control unit.-->
-  <VTE.MissingController>无法工作：缺少交流控制单元。</VTE.MissingController>
+  <VTE.MissingController>无法运行：管道网络缺少空调中控器</VTE.MissingController>
   <!--EN: The hot side of the heater must be exposed.-->
-  <VTE.MustPlaceHeaterWithFreeSpaces>加热器的 热 侧必须是 暴露。</VTE.MustPlaceHeaterWithFreeSpaces>
+  <VTE.MustPlaceHeaterWithFreeSpaces>加热器的热端不能被阻塞。</VTE.MustPlaceHeaterWithFreeSpaces>
   <!--EN: Must be placed under a roof.-->
   <VTE.MustPlaceUnderRoof>必须放置在屋顶下。</VTE.MustPlaceUnderRoof>
   <!--EN: Network target temperature-->
-  <VTE.NetworkTargetTemp>网络目标温度</VTE.NetworkTargetTemp>
+  <VTE.NetworkTargetTemp>管道网络目标温度</VTE.NetworkTargetTemp>
   <!--EN: Production-->
-  <VTE.Production>生产</VTE.Production>
+  <VTE.Production>维持值</VTE.Production>
   <!--EN: Link temperature-->
-  <VTE.Relink>链路温度</VTE.Relink>
+  <VTE.Relink>连接中控器</VTE.Relink>
   <!--EN: Cannot work: Connected to more than one AC control unit.-->
-  <VTE.TooManyControllers>无法工作：连接到多个交流控制单元。</VTE.TooManyControllers>
+  <VTE.TooManyControllers>无法运行：管道网络只能连接一台空调中控器</VTE.TooManyControllers>
   <!--EN: Total consumption-->
-  <VTE.TotalConsumption>总消费</VTE.TotalConsumption>
+  <VTE.TotalConsumption>管道网络总负荷值</VTE.TotalConsumption>
   <!--EN: Total production-->
-  <VTE.TotalProduction>总产量</VTE.TotalProduction>
+  <VTE.TotalProduction>管道网络总维持值</VTE.TotalProduction>
   <!--EN: Unlink temperature-->
-  <VTE.Unlink>取消链接温度</VTE.Unlink>
+  <VTE.Unlink>断连中控器</VTE.Unlink>
   <!--EN: Switches air flow on/off.-->
-  <VTE_VentValve>打开/关闭气流。</VTE_VentValve>
+  <VTE_VentValve>指派开关阀门</VTE_VentValve>
   <!--EN: Switches air flow on/off. A pawn will come open/close the valve.-->
-  <VTE_VentValveDesc>打开/关闭气流。 pawn 将打开/关闭阀门。</VTE_VentValveDesc>
+  <VTE_VentValveDesc>指定一个需要切换开关的管道阀门。一名殖民者将随后前往拧动阀门。</VTE_VentValveDesc>
 </LanguageData>

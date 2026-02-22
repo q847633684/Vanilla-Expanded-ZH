@@ -1,0 +1,46 @@
+key,text,tag,file,type
+VCHE_ExtractChemfuel,Extract 150 chemfuel,VCHE_ExtractChemfuel,Misc.xml,keyed
+VCHE_ExtractChemfuelDesc,Extract 150 chemfuel from the tank. A pawn will come to extract it.,VCHE_ExtractChemfuelDesc,Misc.xml,keyed
+VCHE_ExtractDeepchem,Extract 150 deepchem,VCHE_ExtractDeepchem,Misc.xml,keyed
+VCHE_ExtractDeepchemDesc,Extract 150 deepchem from the tank. A pawn will come to extract it.,VCHE_ExtractDeepchemDesc,Misc.xml,keyed
+VCHE_CantRefine,Can’t refine: Tanks are full,VCHE_CantRefine,Misc.xml,keyed
+VCHE_CantPump,Can’t pump: Tanks are full,VCHE_CantPump,Misc.xml,keyed
+VCHE_CantPlaceHere,Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits.,VCHE_CantPlaceHere,Misc.xml,keyed
+VCHE_ChemValve,Switches chemfuel flow on/off.,VCHE_ChemValve,Misc.xml,keyed
+VCHE_ChemValveDesc,Switches chemfuel flow on/off. A pawn will come open/close the valve.,VCHE_ChemValveDesc,Misc.xml,keyed
+VCHE_DeepChemValve,Switches deepchem flow on/off.,VCHE_DeepChemValve,Misc.xml,keyed
+VCHE_DeepChemValveDesc,Switches deepchem flow on/off. A pawn will come open/close the valve.,VCHE_DeepChemValveDesc,Misc.xml,keyed
+VCHE_PipeNetworks.label,pipe networks,label,DesignationCategoryDef/Designation.xml,def
+VCHE_ChemfuelPipe.label,chemfuel pipe,label,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelPipe.description,Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.,description,ThingDef/ChemfuelNet.xml,def
+VCHE_UndergroundChemfuelPipe.label,hidden chemfuel pipe,label,ThingDef/ChemfuelNet.xml,def
+VCHE_UndergroundChemfuelPipe.description,Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling.,description,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelValve.label,chemfuel valve,label,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelValve.description,Switches chemfuel flow on/off.,description,ThingDef/ChemfuelNet.xml,def
+PS_ChemfuelTank.label,chemfuel tank,label,ThingDef/ChemfuelNet.xml,def
+PS_ChemfuelTank.description,"An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.",description,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelTap.label,chemfuel tap,label,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelTap.description,A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later.,description,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelDrain.label,chemfuel drain,label,ThingDef/ChemfuelNet.xml,def
+VCHE_ChemfuelDrain.description,"A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks.",description,ThingDef/ChemfuelNet.xml,def
+VCHE_DeepchemPipe.label,deepchem pipe,label,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemPipe.description,Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.,description,ThingDef/DeepchemNet.xml,def
+VCHE_UndergroundDeepchemPipe.label,hidden deepchem pipe,label,ThingDef/DeepchemNet.xml,def
+VCHE_UndergroundDeepchemPipe.description,Hidden heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage.,description,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemValve.label,deepchem valve,label,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemValve.description,Switches deepchem flow on/off.,description,ThingDef/DeepchemNet.xml,def
+PS_DeepchemTank.label,deepchem tank,label,ThingDef/DeepchemNet.xml,def
+PS_DeepchemTank.description,"A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within.",description,ThingDef/DeepchemNet.xml,def
+PS_DeepchemRefinery.label,deepchem refinery,label,ThingDef/DeepchemNet.xml,def
+PS_DeepchemRefinery.description,A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing.,description,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemPumpjack.label,deepchem pumpjack,label,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemPumpjack.description,A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely.,description,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemTap.label,deepchem tap,label,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemTap.description,A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later.,description,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemDrain.label,deepchem drain,label,ThingDef/DeepchemNet.xml,def
+VCHE_DeepchemDrain.description,"A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks.",description,ThingDef/DeepchemNet.xml,def
+VCHE_Make_ChemfuelFromDeepchem.label,make chemfuel from deepchem,label,RecipeDef/Deepchem.xml,def
+VCHE_Make_ChemfuelFromDeepchem.description,Make a batch of chemfuel by refining deepchem.,description,RecipeDef/Deepchem.xml,def
+VCHE_Make_ChemfuelFromDeepchem.jobString,Refining chemfuel from deepchem.,jobString,RecipeDef/Deepchem.xml,def
+VCHE_Deepchem.label,deepchem,label,ThingDef/Items_Resource_Manufactured.xml,def
+VCHE_Deepchem.description,"A volatile liquid chemical sludge, extracted from deep underground pockets. It’s too thick to be used to fuel engines and rockets, or to transmute into propellant for projectiles, but it can be refined down into standard chemfuel.",description,ThingDef/Items_Resource_Manufactured.xml,def

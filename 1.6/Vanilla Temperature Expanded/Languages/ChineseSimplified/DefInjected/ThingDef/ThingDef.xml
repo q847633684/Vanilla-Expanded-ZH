@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency.-->
-  <VTE_ACCompressor.description>需要通过风道连接到空调控制单元的空调压缩机。只能放在室外。通电后，它允许交流网络运行两个额外的交流设备，而不会损失效率。</VTE_ACCompressor.description>
+  <VTE_ACCompressor.description>空调压缩机可以增加空调管道网络的维持值，让更多空调能以正常的工作效率运行。未通电时不起效果。必须放置在室外。\n\n【维持值】：2\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_ACCompressor.description>
   <!--EN: AC compressor-->
   <VTE_ACCompressor.label>空调压缩机</VTE_ACCompressor.label>
   <!--EN: A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network.-->
-  <VTE_ACControlUnit.description>主空调控制单元。连接到压缩机以允许空调装置产生冷空气或热空气。需要通过风管与压缩机连接。空调控制单元决定同一网络中所有空调单元的所需温度。安装过多的交流设备可能会降低网络效率，增加所有设备的功耗。建造额外的压缩机将提高网络的效率。</VTE_ACControlUnit.description>
+  <VTE_ACControlUnit.description>空调管道网络的中央控制器。这种设备可以为连入管道网络的空调统一设定目标温度，使它们能吹出热空气或冷空气。如果管道网络缺少中控器，空调和空调压缩机将无法工作。\n\n【维持值】：2\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_ACControlUnit.description>
   <!--EN: AC control unit-->
-  <VTE_ACControlUnit.label>交流控制单元</VTE_ACControlUnit.label>
+  <VTE_ACControlUnit.label>空调中控器</VTE_ACControlUnit.label>
   <!--EN: An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts.-->
-  <VTE_ACUnit.description>适合安装在墙上的空调机。根据房间当前的温度，向同一方向散发冷空气或暖空气。除非与网络设置断开链接，否则它将旨在达到交流控制单元中指定的温度。需要通过风道连接到空调控制单元。</VTE_ACUnit.description>
+  <VTE_ACUnit.description>可作为墙体使用的空调设备。它会根据当前室内温度吹出热空气或冷空气。除非断开与空调中控器的连接，否则它会遵循统一设定的目标温度。\n\n【负荷值】：1\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_ACUnit.description>
   <!--EN: AC unit-->
-  <VTE_ACUnit.label>空调机组</VTE_ACUnit.label>
+  <VTE_ACUnit.label>墙体空调</VTE_ACUnit.label>
   <!--EN: A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall.-->
-  <VTE_ACUnitWall.description>壁挂式空调机。根据房间当前的温度，向同一方向散发冷空气或暖空气。除非与网络设置断开链接，否则它将旨在达到交流控制单元中指定的温度。需要通过风道连接到空调控制单元。只能建造在墙上。</VTE_ACUnitWall.description>
+  <VTE_ACUnitWall.description>必须放置在墙体上的空调设备。它会根据当前室内温度吹出热空气或冷空气。除非断开与空调中控器的连接，否则它会遵循统一设定的目标温度。\n\n【负荷值】：1\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_ACUnitWall.description>
   <!--EN: wall-mounted AC unit-->
-  <VTE_ACUnitWall.label>壁挂式空调机组</VTE_ACUnitWall.label>
+  <VTE_ACUnitWall.label>壁挂空调</VTE_ACUnitWall.label>
   <!--EN: An air duct used by the AC network to transport air between the AC units and compressors.-->
-  <VTE_AirDuct.description>空调网络使用的风管，用于在空调机组和压缩机之间输送空气。</VTE_AirDuct.description>
+  <VTE_AirDuct.description>结实的空调管道，可以将空调、空调中控器和空调压缩机连接起来以组成空调管道网络。\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_AirDuct.description>
   <!--EN: air duct-->
-  <VTE_AirDuct.label>风道</VTE_AirDuct.label>
+  <VTE_AirDuct.label>空调管道</VTE_AirDuct.label>
   <!--EN: A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler.-->
-  <VTE_IndustrialCooler.description>一种可嵌入墙壁的大型工业型空气冷却机。冷空气从一侧排出，而热废气从另一侧排出。可用于在夏季为房间降温，或创建一个步入式冰柜。它能够将房间冷却到比标准冷却器低得多的温度。</VTE_IndustrialCooler.description>
+  <VTE_IndustrialCooler.description>可作为墙体使用的工业级大型制冷设备。它会将冷空气吹入室内，同时外机部分排出热量。适合在夏季时为房间降温，或者用其建造一个冷库。它的制冷效果要比普通的制冷机强得多。</VTE_IndustrialCooler.description>
   <!--EN: industrial cooler-->
-  <VTE_IndustrialCooler.label>工业冷却器</VTE_IndustrialCooler.label>
+  <VTE_IndustrialCooler.label>工业制冷机</VTE_IndustrialCooler.label>
   <!--EN: A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters.-->
-  <VTE_IndustrialHeater.description>一种可嵌入墙壁的大型工业型加热器。它将电能转化为热量。它可以自动打开或关闭以达到特定的目标温度。它能够将房间加热到比标准加热器高得多的温度。</VTE_IndustrialHeater.description>
+  <VTE_IndustrialHeater.description>可作为墙体使用的工业级大型加热设备。它会将电能转换成热能，并自动根据当前室内温度开关以达到设定的目标温度。它的加热效果要比普通的加热器强得多。</VTE_IndustrialHeater.description>
   <!--EN: industrial heater-->
-  <VTE_IndustrialHeater.label>industrial heater</VTE_IndustrialHeater.label>
+  <VTE_IndustrialHeater.label>工业加热器</VTE_IndustrialHeater.label>
   <!--EN: A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency.-->
-  <VTE_LargeACCompressor.description>大型空调压缩机，需要通过风道连接到空调控制单元。只能放在室外。通电后，它允许交流网络运行六个额外的交流设备，而不会损失效率。</VTE_LargeACCompressor.description>
+  <VTE_LargeACCompressor.description>大型空调压缩机可以增加空调管道网络的维持值，让更多空调能以正常的工作效率运行。未通电时不起效果。必须放置在室外。\n\n【维持值】：6\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_LargeACCompressor.description>
   <!--EN: large AC compressor-->
   <VTE_LargeACCompressor.label>大型空调压缩机</VTE_LargeACCompressor.label>
   <!--EN: A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.-->
-  <VTE_LargeCeilingFan.description>一个大型吊扇。可用于在夏季快速使房间降温。其冷藏食物的效率不够高，其目标是达到 17 摄氏度的室温。</VTE_LargeCeilingFan.description>
+  <VTE_LargeCeilingFan.description>吊挂在屋顶上的大型风扇。适合在夏季时为房间快速降温，但其制冷效果不足以用来建造冷库。目标温度固定为17℃。</VTE_LargeCeilingFan.description>
   <!--EN: large ceiling fan-->
-  <VTE_LargeCeilingFan.label>大吊扇</VTE_LargeCeilingFan.label>
+  <VTE_LargeCeilingFan.label>大型吊扇</VTE_LargeCeilingFan.label>
   <!--EN: A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.-->
-  <VTE_SmallCeilingFan.description>吊扇。可用于在夏季使房间缓慢降温。其冷藏食物的效率不够高，其目标是达到 17 摄氏度的室温。</VTE_SmallCeilingFan.description>
+  <VTE_SmallCeilingFan.description>吊挂在屋顶上的小型风扇。适合在夏季时为房间快速降温，但其制冷效果不足以用来建造冷库。目标温度固定为17℃。</VTE_SmallCeilingFan.description>
   <!--EN: small ceiling fan-->
-  <VTE_SmallCeilingFan.label>小吊扇</VTE_SmallCeilingFan.label>
+  <VTE_SmallCeilingFan.label>小型吊扇</VTE_SmallCeilingFan.label>
   <!--EN: A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food.-->
-  <VTE_StandingCooler.description>独立式空气冷却机。冷空气从风扇中喷出并散布到周围区域。夏季可用于给房间降温。效率不足以冷藏食物。</VTE_StandingCooler.description>
+  <VTE_StandingCooler.description>可自由放置在地上的制冷设备。它会将冷空气吹入室内，同时外机部分排出热量。适合在夏季时为房间降温，但其制冷效果不足以用来建造冷库。</VTE_StandingCooler.description>
   <!--EN: standing cooler-->
-  <VTE_StandingCooler.label>站立凉爽</VTE_StandingCooler.label>
+  <VTE_StandingCooler.label>立式制冷机</VTE_StandingCooler.label>
   <!--EN: A subterranean air duct used by the AC network to transport air between the AC units and compressors.-->
-  <VTE_UndergroundAirDuct.description>空调网络使用的地下空气管道，用于在空调机组和压缩机之间输送空气。</VTE_UndergroundAirDuct.description>
+  <VTE_UndergroundAirDuct.description>结实的空调管道，可以将空调、空调中控器和空调压缩机连接起来以组成空调管道网络。这种管道因埋藏在地下而不会被看见。\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_UndergroundAirDuct.description>
   <!--EN: subterranean air duct-->
-  <VTE_UndergroundAirDuct.label>地下风道</VTE_UndergroundAirDuct.label>
+  <VTE_UndergroundAirDuct.label>地下空调管道</VTE_UndergroundAirDuct.label>
   <!--EN: Switches air flow on/off.-->
-  <VTE_VentValve.description>打开/关闭气流。</VTE_VentValve.description>
+  <VTE_VentValve.description>连通/断开空调管道，决定空气是否能够通过。\n\n&lt;color=#E5E54C&gt;游戏提示：&lt;/color&gt;\n空调管道网络有三项重要属性——&lt;color=#00B9FF&gt;维持值&lt;/color&gt;、&lt;color=#00B9FF&gt;负荷值&lt;/color&gt;与&lt;color=#00B9FF&gt;工作效率&lt;/color&gt;。空调中控器和空调压缩机会增加维持值，而空调会增加负荷值。如果总负荷值＞总维持值，则会降低空调管道网络的工作效率，从而提高所有空调的耗电量。</VTE_VentValve.description>
   <!--EN: air duct valve-->
-  <VTE_VentValve.label>风管阀</VTE_VentValve.label>
+  <VTE_VentValve.label>空调管道阀门</VTE_VentValve.label>
   <!--EN: A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter.-->
-  <VTE_WallHeater.description>适合墙壁的加热机。它将电能转化为热量。它可以自动打开或关闭以达到特定的目标温度。冬季可用于为房间供暖。</VTE_WallHeater.description>
+  <VTE_WallHeater.description>可作为墙体使用的加热设备。它会将电能转换成热能，并自动根据当前室内温度开关以达到设定的目标温度。</VTE_WallHeater.description>
   <!--EN: wall heater-->
-  <VTE_WallHeater.label>壁式取暖器</VTE_WallHeater.label>
+  <VTE_WallHeater.label>墙体加热器</VTE_WallHeater.label>
   <!--EN: A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall.-->
-  <VTE_WallMountedCooler.description>A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while 性感的 exhaust comes out the other. Can be used to cool down rooms during summer, or to create a 进门被发现 freezer. Can only be constructed on a wall.</VTE_WallMountedCooler.description>
+  <VTE_WallMountedCooler.description>必须放置在墙体上的制冷设备。它会将冷空气吹入室内，同时外机部分排出热量。适合在夏季时为房间降温，或者用其建造一个冷库。</VTE_WallMountedCooler.description>
   <!--EN: wall-mounted cooler-->
-  <VTE_WallMountedCooler.label>壁挂式冷却器</VTE_WallMountedCooler.label>
+  <VTE_WallMountedCooler.label>壁挂制冷机</VTE_WallMountedCooler.label>
   <!--EN: A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall.-->
-  <VTE_WallMountedHeater.description>一种将电能转化为热能的壁挂式设备。它可以自动打开或关闭以达到特定的目标温度。只能建造在墙上。</VTE_WallMountedHeater.description>
+  <VTE_WallMountedHeater.description>必须放置在墙体上的加热设备。它会将电能转换成热能，并自动根据当前室内温度开关以达到设定的目标温度。</VTE_WallMountedHeater.description>
   <!--EN: wall-mounted heater-->
-  <VTE_WallMountedHeater.label>壁挂式取暖器</VTE_WallMountedHeater.label>
+  <VTE_WallMountedHeater.label>壁挂加热器</VTE_WallMountedHeater.label>
   <!--EN: A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall.-->
-  <VTE_WallMountedVent.description>一个简单的壁挂式通风口，用于平衡两个房间之间的温度，而不允许人们在它们之间行走。只能建造在墙上。</VTE_WallMountedVent.description>
+  <VTE_WallMountedVent.description>必须放置在墙体上的通风孔。可以平衡两个房间的温度。</VTE_WallMountedVent.description>
   <!--EN: wall-mounted vent-->
-  <VTE_WallMountedVent.label>壁挂式通风口</VTE_WallMountedVent.label>
+  <VTE_WallMountedVent.label>壁挂通风孔</VTE_WallMountedVent.label>
 </LanguageData>

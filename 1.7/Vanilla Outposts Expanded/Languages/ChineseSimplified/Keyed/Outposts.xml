@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Change what the factory produces-->
+  <Outposts.Commands.Comb.Desc>Change what the factory produces</Outposts.Commands.Comb.Desc>
+  <!--EN: Change Result-->
+  <Outposts.Commands.Comb.Label>Change Result</Outposts.Commands.Comb.Label>
+  <!--EN: Deploy the garrison of this outpost in drop pods to assist one of your combat engagements.-->
+  <Outposts.Commands.Deploy.Desc>Deploy the garrison of this outpost in drop pods to assist one of your combat engagements.</Outposts.Commands.Deploy.Desc>
+  <!--EN: Cannot send: Drop pods are not available to you-->
+  <Outposts.Commands.Deploy.Disabled>Cannot send: Drop pods are not available to you</Outposts.Commands.Deploy.Disabled>
+  <!--EN: Send Reinforcements-->
+  <Outposts.Commands.Deploy.Label>Send Reinforcements</Outposts.Commands.Deploy.Label>
+  <!--EN: Cannot send not enough stored fuel-->
+  <Outposts.Commands.Deploy.NotEnoughFuel>Cannot send not enough stored fuel</Outposts.Commands.Deploy.NotEnoughFuel>
+  <!--EN: Cannot send last pawn-->
+  <Outposts.Commands.Deploy.Only1>Cannot send last pawn</Outposts.Commands.Deploy.Only1>
+  <!--EN: Still on cooldown-->
+  <Outposts.Commands.Disabled.Cooldown>Still on cooldown</Outposts.Commands.Disabled.Cooldown>
+  <!--EN: Change which factory building this outpost uses to produce items for you-->
+  <Outposts.Commands.Factory.Desc>Change which factory building this outpost uses to produce items for you</Outposts.Commands.Factory.Desc>
+  <!--EN: Change Factory-->
+  <Outposts.Commands.Factory.Label>Change Factory</Outposts.Commands.Factory.Label>
+  <!--EN: Begin targeting for an artillery strike-->
+  <Outposts.Commands.Fire.Desc>Begin targeting for an artillery strike</Outposts.Commands.Fire.Desc>
+  <!--EN: Artillery Strike-->
+  <Outposts.Commands.Fire.Label>Artillery Strike</Outposts.Commands.Fire.Label>
+  <!--EN: On cooldown: {0} left-->
+  <Outposts.Cooldown>On cooldown: {0} left</Outposts.Cooldown>
+  <!--EN: Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain.-->
+  <Outposts.Defensive.Lost.Desc>Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain.</Outposts.Defensive.Lost.Desc>
+  <!--EN: Raid Ambush Lost-->
+  <Outposts.Defensive.Lost.Label>Raid Ambush Lost</Outposts.Defensive.Lost.Label>
+  <!--EN: Your soldiers have successfully defeated the incoming raid before it could reach your settlement. {0}-->
+  <Outposts.Defensive.Won.Desc>Your soldiers have successfully defeated the incoming raid before it could reach your settlement. {0}</Outposts.Defensive.Won.Desc>
+  <!--EN: Raid Ambush Won-->
+  <Outposts.Defensive.Won.Label>Raid Ambush Won</Outposts.Defensive.Won.Label>
+  <!--EN: Drilling boreholes. {0} done. Estimated time remaining: {1}-->
+  <Outposts.Drilling>Drilling boreholes. {0} done. Estimated time remaining: {1}</Outposts.Drilling>
+  <!--EN: Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3}-->
+  <Outposts.Intercept.CanIntercept>Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3}</Outposts.Intercept.CanIntercept>
+  <!--EN: Stand down, and return to the outpost-->
+  <Outposts.Intercept.DontIntercept>Stand down, and return to the outpost</Outposts.Intercept.DontIntercept>
+  <!--EN: Maneuver and intercept the raiders-->
+  <Outposts.Intercept.InterceptRaid>Maneuver and intercept the raiders</Outposts.Intercept.InterceptRaid>
+  <!--EN: Outpost Intercept Raid-->
+  <Outposts.Intercept.Title>Outpost Intercept Raid</Outposts.Intercept.Title>
+  <!--EN: Raid Intercepted-->
+  <Outposts.Letters.Intercept.Label>Raid Intercepted</Outposts.Letters.Intercept.Label>
+  <!--EN: A raid bound for {0} has been intercepted by the defensive outpost {1}. Hopefully they can survive this brave maneuver.-->
+  <Outposts.Letters.Intercept.Text>A raid bound for {0} has been intercepted by the defensive outpost {1}. Hopefully they can survive this brave maneuver.</Outposts.Letters.Intercept.Text>
+  <!--EN: The following pawns have been newly recruited in the town of {0}:\n{1}-->
+  <Outposts.Letters.Recruit.Desc>The following pawns have been newly recruited in the town of {0}:\n{1}</Outposts.Letters.Recruit.Desc>
+  <!--EN: Pawns Recruited: {0}-->
+  <Outposts.Letters.Recruit.Label>Pawns Recruited: {0}</Outposts.Letters.Recruit.Label>
+  <!--EN: All occupants must be armed and ready for combat.-->
+  <Outposts.MustBeArmed>All occupants must be armed and ready for combat.</Outposts.MustBeArmed>
+  <!--EN: Must be made in the {0}-->
+  <Outposts.MustBeMade>Must be made in the {0}</Outposts.MustBeMade>
+  <!--EN: Must be made in mountains or hills-->
+  <Outposts.MustBeMade.Hill>Must be made in mountains or hills</Outposts.MustBeMade.Hill>
+  <!--EN: Must be made on the coast or a river-->
+  <Outposts.MustBeOnCoastOrRiver>Must be made on the coast or a river</Outposts.MustBeOnCoastOrRiver>
+  <!--EN: Not enough nearby settlements, need {0} within {1} tiles-->
+  <Outposts.NearbySettlements>Not enough nearby settlements, need {0} within {1} tiles</Outposts.NearbySettlements>
+  <!--EN: Animals Importance-->
+  <Outposts.Settings.Animals>Animals Importance</Outposts.Settings.Animals>
+  <!--EN: Recruit chance Multiplier-->
+  <Outposts.Settings.Chance>Recruit chance Multiplier</Outposts.Settings.Chance>
+  <!--EN: Cooldown-->
+  <Outposts.Settings.Cooldown>Cooldown</Outposts.Settings.Cooldown>
+  <!--EN: Intercept Incoming Raids?-->
+  <Outposts.Settings.DoIntercept>Intercept Incoming Raids?</Outposts.Settings.DoIntercept>
+  <!--EN: Intercept Difficulty Multiplier-->
+  <Outposts.Settings.InterceptDifficultyMultiplier>Intercept Difficulty Multiplier</Outposts.Settings.InterceptDifficultyMultiplier>
+  <!--EN: This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk-->
+  <Outposts.Settings.InterceptDifficultyMultiplierTooltip>This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
+  <!--EN: Leather Multiplier-->
+  <Outposts.Settings.Leather>Leather Multiplier</Outposts.Settings.Leather>
+  <!--EN: Meat Multiplier-->
+  <Outposts.Settings.Meat>Meat Multiplier</Outposts.Settings.Meat>
+  <!--EN: Drop Pods Require Fuel-->
+  <Outposts.Settings.NeedFuel>Drop Pods Require Fuel</Outposts.Settings.NeedFuel>
+  <!--EN: Amount of Fuel-->
+  <Outposts.Settings.NeedFuelAmount>Amount of Fuel</Outposts.Settings.NeedFuelAmount>
+  <!--EN: Need Transport Pods Tech to Deploy Reinforcements?-->
+  <Outposts.Settings.NeedPods>Need Transport Pods Tech to Deploy Reinforcements?</Outposts.Settings.NeedPods>
+  <!--EN: Research Rate-->
+  <Outposts.Settings.ResearchRate>Research Rate</Outposts.Settings.ResearchRate>
+  <!--EN: Shooting Importance-->
+  <Outposts.Settings.Shooting>Shooting Importance</Outposts.Settings.Shooting>
+  <!--EN: Time To Drill (Needs to happen before production starts)-->
+  <Outposts.Settings.WorkToDrill>Time To Drill (Needs to happen before production starts)</Outposts.Settings.WorkToDrill>
+  <!--EN: Total skill too low, needs {0}-->
+  <Outposts.SkillTooLow>Total skill too low, needs {0}</Outposts.SkillTooLow>
+  <!--EN: May recruit some new pawns in {0}-->
+  <Outposts.WillProduce.Pawns>May recruit some new pawns in {0}</Outposts.WillProduce.Pawns>
+</LanguageData>

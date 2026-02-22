@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <!--EN: questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]-->
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. A group of [siteFaction_pawnsPlural] has taken control of an abandoned nuclear ARC husk site. The camp is currently under the control of [siteFaction_name].\n\n[asker_nameDef] is requesting that we clear out the area by eliminating all enemies and defenses. Once the site is secured, we will have the opportunity to study the nuclear ARC husk and recover valuable ARC components. [asker_label] also mentions that [sitePart0_description]. [sitePart1_description]</li>
+    <!--EN: questDescription(askerIsNull==true)->We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]-->
+    <li>questDescription(askerIsNull==true)-&gt;We have received intelligence that an abandoned nuclear ARC husk site has been overtaken by [siteFaction_pawnsPlural] from [siteFaction_name]. The bandits have fortified their position and are using the location as a hideout.\n\nSecuring the site will allow us to examine the nuclear ARC husk for any remaining research data and salvageable ARC components. Be prepared for resistance, as the bandits have likely set up significant defenses. Additionally, [sitePart0_description]. [sitePart1_description]</li>
+    <!--EN: sitePart0_description->the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay-->
+    <li>sitePart0_description-&gt;the nuclear ARC husk is surrounded by overgrowth, with much of its structure showing signs of decay</li>
+    <!--EN: sitePart0_description->the bandits have heavily fortified the area with makeshift barriers and traps-->
+    <li>sitePart0_description-&gt;the bandits have heavily fortified the area with makeshift barriers and traps</li>
+    <!--EN: sitePart0_description->the husk appears partially intact, holding the promise of valuable salvage-->
+    <li>sitePart0_description-&gt;the husk appears partially intact, holding the promise of valuable salvage</li>
+    <!--EN: sitePart0_description->the site is a mix of ancient industrial ruins and ramshackle bandit encampments-->
+    <li>sitePart0_description-&gt;the site is a mix of ancient industrial ruins and ramshackle bandit encampments</li>
+    <!--EN: sitePart0_description->hostile patrols have been spotted guarding the perimeter-->
+    <li>sitePart0_description-&gt;hostile patrols have been spotted guarding the perimeter</li>
+    <!--EN: sitePart0_description->the bandits are using the ARC husk to power their crude machinery and weapons-->
+    <li>sitePart0_description-&gt;the bandits are using the ARC husk to power their crude machinery and weapons</li>
+    <!--EN: sitePart1_description->The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment-->
+    <li>sitePart1_description-&gt;The entire area is blanketed in toxic fallout, making prolonged exposure dangerous without proper equipment</li>
+    <!--EN: sitePart1_description->A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach-->
+    <li>sitePart1_description-&gt;A thick layer of toxic fallout lingers over the site, creating an additional hazard for anyone attempting to approach</li>
+    <!--EN: sitePart1_description->Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger-->
+    <li>sitePart1_description-&gt;Toxic fallout from the ARC husk’s old reactor has poisoned the area, presenting a significant environmental danger</li>
+    <!--EN: sitePart1_description->The site is covered in toxic fallout, making survival without protective gear extremely difficult-->
+    <li>sitePart1_description-&gt;The site is covered in toxic fallout, making survival without protective gear extremely difficult</li>
+    <!--EN: sitePart1_description->Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past-->
+    <li>sitePart1_description-&gt;Hazardous fallout clouds the area, a grim reminder of the ARC’s unstable nuclear past</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <!--EN: questName->[adj] [nuclearArcName]-->
+    <li>questName-&gt;[adj] [nuclearArcName]</li>
+    <!--EN: adj->abandoned-->
+    <li>adj-&gt;abandoned</li>
+    <!--EN: adj->ruined-->
+    <li>adj-&gt;ruined</li>
+    <!--EN: adj->bandit-occupied-->
+    <li>adj-&gt;bandit-occupied</li>
+    <!--EN: adj->forgotten-->
+    <li>adj-&gt;forgotten</li>
+    <!--EN: adj->derelict-->
+    <li>adj-&gt;derelict</li>
+    <!--EN: adj->ancient-->
+    <li>adj-&gt;ancient</li>
+    <!--EN: adj->overrun-->
+    <li>adj-&gt;overrun</li>
+    <!--EN: adj->desecrated-->
+    <li>adj-&gt;desecrated</li>
+    <!--EN: adj->dangerous-->
+    <li>adj-&gt;dangerous</li>
+    <!--EN: adj->hidden-->
+    <li>adj-&gt;hidden</li>
+    <!--EN: nuclearArcName->Nuclear ARC Site-->
+    <li>nuclearArcName-&gt;Nuclear ARC Site</li>
+    <!--EN: nuclearArcName->ARC Husk-->
+    <li>nuclearArcName-&gt;ARC Husk</li>
+    <!--EN: nuclearArcName->Reactor Remains-->
+    <li>nuclearArcName-&gt;Reactor Remains</li>
+    <!--EN: nuclearArcName->ARC Ruins-->
+    <li>nuclearArcName-&gt;ARC Ruins</li>
+    <!--EN: nuclearArcName->Generator Relic-->
+    <li>nuclearArcName-&gt;Generator Relic</li>
+    <!--EN: nuclearArcName->Reactor Core-->
+    <li>nuclearArcName-&gt;Reactor Core</li>
+    <!--EN: nuclearArcName->Power Husk-->
+    <li>nuclearArcName-&gt;Power Husk</li>
+    <!--EN: nuclearArcName->Energy Vault-->
+    <li>nuclearArcName-&gt;Energy Vault</li>
+    <!--EN: nuclearArcName->Forsaken Reactor-->
+    <li>nuclearArcName-&gt;Forsaken Reactor</li>
+    <!--EN: nuclearArcName->Generator Site-->
+    <li>nuclearArcName-&gt;Generator Site</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+  <!--EN: Quest expired: [resolvedQuestName]-->
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label>Quest expired: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.label>
+  <!--EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.-->
+  <VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VQE_NuclearArcSite.root.nodes.2.node.nodes.0.text>
+  <!--EN: Quest failed: [resolvedQuestName]-->
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label>Quest failed: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.label>
+  <!--EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.-->
+  <VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</VQE_NuclearArcSite.root.nodes.3.node.nodes.0.text>
+</LanguageData>

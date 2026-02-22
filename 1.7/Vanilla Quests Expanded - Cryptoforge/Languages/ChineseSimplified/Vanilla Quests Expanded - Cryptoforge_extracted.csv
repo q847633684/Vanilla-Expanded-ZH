@@ -1,0 +1,551 @@
+key,text,tag,file,type
+VQE_AirlockJammed,Airlock jammed shut. Must be forced open.,VQE_AirlockJammed,Keys.xml,keyed
+VQE_ScavengeDesc,Clean up the {0} while searching for valuable materials.,VQE_ScavengeDesc,Keys.xml,keyed
+VQE_Scavenge,Scavenge {0},VQE_Scavenge,Keys.xml,keyed
+VQE_CancelScavenge,Cancel,VQE_CancelScavenge,Keys.xml,keyed
+VQE_CancelScavengeDesc,Cancel scavenging this object.,VQE_CancelScavengeDesc,Keys.xml,keyed
+VQE_StudyBlueprints,Study ancient blueprints,VQE_StudyBlueprints,Keys.xml,keyed
+VQE_StudyBlueprintsDesc,Study the ancient blueprints and diagrams to gain inspiration for the next crafting project.,VQE_StudyBlueprintsDesc,Keys.xml,keyed
+VQE_StudyBlackBox,Study ancient black box,VQE_StudyBlackBox,Keys.xml,keyed
+VQE_StudyBlackBoxDesc,Access the data on the black box to find out what transpired.,VQE_StudyBlackBoxDesc,Keys.xml,keyed
+VQE_InitiateScan,Initiate scan,VQE_InitiateScan,Keys.xml,keyed
+VQE_InitiateScanDesc,Initiate the proximity scan to find large signatures in the area. The scan is bound to generate enough of an energy signature to attract a mechanoid hive.,VQE_InitiateScanDesc,Keys.xml,keyed
+VQE_RestartGenerator,Restart generator,VQE_RestartGenerator,Keys.xml,keyed
+VQE_RestartGeneratorDesc,"Restart the cryptogenerator. It has enough fuel to run continuously for three days, after which it will critically meltdown. The strong energy signature is bound to attract the mechanoid hive.",VQE_RestartGeneratorDesc,Keys.xml,keyed
+VQE_RestartWarning,Restarting the cryptogenerator will cause continuous mechanoid attacks.,VQE_RestartWarning,Keys.xml,keyed
+VQE_LootChunk,Scavenge,VQE_LootChunk,Keys.xml,keyed
+VQE_ScanStarted,The scan will take some time to complete. Leaving the site will cancel the scan.,VQE_ScanStarted,Keys.xml,keyed
+VQE_ScanComplete,The scan has completed.,VQE_ScanComplete,Keys.xml,keyed
+VQE_Alert_CriticalCryptoGenerators,Cryptogenerator running low,VQE_Alert_CriticalCryptoGenerators,Keys.xml,keyed
+VQE_Alert_CriticalCryptoGenerators_Desc,"A cryptogenerator only has enough fuel left for less than a day. When fuel runs out, it will meltdown, destroying everything in radius.",VQE_Alert_CriticalCryptoGenerators_Desc,Keys.xml,keyed
+VQE_QuestCompletedMessage,"This is the only opportunity to craft more legendary crypto gear, provided you have the resources to do so. You can secure the site and send more resources in, but once you leave it, you will never be able to find it again.",VQE_QuestCompletedMessage,Keys.xml,keyed
+VQE_HeroJoins,{PAWN_nameDef} joins,VQE_HeroJoins,Keys.xml,keyed
+VQE_HeroJoinsDesc,"The {PAWN_title} known as {PAWN_nameDef} has emerged from a cryptosleep casket in a daze. Once they regain their bearings, they will join your colony.\n\n{PAWN_nameFull} is the legendary blacksmith of a renowned spacefaring civilization, famed for their mastery of cryptoparticle technology. A gifted crafter and battle-hardened warrior, {PAWN_labelShort} wears a set of cryptotech armor from their lost people. But beneath their skill and strength lies a heavy burden of guilt, a unique psychological condition born from the crushing sorrow of being the last living member of their civilization. This grief gnaws at {PAWN_possessive} mind over time, slowly deepening into despair. However, engaging in work that aligns with their passions: especially crafting, can slow the progression. If managed carefully, the guilt will eventually transform into acceptance, and with time, begin to fade.",VQE_HeroJoinsDesc,Keys.xml,keyed
+VQE_ExtinguishCryptofreeze.label,extinguish,label,DamageDef/Damages_Misc.xml,def
+VQE_CryptoCut.label,crypto cut,label,DamageDef/Damages_Misc.xml,def
+VQE_CryptoSlowdown.label,crypto slowdown,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.description,"A chilling affliction caused by exposure to cryptofreeze energy. It weakens the target’s heat armor while simultaneously increasing their minimum comfortable temperature, making them more vulnerable to both extreme cold and heat while significantly reducing movement speed. If crypto slowdown reaches the maximum effect, the target becomes completely engulfed in cryptofreeze, causing severe damage.",description,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.stages.0.label,minor,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.stages.1.label,moderate,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.stages.2.label,major,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.stages.3.label,severe,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_CryptoSlowdown.stages.4.label,extreme,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_IceCrawlerHediff.description,The Ice crawler becomes more dangerous if it’s exposed to extremely cold temperatures.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_IceCrawlerHediff.label,exposed to extreme cold,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_MegamidgeHediff.description,The Megamidge becomes more dangerous if it’s exposed to extremely cold temperatures.,description,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_MegamidgeHediff.label,exposed to extreme cold,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_MegamidgeHediff.comps.0.tools.0.label,head claw,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_BleedrateCrypto_5.stages.0.label,Armour,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_BleedrateCrypto_10.stages.0.label,Armour,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_BleedrateCrypto_20.stages.0.label,Armour,label,HediffDef/Hediffs_Global_Misc.xml,def
+VQE_Guilt.label,guilt,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.description,"A deep psychological burden stemming from overwhelming remorse and sorrow caused by being the last remaining member of one's faction. This condition gradually consumes the mind with grief and despair, leading to worsening depression over time.",description,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.0.label,lingering guilt,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.1.label,growing remorse,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.2.label,deep regret,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.3.label,crushing guilt,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.4.label,tormenting sorrow,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.5.label,despairing isolation,label,HediffDef/Hediff_Guilt.xml,def
+VQE_Guilt.stages.6.label,guilt (acceptance),label,HediffDef/Hediff_Guilt.xml,def
+VQE_InitiateScan.reportString,scanning at TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_RestartGenerator.reportString,restarting TargetA.,reportString,JobDef/Jobs_Work.xml,def
+VQE_BeatCryptofreeze.reportString,beating cryptofreeze out.,reportString,JobDef/Jobs_Work.xml,def
+VGE_ExtinguishCryptofreezeNearby.reportString,extinguishing cryptofreeze nearby.,reportString,JobDef/Jobs_Work.xml,def
+VGE_ExtinguishSelfCryptofreeze.reportString,extinguishing self.,reportString,JobDef/Jobs_Work.xml,def
+VQE_Play_WargamingTable.reportString,playing at wargaming table.,reportString,JobDef/Jobs_Work.xml,def
+VQE_Gaming_StrategicPlay.label,strategic play,label,JoyKindDef/JoyKinds.xml,def
+VQE_CryptoforgeQuestChain.label,The Cryptoforge,label,VEF.Storyteller.QuestChainDef/QuestChains.xml,def
+VQE_CryptoforgeQuestChain.description,"This quest chain will have you travel to the arctic regions to find the location of a legendary cryptoforge - an ancient space ship with a workshop capable of developing the cryptogear. Given enough time and skill, you may be able to craft the legendary ultratech gear of the nomadic space warriors.",description,VEF.Storyteller.QuestChainDef/QuestChains.xml,def
+VQE_Cryptoforge_Chapter1.questNameRules.rulesStrings.0,questName->Scanning for the Cryptoforge,li,QuestScriptDef/Quest_Cryptoforge_Chapter1.xml,def
+VQE_Cryptoforge_Chapter1.questDescriptionRules.rulesStrings.0,"questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has contacted us with news of a long-lost starship. Generations ago, a legendary vessel belonging to a nomadic warrior fleet crashed on this planet, its crew renowned for wielding cryptoparticles in battle. The cryptoforge ship shattered upon atmospheric entry, breaking into three massive fragments scattered across the surface. To locate them, we must reactivate an ancient scanning relay station. \n\n[asker_nameDef] says that initiating the scans will allow us to pinpoint the locations of the ship’s stern and bow, which may hold further clues to the whereabouts of the final, most crucial fragment. However, the relay station remains heavily secured - automated turrets still stand watch, and the surrounding grounds are riddled with a dense minefield. Worse yet, the power surge from the scan is certain to draw the attention of nearby mechanoids.\n\nComplete the scans on both relays to discover the location of the ship fragments.",li,QuestScriptDef/Quest_Cryptoforge_Chapter1.xml,def
+VQE_Cryptoforge_Chapter1.questDescriptionRules.rulesStrings.1,"questDescription(askerIsNull==True)->We've uncovered information about a long-lost starship. Generations ago, a legendary vessel belonging to a nomadic warrior fleet crashed on this planet, its crew renowned for wielding cryptoparticles in battle. The cryptoforge ship shattered upon atmospheric entry, breaking into three massive fragments scattered across the surface. To locate them, we must reactivate an ancient scanning relay station. \n\nInitiating the scans will allow us to pinpoint the locations of the ship’s stern and bow, which may hold further clues to the whereabouts of the final, most crucial fragment. However, the relay station remains heavily secured - automated turrets still stand watch, and the surrounding grounds are riddled with a dense minefield. Worse yet, the power surge from the scan is certain to draw the attention of nearby mechanoids.\n\nComplete the scans on both relays to discover the location of the ship fragments.",li,QuestScriptDef/Quest_Cryptoforge_Chapter1.xml,def
+VQE_Cryptoforge_Chapter2.questNameRules.rulesStrings.0,questName->Cryptoforge stern,li,QuestScriptDef/Quest_Cryptoforge_Chapter2.xml,def
+VQE_Cryptoforge_Chapter2.questDescriptionRules.rulesStrings.0,"questDescription->Data retrieved from the ancient relay station confirms the crash site of the cryptoforge ship’s stern, located not far from the scanning facility. While this section does not contain the legendary cryptoforge itself, it holds a crucial black box. To pinpoint the final cryptoforge fragment, we must retrieve its data and pair it with the bow’s black box records. \n\nThe wreckage scan reveals a high concentration of dormant mechanoids aboard, making conflict likely. The ship’s hull is built from near-indestructible material, limiting possible entry points. Ancient airlocks might still be operational, though forcing them open will require effort. Some external turrets remain active, further complicating the approach. Inside, automated floor freezers keep the corridors at dangerously low temperatures, serving as a defensive measure against intruders. \n\nDespite these challenges, the wreckage contains valuable resources. Extracting as much salvage as possible will be essential for reactivating the cryptoforge and crafting the legendary cryptogear.\n\nAccording to the scan, the ship is protected by at least:\n[ListOfEnemies]",li,QuestScriptDef/Quest_Cryptoforge_Chapter2.xml,def
+VQE_Cryptoforge_Chapter3.questNameRules.rulesStrings.0,questName->Cryptoforge bow,li,QuestScriptDef/Quest_Cryptoforge_Chapter3.xml,def
+VQE_Cryptoforge_Chapter3.questDescriptionRules.rulesStrings.0,"questDescription->Data recovered from the ancient relay station has revealed the crash site of the cryptoforge ship’s bow, located not far from the scanning relay’s position. While this section does not house the cryptoforge itself, it contains a vital black box. To locate the final ship fragment, we must retrieve its data and pair it with the information from the stern’s black box. \n\nScans indicate a significant presence of insectoid lifeforms infesting the wreckage, making combat inevitable if we wish to reach the bridge where the black box is stored. The ship’s hull is composed of nearly indestructible material, limiting our means of entry. Some ancient airlocks may still function, but forcing them open will be necessary. A weak energy signature has also been detected within - likely from a dormant reactor. If reactivated, it may power the ship’s old floor heaters, weakening the cold-adapted insectoids inside.\n\nAlthough the cryptoforge itself is not housed within this wreckage, valuable resources remain, fused and reshaped by the ship’s violent descent. Extracting these materials will aid in restoring the cryptoforge and crafting the legendary cryptogear. Studying the black box should be our top priority.",li,QuestScriptDef/Quest_Cryptoforge_Chapter3.xml,def
+VQE_Cryptoforge_Chapter4.questNameRules.rulesStrings.0,questName->Legendary cryptoforge,li,QuestScriptDef/Quest_Cryptoforge_Chapter4.xml,def
+VQE_Cryptoforge_Chapter4.questDescriptionRules.rulesStrings.0,"questDescription->After analyzing the data from both black boxes, we have finally pinpointed the location of the last ship fragment - home to the legendary cryptoforge. This ancient ultratech workshop contains the lost knowledge and equipment necessary to craft cryptogear, a technology long thought to be impossible to recreate by any other means. This is our only chance to forge such items, so we must bring our best crafters and as many resources as possible.\n\nThe cryptoforge requires an immense amount of power to function, but the crash site still contains a dormant cryptogenerator. While it survived the descent, it only has enough fuel to run for 48 hours. Once activated, it will begin a countdown to meltdown, wiping the entire fragment from the planet’s surface, along with the cryptoforge. This limited time frame means we must work quickly, crafting as much cryptogear as possible before the generator’s collapse. Enabling the cryptogenerator will also reactivate the ship’s ancient defensive turrets, providing much-needed protection against the mechanoids that will inevitably arrive, drawn to the massive energy surge.\n\nBeyond the cryptoforge, the ship’s interior appears remarkably intact. The sealed structure has preserved valuable resources, food, and medicine, as well as functional sleeping quarters, a recreation area, and other remnants of cryptoforge technology. The environment will still be harsh, but the cryptogenerator will power the ship’s heaters and lights, making the space more suitable for extended work. One cryptosleep casket remains occupied, whoever is inside has been frozen for centuries. Freeing them could prove useful, though it is not essential to our mission.\n\nThis is our one and only opportunity. Once the generator melts down, the cryptoforge and its secrets will be lost forever. We must establish a strong defense, make the most of our limited time, and craft as much legendary cryptogear as possible before the clock runs out.",li,QuestScriptDef/Quest_Cryptoforge_Chapter4.xml,def
+VQE_HeroMaleNames.rulePack.rulesStrings.0,r_first_name->[HeroNameFirstMale],li,RulePackDef/RulePackDef_HeroName.xml,def
+VQE_HeroFemaleNames.rulePack.rulesStrings.0,r_first_name->[HeroNameFirstFemale],li,RulePackDef/RulePackDef_HeroName.xml,def
+VQE_HeroLastNames.rulePack.rulesStrings.0,r_last_name->[HeroNameLast],li,RulePackDef/RulePackDef_HeroName.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.0,damage_source->[cryptofreeze] froze,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.1,cryptofreeze(p=3)->cryptofreeze,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.2,cryptofreeze(p=3)->a cryptofreeze,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.3,cryptofreeze(p=3)->the cryptofreeze,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.4,cryptofreeze->cold snap,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.5,cryptofreeze->a chill,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.6,cryptofreeze->a froststorm,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.7,damaged_present->freezing,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.8,damaged_present->numbing,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.9,damaged_present->biting cold,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.10,damaged_present->frosting over,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.11,destroyed_present->shattering,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.12,destroyed_present->crystallizing,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.13,destroyed_present->frostburning,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings.14,destroyed_present->encasing in ice,li,RulePackDef/RulePacks_DamageEvent.xml,def
+VQE_CryptoforgeChapter1Site.label,cryptoforge scanning site,label,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter1Site.description,An ancient scanning site used to locate the Cryptoforge.,description,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter2Site.label,cryptoforge stern wreckage,label,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter2Site.description,"The crash site of the Cryptoforge stern, containing the ship's black box.",description,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter3Site.label,cryptoforge bow wreckage,label,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter3Site.description,"The crash site of the Cryptoforge bow, containing the ship's black box.",description,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter4Site.label,legendary cryptoforge,label,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_CryptoforgeChapter4Site.description,"The crash site of the legendary cryptoforge, an ancient ultratech workshop.",description,SitePartDef/SiteParts_Cryptoforge.xml,def
+VQE_AncientHullTile.label,ancient hull tile,label,TerrainDef/Terrain_Floors.xml,def
+VQE_AncientHullTile.description,An ancient hull tile of a colossal spacecraft.,description,TerrainDef/Terrain_Floors.xml,def
+VQE_AncientFrozenHullTile.label,ancient frozen hull tile,label,TerrainDef/Terrain_Floors.xml,def
+VQE_AncientFrozenHullTile.description,An ancient frozen hull tile of a colossal spacecraft.,description,TerrainDef/Terrain_Floors.xml,def
+VQE_AncientCarpet.label,ancient carpet,label,TerrainDef/Terrain_Floors.xml,def
+VQE_AncientCarpet.description,"An ancient, ripped carpet.",description,TerrainDef/Terrain_Floors.xml,def
+VQE_FrozenEmptyCryptosleepPod.label,empty ancient cryptosleep pod,label,ThingDef/Buildings_Cryptopods.xml,def
+VQE_FrozenEmptyCryptosleepPod.description,An old cryptosleep pod that has been opened. Whatever was inside is long gone.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQE_FrozenFailedCryptosleepPod.label,failed cryptosleep pod,label,ThingDef/Buildings_Cryptopods.xml,def
+VQE_FrozenFailedCryptosleepPod.description,A cryptosleep pod that suffered a critical failure. The occupant inside is long dead and most likely turned into dust.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQE_FrozenFadingCryptosleepPod.label,fading cryptosleep pod,label,ThingDef/Buildings_Cryptopods.xml,def
+VQE_FrozenFadingCryptosleepPod.description,A heavily damaged cryptosleep pod that is barely functioning. The occupant inside is still alive but in danger.,description,ThingDef/Buildings_Cryptopods.xml,def
+VQE_SpentCryptofusionCoil.label,spent cryptofusion coil,label,ThingDef/Buildings_Decorative.xml,def
+VQE_SpentCryptofusionCoil.description,"A depleted cryptofuel coil. Completely spent, it’s just another useless relic.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_BustedShieldedTurret.label,busted shielded turret,label,ThingDef/Buildings_Decorative.xml,def
+VQE_BustedShieldedTurret.description,"An old, busted turret equipped with its own ballistic shield capable of deflecting some shots. Now, it’s little more than scrap metal.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_BustedSpacerAutocannon.label,busted spacer autocannon,label,ThingDef/Buildings_Decorative.xml,def
+VQE_BustedSpacerAutocannon.description,"An ancient autocannon designed for ship-to-ship combat. Its barrel is shattered, and its targeting systems are fried.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCryptoRailcannon.label,frozen crypto railcannon,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCryptoRailcannon.description,A cutting-edge railcannon encased in ice. It has been salvaged beyond usefulness.,description,ThingDef/Buildings_Decorative.xml,def
+VQE_AncientShipLandingBeacon.label,ancient ship landing beacon,label,ThingDef/Buildings_Decorative.xml,def
+VQE_AncientShipLandingBeacon.description,"A rusted ship landing beacon, still flickering with an ancient, failing signal. No ship will ever respond.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMechanoidShell.label,frozen mechanoid shell,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMechanoidShell.description,A frozen shell from a smashed mechanoid. It has been frozen for generations and the useful components have disintegrated.,description,ThingDef/Buildings_Decorative.xml,def
+VQE_CryptoAncientTerminal.label,ancient terminal,label,ThingDef/Buildings_Decorative.xml,def
+VQE_CryptoAncientTerminal.description,"An ancient computer terminal. It’s disconnected from power, or simply not working.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_CryptoAncientTerminalBank.label,ancient terminal bank,label,ThingDef/Buildings_Decorative.xml,def
+VQE_CryptoAncientTerminalBank.description,"An ancient set of computer terminals. It’s disconnected from power, or simply not working.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCapacitor.label,frozen capacitor,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCapacitor.description,"A small, frost-covered energy capacitor. It no longer holds any residual charge.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCapacitorLarge.label,large frozen capacitor,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenCapacitorLarge.description,"A large, frost-covered energy capacitor. It no longer holds any residual charge.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_RuinedHospitalBed.label,rusted ancient bed,label,ThingDef/Buildings_Decorative.xml,def
+VQE_RuinedHospitalBed.description,"A rusted-out bedframe, with a decently intact bedsheet. It offers little comfort.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenFuelTank.label,frozen fuel tank,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenFuelTank.description,"A frozen-over fuel tank, potentially filled with cryptofuel back in the day, now cracked and empty.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenThrusters.label,frozen thrusters,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenThrusters.description,"A set of smaller ship thrusters, now frozen solid and useless.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_LargeFrozenThrusters.label,large frozen thrusters,label,ThingDef/Buildings_Decorative.xml,def
+VQE_LargeFrozenThrusters.description,A colossal set of frozen thrusters from the cryptoforge ship. They will never fire again.,description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMachinery.label,frozen machinery,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMachinery.description,"A tangle of ancient machinery, too damaged by frost and impact to be of any use.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenLifeSupport.label,frozen life support,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenLifeSupport.description,"A collapsed life support module, its systems dead and displays shattered. No air will flow through it again.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenSkyripper.label,frozen skyripper,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenSkyripper.description,"A high-altitude fighter jet, frozen and rusted beyond repair. Whatever battles it once fought are long forgotten.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoBay.label,frozen torpedo bay,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoBay.description,"A torpedo storage bay, frozen shut. Its launch systems are irreparably damaged.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoLauncher.label,frozen torpedo launcher,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoLauncher.description,"A large torpedo launcher, its firing mechanisms locked under a thick layer of ice.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenSmallShipConsole.label,frozen small ship console,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenSmallShipConsole.description,"A compact ship control panel, now frozen and non-functional.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenShipConsole.label,frozen ship console,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenShipConsole.description,"A standard ship control console, now frozen and non-functional.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_AncientTransmitterBeacon.label,acient transmitter beacon,label,ThingDef/Buildings_Decorative.xml,def
+VQE_AncientTransmitterBeacon.description,A long-dead transmission beacon. Any components of value have long been removed.,description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMinefieldSign.label,frozen minefield sign,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenMinefieldSign.description,"A half-buried warning sign, encased in ice. It reads: ""DANGER - ACTIVE MINEFIELD,"" but no mines can be seen.",description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoCrate.label,frozen torpedo crate,label,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenTorpedoCrate.description,A sealed crate containing volatile torpedoes. A single shot could turn it into a catastrophic explosion.,description,ThingDef/Buildings_Decorative.xml,def
+VQE_FrozenHive.label,frozen hive,label,ThingDef/Buildings_Insectoid.xml,def
+VQE_FrozenHive.description,"A hive of giant insects, twisted by exposure to the crypto particles. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.",description,ThingDef/Buildings_Insectoid.xml,def
+VQE_TwistedMetal.label,twisted metal,label,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedMetal.description,"A mangled piece of metal, twisted from the sheer force of the cryptoforge spaceship crash. Some steel can still be salvaged.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_LargeTwistedMetal.label,large twisted metal,label,ThingDef/Buildings_Lootables.xml,def
+VQE_LargeTwistedMetal.description,"A large mangled piece of metal, twisted from the sheer force of the cryptoforge spaceship crash. Some steel can still be salvaged.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_HugeTwistedMetal.label,huge twisted metal,label,ThingDef/Buildings_Lootables.xml,def
+VQE_HugeTwistedMetal.description,"A huge mangled piece of metal, twisted from the sheer force of the cryptoforge spaceship crash. Some steel can still be salvaged.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedComponents.label,twisted components,label,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedComponents.description,"A warped collection of machinery and circuits. While the original function is lost, some usable components can still be extracted.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedAdvancedComponents.label,twisted advanced components,label,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedAdvancedComponents.description,"A pile of severely damaged high-tech components. While the original function is lost, some usable advanced components can still be extracted.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedPlasteel.label,twisted plasteel,label,ThingDef/Buildings_Lootables.xml,def
+VQE_TwistedPlasteel.description,"A crumpled sheet of plasteel, scorched and bent beyond recognition. With enough effort, some of it could be salvaged.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_GoldPile.label,gold pile,label,ThingDef/Buildings_Lootables.xml,def
+VQE_GoldPile.description,"A scattered pile of ancient gold coins, each stamped with cryptic serial codes. Their value is entirely theoretical - until someone decides otherwise.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyFrozenCrate.label,empty frozen crate,label,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyFrozenCrate.description,"An empty crate, rusted and frozen solid. Its contents are long gone.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyFrozenCrate_Small.label,frozen box,label,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyFrozenCrate_Small.description,"A frost-covered box that once contained something valuable. Now, it’s just junk.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_FrozenCrateOfMedicine.label,frozen crate of medicine,label,ThingDef/Buildings_Lootables.xml,def
+VQE_FrozenCrateOfMedicine.description,A frozen crate containing medical supplies. The subzero temperatures have kept them well-preserved.,description,ThingDef/Buildings_Lootables.xml,def
+VQE_FrozenCrateOfRations.label,frozen crate of rations,label,ThingDef/Buildings_Lootables.xml,def
+VQE_FrozenCrateOfRations.description,"A supply crate filled with survival rations, flash-frozen in the wreckage. The food inside should still be edible.",description,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyBlueprintsBench.label,useless blueprints bench,label,ThingDef/Buildings_Lootables.xml,def
+VQE_EmptyBlueprintsBench.description,A pile of faded and illegible blueprints. Whatever knowledge they once held has long since faded away.,description,ThingDef/Buildings_Lootables.xml,def
+VQE_BlueprintsBench.label,ancient blueprints bench,label,ThingDef/Buildings_Lootables.xml,def
+VQE_BlueprintsBench.description,An old bench covered in pristine blueprints. Studying them could provide a rare burst of crafting inspiration.,description,ThingDef/Buildings_Lootables.xml,def
+VQE_CryptofusionCoil.label,cryptofusion coil,label,ThingDef/Buildings_Power.xml,def
+VQE_CryptofusionCoil.description,"A small coil that converts cryptofuel into power. Despite its age, it still operates at minimal capacity.",description,ThingDef/Buildings_Power.xml,def
+VQE_FrozenCryptogenerator.label,frozen cryptogenerator,label,ThingDef/Buildings_Power.xml,def
+VQE_FrozenCryptogenerator.description,A frozen cryptogenerator.,description,ThingDef/Buildings_Power.xml,def
+VQE_FrozenCryptogenerator_Off.label,frozen cryptogenerator,label,ThingDef/Buildings_Power.xml,def
+VQE_FrozenCryptogenerator_Off.description,"An advanced generator that once powered cryptotech devices. Now, it hums faintly with dying energy. It can be restarted to once again provide power to the various subsystems, but the permanent damage to the critical component will cause the generator to become more and more unstable, eventually detonating in a devastating cryptoexplosion.",description,ThingDef/Buildings_Power.xml,def
+VQE_AncientCryptoforge.label,ancient cryptoforge,label,ThingDef/Buildings_Production.xml,def
+VQE_AncientCryptoforge.description,"An ancient workbench designed for crafting advanced crypto-technology weapons and armor. It features intricate mechanisms and a forging process that seems to defy conventional metallurgy. The tools and technology integrated into it are beyond modern understanding, utilizing encrypted blueprints and precision-tuned nano-assembly techniques.",description,ThingDef/Buildings_Production.xml,def
+VQE_AetherPressureTubes.label,aether pressure tubes,label,ThingDef/Buildings_Production.xml,def
+VQE_AetherPressureTubes.description,"A network of reinforced tubes that once regulated high-density ether coolant, allowing the cryptoforge to function at peak efficiency. The technology behind it is now lost.",description,ThingDef/Buildings_Production.xml,def
+VQE_CryptoInfusionCoils.label,crypto infusion coils,label,ThingDef/Buildings_Production.xml,def
+VQE_CryptoInfusionCoils.description,"These coils once channeled encrypted energy pulses to refine and enhance crypto-tech materials. Without a working power source, they are just intricate, useless relics.",description,ThingDef/Buildings_Production.xml,def
+VQE_SubZeroHammer.label,sub-zero hammer,label,ThingDef/Buildings_Production.xml,def
+VQE_SubZeroHammer.description,"A massive forging hammer designed to shape materials at near absolute zero, strengthening them beyond conventional limits. Now, it’s little more than an oversized chunk of frozen scrap.",description,ThingDef/Buildings_Production.xml,def
+VQE_CryptotechPrototypeBench.label,cryptotech prototype bench,label,ThingDef/Buildings_Production.xml,def
+VQE_CryptotechPrototypeBench.description,A specialized workbench used to design and iterate new crypto-tech blueprints. The trial and error carefully documented in the blueprints and prototypes is bound to speed up the work done on the cryptoforge greatly.,description,ThingDef/Buildings_Production.xml,def
+VQE_AncientBlackBox.label,ancient black box,label,ThingDef/Buildings_QuestStructures.xml,def
+VQE_AncientBlackBox.description,"A ship's black box recorder, filled with encrypted data. Given enough time, a skilled hacker may be able to extract critical information about what transpired.",description,ThingDef/Buildings_QuestStructures.xml,def
+VQE_AncientBlackBox_Off.label,disabled ancient black box,label,ThingDef/Buildings_QuestStructures.xml,def
+VQE_AncientBlackBox_Off.description,"A ship's black box recorder. Any important information has already been downloaded, and the black box is nothing but junk.",description,ThingDef/Buildings_QuestStructures.xml,def
+VQE_FrozenScanningRelay.label,frozen scanning relay,label,ThingDef/Buildings_QuestStructures.xml,def
+VQE_FrozenScanningRelay.description,"A long-range scanning relay with some old alerts about an important event. If one was to initiate a scan, the location of a ship crash will be revealed. Initiating the scan will generate a strong enough power signature to attract a mechanoid hive.",description,ThingDef/Buildings_QuestStructures.xml,def
+VQE_FrozenScanningRelay_Off.label,disabled frozen scanning relay,label,ThingDef/Buildings_QuestStructures.xml,def
+VQE_FrozenScanningRelay_Off.description,"A long-range scanning relay. Any notifications and data has been removed, and it’s nothing but a big hunk of junk.",description,ThingDef/Buildings_QuestStructures.xml,def
+VQE_AncientWargamingTable.label,ancient wargaming table,label,ThingDef/Buildings_Recreation.xml,def
+VQE_AncientWargamingTable.description,"An ancient, slightly rusted, sturdy table designed for strategic miniature wargames, featuring a spacious surface for terrain, armies, and battle plans. The diplomacy required by the rules trains social skill.",description,ThingDef/Buildings_Recreation.xml,def
+VQE_AncientShieldedTurret.label,ancient shielded turret,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientShieldedTurret.description,"A portable automatic turret with a ballistic shield in front of it. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. The ballistic shield is capable of deflecting some shots.",description,ThingDef/Buildings_Security.xml,def
+VQE_AncientShieldedTurret_Bullet.label,mini-turret bullet,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientShieldedTurret_Gun.label,ancient shielded turret,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientShieldedTurret_Gun.description,A simple automatic gun made to be mounted on a turret.,description,ThingDef/Buildings_Security.xml,def
+VQE_AncientSpacerAutocannon.label,ancient spacer autocannon,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientSpacerAutocannon.description,An ancient autocannon designed for ship-to-ship combat. It still appears to be functional. Its large-caliber shells do heavy damage over significant ranges.,description,ThingDef/Buildings_Security.xml,def
+VQE_AncientSpacerAutocannon_Bullet.label,ancient spacer autocannon shell,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientSpacerAutocannon_Gun.label,ancient spacer autocannon,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientSpacerAutocannon_Gun.description,todo.,description,ThingDef/Buildings_Security.xml,def
+VQE_AncientLandmine.label,ancient landmine,label,ThingDef/Buildings_Security.xml,def
+VQE_AncientLandmine.description,"An ancient, high-explosive payload connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. It’s impossible to detect it until triggered.",description,ThingDef/Buildings_Security.xml,def
+VQE_FrozenLancer.label,frozen lancer,label,ThingDef/Buildings_Security.xml,def
+VQE_FrozenLancer.description,"A frozen shell containing a lancer.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison.",description,ThingDef/Buildings_Security.xml,def
+VQE_FrozenCentipede.label,frozen centipede,label,ThingDef/Buildings_Security.xml,def
+VQE_FrozenCentipede.description,"A frozen shell containing a centipede.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison.",description,ThingDef/Buildings_Security.xml,def
+VQE_FrozenScyther.label,frozen scyther,label,ThingDef/Buildings_Security.xml,def
+VQE_FrozenScyther.description,"A frozen shell containing a scyther.\n\nLong-dormant mechanoids can become encased in ice, preserving them for years. Though inert, they remain alert, scanning for movement. Any disturbance, such as footsteps, explosions, or shifting ice, can trigger a sudden reboot, shattering their frozen shell. Nearby frozen mechanoids may awaken in unison.",description,ThingDef/Buildings_Security.xml,def
+VQE_FrozenShipHull.label,frozen ship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_FrozenShipHull.description,"An impassable, indestructible ship hull wall. Capable of holding up a roof.",description,ThingDef/Buildings_Structure.xml,def
+VQE_FragileFrozenShipHull.label,fragile frozen ship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_FragileFrozenShipHull.description,An impassable ship hull wall. The cracks and damage from the crash allow it to be destroyed. Capable of holding up a roof.,description,ThingDef/Buildings_Structure.xml,def
+VQE_AncientAirlock.label,ancient airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_AncientAirlock.description,A heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.,description,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock.label,stuck ancient airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock.description,"A heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock.comps.0.jobString,Force this ancient airlock open,jobString,ThingDef/Buildings_Structure.xml,def
+VQE_ForcedAncientAirlock.label,forced ancient airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_ForcedAncientAirlock.description,A heavily reinforced airlock door. It has been forced open and cannot be closed again.,description,ThingDef/Buildings_Structure.xml,def
+VQE_AncientAirlock_Large.label,ancient large airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_AncientAirlock_Large.description,"A large, heavily reinforced airlock door. It is slow to open but very strong. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock_Large.label,stuck ancient large airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock_Large.description,"A large, heavily reinforced airlock door. Due to malfunction or damage, it needs to be forced open. It is slow to open but very strong. The door requires walls on either side to function.",description,ThingDef/Buildings_Structure.xml,def
+VQE_JammedAncientAirlock_Large.comps.0.jobString,Force this ancient large airlock open,jobString,ThingDef/Buildings_Structure.xml,def
+VQE_ForcedAncientAirlock_Large.label,forced ancient large airlock,label,ThingDef/Buildings_Structure.xml,def
+VQE_ForcedAncientAirlock_Large.description,A heavily reinforced large airlock door. It has been forced open and cannot be closed again.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull1x1Left.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull1x1Left.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull1x1Right.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull1x1Right.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull2x1Left.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull2x1Left.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull2x1Right.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull2x1Right.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull3x1Left.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull3x1Left.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull3x1Right.label,cryptoship hull,label,ThingDef/Buildings_Structure.xml,def
+VQE_CryptoshipHull3x1Right.description,A fragment of the exterior hull of the cryptoforge ship.,description,ThingDef/Buildings_Structure.xml,def
+VQE_SmallFlashfreezer.label,small flashfreezer,label,ThingDef/Buildings_Temperature.xml,def
+VQE_SmallFlashfreezer.description,A floor-mounted vent that continuously releases near-absolute-zero air. It could freeze anything given enough time.,description,ThingDef/Buildings_Temperature.xml,def
+VQE_AncientFloorHeater.label,ancient floor heater,label,ThingDef/Buildings_Temperature.xml,def
+VQE_AncientFloorHeater.description,"A large, outdated floor heater. If power is restored, it might still provide warmth.",description,ThingDef/Buildings_Temperature.xml,def
+VQE_UnfinishedCryptoArmor.label,unfinished crypto armor,label,ThingDef/Apparel_Various.xml,def
+VQE_UnfinishedCryptoArmor.description,An unfinished piece of metal armor.,description,ThingDef/Apparel_Various.xml,def
+VQE_CryptoArmor.label,crypto armor,label,ThingDef/Apparel_Various.xml,def
+VQE_CryptoArmor.description,"Low-powered plasteel carapace armor draped with an unknown but impossibly durable cloth sash affixed over one shoulder, the armor emits a low electrical hum and feels smooth to the touch. The power supply itself features embedded cryptocasket technology and will use a stasis effect to slow one's bleeding.",description,ThingDef/Apparel_Various.xml,def
+VQE_CryptoHeavyArmor.label,heavy crypto armor,label,ThingDef/Apparel_Various.xml,def
+VQE_CryptoHeavyArmor.description,"Heavy, high-powered plasteel plate armor affixed with an unknown but impossibly durable cloth cowl, the armor emits a low electrical hum and feels smooth to the touch. The power supply itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding.",description,ThingDef/Apparel_Various.xml,def
+VQE_Apparel_CryptoLightHelmet.label,crypto helmet,label,ThingDef/Apparel_Various.xml,def
+VQE_Apparel_CryptoLightHelmet.description,A lower-powered helmet with an unknown but impossibly durable cloth hood. It's theorized that either a long-lost or far-advanced civilizations scout troopers would adorn this helmet before recon missions during the mechanoid wars. The helmet itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding.,description,ThingDef/Apparel_Various.xml,def
+VQE_Apparel_CryptoHeavyHelmet.label,heavy crypto helmet,label,ThingDef/Apparel_Various.xml,def
+VQE_Apparel_CryptoHeavyHelmet.description,"A heavy, high-powered helmet complete with an embedded HUD system and diagnostics display. It's theorized that either a long-lost or far-advanced civilizations shock troopers would adorn this helmet before strike missions during the mechanoid wars. The helmet itself features embedded cryptocasket technology and will use a stasis effect to slow ones bleeding.",description,ThingDef/Apparel_Various.xml,def
+VQE_Cryptofreeze.label,cryptofreeze,label,ThingDef/Things_Special.xml,def
+VQE_CryptoSpark.label,cryptospark,label,ThingDef/Things_Special.xml,def
+VQE_UnfinishedCryptoWeapon.label,unfinished crypto weapon,label,ThingDef/Things_Weapons.xml,def
+VQE_UnfinishedCryptoWeapon.description,An unfinished crypto weapon.,description,ThingDef/Things_Weapons.xml,def
+VQE_MeleeWeapon_Cryptoaxe.label,cryptoaxe,label,ThingDef/Things_Weapons.xml,def
+VQE_MeleeWeapon_Cryptoaxe.description,"A heavy, high-tech axe with a cryogenic-coated edge that delivers crushing strikes. On impact, it inflicts deep frostburns, flash-freezing flesh and lacing wounds with cryptofreeze, slowing movement and dealing substantial hypothermic damage over time.",description,ThingDef/Things_Weapons.xml,def
+VQE_MeleeWeapon_Cryptoaxe.tools.0.label,handle,label,ThingDef/Things_Weapons.xml,def
+VQE_MeleeWeapon_Cryptoaxe.tools.1.label,edge,label,ThingDef/Things_Weapons.xml,def
+VQE_CryptoaxeCut.label,cut,label,ToolCapacityDef/Things_Weapons.xml,def
+VQE_Weapon_Cryptobolter.label,cryptobolter,label,ThingDef/Things_Weapons.xml,def
+VQE_Weapon_Cryptobolter.description,"A high-tech crossbow rifle that fires cryogenic-coated bolts with devastating impact. On penetration, the bolts inflict deep frostburns, flash-freezing flesh and lacing wounds with cryptofreeze, drastically slowing movement and causing severe hypothermic damage over time.",description,ThingDef/Things_Weapons.xml,def
+VQE_Weapon_Cryptobolter.tools.0.label,stock,label,ThingDef/Things_Weapons.xml,def
+VQE_Weapon_Cryptobolter.tools.1.label,barrel,label,ThingDef/Things_Weapons.xml,def
+VQE_Weapon_Cryptobolter.tools.2.label,barrel,label,ThingDef/Things_Weapons.xml,def
+VQE_Bullet_Cryptobolter.label,cryptobolter shot,label,ThingDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.0,r_weapon_name(p=3)->[norseNoun][norseVerber],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.1,r_weapon_name(p=2)->[norseBeginSyl][norseMiddleSyl][norseEndSyl],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.2,r_weapon_name(p=1)->[norseBeginSyl][norseMiddleSyl][norseMiddleSyl][norseEndSyl],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.3,r_weapon_name(p=1)->[norseBeginSyl][norseEndSyl],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.4,r_weapon_name(p=1)->[NorseGod],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.5,r_weapon_name(p=1)->[norseAnimal],li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.6,norseAnimal->Fenrir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.7,norseAnimal->Jörmungandr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.8,norseAnimal->Hrafn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.9,norseAnimal->Ulv,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.10,norseAnimal->Dreki,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.11,norseAnimal->Alvitr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.12,norseAnimal->Arvakr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.13,norseAnimal->Baldfaxi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.14,norseAnimal->Blodughófi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.15,norseAnimal->Bran,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.16,norseAnimal->Bruni,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.17,norseAnimal->Dainsleif,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.18,norseAnimal->Dökkálfr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.19,norseAnimal->Dyrfjall,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.20,norseAnimal->Eikþyrnir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.21,norseAnimal->Fafnir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.22,norseAnimal->Fenrisson,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.23,norseAnimal->Fjalar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.24,norseAnimal->Flóki,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.25,norseAnimal->Galar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.26,norseAnimal->Garmr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.27,norseAnimal->Gullinbursti,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.28,norseAnimal->Gyllir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.29,norseAnimal->Hafgufa,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.30,norseAnimal->Hati,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.31,norseAnimal->Haugvígr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.32,norseAnimal->Hjalmþér,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.33,norseAnimal->Hrafnblod,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.34,norseAnimal->Hrimfaxi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.35,norseAnimal->Hróðvitnir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.36,norseAnimal->Íssvín,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.37,norseAnimal->Járnbjörn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.38,norseAnimal->Jörundr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.39,norseAnimal->Klakahrafn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.40,norseAnimal->Loddfáfnir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.41,norseAnimal->Miðgarðsormr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.42,norseAnimal->Móðgudr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.43,norseAnimal->Naglfari,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.44,norseAnimal->Narfi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.45,norseAnimal->Skaði’s Fang,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.46,norseAnimal->Skaldbjörn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.47,norseAnimal->Sköll,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.48,norseAnimal->Stórrormr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.49,norseAnimal->Surtr’s Claw,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.50,norseAnimal->Vánagandr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.51,norseNoun->saga,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.52,norseNoun->skald,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.53,norseNoun->blod,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.54,norseNoun->drapa,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.55,norseNoun->brynja,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.56,norseNoun->skjold,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.57,norseNoun->storm,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.58,norseNoun->hrafn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.59,norseNoun->skugga,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.60,norseNoun->vargr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.61,norseNoun->jotunn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.62,norseNoun->nid,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.63,norseNoun->aska,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.64,norseNoun->blod,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.65,norseNoun->brandr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.66,norseNoun->brynja,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.67,norseNoun->dauði,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.68,norseNoun->drepa,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.69,norseNoun->drengr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.70,norseNoun->dómi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.71,norseNoun->eldur,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.72,norseNoun->fen,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.73,norseNoun->fjall,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.74,norseNoun->flokkr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.75,norseNoun->frysta,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.76,norseNoun->galdr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.77,norseNoun->gjöll,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.78,norseNoun->grið,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.79,norseNoun->gunnr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.80,norseNoun->hati,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.81,norseNoun->helgrindr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.82,norseNoun->hrafn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.83,norseNoun->hríð,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.84,norseNoun->íss,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.85,norseNoun->járn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.86,norseNoun->jötunn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.87,norseNoun->knifr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.88,norseNoun->kráka,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.89,norseNoun->laguz,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.90,norseNoun->ljós,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.91,norseNoun->myrkr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.92,norseNoun->níð,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.93,norseNoun->ormr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.94,norseNoun->ráð,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.95,norseNoun->reið,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.96,norseNoun->rún,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.97,norseNoun->skaði,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.98,norseNoun->skjold,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.99,norseNoun->sorg,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.100,norseNoun->stormr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.101,norseNoun->úlfur,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.102,norseNoun->vápn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.103,norseVerber->smidr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.104,norseVerber->drengr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.105,norseVerber->bani,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.106,norseVerber->riva,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.107,norseVerber->falla,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.108,norseVerber->knuser,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.109,norseVerber->bryter,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.110,norseVerber->banar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.111,norseVerber->strid,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.112,norseVerber->brenner,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.113,norseVerber->bani,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.114,norseVerber->brjótr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.115,norseVerber->brennir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.116,norseVerber->drengr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.117,norseVerber->dreper,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.118,norseVerber->fari,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.119,norseVerber->fjǫrga,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.120,norseVerber->fornleif,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.121,norseVerber->fǫrumaðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.122,norseVerber->glöttr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.123,norseVerber->griðníðingr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.124,norseVerber->grimmir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.125,norseVerber->hǫggvar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.126,norseVerber->hrjóðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.127,norseVerber->hugprúðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.128,norseVerber->jǫtunnbani,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.129,norseVerber->kviðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.130,norseVerber->lýstr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.131,norseVerber->móðníðingr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.132,norseVerber->níðingr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.133,norseVerber->rífr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.134,norseVerber->róttari,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.135,norseVerber->runari,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.136,norseVerber->sigrverðugr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.137,norseVerber->skelfir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.138,norseVerber->skǫglar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.139,norseVerber->sleggja,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.140,norseVerber->sveigir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.141,norseVerber->tveggjar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.142,norseVerber->týrstríðandi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.143,norseVerber->vargur,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.144,norseVerber->vegrandi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.145,norseVerber->verndrengr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.146,norseVerber->vígr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.147,norseVerber->víkingr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.148,norseVerber->vinfári,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.149,norseVerber->vǫrn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.150,norseVerber->yrkjandi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.151,norseVerber->ǫrr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.152,NorseGod->Odin,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.153,NorseGod->Thor,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.154,NorseGod->Loki,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.155,NorseGod->Freyr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.156,NorseGod->Freyja,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.157,NorseGod->Baldr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.158,NorseGod->Tyr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.159,NorseGod->Njörðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.160,NorseGod->Heimdallr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.161,NorseGod->Bragi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.162,NorseGod->Ullr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.163,NorseGod->Vidar,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.164,NorseGod->Höðr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.165,NorseGod->Skadi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.166,NorseGod->Forseti,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.167,NorseGod->Hœnir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.168,NorseGod->Sif,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.169,NorseGod->Ran,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.170,NorseGod->Gefjon,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.171,NorseGod->Nanna,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.172,NorseGod->Sol,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.173,NorseGod->Mani,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.174,NorseGod->Mimir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.175,NorseGod->Hel,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.176,NorseGod->Angrboda,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.177,NorseGod->Fenrir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.178,NorseGod->Jormungandr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.179,NorseGod->Ymir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.180,NorseGod->Surtr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.181,NorseGod->Gullveig,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.182,NorseGod->Modi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.183,NorseGod->Magni,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.184,NorseGod->Vali,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.185,NorseGod->Sigyn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.186,NorseGod->Kvasir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.187,NorseGod->Hati,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.188,NorseGod->Skoll,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.189,NorseGod->Eir,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.190,NorseGod->Jord,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.191,NorseGod->Narfi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.192,norseBeginSyl->hjal,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.193,norseBeginSyl->val,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.194,norseBeginSyl->ulf,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.195,norseBeginSyl->grim,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.196,norseBeginSyl->ragn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.197,norseBeginSyl->thrym,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.198,norseBeginSyl->skol,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.199,norseBeginSyl->havi,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.200,norseBeginSyl->bjorn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.201,norseBeginSyl->gunn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.202,norseBeginSyl->surt,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.203,norseBeginSyl->frost,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.204,norseMiddleSyl->var,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.205,norseMiddleSyl->brim,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.206,norseMiddleSyl->jarn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.207,norseMiddleSyl->hraf,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.208,norseMiddleSyl->tyr,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.209,norseMiddleSyl->strid,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.210,norseMiddleSyl->hell,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.211,norseMiddleSyl->varg,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.212,norseMiddleSyl->bjorn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.213,norseMiddleSyl->frid,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.214,norseMiddleSyl->skel,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.215,norseEndSyl->ulf,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.216,norseEndSyl->skel,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.217,norseEndSyl->grim,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.218,norseEndSyl->son,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.219,norseEndSyl->val,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.220,norseEndSyl->hild,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.221,norseEndSyl->gald,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.222,norseEndSyl->thal,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.223,norseEndSyl->heim,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.224,norseEndSyl->bjorn,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.225,norseEndSyl->jord,li,RulePackDef/Things_Weapons.xml,def
+NamerWeaponCryptoNorse.rulePack.rulesStrings.226,norseEndSyl->thrym,li,RulePackDef/Things_Weapons.xml,def
+VQE_IceCrawler.label,ice crawler,label,ThingDef/Races_Animal_Insect.xml,def
+VQE_IceCrawler.description,"A medium-sized bioengineered insectoid adapted for extreme cold. In frigid temperatures, razor-sharp blades emerge from its limbs, turning it into a swift and deadly predator. However, when exposed to warmth, the blades retract, and the creature becomes sluggish, its movements slow and cumbersome. Highly dangerous in icy environments but far less threatening when overheated.",description,ThingDef/Races_Animal_Insect.xml,def
+VQE_IceCrawler.tools.0.label,head claw,label,ThingDef/Races_Animal_Insect.xml,def
+VQE_IceCrawler.tools.1.label,head,label,ThingDef/Races_Animal_Insect.xml,def
+VQE_IceCrawler.label,ice crawler,label,PawnKindDef/Races_Animal_Insect.xml,def
+VQE_Megamidge.label,megamidge,label,ThingDef/Races_Animal_Insect.xml,def
+VQE_Megamidge.description,"Not actually a midge, the megamidge is a genetically-engineered giant insectoid adapted for extreme cold. In freezing temperatures, deadly cryogenic blades extend from its limbs, allowing it to deliver devastating slashes that inflict deep wounds and crippling crypto slowdown. However, when exposed to warmth, its blades retract, and it becomes sluggish and far less dangerous. Agile and lethal in the cold, but vulnerable in heat.",description,ThingDef/Races_Animal_Insect.xml,def
+VQE_Megamidge.tools.0.label,head,label,ThingDef/Races_Animal_Insect.xml,def
+VQE_Megamidge.label,megamidge,label,PawnKindDef/Races_Animal_Insect.xml,def
+VQE_Guilt.stages.0.label,lingering guilt,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.0.description,I keep thinking about what happened. Maybe I could have done something differently.,description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.1.label,growing remorse,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.1.description,"The weight of my past decisions is sinking in. I feel uneasy, like I failed those who counted on me.",description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.2.label,deep regret,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.2.description,"I should have done more. Their voices echo in my mind, reminding me of what I’ve lost.",description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.3.label,crushing guilt,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.3.description,"Every moment, I feel the burden of my failure. It’s like a sickness, gnawing away at me.",description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.4.label,tormenting sorrow,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.4.description,I can barely function under the weight of my grief. I see their faces in every shadow.,description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.5.label,despairing isolation,label,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_Guilt.stages.5.description,"There’s no escape from this agony. I am the last, and I don't deserve to be.",description,ThoughtDef/Thought_Guilt_Situational.xml,def
+VQE_CryptoCut.label,crypto cut,label,ToolCapacityDef/ToolCapacity.xml,def
+VQE_InitiateScan.label,scan,label,WorkGiverDef/WorkGivers.xml,def
+VQE_InitiateScan.verb,scan,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_InitiateScan.gerund,scanning,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_RestartGenerator.label,restart,label,WorkGiverDef/WorkGivers.xml,def
+VQE_RestartGenerator.verb,restart,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_RestartGenerator.gerund,restarting,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_FightCryptofreeze.label,fight cryptofreeze,label,WorkGiverDef/WorkGivers.xml,def
+VQE_FightCryptofreeze.verb,extinguish,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_FightCryptofreeze.gerund,extinguishing,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_DoBillsCryptoforge.label,work at cryptoforge,label,WorkGiverDef/WorkGivers.xml,def
+VQE_DoBillsCryptoforge.verb,work,verb,WorkGiverDef/WorkGivers.xml,def
+VQE_DoBillsCryptoforge.gerund,working at,gerund,WorkGiverDef/WorkGivers.xml,def
+VQE_ChildhoodLegendaryBlacksmith.title,child of the forge,title,BackstoryDef/Solid_Rare.xml,def
+VQE_ChildhoodLegendaryBlacksmith.titleShort,forgeborn,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_ChildhoodLegendaryBlacksmith.description,"Born beneath the towering chimneys of the Grand Forge, [PAWN_nameDef] grew up with fire and steel as [PAWN_possessive] only companions. While others played, [PAWN_pronoun] watched the master smiths shape metal into weapons of legend. By the time [PAWN_pronoun] could walk, [PAWN_pronoun] had learned the weight of a hammer. By the time [PAWN_pronoun] could read, [PAWN_pronoun] had memorized the blueprints of masterwork armor. Elders whispered that [PAWN_nameDef] was destined to craft wonders beyond imagination, a future shaped by the ringing of steel on anvil.",description,BackstoryDef/Solid_Rare.xml,def
+VQE_LegendaryBlacksmithAdulthood.title,legendary blacksmith,title,BackstoryDef/Solid_Rare.xml,def
+VQE_LegendaryBlacksmithAdulthood.titleShort,legendary smith,titleShort,BackstoryDef/Solid_Rare.xml,def
+VQE_LegendaryBlacksmithAdulthood.description,"[PAWN_nameDef] was the last of [PAWN_possessive] kind, the final master of an art lost to time. In a world where steel had become obsolete, [PAWN_pronoun] forged weapons that could cut through plasteel and armor that could withstand railgun fire. Every strike of [PAWN_possessive] hammer wrote history in tempered alloys, cryptofused plating, and weapons that defied physics itself. But when [PAWN_possessive] ship fell, the forges cooled and the secrets of the craft faded into legend. Now, wandering among the ruins of [PAWN_possessive] past, [PAWN_pronoun] carries the weight of a lost age, the guilt of being the last one.",description,BackstoryDef/Solid_Rare.xml,def

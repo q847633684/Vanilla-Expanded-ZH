@@ -1,0 +1,94 @@
+key,text,tag,file,type
+VCE_CondimentEffectsMint,Consuming meals that include this condiment increases social impact by 10%.,VCE_CondimentEffectsMint,Misc_Gameplay.xml,keyed
+VBE_MakeCoffeeFast.label,make espresso coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_MakeCoffeeFast.description,"Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. Brewing coffee in a espresso machine is generally much faster.",description,RecipeDef/Recipes_Coffee.xml,def
+VBE_MakeCoffeeFast.jobString,Making coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_ReheatCoffee.label,reheat iced coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_ReheatCoffee.description,This espresso machine has a small built-in grill to reheat iced coffee.,description,RecipeDef/Recipes_Coffee.xml,def
+VBE_ReheatCoffee.jobString,Reheating iced coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewLatteCoffee.label,brew latte coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewLatteCoffee.description,Brew a potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals.,description,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewLatteCoffee.jobString,Brewing latte coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewMochaCoffee.label,brew mocha coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewMochaCoffee.description,Brew a coffee mixed with sweet and luxurious chocolate. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink.,description,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewMochaCoffee.jobString,Brewing mocha coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewIrishCoffee.label,brew irish coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewIrishCoffee.description,Brew a drink made with whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it.,description,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewIrishCoffee.jobString,Brewing irish coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewCannibalCoffee.label,brew cannibal coffee,label,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewCannibalCoffee.description,Brew a drink... for a very particular... refined coffee drinker.,description,RecipeDef/Recipes_Coffee.xml,def
+VBE_BrewCannibalCoffee.jobString,Brewing cannibal coffee.,jobString,RecipeDef/Recipes_Coffee.xml,def
+VBE_MakeTeaFast.label,make fast tea,label,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeTeaFast.description,"Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Brewing tea in this specially prepared espresso machine is generally much faster.",description,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeTeaFast.jobString,Making fast tea.,jobString,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeBlackTea.label,make black tea,label,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeBlackTea.description,"Make a particularly bitter tea cut with creamy milk, wakes one up a bit and relaxes one's mind.",description,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeBlackTea.jobString,Making black tea.,jobString,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeYuenYeung.label,make yuenyeung,label,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeYuenYeung.description,Make a mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. Whether it’s served hot or cold it’s equally confusing to the imbiber.,description,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeYuenYeung.jobString,Making yuenyeung.,jobString,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeKombucha.label,make kombucha tea,label,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeKombucha.description,"Make a sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical.",description,RecipeDef/Recipes_Tea.xml,def
+VBE_MakeKombucha.jobString,Making kombucha tea.,jobString,RecipeDef/Recipes_Tea.xml,def
+VBE_EspressoMachine.label,espresso machine,label,ResearchProjectDef/Research.xml,def
+VBE_EspressoMachine.description,A more sophisticated method of brewing coffees and teas by using pressurized water.,description,ResearchProjectDef/Research.xml,def
+VBE_EspressoMachineBuilding.label,espresso machine,label,ThingDef/Buildings.xml,def
+VBE_EspressoMachineBuilding.description,"An espresso machine brews coffee by forcing pressurized water near boiling point through a ""puck"" of ground coffee and a filter in order to produce a thick, concentrated coffee called espresso. This particular machine also has the possibility of brewing tea using a separate system.",description,ThingDef/Buildings.xml,def
+VBE_BlackTea.label,black tea,label,ThingDef/Drinks_BlackTea.xml,def
+VBE_BlackTea.description,"A particularly bitter tea cut with creamy milk, wakes one up and helps cure ailments.",description,ThingDef/Drinks_BlackTea.xml,def
+VBE_BlackTea.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_BlackTea.xml,def
+VBE_BlackTea.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_BlackTea.xml,def
+VBE_DrankBlackTea.stages.0.label,An inspiring Cup,label,ThoughtDef/Drinks_BlackTea.xml,def
+VBE_DrankBlackTea.stages.0.description,A delightfully intense cup of black tea really brightens the day.,description,ThoughtDef/Drinks_BlackTea.xml,def
+VBE_DrankBlackTea.label,drank black tea,label,HediffDef/Drinks_BlackTea.xml,def
+VBE_DrankBlackTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 20% and provides 15% reduction in rest fall rate for 5 hours.",description,HediffDef/Drinks_BlackTea.xml,def
+VBE_CannibalCoffee.label,cannibal coffee,label,ThingDef/Drinks_CannibalCoffee.xml,def
+VBE_CannibalCoffee.description,For a very particular… refined coffee drinker.,description,ThingDef/Drinks_CannibalCoffee.xml,def
+VBE_CannibalCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_CannibalCoffee.xml,def
+VBE_CannibalCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_CannibalCoffee.xml,def
+VBE_IrishCoffee.label,irish coffee,label,ThingDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffee.description,Whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it.,description,ThingDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffeeHigh.label,irish coffee high,label,HediffDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffeeHigh.labelNoun,an irish coffee high,labelNoun,HediffDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 16% amount and 16% reduction in rest fall rate. Increases global work speed by 16%. Hot coffee reduces hypothermia.",description,HediffDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffeeHigh.stages.0.label,"Live now, sleep later",label,ThoughtDef/Drinks_IrishCoffee.xml,def
+VBE_IrishCoffeeHigh.stages.0.description,"That coffee hit the spot, now let’s get some work done.",description,ThoughtDef/Drinks_IrishCoffee.xml,def
+VBE_Kombucha.label,kombucha tea,label,ThingDef/Drinks_KombuchaTea.xml,def
+VBE_Kombucha.description,"A sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. Kombucha acts as a home remedy against the flu, reducing its severity by 5%.",description,ThingDef/Drinks_KombuchaTea.xml,def
+VBE_Kombucha.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_KombuchaTea.xml,def
+VBE_Kombucha.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_KombuchaTea.xml,def
+VBE_DrankKombuchaTea.stages.0.label,A Healthy sip!,label,ThoughtDef/Drinks_KombuchaTea.xml,def
+VBE_DrankKombuchaTea.stages.0.description,A tasty cup of kombucha tea a day keeps the doctor away.,description,ThoughtDef/Drinks_KombuchaTea.xml,def
+VBE_DrankKombuchaTea.label,drank kombucha tea,label,HediffDef/Drinks_KombuchaTea.xml,def
+VBE_DrankKombuchaTea.description,"Tannins naturally found in tea once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. Kombucha tea reduces the effects of Diabetes if present. Kombucha acts as a home remedy against the flu, reducing its severity by 5%.",description,HediffDef/Drinks_KombuchaTea.xml,def
+VBE_LatteCoffee.label,latte coffee,label,ThingDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffee.description,Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals.,description,ThingDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffeeHigh.label,latte coffee high,label,HediffDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffeeHigh.labelNoun,a latte coffee high,labelNoun,HediffDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffeeHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 18% amount and 18% reduction in rest fall rate. Latte coffee reduces hypothermia.",description,HediffDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffeeHigh.stages.0.label,"Tall, Dark and Refined",label,ThoughtDef/Drinks_LatteCoffee.xml,def
+VBE_LatteCoffeeHigh.stages.0.description,"That latte coffee hit the spot, now let’s get some work done.",description,ThoughtDef/Drinks_LatteCoffee.xml,def
+VBE_MochaCoffee.label,mocha coffee,label,ThingDef/Drinks_MochaCoffee.xml,def
+VBE_MochaCoffee.description,"Coffee mixed with sweet and luxurious chocolate, very fun to drink. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink.",description,ThingDef/Drinks_MochaCoffee.xml,def
+VBE_MochaCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_MochaCoffee.xml,def
+VBE_MochaCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_MochaCoffee.xml,def
+VBE_PumpkinCoffee.label,pumpkin spice coffee,label,ThingDef/Drinks_PumpkinCoffee.xml,def
+VBE_PumpkinCoffee.description,"Cheap, mass produced generic coffee seeped in an array of spices, oddly excluding any actual pumpkin. Thousands of years ago, this type of coffee was stereotypically consumed by red-haired hipsters with man buns.",description,ThingDef/Drinks_PumpkinCoffee.xml,def
+VBE_PumpkinCoffee.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_PumpkinCoffee.xml,def
+VBE_PumpkinCoffee.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_PumpkinCoffee.xml,def
+VBE_Yuenyeung.label,yuenyeung,label,ThingDef/Drinks_Yuenyeung.xml,def
+VBE_Yuenyeung.description,"A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber.",description,ThingDef/Drinks_Yuenyeung.xml,def
+VBE_Yuenyeung.ingestible.ingestCommandString,Drink {0},ingestCommandString,ThingDef/Drinks_Yuenyeung.xml,def
+VBE_Yuenyeung.ingestible.ingestReportString,Drinking {0}.,ingestReportString,ThingDef/Drinks_Yuenyeung.xml,def
+VBE_YuenYeungHigh.label,yuenyeung high,label,HediffDef/Drinks_Yuenyeung.xml,def
+VBE_YuenYeungHigh.labelNoun,a coffee high,labelNoun,HediffDef/Drinks_Yuenyeung.xml,def
+VBE_YuenYeungHigh.description,"Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 13% reduction in rest fall rate. The tea in it increases immunity gain speed by 15%. Cold coffee reduces heatstroke.",description,HediffDef/Drinks_Yuenyeung.xml,def
+VBE_YuenYeungHigh.stages.0.label,A very original taste,label,ThoughtDef/Drinks_Yuenyeung.xml,def
+VBE_YuenYeungHigh.stages.0.description,"Like coffee... also, like tea.",description,ThoughtDef/Drinks_Yuenyeung.xml,def
+VBE_DoBillsEspressoMachine.label,brew at espresso machine,label,WorkGiverDef/WorkGivers.xml,def
+VBE_DoBillsEspressoMachine.verb,brew,verb,WorkGiverDef/WorkGivers.xml,def
+VBE_DoBillsEspressoMachine.gerund,brew at,gerund,WorkGiverDef/WorkGivers.xml,def

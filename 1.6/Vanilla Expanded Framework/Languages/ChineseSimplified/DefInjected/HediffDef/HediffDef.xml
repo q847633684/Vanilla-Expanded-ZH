@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A splash of acid that continues to cause burn wounds for quite some time after the initial attack.-->
-  <VEF_AcidBuildup.description>在初次攻击后的相当长一段时间内，酸液飞溅会继续造成烧伤。</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.description>此单位将会在很长一段时间内受到持续性的酸蚀伤害。</VEF_AcidBuildup.description>
   <!--EN: acid burn-->
-  <VEF_AcidBuildup.label>酸烧伤</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.label>酸蚀</VEF_AcidBuildup.label>
   <!--EN: minor, receiving burns-->
-  <VEF_AcidBuildup.stages.0.label>轻微烧伤</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.0.label>轻度酸蚀</VEF_AcidBuildup.stages.0.label>
   <!--EN: moderate, receiving burns-->
-  <VEF_AcidBuildup.stages.1.label>中度烧伤</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.1.label>中度酸蚀</VEF_AcidBuildup.stages.1.label>
   <!--EN: serious, receiving burns-->
-  <VEF_AcidBuildup.stages.2.label>严重烧伤</VEF_AcidBuildup.stages.2.label>
+  <VEF_AcidBuildup.stages.2.label>重度酸蚀</VEF_AcidBuildup.stages.2.label>
   <!--EN: tended-->
   <VEF_AcidBurn.comps.0.labelSolidTendedWell>照顾</VEF_AcidBurn.comps.0.labelSolidTendedWell>
   <!--EN: bandaged-->
@@ -19,15 +19,15 @@
   <!--EN: acid burn scar-->
   <VEF_AcidBurn.comps.2.permanentLabel>酸烧伤疤痕</VEF_AcidBurn.comps.2.permanentLabel>
   <!--EN: An acid burn.-->
-  <VEF_AcidBurn.description>酸烧伤。</VEF_AcidBurn.description>
+  <VEF_AcidBurn.description>酸蚀伤口。</VEF_AcidBurn.description>
   <!--EN: Corroded-->
-  <VEF_AcidBurn.injuryProps.destroyedLabel>Corroded</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <VEF_AcidBurn.injuryProps.destroyedLabel>被酸蚀殆尽</VEF_AcidBurn.injuryProps.destroyedLabel>
   <!--EN: Corroded-->
-  <VEF_AcidBurn.injuryProps.destroyedOutLabel>腐蚀</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>被酸蚀殆尽</VEF_AcidBurn.injuryProps.destroyedOutLabel>
   <!--EN: acid burn-->
-  <VEF_AcidBurn.label>酸烧伤</VEF_AcidBurn.label>
+  <VEF_AcidBurn.label>酸蚀</VEF_AcidBurn.label>
   <!--EN: an acid burn-->
-  <VEF_AcidBurn.labelNoun>酸烧伤</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.labelNoun>酸蚀伤</VEF_AcidBurn.labelNoun>
   <!--EN: Boom.-->
   <VEF_Kamikaze.description>繁荣。</VEF_Kamikaze.description>
   <!--EN: sudden detonation-->
@@ -37,63 +37,59 @@
   <!--EN: critical-->
   <VEF_Kamikaze.stages.1.label>批判的</VEF_Kamikaze.stages.1.label>
   <!--EN: This creature feeds on sunlight. Inadequate levels of light will kill it.-->
-  <VEF_LightSustenance.description>这种生物以阳光为食。光照不足会杀死它。</VEF_LightSustenance.description>
+  <VEF_LightSustenance.description>这种生物从阳光中获取能量。光照强度过低会致其死亡。</VEF_LightSustenance.description>
   <!--EN: level of sunlight-->
-  <VEF_LightSustenance.label>日照水平</VEF_LightSustenance.label>
+  <VEF_LightSustenance.label>光照强度</VEF_LightSustenance.label>
   <!--EN: adequate light-->
-  <VEF_LightSustenance.stages.0.label>充足的光线</VEF_LightSustenance.stages.0.label>
+  <VEF_LightSustenance.stages.0.label>充足</VEF_LightSustenance.stages.0.label>
   <!--EN: poor light levels-->
-  <VEF_LightSustenance.stages.1.label>光线水平不佳</VEF_LightSustenance.stages.1.label>
+  <VEF_LightSustenance.stages.1.label>极度匮乏</VEF_LightSustenance.stages.1.label>
   <!--EN: very low light levels-->
-  <VEF_LightSustenance.stages.2.label>光照水平非常低</VEF_LightSustenance.stages.2.label>
+  <VEF_LightSustenance.stages.2.label>匮乏</VEF_LightSustenance.stages.2.label>
   <!--EN: lack of sunlight-->
-  <VEF_LightSustenance.stages.3.label>缺乏阳光</VEF_LightSustenance.stages.3.label>
+  <VEF_LightSustenance.stages.3.label>不足</VEF_LightSustenance.stages.3.label>
   <!--EN: extreme lack of sustenance-->
-  <VEF_LightSustenance.stages.4.label>极度缺乏生计</VEF_LightSustenance.stages.4.label>
+  <VEF_LightSustenance.stages.4.label>非常不足</VEF_LightSustenance.stages.4.label>
   <!--EN: permanent burn-->
   <VEF_PermanentBurn.comps.1.permanentLabel>永久性烧伤</VEF_PermanentBurn.comps.1.permanentLabel>
   <!--EN: A permanent burn scar that cannot be treated.-->
-  <VEF_PermanentBurn.description>无法治疗的永久性烧伤疤痕。</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.description>无法治愈的永久性烧伤疤痕。</VEF_PermanentBurn.description>
   <!--EN: Burned off-->
-  <VEF_PermanentBurn.injuryProps.destroyedLabel>烧毁</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>被烧毁</VEF_PermanentBurn.injuryProps.destroyedLabel>
   <!--EN: Burned out-->
-  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>精疲力尽</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>被烧掉</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
   <!--EN: a permanent burn-->
   <VEF_PermanentBurn.labelNoun>永久性烧伤</VEF_PermanentBurn.labelNoun>
   <!--EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
 \nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
 \nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.-->
-  <VEF_ToxicBuildup.description>血液中的毒素。这可能来自多种来源，包括环境毒素、毒液叮咬或有毒武器。
-
-高剂量时，毒性累积是致命的。即使剂量很低，它也会产生癌症。
-
-与基础游戏中的毒性累积相反，死于这种毒性伤害的生物可以被吃掉。</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.description>流淌在血液里的毒素。来源可能是：来自环境的毒素、有毒生物的叮咬、或有毒的武器。\n毒素的积聚是致命的，即使是低剂量，它也能引发癌症。而死于毒素积聚的生物会因为毒素浓度过高而不能食用。</VEF_ToxicBuildup.description>
   <!--EN: toxic buildup-->
-  <VEF_ToxicBuildup.label>有毒物积聚</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.label>中毒</VEF_ToxicBuildup.label>
   <!--EN: initial-->
-  <VEF_ToxicBuildup.stages.0.label>最初的</VEF_ToxicBuildup.stages.0.label>
+  <VEF_ToxicBuildup.stages.0.label>较轻</VEF_ToxicBuildup.stages.0.label>
   <!--EN: initial-->
-  <VEF_ToxicBuildup.stages.1.label>最初的</VEF_ToxicBuildup.stages.1.label>
+  <VEF_ToxicBuildup.stages.1.label>中等</VEF_ToxicBuildup.stages.1.label>
   <!--EN: minor-->
-  <VEF_ToxicBuildup.stages.2.label>次要的</VEF_ToxicBuildup.stages.2.label>
+  <VEF_ToxicBuildup.stages.2.label>极重</VEF_ToxicBuildup.stages.2.label>
   <!--EN: moderate-->
-  <VEF_ToxicBuildup.stages.3.label>缓和</VEF_ToxicBuildup.stages.3.label>
+  <VEF_ToxicBuildup.stages.3.label>轻微</VEF_ToxicBuildup.stages.3.label>
   <!--EN: serious-->
-  <VEF_ToxicBuildup.stages.4.label>严肃的</VEF_ToxicBuildup.stages.4.label>
+  <VEF_ToxicBuildup.stages.4.label>轻微</VEF_ToxicBuildup.stages.4.label>
   <!--EN: extreme-->
-  <VEF_ToxicBuildup.stages.5.label>极端</VEF_ToxicBuildup.stages.5.label>
+  <VEF_ToxicBuildup.stages.5.label>严重</VEF_ToxicBuildup.stages.5.label>
   <!--EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed.-->
-  <VFEP_HypothermicSlowdown.description>核心体温过低到危险的程度。除非重新加热，否则体温过低的速度会变得更慢并最终导致死亡。一旦受害者重新变暖，恢复很快。</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.description>长时间暴露于急冻粒子下导致的患者体内温度平衡失调状态。低温冻结会在患者进入温暖的地方后随着时间的推移自然恢复。但如果患者继续暴露在急冻粒子下，低温冻结会变得更严重，直到患者死亡。</VFEP_HypothermicSlowdown.description>
   <!--EN: hypothermic slowdown-->
-  <VFEP_HypothermicSlowdown.label>低温减慢</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.label>低温冻结</VFEP_HypothermicSlowdown.label>
   <!--EN: minor-->
-  <VFEP_HypothermicSlowdown.stages.0.label>次要的</VFEP_HypothermicSlowdown.stages.0.label>
+  <VFEP_HypothermicSlowdown.stages.0.label>轻微</VFEP_HypothermicSlowdown.stages.0.label>
   <!--EN: minor-->
-  <VFEP_HypothermicSlowdown.stages.1.label>次要的</VFEP_HypothermicSlowdown.stages.1.label>
+  <VFEP_HypothermicSlowdown.stages.1.label>较轻</VFEP_HypothermicSlowdown.stages.1.label>
   <!--EN: moderate-->
-  <VFEP_HypothermicSlowdown.stages.2.label>缓和</VFEP_HypothermicSlowdown.stages.2.label>
+  <VFEP_HypothermicSlowdown.stages.2.label>中等</VFEP_HypothermicSlowdown.stages.2.label>
   <!--EN: serious-->
-  <VFEP_HypothermicSlowdown.stages.3.label>严肃的</VFEP_HypothermicSlowdown.stages.3.label>
+  <VFEP_HypothermicSlowdown.stages.3.label>极重</VFEP_HypothermicSlowdown.stages.3.label>
   <!--EN: extreme-->
-  <VFEP_HypothermicSlowdown.stages.4.label>极端</VFEP_HypothermicSlowdown.stages.4.label>
+  <VFEP_HypothermicSlowdown.stages.4.label>严重</VFEP_HypothermicSlowdown.stages.4.label>
 </LanguageData>

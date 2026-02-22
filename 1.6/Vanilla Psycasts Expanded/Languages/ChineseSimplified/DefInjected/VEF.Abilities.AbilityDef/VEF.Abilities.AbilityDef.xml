@@ -1,619 +1,607 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.-->
-  <VPE_AdrenalineRush.description>精神上诱发施法者肾上腺素激增，阻止所有疼痛并增强他们的视力、听力和运动能力。持续大约三十秒，具体取决于用户的心灵敏感度。</VPE_AdrenalineRush.description>
+  <VPE_AdrenalineRush.description>用灵能激发施放者体内的肾上腺素，止住痛觉并强化视力，听觉和移动能力。持续30秒左右，具体时间取决于施放者的心灵敏感度。</VPE_AdrenalineRush.description>
   <!--EN: adrenaline rush-->
-  <VPE_AdrenalineRush.label>肾上腺素激增</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.label>热血浪涌</VPE_AdrenalineRush.label>
   <!--EN: Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies.-->
-  <VPE_Age.description>非常低效地从活体目标中吸取生命力，使施法者衰老 2 岁，使另一者衰老 10 岁。对受害者造成非常虚弱的后遗症，并被盟友视为敌对行为。</VPE_Age.description>
+  <VPE_Age.description>用效率十分低下的方式从目标身上汲取生命，以目标年老10岁为代价让施放者年轻2岁。目标会有严重的后遗症，被友方派系视作敌对行为。</VPE_Age.description>
   <!--EN: age-->
-  <VPE_Age.label>年龄</VPE_Age.label>
+  <VPE_Age.label>寿命汲取</VPE_Age.label>
   <!--EN: Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war.-->
-  <VPE_AggressiveHeatDump.description>立即将所有神经热量倾倒到目标中，导致它们爆炸，产生与损失的热量相关的影响区域。很好的宣战。</VPE_AggressiveHeatDump.description>
+  <VPE_AggressiveHeatDump.description>立刻把你的所有心灵熵都倾注到目标身上，目标会产生一次爆炸，范围取决于你转移的心灵熵。十分凶猛的战争行为。</VPE_AggressiveHeatDump.description>
   <!--EN: aggressive heat dump-->
-  <VPE_AggressiveHeatDump.label>积极的热转储</VPE_AggressiveHeatDump.label>
+  <VPE_AggressiveHeatDump.label>攻性熵转移</VPE_AggressiveHeatDump.label>
   <!--EN: Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.-->
-  <VPE_AnimalAllies.description>向大面积区域注入和谐生命力，影响动物的行为，使它们攻击那些对施法者怀有敌意的人，持续时间与它们的心灵敏感度成正比。</VPE_AnimalAllies.description>
+  <VPE_AnimalAllies.description>在区域内用生命力谐振影响动物的行为，令其攻击施放者的敌人，持续时间取决于施放者的心灵敏感度。</VPE_AnimalAllies.description>
   <!--EN: animal allies-->
-  <VPE_AnimalAllies.label>动物盟友</VPE_AnimalAllies.label>
+  <VPE_AnimalAllies.label>动物之友</VPE_AnimalAllies.label>
   <!--EN: Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity.-->
-  <VPE_Assassinate.description>将施法者的影子与黑暗区域中的目标连接起来，使他们能够多次来回跳跃以进行近战攻击。命中的数量取决于施法者的心灵敏感度。</VPE_Assassinate.description>
+  <VPE_Assassinate.description>将施放者的阴影与在阴暗处的目标相连，在短时间内反复传送并发动近战攻击。连击次数取决于施放者的心灵敏感度。</VPE_Assassinate.description>
   <!--EN: assassinate-->
-  <VPE_Assassinate.label>暗杀</VPE_Assassinate.label>
+  <VPE_Assassinate.label>暗影连杀</VPE_Assassinate.label>
   <!--EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity.-->
-  <VPE_BallLightning.description>施法者压缩一团凝聚电球，它会缓慢移动到指定位置。释放后几秒钟，它将开始向附近的周围目标释放闪电。</VPE_BallLightning.description>
+  <VPE_BallLightning.description>施放者将电流压缩成致密的球状，并将其缓慢送出。送出几秒后，球状闪电会开始放电，持续电击周围的目标</VPE_BallLightning.description>
   <!--EN: ball lightning-->
   <VPE_BallLightning.label>球状闪电</VPE_BallLightning.label>
   <!--EN: Psychically command the target to approach the caster.-->
-  <VPE_Beckon.description>用心灵命令目标接近施法者。</VPE_Beckon.description>
+  <VPE_Beckon.description>使用精神力量迫使目标靠近施法者。</VPE_Beckon.description>
   <!--EN: beckon-->
-  <VPE_Beckon.label>招手</VPE_Beckon.label>
+  <VPE_Beckon.label>召唤</VPE_Beckon.label>
   <!--EN: Creates a ripple of cosmic scale that will force something to happen.-->
-  <VPE_BendProbability.description>产生宇宙规模的涟漪，迫使某些事情发生。</VPE_BendProbability.description>
+  <VPE_BendProbability.description>创造一个宇宙尺度的波纹，让一个随机事件立刻发生。</VPE_BendProbability.description>
   <!--EN: bend probability-->
-  <VPE_BendProbability.label>弯曲概率</VPE_BendProbability.label>
+  <VPE_BendProbability.label>概率扭曲</VPE_BendProbability.label>
   <!--EN: Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity.-->
-  <VPE_Berserk.description>在目标的脑海中引发狂暴的精神错乱，导致他们攻击附近的任何人。 15秒后他们会恢复理性，具体取决于他们的心灵敏感度。</VPE_Berserk.description>
+  <VPE_Berserk.description>将一个怒不可遏的想法植入到目标心里，这会让他们尝试攻击附近任何人。目标在至少15秒后会恢复正常，具体时间取决于目标的心灵敏感度。</VPE_Berserk.description>
   <!--EN: berserk-->
-  <VPE_Berserk.label>狂暴</VPE_Berserk.label>
+  <VPE_Berserk.label>激怒</VPE_Berserk.label>
   <!--EN: Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds.-->
-  <VPE_BerserkPulse.description>在目标点附近的每个人身上产生压倒性的无方向的愤怒。被认为是一种公开的攻击行为，持续几秒钟。</VPE_BerserkPulse.description>
+  <VPE_BerserkPulse.description>在目标点周围的每个人身上产生一股无法抑制的狂怒。使用该能力是公开的侵略行为，会持续数秒。</VPE_BerserkPulse.description>
   <!--EN: berserk pulse-->
   <VPE_BerserkPulse.label>狂暴脉冲</VPE_BerserkPulse.label>
   <!--EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.-->
-  <VPE_BladeFocus.description>从精神上增强施法者手臂上的肌肉发达的角色。纤维、韧带和关节，根据他们的精神敏感度，将他们的近战攻击速度加倍，持续大约两分钟。</VPE_BladeFocus.description>
+  <VPE_BladeFocus.description>用灵能强化手臂上的肌肉纤维，肌腱和关节，使施放者达到双倍的近战攻速，持续2分钟左右，具体时间取决于施放者的心灵敏感度。</VPE_BladeFocus.description>
   <!--EN: blade focus-->
-  <VPE_BladeFocus.label>刀片焦点</VPE_BladeFocus.label>
+  <VPE_BladeFocus.label>刀锋专注</VPE_BladeFocus.label>
   <!--EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity.-->
-  <VPE_BlindingPulse.description>在大脑的视觉中心引入噪声，模糊目标点附近每个人的视野。持续半分钟，受心灵敏感度影响。</VPE_BlindingPulse.description>
+  <VPE_BlindingPulse.description>通过干扰大脑的视觉中枢，使目标点周围的每个人的视觉模糊。持续半分钟，受到心灵敏感度影响。</VPE_BlindingPulse.description>
   <!--EN: blinding pulse-->
   <VPE_BlindingPulse.label>致盲脉冲</VPE_BlindingPulse.label>
   <!--EN: After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action.-->
-  <VPE_Bliss.description>经过短暂的冥想期后，在目标中引发一种平静感，这种平静感在效果结束时达到最大强度。当平静的感觉变得更加明显时，他们会发现很难集中注意力，但这并不被视为恶意行为。</VPE_Bliss.description>
+  <VPE_Bliss.description>短暂的冥想后，在目标脑中生成一股逐渐增强的快感。效果越是增强，目标越会感到自己意识模糊，难以集中，但这并不被视作敌意举动。</VPE_Bliss.description>
   <!--EN: bliss-->
   <VPE_Bliss.label>极乐</VPE_Bliss.label>
   <!--EN: Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a coma.-->
-  <VPE_Blizzard.description>使用压差跳跃门、水联跳跃门和精神熵节点，在远离施法者的地方制造出旋转的暴风雪。那些暴露暴露在暴风雨中的人会经历视力、移动和操纵能力的下降，以及体温过低和寒冷的影响。持续时间随着施法者的心灵敏感度而变化，并使他们陷入昏迷。</VPE_Blizzard.description>
+  <VPE_Blizzard.description>利用压差折跃门，水体折跃门和灵能负熵节点，在自身周围的区域生成肆虐的极寒风暴。风暴会使其中之人的视力，移动和操作能力下降，并逐渐产生低温症，以及被尖锐的冰霜划伤。持续时间取决于施放者的心灵敏感度，并会使其陷入5天的昏迷。</VPE_Blizzard.description>
   <!--EN: blizzard-->
-  <VPE_Blizzard.label>暴风雪</VPE_Blizzard.label>
+  <VPE_Blizzard.label>极寒风暴</VPE_Blizzard.label>
   <!--EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage.-->
-  <VPE_Bolt.description>投掷一道微弱的闪电来攻击一个小目标区域，其距离与心灵敏感度成正比。直接命中会造成灼伤并造成区域电磁脉冲伤害。</VPE_Bolt.description>
+  <VPE_Bolt.description>将一束微弱的闪电射向目标，造成少量的烧伤和范围攻击的EMP伤害。</VPE_Bolt.description>
   <!--EN: bolt-->
-  <VPE_Bolt.label>螺栓</VPE_Bolt.label>
+  <VPE_Bolt.label>闪电</VPE_Bolt.label>
   <!--EN: Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.-->
-  <VPE_BrambleMaze.description>向肥沃的区域注入混乱的生命能量，使其长出荆棘芽，并在 12 小时后枯萎。</VPE_BrambleMaze.description>
+  <VPE_BrambleMaze.description>将混乱的生命能量注入一片足够肥沃的土地，使其瞬间生成一片荆棘藤曼，12小时后会枯萎。</VPE_BrambleMaze.description>
   <!--EN: bramble maze-->
   <VPE_BrambleMaze.label>荆棘迷宫</VPE_BrambleMaze.label>
   <!--EN: Spews forth flammable liquid which immediately ignites, along with everything the flames touch.-->
-  <VPE_BreatheFlame.description>喷出可立即点燃的易燃液体，连同所有火焰触摸。</VPE_BreatheFlame.description>
+  <VPE_BreatheFlame.description>展开一个暂时的折跃门，将地下的有机化合物矿层和施放者的口部单向连接，随后用一个小火花点燃。一束高温高压的火焰会从施放者的口中喷涌而出，焚尽一切。</VPE_BreatheFlame.description>
   <!--EN: breathe flame-->
-  <VPE_BreatheFlame.label>呼吸火焰</VPE_BreatheFlame.label>
+  <VPE_BreatheFlame.label>火焰吐息</VPE_BreatheFlame.label>
   <!--EN: Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity.-->
-  <VPE_Burden.description>通过抑制 大脑 的运动活动来短时间减慢目标。被视为敌对行为并受到目标心灵敏感性的影响。</VPE_Burden.description>
+  <VPE_Burden.description>通过抑制大脑的运动中枢，在短时间内减慢目标的行动能力。被视作敌对行为，效果取决于目标的心灵敏感度。</VPE_Burden.description>
   <!--EN: burden-->
-  <VPE_Burden.label>负担</VPE_Burden.label>
+  <VPE_Burden.label>重负</VPE_Burden.label>
   <!--EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage.-->
-  <VPE_ChainBolt.description>向目标发射一道活生生的闪电，这些闪电可以泄漏到附近的目标上，数量随着心灵敏感度的增加而增加。造成轻微烧伤和电磁脉冲伤害。</VPE_ChainBolt.description>
+  <VPE_ChainBolt.description>将一束活跃的闪电射向目标，随后它会持续跳跃向最多5个周围的目标，造成少量的烧伤和EMP伤害。</VPE_ChainBolt.description>
   <!--EN: chain bolt-->
-  <VPE_ChainBolt.label>链条螺栓</VPE_ChainBolt.label>
+  <VPE_ChainBolt.label>链式闪电</VPE_ChainBolt.label>
   <!--EN: Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action.-->
-  <VPE_ChaosSkip.description>将目标从他开始的地方传送到随机位置，距离随着施法者的心灵敏感度而变化。使目标昏迷一秒，被视为敌对行为。</VPE_ChaosSkip.description>
+  <VPE_ChaosSkip.description>把目标传送到附近的一个随机位置。使目标眩晕一秒，被视作敌意行为。</VPE_ChaosSkip.description>
   <!--EN: chaos skip-->
-  <VPE_ChaosSkip.label>混乱跳过</VPE_ChaosSkip.label>
+  <VPE_ChaosSkip.label>混乱折跃</VPE_ChaosSkip.label>
   <!--EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.-->
-  <VPE_Chunkskip.description>跳过 5 块岩石或炉渣，将它们分散到目标点附近。这对于在进攻行动中提供掩护非常有用。</VPE_Chunkskip.description>
+  <VPE_Chunkskip.description>将5块石块或者钢渣之类的块堆折跃并分散到目标位置附近。这对于在进攻行动中快速制造掩体非常有用。</VPE_Chunkskip.description>
   <!--EN: chunk skip-->
-  <VPE_Chunkskip.label>块跳过</VPE_Chunkskip.label>
+  <VPE_Chunkskip.label>块堆折跃</VPE_Chunkskip.label>
   <!--EN: Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature.-->
-  <VPE_ColdZone.description>使一个区域在接下来的 24 小时内显现出精神熵节点，从而大幅降低温度。</VPE_ColdZone.description>
+  <VPE_ColdZone.description>让一块区域在灵能负熵节点的影响下，在24小时内剧烈降温。</VPE_ColdZone.description>
   <!--EN: cold zone-->
-  <VPE_ColdZone.label>寒冷地带</VPE_ColdZone.label>
+  <VPE_ColdZone.label>低温领域</VPE_ColdZone.label>
   <!--EN: Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered.-->
-  <VPE_ConjureHeatPearls.description>将施法者的神经热量转化为压缩的形而上珍珠。完全无害，但破碎后会向一小块区域释放大量神经热量。</VPE_ConjureHeatPearls.description>
+  <VPE_ConjureHeatPearls.description>形而上地将施放者的少量心灵熵凝聚成珠状。它们可以被掷向其它灵能者，引发他们的心灵熵暴涨，但除此之外完全无害。</VPE_ConjureHeatPearls.description>
   <!--EN: conjure heat pearls-->
-  <VPE_ConjureHeatPearls.label>召唤热珍珠</VPE_ConjureHeatPearls.label>
+  <VPE_ConjureHeatPearls.label>凝聚心熵灵珠</VPE_ConjureHeatPearls.label>
   <!--EN: Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat.-->
-  <VPE_ConsumeBodies.description>从附近的人形尸体中精神上剥夺所有剩余的生命力，并将精华储存起来作为神经热量的永久堆叠缓冲区。</VPE_ConsumeBodies.description>
+  <VPE_ConsumeBodies.description>将一具死尸内残存的生命力吸收，永久增加施放者的心灵熵上限。</VPE_ConsumeBodies.description>
   <!--EN: consume bodies-->
-  <VPE_ConsumeBodies.label>消耗身体</VPE_ConsumeBodies.label>
+  <VPE_ConsumeBodies.label>尸体炼化</VPE_ConsumeBodies.label>
   <!--EN: Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.-->
-  <VPE_ControlledFrenzy.description>从精神上增强施法者的能力和杀戮欲望，使所有武器的伤害输出加倍。每次击杀都会使施法者的热量减少 10 点，并重置狂乱的持续时间。</VPE_ControlledFrenzy.description>
+  <VPE_ControlledFrenzy.description>用灵能激起施放者的潜力和杀意，使所有武器的输出加倍。每次击杀都会减少施放者10点心灵熵并重制狂化的计时。</VPE_ControlledFrenzy.description>
   <!--EN: controlled frenzy-->
-  <VPE_ControlledFrenzy.label>controlled frenzy</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.label>有限狂化</VPE_ControlledFrenzy.label>
   <!--EN: Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal.-->
-  <VPE_Corpsetalk.description>以尸体为目标，暂时挪用受害者的技能，弥补施法者的不足。效果会持续一个季节，然后才恢复正常。</VPE_Corpsetalk.description>
+  <VPE_Corpsetalk.description>对死尸施放，施放者会暂时获得死者生前强于自己的技能。一个季节后会重归原状。</VPE_Corpsetalk.description>
   <!--EN: corpsetalk-->
-  <VPE_Corpsetalk.label>尸语</VPE_Corpsetalk.label>
+  <VPE_Corpsetalk.label>通灵</VPE_Corpsetalk.label>
   <!--EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice.-->
-  <VPE_CraftPsyRing.description>通过灵力将一块埃尔泰克斯的形状改变为一个环形，其中充满了施法者的灵能施法知识。当另一位灵能施法者佩戴时，他们可以暂时使用这些知识来执行存储的灵能施法，而无需练习。</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.description>将一小团灵质融成环状，注入施放者对心灵能力的相关知识。其它灵能者佩戴智环后可以临时使用其中的知识来施放他们本身不掌握的心灵能力。</VPE_CraftPsyRing.description>
   <!--EN: craft psyring-->
-  <VPE_CraftPsyRing.label>工艺西林</VPE_CraftPsyRing.label>
+  <VPE_CraftPsyRing.label>打造智环</VPE_CraftPsyRing.label>
   <!--EN: Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year.-->
-  <VPE_CraftTimeskip.description>使用非常精确的时间跳跃，将所需的项目移动到完成状态，就好像创建者继续处理它一样。使施法者生理老化一整年。</VPE_CraftTimeskip.description>
+  <VPE_CraftTimeskip.description>用精确的时空穿越让目标半成品立刻变为完成状态，就如原本的制作者制作完成的那样。</VPE_CraftTimeskip.description>
   <!--EN: craft timeskip-->
-  <VPE_CraftTimeskip.label>工艺时间跳跃</VPE_CraftTimeskip.label>
+  <VPE_CraftTimeskip.label>瞬间制造</VPE_CraftTimeskip.label>
   <!--EN: Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.-->
-  <VPE_CropBurst.description>为肥沃的地区注入生命能量，使其发芽可种植的农作物，并根据施法者的心灵敏感度完成生长。</VPE_CropBurst.description>
+  <VPE_CropBurst.description>将生命能量注入一片足够肥沃的土地，生成随机可种植的农作物，成熟度取决于施放者的心灵敏感度。</VPE_CropBurst.description>
   <!--EN: crop burst-->
-  <VPE_CropBurst.label>农作物爆发</VPE_CropBurst.label>
+  <VPE_CropBurst.label>作物暴生</VPE_CropBurst.label>
   <!--EN: Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely.-->
-  <VPE_Darkness.description>选择一个目标区域来生成一个完全令人困惑的黑暗球体，持续时间随着施法者的心灵敏感度而变化。所有视野都被阻挡，任何内部或穿过的攻击都将完全错过。</VPE_Darkness.description>
+  <VPE_Darkness.description>在目标区域生成一片完全不透光的黑暗领域，持续时间取决于施放者的心灵敏感度。一切视线都无法穿透这片区域，所有对其中发动的攻击都不会命中。</VPE_Darkness.description>
   <!--EN: darkness-->
-  <VPE_Darkness.label>黑暗</VPE_Darkness.label>
+  <VPE_Darkness.label>无光暗域</VPE_Darkness.label>
   <!--EN: Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity.-->
-  <VPE_Darkvision.description>为目标 pawn 提供瞬膜，使他们在黑暗和白天都能看得清楚。持续时间与目标的心灵敏感度成正比。</VPE_Darkvision.description>
+  <VPE_Darkvision.description>给目标生成一层临时的瞬膜，让他们在夜晚也能如白昼般视物。持续时间取决于施放者的心灵敏感度。</VPE_Darkvision.description>
   <!--EN: darkvision-->
-  <VPE_Darkvision.label>黑暗视觉</VPE_Darkvision.label>
+  <VPE_Darkvision.label>夜视</VPE_Darkvision.label>
   <!--EN: Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs.-->
-  <VPE_Deathshield.description>将接触目标的生命力锁定一天，防止其死亡。在此期间之后，他们可能会因伤口累积、血液损失或肢体或器官缺失而死亡。</VPE_Deathshield.description>
+  <VPE_Deathshield.description>将目标的生命力锁定一整天，在此期间目标无论如何不会死亡，但在时间过后积累的伤势和失血依旧可能使其暴毙。</VPE_Deathshield.description>
   <!--EN: deathshield-->
-  <VPE_Deathshield.label>死亡盾牌</VPE_Deathshield.label>
+  <VPE_Deathshield.label>拒死之盾</VPE_Deathshield.label>
   <!--EN: Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies.-->
-  <VPE_Decoy.description>创建一个局部的光学不和谐场，以行进并停留在所需的位置，其持续时间随心灵敏感性而缩放。幻象会引起所有敌人的愤怒。</VPE_Decoy.description>
+  <VPE_Decoy.description>在附近创造出一片光学失衡场，生成一个幻象前往并停留在目标地点，持续时间取决于施放者的心灵敏感度。幻象会吸引所有敌人的注意力。</VPE_Decoy.description>
   <!--EN: decoy-->
-  <VPE_Decoy.label>诱饵</VPE_Decoy.label>
+  <VPE_Decoy.label>影子替身</VPE_Decoy.label>
   <!--EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions.-->
-  <VPE_DrainPsyessence.description>以倒下的灵能天赋pawn为目标，引发强烈的和谐灵能噪音来液化他们的肉体，并将其转化为灵能，供施法者吸收，作为他们自己积累的灵能天赋。方圆数公里内的每个人都会感受到精神崩溃的最后时刻，从而对所有派系造成外交后果。</VPE_DrainPsyessence.description>
+  <VPE_DrainPsyessence.description>选定一个倒地的灵能者，使用高频谐振的心灵脉冲将对方的血肉精炼成液态的灵能，随后将其的修为吸收为自己所用。此等亵渎之举造成的心灵波动即便在数千米外也能被人感应到，因而影响所有派系的外交关系。</VPE_DrainPsyessence.description>
   <!--EN: drain psyessence-->
-  <VPE_DrainPsyessence.label>排出精气</VPE_DrainPsyessence.label>
+  <VPE_DrainPsyessence.label>灵能篡取</VPE_DrainPsyessence.label>
   <!--EN: By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse.-->
-  <VPE_Eclipse.description>通过战略性地在天空高处放置一个令人困惑的黑暗球体，施法者可以有效地引起自发的日食。</VPE_Eclipse.description>
+  <VPE_Eclipse.description>在高空生成一片绝对黑暗遮挡阳光，即刻造成一次日食。</VPE_Eclipse.description>
   <!--EN: eclipse-->
-  <VPE_Eclipse.label>蚀</VPE_Eclipse.label>
+  <VPE_Eclipse.label>日食</VPE_Eclipse.label>
   <!--EN: Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity.-->
-  <VPE_EnchantQuality.description>对物体或结构进行心理操纵以提高其整体质量。最高质量取决于心灵敏感性。</VPE_EnchantQuality.description>
+  <VPE_EnchantQuality.description>微调物品的物质结构，尝试提升它的品质，但依然无法模仿大师级的手艺。</VPE_EnchantQuality.description>
   <!--EN: enchant quality-->
-  <VPE_EnchantQuality.label>附魔品质</VPE_EnchantQuality.label>
+  <VPE_EnchantQuality.label>品质重构</VPE_EnchantQuality.label>
   <!--EN: Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap.-->
-  <VPE_EnergyDump.description>消除附近目标累积的疲劳，让他们完全恢复精神，而作为交换，施法者会完全精疲力竭，需要好好休息一下。</VPE_EnergyDump.description>
+  <VPE_EnergyDump.description>将目标的所有疲劳清除，而施放者则会立刻精疲力竭。</VPE_EnergyDump.description>
   <!--EN: energy dump-->
-  <VPE_EnergyDump.label>能量转储</VPE_EnergyDump.label>
+  <VPE_EnergyDump.label>体能转移</VPE_EnergyDump.label>
   <!--EN: Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies.-->
-  <VPE_Enthrall.description>从精神上剥夺已故目标的生命力并将其直接注入他们的骨头中，使他们充满活力一整天。唯一剩下的本能就是对施法者的敌人造成痛苦。</VPE_Enthrall.description>
+  <VPE_Enthrall.description>将死尸残存的生命力嵌入骨头之中，使其能行动一天。复苏的骸骨没有神智，唯一的本能就是攻击施放者的敌人。</VPE_Enthrall.description>
   <!--EN: enthrall-->
-  <VPE_Enthrall.label>着迷</VPE_Enthrall.label>
+  <VPE_Enthrall.label>使役骸骨</VPE_Enthrall.label>
   <!--EN: Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time.-->
-  <VPE_EssenceTransfer.description>将附近另一个人的生命力注入群居动物中，将它们连接起来并使施法者陷入昏迷。如果被联动的人死亡，被联动的动物会走到他们的身边，将自己的和谐生命精华转移给他们，完成后死亡。如果链接的动物先死亡，效果就会消失，并且一次只能有一个链接。</VPE_EssenceTransfer.description>
+  <VPE_EssenceTransfer.description>将附近殖民者的部分生命力暂存到殖民地动物身上，随后使施放者陷入6小时的昏迷。如果契约人死去，契约动物会靠近并将寄存的生命力传输给对方，生死交替。如果契约动物提前死亡则连结中止。同一时间只能存在一个契约。</VPE_EssenceTransfer.description>
   <!--EN: essence transfer-->
-  <VPE_EssenceTransfer.label>精华转移</VPE_EssenceTransfer.label>
+  <VPE_EssenceTransfer.label>生命契约</VPE_EssenceTransfer.label>
   <!--EN: Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid.-->
-  <VPE_Explosion.description>点燃目标区域下方的少量深层化学物质，这些化学物质会在爆炸中排放到地表。烧伤该区域并溢出多余的液体。</VPE_Explosion.description>
+  <VPE_Explosion.description>展开一个暂时的折跃门，将地下的有机化合物矿层和选定的地点单向连接，随后用一个小火花点燃。点燃的高压燃气会引发大范围的爆炸，小团的化学燃料会不断跃出。</VPE_Explosion.description>
   <!--EN: explosion-->
-  <VPE_Explosion.label>爆炸</VPE_Explosion.label>
+  <VPE_Explosion.label>炎爆</VPE_Explosion.label>
   <!--EN: Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area.-->
-  <VPE_EyeBlast.description>施法者模仿恒星，压缩高能气体，气体沿所需方向逸出，伤害随心灵敏感性而扩大。点燃一个小而遥远的区域。</VPE_EyeBlast.description>
+  <VPE_EyeBlast.description>展开两个微型的折跃门，将附近的一颗白矮星和施放者的双眼单向连接。选定一个目标地点防止误伤，随后灼目的能量会射出并点燃目标周围。</VPE_EyeBlast.description>
   <!--EN: eye blast-->
-  <VPE_EyeBlast.label>眼睛爆炸</VPE_EyeBlast.label>
+  <VPE_EyeBlast.label>灼热视线</VPE_EyeBlast.label>
   <!--EN: Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey.-->
-  <VPE_Farskip.description>跳过施法者以及站在他们附近的任何人，到远处的一个愿意的盟友那里。这可以将人们送往遥远的星球，而被跳过的人总是会出现在目标地图上的随机盟友附近，并在旅途中被眩晕几秒钟。</VPE_Farskip.description>
+  <VPE_Farskip.description>折跃施法者以及站在他附近的所有人，去往一个远处的盟友位置。这能够让人们抵达星球上很远的位置，但必须在目标位置有一个愿意充当道标的盟友时才有效果。被折跃的人总是出现在目标地图上的随机盟友附近。</VPE_Farskip.description>
   <!--EN: farskip-->
-  <VPE_Farskip.label>远跳过</VPE_Farskip.label>
+  <VPE_Farskip.label>远距离折跃</VPE_Farskip.label>
   <!--EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a coma.-->
-  <VPE_FireBeam.description>试图在几乎液态氧的浓缩柱内重现恒星的力量。由此产生的等离子体发射威力如此之大，只有最先进的武器系统才能与之相比。长时间的高度集中以施法者陷入昏迷而告终。</VPE_FireBeam.description>
+  <VPE_FireBeam.description>在一团致密的液态氧中模拟恒星的威能。释放出的高能等离子体只有最先进的高科技武器能与之相比。</VPE_FireBeam.description>
   <!--EN: fire beam-->
-  <VPE_FireBeam.label>火束</VPE_FireBeam.label>
+  <VPE_FireBeam.label>天降火柱</VPE_FireBeam.label>
   <!--EN: Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity.-->
-  <VPE_FireShield.description>在目标周围制造一段时间的炽热火焰光环，防止他们被自焚并点燃任何试图近战攻击他们的人。持续时间随着施法者的心灵敏感度而变化。</VPE_FireShield.description>
+  <VPE_FireShield.description>展开一个环绕目标的折跃门，将附近的一颗恒星和与之单向连接，炽热的火焰仅会向外延伸几寸距离。近战攻击目标之人会引火烧身，也会使目标免受火焰伤害。</VPE_FireShield.description>
   <!--EN: fire shield-->
-  <VPE_FireShield.label>防火盾</VPE_FireShield.label>
+  <VPE_FireShield.label>火盾</VPE_FireShield.label>
   <!--EN: Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.-->
-  <VPE_FiringFocus.description>精神上增强施法者的手、眼和反应速度，根据他们的精神敏感度，将其远程攻击冷却时间减少 80%，持续大约两分钟。</VPE_FiringFocus.description>
+  <VPE_FiringFocus.description>用灵能强化双手，双眼和神经反应速度，减少施放者80%的远程攻击冷却，持续2分钟左右，具体时间取决于施放者的心灵敏感度。</VPE_FiringFocus.description>
   <!--EN: firing focus-->
-  <VPE_FiringFocus.label>射击焦点</VPE_FiringFocus.label>
+  <VPE_FiringFocus.label>枪火专注</VPE_FiringFocus.label>
   <!--EN: Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable.-->
-  <VPE_FlameTornado.description>尝试在浓氧漩涡中重现恒星的力量。发生的混乱反应会产生易燃副产品，同时也使其轨迹完全不可预测。</VPE_FlameTornado.description>
+  <VPE_FlameTornado.description>在一团致密的液态氧中模拟恒星的威能。剧烈的反应会生成大量可燃副产物，一旦点燃，其轨迹便不能预测。</VPE_FlameTornado.description>
   <!--EN: fire tornado-->
-  <VPE_FlameTornado.label>火龙卷风</VPE_FlameTornado.label>
+  <VPE_FlameTornado.label>炽火旋风</VPE_FlameTornado.label>
   <!--EN: Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity.-->
-  <VPE_Flameball.description>投掷一颗凝聚的火焰球，类似于手榴弹，撞击时会爆炸。范围随着施法者的心灵敏感度而变化。</VPE_Flameball.description>
+  <VPE_Flameball.description>在手中生成一团不稳定的熔岩并用力丢出。击中目标后会引发小范围的爆炸。</VPE_Flameball.description>
   <!--EN: flameball-->
-  <VPE_Flameball.label>火球</VPE_Flameball.label>
+  <VPE_Flameball.label>火球弹</VPE_Flameball.label>
   <!--EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.-->
-  <VPE_Flashstorm.description>使用大气中的集中压差跳跃门来产生局部暴风雨。风暴将在消散之前用闪电袭击该地区一段时间。</VPE_Flashstorm.description>
+  <VPE_Flashstorm.description>在大气层里打开集中的压差折跃门，生成一片覆盖一定区域的闪电风暴。风暴会持续轰击目标区域，直至自己消散。</VPE_Flashstorm.description>
   <!--EN: flashstorm-->
   <VPE_Flashstorm.label>闪电风暴</VPE_Flashstorm.label>
   <!--EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities.-->
-  <VPE_Focus.description>对目标进行精神集中一分钟，增强他们的视力、听力和移动能力。</VPE_Focus.description>
+  <VPE_Focus.description>在精神上操纵目标使其集中注意力，提高他们的视觉、听觉和移动能力。</VPE_Focus.description>
   <!--EN: focus-->
-  <VPE_Focus.label>重点</VPE_Focus.label>
+  <VPE_Focus.label>注意集中</VPE_Focus.label>
   <!--EN: Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity.-->
-  <VPE_FrostRay.description>推出集中的精神熵流几秒钟，迅速引起割伤和体温过低。持续时间与施法者的心灵敏感度成正比。</VPE_FrostRay.description>
+  <VPE_FrostRay.description>将一束灵能负熵持续浓缩射出，对目标造成割伤和低温症。持续时间取决于施放者的心灵敏感度。</VPE_FrostRay.description>
   <!--EN: frost ray-->
-  <VPE_FrostRay.label>霜射线</VPE_FrostRay.label>
+  <VPE_FrostRay.label>冻结射线</VPE_FrostRay.label>
   <!--EN: Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity.-->
-  <VPE_Ghostwalk.description>给施法者覆盖一层暂时的精神萎缩，让他们能够畅通无阻地穿过建筑物，不会损坏任何东西。持续时间随着施法者的心灵敏感度而变化。</VPE_Ghostwalk.description>
+  <VPE_Ghostwalk.description>用灵能将施放者的身体转化为半虚体，使其能直接穿过建筑结构。持续时间取决于施放者的心灵敏感度。</VPE_Ghostwalk.description>
   <!--EN: ghostwalk-->
-  <VPE_Ghostwalk.label>鬼行</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.label>灵体行者</VPE_Ghostwalk.label>
   <!--EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range.-->
-  <VPE_GroupLink.description>在施法者周围创建一个心灵暗示范围，将其中的所有棋子与施法者联系起来，并允许任何单个目标“心灵暗示”影响所有其他人。当链接的物体移出范围时，效果结束。</VPE_GroupLink.description>
+  <VPE_GroupLink.description>在施放者的周边创建一个心灵暗示的领域，将所有范围内的人与施放者的心灵相连，任何一人如果受到“XX之语”的影响都会将其共享给所有人。如果移动到范围之外则链接中断。</VPE_GroupLink.description>
   <!--EN: group link-->
-  <VPE_GroupLink.label>群组链接</VPE_GroupLink.label>
+  <VPE_GroupLink.label>心灵链接</VPE_GroupLink.label>
   <!--EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.-->
-  <VPE_GuardianSkipbarrier.description>在施法者周围生成一个球形跳跃门，将所有传入的地面射弹发送到某个遥远的地方，只要它们能够管理热量积累，就会持续下去。人员和物品不受影响。它需要高度集中注意力才能保持，因此施法者需要注意自己的脚步。</VPE_GuardianSkipbarrier.description>
+  <VPE_GuardianSkipbarrier.description>在施放者周围生成一个球形的折跃区，将所有射入和射出的子弹都传送到遥远的地方。人员和物品的进出不受影响。只要能够承受心灵熵就可以不断维持。维持护盾需要十分集中的注意力，所以施放者需要注意自己的行动。</VPE_GuardianSkipbarrier.description>
   <!--EN: guardian skipbarrier-->
-  <VPE_GuardianSkipbarrier.label>监护人跳过障碍</VPE_GuardianSkipbarrier.label>
+  <VPE_GuardianSkipbarrier.label>守御折跃盾</VPE_GuardianSkipbarrier.label>
   <!--EN: Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.-->
-  <VPE_GuidedShot.description>Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.</VPE_GuidedShot.description>
+  <VPE_GuidedShot.description>投射出持续8秒的灵能光环，让施放者可以影响所发射子弹的轨迹，使武器射程加倍，且必定命中。</VPE_GuidedShot.description>
   <!--EN: guided shot-->
-  <VPE_GuidedShot.label>引导射击</VPE_GuidedShot.label>
+  <VPE_GuidedShot.label>灵能枪斗</VPE_GuidedShot.label>
   <!--EN: Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity.-->
-  <VPE_Haywire.description>让一个区域受到心灵干扰，暂时重新配置最多 3 个自动武器系统来保护施法者及其盟友。持续时间随着施法者的心灵敏感度而变化。</VPE_Haywire.description>
+  <VPE_Haywire.description>用灵能干涉一片选定的目标，扰乱所有其中电子机械的敌我识别系统，令其将我方单位识别为友方。持续时间取决于施放者的心灵敏感度。</VPE_Haywire.description>
   <!--EN: haywire-->
-  <VPE_Haywire.label>失控的</VPE_Haywire.label>
+  <VPE_Haywire.label>智械干扰</VPE_Haywire.label>
   <!--EN: Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target.-->
-  <VPE_HealthSwap.description>通过等价交换法则，将首要目标的元气回归本源，将所有异物和伤害转移到次要目标。</VPE_HealthSwap.description>
+  <VPE_HealthSwap.description>在两个目标的生命力之间创造一个势差，让所有的负面健康特性互换。不能转移的伤势则会被直接治愈。</VPE_HealthSwap.description>
   <!--EN: health swap-->
-  <VPE_HealthSwap.label>健康交换</VPE_HealthSwap.label>
+  <VPE_HealthSwap.label>伤势转移</VPE_HealthSwap.label>
   <!--EN: Initiates harmonic meditation which converts all accumulated heat in psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump.-->
-  <VPE_HeatFocus.description>启动和谐冥想，10 秒后将所有积聚的热量转化为精神焦点。既不能过度充电 psyfocus 也不能散热。</VPE_HeatFocus.description>
+  <VPE_HeatFocus.description>用制衡之力展开冥想，将所有心灵熵转换成精神力。超过精神力上限的部分不会被转换。</VPE_HeatFocus.description>
   <!--EN: heat focus-->
-  <VPE_HeatFocus.label>热焦点</VPE_HeatFocus.label>
+  <VPE_HeatFocus.label>心熵聚焦</VPE_HeatFocus.label>
   <!--EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop.-->
-  <VPE_Hurricane.description>施法者使用广泛的压差跳跃门强行改变天气，变成飓风级的倾盆大雨，只要施法者能够控制热量积累，这种倾盆大雨就会持续，并且可以随意立即停止。那些在户外的人将逐渐经历严重的视线、移动和操作限制，直至完全停止。</VPE_Hurricane.description>
+  <VPE_Hurricane.description>强风会使所有露天的生物行动缓慢。</VPE_Hurricane.description>
   <!--EN: hurricane-->
-  <VPE_Hurricane.label>飓风</VPE_Hurricane.label>
+  <VPE_Hurricane.label>骤雨飓风</VPE_Hurricane.label>
   <!--EN: Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing.-->
-  <VPE_IceBlock.description>将心灵熵的节点和连接到海洋的跳跃门结合起来，在目标位置形成一大块冰。易碎，如果温度高于冰点，可能会融化。</VPE_IceBlock.description>
+  <VPE_IceBlock.description>将联向大海的折跃门和灵能负熵结点结合，在目标地点创造出一大块冰块。十分脆弱，温度在冰点以上的话会逐渐融化。</VPE_IceBlock.description>
   <!--EN: ice block-->
   <VPE_IceBlock.label>冰块</VPE_IceBlock.label>
   <!--EN: Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target.-->
-  <VPE_IceBreath.description>向前呼吸一股精神熵流，由此产生的冷切割和诱导低温随着到目标的距离而增加。</VPE_IceBreath.description>
+  <VPE_IceBreath.description>吐出一大束灵能负熵，根据距离对对目标造成割伤和低温症。</VPE_IceBreath.description>
   <!--EN: breathe ice-->
-  <VPE_IceBreath.label>呼吸冰</VPE_IceBreath.label>
+  <VPE_IceBreath.label>冰霜吐息</VPE_IceBreath.label>
   <!--EN: Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days.-->
-  <VPE_IceCrystal.description>以晶体的形式创建一个精神熵节点，在接下来的 5 天内吸收房间的热量。</VPE_IceCrystal.description>
+  <VPE_IceCrystal.description>将灵能负熵节点化作结晶，降低所在房间的温度，持续5天。</VPE_IceCrystal.description>
   <!--EN: ice crystal-->
-  <VPE_IceCrystal.label>冰晶</VPE_IceCrystal.label>
+  <VPE_IceCrystal.label>低温水晶</VPE_IceCrystal.label>
   <!--EN: Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster.-->
-  <VPE_IceShield.description>暂时在目标周围产生精神熵光环，防止他们感到寒冷，并导致任何试图在近战中攻击他们的人体温过低。持续时间与施法者的心灵敏感度成正比。</VPE_IceShield.description>
+  <VPE_IceShield.description>在目标周围施加一个灵能负熵光环，近战攻击目标之人会被冻伤，也会使目标免受寒冷伤害。</VPE_IceShield.description>
   <!--EN: ice shield-->
   <VPE_IceShield.label>冰盾</VPE_IceShield.label>
   <!--EN: Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity.-->
-  <VPE_IceSpike.description>将带有精神熵的蒸汽凝结成向目标发射的冰柱，伤害和准确度与精神敏感性成正比。</VPE_IceSpike.description>
+  <VPE_IceSpike.description>用灵能负熵将空气中的水汽凝结成冰锥射向目标，伤害取决于心灵敏感度</VPE_IceSpike.description>
   <!--EN: ice spike-->
-  <VPE_IceSpike.label>冰钉</VPE_IceSpike.label>
+  <VPE_IceSpike.label>冰锥</VPE_IceSpike.label>
   <!--EN: Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing.-->
-  <VPE_IceWall.description>将心灵熵的节点和连接到海洋的微型跳跃门结合起来，在施法者周围形成圆形冰墙。易碎，如果温度高于冰点，可能会融化。</VPE_IceWall.description>
+  <VPE_IceWall.description>将联向大海的折跃门和灵能负熵结点结合，在施放者周边创造出一圈环绕的冰块。十分脆弱，温度在冰点以上的话会逐渐融化。</VPE_IceWall.description>
   <!--EN: ice wall-->
-  <VPE_IceWall.label>冰墙</VPE_IceWall.label>
+  <VPE_IceWall.label>冰壁</VPE_IceWall.label>
   <!--EN: Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity.-->
-  <VPE_IntensifyShadows.description>将施法者的阴影与阴影连接起来，并为其注入令人困惑的黑暗，使地图上所有亮度低于 50% 的区域陷入漆黑。持续时间随着施法者的心灵敏感度而变化。</VPE_IntensifyShadows.description>
+  <VPE_IntensifyShadows.description>将施放者自己的影子与本地所有黑暗相连，注入黑暗的力量。地图上所有亮度低于50%的地方都会变为0%的绝对黑暗。持续时间取决于施放者的心灵敏感度。</VPE_IntensifyShadows.description>
   <!--EN: intensify shadows-->
-  <VPE_IntensifyShadows.label>加强阴影</VPE_IntensifyShadows.label>
+  <VPE_IntensifyShadows.label>剧化黑暗</VPE_IntensifyShadows.label>
   <!--EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.-->
-  <VPE_Invisibility.description>对附近每个人的视觉中心进行精神操纵，使他们在短时间内无法感知特定的个体。</VPE_Invisibility.description>
+  <VPE_Invisibility.description>在精神上操纵附近每个人的视觉中心，使他们在短时间内无法感知特定的个体。</VPE_Invisibility.description>
   <!--EN: invisibility-->
-  <VPE_Invisibility.label>隐形</VPE_Invisibility.label>
+  <VPE_Invisibility.label>隐身</VPE_Invisibility.label>
   <!--EN: Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.-->
-  <VPE_Killskip.description>传送到目标并执行近战攻击，施法者的近战技能会削弱或增强攻击效果。如果目标被杀死，则免费传送到下一个最近的敌人并再次攻击，直到没有任何东西可以杀死。</VPE_Killskip.description>
+  <VPE_Killskip.description>折跃至目标附近并进行一次近战攻击，造成的伤害会受近战技能的影响。如果目标被击杀，施放者会自动折跃到最近的另一个敌人身边并继续攻击，直到无人能杀为止。</VPE_Killskip.description>
   <!--EN: killskip-->
-  <VPE_Killskip.label>杀舰</VPE_Killskip.label>
+  <VPE_Killskip.label>杀戮连锁</VPE_Killskip.label>
   <!--EN: Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action.-->
-  <VPE_Liferot.description>精神上诱发目标随机大规模坏死，使受影响的身体部位受到感染并引发呕吐。持续时间与目标的心灵敏感度成正比，并且是一种明显的敌对行为。</VPE_Liferot.description>
+  <VPE_Liferot.description>用灵能在目标身上引发大量坏疽，使身体部分开始腐烂，并散发出恶臭使目标呕吐不止。持续时间取决于施放者的心灵敏感度，被视作敌对行为。</VPE_Liferot.description>
   <!--EN: liferot-->
-  <VPE_Liferot.label>腐烂的生命</VPE_Liferot.label>
+  <VPE_Liferot.label>血肉腐化</VPE_Liferot.label>
   <!--EN: Using precision skipgates, swaps the positions of the caster and a visible target.-->
-  <VPE_LocationSwap.description>使用精确的跳跃门，交换施法者和可见目标的位置。</VPE_LocationSwap.description>
+  <VPE_LocationSwap.description>在施放者和目标之间生成一对一次性折跃门，让二人位置互换。</VPE_LocationSwap.description>
   <!--EN: location swap-->
-  <VPE_LocationSwap.label>位置交换</VPE_LocationSwap.label>
+  <VPE_LocationSwap.label>换位</VPE_LocationSwap.label>
   <!--EN: Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity.-->
-  <VPE_LuckTransfer.description>通过将负面业力从第一个目标转移到第二个目标，并接收其正面业力，在业力平衡中造成裂痕。只影响战斗，持续时间与第一个目标的心灵敏感度成正比。</VPE_LuckTransfer.description>
+  <VPE_LuckTransfer.description>创造一个命运裂隙，将第一个目标的所有不幸转移给第二个目标，并收到第二个目标的幸运。只会影响战斗相关的幸运，持续时间取决于第一个目标的心灵敏感度。</VPE_LuckTransfer.description>
   <!--EN: luck transfer-->
-  <VPE_LuckTransfer.label>运气转移</VPE_LuckTransfer.label>
+  <VPE_LuckTransfer.label>幸运转移</VPE_LuckTransfer.label>
   <!--EN: Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.-->
-  <VPE_ManhunterPulse.description>使用心灵脉冲驱使大范围内的动物陷入狩猎狂暴，持续一分钟。如果影响到商队中的动物，则视为宣战。</VPE_ManhunterPulse.description>
+  <VPE_ManhunterPulse.description>使用精神力量驱使区域内的动物开始猎杀人类，持续一分钟。如果激怒了NPC远行队中的动物，则被视为立刻开战。</VPE_ManhunterPulse.description>
   <!--EN: manhunter pulse-->
-  <VPE_ManhunterPulse.label>猎人脉冲</VPE_ManhunterPulse.label>
+  <VPE_ManhunterPulse.label>猎杀人类脉冲</VPE_ManhunterPulse.label>
   <!--EN: Psychically command the targets within an area to approach the caster.-->
-  <VPE_MassBeckon.description>用心灵命令区域内的目标接近施法者。</VPE_MassBeckon.description>
+  <VPE_MassBeckon.description>使用精神力量迫使区域内的所有目标靠近施法者。</VPE_MassBeckon.description>
   <!--EN: mass beckon-->
-  <VPE_MassBeckon.label>大众召唤</VPE_MassBeckon.label>
+  <VPE_MassBeckon.label>群体召唤</VPE_MassBeckon.label>
   <!--EN: Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger.-->
-  <VPE_MassChaosSkip.description>将目标点附近的所有人跳过到附近的随机位置。被认为是一种滋扰，因为它会使盟友陷入危险。</VPE_MassChaosSkip.description>
+  <VPE_MassChaosSkip.description>把目标点周围的人传送到附近的一个随机位置。因为会使友方陷入危险，被视作敌意行为。</VPE_MassChaosSkip.description>
   <!--EN: mass chaos skip-->
-  <VPE_MassChaosSkip.label>大规模混乱跳过</VPE_MassChaosSkip.label>
+  <VPE_MassChaosSkip.label>群体混乱折跃</VPE_MassChaosSkip.label>
   <!--EN: Creating a massive burst of psychic suggestion, convinced nearby pawns that rooms are the absolute best they could possibly be. The caster is put into a coma and the resulting effect lasts for five days.-->
-  <VPE_MassHallucination.description>产生大量的心灵暗示，让附近的棋子相信房间绝对是最好的。施法者陷入昏迷，其效果持续五天。</VPE_MassHallucination.description>
+  <VPE_MassHallucination.description>释放出强大的心灵暗示，让所有周围的人真心相信自己的生活环境已经无比优越。施法者将进入五天的精神昏迷。</VPE_MassHallucination.description>
   <!--EN: mass hallucination-->
-  <VPE_MassHallucination.label>集体幻觉</VPE_MassHallucination.label>
+  <VPE_MassHallucination.label>群体幻术</VPE_MassHallucination.label>
   <!--EN: Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration.-->
-  <VPE_Mend.description>对物体或结构进行精神操纵以恢复其状态。任何有意义的恢复都需要高度的心灵敏感性。</VPE_Mend.description>
+  <VPE_Mend.description>施放者与物品共鸣，尝试修复它受到的损坏，效果取决于施放者的心灵敏感度。</VPE_Mend.description>
   <!--EN: mend-->
-  <VPE_Mend.label>修补</VPE_Mend.label>
+  <VPE_Mend.label>修复</VPE_Mend.label>
   <!--EN: Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity.-->
-  <VPE_MeteorShower.description>跳过并焚烧绕轨道运行的流星体以攻击指定区域。影响的次数与心灵敏感度成正比。</VPE_MeteorShower.description>
+  <VPE_MeteorShower.description>扰乱星球轨道上的小行星的引力环境，促使其坠落并撞击选定的地点。一次会引来不多不少的4颗流星。</VPE_MeteorShower.description>
   <!--EN: meteor shower-->
-  <VPE_MeteorShower.label>流星雨</VPE_MeteorShower.label>
+  <VPE_MeteorShower.label>流星火雨</VPE_MeteorShower.label>
   <!--EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions.-->
-  <VPE_MindBreak.description>使用集中的谐波心灵噪音，对目标进行脑白质切除术，并将其变成一个服务的、不安分的奴隶。他们的前派系非常不欣赏。</VPE_MindBreak.description>
+  <VPE_MindBreak.description>用高度集中的心灵杂音摧垮目标的心智，让它变为一个失去自我意识的无心奴。会大大惹怒目标原本所属的派系。</VPE_MindBreak.description>
   <!--EN: mind break-->
-  <VPE_MindBreak.label>精神崩溃</VPE_MindBreak.label>
+  <VPE_MindBreak.label>心智崩毁</VPE_MindBreak.label>
   <!--EN: Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment.-->
-  <VPE_MindWipe.description>在目标中引发无害的、瞬时的逆行性遗忘症，清除其背景故事之外获得的所有记忆、社会纽带和技能。他们还感受到与施法者群体的强烈亲缘关系，以及在没有承诺的情况下重新发现生活乐趣的喜悦。</VPE_MindWipe.description>
+  <VPE_MindWipe.description>用一种无害的逆心灵脉冲使目标失忆，洗去所有记忆，社会关系并使技能回归他们背景故事决定的基础值。并创造出对殖民地的归属感，使其有欲望重新开始一切。</VPE_MindWipe.description>
   <!--EN: mind wipe-->
-  <VPE_MindWipe.label>心灵擦拭</VPE_MindWipe.label>
+  <VPE_MindWipe.label>洗脑</VPE_MindWipe.label>
   <!--EN: Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once.-->
-  <VPE_Mindcontrol.description>在短时间内对目标进行精神控制，随着他们的精神敏感度而扩展，为施法者提供第二个身体。然而，同时成为两个人是很困难的。</VPE_Mindcontrol.description>
+  <VPE_Mindcontrol.description>用灵能强行暂时控制住目标，持续时间取决于目标心灵敏感度。然而，施放者并不能自如地同时控制两个身体。</VPE_Mindcontrol.description>
   <!--EN: mind control-->
   <VPE_Mindcontrol.label>精神控制</VPE_Mindcontrol.label>
   <!--EN: Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost.-->
-  <VPE_NeuralHeatDetonation.description>有效但不加区别地将施法者的所有神经热量倾倒到远离自身的爆炸中，其大小与损失的热量有关。</VPE_NeuralHeatDetonation.description>
+  <VPE_NeuralHeatDetonation.description>将施放者所有的心灵熵转移到远处并引发爆炸，范围取决于你转移的心灵熵。</VPE_NeuralHeatDetonation.description>
   <!--EN: neural heat detonation-->
-  <VPE_NeuralHeatDetonation.label>神经热爆</VPE_NeuralHeatDetonation.label>
+  <VPE_NeuralHeatDetonation.label>心熵爆破</VPE_NeuralHeatDetonation.label>
   <!--EN: Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.-->
-  <VPE_NeuralHeatDump.description>立即将你所有的神经热量倾倒到有意识的盟友身上。作为副作用，目标将陷入令人衰弱、无害的昏迷状态大约一天。目标必须主动接受精神入侵，因此只有有意识的盟友才能成为目标。</VPE_NeuralHeatDump.description>
+  <VPE_NeuralHeatDump.description>立刻把你的所有心灵熵都倾注到一个友方目标身上。作为副作用，目标会陷入一个大约持续一天的昏迷中。目标必须主动接受精神入侵，所以只有清醒的盟友才能成为目标。</VPE_NeuralHeatDump.description>
   <!--EN: neural heat dump-->
-  <VPE_NeuralHeatDump.label>神经热转储</VPE_NeuralHeatDump.label>
+  <VPE_NeuralHeatDump.label>熵转移</VPE_NeuralHeatDump.label>
   <!--EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.-->
-  <VPE_Neuroquake.description>找到心灵领域的中断点并将其展开，释放出大量的心灵能量。范围内但安全内圈之外的所有生物都会被严重逼疯。施法需要12秒的冥想，之后施法者会进入精神昏迷状态。令人不安的神经震回声将对方圆数公里内的每个人造成疼痛，从而对所有派系造成外交后果。</VPE_Neuroquake.description>
+  <VPE_Neuroquake.description>展开精神域场中不连续的地方，释放出大量的精神能量。在安全的内圈之外的每一个生物都会被猛烈的心灵脉冲逼疯。施放这个能力需要12秒的冥想，之后，施法者将进入五天的精神昏迷。令人不安的神经震荡回声将给周围数公里内的人带来痛苦，并且对所有派系产生外交影响。</VPE_Neuroquake.description>
   <!--EN: neuroquake-->
-  <VPE_Neuroquake.label>神经震</VPE_Neuroquake.label>
+  <VPE_Neuroquake.label>神经震颤</VPE_Neuroquake.label>
   <!--EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake?-->
-  <VPE_Neuroquake.modExtensions.0.message>如果您使用神经地震，该地区的每个人都会感受到神经地震回声，您将失去与每个非敌对派系的好感。
-
-神经地震需要12秒施放，并且无法被打断。完成后，施法者将陷入精神昏迷长达 5 天。
-
-范围内除施法者周围小圈内的所有人都会受到影响。
-
-你真的要施放神经震吗？</VPE_Neuroquake.modExtensions.0.message>
+  <VPE_Neuroquake.modExtensions.0.message>如果你使用神经震颤，这个地区的所有人都会感受到“神经震颤”的回响，你将失去与所有非敌对派系的部分好感。\n\n神经震颤需要12秒的释放时间，并且不能被打断。完成后，施法者也会进入心灵休克数天。\n\n地图上除了施法者周围一个小范围的人之外，其他人都会受到影响。\n\n你真的要释放神经震颤吗？</VPE_Neuroquake.modExtensions.0.message>
   <!--EN: Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster.-->
-  <VPE_Nightstep.description>将附近的盟友短暂连接到远处殖民者的影子，以立即传送他们，甚至可以穿越整个星球，只要他们没有负担过重。只能在夜间施展并暂时击晕施法者。</VPE_Nightstep.description>
+  <VPE_Nightstep.description>将附近的友方目标传送到另一个殖民者的影子之中，只要能够撑得住超载的心灵熵，即便跨越整个星球都没问题。只能于夜间施放。</VPE_Nightstep.description>
   <!--EN: nightstep-->
-  <VPE_Nightstep.label>夜步</VPE_Nightstep.label>
+  <VPE_Nightstep.label>千里夜行</VPE_Nightstep.label>
   <!--EN: Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion.-->
-  <VPE_Obscure.description>在施法者周围制造一个光学不和谐场，导致受影响的盟友站在黑暗中完全隐形。攻击打破了幻象。</VPE_Obscure.description>
+  <VPE_Obscure.description>在施放者周边生成一片光学失衡场，在范围内的友方都会受到影响，使其在黑暗中会完全隐身。主动攻击会破除效果。</VPE_Obscure.description>
   <!--EN: obscure-->
-  <VPE_Obscure.label>朦胧</VPE_Obscure.label>
+  <VPE_Obscure.label>阴影潜行</VPE_Obscure.label>
   <!--EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected.-->
-  <VPE_Overshield.description>在目标上生成一个球形跳跃门，将所有传入的地面射弹发送到某个遥远的地方，持续时间与目标的心灵敏感度成比例。人员和物品不受影响。</VPE_Overshield.description>
+  <VPE_Overshield.description>在目标身上生成一个球形的折跃区，将所有射入和射出的子弹都传送到遥远的地方。人员和物品的进出不受影响。持续时间取决于目标的心灵敏感度。</VPE_Overshield.description>
   <!--EN: overshield-->
-  <VPE_Overshield.label>超屏蔽</VPE_Overshield.label>
+  <VPE_Overshield.label>赋予护盾</VPE_Overshield.label>
   <!--EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.-->
-  <VPE_Painblock.description>严格限制目标 大脑 中的 疼痛 通路几分钟。这可以让一个人即使在严重受伤的情况下也能移动和行动，而重伤通常会导致他们丧失能力。</VPE_Painblock.description>
+  <VPE_Painblock.description>短时间内干扰目标大脑的痛觉中枢，使目标即使收到严重伤害也能继续屹立不倒、持续作战。</VPE_Painblock.description>
   <!--EN: painblock-->
-  <VPE_Painblock.label>止痛药</VPE_Painblock.label>
+  <VPE_Painblock.label>止痛</VPE_Painblock.label>
   <!--EN: Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity.-->
-  <VPE_ParalysisPulse.description>从施法者身上发射出一团黑色粒子，使该区域内的所有人（包括施法者）遭受麻痹性失语症一整天。半径随着施法者的心灵敏感度而变化。</VPE_ParalysisPulse.description>
+  <VPE_ParalysisPulse.description>施放者在周围释放出一片暗黑粒子雾，除了施放者以外所有在范围之内的人都会获得2小时的麻痹效果。范围半径取决于施放者的心灵敏感度。被视作敌对行为。</VPE_ParalysisPulse.description>
   <!--EN: paralysis pulse-->
   <VPE_ParalysisPulse.label>麻痹脉冲</VPE_ParalysisPulse.label>
   <!--EN: Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year.-->
-  <VPE_PlantTimeskip.description>使施法者周围半径范围内的所有植物生长，将其成熟度提前相当于 7 天。使施法者生理老化一整年。</VPE_PlantTimeskip.description>
+  <VPE_PlantTimeskip.description>让施放者周边的植物瞬间生长到成熟状态</VPE_PlantTimeskip.description>
   <!--EN: plant timeskip-->
-  <VPE_PlantTimeskip.label>植物时间跳跃</VPE_PlantTimeskip.label>
+  <VPE_PlantTimeskip.label>瞬间生长</VPE_PlantTimeskip.label>
   <!--EN: Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity.-->
-  <VPE_Power.description>形而上学地改变指定设备的功率输入，直接从量子泡沫的波动中提取能量，持续几天。持续时间与心灵敏感度成正比。</VPE_Power.description>
+  <VPE_Power.description>形而上地将目标装置的供能转接到翻腾的量子泡沫上。能持续数天，具体持续时间取决于施放者的心灵敏感度。</VPE_Power.description>
   <!--EN: power-->
-  <VPE_Power.label>力量</VPE_Power.label>
+  <VPE_Power.label>虚空供能</VPE_Power.label>
   <!--EN: Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.-->
-  <VPE_PowerLeap.description>极大地增强施法者的腿、脚和脊柱，使其能够跳跃很远的距离并落地而不会受伤，距离随着使用者的心灵敏感度而增加。</VPE_PowerLeap.description>
+  <VPE_PowerLeap.description>瞬间强化施放者的双腿，双脚和脊柱，使其能高高跃过大量距离并安全落地。距离取决于施放者的心灵敏感度。</VPE_PowerLeap.description>
   <!--EN: power leap-->
-  <VPE_PowerLeap.label>权力飞跃</VPE_PowerLeap.label>
+  <VPE_PowerLeap.label>纵身飞跃</VPE_PowerLeap.label>
   <!--EN: Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity.-->
-  <VPE_PsychicDrone.description>在施法者周围创造出巨大的灵能无人机光环，针对敌人，经常让他们发疯，直到他们克服突破。持续时间随着施法者的心灵敏感度而变化。</VPE_PsychicDrone.description>
+  <VPE_PsychicDrone.description>在施放者的周围构建一个心灵噪音的光环，范围内的所有敌方单位会持续受到精神上的压力直到他们精神崩溃。持续时间取决于施放者的心灵敏感度。</VPE_PsychicDrone.description>
   <!--EN: psychic drone-->
-  <VPE_PsychicDrone.label>心灵无人机</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.label>心灵噪音</VPE_PsychicDrone.label>
   <!--EN: Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities.-->
-  <VPE_PsychicGuidance.description>削弱施法者的视力、听力、移动和操控能力，以换取过度消耗目标自身的身体能力。</VPE_PsychicGuidance.description>
+  <VPE_PsychicGuidance.description>让施放者的视力，听力，运动和操作能力下降，换得目标的属性上升。</VPE_PsychicGuidance.description>
   <!--EN: psychic guidance-->
-  <VPE_PsychicGuidance.label>心灵引导</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.label>灵能导引</VPE_PsychicGuidance.label>
   <!--EN: Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile.-->
-  <VPE_PsychicShock.description>用混乱的图像对目标的心灵进行精神冲击，阻碍连贯的感知并使他们陷入精神冲击的状态。存在 大脑 损伤的风险并且具有明显的敌意。</VPE_PsychicShock.description>
+  <VPE_PsychicShock.description>用混乱的影像冲击目标的大脑，扰乱其感知，使其进入心灵冲击状态一段时间。有很高几率导致大脑损伤。</VPE_PsychicShock.description>
   <!--EN: psychic shock-->
-  <VPE_PsychicShock.label>心灵震撼</VPE_PsychicShock.label>
+  <VPE_PsychicShock.label>心灵冲击</VPE_PsychicShock.label>
   <!--EN: Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area.-->
-  <VPE_QuenchFlames.description>将局部沉积的 Deepchem 转化为阻燃泡沫，从使用者身上喷出大面积的泡沫。</VPE_QuenchFlames.description>
+  <VPE_QuenchFlames.description>展开一个暂时的折跃门，连结至附近经过的飞船的防火系统，在目标地点爆出大量阻燃泡沫。借来的阻燃泡沫非常之多，影响范围相当大。</VPE_QuenchFlames.description>
   <!--EN: extinguish flames-->
-  <VPE_QuenchFlames.label>扑灭火焰</VPE_QuenchFlames.label>
+  <VPE_QuenchFlames.label>灭火</VPE_QuenchFlames.label>
   <!--EN: Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action.-->
-  <VPE_RaidPause.description>根据施法者的心灵敏感度，将地图上的所有袭击者减速至完全停止，持续长达五分钟。攻击任何一个受影响的袭击者都会让他们全部恢复行动。</VPE_RaidPause.description>
+  <VPE_RaidPause.description>让所有该地图上的袭击者原地时空冻结，持续时间取决于施放者的心灵敏感度，最高可达5分钟。攻击任一冻结的袭击者会让所有人恢复正常。</VPE_RaidPause.description>
   <!--EN: raid pause-->
-  <VPE_RaidPause.label>突袭暂停</VPE_RaidPause.label>
+  <VPE_RaidPause.label>来敌止步</VPE_RaidPause.label>
   <!--EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity.-->
-  <VPE_Recharge.description>仔细而微妙地将电流调整到触摸的电池上，以 100kW 或相当于 100Wd/s 的速度对其进行充电。蓄力的持续时间取决于施法者的心灵敏感度。</VPE_Recharge.description>
+  <VPE_Recharge.description>将一束精心调制的可用电力送入接触的电池中，充入100kW或是等效100Wd/s的电力。充能的时间取决于施放者的心灵敏感度。</VPE_Recharge.description>
   <!--EN: recharge-->
-  <VPE_Recharge.label>充值</VPE_Recharge.label>
+  <VPE_Recharge.label>电力充能</VPE_Recharge.label>
   <!--EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs.-->
-  <VPE_RegrowLimbs.description>使目标陷入持续一整天的精神、再生昏迷。灵能能量通过缓慢地重新生长任何缺失的肢体来帮助目标。</VPE_RegrowLimbs.description>
+  <VPE_RegrowLimbs.description>在目标失去的肢体根部用复杂的灵能信号驱动再生程序。再生效果需要一整天才能完成，而且由于它会刺激目标的幻肢症状，造成极度不适。</VPE_RegrowLimbs.description>
   <!--EN: regrow limbs-->
-  <VPE_RegrowLimbs.label>重新长出四肢</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.label>肢体再生</VPE_RegrowLimbs.label>
   <!--EN: By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma.-->
-  <VPE_Resurrect.description>通过牺牲一根天然手指，施法者能够在任何未干燥的尸体上模仿复活机甲血清的效果，灵能能量可以修复受损的组织并让身体恢复活力。目标将丧失行为能力，而他们的效忠将保持不变。身体保存得越差，目标就越有可能遭受负面影响。长时间的高度集中以施法者陷入昏迷而告终。</VPE_Resurrect.description>
+  <VPE_Resurrect.description>施放者献祭一根自己的天然手指为代价，对未腐化的尸体造成类似复活机械液的效果。灵能会修复破碎的组织并为身体部件的活化提供最初的动力。尸体保存越完好，越不容易遭受复活的副作用。</VPE_Resurrect.description>
   <!--EN: resurrect-->
   <VPE_Resurrect.label>复活</VPE_Resurrect.label>
   <!--EN: After a short meditation period and followed by a coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions.-->
-  <VPE_ReunionFarskip.description>经过短暂的冥想和昏迷后，利用目标的血统跳过所有活着的家庭成员到他们附近，并因精神冲击而昏迷。然而，这并没有改变他们的关系，而且被所有其他派系认为是粗鲁的。</VPE_ReunionFarskip.description>
+  <VPE_ReunionFarskip.description>短暂的冥想后，施法者将进入五天的精神昏迷。追朔目标的血缘，将所有在该星球上的亲人折跃到附近，折跃过来的人会在心灵能力的冲击中陷入昏迷。此能力并不会改变被折跃者的社交关系和派系归属，而且会激怒所有的派系。</VPE_ReunionFarskip.description>
   <!--EN: reunion farskip-->
-  <VPE_ReunionFarskip.label>团聚法尔斯基普</VPE_ReunionFarskip.label>
+  <VPE_ReunionFarskip.label>血脉折跃</VPE_ReunionFarskip.label>
   <!--EN: Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma.-->
-  <VPE_ReverseEngineer.description>通过心灵操控一个物体或结构来了解它的历史和原理，并在此过程中消灭它。极其费力，导致施法者陷入暂时昏迷。</VPE_ReverseEngineer.description>
+  <VPE_ReverseEngineer.description>施放者专注于一个物品上，尝试解构出制造它所需要的知识。长时间的全神贯注会使施放者陷入12小时的昏迷。</VPE_ReverseEngineer.description>
   <!--EN: reverse engineer-->
-  <VPE_ReverseEngineer.label>逆向工程师</VPE_ReverseEngineer.label>
+  <VPE_ReverseEngineer.label>逆向工程</VPE_ReverseEngineer.label>
   <!--EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance.-->
-  <VPE_RockConstruct.description>将施法者的一部分神经耐热能力压缩成玄学晶体，然后植入到一块石块中。创建一个能够完成简单家务的构造。打破晶体可以恢复耐热性。</VPE_RockConstruct.description>
+  <VPE_RockConstruct.description>将施放者的少量心灵熵容量转化为形而上的水晶，并植入石块之中。造出的岩石构装体能完成简单的工作，当核心水晶被击毁后，所占用的心灵熵容量会返还。</VPE_RockConstruct.description>
   <!--EN: rock construct-->
-  <VPE_RockConstruct.label>岩石构造</VPE_RockConstruct.label>
+  <VPE_RockConstruct.label>岩石构装体</VPE_RockConstruct.label>
   <!--EN: Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year.-->
-  <VPE_SeasonTimeskip.description>将整个星球锁定在长达一个赛季的精神诱导减速中，有效地向前跳过一个赛季。近乎瞬时的效果，非常费力，使施法者陷入昏迷，并使其生物老化一整年。</VPE_SeasonTimeskip.description>
+  <VPE_SeasonTimeskip.description>将整个星球的时间冻结直到下一个季节的公转周期到来，主观来看就是瞬间跳到了下一个季节。如此高能的操作在瞬间完成，造成的压力会让施放者昏迷。</VPE_SeasonTimeskip.description>
   <!--EN: season timeskip-->
-  <VPE_SeasonTimeskip.label>季节跳跃</VPE_SeasonTimeskip.label>
+  <VPE_SeasonTimeskip.label>季节穿梭</VPE_SeasonTimeskip.label>
   <!--EN: Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster.-->
-  <VPE_SelfExplosion.description>从脚轮中排出立即点燃的加压易燃气体。很有可能点燃爆炸现场的物体，但在不伤害施法者的情况下造成的伤害很小。</VPE_SelfExplosion.description>
+  <VPE_SelfExplosion.description>展开一个环绕施放者的折跃门，将地下的可燃气体矿藏与之单向连接。燃烧的气体会高速向外脱出，尽管直接的伤害不多，但会将几乎所有东西点燃。</VPE_SelfExplosion.description>
   <!--EN: self explosion-->
-  <VPE_SelfExplosion.label>自爆</VPE_SelfExplosion.label>
+  <VPE_SelfExplosion.label>自我炎爆</VPE_SelfExplosion.label>
   <!--EN: Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level.-->
-  <VPE_ShadowFocus.description>发射吸收黑暗的粒子可以让施法者增强他们的心灵敏感度，其与当地的光照水平成反比。</VPE_ShadowFocus.description>
+  <VPE_ShadowFocus.description>释放出吸性暗粒子，强化施放者的心灵敏感度，环境越暗效果越好。</VPE_ShadowFocus.description>
   <!--EN: shadowfocus-->
-  <VPE_ShadowFocus.label>阴影焦点</VPE_ShadowFocus.label>
+  <VPE_ShadowFocus.label>暗影聚焦</VPE_ShadowFocus.label>
   <!--EN: Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location.-->
-  <VPE_Shadowskip.description>将施法者与自己的影子连接起来可以让他们将自己传送到黑暗的区域，即使他们看不到该位置。</VPE_Shadowskip.description>
+  <VPE_Shadowskip.description>将施放者与自己的影子相连，使其能瞬移到任何黑暗区域中，即便不在直接视线之内。</VPE_Shadowskip.description>
   <!--EN: shadowskip-->
-  <VPE_Shadowskip.label>跳过阴影</VPE_Shadowskip.label>
+  <VPE_Shadowskip.label>阴影折跃</VPE_Shadowskip.label>
   <!--EN: Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.-->
-  <VPE_ShieldAnimals.description>在范围内的所有群体动物上生成球形跳跃门，将所有传入和传出的地面射弹发送到某个遥远的地方。人和物品不受影响，持续时间随施法者的心灵敏感度而变化。</VPE_ShieldAnimals.description>
+  <VPE_ShieldAnimals.description>在所有殖民地动物身上生成一个球形的折跃区，将所有射入和射出的子弹都传送到遥远的地方。人员和物品的进出不受影响。持续时间取决于施放者的心灵敏感度。</VPE_ShieldAnimals.description>
   <!--EN: shield animals-->
-  <VPE_ShieldAnimals.label>盾牌动物</VPE_ShieldAnimals.label>
+  <VPE_ShieldAnimals.label>动物护盾</VPE_ShieldAnimals.label>
   <!--EN: Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity.-->
-  <VPE_Shrineshield.description>在自然神殿上生成一个球形跳跃门，将任何传入和传出的射弹（包括迫击炮 炮弹 发送到某个遥远的地方。人和物品不受影响，球体的大小取决于神殿的大小，而持续时间则随着施法者的心灵敏感度而变化。</VPE_Shrineshield.description>
+  <VPE_Shrineshield.description>在自然圣地上生成一个球形的折跃区，将所有射入和射出的子弹都传送到遥远的地方。人员和物品的进出不受影响。持续时间取决于施放者的心灵敏感度。护盾的尺寸取决于圣地的大小。</VPE_Shrineshield.description>
   <!--EN: shrineshield-->
-  <VPE_Shrineshield.label>神殿之盾</VPE_Shrineshield.label>
+  <VPE_Shrineshield.label>圣地护盾</VPE_Shrineshield.label>
   <!--EN: Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma.-->
-  <VPE_SkillRoll.description>开始改变目标的知识和积累的技能，试图通过一些有益的指导来重新平衡它们。压力使施法者陷入昏迷。</VPE_SkillRoll.description>
+  <VPE_SkillRoll.description>让目标的所有技能，在略微强化总体能力的情况下，以混沌的方法重新分配。剧烈的精神压力会让施放者昏迷一天，精神敏感度会减少昏迷时间。</VPE_SkillRoll.description>
   <!--EN: skillroll-->
-  <VPE_SkillRoll.label>技能卷</VPE_SkillRoll.label>
+  <VPE_SkillRoll.label>洗点</VPE_SkillRoll.label>
   <!--EN: Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action.-->
-  <VPE_Skip.description>将目标从起始点传送到所需位置，距离随施法者的心灵敏感度而变化。这被视为敌对行为。</VPE_Skip.description>
+  <VPE_Skip.description>将目标传送到离原点不远的特定位置。被视作敌意行为。</VPE_Skip.description>
   <!--EN: skip-->
-  <VPE_Skip.label>跳过</VPE_Skip.label>
+  <VPE_Skip.label>折跃</VPE_Skip.label>
   <!--EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse.-->
-  <VPE_Skipdoor.description>创建一个通向跳跃门网络的开口，该网络可以放置在任何永久存在的位置。该网络与一个群体的集体意识联系在一起，允许其他人使用它，不同的精神施法者可以添加它。然而，入口点对物理干扰很敏感，可能会导致它们倒塌。</VPE_Skipdoor.description>
+  <VPE_Skipdoor.description>在折跃网络上创造一个永久的开口，可以被放在任意处。折跃网络与一个集体潜意识绑定，让外人也可以使用并加入。然而开口本身是十分脆弱的，会被物理上的扰动摧毁。</VPE_Skipdoor.description>
   <!--EN: skipdoor-->
-  <VPE_Skipdoor.label>船门</VPE_Skipdoor.label>
+  <VPE_Skipdoor.label>折跃门</VPE_Skipdoor.label>
   <!--EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster.-->
-  <VPE_Skipshield.description>生成一个球形跳跃门，将所有传入和传出的地面射弹发送到某个遥远的地方。人员和物品不受影响。持续时间与施法者的心灵敏感度成正比。</VPE_Skipshield.description>
+  <VPE_Skipshield.description>生成一个球形的折跃区，将所有射入和射出的子弹都传送到遥远的地方。人员和物品的进出不受影响。</VPE_Skipshield.description>
   <!--EN: skipshield-->
-  <VPE_Skipshield.label>船盾</VPE_Skipshield.label>
+  <VPE_Skipshield.label>折跃护盾</VPE_Skipshield.label>
   <!--EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.-->
-  <VPE_Smokepop.description>将灰尘颗粒从地表下向上跳跃，形成厚厚的云。这会降低通过它发射的任何炮弹的准确性，并防止炮塔完全锁定。</VPE_Smokepop.description>
+  <VPE_Smokepop.description>折跃地下的灰尘颗粒扬起一团厚厚的烟雾，这会降低通过它发射的任何炮弹的精度，并防止被炮塔精确锁定。</VPE_Smokepop.description>
   <!--EN: smokepop-->
-  <VPE_Smokepop.label>烟气</VPE_Smokepop.label>
+  <VPE_Smokepop.label>烟雾</VPE_Smokepop.label>
   <!--EN: Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing.-->
-  <VPE_SnapFreeze.description>在一小块区域内的所有目标上方创建精神熵微粒和微型跳跃门，将它们包裹在冰中。受害者会出现体温过低的情况，但如果温度高于冰点，冰可能会过早融化。</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.description>将联向地下含水层的折跃门和一片灵能负熵云结合，将区域内的所有目标冻结在冰内。目标会持续遭受低温，但若温度在冰点以上，则冰会加速融化。</VPE_SnapFreeze.description>
   <!--EN: snap freeze-->
-  <VPE_SnapFreeze.label>快速冻结</VPE_SnapFreeze.label>
+  <VPE_SnapFreeze.label>瞬间冻结</VPE_SnapFreeze.label>
   <!--EN: Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.-->
-  <VPE_SolarPinhole.description>生成一个与附近恒星核心相连的微观跳跃门，持续几天。太阳能物质通过时空中的针孔泄漏，照亮并温暖周围区域，直到它关闭。光线足以工作，但不足以种植植物。</VPE_SolarPinhole.description>
+  <VPE_SolarPinhole.description>产生一个与附近恒星相连的微小折跃门。太阳物质在时空中穿过碎片，直到它关闭之前照亮并加热周围的区域。这个亮度足以让你照常工作，但是还不足以供应植物生长。</VPE_SolarPinhole.description>
   <!--EN: solar pinhole-->
-  <VPE_SolarPinhole.label>太阳能针孔</VPE_SolarPinhole.label>
+  <VPE_SolarPinhole.label>太阳碎片</VPE_SolarPinhole.label>
   <!--EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females.-->
-  <VPE_SootheFemale.description>向远处的幸福引擎发出信号，开始投射积极的心灵无人机，同时还操纵一个仅影响女性的轨道放大器。</VPE_SootheFemale.description>
+  <VPE_SootheFemale.description>对一个遥远的超凡科技装置发送信号，使其对殖民地投射能让人平静和安定的心灵信号。配对的轨道放大器只会影响女性。</VPE_SootheFemale.description>
   <!--EN: psychic sooth (female)-->
-  <VPE_SootheFemale.label>心灵抚慰（女）</VPE_SootheFemale.label>
+  <VPE_SootheFemale.label>心灵抚慰（女性）</VPE_SootheFemale.label>
   <!--EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males.-->
-  <VPE_SootheMale.description>向远处的幸福引擎发出信号，开始投射积极的心灵无人机，同时还操纵一个仅影响男性的轨道放大器。</VPE_SootheMale.description>
+  <VPE_SootheMale.description>对一个遥远的超凡科技装置发送信号，使其对殖民地投射能让人平静和安定的心灵信号。配对的轨道放大器只会影响男性。</VPE_SootheMale.description>
   <!--EN: psychic sooth (male)-->
-  <VPE_SootheMale.label>心灵抚慰（男）</VPE_SootheMale.label>
+  <VPE_SootheMale.label>心灵抚慰（男性）</VPE_SootheMale.label>
   <!--EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.-->
-  <VPE_SpeedBoost.description>从精神上增强施法者腿部的肌肉发达的角色。纤维、韧带和关节，根据他们的精神敏感性，将他们的移动速度提高三倍，持续大约两分钟。</VPE_SpeedBoost.description>
+  <VPE_SpeedBoost.description>用灵能强化腿部的肌肉纤维，肌腱和关节，使施放者的移动速度达到3倍，具体时间取决于施放者的心灵敏感度。</VPE_SpeedBoost.description>
   <!--EN: speedboost-->
-  <VPE_SpeedBoost.label>加速</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.label>疾跑</VPE_SpeedBoost.label>
   <!--EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster.-->
-  <VPE_Stabilize.description>暂时使目标的心血管系统处于停滞状态，这可以防止他们在一段时间内失血，并随着施法者的精神敏感性而缩放。</VPE_Stabilize.description>
+  <VPE_Stabilize.description>暂时将目标的心血管系统收紧，使其在两分钟内不会失血。</VPE_Stabilize.description>
   <!--EN: stabilize-->
-  <VPE_Stabilize.label>稳定</VPE_Stabilize.label>
+  <VPE_Stabilize.label>止血</VPE_Stabilize.label>
   <!--EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects.-->
-  <VPE_StaticAura.description>施法者指定一个附近的目标来接收汹涌电流的光环，这将对他们接近的任何异物造成电磁脉冲效果，包括建筑物、棋子和带电物体。</VPE_StaticAura.description>
+  <VPE_StaticAura.description>施放者赋予一个附近目标一个充斥着电力的光环，会对所有附近的目标施加EMP伤害，包括建筑，人员和电器。</VPE_StaticAura.description>
   <!--EN: static aura-->
-  <VPE_StaticAura.label>静态光环</VPE_StaticAura.label>
+  <VPE_StaticAura.label>静电光环</VPE_StaticAura.label>
   <!--EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless.-->
-  <VPE_StaticPulse.description>施法者向周围空气释放大量电压，在大范围内造成电磁脉冲爆炸，否则不会造成任何伤害。</VPE_StaticPulse.description>
+  <VPE_StaticPulse.description>施放者将大量高压电输入周围的空气，造成大范围的EMP爆炸。</VPE_StaticPulse.description>
   <!--EN: static pulse-->
-  <VPE_StaticPulse.label>静态脉冲</VPE_StaticPulse.label>
+  <VPE_StaticPulse.label>静电脉冲</VPE_StaticPulse.label>
   <!--EN: Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action.-->
-  <VPE_StealVitality.description>从附近的源头吸取生命力，将目标的自然治疗因子、移动速度和意识转移给施法者一整天。被认为是明显的敌对行为。</VPE_StealVitality.description>
+  <VPE_StealVitality.description>从附近的目标身上汲取生命力，获得部分目标的自然治愈系数，移动能力和意识。被视作敌对行为。</VPE_StealVitality.description>
   <!--EN: steal vitality-->
-  <VPE_StealVitality.label>窃取活力</VPE_StealVitality.label>
+  <VPE_StealVitality.label>活力虹吸</VPE_StealVitality.label>
   <!--EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance.-->
-  <VPE_SteelConstruct.description>将施法者的一部分神经耐热能力压缩成玄学晶体，然后植入到钢渣中。创建一个保护施法者的构造体。打破晶体可以恢复耐热性。</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.description>将施放者的少量心灵熵容量转化为形而上的水晶，并植入金属块之中。造出的钢铁构装体会跟随并贴身保护施放者，当核心水晶被击毁后，所占用的心灵熵容量会返还。</VPE_SteelConstruct.description>
   <!--EN: steel construct-->
-  <VPE_SteelConstruct.label>钢结构</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.label>钢铁构装体</VPE_SteelConstruct.label>
   <!--EN: Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action.-->
-  <VPE_Stun.description>暂时扰乱目标大脑的运动功能，阻止任何运动。这持续几秒钟，被视为敌对行为。</VPE_Stun.description>
+  <VPE_Stun.description>瞬间扰乱目标大脑的运动中枢，使其麻痹无法行动。</VPE_Stun.description>
   <!--EN: stun-->
-  <VPE_Stun.label>击晕</VPE_Stun.label>
+  <VPE_Stun.label>麻痹</VPE_Stun.label>
   <!--EN: Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity.-->
-  <VPE_SummonPack.description>向该地区发射生命力脉冲，引发对保卫殖民地的众多动物的领地狩猎攻击。一旦所有入侵者被击败，动物们就会回到自己的家园。召唤生物的相对强度受到施法者心灵敏感度的影响。</VPE_SummonPack.description>
+  <VPE_SummonPack.description>向周围地区发送生命力脉冲，引发区域性的猎杀人类冲动，召唤大量动物前来保卫殖民地。所有入侵者被击败后，召唤的动物会各回各家。脉冲的影响距离和召唤到动物的强度取决于施放者的心灵敏感度。</VPE_SummonPack.description>
   <!--EN: summon pack-->
-  <VPE_SummonPack.label>召唤包</VPE_SummonPack.label>
+  <VPE_SummonPack.label>召唤兽群</VPE_SummonPack.label>
   <!--EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells.-->
-  <VPE_Thunderbolt.description>召唤一道闪电攻击目标，直接击中会造成灼伤，并造成更大范围的电磁脉冲伤害。冲击半径随着施法者的心灵敏感度而变化，最多可达 12 个细胞。</VPE_Thunderbolt.description>
+  <VPE_Thunderbolt.description>召唤一束闪电攻击目标，造成烧伤和大范围的EMP伤害。</VPE_Thunderbolt.description>
   <!--EN: thunderbolt-->
-  <VPE_Thunderbolt.label>霹雳</VPE_Thunderbolt.label>
+  <VPE_Thunderbolt.label>雷击</VPE_Thunderbolt.label>
   <!--EN: Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma.-->
-  <VPE_TimeReversal.description>低效地将生命力吸取到活着的目标上，使施法者衰老 5 年，使另一个衰老 10 岁。具有最低年龄，消除与年龄相关的惩罚并使施法者陷入昏迷。</VPE_TimeReversal.description>
+  <VPE_TimeReversal.description>用效率十分低下的方式给予目标生命，以施放者年老5岁为代价让目标年轻10岁。最低降到16岁，会移除老年的健康问题并让施放者陷入昏迷。</VPE_TimeReversal.description>
   <!--EN: time reversal-->
-  <VPE_TimeReversal.label>时间逆转</VPE_TimeReversal.label>
+  <VPE_TimeReversal.label>时光倒流</VPE_TimeReversal.label>
   <!--EN: Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress.-->
-  <VPE_TimeSphere.description>从精神上压缩一个区域的时间流动。生物迅速衰老，植物繁茂又枯萎，建筑物因奇异的压力而开始瓦解。</VPE_TimeSphere.description>
+  <VPE_TimeSphere.description>让指定范围内的时光高速流逝，其中的生命会快速衰老，植物会瞬间成熟并随后枯萎，建筑结构也会加速老化。</VPE_TimeSphere.description>
   <!--EN: time sphere-->
-  <VPE_TimeSphere.label>时间范围</VPE_TimeSphere.label>
+  <VPE_TimeSphere.label>时光消逝</VPE_TimeSphere.label>
   <!--EN: Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.-->
-  <VPE_Timequake.description>找到精神场中的不连续性并压缩它，释放出巨大的时间扰动。范围内但安全内圈之外的所有生物都会经历快速衰老，并且结构会扭曲。施法需要20秒的冥想，之后施法者会进入精神昏迷状态。令人不安的时震回声将对方圆数公里内的每个人造成痛苦，对所有派系造成外交后果。</VPE_Timequake.description>
+  <VPE_Timequake.description>在精神域场中找到一个不连续的地方，展开它，释放出大量的精神能量。在安全的内圈之外的每一个生物都会快速衰老，建筑结构同样会老化。施放这个能力需要20秒的冥想，之后，施法者将进入五天的精神昏迷。令人不安的时空震荡回声将给周围数公里内的人带来痛苦，并且对所有派系产生外交影响。</VPE_Timequake.description>
   <!--EN: timequake-->
-  <VPE_Timequake.label>时震</VPE_Timequake.label>
+  <VPE_Timequake.label>时空震颤</VPE_Timequake.label>
   <!--EN: If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake?-->
-  <VPE_Timequake.modExtensions.2.message>如果您使用时震，该地区的每个人都会感受到时震回响，您将失去与每个非敌对派系的好感。
-
-时震施放需要20秒，并且无法被打断。完成后，施法者将陷入精神昏迷长达 5 天。
-
-除了施法者周围小圈子内的所有人都会受到影响。
-
-你真的要施放时震吗？</VPE_Timequake.modExtensions.2.message>
+  <VPE_Timequake.modExtensions.2.message>如果你使用时空震颤，这个地区的所有人都会感受到“时空震颤”的回响，你将失去与所有非敌对派系的部分好感。\n\n时空震颤需要20秒的释放时间，并且不能被打断。完成后，施法者也会进入心灵休克数天。\n\n地图上除了施法者周围一个小范围的人之外，其他人都会受到影响。\n\n你真的要释放时空震颤吗？</VPE_Timequake.modExtensions.2.message>
   <!--EN: Puts the caster into a self-inflicted coma as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years.-->
-  <VPE_TimeskipMeditation.description>使施法者陷入自我造成的昏迷，因为他们为下一个心理施法等级获得了大量经验并重新获得完全的精神焦点。使施法者生理老化五年。</VPE_TimeskipMeditation.description>
+  <VPE_TimeskipMeditation.description>施放者在时间加快的冥想中获得大量经验并回满精神力，会令施放者的生物年龄增长5岁。</VPE_TimeskipMeditation.description>
   <!--EN: timeskip meditation-->
-  <VPE_TimeskipMeditation.label>时光跳跃冥想</VPE_TimeskipMeditation.label>
+  <VPE_TimeskipMeditation.label>高速冥想</VPE_TimeskipMeditation.label>
   <!--EN: Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable.-->
-  <VPE_Transmutation.description>通过等价交换法则，将目标（一堆）item(s)转换为同等或更低价值的物品。完全不可预测。</VPE_Transmutation.description>
+  <VPE_Transmutation.description>使用等价交换的炼金法则，将一个物品转化成另一个，或一组价值小于等于原本的物品。</VPE_Transmutation.description>
   <!--EN: transmutation-->
-  <VPE_Transmutation.label>嬗变</VPE_Transmutation.label>
+  <VPE_Transmutation.label>物质嬗变</VPE_Transmutation.label>
   <!--EN: Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata.-->
-  <VPE_TransmuteStone.description>指定一块石头区域，其矿物将被替换为地下地层中的单一随机类型。</VPE_TransmuteStone.description>
+  <VPE_TransmuteStone.description>将一片区域内的石质转化成另一种随机种类的石头。</VPE_TransmuteStone.description>
   <!--EN: transmute stone-->
-  <VPE_TransmuteStone.label>转化石</VPE_TransmuteStone.label>
+  <VPE_TransmuteStone.label>石质转化</VPE_TransmuteStone.label>
   <!--EN: Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles.-->
-  <VPE_TreeSprout.description>为肥沃的地区注入强大的生命能量，使其发芽生长完全成熟的本土树木。有效半径随心灵敏感度变化，最多可达 8 格。</VPE_TreeSprout.description>
+  <VPE_TreeSprout.description>将活跃的生命能量注入一大批足够肥沃的土地，生成一片成年的橡树。</VPE_TreeSprout.description>
   <!--EN: tree sprout-->
-  <VPE_TreeSprout.label>树发芽</VPE_TreeSprout.label>
+  <VPE_TreeSprout.label>树木暴生</VPE_TreeSprout.label>
   <!--EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center.-->
-  <VPE_Vortex.description>在目标区域显现出张开高压电涡流 - 通过星云风暴的跳跃门重定向 - 在目标区域产生巨大影响。严重阻碍移动和按比例进行操作，在中心效果最强。</VPE_Vortex.description>
+  <VPE_Vortex.description>从星云风暴中折跃过来一个暴涨的高压电漩涡。受影响的目标的移动能力和操作能力会严重下降，越靠近中央越甚。</VPE_Vortex.description>
   <!--EN: vortex-->
-  <VPE_Vortex.label>涡流</VPE_Vortex.label>
+  <VPE_Vortex.label>电力漩涡</VPE_Vortex.label>
   <!--EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours.-->
-  <VPE_Wallraise.description>从地下深处挖出瓦砾和泥土，形成临时墙。射程不错，可以在几个小时内阻挡视线和移动。</VPE_Wallraise.description>
+  <VPE_Wallraise.description>移动地下深处的碎石和泥土，形成一道临时的墙壁。</VPE_Wallraise.description>
   <!--EN: wall raise-->
-  <VPE_Wallraise.label>墙抬高</VPE_Wallraise.label>
+  <VPE_Wallraise.label>升壁</VPE_Wallraise.label>
   <!--EN: Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity.-->
-  <VPE_Waterskip.description>将目标浸入水中，灭火并短路所有电气结构。从考古技术上来说，水是从遥远的水体或地下蓄水层中跳过的，跳过的量与心灵的敏感性成比例。</VPE_Waterskip.description>
+  <VPE_Waterskip.description>将目标区域浸入水中，扑灭火焰。从技术上说，水是通过超凡方式从遥远的水源或者是地下水层中传送出来的。</VPE_Waterskip.description>
   <!--EN: waterskip-->
-  <VPE_Waterskip.label>水船</VPE_Waterskip.label>
+  <VPE_Waterskip.label>水传送</VPE_Waterskip.label>
   <!--EN: Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity.-->
-  <VPE_WordofAlliance.description>利用心灵暗示，对亲近的目标说出友谊和好处的话，劝说他们改善关系。对敌意和具有高心灵敏感性的鳞片无效。</VPE_WordofAlliance.description>
+  <VPE_WordofAlliance.description>对附近一个其它派系的人释放，用大量关于团结友爱的话语间加上心灵暗示影响对方，让其对你的派系产生亲切感。对方必须有聆听的意愿，受到施放者心灵敏感度影响。</VPE_WordofAlliance.description>
   <!--EN: word of alliance-->
-  <VPE_WordofAlliance.label>联盟的话</VPE_WordofAlliance.label>
+  <VPE_WordofAlliance.label>团结之语</VPE_WordofAlliance.label>
   <!--EN: Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter.-->
-  <VPE_WordofAnimals.description>使用心灵暗示安抚动物，要么安抚正在狩猎的动物，要么驯服它们。根据施法者的心灵敏感度和动物的体型，心灵施法可能会适得其反，使动物变成猎手。</VPE_WordofAnimals.description>
+  <VPE_WordofAnimals.description>用心灵暗示抚慰动物，能安抚猎杀人类的动物或是即刻驯化。</VPE_WordofAnimals.description>
   <!--EN: word of animals-->
-  <VPE_WordofAnimals.label>动物的词</VPE_WordofAnimals.label>
+  <VPE_WordofAnimals.label>动物之语</VPE_WordofAnimals.label>
   <!--EN: Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action.-->
-  <VPE_WordofFear.description>通过使飞行反应系统超载，持续时间与他们的心灵敏感度成正比，从而引发恐慌。被视为敌对行为。</VPE_WordofFear.description>
+  <VPE_WordofFear.description>刺激过载目标的逃跑反应，使其惊慌失措。被视作敌意行为。</VPE_WordofFear.description>
   <!--EN: word of fear-->
-  <VPE_WordofFear.label>恐惧的话</VPE_WordofFear.label>
+  <VPE_WordofFear.label>恐惧之语</VPE_WordofFear.label>
   <!--EN: Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year.-->
-  <VPE_WordofForetelling.description>即将发生的事情的心灵低语。殖民地棋子受到鼓舞，中立者或友军改善关系，囚犯失去抵抗力，敌人从厄运中撤退。使施法者生理老化一整年。</VPE_WordofForetelling.description>
+  <VPE_WordofForetelling.description>用灵能诉说即将到来之事。对殖民者施放会激发灵感，对其它派系施放会增加好感，对囚犯施放会减弱抵抗，对敌人施放会令其逃离命定的死亡。</VPE_WordofForetelling.description>
   <!--EN: word of foretelling-->
-  <VPE_WordofForetelling.label>预示的话</VPE_WordofForetelling.label>
+  <VPE_WordofForetelling.label>预言之语</VPE_WordofForetelling.label>
   <!--EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days.-->
-  <VPE_WordofHealing.description>从精神上刺激一个人的再生能力，使其超速运转，在几天内有效地将其自然愈合因子提高两倍。</VPE_WordofHealing.description>
+  <VPE_WordofHealing.description>用灵能刺激过载目标的再生能力，在数天内将目标的自然治愈系数提升至三倍。</VPE_WordofHealing.description>
   <!--EN: word of healing-->
-  <VPE_WordofHealing.label>治愈的话</VPE_WordofHealing.label>
+  <VPE_WordofHealing.label>痊愈之语</VPE_WordofHealing.label>
   <!--EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days.-->
-  <VPE_WordofImmunity.description>从精神上刺激一个人的免疫系统进入超速状态，在几天内有效地将其免疫增益速度几乎加倍。</VPE_WordofImmunity.description>
+  <VPE_WordofImmunity.description>用灵能刺激过载目标的免疫系统，在数天内将目标的免疫速度提升至三倍。</VPE_WordofImmunity.description>
   <!--EN: word of immunity-->
-  <VPE_WordofImmunity.label>免疫的词</VPE_WordofImmunity.label>
+  <VPE_WordofImmunity.label>免疫之语</VPE_WordofImmunity.label>
   <!--EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.-->
-  <VPE_WordofInspiration.description>说出鼓励创造力的话语，同时用新想法在精神上为目标的大脑注入活力。目标将体验到适合他们的随机灵感。</VPE_WordofInspiration.description>
+  <VPE_WordofInspiration.description>通过鼓励的话传递心灵能量，使目标的精神受到启发。目标将获得一个适合的随机灵感。</VPE_WordofInspiration.description>
   <!--EN: word of inspiration-->
-  <VPE_WordofInspiration.label>灵感之言</VPE_WordofInspiration.label>
+  <VPE_WordofInspiration.label>启迪之语</VPE_WordofInspiration.label>
   <!--EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.-->
-  <VPE_WordofJoy.description>向某人说出快乐、平静的话语，同时使用心灵暗示在他的脑海中植入欢乐循环。 Joyfuzz 会抑制目标中不舒服的想法和感觉，以改善情绪。这样做的副作用是感觉和决策迟钝，从而降低意识。</VPE_WordofJoy.description>
+  <VPE_WordofJoy.description>通过快乐平静的话语传递心灵能量，同时用心灵暗示在目标脑中植入一个欢欣暗示。欢欣暗示会抑制目标不愉快的想法以改善情绪。这样做的副作用是使人感觉迟钝而降低意识。</VPE_WordofJoy.description>
   <!--EN: word of joy-->
-  <VPE_WordofJoy.label>喜悦之词</VPE_WordofJoy.label>
+  <VPE_WordofJoy.label>欢欣之语</VPE_WordofJoy.label>
   <!--EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.-->
-  <VPE_WordofLove.description>谈论某人的浪漫美德，同时使用心灵暗示向听众植入浪漫的欲望。在接下来的几天里，听者会感受到对方在精神上产生的浪漫吸引力。这极大地增加了舆论，并使他们更有可能在有机会时尝试浪漫的求婚和求婚。这种力量可以用来连接另外两个人，引发对施法者的爱，或者强迫自己去爱另一个人。</VPE_WordofLove.description>
+  <VPE_WordofLove.description>谈论关于某人的浪漫同时并使用心理暗示向听者灌输浪漫的欲望。在接下来的几天里，听者会感觉到心灵感应的浪漫中另一个人产生的吸引力。这大大增强了他们的看法，使他们更有可能在有机会的情况下表达爱意。这个心灵能力可以用来链接另外两人，诱导对施法者的爱，甚至诱导自己爱上别人。</VPE_WordofLove.description>
   <!--EN: word of love-->
-  <VPE_WordofLove.label>爱的话语</VPE_WordofLove.label>
+  <VPE_WordofLove.label>迷爱之语</VPE_WordofLove.label>
   <!--EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity.-->
-  <VPE_WordofPain.description>在目标的大脑的疼痛中心诱发噪音，并过度刺激他们的神经末梢，随着他们的心灵敏感性而缩放。</VPE_WordofPain.description>
+  <VPE_WordofPain.description>在目标们大脑的痛觉中心引起心灵杂音并过度激化他们的神经末梢。受到心灵敏感度影响。</VPE_WordofPain.description>
   <!--EN: word of pain-->
-  <VPE_WordofPain.label>痛苦的话</VPE_WordofPain.label>
+  <VPE_WordofPain.label>痛苦之语</VPE_WordofPain.label>
   <!--EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity.-->
-  <VPE_WordofProductivity.description>使用激励性的话语来大大促进新陈代谢，可以使被感动的目标在接下来的几天里成为社会中更有生产力的成员。被认为是敌对行为和持续时间受目标的心灵敏感性影响。</VPE_WordofProductivity.description>
+  <VPE_WordofProductivity.description>对目标灌输鼓动的话语，同时强化对方的新陈代谢，让受到触动的人在几天内更加勤劳。该行为会被目标反感，持续时间受到目标心灵敏感度影响。</VPE_WordofProductivity.description>
   <!--EN: word of productivity-->
-  <VPE_WordofProductivity.label>生产力一词</VPE_WordofProductivity.label>
+  <VPE_WordofProductivity.label>勤劳之语</VPE_WordofProductivity.label>
   <!--EN: Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity.-->
-  <VPE_WordofProgress.description>说出鼓励解决问题能力的话语，同时以敏锐的洞察力在精神上增强目标的思维。目标将在 5 天内经历双倍的研究速度和智力技能增益，并随他们的心灵敏感度而变化。</VPE_WordofProgress.description>
+  <VPE_WordofProgress.description>在口头上鼓励理性工作的同时用灵能强化目标脑中的洞察力。目标会在接下来的5天中拥有双倍的研究速度和智识增长，具体持续时间取决于施放者的心灵敏感度。</VPE_WordofProgress.description>
   <!--EN: word of progress-->
-  <VPE_WordofProgress.label>进步的话</VPE_WordofProgress.label>
+  <VPE_WordofProgress.label>进步之语</VPE_WordofProgress.label>
   <!--EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity.-->
-  <VPE_WordofProtection.description>使用和谐的心灵噪音，从物理上改变目标的身体，使其更耐用、更能抵抗伤害。持续很长时间，并随着施法者的心灵敏感度而变化。</VPE_WordofProtection.description>
+  <VPE_WordofProtection.description>使用心灵杂音的谐振，强化目标的身体使其更加耐打。持续时间受到施放者心灵敏感度影响。</VPE_WordofProtection.description>
   <!--EN: word of protection-->
-  <VPE_WordofProtection.label>保护词</VPE_WordofProtection.label>
+  <VPE_WordofProtection.label>守护之语</VPE_WordofProtection.label>
   <!--EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.-->
-  <VPE_WordofSerenity.description>使用平静的言语和心灵暗示来结束人或动物的精神崩溃。目标将陷入短暂的心灵睡眠。精神焦点消耗取决于目标精神崩溃的强度。</VPE_WordofSerenity.description>
+  <VPE_WordofSerenity.description>通过平静的话语和心理暗示来结束人或动物的精神崩溃状态。目标会进入短暂的心灵沉睡。精神力的代价取决于目标的精神崩溃强度。</VPE_WordofSerenity.description>
   <!--EN: word of serenity-->
-  <VPE_WordofSerenity.label>平静的话</VPE_WordofSerenity.label>
+  <VPE_WordofSerenity.label>宁神之语</VPE_WordofSerenity.label>
   <!--EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him.-->
-  <VPE_WordofTrust.description>与囚犯交谈，同时使用心灵暗示来减少他对招募的抵制。这种灵能术只能降低囚犯的抵抗力，但不能招募囚犯。</VPE_WordofTrust.description>
+  <VPE_WordofTrust.description>与囚犯交谈，同时使用心理暗示来降低他对招募的抵抗情绪。这个心灵能力只能降低囚犯的抵抗，并不能招募他。</VPE_WordofTrust.description>
   <!--EN: word of trust-->
-  <VPE_WordofTrust.label>信任之词</VPE_WordofTrust.label>
+  <VPE_WordofTrust.label>信赖之语</VPE_WordofTrust.label>
 </LanguageData>

@@ -1,151 +1,151 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Limited flight that allows this colonist to hop and glide small distances over terrain. They will ignore terrain movement costs when moving.-->
-  <VREInsector_Hover.description>有限的飞行能力使该殖民者能够在地形上跳跃和滑行小距离。他们在移动时会忽略地形移动成本。</VREInsector_Hover.description>
+  <VREInsector_Hover.description>背后的翅膀使此人能以更快的速度移动，且不会受到地形带来的移动速度惩罚。</VREInsector_Hover.description>
   <!--EN: glide-->
-  <VREInsector_Hover.label>滑行</VREInsector_Hover.label>
+  <VREInsector_Hover.label>滑翔</VREInsector_Hover.label>
   <!--EN: After being ready to do a chestburst implantation, the person with the chestburst pregnancy gene goes through a short period of sterility till they are capable of producing another. This is only a temporary condition and causes no long term effects.-->
-  <VREInsector_TempSterile.description>在准备好进行胸爆植入后，带有胸爆怀孕基因的人会经历一段短暂的不育期，直到他们能够生育另一个。这只是暂时的情况，不会造成长期影响。</VREInsector_TempSterile.description>
+  <VREInsector_TempSterile.description>在准备好进行破胸胎儿植入后，此人会暂时陷入无法生育的疲劳期，需要一定的时间来恢复。不会造成长期伤害。</VREInsector_TempSterile.description>
   <!--EN: chestburst implantation fatigue-->
-  <VREInsector_TempSterile.label>胸爆着床疲劳</VREInsector_TempSterile.label>
+  <VREInsector_TempSterile.label>不育疲劳期</VREInsector_TempSterile.label>
   <!--EN: This person has a highly concentrated toxin in their blood. When bleeding, they emit large amounts of tox gas, and upon death, their gear will be destroyed by acid.-->
-  <VRE_AcidBlood.description>此人的血液中有高度浓缩的毒素。当流血时，他们会释放出大量的毒气，死亡后，他们的装备会被酸破坏。</VRE_AcidBlood.description>
+  <VRE_AcidBlood.description>这种基因的携带者血液中蕴含剧毒。当他们流血时会释放大量毒气，且死亡后会像质溶器一样溶解与身体接触的装备。</VRE_AcidBlood.description>
   <!--EN: acid blood-->
-  <VRE_AcidBlood.label>酸血</VRE_AcidBlood.label>
+  <VRE_AcidBlood.label>酸毒血液</VRE_AcidBlood.label>
   <!--EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated.-->
-  <VRE_ChestburstPregnancyHediff.description>当带有胸爆怀孕基因的殖民者成为怀孕时，他们需要指定另一个愿意或不愿意的个体来植入胎儿。一旦胎儿成熟，它就会从受害者的胸腔中冲出，杀死宿主。如果他们在妊娠中期开始（6 天）之前不这样做，妊娠将被终止。</VRE_ChestburstPregnancyHediff.description>
+  <VRE_ChestburstPregnancyHediff.description>此人在拥有“破胸妊娠”基因的情况下怀孕，需要将胎儿植入其他生物体内。当胎儿发育完全后，便会从胸口处破体而出，被植入者将在痛苦中死去。如果胎儿长时间未被植入（6天），则此状态会自动终止。</VRE_ChestburstPregnancyHediff.description>
   <!--EN: chestburst pregnancy needs implantation-->
-  <VRE_ChestburstPregnancyHediff.label>胸爆怀孕需要着床</VRE_ChestburstPregnancyHediff.label>
+  <VRE_ChestburstPregnancyHediff.label>破胸胎儿（待植入）</VRE_ChestburstPregnancyHediff.label>
   <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days.-->
-  <VRE_ChestburstPregnancy_Victim.description>受怀孕胸爆的影响。如果植入进展到严重程度1，或者如果生物在足够先进时死亡（超过90%），胎儿将从内部吞噬受害者并从其尸体中孵化。妊娠时间为15天。</VRE_ChestburstPregnancy_Victim.description>
+  <VRE_ChestburstPregnancy_Victim.description>此单位体内已被植入了破胸胎儿。如果胎儿的妊娠进度达到100%，或此单位在妊娠进度达到90%以上时死亡，胎儿便会从胸口处破体而出。胎儿发育完全需要15天。</VRE_ChestburstPregnancy_Victim.description>
   <!--EN: chestburst pregnancy-->
-  <VRE_ChestburstPregnancy_Victim.label>怀孕胸爆</VRE_ChestburstPregnancy_Victim.label>
+  <VRE_ChestburstPregnancy_Victim.label>破胸胎儿</VRE_ChestburstPregnancy_Victim.label>
   <!--EN: egg-->
-  <VRE_ChestburstPregnancy_Victim.stages.0.label>蛋</VRE_ChestburstPregnancy_Victim.stages.0.label>
+  <VRE_ChestburstPregnancy_Victim.stages.0.label>卵</VRE_ChestburstPregnancy_Victim.stages.0.label>
   <!--EN: larva-->
-  <VRE_ChestburstPregnancy_Victim.stages.1.label>幼虫</VRE_ChestburstPregnancy_Victim.stages.1.label>
+  <VRE_ChestburstPregnancy_Victim.stages.1.label>成体</VRE_ChestburstPregnancy_Victim.stages.1.label>
   <!--EN: pupa-->
-  <VRE_ChestburstPregnancy_Victim.stages.2.label>蛹</VRE_ChestburstPregnancy_Victim.stages.2.label>
+  <VRE_ChestburstPregnancy_Victim.stages.2.label>幼体</VRE_ChestburstPregnancy_Victim.stages.2.label>
   <!--EN: juvenile-->
-  <VRE_ChestburstPregnancy_Victim.stages.3.label>少年</VRE_ChestburstPregnancy_Victim.stages.3.label>
+  <VRE_ChestburstPregnancy_Victim.stages.3.label>结蛹</VRE_ChestburstPregnancy_Victim.stages.3.label>
   <!--EN: Affected by a chestburst pregnancy. If the implantation advances to severity 1, or if the creature dies when it is sufficiently advanced (more than 90%), the fetus will devour the victim from inside and hatch from its corpse. Gestation time is 15 days. This chestburst pregnancy is too advanced to remove surgically.-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.description>受怀孕胸爆的影响。如果植入进展到严重程度1，或者如果生物在足够先进时死亡（超过90%），胎儿将从内部吞噬受害者并从其尸体中孵化。妊娠时间为15天。这种胸部爆裂的妊娠已经是晚期，无法通过手术切除。</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>此单位体内已被植入了破胸胎儿。如果胎儿的妊娠进度达到100%，或此单位在妊娠进度达到90%以上时死亡，胎儿便会从胸口处破体而出。胎儿发育完全需要15天。\n\n由于已发育到中晚期阶段，破胸胎儿现在无法通过手术移除了。</VRE_ChestburstPregnancy_Victim_Hidden.description>
   <!--EN: chestburst pregnancy-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.label>怀孕胸爆</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>破胸胎儿</VRE_ChestburstPregnancy_Victim_Hidden.label>
   <!--EN: egg-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>蛋</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>卵</VRE_ChestburstPregnancy_Victim_Hidden.stages.0.label>
   <!--EN: larva-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>幼虫</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>成体</VRE_ChestburstPregnancy_Victim_Hidden.stages.1.label>
   <!--EN: pupa-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>蛹</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>幼体</VRE_ChestburstPregnancy_Victim_Hidden.stages.2.label>
   <!--EN: juvenile-->
-  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>少年</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>结蛹</VRE_ChestburstPregnancy_Victim_Hidden.stages.3.label>
   <!--EN: This person has reduced activity and aggression and spend most of their time in a dormant state. Metabolism of such an individual is also reduced, allowing them to consume less nutrition to keep themselves alive.-->
-  <VRE_Dormant.description>此人的活动和攻击性减少，大部分时间都处于休眠状态。这样的人的新陈代谢也会减少，使他们能够消耗更少的营养来维持生命。</VRE_Dormant.description>
+  <VRE_Dormant.description>这种基因的携带者大部分时间都处于“蛰眠”状态。他们变得不再活跃和好斗，陷入精神崩溃时也必定为非暴力类型。他们的新陈代谢比正常人更慢，所需进食量也相应降低了。</VRE_Dormant.description>
   <!--EN: dormant-->
-  <VRE_Dormant.label>休眠的</VRE_Dormant.label>
+  <VRE_Dormant.label>蛰眠</VRE_Dormant.label>
   <!--EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim can produce heat shock proteins in response to high temperatures, which will prevent them from dying but will make them require more nutrition. Recovery is quick once in a cool area.-->
-  <VRE_HeatshockHediff.description>由于过度暴露在高温和阳光下而导致的身体机能普遍受到破坏。受害者可以在高温下产生热休克蛋白，这将防止他们死亡，但会使他们需要更多的营养。一旦进入凉爽的地方，恢复就会很快。</VRE_HeatshockHediff.description>
+  <VRE_HeatshockHediff.description>长时间暴露于高温和日晒的环境下导致的患者体内温度平衡失调状态。此时的患者会合成一种特殊的热休克蛋白，使其可以在最为酷热的环境中生存和活动，但所需进食量也相应增加了。热休克会在患者进入凉快的地方后随着时间的推移自然恢复。</VRE_HeatshockHediff.description>
   <!--EN: heatshock-->
   <VRE_HeatshockHediff.label>热休克</VRE_HeatshockHediff.label>
   <!--EN: initial-->
-  <VRE_HeatshockHediff.stages.0.label>最初的</VRE_HeatshockHediff.stages.0.label>
+  <VRE_HeatshockHediff.stages.0.label>中等</VRE_HeatshockHediff.stages.0.label>
   <!--EN: initial-->
-  <VRE_HeatshockHediff.stages.1.label>最初的</VRE_HeatshockHediff.stages.1.label>
+  <VRE_HeatshockHediff.stages.1.label>极重</VRE_HeatshockHediff.stages.1.label>
   <!--EN: minor-->
-  <VRE_HeatshockHediff.stages.2.label>次要的</VRE_HeatshockHediff.stages.2.label>
+  <VRE_HeatshockHediff.stages.2.label>轻微</VRE_HeatshockHediff.stages.2.label>
   <!--EN: serious-->
-  <VRE_HeatshockHediff.stages.3.label>严肃的</VRE_HeatshockHediff.stages.3.label>
+  <VRE_HeatshockHediff.stages.3.label>较轻</VRE_HeatshockHediff.stages.3.label>
   <!--EN: extreme-->
-  <VRE_HeatshockHediff.stages.4.label>极端</VRE_HeatshockHediff.stages.4.label>
+  <VRE_HeatshockHediff.stages.4.label>严重</VRE_HeatshockHediff.stages.4.label>
   <!--EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. Celular damage and denaturation of proteins will cause burn damage and will very quickly cause loss of consciousness.-->
-  <VRE_HeatstressHediff.description>由于过度暴露在高温和阳光下而导致的身体机能普遍受到破坏。细胞损伤和蛋白质变性会导致烧伤，并很快导致意识丧失。</VRE_HeatstressHediff.description>
+  <VRE_HeatstressHediff.description>长时间暴露于高温和日晒的环境下导致的患者体内温度平衡失调状态。这不仅会引起蛋白质变性、烧伤、疼痛以及严重恐火，还会降低意识和移动能力。</VRE_HeatstressHediff.description>
   <!--EN: heatstress-->
   <VRE_HeatstressHediff.label>热应激</VRE_HeatstressHediff.label>
   <!--EN: initial-->
-  <VRE_HeatstressHediff.stages.0.label>最初的</VRE_HeatstressHediff.stages.0.label>
+  <VRE_HeatstressHediff.stages.0.label>中等</VRE_HeatstressHediff.stages.0.label>
   <!--EN: initial-->
-  <VRE_HeatstressHediff.stages.1.label>最初的</VRE_HeatstressHediff.stages.1.label>
+  <VRE_HeatstressHediff.stages.1.label>极重</VRE_HeatstressHediff.stages.1.label>
   <!--EN: minor-->
-  <VRE_HeatstressHediff.stages.2.label>次要的</VRE_HeatstressHediff.stages.2.label>
+  <VRE_HeatstressHediff.stages.2.label>轻微</VRE_HeatstressHediff.stages.2.label>
   <!--EN: serious-->
-  <VRE_HeatstressHediff.stages.3.label>严肃的</VRE_HeatstressHediff.stages.3.label>
+  <VRE_HeatstressHediff.stages.3.label>较轻</VRE_HeatstressHediff.stages.3.label>
   <!--EN: extreme-->
-  <VRE_HeatstressHediff.stages.4.label>极端</VRE_HeatstressHediff.stages.4.label>
+  <VRE_HeatstressHediff.stages.4.label>严重</VRE_HeatstressHediff.stages.4.label>
   <!--EN: megaspider horns-->
   <VRE_HornAttack.comps.0.tools.0.label>巨蜘蛛角</VRE_HornAttack.comps.0.tools.0.label>
   <!--EN: These horns can be used to maul enemies in combat if unarmed.-->
-  <VRE_HornAttack.description>如果没有武器，这些角可以用来在战斗中猛击敌人。</VRE_HornAttack.description>
+  <VRE_HornAttack.description>这对威武有力的角不仅可以小幅提高采矿速度，在手无寸铁时还能用来战斗。</VRE_HornAttack.description>
   <!--EN: megaspider horns-->
-  <VRE_HornAttack.label>巨蜘蛛角</VRE_HornAttack.label>
+  <VRE_HornAttack.label>巨型蜘蛛角</VRE_HornAttack.label>
   <!--EN: This person will enter a hibernation if their temperatures drop below a certain point for too long. They will rapidly lose their body functions and fall into a deep sleep, which prevents any sort of frostbite damages but also makes them unable to do anything.-->
-  <VRE_HypothermicHibernationHediff.description>如果体温长时间低于某一点，这个人就会进入冬眠状态。他们会迅速失去身体功能并陷入深度睡眠，这可以防止任何形式的冻伤，但也使他们无法做任何事情。</VRE_HypothermicHibernationHediff.description>
+  <VRE_HypothermicHibernationHediff.description>此人因暴露于低温中而陷入了“低温冬眠”状态，其身体机能会逐渐丧失，直到完全沉睡。虽然能使此人不被冻伤，但也会失去行动能力。</VRE_HypothermicHibernationHediff.description>
   <!--EN: hypothermic hibernation-->
   <VRE_HypothermicHibernationHediff.label>低温冬眠</VRE_HypothermicHibernationHediff.label>
   <!--EN: shivering-->
-  <VRE_HypothermicHibernationHediff.stages.0.label>发抖</VRE_HypothermicHibernationHediff.stages.0.label>
+  <VRE_HypothermicHibernationHediff.stages.0.label>沉睡</VRE_HypothermicHibernationHediff.stages.0.label>
   <!--EN: initial-->
-  <VRE_HypothermicHibernationHediff.stages.1.label>最初的</VRE_HypothermicHibernationHediff.stages.1.label>
+  <VRE_HypothermicHibernationHediff.stages.1.label>倦乏</VRE_HypothermicHibernationHediff.stages.1.label>
   <!--EN: drowsy-->
-  <VRE_HypothermicHibernationHediff.stages.2.label>昏昏欲睡</VRE_HypothermicHibernationHediff.stages.2.label>
+  <VRE_HypothermicHibernationHediff.stages.2.label>较轻</VRE_HypothermicHibernationHediff.stages.2.label>
   <!--EN: sleep-->
-  <VRE_HypothermicHibernationHediff.stages.3.label>睡觉</VRE_HypothermicHibernationHediff.stages.3.label>
+  <VRE_HypothermicHibernationHediff.stages.3.label>轻微</VRE_HypothermicHibernationHediff.stages.3.label>
   <!--EN: deep sleep-->
-  <VRE_HypothermicHibernationHediff.stages.4.label>深度睡眠</VRE_HypothermicHibernationHediff.stages.4.label>
+  <VRE_HypothermicHibernationHediff.stages.4.label>昏睡</VRE_HypothermicHibernationHediff.stages.4.label>
   <!--EN: This person has a very inefficient acid in their midgut, making it harder to absorb nutrients. They will become hungry significantly faster, but they will be able to consume more.-->
-  <VRE_InefficientMidgut.description>这个人的中肠中的酸非常低效，使其更难吸收营养。他们会更快地感到饥饿，但他们将能够消耗更多。</VRE_InefficientMidgut.description>
+  <VRE_InefficientMidgut.description>这种基因的携带者长有虚弱且低效的中肠，很难消化食物并吸收营养。他们比正常人饿的更快，但能吃下更多的食物。</VRE_InefficientMidgut.description>
   <!--EN: inefficient midgut-->
-  <VRE_InefficientMidgut.label>中肠效率低下</VRE_InefficientMidgut.label>
+  <VRE_InefficientMidgut.label>虚弱中肠</VRE_InefficientMidgut.label>
   <!--EN: This person has a genetically-induced biochemical dependency on insect jelly. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.-->
-  <VRE_InsectJellyDependencyHediff.description>此人对昆虫果冻具有遗传性生化依赖性。没有虫冻5天后，携带者就会出现虫冻缺乏症。 30天后，他们将陷入昏迷。 60天后，他们就会死去。</VRE_InsectJellyDependencyHediff.description>
+  <VRE_InsectJellyDependencyHediff.description>此人对虫胶有着基因性化学依赖。如果不定期服用虫胶，其身体将无法维持健康状态，健康与心情都会持续恶化，直至死亡。</VRE_InsectJellyDependencyHediff.description>
   <!--EN: insect jelly dependency-->
-  <VRE_InsectJellyDependencyHediff.label>昆虫果冻依赖性</VRE_InsectJellyDependencyHediff.label>
+  <VRE_InsectJellyDependencyHediff.label>虫胶依赖</VRE_InsectJellyDependencyHediff.label>
   <!--EN: deficiency-->
   <VRE_InsectJellyDependencyHediff.stages.2.label>不足</VRE_InsectJellyDependencyHediff.stages.2.label>
   <!--EN: deficiency coma-->
-  <VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>缺乏昏迷</VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>
+  <VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>昏迷</VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>
   <!--EN: This person has large jelly sacks present on their lower abdomen, allowing them to periodically produce valuable insect jelly.-->
-  <VRE_InsectJellyProduction.description>此人的下腹部有巨大的果冻袋，使他们能够定期生产有价值的昆虫果冻。</VRE_InsectJellyProduction.description>
+  <VRE_InsectJellyProduction.description>此人下腹部长有巨大的虫胶囊，可以定期产出宝贵的虫胶。</VRE_InsectJellyProduction.description>
   <!--EN: jelly production-->
-  <VRE_InsectJellyProduction.label>果冻生产</VRE_InsectJellyProduction.label>
+  <VRE_InsectJellyProduction.label>虫胶产出</VRE_InsectJellyProduction.label>
   <!--EN: insect mandibles-->
   <VRE_InsectMandibles.comps.0.tools.0.label>昆虫下颌骨</VRE_InsectMandibles.comps.0.tools.0.label>
   <!--EN: Very strong, insect-like mandibles, allowing this person to consume food significantly quicker. They will also be able to use these mandibles in combat if unarmed.-->
-  <VRE_InsectMandibles.description>非常强壮、类似昆虫的下颌骨，使这个人吃东西的速度明显更快。如果没有武器，他们也能够在战斗中使用这些下颌骨。</VRE_InsectMandibles.description>
+  <VRE_InsectMandibles.description>这种基因的携带者长有类似虫族的钳颚。这对咬合力相当出色的钳颚不仅可以大幅提高他们的进食速度，在手无寸铁时还能用来战斗。</VRE_InsectMandibles.description>
   <!--EN: insect mandibles-->
-  <VRE_InsectMandibles.label>昆虫下颌骨</VRE_InsectMandibles.label>
+  <VRE_InsectMandibles.label>虫族钳颚</VRE_InsectMandibles.label>
   <!--EN: Low amounts of octopamine cause decreased arousal and activity levels, as well as depression.-->
-  <VRE_LowOctopamine.description>少量的章鱼胺会导致唤醒和活动水平下降，以及抑郁。</VRE_LowOctopamine.description>
+  <VRE_LowOctopamine.description>这种基因的携带者只能分泌极少量的章胺。这不仅会使他们性欲衰退，还会感到非常抑郁。</VRE_LowOctopamine.description>
   <!--EN: octopamine-down-->
-  <VRE_LowOctopamine.label>章鱼胺下调</VRE_LowOctopamine.label>
+  <VRE_LowOctopamine.label>章胺稀少</VRE_LowOctopamine.label>
   <!--EN: A large cocoon formed by an insector undergoing a metamorphosis. If destroyed, the insector inside will die. After metamorphosis is complete, the insector will emerge from their metapod with a brand new genetic composition.-->
-  <VRE_MetapodHediff.description>由经历变态的昆虫形成的大茧。如果被破坏，里面的昆虫就会死亡。变态完成后，昆虫将从后足中出现，并具有全新的遗传组成。</VRE_MetapodHediff.description>
+  <VRE_MetapodHediff.description>异虫种为进行变态发育而构造的大型茧。如果将其摧毁，处于内部的异虫种也会随之死亡。当变态发育完成后，异虫种会破茧而出，并形成全新的基因种系。</VRE_MetapodHediff.description>
   <!--EN: metapod-->
-  <VRE_MetapodHediff.label>后足类</VRE_MetapodHediff.label>
+  <VRE_MetapodHediff.label>化形茧</VRE_MetapodHediff.label>
   <!--EN: After-effects of undergoing an evolution via a metapod. The insectoid metapod replaces and mutates the genome of the individual. Upon exiting the metapod, the body takes time to restart and rebalance its natural metabolic processes. Duration of the metapod sickness depends on the duration spent in the metapod.-->
-  <VRE_MetapodSickness.description>通过元足经历进化的后遗症。类昆虫后足取代并突变了个体的基因组。退出元足后，身体需要时间来重新启动并重新平衡其自然代谢过程。后足疾病的持续时间取决于在后足中度过的时间。</VRE_MetapodSickness.description>
+  <VRE_MetapodSickness.description>通过变态发育形成全新基因种系所产生的后遗症，身体需要一定的时间来恢复生理机能和平衡新陈代谢过程。在化形茧内部待的越久，后遗症的持续时间也就越长。不会造成长期伤害。</VRE_MetapodSickness.description>
   <!--EN: Metapod sickness-->
-  <VRE_MetapodSickness.label>后足病</VRE_MetapodSickness.label>
+  <VRE_MetapodSickness.label>化形茧后遗症</VRE_MetapodSickness.label>
   <!--EN: This person can self-impregnate, creating offspring without a second parent. Specialized reproductive organs generate a fetus internally, which is stored in an ovipositor-like structure until ready to be birthed. It enables carriers to rapidly propagate their species autonomously.-->
-  <VRE_Parthenogenesis.description>这个人可以自我受孕，在没有第二个父母的情况下创造后代。专门的生殖器官在内部产生胎儿，胎儿被储存在类似产卵器的结构中，直到准备出生。它使载体能够快速自主地繁殖其物种。</VRE_Parthenogenesis.description>
+  <VRE_Parthenogenesis.description>这种基因的携带者能在不与异性结合的情况下自我受孕。他们会将由生殖器官创造的胎儿储存在与产卵器相似的生物结构中，一直到分娩前为止。</VRE_Parthenogenesis.description>
   <!--EN: parthenogenesis-->
   <VRE_Parthenogenesis.label>孤雌生殖</VRE_Parthenogenesis.label>
   <!--EN: This person has a genetically-induced biochemical dependency on pollution. After 5 days without pollution, carriers will suffer from pollution deficiency. After 30 days, they will fall into a coma. After 60 days, they will die.-->
-  <VRE_PollutionDependencyHediff.description>此人具有遗传性的对污染的生化依赖性。 5天无污染后，载体将出现污染缺陷。 30天后，他们将陷入昏迷。 60天后，他们就会死去。</VRE_PollutionDependencyHediff.description>
+  <VRE_PollutionDependencyHediff.description>此人对污染有着基因性化学依赖。如果不定期接触污染，其身体将无法维持健康状态，健康与心情都会持续恶化，直至死亡。</VRE_PollutionDependencyHediff.description>
   <!--EN: pollution dependency-->
   <VRE_PollutionDependencyHediff.label>污染依赖</VRE_PollutionDependencyHediff.label>
   <!--EN: deficiency-->
   <VRE_PollutionDependencyHediff.stages.2.label>不足</VRE_PollutionDependencyHediff.stages.2.label>
   <!--EN: deficiency coma-->
-  <VRE_PollutionDependencyHediff.stages.3.overrideLabel>缺乏昏迷</VRE_PollutionDependencyHediff.stages.3.overrideLabel>
+  <VRE_PollutionDependencyHediff.stages.3.overrideLabel>昏迷</VRE_PollutionDependencyHediff.stages.3.overrideLabel>
   <!--EN: ripper-blade-->
   <VRE_RipperBlades.comps.0.tools.0.label>裂土刀片</VRE_RipperBlades.comps.0.tools.0.label>
   <!--EN: A long and deadly ripper-blade that greatly lowers work speed, while being able to be used in melee combat to rip even armored enemies in half.-->
-  <VRE_RipperBlades.description>一种长而致命的裂土刀片，可以大大降低工作速度，同时能够在近战中使用，甚至可以将装甲敌人撕成两半。</VRE_RipperBlades.description>
+  <VRE_RipperBlades.description>这种基因的携带者双手被长长的镰刃所取代。这对如同刀锋般致命的镰刃会降低他们的操作能力，但在战斗中可以轻易地将身着装甲的敌人撕成碎片。</VRE_RipperBlades.description>
   <!--EN: ripper-blade-->
-  <VRE_RipperBlades.label>裂土刀片</VRE_RipperBlades.label>
+  <VRE_RipperBlades.label>撕裂镰刃</VRE_RipperBlades.label>
   <!--EN: Large amounts of serotonin cause great happiness at the cost of reduced consciousness.-->
-  <VRE_Serotonin.description>大大量的血清素会带来巨大的快乐，但代价是意识降低。</VRE_Serotonin.description>
+  <VRE_Serotonin.description>这种基因的携带者会大量分泌血清素。血清素能使他们沉浸于无穷的极乐中，不过代价则是会降低意识并变得更加好斗。</VRE_Serotonin.description>
   <!--EN: serotonin-buzz-->
-  <VRE_Serotonin.label>血清素嗡嗡声</VRE_Serotonin.label>
+  <VRE_Serotonin.label>血清素</VRE_Serotonin.label>
 </LanguageData>

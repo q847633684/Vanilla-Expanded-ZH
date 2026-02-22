@@ -5,49 +5,49 @@
   <!--EN: Animal-->
   <VRE_Animal>动物</VRE_Animal>
   <!--EN: Carry {0} to draincasket-->
-  <VRE_CarryToDraincasket>将 {0} 带到排水箱</VRE_CarryToDraincasket>
+  <VRE_CarryToDraincasket>将{0}带至血原汲取舱</VRE_CarryToDraincasket>
   <!--EN: Eject occupant-->
-  <VRE_CommandDraincasketEject>弹出乘员</VRE_CommandDraincasketEject>
+  <VRE_CommandDraincasketEject>弹出使用者</VRE_CommandDraincasketEject>
   <!--EN: Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.-->
-  <VRE_CommandDraincasketEjectDesc>将居住者从排水箱中弹出。这将中断血原提取并导致乘员因失血而头晕。</VRE_CommandDraincasketEjectDesc>
+  <VRE_CommandDraincasketEjectDesc>让使用者从血原汲取舱中弹出。此举将会中断抽取血原质，且使用者会因失血而感到头晕。</VRE_CommandDraincasketEjectDesc>
   <!--EN: Can't eject occupant, since draincasket is empty-->
-  <VRE_CommandDraincasketEjectFailEmpty>由于排水箱已空，无法弹出乘员</VRE_CommandDraincasketEjectFailEmpty>
+  <VRE_CommandDraincasketEjectFailEmpty>无法弹出使用者，这个血原汲取舱是空的。</VRE_CommandDraincasketEjectFailEmpty>
   <!--EN: Corpse-->
   <VRE_Corpse>尸体</VRE_Corpse>
   <!--EN: Choose ability-->
   <VRE_DefaultAbility>选择能力</VRE_DefaultAbility>
   <!--EN: Draincasket hemogen production (per day)-->
-  <VRE_DraincasketAmount>排水盒血红素产量（每天）</VRE_DraincasketAmount>
+  <VRE_DraincasketAmount>血原汲取舱产量（每天）</VRE_DraincasketAmount>
   <!--EN: Daily hemogen production: {0} packs-->
   <VRE_DraincasketAmountFromMetabolism>每日血红素产量：{0} 包</VRE_DraincasketAmountFromMetabolism>
   <!--EN: Sets the amount of hemogen packs the draincaskets will produce per day. By default, it is 2 hemogen packs per day.-->
-  <VRE_DraincasketAmountTooltip>设置排水箱每天产生的血红包数量。默认情况下，每天 2 包血原包。</VRE_DraincasketAmountTooltip>
+  <VRE_DraincasketAmountTooltip>设置血原汲取舱每天产出的血原包数量。默认情况为每天2份血原包。</VRE_DraincasketAmountTooltip>
   <!--EN: Occupant dying from vacuum exposure-->
   <VRE_DraincasketInVacuum_OccupantDying>居住者因真空暴露而死亡</VRE_DraincasketInVacuum_OccupantDying>
   <!--EN: Occupant dying from starvation in {0}-->
   <VRE_DraincasketOccupantDying>{0} 中的居住者因饥饿而死亡</VRE_DraincasketOccupantDying>
   <!--EN: Enter draincasket-->
-  <VRE_EnterDraincasket>进入排水箱</VRE_EnterDraincasket>
+  <VRE_EnterDraincasket>进入血原汲取舱</VRE_EnterDraincasket>
   <!--EN: Extract hemogen (animal) from {0}-->
-  <VRE_ExtractHemogenAnimal>从 {0} 中提取血原（动物）</VRE_ExtractHemogenAnimal>
+  <VRE_ExtractHemogenAnimal>从{0}处提取血原质（动物）</VRE_ExtractHemogenAnimal>
   <!--EN: Extract hemogen (corpse) from {0}-->
-  <VRE_ExtractHemogenCorpse>从 {0} 中提取血原（尸体）</VRE_ExtractHemogenCorpse>
+  <VRE_ExtractHemogenCorpse>从{0}处提取血原质（尸体）</VRE_ExtractHemogenCorpse>
   <!--EN: Extract hemogen (sanguophage) from {0}-->
-  <VRE_ExtractHemogenSanguophage>从 {0} 中提取血原 (sanguophage)</VRE_ExtractHemogenSanguophage>
+  <VRE_ExtractHemogenSanguophage>从{0}处提取血原质（血族）</VRE_ExtractHemogenSanguophage>
   <!--EN: Switches hemogen flow on/off.-->
-  <VRE_HemogenValve>打开/关闭血流。</VRE_HemogenValve>
+  <VRE_HemogenValve>指派开关阀门</VRE_HemogenValve>
   <!--EN: Switches hemogen flow on/off. A pawn will come open/close the valve.-->
-  <VRE_HemogenValveDesc>打开/关闭血流。 pawn 将打开/关闭阀门。</VRE_HemogenValveDesc>
+  <VRE_HemogenValveDesc>指定一个需要切换开关的管道阀门。一名殖民者将随后前往拧动阀门。</VRE_HemogenValveDesc>
   <!--EN: The sanguofeed ability can't be used on Sanguophages completely drained of hemogen-->
-  <VRE_MessageCantUseOnDrainedSanguophage>三国噬菌体无法使用三国噬菌体的血原完全耗尽的能力</VRE_MessageCantUseOnDrainedSanguophage>
+  <VRE_MessageCantUseOnDrainedSanguophage>无法对血原质消耗殆尽的血族使用汲血能力。</VRE_MessageCantUseOnDrainedSanguophage>
   <!--EN: The sanguofeed ability can only be used on hemogenic people-->
-  <VRE_MessageCantUseOnNonSanguophage>三国饲料能力只能对血源人使用</VRE_MessageCantUseOnNonSanguophage>
+  <VRE_MessageCantUseOnNonSanguophage>只能对有血原化基因的目标使用汲血能力。</VRE_MessageCantUseOnNonSanguophage>
   <!--EN: Cannot be used on Revenant or Nociospheres-->
   <VRE_NoAnomalies>不能用于 Revenant 或 Nociospheres</VRE_NoAnomalies>
   <!--EN: Can only be used on targets with a heart-->
-  <VRE_NoHeart>只能对有心脏的目标使用</VRE_NoHeart>
+  <VRE_NoHeart>只能对有心脏的目标使用。</VRE_NoHeart>
   <!--EN: Reset-->
   <VRE_Reset>重置</VRE_Reset>
   <!--EN: Sanguophage-->
-  <VRE_Sanguophage>三国噬菌体</VRE_Sanguophage>
+  <VRE_Sanguophage>血族</VRE_Sanguophage>
 </LanguageData>

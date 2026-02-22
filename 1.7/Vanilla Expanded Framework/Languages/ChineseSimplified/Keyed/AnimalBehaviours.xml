@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Body clock-->
+  <NocturnalAnimals.BodyClock>Body clock</NocturnalAnimals.BodyClock>
+  <!--EN: Crepuscular-->
+  <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+  <!--EN: Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.-->
+  <NocturnalAnimals.BodyClock_Description>Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk.</NocturnalAnimals.BodyClock_Description>
+  <!--EN: Diurnal-->
+  <NocturnalAnimals.BodyClock_Diurnal>Diurnal</NocturnalAnimals.BodyClock_Diurnal>
+  <!--EN: Nocturnal-->
+  <NocturnalAnimals.BodyClock_Nocturnal>Nocturnal</NocturnalAnimals.BodyClock_Nocturnal>
+  <!--EN: These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework-->
+  <VCE_AffectsAllAnimalMods>These animal behaviours options will affect all animal mods that share code from the Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <!--EN: Allow animal particles (gas and filth)-->
+  <VCE_AnimalParticlesOption>Allow animal particles (gas and filth)</VCE_AnimalParticlesOption>
+  <!--EN: Allow asexual reproduction-->
+  <VCE_AsexualReproductionOption>Allow asexual reproduction</VCE_AsexualReproductionOption>
+  <!--EN: Allow "blink" mechanics (for example, Skiphounds)-->
+  <VCE_BlinkMechanicsOption>Allow "blink" mechanics (for example, Skiphounds)</VCE_BlinkMechanicsOption>
+  <!--EN: Allow animals building things (for example, beavers building dams)-->
+  <VCE_BuildPeriodicallyOption>Allow animals building things (for example, beavers building dams)</VCE_BuildPeriodicallyOption>
+  <!--EN: Allow animals recharging nearby batteries or refueling-->
+  <VCE_ChargeBatteriesOption>Allow animals recharging nearby batteries or refueling</VCE_ChargeBatteriesOption>
+  <!--EN: Allow corpse decaying mechanics (for example, Helixien slug's effect)-->
+  <VCE_CorpseDecayingEffectOption>Allow corpse decaying mechanics (for example, Helixien slug's effect)</VCE_CorpseDecayingEffectOption>
+  <!--EN: Allows animals digging for things periodically-->
+  <VCE_DigPeriodicallyOption>Allows animals digging for things periodically</VCE_DigPeriodicallyOption>
+  <!--EN: Allow digging when hungry mechanics (for example, Frostmites digging corpses)-->
+  <VCE_DigWhenHungryOption>Allow digging when hungry mechanics (for example, Frostmites digging corpses)</VCE_DigWhenHungryOption>
+  <!--EN: Allows animals causing hediffs, mental states or thoughts-->
+  <VCE_EffecterOption>Allows animals causing hediffs, mental states or thoughts</VCE_EffecterOption>
+  <!--EN: Allow animals' eggs that explode (such as dragons')-->
+  <VCE_ExplodingEggsOption>Allow animals' eggs that explode (such as dragons')</VCE_ExplodingEggsOption>
+  <!--EN: Allow animals changing graphics (for example, Chameleon Yak)-->
+  <VCE_GraphicChangingOption>Allow animals changing graphics (for example, Chameleon Yak)</VCE_GraphicChangingOption>
+  <!--EN: Allow animals "hovering", ignoring terrain movement costs and waterstriding-->
+  <VCE_HoveringOption>Allow animals "hovering", ignoring terrain movement costs and waterstriding</VCE_HoveringOption>
+  <!--EN: Allow health regeneration (active and passive)-->
+  <VCE_RegenerationOption>Allow health regeneration (active and passive)</VCE_RegenerationOption>
+  <!--EN: Allow animals to auto-resurrect (for example Phoenix Owlcat)-->
+  <VCE_ResurrectionOption>Allow animals to auto-resurrect (for example Phoenix Owlcat)</VCE_ResurrectionOption>
+  <!--EN: Allow some animals to be untameable-->
+  <VCE_UntameableOption>Allow some animals to be untameable</VCE_UntameableOption>
+  <!--EN: Search:-->
+  <VEF_AnimalsSearch>Search:</VEF_AnimalsSearch>
+  <!--EN: {0} has cloned itself.-->
+  <VEF_AsexualCloning>{0} has cloned itself.</VEF_AsexualCloning>
+  <!--EN: {0} has reproduced asexually.-->
+  <VEF_AsexualHatched>{0} has reproduced asexually.</VEF_AsexualHatched>
+  <!--EN: {0} has sporulated.-->
+  <VEF_AsexualHatchedEgg>{0} has sporulated.</VEF_AsexualHatchedEgg>
+  <!--EN: Requires {0} Kg total mass-->
+  <VEF_BillRequiresMass>Requires {0} Kg total mass</VEF_BillRequiresMass>
+  <!--EN: Will be consumed in {0}-->
+  <VEF_DigestionTime>Will be consumed in {0}</VEF_DigestionTime>
+  <!--EN: Disable {0}-->
+  <VEF_DisableAnimal>Disable {0}</VEF_DisableAnimal>
+  <!--EN: This creature is untameable-->
+  <VEF_NotTameable>This creature is untameable</VEF_NotTameable>
+  <!--EN: {0} creatures swallowed whole.-->
+  <VEF_StomachContents>{0} creatures swallowed whole.</VEF_StomachContents>
+  <!--EN: The terrain needs to be diggable to do this-->
+  <VEF_TerrainsNeedsDiggable>The terrain needs to be diggable to do this</VEF_TerrainsNeedsDiggable>
+  <!--EN: Animal expires in: {0}-->
+  <VEF_TimeToDie>Animal expires in: {0}</VEF_TimeToDie>
+  <!--EN: Time to metamorphosis: {0}-->
+  <VEF_TimeToMetamorphosis>Time to metamorphosis: {0}</VEF_TimeToMetamorphosis>
+  <!--EN: Warning, this egg explodes when hatching!-->
+  <VEF_WarningEggExplodes>Warning, this egg explodes when hatching!</VEF_WarningEggExplodes>
+  <!--EN: While caravaning, produces {0} {1} every:-->
+  <VEF_WhileCaravaning>While caravaning, produces {0} {1} every:</VEF_WhileCaravaning>
+  <!--EN: Asexual reproduction disabled via mod options-->
+  <VFE_AsexualReproductionDisabled>Asexual reproduction disabled via mod options</VFE_AsexualReproductionDisabled>
+</LanguageData>

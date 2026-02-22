@@ -1,67 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Acceleration: high precept-->
-  <VVE_AccelerationHigh>加速：高戒律</VVE_AccelerationHigh>
+  <VVE_AccelerationHigh>加速度戒律：快</VVE_AccelerationHigh>
   <!--EN: Acceleration: sunday driver precept-->
-  <VVE_AccelerationSundayDriver>加速：周日驾驶员戒律</VVE_AccelerationSundayDriver>
+  <VVE_AccelerationSundayDriver>加速度戒律：慢</VVE_AccelerationSundayDriver>
   <!--EN: {0} cannot be researched until you find and restore a wreck of that vehicle.-->
-  <VVE_CannotBeResearched>在您找到并修复该车辆的残骸之前，无法研究 {0}。</VVE_CannotBeResearched>
+  <VVE_CannotBeResearched>{0}目前无法被研究，需要你将对应载具的残骸成功重建</VVE_CannotBeResearched>
   <!--EN: Can't reload {0} with {1} (full ammo)-->
-  <VVE_CannotReloadFullAmmo>无法用 {1} 重新装载 {0}（满弹药）</VVE_CannotReloadFullAmmo>
+  <VVE_CannotReloadFullAmmo>无法给{0}装填{1}（容量已满）</VVE_CannotReloadFullAmmo>
   <!--EN: Can't reload {0} with {1} (not enough {1})-->
-  <VVE_CannotReloadNotEnoughAmmo>无法使用 {1} 重新加载 {0}（{1} 不够）</VVE_CannotReloadNotEnoughAmmo>
+  <VVE_CannotReloadNotEnoughAmmo>无法给{0}装填{1}（{1}的数量不足）</VVE_CannotReloadNotEnoughAmmo>
   <!--EN: Close-->
   <VVE_Close>关闭</VVE_Close>
   <!--EN: Designate the garage door to be closed.-->
-  <VVE_CloseDescription>指定车库门关闭。</VVE_CloseDescription>
+  <VVE_CloseDescription>保持车库门关闭</VVE_CloseDescription>
   <!--EN: Close the auto garage door.-->
-  <VVE_CloseDescription_AutoDoor>关闭汽车车库门。</VVE_CloseDescription_AutoDoor>
+  <VVE_CloseDescription_AutoDoor>关闭自动车库门</VVE_CloseDescription_AutoDoor>
   <!--EN: Handbrake deals damage-->
-  <VVE_HandbrakeDealsDamage>手刹造成伤害</VVE_HandbrakeDealsDamage>
+  <VVE_HandbrakeDealsDamage>急刹造成损伤</VVE_HandbrakeDealsDamage>
   <!--EN: {VEHICLE_nameDef} will not have enough room to decelerate and will need to use the handbrake. This will cause damage to the tires.-->
-  <VVE_HandbrakeWarning>{VEHICLE_nameDef} 将没有足够的空间减速，需要使用手刹。这会对轮胎造成损坏。</VVE_HandbrakeWarning>
+  <VVE_HandbrakeWarning>{VEHICLE_nameDef}没有足够空间正常减速，它会进行急刹，这会对轮胎造成伤害。</VVE_HandbrakeWarning>
   <!--EN: Max speed: increased precept-->
-  <VVE_MaxSpeed_Increased>最大速度：增加戒律</VVE_MaxSpeed_Increased>
+  <VVE_MaxSpeed_Increased>最大速度戒律：提高</VVE_MaxSpeed_Increased>
   <!--EN: Open-->
   <VVE_Open>打开</VVE_Open>
   <!--EN: Designate the garage door to be opened.-->
-  <VVE_OpenDescription>指定要打开的车库门。</VVE_OpenDescription>
+  <VVE_OpenDescription>保持车库门打开</VVE_OpenDescription>
   <!--EN: Open the auto garage door.-->
-  <VVE_OpenDescription_AutoDoor>打开汽车车库门。</VVE_OpenDescription_AutoDoor>
+  <VVE_OpenDescription_AutoDoor>打开自动车库门</VVE_OpenDescription_AutoDoor>
   <!--EN: Reload {0} with {AMMO_label}-->
-  <VVE_Reload>使用 {AMMO_label} 重新加载 {0}</VVE_Reload>
+  <VVE_Reload>给{0}装填{AMMO_label}</VVE_Reload>
   <!--EN: Restore wreck-->
-  <VVE_RestoreWreck>恢复沉船</VVE_RestoreWreck>
+  <VVE_RestoreWreck>重建残骸</VVE_RestoreWreck>
   <!--EN: Deliver necessary vehicle components to restore this wreck completely, turning it into a working vehicle.-->
-  <VVE_RestoreWreckDesc>提供必要的车辆部件以完全修复这辆残骸，将其变成一辆工作车辆。</VVE_RestoreWreckDesc>
+  <VVE_RestoreWreckDesc>带来所需的零件，将载具残骸重建成可以正常运行的载具。</VVE_RestoreWreckDesc>
   <!--EN: Acceleration rate: {0}
 Current speed: {1} c/s-->
-  <VVE_StatsReport_AccelerationRate>加速度：{0}
-当前速度：{1} c/s</VVE_StatsReport_AccelerationRate>
+  <VVE_StatsReport_AccelerationRate>加速度：{0}\n当前速度{1}格/秒</VVE_StatsReport_AccelerationRate>
   <!--EN: Tier 0-->
-  <VVE_Tier0>0 级</VVE_Tier0>
+  <VVE_Tier0>T0</VVE_Tier0>
   <!--EN: Tier 0 vehicles are the most basic and easiest to access. They don't require resources to be constructed, or research project to be researched, or neither.-->
-  <VVE_Tier0Desc>0 级车辆是最基本且最容易访问的车辆。它们不需要建造资源，也不需要研究项目，或者两者都不需要。</VVE_Tier0Desc>
+  <VVE_Tier0Desc>T0载具是最简单最基础的载具。制造它们不需要太多资源，也不需要专门的研究项目。</VVE_Tier0Desc>
   <!--EN: Tier 1-->
-  <VVE_Tier1>1 级</VVE_Tier1>
+  <VVE_Tier1>T1</VVE_Tier1>
   <!--EN: Tier 1 vehicles require a basic research project and a low resource cost in order to be constructed. They are inefficient, not ideal, have a lot of drawbacks, but they are cheap and available early in the game.-->
-  <VVE_Tier1Desc>一级车辆的建造需要基础研究项目和较低的资源成本。它们效率低下，不理想，有很多缺点，但它们很便宜并且可以在游戏早期使用。</VVE_Tier1Desc>
+  <VVE_Tier1Desc>T1载具需要基础的研究项目，以及少量资源才能制造。它们效率低，各有明显的缺点，但在游戏早期算是便宜划算的了。</VVE_Tier1Desc>
   <!--EN: Tier 2-->
-  <VVE_Tier2>2 级</VVE_Tier2>
+  <VVE_Tier2>T2</VVE_Tier2>
   <!--EN: Tier 2 vehicles are locked behind more specialised research projects and require resources that are only available later in the game. Tier 2 is considered to be the 'baseline' of all vehicles.-->
-  <VVE_Tier2Desc>2 级车辆被锁定在更专业的研究项目后面，并且需要只能在游戏后期才能获得的资源。第 2 级被认为是所有车辆的“基线”。</VVE_Tier2Desc>
+  <VVE_Tier2Desc>T2载具需要专业的研究项目和一定的后期资源，T2可以被看作接近现实载具的基准。</VVE_Tier2Desc>
   <!--EN: Tier 3-->
-  <VVE_Tier3>3 级</VVE_Tier3>
+  <VVE_Tier3>T3</VVE_Tier3>
   <!--EN: Tier 3 vehicles are only obtainable if a specific condition is met - for example, they are first found in their wrecked form and restored. They require late game resources and generally serve a very specific purpose.-->
-  <VVE_Tier3Desc>只有满足特定条件才能获得 3 级车辆 - 例如，它们首先以失事形式被发现并修复。它们需要后期游戏资源并且通常具有非常特定的目的。</VVE_Tier3Desc>
+  <VVE_Tier3Desc>T3载具获取的路径相当稀有，一般只能通过发现已有的残骸并修复才能获得。它们需要游戏后期才有的资源且本身的定位非常特化。</VVE_Tier3Desc>
   <!--EN: Tier 3-->
-  <VVE_Tier4>3 级</VVE_Tier4>
+  <VVE_Tier4>T4</VVE_Tier4>
   <!--EN: Tier 4 vehicles are not able to be constructed by the player, but they can still be found, purchased or otherwise spawned. They generally represent technology beyond of what's achievable in the Rimworld setting.-->
-  <VVE_Tier4Desc>玩家无法建造 4 级车辆，但仍然可以找到、购买或以其他方式生成它们。它们通常代表着超出环世界设定所能实现的技术。</VVE_Tier4Desc>
+  <VVE_Tier4Desc>T4载具不能被玩家制造，但仍然可以出现，购买，或者在其它途径生成。它们一般代表着边缘世界达不到的科技水平。</VVE_Tier4Desc>
   <!--EN: Vehicle is blocking garage.-->
-  <VVE_VehicleObstructingClosingGarage>车辆堵塞车库。</VVE_VehicleObstructingClosingGarage>
+  <VVE_VehicleObstructingClosingGarage>有载具堵住在门中</VVE_VehicleObstructingClosingGarage>
   <!--EN: Tier-->
-  <VVE_VehicleTier>等级</VVE_VehicleTier>
+  <VVE_VehicleTier>载具等级</VVE_VehicleTier>
   <!--EN: {0} not yet found and restored-->
-  <VVE_WreckNotRestored>{0} 尚未找到并已恢复</VVE_WreckNotRestored>
+  <VVE_WreckNotRestored>{0}还没被重建</VVE_WreckNotRestored>
 </LanguageData>

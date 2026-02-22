@@ -1,0 +1,68 @@
+key,text,tag,file,type
+PH.EnableProxyHeat,Enable proxy heat,PH.EnableProxyHeat,Misc_Gameplay.xml,keyed
+PH.EnableProxyHeatEffectIndoors,Enable proxy heat effect indoors,PH.EnableProxyHeatEffectIndoors,Misc_Gameplay.xml,keyed
+PH.AllowPlantGrowthInsideProxyHeatEffectRadius,Allow plant growth inside proxy heat effect radius,PH.AllowPlantGrowthInsideProxyHeatEffectRadius,Misc_Gameplay.xml,keyed
+PH.ProxyHeatBuildings,Proxy heat building settings:,PH.ProxyHeatBuildings,Misc_Gameplay.xml,keyed
+PH.ProxyHeatRadius,Proxy heat radius,PH.ProxyHeatRadius,Misc_Gameplay.xml,keyed
+PH.MinTemperature,Minimum temperature threshold,PH.MinTemperature,Misc_Gameplay.xml,keyed
+PH.MaxTemperature,Maximum temperature threshold,PH.MaxTemperature,Misc_Gameplay.xml,keyed
+PN.NotSet,(not set),PN.NotSet,Misc_Gameplay.xml,keyed
+PH.TemperatureOutput,Temperature output,PH.TemperatureOutput,Misc_Gameplay.xml,keyed
+PH.Search,Search:,PH.Search,Misc_Gameplay.xml,keyed
+PH.BuildingHasTemperatureControl,Building has own temperature target control,PH.BuildingHasTemperatureControl,Misc_Gameplay.xml,keyed
+VTE.MustPlaceHeaterWithFreeSpaces,The hot side of the heater must be exposed.,VTE.MustPlaceHeaterWithFreeSpaces,Misc_Gameplay.xml,keyed
+VTE.MustPlaceUnderRoof,Must be placed under a roof.,VTE.MustPlaceUnderRoof,Misc_Gameplay.xml,keyed
+VTE.CannotPlaceAdjacentCeilingFan,Cannot be placed next to ceiling fans.,VTE.CannotPlaceAdjacentCeilingFan,Misc_Gameplay.xml,keyed
+VTE.Efficiency,Network efficiency,VTE.Efficiency,Misc_Gameplay.xml,keyed
+VTE.NetworkTargetTemp,Network target temperature,VTE.NetworkTargetTemp,Misc_Gameplay.xml,keyed
+VTE.Production,Production,VTE.Production,Misc_Gameplay.xml,keyed
+VTE.Consumption,Consumption,VTE.Consumption,Misc_Gameplay.xml,keyed
+VTE.TotalProduction,Total production,VTE.TotalProduction,Misc_Gameplay.xml,keyed
+VTE.TotalConsumption,Total consumption,VTE.TotalConsumption,Misc_Gameplay.xml,keyed
+VTE.Relink,Link temperature,VTE.Relink,Misc_Gameplay.xml,keyed
+VTE.Unlink,Unlink temperature,VTE.Unlink,Misc_Gameplay.xml,keyed
+VTE.AcRelinkDescription,"Link this AC unit with the system, inheriting the desired temperature.",VTE.AcRelinkDescription,Misc_Gameplay.xml,keyed
+VTE.AcUnlinkDescription,Unlink this AC unit from inheriting desired temperature from the system.,VTE.AcUnlinkDescription,Misc_Gameplay.xml,keyed
+VTE.MissingCompressors,Cannot work: Not enough compressors connected.,VTE.MissingCompressors,Misc_Gameplay.xml,keyed
+VTE.MissingController,Cannot work: Missing AC control unit.,VTE.MissingController,Misc_Gameplay.xml,keyed
+VTE.TooManyControllers,Cannot work: Connected to more than one AC control unit.,VTE.TooManyControllers,Misc_Gameplay.xml,keyed
+VTE.CompressorCovered,Cannot work: Covered by roof.,VTE.CompressorCovered,Misc_Gameplay.xml,keyed
+VTE_VentValve,Switches air flow on/off.,VTE_VentValve,Misc_Gameplay.xml,keyed
+VTE_VentValveDesc,Switches air flow on/off. A pawn will come open/close the valve.,VTE_VentValveDesc,Misc_Gameplay.xml,keyed
+VTE_AirDuct.label,air duct,label,ThingDef/ACNet.xml,def
+VTE_AirDuct.description,An air duct used by the AC network to transport air between the AC units and compressors.,description,ThingDef/ACNet.xml,def
+VTE_VentValve.label,air duct valve,label,ThingDef/ACNet.xml,def
+VTE_VentValve.description,Switches air flow on/off.,description,ThingDef/ACNet.xml,def
+VTE_UndergroundAirDuct.label,subterranean air duct,label,ThingDef/ACNet.xml,def
+VTE_UndergroundAirDuct.description,A subterranean air duct used by the AC network to transport air between the AC units and compressors.,description,ThingDef/ACNet.xml,def
+VTE_ACControlUnit.label,AC control unit,label,ThingDef/ACNet.xml,def
+VTE_ACControlUnit.description,"A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network.",description,ThingDef/ACNet.xml,def
+VTE_ACUnit.label,AC unit,label,ThingDef/ACNet.xml,def
+VTE_ACUnit.description,"An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts.",description,ThingDef/ACNet.xml,def
+VTE_ACUnitWall.label,wall-mounted AC unit,label,ThingDef/ACNet.xml,def
+VTE_ACUnitWall.description,"A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall.",description,ThingDef/ACNet.xml,def
+VTE_ACCompressor.label,AC compressor,label,ThingDef/ACNet.xml,def
+VTE_ACCompressor.description,"An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency.",description,ThingDef/ACNet.xml,def
+VTE_LargeACCompressor.label,large AC compressor,label,ThingDef/ACNet.xml,def
+VTE_LargeACCompressor.description,"A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency.",description,ThingDef/ACNet.xml,def
+VTE_HVAC.label,HVAC,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VTE_HVAC.description,Build a reliable air conditioning system connecting AC control units and compressors to AC units via air ducts.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VTE_IndustrialHeater.label,industrial heater,label,ThingDef/Buildings_Temperature.xml,def
+VTE_IndustrialHeater.description,"A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters.",description,ThingDef/Buildings_Temperature.xml,def
+VTE_IndustrialCooler.label,industrial cooler,label,ThingDef/Buildings_Temperature.xml,def
+VTE_IndustrialCooler.description,"A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler.",description,ThingDef/Buildings_Temperature.xml,def
+VTE_WallHeater.label,wall heater,label,ThingDef/Buildings_Temperature.xml,def
+VTE_WallHeater.description,A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter.,description,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedHeater.label,wall-mounted heater,label,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedHeater.description,A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall.,description,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedCooler.label,wall-mounted cooler,label,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedCooler.description,"A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall.",description,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedVent.label,wall-mounted vent,label,ThingDef/Buildings_Temperature.xml,def
+VTE_WallMountedVent.description,"A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall.",description,ThingDef/Buildings_Temperature.xml,def
+VTE_StandingCooler.label,standing cooler,label,ThingDef/Buildings_Temperature.xml,def
+VTE_StandingCooler.description,A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food.,description,ThingDef/Buildings_Temperature.xml,def
+VTE_SmallCeilingFan.label,small ceiling fan,label,ThingDef/Buildings_Temperature.xml,def
+VTE_SmallCeilingFan.description,"A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.",description,ThingDef/Buildings_Temperature.xml,def
+VTE_LargeCeilingFan.label,large ceiling fan,label,ThingDef/Buildings_Temperature.xml,def
+VTE_LargeCeilingFan.description,"A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C.",description,ThingDef/Buildings_Temperature.xml,def

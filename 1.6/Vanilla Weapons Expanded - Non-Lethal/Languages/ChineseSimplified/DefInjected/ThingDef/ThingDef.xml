@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: taser beam-->
-  <VWENLBeamGraphic.label>泰瑟光束</VWENLBeamGraphic.label>
+  <VWENLBeamGraphic.label>激光束</VWENLBeamGraphic.label>
   <!--EN: tear gas grenade-->
-  <VWENL_Projectile_TearGasGrenade.label>催泪弹</VWENL_Projectile_TearGasGrenade.label>
+  <VWENL_Projectile_TearGasGrenade.label>催泪手榴弹</VWENL_Projectile_TearGasGrenade.label>
   <!--EN: tear gas-->
   <VWENL_TearGasCloud.label>催泪瓦斯</VWENL_TearGasCloud.label>
   <!--EN: tranquilizer dart-->
-  <VWE_Bullet_DartGun.label>镇静剂飞镖</VWE_Bullet_DartGun.label>
+  <VWE_Bullet_DartGun.label>麻醉镖</VWE_Bullet_DartGun.label>
   <!--EN: rubber bullet-->
-  <VWE_Bullet_RubberPistol.label>橡皮子弹</VWE_Bullet_RubberPistol.label>
+  <VWE_Bullet_RubberPistol.label>橡胶弹</VWE_Bullet_RubberPistol.label>
   <!--EN: A non-lethal air gun used to reduce irritability or agitation in animals or humans via anesthetic drugs commonly referred to as tranquilizers.-->
-  <VWE_Gun_DartGun.description>一种非致命气枪，用于通过麻醉剂 药物（通常称为镇静剂）来减少动物或人类的烦躁或躁动。</VWE_Gun_DartGun.description>
+  <VWE_Gun_DartGun.description>一种非致命性的气枪，通过一般被称为镇静剂的麻醉药物来减少动物或人类的烦躁或不安。</VWE_Gun_DartGun.description>
   <!--EN: dart gun-->
-  <VWE_Gun_DartGun.label>飞镖枪</VWE_Gun_DartGun.label>
+  <VWE_Gun_DartGun.label>麻醉镖枪</VWE_Gun_DartGun.label>
   <!--EN: stock-->
   <VWE_Gun_DartGun.tools.0.label>库存</VWE_Gun_DartGun.tools.0.label>
   <!--EN: barrel-->
   <VWE_Gun_DartGun.tools.1.label>桶</VWE_Gun_DartGun.tools.1.label>
   <!--EN: A modern design of a gas-operated pistol firing rubber pellets. While chances of serious injury are lower, there is still a chance blunt trauma will result in death.-->
-  <VWE_Gun_RubberBulletPistol.description>发射橡胶颗粒的气动手枪的现代设计。虽然严重受伤的可能性较低，但钝性创伤仍有可能导致死亡。</VWE_Gun_RubberBulletPistol.description>
+  <VWE_Gun_RubberBulletPistol.description>一种现代化设计的橡胶子弹气动手枪。虽然重伤目标的几率较低，但钝伤仍是有可能致死的。</VWE_Gun_RubberBulletPistol.description>
   <!--EN: non-lethal pistol-->
   <VWE_Gun_RubberBulletPistol.label>非致命手枪</VWE_Gun_RubberBulletPistol.label>
   <!--EN: grip-->
@@ -27,7 +27,7 @@
   <!--EN: barrel-->
   <VWE_Gun_RubberBulletPistol.tools.1.label>桶</VWE_Gun_RubberBulletPistol.tools.1.label>
   <!--EN: An industrial tech short range taser pistol. It delivers an electric shock aimed at temporarily disrupting muscle functions and inflicting pain without usually causing significant injury.-->
-  <VWE_Gun_Taser.description>工业技术短程泰瑟手枪。它提供电击，旨在暂时扰乱肌肉发达的角色。功能并造成疼痛，通常不会造成严重伤害。</VWE_Gun_Taser.description>
+  <VWE_Gun_Taser.description>一种工业时代的短程泰瑟枪。它提供的电击目的是暂时扰乱肌肉功能，并造成痛苦。通常不会产生重大伤害。</VWE_Gun_Taser.description>
   <!--EN: taser gun-->
   <VWE_Gun_Taser.label>泰瑟枪</VWE_Gun_Taser.label>
   <!--EN: barrel-->
@@ -37,15 +37,15 @@
   <!--EN: Standard-->
   <VWE_Gun_Taser.verbs.0.label>标准</VWE_Gun_Taser.verbs.0.label>
   <!--EN: A modern single-shell launcher loaded with tear gas canisters. Often used by riot police across almost all urbworlds.-->
-  <VWE_Gun_TearGasLauncher.description>一个现代的单炮弹发射器，装有催泪瓦斯罐。几乎所有都市世界的防暴警察都经常使用它。</VWE_Gun_TearGasLauncher.description>
+  <VWE_Gun_TearGasLauncher.description>现代化的单发催泪弹发射器。几乎所有的都市世界防暴警察都在使用这种武器。</VWE_Gun_TearGasLauncher.description>
   <!--EN: tear gas launcher-->
-  <VWE_Gun_TearGasLauncher.label>催泪瓦斯发射器</VWE_Gun_TearGasLauncher.label>
+  <VWE_Gun_TearGasLauncher.label>催泪弹发射器</VWE_Gun_TearGasLauncher.label>
   <!--EN: stock-->
   <VWE_Gun_TearGasLauncher.tools.0.label>库存</VWE_Gun_TearGasLauncher.tools.0.label>
   <!--EN: barrel-->
   <VWE_Gun_TearGasLauncher.tools.1.label>桶</VWE_Gun_TearGasLauncher.tools.1.label>
   <!--EN: A short peacekeeping baton with electroshock prod that delivers an electric shock aimed at temporarily disrupting muscle functions.-->
-  <VWE_MeleeWeapon_StunBaton.description>带有电击棒的短维和警棍，可发出电击，旨在暂时扰乱肌肉发达的角色。功能。</VWE_MeleeWeapon_StunBaton.description>
+  <VWE_MeleeWeapon_StunBaton.description>一根带有电击棒的维和警棍，可通过电击目标来暂时扰乱其肌肉功能。</VWE_MeleeWeapon_StunBaton.description>
   <!--EN: stun baton-->
   <VWE_MeleeWeapon_StunBaton.label>电棍</VWE_MeleeWeapon_StunBaton.label>
   <!--EN: handle-->
@@ -53,9 +53,9 @@
   <!--EN: head-->
   <VWE_MeleeWeapon_StunBaton.tools.1.label>头</VWE_MeleeWeapon_StunBaton.tools.1.label>
   <!--EN: Modern canister containing a special compound commonly referred to as tear gas. Temporarily blinds victims.-->
-  <VWE_TearGasGrenade.description>现代罐含有一种通常称为催泪瓦斯的特殊化合物。暂时使受害者失明。</VWE_TearGasGrenade.description>
+  <VWE_TearGasGrenade.description>填充了一种通常被称为催泪瓦斯的特殊化合物的罐状手榴弹。会致盲目标。</VWE_TearGasGrenade.description>
   <!--EN: tear gas grenades-->
-  <VWE_TearGasGrenade.label>催泪瓦斯手榴弹</VWE_TearGasGrenade.label>
+  <VWE_TearGasGrenade.label>催泪手榴弹</VWE_TearGasGrenade.label>
   <!--EN: throw smoke grenade-->
   <VWE_TearGasGrenade.verbs.0.label>投掷烟雾弹</VWE_TearGasGrenade.verbs.0.label>
 </LanguageData>

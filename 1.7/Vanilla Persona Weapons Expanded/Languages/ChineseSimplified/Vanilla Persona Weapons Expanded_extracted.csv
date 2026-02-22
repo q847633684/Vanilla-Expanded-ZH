@@ -1,0 +1,24 @@
+key,text,tag,file,type
+VPWE.GainedPersonaWeaponTitle,Persona weapon for {PAWN_nameDef},VPWE.GainedPersonaWeaponTitle,Keys.xml,keyed
+VPWE.GainedPersonaWeaponDesc,"Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}.",VPWE.GainedPersonaWeaponDesc,Keys.xml,keyed
+VPWE.ClaimWeapon,Claim a {0},VPWE.ClaimWeapon,Keys.xml,keyed
+VPWE.Postpone,Postpone,VPWE.Postpone,Keys.xml,keyed
+VPWE.ClaimFor,Claim for {PAWN_nameDef},VPWE.ClaimFor,Keys.xml,keyed
+VPWE.Persona,Persona:,VPWE.Persona,Keys.xml,keyed
+VPWE.AlreadyBondedWarning,{PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon?,VPWE.AlreadyBondedWarning,Keys.xml,keyed
+VPWE.ReceivedWeaponTitle,Cargo pods (Persona weapon),VPWE.ReceivedWeaponTitle,Keys.xml,keyed
+VPWE.ReceivedWeaponDesc,{0} for {PAWN_nameDef} has arrived nearby.,VPWE.ReceivedWeaponDesc,Keys.xml,keyed
+VPWE.Psycast,Psycast:,VPWE.Psycast,Keys.xml,keyed
+VPWE.RejectLetter,Reject,VPWE.RejectLetter,Keys.xml,keyed
+VPWE.ConfirmReject,Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again.,VPWE.ConfirmReject,Keys.xml,keyed
+VPWE.NotAllowedDead,{PAWN_labelShort} is dead,VPWE.NotAllowedDead,Keys.xml,keyed
+VPWE.NotAllowedNoTitle,{PAWN_labelShort} no longer has the required title,VPWE.NotAllowedNoTitle,Keys.xml,keyed
+VPWE.NotPlayerFaction,{PAWN_labelShort} is no longer part of your faction,VPWE.NotPlayerFaction,Keys.xml,keyed
+VPWE.NoCustomizationWeapon,{WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue?,VPWE.NoCustomizationWeapon,Keys.xml,keyed
+VPWE.NoDeliverySpotFound,Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}.,VPWE.NoDeliverySpotFound,Keys.xml,keyed
+VPWE_MeleeWeapon_PsyfocusStaffBladelink.label,persona eltex staff,label,ThingDef/MeleeBladelink.xml,def
+VPWE_MeleeWeapon_PsyfocusStaffBladelink.description,"An ultratech staff threaded with psychic focusing materials. While it is a solid melee weapon, its main purpose is to enhance the wielder's psychic sensitivity and neural heat dissipation, allowing more use of psychic powers.
+\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with frightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.",description,ThingDef/MeleeBladelink.xml,def
+VPWE_MeleeWeapon_PsyfocusStaffBladelink.tools.0.label,head,label,ThingDef/MeleeBladelink.xml,def

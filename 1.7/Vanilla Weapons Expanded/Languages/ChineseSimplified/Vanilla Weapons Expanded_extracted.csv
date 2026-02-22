@@ -1,0 +1,209 @@
+key,text,tag,file,type
+VWE_WeaponDeterioratedMessage,"{0}, equipped by {1}, has fully deteriorated.",VWE_WeaponDeterioratedMessage,Keys.xml,keyed
+VWE_WeaponDeteriorationInfo,This weapon will deteriorate after a certain number of shots.,VWE_WeaponDeteriorationInfo,Keys.xml,keyed
+VWE_ShotRemaining,Shots remaining: {0},VWE_ShotRemaining,Keys.xml,keyed
+VWE_TrenchWarfare.label,trench warfare,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.description,Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.0,subject->entrenched defense,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.1,"subject_story->adopted age-old strategies to modern combat, ensuring survival",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.2,subject_story->innovated in close-quarters battle tactics within the trenches,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.3,subject_story->engineered fortifications that blend with the landscape for surprise attacks,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.4,subject_story->developed communication lines within trenches to coordinate assaults,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_TrenchWarfare.generalRules.rulesStrings.5,subject_gerund->fortifying positions with strategic ingenuity in warfare,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.label,heavy weapons,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.description,"Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding.",description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.0,subject->the weight of power,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.1,subject_story->developed weapons that bring unparalleled firepower to the battlefield,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.2,"subject_story->balanced the scales of warfare with heavy, decisive armaments",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.3,subject_story->created training programs for specialized units to operate these weapons,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.4,subject_story->engineered mobility solutions to transport and deploy heavy armaments,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_HeavyWeapons.generalRules.rulesStrings.5,subject_gerund->mastering the art of destruction with heavy weapons,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.label,laser targeting systems,label,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.description,Adapt laser targeting systems for accurate and swift delivery of charged payloads.,description,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.0,subject->pinpoint accuracy,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.1,subject_story->revolutionized precision strikes with advanced laser guidance,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.2,subject_story->enabled real-time target acquisition and adjustment,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.3,subject_story->integrated systems with existing weaponry for enhanced combat effectiveness,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.4,"subject_story->developed compact, portable laser designators for field operations",li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VWE_LaserTargetingSystems.generalRules.rulesStrings.5,subject_gerund->honing the edge of warfare with technology,li,ResearchProjectDef/ResearchProjects_Various.xml,def
+VanillaExpanded.label,Vanilla Expanded,label,ResearchTabDef/ResearchTabs.xml,def
+VWE_SmokeGrenade.label,smoke grenades,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_SmokeGrenade.description,"Grenades loaded with liquified blind smoke. Upon landing, they instantly release their smoke payload. The non-toxic smoke covers an area, greatly reducing ranged accuracy and completely blocking automated turret targeting. It provides tactical cover for about a minute before dissipating.",description,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_SmokeGrenade.verbs.0.label,throw smoke grenade,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_Projectile_SmokeGrenade.label,smoke grenade,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_FlashGrenade.label,stun grenades,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_FlashGrenade.description,"A non-lethal tactical grenade designed to temporarily incapacitate enemies. Upon detonation, it emits a powerful flash of light and a loud sound, disorienting and stunning enemies in a radius, buying time for tactical advances or retreats.",description,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_FlashGrenade.verbs.0.label,throw flash grenade,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_Projectile_FlashGrenade.label,flash grenade,label,ThingDef/IndustrialGrenadesEnhanced.xml,def
+VWE_MeleeWeapon_Shovel.label,shovel,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Shovel.description,"One of the most versatile tools for a soldier, the entrenching tool is a simple but effective weapon. With a sturdy handle and a sharpened, heavy blade, it serves equally well for digging a trench or bludgeoning an enemy.",description,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Shovel.tools.0.label,handle,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Shovel.tools.1.label,edge,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Baton.label,baton,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Baton.description,"A sturdy, weighted club used for incapacitation and crowd control. Its dense construction delivers powerful blunt force trauma, favored by police and security forces for non-lethal (and sometimes lethal) engagements.",description,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Baton.tools.0.label,handle,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Baton.tools.1.label,head,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_CombatKnife.label,combat knife,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_CombatKnife.description,"OA refined and deadly tool, the military combat knife has taken many forms, but the concept has always remained the same: A handle for a sure grip and a sharp edge for cutting and thrusting, optimized for battlefield use.",description,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_CombatKnife.tools.0.label,handle,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_CombatKnife.tools.1.label,blade,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_CombatKnife.tools.2.label,point,label,ThingDef/MeleeIndustrial.xml,def
+VWE_MeleeWeapon_Hammer.label,hammer,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Hammer.description,"A simple, single-handed weapon with a heavy head, designed to deliver powerful blunt force to crush enemies. Using a hammer increases the construction speed slightly.",description,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Hammer.tools.0.label,handle,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Hammer.tools.1.label,head,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_BattleAxe.label,battle axe,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_BattleAxe.description,"A hefty, two-handed axe designed for cleaving through foes. Its wide, sharp blade delivers devastating cutting damage, while its mass allows for powerful but slow strikes.",description,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_BattleAxe.tools.0.label,handle,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_BattleAxe.tools.1.label,edge,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Halberd.label,poleaxe,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Halberd.description,"A versatile polearm featuring a sharp axe head and a back spike, designed for rapid, decisive blows against armored foes. The reach of the poleaxe allows to strike enemies much further away.",description,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Halberd.tools.0.label,shaft,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Halberd.tools.1.label,spike,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Halberd.tools.2.label,edge,label,ThingDef/MeleeMedieval.xml,def
+VWE_MeleeWeapon_Axe.label,hatchet,label,ThingDef/MeleeNeolithic.xml,def
+VWE_MeleeWeapon_Axe.description,"A small, single-handed axe designed for quick, repeated strikes. Its light weight and short handle allow for fast swinging speed. Using a hatchet increases the plant harvest yield slightly.",description,ThingDef/MeleeNeolithic.xml,def
+VWE_MeleeWeapon_Axe.tools.0.label,handle,label,ThingDef/MeleeNeolithic.xml,def
+VWE_MeleeWeapon_Axe.tools.1.label,edge,label,ThingDef/MeleeNeolithic.xml,def
+VWE_Gun_RocketLauncher.label,rocket launcher,label,ThingDef/RangedIndustrialConsumable.xml,def
+VWE_Gun_RocketLauncher.description,"A single-use rocket launcher firing a massive, high-explosive warhead. Slow to aim with a significant minimum range due to its power, it excels against structures, mechanoids, and armored foes. Its unwieldiness, single-use nature, and sheer destruction make it a rare and scary sight in combat.",description,ThingDef/RangedIndustrialConsumable.xml,def
+VWE_Gun_RocketLauncher.tools.0.label,barrel,label,ThingDef/RangedIndustrialConsumable.xml,def
+VWE_Bullet_Rocket.label,rocket,label,ThingDef/RangedIndustrialConsumable.xml,def
+VWE_Bow_Compound.label,compound bow,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bow_Compound.description,"A compact, sophisticated compound hunting bow. Its cam system stores high energy, providing superior accuracy and launching armor-piercing, high-velocity arrows. The reduced sound signature makes it ideal for stealthy hunting.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bow_Compound.tools.0.label,limb,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Arrow_Compound.label,compound bow arrow,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_HandCannon.label,heavy revolver bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HandCannon.label,heavy revolver,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HandCannon.description,"A massive, high-caliber revolver, designed to deliver a devastating single punch. Its heavy frame and long barrel manage the immense recoil, making it slow to draw but highly effective at putting down targets with its powerful, armor-piercing rounds.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HandCannon.tools.0.label,grip,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HandCannon.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_CombatHandgun.label,combat handgun bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_CombatHandgun.label,combat handgun,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_CombatHandgun.description,"A modern, blowback-operated self-loading pistol designed for close-quarters engagement. It can be fired rapidly for superior short-range lethality and is slightly more accurate than standard autopistols.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_CombatHandgun.tools.0.label,grip,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_CombatHandgun.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_SawedOffShotgun.label,shotgun blast,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_SawedOffShotgun.label,sawn-off shotgun,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_SawedOffShotgun.description,"A compact, double-barreled shotgun with a shortened stock and barrel. Designed for close-quarters engagements, it delivers a devastating, wide-spread blast at extremely short range, making it a terrifying ambush weapon.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_SawedOffShotgun.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_SawedOffShotgun.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_GrenadeLauncher.label,frag grenade,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_GrenadeLauncher.label,grenade launcher,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_GrenadeLauncher.description,"A lightweight, breech-loaded launcher that fires fragmentation grenades. It projects a frag grenade a moderate distance, inflicting damage in a small blast radius.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_GrenadeLauncher.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_GrenadeLauncher.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Flamethrower.label,flamethrower,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Flamethrower.description,"A specialized, man-portable incendiary weapon. It projects a stream of searing hot fuel that ignites on contact, rapidly spreading flame across a short-to-medium range. Highly effective against unarmored targets and excellent for clearing enclosed spaces or burning away flammable cover.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Flamethrower.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Flamethrower.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_Flamethrower.label,flamethrower shot,label,VEF.Weapons.ExpandableProjectileDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_SemiAutomaticRifle.label,semi-automatic rifle bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SemiAutomaticRifle.label,semi-automatic rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SemiAutomaticRifle.description,"A durable, self-loading rifle designed for rapid, controlled fire at medium-to-long ranges. Its mechanism allows for a high rate of fire compared to bolt-action models, making it ideal for maintaining continuous pressure on an enemy.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SemiAutomaticRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SemiAutomaticRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_LeverActionRifle.label,lever-action rifle bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LeverActionRifle.label,lever-action rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LeverActionRifle.description,"A traditional hunting rifle utilizing a lever-action mechanism. It offers a balance of moderate firepower, decent accuracy, and a fast follow-up shot compared to bolt-action designs, making it a reliable weapon for medium-range engagements.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LeverActionRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LeverActionRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_LightSMG.label,light SMG bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LightSMG.label,light SMG,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LightSMG.description,"A small, lightweight submachine gun designed for maneuverability in close-quarters combat. It fires a rapid burst of small-caliber rounds, making it highly effective at short range but quickly losing accuracy over distance.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LightSMG.tools.0.label,grip,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_LightSMG.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_SMG.label,SMG bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SMG.label,SMG,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SMG.description,"Modern, magazine-fed SMG built for overwhelming close-quarters fire. It uses small-caliber rounds in a long burst, sacrificing long-range accuracy for sheer, close-up firepower.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SMG.tools.0.label,grip,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_SMG.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_HMG.label,HMG bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HMG.label,HMG,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HMG.description,"A gas-operated heavy machine gun. Its massive frame and long barrel make it extremely heavy and slow to maneuver, but it delivers devastatingly long bursts of heavy-caliber fire, designed to suppress and tear through armored targets and groups of enemies.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HMG.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_HMG.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_ServiceRifle.label,service rifle bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_ServiceRifle.label,service rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_ServiceRifle.description,"A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\n\nNot as powerful as an assault rifle, but deliver 4 shot bursts.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_ServiceRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_ServiceRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_BattleRifle.label,battle rifle bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_BattleRifle.label,battle rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_BattleRifle.description,"A gas-operated rifle designed to deliver a powerful, accurate shot in medium-to-long-range engagements. It uses a heavier caliber round than a standard assault rifle, sacrificing burst size for superior damage and armor penetration.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_BattleRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_BattleRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_Carbine.label,carbine bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Carbine.label,carbine,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Carbine.description,"A general-purpose gas-operated assault rifle, slightly shortened and lighter for enhanced maneuverability. It fires an intermediate-caliber round in a long burst, offering good close-to-medium range accuracy but sacrificing long-range precision for superior handling.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Carbine.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_Carbine.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+Bullet_MarksmanRifle.label,marksman rifle bullet,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_MarksmanRifle.label,marksman rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_MarksmanRifle.description,"A specialized, semi-automatic rifle. It fires a powerful round with higher velocity than a standard assault rifle, offering an excellent balance of long-range precision and a faster rate of follow-up shots.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_MarksmanRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_MarksmanRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+Bullet_AntiMaterialRifle.label,anti-materiel impact shell,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_AntiMaterialRifle.label,anti-materiel rifle,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_AntiMaterialRifle.description,"Devastating, heavy-caliber bolt-action rifle designed to engage fortified positions and armored targets. It fires an exceptionally large round for superior damage and penetration at extreme ranges. Due to its weight and recoil, it's physically demanding and requires a long aiming period before it can be accurately fired.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_AntiMaterialRifle.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Gun_AntiMaterialRifle.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_TrenchGun.label,trench gun,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_TrenchGun.description,"A modernized pump-action shotgun for close-quarters trench warfare. Solid construction and a short barrel enable rapid firing and maneuvering, delivering a devastating blast of buckshot at short range.",description,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_TrenchGun.tools.0.label,stock,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_TrenchGun.tools.1.label,barrel,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bullet_TrenchGun.label,trench gun blast,label,ThingDef/RangedIndustrialExpanded.xml,def
+VWE_Bow_Crossbow.label,crossbow,label,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Crossbow.description,"A simple crossbow. It fires a standard bolt with decent accuracy and firing rate, making it a reliable mid-tier anti-armor ranged weapon.",description,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Crossbow.tools.0.label,limb,label,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Crossbow.tools.1.label,poke,label,ThingDef/RangedMedieval.xml,def
+VWE_Arrow_Bolt.label,crossbow bolt,label,ThingDef/RangedMedieval.xml,def
+VWE_Throwing_Knives.label,throwing knives,label,ThingDef/RangedMedieval.xml,def
+VWE_Throwing_Knives.description,"A small bundle of light, balanced knives designed to be thrown rapidly. Ineffective against armor, but capable of high close-range damage.",description,ThingDef/RangedMedieval.xml,def
+VWE_Throwing_Knives.tools.0.label,handle,label,ThingDef/RangedMedieval.xml,def
+VWE_Throwing_Knives.tools.1.label,blade,label,ThingDef/RangedMedieval.xml,def
+VWE_FlyingBlade.label,small knife,label,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Long.label,longbow,label,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Long.description,"A tall, powerful bow requiring great strength to draw. It launches high velocity arrows at extreme range.",description,ThingDef/RangedMedieval.xml,def
+VWE_Bow_Long.tools.0.label,limb,label,ThingDef/RangedMedieval.xml,def
+VWE_Arrow_Long.label,longbow arrow,label,ThingDef/RangedMedieval.xml,def
+VWE_Throwing_Rocks.label,throwing rocks,label,ThingDef/RangedNeolithic.xml,def
+VWE_Throwing_Rocks.description,A handful of rocks. Can inflict minor injuries in close range. Doesn't drop on death. Simple but effective.,description,ThingDef/RangedNeolithic.xml,def
+VWE_Throwing_Rocks.tools.0.label,rock,label,ThingDef/RangedNeolithic.xml,def
+VWE_Rock.label,small rock,label,ThingDef/RangedNeolithic.xml,def
+VWE_MakeThrowingRocks.label,make throwing rocks,label,RecipeDef/RangedNeolithic.xml,def
+VWE_MakeThrowingRocks.description,Chip rock chunks into usable weapons.,description,RecipeDef/RangedNeolithic.xml,def
+VWE_MakeThrowingRocks.jobString,Chipping rock chunks into usable weapon.,jobString,RecipeDef/RangedNeolithic.xml,def
+VWE_Bullet_ChargePistol.label,charge pistol shot,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargePistol.label,charge pistol,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargePistol.description,"This high-tech, self-loading pistol uses pulse-charge technology to channel unstable energy into each shot. The charged energy is released on impact, delivering superior damage and armor penetration. Its compact size and reliability make it an ideal backup weapon in high-tech combat.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargePistol.tools.0.label,stock,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargePistol.tools.1.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Bullet_ChargeShotgun.label,charge shotgun blast,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeShotgun.label,charge shotgun,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeShotgun.description,"A sophisticated, high-tech scattergun utilizing pulse-charge technology. The energy is channeled into a single, high-impact slug, delivering devastating damage and superior armor penetration at close range. Its integrated pump-action mechanism cycles rounds rapidly, making it the ultimate tool for close-quarters breach and clear operations.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeShotgun.tools.0.label,stock,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeShotgun.tools.1.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Bullet_ChargeSMG.label,charge SMG shot,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSMG.label,charge SMG,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSMG.description,"A compact submachine gun built using advanced pulse-charge technology. It fires a rapid burst of kinetic rounds charged with unstable energy, trading long-range precision for devastating, high-penetration firepower at close quarters. Its speed and size make it an exceptional weapon for clearing enclosed spaces.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSMG.tools.0.label,stock,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSMG.tools.1.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Bullet_ChargeLMG.label,charge blaster shot,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeLMG.label,charge blaster,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeLMG.description,"A massive, portable charge weapon designed for sustained, suppressive fire. It uses advanced pulse-charge technology to channel and release devastating shots charged with unstable energy through its heavy-duty barrel. This design sacrifices spread for sheer focused power, making it capable of tearing apart multiple enemies or structures in a single, prolonged burst.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeLMG.tools.0.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Bullet_ChargeMinigun.label,heavy charge blaster shot,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeMinigun.label,heavy charge blaster,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeMinigun.description,"A colossal charge weapon adapted for portable use. It channels immense pulse-charge energy into heavy-caliber slugs, firing them in devastating, sustained bursts. While its mass makes it difficult to handle, it is unrivaled in its capacity to tear through hardened targets and armored columns.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeMinigun.tools.0.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeRocketLauncher.label,charge missile launcher,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeRocketLauncher.description,"A portable, shoulder-fired launcher that uses laser targeting to fire an explosive, charged missile high into the air. The projectile follows a ballistic arc, allowing it to bypass cover and strike targets without needing a direct line of sight. Must be used in an unroofed area.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeRocketLauncher.tools.0.label,stock,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeRocketLauncher.tools.1.label,barrel,label,ThingDef/RangedSpacer.xml,def
+VWE_Rocket_AntiGrain.label,antigrain rocket,label,ThingDef/RangedSpacer.xml,def
+Bullet_ChargeSniperRifle.label,charge sniper slug,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSniperRifle.label,charge sniper rifle,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSniperRifle.description,"A specialized, high-velocity charge rifle designed for extreme-range engagement with anti-armor capabilities. It channels immense pulse-charge energy into a single, kinetic slug, delivering extremely high damage and armor penetration with pinpoint accuracy at maximum distance. Its bulk requires a stable firing position.",description,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSniperRifle.tools.0.label,stock,label,ThingDef/RangedSpacer.xml,def
+VWE_Gun_ChargeSniperRifle.tools.1.label,barrel,label,ThingDef/RangedSpacer.xml,def

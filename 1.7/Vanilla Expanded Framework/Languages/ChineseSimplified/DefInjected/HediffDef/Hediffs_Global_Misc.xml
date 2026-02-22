@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A splash of acid that continues to cause burn wounds for quite some time after the initial attack.-->
+  <VEF_AcidBuildup.description>A splash of acid that continues to cause burn wounds for quite some time after the initial attack.</VEF_AcidBuildup.description>
+  <!--EN: acid burn-->
+  <VEF_AcidBuildup.label>acid burn</VEF_AcidBuildup.label>
+  <!--EN: minor, receiving burns-->
+  <VEF_AcidBuildup.stages.0.label>minor, receiving burns</VEF_AcidBuildup.stages.0.label>
+  <!--EN: moderate, receiving burns-->
+  <VEF_AcidBuildup.stages.1.label>moderate, receiving burns</VEF_AcidBuildup.stages.1.label>
+  <!--EN: serious, receiving burns-->
+  <VEF_AcidBuildup.stages.2.label>serious, receiving burns</VEF_AcidBuildup.stages.2.label>
+  <!--EN: tended-->
+  <VEF_AcidBurn.comps.0.labelSolidTendedWell>tended</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <VEF_AcidBurn.comps.0.labelTendedWell>bandaged</VEF_AcidBurn.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <VEF_AcidBurn.comps.0.labelTendedWellInner>tended</VEF_AcidBurn.comps.0.labelTendedWellInner>
+  <!--EN: acid burn scar-->
+  <VEF_AcidBurn.comps.2.permanentLabel>acid burn scar</VEF_AcidBurn.comps.2.permanentLabel>
+  <!--EN: An acid burn.-->
+  <VEF_AcidBurn.description>An acid burn.</VEF_AcidBurn.description>
+  <!--EN: Corroded-->
+  <VEF_AcidBurn.injuryProps.destroyedLabel>Corroded</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <!--EN: Corroded-->
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroded</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <!--EN: acid burn-->
+  <VEF_AcidBurn.label>acid burn</VEF_AcidBurn.label>
+  <!--EN: an acid burn-->
+  <VEF_AcidBurn.labelNoun>an acid burn</VEF_AcidBurn.labelNoun>
+  <!--EN: Shrouded in a veil of controlled invisibility.-->
+  <VEF_ControlledInvisibility.description>Shrouded in a veil of controlled invisibility.</VEF_ControlledInvisibility.description>
+  <!--EN: invisibility-->
+  <VEF_ControlledInvisibility.label>invisibility</VEF_ControlledInvisibility.label>
+  <!--EN: Boom.-->
+  <VEF_Kamikaze.description>Boom.</VEF_Kamikaze.description>
+  <!--EN: sudden detonation-->
+  <VEF_Kamikaze.label>sudden detonation</VEF_Kamikaze.label>
+  <!--EN: initial-hidden-->
+  <VEF_Kamikaze.stages.0.label>initial-hidden</VEF_Kamikaze.stages.0.label>
+  <!--EN: critical-->
+  <VEF_Kamikaze.stages.1.label>critical</VEF_Kamikaze.stages.1.label>
+  <!--EN: This creature feeds on sunlight. Inadequate levels of light will kill it.-->
+  <VEF_LightSustenance.description>This creature feeds on sunlight. Inadequate levels of light will kill it.</VEF_LightSustenance.description>
+  <!--EN: level of sunlight-->
+  <VEF_LightSustenance.label>level of sunlight</VEF_LightSustenance.label>
+  <!--EN: adequate light-->
+  <VEF_LightSustenance.stages.0.label>adequate light</VEF_LightSustenance.stages.0.label>
+  <!--EN: poor light levels-->
+  <VEF_LightSustenance.stages.1.label>poor light levels</VEF_LightSustenance.stages.1.label>
+  <!--EN: very low light levels-->
+  <VEF_LightSustenance.stages.2.label>very low light levels</VEF_LightSustenance.stages.2.label>
+  <!--EN: lack of sunlight-->
+  <VEF_LightSustenance.stages.3.label>lack of sunlight</VEF_LightSustenance.stages.3.label>
+  <!--EN: extreme lack of sustenance-->
+  <VEF_LightSustenance.stages.4.label>extreme lack of sustenance</VEF_LightSustenance.stages.4.label>
+  <!--EN: permanent burn-->
+  <VEF_PermanentBurn.comps.1.permanentLabel>permanent burn</VEF_PermanentBurn.comps.1.permanentLabel>
+  <!--EN: A permanent burn scar that cannot be treated.-->
+  <VEF_PermanentBurn.description>A permanent burn scar that cannot be treated.</VEF_PermanentBurn.description>
+  <!--EN: Burned off-->
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>Burned off</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <!--EN: Burned out-->
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Burned out</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <!--EN: permanent burn-->
+  <VEF_PermanentBurn.label>permanent burn</VEF_PermanentBurn.label>
+  <!--EN: a permanent burn-->
+  <VEF_PermanentBurn.labelNoun>a permanent burn</VEF_PermanentBurn.labelNoun>
+  <!--EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.-->
+  <VEF_ToxicBuildup.description>Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.</VEF_ToxicBuildup.description>
+  <!--EN: toxic buildup-->
+  <VEF_ToxicBuildup.label>toxic buildup</VEF_ToxicBuildup.label>
+  <!--EN: initial-->
+  <VEF_ToxicBuildup.stages.0.label>initial</VEF_ToxicBuildup.stages.0.label>
+  <!--EN: initial-->
+  <VEF_ToxicBuildup.stages.1.label>initial</VEF_ToxicBuildup.stages.1.label>
+  <!--EN: minor-->
+  <VEF_ToxicBuildup.stages.2.label>minor</VEF_ToxicBuildup.stages.2.label>
+  <!--EN: moderate-->
+  <VEF_ToxicBuildup.stages.3.label>moderate</VEF_ToxicBuildup.stages.3.label>
+  <!--EN: serious-->
+  <VEF_ToxicBuildup.stages.4.label>serious</VEF_ToxicBuildup.stages.4.label>
+  <!--EN: extreme-->
+  <VEF_ToxicBuildup.stages.5.label>extreme</VEF_ToxicBuildup.stages.5.label>
+  <!--EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed.-->
+  <VFEP_HypothermicSlowdown.description>Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed.</VFEP_HypothermicSlowdown.description>
+  <!--EN: hypothermic slowdown-->
+  <VFEP_HypothermicSlowdown.label>hypothermic slowdown</VFEP_HypothermicSlowdown.label>
+  <!--EN: minor-->
+  <VFEP_HypothermicSlowdown.stages.0.label>minor</VFEP_HypothermicSlowdown.stages.0.label>
+  <!--EN: minor-->
+  <VFEP_HypothermicSlowdown.stages.1.label>minor</VFEP_HypothermicSlowdown.stages.1.label>
+  <!--EN: moderate-->
+  <VFEP_HypothermicSlowdown.stages.2.label>moderate</VFEP_HypothermicSlowdown.stages.2.label>
+  <!--EN: serious-->
+  <VFEP_HypothermicSlowdown.stages.3.label>serious</VFEP_HypothermicSlowdown.stages.3.label>
+  <!--EN: extreme-->
+  <VFEP_HypothermicSlowdown.stages.4.label>extreme</VFEP_HypothermicSlowdown.stages.4.label>
+</LanguageData>

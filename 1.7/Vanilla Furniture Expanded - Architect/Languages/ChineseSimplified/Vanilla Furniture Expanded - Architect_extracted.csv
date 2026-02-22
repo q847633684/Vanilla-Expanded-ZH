@@ -1,0 +1,99 @@
+key,text,tag,file,type
+VFEArchitect.DesignatorRemoveFoundation,Remove foundation,VFEArchitect.DesignatorRemoveFoundation,Designators.xml,keyed
+VFEArchitect.DesignatorRemoveFoundationDesc,Remove foundations to reveal the terrain underneath.,VFEArchitect.DesignatorRemoveFoundationDesc,Designators.xml,keyed
+VFEArch_Foundation.label,foundations,label,TerrainAffordanceDef/TerrainAffordances.xml,def
+VFEArch_Soil.label,grass,label,TerrainAffordanceDef/TerrainAffordances.xml,def
+VFEArch_WoolCarpet.label,wooly carpet ({0}),label,TerrainTemplateDef/TerrainTemplateDefs.xml,def
+VFEArch_WoolCarpet.description,text.todo,description,TerrainTemplateDef/TerrainTemplateDefs.xml,def
+VFEArch_Asphalt.label,asphalt,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_Asphalt.description,Industrial-style asphalt used to create roads and streets. Very easy to traverse for people and vehicles alike.,description,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodenParquet.label,wooden parquet,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodenParquetWalnut.label,walnut wooden parquet,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodenParquetBirch.label,birch wooden parquet,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodenParquetMahogany.label,mahogany wooden parquet,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorWalnut.label,walnut wood floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorWalnut.description,"Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.",description,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorBirch.label,birch wood floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorBirch.description,"Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.",description,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorMahogany.label,mahogany wood floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_WoodPlankFloorMahogany.description,"Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.",description,TerrainDef/Terrain_Floors.xml,def
+VFEArch_CobblestoneFloorSandstone.label,sandstone cobblestone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_CobblestoneFloorGranite.label,granite cobblestone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_CobblestoneFloorLimestone.label,limestone cobblestone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_CobblestoneFloorSlate.label,slate cobblestone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_CobblestoneFloorMarble.label,marble cobblestone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_PolishedStoneFloorSandstone.label,sandstone polished stone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_PolishedStoneFloorGranite.label,granite polished stone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_PolishedStoneFloorLimestone.label,limestone polished stone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_PolishedStoneFloorSlate.label,slate polished stone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_PolishedStoneFloorMarble.label,marble polished stone floor,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_SlabsSandstone.label,sandstone slabs,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_SlabsGranite.label,granite slabs,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_SlabsLimestone.label,limestone slabs,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_SlabsSlate.label,slate slabs,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_SlabsMarble.label,marble slabs,label,TerrainDef/Terrain_Floors.xml,def
+VFEArch_FineWoodenFloor.label,fine wooden floor,label,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloor.description,"Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.",description,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorWalnut.label,walnut fine wooden floor,label,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorWalnut.description,"Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.",description,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorBirch.label,birch fine wooden floor,label,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorBirch.description,"Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.",description,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorMahogany.label,mahogany fine wooden floor,label,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloorMahogany.description,"Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct.",description,TerrainDef/Terrain_Floors_Royalty.xml,def
+VFEArch_FineWoodenFloor.label,fine wooden floor,label,DesignatorDropdownGroupDef/Terrain_Floors_Royalty.xml,def
+VFEArch_Grass.label,grass,label,TerrainDef/Terrain_Natural.xml,def
+VFEArch_Grass.description,"Field of grass with patches of soil here and there. Very pleasant to look at, it requires no resources to construct.",description,TerrainDef/Terrain_Natural.xml,def
+VFEArch_Grass.tools.0.label,dirt,label,TerrainDef/Terrain_Natural.xml,def
+VFEArch_LawnPlot.label,lawn plot,label,TerrainDef/Terrain_Natural.xml,def
+VFEArch_LawnPlot.description,Beautifully trimmed grass with very high beauty value. Requires tremendous amounts of work to construct.,description,TerrainDef/Terrain_Natural.xml,def
+VFEArch_LawnPlot.tools.0.label,dirt,label,TerrainDef/Terrain_Natural.xml,def
+VFEArch_PlayerBrokenAsphalt.label,broken asphalt,label,TerrainDef/Terrain_Road.xml,def
+VFEArch_PlayerBrokenAsphalt.description,"Old, broken apart asphalt, often found in the form of ancient highways around abandoned locations. Very easy to traverse for people and vehicles alike.",description,TerrainDef/Terrain_Road.xml,def
+VFEArch_PlayerPackedDirt.label,packed dirt,label,TerrainDef/Terrain_Road.xml,def
+VFEArch_PlayerPackedDirt.description,"Packed dirt, slightly enhancing movement speed, often forming paths around places of interest.",description,TerrainDef/Terrain_Road.xml,def
+VFEArch_BridgeSandstone.label,sandstone bridge,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_BridgeGranite.label,granite bridge,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_BridgeLimestone.label,limestone bridge,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_BridgeSlate.label,slate bridge,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_BridgeMarble.label,marble bridge,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_ConcreteFoundation.label,concrete foundation,label,TerrainDef/Terrain_Special.xml,def
+VFEArch_ConcreteFoundation.description,"Foundations are structures that can be built on mud, quicksand etc. Foundation allows more rapid movement across these normally slowing ground types. Once built, they can support many structures, including heavy structures and any other type of wall. Foundations allow for easier building in desert and swampy biomes. Floors cannot be built atop foundations.",description,TerrainDef/Terrain_Special.xml,def
+VFEArch_FineWall.label,fine wall,label,ThingDef/Buildings_Royalty.xml,def
+VFEArch_FineWall.description,"A beautiful, impassable wall. Capable of holding up a roof.",description,ThingDef/Buildings_Royalty.xml,def
+VFEArch_LogWall.label,log wall,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_LogWall.description,"A wall of horizontally placed wooden logs, for this nice, homely feeling. Capable of holding up a roof.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_ChainlinkFence.label,chain link fence,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_ChainlinkFence.description,"A metal fence made of posts joined by chain link sheets used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_PicketFence.label,picket fence,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_PicketFence.description,"A fence made of posts joined by vertical wooden boards called pickets, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.
+	
+Picket fences are considerably more beautiful than alternatives, and evoke a nice, homely feeling.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_BrickFence.label,brick fence,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_BrickFence.description,"A brick fence made tall brick pillars and a short fence in between them, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_InvisibleFence.label,invisible fence,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_InvisibleFence.description,"An invisible fence, for players wanting to create their own pens without fences, or to make it so that rivers or trees act as fence barriers. Does not have any path cost - thus not slowing down pawns wanting to traverse through it.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_LowFence.label,low fence,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_LowFence.description,"A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_HedgeWall.label,hedge wall,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_HedgeWall.description,An impassable wall made out of fake hedge. Very flammable.,description,ThingDef/Buildings_Structure.xml,def
+VFEArch_CellWall.label,cell wall,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_CellWall.description,An impassable wall consisting of prison bars. Cannot be attacked by prisoners.,description,ThingDef/Buildings_Structure.xml,def
+VFEArch_CellDoor.label,cell door,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_CellDoor.description,A slow moving door that separates two rooms. Cell doors cannot be attacked by prisoners.,description,ThingDef/Buildings_Structure.xml,def
+VFEArch_ArmoredWall.label,armored wall,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_ArmoredWall.description,"An impassable, heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_ArmoredDoor.label,armored door,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_ArmoredDoor.description,"Divides rooms. Armored doors must be manually opened, which slows people down. Armored doors are nearly entirely blast resistant and barely take damage from breaching methods.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_SingleDoor.label,single door,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_SingleDoor.description,"Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown does not depend on what the door is made of.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_SingleDoor_Flipped.label,single door (flipped),label,ThingDef/Buildings_Structure.xml,def
+VFEArch_AnimalGate.label,animal gate,label,ThingDef/Buildings_Structure.xml,def
+VFEArch_AnimalGate.description,"A doorway with a gate easy enough to open so that it can be pushed open by animals. It allows animals to pass, but doesn’t insulate the room. Animal gates are often used as barn entrances in warmer climates.",description,ThingDef/Buildings_Structure.xml,def
+VFEArch_StoneBridge.label,stone bridge,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_WoodFloor.label,wood floor,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_CobblestoneFloor.label,cobblestone floor,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_PolishedStoneFloor.label,polished stone floor,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_StoneSlabs.label,stone slabs,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_PicketFence.label,picket fence,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_WoodenParquet.label,wooden parquet,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
+VFEArch_WoolCarpet.label,wooly carpet,label,DesignatorDropdownGroupDef/DesignatorDropdownGroupDef.xml,def
