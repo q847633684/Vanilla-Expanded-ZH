@@ -1,149 +1,145 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Adrenaline rush greatly increases the speed of the hybrid for a while, and then it needs to be recharged to be used again.-->
-  <GR_AdrenalineBurst.description>肾上腺素激增会暂时大幅提高混合体的速度，然后需要充电才能再次使用。</GR_AdrenalineBurst.description>
+  <GR_AdrenalineBurst.description>使肾上腺超负荷运转，大幅提升自身的移动速度。效果结束后会陷入长达半天的力竭状态。</GR_AdrenalineBurst.description>
   <!--EN: adrenaline rush-->
-  <GR_AdrenalineBurst.label>肾上腺素激增</GR_AdrenalineBurst.label>
+  <GR_AdrenalineBurst.label>肾上腺素激发</GR_AdrenalineBurst.label>
   <!--EN: exhausted-->
   <GR_AdrenalineBurst.stages.1.label>筋疲力尽的</GR_AdrenalineBurst.stages.1.label>
   <!--EN: A condition that makes an animal unable to walk by interfering with the motor cortex. If not treated in time, Abasia inevitably interferes with functioning of organs - for example by halting the heart functions. A creature with Animal Abasia can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality.-->
-  <GR_AnimalAbasia.description>通过干扰运动皮层而导致动物无法行走的病症。如果不及时治疗，Abasia 不可避免地会干扰器官功能 - 例如停止心脏功能。患有动物无毛病的生物可以被照料，这会减缓疾病，但无法治愈。
-
-任何杂交或典范动物在孵化或自然出生后 3 年后都会患上这种疾病，尽管这受到杂交质量的影响。</GR_AnimalAbasia.description>
+  <GR_AnimalAbasia.description>因大脑皮层运动区遭到扰乱而失去了行动能力。如果患病的生物得不到及时的治疗，步瘫症很可能会使心脏也停止跳动。\n\n这种疾病无法根治，定期护理只能延缓症状的恶化。\n\n所有混种生物和无瑕生物都有可能会在出生3年后患上这种基因疾病。根据混种生物和无瑕生物的品质不同，其发病时间也会推迟或提前。</GR_AnimalAbasia.description>
   <!--EN: animal abasia-->
-  <GR_AnimalAbasia.label>动物修道院</GR_AnimalAbasia.label>
+  <GR_AnimalAbasia.label>步瘫症</GR_AnimalAbasia.label>
   <!--EN: paralyzed-->
-  <GR_AnimalAbasia.stages.0.label>瘫痪的</GR_AnimalAbasia.stages.0.label>
+  <GR_AnimalAbasia.stages.0.label>瘫痪</GR_AnimalAbasia.stages.0.label>
   <!--EN: This creature was genetically modified with a controller booster.-->
-  <GR_AnimalControlHediff.description>这个生物是用控制器增强器进行基因改造的。</GR_AnimalControlHediff.description>
+  <GR_AnimalControlHediff.description>此单位体内植入了神经操控器，可以直接被征召。</GR_AnimalControlHediff.description>
   <!--EN: animal controller-->
-  <GR_AnimalControlHediff.label>动物控制器</GR_AnimalControlHediff.label>
+  <GR_AnimalControlHediff.label>神经操控</GR_AnimalControlHediff.label>
   <!--EN: A disease originating from a bacterial infection that attacks lungs. Animals with tuberculosis will keep spitting blood until blood loss causes them to die. Every time a coughing attack occurs, the lungs of that animal will get more and more damaged. A creature with Animal Tuberculosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality.-->
-  <GR_AnimalTuberculosis.description>一种源自攻击肺部的细菌感染的疾病。患有结核病的动物会不断吐出血液，直到血液的吐出导致它们死亡。每次咳嗽发作时，动物的肺部都会受到越来越严重的损害。患有动物结核病的生物可以得到照顾，这会减缓疾病的发展，但无法治愈。
-
-任何杂交或典范动物在孵化或自然出生后 3 年后都会患上这种疾病，尽管这会受到杂交质量的影响。</GR_AnimalTuberculosis.description>
+  <GR_AnimalTuberculosis.description>因肺部被细菌感染而引发的疾病。如果患病的生物得不到及时的治疗，肺结核会使其不断地咳血，因此持续受损的肺部最终也会完全坏死。\n\n这种疾病无法根治，定期护理只能延缓症状的恶化。\n\n所有混种生物和无瑕生物都有可能会在出生3年后患上这种基因疾病。根据混种生物和无瑕生物的品质不同，其发病时间也会推迟或提前。</GR_AnimalTuberculosis.description>
   <!--EN: animal tuberculosis-->
-  <GR_AnimalTuberculosis.label>动物结核病</GR_AnimalTuberculosis.label>
+  <GR_AnimalTuberculosis.label>肺结核</GR_AnimalTuberculosis.label>
   <!--EN: initial-->
-  <GR_AnimalTuberculosis.stages.0.label>最初的</GR_AnimalTuberculosis.stages.0.label>
+  <GR_AnimalTuberculosis.stages.0.label>肺部受损</GR_AnimalTuberculosis.stages.0.label>
   <!--EN: damaged lungs-->
-  <GR_AnimalTuberculosis.stages.1.label>肺部受损</GR_AnimalTuberculosis.stages.1.label>
+  <GR_AnimalTuberculosis.stages.1.label>轻微</GR_AnimalTuberculosis.stages.1.label>
   <!--EN: very damaged lungs-->
   <GR_AnimalTuberculosis.stages.2.label>肺部严重受损</GR_AnimalTuberculosis.stages.2.label>
   <!--EN: bear claws-->
   <GR_BearClaws.comps.0.tools.0.label>熊爪</GR_BearClaws.comps.0.tools.0.label>
   <!--EN: An improvement over the bionic Power Claw, these claws have been vat-grown with a mixture of human and bear DNA, and replace the subject's hand with versatile, non-retractable claws.-->
-  <GR_BearClaws.description>这些爪子是对仿生动力爪的改进，是用人类和熊的 DNA 混合而成的，并用多功能、不可伸缩的爪子取代了对象的手。</GR_BearClaws.description>
+  <GR_BearClaws.description>一个已安装的蛮熊爪。</GR_BearClaws.description>
   <!--EN: humanoid implant: bear claws-->
-  <GR_BearClaws.label>人形植入物：熊爪</GR_BearClaws.label>
+  <GR_BearClaws.label>蛮熊爪</GR_BearClaws.label>
   <!--EN: animal Implant: bear leg-->
   <GR_BearLeg.comps.0.tools.0.label>动物植入物：熊腿</GR_BearLeg.comps.0.tools.0.label>
   <!--EN: A prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack.-->
-  <GR_BearLeg.description>一条用熊肌肉发达的角色。强化的假肢动物腿，最后是强大的熊爪，增加了强大的近战攻击力。</GR_BearLeg.description>
+  <GR_BearLeg.description>一个已安装的蛮熊肢。</GR_BearLeg.description>
   <!--EN: animal Implant: bear leg-->
-  <GR_BearLeg.label>动物植入物：熊腿</GR_BearLeg.label>
+  <GR_BearLeg.label>蛮熊肢</GR_BearLeg.label>
   <!--EN: An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens.-->
-  <GR_BearLiver.description>一种利用熊基因来改善肝脏功能的植入物。对于那些酗酒的鸡特别有用。</GR_BearLiver.description>
+  <GR_BearLiver.description>一个已安装的蛮熊肝。</GR_BearLiver.description>
   <!--EN: animal Implant: bear liver-->
-  <GR_BearLiver.label>动物植入物：熊肝</GR_BearLiver.label>
+  <GR_BearLiver.label>蛮熊肝</GR_BearLiver.label>
   <!--EN: Grafts of bear muscle tissue on the subject's torso increase overall strength and stamina. These grafts however tend to stimulate the production of an abundance of body hair.-->
-  <GR_BearMuscleTissue.description>将熊肌肉发达的角色。组织移植到受试者的躯干上可以增强整体力量和耐力。然而，这些移植物往往会刺激大量体毛的产生。</GR_BearMuscleTissue.description>
+  <GR_BearMuscleTissue.description>一个已安装的蛮熊肌肉组织。</GR_BearMuscleTissue.description>
   <!--EN: humanoid implant: bear muscle tissue-->
-  <GR_BearMuscleTissue.label>人形植入物：熊肌肉发达的角色。组织</GR_BearMuscleTissue.label>
+  <GR_BearMuscleTissue.label>蛮熊肌肉组织</GR_BearMuscleTissue.label>
   <!--EN: This creature has been victim of a frenzied attack.-->
-  <GR_BloodFrenzy.description>该生物已成为疯狂攻击的受害者。</GR_BloodFrenzy.description>
+  <GR_BloodFrenzy.description>此单位已被拥有“嗜血狂猎”能力的生物攻击了。</GR_BloodFrenzy.description>
   <!--EN: victim of blood frenzy-->
-  <GR_BloodFrenzy.label>血疯狂的受害者</GR_BloodFrenzy.label>
+  <GR_BloodFrenzy.label>嗜血狂猎</GR_BloodFrenzy.label>
   <!--EN: An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart.-->
-  <GR_BoomalopeHeart.description>使用化学燃料将血液泵入动物体内的植入物。这种植入物适用于心脏发生灾难性衰竭的生物，因为它的效率低于天然心脏。</GR_BoomalopeHeart.description>
+  <GR_BoomalopeHeart.description>一个已安装的爆炸羊心脏。</GR_BoomalopeHeart.description>
   <!--EN: animal Implant: boomalope heart-->
-  <GR_BoomalopeHeart.label>动物植入物：boomalope 心脏</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.label>爆炸羊心脏</GR_BoomalopeHeart.label>
   <!--EN: These skin nodules can be integrated in a human's torso, causing a huge explosion if the subjects dies violently.-->
-  <GR_BoomalopeNodules.description>这些皮肤结节可以融入人类的躯干，如果对象剧烈死亡，会引起巨大的爆炸。</GR_BoomalopeNodules.description>
+  <GR_BoomalopeNodules.description>一个已安装的爆炸囊。</GR_BoomalopeNodules.description>
   <!--EN: humanoid implant: boomalope nodules-->
-  <GR_BoomalopeNodules.label>人形植入物：boomalope 结节</GR_BoomalopeNodules.label>
+  <GR_BoomalopeNodules.label>爆炸囊</GR_BoomalopeNodules.label>
   <!--EN: An implant that uses boomalope genes to improve function of the stomach.-->
-  <GR_BoomalopeStomach.description>一种利用 boomalope 基因来改善胃功能的植入物。</GR_BoomalopeStomach.description>
+  <GR_BoomalopeStomach.description>一个已安装的爆炸羊胃。</GR_BoomalopeStomach.description>
   <!--EN: animal Implant: boomalope stomach-->
-  <GR_BoomalopeStomach.label>动物植入物：boomalope胃</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.label>爆炸羊胃</GR_BoomalopeStomach.label>
   <!--EN: This huge leporid ear gives amazing enhanced hearing. Also, super kawaii!-->
-  <GR_BunnyEars.description>这只巨大的豹纹耳朵具有惊人的增强听力。还有，超级卡哇伊！</GR_BunnyEars.description>
+  <GR_BunnyEars.description>一个已安装的兔耳。</GR_BunnyEars.description>
   <!--EN: humanoid implant: bunny ear-->
-  <GR_BunnyEars.label>人形植入物：兔耳</GR_BunnyEars.label>
+  <GR_BunnyEars.label>兔耳</GR_BunnyEars.label>
   <!--EN: Burrows underground to be able to move while being almost impervious to attacks. This ability needs to be recharged to be used again.-->
-  <GR_Burrowing.description>钻入地下以便能够移动，同时几乎不受攻击。这个能力需要充值才能再次使用。</GR_Burrowing.description>
+  <GR_Burrowing.description>挖洞潜入地下，极大幅提升自身的防御力。</GR_Burrowing.description>
   <!--EN: burrowing underground-->
-  <GR_Burrowing.label>钻入地下</GR_Burrowing.label>
+  <GR_Burrowing.label>潜入地下</GR_Burrowing.label>
   <!--EN: recovering-->
   <GR_Burrowing.stages.1.label>恢复中</GR_Burrowing.stages.1.label>
   <!--EN: An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes.-->
-  <GR_CanidEye.description>一种眼睛植入物，利用犬科动物基因的基因剪接，为老（或受损）的眼睛提供良好的视力。这种植入物并不是为了取代健康的眼睛。</GR_CanidEye.description>
+  <GR_CanidEye.description>一个已安装的犬狼眼。</GR_CanidEye.description>
   <!--EN: animal Implant: canid eye-->
-  <GR_CanidEye.label>动物植入物：犬眼</GR_CanidEye.label>
+  <GR_CanidEye.label>犬狼眼</GR_CanidEye.label>
   <!--EN: This hybrid humanoid / feline eye provides improved night vision, at the expense of a certain short-sightedness outside and during the day. Ideal for nyctophile colonists.-->
-  <GR_CatEye.description>这种人形/猫科动物的混合眼睛可以改善夜间视力，但会在室外和白天造成一定的近视。嗜睡者殖民者的理想选择。</GR_CatEye.description>
+  <GR_CatEye.description>一个已安装的猫咪眼。</GR_CatEye.description>
   <!--EN: humanoid implant: cat eye-->
-  <GR_CatEye.label>人形植入物：猫眼睛</GR_CatEye.label>
+  <GR_CatEye.label>猫咪眼</GR_CatEye.label>
   <!--EN: Cat reflexes greatly increases the speed and melee dodge chance of the hybrid for a while, and then it needs to be recharged to be used again.-->
-  <GR_CatReflexes.description>猫反射会在一段时间内大幅提升混合体的速度和近战闪避几率，之后需要充能才能再次使用。</GR_CatReflexes.description>
+  <GR_CatReflexes.description>激发猫科生物的本能，提升自身的移动速度与近战闪避几率。</GR_CatReflexes.description>
   <!--EN: cat reflexes-->
-  <GR_CatReflexes.label>猫 反应</GR_CatReflexes.label>
+  <GR_CatReflexes.label>猫之本能</GR_CatReflexes.label>
   <!--EN: exhausted-->
   <GR_CatReflexes.stages.1.label>筋疲力尽的</GR_CatReflexes.stages.1.label>
   <!--EN: A tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail.-->
-  <GR_CatTail.description>一种 尾 植入物，使用猫科动物基因的基因剪接来替代 破碎 或缺失的 尾。该植入物并不意味着取代健康的尾。</GR_CatTail.description>
+  <GR_CatTail.description>一个已安装的猫咪尾。</GR_CatTail.description>
   <!--EN: animal Implant: cat tail-->
-  <GR_CatTail.label>动物植入物：猫 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</GR_CatTail.label>
+  <GR_CatTail.label>猫咪尾</GR_CatTail.label>
   <!--EN: Releases an insanity cloud that reduces sanity of anyone passing through it, and then it needs to be recharged to be used again.-->
-  <GR_CausedHorror.description>释放出疯狂云，降低任何经过它的人的理智，然后需要重新充电才能再次使用。</GR_CausedHorror.description>
+  <GR_CausedHorror.description>向四周散布大量能使生物逐渐丧失理智的迷雾。</GR_CausedHorror.description>
   <!--EN: recently invoked the insanity of That Which Man Is Not Meant to Know-->
-  <GR_CausedHorror.label>最近援引了《人不该知道的事》的疯狂</GR_CausedHorror.label>
+  <GR_CausedHorror.label>释放疯狂迷雾</GR_CausedHorror.label>
   <!--EN: recovering-->
-  <GR_CausedHorror.stages.0.label>恢复中</GR_CausedHorror.stages.0.label>
+  <GR_CausedHorror.stages.0.label>正在恢复</GR_CausedHorror.stages.0.label>
   <!--EN: Releases a poison cloud that harms anyone passing through it, except reptilians, and then it needs to be recharged to be used again.-->
-  <GR_CausedPoisonCloud.description>释放毒云，伤害任何经过它的人，爬行动物除外，然后需要重新充电才能再次使用。</GR_CausedPoisonCloud.description>
+  <GR_CausedPoisonCloud.description>向四周散布大量能使生物中毒的毒气。</GR_CausedPoisonCloud.description>
   <!--EN: recently released poison cloud-->
-  <GR_CausedPoisonCloud.label>最近发布的毒云</GR_CausedPoisonCloud.label>
+  <GR_CausedPoisonCloud.label>释放毒气</GR_CausedPoisonCloud.label>
   <!--EN: recovering-->
-  <GR_CausedPoisonCloud.stages.0.label>恢复中</GR_CausedPoisonCloud.stages.0.label>
+  <GR_CausedPoisonCloud.stages.0.label>正在恢复</GR_CausedPoisonCloud.stages.0.label>
   <!--EN: A reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body.-->
-  <GR_ChemfuelHeart.description>强化仿生心脏，其作用类似于微型四冲程内燃机，由化学燃料驱动，将血液泵入体内。</GR_ChemfuelHeart.description>
+  <GR_ChemfuelHeart.description>一个已安装的化合燃料心脏。</GR_ChemfuelHeart.description>
   <!--EN: humanoid implant: chemfuel heart-->
-  <GR_ChemfuelHeart.label>人形植入物：chemfuel 心脏</GR_ChemfuelHeart.label>
+  <GR_ChemfuelHeart.label>化合燃料心脏</GR_ChemfuelHeart.label>
   <!--EN: A reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food.-->
-  <GR_ChemfuelStomach.description>强化仿生胃，利用胃酸和化学燃料的组合来有效消化食物。</GR_ChemfuelStomach.description>
+  <GR_ChemfuelStomach.description>一个已安装的化合燃料胃。</GR_ChemfuelStomach.description>
   <!--EN: humanoid implant: chemfuel stomach-->
-  <GR_ChemfuelStomach.label>人形植入物：化学燃料胃</GR_ChemfuelStomach.label>
+  <GR_ChemfuelStomach.label>化合燃料胃</GR_ChemfuelStomach.label>
   <!--EN: An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures.-->
-  <GR_ChickenBrains.description>一种使用鸡大脑组织来修补受损神经通路的植入物。这种植入物是为脑死亡的生物设计的。</GR_ChickenBrains.description>
+  <GR_ChickenBrains.description>一个已安装的家禽脑。</GR_ChickenBrains.description>
   <!--EN: animal Implant: chicken brains-->
-  <GR_ChickenBrains.label>动物植入物：鸡脑</GR_ChickenBrains.label>
+  <GR_ChickenBrains.label>家禽脑</GR_ChickenBrains.label>
   <!--EN: An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today.-->
-  <GR_ChickenKidney.description>一种利用鸡基因来改善肾脏功能的植入物。鸟类有很大的肾脏。是的，你今天学到了。</GR_ChickenKidney.description>
+  <GR_ChickenKidney.description>一个已安装的飞禽肾。</GR_ChickenKidney.description>
   <!--EN: animal Implant: chicken kidney-->
-  <GR_ChickenKidney.label>动物植入物：鸡肾</GR_ChickenKidney.label>
+  <GR_ChickenKidney.label>飞禽肾</GR_ChickenKidney.label>
   <!--EN: A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise.-->
-  <GR_ChitinousHeart.description>仿生心脏植入物使用强化的昆虫甲壳素 贝壳 进行保护。这是一颗注定要承受打击的心脏。双关语的意思，但这是最后一个，我保证。</GR_ChitinousHeart.description>
+  <GR_ChitinousHeart.description>一个已安装的甲壳质心脏。</GR_ChitinousHeart.description>
   <!--EN: animal Implant: chitinous heart-->
-  <GR_ChitinousHeart.label>动物植入物：几丁质心脏</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.label>甲壳质心脏</GR_ChitinousHeart.label>
   <!--EN: This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings.-->
-  <GR_CompoundEye.description>这种类人/昆虫混合眼睛可以改善各种不同波长的视力，包括通常在人类范围之外的波长，从而完全改变受试者感知周围环境的方式。</GR_CompoundEye.description>
+  <GR_CompoundEye.description>一个已安装的虫族复眼（人类）。</GR_CompoundEye.description>
   <!--EN: humanoid implant: compound insectoid eye-->
-  <GR_CompoundEye.label>人形植入物：复合昆虫眼</GR_CompoundEye.label>
+  <GR_CompoundEye.label>虫族复眼</GR_CompoundEye.label>
   <!--EN: A bionic implant adding a sturdy crocodile spine to the creature's skeletal system.-->
-  <GR_CrocodileSpine.description>仿生植入物为该生物的骨骼系统添加了坚固的鳄鱼脊柱。</GR_CrocodileSpine.description>
+  <GR_CrocodileSpine.description>一个已安装的鳄鱼脊椎。</GR_CrocodileSpine.description>
   <!--EN: animal Implant: crocodile spine-->
-  <GR_CrocodileSpine.label>动物植入物：鳄鱼脊椎</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.label>鳄鱼脊椎</GR_CrocodileSpine.label>
   <!--EN: A set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though...-->
-  <GR_DevouringJaws.description>一组经过改进的牙齿，旨在快速咀嚼和摄取任何类型的食物。虽然留下了一些混乱...</GR_DevouringJaws.description>
+  <GR_DevouringJaws.description>一个已安装的犬狼颌。</GR_DevouringJaws.description>
   <!--EN: humanoid implant: devouring jaws-->
-  <GR_DevouringJaws.label>人形植入物：吞噬颚</GR_DevouringJaws.label>
+  <GR_DevouringJaws.label>犬狼颌</GR_DevouringJaws.label>
   <!--EN: mole claws-->
   <GR_DiggingBearClaws.comps.0.tools.0.label>鼹鼠爪</GR_DiggingBearClaws.comps.0.tools.0.label>
   <!--EN: Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield.-->
-  <GR_DiggingBearClaws.description>奇形怪状但功能强大的手持刀片经过改造可用于采矿作业，提高了速度和产量。</GR_DiggingBearClaws.description>
+  <GR_DiggingBearClaws.description>一个已安装的鼹鼠爪。</GR_DiggingBearClaws.description>
   <!--EN: humanoid implant: digging mole claws-->
-  <GR_DiggingBearClaws.label>人形植入物：挖鼹鼠爪</GR_DiggingBearClaws.label>
+  <GR_DiggingBearClaws.label>鼹鼠爪</GR_DiggingBearClaws.label>
   <!--EN: tended-->
   <GR_DistortionHediff.comps.0.labelSolidTendedWell>照顾</GR_DistortionHediff.comps.0.labelSolidTendedWell>
   <!--EN: bandaged-->
@@ -153,391 +149,375 @@
   <!--EN: warped scar-->
   <GR_DistortionHediff.comps.2.permanentLabel>扭曲的疤痕</GR_DistortionHediff.comps.2.permanentLabel>
   <!--EN: This body part has been terribly warped by being exposed to a dangerous spatial distortion. Warping is very painful, and warped body parts are often lost.-->
-  <GR_DistortionHediff.description>这个身体部位已经被暴露严重扭曲到危险的空间扭曲。扭曲是非常痛苦的，并且扭曲的身体部位经常会丢失。</GR_DistortionHediff.description>
+  <GR_DistortionHediff.description>空间扭曲弹造成的扭曲伤口。</GR_DistortionHediff.description>
   <!--EN: Lost to warping-->
-  <GR_DistortionHediff.injuryProps.destroyedLabel>失去翘曲</GR_DistortionHediff.injuryProps.destroyedLabel>
+  <GR_DistortionHediff.injuryProps.destroyedLabel>被粉碎</GR_DistortionHediff.injuryProps.destroyedLabel>
   <!--EN: warping-->
-  <GR_DistortionHediff.label>翘曲</GR_DistortionHediff.label>
+  <GR_DistortionHediff.label>扭曲伤</GR_DistortionHediff.label>
   <!--EN: A chemical addiction to active mechanites. Long-term presence of active mechanites has caused neurological adaptations at the cellular level, so the brain can no longer function properly without them.
 \nWithout regular doses of active mechanites, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.-->
-  <GR_ElectroEggAddiction.description>对活性机械剂的化学成瘾。活性机械剂的长期存在会引起细胞水平的神经适应，因此大脑没有它们就无法再正常工作。
-
-如果没有定期服用活性机械剂，就会出现戒断症状。然而，长期禁欲会迫使大脑适应回到正常状态，从而解决毒瘾。</GR_ElectroEggAddiction.description>
+  <GR_ElectroEggAddiction.description>长期过量的摄取活化型纳米机械已经造成了神经系统的适应。\n\n如果没有定期摄取合适数量的机械蛋，戒断反应就会开始。长时间的戒断会迫使大脑适应并恢复到正常状态，从而戒除活化型纳米机械成瘾。</GR_ElectroEggAddiction.description>
   <!--EN: active mechanites addiction-->
-  <GR_ElectroEggAddiction.label>主动机械成瘾</GR_ElectroEggAddiction.label>
+  <GR_ElectroEggAddiction.label>活化型纳米机械成瘾</GR_ElectroEggAddiction.label>
   <!--EN: withdrawal-->
   <GR_ElectroEggAddiction.stages.1.label>提款</GR_ElectroEggAddiction.stages.1.label>
   <!--EN: Active mechanites in the bloodstream. They lift the mood and increase attentiveness.-->
-  <GR_ElectroEggHigh.description>血液中活跃的机械分子。它们可以提升情绪并提高注意力。</GR_ElectroEggHigh.description>
+  <GR_ElectroEggHigh.description>流淌在血液里的活化型纳米机械。它能够增强意识与新陈代谢，并提供心情增益。</GR_ElectroEggHigh.description>
   <!--EN: high on active mechanites-->
-  <GR_ElectroEggHigh.label>活跃机械师高</GR_ElectroEggHigh.label>
+  <GR_ElectroEggHigh.label>活化型纳米机械亢奋</GR_ElectroEggHigh.label>
   <!--EN: an active mechanites high-->
-  <GR_ElectroEggHigh.labelNoun>活跃的机械师高</GR_ElectroEggHigh.labelNoun>
+  <GR_ElectroEggHigh.labelNoun>活化型纳米机械亢奋</GR_ElectroEggHigh.labelNoun>
   <!--EN: A built-up tolerance to active mechanites. The more severe this tolerance is, the more active mechanites it takes to get the same effect.-->
-  <GR_ElectroEggTolerance.description>对活跃机械师的累积耐受性。这种耐受性越严重，获得相同效果所需的机械力就越活跃。</GR_ElectroEggTolerance.description>
+  <GR_ElectroEggTolerance.description>对活化型纳米机械的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的机械蛋也就越多。</GR_ElectroEggTolerance.description>
   <!--EN: active mechanites tolerance-->
-  <GR_ElectroEggTolerance.label>主动机械耐受性</GR_ElectroEggTolerance.label>
+  <GR_ElectroEggTolerance.label>活化型纳米机械耐受</GR_ElectroEggTolerance.label>
   <!--EN: The brain or neural center of this creature has been extracted and refined into genetic material.-->
-  <GR_ExtractedBrain.description>该生物的大脑或神经中枢已被提取并精炼成遗传物质。</GR_ExtractedBrain.description>
+  <GR_ExtractedBrain.description>此单位的大脑已被基因抽取器转化成了基因物质。</GR_ExtractedBrain.description>
   <!--EN: brain extracted-->
-  <GR_ExtractedBrain.label>大脑 提取</GR_ExtractedBrain.label>
+  <GR_ExtractedBrain.label>大脑被抽取</GR_ExtractedBrain.label>
   <!--EN: A chemical addiction to featherdust. Long-term use of featherdust has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
 \nWithout regular doses of featherdust, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.-->
-  <GR_FeatherdustAddiction.description>对羽毛尘的化学成瘾。长期使用羽毛粉会引起细胞水平的神经适应，因此大脑在没有药物的情况下将无法正常工作。
-
-如果没有定期服用羽毛粉，就会出现戒断症状。然而，长期禁欲会迫使大脑适应回到正常状态，从而解决毒瘾。</GR_FeatherdustAddiction.description>
+  <GR_FeatherdustAddiction.description>长期过量的摄取羽尘已经造成了神经系统的适应。\n\n如果没有定期摄取合适剂量的羽尘烟，戒断反应就会开始。长时间的戒断会迫使大脑适应并恢复到正常状态，从而戒除羽尘成瘾。</GR_FeatherdustAddiction.description>
   <!--EN: featherdust dependence-->
-  <GR_FeatherdustAddiction.label>羽毛尘依赖</GR_FeatherdustAddiction.label>
+  <GR_FeatherdustAddiction.label>羽尘成瘾</GR_FeatherdustAddiction.label>
   <!--EN: withdrawal-->
   <GR_FeatherdustAddiction.stages.1.label>提款</GR_FeatherdustAddiction.stages.1.label>
   <!--EN: Featherdust's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being.-->
-  <GR_FeatherdustHigh.description>羽毛尘是血液中的活性化学物质。产生一种模糊的幸福感。</GR_FeatherdustHigh.description>
+  <GR_FeatherdustHigh.description>流淌在血液里的羽尘化合物能产生一种柔软的幸福感。</GR_FeatherdustHigh.description>
   <!--EN: stoned on featherdust-->
-  <GR_FeatherdustHigh.label>用石头砸在羽毛尘上</GR_FeatherdustHigh.label>
+  <GR_FeatherdustHigh.label>羽尘沉醉</GR_FeatherdustHigh.label>
   <!--EN: A built-up tolerance to featherdust. The more severe this tolerance is, the more featherdust it takes to get the same effect.-->
-  <GR_FeatherdustTolerance.description>对羽毛灰尘的耐受性逐渐增强。这种耐受性越严重，需要越多的羽毛粉才能达到相同的效果。</GR_FeatherdustTolerance.description>
+  <GR_FeatherdustTolerance.description>对羽尘的长期耐受性。耐受性越严重，想达到和之前同样的效果所需要的羽尘烟也就越多。</GR_FeatherdustTolerance.description>
   <!--EN: featherdust tolerance-->
-  <GR_FeatherdustTolerance.label>羽毛粉尘耐受性</GR_FeatherdustTolerance.label>
+  <GR_FeatherdustTolerance.label>羽尘耐受</GR_FeatherdustTolerance.label>
   <!--EN: The smell of its enemies' blood has filled this hybrid with a frenzy.-->
-  <GR_Frenzied.description>敌人的血液的气味让这个混血儿充满了疯狂。</GR_Frenzied.description>
+  <GR_Frenzied.description>此单位正因敌人鲜血的气味而变得愈发狂暴。</GR_Frenzied.description>
   <!--EN: frenzied-->
-  <GR_Frenzied.label>丧心病狂</GR_Frenzied.label>
+  <GR_Frenzied.label>嗜血狂暴</GR_Frenzied.label>
   <!--EN: A disease which causes affected creatures to enter berserk rages. A creature with greater scaria can't be cured and kills its host about five days after infection. Their seething rage will allow them to survive without having to eat or rest until their inevitable death.-->
-  <GR_GreaterScaria.description>一种导致受影响生物陷入狂暴状态的疾病。具有较大疤痕的生物无法治愈，并会在感染后五天左右杀死宿主。他们沸腾的愤怒将使他们无需吃饭或休息就能生存，直到不可避免的死亡。</GR_GreaterScaria.description>
+  <GR_GreaterScaria.description>这种疾病会使受感染的生物进入狂暴状态。与普通的狂暴症不同，患上这种狂暴症的生物会在五天后立即死亡。\n\n所有混种生物和无瑕生物都有可能会在出生3年后患上这种基因疾病。根据混种生物和无瑕生物的品质不同，其发病时间也会推迟或提前。</GR_GreaterScaria.description>
   <!--EN: greater scaria-->
-  <GR_GreaterScaria.label>大斯卡里亚</GR_GreaterScaria.label>
+  <GR_GreaterScaria.label>致死型狂暴症</GR_GreaterScaria.label>
   <!--EN: Genetically altered hairballs are suffocating this creature. This negatively affects breathing and can even cause unconsciousness.-->
-  <GR_HairballDamage.description>基因改造的毛球正在让这种生物有意限制对大脑的供氧，往往是为了使性觉醒。。这会对呼吸产生负面影响，甚至可能导致昏迷。</GR_HairballDamage.description>
+  <GR_HairballDamage.description>被基因工程改造过的毛团包裹了脸部。此单位的呼吸能力会逐渐降低，严重时还会呕吐或昏迷。</GR_HairballDamage.description>
   <!--EN: suffocating damage-->
-  <GR_HairballDamage.label>有意限制对大脑的供氧，往往是为了使性觉醒。性伤害</GR_HairballDamage.label>
+  <GR_HairballDamage.label>窒息</GR_HairballDamage.label>
   <!--EN: initial-hidden-->
-  <GR_HairballDamage.stages.0.label>初始隐藏</GR_HairballDamage.stages.0.label>
+  <GR_HairballDamage.stages.0.label>较轻</GR_HairballDamage.stages.0.label>
   <!--EN: initial-->
-  <GR_HairballDamage.stages.1.label>最初的</GR_HairballDamage.stages.1.label>
+  <GR_HairballDamage.stages.1.label>中等</GR_HairballDamage.stages.1.label>
   <!--EN: minor-->
-  <GR_HairballDamage.stages.2.label>次要的</GR_HairballDamage.stages.2.label>
+  <GR_HairballDamage.stages.2.label>极重</GR_HairballDamage.stages.2.label>
   <!--EN: moderate-->
-  <GR_HairballDamage.stages.3.label>缓和</GR_HairballDamage.stages.3.label>
+  <GR_HairballDamage.stages.3.label>轻微</GR_HairballDamage.stages.3.label>
   <!--EN: serious-->
-  <GR_HairballDamage.stages.4.label>严肃的</GR_HairballDamage.stages.4.label>
+  <GR_HairballDamage.stages.4.label>轻微</GR_HairballDamage.stages.4.label>
   <!--EN: extreme-->
-  <GR_HairballDamage.stages.5.label>极端</GR_HairballDamage.stages.5.label>
+  <GR_HairballDamage.stages.5.label>恶心</GR_HairballDamage.stages.5.label>
   <!--EN: nauseating-->
-  <GR_HairballDamage.stages.6.label>令人作呕的</GR_HairballDamage.stages.6.label>
+  <GR_HairballDamage.stages.6.label>nauseating</GR_HairballDamage.stages.6.label>
   <!--EN: A biochip that modifies the brain to reduce the need for sleep.-->
-  <GR_HibernationModule.description>一种生物芯片，可以修改大脑以减少睡眠需求。</GR_HibernationModule.description>
+  <GR_HibernationModule.description>一个已安装的冬眠模块芯片。</GR_HibernationModule.description>
   <!--EN: humanoid implant: hibernation module-->
-  <GR_HibernationModule.label>人形植入物：休眠模块</GR_HibernationModule.label>
+  <GR_HibernationModule.label>冬眠模块芯片</GR_HibernationModule.label>
   <!--EN: This creature will die quickly if set on fire.-->
-  <GR_HighlyFlammable.description>如果着火，这种生物会很快死亡。</GR_HighlyFlammable.description>
+  <GR_HighlyFlammable.description>此单位极易受到火焰伤害。</GR_HighlyFlammable.description>
   <!--EN: highly flammable-->
   <GR_HighlyFlammable.label>高度易燃</GR_HighlyFlammable.label>
   <!--EN: thrumbo horn-->
   <GR_HumanThrumboHorn.comps.0.tools.0.label>敲击号角</GR_HumanThrumboHorn.comps.0.tools.0.label>
   <!--EN: A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty.-->
-  <GR_HumanThrumboHorn.description>一种经过基因改造的敲击喇叭，可以植入受试者的前额。可恶的。</GR_HumanThrumboHorn.description>
+  <GR_HumanThrumboHorn.description>一个已安装的秘兽角。</GR_HumanThrumboHorn.description>
   <!--EN: humanoid implant: thrumbo horn-->
-  <GR_HumanThrumboHorn.label>人形植入物：thrumbo Horn</GR_HumanThrumboHorn.label>
+  <GR_HumanThrumboHorn.label>秘兽角</GR_HumanThrumboHorn.label>
   <!--EN: This is a hidden hediff that modifies the hybrid's hunger depending on quality.-->
-  <GR_HungerByQuality.description>这是一个隐藏的 hediff，可以根据质量改变混合体的饥饿程度。</GR_HungerByQuality.description>
+  <GR_HungerByQuality.description>混种生物饥饿度受品质影响的机制是依靠这条隐藏的健康状态来发挥作用的。</GR_HungerByQuality.description>
   <!--EN: quality-->
-  <GR_HungerByQuality.label>质量</GR_HungerByQuality.label>
+  <GR_HungerByQuality.label>品质影响</GR_HungerByQuality.label>
   <!--EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures.-->
-  <GR_IguanaScales.description>一种合成皮肤替代品，比人类皮肤更厚且绝缘性更好。这提供了一定程度的防御，但更重要的是，使对象更能抵抗高温。</GR_IguanaScales.description>
+  <GR_IguanaScales.description>一个已安装的鬣蜥鳞肤。</GR_IguanaScales.description>
   <!--EN: humanoid implant: iguana scales-->
-  <GR_IguanaScales.label>人形植入物：鬣蜥鳞片</GR_IguanaScales.label>
+  <GR_IguanaScales.label>鬣蜥鳞肤</GR_IguanaScales.label>
   <!--EN: Releases insect clouds that damage anyone crossing through them, except insectoids, and then it needs to be recharged to be used again.-->
-  <GR_InsectClouds.description>释放昆虫云，对穿过它们的任何人造成伤害（类昆虫除外），然后需要重新充电才能再次使用。</GR_InsectClouds.description>
+  <GR_InsectClouds.description>释放大量环绕在自身附近的嗜杀虫群，任何靠近的生物都会遭到它们的攻击。</GR_InsectClouds.description>
   <!--EN: releasing insect clouds-->
-  <GR_InsectClouds.label>释放昆虫云</GR_InsectClouds.label>
+  <GR_InsectClouds.label>嗜杀虫群</GR_InsectClouds.label>
   <!--EN: recovering-->
   <GR_InsectClouds.stages.1.label>恢复中</GR_InsectClouds.stages.1.label>
   <!--EN: animal Implant: insect mandibles-->
   <GR_InsectMandibles.comps.0.tools.0.label>动物植入物：昆虫下颌骨</GR_InsectMandibles.comps.0.tools.0.label>
   <!--EN: A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon-->
-  <GR_InsectMandibles.description>一种仿生植入物，在该生物的脸上添加了昆虫下颌骨。昆虫的下颌骨可以改善操纵和进食，同时也可以作为进攻性武器</GR_InsectMandibles.description>
+  <GR_InsectMandibles.description>一个已安装的虫族口器。</GR_InsectMandibles.description>
   <!--EN: animal Implant: insect mandibles-->
-  <GR_InsectMandibles.label>动物植入物：昆虫下颌骨</GR_InsectMandibles.label>
+  <GR_InsectMandibles.label>虫族口器</GR_InsectMandibles.label>
   <!--EN: A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement.-->
-  <GR_InsectileEye.description>一种仿生植入物，赋予该生物复合昆虫眼睛。与单眼相比，复眼具有非常大的视角，并且可以检测快速运动。</GR_InsectileEye.description>
+  <GR_InsectileEye.description>一个已安装的虫族复眼（动物）。</GR_InsectileEye.description>
   <!--EN: animal Implant: insectile eye-->
-  <GR_InsectileEye.label>动物植入物：昆虫眼</GR_InsectileEye.label>
+  <GR_InsectileEye.label>虫族复眼</GR_InsectileEye.label>
   <!--EN: These hybrid humanoid / insectoid feeling appendages can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload.-->
-  <GR_InsectoidAntennae.description>这些混合类人/昆虫感觉的附属物可以植入受试者的头部，完全改变受试者“看到”和感觉周围世界的方式。由于感官超载，这种体验可能会有点难以承受。</GR_InsectoidAntennae.description>
+  <GR_InsectoidAntennae.description>一个已安装的虫族触须。</GR_InsectoidAntennae.description>
   <!--EN: humanoid implant: insectoid antennae-->
-  <GR_InsectoidAntennae.label>人形植入物：昆虫触角</GR_InsectoidAntennae.label>
+  <GR_InsectoidAntennae.label>虫族触须</GR_InsectoidAntennae.label>
   <!--EN: An implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects.-->
-  <GR_InsectoidPheromones.description>一种利用与类昆虫基因的基因剪接来检测信息素的植入物，从而改善嗅觉系统。不能安装在鸟类和（讽刺的是）昆虫上。</GR_InsectoidPheromones.description>
+  <GR_InsectoidPheromones.description>一个已安装的信息素接收器。</GR_InsectoidPheromones.description>
   <!--EN: animal Implant: insectoid pheromones-->
-  <GR_InsectoidPheromones.label>动物植入物：昆虫信息素</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.label>信息素接收器</GR_InsectoidPheromones.label>
   <!--EN: Boom.-->
-  <GR_Kamikaze.description>繁荣。</GR_Kamikaze.description>
+  <GR_Kamikaze.description>Boom！</GR_Kamikaze.description>
   <!--EN: sudden detonation-->
-  <GR_Kamikaze.label>突然爆炸</GR_Kamikaze.label>
+  <GR_Kamikaze.label>突然引爆</GR_Kamikaze.label>
   <!--EN: initial-hidden-->
-  <GR_Kamikaze.stages.0.label>初始隐藏</GR_Kamikaze.stages.0.label>
+  <GR_Kamikaze.stages.0.label>极重</GR_Kamikaze.stages.0.label>
   <!--EN: critical-->
-  <GR_Kamikaze.stages.1.label>批判的</GR_Kamikaze.stages.1.label>
+  <GR_Kamikaze.stages.1.label>轻微</GR_Kamikaze.stages.1.label>
   <!--EN: Keen senses greatly increases sight and conciousness of the hybrid for a while, and then it needs to be recharged to be used again.-->
-  <GR_KeenSenses.description>敏锐的感官会在一段时间内极大地增加混合体的视力和意识，然后需要重新充电才能再次使用。</GR_KeenSenses.description>
+  <GR_KeenSenses.description>洞察周围的环境，大幅提升自身的视觉能力、意识与近战命中率。效果结束后会陷入一阵子的疲乏状态。</GR_KeenSenses.description>
   <!--EN: keen senses-->
-  <GR_KeenSenses.label>敏锐的感官</GR_KeenSenses.label>
+  <GR_KeenSenses.label>感官敏化</GR_KeenSenses.label>
   <!--EN: exhausted-->
   <GR_KeenSenses.stages.1.label>筋疲力尽的</GR_KeenSenses.stages.1.label>
   <!--EN: This is a bioelectronic kidney prosthesis that greatly improves the efficiency of the subject's kidney by using insectoid tissue, providing resistence to toxic substances.-->
-  <GR_KidneyToxicFilters.description>这是一种生物电子肾脏假体，通过使用昆虫组织，大大提高受试者肾脏的效率，提供对有毒物质的抵抗力。</GR_KidneyToxicFilters.description>
+  <GR_KidneyToxicFilters.description>一个已安装的排毒肾。</GR_KidneyToxicFilters.description>
   <!--EN: humanoid implant: kidney toxic filters-->
-  <GR_KidneyToxicFilters.label>人形植入物：肾脏有毒过滤器</GR_KidneyToxicFilters.label>
+  <GR_KidneyToxicFilters.label>排毒肾</GR_KidneyToxicFilters.label>
   <!--EN: animal Implant: lizard leg-->
   <GR_LizardLeg.comps.0.tools.0.label>动物植入物：蜥蜴腿</GR_LizardLeg.comps.0.tools.0.label>
   <!--EN: A bionic animal leg reinforced with tough lizard skin.-->
-  <GR_LizardLeg.description>用坚韧的蜥蜴皮加固的仿生动物腿。</GR_LizardLeg.description>
+  <GR_LizardLeg.description>一个已安装的蜥蜴肢。</GR_LizardLeg.description>
   <!--EN: animal Implant: lizard leg-->
-  <GR_LizardLeg.label>动物植入物：蜥蜴腿</GR_LizardLeg.label>
+  <GR_LizardLeg.label>蜥蜴肢</GR_LizardLeg.label>
   <!--EN: This creature has very little need for sleep, and can stay awake for a long time.-->
-  <GR_LowRest.description>这种生物很少需要睡眠，并且可以长时间保持清醒。</GR_LowRest.description>
+  <GR_LowRest.description>此单位几乎不需要睡眠，可以长时间保持清醒状态。</GR_LowRest.description>
   <!--EN: needs very little sleep-->
-  <GR_LowRest.label>需要很少的睡眠</GR_LowRest.label>
+  <GR_LowRest.label>不眠不休</GR_LowRest.label>
   <!--EN: A bionic heart strengthened by the action of active mechanites.-->
-  <GR_MechaHeart.description>仿生心脏通过活跃机械分子的作用而增强。</GR_MechaHeart.description>
+  <GR_MechaHeart.description>一个已安装的秘兽心脏。</GR_MechaHeart.description>
   <!--EN: animal Implant: reinforced bionic heart-->
-  <GR_MechaHeart.label>动物植入物：强化仿生心脏</GR_MechaHeart.label>
+  <GR_MechaHeart.label>秘兽心脏</GR_MechaHeart.label>
   <!--EN: This elephant auditory receptor can scan a really wide band of frequencies.-->
-  <GR_MechaReceptors.description>这种大象听觉感受器可以扫描非常宽的频率。</GR_MechaReceptors.description>
+  <GR_MechaReceptors.description>一个已安装的秘兽耳。</GR_MechaReceptors.description>
   <!--EN: animal Implant: elephant auditory receptor-->
-  <GR_MechaReceptors.label>动物植入物：大象听觉感受器</GR_MechaReceptors.label>
+  <GR_MechaReceptors.label>秘兽耳</GR_MechaReceptors.label>
   <!--EN: A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system.-->
-  <GR_MechaSpine.description>一种仿生植入物，为该生物的骨骼系统添加了具有活性机械装置的塑料结构。</GR_MechaSpine.description>
+  <GR_MechaSpine.description>一个已安装的秘兽脊椎。</GR_MechaSpine.description>
   <!--EN: animal Implant: reinforced bionic spine-->
-  <GR_MechaSpine.label>动物植入物：强化仿生脊柱</GR_MechaSpine.label>
+  <GR_MechaSpine.label>秘兽脊椎</GR_MechaSpine.label>
   <!--EN: animal Implant: reinforced tail-->
   <GR_MechaTail.comps.0.tools.0.label>动物植入物：强化尾</GR_MechaTail.comps.0.tools.0.label>
   <!--EN: An advanced animal tail, even more powerful than a natural one.-->
-  <GR_MechaTail.description>一种高级动物一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。，甚至比天然动物还要强大。</GR_MechaTail.description>
+  <GR_MechaTail.description>一个已安装的秘兽尾。</GR_MechaTail.description>
   <!--EN: animal Implant: reinforced tail-->
-  <GR_MechaTail.label>动物植入物：强化尾</GR_MechaTail.label>
+  <GR_MechaTail.label>秘兽尾</GR_MechaTail.label>
   <!--EN: This hybrid is very agile and receives a considerable bonus to melee dodge.-->
-  <GR_MeleeDodge.description>这种混合体非常敏捷，并且在近战闪避方面获得了相当大的加成。</GR_MeleeDodge.description>
+  <GR_MeleeDodge.description>此单位拥有一定的近战闪避几率加成。</GR_MeleeDodge.description>
   <!--EN: melee dodging-->
-  <GR_MeleeDodge.label>近战躲避</GR_MeleeDodge.label>
+  <GR_MeleeDodge.label>近战闪避</GR_MeleeDodge.label>
   <!--EN: animal Implant: miniature thrumbo horn-->
   <GR_MiniatureThrumboHorn.comps.0.tools.0.label>动物植入物：微型敲击号角</GR_MiniatureThrumboHorn.comps.0.tools.0.label>
   <!--EN: A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant.-->
-  <GR_MiniatureThrumboHorn.description>一种仿生植入物，在该生物的鼻子原来的位置添加了一个小喇叭。该植入物充当鼻子，允许该生物呼吸和气味，并且可以被该生物在近战中使用。鸟类、昆虫和已经拥有敲击角的生物的头骨上没有足够的空间来安装这种植入物。</GR_MiniatureThrumboHorn.description>
+  <GR_MiniatureThrumboHorn.description>一个已安装的小型秘兽角。</GR_MiniatureThrumboHorn.description>
   <!--EN: animal Implant: miniature thrumbo horn-->
-  <GR_MiniatureThrumboHorn.label>动物植入物：微型敲击号角</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.label>小型秘兽角</GR_MiniatureThrumboHorn.label>
   <!--EN: A biochip that reduces pain sensitivity, allowing the subject to survive pain shock.-->
-  <GR_MoleratNerveDampener.description>一种生物芯片，可以降低疼痛敏感性，使受试者能够在疼痛电击中幸存。</GR_MoleratNerveDampener.description>
+  <GR_MoleratNerveDampener.description>一个已安装的鼹鼠痛感阻抑芯片。</GR_MoleratNerveDampener.description>
   <!--EN: humanoid implant: mole-rat nerve dampener-->
-  <GR_MoleratNerveDampener.label>人形植入物：鼹鼠神经抑制器</GR_MoleratNerveDampener.label>
+  <GR_MoleratNerveDampener.label>鼹鼠痛感阻抑芯片</GR_MoleratNerveDampener.label>
   <!--EN: A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes.-->
-  <GR_MonitorLizardBrain.description>使用巨蜥大脑组织的仿生植入物。这种高度聪明的爬行动物具有非常快的反应能力。</GR_MonitorLizardBrain.description>
+  <GR_MonitorLizardBrain.description>一个已安装的巨蜥脑。</GR_MonitorLizardBrain.description>
   <!--EN: animal Implant: monitor lizard brain-->
-  <GR_MonitorLizardBrain.label>动物植入物：巨蜥大脑</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.label>巨蜥脑</GR_MonitorLizardBrain.label>
   <!--EN: A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce.-->
-  <GR_MothTympanalOrgan.description>一种仿生植入物，在该生物的耳朵上添加了飞蛾鼓室器官。飞蛾听到的声音频率比任何蝙蝠发出的声音都要高。</GR_MothTympanalOrgan.description>
+  <GR_MothTympanalOrgan.description>一个已安装的飞蛾鼓膜器。</GR_MothTympanalOrgan.description>
   <!--EN: animal Implant: moth tympanal organ-->
-  <GR_MothTympanalOrgan.label>动物植入物：蛾鼓室器官</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.label>飞蛾鼓膜器</GR_MothTympanalOrgan.label>
   <!--EN: A bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully.-->
-  <GR_MousePheromones.description>仿生犁鼻器官，允许受试者与其他动物进行信息素交流，增加成功驯服和训练它们的机会。</GR_MousePheromones.description>
+  <GR_MousePheromones.description>一个已安装的小鼠信息素感知器。</GR_MousePheromones.description>
   <!--EN: humanoid implant: mouse pheromones-->
-  <GR_MousePheromones.label>人形植入物：小鼠信息素</GR_MousePheromones.label>
+  <GR_MousePheromones.label>小鼠信息素感知器</GR_MousePheromones.label>
   <!--EN: An implant that uses muffalo genes to increase breathing capacity.-->
-  <GR_MuffaloLung.description>一种使用野牛基因来增加呼吸能力的植入物。</GR_MuffaloLung.description>
+  <GR_MuffaloLung.description>一个已安装的雪牛肺。</GR_MuffaloLung.description>
   <!--EN: animal Implant: muffalo lung-->
-  <GR_MuffaloLung.label>动物植入物：野牛肺</GR_MuffaloLung.label>
+  <GR_MuffaloLung.label>雪牛肺</GR_MuffaloLung.label>
   <!--EN: By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... What the...-->
-  <GR_MuffaloMammaries.description>通过将野牛乳腺植入殖民者体内……等等，什么？？？谁想出这个主意？？？？无论如何...这个植入物可以让你的殖民者被挤奶...什么...</GR_MuffaloMammaries.description>
+  <GR_MuffaloMammaries.description>一个已安装的雪牛乳腺。</GR_MuffaloMammaries.description>
   <!--EN: humanoid implant: muffalo mammaries-->
-  <GR_MuffaloMammaries.label>人形植入物：野牛乳腺</GR_MuffaloMammaries.label>
+  <GR_MuffaloMammaries.label>雪牛乳腺</GR_MuffaloMammaries.label>
   <!--EN: By weaving muffalo muscle strands with the subject's muscular system, strength, resilience and carrying capacity are greatly increased.-->
-  <GR_MuffaloMuscles.description>通过将野牛肌束与受试者的肌肉发达的角色。系统编织在一起，力量、弹性和承载能力都大大增加。</GR_MuffaloMuscles.description>
+  <GR_MuffaloMuscles.description>一个已安装的雪牛肌肉组织。</GR_MuffaloMuscles.description>
   <!--EN: humanoid implant: muffalo strengthened muscles-->
-  <GR_MuffaloMuscles.label>人形植入物：muffalo 强化肌肉发达的角色。</GR_MuffaloMuscles.label>
+  <GR_MuffaloMuscles.label>雪牛肌肉组织</GR_MuffaloMuscles.label>
   <!--EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures.-->
-  <GR_MuffaloSkin.description>一种合成皮肤替代品，比人类皮肤更厚且绝缘性更好。这提供了一定的防御措施，但更重要的是，使对象更能抵抗低温。</GR_MuffaloSkin.description>
+  <GR_MuffaloSkin.description>一个已安装的雪牛皮肤。</GR_MuffaloSkin.description>
   <!--EN: humanoid implant: muffalo skin-->
-  <GR_MuffaloSkin.label>人形植入物：野牛皮肤</GR_MuffaloSkin.label>
+  <GR_MuffaloSkin.label>雪牛皮肤</GR_MuffaloSkin.label>
   <!--EN: A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines.-->
-  <GR_MuffaloSpine.description>一种脊柱植入物，使用与野牛基因的基因剪接，使旧的（或受损的）脊柱具有良好的功能。这种植入物并不是为了取代健康的脊柱。</GR_MuffaloSpine.description>
+  <GR_MuffaloSpine.description>一个已安装的雪牛脊椎。</GR_MuffaloSpine.description>
   <!--EN: animal Implant: muffalo spine-->
-  <GR_MuffaloSpine.label>动物植入物：野牛脊椎</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.label>雪牛脊椎</GR_MuffaloSpine.label>
   <!--EN: A viral infection causing an animal organism to turn on itself and reject normal functioning tissue, causing widespread necrosis across the entire animal body. A creature with Muscle Necrosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality.-->
-  <GR_MuscleNecrosis.description>一种病毒感染，导致动物机体自我启动并排斥正常功能组织，导致整个动物身体广泛坏死。患有肌肉发达的角色。坏死的生物可以通过护理来减缓疾病，但无法治愈。
-
-任何杂交或典范动物在孵化或自然出生后 3 年后都会患上这种疾病，尽管这会受到杂交质量的影响。</GR_MuscleNecrosis.description>
+  <GR_MuscleNecrosis.description>因病毒感染而引发的疾病。如果患病的生物得不到及时的治疗，其全身的肌肉组织都将逐渐坏死。\n\n这种疾病无法根治，定期护理只能延缓症状的恶化。\n\n所有混种生物和无瑕生物都有可能会在出生3年后患上这种基因疾病。根据混种生物和无瑕生物的品质不同，其发病时间也会推迟或提前。</GR_MuscleNecrosis.description>
   <!--EN: muscle necrosis-->
-  <GR_MuscleNecrosis.label>肌肉发达的角色。坏死</GR_MuscleNecrosis.label>
+  <GR_MuscleNecrosis.label>肌肉坏死病</GR_MuscleNecrosis.label>
   <!--EN: initial-->
-  <GR_MuscleNecrosis.stages.0.label>最初的</GR_MuscleNecrosis.stages.0.label>
+  <GR_MuscleNecrosis.stages.0.label>完全坏死</GR_MuscleNecrosis.stages.0.label>
   <!--EN: necrotic-->
-  <GR_MuscleNecrosis.stages.1.label>坏死的</GR_MuscleNecrosis.stages.1.label>
+  <GR_MuscleNecrosis.stages.1.label>轻微</GR_MuscleNecrosis.stages.1.label>
   <!--EN: horribly necrotic-->
-  <GR_MuscleNecrosis.stages.2.label>可怕的坏死</GR_MuscleNecrosis.stages.2.label>
+  <GR_MuscleNecrosis.stages.2.label>逐渐坏死</GR_MuscleNecrosis.stages.2.label>
   <!--EN: A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed.-->
-  <GR_NeuronReinforcement.description>一种生物芯片，利用动物干细胞来增强人类神经元的自然能力，从而提高学习和研究速度。</GR_NeuronReinforcement.description>
+  <GR_NeuronReinforcement.description>一个已安装的神经增强芯片。</GR_NeuronReinforcement.description>
   <!--EN: humanoid implant: neuron reinforcement-->
-  <GR_NeuronReinforcement.label>人形植入物：神经元强化</GR_NeuronReinforcement.label>
+  <GR_NeuronReinforcement.label>神经增强芯片</GR_NeuronReinforcement.label>
   <!--EN: This hybrid has a reduced pain sensitivity, and it takes longer to be downed due to pain.-->
-  <GR_NoPain.description>该混种的疼痛敏感性降低，并且由于疼痛而需要更长的时间才能被击倒。</GR_NoPain.description>
+  <GR_NoPain.description>此单位几乎感受不到任何疼痛。</GR_NoPain.description>
   <!--EN: no pain sensitivity-->
-  <GR_NoPain.label>没有疼痛敏感性</GR_NoPain.label>
+  <GR_NoPain.label>无惧疼痛</GR_NoPain.label>
   <!--EN: You know you have gone too far in your scientific experiments when you are implanting a human being with an ovipositor. This will enable the colonist to lay chicken eggs twice a day. It hurts as hell, though. Also, yuck.-->
-  <GR_Ovipositor.description>当你给人类植入产卵器时，你知道你在科学实验上已经走得太远了。这将使殖民者每天产两次鸡蛋。不过，这很痛苦地狱。还有，恶心。</GR_Ovipositor.description>
+  <GR_Ovipositor.description>一个已安装的禽类产卵器。</GR_Ovipositor.description>
   <!--EN: humanoid implant: ovipositor-->
-  <GR_Ovipositor.label>人形植入物：产卵器</GR_Ovipositor.label>
+  <GR_Ovipositor.label>禽类产卵器</GR_Ovipositor.label>
   <!--EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey.-->
-  <GR_PackTactics.description>这种杂交狼与附近的其他野狼合作捕食猎物。</GR_PackTactics.description>
+  <GR_PackTactics.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTactics.description>
   <!--EN: pack tactics-->
-  <GR_PackTactics.label>打包战术</GR_PackTactics.label>
+  <GR_PackTactics.label>狼群战术</GR_PackTactics.label>
   <!--EN: This hybrid is collaborating with other nearby muffalowolves to bring down prey.-->
-  <GR_PackTacticsBuff.description>这种杂交狼与附近的其他野狼合作捕食猎物。</GR_PackTacticsBuff.description>
+  <GR_PackTacticsBuff.description>强化与同类间的协作能力，大幅提升自身与作用范围内所有狼雪牛的近战闪避几率、近战命中率与近战每秒伤害。</GR_PackTacticsBuff.description>
   <!--EN: pack tactics-->
-  <GR_PackTacticsBuff.label>打包战术</GR_PackTacticsBuff.label>
+  <GR_PackTacticsBuff.label>狼群战术</GR_PackTacticsBuff.label>
   <!--EN: permanent burn-->
   <GR_PermanentBurn.comps.1.permanentLabel>永久性烧伤</GR_PermanentBurn.comps.1.permanentLabel>
   <!--EN: A permanent burn scar that cannot be treated.-->
-  <GR_PermanentBurn.description>无法治疗的永久性烧伤疤痕。</GR_PermanentBurn.description>
+  <GR_PermanentBurn.description>永久性烧伤伤口。</GR_PermanentBurn.description>
   <!--EN: Burned off-->
-  <GR_PermanentBurn.injuryProps.destroyedLabel>烧毁</GR_PermanentBurn.injuryProps.destroyedLabel>
+  <GR_PermanentBurn.injuryProps.destroyedLabel>被烧毁</GR_PermanentBurn.injuryProps.destroyedLabel>
   <!--EN: Burned out-->
-  <GR_PermanentBurn.injuryProps.destroyedOutLabel>精疲力尽</GR_PermanentBurn.injuryProps.destroyedOutLabel>
+  <GR_PermanentBurn.injuryProps.destroyedOutLabel>被烧掉</GR_PermanentBurn.injuryProps.destroyedOutLabel>
   <!--EN: permanent burn-->
   <GR_PermanentBurn.label>永久性烧伤</GR_PermanentBurn.label>
   <!--EN: a permanent burn-->
   <GR_PermanentBurn.labelNoun>永久性烧伤</GR_PermanentBurn.labelNoun>
   <!--EN: Poison in the bloodstream. Causes paralysis while slowing bleeding rate and wears off after 6 hours.-->
-  <GR_PoisonAmpouleDrank.description>血液中有毒。造成麻痹，同时减缓出血速度，并在 6 小时后消失。</GR_PoisonAmpouleDrank.description>
+  <GR_PoisonAmpouleDrank.description>流淌在血液里的麻醉凝血剂。虽然里面的毒素成分会让使用者暂时瘫痪，但却并不致命。效果持续6小时。</GR_PoisonAmpouleDrank.description>
   <!--EN: poison ampoule-->
-  <GR_PoisonAmpouleDrank.label>毒药安瓿</GR_PoisonAmpouleDrank.label>
+  <GR_PoisonAmpouleDrank.label>麻醉凝血剂</GR_PoisonAmpouleDrank.label>
   <!--EN: Artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks.-->
-  <GR_PsychicDampeners.description>人工助听器可以阻挡精神散发，对机械人的精神攻击提供相当大的抵抗力。</GR_PsychicDampeners.description>
+  <GR_PsychicDampeners.description>一个已安装的心灵阻抑器。</GR_PsychicDampeners.description>
   <!--EN: humanoid implant: psychic dampeners-->
-  <GR_PsychicDampeners.label>人形植入物：精神阻尼器</GR_PsychicDampeners.label>
+  <GR_PsychicDampeners.label>心灵阻抑器</GR_PsychicDampeners.label>
   <!--EN: This creature has been victim of a rabid slash.-->
-  <GR_RabidSlash.description>该生物是狂乱砍伤的受害者。</GR_RabidSlash.description>
+  <GR_RabidSlash.description>此单位已被拥有“嗜血收割”能力的生物攻击了。</GR_RabidSlash.description>
   <!--EN: victim of rabid slash-->
-  <GR_RabidSlash.label>狂乱砍伤的受害者</GR_RabidSlash.label>
+  <GR_RabidSlash.label>嗜血收割</GR_RabidSlash.label>
   <!--EN: This creature has recently hatched from an incubator.-->
-  <GR_RecentlyHatched.description>这种生物最近刚从孵化器中孵化出来。</GR_RecentlyHatched.description>
+  <GR_RecentlyHatched.description>此单位最近刚从孵化器中诞生。</GR_RecentlyHatched.description>
   <!--EN: recently hatched-->
-  <GR_RecentlyHatched.label>最近孵化的</GR_RecentlyHatched.label>
+  <GR_RecentlyHatched.label>初生</GR_RecentlyHatched.label>
   <!--EN: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought".-->
-  <GR_ResearchDrive.description>为附近的研究人员提供调查见解，让他们更容易取得突破。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;“我的科学家朋友，你有没有考虑过拒绝人类，回归猴子？值得深思”。</GR_ResearchDrive.description>
+  <GR_ResearchDrive.description>向周围的殖民者分享自身对科研项目的独到见解，提高他们的研究速度。\n\n“哦，我的科研伙伴！让我们抛弃人性，回归原始吧！只消为食物烦恼便是！”</GR_ResearchDrive.description>
   <!--EN: research drive-->
-  <GR_ResearchDrive.label>研究驱动</GR_ResearchDrive.label>
+  <GR_ResearchDrive.label>研究激励</GR_ResearchDrive.label>
   <!--EN: Being offered investigative insights.\n\n<color=#E5E54C>Gameplay effect:</color> "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought".-->
-  <GR_ResearchDriveBuff.description>提供调查见解。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;“我的科学家同事，你有没有考虑过拒绝人类，回归猴子？值得深思”。</GR_ResearchDriveBuff.description>
+  <GR_ResearchDriveBuff.description>研究速度得到了提高。</GR_ResearchDriveBuff.description>
   <!--EN: research drive-->
-  <GR_ResearchDriveBuff.label>研究驱动</GR_ResearchDriveBuff.label>
+  <GR_ResearchDriveBuff.label>研究激励</GR_ResearchDriveBuff.label>
   <!--EN: An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears.-->
-  <GR_RodentEar.description>一种耳植入物，利用与啮齿动物基因的基因拼接，为老（或受损）的耳朵提供良好的听力。该植入物并不是为了取代健康的耳朵。</GR_RodentEar.description>
+  <GR_RodentEar.description>一个已安装的小鼠耳。</GR_RodentEar.description>
   <!--EN: animal Implant: rodent ear-->
-  <GR_RodentEar.label>动物植入物：啮齿动物耳朵</GR_RodentEar.label>
+  <GR_RodentEar.label>小鼠耳</GR_RodentEar.label>
   <!--EN: An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects.-->
-  <GR_RodentNose.description>一种植入物，利用与啮齿动物基因的基因拼接，使旧（或受损）的鼻子具有良好的气味。这种植入物并不是为了取代健康的鼻子。不能安装在鸟类和昆虫上。</GR_RodentNose.description>
+  <GR_RodentNose.description>一个已安装的小鼠鼻。</GR_RodentNose.description>
   <!--EN: animal Implant: rodent nose-->
-  <GR_RodentNose.label>动物植入物：啮齿动物鼻子</GR_RodentNose.label>
+  <GR_RodentNose.label>小鼠鼻</GR_RodentNose.label>
   <!--EN: The lizardman has slaughtered a colony prisoner in cold blood, triggering the release of a potent hormone complex that is making it faster and stronger. This will last for a few hours.-->
-  <GR_SadisticAdrenaline.description>蜥蜴人在寒冷的血液中屠杀了一个殖民地囚犯，触发了一种强效激素复合物的释放，使其变得更快更强。这将持续几个小时。</GR_SadisticAdrenaline.description>
+  <GR_SadisticAdrenaline.description>此单位残忍地宰杀了一名囚犯或殖民地动物，其体内释放的强效肾上腺素大幅提升了各项属性。</GR_SadisticAdrenaline.description>
   <!--EN: sadistic adrenaline-->
-  <GR_SadisticAdrenaline.label>虐待狂肾上腺素</GR_SadisticAdrenaline.label>
+  <GR_SadisticAdrenaline.label>肾上腺素激发-施虐</GR_SadisticAdrenaline.label>
   <!--EN: A rare bacterial infection of the animal brain, which causes the animal to only be able to consume human meat, while consuming anything else will simply not satiate the animal’s hunger and make it vomit constantly. This will spell a death sentence for herbivores, and a slow death for carnivores. A creature with Sarg Syndrome can't be tended to or cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality.-->
-  <GR_SargSyndrome.description>动物大脑罕见的细菌感染，导致动物只能吃人类的肉，而吃其他东西根本无法满足动物的饥饿感，并使其不断呕吐。这对食草动物来说意味着死刑，对肉食动物来说则意味着缓慢的死亡。患有萨尔格综合症的生物无法被照料或治愈。
-
-任何杂交或典范动物在孵化或自然出生后 3 年后都会患上这种疾病，尽管这会受到杂交质量的影响。</GR_SargSyndrome.description>
+  <GR_SargSyndrome.description>因大脑被细菌感染而引发的罕见疾病。患病生物只能通过进食人肉来缓解饥饿，其他任何食物都只会导致呕吐。简而言之，患病的草食性生物会立即被宣判死亡，而肉食性生物则可以苟活些时日。\n\n这种疾病无法根治，也无法定期进行护理。\n\n所有混种生物和无瑕生物都有可能会在出生3年后患上这种基因疾病。根据混种生物和无瑕生物的品质不同，其发病时间也会推迟或提前。</GR_SargSyndrome.description>
   <!--EN: sarg syndrome-->
-  <GR_SargSyndrome.label>萨格综合征</GR_SargSyndrome.label>
+  <GR_SargSyndrome.label>萨格综合症</GR_SargSyndrome.label>
   <!--EN: animal Implant: scyther tail-->
   <GR_ScytherTail.comps.0.tools.0.label>动物植入物：镰刀一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</GR_ScytherTail.comps.0.tools.0.label>
   <!--EN: A scyther tail created by attaching a scyther blade to an animal's tail.-->
-  <GR_ScytherTail.description>通过将镰刀刀片附加到动物的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。上而创建的镰刀一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。。</GR_ScytherTail.description>
+  <GR_ScytherTail.description>一个已安装的镰刃尾。</GR_ScytherTail.description>
   <!--EN: animal Implant: scyther tail-->
-  <GR_ScytherTail.label>动物植入物：镰刀一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</GR_ScytherTail.label>
+  <GR_ScytherTail.label>镰刃尾</GR_ScytherTail.label>
   <!--EN: Increased stamina greatly increases the armor and pain resistance of the hybrid for a while, and then it needs to be recharged to be used again.-->
-  <GR_Stamina.description>体力增加会在一段时间内大幅增加混血者的护甲和痛抗性，之后需要重新充能才能再次使用。</GR_Stamina.description>
+  <GR_Stamina.description>Makes the creature more resistant to damage for a while.</GR_Stamina.description>
   <!--EN: increased stamina-->
-  <GR_Stamina.label>增加耐力</GR_Stamina.label>
+  <GR_Stamina.label>greater stamina</GR_Stamina.label>
   <!--EN: exhausted-->
   <GR_Stamina.stages.1.label>筋疲力尽的</GR_Stamina.stages.1.label>
   <!--EN: The stampeding ability increases the hybrid's speed and releases clouds of dust that block ranged visibility. Once used, this ability needs to be recharged to be used again.-->
-  <GR_Stampeding.description>踩踏能力提高了混合动力车的速度并释放出阻挡远距离能见度的尘埃云。一旦使用该能力，需要重新充能才能再次使用。</GR_Stampeding.description>
+  <GR_Stampeding.description>大幅提升自身的移动速度，并扬起能够遮蔽瞄准视线的烟尘。</GR_Stampeding.description>
   <!--EN: stampeding-->
-  <GR_Stampeding.label>踩踏</GR_Stampeding.label>
+  <GR_Stampeding.label>秘兽疾驰</GR_Stampeding.label>
   <!--EN: recovering-->
   <GR_Stampeding.stages.1.label>恢复中</GR_Stampeding.stages.1.label>
   <!--EN: A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes.-->
-  <GR_ThrumboBrain.description>使用拇指神经组织的仿生 大脑 植入物。卓越的智力和反应能力。</GR_ThrumboBrain.description>
+  <GR_ThrumboBrain.description>一个已安装的秘兽脑。</GR_ThrumboBrain.description>
   <!--EN: animal Implant: bionic thrumbo brain-->
-  <GR_ThrumboBrain.label>动物植入物：仿生thrumbo 大脑</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.label>秘兽脑</GR_ThrumboBrain.label>
   <!--EN: A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo.-->
-  <GR_ThrumboEye.description>仿生眼由强大的敲击器产生的专门感光器增强。</GR_ThrumboEye.description>
+  <GR_ThrumboEye.description>一个已安装的秘兽眼。</GR_ThrumboEye.description>
   <!--EN: animal Implant: bionic thrumbo eye-->
-  <GR_ThrumboEye.label>动物植入物：仿生拇指眼</GR_ThrumboEye.label>
+  <GR_ThrumboEye.label>秘兽眼</GR_ThrumboEye.label>
   <!--EN: animal Implant: bionic thrumbo jaws-->
   <GR_ThrumboJaws.comps.0.tools.0.label>动物植入物：仿生敲击颌</GR_ThrumboJaws.comps.0.tools.0.label>
   <!--EN: A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task.-->
-  <GR_ThrumboJaws.description>一种仿生植入物，在该生物的嘴里添加了敲击颚。这些生物会吞噬树木，所以你可以想象它们的下巴能够胜任这项任务。</GR_ThrumboJaws.description>
+  <GR_ThrumboJaws.description>一个已安装的秘兽颌。</GR_ThrumboJaws.description>
   <!--EN: animal Implant: bionic thrumbo jaws-->
-  <GR_ThrumboJaws.label>动物植入物：仿生敲击颌</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.label>秘兽颌</GR_ThrumboJaws.label>
   <!--EN: animal Implant: elephant leg-->
   <GR_ThrumboLeg.comps.0.tools.0.label>动物植入物：大象腿</GR_ThrumboLeg.comps.0.tools.0.label>
   <!--EN: A bionic animal leg reinforced with muscle tissue from a powerful elephant.-->
-  <GR_ThrumboLeg.description>仿生动物腿由强大大象的肌肉发达的角色。组织加固。</GR_ThrumboLeg.description>
+  <GR_ThrumboLeg.description>一个已安装的秘兽腿。</GR_ThrumboLeg.description>
   <!--EN: animal Implant: elephant leg-->
-  <GR_ThrumboLeg.label>动物植入物：大象腿</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.label>秘兽腿</GR_ThrumboLeg.label>
   <!--EN: A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature.-->
-  <GR_ThrumboSkin.description>一种合成皮肤替代品，比人类皮肤更厚且绝缘性更好。这提供了大量的防御，使对象更能抵抗极端温度。</GR_ThrumboSkin.description>
+  <GR_ThrumboSkin.description>一个已安装的秘兽皮肤。</GR_ThrumboSkin.description>
   <!--EN: humanoid implant: thrumbo skin-->
-  <GR_ThrumboSkin.label>人形植入物：血栓皮肤</GR_ThrumboSkin.label>
+  <GR_ThrumboSkin.label>秘兽皮肤</GR_ThrumboSkin.label>
   <!--EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
 \nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
 \nContrary to base game toxic buildup, creatures who die with toxic damage can be eaten.-->
-  <GR_ToxicDamage.description>血液中的毒素。这可能来自多种来源，包括环境毒素、毒液叮咬或有毒武器。
-
-高剂量时，毒性累积是致命的。即使剂量很低，它也会产生癌症。
-
-与基础游戏中的毒性累积相反，因毒性伤害而死亡的生物可以被吃掉。</GR_ToxicDamage.description>
+  <GR_ToxicDamage.description>流淌在血液里的毒素。来源可能是：来自环境的毒素、有毒生物的叮咬、或有毒的武器。\n毒素的积聚是致命的，即使是低剂量，它也能引发癌症。\n\n与游戏本体的中毒效果相反，死于这种毒性伤害的生物可以被吃掉。</GR_ToxicDamage.description>
   <!--EN: toxic damage-->
-  <GR_ToxicDamage.label>毒性损害</GR_ToxicDamage.label>
+  <GR_ToxicDamage.label>中毒</GR_ToxicDamage.label>
   <!--EN: initial-hidden-->
-  <GR_ToxicDamage.stages.0.label>初始隐藏</GR_ToxicDamage.stages.0.label>
+  <GR_ToxicDamage.stages.0.label>较轻</GR_ToxicDamage.stages.0.label>
   <!--EN: initial-->
-  <GR_ToxicDamage.stages.1.label>最初的</GR_ToxicDamage.stages.1.label>
+  <GR_ToxicDamage.stages.1.label>中等</GR_ToxicDamage.stages.1.label>
   <!--EN: minor-->
-  <GR_ToxicDamage.stages.2.label>次要的</GR_ToxicDamage.stages.2.label>
+  <GR_ToxicDamage.stages.2.label>极重</GR_ToxicDamage.stages.2.label>
   <!--EN: moderate-->
-  <GR_ToxicDamage.stages.3.label>缓和</GR_ToxicDamage.stages.3.label>
+  <GR_ToxicDamage.stages.3.label>轻微</GR_ToxicDamage.stages.3.label>
   <!--EN: serious-->
-  <GR_ToxicDamage.stages.4.label>严肃的</GR_ToxicDamage.stages.4.label>
+  <GR_ToxicDamage.stages.4.label>轻微</GR_ToxicDamage.stages.4.label>
   <!--EN: extreme-->
-  <GR_ToxicDamage.stages.5.label>极端</GR_ToxicDamage.stages.5.label>
+  <GR_ToxicDamage.stages.5.label>严重</GR_ToxicDamage.stages.5.label>
   <!--EN: venomous fangs-->
   <GR_VenomousFangs.comps.0.tools.0.label>毒牙</GR_VenomousFangs.comps.0.tools.0.label>
   <!--EN: This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable.-->
-  <GR_VenomousFangs.description>这种混合植入物用一组毒牙代替了受试者的下巴。在战斗中很有用，但不太舒服。</GR_VenomousFangs.description>
+  <GR_VenomousFangs.description>一个已安装的毒蛇牙。</GR_VenomousFangs.description>
   <!--EN: humanoid implant: venomous fangs-->
-  <GR_VenomousFangs.label>人形植入物：毒牙</GR_VenomousFangs.label>
+  <GR_VenomousFangs.label>毒蛇牙</GR_VenomousFangs.label>
   <!--EN: Vents exhaust fumes on the 8 adjacent tiles, burning anyone unlucky enough to be in melee, and then it needs to be recharged to be used again.-->
-  <GR_VentedExhaust.description>在相邻的 8 块瓷砖上排放废气，烧伤那些不幸陷入混战的人，然后需要充电才能再次使用。</GR_VentedExhaust.description>
+  <GR_VentedExhaust.description>主动排出内部积攒的高热气体，对作用范围内的所有生物造成高额伤害。</GR_VentedExhaust.description>
   <!--EN: recently vented exhaust gasses-->
-  <GR_VentedExhaust.label>最近排出的废气</GR_VentedExhaust.label>
+  <GR_VentedExhaust.label>热气排出</GR_VentedExhaust.label>
   <!--EN: recovering-->
-  <GR_VentedExhaust.stages.0.label>恢复中</GR_VentedExhaust.stages.0.label>
+  <GR_VentedExhaust.stages.0.label>正在恢复</GR_VentedExhaust.stages.0.label>
   <!--EN: This creature has very little need for sleep, and can stay awake for a long time.-->
-  <GR_VeryLowRest.description>这种生物很少需要睡眠，并且可以长时间保持清醒。</GR_VeryLowRest.description>
+  <GR_VeryLowRest.description>此单位几乎不需要睡眠，可以长时间保持清醒状态。</GR_VeryLowRest.description>
   <!--EN: needs very little sleep-->
-  <GR_VeryLowRest.label>需要很少的睡眠</GR_VeryLowRest.label>
+  <GR_VeryLowRest.label>不眠不休</GR_VeryLowRest.label>
   <!--EN: An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws.-->
-  <GR_WolfJaws.description>一种使用 狼🐺 基因进行基因剪接的植入物，使旧的（或受损的）下颌具有良好的功能。这种植入物并不是为了取代健康的颌骨。</GR_WolfJaws.description>
+  <GR_WolfJaws.description>一个已安装的犬狼牙。</GR_WolfJaws.description>
   <!--EN: animal Implant: wolf fangs-->
-  <GR_WolfJaws.label>动物植入物：狼 獠牙</GR_WolfJaws.label>
+  <GR_WolfJaws.label>犬狼牙</GR_WolfJaws.label>
   <!--EN: The subject's legs can be modified by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost.-->
-  <GR_WolfMuscularFibers.description>可以通过在基础组织内编织混合人类/狼肌肉发达的角色。纤维来修改受试者的腿部，从而显着增强她的力量和速度。</GR_WolfMuscularFibers.description>
+  <GR_WolfMuscularFibers.description>一个已安装的犬狼肌腱。</GR_WolfMuscularFibers.description>
   <!--EN: humanoid implant: wolf muscular fibers-->
-  <GR_WolfMuscularFibers.label>人形植入物：狼肌肉发达的角色。纤维</GR_WolfMuscularFibers.label>
+  <GR_WolfMuscularFibers.label>犬狼肌腱</GR_WolfMuscularFibers.label>
 </LanguageData>

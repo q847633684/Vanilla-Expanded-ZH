@@ -1,431 +1,417 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Castoreum production-->
-  <CastoreumProd>脚轮生产</CastoreumProd>
+  <CastoreumProd>狼海狸香产出进度</CastoreumProd>
   <!--EN: Chemfuel production-->
-  <ChemfuelProd>化学燃料生产</ChemfuelProd>
+  <ChemfuelProd>化合燃料产出进度</ChemfuelProd>
   <!--EN: Chocolate egg growth-->
-  <ChocolateEgg>巧克力蛋生长</ChocolateEgg>
+  <ChocolateEgg>巧克力蛋产出进度</ChocolateEgg>
   <!--EN: Industrial Component production-->
-  <ComponentIndustrialDesc>工业零部件生产</ComponentIndustrialDesc>
+  <ComponentIndustrialDesc>零部件产出进度</ComponentIndustrialDesc>
   <!--EN: Deepchem production-->
-  <Cryofuel>深化学生产</Cryofuel>
+  <Cryofuel>沉积原液产出进度</Cryofuel>
   <!--EN: Feather growth-->
-  <FeatherGrowth>羽毛生长</FeatherGrowth>
+  <FeatherGrowth>羽毛生长进度</FeatherGrowth>
   <!--EN: Ability is rechaging. Check animal's health tab-->
-  <GR_AbilityRecharging>能力正在恢复。检查动物的健康标签</GR_AbilityRecharging>
+  <GR_AbilityRecharging>已废弃</GR_AbilityRecharging>
   <!--EN: Genetic disease-->
-  <GR_AgeDiseaseLabel>遗传病</GR_AgeDiseaseLabel>
+  <GR_AgeDiseaseLabel>基因疾病</GR_AgeDiseaseLabel>
   <!--EN: {0} has reached the limit of its stable lifespan, and has acquired a genetic disease: {1}\n\nGenetic diseases are incurable. They can be treated to delay the inevitable, but the animal will eventually perish.-->
-  <GR_AgeDiseaseText>{0}已达到稳定寿命的极限，并患有遗传病：{1}
-
-遗传病无法治愈。可以对它们进行治疗以推迟不可避免的事情，但动物最终会死亡。</GR_AgeDiseaseText>
+  <GR_AgeDiseaseText>{0}已达到了它寿命稳定性的极限，并患上了基因疾病：{1}\n\n基因疾病无法根治，定期护理也只能延缓症状的恶化。所有患病的生物最终都会走向死亡。</GR_AgeDiseaseText>
   <!--EN: This animal has already had its genetic material extracted-->
-  <GR_AlreadyExtracted>这种动物的遗传物质已经被提取出来</GR_AlreadyExtracted>
+  <GR_AlreadyExtracted>目标生物已经被抽取过基因物质了。</GR_AlreadyExtracted>
   <!--EN: Archotech Growth Cell progress: {0}-->
-  <GR_ArchoFormerCellProgress>Archotech 生长细胞进度：{0}</GR_ArchoFormerCellProgress>
+  <GR_ArchoFormerCellProgress>超凡孵化单元塑造进度：{0}</GR_ArchoFormerCellProgress>
   <!--EN: Lacking DNA bank progress-->
-  <GR_ArchoFormerDisabledReason>DNA 库缺乏进展</GR_ArchoFormerDisabledReason>
+  <GR_ArchoFormerDisabledReason>所需基因物质不足。</GR_ArchoFormerDisabledReason>
   <!--EN: {0} progress: {1}-->
-  <GR_ArchoFormerGenomeProgress>{0}进度：{1}</GR_ArchoFormerGenomeProgress>
+  <GR_ArchoFormerGenomeProgress>{0}存储量：{1}</GR_ArchoFormerGenomeProgress>
   <!--EN: Insert archotech growth cell into {0}-->
-  <GR_ArchoGrowthCell_InsertInElectroWomb>将 archotech 生长细胞插入 {0}</GR_ArchoGrowthCell_InsertInElectroWomb>
+  <GR_ArchoGrowthCell_InsertInElectroWomb>将超凡孵化单元装入{0}中</GR_ArchoGrowthCell_InsertInElectroWomb>
   <!--EN: Archowomb progress: {0}-->
-  <GR_ArchoWombProgress>Archowomb进度：{0}</GR_ArchoWombProgress>
+  <GR_ArchoWombProgress>超凡机械蜈蚣孵化进度：{0}</GR_ArchoWombProgress>
   <!--EN: An archotech growth cell needs to be inserted in the archowomb before the process can be started-->
-  <GR_ArchotechGrowthCellNotInserted>在开始该过程之前，需要将 archotech 生长细胞插入 archowomb 中</GR_ArchotechGrowthCellNotInserted>
+  <GR_ArchotechGrowthCellNotInserted>缺少超凡孵化单元。</GR_ArchotechGrowthCellNotInserted>
   <!--EN: Are you sure you want to change the accepted genome? All current progress will be lost-->
-  <GR_AreYouSureDNA>您确定要更改已接受的基因组吗？当前的所有进度都将丢失</GR_AreYouSureDNA>
+  <GR_AreYouSureDNA>你确定要更改此项吗？基因贮存库中已储存的基因物质都将被清空！</GR_AreYouSureDNA>
   <!--EN: Archotech Awakening-->
-  <GR_BeginArchotechCentipede>Archotech 觉醒</GR_BeginArchotechCentipede>
+  <GR_BeginArchotechCentipede>孵化超凡机械蜈蚣</GR_BeginArchotechCentipede>
   <!--EN: Create the Archotech centipede. The process will take about 15 days, and the energy signature will be detectable from a long distance away.-->
-  <GR_BeginArchotechCentipedeDesc>创建 Archotech 蜈蚣。该过程大约需要 15 天，并且可以从很远的距离检测到能量信号。</GR_BeginArchotechCentipedeDesc>
+  <GR_BeginArchotechCentipedeDesc>孵化一只超凡机械蜈蚣。孵化进程将会耗费大约15天，一旦设备启动，其产生的高能脉冲将会席卷整个边缘世界，所有敌人都将不计代价地前来阻止你。</GR_BeginArchotechCentipedeDesc>
   <!--EN: You are ready to start the archotech centipede project.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates that someone is meddling in technology that is far beyond human understanding, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.-->
-  <GR_BeginArchotechCentipedeText>您已准备好启动 archotech 蜈蚣项目。
-
-该过程大约需要 15 天，并且可以从很远的距离检测到能量信号。这种能量信号表明有人正在干预远远超出人类理解的技术，并将吸引绝望的袭击者团伙和致命的机械人群。
-
-你将受到前所未有的强度攻击。确保首先准备好防御。</GR_BeginArchotechCentipedeText>
+  <GR_BeginArchotechCentipedeText>你已经准备好开启“超凡生物孵育项目”的最终阶段了。\n\n一旦设备启动，其产生的高能脉冲将会席卷整个边缘世界，所有敌人都将不计代价地前来阻止你。孵化进程将会耗费大约15天，请确保第一时间做好防御。</GR_BeginArchotechCentipedeText>
   <!--EN: Create growth cell-->
-  <GR_BeginArchotechGrowthCell>创建生长细胞</GR_BeginArchotechGrowthCell>
+  <GR_BeginArchotechGrowthCell>塑造超凡孵化单元</GR_BeginArchotechGrowthCell>
   <!--EN: Begin creation of an archotech growth cell. This will need all neccessary DNA banks to be at 100% progress-->
-  <GR_BeginArchotechGrowthCellDesc>开始创建 archotech 生长细胞。这需要所有必要的 DNA 库都达到 100% 的进度</GR_BeginArchotechGrowthCellDesc>
+  <GR_BeginArchotechGrowthCellDesc>开始塑造一个超凡孵化单元。</GR_BeginArchotechGrowthCellDesc>
   <!--EN: Animals that have been extracted can't be resurrected.-->
-  <GR_CantResurrect>被取出的动物无法复活。</GR_CantResurrect>
+  <GR_CantResurrect>大脑被抽取的生物无法复活。</GR_CantResurrect>
   <!--EN: Carrying more weight-->
-  <GR_CarryMore>承载更多重量</GR_CarryMore>
+  <GR_CarryMore>已废弃</GR_CarryMore>
   <!--EN: This hybrid is carrying more weight than usual due to the influence of the animal control hub-->
-  <GR_CarryMoreDesc>由于动物控制中心的影响，这种混合动力车的重量比平时要重</GR_CarryMoreDesc>
+  <GR_CarryMoreDesc>已废弃</GR_CarryMoreDesc>
   <!--EN: Cellular degeneration in: {0}-->
-  <GR_CellularDegeneration>细胞变性：{0}</GR_CellularDegeneration>
+  <GR_CellularDegeneration>全身细胞将会在{0}后崩解。</GR_CellularDegeneration>
   <!--EN: Choose dominant genome first-->
-  <GR_ChooseDominantGenomeFirst>首先选择显性基因组</GR_ChooseDominantGenomeFirst>
+  <GR_ChooseDominantGenomeFirst>请先选择主要基因</GR_ChooseDominantGenomeFirst>
   <!--EN: Use no booster-->
-  <GR_ChooseNoBooster>不使用助推器</GR_ChooseNoBooster>
+  <GR_ChooseNoBooster>不使用改良剂</GR_ChooseNoBooster>
   <!--EN: Release a poisonous cloud-->
-  <GR_CreatePoisonousCloud>释放毒云</GR_CreatePoisonousCloud>
+  <GR_CreatePoisonousCloud>已废弃</GR_CreatePoisonousCloud>
   <!--EN: Creates a cloud of poison at a target's location-->
-  <GR_CreatePoisonousCloudDesc>在目标位置产生毒云</GR_CreatePoisonousCloudDesc>
+  <GR_CreatePoisonousCloudDesc>已废弃</GR_CreatePoisonousCloudDesc>
   <!--EN: Mind control creature-->
-  <GR_CreatureMindControl>精神控制生物</GR_CreatureMindControl>
+  <GR_CreatureMindControl>已废弃</GR_CreatureMindControl>
   <!--EN: Use mind control to order this creature around the map-->
-  <GR_CreatureMindControlDesc>使用精神控制在地图上命令该生物</GR_CreatureMindControlDesc>
+  <GR_CreatureMindControlDesc>已废弃</GR_CreatureMindControlDesc>
   <!--EN: Rage attack-->
-  <GR_CreatureRageAttack>狂暴攻击</GR_CreatureRageAttack>
+  <GR_CreatureRageAttack>已废弃</GR_CreatureRageAttack>
   <!--EN: Send the creature in a bloodthristy rage against its target-->
-  <GR_CreatureRageAttackDesc>让该生物对其目标产生嗜血狂怒</GR_CreatureRageAttackDesc>
+  <GR_CreatureRageAttackDesc>已废弃</GR_CreatureRageAttackDesc>
   <!--EN: DNA amount progress: {0}-->
-  <GR_DNABankProgress>DNA 量进度：{0}</GR_DNABankProgress>
+  <GR_DNABankProgress>基因物质存储量：{0}</GR_DNABankProgress>
   <!--EN: Decoding strange radio signals in {0}-->
-  <GR_DecodingRadioSignals>解码 {0} 中的奇怪无线电信号</GR_DecodingRadioSignals>
+  <GR_DecodingRadioSignals>正在破译无线电信号。剩余时间：{0}</GR_DecodingRadioSignals>
   <!--EN: Designate a growth cell-->
-  <GR_DesignateGrowthCell>指定生长细胞</GR_DesignateGrowthCell>
+  <GR_DesignateGrowthCell>培养孵化单元</GR_DesignateGrowthCell>
   <!--EN: Select genomes, genoframe and optionally a booster to create a growthcell of a selected hybrid-->
-  <GR_DesignateGrowthCellDesc>选择基因组、基因框和可选的增强子来创建选定杂交体的生长细胞</GR_DesignateGrowthCellDesc>
+  <GR_DesignateGrowthCellDesc>若想培养一个孵化单元，你必须先设定好要填入的基因物质、基因构造框架和改良剂</GR_DesignateGrowthCellDesc>
   <!--EN: {0} has been destroyed by temperature (needs between 0 and 50 ºC)-->
-  <GR_DestroyedByTemp>{0} 已被温度破坏（需要 0 到 50 ºC 之间）</GR_DestroyedByTemp>
+  <GR_DestroyedByTemp>{0}因温度不适宜而损坏了（需求0~50°C）</GR_DestroyedByTemp>
   <!--EN: Detonate Chemfuel-->
-  <GR_DetonateChemfuel>引爆化学燃料</GR_DetonateChemfuel>
+  <GR_DetonateChemfuel>已废弃</GR_DetonateChemfuel>
   <!--EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion-->
-  <GR_DetonateChemfuelDesc>远程引爆该生物的化学燃料储存库。动物将受到由此产生的爆炸的影响和伤害</GR_DetonateChemfuelDesc>
+  <GR_DetonateChemfuelDesc>已废弃</GR_DetonateChemfuelDesc>
   <!--EN: Disable Greater Scaria's 100% rotting-->
-  <GR_DisableGreaterScariaRotting>禁用大斯卡里亚的 100% 腐烂</GR_DisableGreaterScariaRotting>
+  <GR_DisableGreaterScariaRotting>禁用致死型狂暴症的100%腐烂机制</GR_DisableGreaterScariaRotting>
   <!--EN: By default, greater scaria will rot corpses 100% of the time. With this setting on, it will instead rot corpses at the same rate as normal scaria, which is a storyteller setting. Bear in mind this means the player will just get meat and leather from the extra raids.-->
-  <GR_DisableGreaterScariaRottingTooltip>默认情况下，更大的疤痕会 100% 地腐烂尸体。启用此设置后，它会以与正常斯卡利亚相同的速度腐烂尸体，这是一个讲故事的设置。请记住，这意味着玩家只能从额外的袭击中获得肉和皮革。</GR_DisableGreaterScariaRottingTooltip>
+  <GR_DisableGreaterScariaRottingTooltip>默认状况下，患有致死型狂暴症的生物死亡后尸体100%会腐烂。此项可以让致死型狂暴症的腐烂几率与普通狂暴症保持一致，且会受到叙述者界面“自定义游戏模式设置”的影响。</GR_DisableGreaterScariaRottingTooltip>
   <!--EN: Disable growth cell alerts-->
-  <GR_DisableGrowthCellAlerts>禁用生长细胞警报</GR_DisableGrowthCellAlerts>
+  <GR_DisableGrowthCellAlerts>禁用孵化单元完成提醒</GR_DisableGrowthCellAlerts>
   <!--EN: Disable the pop up message that appears when a growth cell is finished by a genomorpher-->
-  <GR_DisableGrowthCellAlertsTooltip>禁用基因形态完成生长细胞时出现的弹出消息</GR_DisableGrowthCellAlertsTooltip>
+  <GR_DisableGrowthCellAlertsTooltip>禁用孵化单元塑造完毕时在屏幕左上方弹出的提醒消息。</GR_DisableGrowthCellAlertsTooltip>
   <!--EN: Disable "Roaming monstrosities" raids-->
-  <GR_DisableHybridRaids>禁用“漫游怪物”袭击</GR_DisableHybridRaids>
+  <GR_DisableHybridRaids>禁用“彷徨畸兽”袭击</GR_DisableHybridRaids>
   <!--EN: Disables the roaming, manhunting hybrids attacking your colony periodically-->
-  <GR_DisableHybridRaidsTooltip>禁止漫游、狩猎的杂种定期攻击你的殖民地</GR_DisableHybridRaidsTooltip>
+  <GR_DisableHybridRaidsTooltip>禁用“彷徨畸兽”袭击。</GR_DisableHybridRaidsTooltip>
   <!--EN: Disable mech hybrid IFF sensors-->
-  <GR_DisableMechanoidIFF>禁用机械混合 IFF 传感器</GR_DisableMechanoidIFF>
+  <GR_DisableMechanoidIFF>禁用机械生物的敌我识别系统</GR_DisableMechanoidIFF>
   <!--EN: Disable mechanoid hybrids having a need for a mechahybrid antenna. With this setting ON, mechanoid hybrids will always remain tamed (with base game animal trainability mechanics still present) and you won't need to build any mechahybrid antennas, ever.-->
-  <GR_DisableMechanoidIFFTooltip>禁用需要机械混合天线的机械混合系统。启用此设置后，机械混合体将始终保持驯服状态（基本游戏动物可训练机制仍然存在），并且您永远不需要构建任何机械混合体天线。</GR_DisableMechanoidIFFTooltip>
+  <GR_DisableMechanoidIFFTooltip>禁用此项后，机械生物将会一直保持驯服状态，也无需建造机械生物信号塔来维持敌我识别系统的同步率。</GR_DisableMechanoidIFFTooltip>
   <!--EN: Disable all genetic diseases-->
-  <GR_DisableOldAgeDiseases>禁用所有遗传病</GR_DisableOldAgeDiseases>
+  <GR_DisableOldAgeDiseases>禁用所有基因疾病</GR_DisableOldAgeDiseases>
   <!--EN: Disables all genetic diseases that afflict the hybrids after a given time, depending on their quality. Bear in mind that this effectively means the hybrids won't ever die of old age, as they don't receive "old age" diseases such as dementia.-->
-  <GR_DisableOldAgeDiseasesTooltip>在给定时间后禁用所有影响杂交种的遗传疾病，具体取决于它们的质量。请记住，这实际上意味着混血儿永远不会死于老年，因为它们不会患上痴呆症等“老年”疾病。</GR_DisableOldAgeDiseasesTooltip>
+  <GR_DisableOldAgeDiseasesTooltip>禁用所有类型的基因疾病。</GR_DisableOldAgeDiseasesTooltip>
   <!--EN: Disable electrowomb alerts-->
-  <GR_DisableWombAlerts>禁用电子宫警报</GR_DisableWombAlerts>
+  <GR_DisableWombAlerts>禁用电力孵化器完成提醒</GR_DisableWombAlerts>
   <!--EN: Disable the pop up message that appears when a creature finishes growing in an electrowomb-->
-  <GR_DisableWombAlertsTooltip>禁用当生物在电子宫中完成生长时出现的弹出消息</GR_DisableWombAlertsTooltip>
+  <GR_DisableWombAlertsTooltip>禁用混种生物孵化完毕时在屏幕左上方弹出的提醒消息。</GR_DisableWombAlertsTooltip>
   <!--EN: There is already a DNA storage bank nearby with that genome chosen-->
-  <GR_DuplicatedGenomeSelection>附近已经有一个 DNA 存储库，其中包含所选的基因组</GR_DuplicatedGenomeSelection>
+  <GR_DuplicatedGenomeSelection>附近已经有其他基因贮存库选择存放这种基因物质了。</GR_DuplicatedGenomeSelection>
   <!--EN: A creature has hatched from an electrowomb-->
-  <GR_ElectroWomb_Finished>一种生物从电子宫中孵化出来</GR_ElectroWomb_Finished>
+  <GR_ElectroWomb_Finished>一只混种生物已孵化完毕。</GR_ElectroWomb_Finished>
   <!--EN: A creature has hatched from an electrowomb... but something went terribly wrong!-->
-  <GR_ElectroWomb_Finished_Failure>一个生物从电子宫中孵化出来……但出了严重的问题！</GR_ElectroWomb_Finished_Failure>
+  <GR_ElectroWomb_Finished_Failure>一只混种生物已孵化完毕，但...该死，我们的实验搞砸了！</GR_ElectroWomb_Finished_Failure>
   <!--EN: The electrowomb was too small for this creature... something went terribly wrong!-->
-  <GR_ElectroWomb_Finished_Failure_TooSmall>电子宫对于这个生物来说太小了……出了严重的问题！</GR_ElectroWomb_Finished_Failure_TooSmall>
+  <GR_ElectroWomb_Finished_Failure_TooSmall>电力孵化器的尺寸对其内部的混种生物而言太小了！该死，我们的实验搞砸了！</GR_ElectroWomb_Finished_Failure_TooSmall>
   <!--EN: Progress: {0}-->
-  <GR_ElectroWomb_Progress>进度：{0}</GR_ElectroWomb_Progress>
+  <GR_ElectroWomb_Progress>孵化进度：{0}</GR_ElectroWomb_Progress>
   <!--EN: This genome excavator has {0} uses left-->
-  <GR_ExcavatorUsesLeft>该基因组挖掘机有 {0} 使用左</GR_ExcavatorUsesLeft>
+  <GR_ExcavatorUsesLeft>剩余使用次数：{0}</GR_ExcavatorUsesLeft>
   <!--EN: The animal can't be reached by the colonist, or is being interacted with by another colonist-->
-  <GR_ExtractionFailed>殖民者无法接触到该动物，或者其他殖民者正在与该动物互动</GR_ExtractionFailed>
+  <GR_ExtractionFailed>殖民者无法到达目标生物的所处位置，或目标生物正在与其它殖民者进行互动。</GR_ExtractionFailed>
   <!--EN: Failure Outcome-->
-  <GR_FailureOutcome>失败结果</GR_FailureOutcome>
+  <GR_FailureOutcome>失败产物</GR_FailureOutcome>
   <!--EN: Base failure rate-->
-  <GR_FailureRate>基本故障率</GR_FailureRate>
+  <GR_FailureRate>基础孵化失败几率</GR_FailureRate>
   <!--EN: By default, a genomorpher process will fail 10% of the time. This can be affected by boosters and other factors. This setting modifies that 10% base failure rate.-->
-  <GR_FailureRateTooltip>默认情况下，基因变形过程有 10% 的概率会失败。这可能会受到助推器和其他因素的影响。此设置修改了 10% 的基本故障率。</GR_FailureRateTooltip>
+  <GR_FailureRateTooltip>默认状况下，基因塑造仪塑造出的孵化单元有10%的几率孵化失败。孵化失败几率也会受到改良剂或其他因素的影响。此项仅修改最基础的孵化失败几率。</GR_FailureRateTooltip>
   <!--EN: Spreading in darkness and producing flesh flies periodically. Destroy it as fast as possible!-->
-  <GR_FleshGrowth>在黑暗中传播并定期产生肉蝇。尽快摧毁它！</GR_FleshGrowth>
+  <GR_FleshGrowth>这些恶心的东西会在黑暗中迅速扩散，并定期生成血肉飞蝇。我们要赶在事态恶化前将它毁掉！</GR_FleshGrowth>
   <!--EN: You've activated the Archotech Project! These colonists were present for the archotech awakening:\n\n{0}\n\nThe Archotech Centipede is now under their control, and you are free to decimate your enemies and control the planet unopposed.\n\nCongratulations, you have won the game with the Vanilla Genetics Expanded mod!-->
-  <GR_GameOverArchotech>您已经激活了 Archotech 项目！这些殖民者出席了 Archotech 的觉醒：
-
-{0}
-
-Archotech 蜈蚣现在在他们的控制之下，你可以自由地消灭你的敌人并不受阻碍地控制地球。
-
-恭喜你，你赢了带有香草遗传学扩展模组的游戏！</GR_GameOverArchotech>
+  <GR_GameOverArchotech>你已经成功完成了“超凡生物孵育项目”！以下殖民者见证了新生超凡智能的觉醒：\n\n{0}\n\n超凡机械蜈蚣已处于你们的控制之下。现在，你可以随心所欲地用它来征服整个星球了。\n\n干得漂亮！恭喜你达成了原版基因扩展带来的新结局！</GR_GameOverArchotech>
   <!--EN: Genetic Diseases in: {0}-->
-  <GR_GeneticDiseasesIn>遗传疾病：{0}</GR_GeneticDiseasesIn>
+  <GR_GeneticDiseasesIn>将会在{0}后患上基因疾病。</GR_GeneticDiseasesIn>
   <!--EN: Genetic worktable speed: implants precept-->
-  <GR_GeneticTableImplantsSpeed>基因工作台速度：植入戒律</GR_GeneticTableImplantsSpeed>
+  <GR_GeneticTableImplantsSpeed>基因工作台速度：植入物培养机 戒律</GR_GeneticTableImplantsSpeed>
   <!--EN: Select genomes, genoframe and optionally a booster to create a growthcell of a selected hybrid-->
-  <GR_GenomorpherExplanation>选择基因组、基因框和可选的增强子来创建选定杂交体的生长细胞</GR_GenomorpherExplanation>
+  <GR_GenomorpherExplanation>若想培养一个孵化单元，你必须先设定好要填入的基因物质、基因构造框架和改良剂</GR_GenomorpherExplanation>
   <!--EN: Use immunity boosters or use safer genome combinations to lower the risk of failure.-->
-  <GR_GenomorpherExplanationPartTwo>使用免疫增强剂或使用更安全的基因组组合来降低失败的风险。</GR_GenomorpherExplanationPartTwo>
+  <GR_GenomorpherExplanationPartTwo>使用免疫改良剂或更安全的基因组合来降低实验的失败几率</GR_GenomorpherExplanationPartTwo>
   <!--EN: Genomorpher speed multiplier-->
-  <GR_GenomorpherSpeedMultiplier>Genomorpher 速度倍增器</GR_GenomorpherSpeedMultiplier>
+  <GR_GenomorpherSpeedMultiplier>基因塑造仪速度乘数</GR_GenomorpherSpeedMultiplier>
   <!--EN: The speed of the Genomorpher process is multiplied by this number. Numbers below 1 decrease the time, while numbers above it increase it.-->
-  <GR_GenomorpherSpeedMultiplierTooltip>Genomorpher 过程的速度乘以该数字。低于 1 的数字会减少时间，而高于 1 的数字会增加时间。</GR_GenomorpherSpeedMultiplierTooltip>
+  <GR_GenomorpherSpeedMultiplierTooltip>基因塑造仪的孵化单元塑造时间会乘以此项的数值。值小于1时会减少塑造时间，大于1时会增加塑造时间。</GR_GenomorpherSpeedMultiplierTooltip>
   <!--EN: A growth cell has been produced-->
-  <GR_Genomorpher_Finished>生长细胞已产生</GR_Genomorpher_Finished>
+  <GR_Genomorpher_Finished>一个孵化单元已塑造完毕。</GR_Genomorpher_Finished>
   <!--EN: Ingredients: {0}, {1}, {2}, {3}-->
-  <GR_Genomorpher_Ingredients>成分：{0}、{1}、{2}、{3}</GR_Genomorpher_Ingredients>
+  <GR_Genomorpher_Ingredients>素材：{0}，{1}，{2}，{3}</GR_Genomorpher_Ingredients>
   <!--EN: Ingredients: {0}, {1}, {2}-->
-  <GR_Genomorpher_Ingredients_NoFrame>成分：{0}、{1}、{2}</GR_Genomorpher_Ingredients_NoFrame>
+  <GR_Genomorpher_Ingredients_NoFrame>素材：{0}，{1}，{2}</GR_Genomorpher_Ingredients_NoFrame>
   <!--EN: Progress: {0}-->
-  <GR_Genomorpher_Progress>进度：{0}</GR_Genomorpher_Progress>
+  <GR_Genomorpher_Progress>孵化单元塑造进度：{0}</GR_Genomorpher_Progress>
   <!--EN: Go-Juice production-->
-  <GR_GoJuice>Go果汁生产</GR_GoJuice>
+  <GR_GoJuice>活力水产出进度</GR_GoJuice>
   <!--EN: Insert {1} cell (size {2}) into {0}-->
-  <GR_GrowthCell_InsertInElectroWomb>将 {1} 单元格（大小 {2}）插入 {0}</GR_GrowthCell_InsertInElectroWomb>
+  <GR_GrowthCell_InsertInElectroWomb>将{1}孵化单元(大小：{2})装入{0}中</GR_GrowthCell_InsertInElectroWomb>
   <!--EN: Booster: {0}-->
-  <GR_GrowthCell_InspectBooster>助推器：{0}</GR_GrowthCell_InspectBooster>
+  <GR_GrowthCell_InspectBooster>改良剂：{0}</GR_GrowthCell_InspectBooster>
   <!--EN: Dominant Gene: {0}-->
-  <GR_GrowthCell_InspectDominant>显性基因：{0}</GR_GrowthCell_InspectDominant>
+  <GR_GrowthCell_InspectDominant>主体性状基因：{0}</GR_GrowthCell_InspectDominant>
   <!--EN: Genoframe: {0}-->
-  <GR_GrowthCell_InspectGenoframe>基因框：{0}</GR_GrowthCell_InspectGenoframe>
+  <GR_GrowthCell_InspectGenoframe>基因构造框架：{0}</GR_GrowthCell_InspectGenoframe>
   <!--EN: Secondary Gene: {0}-->
-  <GR_GrowthCell_InspectSecondary>次要基因：{0}</GR_GrowthCell_InspectSecondary>
+  <GR_GrowthCell_InspectSecondary>嵌合性状基因：{0}</GR_GrowthCell_InspectSecondary>
   <!--EN: Hybrid role-->
-  <GR_HybridRole>混合角色</GR_HybridRole>
+  <GR_HybridRole>混种生物作用</GR_HybridRole>
   <!--EN: Combat-->
-  <GR_HybridRoleCombat>战斗</GR_HybridRoleCombat>
+  <GR_HybridRoleCombat>战斗型</GR_HybridRoleCombat>
   <!--EN: Combat hybrids excel at either melee or ranged combat. These hybrids will benefit the most from implants and controller boosters.-->
-  <GR_HybridRoleCombatDesc>战斗混合型擅长近战或远程战斗。这些混合动力将从植入物和控制器增强器中受益最多。</GR_HybridRoleCombatDesc>
+  <GR_HybridRoleCombatDesc>这类混种生物拥有优秀的近战攻击或远程攻击能力。安装神经操控器和各种植入物能使它们变得更加强大。</GR_HybridRoleCombatDesc>
   <!--EN: Farm-->
-  <GR_HybridRoleFarm>农场</GR_HybridRoleFarm>
+  <GR_HybridRoleFarm>畜牧型</GR_HybridRoleFarm>
   <!--EN: Farm hybrids produce some sort of resource over time, but generally need to be kept inside an animal pen. These hybrids will not benefit as much from implants and controller boosters.-->
-  <GR_HybridRoleFarmDesc>随着时间的推移，农场杂交动物会产生某种资源，但通常需要保存在动物围栏内。这些混合动力不会从植入物和控制器增强器中受益太多。</GR_HybridRoleFarmDesc>
+  <GR_HybridRoleFarmDesc>这类混种生物可以定期产出某种资源，且大部分都需要关在畜栏里。</GR_HybridRoleFarmDesc>
   <!--EN: Utility-->
-  <GR_HybridRoleUtility>公用事业</GR_HybridRoleUtility>
+  <GR_HybridRoleUtility>多功能</GR_HybridRoleUtility>
   <!--EN: Utility hybrids bring some kind of mechanic to the colony that isn't strictly used for combat or resource generation.-->
-  <GR_HybridRoleUtilityDesc>实用混合动力为殖民地带来了某种并非严格用于战斗或资源生成的机制。</GR_HybridRoleUtilityDesc>
+  <GR_HybridRoleUtilityDesc>这类混种生物拥有一些有趣的“特殊机制”，它们也并不能算是专门的战斗型或畜牧型混种生物。</GR_HybridRoleUtilityDesc>
   <!--EN: Random hybrid spawner radius-->
-  <GR_HybridSpawnerRadius>随机混合生成器半径</GR_HybridSpawnerRadius>
+  <GR_HybridSpawnerRadius>混种生物随机生成半径</GR_HybridSpawnerRadius>
   <!--EN: Defines the radius that "Abandoned Lab" quests' random hybrid spawners use to detect player around them and spawn a random hostile hybrid. Default is 12 tiles. WARNING: Cranking this up to 40 is laggy, as the number of tiles in a circle raises exponentially by radius, not linearly.-->
-  <GR_HybridSpawnerRadiusTooltip>定义“废弃实验室”任务的随机混合生成器用于检测周围玩家并生成随机敌对混合生成器的半径。默认为 12 块。警告：将其提高到 40 会很滞后，因为圆圈中的瓷砖数量按半径呈指数增长，而不是线性增长。</GR_HybridSpawnerRadiusTooltip>
+  <GR_HybridSpawnerRadiusTooltip>玩家的殖民者在靠近废弃实验基地内的某些建筑时，会随机生成敌对的混种生物。此项可以更改触发生成所需的半径（简单来说，如果值设为8，刷怪建筑的触发范围就是半径为8格的圆圈，殖民者只要进入这个范围内就会刷出敌对混种生物）。</GR_HybridSpawnerRadiusTooltip>
   <!--EN: Mechanoid hybrids supported per antenna-->
-  <GR_HybridsPerAntenna>每个天线支持机械混合体</GR_HybridsPerAntenna>
+  <GR_HybridsPerAntenna>每座机械生物信号塔的最大控制数量</GR_HybridsPerAntenna>
   <!--EN: Choose the amount of hybrids that will be supported for each mechahybrid antenna. Default is five.-->
-  <GR_HybridsPerAntennaTooltip>选择每个机械混合天线支持的混合数量。默认值为五。</GR_HybridsPerAntennaTooltip>
+  <GR_HybridsPerAntennaTooltip>默认状况下，每座机械生物信号塔最多只能控制5只机械生物。此项可以更改这个数值。</GR_HybridsPerAntennaTooltip>
   <!--EN: IFF Coherence: {0}-->
-  <GR_IFFCoherence>IFF 一致性：{0}</GR_IFFCoherence>
+  <GR_IFFCoherence>敌我识别系统同步率：{0}</GR_IFFCoherence>
   <!--EN: Inflict Chicken RimPox-->
-  <GR_InflictChickenRimPox>造成鸡痘</GR_InflictChickenRimPox>
+  <GR_InflictChickenRimPox>已废弃</GR_InflictChickenRimPox>
   <!--EN: Attacks a target and inflicts Chicken RimPox, a debilitating disease-->
-  <GR_InflictChickenRimPoxDesc>攻击目标并造成鸡痘，一种使人衰弱的疾病</GR_InflictChickenRimPoxDesc>
+  <GR_InflictChickenRimPoxDesc>已废弃</GR_InflictChickenRimPoxDesc>
   <!--EN: Initiate synthesis-->
-  <GR_InitiateSynthesis>开始合成</GR_InitiateSynthesis>
+  <GR_InitiateSynthesis>开始塑造</GR_InitiateSynthesis>
   <!--EN: Initiating synthesis will have your colonists deliver all the required ingredients to this Genomorpher. After synthesis concludes, a growthcell of a hybrid will have to be extracted and inserted into an electrowomb where it will grow to maturity. Larger animals may require large electrowomb.-->
-  <GR_InitiateSynthesisExplanation>启动合成将使您的殖民者将所有必需的成分传递给该 Genomorpher。合成结束后，必须提取杂交体的生长细胞并将其插入电子宫中，在那里它将生长至成熟。较大的动物可能需要大型电子宫。</GR_InitiateSynthesisExplanation>
+  <GR_InitiateSynthesisExplanation>选择“开始塑造”后，你的殖民者会将所需的实验素材运输到这台基因塑造仪中。塑造完成的孵化单元需要装入电力孵化器中进行孵化。体型更大的混种生物可能会需要更大的电力孵化器。</GR_InitiateSynthesisExplanation>
   <!--EN: Invoking insanity has a maximum range of 10. Get closer to the target!-->
-  <GR_InvokingInsanityRange>发动疯狂的最大范围为10。靠近目标！</GR_InvokingInsanityRange>
+  <GR_InvokingInsanityRange>已废弃</GR_InvokingInsanityRange>
   <!--EN: Dying due to lack of love in: {0}-->
-  <GR_LackOfLove>因缺乏爱而死亡：{0}</GR_LackOfLove>
+  <GR_LackOfLove>将会因缺少关爱而在{0}后死亡。</GR_LackOfLove>
   <!--EN: Roaming monstrosities-->
-  <GR_LetterLabelMonstrositiesArrived>漫游的怪物</GR_LetterLabelMonstrositiesArrived>
+  <GR_LetterLabelMonstrositiesArrived>彷徨畸兽袭击</GR_LetterLabelMonstrositiesArrived>
   <!--EN: Some escaped genetically modified monstrosities have been wandering aimlessly through the wilds, and have been attracted to your colony! They are attacking immediately!\n\nThey seem to be afflicted with Greater Scaria, so they won't be able to be tamed, and will die in a few days, even if treated.-->
-  <GR_LetterMonstrositiesArrived>一些逃脱的转基因怪物在荒野中漫无目的地游荡，并被您的殖民地所吸引！他们立即发起攻击！
-
-他们似乎患有大斯卡利亚病，因此无法被驯服，即使治疗也会在几天内死亡。</GR_LetterMonstrositiesArrived>
+  <GR_LetterMonstrositiesArrived>一群四处彷徨的基因工程生物正在接近我们的殖民地，它们看起来像是从某座实验基地中逃出来的。由于陷入了狂暴状态，它们会立即开始进攻！\n\n这些患有致死型狂暴症的混种生物无法被驯服，即使被救下，它们也会在几天后死亡。</GR_LetterMonstrositiesArrived>
   <!--EN: Make all hybrids controllable-->
-  <GR_MakeAllHybridsControllable>让所有混合动力都可控</GR_MakeAllHybridsControllable>
+  <GR_MakeAllHybridsControllable>使所有混种生物都能被征召</GR_MakeAllHybridsControllable>
   <!--EN: Makes all hybrids draftable, being able to be ordered around by the player, without the need to use a controller booster-->
-  <GR_MakeAllHybridsControllableTooltip>使所有混合动力都可起草，能够由玩家订购，而无需使用控制器增强器</GR_MakeAllHybridsControllableTooltip>
+  <GR_MakeAllHybridsControllableTooltip>使所有混种生物都能被直接征召，而无需使用神经操控器。</GR_MakeAllHybridsControllableTooltip>
   <!--EN: Make all hybrids fertile-->
-  <GR_MakeAllHybridsFertile>使所有杂交品种都能生育</GR_MakeAllHybridsFertile>
+  <GR_MakeAllHybridsFertile>使所有混种生物拥有繁殖能力</GR_MakeAllHybridsFertile>
   <!--EN: Makes all hybrids popping up from an electrowomb be fertile, and thus able to breed, without needing a fertility unlocker booster. Bear in mind this will still not work on insectoid hybrids, as eusocial insects aren't ever fertile.-->
-  <GR_MakeAllHybridsFertileTooltip>使所有从电子宫中出现的杂交后代都具有生育能力，从而能够繁殖，而不需要生育解锁助推器。请记住，这仍然不适用于类昆虫杂交体，因为社会性昆虫永远不会生育。</GR_MakeAllHybridsFertileTooltip>
+  <GR_MakeAllHybridsFertileTooltip>使所有从孵化器中孵化出的混种生物都拥有正常的繁殖能力，而无需使用生育解限剂。对虫族混种生物依旧无效。</GR_MakeAllHybridsFertileTooltip>
   <!--EN: Mechahybridization progress: {0}-->
-  <GR_MechahybridizerProgress>机械杂交进度：{0}</GR_MechahybridizerProgress>
+  <GR_MechahybridizerProgress>改造进度：{0}</GR_MechahybridizerProgress>
   <!--EN: Mech hybrids affected by this antenna:-->
-  <GR_MechsInThisAntenna>受该天线影响的机甲混合体：</GR_MechsInThisAntenna>
+  <GR_MechsInThisAntenna>受此信号塔控制的机械生物：</GR_MechsInThisAntenna>
   <!--EN: This building needs to be placed in an indoors, roofed area-->
-  <GR_MustPlaceRoofed>该建筑物需要放置在室内、有屋顶的区域</GR_MustPlaceRoofed>
+  <GR_MustPlaceRoofed>必须建造在有屋顶的封闭室内中。</GR_MustPlaceRoofed>
   <!--EN: Neutroamine production time-->
-  <GR_Neutroamine>中性胺产生时间</GR_Neutroamine>
+  <GR_Neutroamine>中性胺产出进度</GR_Neutroamine>
   <!--EN: No valid boosters on map-->
-  <GR_NoBoostersInMap>地图上没有有效的助推器</GR_NoBoostersInMap>
+  <GR_NoBoostersInMap>当前区域缺少可用的改良剂</GR_NoBoostersInMap>
   <!--EN: No endgame genomes! (error)-->
-  <GR_NoEndgameGenomes>没有残局基因组！ （错误）</GR_NoEndgameGenomes>
+  <GR_NoEndgameGenomes>基因物质不足！（报错了）</GR_NoEndgameGenomes>
   <!--EN: No valid genoframes on map-->
-  <GR_NoGenoframesInMap>地图上没有有效的基因框</GR_NoGenoframesInMap>
+  <GR_NoGenoframesInMap>当前区域缺少可用的基因构造框架</GR_NoGenoframesInMap>
   <!--EN: No valid genomes on map-->
-  <GR_NoGenomesInMap>地图上没有有效的基因组</GR_NoGenomesInMap>
+  <GR_NoGenomesInMap>当前区域缺少可用的基因物质</GR_NoGenomesInMap>
   <!--EN: No ingredients found to start the genomorpher process-->
-  <GR_NoIngredientFound>未找到启动基因变体过程的成分</GR_NoIngredientFound>
+  <GR_NoIngredientFound>找不到可以启动基因塑造仪的实验素材</GR_NoIngredientFound>
   <!--EN: No colony animals with that genome-->
-  <GR_NoValidAnimalsToExtract>没有群体动物具有该基因组</GR_NoValidAnimalsToExtract>
+  <GR_NoValidAnimalsToExtract>殖民地中缺少拥有此基因物质的混种生物</GR_NoValidAnimalsToExtract>
   <!--EN: No valid genes can be extracted from this animal with this extractor-->
-  <GR_NoValidExtraction>使用该提取器无法从该动物中提取有效基因</GR_NoValidExtraction>
+  <GR_NoValidExtraction>此提取器无法从目标生物身上抽取基因物质。</GR_NoValidExtraction>
   <!--EN: No colony paragon hybrids present-->
-  <GR_NoValidParagonsToConvert>不存在群体典范杂交种</GR_NoValidParagonsToConvert>
+  <GR_NoValidParagonsToConvert>缺少可用的无瑕生物</GR_NoValidParagonsToConvert>
   <!--EN: Orbital power beam-->
-  <GR_Orbital>轨道功率束</GR_Orbital>
+  <GR_Orbital>已废弃</GR_Orbital>
   <!--EN: That's a nice... existance you have there. It would be a shame if someone were to end it.-->
-  <GR_OrbitalDesc>你在那里的存在真是太好了。如果有人要结束它，那将是一种耻辱。</GR_OrbitalDesc>
+  <GR_OrbitalDesc>已废弃</GR_OrbitalDesc>
   <!--EN: Poison cloud has a maximum range of 10. Get closer to the target!-->
-  <GR_PoisonCloudRange>毒云的最大射程为10。靠近目标！</GR_PoisonCloudRange>
+  <GR_PoisonCloudRange>已废弃</GR_PoisonCloudRange>
   <!--EN: Predicted Outcomes-->
-  <GR_PredictedOutcomes>预测结果</GR_PredictedOutcomes>
+  <GR_PredictedOutcomes>预期产物</GR_PredictedOutcomes>
   <!--EN: Use growth boosters or construct additional nutrient vats to speed up the process.-->
-  <GR_ProcessDurationExplanation>使用生长促进剂或建造额外的营养桶来加速这一过程。</GR_ProcessDurationExplanation>
+  <GR_ProcessDurationExplanation>使用改良剂来加快塑造时间</GR_ProcessDurationExplanation>
   <!--EN: Process will take: {0}-->
-  <GR_ProcessWillTake>流程将花费：{0}</GR_ProcessWillTake>
+  <GR_ProcessWillTake>塑造时间：{0}</GR_ProcessWillTake>
   <!--EN: Quality: {0}-->
-  <GR_Quality>质量：{0}</GR_Quality>
+  <GR_Quality>品质：{0}</GR_Quality>
   <!--EN: Use higher grade genoframes to increase the quality of the hybrid.-->
-  <GR_QualityExplanation>使用更高等级的基因框来提高杂交的质量。</GR_QualityExplanation>
+  <GR_QualityExplanation>使用更优质的基因构造框架来提高混种生物的品质</GR_QualityExplanation>
   <!--EN: Abandoned lab quests multiplier (lower means getting the event more often)-->
-  <GR_QuestRate>废弃的实验室任务乘数（较低意味着更频繁地获得该事件）</GR_QuestRate>
+  <GR_QuestRate>废弃实验基地任务的出现几率乘数</GR_QuestRate>
   <!--EN: The frequency of the abandoned lab quest being offered is multiplied by this number (with a multiplier of 1, it is offered every between 10 and 30 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently.-->
-  <GR_QuestRateTooltip>提供废弃实验室任务的频率乘以该数字（乘数为 1，每 10 到 30 天随机提供一次）。低于 1 的数字会减少时间，而高于 1 的数字会增加时间。请注意，此事件不会“取代”正常任务，它是独立运作的。</GR_QuestRateTooltip>
+  <GR_QuestRateTooltip>废弃实验基地任务的出现几率会乘以此项的数值（乘数为1时，将会在每10~30天内随机出现一次）。值小于1时会减少出现时间，大于1时会增加出现时间。注意：此任务并不会覆盖或挤掉其他任务的出现几率。</GR_QuestRateTooltip>
   <!--EN: "Roaming monstrosities" raids multiplier (lower means getting the event more often)-->
-  <GR_RaidsRate>“漫游怪物”袭击倍数（较低意味着更频繁地发生该事件）</GR_RaidsRate>
+  <GR_RaidsRate>“彷徨畸兽”袭击几率乘数</GR_RaidsRate>
   <!--EN: The frequency of the roaming, manhunting hybrids attacking your colony event is multiplied by this number (with a multiplier of 1, it is offered every between 10 and 30 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal raids, it works independently.-->
-  <GR_RaidsRateTooltip>漫游、狩猎的混种攻击你的殖民地事件的频率乘以这个数字（乘数为 1，每 10 到 30 天随机提供一次）。低于 1 的数字会减少时间，而高于 1 的数字会增加时间。请注意，此事件不会“取代”正常的突袭，它是独立运作的。</GR_RaidsRateTooltip>
+  <GR_RaidsRateTooltip>“彷徨畸兽”袭击事件的出现几率会乘以此项的数值（乘数为1时，将会在每10~30天内随机出现一次）。值小于1时会减少出现时间，大于1时会增加出现时间。注意：此袭击并不会覆盖或挤掉其他袭击的出现几率。</GR_RaidsRateTooltip>
   <!--EN: Randomize all-->
-  <GR_RandomizeAll>全部随机化</GR_RandomizeAll>
+  <GR_RandomizeAll>完全随机</GR_RandomizeAll>
   <!--EN: Release Insect Clouds-->
-  <GR_ReleaseInsectClouds>释放虫云</GR_ReleaseInsectClouds>
+  <GR_ReleaseInsectClouds>已废弃</GR_ReleaseInsectClouds>
   <!--EN: Causes the creature to release insect clouds around it, damaging every pawn that isn't an insect hybrid-->
-  <GR_ReleaseInsectCloudsDesc>使该生物在其周围释放出昆虫云，对所有非昆虫混种的 pawn 造成伤害</GR_ReleaseInsectCloudsDesc>
+  <GR_ReleaseInsectCloudsDesc>已废弃</GR_ReleaseInsectCloudsDesc>
   <!--EN: Reset-->
-  <GR_Reset>重置</GR_Reset>
+  <GR_Reset>重设</GR_Reset>
   <!--EN: Safety-->
-  <GR_Safety>安全</GR_Safety>
+  <GR_Safety>安全性</GR_Safety>
   <!--EN: Safety is a number that gets deducted from the Failed outcome chance. For example, safety 5 reduces the risk of the failed outcome by 5% (from 10% to 5%). This value can also be negative, increasing the risk of a failed experiment.-->
-  <GR_SafetyDesc>安全性是从失败结果几率中扣除的数字。例如，安全性 5 将失败结果的风险降低了 5%（从 10% 降低到 5%）。该值也可能是负数，从而增加实验失败的风险。</GR_SafetyDesc>
+  <GR_SafetyDesc>安全性的数值会对孵化的失败几率造成影响。举例说，安全性的值为5就意味着失败几率降低5%（从10%降到5%）。安全性的数值也可以为负数，同理可知，这会增加孵化的失败几率。</GR_SafetyDesc>
   <!--EN: Select animal to harvest-->
-  <GR_SelectAnimalToHarvest>选择要收获的动物</GR_SelectAnimalToHarvest>
+  <GR_SelectAnimalToHarvest>选择混种生物</GR_SelectAnimalToHarvest>
   <!--EN: Select animal to harvest. This animal will be brought to the DNA bank and harvested for its DNA. It will kill the animal and destroy its body.-->
-  <GR_SelectAnimalToHarvestDesc>选择要收获的动物。该动物将被带到 DNA 库并采集其 DNA。它将杀死动物并摧毁其身体。</GR_SelectAnimalToHarvestDesc>
+  <GR_SelectAnimalToHarvestDesc>选择需要提取基因物质的混种生物。殖民者将会把指定混种生物送入基因贮存库中，并自动转化为对应的基因物质。</GR_SelectAnimalToHarvestDesc>
   <!--EN: Select booster-->
-  <GR_SelectBooster>选择助推器</GR_SelectBooster>
+  <GR_SelectBooster>选择改良剂</GR_SelectBooster>
   <!--EN: Boosters affect the speed of the synthesis process as well as the failure chance-->
-  <GR_SelectBoosterExplanation>助推器会影响合成过程的速度以及失败的机会</GR_SelectBoosterExplanation>
+  <GR_SelectBoosterExplanation>改良剂影响孵化的失败几率、性状基因颠倒的几率和孵化时间</GR_SelectBoosterExplanation>
   <!--EN: Select dominant genome-->
-  <GR_SelectDominantGenome>选择显性基因组</GR_SelectDominantGenome>
+  <GR_SelectDominantGenome>选择主要基因</GR_SelectDominantGenome>
   <!--EN: Dominant genome affects primary characteristics of the hybrid-->
-  <GR_SelectDominantGenomeExplanation>显性基因组影响杂种的主要特征</GR_SelectDominantGenomeExplanation>
+  <GR_SelectDominantGenomeExplanation>主要基因影响混种生物的主体性状</GR_SelectDominantGenomeExplanation>
   <!--EN: Select genoframe-->
-  <GR_SelectGenoframe>选择基因框</GR_SelectGenoframe>
+  <GR_SelectGenoframe>选择基因构造框架</GR_SelectGenoframe>
   <!--EN: Genoframe affects the quality level of the hybrid-->
-  <GR_SelectGenoframeExplanation>Genoframe 影响杂交种的质量水平</GR_SelectGenoframeExplanation>
+  <GR_SelectGenoframeExplanation>基因构造框架影响混种生物的品质</GR_SelectGenoframeExplanation>
   <!--EN: Select genome to harvest-->
-  <GR_SelectGenomeToHarvest>选择要收获的基因组</GR_SelectGenomeToHarvest>
+  <GR_SelectGenomeToHarvest>选择需要存放的基因物质</GR_SelectGenomeToHarvest>
   <!--EN: Select genome to harvest-->
-  <GR_SelectGenomeToHarvestDesc>选择要收获的基因组</GR_SelectGenomeToHarvestDesc>
+  <GR_SelectGenomeToHarvestDesc>选择需要存放的基因物质</GR_SelectGenomeToHarvestDesc>
   <!--EN: Select paragon to convert-->
-  <GR_SelectParagonToConvert>选择要转换的Paragon</GR_SelectParagonToConvert>
+  <GR_SelectParagonToConvert>选择无瑕生物</GR_SelectParagonToConvert>
   <!--EN: Select paragon for the mechahybridization process. This animal will be brought to the mechahybridizer and converted into a mechanoid hybrid under the player's control. This process will take 12 hours and blow up one of the nearby mechafuses.-->
-  <GR_SelectParagonToConvertDesc>选择机械杂交过程的典范。这种动物将被带到机械混合器中并在玩家的控制下转化为机械混合体。这个过程将需要 12 个小时，并会炸毁附近的一个机械保险丝。</GR_SelectParagonToConvertDesc>
+  <GR_SelectParagonToConvertDesc>选择需要改造的无瑕生物。殖民者将会把指定的无瑕生物送入机械生物改造厂中，并自动转化为机械生物。改造进程将会耗费大约12小时，完成后将会破坏一个改造保险装置。</GR_SelectParagonToConvertDesc>
   <!--EN: Select secondary genome-->
-  <GR_SelectSecondaryGenome>选择二级基因组</GR_SelectSecondaryGenome>
+  <GR_SelectSecondaryGenome>选择次要基因</GR_SelectSecondaryGenome>
   <!--EN: Affects the hybrid less than the dominant one-->
-  <GR_SelectSecondaryGenomeExplanation>对杂种的影响小于对优势种的影响</GR_SelectSecondaryGenomeExplanation>
+  <GR_SelectSecondaryGenomeExplanation>次要基因影响混种生物的嵌合性状</GR_SelectSecondaryGenomeExplanation>
   <!--EN: Genome currently selected for extraction: {0}-->
-  <GR_SelectedGenome>当前选择提取的基因组：{0}</GR_SelectedGenome>
+  <GR_SelectedGenome>当前选择的基因物质：{0}</GR_SelectedGenome>
   <!--EN: Stability-->
-  <GR_Stability>稳定</GR_Stability>
+  <GR_Stability>稳定性</GR_Stability>
   <!--EN: Stability is a number that gets deducted from the swap chance. For example, stability 5 means that the base chance of the genes swapping turns from 10% to 5% (becoming more stable). This value can also be negative, which will mean the chance of genomes swapping their positions and resulting in an unwanted hybrid are larger.-->
-  <GR_StabilityDesc>稳定性是从交换机会中扣除的数字。例如，稳定性5意味着基因交换的基本几率从10%变为5%（变得更加稳定）。该值也可以是负值，这意味着基因组交换位置并导致不需要的杂交的可能性更大。</GR_StabilityDesc>
+  <GR_StabilityDesc>稳定性的数值会对孵化时出现性状基因颠倒的混种生物的几率造成影响。举例说，稳定性的值为5就意味着性状基因颠倒的几率降低5%（从10%降到5%）。安全性的数值也可以为负数，同理可知，这会增加性状基因颠倒的几率。</GR_StabilityDesc>
   <!--EN: Adrenaline Rush-->
-  <GR_StartAdrenalineBurst>肾上腺素激增</GR_StartAdrenalineBurst>
+  <GR_StartAdrenalineBurst>已废弃</GR_StartAdrenalineBurst>
   <!--EN: Causes the creature to move much faster for a while, at the cost of getting tired afterwards for almost half a day-->
-  <GR_StartAdrenalineBurstDesc>使该生物在一段时间内移动得更快，但代价是之后会感到疲倦近半天</GR_StartAdrenalineBurstDesc>
+  <GR_StartAdrenalineBurstDesc>已废弃</GR_StartAdrenalineBurstDesc>
   <!--EN: Start Burrowing-->
-  <GR_StartBurrowing>开始挖洞</GR_StartBurrowing>
+  <GR_StartBurrowing>已废弃</GR_StartBurrowing>
   <!--EN: Sends the creature underground into burrowing mode, making it very resistant to damage for a while-->
-  <GR_StartBurrowingDesc>将生物送入地下进入洞穴模式，使其在一段时间内非常能抵抗伤害</GR_StartBurrowingDesc>
+  <GR_StartBurrowingDesc>已废弃</GR_StartBurrowingDesc>
   <!--EN: Cat Reflexes-->
-  <GR_StartCatReflexes>猫的反射</GR_StartCatReflexes>
+  <GR_StartCatReflexes>已废弃</GR_StartCatReflexes>
   <!--EN: Makes the creature much more agile, improving its chance to dodge melee attacks even further-->
-  <GR_StartCatReflexesDesc>使生物更加敏捷，进一步提高其躲避近战攻击的机会</GR_StartCatReflexesDesc>
+  <GR_StartCatReflexesDesc>已废弃</GR_StartCatReflexesDesc>
   <!--EN: Invoke Insanity-->
-  <GR_StartInvokingInsanity>引发疯狂</GR_StartInvokingInsanity>
+  <GR_StartInvokingInsanity>已废弃</GR_StartInvokingInsanity>
   <!--EN: Invokes the insanity of That Which Man Is Not Meant to Know-->
-  <GR_StartInvokingInsanityDesc>唤起人类不该知道的疯狂</GR_StartInvokingInsanityDesc>
+  <GR_StartInvokingInsanityDesc>已废弃</GR_StartInvokingInsanityDesc>
   <!--EN: Keen Senses-->
-  <GR_StartKeenSenses>敏锐的感官</GR_StartKeenSenses>
+  <GR_StartKeenSenses>已废弃</GR_StartKeenSenses>
   <!--EN: Makes the creature more aware of its surroundings, increasing its melee capacities (affects sight and consciousness)-->
-  <GR_StartKeenSensesDesc>使生物更加了解周围环境，增加其近战能力（影响视力和意识）</GR_StartKeenSensesDesc>
+  <GR_StartKeenSensesDesc>已废弃</GR_StartKeenSensesDesc>
   <!--EN: Mecha Blast-->
-  <GR_StartMechaBlast>机甲爆炸</GR_StartMechaBlast>
+  <GR_StartMechaBlast>已废弃</GR_StartMechaBlast>
   <!--EN: Vents exhaust in the tiles surounding the mechanoid hybrid, burning anything close to it-->
-  <GR_StartMechaBlastDesc>机械混合体周围的瓷砖上有排气口，烧毁靠近它的任何东西</GR_StartMechaBlastDesc>
+  <GR_StartMechaBlastDesc>已废弃</GR_StartMechaBlastDesc>
   <!--EN: Increase Stamina-->
-  <GR_StartStamina>增加耐力</GR_StartStamina>
+  <GR_StartStamina>已废弃</GR_StartStamina>
   <!--EN: Makes the creature more resistant to damage for a while-->
-  <GR_StartStaminaDesc>使该生物在一段时间内对伤害具有更强的抵抗力</GR_StartStaminaDesc>
+  <GR_StartStaminaDesc>已废弃</GR_StartStaminaDesc>
   <!--EN: Start Stampede-->
-  <GR_StartStampede>开始踩踏</GR_StartStampede>
+  <GR_StartStampede>已废弃</GR_StartStampede>
   <!--EN: Stampedes, moving faster and creating dust clouds that block line of view for projectile weapons. Gets the creature tired after a while-->
-  <GR_StartStampedeDesc>踩踏，移动速度更快并产生尘埃云，阻挡射弹武器的视线。一段时间后让生物感到疲倦</GR_StartStampedeDesc>
+  <GR_StartStampedeDesc>已废弃</GR_StartStampedeDesc>
   <!--EN: Time multiplier-->
-  <GR_TimeMultiplier>时间倍数</GR_TimeMultiplier>
+  <GR_TimeMultiplier>时间乘数</GR_TimeMultiplier>
   <!--EN: Time multiplier accelerates or increases the time taken by the genomorpher to complete its task. A fractional modifier accelerates the process (for example 0.5 means it will take half the usual time), while a modifier larger than 1 slows it down (2 means it will take double the time).-->
-  <GR_TimeMultiplierDesc>时间倍增器加速或增加基因变异器完成其任务所需的时间。小数修饰符会加速该过程（例如 0.5 表示将花费平常时间的一半），而大于 1 的修饰符会减慢该过程（2 表示将花费两倍的时间）。</GR_TimeMultiplierDesc>
+  <GR_TimeMultiplierDesc>时间乘数会对孵化单元的塑造时间造成影响。时间乘数的值小于1时会减少塑造时间，大于1时会增加塑造时间。</GR_TimeMultiplierDesc>
   <!--EN: Warning: Due to the mechahybridizer not being shielded by any mechafuses, an ancient mechanoid raid will be on its way from orbit-->
-  <GR_WarningNoFusesLeft>警告：由于机械混合器没有受到任何机械保险丝的保护，一场古老的机械突袭将从轨道上袭来</GR_WarningNoFusesLeft>
+  <GR_WarningNoFusesLeft>警告：由于机械生物改造厂缺少改造保险装置的保护，一支负责回收的机械族巡逻队将会在6小时后被空投至此处。</GR_WarningNoFusesLeft>
   <!--EN: The speed of the electrowomb process is multiplied by this number. Numbers below 1 decrease the time, while numbers above it increase it.-->
-  <GR_WombMultiplierTooltip>电子宫过程的速度乘以该数字。低于 1 的数字会减少时间，而高于 1 的数字会增加时间。</GR_WombMultiplierTooltip>
+  <GR_WombMultiplierTooltip>孵化器的孵化时间会乘以此项的数值。值小于1时会减少孵化时间，大于1时会增加孵化时间。</GR_WombMultiplierTooltip>
   <!--EN: Womb speed multiplier-->
-  <GR_WombSpeedMultiplier>子宫速度倍增器</GR_WombSpeedMultiplier>
+  <GR_WombSpeedMultiplier>孵化器速度乘数</GR_WombSpeedMultiplier>
   <!--EN: Incubator progress-->
-  <IncubatorProgress>孵化器进展</IncubatorProgress>
+  <IncubatorProgress>孵化进度</IncubatorProgress>
   <!--EN: Royal jelly fullness-->
-  <JellyGrowth>蜂王浆饱满</JellyGrowth>
+  <JellyGrowth>虫王胶产出进度</JellyGrowth>
   <!--EN: Eldritch jelly fullness-->
-  <JellyGrowthEldritch>可怕的果冻饱满感</JellyGrowthEldritch>
+  <JellyGrowthEldritch>怪异虫胶产出进度</JellyGrowthEldritch>
   <!--EN: Neutroglycerin production-->
-  <NeutroglycerinProd>中性甘油生产</NeutroglycerinProd>
+  <NeutroglycerinProd>产出进度</NeutroglycerinProd>
   <!--EN: Poison fullness-->
-  <PoisonGrowth>毒胀</PoisonGrowth>
+  <PoisonGrowth>麻醉凝血剂产出进度</PoisonGrowth>
   <!--EN: Honeycomb production-->
-  <RB_BeeHoneyCombProduction>蜂窝生产</RB_BeeHoneyCombProduction>
+  <RB_BeeHoneyCombProduction>蜂巢产出进度</RB_BeeHoneyCombProduction>
   <!--EN: Cattle Drone-->
-  <RB_Cattle_Drone_Tag>牛无人机</RB_Cattle_Drone_Tag>
+  <RB_Cattle_Drone_Tag>雪牛工蜂</RB_Cattle_Drone_Tag>
   <!--EN: Cattle Queen-->
-  <RB_Cattle_Queen_Tag>牛女王</RB_Cattle_Queen_Tag>
+  <RB_Cattle_Queen_Tag>雪牛蜂后</RB_Cattle_Queen_Tag>
   <!--EN: Clucking Drone-->
-  <RB_Clucking_Drone_Tag>咯咯的无人机</RB_Clucking_Drone_Tag>
+  <RB_Clucking_Drone_Tag>禽鸡工蜂</RB_Clucking_Drone_Tag>
   <!--EN: Clucking Queen-->
-  <RB_Clucking_Queen_Tag>咯咯女王</RB_Clucking_Queen_Tag>
+  <RB_Clucking_Queen_Tag>禽鸡蜂后</RB_Clucking_Queen_Tag>
   <!--EN: Exploding Drone-->
-  <RB_Exploding_Drone_Tag>爆炸无人机</RB_Exploding_Drone_Tag>
+  <RB_Exploding_Drone_Tag>爆炸工蜂</RB_Exploding_Drone_Tag>
   <!--EN: Exploding Queen-->
-  <RB_Exploding_Queen_Tag>爆炸女王</RB_Exploding_Queen_Tag>
+  <RB_Exploding_Queen_Tag>爆炸蜂后</RB_Exploding_Queen_Tag>
   <!--EN: Horned Drone-->
-  <RB_Horned_Drone_Tag>有角的无人机</RB_Horned_Drone_Tag>
+  <RB_Horned_Drone_Tag>敲击工蜂</RB_Horned_Drone_Tag>
   <!--EN: Horned Queen-->
-  <RB_Horned_Queen_Tag>有角女王</RB_Horned_Queen_Tag>
+  <RB_Horned_Queen_Tag>敲击蜂后</RB_Horned_Queen_Tag>
   <!--EN: Hound Drone-->
-  <RB_Hound_Drone_Tag>猎犬无人机</RB_Hound_Drone_Tag>
+  <RB_Hound_Drone_Tag>犬狼工蜂</RB_Hound_Drone_Tag>
   <!--EN: Hound Queen-->
-  <RB_Hound_Queen_Tag>猎犬女王</RB_Hound_Queen_Tag>
+  <RB_Hound_Queen_Tag>犬狼蜂后</RB_Hound_Queen_Tag>
   <!--EN: Hybernating Drone-->
-  <RB_Hybernating_Drone_Tag>冬眠无人机</RB_Hybernating_Drone_Tag>
+  <RB_Hybernating_Drone_Tag>蛮熊工蜂</RB_Hybernating_Drone_Tag>
   <!--EN: Hybernating Queen-->
-  <RB_Hybernating_Queen_Tag>冬眠女王</RB_Hybernating_Queen_Tag>
+  <RB_Hybernating_Queen_Tag>蛮熊蜂后</RB_Hybernating_Queen_Tag>
   <!--EN: Mecha Drone-->
-  <RB_Mecha_Drone_Tag>机甲无人机</RB_Mecha_Drone_Tag>
+  <RB_Mecha_Drone_Tag>机械工蜂</RB_Mecha_Drone_Tag>
   <!--EN: Mecha Queen-->
-  <RB_Mecha_Queen_Tag>灯芯女王</RB_Mecha_Queen_Tag>
+  <RB_Mecha_Queen_Tag>机械蜂后</RB_Mecha_Queen_Tag>
   <!--EN: Megaspidery Drone-->
-  <RB_Megaspidery_Drone_Tag>巨型蜘蛛无人机</RB_Megaspidery_Drone_Tag>
+  <RB_Megaspidery_Drone_Tag>巨蛛工蜂</RB_Megaspidery_Drone_Tag>
   <!--EN: Megaspidery Queen-->
-  <RB_Megaspidery_Queen_Tag>巨型蜘蛛女王</RB_Megaspidery_Queen_Tag>
+  <RB_Megaspidery_Queen_Tag>巨蛛蜂后</RB_Megaspidery_Queen_Tag>
   <!--EN: Mousy Drone-->
-  <RB_Mousy_Drone_Tag>老鼠无人机</RB_Mousy_Drone_Tag>
+  <RB_Mousy_Drone_Tag>小鼠工蜂</RB_Mousy_Drone_Tag>
   <!--EN: Mousy Queen-->
-  <RB_Mousy_Queen_Tag>老鼠女王</RB_Mousy_Queen_Tag>
+  <RB_Mousy_Queen_Tag>小鼠蜂后</RB_Mousy_Queen_Tag>
   <!--EN: Organic Drone-->
-  <RB_Organic_Drone_Tag>有机无人机</RB_Organic_Drone_Tag>
+  <RB_Organic_Drone_Tag>有机工蜂</RB_Organic_Drone_Tag>
   <!--EN: Organic Queen-->
-  <RB_Organic_Queen_Tag>有机女王</RB_Organic_Queen_Tag>
+  <RB_Organic_Queen_Tag>有机蜂后</RB_Organic_Queen_Tag>
   <!--EN: Purring Drone-->
-  <RB_Purring_Drone_Tag>咕噜咕噜的无人机</RB_Purring_Drone_Tag>
+  <RB_Purring_Drone_Tag>猫咪工蜂</RB_Purring_Drone_Tag>
   <!--EN: Purring Queen-->
-  <RB_Purring_Queen_Tag>呼噜女王</RB_Purring_Queen_Tag>
+  <RB_Purring_Queen_Tag>猫咪蜂后</RB_Purring_Queen_Tag>
   <!--EN: Scaly Drone-->
-  <RB_Scaly_Drone_Tag>鳞状雄蜂</RB_Scaly_Drone_Tag>
+  <RB_Scaly_Drone_Tag>鳞蜥工蜂</RB_Scaly_Drone_Tag>
   <!--EN: Scaly Queen-->
-  <RB_Scaly_Queen_Tag>鳞片女王</RB_Scaly_Queen_Tag>
+  <RB_Scaly_Queen_Tag>鳞蜥蜂后</RB_Scaly_Queen_Tag>
   <!--EN: Resource growth-->
-  <ResourceGrowth>资源增长</ResourceGrowth>
+  <ResourceGrowth>资源产出进度</ResourceGrowth>
   <!--EN: Silk growth-->
-  <SilkGrowth>丝生长</SilkGrowth>
+  <SilkGrowth>丝绸产出进度</SilkGrowth>
   <!--EN: Trimmable tentacle growth-->
-  <TentacleGrowth>可修剪的触手生长</TentacleGrowth>
+  <TentacleGrowth>触手生长进度</TentacleGrowth>
   <!--EN: Insect jelly fullness-->
-  <VanillaJellyGrowth>虫冻饱满</VanillaJellyGrowth>
+  <VanillaJellyGrowth>虫胶产出进度</VanillaJellyGrowth>
 </LanguageData>

@@ -1,79 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: You have received information of a caravan from {0} that has set up camp nearby. Now would be a good time to raid it, but be aware that caravans are usually guarded.-->
-  <CaravanRaidDialogue>您收到了来自 {0} 的商队信息，该商队已在附近扎营。现在是突袭它的好时机，但要注意商队通常都有守卫。</CaravanRaidDialogue>
+  <CaravanRaidDialogue>根据收到的消息显示，来自{0}的商队正在附近停歇。现在正是打他们一个措手不及的好时机，不过要当心随行的护卫。</CaravanRaidDialogue>
   <!--EN: Raid caravan from {0}-->
-  <CaravanRaidLabel>来自 {0} 的突袭商队</CaravanRaidLabel>
+  <CaravanRaidLabel>袭击{0}的商队</CaravanRaidLabel>
   <!--EN: Should muffalo go for your chemshine: {0}-->
-  <Chemsined>野牛应该选择你的化学光泽吗：{0}</Chemsined>
+  <Chemsined>是否允许雪牛使用光醚：{0}</Chemsined>
   <!--EN: Contains {0} / {1} chemfuel.-->
-  <ContainsChemfuel>包含{0} / {1}化学燃料。</ContainsChemfuel>
+  <ContainsChemfuel>装有化合燃料：{0}/{1}。</ContainsChemfuel>
   <!--EN: Contains {0} / {1} chemshine.-->
-  <ContainsChemshine>包含 {0} / {1} chemshine。</ContainsChemshine>
+  <ContainsChemshine>装有光醚：{0}/{1}。</ContainsChemshine>
   <!--EN: Default Settings-->
   <DefaultSettings>默认设置</DefaultSettings>
   <!--EN: A small herd of muffalos have arrived in the area. It would seem they have found a secret stash of chemshine earlier, making them crave it even more. Watch out for their drunken shenanigans.-->
-  <DrunkMuffaloMessage>一小群野牛已经抵达该地区。他们似乎早些时候发现了秘密的化学物质，这让他们更加渴望它。小心他们醉酒后的恶作剧。</DrunkMuffaloMessage>
+  <DrunkMuffaloMessage>一小群雪牛来到了这个区域。它们似乎于不久前发现了某处光醚的藏匿点，并在那里喝了个痛快，甚至还产生了成瘾症状。当心，这些雪牛可能已经醉得神智不清了。</DrunkMuffaloMessage>
   <!--EN: Chemshined Muffalos-->
-  <DrunkMuffaloTitle>化学光泽的穆法罗</DrunkMuffaloTitle>
+  <DrunkMuffaloTitle>光醚成瘾的雪牛</DrunkMuffaloTitle>
   <!--EN: Maximum reward for bounties: {0}-->
-  <MaxReward>赏金最高奖励：{0}</MaxReward>
+  <MaxReward>最高赏金：{0}</MaxReward>
   <!--EN: Minimum reward for bounties: {0}-->
-  <MinReward>赏金最低奖励：{0}</MinReward>
+  <MinReward>最低赏金：{0}</MinReward>
   <!--EN: need chemfuel-->
-  <NoChemfuel>需要化学燃料</NoChemfuel>
+  <NoChemfuel>需要化合燃料</NoChemfuel>
   <!--EN: Accept the offer and pay-->
-  <ProtectionFeeAgree>接受报价并付款</ProtectionFeeAgree>
+  <ProtectionFeeAgree>花钱消灾</ProtectionFeeAgree>
   <!--EN: The thugs from {0} seem happy with the deal and cut the communication.-->
-  <ProtectionFeeAgreeDialogue>来自 {0} 的暴徒似乎对这笔交易很满意，并切断了联系。</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeAgreeDialogue>来自{0}的暴徒心满意足地终止了通信。</ProtectionFeeAgreeDialogue>
   <!--EN: A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1} silver. \n\n Be warned - refusal can anger the thugs.-->
-  <ProtectionFeeDialogue>{0} 派来的一群暴徒从附近给你打电话。 
-
- 只要您支付 {1} 银币的费用，他们就会保护您的殖民地免受任何威胁，甚至是可能由他们造成的威胁。 
-
- 请注意 - 拒绝可能会激怒暴徒。</ProtectionFeeDialogue>
+  <ProtectionFeeDialogue>一帮来自{0}的暴徒从附近联系你。\n\n他们声称只要{1}白银便可让你免受来自他们的袭击。\n\n注意，拒绝很可能激怒他们。</ProtectionFeeDialogue>
   <!--EN: Refuse the offer-->
-  <ProtectionFeeDisagree>拒绝报价</ProtectionFeeDisagree>
+  <ProtectionFeeDisagree>拒绝提议</ProtectionFeeDisagree>
   <!--EN: The thugs from {0} seem happy about you refusing their offer and cut the communication right after assuring you that they cannot guarantee your safety.-->
-  <ProtectionFeeDisagreeDialogue>来自 {0} 的暴徒似乎对你拒绝他们的提议感到高兴，并在向你保证他们无法保证你的安全后立即切断了联系。</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeDisagreeDialogue>你的拒绝似乎正中{0}的暴徒们的下怀，在向你保证无法再确保你的安全后，暴徒们终止了通信。</ProtectionFeeDisagreeDialogue>
   <!--EN: Protection fee-->
   <ProtectionFeeLabel>保护费</ProtectionFeeLabel>
   <!--EN: Not enough silver-->
-  <ProtectionFeeNotEnoughSilver>银子不够</ProtectionFeeNotEnoughSilver>
+  <ProtectionFeeNotEnoughSilver>白银不足</ProtectionFeeNotEnoughSilver>
   <!--EN: Chemfuel-->
-  <VFES_InsertFirstItemDesc>化学燃料</VFES_InsertFirstItemDesc>
+  <VFES_InsertFirstItemDesc>化合燃料</VFES_InsertFirstItemDesc>
   <!--EN: Bounty target-->
-  <VFES_Target>赏金目标</VFES_Target>
+  <VFES_Target>悬赏目标</VFES_Target>
   <!--EN: The bounty target {0} has been located at this outpost.-->
-  <VFES_TargetDesc>赏金目标 {0} 已位于该前哨站。</VFES_TargetDesc>
+  <VFES_TargetDesc>已在此据点发现悬赏目标{0}。</VFES_TargetDesc>
   <!--EN: Bring chemfuel to the chemsine barrel to start fermentation-->
-  <VFES_bringIngredientsDesc>将化学燃料放入化学桶中开始发酵</VFES_bringIngredientsDesc>
+  <VFES_bringIngredientsDesc>往该光醚发酵桶添加化合燃料以开始发酵</VFES_bringIngredientsDesc>
   <!--EN: Bring chemfuel-->
-  <VFES_bringIngredientsText>带上化学燃料</VFES_bringIngredientsText>
+  <VFES_bringIngredientsText>添加化学燃料</VFES_bringIngredientsText>
   <!--EN: Cancel bringing chemfuel to the chemsine barrel.-->
-  <VFES_cancelIngredientsDesc>取消将化学燃料引入化学桶。</VFES_cancelIngredientsDesc>
+  <VFES_cancelIngredientsDesc>取消该光醚发酵桶添加化学燃料</VFES_cancelIngredientsDesc>
   <!--EN: Cancel bringing chemfuel-->
-  <VFES_cancelIngredientsText>取消携带化学燃料</VFES_cancelIngredientsText>
+  <VFES_cancelIngredientsText>取消添加化学燃料</VFES_cancelIngredientsText>
   <!--EN: Remove chemsine from the chemsine barrel.-->
-  <VFES_removeProductDesc>从化学剂桶中取出化学剂。</VFES_removeProductDesc>
+  <VFES_removeProductDesc>从光醚发酵桶移除光醚。</VFES_removeProductDesc>
   <!--EN: Remove chemsine-->
-  <VFES_removeProductText>去除化学物质</VFES_removeProductText>
+  <VFES_removeProductText>移除光醚</VFES_removeProductText>
   <!--EN: {0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead, double if delivered alive to one of {0}'s settlements.-->
-  <WantedDialogue>{0} 已对 {PAWN_nameDef} 悬赏，他是一名以 {PAWN_possessive} 名义犯下许多暴行的最卑鄙罪犯。 {1} 的 {PAWN_nameDef} 被通缉，如果交付死亡，则需要 {2} 银币，如果活着交付到 {0} 的定居点之一，则需要双倍。</WantedDialogue>
+  <WantedDialogue>{0}发布了{PAWN_nameDef}的通缉令。{PAWN_nameDef}是一名穷凶极恶的罪犯。{0}悬赏{2}银取{PAWN_possessive}人头，活捉则赏金翻倍。不论是死是活，只要将其押送至{0}的一个定居点，即可领取赏金。</WantedDialogue>
   <!--EN: Wanted by {0} for {1} silver-->
-  <WantedHediff>{0} 通缉 {1} 银币</WantedHediff>
+  <WantedHediff>被{0}以{1}银通缉</WantedHediff>
   <!--EN: Wanted by {0}-->
-  <WantedLabel>{0} 通缉</WantedLabel>
+  <WantedLabel>被{0}通缉</WantedLabel>
   <!--EN: Turn in {PAWN_nameDef}-->
-  <WantedTurnIn>上交{PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnIn>移交{PAWN_nameDef}</WantedTurnIn>
   <!--EN: Turn in the criminal {PAWN_nameDef} for a reward.-->
-  <WantedTurnInDescAlive>举报罪犯 {PAWN_nameDef} 以获得奖励。</WantedTurnInDescAlive>
+  <WantedTurnInDescAlive>移交罪犯{PAWN_nameDef}以换取赏金。</WantedTurnInDescAlive>
   <!--EN: Turn in the corpse of {PAWN_nameDef} for a reward.-->
-  <WantedTurnInDescDead>上交{PAWN_nameDef}的尸体即可获得奖励。</WantedTurnInDescDead>
+  <WantedTurnInDescDead>移交{PAWN_nameDef}的尸体以换取赏金。</WantedTurnInDescDead>
   <!--EN: Turned in {PAWN_nameDef}.-->
-  <WantedTurnInLabel>已上交{PAWN_nameDef}。</WantedTurnInLabel>
+  <WantedTurnInLabel>移交{PAWN_nameDef}。</WantedTurnInLabel>
   <!--EN: You've turned in criminal {PAWN_nameDef} alive for {0} silver.-->
-  <WantedTurnInMessageAlive>您已将罪犯 {PAWN_nameDef} 活捉，以获取 {0} 银币。</WantedTurnInMessageAlive>
+  <WantedTurnInMessageAlive>你已移交罪犯{PAWN_nameDef}以换得{0}银。</WantedTurnInMessageAlive>
   <!--EN: You've turned in the corpse of {PAWN_nameDef} for {0} silver.-->
-  <WantedTurnInMessageDead>您已将 {PAWN_nameDef} 的尸体上交，以换取 {0} 银币。</WantedTurnInMessageDead>
+  <WantedTurnInMessageDead>你已移交罪犯{PAWN_nameDef}的尸体以换得{0}银。</WantedTurnInMessageDead>
 </LanguageData>

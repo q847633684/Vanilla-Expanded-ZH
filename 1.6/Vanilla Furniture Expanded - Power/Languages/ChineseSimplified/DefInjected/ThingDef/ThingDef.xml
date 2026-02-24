@@ -97,19 +97,19 @@
   <!--EN: gas floodlight-->
   <VPE_GasFloodlight.label>燃气泛光灯</VPE_GasFloodlight.label>
   <!--EN: A device that converts helixien gas into radiated heat. It can automatically turn itself on or off to reach a specific target temperature.-->
-  <VPE_GasHeater.description>一种将螺旋气体转化为辐射热的装置。它可以自动打开或关闭以达到特定的目标温度。</VPE_GasHeater.description>
+  <VPE_GasHeater.description>一种将燃气转化为辐射热的装置。它可以自动打开或关闭以达到特定的目标温度。</VPE_GasHeater.description>
   <!--EN: gas heater-->
   <VPE_GasHeater.label>燃气加热器</VPE_GasHeater.label>
   <!--EN: A gas-powered standing lamp that lights an area. People need light to move and work at full speed. Needs to be connected to the helixien gas network. Can be safely placed outdoors.-->
   <VPE_GasLamp.description>一种燃气动力立灯，照亮一个区域。人们需要光来全速移动和工作。需要连接到燃气网络。可以安全地放置在户外。</VPE_GasLamp.description>
   <!--EN: standing gas lamp-->
-  <VPE_GasLamp.label>立式煤气灯</VPE_GasLamp.label>
+  <VPE_GasLamp.label>立式燃气灯</VPE_GasLamp.label>
   <!--EN: A pipe that transmits helixien gas.-->
-  <VPE_GasPipe.description>输送螺旋气体的管道。</VPE_GasPipe.description>
+  <VPE_GasPipe.description>输送燃气的管道。</VPE_GasPipe.description>
   <!--EN: gas pipe-->
-  <VPE_GasPipe.label>煤气管</VPE_GasPipe.label>
+  <VPE_GasPipe.label>燃气管</VPE_GasPipe.label>
   <!--EN: A pipe that transmits helixien gas. This pipe is hidden from view and is protected from gas explosions. Much more expensive to build than regular pipes-->
-  <VPE_GasPipeSub.description>输送螺旋气体的管道。该管道隐藏在视线之外，并且受到保护，不会发生气体爆炸。建造成本比普通管道贵得多</VPE_GasPipeSub.description>
+  <VPE_GasPipeSub.description>输送燃气的管道。该管道隐藏在视线之外，并且受到保护，不会发生气体爆炸。建造成本比普通管道贵得多</VPE_GasPipeSub.description>
   <!--EN: subterranean gas pipe-->
   <VPE_GasPipeSub.label>地下燃气管道</VPE_GasPipeSub.label>
   <!--EN: Switches gas flow on/off.-->
@@ -133,7 +133,7 @@
   <!--EN: helixien gas stove-->
   <VPE_GasStove.label>燃气灶</VPE_GasStove.label>
   <!--EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a medium amount of helixien gas. Automatically turns itself off at night.-->
-  <VPE_GasSunLamp.description>一种工业灯，照亮一个区域足以种植农作物，但消耗中等量的螺旋气体。晚上会自动关闭。</VPE_GasSunLamp.description>
+  <VPE_GasSunLamp.description>一种工业灯，照亮一个区域足以种植农作物，但消耗中等量的燃气。晚上会自动关闭。</VPE_GasSunLamp.description>
   <!--EN: gas sun lamp-->
   <VPE_GasSunLamp.label>燃气太阳灯</VPE_GasSunLamp.label>
   <!--EN: A large steel tank for gas storage. Will explode if damaged.-->
@@ -141,13 +141,13 @@
   <!--EN: gas tank-->
   <VPE_GasTank.label>储气罐</VPE_GasTank.label>
   <!--EN: A wall-mounted vent capable of releasing toxic compounds of helixien gas into the targeted area. It drains helixien gas supply rapidly, and dissipates quickly. It needs a gas valve installed in the same network to limit the flow of gas. Helixien gas is very volatile and will travel with wind.-->
-  <VPE_GasVent.description>壁挂式通风口，能够将有毒气体化合物释放到目标区域。它迅速耗尽螺旋气体供应，并迅速消散。它需要在同一网络中安装燃气阀来限制燃气流量。赫利仙气体非常不稳定，会随风传播。</VPE_GasVent.description>
+  <VPE_GasVent.description>壁挂式通风口，能够将有毒气体化合物释放到目标区域。它迅速耗尽燃气供应，并迅速消散。它需要在同一网络中安装燃气阀来限制燃气流量。赫利仙气体非常不稳定，会随风传播。</VPE_GasVent.description>
   <!--EN: helixien gas vent-->
   <VPE_GasVent.label>燃气通风口</VPE_GasVent.label>
   <!--EN: A gas-powered wall light that emits a dim light over a large area. People who prefer to work in darklight are happy with this light source. Needs to be connected to the helixien gas network. Can be safely placed outdoors.-->
-  <VPE_GasWallDarkLight.description>一种燃气壁灯，可在大面积范围内发出微弱的光线。喜欢在暗光下工作的人对这种光源很满意。需要连接到helixien燃气网络。可以安全地放置在户外。</VPE_GasWallDarkLight.description>
+  <VPE_GasWallDarkLight.description>一种燃气壁灯，可在大面积范围内发出微弱的光线。喜欢在暗光下工作的人对这种光源很满意。需要连接到燃气网络。可以安全地放置在户外。</VPE_GasWallDarkLight.description>
   <!--EN: gas wall darklight-->
-  <VPE_GasWallDarkLight.label>煤气墙暗光</VPE_GasWallDarkLight.label>
+  <VPE_GasWallDarkLight.label>燃气墙暗光</VPE_GasWallDarkLight.label>
   <!--EN: A gas-powered wall light that lights an area. People need light to move and work at full speed. Needs to be connected to the helixien gas network. Can be safely placed outdoors.-->
   <VPE_GasWallLight.description>照亮一个区域的燃气壁灯。人们需要光来全速移动和工作。需要连接到燃气网络。可以安全地放置在户外。</VPE_GasWallLight.description>
   <!--EN: gas wall light-->
@@ -167,7 +167,7 @@
   <!--EN: Produces a large amount of power by consuming helixien gas. Must be connected to a gas pipe network.-->
   <VPE_IndustrialHelixienGenerator.description>通过消耗燃气来产生大量的电力。必须连接至燃气管网。</VPE_IndustrialHelixienGenerator.description>
   <!--EN: industrial helixien gas powered generator-->
-  <VPE_IndustrialHelixienGenerator.label>工业赫力仙燃气发电机</VPE_IndustrialHelixienGenerator.label>
+  <VPE_IndustrialHelixienGenerator.label>工业燃气发电机</VPE_IndustrialHelixienGenerator.label>
   <!--EN: An advanced technology allows this device to harness the power of lightning and place it as a ready-to-use charge in the batteries.-->
   <VPE_LightningRod.description>先进的技术使该设备能够利用闪电的力量并将其作为电池中的即用型电荷。</VPE_LightningRod.description>
   <!--EN: lightning rod-->

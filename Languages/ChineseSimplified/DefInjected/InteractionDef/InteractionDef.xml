@@ -1,108 +1,108 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: tutoring-->
-  <VAERoy_OrangutanInteraction.label>辅导</VAERoy_OrangutanInteraction.label>
+  <VAERoy_OrangutanInteraction.label>教导</VAERoy_OrangutanInteraction.label>
   <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].-->
     <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][talkedabout][animalthings]与[RECIPIENT_nameDef]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].-->
-    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [animalthings] 至 [RECIPIENT_nameDef]。</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]就[animalthings]的话题与[RECIPIENT_nameDef][commentedabout]。</li>
     <!--EN: talkedabout(p=4)->chatted about-->
-    <li>talkedabout(p=4)-&gt;聊了</li>
+    <li>talkedabout(p=4)-&gt;闲聊</li>
     <!--EN: talkedabout->shared a word about-->
-    <li>talkedabout-&gt;分享了有关</li>
+    <li>talkedabout-&gt;分享了话题关于</li>
     <!--EN: talkedabout->spoke about-->
     <li>talkedabout-&gt;谈到</li>
     <!--EN: talkedabout->gabbed about-->
-    <li>talkedabout-&gt;闲聊</li>
+    <li>talkedabout-&gt;喋喋不休讨论</li>
     <!--EN: talkedabout->talked about-->
-    <li>talkedabout-&gt;谈论过</li>
+    <li>talkedabout-&gt;谈论</li>
     <!--EN: talkedabout->mumbled about-->
-    <li>talkedabout-&gt;嘀咕着</li>
+    <li>talkedabout-&gt;含糊地说到</li>
     <!--EN: talkedabout->quipped about-->
-    <li>talkedabout-&gt;打趣说</li>
+    <li>talkedabout-&gt;打趣地聊到</li>
     <!--EN: commentedabout->said something about-->
-    <li>commentedabout-&gt;说了一些关于</li>
+    <li>commentedabout-&gt;聊了很多</li>
     <!--EN: commentedabout->made a comment about-->
-    <li>commentedabout-&gt;发表了评论</li>
+    <li>commentedabout-&gt;进行了点评</li>
     <!--EN: commentedabout->commented about-->
-    <li>commentedabout-&gt;评论了</li>
+    <li>commentedabout-&gt;讨论</li>
     <!--EN: commentedabout->mused about-->
-    <li>commentedabout-&gt;沉思着</li>
+    <li>commentedabout-&gt;进行了深入探讨</li>
     <!--EN: animalthings->the comparison of paternalistic societies with other social aspects and matters-->
-    <li>animalthings-&gt;家长式社会与其他社会方面和问题的比较</li>
+    <li>animalthings-&gt;父系母系社会与其他社会间的区别</li>
     <!--EN: animalthings->the origin of or linguistic analysis of the term paragliding-->
-    <li>animalthings-&gt;滑翔伞一词的起源或语言分析</li>
+    <li>animalthings-&gt;滑翔伞这个词汇的起源和语义</li>
     <!--EN: animalthings->how other cultures or nations view hard work-->
-    <li>animalthings-&gt;其他文化或国家如何看待努力工作</li>
+    <li>animalthings-&gt;其他文化或国家如何看待刻苦劳动</li>
     <!--EN: animalthings->the personal and professional analysis and impact of mathematics-->
-    <li>animalthings-&gt;数学的个人和专业分析及影响</li>
+    <li>animalthings-&gt;有关数学计算的影响与个人且专业化的分析</li>
     <!--EN: animalthings->poetry related to prepackaged snacks-->
-    <li>animalthings-&gt;与预包装零食相关的诗歌</li>
+    <li>animalthings-&gt;与包装生存食品有关的诗</li>
     <!--EN: animalthings->outdated opinions about ethnic violence-->
-    <li>animalthings-&gt;关于种族暴力的过时观点</li>
+    <li>animalthings-&gt;有关种族冲突的陈旧观念</li>
     <!--EN: animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected-->
-    <li>animalthings-&gt;对自驱逐移民政策的新闻分析：发生地点 - 涉及或受影响的地点、国家或地区</li>
+    <li>animalthings-&gt;有关自我遣返移民政策的分析</li>
     <!--EN: animalthings->countries with highest consumption of cauliflower-->
-    <li>animalthings-&gt;花椰菜消费量最高的国家</li>
+    <li>animalthings-&gt;花椰菜消耗量最高的国家</li>
     <!--EN: animalthings->expert opinions about sexual orientation-->
-    <li>animalthings-&gt;关于性取向的专家意见</li>
+    <li>animalthings-&gt;有关性取向的专业看法</li>
     <!--EN: animalthings->what is unique about bread-->
-    <li>animalthings-&gt;面包有什么独特之处</li>
+    <li>animalthings-&gt;面包的独特之处</li>
     <!--EN: animalthings->the ethics of laser eye surgery-->
-    <li>animalthings-&gt;激光眼科手术的伦理</li>
+    <li>animalthings-&gt;有关眼部激光手术的道德伦理</li>
     <!--EN: animalthings->the religious, theological, spiritual, and moral analysis of decision making-->
-    <li>animalthings-&gt;决策的宗教、神学、精神和道德分析</li>
+    <li>animalthings-&gt;有关宗教、神学、信仰的决策分析</li>
     <!--EN: animalthings->why phone tapping matters-->
-    <li>animalthings-&gt;为什么电话窃听很重要</li>
+    <li>animalthings-&gt;电话监听的重要性</li>
     <!--EN: animalthings->an embarrassing experience involving positive attitude-->
-    <li>animalthings-&gt;一次涉及积极态度的尴尬经历</li>
+    <li>animalthings-&gt;起到积极作用的尴尬经历</li>
     <!--EN: animalthings->a comparison of different types of cocktails-->
-    <li>animalthings-&gt;不同类型鸡尾酒的比较</li>
+    <li>animalthings-&gt;不同鸡尾酒之间的区别</li>
     <!--EN: animalthings->the comparison of wearing your heart on your sleeve with other habits-->
-    <li>animalthings-&gt;表露心声与其他习惯的比较</li>
+    <li>animalthings-&gt;情感外露与其他习惯之间的区别</li>
     <!--EN: animalthings->the best experts' opinions on inner city poverty in the world-->
-    <li>animalthings-&gt;世界上关于内城贫困的最佳专家意见</li>
+    <li>animalthings-&gt;有关各个世界的内城区贫困问题的最专业看法</li>
     <!--EN: animalthings->excerpts from books or articles related to glass etching-->
-    <li>animalthings-&gt;摘录自与玻璃蚀刻相关的书籍或文章</li>
+    <li>animalthings-&gt;有关玻璃雕刻的书籍或文章摘要</li>
     <!--EN: animalthings->the negative effects of preferential treatment-->
-    <li>animalthings-&gt;优惠待遇的负面影响</li>
+    <li>animalthings-&gt;有关特惠待遇的负面影响</li>
   </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
   <!--EN: psychic nuzzle-->
-  <VAERoy_PeacockInteraction.label>心灵的鼻子</VAERoy_PeacockInteraction.label>
+  <VAERoy_PeacockInteraction.label>心灵亲昵</VAERoy_PeacockInteraction.label>
   <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].-->
-    <li>r_logentry(p=2)-&gt;[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef]。</li>
+    <li>r_logentry(p=2)-&gt;[INITIATOR_nameDef][nuzzleadverb][nuzzled][RECIPIENT_nameDef]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][nuzzleadverb]用[INITIATOR_possessive]鼻子摩擦[RECIPIENT_nameDef]的[rubbedpart]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][nuzzleadverb]用[INITIATOR_possessive]喙部蹭了[RECIPIENT_nameDef]的[rubbedpart]。</li>
     <!--EN: nuzzled(p=2)->psychically nuzzled-->
-    <li>nuzzled(p=2)-&gt;精神上的依偎</li>
+    <li>nuzzled(p=2)-&gt;蹭了</li>
     <!--EN: nuzzled->psychically snuggled up to-->
-    <li>nuzzled-&gt;精神上依偎着</li>
+    <li>nuzzled-&gt;依偎着</li>
     <!--EN: nuzzleadverb(p=4)->-->
     <li>nuzzleadverb(p=4)-&gt;</li>
     <!--EN: nuzzleadverb->gently-->
-    <li>nuzzleadverb-&gt;轻轻地</li>
+    <li>nuzzleadverb-&gt;温柔地</li>
     <!--EN: nuzzleadverb->encouragingly-->
-    <li>nuzzleadverb-&gt;令人鼓舞</li>
+    <li>nuzzleadverb-&gt;鼓励地</li>
     <!--EN: nuzzleadverb->happily-->
-    <li>nuzzleadverb-&gt;高兴</li>
+    <li>nuzzleadverb-&gt;欢快地</li>
     <!--EN: nuzzleadverb->softly-->
-    <li>nuzzleadverb-&gt;轻轻地</li>
+    <li>nuzzleadverb-&gt;轻柔地</li>
     <!--EN: nuzzleadverb->supportively-->
-    <li>nuzzleadverb-&gt;支持</li>
+    <li>nuzzleadverb-&gt;支持地</li>
     <!--EN: nuzzleadverb->lightly-->
     <li>nuzzleadverb-&gt;轻轻地</li>
     <!--EN: nuzzleadverb->warmly-->
-    <li>nuzzleadverb-&gt;热情地</li>
+    <li>nuzzleadverb-&gt;亲热地</li>
     <!--EN: nuzzleadverb->plaintively-->
-    <li>nuzzleadverb-&gt;哀怨地</li>
+    <li>nuzzleadverb-&gt;幽怨地</li>
     <!--EN: nuzzleadverb->lovingly-->
-    <li>nuzzleadverb-&gt;亲爱的</li>
+    <li>nuzzleadverb-&gt;亲切地</li>
     <!--EN: nuzzleadverb->affectionately-->
-    <li>nuzzleadverb-&gt;深情地</li>
+    <li>nuzzleadverb-&gt;热烈地</li>
     <!--EN: rubbedpart->leg-->
     <li>rubbedpart-&gt;腿</li>
     <!--EN: rubbedpart->knee-->
@@ -118,7 +118,7 @@
     <!--EN: rubbedpart->hand-->
     <li>rubbedpart-&gt;手</li>
     <!--EN: rubbedpart->side-->
-    <li>rubbedpart-&gt;侧</li>
+    <li>rubbedpart-&gt;身旁</li>
     <!--EN: rubbedpart->arm-->
     <li>rubbedpart-&gt;手臂</li>
   </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>

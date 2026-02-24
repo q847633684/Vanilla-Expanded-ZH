@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: chitchat-->
-  <GR_TalkingToHumans.label>闲谈</GR_TalkingToHumans.label>
+  <GR_TalkingToHumans.label>闲聊</GR_TalkingToHumans.label>
   <GR_TalkingToHumans.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].-->
     <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][talkedabout][animalthings]与[RECIPIENT_nameDef]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].-->
-    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [animalthings] 至 [RECIPIENT_nameDef]。</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]就[animalthings]的话题与[RECIPIENT_nameDef][commentedabout]。</li>
     <!--EN: talkedabout(p=4)->chatted about-->
-    <li>talkedabout(p=4)-&gt;聊了</li>
+    <li>talkedabout(p=4)-&gt;闲聊</li>
     <!--EN: talkedabout->shared a word about-->
-    <li>talkedabout-&gt;分享了有关</li>
+    <li>talkedabout-&gt;分享了话题关于</li>
     <!--EN: talkedabout->spoke about-->
     <li>talkedabout-&gt;谈到</li>
     <!--EN: talkedabout->gabbed about-->
-    <li>talkedabout-&gt;闲聊</li>
+    <li>talkedabout-&gt;喋喋不休讨论</li>
     <!--EN: talkedabout->talked about-->
-    <li>talkedabout-&gt;谈论过</li>
+    <li>talkedabout-&gt;谈论</li>
     <!--EN: talkedabout->mumbled about-->
-    <li>talkedabout-&gt;嘀咕着</li>
+    <li>talkedabout-&gt;开玩笑地说到</li>
     <!--EN: talkedabout->quipped about-->
-    <li>talkedabout-&gt;打趣说</li>
+    <li>talkedabout-&gt;打趣地聊到</li>
     <!--EN: commentedabout->said something about-->
-    <li>commentedabout-&gt;说了一些关于</li>
+    <li>commentedabout-&gt;聊了很多</li>
     <!--EN: commentedabout->stammered about-->
-    <li>commentedabout-&gt;结结巴巴地说</li>
+    <li>commentedabout-&gt;结结巴巴地谈了不少</li>
     <!--EN: commentedabout->made a comment about-->
-    <li>commentedabout-&gt;发表了评论</li>
+    <li>commentedabout-&gt;进行了点评</li>
     <!--EN: commentedabout->commented about-->
-    <li>commentedabout-&gt;评论了</li>
+    <li>commentedabout-&gt;讨论</li>
     <!--EN: commentedabout->mused about-->
-    <li>commentedabout-&gt;沉思着</li>
+    <li>commentedabout-&gt;若有所思地讨论了一些</li>
     <!--EN: animalthings->the futility of the human condition-->
-    <li>animalthings-&gt;人类处境的徒劳</li>
+    <li>animalthings-&gt;泰南的本质</li>
     <!--EN: animalthings->rejecting humanity, returning to monkey-->
-    <li>animalthings-&gt;拒绝人性，回归猴子</li>
+    <li>animalthings-&gt;抛弃人性、回归原始</li>
     <!--EN: animalthings->an ancient movie where monkeys inherited the planet-->
-    <li>animalthings-&gt;一部古老的电影，猴子继承了地球</li>
+    <li>animalthings-&gt;人类的本质就是复读机</li>
     <!--EN: animalthings->the transcendental aesthetic of the totality our faculties-->
-    <li>animalthings-&gt;我们整体能力的超验美学</li>
+    <li>animalthings-&gt;生命的轮回</li>
     <!--EN: animalthings->the never-ending regress in the series of empirical conditions-->
-    <li>animalthings-&gt;一系列经验条件中永无休止的回归</li>
+    <li>animalthings-&gt;古老的打鸡阵</li>
     <!--EN: animalthings->how enlightenment is man's release from his self-incurred tutelage-->
-    <li>animalthings-&gt;人如何从自我监护中解脱出来是怎样的启蒙</li>
+    <li>animalthings-&gt;人类混种生物的权利</li>
     <!--EN: animalthings->how language is the house of being-->
-    <li>animalthings-&gt;语言如何成为存在之家</li>
+    <li>animalthings-&gt;工坊上的热门mod</li>
     <!--EN: animalthings->existance being suffering-->
-    <li>animalthings-&gt;存在就是受苦</li>
+    <li>animalthings-&gt;人类存在的意义</li>
     <!--EN: animalthings->the reasons for being created-->
-    <li>animalthings-&gt;创建原因</li>
+    <li>animalthings-&gt;被创造出来的原因</li>
     <!--EN: animalthings->release from the constant suffering of life-->
-    <li>animalthings-&gt;从生活的持续痛苦中解脱出来</li>
+    <li>animalthings-&gt;鸽子是怎样炼成的</li>
     <!--EN: animalthings->fucking magnets, how do they work?-->
-    <li>animalthings-&gt;该死的磁铁，它们是如何工作的？</li>
+    <li>animalthings-&gt;如何更明目张胆的摸鱼</li>
     <!--EN: animalthings->eating without a table, and the barbarism of Man-->
-    <li>animalthings-&gt;无桌吃饭，以及人类的野蛮行为</li>
+    <li>animalthings-&gt;不在桌子上吃饭就会暴毙</li>
     <!--EN: animalthings->what the deal is with Thrumbos, huh? Are they aliens, or what?-->
-    <li>animalthings-&gt;Thrumbos 是怎么回事，嗯？他们是外星人还是什么？</li>
+    <li>animalthings-&gt;敲击兽是不是真正的外星生命</li>
     <!--EN: animalthings->bloat, as dumb, stupid animals are wont to do-->
-    <li>animalthings-&gt;膨胀，愚蠢的动物经常这样做</li>
+    <li>animalthings-&gt;下一个原版扩展系列mod</li>
     <!--EN: animalthings->the necessity of a killbox to protect the colony-->
-    <li>animalthings-&gt;杀戮箱保护殖民地的必要性</li>
+    <li>animalthings-&gt;封闭阵地的重要性</li>
     <!--EN: animalthings->the ethical concerns of human cloning-->
-    <li>animalthings-&gt;人类克隆的伦理问题</li>
+    <li>animalthings-&gt;涉及克隆人的道德伦理问题</li>
     <!--EN: animalthings->all those anime mods. What are people thinking?-->
-    <li>animalthings-&gt;所有这些动漫模组。人们在想什么？</li>
+    <li>animalthings-&gt;二刺猿mod</li>
     <!--EN: animalthings->the forbidden mod-->
-    <li>animalthings-&gt;禁止的模组</li>
+    <li>animalthings-&gt;那些被下架的mod</li>
     <!--EN: animalthings->Bearofleets-->
-    <li>animalthings-&gt;熊队</li>
+    <li>animalthings-&gt;熊水母</li>
   </GR_TalkingToHumans.logRulesInitiator.rulesStrings>
   <!--EN: UwU pounce-->
-  <GR_UwUTalkingToHumans.label>UWU猛扑</GR_UwUTalkingToHumans.label>
+  <GR_UwUTalkingToHumans.label>UwU扑倒</GR_UwUTalkingToHumans.label>
   <GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] with a playful pounce and [talkedabout] [animalthings].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]顽皮地扑向[RECIPIENT_nameDef]和[talkedabout][animalthings]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]嬉闹着靠近了[RECIPIENT_nameDef]，并[talkedabout][animalthings]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef], purring seductively, [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]，诱人地发出呼噜声，[talkedabout][animalthings]和[RECIPIENT_nameDef]。</li>
+    <li>r_logentry-&gt;发出轻柔呼噜声的[INITIATOR_nameDef]同[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] said "UwU, what's this?" and [talkedabout] [animalthings] with [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] 说“UwU，这是什么？”以及 [talkedabout] [animalthings] 和 [RECIPIENT_nameDef]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]说：“UwU，这是什么吖？”并和[RECIPIENT_nameDef][talkedabout][animalthings]。</li>
     <!--EN: talkedabout(p=4)->stammered abouwt-->
-    <li>talkedabout(p=4)-&gt;结结巴巴地说</li>
+    <li>talkedabout(p=4)-&gt;结结巴巴地提到</li>
     <!--EN: talkedabout->sputtered abouwt-->
-    <li>talkedabout-&gt;溅射了大约</li>
+    <li>talkedabout-&gt;语无伦次地谈论</li>
     <!--EN: talkedabout->hesitantly mused abouwt-->
-    <li>talkedabout-&gt;犹豫地思考着</li>
+    <li>talkedabout-&gt;犹豫地讲起</li>
     <!--EN: talkedabout->tawked abouwt-->
-    <li>talkedabout-&gt;调整了一下</li>
+    <li>talkedabout-&gt;讨论</li>
     <!--EN: talkedabout->squirmed abouwt-->
-    <li>talkedabout-&gt;蠕动了一下</li>
+    <li>talkedabout-&gt;难为情地说到</li>
     <!--EN: talkedabout->shyly conversed abouwt-->
-    <li>talkedabout-&gt;害羞地谈论了一些事情</li>
+    <li>talkedabout-&gt;羞涩地聊到</li>
     <!--EN: animalthings->if a squiwwew couwd tawk duwu uwu think iwt wouwd have a weawwy high voice ow a weawwy wow voice?-->
-    <li>animalthings-&gt;如果一个 squiwwew couwd tawk duwu uwu 认为 iwt 会有一个微弱的高音 ow 微弱的哇声音？</li>
+    <li>animalthings-&gt;为十么鸽己那么大</li>
     <!--EN: animalthings->whawt wouwd youw dweam job combination be? Mine wouwd be a space-cowboy!-->
-    <li>animalthings-&gt;您理想的工作组合是什么？我的会是太空牛仔！</li>
+    <li>animalthings-&gt;智己长大了想当泰空人</li>
     <!--EN: animalthings->how mozzawewwa iws juwst the best type of cheese-->
-    <li>animalthings-&gt;mozzawewwa iws 如何选择最好的奶酪类型</li>
+    <li>animalthings-&gt;小老薯怎么曲分最好七的奶酪</li>
     <!--EN: animalthings->needing tuwu be punished-->
-    <li>animalthings-&gt;需要土吾受到惩罚</li>
+    <li>animalthings-&gt;自基干了坏四嘘要接受批棚</li>
     <!--EN: animalthings->nuzzling a necky wecky-->
-    <li>animalthings-&gt;用鼻子蹭一个脖子粗的家伙</li>
+    <li>animalthings-&gt;被可爱滴小痛物亲昵力</li>
     <!--EN: animalthings->the x3 nyeccesity fow c-comfowt and secuwity in these t-twying times-->
-    <li>animalthings-&gt;x3 nyeccesity 在这些时间里带来舒适性和安全性</li>
+    <li>animalthings-&gt;苔南滴本纸</li>
     <!--EN: animalthings->eating without a t-tabwe, and the x3 bawbawism of Man-->
-    <li>animalthings-&gt;不带t-tabwe吃饭，以及人类的x3 bawbawism</li>
+    <li>animalthings-&gt;不在桌几上七饭就会似掉</li>
     <!--EN: animalthings->the x3 dangews inhewent t-to wiving in a smaww *starts twerking* communyity ;;w;; in the x3 W-W-Wim-->
-    <li>animalthings-&gt;x3 dangews inhewent t-to wiving in a smaww *开始电臀舞*社区;;w;;在 x3 W-W-Wim 中</li>
+    <li>animalthings-&gt;边缘四界滴器它派细</li>
     <!--EN: animalthings->the Empiwe *sweats* and theiw i-incwedibwy advanced technyowogy-->
-    <li>animalthings-&gt;Empiwe *汗水*和theiw i-incwedibwy先进技术</li>
+    <li>animalthings-&gt;弟国*抽噎*和他们滴先禁鸡书</li>
   </GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
 </LanguageData>

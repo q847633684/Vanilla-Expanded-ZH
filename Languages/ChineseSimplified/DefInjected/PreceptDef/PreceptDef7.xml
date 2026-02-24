@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A management specialist, Majordomo is the steward of nobility and overseer of estates. They wield authority to organize, manage, and ensure the seamless operation of every aspect of aristocratic life, but are unable to hold titles themselves. They possess an ability to inspire everyone around them to go an extra mile, at the cost of greatly lowering their recreation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Gains recreation from any work.-->
-  <VME_IdeoRole_Majordomo.description>醉酒是美好生活的核心。</VME_IdeoRole_Majordomo.description>
+  <VME_IdeoRole_Majordomo.description>一位精通规划管理的专业人士。管家是服侍贵族之人，需要将主人的生活和领地打理的井井有条。管家无法获得荣誉头衔，但他可以提供工作技术指导，提高附近所有人的全局工作速度。作为代价，所有受影响者的娱乐值会下降的更快。此外，管家执行任何类型的工作时都能提高自身的娱乐值。</VME_IdeoRole_Majordomo.description>
   <!--EN: majordomo-->
-  <VME_IdeoRole_Majordomo.label>要求的</VME_IdeoRole_Majordomo.label>
+  <VME_IdeoRole_Majordomo.label>管家</VME_IdeoRole_Majordomo.label>
   <!--EN: We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level.-->
-  <VME_Leader_BestPsycaster.description>醉酒是美好生活的核心。</VME_Leader_BestPsycaster.description>
+  <VME_Leader_BestPsycaster.description>只有最强大的灵能者才能领导我们。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 领袖职位将定期被强制委任给拥有最高启灵神经等级的殖民者(只会在作为主流文化形态时生效)。如果有多位殖民者的启灵神经等级相同，领袖职位将优先委任给最后升至最高等级的殖民者。</VME_Leader_BestPsycaster.description>
   <!--EN: best psycaster-->
-  <VME_Leader_BestPsycaster.label>要求的</VME_Leader_BestPsycaster.label>
+  <VME_Leader_BestPsycaster.label>灵能大师</VME_Leader_BestPsycaster.label>
   <!--EN: Standing at imperial court is the most significant trait a leader can have.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest royalty title in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest royalty title in your colony. Even if the current leader has the same level.-->
-  <VME_Leader_HighestTitle.description>醉酒是美好生活的核心。</VME_Leader_HighestTitle.description>
+  <VME_Leader_HighestTitle.description>拥护帝国是我们领袖应尽的职责。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 领袖职位将定期被强制委任给拥有最高荣誉头衔的殖民者(只会在作为主流文化形态时生效)。如果有多位殖民者的荣誉头衔相同，领袖职位将优先委任给最后升至最高荣誉头衔的殖民者。</VME_Leader_HighestTitle.description>
   <!--EN: highest title-->
-  <VME_Leader_HighestTitle.label>要求的</VME_Leader_HighestTitle.label>
+  <VME_Leader_HighestTitle.label>最高头衔</VME_Leader_HighestTitle.label>
   <!--EN: Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it.-->
-  <VME_Meditation_Exquisite.description>醉酒是美好生活的核心。</VME_Meditation_Exquisite.description>
+  <VME_Meditation_Exquisite.description>倾听、感受、思考...我们将进入超然无我的冥想状态，并使自身的灵魂与周围的灵魂产生共鸣。</VME_Meditation_Exquisite.description>
   <!--EN: exquisite-->
-  <VME_Meditation_Exquisite.label>要求的</VME_Meditation_Exquisite.label>
+  <VME_Meditation_Exquisite.label>高效</VME_Meditation_Exquisite.label>
   <!--EN: Patience is a virtue, and now a necessity, as the cooldown of permits is doubled. Time crawls as the court awaits the next invocation of royal privilege.-->
-  <VME_PermitCooldown_Increased.description>醉酒是美好生活的核心。</VME_PermitCooldown_Increased.description>
+  <VME_PermitCooldown_Increased.description>许可使用需节制，耐心等待很重要。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可后的冷却时间提高。</VME_PermitCooldown_Increased.description>
   <!--EN: increased-->
-  <VME_PermitCooldown_Increased.label>要求的</VME_PermitCooldown_Increased.label>
+  <VME_PermitCooldown_Increased.label>提高</VME_PermitCooldown_Increased.label>
   <!--EN: Royalty demands swift action; thus, the cooldown of permits is lessened, allowing for a more rapid response to the ever-changing whims of noble desire.-->
-  <VME_PermitCooldown_Lowered.description>醉酒是美好生活的核心。</VME_PermitCooldown_Lowered.description>
+  <VME_PermitCooldown_Lowered.description>我们的欲望无穷无尽，许可使用应越快越好。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可后的冷却时间降低。</VME_PermitCooldown_Lowered.description>
   <!--EN: lowered-->
-  <VME_PermitCooldown_Lowered.label>要求的</VME_PermitCooldown_Lowered.label>
+  <VME_PermitCooldown_Lowered.label>降低</VME_PermitCooldown_Lowered.label>
   <!--EN: Every call for aid is a heavy toll, a demand of honor twice the usual rate. Such is the price of urgency, a cost only to be borne when the need is direst.-->
-  <VME_PermitHonorCost_Doubled.description>醉酒是美好生活的核心。</VME_PermitHonorCost_Doubled.description>
+  <VME_PermitHonorCost_Doubled.description>频繁使用许可必须付出更多代价。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可时所花费的皇家声望翻倍。</VME_PermitHonorCost_Doubled.description>
   <!--EN: doubled-->
-  <VME_PermitHonorCost_Doubled.label>要求的</VME_PermitHonorCost_Doubled.label>
+  <VME_PermitHonorCost_Doubled.label>翻倍</VME_PermitHonorCost_Doubled.label>
   <!--EN: The honored have the privilege of calling upon their allies more frequently, their requests for aid met with a nod and a half a cost, easing the burden of leadership.-->
-  <VME_PermitHonorCost_Halved.description>醉酒是美好生活的核心。</VME_PermitHonorCost_Halved.description>
+  <VME_PermitHonorCost_Halved.description>频繁使用许可应当享有优待。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;\n - 使用许可时所花费的皇家声望减半。</VME_PermitHonorCost_Halved.description>
   <!--EN: halved-->
-  <VME_PermitHonorCost_Halved.label>要求的</VME_PermitHonorCost_Halved.label>
+  <VME_PermitHonorCost_Halved.label>减半</VME_PermitHonorCost_Halved.label>
   <!--EN: Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution.-->
-  <VME_PsychicSensitivity_Heightened.description>醉酒是美好生活的核心。</VME_PsychicSensitivity_Heightened.description>
+  <VME_PsychicSensitivity_Heightened.description>让我们的思想笼罩整个世界。让我们的心灵变成能够迅速反击的武器。</VME_PsychicSensitivity_Heightened.description>
   <!--EN: heightened-->
-  <VME_PsychicSensitivity_Heightened.label>要求的</VME_PsychicSensitivity_Heightened.label>
+  <VME_PsychicSensitivity_Heightened.label>提高</VME_PsychicSensitivity_Heightened.label>
   <!--EN: Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution.-->
-  <VME_PsychicSensitivity_Lowered.description>醉酒是美好生活的核心。</VME_PsychicSensitivity_Lowered.description>
+  <VME_PsychicSensitivity_Lowered.description>不要让我们的头脑中拥有任何不属于自己的想法。我们的思想必须坚定不移。</VME_PsychicSensitivity_Lowered.description>
   <!--EN: lowered-->
-  <VME_PsychicSensitivity_Lowered.label>要求的</VME_PsychicSensitivity_Lowered.label>
+  <VME_PsychicSensitivity_Lowered.label>降低</VME_PsychicSensitivity_Lowered.label>
   <!--EN: By inducing trance on oneself and reaching erudition you cast away the shackles of the physical and find the ability to manipulate the world just as trivial as breathing.-->
-  <VME_PsyfocusGain_Doubled.description>醉酒是美好生活的核心。</VME_PsyfocusGain_Doubled.description>
+  <VME_PsyfocusGain_Doubled.description>通过心神出窍并博阅群识，我们摆脱了肉体的桎梏。操控世界之力在我们眼中就如同呼吸一般微不足道。</VME_PsyfocusGain_Doubled.description>
   <!--EN: doubled-->
-  <VME_PsyfocusGain_Doubled.label>要求的</VME_PsyfocusGain_Doubled.label>
+  <VME_PsyfocusGain_Doubled.label>双倍</VME_PsyfocusGain_Doubled.label>
   <!--EN: Titles and crowns, relics of a bygone era, draw ire more than admiration. Those who flaunt their noble status find themselves at the receiving end of equal disdain.-->
-  <VME_Royalty_Disliked.description>醉酒是美好生活的核心。</VME_Royalty_Disliked.description>
+  <VME_Royalty_Disliked.description>荣誉头衔和皇权都是旧时代留下来的遗毒，没有人会尊重那些卖弄自己贵族地位的蠢货。</VME_Royalty_Disliked.description>
   <!--EN: disliked-->
-  <VME_Royalty_Disliked.label>要求的</VME_Royalty_Disliked.label>
+  <VME_Royalty_Disliked.label>厌恶</VME_Royalty_Disliked.label>
   <!--EN: Those who drape themselves in the vestments of royalty ascend beyond mere mortals. Each step up the ladder of nobility brings greater veneration from the common folk, from a respectful nod for a Yeoman to awestruck reverence for a High Stellarch.-->
-  <VME_Royalty_Exalted.description>醉酒是美好生活的核心。</VME_Royalty_Exalted.description>
+  <VME_Royalty_Exalted.description>身披皇家圣衣者是地位远超凡人的伟大存在。无论是文书官还是至高星际主宰，贵族们的每一步都将受到平民百姓的尊敬。</VME_Royalty_Exalted.description>
   <!--EN: exalted-->
-  <VME_Royalty_Exalted.label>要求的</VME_Royalty_Exalted.label>
+  <VME_Royalty_Exalted.label>高尚</VME_Royalty_Exalted.label>
   <!--EN: Royal titles are chains that bind freedom, and each title is a shackle more cursed than the last. From Yeoman to High Stellarch, the disdain grows with the weight of the crown, heavy is the head that wears it.-->
-  <VME_Royalty_Hated.description>醉酒是美好生活的核心。</VME_Royalty_Hated.description>
+  <VME_Royalty_Hated.description>荣誉头衔是束缚自由的诅咒枷锁。无论是文书官还是至高星际主宰，欲戴皇冠就必先承其重。</VME_Royalty_Hated.description>
   <!--EN: hated-->
-  <VME_Royalty_Hated.label>要求的</VME_Royalty_Hated.label>
+  <VME_Royalty_Hated.label>反感</VME_Royalty_Hated.label>
   <!--EN: Every crown and every title is a symbol of burdens shouldered for the good of all. Regardless of the rank, a title earns a uniform respect, an acknowledgment of the wearer's elevated place in our order.-->
-  <VME_Royalty_Respected.description>醉酒是美好生活的核心。</VME_Royalty_Respected.description>
+  <VME_Royalty_Respected.description>荣誉头衔和皇权意味着要肩负起所有人利益的重担。无论头衔等级高低，贵族们都将得到应有的尊重。</VME_Royalty_Respected.description>
   <!--EN: respected-->
-  <VME_Royalty_Respected.label>要求的</VME_Royalty_Respected.label>
+  <VME_Royalty_Respected.label>仰慕</VME_Royalty_Respected.label>
   <!--EN: Nobility flows through blood, as titles pass from the fallen to their kin. A parent's demise elevates the firstborn, inheriting the mantle of leadership.-->
-  <VME_TitleInheritance_Inherited.description>醉酒是美好生活的核心。</VME_TitleInheritance_Inherited.description>
+  <VME_TitleInheritance_Inherited.description>死亡并不意味着皇权的终结。我们的荣誉头衔将以血脉为托代代传承下去。</VME_TitleInheritance_Inherited.description>
   <!--EN: inherited-->
-  <VME_TitleInheritance_Inherited.label>要求的</VME_TitleInheritance_Inherited.label>
+  <VME_TitleInheritance_Inherited.label>继承</VME_TitleInheritance_Inherited.label>
 </LanguageData>

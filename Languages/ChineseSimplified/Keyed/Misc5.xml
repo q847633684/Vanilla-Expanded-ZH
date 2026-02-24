@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: build props-->
-  <VFEPD_BuildProps>搭建道具</VFEPD_BuildProps>
+  <VFEPD_BuildProps>放置道具</VFEPD_BuildProps>
   <!--EN: Open a menu to build props with a silver cost.-->
-  <VFEPD_BuildPropsDesc>打开菜单以花费银币建造道具。</VFEPD_BuildPropsDesc>
+  <VFEPD_BuildPropsDesc>浏览所有可放置的装饰道具。放置时仅需要消耗白银。</VFEPD_BuildPropsDesc>
   <!--EN: Make copy-->
-  <VFEPD_MakeCopy>制作副本</VFEPD_MakeCopy>
+  <VFEPD_MakeCopy>复制道具</VFEPD_MakeCopy>
   <!--EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles.-->
-  <VFEPD_MakeCopyDesc>复制该道具。这将要求您储备可用道具的白银成本。</VFEPD_MakeCopyDesc>
+  <VFEPD_MakeCopyDesc>复制当前的装饰道具。需要备置有足够的白银。</VFEPD_MakeCopyDesc>
   <!--EN: Can't be built until {0} has been researched by the colony-->
-  <VFEPD_ResearchNeeded>在殖民地研究 {0} 之前无法建造</VFEPD_ResearchNeeded>
+  <VFEPD_ResearchNeeded>需要先完成研究项目“{0}”后才能放置此装饰道具。</VFEPD_ResearchNeeded>
   <!--EN: Select prop category:-->
-  <VFE_ChoosePropCategory>选择道具类别：</VFE_ChoosePropCategory>
+  <VFE_ChoosePropCategory>选择装饰道具分类：</VFE_ChoosePropCategory>
   <!--EN: Go back-->
-  <VFE_GoBack>回去</VFE_GoBack>
+  <VFE_GoBack>返回</VFE_GoBack>
   <!--EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop-->
-  <VFE_NoSilver>白银库存不足。您需要至少 {0} 银币才能建造此道具</VFE_NoSilver>
+  <VFE_NoSilver>白银不足。至少需要备置{0}银才能放置此装饰道具。</VFE_NoSilver>
   <!--EN: Search-->
-  <VFE_PrefabSearch>搜索</VFE_PrefabSearch>
+  <VFE_PrefabSearch>查找</VFE_PrefabSearch>
   <!--EN: Prop cost multiplier-->
-  <VFE_PropCostMultiplier>道具成本乘数</VFE_PropCostMultiplier>
+  <VFE_PropCostMultiplier>装饰道具价格乘数</VFE_PropCostMultiplier>
   <!--EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs.-->
-  <VFE_PropCostMultiplierDesc>用银购买的预制件的成本是根据其尺寸、生命值和覆盖物来计算的。使用此滑块，您可以改变它们的成本。 0 禁用所有银币成本。</VFE_PropCostMultiplierDesc>
+  <VFE_PropCostMultiplierDesc>默认情况下，装饰道具的价格取决于大小、耐久等属性。你可以通过修改此项以让装饰道具变得更便宜或更贵。设为0时则免费。</VFE_PropCostMultiplierDesc>
   <!--EN: Reset-->
-  <VFE_Reset>重置</VFE_Reset>
+  <VFE_Reset>重设</VFE_Reset>
   <!--EN: Silver return multiplier-->
-  <VFE_SilverReturnMultiplier>白银回报倍数</VFE_SilverReturnMultiplier>
+  <VFE_SilverReturnMultiplier>白银返还乘数</VFE_SilverReturnMultiplier>
   <!--EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting.-->
-  <VFE_SilverReturnMultiplierDesc>当道具被摧毁时，它们的购买成本将会以银币的形式返还。默认情况下，这将是该成本的 100%，但可以通过此设置来减少。</VFE_SilverReturnMultiplierDesc>
+  <VFE_SilverReturnMultiplierDesc>默认情况下，装饰道具被拆除或摧毁后会返还所有白银。你可以通过修改此项来调整返还倍率。</VFE_SilverReturnMultiplierDesc>
   <!--EN: Built-->
-  <VPE_NeedsMats>建成</VPE_NeedsMats>
+  <VPE_NeedsMats>建造</VPE_NeedsMats>
   <!--EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves-->
-  <VPE_NeedsMatsDesc>这个特殊的道具需要建筑材料而不是银子来建造，殖民者必须自己建造它</VPE_NeedsMatsDesc>
+  <VPE_NeedsMatsDesc>这种装饰道具需要由殖民者来建造，且消耗的是寻常的建筑材料而非白银。</VPE_NeedsMatsDesc>
 </LanguageData>

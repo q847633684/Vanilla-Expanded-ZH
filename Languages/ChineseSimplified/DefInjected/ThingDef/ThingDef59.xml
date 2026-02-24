@@ -1,69 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. The amount of hemogen packs depends on the occupant's hunger rate - someone with a worse metabolic efficiency will produce more hemogen packs while using proportionally more nutrition to do so. If deprived of food, the casket will eventually kill its occupant.-->
-  <VRE_Draincasket.description>一种险恶的装置，旨在从个体中提取血原，同时将其生命力维持在最低限度。这个黑暗而不祥的棺材里的主人处于一种暮色中的存在状态，他们的身体慢慢地耗尽了宝贵的血原。与排水棺绑定后，居住者的生存取决于定期进食，因为他们仍然可能饿死。
-
-只要居住者有食物并且棺材连接到血原网络，就会每天生产血原包。血原包的数量取决于居住者的饥饿率——代谢效率较差的人会产生更多的血原包，同时也会消耗更多的营养。如果失去食物，棺材最终会杀死里面的人。</VRE_Draincasket.description>
+  <VRE_Draincasket.description>用于从人类身上汲取血原质，并以最低限度为其维生的邪恶装置。只要能定期装填食物，且保持与血原管道网络相连接，它就会以每天2包的效率产出血原质。如果食物不足且迟迟得不到补充，血原汲取舱将在大约两天后杀死其内部的使用者。\n\n如果你安装了原版营养膏扩展，血原汲取舱会自动从其管道网络中补充营养（当然，管道网络中需要储有至少1份以上的营养膏才行）。</VRE_Draincasket.description>
   <!--EN: draincasket-->
-  <VRE_Draincasket.label>排水箱</VRE_Draincasket.label>
+  <VRE_Draincasket.label>血原汲取舱</VRE_Draincasket.label>
   <!--EN: viscuous goo-->
-  <VRE_FilthGoo.label>粘稠物</VRE_FilthGoo.label>
+  <VRE_FilthGoo.label>粘液</VRE_FilthGoo.label>
   <!--EN: An advanced device designed to expedite the deathrest process at the cost of blood consumption. By connecting with a deathresting person, this apparatus employs intricate blood analysis and potent sanguine stimulants to maximize the efficiency of the deathrest casket. As it hastens the character's recovery, the Hemodynamic Accelerator demands a continuous supply of hemogen to fuel its powerful operation. To function, it must be connected to a deathrest casket, ensuring the swift rejuvenation of its occupant.-->
-  <VRE_HemodynamicAccelerator.description>一种先进的装置，旨在以消耗血液为代价加速死亡过程。通过与临终者联系，该装置采用复杂的血液分析和强效的血液兴奋剂来最大限度地提高临终棺材的效率。当血液动力学加速器加速角色的恢复时，它需要持续供应血原来为其强大的运作提供燃料。为了发挥作用，它必须连接到死亡棺材，以确保其主人迅速恢复活力。</VRE_HemodynamicAccelerator.description>
+  <VRE_HemodynamicAccelerator.description>该装置以血液为动力加速死眠过程。可以与死眠者连接，使用更复杂的血液分析和强效的血液兴奋剂来增强死眠棺材的效果。由于血动力加速器加速了角色恢复速度，因此需要不断补充血原质作为其运行能源。\n\n这种设备必须连接至死眠棺材才能发挥功能，确保死眠者能够快速恢复。</VRE_HemodynamicAccelerator.description>
   <!--EN: hemodynamic accelerator-->
-  <VRE_HemodynamicAccelerator.label>血流动力学加速器</VRE_HemodynamicAccelerator.label>
+  <VRE_HemodynamicAccelerator.label>血原动力加速器</VRE_HemodynamicAccelerator.label>
   <!--EN: A hopper-like storage basin meant to input hemogen into the network, filling up connected vats.-->
-  <VRE_HemogenDrain.description>一个漏斗状的存储盆，用于将血原输入网络中，填充连接的大桶。</VRE_HemogenDrain.description>
+  <VRE_HemogenDrain.description>可以将包装的血原质排入管道网络中的漏斗状装置。</VRE_HemogenDrain.description>
   <!--EN: hemogen drain-->
-  <VRE_HemogenDrain.label>血原引流</VRE_HemogenDrain.label>
+  <VRE_HemogenDrain.label>血原排入口</VRE_HemogenDrain.label>
   <!--EN: Animal hemogen. Increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.-->
-  <VRE_HemogenPack_Animal.description>动物血原。提高使用者的再生和战斗能力，但大大降低与他人交流的能力。</VRE_HemogenPack_Animal.description>
+  <VRE_HemogenPack_Animal.description>来自动物的血原质，能够增加使用者的回复与战斗能力，但大幅度降低社交能力。</VRE_HemogenPack_Animal.description>
   <!--EN: hemogen pack (animal)-->
   <VRE_HemogenPack_Animal.label>血原包（动物）</VRE_HemogenPack_Animal.label>
   <!--EN: Tainted, rotting hemogen from a cadaver. Greatly weakens the carrier of this hemogen type, but increases the blood filtration significantly.-->
-  <VRE_HemogenPack_Corpse.description>来自尸体的被污染、腐烂的血原。极大地削弱了这种血原类型的载体，但显着增加了血液过滤。</VRE_HemogenPack_Corpse.description>
+  <VRE_HemogenPack_Corpse.description>来自尸体上污秽、腐烂的血原质。大幅度降低使用者的能力，但显著加快了血液过滤速度。</VRE_HemogenPack_Corpse.description>
   <!--EN: hemogen pack (corpse)-->
   <VRE_HemogenPack_Corpse.label>血原包（尸体）</VRE_HemogenPack_Corpse.label>
   <!--EN: Pure, thick hemogen of another bloodfeeder. The most rare of all hemogens, it gives the carrier a powerful boost to all capacities.-->
-  <VRE_HemogenPack_Sanguophage.description>另一种吸血者的纯而浓的血原。它是所有血原中最稀有的，它为载体的所有能力提供了强大的提升。</VRE_HemogenPack_Sanguophage.description>
+  <VRE_HemogenPack_Sanguophage.description>来自其他血族的纯净血原质。是所有血原质中最罕见的，能大幅度提升使用者的所有能力。</VRE_HemogenPack_Sanguophage.description>
   <!--EN: hemogen pack (sanguophage)-->
-  <VRE_HemogenPack_Sanguophage.label>血原包（sanguophage）</VRE_HemogenPack_Sanguophage.label>
+  <VRE_HemogenPack_Sanguophage.label>血原包（血族）</VRE_HemogenPack_Sanguophage.label>
   <!--EN: A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures.-->
-  <VRE_HemogenPipe.description>用于在水龙头、排水沟、大桶和以血质为燃料的结构之间输送血质的管道。</VRE_HemogenPipe.description>
+  <VRE_HemogenPipe.description>沉重结实的镶金钢制管道，可以将血原质输送贮存罐或其他需要血原质才能运作的装置中。</VRE_HemogenPipe.description>
   <!--EN: hemogen pipe-->
-  <VRE_HemogenPipe.label>血凝管</VRE_HemogenPipe.label>
+  <VRE_HemogenPipe.label>血原管道</VRE_HemogenPipe.label>
   <!--EN: A device specifically engineered to enhance the durability of deathresting characters by manipulating the molecular structure of their skin. Utilizing an array of bioresonant projectors and blood-based nano-agents, the solidifier targets the hemogen within the character's body, fortifying and thickening skin molecules. As the deathresting individual slumbers, the Hemogen Solidifier weaves a dense, protective layer around them, rendering their skin more resilient and damage-resistant. The device must be connected to a deathrest casket to operate, ensuring its occupant emerges from their rest with an augmented defensive capacity.-->
-  <VRE_HemogenSolidifier.description>一种专门设计的装置，通过操纵死亡角色皮肤的分子结构来增强他们的耐用性。利用一系列生物共振投影仪和基于血液的纳米制剂，固化剂瞄准角色体内的血原，强化和增厚皮肤分子。当死亡个体沉睡时，Hemogen 固化剂会在他们周围编织一层致密的保护层，使他们的皮肤更有弹性和抗损伤。该设备必须连接到死亡棺材才能运行，确保其使用者从安息中醒来时具有增强的防御能力。</VRE_HemogenSolidifier.description>
+  <VRE_HemogenSolidifier.description>该装置通过操纵死眠者皮肤的分子结构来提高皮肤强度。血原质强化仪采用了生物传感投影仪和基于血液的纳米试剂，针对人物体内的血原质进行强化和增强皮肤分子。当死眠者沉睡时，血原质强化仪会在周围形成一层紧密的保护层，使其皮肤更有弹性，增强防御能力。\n\n这种设备必须连接至死眠棺材才能发挥功能，确保死眠者在死眠时增强防御能力。</VRE_HemogenSolidifier.description>
   <!--EN: hemogen solidifier-->
-  <VRE_HemogenSolidifier.label>血原凝固</VRE_HemogenSolidifier.label>
+  <VRE_HemogenSolidifier.label>血原强化仪</VRE_HemogenSolidifier.label>
   <!--EN: A hopper-like storage basin meant to dispense hemogen for later use.-->
-  <VRE_HemogenTap.description>一个漏斗状的储存盆，用于分配血原以供以后使用。</VRE_HemogenTap.description>
+  <VRE_HemogenTap.description>可以将管道网络中的血原质装包排出的漏斗状装置。</VRE_HemogenTap.description>
   <!--EN: hemogen tap-->
-  <VRE_HemogenTap.label>血源水龙头</VRE_HemogenTap.label>
+  <VRE_HemogenTap.label>血原排出口</VRE_HemogenTap.label>
   <!--EN: Switches hemogen flow on/off.-->
-  <VRE_HemogenValve.description>打开/关闭血流。</VRE_HemogenValve.description>
+  <VRE_HemogenValve.description>连通/断开血原管道，决定血原质是否能够通过。</VRE_HemogenValve.description>
   <!--EN: hemogen valve-->
-  <VRE_HemogenValve.label>血原阀</VRE_HemogenValve.label>
+  <VRE_HemogenValve.label>血原阀门</VRE_HemogenValve.label>
   <!--EN: An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed.-->
-  <VRE_HemogenVat.description>一种工业液体储存桶，用于储存通过血红素管网输送的血红素。可以根据需要指定大桶以虹吸可用的血原。</VRE_HemogenVat.description>
+  <VRE_HemogenVat.description>能将由管道输送的血原质存储起来的工业贮存罐。</VRE_HemogenVat.description>
   <!--EN: hemogen vat-->
-  <VRE_HemogenVat.label>血原桶</VRE_HemogenVat.label>
+  <VRE_HemogenVat.label>血原贮存罐</VRE_HemogenVat.label>
   <!--EN: A sophisticated device that infuses deathresting people with rare and potent sanguophage abilities, tapping into the very essence of their vampiric nature. Employing a complex system of blood conduits and essence resonators, the matrix connects to a deathrest casket and channels the life force of its occupant to unlock hidden potential within their bloodline. As the person slumbers in their deathrest state, the Invocation Matrix bestows upon them a selected, unique power. This building requires a constant supply of hemogen to operate.-->
-  <VRE_InvocationMatrix.description>一种复杂的装置，可以为死亡者注入罕见而强大的噬血能力，挖掘他们吸血鬼本性的本质。该矩阵采用由血液导管和本质谐振器组成的复杂系统，连接到死亡棺材并引导其居住者的生命力，以释放其血统中隐藏的潜力。当人在死亡状态中沉睡时，召唤矩阵会赋予他们一种选定的、独特的力量。这座建筑需要持续供应血原才能运转。</VRE_InvocationMatrix.description>
+  <VRE_InvocationMatrix.description>该装置能够赋予死眠者强大且稀有的血族能力，挖掘出他们血族天性的本质。矩阵采用了一个复杂的血液管道和本质共振器系统，与死眠棺材进行连接，并引导死眠者的生命力来解锁血脉中隐藏的潜能。当死眠者在死眠状态下沉睡时，矩阵会赋予他们一种可选择的独特能力。\n\n这种设备需要持续供应血原质才能正常运作。</VRE_InvocationMatrix.description>
   <!--EN: invocation matrix-->
-  <VRE_InvocationMatrix.label>调用矩阵</VRE_InvocationMatrix.label>
+  <VRE_InvocationMatrix.label>赋能矩阵</VRE_InvocationMatrix.label>
   <!--EN: goo-->
-  <VRE_Proj_Goo.label>粘性物</VRE_Proj_Goo.label>
+  <VRE_Proj_Goo.label>粘液</VRE_Proj_Goo.label>
   <!--EN: This device leaves a deathrester in a hemogen-amplified state so they gain slightly more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.-->
-  <VRE_SmallHemogenAmplifier.description>该装置使死亡者处于血原放大状态，因此他们可以从任何血原来源中获得稍多的血原。使用腺体探针和血液分析仪，它与临终者联系起来，刺激血原腺进入更活跃的状态。它必须连接到临终棺材才能发挥作用。这座建筑需要消耗血原才能发挥作用。</VRE_SmallHemogenAmplifier.description>
+  <VRE_SmallHemogenAmplifier.description>该装置使死眠者处于血原质增幅状态，因此他们能从任何来源里获取稍微多一点的血原质。装置配备有腺体探针和血液分析仪，当与死眠者链接时，会刺激体内的血原质进入活跃的状态。必须连接至死眠棺材才能发挥功能。\n\n这种设备需要消耗血原质才能正常运作。</VRE_SmallHemogenAmplifier.description>
   <!--EN: small hemogen amplifier-->
-  <VRE_SmallHemogenAmplifier.label>小型血红素放大器</VRE_SmallHemogenAmplifier.label>
+  <VRE_SmallHemogenAmplifier.label>小型血原增幅器</VRE_SmallHemogenAmplifier.label>
   <!--EN: This small, blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.-->
-  <VRE_SmallHemopump.description>这个小型的血液精炼泵可以增加临终者体内储存的血原量。它必须连接到临终棺材才能发挥作用。这座建筑需要消耗血原才能发挥作用。</VRE_SmallHemopump.description>
+  <VRE_SmallHemopump.description>这种小型设备能提高死眠者的血原质最大储存上限。必须连接至死眠棺材才能发挥功能。\n\n这种设备需要消耗血原质才能正常运作。</VRE_SmallHemopump.description>
   <!--EN: small hemopump-->
-  <VRE_SmallHemopump.label>小型血泵</VRE_SmallHemopump.label>
+  <VRE_SmallHemopump.label>小型血液提纯泵</VRE_SmallHemopump.label>
   <!--EN: Hidden steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures.-->
-  <VRE_UndergroundHemogenPipe.description>隐藏的钢管设计用于在水龙头、排水沟、大桶和以血质为燃料的结构之间输送血质。</VRE_UndergroundHemogenPipe.description>
+  <VRE_UndergroundHemogenPipe.description>沉重结实的镶金钢制管道，可以将血原质输送贮存罐或其他需要血原质才能运作的装置中。这种管道因埋藏在地下而不会被看见，但是造价要比普通管道更高。</VRE_UndergroundHemogenPipe.description>
   <!--EN: hidden hemogen pipe-->
-  <VRE_UndergroundHemogenPipe.label>隐藏血原管</VRE_UndergroundHemogenPipe.label>
+  <VRE_UndergroundHemogenPipe.label>地下血原管道</VRE_UndergroundHemogenPipe.label>
 </LanguageData>

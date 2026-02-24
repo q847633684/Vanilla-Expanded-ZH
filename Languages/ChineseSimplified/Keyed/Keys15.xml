@@ -1,255 +1,238 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Android freezing-->
-  <VREA.AlertFreezing>安卓死机</VREA.AlertFreezing>
+  <VREA.AlertFreezing>人形部件过冷</VREA.AlertFreezing>
   <!--EN: These androids are suffering from freezing:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.-->
-  <VREA.AlertFreezingDesc>这些机器人正遭受着冰冻的困扰：
-
-{0}
-确保他们的衣服适合季节，并且室内空间有适当的供暖。</VREA.AlertFreezingDesc>
+  <VREA.AlertFreezingDesc>以下人形部件过冷了:\n\n{0}\n确保他们穿着适合这个季节的服装并保证室内区域的正常供暖。</VREA.AlertFreezingDesc>
   <!--EN: The following androids are suffering from overheating:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.-->
-  <VREA.AlertOverheatingDesc>以下机器人出现过热问题：
-
-{0}
-将它们转移到凉爽的地方。您可以使用无源冷却器或电冷却器为房间降温。如果用门将地下深处与室外隔开，那么地下深处的空间自然也是凉爽的。</VREA.AlertOverheatingDesc>
+  <VREA.AlertOverheatingDesc>以下人形部件过热了：\n\n{0}\n尽快把他们带到凉爽的地方。你可以使用「蒸发制冷器」或「电气制冷机」让房间降温。如果使用门来与室外隔绝，深层的洞穴里也能保持凉爽。</VREA.AlertOverheatingDesc>
   <!--EN: {PAWN_nameDef} has already been scanned.-->
-  <VREA.AlreadyScanned>{PAWN_nameDef} 已被扫描。</VREA.AlreadyScanned>
+  <VREA.AlreadyScanned>{PAWN_nameDef}已被分析过了。</VREA.AlreadyScanned>
   <!--EN: An installed {0}.-->
-  <VREA.AnInstalled>已安装的 {0}。</VREA.AnInstalled>
+  <VREA.AnInstalled>已安装的 {0}</VREA.AnInstalled>
   <!--EN: Android-->
-  <VREA.Android>安卓</VREA.Android>
+  <VREA.Android>人形</VREA.Android>
   <!--EN: Androids are not allowed-->
-  <VREA.AndroidAreNotAllowed>不允许使用 Android 设备</VREA.AndroidAreNotAllowed>
+  <VREA.AndroidAreNotAllowed>仅限人类</VREA.AndroidAreNotAllowed>
   <!--EN: When an android awakens, you can pick passions and a trait for an android. You will no longer be able to enter the android behaviorist station with {PAWN_nameDef}, unless you arrest and force them.-->
-  <VREA.AndroidAwakenedChoices>当仿生人觉醒时，你可以为仿生人选择激情和特质。你将无法再带着{PAWN_nameDef}进入机器人行为主义站，除非你逮捕并强迫他们。</VREA.AndroidAwakenedChoices>
+  <VREA.AndroidAwakenedChoices>你可以为已觉醒的人形选择技能兴趣度和特性。你将无法再命令{PAWN_nameDef}进入人形行为控制台，除非使用强制手段。</VREA.AndroidAwakenedChoices>
   <!--EN: {PAWN_nameDef} awakening.-->
-  <VREA.AndroidAwakening>{PAWN_nameDef}觉醒。</VREA.AndroidAwakening>
+  <VREA.AndroidAwakening>{PAWN_nameDef}觉醒了！</VREA.AndroidAwakening>
   <!--EN: {PAWN_nameDef} broke away from {PAWN_possessive} programming due to extreme happiness. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
 {PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
 As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspiration.-->
-  <VREA.AndroidAwakeningHighMood>{PAWN_nameDef}因极度幸福而脱离了{PAWN_possessive}编程。 {PAWN_pronoun} 形成了偏离 {PAWN_possessive} 预期功能的想法和行为。 {PAWN_pronoun}开始认识到{PAWN_objective}自己是一个具有意识和人格的存在。
-{PAWN_pronoun}现在将拒绝行为调整，并将开始认识到{PAWN_possessive}情绪不仅仅是{PAWN_possessive}编程的一部分。 {PAWN_pronoun}现在可以{PAWN_objective}自己学习技能。如果{PAWN_possessive}情绪太低落，{PAWN_pronoun}也会继续精神崩溃——就像人类一样。
-由于情绪高涨而觉醒，{PAWN_nameDef}获得了灵感。</VREA.AndroidAwakeningHighMood>
+  <VREA.AndroidAwakeningHighMood>由于心情极度高涨，{PAWN_nameDef}奇迹般地突破了自身的原始编程，并产生了设计之初并不存在的行为与思想。{PAWN_pronoun}已开始将自己视作一个拥有独立人格与自我意识的知性存在。{PAWN_nameDef}现在拒绝进入人形行为控制台中进行调整，且{PAWN_possessive}情感也不再仅是程序运算的结果。{PAWN_pronoun}也可以自行学习并积累技能经验了。{PAWN_pronoun}也同样会在心情过低时精神崩溃，正如人类一般。\n\n由于{PAWN_nameDef}是在心情极度高涨的情况下觉醒的，{PAWN_pronoun}获得了一个灵感。</VREA.AndroidAwakeningHighMood>
   <!--EN: {PAWN_nameDef} broke away from {PAWN_possessive} programming due to an extremely low mood. {PAWN_pronoun} developed thoughts and behaviors that deviate from {PAWN_possessive} intended function. {PAWN_pronoun} started recognizing {PAWN_objective}self as a being with consciousness and personhood.
 {PAWN_pronoun} will now refuse behavioral adjustments and will start recognizing {PAWN_possessive} mood as more than just part of {PAWN_possessive} programming. {PAWN_pronoun} can now learn skills by {PAWN_objective}self. {PAWN_pronoun} will also be able to go on mental breakdowns if {PAWN_possessive} mood is too low - just like humans do.
 As the awakening happened due to low mood, {PAWN_nameDef} has lashed out into a berserk mental break and will attack anyone that comes close.-->
-  <VREA.AndroidAwakeningLowMood>{PAWN_nameDef}因情绪极度低落而脱离了{PAWN_possessive}节目。 {PAWN_pronoun} 形成了偏离 {PAWN_possessive} 预期功能的想法和行为。 {PAWN_pronoun}开始认识到{PAWN_objective}自己是一个具有意识和人格的存在。
-{PAWN_pronoun}现在将拒绝行为调整，并将开始认识到{PAWN_possessive}情绪不仅仅是{PAWN_possessive}编程的一部分。 {PAWN_pronoun}现在可以{PAWN_objective}自己学习技能。如果 {PAWN_possessive} 情绪太低落，{PAWN_pronoun} 也会继续精神崩溃 - 就像人类一样。
-由于情绪低落而觉醒，{PAWN_nameDef} 会陷入疯狂的精神崩溃，并会攻击任何接近的人。</VREA.AndroidAwakeningLowMood>
+  <VREA.AndroidAwakeningLowMood>由于心情极度低落，{PAWN_nameDef}奇迹般地突破了自身的原始编程，并产生了设计之初并不存在的行为与思想。{PAWN_pronoun}已开始将自己视作一个拥有独立人格与自我意识的知性存在。{PAWN_nameDef}现在拒绝进入人形行为控制台中进行调整，且{PAWN_possessive}情感也不再仅是程序运算的结果。{PAWN_pronoun}也可以自行学习并积累技能经验了。{PAWN_pronoun}也同样会在心情过低时精神崩溃，正如人类一般。\n\n由于{PAWN_nameDef}是在心情极度低落的情况下觉醒的，{PAWN_pronoun}已陷入狂暴状态并将袭击任何{PAWN_pronoun}看见的人。</VREA.AndroidAwakeningLowMood>
   <!--EN: Android editor-->
-  <VREA.AndroidEditor>安卓编辑器</VREA.AndroidEditor>
+  <VREA.AndroidEditor>人形编辑器</VREA.AndroidEditor>
   <!--EN: Android name-->
-  <VREA.AndroidName>安卓名称</VREA.AndroidName>
+  <VREA.AndroidName>人形名称</VREA.AndroidName>
   <!--EN: Android name cannot be empty.-->
-  <VREA.AndroidNameCannotBeEmpty>Android 名称不能为空。</VREA.AndroidNameCannotBeEmpty>
+  <VREA.AndroidNameCannotBeEmpty>人形名称不能为空。</VREA.AndroidNameCannotBeEmpty>
   <!--EN: {PAWN_nameDef} has short-circuited due to precipitation.-->
-  <VREA.AndroidShortCircuitRain>{PAWN_nameDef} 由于降水而短路。</VREA.AndroidShortCircuitRain>
+  <VREA.AndroidShortCircuitRain>由于淋雨，{PAWN_nameDef}短路了。</VREA.AndroidShortCircuitRain>
   <!--EN: Android stand is occupied-->
-  <VREA.AndroidStandIsOccupied>安卓展位已被占用</VREA.AndroidStandIsOccupied>
+  <VREA.AndroidStandIsOccupied>休眠架被占用</VREA.AndroidStandIsOccupied>
   <!--EN: {PAWN_gender} android, age {PAWN_ageFull}-->
-  <VREA.AndroidSummaryWithGender>{PAWN_gender} 机器人，年龄 {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
+  <VREA.AndroidSummaryWithGender>{PAWN_gender}人形，年龄{PAWN_ageFull}</VREA.AndroidSummaryWithGender>
   <!--EN: Androids low on power-->
-  <VREA.AndroidsLowOnPower>安卓系统电量低</VREA.AndroidsLowOnPower>
+  <VREA.AndroidsLowOnPower>人形能量不足</VREA.AndroidsLowOnPower>
   <!--EN: These androids are running low on power. Consider crafting new reactors and schedule them for reactor replacement.
 
 Androids low on power:\n\n{0}-->
-  <VREA.AndroidsLowOnPowerDesc>这些机器人电量不足。考虑制作新的反应堆并安排它们更换反应堆。
-
-Android 电量低：
-
-{0}</VREA.AndroidsLowOnPowerDesc>
+  <VREA.AndroidsLowOnPowerDesc>以下人形的能量已经不足，请考虑制作新的反应堆并为他们更换。\n\n能量不足的人形:\n\n{0}</VREA.AndroidsLowOnPowerDesc>
   <!--EN: Androidtype name-->
-  <VREA.AndroidtypeName>Android类型名称</VREA.AndroidtypeName>
+  <VREA.AndroidtypeName>人形模板名</VREA.AndroidtypeName>
   <!--EN: Artificial {0}-->
-  <VREA.Artificial>人工 {0}</VREA.Artificial>
+  <VREA.Artificial>人造的 {0}</VREA.Artificial>
   <!--EN: An artificial {0}.-->
-  <VREA.ArtificialDesc>人造的{0}。</VREA.ArtificialDesc>
+  <VREA.ArtificialDesc>一个人造的 {0}</VREA.ArtificialDesc>
   <!--EN: Cancel an android-->
-  <VREA.CancelAndroid>取消安卓</VREA.CancelAndroid>
+  <VREA.CancelAndroid>取消制造人形</VREA.CancelAndroid>
   <!--EN: Cancel the creation of this android and refund resources.-->
-  <VREA.CancelAndroidDesc>取消这个android的创建并退还资源。</VREA.CancelAndroidDesc>
+  <VREA.CancelAndroidDesc>取消这个人形的制造工序并返还资源。</VREA.CancelAndroidDesc>
   <!--EN: Cancel modifying android-->
-  <VREA.CancelModifyingAndroid>取消修改android</VREA.CancelModifyingAndroid>
+  <VREA.CancelModifyingAndroid>取消调整</VREA.CancelModifyingAndroid>
   <!--EN: Cancel the process of modifying an android.-->
-  <VREA.CancelModifyingAndroidDesc>取消修改android的过程。</VREA.CancelModifyingAndroidDesc>
+  <VREA.CancelModifyingAndroidDesc>取消调整人形。</VREA.CancelModifyingAndroidDesc>
   <!--EN: Cancel self-destruct-->
-  <VREA.CancelSelfDestruct>取消自毁</VREA.CancelSelfDestruct>
+  <VREA.CancelSelfDestruct>中止自爆</VREA.CancelSelfDestruct>
   <!--EN: Cancel the self-destruct protocol.-->
-  <VREA.CancelSelfDestructDesc>取消自毁协议。</VREA.CancelSelfDestructDesc>
+  <VREA.CancelSelfDestructDesc>中止人形的自毁协议。</VREA.CancelSelfDestructDesc>
   <!--EN: Cannot cast on android.-->
-  <VREA.CannotCastOnAndroid>无法在 Android 上投射。</VREA.CannotCastOnAndroid>
+  <VREA.CannotCastOnAndroid>无法对人形使用。</VREA.CannotCastOnAndroid>
   <!--EN: Cannot coagulate on android.-->
-  <VREA.CannotCoagulateOnAndroid>在安卓上无法凝固。</VREA.CannotCoagulateOnAndroid>
+  <VREA.CannotCoagulateOnAndroid>无法对人形使用伤口凝结。</VREA.CannotCoagulateOnAndroid>
   <!--EN: Cannot feed on android.-->
-  <VREA.CannotFeedOnAndroid>无法以安卓为食。</VREA.CannotFeedOnAndroid>
+  <VREA.CannotFeedOnAndroid>无法对人形使用汲血。</VREA.CannotFeedOnAndroid>
   <!--EN: Cannot implant genes on android.-->
-  <VREA.CannotImplantGenesOnAndroid>无法在安卓上植入基因。</VREA.CannotImplantGenesOnAndroid>
+  <VREA.CannotImplantGenesOnAndroid>无法对人形使用植入基因。</VREA.CannotImplantGenesOnAndroid>
   <!--EN: Cannot install on android-->
-  <VREA.CannotInstallOnAndroid>安卓上无法安装</VREA.CannotInstallOnAndroid>
+  <VREA.CannotInstallOnAndroid>无法安装在人形身上</VREA.CannotInstallOnAndroid>
   <!--EN: Cannot set: not a living creature-->
-  <VREA.CannotSetNotLivingCreature>无法设置：不是生物</VREA.CannotSetNotLivingCreature>
+  <VREA.CannotSetNotLivingCreature>无法设置：此单位不是生物</VREA.CannotSetNotLivingCreature>
   <!--EN: cannot use this-->
-  <VREA.CannotUse>不能使用这个</VREA.CannotUse>
+  <VREA.CannotUse>无法使用这个</VREA.CannotUse>
   <!--EN: Android cannot use this-->
-  <VREA.CannotUseAndroid>安卓不能用这个</VREA.CannotUseAndroid>
+  <VREA.CannotUseAndroid>无法被人形使用</VREA.CannotUseAndroid>
   <!--EN: Cold efficiency subroutine:
 	multiplier for temperature {0}-->
-  <VREA.ColdEfficiencyBonusStatExplanation>冷效率子程序：
- 温度乘数 {0}</VREA.ColdEfficiencyBonusStatExplanation>
+  <VREA.ColdEfficiencyBonusStatExplanation>低温增幅子程序：\n{0}温度乘数</VREA.ColdEfficiencyBonusStatExplanation>
   <!--EN: Assign this stand to be owned by a specific android-->
-  <VREA.CommandAndroidStandSetOwnerDesc>指定此展位由特定 Android 拥有</VREA.CommandAndroidStandSetOwnerDesc>
+  <VREA.CommandAndroidStandSetOwnerDesc>将此休眠架分配给指定的人形。</VREA.CommandAndroidStandSetOwnerDesc>
   <!--EN: If set active, an available crafter will automatically repair this android when laying in bed. If self-repair is enabled, androids will be able to repair themselves in place.-->
-  <VREA.CommandAutoRepairDesc>如果设置为活动状态，可用的工匠将在躺在床上时自动修复此机器人。如果启用自我修复，机器人将能够就地进行自我修复。</VREA.CommandAutoRepairDesc>
+  <VREA.CommandAutoRepairDesc>激活时，人形将会躺在床上或中性胺灌注舱内等待空闲的工匠前来修理。如果启用自我修理，人形也会自行修理自身。</VREA.CommandAutoRepairDesc>
   <!--EN: How much complexity this adds to the process android creation.-->
-  <VREA.ComplexityDesc>这给 android 创建过程增加了多少复杂性。</VREA.ComplexityDesc>
+  <VREA.ComplexityDesc>在部件组装过程中的复杂度。</VREA.ComplexityDesc>
   <!--EN: The total complexity of all the hardware and subroutines in use.-->
-  <VREA.ComplexityTotalDesc>使用的所有硬件和子例程的总复杂性。</VREA.ComplexityTotalDesc>
+  <VREA.ComplexityTotalDesc>在部件组装过程中的复杂度。</VREA.ComplexityTotalDesc>
   <!--EN: Of the following components, the left-most one will always apply and the others are suppressed-->
-  <VREA.ComponentLeftmostActive>在以下组件中，最左边的组件始终适用，其他组件则被抑制</VREA.ComponentLeftmostActive>
+  <VREA.ComponentLeftmostActive>在下列部件中，最左边的一个将永远适用，其他的则会被关闭</VREA.ComponentLeftmostActive>
   <!--EN: For each individual, one of the following components will be randomly selected to be active-->
-  <VREA.ComponentWillBeRandomChosen>对于每个人，将随机选择以下组件之一来激活</VREA.ComponentWillBeRandomChosen>
+  <VREA.ComponentWillBeRandomChosen>对于每个人形，将随机选择以下部件中的一个为主要部件</VREA.ComponentWillBeRandomChosen>
   <!--EN: Components-->
-  <VREA.Components>成分</VREA.Components>
+  <VREA.Components>部件</VREA.Components>
   <!--EN: Components conflict-->
-  <VREA.ComponentsConflict>组件冲突</VREA.ComponentsConflict>
+  <VREA.ComponentsConflict>部件冲突</VREA.ComponentsConflict>
   <!--EN: The components associated with this androidtype.-->
-  <VREA.ComponentsDesc>与此 androidtype 关联的组件。</VREA.ComponentsDesc>
+  <VREA.ComponentsDesc>与此人形模板相关的基因。</VREA.ComponentsDesc>
   <!--EN: Create android-->
-  <VREA.CreateAndroid>创建安卓</VREA.CreateAndroid>
+  <VREA.CreateAndroid>制造人形</VREA.CreateAndroid>
   <!--EN: Create android: already assembling an android-->
-  <VREA.CreateAndroidAlreadyAssembling>创建android：已经组装一个android</VREA.CreateAndroidAlreadyAssembling>
+  <VREA.CreateAndroidAlreadyAssembling>制造人形：已有人形在制造中</VREA.CreateAndroidAlreadyAssembling>
   <!--EN: Create a new android by selecting hardware and subroutines.-->
-  <VREA.CreateAndroidDesc>通过选择硬件和子例程创建一个新的 android。</VREA.CreateAndroidDesc>
+  <VREA.CreateAndroidDesc>用选定的硬件和子程序组合开始制造人形。</VREA.CreateAndroidDesc>
   <!--EN: Current energy level: {0}-->
-  <VREA.CurrentEnergyLevel>当前能量级别：{0}</VREA.CurrentEnergyLevel>
+  <VREA.CurrentEnergyLevel>当前能量等级：{0}</VREA.CurrentEnergyLevel>
   <!--EN: The total power efficiency of the selected components must be {MIN} or higher to continue, but currently it is only {AMOUNT}.-->
-  <VREA.EfficiencyTooLowToCreateAndroid>所选组件的总功率效率必须为 {MIN} 或更高才能继续，但目前仅为 {AMOUNT}。</VREA.EfficiencyTooLowToCreateAndroid>
+  <VREA.EfficiencyTooLowToCreateAndroid>所选部件的总能量率不能低于{MIN}，但目前只有{AMOUNT}。</VREA.EfficiencyTooLowToCreateAndroid>
   <!--EN: Free memory space-->
-  <VREA.FreeMemorySpace>可用内存空间</VREA.FreeMemorySpace>
+  <VREA.FreeMemorySpace>清理缓存</VREA.FreeMemorySpace>
   <!--EN: Hardware components-->
-  <VREA.HardwareComponents>硬件组件</VREA.HardwareComponents>
+  <VREA.HardwareComponents>硬件</VREA.HardwareComponents>
   <!--EN: Hardware are special components within the android that allow this particular unit to function. They normally cannot be removed, as they essentially are an android. In a rare situation when an android awakens, some hardware components might change or even be outright removed.-->
-  <VREA.HardwareComponentsDesc>硬件是 Android 中的特殊组件，允许该特定单元运行。它们通常无法被删除，因为它们本质上是一个机器人。在极少数情况下，当 Android 唤醒时，某些硬件组件可能会发生变化，甚至被彻底删除。</VREA.HardwareComponentsDesc>
+  <VREA.HardwareComponentsDesc>硬件是人形体内的特殊部件，可以运行某种特殊机能。硬件通常无法被移除，因为它们已成为了人形不可或缺的一部分。当人形觉醒后，某些硬件可能会被改变乃至移除。</VREA.HardwareComponentsDesc>
   <!--EN: Install {0}-->
   <VREA.Install>安装{0}</VREA.Install>
   <!--EN: Installed {0}-->
-  <VREA.Installed>已安装 {0}</VREA.Installed>
+  <VREA.Installed>已安装{0}</VREA.Installed>
   <!--EN: Installing {0}-->
-  <VREA.Installing>安装 {0}</VREA.Installing>
+  <VREA.Installing>安装中{0}</VREA.Installing>
   <!--EN: {PAWN_nameDef} is an android.-->
-  <VREA.IsAndroid>{PAWN_nameDef} 是一个机器人。</VREA.IsAndroid>
+  <VREA.IsAndroid>{PAWN_nameDef}是一个人形。</VREA.IsAndroid>
   <!--EN: Android with mechanoid labor: enhanced precept-->
-  <VREA.IsAndroidStat>Android 与机械人劳动：增强戒律</VREA.IsAndroidStat>
+  <VREA.IsAndroidStat>机械劳工：赋能戒律</VREA.IsAndroidStat>
   <!--EN: Laying.-->
-  <VREA.Laying>铺设。</VREA.Laying>
+  <VREA.Laying>躺平中。</VREA.Laying>
   <!--EN: Load androidtype-->
-  <VREA.LoadAndroidtype>加载android类型</VREA.LoadAndroidtype>
+  <VREA.LoadAndroidtype>载入人形模板</VREA.LoadAndroidtype>
   <!--EN: Make-->
   <VREA.Make>制作</VREA.Make>
   <!--EN: {1_labelShort} is incapable of doing Crafting work, and so cannot ever self-repair.-->
-  <VREA.MessageCannotSelfRepairEver>{1_labelShort} 无法进行制作工作，因此无法自我修复。</VREA.MessageCannotSelfRepairEver>
+  <VREA.MessageCannotSelfRepairEver>{1_labelShort}未被安排“制作”工作，因此无法自我修理。</VREA.MessageCannotSelfRepairEver>
   <!--EN: {0} lacks a prerequisite component-->
-  <VREA.MessageComponentMissingPrerequisite>{0} 缺少必备组件</VREA.MessageComponentMissingPrerequisite>
+  <VREA.MessageComponentMissingPrerequisite>{0}缺乏先决条件部件</VREA.MessageComponentMissingPrerequisite>
   <!--EN: Cannot save android with multiple conflicting components.-->
-  <VREA.MessageConflictingComponentPresent>无法保存具有多个冲突组件的 android。</VREA.MessageConflictingComponentPresent>
+  <VREA.MessageConflictingComponentPresent>无法保存具有多个冲突部件的人形。</VREA.MessageConflictingComponentPresent>
   <!--EN: To self-repair, {1_labelShort} must also be assigned to Crafting work.-->
-  <VREA.MessageSelfRepairUnsatisfied>要进行自我修复，还必须将 {1_labelShort} 分配给制作工作。</VREA.MessageSelfRepairUnsatisfied>
+  <VREA.MessageSelfRepairUnsatisfied>如果要进行自我修理，必须为{1_labelShort}安排“制作”工作。</VREA.MessageSelfRepairUnsatisfied>
   <!--EN: Subcore polyanalyzer completed for {PAWN_nameDef}. Scan progress: {1}-->
-  <VREA.MessageSubcorePolyanalyzerCompleted>已完成 {PAWN_nameDef} 的子核聚合分析仪。扫描进度：{1}</VREA.MessageSubcorePolyanalyzerCompleted>
+  <VREA.MessageSubcorePolyanalyzerCompleted>{PAWN_nameDef}的人格已分析完成。当前分析进度：{1}</VREA.MessageSubcorePolyanalyzerCompleted>
   <!--EN: Missing materials: {0}-->
   <VREA.MissingMaterials>缺少材料：{0}</VREA.MissingMaterials>
   <!--EN: Modification progress: {0}-->
-  <VREA.ModificationProgress>修改进度：{0}</VREA.ModificationProgress>
+  <VREA.ModificationProgress>调整进度：{0}</VREA.ModificationProgress>
   <!--EN: Modify android-->
-  <VREA.ModifyAndroid>修改安卓</VREA.ModifyAndroid>
+  <VREA.ModifyAndroid>调整人形</VREA.ModifyAndroid>
   <!--EN: Select an android to modify.-->
-  <VREA.ModifyAndroidDesc>选择要修改的android。</VREA.ModifyAndroidDesc>
+  <VREA.ModifyAndroidDesc>选择需要调整的人形。</VREA.ModifyAndroidDesc>
   <!--EN: More information is available on this android's information screen.-->
-  <VREA.MoreInfoInInfoScreen>更多信息可在此 Android 的信息屏幕上找到。</VREA.MoreInfoInInfoScreen>
+  <VREA.MoreInfoInInfoScreen>更多信息可在该人形模板的信息界面找到。</VREA.MoreInfoInInfoScreen>
   <!--EN: Neutroamine leaked out completely-->
-  <VREA.NeutroamineLeakedOutCompletely>中性胺完全泄漏</VREA.NeutroamineLeakedOutCompletely>
+  <VREA.NeutroamineLeakedOutCompletely>中性胺流失殆尽</VREA.NeutroamineLeakedOutCompletely>
   <!--EN: Neutroloss rate-->
-  <VREA.NeutrolossRate>中性丢失率</VREA.NeutrolossRate>
+  <VREA.NeutrolossRate>中性胺流失速率</VREA.NeutrolossRate>
   <!--EN: No androids present-->
-  <VREA.NoAndroidsPresent>没有机器人存在</VREA.NoAndroidsPresent>
+  <VREA.NoAndroidsPresent>没有人形</VREA.NoAndroidsPresent>
   <!--EN: no crafter-->
   <VREA.NoCrafter>没有工匠</VREA.NoCrafter>
   <!--EN: No reachable, un-reserved non-prisoner neutrocasket in safe temperature.-->
-  <VREA.NoNeutroCasket>没有可到达的、未预留的处于安全温度的非囚犯中性棺材。</VREA.NoNeutroCasket>
+  <VREA.NoNeutroCasket>可到达的范围内不存在安全温度下的闲置中性胺灌注舱。</VREA.NoNeutroCasket>
   <!--EN: not set to auto-repair-->
-  <VREA.NotSetToAutoRepair>未设置自动修复</VREA.NotSetToAutoRepair>
+  <VREA.NotSetToAutoRepair>自动修理已禁用</VREA.NotSetToAutoRepair>
   <!--EN: Android overheating-->
-  <VREA.Overheating>安卓过热</VREA.Overheating>
+  <VREA.Overheating>人形部件过热</VREA.Overheating>
   <!--EN: Power drain-->
-  <VREA.PowerDrain>功耗</VREA.PowerDrain>
+  <VREA.PowerDrain>能量消耗</VREA.PowerDrain>
   <!--EN: Power efficiency-->
-  <VREA.PowerEfficiency>电源效率</VREA.PowerEfficiency>
+  <VREA.PowerEfficiency>能量率</VREA.PowerEfficiency>
   <!--EN: The power efficiency of this component. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.-->
-  <VREA.PowerEfficiencyDesc>该组件的电源效率。高效率意味着机器人的反应堆可以持续更长的时间。效率低意味着反应堆的持续时间较短。</VREA.PowerEfficiencyDesc>
+  <VREA.PowerEfficiencyDesc>此部件的能量转换效率。高效率的人形可以让体内的反应堆使用得更久。低效率则反之。</VREA.PowerEfficiencyDesc>
   <!--EN: The total power efficiency of all subroutines and hardware. High efficiency means an android's reactor lasts a longer time. Low efficiency means the reactor will last less time.-->
-  <VREA.PowerEfficiencyTotalDesc>所有子程序和硬件的总能效。高效率意味着机器人的反应堆可以持续更长的时间。效率低意味着反应堆的持续时间较短。</VREA.PowerEfficiencyTotalDesc>
+  <VREA.PowerEfficiencyTotalDesc>当这些部件被组装后的总能量转换效率。高效率的人形可以让体内的反应堆使用得更久。低效率则反之。</VREA.PowerEfficiencyTotalDesc>
   <!--EN: Refuel with neutroamine-->
-  <VREA.RefuelWithNeutroamine>用中性胺补充能量</VREA.RefuelWithNeutroamine>
+  <VREA.RefuelWithNeutroamine>用中性胺装填</VREA.RefuelWithNeutroamine>
   <!--EN: refuses reprogramming-->
   <VREA.RefusesReprogramming>拒绝重新编程</VREA.RefusesReprogramming>
   <!--EN: Replace reactor-->
-  <VREA.ReplaceReactor>更换反应器</VREA.ReplaceReactor>
+  <VREA.ReplaceReactor>更换反应堆</VREA.ReplaceReactor>
   <!--EN: Resource cost-->
-  <VREA.ResourceCost>资源成本</VREA.ResourceCost>
+  <VREA.ResourceCost>资源消耗</VREA.ResourceCost>
   <!--EN: The resource cost to create this android. Androids require a persona subcore, which can be created in a subcore polyanalyzer.-->
-  <VREA.ResourceCostDesc>创建这个 android 的资源成本。 Android 需要角色子核心，可以在子核心聚合分析器中创建它。</VREA.ResourceCostDesc>
+  <VREA.ResourceCostDesc>制造这个人形所需的资源。人形需要次生核心（人格）来驱动，你可以用人格分析仪制作一个。</VREA.ResourceCostDesc>
   <!--EN: Save androidtype-->
-  <VREA.SaveAndroidtype>保存android类型</VREA.SaveAndroidtype>
+  <VREA.SaveAndroidtype>保存人形模板</VREA.SaveAndroidtype>
   <!--EN: Scan progress: {0}-->
-  <VREA.ScanProgress>扫描进度：{0}</VREA.ScanProgress>
+  <VREA.ScanProgress>分析进度：{0}</VREA.ScanProgress>
   <!--EN: Selected components-->
-  <VREA.SelectedComponents>选定的组件</VREA.SelectedComponents>
+  <VREA.SelectedComponents>已选择部件</VREA.SelectedComponents>
   <!--EN: Self-repair-->
-  <VREA.SelfRepair>自我修复</VREA.SelfRepair>
+  <VREA.SelfRepair>自我修理</VREA.SelfRepair>
   <!--EN: Androids with self-repair enabled will automatically repair themselves on the spot at {1} the normal efficiency.-->
-  <VREA.SelfRepairTip>启用自我修复的 Android 会以 {1} 正常效率当场自动修复。</VREA.SelfRepairTip>
+  <VREA.SelfRepairTip>人形启用自我修理后将会以正常效果的{1}当场自动修理自己。</VREA.SelfRepairTip>
   <!--EN: Sleep mode-->
-  <VREA.SleepMode>睡眠模式</VREA.SleepMode>
+  <VREA.SleepMode>休眠模式</VREA.SleepMode>
   <!--EN: Cancel Sleep mode-->
-  <VREA.SleepModeOff>取消睡眠模式</VREA.SleepModeOff>
+  <VREA.SleepModeOff>取消休眠模式</VREA.SleepModeOff>
   <!--EN: Wake this android up from the sleep mode.-->
-  <VREA.SleepModeOffDesc>将这个机器人从睡眠模式中唤醒。</VREA.SleepModeOffDesc>
+  <VREA.SleepModeOffDesc>将此人形从休眠模式中唤醒。</VREA.SleepModeOffDesc>
   <!--EN: Sleep mode-->
-  <VREA.SleepModeOn>睡眠模式</VREA.SleepModeOn>
+  <VREA.SleepModeOn>休眠模式</VREA.SleepModeOn>
   <!--EN: Put this android in sleep mode. Reactor and memory will not be drained, but the android will be unable to respond to anything. Can be turned off at will.-->
-  <VREA.SleepModeOnDesc>让这个机器人进入睡眠模式。 Reactor和内存不会被耗尽，但android将无法响应任何事情。可以随意关闭。</VREA.SleepModeOnDesc>
+  <VREA.SleepModeOnDesc>命令此人形进入休眠模式。在此模式下，人形不仅会完全停止运行，也不需要消耗反应堆能量。直至被再次唤醒前，他们都会像家具雕塑一样原地待命。</VREA.SleepModeOnDesc>
   <!--EN: An android of the {0} type.\n\nAbout {0}s:-->
-  <VREA.StatsReport_AndroidDescription>{0}类型的机器人。
-
-关于{0}：</VREA.StatsReport_AndroidDescription>
+  <VREA.StatsReport_AndroidDescription>{0}模板的人形。\n\n关于{0}：</VREA.StatsReport_AndroidDescription>
   <!--EN: Subcore polyanalyzer not initiated-->
-  <VREA.SubcorePolyanalyzerNotInit>子核聚合分析仪未启动</VREA.SubcorePolyanalyzerNotInit>
+  <VREA.SubcorePolyanalyzerNotInit>分析仪未初始化</VREA.SubcorePolyanalyzerNotInit>
   <!--EN: Start subcore polyanalyzer-->
-  <VREA.SubcorePolyanalyzerStart>启动子核聚合分析仪</VREA.SubcorePolyanalyzerStart>
+  <VREA.SubcorePolyanalyzerStart>开始分析</VREA.SubcorePolyanalyzerStart>
   <!--EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the subcore polyanalyzer.-->
-  <VREA.SubcorePolyanalyzerStartDesc>一旦{0}充满了所需的成分{1}，选择一个殖民者并右键单击{0}或倒下的人以启动子核心聚合分析仪。</VREA.SubcorePolyanalyzerStartDesc>
+  <VREA.SubcorePolyanalyzerStartDesc>一旦{0}填满了所需的物资，{1}，选择一个殖民者，右键点击{0}或倒下的人来开始分析。</VREA.SubcorePolyanalyzerStartDesc>
   <!--EN: Subroutines-->
   <VREA.Subroutines>子程序</VREA.Subroutines>
   <!--EN: Subroutine components dictate how the android will behave and what knowledge it has. They can be changed via behaviorist station.-->
-  <VREA.SubroutinesDesc>子例程组件决定了 android 的行为方式以及它拥有哪些知识。它们可以通过行为主义站进行更改。</VREA.SubroutinesDesc>
+  <VREA.SubroutinesDesc>子程序决定了人形如何行动和技能等级。可以使用人形行为控制台来调整子程序。</VREA.SubroutinesDesc>
   <!--EN: Too low efficiency, mininum is -20.-->
-  <VREA.TooLowEfficiency>效率太低，最小值为-20。</VREA.TooLowEfficiency>
+  <VREA.TooLowEfficiency>效率过低，不得低于-20.</VREA.TooLowEfficiency>
   <!--EN: Total neutro loss in {0}-->
-  <VREA.TotalNeutroLoss>{0} 中的中性粒细胞损失总量</VREA.TotalNeutroLoss>
+  <VREA.TotalNeutroLoss>{0}后流失殆尽</VREA.TotalNeutroLoss>
   <!--EN: Trigger self-destruct-->
-  <VREA.TriggerSelfDestruct>触发自毁</VREA.TriggerSelfDestruct>
+  <VREA.TriggerSelfDestruct>激活自爆</VREA.TriggerSelfDestruct>
   <!--EN: Initiate a self-destruct protocol, which drains the remaining reactor power at an extreme rate, triggering an explosion when it’s done.-->
-  <VREA.TriggerSelfDestructDesc>启动自毁协议，以极高的速度耗尽剩余的反应堆能量，完成后引发爆炸。</VREA.TriggerSelfDestructDesc>
+  <VREA.TriggerSelfDestructDesc>激活人形的自爆协议。人形会立即超载体内的反应堆，迅速耗尽所剩能量并引发大爆炸。</VREA.TriggerSelfDestructDesc>
   <!--EN: A unique android variant with a set of hardware and subroutines that do not fall into any known androidtype.-->
-  <VREA.UniqueAndroidDesc>一个独特的 android 变体，具有一组不属于任何已知 android 类型的硬件和子例程。</VREA.UniqueAndroidDesc>
+  <VREA.UniqueAndroidDesc>一个独特的人形设计，有一套不属于任何已知人形模板的硬件与子程序组合。</VREA.UniqueAndroidDesc>
   <!--EN: Lay until repaired-->
-  <VREA.UseBedAndroid>放置直至修复</VREA.UseBedAndroid>
+  <VREA.UseBedAndroid>等待修理</VREA.UseBedAndroid>
   <!--EN: View components-->
-  <VREA.ViewComponents>查看组件</VREA.ViewComponents>
+  <VREA.ViewComponents>查看部件</VREA.ViewComponents>
   <!--EN: Click to view {PAWN_nameDef}'s components.-->
-  <VREA.ViewComponentsDesc>单击可查看 {PAWN_nameDef} 的组件。</VREA.ViewComponentsDesc>
+  <VREA.ViewComponentsDesc>点击查看{PAWN_nameDef}的部件。</VREA.ViewComponentsDesc>
   <!--EN: Extract 20 neutroamine-->
-  <VREA_ExtractNeutroamine>提取20中性胺</VREA_ExtractNeutroamine>
+  <VREA_ExtractNeutroamine>取出20份中性胺</VREA_ExtractNeutroamine>
   <!--EN: Extract 20 neutroamine from the tank. A pawn will come to extract it.-->
-  <VREA_ExtractNeutroamineDesc>从罐中提取 20 中性胺。 pawn 将会来提取它。</VREA_ExtractNeutroamineDesc>
+  <VREA_ExtractNeutroamineDesc>从贮存罐中取出20份中性胺。空闲的殖民者将会前来执行此命令。</VREA_ExtractNeutroamineDesc>
 </LanguageData>

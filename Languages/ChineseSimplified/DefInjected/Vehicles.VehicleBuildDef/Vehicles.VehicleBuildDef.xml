@@ -1,220 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A basic passenger transport, the Bangbus is a relatively cheap piece of machinery to construct to transport people across roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, as the light plates of armour that protect the passengers similarly negatively affects its acceleration.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_BangBus_Blueprint.description>Bangbus 是一种基本的客运交通工具，是一种相对便宜的机械，用于在平坦地形的道路上运送人员。不建议在冬季或雪地或两者兼而有之的情况下使用，因为保护乘客的轻型装甲板同样会对其加速度产生负面影响。
-
-与其他 1 级车辆类似，这是一种耗油量大的车辆，最适合中距离使用。
-
-&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x5
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_BangBus_Blueprint.description>
+  <VVE_BangBus_Blueprint.description>T1载具。如果你不介意和一堆人挤在一起度过漫长的旅行时光的话，这堆破铜烂铁勉强能算是个合格的运兵车。引擎点火时会发出非常扰民的噪音，因而得名。它在冬季和野外几乎挪不开步子。虽然没有多少货运空间，但它的乘员容量却不少，也是个性价比不错的载具。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x5\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_BangBus_Blueprint.description>
   <!--EN: Bang Bus-->
-  <VVE_BangBus_Blueprint.label>邦巴士</VVE_BangBus_Blueprint.label>
+  <VVE_BangBus_Blueprint.label>小喇巴</VVE_BangBus_Blueprint.label>
   <!--EN: A general main battle tank, the Bulldog is an improved combat vehicle that performs well in any engagement. Performs better in less favourable terrain with all sides armoured, the thinnest plating being at the rear near the engine.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, which is still an improvement over the tier 1 tank.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Bulldog_Blueprint.description>斗牛犬是一种通用主战坦克，是一种改进的战车，在任何交战中都表现良好。在不利地形中表现更好，所有侧面都有装甲，最薄的镀层位于靠近发动机的后部。
-
-与其他 2 级车辆不同，这具有正常的燃油效率并且非常明显，这仍然比 1 级车辆有所改进坦克。
-
-&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员x1，炮手x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Bulldog_Blueprint.description>
+  <VVE_Bulldog_Blueprint.description>T2载具。一种通用主战坦克，可以适应各种情形的战斗。能在崎岖地形有效作战，而且所有方向都有装甲防护。后部装甲仍然是弱点所在。\n\n和大多数T2载具不一样，该载具的燃料效能依旧在标准水平，而且可见度高，但仍然比T1坦克强上许多。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Bulldog_Blueprint.description>
   <!--EN: Bulldog-->
-  <VVE_Bulldog_Blueprint.label>斗牛犬</VVE_Bulldog_Blueprint.label>
+  <VVE_Bulldog_Blueprint.label>恶犬坦克</VVE_Bulldog_Blueprint.label>
   <!--EN: A basic light tank, the Bunsen is a modified armoured vehicle suited for taking on enemy fortifications and exposed infantry. Special light plating to prevent self-immolation, combined with its main weapon drawing directly from its enlarged fuel tanks, leave it a very precarious model to field.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Bunsen_Blueprint.description>本生车是一款基本的轻型坦克，是一种改装的装甲车，适合对抗敌方防御工事和暴露步兵。防止自焚的特殊轻型镀层，加上其主武器直接从扩大的油箱中取出，使其成为战场上非常不稳定的模型。
-
-与其他 1 级车辆类似，这是一辆耗油量大的车辆，最适合中距离使用，但它在世界上的燃油效率也较低地图。
-
-&lt;color=#bb8f04&gt;人员：&lt;/color&gt;驾驶员x1，炮手x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Bunsen_Blueprint.description>
+  <VVE_Bunsen_Blueprint.description>T1载具。一种专为攻坚与反步兵作战设计的基础轻型坦克。由于它的主炮直接连接着燃料罐，且装甲也为了防止自然使用了特殊的轻薄材料，驾驶该载具十分危险。\n\n它和大多数T1载具一样是个油老虎，因而只适合中距离旅行，而且它在世界地图上的燃料效能较低。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Bunsen_Blueprint.description>
   <!--EN: Bunsen-->
-  <VVE_Bunsen_Blueprint.label>本生</VVE_Bunsen_Blueprint.label>
+  <VVE_Bunsen_Blueprint.label>灯芯坦克</VVE_Bunsen_Blueprint.label>
   <!--EN: A general motorcycle, the Charley is a very effective single-person vehicle with a small cargo capacity. Performs well on any road except during winter season or snowy terrain, or both, with an increased speed on the world map.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Charley_Blueprint.description>查理是一款通用摩托车，是一种非常有效的单人车辆，载货量较小。在除冬季或雪地或两者兼而有之的任何道路上都表现良好，并且在世界地图上的速度有所提高。
-
-与其他 2 级车辆类似，这在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆更高效。由于制造工艺的改进，它们也不太明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Charley_Blueprint.description>
+  <VVE_Charley_Blueprint.description>T2载具。这种通用摩托车是优秀的单人载具，同时还有少量载货空间。在雪地和冬季以外的任何环境都表现优异，在世界地图上的速度也有加成。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。而且改进后的工艺让它更加难被发现。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Charley_Blueprint.description>
   <!--EN: Charley-->
-  <VVE_Charley_Blueprint.label>查理</VVE_Charley_Blueprint.label>
+  <VVE_Charley_Blueprint.label>巡航摩托</VVE_Charley_Blueprint.label>
   <!--EN: A very basic motorised boat, the Dingy is an incredibly cheap and discrete method of transportation over water. Has a good cargo capacity, however it is likely to get frozen solid in the winter times and moves slowly on rivers. The exposed rear-mounted engine is vulnerable to attacks and the hull plating should not be expected to wither projectile weapons.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Dinghy_Blueprint.description>Dingy 是一艘非常基本的机动船，是一种极其便宜且离散的水上运输方式。具有良好的货运能力，但在冬季可能会结冰，并且在河流中移动缓慢。 暴露 后置发动机很容易受到攻击，并且船体电镀不会使射弹武器失效。
-
-与其他 1 级车辆类似，这是一种耗油量大的车辆，最适合用于中型车辆距离。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x5
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Dinghy_Blueprint.description>
+  <VVE_Dinghy_Blueprint.description>T1载具。非常简单的动力小艇，让你能在水面快速移动。有着不错的载货量，但在冬季可能会在河面上寸步难行。尾部的外置引擎非常容易在战斗中受损，它的船体也没有防弹能力。\n\n它和大多数T1载具一样是个油老虎。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x5\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Dinghy_Blueprint.description>
   <!--EN: Dinghy-->
-  <VVE_Dinghy_Blueprint.label>小艇</VVE_Dinghy_Blueprint.label>
+  <VVE_Dinghy_Blueprint.label>摩托艇</VVE_Dinghy_Blueprint.label>
   <!--EN: A basic off-road motorcycle, the Dirtbike is a very cheap vehicle that allows a single user to travel quickly, efficiently and quietly. Incredibly light and practically paper-thin on armour, it performs poorly in the winter or in the snow, or both, and has absolutely no cargo capacity.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Dirtbike_Blueprint.description>Dirtbike 是一款基本的越野摩托车，是一种非常便宜的车辆，可以让单个用户快速、高效、安静地行驶。极其轻且装甲薄如纸，它在冬季或雪天或两者兼而有之时表现不佳，并且完全没有载货能力。
-
-与其他 1 级车辆类似，这是一款耗油量大的车辆，最适合中型车辆
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt; 驾驶员 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Dirtbike_Blueprint.description>
+  <VVE_Dirtbike_Blueprint.description>T1载具。一台轻到可以让人拎走的小型载具。越野摩托可以让单人低调顺滑地开到目的地。只要不是冰天雪地，它能在任何地形中穿行。但不要指望它能帮你运货或是长途旅行了。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Dirtbike_Blueprint.description>
   <!--EN: Dirtbike-->
-  <VVE_Dirtbike_Blueprint.label>越野车</VVE_Dirtbike_Blueprint.label>
+  <VVE_Dirtbike_Blueprint.label>越野摩托</VVE_Dirtbike_Blueprint.label>
   <!--EN: A basic reusable transport pod, the Frog is a relatively cheap vehicle that is the first option when it comes to flying without crashing into the ground. Several times faster than conventional transport pods with acceptable armour for its single passenger, making it an ideal ambush vehicle.\n\nEven worse than other tier 1 vehicles, fuel efficiency isn’t a thing with this transportation. Care must be taken to either refuel at the landing site or travel with enough spare fuel to make the trip back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Frog_Blueprint.description>青蛙是一种基本的可重复使用的运输吊舱，是一种相对便宜的交通工具，是在不坠地的情况下飞行的首选。比传统运输吊舱快几倍，并具有适合单名乘客的装甲，使其成为理想的伏击车辆。
-
-甚至比其他 1 级车辆更糟糕，燃油效率不是这种运输的问题。必须注意在着陆点加油或携带足够的备用燃料返回。
-
-作为飞行器，在移动时这一点非常明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Frog_Blueprint.description>
+  <VVE_Frog_Blueprint.description>T1载具。它与寻常的运输舱类似，但在着陆时不会把自己砸个稀烂。它的外壳上安装了大量反推引擎，可以在着陆后再次自行起飞。它的耗油量高到惊人，但它的移速是运输舱的5倍，是偷袭绝佳之选。它在发射时能用力大砖飞的推进器一口气把自己喷上平流层，因而得名。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;操作员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Frog_Blueprint.description>
   <!--EN: Frog-->
-  <VVE_Frog_Blueprint.label>青蛙</VVE_Frog_Blueprint.label>
+  <VVE_Frog_Blueprint.label>蛙式运输舱</VVE_Frog_Blueprint.label>
   <!--EN: A basic infantry fighting vehicle, the Highwayman is the cheapest weaponized option for transporting three people. Hardened against small-arms fire but very vulnerable at the rear, intended to provide mobile fire support for infantry and travel quickly along paved roads.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances, however it’s also less fuel efficient on the world map.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Highwayman_Blueprint.description>Highwayman 是一款基本的步兵战斗车辆，是运送三人的最便宜的武器化选择。能够抵御轻武器火力，但后部非常脆弱，旨在为步兵提供机动火力支援并沿着铺好的道路快速行驶。
-
-与其他 1 级车辆类似，这是一款耗油量大的车辆，最适合中距离行驶，但在全球范围内，它的燃油效率也较低地图。
-
-&lt;color=#bb8f04&gt;人员：&lt;/color&gt;驾驶员x1，炮手x1，乘客x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Highwayman_Blueprint.description>
+  <VVE_Highwayman_Blueprint.description>T1载具。基础的廉价步兵战车，配有武器并能搭载3名乘客。机体能有效防御轻武器，但后部装甲薄弱。可以为步兵提供机动火力支援并在公路上快速移动。\n\n它和大多数T1载具一样是个油老虎，因而只适合中距离旅行，而且它在世界地图上的燃料效能较低。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1，乘客 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Highwayman_Blueprint.description>
   <!--EN: Highwayman-->
-  <VVE_Highwayman_Blueprint.label>拦路强盗</VVE_Highwayman_Blueprint.label>
+  <VVE_Highwayman_Blueprint.label>拦路虎装甲车</VVE_Highwayman_Blueprint.label>
   <!--EN: A general-purpose aircraft, the Mosquito is an extremely fast and mobile mode of transportation. While it doesn’t require a landing strip, it is slower than aeroplanes and has less cargo capacity.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Mosquito_Blueprint.description>Mosquito 是一种通用飞机，是一种速度极快、机动性极强的运输方式。虽然不需要跑道，但速度比飞机慢且载货量较少。
-
-与其他 2 级车辆类似，在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆效率更高。
-
-作为飞行器，在飞行时这一点极其明显移动。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;飞行员x1，乘客x3
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Mosquito_Blueprint.description>
+  <VVE_Mosquito_Blueprint.description>T2载具。飞蚊直升机是一架灵活的多功能飞行载具。它不需要跑道起降，但在速度和容量上均不如固定翼飞机。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。\n\n飞行载具十分惹人注目。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;飞行员 x1，乘客 x3\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Mosquito_Blueprint.description>
   <!--EN: Mosquito-->
-  <VVE_Mosquito_Blueprint.label>蚊子</VVE_Mosquito_Blueprint.label>
+  <VVE_Mosquito_Blueprint.label>飞蚊直升机</VVE_Mosquito_Blueprint.label>
   <!--EN: A basic cargo transport, the Mule is a relatively cheap vehicle that can carry a large amount of cargo across smooth roads of flat terrain. Not recommended to use in the winter season or in snowy terrain, or both, and it is very lightly armoured to save weight.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Unlike other tier 1 vehicles, this one performs better on the world map by being slightly faster and more fuel efficient.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Mule_Blueprint.description>骡子是一种基本的货物运输工具，是一种相对便宜的车辆，可以在平坦地形的光滑道路上运载大量货物。不建议在冬季或雪地或两者兼而有之的情况下使用，并且它的装甲非常轻以减轻重量。
-
-与其他 1 级车辆类似，这是一种耗油量大的车辆，最适合中距离使用。与其他 1 级车辆不同，该车辆在世界地图上表现更好，速度稍快，燃油效率更高。
-
-&lt;color=#bb8f04&gt;乘员组：&lt;/color&gt;驾驶员 x1，乘客 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Mule_Blueprint.description>
+  <VVE_Mule_Blueprint.description>T1载具。虽然看上去就是个老爷车被斩下的首级插在了几块木板钉成的货箱前面，但货驴车如其名，不仅厚重耐操，巨大的载货量也让人时时刻刻担心它有没有超载。它的重型引擎在跑长途时表现优异，但在寒冷或崎岖的环境下还是别对它的性能太有期待。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Mule_Blueprint.description>
   <!--EN: Mule-->
-  <VVE_Mule_Blueprint.label>骡子</VVE_Mule_Blueprint.label>
+  <VVE_Mule_Blueprint.label>货驴卡车</VVE_Mule_Blueprint.label>
   <!--EN: A basic off-road exploration vehicle, the Prowler is relatively cheap to construct and is an effective all-weather option for efficient travel over steep terrain. Very lightly armoured with a vulnerable rear-mounted engine, it’s best to keep this single-user automobile away from combat.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Prowler_Blueprint.description>Prowler 是一款基本的越野探索车辆，其制造成本相对较低，是在陡峭地形上高效行驶的有效全天候选择。装甲非常轻，后置发动机很脆弱，最好让这款单用户汽车远离战斗。
-
-与其他 1 级车辆类似，这是一辆耗油量大的车辆，最适合中距离使用。
-
-&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Prowler_Blueprint.description>
+  <VVE_Prowler_Blueprint.description>T1载具。精简至极的越野载具，可以在远离大路的地方灵活穿梭。它在陡峭地形的性能出人意料得好，但辗转腾挪时的动静也不小。尽管设计粗糙，它依旧有着可堪一用的载货量和燃料效能。它的速度谈不上多快，但在探索远离文明的荒野时会是你可靠的伙伴。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Prowler_Blueprint.description>
   <!--EN: Prowler-->
-  <VVE_Prowler_Blueprint.label>徘徊者</VVE_Prowler_Blueprint.label>
+  <VVE_Prowler_Blueprint.label>漫步车</VVE_Prowler_Blueprint.label>
   <!--EN: A basic medium tank, the Roadkill is a comparatively cheap armoured vehicle suited for short engagements. Very respectfully armoured from frontal attacks, however side attacks can disable movement and the exposed rear-mounted engine makes it vulnerable to flanking.\n\nWhile other tier 1 vehicles are gas guzzlers, this one burns through fuel at an alarming rate and is extremely slow to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Roadkill_Blueprint.description>Roadkill 是一款基本的中型坦克，是一种相对便宜的装甲车，适合短时间交战。正面攻击时装甲非常严密，但侧面攻击可能会使其无法移动，而且暴露后置发动机使其很容易受到侧翼攻击。
-
-虽然其他 1 级车辆都是耗油量大的车辆，但这款车辆的燃油消耗速度惊人，而且速度极慢。修理。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt; 驾驶员 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Roadkill_Blueprint.description>
+  <VVE_Roadkill_Blueprint.description>T1载具。路霸坦克是个结构简单的战争机器。噪音巨大，后部装甲薄弱，而且耗油量离谱，只能用于近距离交战。打也打不准，开也开不快，修起来也让人骂娘，建议在前线就地组装一个，打完后就顺手把它丢了吧。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Roadkill_Blueprint.description>
   <!--EN: Roadkill-->
-  <VVE_Roadkill_Blueprint.label>道路杀手</VVE_Roadkill_Blueprint.label>
+  <VVE_Roadkill_Blueprint.label>路霸坦克</VVE_Roadkill_Blueprint.label>
   <!--EN: A general cargo transporter, the Roadrunner is an excellent vehicle for getting a lot of material from one location to another. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Roadrunner_Blueprint.description>作为一种普通货物运输车，Roadrunner 是一种出色的车辆，可以将大量材料从一个地点运送到另一个地点。最适合在平坦的道路上行驶，在山地、雪地或冬季瓷砖上会有些困难。
-
-与其他 2 级车辆类似，这在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆更高效。由于制造工艺的改进，它们也不太明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Roadrunner_Blueprint.description>
+  <VVE_Roadrunner_Blueprint.description>T2载具。通用载货车辆，可以一次性将大量货物运送到别处。适合在道路上行驶，在丘陵，雪地和冬季地形下略有不足。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Roadrunner_Blueprint.description>
   <!--EN: Roadrunner-->
-  <VVE_Roadrunner_Blueprint.label>走鹃</VVE_Roadrunner_Blueprint.label>
+  <VVE_Roadrunner_Blueprint.label>跑腿卡车</VVE_Roadrunner_Blueprint.label>
   <!--EN: A juryrigged multiple rocket launcher system, the Scytheman is a repurposed farming vehicle intended to saturate a location with inaccurate volleys of explosives. Due to the design, it is not intended to fire successive volleys or be exposed to enemy fire.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. Performs worse in the winter but slightly better on the flat, open road.\n\n<color=#bb8f04>Crew:</color> Driver x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Scytheman_Blueprint.description>Scytheman 是一种临时配备的多管火箭发射器系统，是一种经过改造的农用车辆，旨在用不准确的炸药齐射来覆盖某个地点。由于设计原因，它的设计目的不是连续射击或 暴露 受到敌人火力的攻击。
-
-与其他 1 级车辆类似，这是一种耗油量大的车辆，最适合中距离使用。冬季表现较差，但在平坦、开阔的道路上表现稍好。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Scytheman_Blueprint.description>
+  <VVE_Scytheman_Blueprint.description>镰刀是用农用机械拼凑改装出来的多管式火箭炮，用于在一大片区域内泼洒准度较低的火箭弹。由于设计使然，它在一轮连射后就不再能提供持续火力支援，而且本身不具备任何防护。\n\n它和大多数T1载具一样是个油老虎，因而只适合中距离旅行，而且它在世界地图上的燃料效能较低。在平地上行驶顺畅，但不适应雪地。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Scytheman_Blueprint.description>
   <!--EN: Scytheman-->
-  <VVE_Scytheman_Blueprint.label>镰刀人</VVE_Scytheman_Blueprint.label>
+  <VVE_Scytheman_Blueprint.label>镰刀火箭炮</VVE_Scytheman_Blueprint.label>
   <!--EN: A general-purpose aircraft, the Smuggler is an extremely fast and effective mode of transportation. While it is faster and can carry more cargo than helicopters, it requires a landing strip to both take off and land.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Smuggler_Blueprint.description>走私者是一种通用飞机，是一种极其快速且有效的运输方式。虽然它比直升机速度更快并且可以运载更多货物，但它需要一个跑道才能起飞和降落。
-
-与其他 2 级车辆不同，它在世界地图上具有常规燃油效率，但移动速度明显更快。
-
-作为飞行器，在飞行时这一点极其明显移动。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;飞行员x1，乘客x3
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Smuggler_Blueprint.description>
+  <VVE_Smuggler_Blueprint.description>T2载具。泛用型固定翼飞机，是非常高效迅捷的运输工具。它的载货量和速度都比直升机要多，代价就是需要跑道才能起降。\n\n和大多数T2载具不一样，该载具的燃料效能依旧在标准水平，但换来了拔群的速度。\n\n飞行载具十分惹人注目。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;飞行员 x1，乘客 x3\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Smuggler_Blueprint.description>
   <!--EN: Smuggler-->
-  <VVE_Smuggler_Blueprint.label>走私者</VVE_Smuggler_Blueprint.label>
+  <VVE_Smuggler_Blueprint.label>贩夫运输机</VVE_Smuggler_Blueprint.label>
   <!--EN: A general passenger transport, the Snatcher is a solid vehicle for transporting people to different locations. Best suited on flat roads and will seriously struggle in snow or on hills.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x5\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Snatcher_Blueprint.description>作为一种通用客运交通工具，Snatcher 是一种用于将人员运送到不同地点的坚固车辆。最适合在平坦的道路上行驶，在雪地或山坡上会非常困难。
-
-与其他 2 级车辆类似，这在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆更高效。由于制造工艺的改进，它们也不太明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x5
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Snatcher_Blueprint.description>
+  <VVE_Snatcher_Blueprint.description>T2载具。通用人员运输车，能可靠地在据点之间转移人员。适合在道路上行驶，在丘陵，雪地和冬季地形下难以行动。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。而且改进后的工艺让它更加难被发现。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x5\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Snatcher_Blueprint.description>
   <!--EN: Snatcher-->
-  <VVE_Snatcher_Blueprint.label>抢夺者</VVE_Snatcher_Blueprint.label>
+  <VVE_Snatcher_Blueprint.label>掠袭运输车</VVE_Snatcher_Blueprint.label>
   <!--EN: A general purpose armoured personnel carrier, the Tango is a slow but hardy troop transport. Ample cargo holds, hardened armour, all-terrain capability and a turret that can fire either mobile or stationary, the main downside is fuel consumption and slightly thinner plating on the rear.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency and is quite visible, its high fuel consumption rate putting a limit on the effective range.\n\n<color=#bb8f04>Crew:</color> Driver x1, Gunner x1, Passenger x4\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Tango_Blueprint.description>探戈是一种通用装甲运兵车，是一种缓慢但坚固的部队运输工具。充足的货舱、坚固的装甲、全地形能力以及可移动或固定射击的炮塔，主要缺点是油耗和后部镀层略薄。
-
-与其他2级车辆不同，它的燃油效率正常，非常明显，其较高的燃油消耗率限制了有效射程。
-
-&lt;color=#bb8f04&gt;人员：&lt;/color&gt;驾驶员x1，炮手x1，乘客x4
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Tango_Blueprint.description>
+  <VVE_Tango_Blueprint.description>T2载具。多功能装甲运兵车，虽然速度缓慢但防护性很好。有着够用的载货量，优秀的装甲，全地形作战能力和一座能移动开火的炮塔。缺点在于燃料效能较低，而且后部装甲薄弱。\n\n和大多数T2载具不一样，该载具的燃料效能依旧在标准水平，而且可见度高。它的耗油量也限制了其作战半径。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，炮手 x1，乘客 x4\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Tango_Blueprint.description>
   <!--EN: Tango-->
-  <VVE_Tango_Blueprint.label>探戈</VVE_Tango_Blueprint.label>
+  <VVE_Tango_Blueprint.label>悍匪装甲车</VVE_Tango_Blueprint.label>
   <!--EN: A squad and mortar deployment pod, the Toad is a somewhat expensive vehicle to quickly mount a siege on a nearby locale without exposing your gunners to danger. With more armour than a tank and a design made to be deployed from orbit, it makes for a semi-disposable assault vehicle.\n\nFuel efficiency is not the design of this vehicle, consider only deploying on short distances with enough fuel to make it back.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Operator x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Toad_Blueprint.description>蟾蜍是一种小队和迫击炮部署吊舱，是一种有点昂贵的车辆，可以快速对附近的地点进行围攻，而不会让你的炮手面临危险。它的装甲比坦克还要多，并且采用了从轨道上部署的设计，因此成为半一次性攻击车辆。
-
-燃油效率不是该车辆的设计，仅考虑短距离部署并有足够的燃料使其返回。
-
-作为飞行器，在飞行时这一点极其明显移动。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;操作员 x1，乘客 x3
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Toad_Blueprint.description>
+  <VVE_Toad_Blueprint.description>蟾式运输舱是一种可以快速部署部队和迫击炮的运输工具，这种成本略高的特种运输仓可以让你安全地把曲射火力送到战地边上。它装甲比坦克还要厚重，是专为亚轨道空降设计的半消耗品。\n\n不要太在意它的燃料效率，确保只将它用于离家不远的战斗任务，然后留有足够的燃料飞一个来回就行了。\n\n飞行载具十分惹人注目。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;操作员 x1，乘客 x3\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Toad_Blueprint.description>
   <!--EN: Toad-->
-  <VVE_Toad_Blueprint.label>蟾蜍</VVE_Toad_Blueprint.label>
+  <VVE_Toad_Blueprint.label>蟾式运输舱</VVE_Toad_Blueprint.label>
   <!--EN: A basic road vehicle suited for flat terrain, the Traveller is a relatively cheap and fast option that still performs quite amicably in cold weather and snowy conditions. The light armour and exposed front-mounted engine leans to its cadence of running away from trouble rather than towards it.\n\nSimilar to other tier 1 vehicles, this is a gas guzzler and best used for medium distances. The extra speed and acceleration make it even less fuel-efficient as well as more time-consuming to repair.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Traveller_Blueprint.description>Traveler 是一款适合平坦地形的基本公路车辆，是一种相对便宜且快速的选择，在寒冷天气和下雪条件下仍然表现得相当友好。轻装甲和暴露前置发动机倾向于逃避麻烦而不是奔向麻烦。
-
-与其他1级车辆类似，这是一个耗油量大的车辆，最适合中距离使用。额外的速度和加速度使其燃油效率更低，维修也更耗时。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Traveller_Blueprint.description>
+  <VVE_Traveller_Blueprint.description>T2载具。旅行车这种廉价载具能够将人快速送到目的地，因而深受飙车党的喜爱。虽说仍有一定的越野能力，鉴于它不少的耗油量，还是建议在大路上行驶。它有着不错的载货量但只能坐下两个人，适合在聚落之间旅行使用。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Traveller_Blueprint.description>
   <!--EN: Traveller-->
-  <VVE_Traveller_Blueprint.label>游客</VVE_Traveller_Blueprint.label>
+  <VVE_Traveller_Blueprint.label>旅行车</VVE_Traveller_Blueprint.label>
   <!--EN: A general-purpose boat, the Trawler is an effective long distance transportation across open waters. Performs rather poorly on rivers and has to travel slowly during the winter season.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Trawler_Blueprint.description>拖网渔船是一种通用船，是穿越开放水域的有效长距离运输工具。在河流上的表现相当差，并且在冬季必须缓慢行驶。
-
-与其他 2 级车辆类似，这在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆更高效。由于制造工艺的改进，它们也不太明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Trawler_Blueprint.description>
+  <VVE_Trawler_Blueprint.description>T2载具。一艘多功能水面载具。巡游艇可以在开放水域上长途旅行，但在内河以及寒冷环境下略显无力。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。而且改进后的工艺让它更加难被发现。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Trawler_Blueprint.description>
   <!--EN: Trawler-->
-  <VVE_Trawler_Blueprint.label>拖网渔船</VVE_Trawler_Blueprint.label>
+  <VVE_Trawler_Blueprint.label>巡游艇</VVE_Trawler_Blueprint.label>
   <!--EN: A general all-rounder vehicle, the Wagon performs well in all categories with a good cargo and passenger capacity. Best suited on flat roads and will struggle somewhat on hills, snow or winter tiles.\n\nSimilar to other tier 2 vehicles, this has double fuel efficiency on the world map which makes them more efficient than tier 1 vehicles. They are also less visible due to improved manufacturing.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x3\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Wagon_Blueprint.description>作为一款通用型全能型车辆，Wagon 在所有类别中均表现出色，具有良好的货运和客运能力。最适合在平坦的道路上行驶，在山地、雪地或冬季瓷砖上会有些困难。
-
-与其他 2 级车辆类似，这在世界地图上具有双倍的燃油效率，这使得它们比 1 级车辆更高效。由于制造工艺的改进，它们也不太明显。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;驾驶员 x1，乘客 x3
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; Chemfuel</VVE_Wagon_Blueprint.description>
+  <VVE_Wagon_Blueprint.description>T2载具。泛用型的多功能车辆，有着足够的载货和载人空间。适合在道路上行驶，在丘陵，雪地和冬季地形下略有不足。\n\n它和其它T2载具一样，在世界地图上有着T1载具双倍的燃料效能。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x3\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Wagon_Blueprint.description>
   <!--EN: Wagon-->
-  <VVE_Wagon_Blueprint.label>车皮</VVE_Wagon_Blueprint.label>
+  <VVE_Wagon_Blueprint.label>轿车</VVE_Wagon_Blueprint.label>
   <!--EN: A general-purpose fighter plane, the Warbird is an incredibly fast and effective attack craft. With minimal cargo intended for holding maintenance equipment and fuel, its primary purpose is to engage other aircraft and initiate strafing manoeuvres.\n\nDifferent to other tier 2 vehicles, this has regular fuel efficiency on the world map but moves significantly faster in return.\n\nBeing a flying vehicle, it is extremely obvious when on the move.\n\n<color=#bb8f04>Crew:</color> Pilot x1\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Warbird_Blueprint.description>战鸟是一种通用战斗机，是一种速度极快且有效的攻击机。它的主要目的是与其他飞机交战并发起扫射演习。
-
-与其他 2 级车辆不同，它在世界地图上具有正常的燃油效率，但反过来移动速度明显更快。
-
-作为飞行器，在地面上时这一点极其明显移动。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt;飞行员 x1
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt;化学燃料</VVE_Warbird_Blueprint.description>
+  <VVE_Warbird_Blueprint.description>T2载具。多功能活塞引擎战斗机，是非常迅捷有效的战争机器。它的小型货舱堪堪够装下燃料和维护用品，它的主要目的在于攻击其它飞机或扫射地面目标。\n\n和大多数T2载具不一样，该载具的燃料效能依旧在标准水平，但换来了拔群的速度。\n\n飞行载具十分惹人注目。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;飞行员 x1\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Warbird_Blueprint.description>
   <!--EN: Warbird-->
-  <VVE_Warbird_Blueprint.label>战鸟</VVE_Warbird_Blueprint.label>
+  <VVE_Warbird_Blueprint.label>军鸟战斗机</VVE_Warbird_Blueprint.label>
   <!--EN: A military-grade all-purpose transporter, the Wisent is a powerful truck capable of transporting both plentiful cargo and soldiers into hostile territory. Terrible fuel economy, however it can quickly navigate through rough terrain.\n\nCounter to other tier 2 vehicles, this is less efficient but more effective when travelling away from roads. Passengers sitting in the back will be exposed to enemy fire and the armour plating is only suited for minimal small arms fire.\n\n<color=#bb8f04>Crew:</color> Driver x1, Passenger x7\n<color=#bb8f04>Fuel type:</color> Chemfuel-->
-  <VVE_Wisent_Blueprint.description>Wisent 是一款军用级多用途运输车，是一款功能强大的卡车，能够将大量货物和士兵运送到敌对地区。燃油经济性很差，但它可以快速穿过崎岖的地形。
-
-与其他 2 级车辆相反，这在远离道路行驶时效率较低，但更有效。坐在后面的乘客将 暴露 受到敌人火力的攻击，并且装甲板仅适合最小限度的小型武器火力。
-
-&lt;color=#bb8f04&gt;机组人员：&lt;/color&gt; 驾驶员 x1，乘客 x7
-&lt;color=#bb8f04&gt;燃料类型：&lt;/color&gt; 化学燃料</VVE_Wisent_Blueprint.description>
+  <VVE_Wisent_Blueprint.description>军用级的泛用型运输车，擅长将大量物资和兵员输送到战区。燃料效能很差，但却有不错的越野性能。\n\n和大多数T2载具不一样，该载具的燃料效能较差，但越野性能很好。后座上的乘客会暴露在外，只能受到极少外壳的保护。\n\n&lt;color=#bb8f04&gt;乘员：&lt;/color&gt;驾驶员 x1，乘客 x7\n&lt;color=#bb8f04&gt;动力：&lt;/color&gt;化合燃料</VVE_Wisent_Blueprint.description>
   <!--EN: Wisent-->
-  <VVE_Wisent_Blueprint.label>野牛</VVE_Wisent_Blueprint.label>
+  <VVE_Wisent_Blueprint.label>野牛运输车</VVE_Wisent_Blueprint.label>
 </LanguageData>

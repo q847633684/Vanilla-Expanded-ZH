@@ -1,233 +1,222 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A simple automatic gun made to be mounted on a wardrone.-->
-  <VFEPGun_MiniBlaster.description>一种简单的自动枪，安装在监护仪上。</VFEPGun_MiniBlaster.description>
+  <VFEPGun_MiniBlaster.description>安装在战斗无人机上的简易自动炮塔。</VFEPGun_MiniBlaster.description>
   <!--EN: mini-blaster-->
-  <VFEPGun_MiniBlaster.label>迷你爆能枪</VFEPGun_MiniBlaster.label>
+  <VFEPGun_MiniBlaster.label>小型炮塔</VFEPGun_MiniBlaster.label>
   <!--EN: barrel-->
   <VFEPGun_MiniBlaster.tools.0.label>桶</VFEPGun_MiniBlaster.tools.0.label>
   <!--EN: drop pawn-->
-  <VFEP_ActiveDropPawn.label>删除 pawn</VFEP_ActiveDropPawn.label>
+  <VFEP_ActiveDropPawn.label>空投舱</VFEP_ActiveDropPawn.label>
   <!--EN: A variant of marine armor with an integrated grappling hook on the shoulder. The armor is slightly less protective than standard marine armor. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again.
 Privateers usually specialize in getting in and out of dangerous situations easily. Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location.-->
-  <VFEP_Apparel_Privateer.description>一种肩部带有集成抓钩的海洋装甲变体。该装甲的防护能力略低于标准海军陆战队装甲。发射器不需要弹药，但需要在射击之间预留时间以便再次上发条。
-私兵通常擅长轻松进出危险情况。抓钩连接到墙壁和坚硬的岩石上，使用户能够快速移动到所需的位置。</VFEP_Apparel_Privateer.description>
+  <VFEP_Apparel_Privateer.description>一种装备了肩式抓钩发射器的改进型海军装甲。这种改进型装甲的防护力略低于标准型的海军装甲。虽然发射抓钩不会消耗弹药，但还是需要一定的整备时间才能再次发射。\n劫掠装甲适用于需要轻松突破危险区域的情况，固定在墙体与山岩上的抓钩能让使用者快速抵达指定的位置。</VFEP_Apparel_Privateer.description>
   <!--EN: privateer armor-->
-  <VFEP_Apparel_Privateer.label>私掠者装甲</VFEP_Apparel_Privateer.label>
+  <VFEP_Apparel_Privateer.label>劫掠装甲</VFEP_Apparel_Privateer.label>
   <!--EN: A large, bulky suit that allows the wearer to passively produce Rum once every 10 days. However, it is not very pleasant to wear as it feels like wearing damp, humid clothes from excessive sweating.\n\nThe suit includes a high-efficiency filter, heat-exchange filaments and salt precipitators. Urine and feces are processed in thigh pads and throughout the design are tubes that link to different catchpockets. Reprocessed bodily fluids are distilled into an alcoholic derivative of nutrient paste which can be drained when all the pockets are filled.\n\nRemoving the suit causes the accumulated liquid to evaporate, and it takes a long time to put on and properly adjust to the wearer. Due to the design, it can only be worn with an undersuit and the lack of head covering, while reducing efficiency, is purposefully done so it can be worn with head protection.-->
-  <VFEP_Apparel_Rumsuit.description>一套大而笨重的套装，允许穿着者每 10 天被动生产一次朗姆酒。但穿着起来不太舒服，感觉就像穿着出汗过多而潮湿的衣服一样。
-
-该套装包含高效过滤器、热交换丝和盐沉淀器。尿液和粪便在大腿垫中进行处理，整个设计中都有连接不同收集袋的管子。经过再处理的体液被蒸馏成营养膏的酒精衍生物，当所有口袋都装满后，就可以将其排出。
-
-脱下防护服会导致积聚的液体蒸发，并且需要很长时间才能穿上并正确适应穿着者。由于设计原因，它只能与内衣一起穿着，并且没有头罩，同时降低了效率，因此可以与头部保护一起穿着。</VFEP_Apparel_Rumsuit.description>
+  <VFEP_Apparel_Rumsuit.description>不怎么舒服的宽厚连体套装，穿起来有种泡在大量汗液里的黏湿感。能使穿戴者每10天产出10瓶朗姆酒。\n\n这种套装包含有高效过滤装置、换热金属丝以及盐分沉淀器。穿戴者的排泄物会被大腿处的衬垫吸收处理，遍及整个套装的输液管则与不同的容纳袋相互连接。二次加工过的体液会被提炼成如同营养膏般的酒精制品，当所有的容纳袋都被灌满后就可以排出并装瓶了。\n\n套装脱下后，内部积存的体液很快就会蒸发，穿戴者需要很长时间才能重新穿上并适应。由于设计原因，这种套装只能和贴身衣物一同穿戴。虽然没有覆盖头部会略微降低朗姆酒的产出效率，但可以搭配其他头盔来增强穿戴者的防御力。</VFEP_Apparel_Rumsuit.description>
   <!--EN: rumsuit-->
-  <VFEP_Apparel_Rumsuit.label>朗姆装</VFEP_Apparel_Rumsuit.label>
+  <VFEP_Apparel_Rumsuit.label>朗姆酒套装</VFEP_Apparel_Rumsuit.label>
   <!--EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast.-->
-  <VFEP_Artillery_Cannon.description>发射各种炮弹的载人枪。迫击炮的变体，具有所有优点和缺点，但它具有 90 度锥形直射，以换取两倍的有效射速。</VFEP_Artillery_Cannon.description>
+  <VFEP_Artillery_Cannon.description>一种中世纪技术级别的便携式长程加农炮，基座上的旋轴使它能向正前方180度以内的目标发射金属炮弹。虽然精准性一言难尽，但预热与冷却速度都相当之快，从各方面来讲都比古老的弩炮强得多。</VFEP_Artillery_Cannon.description>
   <!--EN: cannon-->
-  <VFEP_Artillery_Cannon.label>大炮</VFEP_Artillery_Cannon.label>
+  <VFEP_Artillery_Cannon.label>加农炮</VFEP_Artillery_Cannon.label>
   <!--EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast.-->
-  <VFEP_Artillery_FieldGun.description>发射各种炮弹的载人枪。迫击炮的变体，具有所有优点和缺点，但它具有 90 度锥形直射，以换取两倍的有效射速。</VFEP_Artillery_FieldGun.description>
+  <VFEP_Artillery_FieldGun.description>一个发射所有种类炮弹的野战炮。作为改进型号，野战炮不仅继承了迫击炮所有的优劣之处，其射击预热速度也是它的两倍快——不过代价则是只有不到90度的锥形射击角。</VFEP_Artillery_FieldGun.description>
   <!--EN: field gun-->
   <VFEP_Artillery_FieldGun.label>野战炮</VFEP_Artillery_FieldGun.label>
   <!--EN: A portable version of the Autocannon designed for use by a warcasket. Due to a shortened barrel it has a lower range, less penetration and damage compared to the turreted version. However, it is very capable in close quarters combat which makes up for the slight accuracy loss at greater ranges.-->
-  <VFEP_Box_Autorifle.description>自动加农炮的便携式版本，专为战棺使用而设计。由于枪管较短，与炮塔版本相比，它的射程更短，穿透和伤害也更少。然而，它在近距离战斗中非常有能力，这弥补了在更远距离上的轻微精度损失。</VFEP_Box_Autorifle.description>
+  <VFEP_Box_Autorifle.description>一种为战棺设计的便携式自动加农炮。由于枪管长度做了缩减处理，它的射程、伤害与护甲穿透都要比炮塔版本逊色一些。不过，它在近距离战斗中的优良表现弥补了打击远处目标时的微小精度损失。</VFEP_Box_Autorifle.description>
   <!--EN: warcasket autorifle-->
-  <VFEP_Box_Autorifle.label>自动步枪战匣</VFEP_Box_Autorifle.label>
+  <VFEP_Box_Autorifle.label>战棺自动步枪</VFEP_Box_Autorifle.label>
   <!--EN: A very unique melee weapon exclusively made for warcaskets. It combines massive weight and a cutting force that gives it no equal in melee combat. While it was intended for use against other warcaskets, it works just as well against smaller targets that would normally be considered armored.-->
-  <VFEP_Box_Broadsword.description>专为战棺打造的非常独特的近战武器。它结合了巨大的重量和切割力，使其在近战战斗中无与伦比。虽然它的目的是用于对付其他战棺，但它也可以对付通常被认为是装甲的较小目标。</VFEP_Box_Broadsword.description>
+  <VFEP_Box_Broadsword.description>一种为战棺设计的特殊重型近战武器，其强大的切砍力能轻易地将敌人撕碎。虽然这种巨剑主要是用来对抗其他战棺的，但对小体型的装甲目标也同样有效。</VFEP_Box_Broadsword.description>
   <!--EN: warcasket broadsword-->
-  <VFEP_Box_Broadsword.label>战棺阔剑</VFEP_Box_Broadsword.label>
+  <VFEP_Box_Broadsword.label>战棺巨剑</VFEP_Box_Broadsword.label>
   <!--EN: Essentially an upscaled charge minigun designed to be used by a warcasket. While firing fewer projectiles in each burst, the ammunition has been improved with explosive payloads. Designed as a support weapon that completely invalidates cover for the unlucky bastards on the receiving end.-->
-  <VFEP_Box_ChargeBlaster.description>本质上是一种升级版的冲锋机枪，设计用于战棺。虽然每次连射发射的射弹较少，但弹药的爆炸有效载荷有所改进。被设计成一种支援武器，让接收端的不幸混蛋的掩护完全失效。</VFEP_Box_ChargeBlaster.description>
+  <VFEP_Box_ChargeBlaster.description>一种为战棺设计的高级电荷急射机枪。虽然连射次数有所降低，但经过特殊改进的子弹可以对建筑造成更高的伤害，非常适合对付那些总喜欢躲在掩体后面的倒霉蛋们。</VFEP_Box_ChargeBlaster.description>
   <!--EN: warcasket charge blaster-->
-  <VFEP_Box_ChargeBlaster.label>战棺充能爆能器</VFEP_Box_ChargeBlaster.label>
+  <VFEP_Box_ChargeBlaster.label>战棺电荷爆裂机枪</VFEP_Box_ChargeBlaster.label>
   <!--EN: A terror on the battlefield, the charge lance received a massive upgrade for warcasket use. A considerably more powerful energy source gives it superior stopping power, able to fire multiple larger projectiles at a greater range with improved accuracy and penetration.-->
-  <VFEP_Box_ChargeLance.description>冲锋枪是战场上的恐怖之物，经过大规模升级，可用于战棺。更强大的能源赋予它卓越的制动力，能够在更大的范围内发射多个更大的射弹，并提高精度和穿透。</VFEP_Box_ChargeLance.description>
+  <VFEP_Box_ChargeLance.description>一种为战棺设计的高级电荷标枪。这种武器不仅整体设计经过了改进，内置电源也换用了更强力的型号。与其普通版本相比，它拥有更高的射程、威力、护甲穿透、精度以及全新的三连发射击模式。</VFEP_Box_ChargeLance.description>
   <!--EN: warcasket charge lance-->
-  <VFEP_Box_ChargeLance.label>战棺冲锋枪</VFEP_Box_ChargeLance.label>
+  <VFEP_Box_ChargeLance.label>战棺电荷标枪</VFEP_Box_ChargeLance.label>
   <!--EN: An upscaled version of the combat knife designed for use by a warcasket. It is only still called a knife due to size comparison to a warcasket, but it is capable of cleaving a man in half and is just as large. The preferred weapon for the faster moving warcaskets that prioritize lightly armored, isolated targets.-->
-  <VFEP_Box_CombatKnife.description>专为战棺使用而设计的战斗刀的升级版。由于与战棺相比，它仍然被称为刀，但它能够将人劈成两半，而且同样大。移动速度较快的战棺的首选武器，优先攻击轻装甲、孤立的目标。</VFEP_Box_CombatKnife.description>
+  <VFEP_Box_CombatKnife.description>一种为战棺设计的高级战术短刀。虽然它的尺寸并不小，但在战棺的手中只能算得上是“短刀”，不过这也足以将血肉之躯的敌人拦腰斩断了。对于高机动性的战棺来说，这种武器是猎捕轻甲与落单目标的不二之选。</VFEP_Box_CombatKnife.description>
   <!--EN: warcasket combat knife-->
-  <VFEP_Box_CombatKnife.label>战棺战斗刀</VFEP_Box_CombatKnife.label>
+  <VFEP_Box_CombatKnife.label>战棺战术短刀</VFEP_Box_CombatKnife.label>
   <!--EN: A monumental piece of anti-personnel technology that can only be properly utilized by the oversized warcaskets. Practically an engine block fitted to the end of a mech’s limb actuator, equipped with multiple pneumatic plates covering miniature repulsor generators designed for riot control. In layman’s terms, a strike from the head will launch the target backwards by several meters.-->
-  <VFEP_Box_GravityHammer.description>这是一项具有里程碑意义的杀伤人员技术，只有超大的战棺才能正确使用。实际上是一个安装在机甲肢体执行器末端的发动机组，配备了多个气动板，覆盖着专为防暴设计的微型斥力发生器。通俗地说，从头部发起攻击，会将目标向后弹射数米。</VFEP_Box_GravityHammer.description>
+  <VFEP_Box_GravityHammer.description>一种为战棺设计的重型战锤。这种武器的锤头内部搭载了用于增强冲击力的小型驱动装置，外部则覆有多层坚固严密的气动传压装甲板。什么？你说完全听不懂？好吧，用通俗易懂的话来讲就是：用这大宝贝狠狠地向敌人头部锤去，你就能把它们击飞好几米远。</VFEP_Box_GravityHammer.description>
   <!--EN: warcasket gravity hammer-->
   <VFEP_Box_GravityHammer.label>战棺重力锤</VFEP_Box_GravityHammer.label>
   <!--EN: An upscaled version of the grenade launcher designed for use by a warcasket. A straight upgrade, it fires in bursts of 3 and benefits from recoil damping for faster recovery and better range. Like all launchers though, it has a worse miss radius compared to a hand-thrown grenade.-->
-  <VFEP_Box_GrenadeLauncher.description>榴弹发射器的升级版，专为战棺设计。直接升级后，它可连射 3 发，并受益于后坐力阻尼，可实现更快的恢复和更远的射程。但与所有发射器一样，与手榴弹相比，它的脱靶半径更差。</VFEP_Box_GrenadeLauncher.description>
+  <VFEP_Box_GrenadeLauncher.description>一种为战棺设计的高级榴弹发射器。这种升级版本单次开火便能连射三发榴弹，全新采用的后坐力抑制器既提高了武器的射程，也降低了射击后的冷却时间。与破片手榴弹相比，它的误差半径要更高一些。</VFEP_Box_GrenadeLauncher.description>
   <!--EN: warcasket grenade launcher-->
   <VFEP_Box_GrenadeLauncher.label>战棺榴弹发射器</VFEP_Box_GrenadeLauncher.label>
   <!--EN: Essentially a handheld smoothbore mortar that fires explosives in an arc, able to bypass enemy fortifications. Made by those who wanted to combine ancient naval warfare with modern technology. The accuracy is abysmal but the onboard fabricator ensures that artillery fire can be provided without ever needing a resupply.-->
-  <VFEP_Box_HandheldCannon.description>本质上是一种手持式滑膛迫击炮，可以沿弧线发射炸药，能够绕过敌人的防御工事。由那些想要将古代海战与现代技术结合起来的人制造。精度很差，但机载制造商确保无需补给即可提供炮火。</VFEP_Box_HandheldCannon.description>
+  <VFEP_Box_HandheldCannon.description>一种为战棺设计的手持滑膛加农炮，同时也是用于证明古代海战武器和现代科技能够完美结合的最佳实例。这种武器曲射出的炮弹可以直接越过敌人的防御工事，虽然精度一言难尽，但好在不需要为装填弹药而头疼。</VFEP_Box_HandheldCannon.description>
   <!--EN: warcasket handheld cannon-->
-  <VFEP_Box_HandheldCannon.label>战棺手持式大炮</VFEP_Box_HandheldCannon.label>
+  <VFEP_Box_HandheldCannon.label>战棺手持加农炮</VFEP_Box_HandheldCannon.label>
   <!--EN: An upscaled version of the heavy flamer designed for use by a warcasket. Thanks to the twin barrels and larger heat sink, it can spit out two jets of flames while also needing less time to prevent overheating.-->
-  <VFEP_Box_HeavyFlamer.description>专为战棺使用而设计的重型火焰喷射器的升级版。得益于双枪管和更大的散热器，它可以喷出两股火焰，同时也需要更少的时间来防止过热。</VFEP_Box_HeavyFlamer.description>
+  <VFEP_Box_HeavyFlamer.description>一种为战棺设计的高级火焰喷射器。归功于全新采用的双喷管与大型散热装置，它既能同时释放两条可怖的火舌来焚烧敌人，也不需要太多的冷却时间来预防武器过热。</VFEP_Box_HeavyFlamer.description>
   <!--EN: warcasket heavy flamer-->
   <VFEP_Box_HeavyFlamer.label>战棺重型火焰喷射器</VFEP_Box_HeavyFlamer.label>
   <!--EN: An upscaled version of the minigun designed for use by a warcasket. It uses larger caliber rounds which are poorly made en masse due to how many rounds need to be manufactured. Thus, it has a slower rate of fire and armor penetration, but who cares because no one wants to be on the receiving end of this amount of dakka.-->
-  <VFEP_Box_Minigun.description>迷你枪的升级版，专为战棺使用而设计。它使用较大口径的子弹，由于需要制造多少发子弹，因此整体制造质量较差。因此，它的火力和装甲速度较慢穿透，但谁在乎呢，因为没有人愿意成为这么多达卡的接收端。</VFEP_Box_Minigun.description>
+  <VFEP_Box_Minigun.description>一种为战棺设计的高级速射机枪。虽然采用了口径更大的弹药，但生产压力的激增也导致子弹的质量无法得到保障。与普通版本的速射机枪相比，它的射速与护甲穿透要略低一些。不过...谁他娘的在乎这个？我觉得不会有人想被这玩意儿打成筛子的。</VFEP_Box_Minigun.description>
   <!--EN: warcasket minigun-->
-  <VFEP_Box_Minigun.label>战棺机枪</VFEP_Box_Minigun.label>
+  <VFEP_Box_Minigun.label>战棺速射机枪</VFEP_Box_Minigun.label>
   <!--EN: An upscaled version of the pump shotgun designed for use by a warcasket. Each cartridge fired contains 4 pellets larger than slugs from a regular-sized shotgun, giving it better range, armor penetration and much better damage. The recoil is insane though, even for a warcasket’s recoil damping system.-->
-  <VFEP_Box_Slugthrower.description>泵动霰弹枪的升级版，专为战棺使用而设计。每个发射的弹药筒包含 4 个弹丸，比普通尺寸霰弹枪的弹头大，使其具有更好的射程、装甲 穿透 和更好的伤害。即使对于战棺的后坐阻尼系统来说，后坐力也是疯狂的。</VFEP_Box_Slugthrower.description>
+  <VFEP_Box_Slugthrower.description>一种为战棺设计的高级泵动霰弹枪。这种升级版本能够连射四发装有更多弹丸的霰弹，它的射程、伤害与护甲穿透都要更强一些。美中不足的是，即便战棺搭载的后坐力抑制系统功率全开，也不足以抵消它开火时带来的巨大后坐力。</VFEP_Box_Slugthrower.description>
   <!--EN: warcasket slugthrower-->
-  <VFEP_Box_Slugthrower.label>战棺投弹者</VFEP_Box_Slugthrower.label>
+  <VFEP_Box_Slugthrower.label>战棺霰弹枪</VFEP_Box_Slugthrower.label>
   <!--EN: A portable version of the uranium slug cannon designed for use by a warcasket. Due to a shortened barrel it has less penetration, worse recoil and damage compared to the turreted version. However, it lacks the minimum range requirement thanks to a human operator and has better mid-range performance.-->
-  <VFEP_Box_UraniumSlugRifle.description>铀弹头加农炮的便携式版本，设计用于战棺。由于枪管较短，与炮塔版本相比，它的穿透较少，后坐力和伤害更差。然而，由于需要人工操作，它缺乏最低范围要求，并且具有更好的中程性能。</VFEP_Box_UraniumSlugRifle.description>
+  <VFEP_Box_UraniumSlugRifle.description>一种为战棺设计的便携式铀弹加农炮。由于枪管长度做了缩减处理，它的伤害与护甲穿透都要比炮塔版本逊色一些，后坐力也明显增加了不少。不过，它在中远距离战斗中的表现十分优秀，驾驶员的手动操控也消除了原本的最小射击距离限制。</VFEP_Box_UraniumSlugRifle.description>
   <!--EN: warcasket uranium slug rifle-->
-  <VFEP_Box_UraniumSlugRifle.label>战棺铀子弹步枪</VFEP_Box_UraniumSlugRifle.label>
+  <VFEP_Box_UraniumSlugRifle.label>战棺铀弹步枪</VFEP_Box_UraniumSlugRifle.label>
   <!--EN: cannonball-->
   <VFEP_Bullet_Cannonball.label>炮弹</VFEP_Bullet_Cannonball.label>
   <!--EN: gauntlet charge cannon bullet-->
-  <VFEP_Bullet_GauntletChargeCanon.label>挑战冲锋大炮子弹</VFEP_Bullet_GauntletChargeCanon.label>
+  <VFEP_Bullet_GauntletChargeCanon.label>电荷加农炮弹</VFEP_Bullet_GauntletChargeCanon.label>
   <!--EN: grappling hook-->
   <VFEP_Bullet_GrapplingHook.label>抓钩</VFEP_Bullet_GrapplingHook.label>
   <!--EN: cannonball-->
-  <VFEP_Bullet_HandheldCannonCannonball.label>炮弹</VFEP_Bullet_HandheldCannonCannonball.label>
+  <VFEP_Bullet_HandheldCannonCannonball.label>加农炮弹</VFEP_Bullet_HandheldCannonCannonball.label>
   <!--EN: warcasket autorifle bullet-->
-  <VFEP_Bullet_WarcasketAutorifle.label>战棺自动步枪子弹</VFEP_Bullet_WarcasketAutorifle.label>
+  <VFEP_Bullet_WarcasketAutorifle.label>自动步枪弹</VFEP_Bullet_WarcasketAutorifle.label>
   <!--EN: warcasket charge blaster shot-->
-  <VFEP_Bullet_WarcasketChargeBlaster.label>战棺充能爆能枪射击</VFEP_Bullet_WarcasketChargeBlaster.label>
+  <VFEP_Bullet_WarcasketChargeBlaster.label>电荷弹</VFEP_Bullet_WarcasketChargeBlaster.label>
   <!--EN: warcasket charge lance shot-->
-  <VFEP_Bullet_WarcasketChargeLance.label>战棺冲锋长枪射击</VFEP_Bullet_WarcasketChargeLance.label>
+  <VFEP_Bullet_WarcasketChargeLance.label>电荷标枪弹</VFEP_Bullet_WarcasketChargeLance.label>
   <!--EN: warcasket minigun bullet-->
-  <VFEP_Bullet_WarcasketMinigun.label>战棺机枪子弹</VFEP_Bullet_WarcasketMinigun.label>
+  <VFEP_Bullet_WarcasketMinigun.label>速射机枪弹</VFEP_Bullet_WarcasketMinigun.label>
   <!--EN: warcasket slugthrower blast-->
-  <VFEP_Bullet_WarcasketSlugthrower.label>战棺弹头喷射器爆炸</VFEP_Bullet_WarcasketSlugthrower.label>
+  <VFEP_Bullet_WarcasketSlugthrower.label>霰弹</VFEP_Bullet_WarcasketSlugthrower.label>
   <!--EN: uranium slug-->
-  <VFEP_Bullet_WarcasketUraniumSlugRifle.label>铀块</VFEP_Bullet_WarcasketUraniumSlugRifle.label>
+  <VFEP_Bullet_WarcasketUraniumSlugRifle.label>铀弹</VFEP_Bullet_WarcasketUraniumSlugRifle.label>
   <!--EN: A puddle of flammable chemfuel.-->
-  <VFEP_Filth_Fuel.description>一滩易燃化学燃料。</VFEP_Filth_Fuel.description>
+  <VFEP_Filth_Fuel.description>一滩可燃的化学燃料。</VFEP_Filth_Fuel.description>
   <!--EN: chemfuel puddle-->
-  <VFEP_Filth_Fuel.label>化学燃料水坑</VFEP_Filth_Fuel.label>
+  <VFEP_Filth_Fuel.label>化学液体</VFEP_Filth_Fuel.label>
   <!--EN: Ship mounted anti-armor charge cannon, often utilised in ship-to-ship combat in low atmosphere.-->
-  <VFEP_GauntletChargeCanon.description>舰载反装甲装药加农炮，通常用于低气压下的舰对舰战斗。</VFEP_GauntletChargeCanon.description>
+  <VFEP_GauntletChargeCanon.description>「挑战」级太空战机搭载的反装甲电荷加农炮，常用于在大气层内进行舰舰缠斗作战。</VFEP_GauntletChargeCanon.description>
   <!--EN: gauntlet charge cannon-->
-  <VFEP_GauntletChargeCanon.label>挑战冲锋大炮</VFEP_GauntletChargeCanon.label>
+  <VFEP_GauntletChargeCanon.label>电荷加农炮</VFEP_GauntletChargeCanon.label>
   <!--EN: ship chunk battery (incoming)-->
-  <VFEP_IShipChunkBattery.label>船用块电池（进货）</VFEP_IShipChunkBattery.label>
+  <VFEP_IShipChunkBattery.label>飞船残骸（蓄电池）（临近）</VFEP_IShipChunkBattery.label>
   <!--EN: ship chunk cryptosleep casket (incoming)-->
-  <VFEP_IShipChunkCryptosleepCasket.label>运送大块加密睡眠棺材（传入）</VFEP_IShipChunkCryptosleepCasket.label>
+  <VFEP_IShipChunkCryptosleepCasket.label>飞船残骸（低温休眠舱）（临近）</VFEP_IShipChunkCryptosleepCasket.label>
   <!--EN: ship chunk debris (incoming)-->
-  <VFEP_IShipChunkDebris.label>船体碎片（传入）</VFEP_IShipChunkDebris.label>
+  <VFEP_IShipChunkDebris.label>飞船残骸（临近）</VFEP_IShipChunkDebris.label>
   <!--EN: ship chunk fuel tank (incoming)-->
-  <VFEP_IShipChunkFuelTank.label>船用大块油箱（进货）</VFEP_IShipChunkFuelTank.label>
+  <VFEP_IShipChunkFuelTank.label>飞船残骸（燃料罐）（临近）</VFEP_IShipChunkFuelTank.label>
   <!--EN: ship chunk gauntlet turret (incoming)-->
-  <VFEP_IShipChunkGauntletTurret.label>船用大块手套炮塔（传入）</VFEP_IShipChunkGauntletTurret.label>
+  <VFEP_IShipChunkGauntletTurret.label>飞船残骸（电荷加农炮）（临近）</VFEP_IShipChunkGauntletTurret.label>
   <!--EN: ship chunk Reactor (incoming)-->
-  <VFEP_IShipChunkReactor.label>船块反应堆（传入）</VFEP_IShipChunkReactor.label>
+  <VFEP_IShipChunkReactor.label>飞船残骸（核能反应堆）（临近）</VFEP_IShipChunkReactor.label>
   <!--EN: ship chunk volatile engine (incoming)-->
-  <VFEP_IShipChunkVolatileEngine.label>船舶块易失性引擎（传入）</VFEP_IShipChunkVolatileEngine.label>
+  <VFEP_IShipChunkVolatileEngine.label>飞船残骸（不稳定引擎）（临近）</VFEP_IShipChunkVolatileEngine.label>
   <!--EN: ship chunk medical crate (incoming)-->
-  <VFEP_IShipMedicalCrate.label>船用大块医疗箱（进货）</VFEP_IShipMedicalCrate.label>
+  <VFEP_IShipMedicalCrate.label>飞船补给箱（医药）（临近）</VFEP_IShipMedicalCrate.label>
   <!--EN: ship chunk nutrient paste crate (incoming)-->
-  <VFEP_IShipNutrientPasteCrate.label>运送大块营养膏板条箱（进货）</VFEP_IShipNutrientPasteCrate.label>
+  <VFEP_IShipNutrientPasteCrate.label>飞船补给箱（营养膏）（临近）</VFEP_IShipNutrientPasteCrate.label>
   <!--EN: Semi-autonomous combat drone with onboard pathfinding capability. Equipped with a self-destruction module and tracking system, designed to be launched as a payload and then seek out enemy targets. If no nearby targets can be acquired, it will immediately detonate in order to prevent future accidents.-->
-  <VFEP_Mech_Spidermine.description>具有机载寻路能力的半自主作战无人机。配备自毁模块和跟踪系统，设计为作为有效载荷发射，然后寻找敌方目标。如果无法捕获附近的目标，它会立即引爆，以防止将来发生事故。</VFEP_Mech_Spidermine.description>
+  <VFEP_Mech_Spidermine.description>搭载了索敌与自爆系统的半自律型无人机，可以自动追踪并迅速接近周围的敌人。如果附近区域已没有敌人，它们会当即自爆以避免出现可能的安全隐患。</VFEP_Mech_Spidermine.description>
   <!--EN: spidermine-->
-  <VFEP_Mech_Spidermine.label>蜘蛛地雷</VFEP_Mech_Spidermine.label>
+  <VFEP_Mech_Spidermine.label>蜘蛛雷</VFEP_Mech_Spidermine.label>
   <!--EN: frame-->
   <VFEP_Mech_Spidermine.tools.0.label>框架</VFEP_Mech_Spidermine.tools.0.label>
   <!--EN: Semi-autonomous flying combat drone with limited combat functionality. Equipped with a lightweight semi-automatic miniturret due to limited recoil absorption and an onboard self-destruction module to both prevent enemy capture and defense against melee attackers.-->
-  <VFEP_Mech_Wardrone.description>战斗功能有限的半自主飞行战斗无人机。由于后坐力吸收有限，配备了轻型半自动微型炮塔和机载自毁模块，既可以防止敌人捕获，又可以防御近战攻击者。</VFEP_Mech_Wardrone.description>
+  <VFEP_Mech_Wardrone.description>拥有一定战斗能力半自律型无人机，可以自动攻击射程内的敌人。由于无法承受太高的后坐力，因此只安装了重量极轻的小型炮塔。额外搭载的自爆系统也可以有效防止被敌人俘获并抵挡近战单位的攻击。</VFEP_Mech_Wardrone.description>
   <!--EN: wardrone-->
-  <VFEP_Mech_Wardrone.label>沃德罗内</VFEP_Mech_Wardrone.label>
+  <VFEP_Mech_Wardrone.label>战斗无人机</VFEP_Mech_Wardrone.label>
   <!--EN: turret-->
   <VFEP_Mech_Wardrone.tools.0.label>冲水</VFEP_Mech_Wardrone.tools.0.label>
   <!--EN: frag grenade-->
-  <VFEP_Proj_GrenadierGrenade.label>破片手榴弹</VFEP_Proj_GrenadierGrenade.label>
+  <VFEP_Proj_GrenadierGrenade.label>破片榴弹</VFEP_Proj_GrenadierGrenade.label>
   <!--EN: A highly alcoholic beverage made from the recycled bodily fluids of those wearing rumsuits.\n\nAn ingenious way of not only improving morale but also allowing crew to operate longer without needing to resupply for food or dispose of human waste. Rum is very thick to drink - much like a protein shake - and the alcohol helps mask the otherwise unpleasant taste from repurposed nutrient paste dispenser technology.-->
-  <VFEP_Rum.description>一种由穿着紧身衣的人回收的体液制成的高度酒精饮料。
-
-这是一种巧妙的方法，不仅可以提高士气，还可以让机组人员工作更长时间，而无需补充食物或处理人类排泄物。朗姆酒喝起来很浓——很像蛋白质奶昔——而且酒精有助于掩盖重新利用的营养膏分配器技术带来的令人不快的味道。</VFEP_Rum.description>
+  <VFEP_Rum.description>一种度数很高的酒精饮料，由朗姆酒套装回收的穿戴者的体液制成。\n\n朗姆酒的生产方法相当巧妙，这既可以提高整艘船的士气与凝聚力，也能通过消除进食与排泄时间来让船员们更高效地工作。朗姆酒口感醇厚，味道就好像蛋白质奶昔一样——这还要多亏酒精掩盖了营养膏合成科技带来的那种恶心味道。</VFEP_Rum.description>
   <!--EN: Drink {0}-->
   <VFEP_Rum.ingestible.ingestCommandString>喝{0}</VFEP_Rum.ingestible.ingestCommandString>
   <!--EN: Drinking {0}.-->
-  <VFEP_Rum.ingestible.ingestReportString>饮酒 {0}。</VFEP_Rum.ingestible.ingestReportString>
+  <VFEP_Rum.ingestible.ingestReportString>正在喝{0}。</VFEP_Rum.ingestible.ingestReportString>
   <!--EN: rum-->
   <VFEP_Rum.label>朗姆酒</VFEP_Rum.label>
   <!--EN: The mangled remains of ship-borne battery, used to power systems with high power draw for short periods. It was leaps and bounds about Rimworld battery technology but it can no longer be recharged and yields decent salvage once it’s stored charge has run out.-->
-  <VFEP_ShipChunkBattery.description>船载电池的残骸，用于为短时间内高功率消耗的系统供电。 Rimworld 的电池技术取得了突飞猛进的发展，但一旦存储的电量耗尽，它就无法再充电，并且可以产生不错的回收效果。</VFEP_ShipChunkBattery.description>
+  <VFEP_ShipChunkBattery.description>载有蓄电池的飞船残骸，可用于在短期内为高功耗设备供电。这种蓄电池无疑是边缘世界的先进科研结晶，不过一旦积蓄的电力完全耗尽，它就无法继续充能。可以拆出有用的材料。</VFEP_ShipChunkBattery.description>
   <!--EN: ship chunk battery-->
-  <VFEP_ShipChunkBattery.label>船用块电池</VFEP_ShipChunkBattery.label>
+  <VFEP_ShipChunkBattery.label>飞船残骸（蓄电池）</VFEP_ShipChunkBattery.label>
   <!--EN: A self-powered cryptosleep casket caught in the remains of their ship’s hull. The occupant can still be recovered from the module, but most of the material is worth less than scrap metal and offers little salvage.-->
-  <VFEP_ShipChunkCryptosleepCasket.description>一个自供电的加密睡眠棺材捕获在他们的船体残骸中。乘员仍然可以从模块中回收，但大部分材料的价值低于废金属，并且几乎没有回收价值。</VFEP_ShipChunkCryptosleepCasket.description>
+  <VFEP_ShipChunkCryptosleepCasket.description>载有能够自主供电的低温休眠舱的飞船残骸。虽然仍能正常运作，但无法拆出太多有用的材料。</VFEP_ShipChunkCryptosleepCasket.description>
   <!--EN: ship chunk cryptosleep casket-->
-  <VFEP_ShipChunkCryptosleepCasket.label>运输大块加密睡眠棺材</VFEP_ShipChunkCryptosleepCasket.label>
+  <VFEP_ShipChunkCryptosleepCasket.label>飞船残骸（低温休眠舱）</VFEP_ShipChunkCryptosleepCasket.label>
   <!--EN: A chunk of a combat-grade spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon. It is densely packed with double-layer armor plating and control systems, which can be acquired by deconstructing it.-->
-  <VFEP_ShipChunkDebris.description>战斗级航天器的一大块。它似乎是被不受控制的重返大气层力量或某种武器撕断的。它密布着双层装甲和控制系统，可以通过解构获得。</VFEP_ShipChunkDebris.description>
+  <VFEP_ShipChunkDebris.description>太空战机的一部分，被厚实的双层装甲板与控制模块覆盖着。它看起来像是受到引力影响或者被某些武器攻击而坠落的。可以拆出有用的材料。</VFEP_ShipChunkDebris.description>
   <!--EN: ship chunk debris-->
-  <VFEP_ShipChunkDebris.label>船舶大块碎片</VFEP_ShipChunkDebris.label>
+  <VFEP_ShipChunkDebris.label>飞船残骸</VFEP_ShipChunkDebris.label>
   <!--EN: A tank of Chemfuel, punctured by the hull of its ship’s hull. Some of the fluid can be recovered while the majority is filled with grime, leaking out and creating a fire hazard. A prime target for any pyromaniac wanting to watch the world burn.-->
-  <VFEP_ShipChunkFuelTank.description>一罐化学燃料，被船体的船体刺穿。一些液体可以回收，而大部分液体充满污垢，泄漏并造成火灾危险。对于任何想要观看世界燃烧的纵火狂来说，这是一个主要目标。</VFEP_ShipChunkFuelTank.description>
+  <VFEP_ShipChunkFuelTank.description>载有燃料罐的飞船残骸，里面的化合燃料正从被船体划破的裂口处滴落。拆除后可回收一定量的化合燃料。</VFEP_ShipChunkFuelTank.description>
   <!--EN: ship chunk fuel tank-->
-  <VFEP_ShipChunkFuelTank.label>船用大块油箱</VFEP_ShipChunkFuelTank.label>
+  <VFEP_ShipChunkFuelTank.label>飞船残骸（燃料罐）</VFEP_ShipChunkFuelTank.label>
   <!--EN: The remains of the housing for the Gauntlet charge cannon. Powered externally, the ammunition storage is wrecked and cannot be replaced. Once the turret empties its magazine, it is still valuable salvage worth recovery.-->
-  <VFEP_ShipChunkGauntletTurret.description>用于放置 Gauntlet 装药的外壳的剩余部分 大炮。由于采用外部供电，弹药库已损坏且无法更换。一旦炮塔清空弹匣，它仍然是值得回收的宝贵资源。</VFEP_ShipChunkGauntletTurret.description>
+  <VFEP_ShipChunkGauntletTurret.description>载有电荷加农炮的飞船残骸，需要接入外部电源才能维持运作。由于供弹系统损坏，弹药消耗完后将无法重新装填。可以拆出许多有用的材料。</VFEP_ShipChunkGauntletTurret.description>
   <!--EN: ship chunk gauntlet turret-->
-  <VFEP_ShipChunkGauntletTurret.label>船舶大块手套炮塔</VFEP_ShipChunkGauntletTurret.label>
+  <VFEP_ShipChunkGauntletTurret.label>飞船残骸（电荷加农炮）</VFEP_ShipChunkGauntletTurret.label>
   <!--EN: The remains of a combat-grade spacecraft’s nuclear reactor, low-yield and designed to operate alongside energy storage. Surprisingly, the reactor is fully functional with no structural damage, so it can be safely used for ground operations.-->
-  <VFEP_ShipChunkReactor.description>战斗级航天器核反应堆的残骸，产量低，设计用于与能量存储一起运行。令人惊讶的是，反应堆功能齐全，没有结构损坏，因此可以安全地用于地面操作。</VFEP_ShipChunkReactor.description>
+  <VFEP_ShipChunkReactor.description>载有核能反应堆的飞船残骸，虽然发电量较低，但它实际上是作为后备电力源与其他储电设备一同使用的。这个核能反应堆的完好性实在是出人意料，因此可以安全的用来为殖民地供电。</VFEP_ShipChunkReactor.description>
   <!--EN: ship chunk reactor-->
-  <VFEP_ShipChunkReactor.label>船用块状反应堆</VFEP_ShipChunkReactor.label>
+  <VFEP_ShipChunkReactor.label>飞船残骸（核能反应堆）</VFEP_ShipChunkReactor.label>
   <!--EN: Self-powered turbo engines for a combat-grade spacecraft, designed for atmospheric use. The control and safety system are damaged and the turbines are unable to take in enough air to cool itself. If not properly dismantled, the accumulating energy will tear itself apart.-->
-  <VFEP_ShipChunkVolatileEngine.description>用于战斗级航天器的自供电涡轮发动机，专为大气使用而设计。控制和安全系统损坏，涡轮机无法吸入足够的空气来冷却自身。如果拆除不当，积聚的能量就会自行撕裂。</VFEP_ShipChunkVolatileEngine.description>
+  <VFEP_ShipChunkVolatileEngine.description>载有能够自主供电的涡轮引擎的飞船残骸，主要为飞船在大气层航行时提供动力。由于引擎的安全控制系统损坏，它无法通过空气循环进行自我冷却。如果不及时拆除的话，引擎积蓄的过载能量会引发一场大爆炸。</VFEP_ShipChunkVolatileEngine.description>
   <!--EN: ship chunk volatile engine-->
-  <VFEP_ShipChunkVolatileEngine.label>船舶块易失性引擎</VFEP_ShipChunkVolatileEngine.label>
+  <VFEP_ShipChunkVolatileEngine.label>飞船残骸（不稳定引擎）</VFEP_ShipChunkVolatileEngine.label>
   <!--EN: A now-unsealed crate containing first-aid supplies. The pallet can be dismantled for steel along with recovering the supplies.-->
-  <VFEP_ShipMedicalCrate.description>一个现已启封的板条箱，里面装有急救用品。托盘可以拆除以获取钢材并回收物资。</VFEP_ShipMedicalCrate.description>
+  <VFEP_ShipMedicalCrate.description>装有医药的物资补给箱，外层包装似乎在坠落过程中意外开封了。补给箱的底盘可以拆出一些有用的钢铁。</VFEP_ShipMedicalCrate.description>
   <!--EN: ship medical crate-->
-  <VFEP_ShipMedicalCrate.label>船舶医疗箱</VFEP_ShipMedicalCrate.label>
+  <VFEP_ShipMedicalCrate.label>飞船补给箱（医药）</VFEP_ShipMedicalCrate.label>
   <!--EN: A now-unsealed crate containing emergency food rations. The pallet can be dismantled for steel along with recovering the supplies.-->
-  <VFEP_ShipNutrientPasteCrate.description>一个现已启封的板条箱，里面装有紧急口粮。托盘可以拆除以获取钢材并回收物资。</VFEP_ShipNutrientPasteCrate.description>
+  <VFEP_ShipNutrientPasteCrate.description>装有营养膏的物资补给箱，外层包装似乎在坠落过程中意外开封了。补给箱的底盘可以拆出一些有用的钢铁。</VFEP_ShipNutrientPasteCrate.description>
   <!--EN: ship nutrient paste crate-->
-  <VFEP_ShipNutrientPasteCrate.label>船用营养膏箱</VFEP_ShipNutrientPasteCrate.label>
+  <VFEP_ShipNutrientPasteCrate.label>飞船补给箱（营养膏）</VFEP_ShipNutrientPasteCrate.label>
   <!--EN: drop pod (incoming)-->
-  <VFEP_SideDropPod.label>空投舱（传入）</VFEP_SideDropPod.label>
+  <VFEP_SideDropPod.label>空投舱（临近）</VFEP_SideDropPod.label>
   <!--EN: A portable medieval cannon mounted on a 180 degree swivel that launches roughly-rounded balls of steel at a considerable range. The accuracy is rather lacking, but it is a vast improvement compared to catapults while also having a considerably faster fire rate.-->
-  <VFEP_Turret_Cannon.description>一种便携式中世纪 大炮，安装在 180 度旋转装置上，可在相当远的范围内发射大致圆形的钢球。精度相当低，但与弹射器相比是一个巨大的进步，同时射速也相当快。</VFEP_Turret_Cannon.description>
+  <VFEP_Turret_Cannon.description>一种中世纪技术级别的便携式长程加农炮，基座上的旋轴使它能向正前方180度以内的目标发射金属炮弹。虽然精准性一言难尽，但预热与冷却速度都相当之快，从各方面来讲都比古老的弩炮强得多。</VFEP_Turret_Cannon.description>
   <!--EN: cannon-->
-  <VFEP_Turret_Cannon.label>大炮</VFEP_Turret_Cannon.label>
+  <VFEP_Turret_Cannon.label>加农炮</VFEP_Turret_Cannon.label>
   <!--EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast.-->
-  <VFEP_Turret_FieldGun.description>发射各种炮弹的载人枪。迫击炮的变体，具有所有优点和缺点，但它具有 90 度锥形直射，以换取两倍的有效射速。</VFEP_Turret_FieldGun.description>
+  <VFEP_Turret_FieldGun.description>一个发射所有种类炮弹的野战炮。作为改进型号，野战炮不仅继承了迫击炮所有的优劣之处，其射击预热速度也是它的两倍快——不过代价则是只有不到90度的锥形射击角。</VFEP_Turret_FieldGun.description>
   <!--EN: field gun-->
   <VFEP_Turret_FieldGun.label>野战炮</VFEP_Turret_FieldGun.label>
   <!--EN: A complex foundry with four operating arms designed to assist an operator in mounting a person into the frame of a warcasket. Once they are locked in, the pilot cannot leave until the procedure is finished.\n\nTo begin, an operator starts linking them to the suit - their nerves and limbs permanently linked to the frame. Since the warcasket is not designed to register wear or damage they will feel no pain. The pilot can exit the foundry only when the final rivet is placed, the last plate is welded, and the power system is brought online. Until then they will need external help such as feeding as they are effectively buried alive.\n\nBecause the various parts of the warcasket are welded onto the frame as a single, homogenous entity,  one can mix and match various designs to suit the situation but certain later generations of warcaskets function better if they are part of the same series.-->
-  <VFEP_WarcasketFoundry.description>一个复杂的铸造厂，有四个操作臂，旨在帮助操作员将人安装到战棺框架中。一旦它们被锁定，飞行员就无法离开，直到程序完成。
-
-首先，操作员开始将它们连接到宇航服上 - 他们的神经和四肢永久连接到框架上。由于战棺的设计不是为了记录磨损或损坏，因此他们不会感到疼痛。只有当最后一个铆钉被放置、最后一块板被焊接并且电力系统上线时，飞行员才能离开铸造厂。在此之前，它们将需要外部帮助，例如喂食，因为它们实际上是被活埋的。
-
-由于战棺的各个部分作为一个单一的同质实体焊接到框架上，因此可以混合搭配各种设计以适应情况，但某些后续版本的战棺如果属于同一系列，则功能会更好。</VFEP_WarcasketFoundry.description>
+  <VFEP_WarcasketFoundry.description>搭载有四条机械臂的精密铸造厂，能够协助操作者将需要接受改造的驾驶员安置于战棺的主体框架中。一旦完成安全锁定，在战棺组装完成前，驾驶员都无法主动离开。\n\n开始组装时，操作者会将驾驶员封入作为基底的连体套装中——他们的神经与肢体会永久性地与战棺的主体框架相连接。由于战棺在设计时就有着不计一切损耗的目的，为了能够战斗至死，驾驶员的痛觉神经会被完全切断。只有当战棺完全组装完毕并开始运作后，驾驶员才可以离开铸造厂。在此之前，由于驾驶员的活动完全受限，因此进食等需求必须要借助外力才能解决。\n\n因为战棺是将各种规格统一的独立机体部件焊接在主体框架上以进行组装的，你可以自由地混搭设计以应对各种状况。不过，有些型号的部件还是要配套组装才能让战棺发挥出最佳机能。</VFEP_WarcasketFoundry.description>
   <!--EN: warcasket foundry-->
   <VFEP_WarcasketFoundry.label>战棺铸造厂</VFEP_WarcasketFoundry.label>
   <!--EN: A portable version of the autocannon designed for use by a warcasket. Due to a shortened barrel it has a lower range, less penetration and damage compared to the turreted version. However, it is very capable in close quarters combat which makes up for the slight accuracy loss at greater ranges.-->
-  <VFEP_WarcasketGun_Autorifle.description>便携式版本的自动加农炮设计用于战棺。由于枪管较短，与炮塔版本相比，它的射程更短，穿透和伤害也更少。然而，它在近距离战斗中非常有能力，这弥补了在更远距离上的轻微精度损失。</VFEP_WarcasketGun_Autorifle.description>
+  <VFEP_WarcasketGun_Autorifle.description>一种为战棺设计的便携式自动加农炮。由于枪管长度做了缩减处理，它的射程、伤害与护甲穿透都要比炮塔版本逊色一些。不过，它在近距离战斗中的优良表现弥补了打击远处目标时的微小精度损失。</VFEP_WarcasketGun_Autorifle.description>
   <!--EN: warcasket autorifle-->
-  <VFEP_WarcasketGun_Autorifle.label>自动步枪战匣</VFEP_WarcasketGun_Autorifle.label>
+  <VFEP_WarcasketGun_Autorifle.label>战棺自动步枪</VFEP_WarcasketGun_Autorifle.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_Autorifle.tools.0.label>库存</VFEP_WarcasketGun_Autorifle.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_Autorifle.tools.1.label>桶</VFEP_WarcasketGun_Autorifle.tools.1.label>
   <!--EN: Essentially an upscaled charge minigun designed to be used by a warcasket. While firing fewer projectiles in each burst, the ammunition has been improved with explosive payloads. Designed as a support weapon that completely invalidates cover for the unlucky bastards on the receiving end.-->
-  <VFEP_WarcasketGun_ChargeBlaster.description>本质上是一种升级版的冲锋机枪，设计用于战棺。虽然每次连射发射的射弹较少，但弹药的爆炸有效载荷有所改进。被设计成一种支援武器，让接收端的不幸混蛋的掩护完全失效。</VFEP_WarcasketGun_ChargeBlaster.description>
+  <VFEP_WarcasketGun_ChargeBlaster.description>一种为战棺设计的高级电荷急射机枪。虽然连射次数有所降低，但经过特殊改进的子弹可以对建筑造成更高的伤害，非常适合对付那些总喜欢躲在掩体后面的倒霉蛋们。</VFEP_WarcasketGun_ChargeBlaster.description>
   <!--EN: warcasket charge blaster-->
-  <VFEP_WarcasketGun_ChargeBlaster.label>战棺充能爆能器</VFEP_WarcasketGun_ChargeBlaster.label>
+  <VFEP_WarcasketGun_ChargeBlaster.label>战棺电荷爆裂机枪</VFEP_WarcasketGun_ChargeBlaster.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_ChargeBlaster.tools.0.label>库存</VFEP_WarcasketGun_ChargeBlaster.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_ChargeBlaster.tools.1.label>桶</VFEP_WarcasketGun_ChargeBlaster.tools.1.label>
   <!--EN: A terror on the battlefield, the charge lance received a massive upgrade for warcasket use. A considerably more powerful energy source gives it superior stopping power, able to fire multiple larger projectiles at a greater range with improved accuracy and penetration.-->
-  <VFEP_WarcasketGun_ChargeLance.description>冲锋枪是战场上的恐怖之物，经过大规模升级，可用于战棺。更强大的能源赋予它卓越的制动力，能够在更大的范围内发射多个更大的射弹，并提高精度和穿透。</VFEP_WarcasketGun_ChargeLance.description>
+  <VFEP_WarcasketGun_ChargeLance.description>一种为战棺设计的高级电荷标枪。这种武器不仅整体设计经过了改进，内置电源也换用了更强力的型号。与其普通版本相比，它拥有更高的射程、威力、护甲穿透、精度以及全新的三连发射击模式。</VFEP_WarcasketGun_ChargeLance.description>
   <!--EN: warcasket charge lance-->
-  <VFEP_WarcasketGun_ChargeLance.label>战棺冲锋枪</VFEP_WarcasketGun_ChargeLance.label>
+  <VFEP_WarcasketGun_ChargeLance.label>战棺电荷标枪</VFEP_WarcasketGun_ChargeLance.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_ChargeLance.tools.0.label>库存</VFEP_WarcasketGun_ChargeLance.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_ChargeLance.tools.1.label>桶</VFEP_WarcasketGun_ChargeLance.tools.1.label>
   <!--EN: An upscaled version of the grenade launcher designed for use by a warcasket. A straight upgrade, it fires in bursts of 3 and benefits from recoil damping for faster recovery and better range. Like all launchers though, it has a worse miss radius compared to a hand-thrown grenade.-->
-  <VFEP_WarcasketGun_GrenadeLauncher.description>榴弹发射器的升级版，专为战棺设计。直接升级后，它可连射 3 发，并受益于后坐力阻尼，可实现更快的恢复和更远的射程。但与所有发射器一样，与手榴弹相比，它的脱靶半径更差。</VFEP_WarcasketGun_GrenadeLauncher.description>
+  <VFEP_WarcasketGun_GrenadeLauncher.description>一种为战棺设计的高级榴弹发射器。这种升级版本单次开火能够连射三发榴弹，全新采用的后坐力抑制器既提高了武器的射程，也降低了射击后的冷却时间。与破片手榴弹相比，它的误差半径要更高一些。</VFEP_WarcasketGun_GrenadeLauncher.description>
   <!--EN: warcasket grenade launcher-->
   <VFEP_WarcasketGun_GrenadeLauncher.label>战棺榴弹发射器</VFEP_WarcasketGun_GrenadeLauncher.label>
   <!--EN: stock-->
@@ -235,15 +224,15 @@ Privateers usually specialize in getting in and out of dangerous situations easi
   <!--EN: barrel-->
   <VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>桶</VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>
   <!--EN: Essentially a handheld smoothbore mortar that fires explosives in an arc, able to bypass enemy fortifications. Made by those who wanted to combine ancient naval warfare with modern technology. The accuracy is abysmal but the onboard fabricator ensures that artillery fire can be provided without ever needing a resupply.-->
-  <VFEP_WarcasketGun_HandheldCannon.description>本质上是一种手持式滑膛迫击炮，可以沿弧线发射炸药，能够绕过敌人的防御工事。由那些想要将古代海战与现代技术结合起来的人制造。精度很差，但机载制造商确保无需补给即可提供炮火。</VFEP_WarcasketGun_HandheldCannon.description>
+  <VFEP_WarcasketGun_HandheldCannon.description>一种为战棺设计的手持滑膛加农炮，同时也是用于证明古代海战武器和现代科技能够完美结合的最佳实例。这种武器曲射出的炮弹可以直接越过敌人的防御工事，虽然精度一言难尽，但好在不需要为装填弹药而头疼。</VFEP_WarcasketGun_HandheldCannon.description>
   <!--EN: warcasket handheld cannon-->
-  <VFEP_WarcasketGun_HandheldCannon.label>战棺手持式大炮</VFEP_WarcasketGun_HandheldCannon.label>
+  <VFEP_WarcasketGun_HandheldCannon.label>战棺手持加农炮</VFEP_WarcasketGun_HandheldCannon.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_HandheldCannon.tools.0.label>库存</VFEP_WarcasketGun_HandheldCannon.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_HandheldCannon.tools.1.label>桶</VFEP_WarcasketGun_HandheldCannon.tools.1.label>
   <!--EN: An upscaled version of the heavy flamer designed for use by a warcasket. Thanks to the twin barrels and larger heat sink, it can spit out two jets of flames while also needing less time to prevent overheating.-->
-  <VFEP_WarcasketGun_HeavyFlamer.description>专为战棺使用而设计的重型火焰喷射器的升级版。得益于双枪管和更大的散热器，它可以喷出两股火焰，同时也需要更少的时间来防止过热。</VFEP_WarcasketGun_HeavyFlamer.description>
+  <VFEP_WarcasketGun_HeavyFlamer.description>一种为战棺设计的高级火焰喷射器。归功于全新采用的双喷管与大型散热装置，它既能同时释放两条可怖的火舌来焚烧敌人，也不需要太多的冷却时间来预防武器过热。</VFEP_WarcasketGun_HeavyFlamer.description>
   <!--EN: warcasket heavy flamer-->
   <VFEP_WarcasketGun_HeavyFlamer.label>战棺重型火焰喷射器</VFEP_WarcasketGun_HeavyFlamer.label>
   <!--EN: stock-->
@@ -251,47 +240,47 @@ Privateers usually specialize in getting in and out of dangerous situations easi
   <!--EN: barrel-->
   <VFEP_WarcasketGun_HeavyFlamer.tools.1.label>桶</VFEP_WarcasketGun_HeavyFlamer.tools.1.label>
   <!--EN: An upscaled version of the minigun designed for use by a warcasket. It uses larger caliber rounds which are poorly made en masse due to how many rounds need to be manufactured. Thus, it has a slower rate of fire and armor penetration, but who cares because no one wants to be on the receiving end of this amount of dakka.-->
-  <VFEP_WarcasketGun_Minigun.description>迷你枪的升级版，专为战棺使用而设计。它使用较大口径的子弹，由于需要制造多少发子弹，因此整体制造质量较差。因此，它的火力和装甲速度较慢穿透，但谁在乎呢，因为没有人愿意成为这么多达卡的接收端。</VFEP_WarcasketGun_Minigun.description>
+  <VFEP_WarcasketGun_Minigun.description>一种为战棺设计的高级速射机枪。虽然采用了口径更大的弹药，但生产压力的激增也导致子弹的质量无法得到保障。与普通版本的速射机枪相比，它的射速与护甲穿透要略低一些。不过...谁他娘的在乎这个？我觉得不会有人想被这玩意儿打成筛子的。</VFEP_WarcasketGun_Minigun.description>
   <!--EN: warcasket minigun-->
-  <VFEP_WarcasketGun_Minigun.label>战棺机枪</VFEP_WarcasketGun_Minigun.label>
+  <VFEP_WarcasketGun_Minigun.label>战棺速射机枪</VFEP_WarcasketGun_Minigun.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_Minigun.tools.0.label>库存</VFEP_WarcasketGun_Minigun.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_Minigun.tools.1.label>桶</VFEP_WarcasketGun_Minigun.tools.1.label>
   <!--EN: An upscaled version of the pump shotgun designed for use by a warcasket. Each cartridge fired contains 4 pellets larger than slugs from a regular-sized shotgun, giving it better range, armor penetration and much better damage. The recoil is insane though, even for a warcasket’s recoil damping system.-->
-  <VFEP_WarcasketGun_Slugthrower.description>泵动霰弹枪的升级版，专为战棺使用而设计。每个发射的弹药筒包含 4 个弹丸，比普通尺寸霰弹枪的弹头大，使其具有更好的射程、装甲 穿透 和更好的伤害。即使对于战棺的后坐阻尼系统来说，后坐力也是疯狂的。</VFEP_WarcasketGun_Slugthrower.description>
+  <VFEP_WarcasketGun_Slugthrower.description>一种为战棺设计的高级泵动霰弹枪。这种升级版本能够连射四发装有更多弹丸的霰弹，它的射程、伤害与护甲穿透都要更强一些。美中不足的是，即便战棺搭载的后坐力抑制系统功率全开，也不足以抵消它开火时带来的巨大后坐力。</VFEP_WarcasketGun_Slugthrower.description>
   <!--EN: warcasket slugthrower-->
-  <VFEP_WarcasketGun_Slugthrower.label>战棺投弹者</VFEP_WarcasketGun_Slugthrower.label>
+  <VFEP_WarcasketGun_Slugthrower.label>战棺霰弹枪</VFEP_WarcasketGun_Slugthrower.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_Slugthrower.tools.0.label>库存</VFEP_WarcasketGun_Slugthrower.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_Slugthrower.tools.1.label>桶</VFEP_WarcasketGun_Slugthrower.tools.1.label>
   <!--EN: A portable version of the uranium slug cannon designed for use by a warcasket. Due to a shortened barrel it has less penetration, worse recoil and damage compared to the turreted version. However, it lacks the minimum range requirement thanks to a human operator and has better mid-range performance.-->
-  <VFEP_WarcasketGun_UraniumSlugRifle.description>铀弹头加农炮的便携式版本，设计用于战棺。由于枪管较短，与炮塔版本相比，它的穿透较少，后坐力和伤害更差。然而，由于需要人工操作，它缺乏最低范围要求，并且具有更好的中程性能。</VFEP_WarcasketGun_UraniumSlugRifle.description>
+  <VFEP_WarcasketGun_UraniumSlugRifle.description>一种为战棺设计的便携式铀弹加农炮。由于枪管长度做了缩减处理，它的伤害与护甲穿透都要比炮塔版本逊色一些，后坐力也明显增加了不少。不过，它在中远距离战斗中的表现十分优秀，驾驶员的手动操控也消除了原本的最小射击距离限制。</VFEP_WarcasketGun_UraniumSlugRifle.description>
   <!--EN: warcasket uranium slug rifle-->
-  <VFEP_WarcasketGun_UraniumSlugRifle.label>战棺铀子弹步枪</VFEP_WarcasketGun_UraniumSlugRifle.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.label>战棺铀弹步枪</VFEP_WarcasketGun_UraniumSlugRifle.label>
   <!--EN: stock-->
   <VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>库存</VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>
   <!--EN: barrel-->
   <VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>桶</VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>
   <!--EN: A very unique melee weapon exclusively made for warcaskets. It combines massive weight and a cutting force that gives it no equal in melee combat. While it was intended for use against other warcaskets, it works just as well against smaller targets that would normally be considered armored.-->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.description>专为战棺打造的非常独特的近战武器。它结合了巨大的重量和切割力，使其在近战战斗中无与伦比。虽然它的目的是用于对付其他战棺，但它也可以对付通常被认为是装甲的较小目标。</VFEP_WarcasketMeleeWeapon_Broadsword.description>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.description>一种为战棺设计的特殊重型近战武器，其强大的切砍力能轻易地将敌人撕碎。虽然这种巨剑主要是用来对抗其他战棺的，但对小体型的装甲目标也同样有效。</VFEP_WarcasketMeleeWeapon_Broadsword.description>
   <!--EN: warcasket broadsword-->
-  <VFEP_WarcasketMeleeWeapon_Broadsword.label>战棺阔剑</VFEP_WarcasketMeleeWeapon_Broadsword.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.label>战棺巨剑</VFEP_WarcasketMeleeWeapon_Broadsword.label>
   <!--EN: point-->
   <VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>观点</VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>
   <!--EN: blade-->
   <VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>刀刃</VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>
   <!--EN: An upscaled version of the combat knife designed for use by a warcasket. It is only still called a knife due to size comparison to a warcasket, but it is capable of cleaving a man in half and is just as large. The preferred weapon for the faster moving warcaskets that prioritize lightly armored, isolated targets.-->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>专为战棺使用而设计的战斗刀的升级版。由于与战棺相比，它仍然被称为刀，但它能够将人劈成两半，而且同样大。移动速度较快的战棺的首选武器，优先攻击轻装甲、孤立的目标。</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>一种为战棺设计的高级战术短刀。虽然它的尺寸并不小，但在战棺的手中只能算得上是“短刀”，不过这也足以将血肉之躯的敌人拦腰斩断了。对于高机动性的战棺来说，这种武器是猎捕轻甲与落单目标的不二之选。</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
   <!--EN: warcasket combat knife-->
-  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>战棺战斗刀</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>战棺战术短刀</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
   <!--EN: point-->
   <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>观点</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>
   <!--EN: blade-->
   <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>刀刃</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>
   <!--EN: A monumental piece of anti-personnel technology that can only be properly utilized by the oversized warcaskets. Practically an engine block fitted to the end of a mech’s limb actuator, equipped with multiple pneumatic plates covering miniature repulsor generators designed for riot control. In layman’s terms, a strike from the head will launch the target backwards by several meters.-->
-  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>这是一项具有里程碑意义的杀伤人员技术，只有超大的战棺才能正确使用。实际上是一个安装在机甲肢体执行器末端的发动机组，配备了多个气动板，覆盖着专为防暴设计的微型斥力发生器。通俗地说，从头部发起攻击，会将目标向后弹射数米。</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>一种为战棺设计的重型战锤。这种武器的锤头内部搭载了用于增强冲击力的小型驱动装置，外部则覆有多层坚固严密的气动传压装甲板。什么？你说完全听不懂？好吧，用通俗易懂的话来讲就是：用这大宝贝狠狠地向敌人头部锤去，你就能把它们击飞好几米远。</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
   <!--EN: warcasket gravity hammer-->
   <VFEP_WarcasketMeleeWeapon_GravityHammer.label>战棺重力锤</VFEP_WarcasketMeleeWeapon_GravityHammer.label>
   <!--EN: head-->
@@ -299,7 +288,7 @@ Privateers usually specialize in getting in and out of dangerous situations easi
   <!--EN: handle-->
   <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>处理</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>
   <!--EN: A military modification of the Plasmasaw, adapted for use by warcaskets for anti-materiel purposes. The original intention for this bastard sword was for it to be able to extend like a whip while also having a simple straight form, however issues with containing the plasma shelved the idea. Instead, the links are used to change the length of the sword as well as allow easier replacement of damaged sections.-->
-  <VFEP_WarcasketMeleeWeapon_PlasmaSword.description>等离子锯的军事改良版，适合用于反物资用途的战箱。这把混蛋剑的初衷是让它能够像鞭子一样延伸，同时还具有简单的笔直形状，但是由于包含等离子体的问题而搁置了这个想法。相反，这些连杆用于改变剑的长度，并可以更轻松地更换损坏的部分。</VFEP_WarcasketMeleeWeapon_PlasmaSword.description>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.description>一种为战棺设计的军用改进型等离子锯。据设计者所言，这种武器最初是想做成像剑鞭一样既能伸缩抽击也能挥砍刺击的变形武器，但由于与等离子科技的作用方式相悖，因此只好作罢。不过，伸缩功能却依旧被保留了下来，使用者可以根据喜好来改变剑身长度，也能更方便地为受损的地方做部件替换。</VFEP_WarcasketMeleeWeapon_PlasmaSword.description>
   <!--EN: warcasket plasma sword-->
   <VFEP_WarcasketMeleeWeapon_PlasmaSword.label>战棺等离子剑</VFEP_WarcasketMeleeWeapon_PlasmaSword.label>
   <!--EN: point-->

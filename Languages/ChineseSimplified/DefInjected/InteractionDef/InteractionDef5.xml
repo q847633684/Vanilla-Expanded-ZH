@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: attempt interrogation-->
-  <VFEA_InterrogatePrisoner.label>尝试审讯</VFEA_InterrogatePrisoner.label>
+  <VFEA_InterrogatePrisoner.label>试图审讯</VFEA_InterrogatePrisoner.label>
   <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]向[RECIPIENT_nameDef]索要[information]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]要求[RECIPIENT_nameDef]提供[information]。</li>
     <!--EN: information->information-->
     <li>information-&gt;信息</li>
     <!--EN: information->knowledge-->
-    <li>information-&gt;知识</li>
+    <li>information-&gt;技术知识</li>
     <!--EN: information->intelligence-->
     <li>information-&gt;情报</li>
   </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
@@ -18,33 +18,33 @@
     <!--EN: r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].-->
     <li>r_logentry-&gt;[INITIATOR_nameDef]告诉[RECIPIENT_nameDef][RECIPIENT_pronoun][negative]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] 解释了 [RECIPIENT_nameDef] [negative]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]说[RECIPIENT_nameDef][negative]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].-->
-    <li>如果 [RECIPIENT_pronoun] [refused]，r_logentry-&gt;[INITIATOR_nameDef] 就会用 [threat] 威胁 [RECIPIENT_nameDef]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]说如果[RECIPIENT_nameDef][refused]，那么将会用[threat]来威胁[RECIPIENT_pronoun]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]通知[RECIPIENT_nameDef][RECIPIENT_pronoun][disillusionment]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]说，[RECIPIENT_pronoun][disillusionment]。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]向殖民地要求[RECIPIENT_nameDef][givein]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]要求[RECIPIENT_nameDef]向殖民地[givein]。</li>
     <!--EN: negative->had no future-->
     <li>negative-&gt;没有未来</li>
     <!--EN: negative->had no way to escape-->
-    <li>negative-&gt;无路可逃</li>
+    <li>negative-&gt;逃不掉的</li>
     <!--EN: negative->should submit immediately-->
-    <li>negative-&gt;应立即提交</li>
+    <li>negative-&gt;应该马上投降</li>
     <!--EN: negative->should forget [RECIPIENT_possessive] aspirations-->
-    <li>negative-&gt;应该忘记[RECIPIENT_possessive]的愿望</li>
+    <li>negative-&gt;应该放弃[RECIPIENT_possessive]抱负</li>
     <!--EN: negative->should submit to the colony-->
-    <li>negative-&gt;应提交给殖民地</li>
+    <li>negative-&gt;应该投靠殖民地</li>
     <!--EN: negative->should give up the information-->
-    <li>negative-&gt;应放弃该信息</li>
+    <li>negative-&gt;应该立刻从实招来</li>
     <!--EN: threat->torture-->
-    <li>threat-&gt;酷刑</li>
+    <li>threat-&gt;折磨</li>
     <!--EN: threat->punishment-->
     <li>threat-&gt;惩罚</li>
     <!--EN: threat->mutilation-->
-    <li>threat-&gt;残害</li>
+    <li>threat-&gt;酷刑</li>
     <!--EN: threat->starvation-->
-    <li>threat-&gt;饥饿</li>
+    <li>threat-&gt;断粮</li>
     <!--EN: threat->lifetime incarceration-->
     <li>threat-&gt;终身监禁</li>
     <!--EN: threat->death-->
@@ -54,40 +54,40 @@
     <!--EN: threat->dismemberment-->
     <li>threat-&gt;肢解</li>
     <!--EN: threat->blunt trauma-->
-    <li>threat-&gt;钝性创伤</li>
+    <li>threat-&gt;殴打</li>
     <!--EN: threat->lacerations-->
-    <li>threat-&gt;撕裂伤</li>
+    <li>threat-&gt;刀割</li>
     <!--EN: threat->cannibalism-->
-    <li>threat-&gt;同类相食</li>
+    <li>threat-&gt;吃人</li>
     <!--EN: threat->organ harvesting-->
-    <li>threat-&gt;摘取器官</li>
+    <li>threat-&gt;收割器官</li>
     <!--EN: threat->long confinement-->
     <li>threat-&gt;长期监禁</li>
     <!--EN: refused->tried to escape-->
     <li>refused-&gt;试图逃跑</li>
     <!--EN: refused->insulted the colony-->
-    <li>refused-&gt;侮辱了殖民地</li>
+    <li>refused-&gt;侮辱殖民地</li>
     <!--EN: refused->resisted submitting-->
-    <li>refused-&gt;拒绝提交</li>
+    <li>refused-&gt;拒绝屈服</li>
     <!--EN: refused->behaved impertinently-->
-    <li>refused-&gt;行为无礼</li>
+    <li>refused-&gt;粗鲁不敬</li>
     <!--EN: disillusionment->should accept [RECIPIENT_possessive] situation-->
-    <li>disillusionment-&gt;应该接受[RECIPIENT_possessive]情况</li>
+    <li>disillusionment-&gt;应该接受[RECIPIENT_possessive]现状</li>
     <!--EN: disillusionment->had no hope for another future-->
-    <li>disillusionment-&gt;对另一个未来没有希望</li>
+    <li>disillusionment-&gt;不要再期盼着别人的救援了</li>
     <!--EN: disillusionment->would be best off submitting-->
-    <li>disillusionment-&gt;最好提交</li>
+    <li>disillusionment-&gt;最好从实招来</li>
     <!--EN: disillusionment->would not survive on [RECIPIENT_possessive] own-->
-    <li>disillusionment-&gt;无法独自生存[RECIPIENT_possessive]</li>
+    <li>disillusionment-&gt;只凭自己是活不下来的</li>
     <!--EN: disillusionment->had no option but to submit-->
-    <li>disillusionment-&gt;别无选择，只能提交</li>
+    <li>disillusionment-&gt;别无选择</li>
     <!--EN: givein->give in-->
-    <li>givein-&gt;屈服</li>
+    <li>givein-&gt;投降</li>
     <!--EN: givein->submit [RECIPIENT_objective]self-->
-    <li>givein-&gt;提交[RECIPIENT_objective]自己</li>
+    <li>givein-&gt;屈服</li>
     <!--EN: givein->surrender [RECIPIENT_objective]self-->
-    <li>givein-&gt;投降[RECIPIENT_objective]自己</li>
+    <li>givein-&gt;服从</li>
     <!--EN: givein->yield [RECIPIENT_objective]self-->
-    <li>givein-&gt;屈服于[RECIPIENT_objective]自己</li>
+    <li>givein-&gt;求饶</li>
   </VFEA_Intimidate.logRulesInitiator.rulesStrings>
 </LanguageData>

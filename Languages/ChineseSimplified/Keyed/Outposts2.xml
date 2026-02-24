@@ -59,15 +59,15 @@
   <!--EN: All occupants must be armed and ready for combat.-->
   <Outposts.MustBeArmed>所有人员都必须武装起来并做好战斗准备。</Outposts.MustBeArmed>
   <!--EN: Must be made in the {0}-->
-  <Outposts.MustBeMade>必须在 {0} 中进行</Outposts.MustBeMade>
+  <Outposts.MustBeMade>必须建立在{0}上</Outposts.MustBeMade>
   <!--EN: Must be made in mountains or hills-->
-  <Outposts.MustBeMade.Hill>必须在山区或丘陵中制作</Outposts.MustBeMade.Hill>
+  <Outposts.MustBeMade.Hill>必须建立在山地或丘陵地形上</Outposts.MustBeMade.Hill>
   <!--EN: Must be made on the coast or a river-->
   <Outposts.MustBeOnCoastOrRiver>必须在海岸或河流上制作</Outposts.MustBeOnCoastOrRiver>
   <!--EN: Not enough nearby settlements, need {0} within {1} tiles-->
   <Outposts.NearbySettlements>附近没有足够的定居点，需要在 {1} 格内的 {0}</Outposts.NearbySettlements>
   <!--EN: Animals Importance-->
-  <Outposts.Settings.Animals>动物的重要性</Outposts.Settings.Animals>
+  <Outposts.Settings.Animals>驯兽技能等级对产出的影响</Outposts.Settings.Animals>
   <!--EN: Recruit chance Multiplier-->
   <Outposts.Settings.Chance>招募机会乘数</Outposts.Settings.Chance>
   <!--EN: Cooldown-->
@@ -79,23 +79,23 @@
   <!--EN: This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk-->
   <Outposts.Settings.InterceptDifficultyMultiplierTooltip>这是在你的全局难度修正之上的，拦截已经比常规的防御袭击更难了。向上调整需要您自担风险</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
   <!--EN: Leather Multiplier-->
-  <Outposts.Settings.Leather>皮革倍增器</Outposts.Settings.Leather>
+  <Outposts.Settings.Leather>皮革产出乘数</Outposts.Settings.Leather>
   <!--EN: Meat Multiplier-->
-  <Outposts.Settings.Meat>肉类倍增器</Outposts.Settings.Meat>
+  <Outposts.Settings.Meat>肉类产出乘数</Outposts.Settings.Meat>
   <!--EN: Drop Pods Require Fuel-->
   <Outposts.Settings.NeedFuel>空投舱需要燃料</Outposts.Settings.NeedFuel>
   <!--EN: Amount of Fuel-->
   <Outposts.Settings.NeedFuelAmount>燃油量</Outposts.Settings.NeedFuelAmount>
   <!--EN: Need Transport Pods Tech to Deploy Reinforcements?-->
-  <Outposts.Settings.NeedPods>需要运输舱技术来部署增援？</Outposts.Settings.NeedPods>
+  <Outposts.Settings.NeedPods>是否需要解锁运输舱科技才能空投援军？</Outposts.Settings.NeedPods>
   <!--EN: Research Rate-->
   <Outposts.Settings.ResearchRate>研究率</Outposts.Settings.ResearchRate>
   <!--EN: Shooting Importance-->
-  <Outposts.Settings.Shooting>拍摄的重要性</Outposts.Settings.Shooting>
+  <Outposts.Settings.Shooting>射击技能等级对产出的影响</Outposts.Settings.Shooting>
   <!--EN: Time To Drill (Needs to happen before production starts)-->
   <Outposts.Settings.WorkToDrill>钻孔时间（需要在生产开始之前进行）</Outposts.Settings.WorkToDrill>
   <!--EN: Total skill too low, needs {0}-->
-  <Outposts.SkillTooLow>总技能太低，需要 {0}</Outposts.SkillTooLow>
+  <Outposts.SkillTooLow>总技能等级过低，需求{0}</Outposts.SkillTooLow>
   <!--EN: May recruit some new pawns in {0}-->
   <Outposts.WillProduce.Pawns>可能会在 {0} 中招募一些新棋子</Outposts.WillProduce.Pawns>
 </LanguageData>

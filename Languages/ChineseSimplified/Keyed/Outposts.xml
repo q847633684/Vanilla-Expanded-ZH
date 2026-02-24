@@ -1,148 +1,147 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Outpost Abandoned-->
-  <Outposts.Abandoned>废弃前哨站</Outposts.Abandoned>
+  <Outposts.Abandoned>已放弃据点</Outposts.Abandoned>
   <!--EN: {0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there.-->
-  <Outposts.Abandoned.Desc>{0} 由于内部无人运行而被废弃。它很快就会被大自然掠夺和接管，不留任何痕迹。</Outposts.Abandoned.Desc>
+  <Outposts.Abandoned.Desc>因为空无一人，据点{0}已被放弃。它将很快被其他人洗劫一空，最终变为大自然的一部分。</Outposts.Abandoned.Desc>
   <!--EN: Add to outpost-->
-  <Outposts.AddTo>添加到前哨站</Outposts.AddTo>
+  <Outposts.AddTo>加入据点</Outposts.AddTo>
   <!--EN: Your transport pods have arrived. {0} has been added to {1}.-->
-  <Outposts.AddedFromTransportPods>您的运输舱已抵达。 {0} 已添加到 {1}。</Outposts.AddedFromTransportPods>
+  <Outposts.AddedFromTransportPods>你的运输舱已经抵达目的地。{0}已加入至{1}。</Outposts.AddedFromTransportPods>
   <!--EN: Must be in one of the following biomes:-->
-  <Outposts.AllowedBiomes>必须位于以下生物群落之一：</Outposts.AllowedBiomes>
+  <Outposts.AllowedBiomes>必须建立在以下生态地形上：</Outposts.AllowedBiomes>
   <!--EN: Already packing-->
-  <Outposts.AlreadyPacking>已经打包了</Outposts.AlreadyPacking>
+  <Outposts.AlreadyPacking>已打包</Outposts.AlreadyPacking>
   <!--EN: Cannot be made in {0}-->
-  <Outposts.CannotBeMade>无法在 {0} 中制作</Outposts.CannotBeMade>
+  <Outposts.CannotBeMade>无法建立在{0}地形上</Outposts.CannotBeMade>
   <!--EN: Cannot remove pawns: Only 1 inhabitant. If you want to remove this outpost, select "Pack".-->
-  <Outposts.Command.Remove.Only1>无法移除典当：只有 1 名居民。如果您想删除该前哨站，请选择“打包”。</Outposts.Command.Remove.Only1>
+  <Outposts.Command.Remove.Only1>无法撤出：据点内仅剩1名殖民者或动物。如果要放弃此据点，请选择“打包”。</Outposts.Command.Remove.Only1>
   <!--EN: Transfer a pawn from this caravan to the outpost-->
-  <Outposts.Commands.AddPawn.Desc>将 pawn 从此商队转移到前哨站</Outposts.Commands.AddPawn.Desc>
+  <Outposts.Commands.AddPawn.Desc>将远行队里的指定殖民者或动物转移到据点中。</Outposts.Commands.AddPawn.Desc>
   <!--EN: Add Pawn-->
-  <Outposts.Commands.AddPawn.Label>添加典当</Outposts.Commands.AddPawn.Label>
+  <Outposts.Commands.AddPawn.Label>增派</Outposts.Commands.AddPawn.Label>
   <!--EN: Create a new outpost using this caravan-->
-  <Outposts.Commands.Create.Desc>使用这个商队创建一个新的前哨站</Outposts.Commands.Create.Desc>
+  <Outposts.Commands.Create.Desc>让此远行队建立一个新的据点。</Outposts.Commands.Create.Desc>
   <!--EN: Create Outpost-->
-  <Outposts.Commands.Create.Label>创建前哨站</Outposts.Commands.Create.Label>
+  <Outposts.Commands.Create.Label>建立据点</Outposts.Commands.Create.Label>
   <!--EN: Select which colony will recieve the goods. Currently: {0}-->
-  <Outposts.Commands.DeliveryColony.Desc>选择哪个殖民地将收到货物。当前：{0}</Outposts.Commands.DeliveryColony.Desc>
+  <Outposts.Commands.DeliveryColony.Desc>选择此据点产出的物品要交付至哪个殖民地。当前交付地：{0}</Outposts.Commands.DeliveryColony.Desc>
   <!--EN: Delivery Destination-->
-  <Outposts.Commands.DeliveryColony.Label>送货目的地</Outposts.Commands.DeliveryColony.Label>
+  <Outposts.Commands.DeliveryColony.Label>物品交付地</Outposts.Commands.DeliveryColony.Label>
   <!--EN: Take items from {0} and add them to the outpost-->
-  <Outposts.Commands.GiveItems.Desc>从 {0} 获取物品并将其添加到前哨站</Outposts.Commands.GiveItems.Desc>
+  <Outposts.Commands.GiveItems.Desc>让{0}向据点中存放物品。</Outposts.Commands.GiveItems.Desc>
   <!--EN: Give items-->
-  <Outposts.Commands.GiveItems.Label>给予物品</Outposts.Commands.GiveItems.Label>
+  <Outposts.Commands.GiveItems.Label>存放物品</Outposts.Commands.GiveItems.Label>
   <!--EN: Begin packing this outpost back into a caravan-->
-  <Outposts.Commands.Pack.Desc>开始将这个前哨站装回大篷车</Outposts.Commands.Pack.Desc>
+  <Outposts.Commands.Pack.Desc>打包据点并重新组建远行队。</Outposts.Commands.Pack.Desc>
   <!--EN: Pack-->
-  <Outposts.Commands.Pack.Label>盒</Outposts.Commands.Pack.Label>
+  <Outposts.Commands.Pack.Label>打包</Outposts.Commands.Pack.Label>
   <!--EN: Remove a pawn from this outpost into a new caravan-->
-  <Outposts.Commands.Remove.Desc>将 pawn 从此前哨移至新商队中</Outposts.Commands.Remove.Desc>
+  <Outposts.Commands.Remove.Desc>将据点里的指定殖民者或动物转移到新的远行队中。</Outposts.Commands.Remove.Desc>
   <!--EN: Remove Pawn-->
-  <Outposts.Commands.Remove.Label>移除典当</Outposts.Commands.Remove.Label>
+  <Outposts.Commands.Remove.Label>撤出</Outposts.Commands.Remove.Label>
   <!--EN: Cancel packing this outpost into a caravan-->
-  <Outposts.Commands.StopPack.Desc>取消将此前哨站打包成商队</Outposts.Commands.StopPack.Desc>
+  <Outposts.Commands.StopPack.Desc>取消打包据点。</Outposts.Commands.StopPack.Desc>
   <!--EN: Stop packing-->
-  <Outposts.Commands.StopPack.Label>停止包装</Outposts.Commands.StopPack.Label>
+  <Outposts.Commands.StopPack.Label>取消打包</Outposts.Commands.StopPack.Label>
   <!--EN: Take items from {0} and add them to the caravan-->
-  <Outposts.Commands.TakeItems.Desc>从 {0} 中获取物品并将其添加到商队中</Outposts.Commands.TakeItems.Desc>
+  <Outposts.Commands.TakeItems.Desc>让远行队从据点{0}中带走物品。</Outposts.Commands.TakeItems.Desc>
   <!--EN: Take items-->
-  <Outposts.Commands.TakeItems.Label>拿取物品</Outposts.Commands.TakeItems.Label>
+  <Outposts.Commands.TakeItems.Label>带走物品</Outposts.Commands.TakeItems.Label>
   <!--EN: Contains {0} pawns-->
-  <Outposts.Contains>包含 {0} 棋子</Outposts.Contains>
+  <Outposts.Contains>殖民者与动物数量：{0}</Outposts.Contains>
   <!--EN: Create-->
-  <Outposts.Dialog.Create>创造</Outposts.Dialog.Create>
+  <Outposts.Dialog.Create>建立</Outposts.Dialog.Create>
   <!--EN: Cannot be in any of the following biomes:-->
-  <Outposts.DisallowedBiomes>不能位于以下任何生物群落中：</Outposts.DisallowedBiomes>
+  <Outposts.DisallowedBiomes>无法建立在以下生态地形上：</Outposts.DisallowedBiomes>
   <!--EN: Give-->
-  <Outposts.Give>给</Outposts.Give>
+  <Outposts.Give>存放</Outposts.Give>
   <!--EN: Must have ability to grow plants-->
-  <Outposts.GrowingRequired>必须具备种植植物的能力</Outposts.GrowingRequired>
+  <Outposts.GrowingRequired>必须能够生长植物</Outposts.GrowingRequired>
   <!--EN: We have managed to capture {0} in the aftermath-->
-  <Outposts.Letters.BattleWon.Captured>我们在事件发生后成功捕获了 {0}</Outposts.Letters.BattleWon.Captured>
+  <Outposts.Letters.BattleWon.Captured>我们已在战斗后成功俘获{0}。</Outposts.Letters.BattleWon.Captured>
   <!--EN: Outpost Battle Won-->
-  <Outposts.Letters.BattleWon.Label>前哨战获胜</Outposts.Letters.BattleWon.Label>
+  <Outposts.Letters.BattleWon.Label>据点战胜利</Outposts.Letters.BattleWon.Label>
   <!--EN: We have managed to recover {0}'s body-->
-  <Outposts.Letters.BattleWon.Rescued>我们已成功恢复 {0} 的尸体</Outposts.Letters.BattleWon.Rescued>
+  <Outposts.Letters.BattleWon.Rescued>&gt;我们已在战斗后成功找回了{0}的尸体。</Outposts.Letters.BattleWon.Rescued>
   <!--EN: We have secured: {0} worth of goods and weapons from the raiders-->
-  <Outposts.Letters.BattleWon.Secured>我们已从袭击者处获取了：价值 {0} 的货物和武器</Outposts.Letters.BattleWon.Secured>
+  <Outposts.Letters.BattleWon.Secured>我们已从袭击者处缴获了总价值为{0}的战利品。</Outposts.Letters.BattleWon.Secured>
   <!--EN: We have successfully won the battle for {0}.{1}-->
-  <Outposts.Letters.BattleWon.Text>我们已成功赢得 {0} 之战。{1}</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.BattleWon.Text>我们已成功赢得了发生在据点{0}的战斗。{1}</Outposts.Letters.BattleWon.Text>
   <!--EN: Items From {0}-->
-  <Outposts.Letters.Items.Label>来自 {0} 的项目</Outposts.Letters.Items.Label>
+  <Outposts.Letters.Items.Label>来自{0}的物品</Outposts.Letters.Items.Label>
   <!--EN: You have received the follow items from the outpost {0}:-->
-  <Outposts.Letters.Items.Text>您已从前哨站 {0} 收到以下物品：</Outposts.Letters.Items.Text>
+  <Outposts.Letters.Items.Text>据点{0}向你交付了以下物品：</Outposts.Letters.Items.Text>
   <!--EN: Outpost Lost-->
-  <Outposts.Letters.Lost.Label>前哨站失落</Outposts.Letters.Lost.Label>
+  <Outposts.Letters.Lost.Label>据点丢失</Outposts.Letters.Lost.Label>
   <!--EN: Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us.-->
-  <Outposts.Letters.Lost.Text>遗憾的是，由于所有居民的死亡，我们失去了{0}的前哨基地。</Outposts.Letters.Lost.Text>
+  <Outposts.Letters.Lost.Text>不幸的是，由于其中的殖民者全部死亡，我们失去了据点{0}。</Outposts.Letters.Lost.Text>
   <!--EN: Must have {0} in caravan-->
-  <Outposts.MustHaveInCaravan>商队中必须有 {0}</Outposts.MustHaveInCaravan>
+  <Outposts.MustHaveInCaravan>远行队必须拥有{0}</Outposts.MustHaveInCaravan>
   <!--EN: No valid pawns to add to outpost-->
-  <Outposts.NoValidPawns>没有有效的 pawn 可添加到前哨站</Outposts.NoValidPawns>
+  <Outposts.NoValidPawns>没有可以增派到据点中的有效殖民者或动物</Outposts.NoValidPawns>
   <!--EN: Not enough pawns in caravan, need at least {0}-->
-  <Outposts.NotEnoughPawns>商队中的棋子不足，至少需要 {0}</Outposts.NotEnoughPawns>
+  <Outposts.NotEnoughPawns>远行队中没有足够的殖民者。至少需要{0}名殖民者</Outposts.NotEnoughPawns>
   <!--EN: Pawns are not skilled enough, need a cumulative {0} skill of at least {1}-->
-  <Outposts.NotSkilledEnough>Pawn 技能不够，需要累积 {0} 技能至少 {1}</Outposts.NotSkilledEnough>
+  <Outposts.NotSkilledEnough>殖民者的技能等级不足。{0}技能的等级总和至少为{1}</Outposts.NotSkilledEnough>
   <!--EN: Must have at least {0} pawns willing to join the outpost-->
-  <Outposts.NumPawns>必须至少有 {0} 个 pawn 愿意加入前哨站</Outposts.NumPawns>
+  <Outposts.NumPawns>至少需要{0}名殖民者</Outposts.NumPawns>
   <!--EN: Packing into caravan. Done in {0}-->
-  <Outposts.Packing>打包进入大篷车。于 {0} 完成</Outposts.Packing>
+  <Outposts.Packing>正在打包据点并重新组建远行队。将在{0}内完成</Outposts.Packing>
   <!--EN: Cumulative {0} skill must be at least {1}-->
-  <Outposts.RequiredSkill>累计 {0} 技能必须至少为 {1}</Outposts.RequiredSkill>
+  <Outposts.RequiredSkill>{0}技能的等级总和至少为{1}</Outposts.RequiredSkill>
   <!--EN: Resting at outpost {0}-->
-  <Outposts.RestingAt>在前哨站休息 {0}</Outposts.RestingAt>
+  <Outposts.RestingAt>在据点{0}中休整。</Outposts.RestingAt>
   <!--EN: Confirm sending items to the outpost? They will be permanently lost.-->
-  <Outposts.SendNonPawns>确认将物品发送到前哨站吗？他们将永远丢失。</Outposts.SendNonPawns>
+  <Outposts.SendNonPawns>你真的想要将物品发射到据点里吗？它们将会永久丢失。</Outposts.SendNonPawns>
   <!--EN: Minimum Pawns to Create-->
-  <Outposts.Setting.MinimumPawns>创建的最少棋子</Outposts.Setting.MinimumPawns>
+  <Outposts.Setting.MinimumPawns>建立据点所需的最小殖民者与动物数量</Outposts.Setting.MinimumPawns>
   <!--EN: Pack Time-->
-  <Outposts.Setting.PackTime>打包时间</Outposts.Setting.PackTime>
+  <Outposts.Setting.PackTime>打包所需时间</Outposts.Setting.PackTime>
   <!--EN: Production Time-->
-  <Outposts.Setting.ProductionTime>生产时间</Outposts.Setting.ProductionTime>
+  <Outposts.Setting.ProductionTime>产出所需时间</Outposts.Setting.ProductionTime>
   <!--EN: Range-->
-  <Outposts.Setting.Range>范围</Outposts.Setting.Range>
+  <Outposts.Setting.Range>作用范围</Outposts.Setting.Range>
   <!--EN: Delivery Method-->
-  <Outposts.Settings.DeliveryMethod>交货方式</Outposts.Settings.DeliveryMethod>
+  <Outposts.Settings.DeliveryMethod>货物交付方式</Outposts.Settings.DeliveryMethod>
   <!--EN: Always send drop pods-->
-  <Outposts.Settings.DeliveryMethod.ForcePods>始终发送空投舱</Outposts.Settings.DeliveryMethod.ForcePods>
+  <Outposts.Settings.DeliveryMethod.ForcePods>发射运输舱</Outposts.Settings.DeliveryMethod.ForcePods>
   <!--EN: Send pack animal carrying items to colony-->
-  <Outposts.Settings.DeliveryMethod.PackAnimal>将携带物品的驮畜送至栖息地</Outposts.Settings.DeliveryMethod.PackAnimal>
+  <Outposts.Settings.DeliveryMethod.PackAnimal>派遣驮运动物</Outposts.Settings.DeliveryMethod.PackAnimal>
   <!--EN: Pods if available, otherwise pack animal-->
-  <Outposts.Settings.DeliveryMethod.PackOrPods>豆荚（如果有），否则打包动物</Outposts.Settings.DeliveryMethod.PackOrPods>
+  <Outposts.Settings.DeliveryMethod.PackOrPods>运输舱（需要解锁科技）或驮运动物</Outposts.Settings.DeliveryMethod.PackOrPods>
   <!--EN: Store items at outpost-->
-  <Outposts.Settings.DeliveryMethod.Store>在前哨站存放物品</Outposts.Settings.DeliveryMethod.Store>
+  <Outposts.Settings.DeliveryMethod.Store>将物品储存在据点中</Outposts.Settings.DeliveryMethod.Store>
   <!--EN: Teleport items to colony-->
-  <Outposts.Settings.DeliveryMethod.Teleport>将物品传送到殖民地</Outposts.Settings.DeliveryMethod.Teleport>
+  <Outposts.Settings.DeliveryMethod.Teleport>直接传送到殖民地</Outposts.Settings.DeliveryMethod.Teleport>
   <!--EN: Enable Outpost Raids?-->
-  <Outposts.Settings.DoRaids>启用前哨突袭吗？</Outposts.Settings.DoRaids>
+  <Outposts.Settings.DoRaids>据点是否会遭到袭击？</Outposts.Settings.DoRaids>
   <!--EN: Gloabal Production Multiplier: {0}-->
-  <Outposts.Settings.Multiplier.Production>全球产量乘数：{0}</Outposts.Settings.Multiplier.Production>
+  <Outposts.Settings.Multiplier.Production>全局产出乘数：{0}</Outposts.Settings.Multiplier.Production>
   <!--EN: Global Time Multiplier: {0}-->
-  <Outposts.Settings.Multiplier.Time>全局时间乘数：{0}</Outposts.Settings.Multiplier.Time>
+  <Outposts.Settings.Multiplier.Time>全局产出时间乘数：{0}</Outposts.Settings.Multiplier.Time>
   <!--EN: Production Multiplier-->
-  <Outposts.Settings.Production>生产乘数</Outposts.Settings.Production>
+  <Outposts.Settings.Production>总产出乘数</Outposts.Settings.Production>
   <!--EN: Global Raid Difficulty Multiplier: {0}-->
-  <Outposts.Settings.RaidDifficulty>全球团队副本难度乘数：{0}</Outposts.Settings.RaidDifficulty>
+  <Outposts.Settings.RaidDifficulty>全局袭击难度乘数：{0}</Outposts.Settings.RaidDifficulty>
   <!--EN: Raid Frequency Range-->
   <Outposts.Settings.RaidFrequency>袭击频率范围</Outposts.Settings.RaidFrequency>
   <!--EN: VE Framework - Outposts-->
-  <Outposts.Settings.Title>VE 框架 - 前哨站</Outposts.Settings.Title>
+  <Outposts.Settings.Title>Vanilla Outposts Expanded</Outposts.Settings.Title>
   <!--EN: Due to changes in skill level, {0} can no longer produce {1}-->
-  <Outposts.SkillChange>由于技能等级的变化，{0}无法再产生{1}</Outposts.SkillChange>
+  <Outposts.SkillChange>由于技能等级发生变化，{0}无法再产出{1}</Outposts.SkillChange>
   <!--EN: Take-->
-  <Outposts.Take>拿</Outposts.Take>
+  <Outposts.Take>带走</Outposts.Take>
   <!--EN: Too close to settlement or other outpost, must have at least 1 tile between them-->
-  <Outposts.TooClose>距离定居点或其他前哨站太近，它们之间必须至少有 1 个方块</Outposts.TooClose>
+  <Outposts.TooClose>与定居点或其它据点靠的太近了。两者之间至少需要相隔1格。</Outposts.TooClose>
   <!--EN: Cumulative {0} skill: {1}-->
-  <Outposts.TotalSkill>累积 {0} 技能：{1}</Outposts.TotalSkill>
+  <Outposts.TotalSkill>{0}技能等级总和：{1}</Outposts.TotalSkill>
   <!--EN: Will produce some items in {0}-->
-  <Outposts.WillProduce.0>将在 {0} 中生产一些物品</Outposts.WillProduce.0>
+  <Outposts.WillProduce.0>将在{0}内产出一些物品。</Outposts.WillProduce.0>
   <!--EN: Will produce {0} {1} in {2}-->
-  <Outposts.WillProduce.1>将在 {2} 中生成 {0} {1}</Outposts.WillProduce.1>
+  <Outposts.WillProduce.1>将在{2}内产出{0}{1}。</Outposts.WillProduce.1>
   <!--EN: Will produce {0} {1} and {2} {3} in {4}-->
-  <Outposts.WillProduce.2>将在 {4} 中生成 {0} {1} 和 {2} {3}</Outposts.WillProduce.2>
+  <Outposts.WillProduce.2>将在{4}内产出{0}{1}和{2}{3}。</Outposts.WillProduce.2>
   <!--EN: Will produce the following in {0}:\n{1}-->
-  <Outposts.WillProduce.N>将在 {0} 中生成以下内容：
-{1}</Outposts.WillProduce.N>
+  <Outposts.WillProduce.N>将在{0}内产出以下物品：\n{1}</Outposts.WillProduce.N>
 </LanguageData>

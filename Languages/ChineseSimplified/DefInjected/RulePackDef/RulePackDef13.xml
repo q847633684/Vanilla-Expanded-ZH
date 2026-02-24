@@ -2,11 +2,11 @@
 <LanguageData>
   <VFEA_InterrogationRefused.rulePack.rulesStrings>
     <!--EN: sent->[RECIPIENT_nameDef] refused.-->
-    <li>sent-&gt;[RECIPIENT_nameDef] 拒绝。</li>
+    <li>sent-&gt;[RECIPIENT_nameDef]拒不回答。</li>
   </VFEA_InterrogationRefused.rulePack.rulesStrings>
   <VFEA_InterrogationSuccess.rulePack.rulesStrings>
     <!--EN: sent->[RECIPIENT_nameDef] relented.-->
-    <li>sent-&gt;[RECIPIENT_nameDef]态度软化了。</li>
+    <li>sent-&gt;[RECIPIENT_nameDef]屈打成招了。</li>
   </VFEA_InterrogationSuccess.rulePack.rulesStrings>
   <VME_Commissar.rulePack.rulesStrings>
     <!--EN: r_roleName->Commissar-->
@@ -14,29 +14,29 @@
   </VME_Commissar.rulePack.rulesStrings>
   <VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
     <!--EN: r_deityType(p=4)->[businessname] [businesstype]-->
-    <li>r_deityType(p=4)-&gt;[businessname] [businesstype]</li>
+    <li>r_deityType(p=4)-&gt;[businessname][businesstype]</li>
     <!--EN: r_deityType->[NamePerson] [businesstype]-->
-    <li>r_deityType-&gt;[NamePerson] [businesstype]</li>
+    <li>r_deityType-&gt;[NamePerson][businesstype]</li>
     <!--EN: r_deityType->[maybe_adjective] [Animal] [businesstype]-->
-    <li>r_deityType-&gt;[maybe_adjective] [Animal] [businesstype]</li>
+    <li>r_deityType-&gt;[maybe_adjective][Animal][businesstype]</li>
     <!--EN: r_deityType->[Letter][Letter] [businesstype]-->
     <li>r_deityType-&gt;[Letter][Letter][businesstype]</li>
     <!--EN: r_deityType(p=0.5)->[PersonAlly] [businesstype]-->
-    <li>r_deityType(p=0.5)-&gt;[PersonAlly] [businesstype]</li>
+    <li>r_deityType(p=0.5)-&gt;[PersonAlly][businesstype]</li>
     <!--EN: r_deityType(p=0.5)->[AdjectiveFriendly] [businesstype]-->
-    <li>r_deityType(p=0.5)-&gt;[AdjectiveFriendly] [businesstype]</li>
+    <li>r_deityType(p=0.5)-&gt;[AdjectiveFriendly][businesstype]</li>
     <!--EN: r_deityType(p=0.5)->[AdjectiveBadass] [businesstype]-->
-    <li>r_deityType(p=0.5)-&gt;[AdjectiveBadass] [businesstype]</li>
+    <li>r_deityType(p=0.5)-&gt;[AdjectiveBadass][businesstype]</li>
     <!--EN: r_deityType(p=0.3)->[PersonFamily] [businesstype]-->
-    <li>r_deityType(p=0.3)-&gt;[PersonFamily] [businesstype]</li>
+    <li>r_deityType(p=0.3)-&gt;[PersonFamily][businesstype]</li>
     <!--EN: r_deityType(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]-->
-    <li>r_deityType(p=0.3)-&gt;[maybe_adjective] [NaturalObject] [businesstype]</li>
+    <li>r_deityType(p=0.3)-&gt;[maybe_adjective][NaturalObject][businesstype]</li>
     <!--EN: r_deityType(p=0.2)->[maybe_adjective] [TreeType] [businesstype]-->
-    <li>r_deityType(p=0.2)-&gt;[maybe_adjective] [TreeType] [businesstype]</li>
+    <li>r_deityType(p=0.2)-&gt;[maybe_adjective][TreeType][businesstype]</li>
     <!--EN: r_deityType(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]-->
-    <li>r_deityType(p=0.2)-&gt;[maybe_adjective] [Vegetable] [businesstype]</li>
+    <li>r_deityType(p=0.2)-&gt;[maybe_adjective][Vegetable][businesstype]</li>
     <!--EN: r_deityType(p=0.2)->[Direction] [businesstype]-->
-    <li>r_deityType(p=0.2)-&gt;[Direction] [businesstype]</li>
+    <li>r_deityType(p=0.2)-&gt;[Direction][businesstype]</li>
     <!--EN: maybe_adjective->-->
     <li>maybe_adjective-&gt;</li>
     <!--EN: maybe_adjective->[Color]-->
@@ -48,25 +48,25 @@
   </VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
   <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
     <!--EN: r_deityType->[name1] of [name2]-->
-    <li>r_deityType-&gt;[name1] [name2]</li>
+    <li>r_deityType-&gt;[name2]之[name1]</li>
     <!--EN: name1->Admiral-->
-    <li>name1-&gt;海军上将</li>
+    <li>name1-&gt;上将</li>
     <!--EN: name1->Pontifex-->
-    <li>name1-&gt;教皇</li>
+    <li>name1-&gt;大祭司</li>
     <!--EN: name1->Palatine-->
-    <li>name1-&gt;帕拉丁</li>
+    <li>name1-&gt;官员</li>
     <!--EN: name1->Emperor-->
     <li>name1-&gt;皇帝</li>
     <!--EN: name1->Delegate-->
     <li>name1-&gt;代表</li>
     <!--EN: name1->Overlord-->
-    <li>name1-&gt;霸主</li>
+    <li>name1-&gt;领主</li>
     <!--EN: name1->Chairman-->
     <li>name1-&gt;主席</li>
     <!--EN: name1->Guardian-->
-    <li>name1-&gt;监护人</li>
+    <li>name1-&gt;守护者</li>
     <!--EN: name1->Exarch-->
-    <li>name1-&gt;主教</li>
+    <li>name1-&gt;总督</li>
     <!--EN: name2->Truth-->
     <li>name2-&gt;真相</li>
     <!--EN: name2->Justice-->
@@ -78,87 +78,87 @@
     <!--EN: name2->Dreams-->
     <li>name2-&gt;梦想</li>
     <!--EN: name2->Eternity-->
-    <li>name2-&gt;永恒</li>
+    <li>name2-&gt;不朽</li>
     <!--EN: name2->Worship-->
     <li>name2-&gt;崇拜</li>
     <!--EN: name2->Mercy-->
-    <li>name2-&gt;怜悯</li>
+    <li>name2-&gt;仁慈</li>
     <!--EN: name2->Unity-->
-    <li>name2-&gt;统一</li>
+    <li>name2-&gt;团结</li>
     <!--EN: name2->the New Kingdom-->
     <li>name2-&gt;新王国</li>
     <!--EN: name2->the Realm-->
-    <li>name2-&gt;领域</li>
+    <li>name2-&gt;王国</li>
   </VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
   <VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
     <!--EN: r_deityType->Progenitor of [concept]-->
-    <li>r_deityType-&gt;[concept] 的祖先</li>
+    <li>r_deityType-&gt;[concept]之祖</li>
     <!--EN: r_deityType->Corruptor of [concept]-->
-    <li>r_deityType-&gt;[concept] 的腐蚀者</li>
+    <li>r_deityType-&gt;[concept]腐化者</li>
     <!--EN: r_deityType->Bane of [concept]-->
-    <li>r_deityType-&gt;[concept] 的祸根</li>
+    <li>r_deityType-&gt;[concept]之祸源</li>
     <!--EN: r_deityType->Enemy of [concept]-->
-    <li>r_deityType-&gt;[concept] 的敌人</li>
+    <li>r_deityType-&gt;[concept]之敌</li>
     <!--EN: r_deityType->Devourer of [concept]-->
-    <li>r_deityType-&gt;[concept]的吞噬者</li>
+    <li>r_deityType-&gt;[concept]吞噬者</li>
     <!--EN: r_deityType->Scourge of [concept]-->
-    <li>r_deityType-&gt;[concept]的祸害</li>
+    <li>r_deityType-&gt;[concept]之灾变</li>
     <!--EN: r_deityType->The incomprehensible [concept]-->
-    <li>r_deityType-&gt;难以理解的[concept]</li>
+    <li>r_deityType-&gt;隐晦的[concept]</li>
     <!--EN: r_deityType->The noise at the center of [concept]-->
-    <li>r_deityType-&gt;[concept] 中心的噪声</li>
+    <li>r_deityType-&gt;[concept]之杂音</li>
     <!--EN: r_deityType->The [concept2] out of [concept3]-->
-    <li>r_deityType-&gt;[concept3] 中的 [concept2]</li>
+    <li>r_deityType-&gt;[concept3]中的[concept2]</li>
     <!--EN: concept->everything-->
-    <li>concept-&gt;一切</li>
+    <li>concept-&gt;万物</li>
     <!--EN: concept->all-->
-    <li>concept-&gt;全部</li>
+    <li>concept-&gt;万物</li>
     <!--EN: concept->the universe-->
     <li>concept-&gt;宇宙</li>
     <!--EN: concept->stars-->
-    <li>concept-&gt;星</li>
+    <li>concept-&gt;星辰</li>
     <!--EN: concept->souls-->
     <li>concept-&gt;灵魂</li>
     <!--EN: concept->humanity-->
-    <li>concept-&gt;人性</li>
+    <li>concept-&gt;人类</li>
     <!--EN: concept->space-->
     <li>concept-&gt;空间</li>
     <!--EN: concept->our dreams-->
-    <li>concept-&gt;我们的梦想</li>
+    <li>concept-&gt;梦想</li>
     <!--EN: concept->our deepest fears-->
-    <li>concept-&gt;我们最深的恐惧</li>
+    <li>concept-&gt;至深恐惧</li>
     <!--EN: concept2->colour-->
     <li>concept2-&gt;颜色</li>
     <!--EN: concept2->thousand goats-->
-    <li>concept2-&gt;千只山羊</li>
+    <li>concept2-&gt;千羊</li>
     <!--EN: concept2->hunger-->
-    <li>concept2-&gt;饥饿</li>
+    <li>concept2-&gt;欲望</li>
     <!--EN: concept2->scintillation-->
-    <li>concept2-&gt;闪烁</li>
+    <li>concept2-&gt;闪光</li>
     <!--EN: concept2->inkbloat-->
-    <li>concept2-&gt;墨渍</li>
+    <li>concept2-&gt;墨迹</li>
     <!--EN: concept2->madness-->
     <li>concept2-&gt;疯狂</li>
     <!--EN: concept2->insanity-->
-    <li>concept2-&gt;疯狂</li>
+    <li>concept2-&gt;狂乱</li>
     <!--EN: concept3->space-->
     <li>concept3-&gt;空间</li>
     <!--EN: concept3->the depths-->
-    <li>concept3-&gt;深处</li>
+    <li>concept3-&gt;深渊</li>
     <!--EN: concept3->the chthonian abyss-->
-    <li>concept3-&gt;地狱深渊</li>
+    <li>concept3-&gt;克托尼亚深渊</li>
     <!--EN: concept3->hades-->
-    <li>concept3-&gt;哈迪斯</li>
+    <li>concept3-&gt;冥府</li>
     <!--EN: concept3->our nightmares-->
-    <li>concept3-&gt;我们的噩梦</li>
+    <li>concept3-&gt;我们噩梦</li>
     <!--EN: concept3->our dreams-->
-    <li>concept3-&gt;我们的梦想</li>
+    <li>concept3-&gt;我们梦想</li>
     <!--EN: concept3->our deepest fears-->
-    <li>concept3-&gt;我们最深的恐惧</li>
+    <li>concept3-&gt;我们至深恐惧</li>
   </VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
   <VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
     <!--EN: r_deityType->[name1] [name2]-->
-    <li>r_deityType-&gt;[name1] [name2]</li>
+    <li>r_deityType-&gt;[name1]的[name2]</li>
     <!--EN: name1->All-Encompassing-->
     <li>name1-&gt;包罗万象</li>
     <!--EN: name1->Omnipresent-->
@@ -166,45 +166,45 @@
     <!--EN: name1->Ubiquitous-->
     <li>name1-&gt;无处不在</li>
     <!--EN: name1->Universal-->
-    <li>name1-&gt;通用</li>
+    <li>name1-&gt;广泛</li>
     <!--EN: name1->All-Present-->
-    <li>name1-&gt;全体在场</li>
+    <li>name1-&gt;尽数存在</li>
     <!--EN: name1->All-Pervasive-->
-    <li>name1-&gt;无所不在</li>
+    <li>name1-&gt;无孔不入</li>
     <!--EN: name1->Boundless-->
-    <li>name1-&gt;无边无际</li>
+    <li>name1-&gt;无边</li>
     <!--EN: name2->Creation-->
-    <li>name2-&gt;创作</li>
+    <li>name2-&gt;造物</li>
     <!--EN: name2->Space-->
     <li>name2-&gt;空间</li>
     <!--EN: name2->Vaccuum-->
     <li>name2-&gt;真空</li>
     <!--EN: name2->Totality-->
-    <li>name2-&gt;总数</li>
+    <li>name2-&gt;总体</li>
     <!--EN: name2->Infinity-->
-    <li>name2-&gt;无穷大</li>
+    <li>name2-&gt;无限</li>
     <!--EN: name2->Spheres-->
     <li>name2-&gt;球体</li>
   </VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
   <VME_Fleshcrafter.rulePack.rulesStrings>
     <!--EN: r_roleName->Fleshcrafter-->
-    <li>r_roleName-&gt;血肉工匠</li>
+    <li>r_roleName-&gt;血肉重塑者</li>
   </VME_Fleshcrafter.rulePack.rulesStrings>
   <VME_InsectoidHerder.rulePack.rulesStrings>
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
     <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
     <!--EN: r_roleName->Insectoid Herder-->
-    <li>r_roleName-&gt;类昆虫牧民</li>
+    <li>r_roleName-&gt;虫族护工</li>
     <!--EN: firstPart->Spider-->
     <li>firstPart-&gt;蜘蛛</li>
     <!--EN: firstPart->Maggot-->
-    <li>firstPart-&gt;蛆</li>
+    <li>firstPart-&gt;蛆虫</li>
     <!--EN: firstPart->Scarab-->
-    <li>firstPart-&gt;圣甲虫</li>
+    <li>firstPart-&gt;甲虫</li>
     <!--EN: firstPart->Cricket-->
-    <li>firstPart-&gt;板球</li>
+    <li>firstPart-&gt;蟋蟀</li>
     <!--EN: firstPart->Tick-->
-    <li>firstPart-&gt;勾选</li>
+    <li>firstPart-&gt;扁虱</li>
     <!--EN: firstPart->Larva-->
     <li>firstPart-&gt;幼虫</li>
     <!--EN: firstPart->Beetle-->
@@ -212,21 +212,21 @@
     <!--EN: firstPart->Locust-->
     <li>firstPart-&gt;蝗虫</li>
     <!--EN: secondPart(p=4)->Harvester-->
-    <li>secondPart(p=4)-&gt;收割机</li>
+    <li>secondPart(p=4)-&gt;收获者</li>
     <!--EN: secondPart(p=4)->Handler-->
-    <li>secondPart(p=4)-&gt;处理程序</li>
+    <li>secondPart(p=4)-&gt;管理者</li>
     <!--EN: secondPart(p=4)->Brood-sibling-->
-    <li>secondPart(p=4)-&gt;兄弟姐妹</li>
+    <li>secondPart(p=4)-&gt;孵化-同胞</li>
     <!--EN: secondPart(p=4)->Devotee-->
-    <li>secondPart(p=4)-&gt;奉献者</li>
+    <li>secondPart(p=4)-&gt;狂信徒</li>
     <!--EN: secondPart(p=4)->Hive-Psyker-->
-    <li>secondPart(p=4)-&gt;蜂巢灵能者</li>
+    <li>secondPart(p=4)-&gt;巢穴-灵能者</li>
     <!--EN: secondPart(p=4)->Hive-Commander-->
-    <li>secondPart(p=4)-&gt;蜂巢指挥官</li>
+    <li>secondPart(p=4)-&gt;巢穴-指挥者</li>
     <!--EN: secondPart(p=4)->Hive-brood-->
-    <li>secondPart(p=4)-&gt;蜂巢</li>
+    <li>secondPart(p=4)-&gt;巢穴-孵化者</li>
     <!--EN: secondPart(p=4)->Hive-slave-->
-    <li>secondPart(p=4)-&gt;蜂巢-从属</li>
+    <li>secondPart(p=4)-&gt;巢穴-奴隶</li>
   </VME_InsectoidHerder.rulePack.rulesStrings>
   <VME_Majordomo.rulePack.rulesStrings>
     <!--EN: r_roleName->Majordomo-->
@@ -236,11 +236,11 @@
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
     <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
     <!--EN: r_roleName->Mechacker-->
-    <li>r_roleName-&gt;梅查克</li>
+    <li>r_roleName-&gt;机械黑客</li>
     <!--EN: firstPart->Engine-->
     <li>firstPart-&gt;引擎</li>
     <!--EN: firstPart->Mechanoid-->
-    <li>firstPart-&gt;机械人</li>
+    <li>firstPart-&gt;机械族</li>
     <!--EN: firstPart->Bionic-->
     <li>firstPart-&gt;仿生</li>
     <!--EN: firstPart->Technological-->
@@ -252,15 +252,15 @@
     <!--EN: firstPart->Scientific-->
     <li>firstPart-&gt;科学</li>
     <!--EN: firstPart->Brilliant-->
-    <li>firstPart-&gt;太棒了</li>
+    <li>firstPart-&gt;精巧</li>
     <!--EN: secondPart(p=4)->Engineseer-->
     <li>secondPart(p=4)-&gt;工程师</li>
     <!--EN: secondPart(p=4)->Artificer-->
-    <li>secondPart(p=4)-&gt;技师</li>
+    <li>secondPart(p=4)-&gt;发明家</li>
     <!--EN: secondPart(p=4)->Machinist-->
     <li>secondPart(p=4)-&gt;机械师</li>
     <!--EN: secondPart(p=4)->Soothesayer-->
-    <li>secondPart(p=4)-&gt;预言家</li>
+    <li>secondPart(p=4)-&gt;驭械师</li>
     <!--EN: secondPart(p=4)->Designer-->
     <li>secondPart(p=4)-&gt;设计师</li>
     <!--EN: secondPart(p=4)->Hackmaster-->
@@ -268,23 +268,23 @@
     <!--EN: secondPart(p=4)->Mastermind-->
     <li>secondPart(p=4)-&gt;策划者</li>
     <!--EN: secondPart(p=4)->Inventor-->
-    <li>secondPart(p=4)-&gt;发明人</li>
+    <li>secondPart(p=4)-&gt;发明家</li>
   </VME_Mechacker.rulePack.rulesStrings>
   <VME_NamerCorporate.rulePack.rulesStrings>
     <!--EN: r_deityName->The Company-->
     <li>r_deityName-&gt;公司</li>
     <!--EN: r_deityName->The Business-->
-    <li>r_deityName-&gt;业务</li>
+    <li>r_deityName-&gt;企业</li>
     <!--EN: r_deityName->The Corporation-->
-    <li>r_deityName-&gt;公司</li>
+    <li>r_deityName-&gt;巨企</li>
     <!--EN: r_deityName->The Organization-->
     <li>r_deityName-&gt;组织</li>
   </VME_NamerCorporate.rulePack.rulesStrings>
   <VME_NamerCultofPersonality.rulePack.rulesStrings>
     <!--EN: r_deityName->Our Supreme Leader-->
-    <li>r_deityName-&gt;我们的最高领袖</li>
+    <li>r_deityName-&gt;我们的至高领袖</li>
     <!--EN: r_deityName->Supreme Leader-->
-    <li>r_deityName-&gt;最高领袖</li>
+    <li>r_deityName-&gt;至高领袖</li>
   </VME_NamerCultofPersonality.rulePack.rulesStrings>
   <VME_NamerDeityEldritch.rulePack.rulesStrings>
     <!--EN: r_deityName->[start][middle][end]-->
@@ -294,65 +294,65 @@
     <!--EN: start->kt-->
     <li>start-&gt;kt</li>
     <!--EN: start->c't-->
-    <li>start-&gt;不行</li>
+    <li>start-&gt;c't</li>
     <!--EN: start->kh-->
     <li>start-&gt;kh</li>
     <!--EN: start->yir-->
     <li>start-&gt;yir</li>
     <!--EN: start->yor-->
-    <li>start-&gt;你</li>
+    <li>start-&gt;yor</li>
     <!--EN: start->yok-->
-    <li>start-&gt;无</li>
+    <li>start-&gt;yok</li>
     <!--EN: start->igh-->
-    <li>start-&gt;高</li>
+    <li>start-&gt;igh</li>
     <!--EN: start->vhal-->
     <li>start-&gt;vhal</li>
     <!--EN: start->gher-->
-    <li>start-&gt;更多</li>
+    <li>start-&gt;gher</li>
     <!--EN: start->mh'ur-->
-    <li>start-&gt;嗯嗯</li>
+    <li>start-&gt;mh'ur</li>
     <!--EN: start->vh'or-->
-    <li>start-&gt;vh'或</li>
+    <li>start-&gt;vh'or</li>
     <!--EN: start->og-->
-    <li>start-&gt;和</li>
+    <li>start-&gt;og</li>
     <!--EN: start->ak-->
     <li>start-&gt;ak</li>
     <!--EN: start->kol-->
     <li>start-&gt;kol</li>
     <!--EN: start->okt-->
-    <li>start-&gt;10 月</li>
+    <li>start-&gt;okt</li>
     <!--EN: start->yom- -->
     <li>start-&gt;yom-</li>
     <!--EN: start->sub- -->
-    <li>start-&gt;子-</li>
+    <li>start-&gt;sub-</li>
     <!--EN: start->ed-->
-    <li>start-&gt;编辑</li>
+    <li>start-&gt;ed</li>
     <!--EN: start->ith-->
-    <li>start-&gt;第</li>
+    <li>start-&gt;ith</li>
     <!--EN: middle->all'ra-->
-    <li>middle-&gt;阿拉</li>
+    <li>middle-&gt;all'ra</li>
     <!--EN: middle->hele-->
-    <li>middle-&gt;去</li>
+    <li>middle-&gt;hele</li>
     <!--EN: middle->ujhu-->
     <li>middle-&gt;ujhu</li>
     <!--EN: middle->aand'xu-->
-    <li>middle-&gt;a和徐</li>
+    <li>middle-&gt;aand'xu</li>
     <!--EN: middle->'og'vhe-->
-    <li>middle-&gt;'和'vhe</li>
+    <li>middle-&gt;'og'vhe</li>
     <!--EN: middle->aathe-->
     <li>middle-&gt;aathe</li>
     <!--EN: middle->omliggda-->
-    <li>middle-&gt;被包围</li>
+    <li>middle-&gt;omliggda</li>
     <!--EN: middle->ethla-->
     <li>middle-&gt;ethla</li>
     <!--EN: middle->ouvha-->
-    <li>middle-&gt;奥瓦哈</li>
+    <li>middle-&gt;ouvha</li>
     <!--EN: middle->omlao-->
-    <li>middle-&gt;奥姆劳</li>
+    <li>middle-&gt;omlao</li>
     <!--EN: end(p=4)->-->
     <li>end(p=4)-&gt;</li>
     <!--EN: end->tl-->
-    <li>end-&gt;pl</li>
+    <li>end-&gt;tl</li>
     <!--EN: end->ss-->
     <li>end-&gt;ss</li>
     <!--EN: end->xr-->
@@ -360,31 +360,31 @@
     <!--EN: end->rc-->
     <li>end-&gt;rc</li>
     <!--EN: end->sh-->
-    <li>end-&gt;嘘</li>
+    <li>end-&gt;sh</li>
     <!--EN: end->l-->
     <li>end-&gt;l</li>
     <!--EN: end->va-->
     <li>end-&gt;va</li>
     <!--EN: end->rrath-->
-    <li>end-&gt;愤怒</li>
+    <li>end-&gt;rrath</li>
     <!--EN: end->th-->
-    <li>第 end-&gt;</li>
+    <li>end-&gt;th</li>
   </VME_NamerDeityEldritch.rulePack.rulesStrings>
   <VME_NamerPantheism.rulePack.rulesStrings>
     <!--EN: r_deityName->The Universe-->
     <li>r_deityName-&gt;宇宙</li>
     <!--EN: r_deityName->The Cosmos-->
-    <li>r_deityName-&gt;宇宙</li>
+    <li>r_deityName-&gt;太空</li>
     <!--EN: r_deityName->Existence-->
     <li>r_deityName-&gt;存在</li>
   </VME_NamerPantheism.rulePack.rulesStrings>
   <VME_NamerSecondTriumvir.rulePack.rulesStrings>
     <!--EN: r_roleName->second triumvir-->
-    <li>r_roleName-&gt;第二次三驾马车</li>
+    <li>r_roleName-&gt;第二领袖</li>
   </VME_NamerSecondTriumvir.rulePack.rulesStrings>
   <VME_NamerThirdTriumvir.rulePack.rulesStrings>
     <!--EN: r_roleName->third triumvir-->
-    <li>r_roleName-&gt;第三个三巨头</li>
+    <li>r_roleName-&gt;第三领袖</li>
   </VME_NamerThirdTriumvir.rulePack.rulesStrings>
   <VME_Nurse.rulePack.rulesStrings>
     <!--EN: r_roleName->Nurse-->
@@ -394,41 +394,41 @@
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
     <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
     <!--EN: r_roleName->party host-->
-    <li>r_roleName-&gt;派对主持人</li>
+    <li>r_roleName-&gt;聚会主办人</li>
     <!--EN: r_roleName->party animal-->
-    <li>r_roleName-&gt;派对动物</li>
+    <li>r_roleName-&gt;聚会达人</li>
     <!--EN: firstPart->exciting-->
-    <li>firstPart-&gt;令人兴奋</li>
+    <li>firstPart-&gt;兴奋</li>
     <!--EN: firstPart->comedic-->
     <li>firstPart-&gt;喜剧</li>
     <!--EN: firstPart->esteemed-->
-    <li>firstPart-&gt;尊敬的</li>
+    <li>firstPart-&gt;德高望重</li>
     <!--EN: firstPart->hilarious-->
-    <li>firstPart-&gt;搞笑</li>
+    <li>firstPart-&gt;滑稽</li>
     <!--EN: firstPart->crazed-->
     <li>firstPart-&gt;疯狂</li>
     <!--EN: firstPart->wild-->
-    <li>firstPart-&gt;野生</li>
+    <li>firstPart-&gt;狂放</li>
     <!--EN: firstPart->jubilant-->
-    <li>firstPart-&gt;兴高采烈</li>
+    <li>firstPart-&gt;喜庆</li>
     <!--EN: firstPart->joyous-->
-    <li>firstPart-&gt;高兴</li>
+    <li>firstPart-&gt;欢乐</li>
     <!--EN: secondPart(p=4)->genius-->
     <li>secondPart(p=4)-&gt;天才</li>
     <!--EN: secondPart(p=4)->entertainer-->
     <li>secondPart(p=4)-&gt;艺人</li>
     <!--EN: secondPart(p=4)->host-->
-    <li>secondPart(p=4)-&gt;主机</li>
+    <li>secondPart(p=4)-&gt;主持人</li>
     <!--EN: secondPart(p=4)->jester-->
-    <li>secondPart(p=4)-&gt;小丑</li>
+    <li>secondPart(p=4)-&gt;弄臣</li>
     <!--EN: secondPart(p=4)->joker-->
     <li>secondPart(p=4)-&gt;小丑</li>
     <!--EN: secondPart(p=4)->animal-->
-    <li>secondPart(p=4)-&gt;动物</li>
+    <li>secondPart(p=4)-&gt;达人</li>
     <!--EN: secondPart(p=4)->performer-->
-    <li>secondPart(p=4)-&gt;表演者</li>
+    <li>secondPart(p=4)-&gt;演员</li>
     <!--EN: secondPart(p=4)->comedian-->
-    <li>secondPart(p=4)-&gt;喜剧演员</li>
+    <li>secondPart(p=4)-&gt;演出者</li>
   </VME_PartyHost.rulePack.rulesStrings>
   <VME_Patissier.rulePack.rulesStrings>
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
@@ -436,29 +436,29 @@
     <!--EN: r_roleName->Patissier-->
     <li>r_roleName-&gt;糕点师</li>
     <!--EN: firstPart->Deft-handed-->
-    <li>firstPart-&gt;手巧</li>
+    <li>firstPart-&gt;巧手</li>
     <!--EN: firstPart->Accomplished-->
-    <li>firstPart-&gt;已完成</li>
+    <li>firstPart-&gt;老练</li>
     <!--EN: firstPart->Talented-->
     <li>firstPart-&gt;才华横溢</li>
     <!--EN: firstPart->Exquisite-->
-    <li>firstPart-&gt;精美</li>
+    <li>firstPart-&gt;雅致</li>
     <!--EN: firstPart->Seasoned-->
-    <li>firstPart-&gt;经验丰富</li>
+    <li>firstPart-&gt;老道</li>
     <!--EN: firstPart->Masterful-->
-    <li>firstPart-&gt;高超</li>
+    <li>firstPart-&gt;娴熟</li>
     <!--EN: secondPart(p=4)->Culinarian-->
-    <li>secondPart(p=4)-&gt;烹饪</li>
+    <li>secondPart(p=4)-&gt;料理师</li>
     <!--EN: secondPart(p=4)->Epicurian-->
-    <li>secondPart(p=4)-&gt;伊壁鸠鲁派</li>
+    <li>secondPart(p=4)-&gt;甜点师</li>
     <!--EN: secondPart(p=4)->Baker-->
-    <li>secondPart(p=4)-&gt;贝克</li>
+    <li>secondPart(p=4)-&gt;面包师</li>
     <!--EN: secondPart(p=4)->Patissier-->
     <li>secondPart(p=4)-&gt;糕点师</li>
     <!--EN: secondPart(p=4)->Banqueter-->
-    <li>secondPart(p=4)-&gt;宴会者</li>
+    <li>secondPart(p=4)-&gt;设宴者</li>
     <!--EN: secondPart(p=4)->Glacier-->
-    <li>secondPart(p=4)-&gt;冰川</li>
+    <li>secondPart(p=4)-&gt;糕点大厨</li>
     <!--EN: secondPart(p=4)->Confectioner-->
     <li>secondPart(p=4)-&gt;糖果商</li>
   </VME_Patissier.rulePack.rulesStrings>
@@ -466,69 +466,69 @@
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
     <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
     <!--EN: r_roleName->firekeeper-->
-    <li>r_roleName-&gt;消防员</li>
+    <li>r_roleName-&gt;护火者</li>
     <!--EN: r_roleName->flamekeeper-->
-    <li>r_roleName-&gt;火焰守护者</li>
+    <li>r_roleName-&gt;护火者</li>
     <!--EN: firstPart->flame-->
     <li>firstPart-&gt;火焰</li>
     <!--EN: firstPart->ash-->
     <li>firstPart-&gt;灰烬</li>
     <!--EN: firstPart->fire-->
-    <li>firstPart-&gt;火灾</li>
+    <li>firstPart-&gt;火焰</li>
     <!--EN: firstPart->warmth-->
     <li>firstPart-&gt;温暖</li>
     <!--EN: firstPart->bright-->
-    <li>firstPart-&gt;亮</li>
+    <li>firstPart-&gt;明亮</li>
     <!--EN: firstPart->light-->
-    <li>firstPart-&gt;光</li>
+    <li>firstPart-&gt;光明</li>
     <!--EN: firstPart->kiln-->
-    <li>firstPart-&gt;窑</li>
+    <li>firstPart-&gt;窑炉</li>
     <!--EN: firstPart->forge-->
-    <li>firstPart-&gt;锻造</li>
+    <li>firstPart-&gt;熔火</li>
     <!--EN: secondPart(p=4)->touched-->
-    <li>secondPart(p=4)-&gt;感动</li>
+    <li>secondPart(p=4)-&gt;touched</li>
     <!--EN: secondPart(p=4)->warden-->
-    <li>secondPart(p=4)-&gt;典狱长</li>
+    <li>secondPart(p=4)-&gt;看守人</li>
     <!--EN: secondPart(p=4)->herald-->
-    <li>secondPart(p=4)-&gt;先驱者</li>
+    <li>secondPart(p=4)-&gt;使者</li>
     <!--EN: secondPart(p=4)->protector-->
-    <li>secondPart(p=4)-&gt;保护者</li>
+    <li>secondPart(p=4)-&gt;看护人</li>
     <!--EN: secondPart(p=4)->defender-->
-    <li>secondPart(p=4)-&gt;防守者</li>
+    <li>secondPart(p=4)-&gt;守护者</li>
     <!--EN: secondPart(p=4)->seeker-->
-    <li>secondPart(p=4)-&gt;搜寻者</li>
+    <li>secondPart(p=4)-&gt;探求者</li>
     <!--EN: secondPart(p=4)->whisperer-->
-    <li>secondPart(p=4)-&gt;低语者</li>
+    <li>secondPart(p=4)-&gt;密语者</li>
     <!--EN: secondPart(p=4)->keeper-->
-    <li>secondPart(p=4)-&gt;守门员</li>
+    <li>secondPart(p=4)-&gt;看护者</li>
   </VME_RoleFireKeeper.rulePack.rulesStrings>
   <VME_Trader.rulePack.rulesStrings>
     <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
     <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
     <!--EN: r_roleName->Trader-->
-    <li>r_roleName-&gt;交易者</li>
+    <li>r_roleName-&gt;商人</li>
     <!--EN: firstPart->Bountiful-->
-    <li>firstPart-&gt;丰盛</li>
+    <li>firstPart-&gt;大方</li>
     <!--EN: firstPart->Itinerant-->
-    <li>firstPart-&gt;巡回演出</li>
+    <li>firstPart-&gt;游走</li>
     <!--EN: firstPart->Unscrupulous-->
-    <li>firstPart-&gt;肆无忌惮</li>
+    <li>firstPart-&gt;不择手段</li>
     <!--EN: firstPart->Respectable-->
-    <li>firstPart-&gt;受人尊敬</li>
+    <li>firstPart-&gt;可敬</li>
     <!--EN: firstPart->Affluent-->
     <li>firstPart-&gt;富裕</li>
     <!--EN: firstPart->Prosperous-->
-    <li>firstPart-&gt;繁荣</li>
+    <li>firstPart-&gt;成功</li>
     <!--EN: firstPart->Opulent-->
-    <li>firstPart-&gt;华丽</li>
+    <li>firstPart-&gt;富裕</li>
     <!--EN: firstPart->Rich-->
-    <li>firstPart-&gt;丰富</li>
+    <li>firstPart-&gt;富有</li>
     <!--EN: secondPart(p=4)->Merchant-->
-    <li>secondPart(p=4)-&gt;商家</li>
+    <li>secondPart(p=4)-&gt;商人</li>
     <!--EN: secondPart(p=4)->Operator-->
-    <li>secondPart(p=4)-&gt;运算符</li>
+    <li>secondPart(p=4)-&gt;经营者</li>
     <!--EN: secondPart(p=4)->Seller-->
-    <li>secondPart(p=4)-&gt;卖家</li>
+    <li>secondPart(p=4)-&gt;销售者</li>
     <!--EN: secondPart(p=4)->Shopkeeper-->
     <li>secondPart(p=4)-&gt;店主</li>
     <!--EN: secondPart(p=4)->Vendor-->
@@ -538,6 +538,6 @@
     <!--EN: secondPart(p=4)->Wholesaler-->
     <li>secondPart(p=4)-&gt;批发商</li>
     <!--EN: secondPart(p=4)->Salesperson-->
-    <li>secondPart(p=4)-&gt;销售人员</li>
+    <li>secondPart(p=4)-&gt;推销员</li>
   </VME_Trader.rulePack.rulesStrings>
 </LanguageData>

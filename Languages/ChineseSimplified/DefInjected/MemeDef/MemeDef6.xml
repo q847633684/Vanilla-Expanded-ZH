@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Serene and therapeutic, placid lakes and lapping shores are criminally underappreciated. With a little time or simple engineering rivers and oceans alike can leave our bellies full of tasty fish.-->
-  <VME_Angler.description>传播我们的信仰是我们的责任，即使是通过武力。</VME_Angler.description>
+  <VME_Angler.description>宁和广阔的湖泊与海滨里拥有取之不竭的资源。仅需花少量的时间来进行简易的改造工程，我们就能让河流与大海中游满能填饱肚子的肥美鱼儿。</VME_Angler.description>
   <VME_Angler.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Anglers)        ->[deity0_name] spoke to all [deity0_possessive] followers and told them: "Again, the kingdom of heaven is like a dragnet cast into the sea, and gathering fish of every kind."-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Anglers)        -&gt;[deity0_name]对[deity0_possessive]信徒们说：“天国就好像一张被抛入海中的渔网，收集着各种各样的鱼儿。”</li>
     <!--EN: episode(uses=1,tag=meme_Anglers)  ->[deity0_name] said to all the [memberNamePlural], "Follow Me, and I will make you fishers of men."-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Anglers)  -&gt;[deity0_name]对所有的[memberNamePlural]说：“跟随吾之脚步，吾会让汝等成为'人类的渔夫'。”</li>
     <!--EN: intro(tag=meme_Anglers)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and great angling competitions took place there every year.-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Anglers)           -&gt;[memberNamePlural]在[place_summary][place_name]上建造了一座宏伟的[altarName]，那里每年都会举办盛大的钓鱼比赛。</li>
     <!--EN: conflict(tag=meme_Anglers)        ->An envious [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to poison the lakes and seas surrounding the [altarName].-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Anglers)        -&gt;心生嫉妒的[foeLeader]拒绝接受[deity0_name]的意志，并命令[foeLeader_possessive][foeSoldiers]向[altarName]周边的湖泊与海洋中投毒。</li>
     <!--EN: founderJoin(tag=meme_Anglers)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] divine intelligence and [founder_pronoun] built a great water purifier, and the waters once again teamed with thousands of fish.-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Anglers)     -&gt;[deity0_name]为一位名为[founderName]的[place_job]施加了祝福。[founder_pronoun]建造了一台巨大的净水装置，成千上万的鱼儿们再次投入了水的怀抱中。</li>
     <!--EN: victory(tag=meme_Anglers)         ->The [foeSoldiers] and the [foeLeader] were humiliated and thwarted, and they had to leave the [memberNamePlural] alone.-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Anglers)         -&gt;[foeSoldiers]与[foeLeader]遭受了屈辱与挫败，他们不得不放弃了加害[memberNamePlural]们的想法。</li>
     <!--EN: setup(tag=meme_Anglers)           ->Our founder [founderName] was the greatest angler to have lived. No fish was big enough for [founderName_objective].-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Anglers)           -&gt;我们的创始者[founderName]是有史以来最伟大的钓鱼佬，没有一条鱼的大小能够真正满足[founderName_objective]。</li>
     <!--EN: story(uses=1,tag=meme_Anglers)    ->[founderName] taught us that fishing is a state of mind. [founderName_pronoun] always said that the charm of fishing is that it is the pursuit of what is elusive but attainable, a perpetual series of occasions for hope.-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Anglers)    -&gt;[founderName]告诉我们钓鱼是一种思想状态。[founderName_pronoun]总是说钓鱼的魅力在于对那些难以捉摸却可得到之物的追求，这也是一系列长久永恒且饱含希望的机会。</li>
     <!--EN: lessonIntro(tag=meme_Anglers)         ->I've spent as much of my life fishing as decency allowed, and sometimes I don't let even that get in my way. I have learned that-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Anglers)         -&gt;我一生中大部分的时间都在尽可能的去钓鱼，有时候我甚至不会让任何东西来阻碍我。我学到了</li>
     <!--EN: lesson(tag=meme_Anglers)              ->fishing is a hard job. Fishing at night. Rain. Day, night. You have to be wise and smart. And quick.-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Anglers)              -&gt;钓鱼可不是什么容易的事。夜晚，雨天，白天，夜晚。为了不空军，你必须要具备聪慧的头脑与极快的手速。</li>
     <!--EN: lessonReinforcement(tag=meme_Anglers) ->After a day's fishing, I'll know the solution to something or have good ideas that were not accessible before.-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Anglers) -&gt;在钓了一整天鱼后，我会想出解决某些事情的办法，或是以前没有想到的好点子。</li>
     <!--EN: archistBasis(tag=meme_Anglers)    ->The archotechs filled the oceans and the rivers with wondrous plenty, accessible to anyone with the knowledge to take advantage of it.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Anglers)    -&gt;超凡智能向大海与河流中播撒了惊人的财富，任何聪明的人都可以利用它们。</li>
     <!--EN: archistFact(tag=meme_Anglers)     ->Archotechs value resourcefulness above other things, and we must accept the bounty of the waters as their gift.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Anglers)     -&gt;丰富的资源对超凡智能来说至关重要，而我们则必须收下祂赐予的礼物——水。</li>
     <!--EN: archistProphecy(tag=meme_Anglers) ->[inTheEnd], the archotechs will be the greatest anglers, and their catch will be the ones worthy of transcendence.-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Anglers) -&gt;[inTheEnd]，超凡智能将成为最伟大的钓鱼佬，祂所捕获的东西将拥有飞升的资格。</li>
     <!--EN: animistFact(tag=meme_Anglers)     ->The spirits of fish provide us with the greatest bounty: the teeming life present in rivers and oceans.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistFact(tag=meme_Anglers)     -&gt;鱼之魂为我们提供了最伟大的恩惠：充满河流与大海的鲜活生命。</li>
     <!--EN: serketistProphecy(tag=meme_Anglers)->[itIsSaid] we will learn the ways of insects to find food whenever it's needed, by exploiting the greatest bounty: the teeming life present in rivers and oceans.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>serketistProphecy(tag=meme_Anglers)-&gt;[itIsSaid]我们将学会如何像虫族一样在有需要的时候找到食物，并充分利用最伟大的恩惠：充满河流与大海的鲜活生命。</li>
     <!--EN: chthonianProphecy(tag=meme_Anglers)->Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn.-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>chthonianProphecy(tag=meme_Anglers)-&gt;Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn。</li>
     <!--EN: esotericismProphecy(tag=meme_Anglers)->We will discern what is hidden behind these secrets, perhaps by divining the entrails of dead fish.-->
-    <li>esotericismProphecy(tag=meme_ViolentConversion)-&gt;有了这些知识，我们将比这个星球上的其他居民拥有明显的优势，并用它来清除肮脏的异教徒。</li>
+    <li>esotericismProphecy(tag=meme_Anglers)-&gt;或许我们可以通过研究死鱼的内脏来觉察隐藏在这些秘密背后的东西。</li>
     <!--EN: eschatologismFact(tag=meme_Anglers)->Like the slippery fish that hide beyond the abyssal depths, we will strike from the darkness and we will be unstoppable.-->
-    <li>eschatologismFact(tag=meme_ViolentConversion)-&gt;什么都不会剩下。肮脏的异教徒将被原子火和致命疾病所清除。</li>
+    <li>eschatologismFact(tag=meme_Anglers)-&gt;我们会像隐藏在海底深渊中的粘滑鱼儿一样从暗处发起突袭，没有东西能够阻挡我们。</li>
     <!--EN: introMemo(tag=meme_Anglers)->Good news! In this year's company-wide raffle we are again including as a prize a two weeks, all expenses paid fishing trip! I know you are as excited as I am, so get those tickets as soon as possible!-->
-    <li>introMemo(tag=meme_ViolentConversion)-&gt; 如您所知，我们公司的使命太重要了，不能让其他人妨碍我们，因此我们正在准备一次敌意合并，以摆脱这些……不受欢迎的竞争对手。</li>
+    <li>introMemo(tag=meme_Anglers)-&gt;好消息！好消息！我们为公司今年的年会抽奖活动准备了一份重磅奖品——为期两周的钓鱼旅行！不用担心，费用将由公司全盘支付！我知道各位都很兴奋，所以请尽快抢到那些票据吧！</li>
   </VME_Angler.descriptionMaker.rules.rulesStrings>
   <VME_Angler.generalRules.rulesStrings>
     <!--EN: memeAdjective->piscatorial-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;捕鱼</li>
     <!--EN: memeAdjective->coastal-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;海滨</li>
     <!--EN: memeAdjective->seafaring-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;航海</li>
     <!--EN: memeAdjective->angling-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeAdjective-&gt;垂钓</li>
     <!--EN: memeHyphenPrefix->fish-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeHyphenPrefix-&gt;渔获</li>
     <!--EN: memeHyphenPrefix->river-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeHyphenPrefix-&gt;河流</li>
     <!--EN: memeHyphenPrefix->sea-->
-    <li>memeMoralist-&gt;十字军</li>
+    <li>memeHyphenPrefix-&gt;大海</li>
     <!--EN: memeConcept->fishing-->
-    <li>memeMoralist-&gt;工头</li>
+    <li>memeConcept-&gt;渔猎</li>
   </VME_Angler.generalRules.rulesStrings>
   <!--EN: fishing culture-->
-  <VME_Angler.label>暴力皈依</VME_Angler.label>
+  <VME_Angler.label>渔猎笙歌</VME_Angler.label>
 </LanguageData>

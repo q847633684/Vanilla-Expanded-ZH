@@ -1,25 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A bunch of components that when assembled can create a salvaged laser weapon.-->
-  <LaserRandom.description>一堆组件组装起来可以制造出废弃的激光武器。</LaserRandom.description>
+  <LaserRandom.description>一堆组装好的组件，可以转化为激光武器。</LaserRandom.description>
   <!--EN: salvaged laser weapon-->
-  <LaserRandom.label>打捞出来的激光武器</LaserRandom.label>
+  <LaserRandom.label>重组激光武器</LaserRandom.label>
   <!--EN: unfinished laser gun-->
-  <UnfinishedSalvagedLaserGun.label>未完成的激光枪</UnfinishedSalvagedLaserGun.label>
+  <UnfinishedSalvagedLaserGun.label>未完成的激光武器</UnfinishedSalvagedLaserGun.label>
   <!--EN: laser beam-->
   <VWELBeamGraphic.label>激光束</VWELBeamGraphic.label>
   <!--EN: laser pistol shot-->
-  <VWEL_Bullet_LaserPistol.label>激光手枪射击</VWEL_Bullet_LaserPistol.label>
+  <VWEL_Bullet_LaserPistol.label>激光束</VWEL_Bullet_LaserPistol.label>
   <!--EN: unstable laser pistol shot-->
-  <VWEL_Bullet_SalvagedLaserPistol.label>不稳定的激光手枪射击</VWEL_Bullet_SalvagedLaserPistol.label>
+  <VWEL_Bullet_SalvagedLaserPistol.label>不稳定激光束</VWEL_Bullet_SalvagedLaserPistol.label>
   <!--EN: An ultratech multi-barrel device capable of emitting a concentrated beam of light with enough power to deal considerable damage with a long, continuous firing mode.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserMinigun.description>一种超技术多管装置，能够发射具有足够功率的集中光束，在长时间连续射击模式下造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserMinigun.description>
+  <VWEL_Gun_LaserMinigun.description>一柄能够发射大量高功率聚焦光束以造成巨量损害的极致科技多管机枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserMinigun.description>
   <!--EN: laser minigun-->
-  <VWEL_Gun_LaserMinigun.label>激光迷你枪</VWEL_Gun_LaserMinigun.label>
+  <VWEL_Gun_LaserMinigun.label>激光速射机枪</VWEL_Gun_LaserMinigun.label>
   <!--EN: barrel-->
   <VWEL_Gun_LaserMinigun.tools.0.label>桶</VWEL_Gun_LaserMinigun.tools.0.label>
   <!--EN: grip-->
@@ -27,13 +23,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserMinigun.verbs.0.label>标准</VWEL_Gun_LaserMinigun.verbs.0.label>
   <!--EN: An ultratech pistol capable of emitting a concentrated beam of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserPistol.description>一种超技术手枪，能够发射能量充足的集中光束，造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserPistol.description>
+  <VWEL_Gun_LaserPistol.description>一把能够发射高功率聚焦光束以造成巨量损害的极致科技自动手枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserPistol.description>
   <!--EN: laser pistol-->
-  <VWEL_Gun_LaserPistol.label>激光枪</VWEL_Gun_LaserPistol.label>
+  <VWEL_Gun_LaserPistol.label>激光手枪</VWEL_Gun_LaserPistol.label>
   <!--EN: barrel-->
   <VWEL_Gun_LaserPistol.tools.0.label>桶</VWEL_Gun_LaserPistol.tools.0.label>
   <!--EN: grip-->
@@ -41,11 +33,7 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserPistol.verbs.0.label>标准</VWEL_Gun_LaserPistol.verbs.0.label>
   <!--EN: An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over medium distance.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserRifle.description>一种超技术步枪，能够发出足够功率的集中光束，在中距离造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserRifle.description>
+  <VWEL_Gun_LaserRifle.description>一柄能够发射高功率聚焦光束以在中等距离造成巨量损害的极致科技步枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserRifle.description>
   <!--EN: laser rifle-->
   <VWEL_Gun_LaserRifle.label>激光步枪</VWEL_Gun_LaserRifle.label>
   <!--EN: barrel-->
@@ -55,11 +43,7 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserRifle.verbs.0.label>标准</VWEL_Gun_LaserRifle.verbs.0.label>
   <!--EN: An ultratech submachine gun capable of emitting a concentrated beam of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserSMG.description>一种超高科技冲锋枪，能够发出足够功率的集中光束，造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserSMG.description>
+  <VWEL_Gun_LaserSMG.description>一把能够发射高功率聚焦光束以造成巨量损害的极致科技冲锋枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserSMG.description>
   <!--EN: laser SMG-->
   <VWEL_Gun_LaserSMG.label>激光冲锋枪</VWEL_Gun_LaserSMG.label>
   <!--EN: barrel-->
@@ -69,13 +53,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserSMG.verbs.0.label>标准</VWEL_Gun_LaserSMG.verbs.0.label>
   <!--EN: An ultratech scatter gun capable of emitting several beams of light with enough power to deal considerable damage.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserShotgun.description>超高科技散射枪，能够发射多束光，功率足以造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserShotgun.description>
+  <VWEL_Gun_LaserShotgun.description>一柄能够发射多束高功率聚焦光束以造成巨量损害的极致科技霰弹枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserShotgun.description>
   <!--EN: laser shotgun-->
-  <VWEL_Gun_LaserShotgun.label>激光猎枪</VWEL_Gun_LaserShotgun.label>
+  <VWEL_Gun_LaserShotgun.label>激光霰弹枪</VWEL_Gun_LaserShotgun.label>
   <!--EN: barrel-->
   <VWEL_Gun_LaserShotgun.tools.0.label>桶</VWEL_Gun_LaserShotgun.tools.0.label>
   <!--EN: grip-->
@@ -83,11 +63,7 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserShotgun.verbs.0.label>标准</VWEL_Gun_LaserShotgun.verbs.0.label>
   <!--EN: An ultratech sniper rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over long range.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_LaserSniperRifle.description>一种超高科技狙击步枪，能够发出足够功率的集中光束，在远距离造成相当大的伤害。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时可能会过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_LaserSniperRifle.description>
+  <VWEL_Gun_LaserSniperRifle.description>一柄能够发射高功率聚焦光束以在远距离造成巨量损害的极致科技狙击步枪。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后有可能会过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_LaserSniperRifle.description>
   <!--EN: laser sniper rifle-->
   <VWEL_Gun_LaserSniperRifle.label>激光狙击步枪</VWEL_Gun_LaserSniperRifle.label>
   <!--EN: barrel-->
@@ -97,13 +73,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_LaserSniperRifle.verbs.0.label>标准</VWEL_Gun_LaserSniperRifle.verbs.0.label>
   <!--EN: A salvaged pistol capable of emitting an unstable beam of light with enough power to deal moderate damage.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_SalvagedLaserPistol.description>一把废弃的手枪，能够发射不稳定的光束，其功率足以造成中等伤害。
-
-通过使用临时电池，该武器能够快速预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时会迅速过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_SalvagedLaserPistol.description>
+  <VWEL_Gun_SalvagedLaserPistol.description>一柄能够发射高功率不稳定光束以造成中等伤害的重组自动手枪。\n\n该武器通过使用临时电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后会高速过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_SalvagedLaserPistol.description>
   <!--EN: salvaged laser pistol-->
-  <VWEL_Gun_SalvagedLaserPistol.label>打捞上来的激光手枪</VWEL_Gun_SalvagedLaserPistol.label>
+  <VWEL_Gun_SalvagedLaserPistol.label>组装激光手枪</VWEL_Gun_SalvagedLaserPistol.label>
   <!--EN: barrel-->
   <VWEL_Gun_SalvagedLaserPistol.tools.0.label>桶</VWEL_Gun_SalvagedLaserPistol.tools.0.label>
   <!--EN: grip-->
@@ -111,13 +83,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_SalvagedLaserPistol.verbs.0.label>标准</VWEL_Gun_SalvagedLaserPistol.verbs.0.label>
   <!--EN: A salvaged rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over medium distance.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_SalvagedLaserRifle.description>一把废弃的步枪，能够发射不稳定的光束，其功率足以在中距离造成中等伤害。
-
-通过使用临时电池，该武器能够快速预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时会迅速过热，导致用户周围发生小型电池爆炸。</VWEL_Gun_SalvagedLaserRifle.description>
+  <VWEL_Gun_SalvagedLaserRifle.description>一柄能够发射高功率不稳定光束以在中等距离造成中等损害的重组步枪。\n\n该武器通过使用临时电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后会高速过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_SalvagedLaserRifle.description>
   <!--EN: salvaged laser rifle-->
-  <VWEL_Gun_SalvagedLaserRifle.label>回收的激光步枪</VWEL_Gun_SalvagedLaserRifle.label>
+  <VWEL_Gun_SalvagedLaserRifle.label>组装激光步枪</VWEL_Gun_SalvagedLaserRifle.label>
   <!--EN: barrel-->
   <VWEL_Gun_SalvagedLaserRifle.tools.0.label>桶</VWEL_Gun_SalvagedLaserRifle.tools.0.label>
   <!--EN: grip-->
@@ -125,13 +93,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_SalvagedLaserRifle.verbs.0.label>标准</VWEL_Gun_SalvagedLaserRifle.verbs.0.label>
   <!--EN: A salvaged scattergun capable of emitting several unstable beams of light with enough power to deal moderate damage.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_SalvagedLaserShotgun.description>一把回收的霰弹枪，能够发射多束不稳定的光束，其功率足以造成中等伤害。
-
-通过使用临时电池，该武器能够快速预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时会迅速过热，导致用户周围发生小规模电池爆炸。</VWEL_Gun_SalvagedLaserShotgun.description>
+  <VWEL_Gun_SalvagedLaserShotgun.description>一柄能够发射多束高功率不稳定光束以造成中等损害的重组霰弹枪。\n\n该武器通过使用临时电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后会高速过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_SalvagedLaserShotgun.description>
   <!--EN: salvaged laser shotgun-->
-  <VWEL_Gun_SalvagedLaserShotgun.label>打捞出来的激光霰弹枪</VWEL_Gun_SalvagedLaserShotgun.label>
+  <VWEL_Gun_SalvagedLaserShotgun.label>组装激光霰弹枪</VWEL_Gun_SalvagedLaserShotgun.label>
   <!--EN: barrel-->
   <VWEL_Gun_SalvagedLaserShotgun.tools.0.label>桶</VWEL_Gun_SalvagedLaserShotgun.tools.0.label>
   <!--EN: grip-->
@@ -139,13 +103,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_SalvagedLaserShotgun.verbs.0.label>标准</VWEL_Gun_SalvagedLaserShotgun.verbs.0.label>
   <!--EN: A salvaged sniper rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over long distances.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.-->
-  <VWEL_Gun_SalvagedLaserSniperRifle.description>一把回收的狙击步枪，能够发射不稳定的光束，其功率足以在长距离造成中等伤害。
-
-通过使用临时电池，该武器能够快速预热，在静止状态下提高每次连续射击的射击速度。
-
-该武器在完全预热时会迅速过热，导致用户周围发生小规模电池爆炸。</VWEL_Gun_SalvagedLaserSniperRifle.description>
+  <VWEL_Gun_SalvagedLaserSniperRifle.description>一柄能够发射高功率不稳定光束以在远距离造成中等损害的重组狙击步枪。\n\n该武器通过使用临时电池来进行预热，连续射击可以显著的提高射击速度。\n\n这把武器在完全预热后会高速过热，从而导致武器中的电池发生爆炸。</VWEL_Gun_SalvagedLaserSniperRifle.description>
   <!--EN: salvaged laser sniper rifle-->
-  <VWEL_Gun_SalvagedLaserSniperRifle.label>打捞出来的激光狙击步枪</VWEL_Gun_SalvagedLaserSniperRifle.label>
+  <VWEL_Gun_SalvagedLaserSniperRifle.label>组装激光狙击步枪</VWEL_Gun_SalvagedLaserSniperRifle.label>
   <!--EN: barrel-->
   <VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>桶</VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>
   <!--EN: grip-->
@@ -153,13 +113,9 @@
   <!--EN: Standard-->
   <VWEL_Gun_SalvagedLaserSniperRifle.verbs.0.label>标准</VWEL_Gun_SalvagedLaserSniperRifle.verbs.0.label>
   <!--EN: An ultratech arc lightning device capable of emitting a lightning bolt that disable electronic systems and sets enemies on fire.\n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nUsed widely by ultratech marines during mechanoid wars.-->
-  <VWEL_Gun_TeslaGun.description>一种超科技电弧闪电装置，能够发射闪电，使电子系统瘫痪并使敌人着火。
-
-通过使用先进的电池，该武器能够预热，在静止状态下提高每次连续射击的射击速度。
-
-在机械人战争中被超科技海军陆战队广泛使用。</VWEL_Gun_TeslaGun.description>
+  <VWEL_Gun_TeslaGun.description>一柄可以发射高频电流的极致科技电弧设备，发射的电流可以瘫痪电子设备或点燃敌人。\n\n该武器通过使用高级电池来进行预热，连续射击可以显著的提高射击速度。\n\n被高科技雇佣兵在机械化战争中广泛地使用。</VWEL_Gun_TeslaGun.description>
   <!--EN: tesla gun-->
-  <VWEL_Gun_TeslaGun.label>特斯拉枪</VWEL_Gun_TeslaGun.label>
+  <VWEL_Gun_TeslaGun.label>磁暴电弧枪</VWEL_Gun_TeslaGun.label>
   <!--EN: barrel-->
   <VWEL_Gun_TeslaGun.tools.0.label>桶</VWEL_Gun_TeslaGun.tools.0.label>
   <!--EN: grip-->
@@ -167,7 +123,7 @@
   <!--EN: Standard-->
   <VWEL_Gun_TeslaGun.verbs.0.label>标准</VWEL_Gun_TeslaGun.verbs.0.label>
   <!--EN: An ultratech device consisting of a handle and an extendable laser blade. A weapon of gentlemen.-->
-  <VWEL_LaserSword.description>一种高科技设备，由手柄和可伸缩激光刀片组成。绅士的武器。</VWEL_LaserSword.description>
+  <VWEL_LaserSword.description>一种由握柄和可伸缩激光剑刃组成的极致科技武器，适合绅士使用。</VWEL_LaserSword.description>
   <!--EN: laser sword-->
   <VWEL_LaserSword.label>激光剑</VWEL_LaserSword.label>
   <!--EN: handle-->

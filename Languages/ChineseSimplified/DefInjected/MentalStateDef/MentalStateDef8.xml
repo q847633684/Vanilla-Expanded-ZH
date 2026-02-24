@@ -1,33 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Mental state: Kleptomaniac-->
-  <VTE_Kleptomaniac.baseInspectLine>精神状态：盗窃狂</VTE_Kleptomaniac.baseInspectLine>
+  <VTE_Kleptomaniac.baseInspectLine>精神状态:  盗窃癖</VTE_Kleptomaniac.baseInspectLine>
   <!--EN: {0} is stealing items from visitors.-->
-  <VTE_Kleptomaniac.beginLetter>{0} 正在窃取访客的物品。</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.beginLetter>{0}正在窃取访客的物品。</VTE_Kleptomaniac.beginLetter>
   <!--EN: Kleptomaniac-->
   <VTE_Kleptomaniac.beginLetterLabel>盗窃狂</VTE_Kleptomaniac.beginLetterLabel>
   <!--EN: kleptomaniac-->
   <VTE_Kleptomaniac.label>盗窃狂</VTE_Kleptomaniac.label>
   <!--EN: {0} is no longer stealing items from visitors.-->
-  <VTE_Kleptomaniac.recoveryMessage>{0} 不再窃取访客的物品。</VTE_Kleptomaniac.recoveryMessage>
+  <VTE_Kleptomaniac.recoveryMessage>{0}不再窃取访客的物品了。</VTE_Kleptomaniac.recoveryMessage>
   <!--EN: Mental state: freezing in panic-->
-  <VTE_PanicFreezing.baseInspectLine>精神状态：惊慌失措</VTE_PanicFreezing.baseInspectLine>
+  <VTE_PanicFreezing.baseInspectLine>精神状态: 恐慌性冻结</VTE_PanicFreezing.baseInspectLine>
   <!--EN: {0} is freezing in panic.-->
-  <VTE_PanicFreezing.beginLetter>{0}惊慌失措。</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.beginLetter>{0}正惊慌失措地愣在那里。</VTE_PanicFreezing.beginLetter>
   <!--EN: panic attack-->
-  <VTE_PanicFreezing.beginLetterLabel>惊恐发作</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.beginLetterLabel>惊恐症</VTE_PanicFreezing.beginLetterLabel>
   <!--EN: panic freezing-->
-  <VTE_PanicFreezing.label>恐慌冻结</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.label>恐慌性冻结</VTE_PanicFreezing.label>
   <!--EN: {0} is no longer freezing in panic.-->
-  <VTE_PanicFreezing.recoveryMessage>{0} 不再因恐慌而冻结。</VTE_PanicFreezing.recoveryMessage>
+  <VTE_PanicFreezing.recoveryMessage>{0}不再惊慌失措地愣在那里了。</VTE_PanicFreezing.recoveryMessage>
   <!--EN: Mental state: technophobe tantrum-->
-  <VTE_TechnophobeTantrum.baseInspectLine>精神状态：技术恐惧者发脾气</VTE_TechnophobeTantrum.baseInspectLine>
+  <VTE_TechnophobeTantrum.baseInspectLine>精神状态: 科技恐惧症暴怒</VTE_TechnophobeTantrum.baseInspectLine>
   <!--EN: {0} has flown into a technophobe tantrum.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on technology.-->
-  <VTE_TechnophobeTantrum.beginLetter>{0} 已经爆发了技术恐惧症。
-
-[PAWN_pronoun] 将发泄 [PAWN_possessive] 对技术的愤怒。</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.beginLetter>{0} 因科技恐惧症而陷入暴怒状态。\n\n[PAWN_pronoun] 想将[PAWN_possessive]怒火发泄在科技产品上</VTE_TechnophobeTantrum.beginLetter>
   <!--EN: technophobe tantrum-->
-  <VTE_TechnophobeTantrum.label>技术恐惧者发脾气</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.label>科技恐惧症暴怒</VTE_TechnophobeTantrum.label>
   <!--EN: {0} is no longer in a technophobe tantrum.-->
-  <VTE_TechnophobeTantrum.recoveryMessage>{0} 不再发脾气。</VTE_TechnophobeTantrum.recoveryMessage>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0}不再发科技恐惧症的脾气了。</VTE_TechnophobeTantrum.recoveryMessage>
 </LanguageData>

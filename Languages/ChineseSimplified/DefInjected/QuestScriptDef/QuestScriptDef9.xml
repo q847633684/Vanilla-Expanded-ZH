@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <VPE_EltexMeteor.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription->A large meteorite has struck ground nearby. It has left behind a lump of eltex. Eltex can be used to create psyfocus-enhancing gear, or sold to the Empire to gain honor.
-You can send a mining party to retrieve it, but chances are if you wait long enough, someone else will lay claim to it.-->
-    <li>questDescription-&gt;一块巨大的陨石撞击了附近的地面。它留下了一块埃尔克斯。 Eltex 可用于制造精神集中增强装备，或出售给帝国以获得荣誉。
-你可以派遣采矿队取回它，但如果你等待足够长的时间，很可能会有其他人声称拥有它。</li>
-  </VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+  <VPE_EltexMeteor.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription->A large meteorite has struck ground nearby. It has left behind a lump of eltex. Eltex can be used to create psyfocus-enhancing gear, or sold to the Empire to gain honor.
+You can send a mining party to retrieve it, but chances are if you wait long enough, someone else will lay claim to it.--><li>questDescription-&gt;一颗巨大的陨石撞击了此区域的地面。留下了一块灵质。灵质可以用来打造强化心灵能力的装备，或是卖给帝国征募官。</li></VPE_EltexMeteor.questDescriptionRules.rulesStrings>
   <VPE_EltexMeteor.questNameRules.rulesStrings>
     <!--EN: questName->Eltex Meteor-->
-    <li>questName-&gt;埃尔泰克斯流星</li>
+    <li>questName-&gt;灵质陨石</li>
   </VPE_EltexMeteor.questNameRules.rulesStrings>
   <!--EN: Quest expired: [resolvedQuestName]-->
   <VPE_EltexMeteor.root.nodes.7.node.nodes.0.label>任务已过期：[resolvedQuestName]</VPE_EltexMeteor.root.nodes.7.node.nodes.0.label>

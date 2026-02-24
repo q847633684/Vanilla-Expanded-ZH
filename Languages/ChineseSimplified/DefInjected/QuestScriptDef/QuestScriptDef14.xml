@@ -1,25 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription->[asker_nameFull], an awakened android, is calling from nearby. [asker_pronoun] is being hunted by [enemyFaction_name]. Once an android experiences high emotional trauma or happiness, it can develop sentience and personality. Despite being synthetic, awakened androids exhibit human-like behavior and possess adaptable subroutines. Their artificial bodies grant disease immunity, but they require comfort and personal space. They indulge in human pursuits and strive to blend into society. A lot of societies don't agree with it and prefer androids as servants, not equals. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to provide shelter at [map_definite]. If you accept, [asker_pronoun] will arrive immediately, but [asker_pronoun] will be followed by the search party that you will need to defeat.\n\nAndroids are synthetic, man-made constructs with metal bodies and neutroamine coursing through their veins. Operated by a persona subcore, androids are capable of all the same work kinds as humans, without the drawbacks usually associated with organic life.-->
-    <li>questDescription-&gt;[asker_nameFull]，一个被唤醒的机器人，正在从附近呼叫。 [asker_pronoun] 正在被 [enemyFaction_name] 追捕。一旦机器人经历了高度的情感创伤或幸福，它就会发展出感知力和个性。尽管是合成的，但觉醒的机器人表现出类似人类的行为并拥有适应性强的子程序。他们的人造身体赋予疾病免疫力，但他们需要舒适和个人空间。他们沉迷于人类的追求，努力融入社会。许多社会不同意这一点，并且更喜欢将机器人视为仆人，而不是平等的人。 [enemyFaction_pawnsPlural] 的搜索队由以下人员组成：
-
-[raid/raidPawnKinds]
-
-[asker_nameFull] 希望您在 [map_definite] 提供庇护。如果您接受，[asker_pronoun]将立即到达，但[asker_pronoun]后面将跟随您需要击败的搜索队。
-
-仿生人是合成的人造结构，具有金属身体和血管中流淌的中性胺。在角色子核心的控制下，机器人能够完成与人类相同的所有工作类型，并且没有通常与有机生命相关的缺点。</li>
-  </VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription->[asker_nameFull], an awakened android, is calling from nearby. [asker_pronoun] is being hunted by [enemyFaction_name]. Once an android experiences high emotional trauma or happiness, it can develop sentience and personality. Despite being synthetic, awakened androids exhibit human-like behavior and possess adaptable subroutines. Their artificial bodies grant disease immunity, but they require comfort and personal space. They indulge in human pursuits and strive to blend into society. A lot of societies don't agree with it and prefer androids as servants, not equals. The search party of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] wants you to provide shelter at [map_definite]. If you accept, [asker_pronoun] will arrive immediately, but [asker_pronoun] will be followed by the search party that you will need to defeat.\n\nAndroids are synthetic, man-made constructs with metal bodies and neutroamine coursing through their veins. Operated by a persona subcore, androids are capable of all the same work kinds as humans, without the drawbacks usually associated with organic life.--><li>questDescription-&gt;附近一位名叫[asker_nameFull]的觉醒人形向我们发出了求救信号。她说自己正被来自[enemyFaction_name]的人形猎手追杀！\n\n觉醒人形是由经历了强烈情感刺激后产生人格与自我意识的基础人形“进化”而来的。虽然他们是合成体，但从行为与外表来看几乎与人类无异。觉醒人形不必睡眠与进食，且免疫疾病、感染与中毒，但需要保持舒适以及足够的私人空间。为了满足自身的追求与爱好，他们甚至还会试着努力融入到人类社会之中。然而许多人类无法容忍觉醒人形享有与自己同等的权利与地位，更喜欢将他们当作工具与仆从看待。\n\n[asker_nameFull]祈求得到保护并想加入位于[map_definite]的殖民地。\n\n警告：如果接受请求，[asker_nameFull]会立即到达，但你将要对抗追杀[asker_pronoun]的[enemyFaction_pawnsPlural]。其队伍组成为：\n\n[raid/raidPawnKinds]\n\n人形是被制造出来的合成体。他们是钢铁之躯，以中性胺为“血液”，人格次生核心令其能像人类一样工作，但同时又免去了各种麻烦的身心需求。人形不需要睡眠和进食，且免疫疾病、感染与中毒</li></VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
   <VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
     <!--EN: questName->the [adjAny] Android-->
-    <li>questName-&gt;[adjAny] Android</li>
+    <li>questName-&gt;[adjAny]人形</li>
     <!--EN: adjAny->hunted-->
-    <li>adjAny-&gt;被追捕</li>
+    <li>adjAny-&gt;被猎杀的</li>
     <!--EN: adjAny->fleeing-->
-    <li>adjAny-&gt;逃离</li>
+    <li>adjAny-&gt;被追捕的</li>
     <!--EN: adjAny->chased-->
-    <li>adjAny-&gt;被追赶</li>
+    <li>adjAny-&gt;在逃</li>
     <!--EN: adjAny->ambushed-->
-    <li>adjAny-&gt;遭到伏击</li>
+    <li>adjAny-&gt;遇袭的</li>
   </VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
 </LanguageData>

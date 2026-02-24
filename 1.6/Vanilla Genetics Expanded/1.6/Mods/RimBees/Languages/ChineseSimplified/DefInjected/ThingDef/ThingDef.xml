@@ -1,183 +1,207 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A payload of bee genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used only as a primary genome.\n\n<color=#E5E54C>Gameplay effect:</color> All bee hybrids hover over terrain.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via the genome extractor table from a combination of 10 bees.-->
-  <GR_BeeGenetic.description>A payload of bee genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 1 genome can be used only as a primary genome.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All bee hybrids hover over terrain.\n\n&lt;color=#E5E54C&gt;Extraction:&lt;/color&gt; Can be extracted via the genome extractor table from a combination of 10 bees.</GR_BeeGenetic.description>
+  <GR_BeeGenetic.description>蜜蜂遗传物质的有效负载。可用于基因变形器以创建杂交动物的生长细胞。该第 1 层基因组只能用作主基因组。
+
+&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有蜜蜂杂交体悬停在地形上。
+
+&lt;color=#E5E54C&gt;提取：&lt;/color&gt;可以通过基因组提取器表从以下组合中提取10只蜜蜂。</GR_BeeGenetic.description>
   <!--EN: bee genome-->
-  <GR_BeeGenetic.label>bee genome</GR_BeeGenetic.label>
+  <GR_BeeGenetic.label>蜜蜂基因组</GR_BeeGenetic.label>
   <!--EN: A Bear / Bee hybrid. This huge bee hybrid is fiercely agressive and territorial. It will act as a very powerful attack animal with venomous attacks if properly trained.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Bearbee.description>A Bear / Bee hybrid. This huge bee hybrid is fiercely agressive and territorial. It will act as a very powerful attack animal with venomous attacks if properly trained.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Bearbee.description>
+  <GR_BeeHybrid_Bearbee.description>熊/蜜蜂的杂交种。这种巨大的蜜蜂杂交体具有强烈的攻击性和领地意识。如果训练得当，它将成为一种非常强大的攻击动物，具有剧毒攻击。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生适当的蜂窝。它们还有非常令人讨厌的毒刺。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Bearbee.description>
   <!--EN: bearbee-->
-  <GR_BeeHybrid_Bearbee.label>bearbee</GR_BeeHybrid_Bearbee.label>
+  <GR_BeeHybrid_Bearbee.label>熊蜂</GR_BeeHybrid_Bearbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Bearbee.tools.1.label>claws</GR_BeeHybrid_Bearbee.tools.1.label>
+  <GR_BeeHybrid_Bearbee.tools.1.label>爪子</GR_BeeHybrid_Bearbee.tools.1.label>
   <!--EN: A Boomalope / Bee hybrid. This bee hybrid is covered in chemfuel pustules and it is highly unstable.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The boombee injects chemfuel with its stinger, instead of venom, which is as painful as it sounds. It will also explode in a cloud of bees when it dies, which is incredibly stupid from a scientific standpoint, but it is cool, so meh. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Boombee.description>A Boomalope / Bee hybrid. This bee hybrid is covered in chemfuel pustules and it is highly unstable.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The boombee injects chemfuel with its stinger, instead of venom, which is as painful as it sounds. It will also explode in a cloud of bees when it dies, which is incredibly stupid from a scientific standpoint, but it is cool, so meh. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Boombee.description>
+  <GR_BeeHybrid_Boombee.description>Boomalope / 蜜蜂杂交种。这种混合蜜蜂身上覆盖着化学燃料脓疱，非常不稳定。
+
+有用的能力：所有混合蜜蜂每隔几天就会缓慢地产生合适的蜂窝。蜂蜂用它的毒刺注入化学燃料，而不是毒液，这听起来很痛苦。当它死时，它也会在蜜蜂云中爆炸，从科学的角度来看，这是非常愚蠢的，但它很酷，所以嗯。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Boombee.description>
   <!--EN: boombee-->
-  <GR_BeeHybrid_Boombee.label>boombee</GR_BeeHybrid_Boombee.label>
+  <GR_BeeHybrid_Boombee.label>布姆比</GR_BeeHybrid_Boombee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Boombee.tools.1.label>claws</GR_BeeHybrid_Boombee.tools.1.label>
+  <GR_BeeHybrid_Boombee.tools.1.label>爪子</GR_BeeHybrid_Boombee.tools.1.label>
   <!--EN: A Cat / Bee hybrid. The agile catbee is an affectionate pet that will also sting your enemies to death.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The catbee has a powerful venomous sting that makes its prey blind for a while. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Catbee.description>A Cat / Bee hybrid. The agile catbee is an affectionate pet that will also sting your enemies to death.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The catbee has a powerful venomous sting that makes its prey blind for a while. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Catbee.description>
+  <GR_BeeHybrid_Catbee.description>猫/蜂的杂交种。敏捷的猫蜂是一种深情的宠物，它也会蜇死你的敌人。
+
+有用的能力：所有蜜蜂杂交体每隔几天就会缓慢地产生合适的蜂窝。猫蜂具有强大的毒刺，可以使其猎物失明一段时间。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Catbee.description>
   <!--EN: catbee-->
-  <GR_BeeHybrid_Catbee.label>catbee</GR_BeeHybrid_Catbee.label>
+  <GR_BeeHybrid_Catbee.label>猫蜂</GR_BeeHybrid_Catbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Catbee.tools.1.label>claws</GR_BeeHybrid_Catbee.tools.1.label>
+  <GR_BeeHybrid_Catbee.tools.1.label>爪子</GR_BeeHybrid_Catbee.tools.1.label>
   <!--EN: A Chicken / Bee hybrid. As it is often the case with avian hybrids, they are not very strong on their own, but when used in high enough numbers they can be a real nuisance.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The chickenbee is an excellent egg layer. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Chickenbee.description>A Chicken / Bee hybrid. As it is often the case with avian hybrids, they are not very strong on their own, but when used in high enough numbers they can be a real nuisance.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The chickenbee is an excellent egg layer. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Chickenbee.description>
+  <GR_BeeHybrid_Chickenbee.description>鸡/蜜蜂杂交种。正如鸟类杂交体的情况一样，它们本身并不是很强，但当使用的数量足够多时，它们可能会造成真正的麻烦。
+
+有用的能力：所有蜜蜂杂交体每隔几天就会缓慢地产生适当的蜂窝。鸡蜂是极好的产蛋动物。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Chickenbee.description>
   <!--EN: chickenbee-->
-  <GR_BeeHybrid_Chickenbee.label>chickenbee</GR_BeeHybrid_Chickenbee.label>
+  <GR_BeeHybrid_Chickenbee.label>鸡蜂</GR_BeeHybrid_Chickenbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Chickenbee.tools.1.label>claws</GR_BeeHybrid_Chickenbee.tools.1.label>
+  <GR_BeeHybrid_Chickenbee.tools.1.label>爪子</GR_BeeHybrid_Chickenbee.tools.1.label>
   <!--EN: A Lizard / Bee hybrid. This bee hybrid is covered in scales, providing it with a thick natural armor.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. Lizardbees have a very potent venom. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Lizardbee.description>A Lizard / Bee hybrid. This bee hybrid is covered in scales, providing it with a thick natural armor.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. Lizardbees have a very potent venom. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Lizardbee.description>
+  <GR_BeeHybrid_Lizardbee.description>蜥蜴/蜜蜂的杂交种。这种杂交蜜蜂浑身覆盖着鳞片，为它提供了一层厚厚的天然盔甲。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。蜥蜴蜂有很强的毒液。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Lizardbee.description>
   <!--EN: lizardbee-->
-  <GR_BeeHybrid_Lizardbee.label>lizardbee</GR_BeeHybrid_Lizardbee.label>
+  <GR_BeeHybrid_Lizardbee.label>蜥蜴蜂</GR_BeeHybrid_Lizardbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Lizardbee.tools.1.label>claws</GR_BeeHybrid_Lizardbee.tools.1.label>
+  <GR_BeeHybrid_Lizardbee.tools.1.label>爪子</GR_BeeHybrid_Lizardbee.tools.1.label>
   <!--EN: A Mouse / Bee hybrid. These diminutive bee hybrids reproduce really fast.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The mousebee reproduces with blinding speed. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Mousebee.description>A Mouse / Bee hybrid. These diminutive bee hybrids reproduce really fast.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The mousebee reproduces with blinding speed. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Mousebee.description>
+  <GR_BeeHybrid_Mousebee.description>小鼠/蜜蜂杂交种。这些小型杂交蜜蜂的繁殖速度非常快。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。老鼠蜂以惊人的速度繁殖。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Mousebee.description>
   <!--EN: mousebee-->
-  <GR_BeeHybrid_Mousebee.label>mousebee</GR_BeeHybrid_Mousebee.label>
+  <GR_BeeHybrid_Mousebee.label>老鼠蜂</GR_BeeHybrid_Mousebee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Mousebee.tools.1.label>claws</GR_BeeHybrid_Mousebee.tools.1.label>
+  <GR_BeeHybrid_Mousebee.tools.1.label>爪子</GR_BeeHybrid_Mousebee.tools.1.label>
   <!--EN: A Muffalo / Bee hybrid. This docile bee hybrid is a versatile pack beast, since it ignores terrain movement costs. Apart from its honeycombs, it also produces additional small amounts of milk and wool.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Muffalobee.description>A Muffalo / Bee hybrid. This docile bee hybrid is a versatile pack beast, since it ignores terrain movement costs. Apart from its honeycombs, it also produces additional small amounts of milk and wool.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Muffalobee.description>
+  <GR_BeeHybrid_Muffalobee.description>水牛/蜜蜂杂交品种。这种温顺的蜜蜂杂交体是一种多才多艺的群体野兽，因为它忽略了地形移动成本。除了蜂窝之外，它还产生额外的少量牛奶和羊毛。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。它们还有非常令人讨厌的毒刺。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Muffalobee.description>
   <!--EN: muffalobee-->
-  <GR_BeeHybrid_Muffalobee.label>muffalobee</GR_BeeHybrid_Muffalobee.label>
+  <GR_BeeHybrid_Muffalobee.label>穆法洛比</GR_BeeHybrid_Muffalobee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Muffalobee.tools.1.label>claws</GR_BeeHybrid_Muffalobee.tools.1.label>
+  <GR_BeeHybrid_Muffalobee.tools.1.label>爪子</GR_BeeHybrid_Muffalobee.tools.1.label>
   <!--EN: A Megaspider / Bee hybrid. A powerful, armoured bee hybrid that cannot reproduce on its own. It has a dangerous ranged attack.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting, and a ranged sting attack. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Spiderbee.description>A Megaspider / Bee hybrid. A powerful, armoured bee hybrid that cannot reproduce on its own. It has a dangerous ranged attack.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting, and a ranged sting attack. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Spiderbee.description>
+  <GR_BeeHybrid_Spiderbee.description>巨蜘蛛/蜜蜂的杂交种。一种强大的装甲蜜蜂杂交种，无法自行繁殖。它具有危险的远程攻击能力。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。它们还具有非常令人讨厌的毒刺和远程刺伤攻击。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Spiderbee.description>
   <!--EN: spiderbee-->
-  <GR_BeeHybrid_Spiderbee.label>spiderbee</GR_BeeHybrid_Spiderbee.label>
+  <GR_BeeHybrid_Spiderbee.label>蜘蛛蜂</GR_BeeHybrid_Spiderbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Spiderbee.tools.1.label>claws</GR_BeeHybrid_Spiderbee.tools.1.label>
+  <GR_BeeHybrid_Spiderbee.tools.1.label>爪子</GR_BeeHybrid_Spiderbee.tools.1.label>
   <!--EN: slicing mandibles-->
-  <GR_BeeHybrid_Spiderbee.tools.2.label>slicing mandibles</GR_BeeHybrid_Spiderbee.tools.2.label>
+  <GR_BeeHybrid_Spiderbee.tools.2.label>切下颌骨</GR_BeeHybrid_Spiderbee.tools.2.label>
   <!--EN: A Thrumbo / Bee hybrid. This gigantic bee hybrid is very intelligent, and it can easily be the backbone of a colony's defense if trained to do it.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Thrumbee.description>A Thrumbo / Bee hybrid. This gigantic bee hybrid is very intelligent, and it can easily be the backbone of a colony's defense if trained to do it.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. They also have a very nasty venomous sting. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Thrumbee.description>
+  <GR_BeeHybrid_Thrumbee.description>Thrumbo / Bee 混合体。这种巨大的杂交蜜蜂非常聪明，如果经过训练，它很容易成为蜂群防御的支柱。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。它们还有非常令人讨厌的毒刺。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Thrumbee.description>
   <!--EN: thrumbee-->
-  <GR_BeeHybrid_Thrumbee.label>thrumbee</GR_BeeHybrid_Thrumbee.label>
+  <GR_BeeHybrid_Thrumbee.label>传球者</GR_BeeHybrid_Thrumbee.label>
   <!--EN: horn-->
-  <GR_BeeHybrid_Thrumbee.tools.0.label>horn</GR_BeeHybrid_Thrumbee.tools.0.label>
+  <GR_BeeHybrid_Thrumbee.tools.0.label>喇叭</GR_BeeHybrid_Thrumbee.tools.0.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Thrumbee.tools.2.label>claws</GR_BeeHybrid_Thrumbee.tools.2.label>
+  <GR_BeeHybrid_Thrumbee.tools.2.label>爪子</GR_BeeHybrid_Thrumbee.tools.2.label>
   <!--EN: A Wolf / Bee hybrid. A fearsome flying predator. One of the fastest creatures on the Rim, due to its ability to ignore rugged terrain. Perfect for chasing down intruders.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The wolfbee has a powerful venomous sting that paralyzes its prey. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.-->
-  <GR_BeeHybrid_Wolfbee.description>A Wolf / Bee hybrid. A fearsome flying predator. One of the fastest creatures on the Rim, due to its ability to ignore rugged terrain. Perfect for chasing down intruders.\n\nUseful abilities: All bee hybrids slowly produce their appropriate honeycombs every few days. The wolfbee has a powerful venomous sting that paralyzes its prey. Finally, they will ignore terrain movement costs, since they hover over the ground, except over water, where their movement is slightly impeded.</GR_BeeHybrid_Wolfbee.description>
+  <GR_BeeHybrid_Wolfbee.description>狼/蜜蜂的杂交种。可怕的飞行掠食者。环缘上速度最快的生物之一，因为它能够忽略崎岖的地形。非常适合追捕入侵者。
+
+有用的能力：所有杂交蜜蜂每隔几天就会缓慢地产生合适的蜂窝。狼蜂具有强大的毒刺，可以使猎物瘫痪。最后，它们将忽略地形移动成本，因为它们盘旋在地面上，除了水面上，它们的移动会受到轻微阻碍。</GR_BeeHybrid_Wolfbee.description>
   <!--EN: wolfbee-->
-  <GR_BeeHybrid_Wolfbee.label>wolfbee</GR_BeeHybrid_Wolfbee.label>
+  <GR_BeeHybrid_Wolfbee.label>狼蜂</GR_BeeHybrid_Wolfbee.label>
   <!--EN: claws-->
-  <GR_BeeHybrid_Wolfbee.tools.1.label>claws</GR_BeeHybrid_Wolfbee.tools.1.label>
+  <GR_BeeHybrid_Wolfbee.tools.1.label>爪子</GR_BeeHybrid_Wolfbee.tools.1.label>
   <!--EN: bee shell-->
-  <RB_BeeBomb.label>bee shell</RB_BeeBomb.label>
+  <RB_BeeBomb.label>蜜蜂壳</RB_BeeBomb.label>
   <!--EN: Fertilized chickenbee egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickenbee.-->
-  <RB_BeeEggsActive.description>Fertilized chickenbee egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickenbee.</RB_BeeEggsActive.description>
+  <RB_BeeEggsActive.description>受精的蜜蜂蛋。它可以生吃，但煮熟后吃效果更好。如果一切顺利，它应该孵化成一只小鸡蜜蜂。</RB_BeeEggsActive.description>
   <!--EN: chickenbee egg (fert.)-->
-  <RB_BeeEggsActive.label>chickenbee egg (fert.)</RB_BeeEggsActive.label>
+  <RB_BeeEggsActive.label>鸡蜜蜂蛋（已受精）</RB_BeeEggsActive.label>
   <!--EN: cattle drone-->
-  <RB_Bee_Cattle_Drone.label>cattle drone</RB_Bee_Cattle_Drone.label>
+  <RB_Bee_Cattle_Drone.label>牛无人机</RB_Bee_Cattle_Drone.label>
   <!--EN: cattle queen-->
-  <RB_Bee_Cattle_Queen.label>cattle queen</RB_Bee_Cattle_Queen.label>
+  <RB_Bee_Cattle_Queen.label>牛女王</RB_Bee_Cattle_Queen.label>
   <!--EN: clucking drone-->
-  <RB_Bee_Clucking_Drone.label>clucking drone</RB_Bee_Clucking_Drone.label>
+  <RB_Bee_Clucking_Drone.label>咯咯叫的无人机</RB_Bee_Clucking_Drone.label>
   <!--EN: clucking queen-->
-  <RB_Bee_Clucking_Queen.label>clucking queen</RB_Bee_Clucking_Queen.label>
+  <RB_Bee_Clucking_Queen.label>咯咯的女王</RB_Bee_Clucking_Queen.label>
   <!--EN: exploding drone-->
-  <RB_Bee_Exploding_Drone.label>exploding drone</RB_Bee_Exploding_Drone.label>
+  <RB_Bee_Exploding_Drone.label>爆炸无人机</RB_Bee_Exploding_Drone.label>
   <!--EN: exploding queen-->
-  <RB_Bee_Exploding_Queen.label>exploding queen</RB_Bee_Exploding_Queen.label>
+  <RB_Bee_Exploding_Queen.label>爆炸女王</RB_Bee_Exploding_Queen.label>
   <!--EN: horned drone-->
-  <RB_Bee_Horned_Drone.label>horned drone</RB_Bee_Horned_Drone.label>
+  <RB_Bee_Horned_Drone.label>有角的无人机</RB_Bee_Horned_Drone.label>
   <!--EN: horned queen-->
-  <RB_Bee_Horned_Queen.label>horned queen</RB_Bee_Horned_Queen.label>
+  <RB_Bee_Horned_Queen.label>有角的女王</RB_Bee_Horned_Queen.label>
   <!--EN: hound drone-->
-  <RB_Bee_Hound_Drone.label>hound drone</RB_Bee_Hound_Drone.label>
+  <RB_Bee_Hound_Drone.label>猎犬无人机</RB_Bee_Hound_Drone.label>
   <!--EN: hound queen-->
-  <RB_Bee_Hound_Queen.label>hound queen</RB_Bee_Hound_Queen.label>
+  <RB_Bee_Hound_Queen.label>猎犬女王</RB_Bee_Hound_Queen.label>
   <!--EN: hybernating drone-->
-  <RB_Bee_Hybernating_Drone.label>hybernating drone</RB_Bee_Hybernating_Drone.label>
+  <RB_Bee_Hybernating_Drone.label>冬眠无人机</RB_Bee_Hybernating_Drone.label>
   <!--EN: hybernating queen-->
-  <RB_Bee_Hybernating_Queen.label>hybernating queen</RB_Bee_Hybernating_Queen.label>
+  <RB_Bee_Hybernating_Queen.label>冬眠女王</RB_Bee_Hybernating_Queen.label>
   <!--EN: Hard overlapping scales of insect chitin laid over a thick layer of semi-rigid leather. Quite durable in combat, but provides little protection from weather.-->
-  <RB_Bee_Leather.description>Hard overlapping scales of insect chitin laid over a thick layer of semi-rigid leather. Quite durable in combat, but provides little protection from weather.</RB_Bee_Leather.description>
+  <RB_Bee_Leather.description>昆虫甲壳质的坚硬重叠鳞片覆盖在厚厚的半硬质皮革上。在战斗中相当耐用，但几乎无法提供天气保护。</RB_Bee_Leather.description>
   <!--EN: bee leather-->
-  <RB_Bee_Leather.label>bee leather</RB_Bee_Leather.label>
+  <RB_Bee_Leather.label>蜜蜂皮革</RB_Bee_Leather.label>
   <!--EN: megaspidery drone-->
-  <RB_Bee_Megaspidery_Drone.label>megaspidery drone</RB_Bee_Megaspidery_Drone.label>
+  <RB_Bee_Megaspidery_Drone.label>巨型蜘蛛无人机</RB_Bee_Megaspidery_Drone.label>
   <!--EN: megaspidery queen-->
-  <RB_Bee_Megaspidery_Queen.label>megaspidery queen</RB_Bee_Megaspidery_Queen.label>
+  <RB_Bee_Megaspidery_Queen.label>巨型蜘蛛女王</RB_Bee_Megaspidery_Queen.label>
   <!--EN: mousy drone-->
-  <RB_Bee_Mousy_Drone.label>mousy drone</RB_Bee_Mousy_Drone.label>
+  <RB_Bee_Mousy_Drone.label>老鼠无人机</RB_Bee_Mousy_Drone.label>
   <!--EN: mousy queen-->
-  <RB_Bee_Mousy_Queen.label>mousy queen</RB_Bee_Mousy_Queen.label>
+  <RB_Bee_Mousy_Queen.label>老鼠女王</RB_Bee_Mousy_Queen.label>
   <!--EN: organic drone-->
-  <RB_Bee_Organic_Drone.label>organic drone</RB_Bee_Organic_Drone.label>
+  <RB_Bee_Organic_Drone.label>有机无人机</RB_Bee_Organic_Drone.label>
   <!--EN: organic queen-->
-  <RB_Bee_Organic_Queen.label>organic queen</RB_Bee_Organic_Queen.label>
+  <RB_Bee_Organic_Queen.label>有机女王</RB_Bee_Organic_Queen.label>
   <!--EN: purring drone-->
-  <RB_Bee_Purring_Drone.label>purring drone</RB_Bee_Purring_Drone.label>
+  <RB_Bee_Purring_Drone.label>咕噜咕噜的无人机</RB_Bee_Purring_Drone.label>
   <!--EN: purring queen-->
-  <RB_Bee_Purring_Queen.label>purring queen</RB_Bee_Purring_Queen.label>
+  <RB_Bee_Purring_Queen.label>咕咕叫的女王</RB_Bee_Purring_Queen.label>
   <!--EN: scaly drone-->
-  <RB_Bee_Scaly_Drone.label>scaly drone</RB_Bee_Scaly_Drone.label>
+  <RB_Bee_Scaly_Drone.label>有鳞的雄蜂</RB_Bee_Scaly_Drone.label>
   <!--EN: scaly queen-->
-  <RB_Bee_Scaly_Queen.label>scaly queen</RB_Bee_Scaly_Queen.label>
+  <RB_Bee_Scaly_Queen.label>鳞状女王</RB_Bee_Scaly_Queen.label>
   <!--EN: This is a honeycomb produced by cattle bees. Cattle bees have muffalo genes spliced in their genome. They are covered in a thick white pelt, and produce milk, wool and muffalo genetic material. Honeycombs can be procesed in a Honey Extractor to get milk, wool and muffalo genetic material.-->
-  <RB_Cattle_Honeycomb.description>This is a honeycomb produced by cattle bees. Cattle bees have muffalo genes spliced in their genome. They are covered in a thick white pelt, and produce milk, wool and muffalo genetic material. Honeycombs can be procesed in a Honey Extractor to get milk, wool and muffalo genetic material.</RB_Cattle_Honeycomb.description>
+  <RB_Cattle_Honeycomb.description>这是牛蜂生产的蜂窝。牛蜂的基因组中剪接有野牛基因。它们覆盖着厚厚的白色毛皮，产生牛奶、羊毛和野牛遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得牛奶、羊毛和野牛遗传物质。</RB_Cattle_Honeycomb.description>
   <!--EN: cattle honeycomb-->
-  <RB_Cattle_Honeycomb.label>cattle honeycomb</RB_Cattle_Honeycomb.label>
+  <RB_Cattle_Honeycomb.label>牛蜂窝</RB_Cattle_Honeycomb.label>
   <!--EN: This is a honeycomb produced by clucking bees. Clucking bees have chicken genes spliced in their genome. They are covered in feathers, and produce eggs and avian genetic material. Honeycombs can be procesed in a Honey Extractor to get bee eggs, genewax and avian genetic material.-->
-  <RB_Clucking_Honeycomb.description>This is a honeycomb produced by clucking bees. Clucking bees have chicken genes spliced in their genome. They are covered in feathers, and produce eggs and avian genetic material. Honeycombs can be procesed in a Honey Extractor to get bee eggs, genewax and avian genetic material.</RB_Clucking_Honeycomb.description>
+  <RB_Clucking_Honeycomb.description>这是蜜蜂咯咯叫时产生的蜂窝。咯咯蜜蜂的基因组中剪接有鸡基因。它们全身覆盖羽毛，并产生卵和鸟类遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得蜂卵、蜂蜡和鸟类遗传物质。</RB_Clucking_Honeycomb.description>
   <!--EN: clucking honeycomb-->
-  <RB_Clucking_Honeycomb.label>clucking honeycomb</RB_Clucking_Honeycomb.label>
+  <RB_Clucking_Honeycomb.label>咯咯作响的蜂窝</RB_Clucking_Honeycomb.label>
   <!--EN: This is a honeycomb produced by exploding bees. Exploding bees have boomalope genes spliced in their genome. This bees produce genetic honey, chemfuel, and boom genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, chemfuel, and booma genetic material.-->
-  <RB_Exploding_Honeycomb.description>This is a honeycomb produced by exploding bees. Exploding bees have boomalope genes spliced in their genome. This bees produce genetic honey, chemfuel, and boom genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, chemfuel, and booma genetic material.</RB_Exploding_Honeycomb.description>
+  <RB_Exploding_Honeycomb.description>这是蜜蜂爆炸产生的蜂窝。爆炸蜜蜂的基因组中剪接有 boomalope 基因。这些蜜蜂生产遗传蜂蜜、化学燃料和繁荣遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、化学燃料和布玛遗传物质。</RB_Exploding_Honeycomb.description>
   <!--EN: exploding honeycomb-->
-  <RB_Exploding_Honeycomb.label>exploding honeycomb</RB_Exploding_Honeycomb.label>
+  <RB_Exploding_Honeycomb.label>爆炸蜂窝</RB_Exploding_Honeycomb.label>
   <!--EN: This honey has been extracted from any genetic honeycomb, and has a very strange greenish tone that makes it less appetizing. Decays incredibly fast, but it can be consumed as a potent physically enhancing drug that doesn't cause any side effects. This honey can be consumed raw or cooked with other ingredients, and its properties transfer to the resulting meal.-->
-  <RB_GeneticHoney.description>This honey has been extracted from any genetic honeycomb, and has a very strange greenish tone that makes it less appetizing. Decays incredibly fast, but it can be consumed as a potent physically enhancing drug that doesn't cause any side effects. This honey can be consumed raw or cooked with other ingredients, and its properties transfer to the resulting meal.</RB_GeneticHoney.description>
+  <RB_GeneticHoney.description>这种蜂蜜是从任何基因蜂巢中提取的，具有非常奇怪的绿色色调，使其不太开胃。腐烂速度快得令人难以置信，但它可以作为一种有效的增强体质的药物服用，不会引起任何副作用。这种蜂蜜可以生吃或与其他成分一起煮熟，其特性会转移到最终的膳食中。</RB_GeneticHoney.description>
   <!--EN: genetic honey-->
-  <RB_GeneticHoney.label>genetic honey</RB_GeneticHoney.label>
+  <RB_GeneticHoney.label>遗传蜂蜜</RB_GeneticHoney.label>
   <!--EN: Genewax is extracted from combs of the Genetic family (any Vanilla Genetics Expanded hybrid bees) and is much less resistant than regular beeswax. Its only practical application is that it can be used to create genoframes, instead of corpses.-->
-  <RB_Genewax.description>Genewax is extracted from combs of the Genetic family (any Vanilla Genetics Expanded hybrid bees) and is much less resistant than regular beeswax. Its only practical application is that it can be used to create genoframes, instead of corpses.</RB_Genewax.description>
+  <RB_Genewax.description>Genewax 是从 Genetic 家族（任何 Vanilla Genetics Expanded 杂交蜂）的蜂巢中提取的，其抵抗力比普通蜂蜡低得多。它唯一的实际应用是它可以用来创建基因框架，而不是尸体。</RB_Genewax.description>
   <!--EN: genewax-->
-  <RB_Genewax.label>genewax</RB_Genewax.label>
+  <RB_Genewax.label>基因蜡</RB_Genewax.label>
   <!--EN: This is a honeycomb produced by horned bees. Horned bees have thrumbo genes spliced in their genome. They take a very long time to generate honeycombs, but they produce highly sought after colossal genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax, and colossal genetic material.-->
-  <RB_Horned_Honeycomb.description>This is a honeycomb produced by horned bees. Horned bees have thrumbo genes spliced in their genome. They take a very long time to generate honeycombs, but they produce highly sought after colossal genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax, and colossal genetic material.</RB_Horned_Honeycomb.description>
+  <RB_Horned_Honeycomb.description>这是有角的蜜蜂生产的蜂窝。有角蜜蜂的基因组中剪接有血栓基因。它们需要很长时间才能形成蜂窝，但它们会产生备受追捧的巨大遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和巨大的遗传物质。</RB_Horned_Honeycomb.description>
   <!--EN: horned honeycomb-->
-  <RB_Horned_Honeycomb.label>horned honeycomb</RB_Horned_Honeycomb.label>
+  <RB_Horned_Honeycomb.label>有角蜂窝</RB_Horned_Honeycomb.label>
   <!--EN: This is a honeycomb produced by hound bees. Hound bees have wolf genes spliced in their genome. They produce canine genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and canine genetic material.-->
-  <RB_Hound_Honeycomb.description>This is a honeycomb produced by hound bees. Hound bees have wolf genes spliced in their genome. They produce canine genetic material. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and canine genetic material.</RB_Hound_Honeycomb.description>
+  <RB_Hound_Honeycomb.description>这是猎犬蜂产生的蜂窝。猎犬蜂的基因组中剪接有 狼🐺 基因。它们产生犬类遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和犬类遗传物质。</RB_Hound_Honeycomb.description>
   <!--EN: hound honeycomb-->
-  <RB_Hound_Honeycomb.label>hound honeycomb</RB_Hound_Honeycomb.label>
+  <RB_Hound_Honeycomb.label>猎犬蜂窝</RB_Hound_Honeycomb.label>
   <!--EN: This is a honeycomb produced by hybernating bees. Hybernating bees have grizzly bear genes spliced in their genome. They are covered in a soft fur. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and bear genetic material.-->
-  <RB_Hybernating_Honeycomb.description>This is a honeycomb produced by hybernating bees. Hybernating bees have grizzly bear genes spliced in their genome. They are covered in a soft fur. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and bear genetic material.</RB_Hybernating_Honeycomb.description>
+  <RB_Hybernating_Honeycomb.description>这是蜜蜂冬眠时产生的蜂窝。冬眠蜜蜂的基因组中剪接有灰熊基因。它们身上覆盖着柔软的皮毛。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和熊遗传物质。</RB_Hybernating_Honeycomb.description>
   <!--EN: hybernating honeycomb-->
-  <RB_Hybernating_Honeycomb.label>hybernating honeycomb</RB_Hybernating_Honeycomb.label>
+  <RB_Hybernating_Honeycomb.label>冬眠蜂巢</RB_Hybernating_Honeycomb.label>
   <!--EN: This is a honeycomb produced by megaspidery bees. Megaspidery bees have insectoid genes spliced in their genome. They are covered in chitinous plates and produce insect jelly and insectoid genetic materials. Honeycombs can be procesed in a Honey Extractor to get insect jelly, genewax and insectoid genetic material.-->
-  <RB_Megaspidery_Honeycomb.description>This is a honeycomb produced by megaspidery bees. Megaspidery bees have insectoid genes spliced in their genome. They are covered in chitinous plates and produce insect jelly and insectoid genetic materials. Honeycombs can be procesed in a Honey Extractor to get insect jelly, genewax and insectoid genetic material.</RB_Megaspidery_Honeycomb.description>
+  <RB_Megaspidery_Honeycomb.description>这是由大蜘蛛蜂产生的蜂窝。大蜘蛛蜂的基因组中剪接有类昆虫基因。它们被几丁质板覆盖并产生昆虫果冻和类昆虫遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得昆虫果冻、基因蜡和类昆虫遗传物质。</RB_Megaspidery_Honeycomb.description>
   <!--EN: megaspidery honeycomb-->
-  <RB_Megaspidery_Honeycomb.label>megaspidery honeycomb</RB_Megaspidery_Honeycomb.label>
+  <RB_Megaspidery_Honeycomb.label>巨型蜘蛛蜂窝</RB_Megaspidery_Honeycomb.label>
   <!--EN: This is a honeycomb produced by mousy bees. Mousy bees have rodent genes spliced in their genome. They produce rodent genetic materials and many find their constant high-pitched squeaking sounds to be quite distracting. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and rodent genetic material.-->
-  <RB_Mousy_Honeycomb.description>This is a honeycomb produced by mousy bees. Mousy bees have rodent genes spliced in their genome. They produce rodent genetic materials and many find their constant high-pitched squeaking sounds to be quite distracting. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and rodent genetic material.</RB_Mousy_Honeycomb.description>
+  <RB_Mousy_Honeycomb.description>这是由鼠蜂产生的蜂窝。老鼠蜂的基因组中剪接有啮齿动物基因。它们产生啮齿动物遗传物质，许多人发现它们持续不断的高音吱吱声相当分散注意力。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和啮齿动物遗传物质。</RB_Mousy_Honeycomb.description>
   <!--EN: mousy honeycomb-->
-  <RB_Mousy_Honeycomb.label>mousy honeycomb</RB_Mousy_Honeycomb.label>
+  <RB_Mousy_Honeycomb.label>老鼠蜂窝</RB_Mousy_Honeycomb.label>
   <!--EN: This is a honeycomb produced by organic bees. Organic bees are genetically modified bees that extract cellulose fibers from nearby plants and convert it into a slurry of genetic material which can be refined into template genomes. The main use of these bees, however, is to hybridize them with other bees to create genetic bees of different subspecies. Honeycombs can be procesed in a Honey Extractor to get honey, beeswax and template genomes.-->
-  <RB_Organic_Honeycomb.description>This is a honeycomb produced by organic bees. Organic bees are genetically modified bees that extract cellulose fibers from nearby plants and convert it into a slurry of genetic material which can be refined into template genomes. The main use of these bees, however, is to hybridize them with other bees to create genetic bees of different subspecies. Honeycombs can be procesed in a Honey Extractor to get honey, beeswax and template genomes.</RB_Organic_Honeycomb.description>
+  <RB_Organic_Honeycomb.description>这是由有机蜜蜂生产的蜂窝。有机蜜蜂是经过基因改造的蜜蜂，它们从附近的植物中提取纤维素纤维，并将其转化为遗传物质浆液，可以将其精炼成模板基因组。然而，这些蜜蜂的主要用途是将它们与其他蜜蜂杂交，以产生不同亚种的遗传蜜蜂。可以在蜂蜜提取器中处理蜂窝以获得蜂蜜、蜂蜡和模板基因组。</RB_Organic_Honeycomb.description>
   <!--EN: organic honeycomb-->
-  <RB_Organic_Honeycomb.label>organic honeycomb</RB_Organic_Honeycomb.label>
+  <RB_Organic_Honeycomb.label>有机蜂窝</RB_Organic_Honeycomb.label>
   <!--EN: This is a honeycomb produced by purring bees. Purring bees have cat genes spliced in their genome. They produce feline genetic materials and a lot of videos on the internet. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and feline genetic material.-->
-  <RB_Purring_Honeycomb.description>This is a honeycomb produced by purring bees. Purring bees have cat genes spliced in their genome. They produce feline genetic materials and a lot of videos on the internet. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and feline genetic material.</RB_Purring_Honeycomb.description>
+  <RB_Purring_Honeycomb.description>这是蜜蜂发出咕噜声而产生的蜂窝。发出呼噜声的蜜蜂的基因组中剪接有 猫🐈 基因。他们生产猫科动物的遗传物质和互联网上的大量视频。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和猫科动物遗传物质。</RB_Purring_Honeycomb.description>
   <!--EN: purring honeycomb-->
-  <RB_Purring_Honeycomb.label>purring honeycomb</RB_Purring_Honeycomb.label>
+  <RB_Purring_Honeycomb.label>咕噜咕噜的蜂巢</RB_Purring_Honeycomb.label>
   <!--EN: quill-->
-  <RB_Quill.label>quill</RB_Quill.label>
+  <RB_Quill.label>鹅毛笔</RB_Quill.label>
   <!--EN: This research is in progress.-->
-  <RB_RandomGeneticResearch.description>This research is in progress.</RB_RandomGeneticResearch.description>
+  <RB_RandomGeneticResearch.description>这项研究正在进行中。</RB_RandomGeneticResearch.description>
   <!--EN: bee research (unfinished)-->
-  <RB_RandomGeneticResearch.label>bee research (unfinished)</RB_RandomGeneticResearch.label>
+  <RB_RandomGeneticResearch.label>蜜蜂研究（未完成）</RB_RandomGeneticResearch.label>
   <!--EN: TScaly bees have reptile genes spliced in their genome. They are covered in tough looking scales and produce reptilian genetic materials. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and reptile genetic material.-->
-  <RB_Scaly_Honeycomb.description>TScaly bees have reptile genes spliced in their genome. They are covered in tough looking scales and produce reptilian genetic materials. Honeycombs can be procesed in a Honey Extractor to get genetic honey, genewax and reptile genetic material.</RB_Scaly_Honeycomb.description>
+  <RB_Scaly_Honeycomb.description>鳞蜂的基因组中剪接有爬行动物基因。它们覆盖着看起来坚韧的鳞片，并产生爬行动物遗传物质。蜂巢可以在蜂蜜提取器中进行处理，以获得遗传蜂蜜、基因蜡和爬行动物遗传物质。</RB_Scaly_Honeycomb.description>
   <!--EN: scaly honeycomb-->
-  <RB_Scaly_Honeycomb.label>scaly honeycomb</RB_Scaly_Honeycomb.label>
+  <RB_Scaly_Honeycomb.label>鳞状蜂窝状</RB_Scaly_Honeycomb.label>
 </LanguageData>

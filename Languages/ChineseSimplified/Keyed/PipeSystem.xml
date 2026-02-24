@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Add process-->
-  <PipeSystem_AddProcess>添加进程</PipeSystem_AddProcess>
+  <PipeSystem_AddProcess>添加清单</PipeSystem_AddProcess>
   <!--EN: Allow manual refill-->
-  <PipeSystem_AllowManualRefill>允许手动补充</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefill>允许手动重新填充</PipeSystem_AllowManualRefill>
   <!--EN: Allow pawns to directly refill storage-->
-  <PipeSystem_AllowManualRefillDesc>允许 pawn 直接补充存储</PipeSystem_AllowManualRefillDesc>
+  <PipeSystem_AllowManualRefillDesc>允许殖民者直接重新填充容器</PipeSystem_AllowManualRefillDesc>
   <!--EN: Maximum amount stored here: {0}-->
-  <PipeSystem_AmountOut>此处存储的最大数量：{0}</PipeSystem_AmountOut>
+  <PipeSystem_AmountOut>最大堆叠量：{0}</PipeSystem_AmountOut>
   <!--EN: Augment output maximum stack size by 1.-->
-  <PipeSystem_AugmentStackDesc>将输出最大堆栈大小增加 1。</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackDesc>将输出成品的最大堆叠量+1。</PipeSystem_AugmentStackDesc>
   <!--EN: Augment output maximum stack size by 10.-->
-  <PipeSystem_AugmentStackDescB>将输出最大堆栈大小增加 10。</PipeSystem_AugmentStackDescB>
+  <PipeSystem_AugmentStackDescB>将输出成品的最大堆叠量+10。</PipeSystem_AugmentStackDescB>
   <!--EN: Cancel current process-->
-  <PipeSystem_CancelCurrentProcess>取消当前进程</PipeSystem_CancelCurrentProcess>
+  <PipeSystem_CancelCurrentProcess>取消当前加工清单</PipeSystem_CancelCurrentProcess>
   <!--EN: Can't extract: Tanks are full-->
-  <PipeSystem_CantExtract>无法提取：水箱已满</PipeSystem_CantExtract>
+  <PipeSystem_CantExtract>无法抽取：贮存罐已满</PipeSystem_CantExtract>
   <!--EN: {0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits.-->
-  <PipeSystem_CantPlaceHere>{0} 只能存入 {1} 存款。使用探地扫描仪寻找沉积物。</PipeSystem_CantPlaceHere>
+  <PipeSystem_CantPlaceHere>{0}只能放置于地下蕴藏有{1}的地方。你可以使用地质扫描仪来寻找它们。</PipeSystem_CantPlaceHere>
   <!--EN: Choose result-->
-  <PipeSystem_ChooseResult>选择结果</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResult>选择制品</PipeSystem_ChooseResult>
   <!--EN: Choose processor result.-->
-  <PipeSystem_ChooseResultDesc>选择处理器结果。</PipeSystem_ChooseResultDesc>
+  <PipeSystem_ChooseResultDesc>选择加工设备产出的制品。</PipeSystem_ChooseResultDesc>
   <!--EN: {0} consumption-->
   <PipeSystem_Consumption>{0}消耗</PipeSystem_Consumption>
   <!--EN: The amount per day of {0} this building will draw from the {1} grid.-->
-  <PipeSystem_ConsumptionExplained>该建筑物每天的 {0} 金额将从 {1} 网格中提取。</PipeSystem_ConsumptionExplained>
+  <PipeSystem_ConsumptionExplained>此设备每日从{1}管道网络中抽取的{0}数量。</PipeSystem_ConsumptionExplained>
   <!--EN: Content will rot in {0} due to a lack of power.-->
-  <PipeSystem_ContentWillRot>由于电量不足，内容将在 {0} 中腐烂。</PipeSystem_ContentWillRot>
+  <PipeSystem_ContentWillRot>由于断电，内容物将会于{0}后腐烂。</PipeSystem_ContentWillRot>
   <!--EN: Copy processes-->
   <PipeSystem_CopyProcesses>复制流程</PipeSystem_CopyProcesses>
   <!--EN: Process hasn't reached Awful quality yet-->
@@ -35,15 +35,15 @@
   <!--EN: Current quality: {0}-->
   <PipeSystem_CurrentQuality>当前质量：{0}</PipeSystem_CurrentQuality>
   <!--EN: Only deconstruct pipes part of the {0} network.-->
-  <PipeSystem_DeconstructDesc>仅解构 {0} 网络的管道部分。</PipeSystem_DeconstructDesc>
+  <PipeSystem_DeconstructDesc>仅拆除{0}管道并回收部分资源。</PipeSystem_DeconstructDesc>
   <!--EN: Deconstruct {0} pipes-->
-  <PipeSystem_DeconstructLabel>解构 {0} 管道</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructLabel>拆除{0}管道</PipeSystem_DeconstructLabel>
   <!--EN: Decrease output maximum stack size by 1.-->
-  <PipeSystem_DecreaseStackDesc>将输出最大堆栈大小减少 1。</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackDesc>将输出成品的最大堆叠量-1。</PipeSystem_DecreaseStackDesc>
   <!--EN: Decrease output maximum stack size by 10.-->
-  <PipeSystem_DecreaseStackDescB>将输出最大堆栈大小减少 10。</PipeSystem_DecreaseStackDescB>
+  <PipeSystem_DecreaseStackDescB>将输出成品的最大堆叠量-10。</PipeSystem_DecreaseStackDescB>
   <!--EN: {0} net excess/stored in network: {1} {3}/d / {2} {3}-->
-  <PipeSystem_ExcessStored>{0} 净超额/存储在网络中：{1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+  <PipeSystem_ExcessStored>{0}产出速率/管道网络储量：{1} {3}/天 / {2} {3}</PipeSystem_ExcessStored>
   <!--EN: Extract at current quality-->
   <PipeSystem_ExtractAtCurrentQuality>以当前质量提取</PipeSystem_ExtractAtCurrentQuality>
   <!--EN: Extract the product at the current quality.-->
@@ -51,39 +51,39 @@
   <!--EN: Extracting product at current quality-->
   <PipeSystem_ExtractingAtCurrent>以当前质量提取产品</PipeSystem_ExtractingAtCurrent>
   <!--EN: {0} idle consumption-->
-  <PipeSystem_IdleConsumption>{0}空闲消耗</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumption>{0}闲置损耗</PipeSystem_IdleConsumption>
   <!--EN: The amount of {0} this building will draw from the {1} grid when idle.-->
-  <PipeSystem_IdleConsumptionExplained>该建筑物闲置时将从 {1} 网格中抽取的 {0} 数量。</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_IdleConsumptionExplained>此设备在闲置时从{1}管道网络中抽取的{0}数量。</PipeSystem_IdleConsumptionExplained>
   <!--EN: Make {0}-->
-  <PipeSystem_MakeProcess>使 {0}</PipeSystem_MakeProcess>
+  <PipeSystem_MakeProcess>加工{0}</PipeSystem_MakeProcess>
   <!--EN: Transfering content to other available storages...-->
-  <PipeSystem_MarkedToTransferContent>正在将内容传输到其他可用存储...</PipeSystem_MarkedToTransferContent>
+  <PipeSystem_MarkedToTransferContent>正在转移内容物...</PipeSystem_MarkedToTransferContent>
   <!--EN: Missing inputs: {0}-->
   <PipeSystem_MissingInputIngredients>缺少输入：{0}</PipeSystem_MissingInputIngredients>
   <!--EN: No current process-->
-  <PipeSystem_NoProcess>当前没有进程</PipeSystem_NoProcess>
+  <PipeSystem_NoProcess>当前暂无加工清单</PipeSystem_NoProcess>
   <!--EN: No process available-->
-  <PipeSystem_NoProcessAvailable>无可用流程</PipeSystem_NoProcessAvailable>
+  <PipeSystem_NoProcessAvailable>缺少可用的加工清单</PipeSystem_NoProcessAvailable>
   <!--EN: No storage connected-->
-  <PipeSystem_NoStorageInNet>未连接存储</PipeSystem_NoStorageInNet>
+  <PipeSystem_NoStorageInNet>未连接至存储建筑</PipeSystem_NoStorageInNet>
   <!--EN: The following networks are not connected to any storage building, but need one:-->
-  <PipeSystem_NoStorageInNetDesc>以下网络未连接到任何存储建筑，但需要一个：</PipeSystem_NoStorageInNetDesc>
+  <PipeSystem_NoStorageInNetDesc>以下管道网络未与任何存储建筑相连接，至少需要一个才能正常运作：</PipeSystem_NoStorageInNetDesc>
   <!--EN: Not connected to {0}.-->
-  <PipeSystem_NotConnected>未连接到 {0}。</PipeSystem_NotConnected>
+  <PipeSystem_NotConnected>未连接至{}。</PipeSystem_NotConnected>
   <!--EN: This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started.-->
   <PipeSystem_NotInRoomExplanation>该处理器不位于算作 {0} 的房间中，并且其工作速度将受到 {1} 惩罚。一旦流程开始，这将被重新计算。</PipeSystem_NotInRoomExplanation>
   <!--EN: Nothing to pick-up-->
-  <PipeSystem_NothingToPickUp>没有什么可拾取的</PipeSystem_NothingToPickUp>
+  <PipeSystem_NothingToPickUp>缺少可收取的产物</PipeSystem_NothingToPickUp>
   <!--EN: No thing to refill {0}-->
-  <PipeSystem_NothingToRefill>没有东西可以补充 {0}</PipeSystem_NothingToRefill>
+  <PipeSystem_NothingToRefill>没有可用于重新填充{0}的物品了</PipeSystem_NothingToRefill>
   <!--EN: or {0} net-->
-  <PipeSystem_OrNet>或 {0} 净</PipeSystem_OrNet>
+  <PipeSystem_OrNet>或 {0}的管道网络储量</PipeSystem_OrNet>
   <!--EN: Output factory hopper absent or not accepting item due to storage configuration.-->
   <PipeSystem_OutputFactoryHopperIncorrect>由于存储配置原因，输出工厂料斗不存在或不接受物品。</PipeSystem_OutputFactoryHopperIncorrect>
   <!--EN: Can output on ground-->
-  <PipeSystem_OutputOnGround>可地面输出</PipeSystem_OutputOnGround>
+  <PipeSystem_OutputOnGround>允许产物直接放置在地上</PipeSystem_OutputOnGround>
   <!--EN: {0} to net-->
-  <PipeSystem_OutputToNet>{0} 至网络</PipeSystem_OutputToNet>
+  <PipeSystem_OutputToNet>{0}的管道网络储量</PipeSystem_OutputToNet>
   <!--EN: Paste all processes-->
   <PipeSystem_PasteAllRecipes>粘贴所有流程</PipeSystem_PasteAllRecipes>
   <!--EN: Paste all copied processes into this processor. You can select multiple and the processes will be pasted to all of them.-->
@@ -93,47 +93,47 @@
   <!--EN: Process needs to advance at least until the Awful quality time, which is {0}-->
   <PipeSystem_ProcessNeedsAwfulAtLeast>流程需要至少推进到糟糕的质量时间，即 {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
   <!--EN: Processes-->
-  <PipeSystem_Processes>流程</PipeSystem_Processes>
+  <PipeSystem_Processes>加工</PipeSystem_Processes>
   <!--EN: Buffer: {0}-->
-  <PipeSystem_ProcessorBuffer>缓冲区：{0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_ProcessorBuffer>缓存：{0}</PipeSystem_ProcessorBuffer>
   <!--EN: Produce {0} {1} from {2} {3}.-->
-  <PipeSystem_Produce>从 {2} {3} 生成 {0} {1}。</PipeSystem_Produce>
+  <PipeSystem_Produce>用{3} x{2}生产{1} x{0}</PipeSystem_Produce>
   <!--EN: Produce {0} {1} using:-->
-  <PipeSystem_ProduceLabel>使用以下方法生成 {0} {1}：</PipeSystem_ProduceLabel>
+  <PipeSystem_ProduceLabel>生产{1} x{0} 使用：</PipeSystem_ProduceLabel>
   <!--EN: Producing {0} {1}. Cycle progress: {2}.-->
-  <PipeSystem_Producing>正在生成 {0} {1}。循环进度：{2}。</PipeSystem_Producing>
+  <PipeSystem_Producing>正在生产{1} x{0}。加工进度：{2}。</PipeSystem_Producing>
   <!--EN: Product-->
-  <PipeSystem_Product>产品</PipeSystem_Product>
+  <PipeSystem_Product>产物</PipeSystem_Product>
   <!--EN: {0} production-->
-  <PipeSystem_Production>{0} 生产</PipeSystem_Production>
+  <PipeSystem_Production>{0}产出</PipeSystem_Production>
   <!--EN: The amount per day of {0} this building will produce for the {1} grid.-->
-  <PipeSystem_ProductionExplained>该建筑物每天将为 {1} 网格生产的 {0} 数量。</PipeSystem_ProductionExplained>
+  <PipeSystem_ProductionExplained>此设备每日为{1}管道网络产出的{0}数量。</PipeSystem_ProductionExplained>
   <!--EN: {0}: {1}-->
   <PipeSystem_ProgressInInfobox>{0}：{1}</PipeSystem_ProgressInInfobox>
   <!--EN: Select the quality at which this process will stop-->
   <PipeSystem_QualitySelector>选择此过程将停止的质量</PipeSystem_QualitySelector>
   <!--EN: Amount left in deposit: {0}.-->
-  <PipeSystem_ResourceLeft>存款余额：{0}。</PipeSystem_ResourceLeft>
+  <PipeSystem_ResourceLeft>剩余储量：{0}</PipeSystem_ResourceLeft>
   <!--EN: {0} needed:-->
-  <PipeSystem_ResourceNeeded>需要 {0}：</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceNeeded>{0}消耗：</PipeSystem_ResourceNeeded>
   <!--EN: {0} output:-->
-  <PipeSystem_ResourceOutput>{0} 输出：</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceOutput>{0}输出：</PipeSystem_ResourceOutput>
   <!--EN: {0} stored:-->
-  <PipeSystem_ResourceStored>{0} 已存储：</PipeSystem_ResourceStored>
+  <PipeSystem_ResourceStored>已存储的{0}：</PipeSystem_ResourceStored>
   <!--EN: {0} content rotted away due to a lack of power.-->
-  <PipeSystem_StorageContentRotted>{0} 内容因电量不足而消失。</PipeSystem_StorageContentRotted>
+  <PipeSystem_StorageContentRotted>由于断电，{0}中的内容物已经腐烂。</PipeSystem_StorageContentRotted>
   <!--EN: {0} stored in network:-->
-  <PipeSystem_Stored>{0} 存储在网络中：</PipeSystem_Stored>
+  <PipeSystem_Stored>{0}的管道网络储量：</PipeSystem_Stored>
   <!--EN: Transfer storage content-->
-  <PipeSystem_TransferContent>传输存储内容</PipeSystem_TransferContent>
+  <PipeSystem_TransferContent>转移内容物</PipeSystem_TransferContent>
   <!--EN: Transfer storage content to other available storages.-->
-  <PipeSystem_TransferContentDesc>将存储内容传输到其他可用存储。</PipeSystem_TransferContentDesc>
+  <PipeSystem_TransferContentDesc>将此容器中的内容物转移至其他可用的容器中。</PipeSystem_TransferContentDesc>
   <!--EN: Valve closed.-->
-  <PipeSystem_ValveClosed>阀门关闭。</PipeSystem_ValveClosed>
+  <PipeSystem_ValveClosed>阀门开启。</PipeSystem_ValveClosed>
   <!--EN: Valve opened.-->
-  <PipeSystem_ValveOpened>阀门打开。</PipeSystem_ValveOpened>
+  <PipeSystem_ValveOpened>阀门关闭。</PipeSystem_ValveOpened>
   <!--EN: work speed-->
   <PipeSystem_WorkSpeed>工作速度</PipeSystem_WorkSpeed>
   <!--EN: {0} from net-->
-  <PipeSystem_XFromNet>{0}来自网络</PipeSystem_XFromNet>
+  <PipeSystem_XFromNet>{0}的管道网络储量</PipeSystem_XFromNet>
 </LanguageData>

@@ -1,97 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A herb with succulent leaves that are arranged in a rosette. The leaves are grey to green and sometimes have white spots on their surfaces. They have sharp, pinkish spines along their edges and are the source of a colourless gel that is used in many medicinal products.\n\n<color=#E5E54C>Gameplay effect:</color> Aloe vera is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Aloe vera is a source of herbal medicine.-->
-  <VCE_AloeVera.description>一种草本植物，叶子多汁，排列成莲座丛。叶子呈灰色至绿色，有时表面有白色斑点。它们的边缘有尖锐的粉红色刺，是许多医药产品中使用的无色凝胶的来源。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芦荟只能在沙质生长区生长，而沙质生长区忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。芦荟是草药的来源。</VCE_AloeVera.description>
+  <VCE_AloeVera.description>一种药草，由层层环绕的多肉叶子组成。叶子由绿到灰，有时会有小白点。叶子的边缘很锋利，且有粉色的小刺，它能用来制作一种无色的胶状草药。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在沙地种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。芦荟的产物是草药。</VCE_AloeVera.description>
   <!--EN: aloe vera plant-->
-  <VCE_AloeVera.label>芦荟植物</VCE_AloeVera.label>
+  <VCE_AloeVera.label>芦荟</VCE_AloeVera.label>
   <!--EN: A herbaceous bush with a long history of cultivation. They are distinguished from the many other varieties of beans in that green beans are harvested and consumed with their enclosing pods, before the bean seeds inside have fully matured, similar to peas.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: green beans will grow faster if carrots are cultivated in the same map (up to 30% faster if 100 are found).-->
-  <VCE_Beans.description>一种草本灌木，栽培历史悠久。它们与许多其他豆类品种的区别在于，绿豆在里面的豆子完全成熟之前就被收获并与它们的豆荚一起食用，类似于豌豆。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;同伴种植：如果在同一张地图中种植胡萝卜，绿豆会生长得更快（如果 100 个胡萝卜，绿豆会生长得更快）被发现）。</VCE_Beans.description>
+  <VCE_Beans.description>有悠久种植历史的草本灌木。与其它豆类的不同之处在于，豆角会在种子成熟之前，连带着豆荚被收割下来并食用。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与胡萝卜有套种效果，如果和胡萝卜种植在同一个地图上，会受到生长速度加成，在100个胡萝卜时达到最高的30%加成。</VCE_Beans.description>
   <!--EN: green bean plant-->
-  <VCE_Beans.label>绿豆植物</VCE_Beans.label>
+  <VCE_Beans.label>豆角</VCE_Beans.label>
   <!--EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.-->
-  <VCE_BellPepper.description>甜椒也被称为甜椒，严格来说属于茄属植物，属于辣椒家族的一部分，但它们是唯一携带隐性基因的辣椒，该基因会阻止果实中产生任何辣椒素，从而使它们不辣。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;平均而言，25% 的甜椒会辣。 成熟变成黄辣椒，而75%会成熟变成红辣椒。前者更有营养。如果大量种植，平均产量就会增加。</VCE_BellPepper.description>
+  <VCE_BellPepper.description>也被叫做甜椒，茄科辣椒属植物，但菜椒拥有抑制产生辣椒素的基因，因此丝毫不辣。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;菜椒有平均25%的几率会长成黄菜椒，75%会长成红菜椒。黄菜椒的营养值更高，因而鼓励你多种些菜椒以获得更多的中奖机会。</VCE_BellPepper.description>
   <!--EN: bell pepper plant-->
-  <VCE_BellPepper.label>甜椒植物</VCE_BellPepper.label>
+  <VCE_BellPepper.label>菜椒</VCE_BellPepper.label>
   <!--EN: A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, brussels sprouts thrive in snow, and receive a considerable boost to growth if snowing, AS LONG AS it is also growth season (they won't grow or be able to be planted otherwise). They won't die due to cold.-->
-  <VCE_BrusselsSprout.description>一种为其食用芽而种植的卷心菜，称为“豆芽”。球芽甘蓝通常是煮熟吃的，小而幼的球芽甘蓝比老球芽甘蓝的味道更细腻。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与其他植物相反，球芽甘蓝在雪中茁壮成长，如果下雪，只要是生长季节，球芽甘蓝的生长就会得到相当大的促进（它们不会生长或无法种植）否则）。他们不会因为寒冷而死。</VCE_BrusselsSprout.description>
+  <VCE_BrusselsSprout.description>拥有特殊小芽的一种卷心菜。小卷心菜通常被煮熟食用，鲜嫩的小芽比成熟的更加美味。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;小卷心菜偏爱雪天，只要当前季节仍然允许它生长，它在下雪时会受到大量生长加成。小卷心菜不会被冻死。</VCE_BrusselsSprout.description>
   <!--EN: brussels sprout plant-->
-  <VCE_BrusselsSprout.label>球芽甘蓝植物</VCE_BrusselsSprout.label>
+  <VCE_BrusselsSprout.label>小卷心菜</VCE_BrusselsSprout.label>
   <!--EN: A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.\n\n<color=#E5E54C>Gameplay effect:</color> Buckwheat is very resistant to fire, and this variety has been modified to be completely non-flammable.-->
-  <VCE_Buckwheat.description>一种假谷物，因其类似谷物的种子而被栽培。它的白色花朵呈顶生簇状，授粉后变成三角形种子，种子被坚韧的深棕色或灰色外皮包围。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;荞麦非常耐火，该品种已被改造为完全不可燃。</VCE_Buckwheat.description>
+  <VCE_Buckwheat.description>一种能结出谷状种子的准谷物。成熟后会开出一束束的白花，在授粉之后会结出深色硬壳包裹的三角形种子。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;荞麦本就耐火，这一种的转基因荞麦更是百分百的防火。</VCE_Buckwheat.description>
   <!--EN: buckwheat plant-->
-  <VCE_Buckwheat.label>荞麦厂</VCE_Buckwheat.label>
+  <VCE_Buckwheat.label>荞麦</VCE_Buckwheat.label>
   <!--EN: A vine plant that produces a vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.\n\n<color=#E5E54C>Gameplay effect:</color> Butternut squash is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Butternut squash takes a long time to grow.-->
-  <VCE_ButternutSquash.description>一种藤本植物，所生产的蔬菜具有类似于南瓜的甜味和坚果味。它有棕黄色的外皮和橙色的肉质果肉，花端有一室种子。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;胡桃南瓜只能在沙质生长区生长，而忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。胡桃南瓜需要很长时间才能生长。</VCE_ButternutSquash.description>
+  <VCE_ButternutSquash.description>有着类南瓜的甜坚果风味。它有黄褐色的外皮和橘黄色的果肉，种子聚集在果实的一端末。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在沙地种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。冬南瓜的生长时间很长。</VCE_ButternutSquash.description>
   <!--EN: butternut squash plant-->
-  <VCE_ButternutSquash.label>胡桃南瓜植物</VCE_ButternutSquash.label>
+  <VCE_ButternutSquash.label>冬南瓜</VCE_ButternutSquash.label>
   <!--EN: A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.\n\n<color=#E5E54C>Gameplay effect:</color> Canola, though not directly edible, can be very efficiently converted into chemfuel at a refinery.-->
-  <VCE_Canola.description>亮黄色开花的油菜品种，主要因其富含油脂的种子而栽培。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;双低油菜籽虽然不能直接食用，但可以在炼油厂非常有效地转化为化学燃料。</VCE_Canola.description>
+  <VCE_Canola.description>一种亮黄色的花，能结出各式富含油脂的籽。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;油菜花可以以更高的效率转化成化学燃料。需要花费更多的时间来播种与收割</VCE_Canola.description>
   <!--EN: canola plant-->
-  <VCE_Canola.label>油菜籽植物</VCE_Canola.label>
+  <VCE_Canola.label>油菜</VCE_Canola.label>
   <!--EN: A herbaceous plant of the Apiaceae family that produces an edible taproot. An erect rosette of doubly compound, finely divided leaves develops above ground, while the edible carrot and attached roots are below.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: carrots will grow faster if green beans are cultivated in the same map (up to 30% faster if 100 are found).-->
-  <VCE_Carrot.description>伞形科草本植物，产生可食用的主根。地面上会长出一个直立的莲座丛，由双复叶、细裂的叶子组成，而可食用的胡萝卜和附着的根则在下面。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;同伴种植：如果在同一张地图上种植青豆，胡萝卜会生长得更快（如果找到 100 个青豆，胡萝卜会生长得更快）。</VCE_Carrot.description>
+  <VCE_Carrot.description>伞形科草本植物，能在地面上长出坚挺的环状页，地下则是可食用的块根。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;与豆角有套种效果，如果和豆角种植在同一个地图上，会受到生长速度加成，在100个豆角时达到最高的30%加成。</VCE_Carrot.description>
   <!--EN: carrot plant-->
-  <VCE_Carrot.label>胡萝卜植物</VCE_Carrot.label>
+  <VCE_Carrot.label>胡萝卜</VCE_Carrot.label>
   <!--EN: A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.\n\n<color=#E5E54C>Gameplay effect:</color> Cassava grows best in tropical, warm and humid climates. As such, it will receive a considerable growth bonus if the weather is foggy.-->
-  <VCE_Cassava.description>一种块茎状食用植物，也称为木薯、木薯或尤卡。它们具有温和的坚果味，通常作为根类蔬菜炖菜或作为配菜食用。木薯根是一种多功能蔬菜，可用于生产面粉、面包、木薯、洗衣淀粉和酒精饮料。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;木薯在热带、温暖和潮湿的气候中生长最好。因此，如果天气有雾的话，它会获得相当可观的生长加成。</VCE_Cassava.description>
+  <VCE_Cassava.description>也叫树薯，是有柔和坚果味的块根蔬菜，常用于煲汤和冷盘。这是种多用途的食材，可以用来制作面粉，面包，洗衣淀粉，奶茶珍珠和酒精饮料。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;木薯适合生长在温暖潮湿的气候，因而会在雾天得到生长加成。</VCE_Cassava.description>
   <!--EN: cassava plant-->
-  <VCE_Cassava.label>木薯植物</VCE_Cassava.label>
+  <VCE_Cassava.label>木薯</VCE_Cassava.label>
   <!--EN: A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.\n\n<color=#E5E54C>Gameplay effect:</color> Celery has a very long growth period (almost a full year!). If it can be kept alive all that time, it produces greater yield than corn.-->
-  <VCE_Celery.description>一种蔬菜，由长纤维状茎逐渐变细成叶子组成。叶子味道浓郁，很少使用，可以作为汤和炖菜的调味品，也可以作为干药草。芹菜是许多汤中的主食。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芹菜的生长期非常长（几乎一整年！）。如果它能一直保持活力，它的产量比玉米还要高。</VCE_Celery.description>
+  <VCE_Celery.description>一种蔬菜，富含纤维的长杆直接连接着菜叶。菜杆常被用作食材，而菜叶的味道过于厚重，所以并不常用，通常只用来调味或风干成香料。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芹菜的生长时间极长（接近一年），只要能确保不把它中途养死，芹菜的生产效率比玉米还要高。</VCE_Celery.description>
   <!--EN: celery plant-->
-  <VCE_Celery.label>芹菜植物</VCE_Celery.label>
+  <VCE_Celery.label>芹菜</VCE_Celery.label>
   <!--EN: One of the earliest cultivated legumes, widely grown for its nutritious seeds. These are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.\n\n<color=#E5E54C>Gameplay effect:</color> Chickpeas grow quite fast and have good yield, but they require a LOT of space to be stored (this may be negated by stack-increasing mods, you dirty cheater, but it's up to you to decide to mess up the game's balance).-->
-  <VCE_Chickpea.description>最早栽培的豆类之一，因其营养丰富的种子而被广泛种植。它们富含纤维和蛋白质，是铁、磷和叶酸的良好来源。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;鹰嘴豆生长速度相当快，产量也很高，但它们需要大量的空间来存储（这可能会被堆叠增加的模组所抵消，你这个肮脏的骗子，但这取决于你决定搞砸游戏的平衡性）。</VCE_Chickpea.description>
+  <VCE_Chickpea.description>种植历史悠久的豆类。鹰嘴豆富含纤维素和蛋白质，还能补充铁，磷和叶酸。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;鹰嘴豆的总体生产效率很高，但营养值被分在大量的单个物品中，导致它非常费存储空间。你用增加堆叠上限的mod可以规避这一缺点，但那就没意思了对吧。</VCE_Chickpea.description>
   <!--EN: chickpea plant-->
-  <VCE_Chickpea.label>鹰嘴豆植物</VCE_Chickpea.label>
+  <VCE_Chickpea.label>鹰嘴豆</VCE_Chickpea.label>
   <!--EN: A palm tree cultivated extensively in tropical areas for its edible fruit, the coconut. Coconut palms flourish best close to the sea on low-lying areas a few feet above high water.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCoconut palms are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.\n\nCoconut palms receive a growth bonus if sea water tiles are found in a 6 tile radius. Coconuts can be used as fruits or processed into milk.-->
-  <VCE_CoconutPalm.description>一种在热带地区广泛种植的棕榈树，其果实可食用，即椰子。椰子树在靠近大海、海拔几英尺的低洼地区最为茂盛。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树所占用的空间大约是普通作物的四倍，需要很长时间才能生长并结出可以生吃的水果。它们在收获后不会被破坏，但寿命有限，最终需要重新种植。
-
-椰子树只能在沙质生长区生长，而忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。
-
-如果在 6 格半径内发现海水格，椰子树将获得生长奖励。椰子可用作水果或加工成牛奶。</VCE_CoconutPalm.description>
+  <VCE_CoconutPalm.description>常在热带种植的棕榈树，能生产椰子。适合在靠近海边的低海拔地区生长。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树都需要占用四格空间，需要很长的时间生长，并最终会结出可以生吃的果实。果树在被收割后不会消失，但依旧有自己的寿命限制。\n\n该作物只能在沙地种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。椰子可以当作普通水果食用，也可以提炼成植物乳。</VCE_CoconutPalm.description>
   <!--EN: coconut palm-->
-  <VCE_CoconutPalm.label>椰子树</VCE_CoconutPalm.label>
+  <VCE_CoconutPalm.label>椰树</VCE_CoconutPalm.label>
   <!--EN: A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n<color=#E5E54C>Gameplay effect:</color> Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw.-->
-  <VCE_Cucumber.description>一种蔓延的藤蔓，有大叶子和卷曲的卷须，三角形的多刺毛叶子和黄色的花朵。产生的水果是一种细长的蔬菜，具有坚硬的绿色果皮和湿润一个透明人参与了性行为。的果肉。 
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;黄瓜只能在沙质生长区生长，而沙质生长区忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。黄瓜生长速度很快，产量很少，但时间很短。它们可以生吃。</VCE_Cucumber.description>
+  <VCE_Cucumber.description>有大片叶子和卷须的藤曼植物，三角形的叶子上覆盖着细密的小刺，藤蔓上开着黄色的小花。能收获黄瓜，一种长条形的蔬菜，有着深绿色的外皮和水灵灵的半透明果肉。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在沙地种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。黄瓜成熟快但产量少，可以生吃。</VCE_Cucumber.description>
   <!--EN: cucumber plant-->
-  <VCE_Cucumber.label>黄瓜植物</VCE_Cucumber.label>
+  <VCE_Cucumber.label>黄瓜藤</VCE_Cucumber.label>
   <!--EN: A unique rose variety cultivated for its intense, captivating scent, perfect for making perfumes and other aromatic products.-->
   <VCE_FragrantbloomRose.description>一种独特的玫瑰品种，因其浓郁、迷人的香味而栽培，非常适合制作香水和其他芳香产品。</VCE_FragrantbloomRose.description>
   <!--EN: fragrantbloom rose-->
   <VCE_FragrantbloomRose.label>芬芳绽放的玫瑰</VCE_FragrantbloomRose.label>
   <!--EN: A plant with long, flat grasslike leaves forming a stalk, which rises directly from the flower bulb, the part of the plant used as food and medicine. The bulb is made up of many smaller cloves covered with a papery skin.\n\n<color=#E5E54C>Gameplay effect:</color> Garlic has very little yield, but can grow in almost any terrain and takes an obscene time to rot, as dried garlic can be used to cook too.-->
-  <VCE_Garlic.description>一种植物，具有长而扁平的草状叶子，形成茎，直接从花球茎上长出，花球茎是植物的一部分，用作食物和药物。球茎由许多较小的丁香组成，上面覆盖着纸质的外皮。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大蒜产量很少，但几乎可以在任何地形中生长，需要淫秽时间才能腐烂，因为干大蒜也可以用来做饭。</VCE_Garlic.description>
+  <VCE_Garlic.description>有着又长又平的草状叶子，直接从底部的球状块茎长出，这个块茎可以用来当作食材或是药材。大蒜头被纸一样的外皮包裹，里面分成许多小蒜瓣。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;大蒜的产量很小，但可以在很恶劣的地形生长，而且成品需要很久才会变质。</VCE_Garlic.description>
   <!--EN: garlic plant-->
-  <VCE_Garlic.label>大蒜植物</VCE_Garlic.label>
+  <VCE_Garlic.label>大蒜</VCE_Garlic.label>
   <!--EN: A vibrant, sweet-smelling flower with a fresh, green fragrance that adds depth to gardens and perfumes alike.-->
   <VCE_Hyacinth.description>一种充满活力、芳香四溢的花朵，带有清新的绿色香味，可为花园和香水增添深度。</VCE_Hyacinth.description>
   <!--EN: hyacinth-->
@@ -105,231 +73,195 @@
   <!--EN: lavender-->
   <VCE_Lavender.label>薰衣草</VCE_Lavender.label>
   <!--EN: A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.\n\n<color=#E5E54C>Gameplay effect:</color> Lettuce can be eaten raw like strawberries, but needs to be grown in shade: outside, but under roof. It won't grow inside.-->
-  <VCE_Lettuce.description>一种叶类蔬菜，通常新鲜食用，并作为绿色沙拉的底料。生菜通常是维生素 K 和 A 的丰富来源。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;生菜可以像草莓一样生吃，但需要在阴凉处生长：室外，但在屋顶下。它不会在里面生长。</VCE_Lettuce.description>
+  <VCE_Lettuce.description>一种绿叶菜，通常被做在沙拉中被生食。生菜富含维生素K和A。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;生菜和莓果一样可以生吃，但是需要在阴影中种植，也就是在有屋顶的户外土地。</VCE_Lettuce.description>
   <!--EN: lettuce plant-->
-  <VCE_Lettuce.label>生菜植物</VCE_Lettuce.label>
+  <VCE_Lettuce.label>生菜</VCE_Lettuce.label>
   <!--EN: A striking flower with a rich, sweet, and sometimes spicy fragrance that fills any space with elegance.-->
   <VCE_Lily.description>一种引人注目的花朵，散发着浓郁、甜美、有时辛辣的香味，让任何空间充满优雅。</VCE_Lily.description>
   <!--EN: lily-->
   <VCE_Lily.label>百合</VCE_Lily.label>
   <!--EN: Sometimes colloquially called a water lily, lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Lotus rhizomes have a crunchy texture with sweet-tangy flavours and can be deep-fried, stir-fried, or stuffed with meats or preserved fruits.\n\n<color=#E5E54C>Gameplay effect:</color> Lotus is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Lotus takes a long time to grow.-->
-  <VCE_Lotus.description>莲花植物有时通俗地称为睡莲，适合生长在水流缓慢的河流和三角洲地区的洪泛平原。莲藕质地松脆，味道香甜，可以油炸、炒，也可以夹馅肉或蜜饯。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;莲蓬只能在水生生长区生长，忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。莲花需要很长时间才能生长。</VCE_Lotus.description>
+  <VCE_Lotus.description>莲蓬一般生长在水流较慢的河流上和三角洲地区。莲藕的子口感爽脆香甜，可以油炸，爆炒或者填入肉和水果。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在水生种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。莲蓬的生长时间很长。</VCE_Lotus.description>
   <!--EN: lotus plant-->
-  <VCE_Lotus.label>莲花植物</VCE_Lotus.label>
+  <VCE_Lotus.label>莲蓬</VCE_Lotus.label>
   <!--EN: An oval fruit, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> Mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.-->
-  <VCE_Mangoes.description>一种椭圆形的水果，颜色鲜艳，有红色和黄色。单个大种子被压扁，周围的果肉呈黄色到橙色，多汁，具有独特的甜辣味。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芒果不能被冷冻，否则会被破坏。游戏的智能不足以检测到这一点，因此请从冰箱中禁用它们。</VCE_Mangoes.description>
+  <VCE_Mangoes.description>有着混合红黄色彩的椭圆形水果。只有一个扁平形的大核在果实中央，周边环绕的果肉由黄至橙，甜辣多汁。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芒果一旦被冷冻就会坏掉，请手动把冷藏库的存储设定中删除芒果。</VCE_Mangoes.description>
   <!--EN: mangoes-->
   <VCE_Mangoes.label>芒果</VCE_Mangoes.label>
   <!--EN: A plant producing a sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.\n\n<color=#E5E54C>Gameplay effect:</color> Melons are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Melons need a lot of space, blocking sowing in adjacent spaces, but harvesting them can't fail-->
-  <VCE_Melon.description>一种植物，其果实大小可观，果实甜、可食用、肉质。甜瓜通常种植在温暖的地区。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;甜瓜只能在沙质生长区生长，而忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。瓜类需要很大的空间，阻碍了相邻空间的播种，但收获不会失败</VCE_Melon.description>
+  <VCE_Melon.description>清甜爽脆的大型水果。常在温热地带种植。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在沙地种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。西瓜会占用大量空间，因此相邻格子不能播种，但收割西瓜不会失败。</VCE_Melon.description>
   <!--EN: melon plant-->
-  <VCE_Melon.label>瓜类植物</VCE_Melon.label>
+  <VCE_Melon.label>西瓜</VCE_Melon.label>
   <!--EN: A flowering plant in the mallow family valued for its edible green seed pods, which are famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.\n\n<color=#E5E54C>Gameplay effect:</color> Okra is very, VERY resistant to damage. Okra plants will take less damage from prolonged lack of light, and will regenerate damage caused by any other means.-->
-  <VCE_Okra.description>锦葵科的一种开花植物，因其可食用的绿色种子荚而受到重视，这种种子荚以其切开后的粘稠质地而闻名。秋葵富含宝贵的营养物质。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;秋葵非常非常抗伤害。秋葵植物因长期缺乏光照而受到的损害较小，并且会再生由任何其他方式造成的损害。</VCE_Okra.description>
+  <VCE_Okra.description>锦葵科的开花植物，能产出绿色的可食用豆荚，特色在于切开后那黏糊糊的质感。富含多种营养。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;秋葵的生命力非常顽强，在光照不足时受到的伤害更少，其它手段造成的伤害也会自我恢复。</VCE_Okra.description>
   <!--EN: okra plant-->
-  <VCE_Okra.label>秋葵植物</VCE_Okra.label>
+  <VCE_Okra.label>秋葵</VCE_Okra.label>
   <!--EN: A delicate and exotic bloom with a subtle, sweet scent that varies by species, often used in sophisticated perfumes.-->
   <VCE_Orchid.description>一种精致而充满异国情调的花朵，具有微妙、甜美的香气，因品种而异，通常用于精致的香水中。</VCE_Orchid.description>
   <!--EN: orchid-->
   <VCE_Orchid.label>兰花</VCE_Orchid.label>
   <!--EN: A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!-->
-  <VCE_Peanut.description>一种产生椭圆形种子和纸质种皮的植物。味道和营养成分与核桃和杏仁等木本坚果相似，但严格来说是豆类。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因花生是通过将种子随意撒在生长区来播种的，因此植物在 75% 的情况下会自动种植在相邻的方块中，从而减少了所需播种工作总量。有用！</VCE_Peanut.description>
+  <VCE_Peanut.description>能产出包裹在类纸外壳中的椭圆形种子。味道和杏仁，核桃这种树种类坚果类似，但花生其实是豆类哒。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因花生的播种十分简单，只要抓一把种子撒到土里就算完成，每一次播种都有75%的几率在相邻格子内同时播种，非常省时省力。</VCE_Peanut.description>
   <!--EN: peanut plant-->
-  <VCE_Peanut.label>花生厂</VCE_Peanut.label>
+  <VCE_Peanut.label>花生</VCE_Peanut.label>
   <!--EN: A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!-->
-  <VCE_PeanutSecondary.description>一种产生椭圆形种子和纸质种皮的植物。味道和营养成分与核桃和杏仁等木本坚果相似，但严格来说是豆类。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因花生是通过将种子随意撒在生长区来播种的，因此植物在 75% 的情况下会自动种植在相邻的方块中，从而减少了所需播种工作总量。有用！</VCE_PeanutSecondary.description>
+  <VCE_PeanutSecondary.description>能产出包裹在类纸外壳中的椭圆形种子。味道和杏仁，核桃这种树种类坚果类似，但花生其实是豆类哒。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因花生的播种十分简单，只要抓一把种子撒到土里就算完成，每一次播种都有75%的几率在相邻格子内同时播种，非常省时省力。</VCE_PeanutSecondary.description>
   <!--EN: secondary peanut plant-->
-  <VCE_PeanutSecondary.label>二级花生厂</VCE_PeanutSecondary.label>
+  <VCE_PeanutSecondary.label>花生</VCE_PeanutSecondary.label>
   <!--EN: A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.\n\n<color=#E5E54C>Gameplay effect:</color> Pineapples have a very long growth period, but they are very nutritive, taking up less space in stockpiles.-->
-  <VCE_Pineapple.description>一种甜美的热带水果，有坚韧的革质外皮和顶部有尖刺的叶子。菠萝这个词最初的意思是“松果”，因其外形酷似大松果而得此名。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;菠萝的生长期很长，但营养丰富，占用储存空间较小。</VCE_Pineapple.description>
+  <VCE_Pineapple.description>甜味热带水果，有皮革一样的坚固外皮和刺状的叶子。菠萝由于其外形，以前常被指代为“大号松果”。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;菠萝的生长时间很长，但营养集中，消耗的存储空间更小。</VCE_Pineapple.description>
   <!--EN: pineapple plant-->
-  <VCE_Pineapple.label>菠萝厂</VCE_Pineapple.label>
+  <VCE_Pineapple.label>菠萝</VCE_Pineapple.label>
   <!--EN: A tropical flower with a fruity, sweet, and creamy fragrance, perfect for creating a lush, warm atmosphere.-->
   <VCE_Plumeria.description>一种热带花卉，带有果香、甜甜和奶油香味，非常适合营造郁郁葱葱、温暖的氛围。</VCE_Plumeria.description>
   <!--EN: plumeria-->
   <VCE_Plumeria.label>鸡蛋花</VCE_Plumeria.label>
   <!--EN: An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified radish has a very short growth period (less than 2 days). This means it is an effective crop if you need small amounts of food FAST, and the sowing and harvesting work will be the most important factor.-->
-  <VCE_Radish.description>一种可食用的根类蔬菜，非常容易种植和快速收获。萝卜是新手园丁经常种植的。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因萝卜的生长期很短（不到2天）。这意味着如果您快速需要少量食物，那么它是一种有效的作物，而播种和收获工作将是最重要的因素。</VCE_Radish.description>
+  <VCE_Radish.description>生长迅速，收割方便的块根蔬菜。适合有一定经验的园丁种植。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;这种转基因红萝卜在两天时间内就会快速成熟，适合在应急的时候种植。</VCE_Radish.description>
   <!--EN: radish plant-->
-  <VCE_Radish.label>萝卜植物</VCE_Radish.label>
+  <VCE_Radish.label>红萝卜</VCE_Radish.label>
   <!--EN: An oval shaped drupe often eaten on its own, raw or toasted, though it can also be used as a component of various dishes. A wide range of classic sweets feature almonds as a central ingredient.-->
-  <VCE_RawAlmonds.description>一种椭圆形的核果，通常单独食用，可以生吃或烘烤，但也可以用作各种菜肴的组成部分。各种经典糖果都以杏仁为主要成分。</VCE_RawAlmonds.description>
+  <VCE_RawAlmonds.description>椭圆形的干果，可以干吃或可以炒制，也可以当作熟菜的配料。很多经典的甜食都依赖杏仁的风味。</VCE_RawAlmonds.description>
   <!--EN: almonds-->
   <VCE_RawAlmonds.label>杏仁</VCE_RawAlmonds.label>
   <!--EN: A green or nearly black coloured fruit with a large seed or pit in the center. Avocados have a very mild, creamy texture. Hipsters love them.-->
-  <VCE_RawAvocado.description>绿色或近黑色的水果，中心有大种子或果核。鳄梨具有非常温和的奶油质地。时髦人士喜欢它们。</VCE_RawAvocado.description>
+  <VCE_RawAvocado.description>深绿色的果实，种子都聚集在中间的一个坑里。牛油果有一种浓郁的奶油状口感。深受嬉皮士喜爱。</VCE_RawAvocado.description>
   <!--EN: avocados-->
-  <VCE_RawAvocado.label>鳄梨</VCE_RawAvocado.label>
+  <VCE_RawAvocado.label>牛油果</VCE_RawAvocado.label>
   <!--EN: Young, unripe fruits of a cultivar of the common bean. They can be steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes such as soups, stews, and casseroles. Green beans can also be pickled, much like cucumbers are.-->
-  <VCE_RawBeans.description>普通豆品种的年轻、未成熟的果实。它们可以蒸、煮、炒或烘烤。它们通常用于其他菜肴，如汤、炖菜和砂锅菜。青豆也可以腌制，就像黄瓜一样。</VCE_RawBeans.description>
+  <VCE_RawBeans.description>豆类植物的新鲜果实，可蒸可煮可炒可烤。通常被用在浓汤，杂烩和法式砂锅里。也可以和黄瓜一样做成酸腌菜。</VCE_RawBeans.description>
   <!--EN: green beans-->
-  <VCE_RawBeans.label>绿豆</VCE_RawBeans.label>
+  <VCE_RawBeans.label>豆角</VCE_RawBeans.label>
   <!--EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.-->
-  <VCE_RawBellPeppers.description>甜椒也被称为甜椒，从技术上讲，它是茄属植物，属于辣椒家族的一部分，但它们是唯一携带隐性基因的辣椒，该基因可以阻止果实中产生任何辣椒素，从而使它们不辣。</VCE_RawBellPeppers.description>
+  <VCE_RawBellPeppers.description>也被叫做甜椒，茄科辣椒属植物，但菜椒拥有抑制产生辣椒素的基因，因此丝毫不辣。</VCE_RawBellPeppers.description>
   <!--EN: red bell peppers-->
-  <VCE_RawBellPeppers.label>红甜椒</VCE_RawBellPeppers.label>
+  <VCE_RawBellPeppers.label>红菜椒</VCE_RawBellPeppers.label>
   <!--EN: A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.-->
-  <VCE_RawBrusselsSprouts.description>一种为其食用芽而种植的卷心菜，称为“豆芽”。球芽甘蓝通常煮熟后食用，小而嫩的球芽甘蓝比老的球芽甘蓝味道更细腻。</VCE_RawBrusselsSprouts.description>
+  <VCE_RawBrusselsSprouts.description>拥有特殊小芽的一种卷心菜。小卷心菜通常被煮熟食用，鲜嫩的小芽比成熟的更加美味。</VCE_RawBrusselsSprouts.description>
   <!--EN: brussels sprouts-->
-  <VCE_RawBrusselsSprouts.label>球芽甘蓝</VCE_RawBrusselsSprouts.label>
+  <VCE_RawBrusselsSprouts.label>小卷心菜</VCE_RawBrusselsSprouts.label>
   <!--EN: A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.-->
-  <VCE_RawBuckwheat.description>一种假谷物，因其类似谷物的种子而被栽培。它的白色花朵在顶生簇中开出，授粉后变成三角形种子，种子被坚韧的深棕色或灰色外皮包围。</VCE_RawBuckwheat.description>
+  <VCE_RawBuckwheat.description>一种能结出谷状种子的准谷物。成熟后会开出一束束的白花，在授粉之后会结出深色硬壳包裹的三角形种子。</VCE_RawBuckwheat.description>
   <!--EN: buckwheat-->
   <VCE_RawBuckwheat.label>荞麦</VCE_RawBuckwheat.label>
   <!--EN: A vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.-->
-  <VCE_RawButternutSquash.description>一种具有类似于南瓜的甜味和坚果味的蔬菜。它有棕黄色的皮肤和橙色的肉质果肉，花端有一个种子室。</VCE_RawButternutSquash.description>
+  <VCE_RawButternutSquash.description>有着类南瓜的甜坚果风味。它有黄褐色的外皮和橘黄色的果肉，种子聚集在果实的一端末。</VCE_RawButternutSquash.description>
   <!--EN: butternut squashes-->
-  <VCE_RawButternutSquash.label>胡桃南瓜</VCE_RawButternutSquash.label>
+  <VCE_RawButternutSquash.label>冬南瓜</VCE_RawButternutSquash.label>
   <!--EN: A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.-->
-  <VCE_RawCanola.description>油菜籽的一种亮黄色花品种，主要因其富含油的种子而栽培。</VCE_RawCanola.description>
+  <VCE_RawCanola.description>一种亮黄色的花，能结出各式富含油脂的籽。</VCE_RawCanola.description>
   <!--EN: canola flowers-->
   <VCE_RawCanola.label>油菜花</VCE_RawCanola.label>
   <!--EN: A root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist. A versatile food that can be chopped and boiled, fried or steamed, cooked in soups and stews, as well as used for baby and pet foods.-->
-  <VCE_RawCarrot.description>一种根类蔬菜，通常呈橙色，但也存在紫色、黑色、红色、白色和黄色品种。一种多功能食品，可以切碎、煮、煎、蒸、煮汤和炖菜，也可用于婴儿和宠物食品。</VCE_RawCarrot.description>
+  <VCE_RawCarrot.description>一种块根蔬菜，通常呈橙色，但世界上也有紫色黑色红色白色黄色的品种。这是种多用途的食材，可以煮熟，蒸熟，炖汤，或是制作婴儿和宠物食品。</VCE_RawCarrot.description>
   <!--EN: carrots-->
   <VCE_RawCarrot.label>胡萝卜</VCE_RawCarrot.label>
   <!--EN: A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.-->
-  <VCE_RawCassava.description>一种块茎状食用植物，也称为木薯、木薯或尤卡。它们具有温和的坚果味，通常作为根类蔬菜炖菜或作为配菜食用。木薯根是一种用途广泛的蔬菜，可用于生产面粉、面包、木薯粉、洗衣淀粉和酒精饮料。</VCE_RawCassava.description>
+  <VCE_RawCassava.description>也叫树薯，是有柔和坚果味的块根蔬菜，常用于煲汤和冷盘。这是种多用途的食材，可以用来制作面粉，面包，洗衣淀粉，奶茶珍珠和酒精饮料。</VCE_RawCassava.description>
   <!--EN: cassavas-->
   <VCE_RawCassava.label>木薯</VCE_RawCassava.label>
   <!--EN: A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.-->
-  <VCE_RawCelery.description>一种蔬菜，由长纤维状茎逐渐变细成叶子组成。叶子味道浓郁，很少使用，可以作为汤和炖菜的调味品，也可以作为干药草。芹菜是许多汤中的主食。</VCE_RawCelery.description>
+  <VCE_RawCelery.description>一种蔬菜，富含纤维的长杆直接连接着菜叶。菜杆常被用作食材，而菜叶的味道过于厚重，所以并不常用，通常只用来调味或风干成香料。</VCE_RawCelery.description>
   <!--EN: celery-->
   <VCE_RawCelery.label>芹菜</VCE_RawCelery.label>
   <!--EN: One of the earliest cultivated legumes. Chickpeas are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.-->
-  <VCE_RawChickpeas.description>最早栽培的豆类之一。鹰嘴豆富含纤维和蛋白质，是铁、磷和叶酸的良好来源。</VCE_RawChickpeas.description>
+  <VCE_RawChickpeas.description>种植历史悠久的豆类。鹰嘴豆富含纤维素和蛋白质，还能补充铁，磷和叶酸。</VCE_RawChickpeas.description>
   <!--EN: chickpeas-->
   <VCE_RawChickpeas.label>鹰嘴豆</VCE_RawChickpeas.label>
   <!--EN: The edible fruit of the coconut palm. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages.-->
-  <VCE_RawCoconut.description>椰子树的可食用果实。椰子肉脂肪含量高，可以晒干或鲜食，也可以加工成椰奶或椰子油。坚果的液体被称为椰子水，用于饮料中。</VCE_RawCoconut.description>
+  <VCE_RawCoconut.description>椰树的果实。椰肉富含脂肪，可以食用，也可以制成椰奶或椰油。果实里富含的椰汁常被用作饮料的 原料。</VCE_RawCoconut.description>
   <!--EN: coconuts-->
   <VCE_RawCoconut.label>椰子</VCE_RawCoconut.label>
   <!--EN: A long thin vegetable with hard green skin and wet transparent flesh. Can be eaten raw.-->
-  <VCE_RawCucumber.description>一种细长的蔬菜，有坚硬的绿色外皮和湿润一个透明人参与了性行为。的果肉。可以生吃。</VCE_RawCucumber.description>
+  <VCE_RawCucumber.description>长条形的蔬菜，有着深绿色的外皮和水灵灵的半透明果肉。可以生吃。</VCE_RawCucumber.description>
   <!--EN: cucumbers-->
   <VCE_RawCucumber.label>黄瓜</VCE_RawCucumber.label>
   <!--EN: A very old crop which is cultivated for its bulb, formed in the base of the leaves. It is highly appreciated in cooking for its pungent and characteristic taste.-->
-  <VCE_RawGarlic.description>一种非常古老的作物，因其球茎而栽培，球根形成于叶子的基部。它因其辛辣和特有的味道而在烹饪中受到高度赞赏。</VCE_RawGarlic.description>
+  <VCE_RawGarlic.description>历史悠久的作物，主要产物为它在叶子底端的块茎。它辛辣香浓的味道深受很多人喜爱。</VCE_RawGarlic.description>
   <!--EN: garlic cloves-->
-  <VCE_RawGarlic.label>蒜瓣</VCE_RawGarlic.label>
+  <VCE_RawGarlic.label>蒜头</VCE_RawGarlic.label>
   <!--EN: A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.-->
-  <VCE_RawLettuce.description>一种叶类蔬菜，通常新鲜食用，并作为绿色沙拉的底料。生菜通常是维生素 K 和 A 的丰富来源。</VCE_RawLettuce.description>
+  <VCE_RawLettuce.description>一种绿叶菜，通常被做在沙拉中被生食。生菜富含维生素K和A。</VCE_RawLettuce.description>
   <!--EN: lettuce-->
-  <VCE_RawLettuce.label>莴苣</VCE_RawLettuce.label>
+  <VCE_RawLettuce.label>生菜</VCE_RawLettuce.label>
   <!--EN: The seeds of the lotus plant. They are packed with nutritional elements which make them an excellent choice for a healthy diet, with a high content of proteins, carbohydrates, and vitamins.-->
-  <VCE_RawLotus.description>莲花植物的种子。它们富含营养元素，富含蛋白质、碳水化合物和维生素，是健康饮食的绝佳选择。</VCE_RawLotus.description>
+  <VCE_RawLotus.description>莲蓬的种子。堆积着丰富的蛋白质，碳水化合物和维生素，是健康饮食的首选。</VCE_RawLotus.description>
   <!--EN: lotus seeds-->
   <VCE_RawLotus.label>莲子</VCE_RawLotus.label>
   <!--EN: A sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.-->
-  <VCE_RawMelon.description>一种甜、可食用、肉质的水果，尺寸相当大。瓜类通常种植在温暖地区。</VCE_RawMelon.description>
+  <VCE_RawMelon.description>清甜爽脆的大型水果。常在温热地带种植。</VCE_RawMelon.description>
   <!--EN: melons-->
-  <VCE_RawMelon.label>瓜类</VCE_RawMelon.label>
+  <VCE_RawMelon.label>西瓜</VCE_RawMelon.label>
   <!--EN: Edible green seed pods, famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.-->
-  <VCE_RawOkra.description>可食用的绿色种子荚，以其切开后的粘稠质地而闻名。秋葵富含宝贵的营养物质。</VCE_RawOkra.description>
+  <VCE_RawOkra.description>绿色的可食用豆荚，特色在于切开后那黏糊糊的质感。富含多种营养。</VCE_RawOkra.description>
   <!--EN: okra-->
   <VCE_RawOkra.label>秋葵</VCE_RawOkra.label>
   <!--EN: A small, egg-shaped black or green fruit that is used as food or for making oil. Olives freshly picked from the tree contain oleuropein, which makes the fruit unpalatable for immediate consumption. They must be brined or fermented to be used.-->
-  <VCE_RawOlives.description>一种小的、蛋形的黑色或绿色水果，用作食物或用于制油。刚从树上采摘的橄榄含有橄榄苦苷，这使得果实难以立即食用。它们必须经过腌制或发酵才能使用。</VCE_RawOlives.description>
+  <VCE_RawOlives.description>小型的卵形果实，多呈绿色或黑色，可以食用或用来榨油。</VCE_RawOlives.description>
   <!--EN: olives-->
   <VCE_RawOlives.label>橄榄</VCE_RawOlives.label>
   <!--EN: Seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.-->
-  <VCE_RawPeanut.description>种子呈长方形，种皮呈纸质。味道和营养成分与核桃和杏仁等坚果相似，但严格来说是豆类。</VCE_RawPeanut.description>
+  <VCE_RawPeanut.description>包裹在类纸外壳中的椭圆形种子。味道和杏仁，核桃这种树种类坚果类似，但花生其实是豆类哒。</VCE_RawPeanut.description>
   <!--EN: peanuts-->
   <VCE_RawPeanut.label>花生</VCE_RawPeanut.label>
   <!--EN: A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.-->
-  <VCE_RawPineapple.description>一种甜美的热带水果，有坚韧的革质外皮和顶部有尖刺的叶子。菠萝这个词最初的意思是“松果”，这种水果因其类似于大松果而得名。</VCE_RawPineapple.description>
+  <VCE_RawPineapple.description>甜味热带水果，有皮革一样的坚固外皮和刺状的叶子。菠萝由于其外形，以前常被指代为“大号松果”。</VCE_RawPineapple.description>
   <!--EN: pineapples-->
   <VCE_RawPineapple.label>菠萝</VCE_RawPineapple.label>
   <!--EN: An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.-->
-  <VCE_RawRadish.description>一种可食用的根类蔬菜，非常容易种植和快速收获。萝卜通常是由新手园丁种植的。</VCE_RawRadish.description>
+  <VCE_RawRadish.description>生长迅速，收割方便的块根蔬菜。适合有一定经验的园丁种植。</VCE_RawRadish.description>
   <!--EN: radishes-->
-  <VCE_RawRadish.label>萝卜</VCE_RawRadish.label>
+  <VCE_RawRadish.label>红萝卜</VCE_RawRadish.label>
   <!--EN: The seeds of the sunflower plant are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes.-->
-  <VCE_RawSunflower.description>向日葵植物的种子更常作为零食而不是作为正餐的一部分来食用。它们还可以用作各种食谱中的装饰或配料。</VCE_RawSunflower.description>
+  <VCE_RawSunflower.description>葵花的种子，常被当作零食，亦可用来装点一些菜式。</VCE_RawSunflower.description>
   <!--EN: sunflower seeds-->
-  <VCE_RawSunflower.label>葵花籽</VCE_RawSunflower.label>
+  <VCE_RawSunflower.label>葵花子</VCE_RawSunflower.label>
   <!--EN: Large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.-->
-  <VCE_RawSweetPotatoes.description>大，淀粉质，味甜（味道类似于南瓜），块根，用作根类蔬菜。甘薯与普通马铃薯是远亲。</VCE_RawSweetPotatoes.description>
+  <VCE_RawSweetPotatoes.description>一种块根蔬菜，呈大块，淀粉质感，味道微甜有点像南瓜。是土豆的近亲。</VCE_RawSweetPotatoes.description>
   <!--EN: sweet potatoes-->
-  <VCE_RawSweetPotatoes.label>红薯</VCE_RawSweetPotatoes.label>
+  <VCE_RawSweetPotatoes.label>番薯</VCE_RawSweetPotatoes.label>
   <!--EN: A starchy root vegetable. It has a brown outer skin and white flesh with purple specks throughout. When cooked, it has a mildly sweet taste and a texture similar to potato.-->
-  <VCE_RawTaro.description>一种淀粉类根类蔬菜。它有棕色的外皮和白色的果肉，全身有紫色斑点。煮熟后，味道微甜，质地类似于土豆。</VCE_RawTaro.description>
+  <VCE_RawTaro.description>淀粉质的块根蔬菜。有着棕色的外皮和夹杂着紫色斑点的白色果肉。烧熟后会释放出一种清甜，口感与土豆类似。</VCE_RawTaro.description>
   <!--EN: taro roots-->
-  <VCE_RawTaro.label>芋头根</VCE_RawTaro.label>
+  <VCE_RawTaro.label>芋头</VCE_RawTaro.label>
   <!--EN: Small, rounded corms with a crisp, white flesh that may be eaten slightly boiled, or grilled.-->
-  <VCE_RawWaterChestnut.description>小，圆形球茎，肉质脆嫩，白色，可以稍微煮熟或烤着吃。</VCE_RawWaterChestnut.description>
+  <VCE_RawWaterChestnut.description>小小的球茎，有着脆脆的白色果肉。生吃，水煮和烘烤都很不错。</VCE_RawWaterChestnut.description>
   <!--EN: water chestnuts-->
   <VCE_RawWaterChestnut.label>荸荠</VCE_RawWaterChestnut.label>
   <!--EN: A green leaf vegetable rich in vitamins and minerals and from the same family as kale and broccoli.-->
-  <VCE_RawWatercress.description>一种富含维生素和矿物质的绿叶蔬菜，与羽衣甘蓝和西兰花属于同一家族。</VCE_RawWatercress.description>
+  <VCE_RawWatercress.description>富含维生素和矿物质的绿叶菜，与卷心菜和花椰菜是近亲。</VCE_RawWatercress.description>
   <!--EN: watercress leaves-->
-  <VCE_RawWatercress.label>豆瓣菜叶</VCE_RawWatercress.label>
+  <VCE_RawWatercress.label>西洋菜</VCE_RawWatercress.label>
   <!--EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.-->
-  <VCE_RawYellowBellPeppers.description>甜椒也被称为甜椒，从技术上讲，它是茄属植物，属于辣椒家族的一部分，但它们是唯一携带隐性基因的辣椒，该基因可以阻止果实中产生任何辣椒素，从而使它们不辣。</VCE_RawYellowBellPeppers.description>
+  <VCE_RawYellowBellPeppers.description>也被叫做甜椒，茄科辣椒属植物，但菜椒拥有抑制产生辣椒素的基因，因此丝毫不辣。</VCE_RawYellowBellPeppers.description>
   <!--EN: yellow bell peppers-->
-  <VCE_RawYellowBellPeppers.label>黄甜椒</VCE_RawYellowBellPeppers.label>
+  <VCE_RawYellowBellPeppers.label>黄菜椒</VCE_RawYellowBellPeppers.label>
   <!--EN: A large crop used for its edible oil and edible fruits. The name sunflower may derive from the flower's head's shape, which resembles the sun.\n\n<color=#E5E54C>Gameplay effect:</color> Sunflowers grow 30% faster in equatorial regions. The size of the equatorial region depends on the planet's overall temperature: below 15º for Normal, below 35º for Warm, below 65º for Hot and all the planet for Very Hot. Planets with below Normal temperature are considered to have no equator.-->
-  <VCE_Sunflower.description>一种大宗作物，用于生产食用油和食用水果。向日葵这个名字可能源自花头的形状，类似于太阳。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;向日葵在赤道地区生长速度加快 30%。赤道区域的大小取决于行星的整体温度：低于 15° 为正常温度，低于 35° 为温暖温度，低于 65° 为炎热温度，整个行星的温度为非常热。温度低于正常温度的行星被认为没有赤道。</VCE_Sunflower.description>
+  <VCE_Sunflower.description>一种富含油脂的大型作物。由于花的形状很像太阳，所以有时也叫太阳花。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;向日葵在热带有30%的生长加成，热带的定义取决于星球的整体温度，在“普通”星球上是15°内，“温暖”星球是35°，“炎热”星球是65%，而“极热星球”整个都是热带，温度在“普通”以下的星球被视作没有热带。</VCE_Sunflower.description>
   <!--EN: sunflower plant-->
-  <VCE_Sunflower.label>向日葵植物</VCE_Sunflower.label>
+  <VCE_Sunflower.label>向日葵</VCE_Sunflower.label>
   <!--EN: A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n<color=#E5E54C>Gameplay effect:</color> Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receiving penalties under 20ºC.-->
-  <VCE_SweetPotato.description>一种植物，具有大的、淀粉质的、甜味的（味道类似于南瓜）、块根，用作根类蔬菜。红薯与普通马铃薯是远亲。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;红薯对岩石土壤有明显的偏爱，在岩石土壤上生长茂盛。肥沃的土壤实际上对它们有害。它们不耐霜冻，平均温度为 24°C 时生长最佳，低于 20°C 时会受到惩罚。</VCE_SweetPotato.description>
+  <VCE_SweetPotato.description>&gt;一种块根蔬菜，呈大块，淀粉质感，味道微甜有点像南瓜。是土豆的近亲。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;番薯更偏爱有沙硕的土地，反而不适应肥沃的耕地。番薯不耐寒，在24°C左右生长的最好，在20°C一下会有生长速度惩罚。</VCE_SweetPotato.description>
   <!--EN: sweet potato plant-->
-  <VCE_SweetPotato.label>甘薯植物</VCE_SweetPotato.label>
+  <VCE_SweetPotato.label>番薯</VCE_SweetPotato.label>
   <!--EN: A tropical plant grown primarily for its edible corm, a root vegetable. Taro is one of the few crops that can be grown under flooded conditions, with the base of the plant always under water. This is due to air spaces in the petiole, which permit underwater gaseous exchange with the atmosphere.\n\n<color=#E5E54C>Gameplay effect:</color> Taro is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Taro is the baseline aquatic plant.-->
-  <VCE_Taro.description>一种热带植物，主要​​因其可食用的球茎（一种根类蔬菜）而种植。芋头是少数可以在洪水条件下生长的作物之一，植物的基部始终在水下。这是由于叶柄中的空气空间允许水下与大气进行气体交换。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;芋头只能在水生生长区生长，而水生生长区忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。芋头是基础水生植物。</VCE_Taro.description>
+  <VCE_Taro.description>一种热带植物，主要产出它的块根。芋头好水，可以在根部完全被水覆盖的情况下生长，因为叶柄中的空洞可以让水下的部位进行空气交换。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在水生种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。芋头是中规中矩的水生作物。</VCE_Taro.description>
   <!--EN: taro plant-->
-  <VCE_Taro.label>芋头植物</VCE_Taro.label>
+  <VCE_Taro.label>芋头</VCE_Taro.label>
   <!--EN: A deciduous tree cultivated for its fruit, almonds. The sweet almond can be eaten plain or be used as ingredient in desserts and confectioneries. The trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nAlmond trees are beautiful, but they require water to be present in a 6 tile radius to grow properly. Almonds can be used as fruits or processed into milk.-->
-  <VCE_TreeAlmond.description>一种落叶树，因其果实杏仁而栽培。甜杏仁可以直接食用，也可以用作甜点和糖果的成分。树木在开花时异常美丽。它们开出芳香的、五瓣、浅粉色到白色的花朵。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树所占用的空间大约是普通作物的四倍，需要很长时间才能生长并结出可以生吃的水果。它们在收获后不会被破坏，但寿命有限，最终需要重新种植。
-
-杏树很美丽，但它们需要 6 格半径范围内有水才能正常生长。杏仁可用作水果或加工成牛奶。</VCE_TreeAlmond.description>
+  <VCE_TreeAlmond.description>一种落叶树，主要产物为其果实的内果皮，即杏仁（常说的杏仁实际上是扁桃仁）。杏仁可以干吃，也可以被用在甜点之中。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树都需要占用四格空间，需要很长的时间生长，并最终会结出可以生吃的果实。果树在被收割后不会消失，但依旧有自己的寿命限制。\n\n扁桃树有双倍的美观度，但需要6格范围内有水才能正常生长。杏仁可以当作普通水果食用，也可以提炼成植物乳。</VCE_TreeAlmond.description>
   <!--EN: almond tree-->
-  <VCE_TreeAlmond.label>杏仁树</VCE_TreeAlmond.label>
+  <VCE_TreeAlmond.label>扁桃树</VCE_TreeAlmond.label>
   <!--EN: An evergreen tree with thick, leathery leaves that produces perfect white, ivory to yellow flowers. The fruit has a large seed or pit in the center and may be green or nearly black.\n\n<color=#E5E54C>Gameplay effect:</color> Avocado trees take a notoriously long period to mature and produce their fruits. If they can be kept alive all that time, they produce greater yield than other fruit trees. Plus if you install the Coffees and Teas mod and pair them with Pumpkin Spice Coffee you can have your dream RimWorld Hipster experience!-->
-  <VCE_TreeAvocado.description>一种常绿乔木，叶子厚实，革质，能开出完美的白色、象牙色到黄色的花朵。果实中心有一个大种子或果核，可能是绿色或近乎黑色。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;鳄梨树需要很长的时间才能成熟并结出果实。如果它们能一直保持活力，它们的产量就会比其他果树更高。另外，如果您安装咖啡和茶模组并将它们与南瓜香料咖啡搭配，您就可以获得梦想的 RimWorld Hipster 体验！</VCE_TreeAvocado.description>
+  <VCE_TreeAvocado.description>拥有皮革般厚实树皮的常青树，能开出象牙色到黄色的花朵。果实的种子都聚集在它中间的一个坑里。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;牛油果树不论是生长还是结果都出奇得慢，但如果能长时间存活，它的生产效率会比一般的果树高得多。牛油果配上同制作组的咖啡和茶mod里的南瓜咖啡就可以畅想cosplay嬉皮士的体验了。</VCE_TreeAvocado.description>
   <!--EN: avocado tree-->
-  <VCE_TreeAvocado.label>鳄梨树</VCE_TreeAvocado.label>
+  <VCE_TreeAvocado.label>牛油果树</VCE_TreeAvocado.label>
   <!--EN: A tropical evergreen tree that produces oval fruits, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nMango trees have very good yield, but mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.-->
-  <VCE_TreeMango.description>一种热带常绿树，结出椭圆形的果实，颜色鲜艳，有红色和黄色的色调。单个大种子呈扁平状，周围的果肉颜色为黄色到橙色，多汁，具有独特的甜辣味。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树所占用的空间大约是普通作物的四倍，需要很长时间才能生长并结出可以生吃的果实。它们在收获后不会被破坏，但寿命有限，最终需要重新种植。
-
-芒果树产量很高，但芒果不能冷冻，否则会被破坏。游戏的智能不足以检测到这一点，因此请从冰箱中禁用它们。</VCE_TreeMango.description>
+  <VCE_TreeMango.description>一种热带常青树，能生产混合红黄色彩的椭圆形水果。芒果只有一个扁平形的大核在果实中央，周边环绕的果肉由黄至橙，甜辣多汁。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;所有果树都需要占用四格空间，需要很长的时间生长，并最终会结出可以生吃的果实。果树在被收割后不会消失，但依旧有自己的寿命限制。\n\n芒果树的产量较高，但芒果一旦被冷冻就会坏掉，请手动把冷藏库的存储设定中删除芒果。</VCE_TreeMango.description>
   <!--EN: mango tree-->
   <VCE_TreeMango.label>芒果树</VCE_TreeMango.label>
   <!--EN: A subtropical broad-leaved evergreen tree. Its leaves, leathery and lance-shaped, are dark green above and silvery on the underside and are paired opposite each other on the twig. The wood is resistant to decay. If the top dies back, a new trunk will often arise from the roots.\n\n<color=#E5E54C>Gameplay effect:</color> Interestingly, olive trees show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They will also live for a very, very long time, far longer than other produce trees. Contrary to other tree produce, olives can't be eaten raw.-->
-  <VCE_TreeOlive.description>亚热带常绿阔叶乔木。它的叶子是革质的，呈矛状，上面是深绿色的，下面是银色的，在树枝上彼此相对。木材不易腐烂。如果顶部枯死，根部通常会长出新的树干。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;有趣的是，橄榄树对岩石土壤表现出明显的偏好，并在岩石土壤上茂盛生长。肥沃的土壤实际上对它们有害。它们的寿命也非常非常长，比其他果树长得多。与其他树产品相反，橄榄不能生吃。</VCE_TreeOlive.description>
+  <VCE_TreeOlive.description>一种亚热带常青树。它有长条形的类皮革树叶，在枝条上成对生长，上方的叶子是深绿色的，而下方的则是银色的。橄榄木能抵抗腐蚀。如果树身坏死，一个新的树干会从根系中长出。。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;橄榄树更偏爱有沙硕的土地，反而不适应肥沃的耕地。橄榄树的寿命比其它果树要长得多，但结出的橄榄不可生吃。</VCE_TreeOlive.description>
   <!--EN: olive tree-->
   <VCE_TreeOlive.label>橄榄树</VCE_TreeOlive.label>
   <!--EN: A beautiful but mild-scented flower known more for its vibrant colors than its fragrance.-->
@@ -345,23 +277,17 @@
   <!--EN: violet-->
   <VCE_Violet.label>紫色</VCE_Violet.label>
   <!--EN: An aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves, and small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.\n\n<color=#E5E54C>Gameplay effect:</color> Water chestnut is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Water chestnut grows 30% faster in the heat (37-60ºC).-->
-  <VCE_WaterChestnut.description>一种生长在沼泽、水下、泥土中的水生蔬菜。它有茎状、管状的绿叶和小而圆的球茎，球茎呈白色脆肉，可以生吃、稍微煮一下或烤着吃。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;菱角只能在水生生长区生长，而水生生长区忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。荸荠在高温 (37-60°C) 下生长速度加快 30%。</VCE_WaterChestnut.description>
+  <VCE_WaterChestnut.description>生长在沼泽的水生蔬菜。它能产出一种小小的球茎，有着脆脆的白色果肉。生吃，水煮和烘烤都很不错。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在水生种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。荸荠在热天（37-60°C）会得到30%的生长加成，</VCE_WaterChestnut.description>
   <!--EN: water chestnut plant-->
-  <VCE_WaterChestnut.label>荸荠植物</VCE_WaterChestnut.label>
+  <VCE_WaterChestnut.label>荸荠</VCE_WaterChestnut.label>
   <!--EN: Watercress is a rapidly growing, perennial plant. It is one of the oldest known leaf vegetables consumed by humans. Watercress and many of its relatives are noteworthy for their piquant flavors.\n\n<color=#E5E54C>Gameplay effect:</color> Watercress is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Watercress grows faster than taro but needs a lot of space, blocking sowing in adjacent spaces.-->
-  <VCE_Watercress.description>豆瓣菜是一种生长迅速的多年生植物。它是人类食用的最古老的叶类蔬菜之一。豆瓣菜及其许多近亲因其辛辣的味道而引人注目。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;豆瓣菜只能在水生生长区种植，而忽略了肥力。然而，这些植物需要很长时间才能播种和收获，基本上是用殖民者的工作来换取在通常未使用的空间中种植植物。豆瓣菜比芋头生长得快，但需要很大的空间，妨碍了相邻空间的播种。</VCE_Watercress.description>
+  <VCE_Watercress.description>西洋菜是一种生长迅速的多年生植物。是食用历史最久远的绿叶菜之一。西洋菜和它的近亲都有一股独特的辛辣味道。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;该作物只能在水生种植区中种植，也因而不受肥沃度影响。这类作物需要花费更多的时间来播种与收割，也就是以工作量来换取生长空间的限制。西洋菜比芋生长更快，但同时更占空间，它的相邻 格子无法播种。</VCE_Watercress.description>
   <!--EN: watercress plant-->
-  <VCE_Watercress.label>豆瓣菜植物</VCE_Watercress.label>
+  <VCE_Watercress.label>西洋菜</VCE_Watercress.label>
   <!--EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.-->
-  <VCE_YellowBellPepper.description>甜椒也被称为甜椒，严格来说属于茄属植物，属于辣椒家族的一部分，但它们是唯一携带隐性基因的辣椒，该基因会阻止果实中产生任何辣椒素，从而使它们不辣。
-
-&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;平均而言，25% 的甜椒会辣。 成熟变成黄辣椒，而75%会成熟变成红辣椒。前者更有营养。如果大量种植，平均产量就会增加。</VCE_YellowBellPepper.description>
+  <VCE_YellowBellPepper.description>也被叫做甜椒，茄科辣椒属植物，但菜椒拥有抑制产生辣椒素的基因，因此丝毫不辣。\n\n&lt;color=#E5E54C&gt;游戏效果：&lt;/color&gt;菜椒有平均25%的几率会长成黄菜椒，75%会长成红菜椒。黄菜椒的营养值更高，因而鼓励你多种些菜椒以获得更多的中奖机会。</VCE_YellowBellPepper.description>
   <!--EN: bell pepper plant-->
-  <VCE_YellowBellPepper.label>甜椒植物</VCE_YellowBellPepper.label>
+  <VCE_YellowBellPepper.label>菜椒</VCE_YellowBellPepper.label>
   <!--EN: A highly fragrant, sweet, and rich flower, prized for its use in exotic and sensual perfumes.-->
   <VCE_YlangYlang.description>一种芳香浓郁、甜美而浓郁的花朵，因其在异国情调和感性香水中的使用而备受推崇。</VCE_YlangYlang.description>
   <!--EN: ylang-Ylang-->

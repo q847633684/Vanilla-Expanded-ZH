@@ -1,29 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A wearable frame, powered by a system of hydraulics, electric motors, levers and pneumatics, designed to permit quick movement. Whilst it does not provide any protection, it allows the user to walk faster, lift heavier objects and maintain balance more easily.-->
-  <VWE_Apparel_Exoframe.description>一种可穿戴框架，由液压系统、电动机、杠杆和气动系统提供动力，旨在实现快速移动。虽然它不提供任何保护，但它可以让用户走得更快、举起更重的物体并更轻松地保持平衡。</VWE_Apparel_Exoframe.description>
+  <VWE_Apparel_Exoframe.description>由液压系统、电机、杠杆和气压传动系统提供动力的可穿戴式外骨骼。虽然其本身不能提供任何防护，但可以帮助使用者走得更快，负载较重的物体，并更容易保持平衡。</VWE_Apparel_Exoframe.description>
   <!--EN: exoskeleton frame-->
-  <VWE_Apparel_Exoframe.label>外骨骼框架</VWE_Apparel_Exoframe.label>
+  <VWE_Apparel_Exoframe.label>外骨骼</VWE_Apparel_Exoframe.label>
   <!--EN: swarm rocket-->
-  <VWE_Bullet_SwarmRocket.label>蜂群火箭</VWE_Bullet_SwarmRocket.label>
+  <VWE_Bullet_SwarmRocket.label>集群导弹</VWE_Bullet_SwarmRocket.label>
   <!--EN: A self-loading large-bore cannon. Its large-caliber shells do heavy damage over significant ranges. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses.-->
-  <VWE_Gun_Autocannon.description>自装式大口径大炮。其大口径 炮弹 在相当大的范围内造成严重伤害。它瞄准速度慢，无法向近距离目标开火。
-
-作为一种极重型武器，该枪需要动力装甲才能有效使用。
-
-该武器的使用次数有限。</VWE_Gun_Autocannon.description>
+  <VWE_Gun_Autocannon.description>一把自动装填的大口径火炮。它的大口径炮弹伤害高，还射程远。瞄准非常缓慢而且不能攻击近处的目标。\n\n由于重量巨大，需要穿戴动力装甲或外骨骼才能有效使用。\n\n该武器开火次数有限。</VWE_Gun_Autocannon.description>
   <!--EN: autocannon-->
-  <VWE_Gun_Autocannon.label>自动炮</VWE_Gun_Autocannon.label>
+  <VWE_Gun_Autocannon.label>自动加农炮</VWE_Gun_Autocannon.label>
   <!--EN: grip-->
   <VWE_Gun_Autocannon.tools.0.label>紧握</VWE_Gun_Autocannon.tools.0.label>
   <!--EN: barrel-->
   <VWE_Gun_Autocannon.tools.1.label>桶</VWE_Gun_Autocannon.tools.1.label>
   <!--EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses.-->
-  <VWE_Gun_HandheldMortar.description>迫击炮发射器。将炸弹扔过墙壁。非常不准确，但范围很远。它瞄准速度慢，无法向近距离目标开火。
-
-作为一种极重型武器，该枪需要动力装甲才能有效使用。
-
-该武器的使用次数有限。</VWE_Gun_HandheldMortar.description>
+  <VWE_Gun_HandheldMortar.description>如同固定式迫击炮一样，可以越过障碍曲射炮击。瞄准非常缓慢而且不能攻击近处的目标。\n\n由于重量巨大，需要穿戴动力装甲或外骨骼才能有效使用。\n\n该武器开火次数有限。</VWE_Gun_HandheldMortar.description>
   <!--EN: handheld mortar-->
   <VWE_Gun_HandheldMortar.label>手持迫击炮</VWE_Gun_HandheldMortar.label>
   <!--EN: grip-->
@@ -31,11 +23,7 @@
   <!--EN: barrel-->
   <VWE_Gun_HandheldMortar.tools.1.label>桶</VWE_Gun_HandheldMortar.tools.1.label>
   <!--EN: A powerful, military-grade flamer based on mechanoid inferno spewers. It can cover the entire area in front of the user in flames.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses.-->
-  <VWE_Gun_HeavyFlamer.description>一款基于机械地狱喷射器的强大军用级火焰喷射器。它可以用火焰覆盖使用者面前的整个区域。
-
-作为一种极重型武器，这把枪需要动力装甲才能有效使用。
-
-该武器的使用次数有限。</VWE_Gun_HeavyFlamer.description>
+  <VWE_Gun_HeavyFlamer.description>一把大功率的军事火焰发射器，由机械体的地狱火龙炮逆向研究而来。能够将面前一大片区域覆盖于火海之中。\n\n由于重量巨大，需要穿戴动力装甲或外骨骼才能有效使用。\n\n该武器开火次数有限。</VWE_Gun_HeavyFlamer.description>
   <!--EN: heavy flamer-->
   <VWE_Gun_HeavyFlamer.label>重型火焰喷射器</VWE_Gun_HeavyFlamer.label>
   <!--EN: grip-->
@@ -43,11 +31,7 @@
   <!--EN: barrel-->
   <VWE_Gun_HeavyFlamer.tools.1.label>桶</VWE_Gun_HeavyFlamer.tools.1.label>
   <!--EN: A rocket launcher that fires eight small-bore explosive missiles that track different targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses.-->
-  <VWE_Gun_SwarmMissileLauncher.description>火箭发射器，可发射八枚跟踪不同目标的小口径爆炸导弹。
-
-作为一种极重型武器，该枪需要动力装甲才能有效使用。
-
-该武器的使用次数有限。</VWE_Gun_SwarmMissileLauncher.description>
+  <VWE_Gun_SwarmMissileLauncher.description>一把导弹发射器，一次性能发射八枚自动追踪的小型导弹。\n\n由于重量巨大，需要穿戴动力装甲或外骨骼才能有效使用。\n\n该武器开火次数有限。</VWE_Gun_SwarmMissileLauncher.description>
   <!--EN: swarm missile launcher-->
   <VWE_Gun_SwarmMissileLauncher.label>集群导弹发射器</VWE_Gun_SwarmMissileLauncher.label>
   <!--EN: grip-->
@@ -55,13 +39,9 @@
   <!--EN: barrel-->
   <VWE_Gun_SwarmMissileLauncher.tools.1.label>桶</VWE_Gun_SwarmMissileLauncher.tools.1.label>
   <!--EN: A self-loading uranium slug cannon. Its ultra-dense uranium shells can punch through heavy armor. It's more accurate at longer ranges, and can't fire at all close up.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses.-->
-  <VWE_Gun_UraniumSlugRifle.description>自装式铀弹头加农炮。其超高密度铀炮弹可以击穿重型装甲。它在较远距离上更准确，并且根本无法近距离射击。
-
-作为一种极重型武器，这把枪需要动力装甲才能有效使用。
-
-此武器的使用次数有限。</VWE_Gun_UraniumSlugRifle.description>
+  <VWE_Gun_UraniumSlugRifle.description>一把自动装填的铀弹炮。致密的铀质弹头能击穿重甲。远程精度很高，但不能攻击近处的目标。\n\n由于重量巨大，需要穿戴动力装甲或外骨骼才能有效使用。\n\n该武器开火次数有限。</VWE_Gun_UraniumSlugRifle.description>
   <!--EN: uranium slug rifle-->
-  <VWE_Gun_UraniumSlugRifle.label>铀弹头步枪</VWE_Gun_UraniumSlugRifle.label>
+  <VWE_Gun_UraniumSlugRifle.label>铀弹线膛炮</VWE_Gun_UraniumSlugRifle.label>
   <!--EN: grip-->
   <VWE_Gun_UraniumSlugRifle.tools.0.label>紧握</VWE_Gun_UraniumSlugRifle.tools.0.label>
   <!--EN: barrel-->

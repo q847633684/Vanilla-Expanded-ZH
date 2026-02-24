@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Reading and passing on knowledge is a most scholarly mission.-->
-  <VME_Cultured.description>传播我们的信仰是我们的责任，即使是通过武力。</VME_Cultured.description>
+  <VME_Cultured.description>阅览书籍与传授知识是一种神圣的事业。</VME_Cultured.description>
   <VME_Cultured.descriptionMaker.rules.rulesStrings>
     <!--EN: creation(tag=meme_Cultured)        ->[deity0_name] taught all of [deity0_possessive] followers the secrets of writing: "Write all the words which I have spoken to you in a book."-->
-    <li>creation(tag=meme_ViolentConversion) -&gt;[deity0_name]在凡人中指定了一些十字军来执行[deity0_possessive]的意志。</li>
+    <li>creation(tag=meme_Cultured)        -&gt;[deity0_name]教导[deity0_possessive]信徒们有关写作的秘密：“将吾之教诲记载于书中。”</li>
     <!--EN: episode(uses=1,tag=meme_Cultured)  ->[deity0_name] said to all the [memberNamePlural], "Every scribe who has become a disciple of the kingdom of heaven is like a head of a household, who brings out of his treasure things new and old."-->
-    <li>episode(uses=1,tag=meme_ViolentConversion) -&gt;[deity0_name] 对所有 [memberNamePlural] 说，“异教徒必须接受我的话，否则就会灭亡。”</li>
+    <li>episode(uses=1,tag=meme_Cultured)  -&gt;[deity0_name]对所有的[memberNamePlural]说，“文士作为天国的门徒，犹如一家之主，能从新旧的语句中提取出有价值的东西。”</li>
     <!--EN: intro(tag=meme_Cultured)           ->[memberNamePlural] built a great library on the [place_summary] [place_name], and filled it with wondrous books and scrolls containing the wisdom of their ancestors.-->
-    <li>intro(tag=meme_ViolentConversion) -&gt;[memberNamePlural] 在 [place_summary] [place_name] 上建造了一个伟大的 [altarName]，因此很多人都会屈服于 [deity0_name] 的意愿。</li>
+    <li>intro(tag=meme_Cultured)           -&gt;[memberNamePlural]在[place_summary][place_name]上构建了一个伟大的知识库，其中装满了神奇的书籍和卷轴，里面记载着他们祖先的智慧。</li>
     <!--EN: conflict(tag=meme_Cultured)        ->A simpleton [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to burn all the knowledge to ashes, for [foeLeader_pronoun] was a raging anti-intellectual.-->
-    <li>conflict(tag=meme_ViolentConversion) -&gt; 一个胆小鬼 [foeLeader] 试图否认 [deity0_name] 的意愿，告诉 [foeLeader_possessive] [foeSoldiers] 割掉任何谈论 [deity0_type] 的人的舌头。</li>
+    <li>conflict(tag=meme_Cultured)        -&gt;愚昧无知的[foeLeader]试图否认[deity0_name]的意志，并命令[foeLeader_possessive][foeSoldiers]把知识皆化为灰烬，因为[foeLeader_pronoun]是一个反知识分子。</li>
     <!--EN: founderJoin(tag=meme_Cultured)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] infinite knowledge, and [founder_pronoun] transcribed all the knowledge of the [memberNamePlural] into nearly indestructuble data cores.-->
-    <li>founderJoin(tag=meme_ViolentConversion) -&gt;[deity0_name] 以 [deity0_possessive] 坚定的决心祝福名为 [founderName] 的 [place_job]，当 [founder_pronoun] 说话时，没有人可以转身。</li>
+    <li>founderJoin(tag=meme_Cultured)     -&gt;[deity0_name]祝福一位名为[founderName]的[place_job]具有[deity0_possessive]的无限知识，而[founder_pronoun]将[memberNamePlural]的所有知识都转化为了几乎无法破坏的数据核心。</li>
     <!--EN: victory(tag=meme_Cultured)         ->The [foeSoldiers] succeeded in burning and destroying all the ancient books of the [memberNamePlural] but it didn't matter: the data was already safe thanks to the efforts of [founderName].-->
-    <li>victory(tag=meme_ViolentConversion) -&gt;[founderName]屠杀了许多[foeSoldiers]并残酷地折磨了幸存者，以展示[deity0_name]的力量。他们痛苦的呼喊将永远提醒我们那些否认[deity0_name]的人的命运。</li>
+    <li>victory(tag=meme_Cultured)         -&gt;[foeSoldiers]成功烧毁了[memberNamePlural]的所有古书，但这并不重要：多亏了[founderName]的努力，这些知识已经得以传承下去。</li>
     <!--EN: setup(tag=meme_Cultured)           ->Our founder [founderName] was a writer, one of the greatest the galaxy has ever seen. [founderName_possessive] prose allowed you to visit far away worlds and lose yourself in intricate fantasies.-->
-    <li>setup(tag=meme_ViolentConversion) -&gt;我们的创始人 [founderName] 是一位伟大的革命者和天才，在 [founder_pronoun] 穿梭于各个城市之间时，改变了数千人的信仰。</li>
+    <li>setup(tag=meme_Cultured)           -&gt;我们的创始人[founderName]是银河系最伟大的作家之一。[founderName_possessive]的散文能让你游历遥远的世界，让你沉浸在错综复杂的幻想中。</li>
     <!--EN: story(uses=1,tag=meme_Cultured)    ->[founderName] taught us that a society that doesn't value the written tradition is lost.-->
-    <li>story(uses=1,tag=meme_ViolentConversion) -&gt;信徒们在城市和机构之间流动，传播新秩序的消息并战斗反对那些不同意的人。</li>
+    <li>story(uses=1,tag=meme_Cultured)    -&gt;[founderName]告诉我们，一个不重视书写传统的社会最终会从历史的长河之中消失。</li>
     <!--EN: lessonIntro(tag=meme_Cultured)         ->I have writing books for most of my life, and I have learned one main thing:-->
-    <li>lessonIntro(tag=meme_ViolentConversion) -&gt; 在传播我们的理念的这些年里，我学到了一个重要的教训：</li>
+    <li>lessonIntro(tag=meme_Cultured)         -&gt;在我醉心写作的这些年里，我学到了一个高于一切的教训：</li>
     <!--EN: lesson(tag=meme_Cultured)              ->there is no greater agony than bearing an untold story inside you-->
-    <li>lesson(tag=meme_ViolentConversion) -&gt;除了我们的真理，没有任何真理。我们不能让任何人妨碍我们。他们要么同意，要么死</li>
+    <li>lesson(tag=meme_Cultured)              -&gt;没有比心里背负着一个不为人知的秘密更痛苦的事情了</li>
     <!--EN: lessonReinforcement(tag=meme_Cultured) ->If there's a book that you want to read, but it hasn't been written yet, then you must write it.-->
-    <li>lessonReinforcement(tag=meme_ViolentConversion) -&gt;这就是我们需要传播、传播、传播的事实。如果有必要，可以用武力。</li>
+    <li>lessonReinforcement(tag=meme_Cultured) -&gt;如果你有一本想读的书，但还没有人把它创作出来，那么你必须自食其力把它编写出来。</li>
     <!--EN: archistBasis(tag=meme_Cultured)    ->The archotechs value knowledge above all things, and respect the written traditions of humanity.-->
-    <li>archistBasis(tag=meme_ViolentConversion) -&gt; Archotechs 从天空和心灵中宣布他们的存在，并且他们的存在必须成为普遍真理。</li>
+    <li>archistBasis(tag=meme_Cultured)    -&gt;超凡智能将知识视为高于一切的东西，它尊重人类的书写传统。</li>
     <!--EN: archistFact(tag=meme_Cultured)     ->Archotechs wouldn't want us to be uneducated simpletons, moving through life like mindless automatons.-->
-    <li>archistFact(tag=meme_ViolentConversion) -&gt;Archotechs 必须被服从，我们有责任让他人屈服于他们的意志。</li>
+    <li>archistFact(tag=meme_Cultured)     -&gt;超凡智能不希望我们成为没有受过教育的傻瓜，像没有智慧的机器一样生活。</li>
     <!--EN: archistProphecy(tag=meme_Cultured) ->[inTheEnd], the archotechs will only choose for transcendence those who are cultured and educated enough.-->
-    <li>archistProphecy(tag=meme_ViolentConversion) -&gt;[inTheEnd]，考古技术人员将向 [relic0_name] 的持有者表达他们最后的智慧。凡是不听话的人都必须被清除。</li>
+    <li>archistProphecy(tag=meme_Cultured) -&gt;[inTheEnd]，超凡智能只会让那些有文化教养的人获得飞升的资格。</li>
     <!--EN: animistFact(tag=meme_Cultured)     ->The spirits want us to develop our intelligence, to be cultured and educated, for a simple mind is offensive to them.-->
-    <li>animistFact(tag=meme_ViolentConversion) -&gt; 灵魂想要被人认识，但只与少数人交谈。我们会让任何阻碍我们的人敬畏神灵的意志。</li>
+    <li>animistFact(tag=meme_Cultured)     -&gt;灵魂想要我们发展我们的智力，想要我们接受教育和提升素养，因为单纯的思想对他们来说是一种冒犯。</li>
     <!--EN: serketistProphecy(tag=meme_Cultured)->[itIsSaid] we will set the insect's knowledge in tablets of obdisian, so their divine words can't be erased by the passage of time.-->
-    <li>serketistProphecy(tag=meme_ViolentConversion)-&gt;[itIsSaid]我们将向他们学习，并利用这些知识来清除宇宙中肮脏的异教徒。</li>
+    <li>serketistProphecy(tag=meme_Cultured)-&gt;[itIsSaid]我们将把虫族的知识记录在黑曜石板上，这样它们的神圣话语就不会因时间而被抹去。</li>
     <!--EN: chthonianProphecy(tag=meme_Cultured)->A Black Tome of forbidden magic is said to contain insights to the madness of these transhuman intelligences. Perhaps our scribes will one day decipher its eldritch message.-->
-    <li>chthonianProphecy(tag=meme_ViolentConversion)-&gt;我们将获得他们的可怕知识，并用它来清除宇宙中肮脏的异教徒。</li>
+    <li>chthonianProphecy(tag=meme_Cultured)-&gt;一本被禁忌的魔法黑书据说包含了对这些超人类智慧的疯狂洞察。也许有一天我们的誊写员会破译它的神秘信息。</li>
     <!--EN: esotericismProphecy(tag=meme_Cultured)->Only with careful study of the most obscure arcane texts can we hope to unlock these secrets.-->
-    <li>esotericismProphecy(tag=meme_ViolentConversion)-&gt;有了这些知识，我们将比这个星球上的其他居民拥有明显的优势，并用它来清除肮脏的异教徒。</li>
+    <li>esotericismProphecy(tag=meme_Cultured)-&gt;只有仔细研究最晦涩的神秘文本，我们才有希望解开这些秘密。</li>
     <!--EN: eschatologismFact(tag=meme_Cultured)->Three scrolls written with the blood of our enemies in human skin parchment will be the testament of our victory, and upon seeing them our enemies will only know fear.-->
-    <li>eschatologismFact(tag=meme_ViolentConversion)-&gt;什么都不会剩下。肮脏的异教徒将被原子火和致命疾病所清除。</li>
+    <li>eschatologismFact(tag=meme_Cultured)-&gt;三张人皮血卷使我们胜利的见证，我们将用它们来震慑我们的敌人。</li>
     <!--EN: introMemo(tag=meme_Cultured)->I'm so tired, SO tired of having to remind you this... PLEASE, for all that is holy, DOCUMENT YOUR CODE! Undocumented code is useless down the line, and I don't want to have to train the next developer into deciphering the vague code ramblings of the last person who "conveniently forgot" to do it! Come on, people!-->
-    <li>introMemo(tag=meme_ViolentConversion)-&gt; 如您所知，我们公司的使命太重要了，不能让其他人妨碍我们，因此我们正在准备一次敌意合并，以摆脱这些……不受欢迎的竞争对手。</li>
+    <li>introMemo(tag=meme_Cultured)-&gt;我，我好累...但我还是不得不提醒你...请，哦老天啊，请-千-万-不-要-忘-记-保-存-好-自-己-的-代-码！未保存的代码什么用都没有，我可不想再培训一个开发人员来反编译这些说出“不小心忘记了”的蠢蛋们的杂乱代码了！好了，大家继续加把劲吧！</li>
   </VME_Cultured.descriptionMaker.rules.rulesStrings>
   <VME_Cultured.generalRules.rulesStrings>
     <!--EN: memeAdjective->cultured-->
-    <li>memeAdjective-&gt;强制</li>
+    <li>memeAdjective-&gt;文雅</li>
     <!--EN: memeAdjective->enlightened-->
-    <li>memeAdjective-&gt;严格</li>
+    <li>memeAdjective-&gt;开明</li>
     <!--EN: memeAdjective->well educated-->
-    <li>memeHyphenPrefix-&gt;极端</li>
+    <li>memeAdjective-&gt;高素质</li>
     <!--EN: memeAdjective->erudite-->
-    <li>memeConcept-&gt;绝对真理</li>
+    <li>memeAdjective-&gt;博学</li>
     <!--EN: memeAdjective->knowledgeable-->
-    <li>memeLeaderNoun-&gt;高级审判官</li>
+    <li>memeAdjective-&gt;学识渊博</li>
     <!--EN: memeConcept->book writing-->
-    <li>memeMoralist-&gt;审判官</li>
+    <li>memeConcept-&gt;写作</li>
     <!--EN: memeConcept->reading-->
-    <li>memeMoralist-&gt;十字军</li>
+    <li>memeConcept-&gt;阅读</li>
     <!--EN: memeLeaderNoun->librarian-->
-    <li>memeMoralist-&gt;工头</li>
+    <li>memeLeaderNoun-&gt;图书管理员</li>
     <!--EN: memeMoralist->scribe-->
-    <li>memeLeaderNoun-&gt;多合一</li>
+    <li>memeMoralist-&gt;誊写员</li>
   </VME_Cultured.generalRules.rulesStrings>
   <!--EN: cultured-->
-  <VME_Cultured.label>暴力皈依</VME_Cultured.label>
+  <VME_Cultured.label>书香墨韵</VME_Cultured.label>
 </LanguageData>

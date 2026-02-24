@@ -2,29 +2,29 @@
 <LanguageData>
   <ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
     <!--EN: r_art_description->[physical_description_root] [context_sentence]-->
-    <li>r_art_description-&gt;[physical_description_root] [context_sentence]</li>
+    <li>r_art_description-&gt;[physical_description_root][context_sentence]</li>
     <!--EN: circumstance_group->[circumstance_phrase]-->
     <li>circumstance_group-&gt;[circumstance_phrase]</li>
     <!--EN: desc_sentence_group->[desc_sentence] [style_group]-->
-    <li>desc_sentence_group-&gt;[desc_sentence] [style_group]</li>
+    <li>desc_sentence_group-&gt;[desc_sentence][style_group]</li>
     <!--EN: context_sentence->This [depiction] refers to [tale_noun] on [DATE].-->
-    <li>context_sentence-&gt;此[depiction]引用[DATE]上的[tale_noun]。</li>
+    <li>context_sentence-&gt;[depiction]中的故事是发生在[DATE]的[tale_noun]。</li>
     <!--EN: context_sentence->This [depiction] relates to [tale_noun] on [DATE].-->
-    <li>context_sentence-&gt;此[depiction]与[DATE]上的[tale_noun]相关。</li>
+    <li>context_sentence-&gt;这件作品[depiction]了发生在[DATE]的[tale_noun]的故事。</li>
     <!--EN: context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].-->
-    <li>context_sentence-&gt;此[depiction]讲述了[tale_noun]在[DATE]上的故事。</li>
+    <li>context_sentence-&gt;这件作品[depiction]了发生在[DATE]的关于[tale_noun]的往事。</li>
     <!--EN: physical_description_root->This [painting] [depicts] [image]. [desc_sentence_group]-->
-    <li>physical_description_root-&gt;这个[painting][depicts][image]。 [desc_sentence_group]</li>
+    <li>physical_description_root-&gt;这件[painting][depicts]了[image]。[desc_sentence_group]</li>
     <!--EN: physical_description_root->This [painting] bears a [depiction] of [image]. [desc_sentence_group]-->
-    <li>physical_description_root-&gt;此[painting]具有[depiction]的[image]。 [desc_sentence_group]</li>
+    <li>physical_description_root-&gt;这件[painting]看起来[depiction]了[image]。[desc_sentence_group]</li>
     <!--EN: physical_description_root->On this [painting] is a [depiction] of [image]. [desc_sentence_group]-->
-    <li>physical_description_root-&gt;在此[painting]上是[image]的[depiction]。 [desc_sentence_group]</li>
+    <li>physical_description_root-&gt;这件[painting]似乎[depiction]了[image]。[desc_sentence_group]</li>
     <!--EN: painting->painting-->
-    <li>painting-&gt;绘画</li>
+    <li>painting-&gt;画作</li>
     <!--EN: painting->work-->
-    <li>painting-&gt;工作</li>
+    <li>painting-&gt;作品</li>
     <!--EN: painting->piece-->
-    <li>painting-&gt;件</li>
+    <li>painting-&gt;著作</li>
   </ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
   <ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
     <!--EN: r_art_description->[physical_description_root]-->
@@ -34,9 +34,9 @@
   </ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
   <VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
     <!--EN: style_group->[artextra_clause]. [style_clause].-->
-    <li>style_group-&gt;[artextra_clause]。 [style_clause]。</li>
+    <li>style_group-&gt;[artextra_clause]，[style_clause]。</li>
     <!--EN: style_group->[style_clause]. [artconjunction] [artextra_clause].-->
-    <li>style_group-&gt;[style_clause]。 [artconjunction] [artextra_clause]。</li>
+    <li>style_group-&gt;[style_clause]，[artconjunction][artextra_clause]。</li>
     <!--EN: style_group->[style_clause].-->
     <li>style_group-&gt;[style_clause]。</li>
     <!--EN: style_group->[artextra_clause].-->
@@ -48,246 +48,246 @@
     <!--EN: artconjunction->intriguingly,-->
     <li>artconjunction-&gt;有趣的是，</li>
     <!--EN: artconjunction->adding depth to the painting,-->
-    <li>artconjunction-&gt;增加绘画的深度，</li>
+    <li>artconjunction-&gt;加深了意境的是，</li>
     <!--EN: artconjunction->furthermore,-->
     <li>artconjunction-&gt;此外，</li>
     <!--EN: artconjunction->strikingly,-->
-    <li>artconjunction-&gt;引人注目的是，</li>
+    <li>artconjunction-&gt;惊人的是，</li>
     <!--EN: artconjunction->evocatively,-->
-    <li>artconjunction-&gt;令人回味的是，</li>
+    <li>artconjunction-&gt;令人回味无穷的是，</li>
     <!--EN: artconjunction->mirroring ancient narratives,-->
-    <li>artconjunction-&gt;反映古代叙事，</li>
+    <li>artconjunction-&gt;古老的叙事方式跃然其上，</li>
     <!--EN: artconjunction->connecting to ancestral roots,-->
-    <li>artconjunction-&gt;连接到祖先的根源，</li>
+    <li>artconjunction-&gt;与先祖的起源紧密相连，</li>
     <!--EN: artextra_clause->the painting showcases [subimageplural] engaged in [activity]-->
-    <li>artextra_clause-&gt;绘画展示了[subimageplural]从事[activity]</li>
+    <li>artextra_clause-&gt;它也为我们呈现了参与[activity]的[subimageplural]</li>
     <!--EN: artextra_clause->depicting [subimagesingle] [side_position]-->
-    <li>artextra_clause-&gt;描绘[subimagesingle] [side_position]</li>
+    <li>artextra_clause-&gt;描绘了[subimagesingle][side_position]</li>
     <!--EN: artextra_clause->displaying a vivid scene of [Community]-->
-    <li>artextra_clause-&gt;展示了[Community]的生动场景</li>
+    <li>artextra_clause-&gt;它也展示了有关[Community]的生动场景</li>
     <!--EN: artextra_clause->a group of [subimageplural] gathered near a [TerrainFeature]-->
-    <li>artextra_clause-&gt;一群[subimageplural]聚集在[TerrainFeature]附近</li>
+    <li>artextra_clause-&gt;[subimageplural]聚集在[TerrainFeature]附近</li>
     <!--EN: artextra_clause->[Quantity_adjphrase] [subimagesingle]s illustrating a story from ancient times-->
-    <li>artextra_clause-&gt;[Quantity_adjphrase] [subimagesingle]正在讲述一个远古故事</li>
+    <li>artextra_clause-&gt;[subimagesingle]阐明了一个从远古时期传承至今的故事</li>
     <!--EN: artextra_clause->an intricate pattern of [subimageplural] dominates the foreground-->
-    <li>artextra_clause-&gt;[subimageplural] 的复杂图案占据了前景</li>
+    <li>artextra_clause-&gt;一种[subimageplural]的复杂图案出现在了最显眼的位置</li>
     <!--EN: artextra_clause->centered around a [subimagesingle], telling a tale of [ConceptAny]-->
-    <li>artextra_clause-&gt;以 [subimagesingle] 为中心，讲述 [ConceptAny] 的故事</li>
+    <li>artextra_clause-&gt;它以[subimagesingle]为中心，讲述了有关[ConceptAny]的故事</li>
     <!--EN: subimageany->[subimagesingle]-->
     <li>subimageany-&gt;[subimagesingle]</li>
     <!--EN: subimageany->[subimageplural]-->
     <li>subimageany-&gt;[subimageplural]</li>
     <!--EN: subimagesingle(p=6)->an ancient human figure-->
-    <li>subimagesingle(p=6)-&gt;古代人物</li>
+    <li>subimagesingle(p=6)-&gt;一位古人</li>
     <!--EN: subimagesingle->a primitive dwelling-->
-    <li>subimagesingle-&gt;原始民居</li>
+    <li>subimagesingle-&gt;一间原始棚屋</li>
     <!--EN: subimagesingle->a native tree-->
-    <li>subimagesingle-&gt;一棵原生树</li>
+    <li>subimagesingle-&gt;一棵古树</li>
     <!--EN: subimagesingle->a representation of the sun or moon-->
-    <li>subimagesingle-&gt;太阳或月亮的表示</li>
+    <li>subimagesingle-&gt;一个太阳或月亮的代表物</li>
     <!--EN: subimagesingle->a mystical symbol-->
-    <li>subimagesingle-&gt;神秘符号</li>
+    <li>subimagesingle-&gt;一种神秘的象征</li>
     <!--EN: subimagesingle->a celestial body-->
-    <li>subimagesingle-&gt;一个天体</li>
+    <li>subimagesingle-&gt;一颗天体</li>
     <!--EN: subimagesingle->a prehistoric beast-->
-    <li>subimagesingle-&gt;史前野兽</li>
+    <li>subimagesingle-&gt;一只史前猛兽</li>
     <!--EN: subimagesingle->a hand-print pattern-->
-    <li>subimagesingle-&gt;手印图案</li>
+    <li>subimagesingle-&gt;一种手印图案</li>
     <!--EN: subimageplural(p=5)->stylized animals-->
-    <li>subimageplural(p=5)-&gt;程式化的动物</li>
+    <li>subimageplural(p=5)-&gt;抽象动物形状</li>
     <!--EN: subimageplural->primitive geometric shapes-->
     <li>subimageplural-&gt;原始几何形状</li>
     <!--EN: subimageplural->nature motifs-->
-    <li>subimageplural-&gt;自然图案</li>
+    <li>subimageplural-&gt;自然风格</li>
     <!--EN: subimageplural->handprint patterns-->
-    <li>subimageplural-&gt;手印图案</li>
+    <li>subimageplural-&gt;手印样式</li>
     <!--EN: subimageplural->spiritual symbols-->
-    <li>subimageplural-&gt;精神象征</li>
+    <li>subimageplural-&gt;象征心灵</li>
     <!--EN: subimageplural->celestial bodies-->
-    <li>subimageplural-&gt;天体</li>
+    <li>subimageplural-&gt;天体样式</li>
     <!--EN: side_position->at the center-->
-    <li>side_position-&gt;在中心</li>
+    <li>side_position-&gt;在中心处</li>
     <!--EN: side_position->in the upper portion-->
-    <li>side_position-&gt;在上部</li>
+    <li>side_position-&gt;在上方</li>
     <!--EN: side_position->occupying the lower half-->
-    <li>side_position-&gt;占据下半部分</li>
+    <li>side_position-&gt;在下方</li>
     <!--EN: side_position->to the right, forming a natural flow-->
-    <li>side_position-&gt;向右，形成自然流</li>
+    <li>side_position-&gt;在右边，形成了自然的流畅感</li>
     <!--EN: side_position->to the left, drawing attention to the main theme-->
-    <li>side_position-&gt;向左，引起人们对主题的关注</li>
+    <li>side_position-&gt;在左边，吸引了人们对重要主题的关注</li>
     <!--EN: side_position->spread uniformly across the canvas-->
-    <li>side_position-&gt;均匀分布在画布上</li>
+    <li>side_position-&gt;在左上方</li>
     <!--EN: side_position->scattered in a harmonious pattern-->
-    <li>side_position-&gt;分散成和谐的图案</li>
+    <li>side_position-&gt;在左下方</li>
     <!--EN: style_clause(p=4)->the artwork [symbolizes] [ConceptAny]-->
-    <li>style_clause(p=4)-&gt;艺术作品 [symbolizes] [ConceptAny]</li>
+    <li>style_clause(p=4)-&gt;这件艺术品[symbolizes][ConceptAny]</li>
     <!--EN: style_clause->using [artstyle_adj] strokes to depict [ConceptAny]-->
-    <li>style_clause-&gt;用[artstyle_adj]笔画描绘[ConceptAny]</li>
+    <li>style_clause-&gt;它使用[artstyle_adj]笔法来描绘[ConceptAny]</li>
     <!--EN: style_clause->reflecting the essence of [ConceptAny] through [artstyle_adj] patterns-->
-    <li>style_clause-&gt;通过 [artstyle_adj] 模式反映 [ConceptAny] 的本质</li>
+    <li>style_clause-&gt;通过[artstyle_adj]图案来反应[ConceptAny]的本质</li>
     <!--EN: style_clause->embodying a rich history with its [artstyle_adj] representation of [ConceptAny]-->
-    <li>style_clause-&gt;以其[artstyle_adj]代表[ConceptAny]体现丰富的历史</li>
+    <li>style_clause-&gt;凭借对[ConceptAny][artstyle_adj]描绘来展现其悠久的历史</li>
     <!--EN: style_clause->the painting exhibits a [artstyle_adj] approach to [ConceptAny]-->
-    <li>style_clause-&gt;绘画展示了[artstyle_adj]对[ConceptAny]的方法</li>
+    <li>style_clause-&gt;这件艺术品展现了[artstyle_adj][ConceptAny]</li>
     <!--EN: symbolizes->symbolizes-->
-    <li>symbolizes-&gt;象征</li>
+    <li>symbolizes-&gt;象征了</li>
     <!--EN: symbolizes->represents-->
-    <li>symbolizes-&gt;代表</li>
-    <!--EN: symbolizes->echoes-->
-    <li>symbolizes-&gt;回声</li>
-    <!--EN: symbolizes->resonates with-->
-    <li>symbolizes-&gt;引起共鸣</li>
-    <!--EN: symbolizes->reflects-->
-    <li>symbolizes-&gt;反映</li>
-    <!--EN: symbolizes->embodies-->
     <li>symbolizes-&gt;体现了</li>
+    <!--EN: symbolizes->echoes-->
+    <li>symbolizes-&gt;暗示了</li>
+    <!--EN: symbolizes->resonates with-->
+    <li>symbolizes-&gt;映射了</li>
+    <!--EN: symbolizes->reflects-->
+    <li>symbolizes-&gt;反映了</li>
+    <!--EN: symbolizes->embodies-->
+    <li>symbolizes-&gt;表现了</li>
     <!--EN: symbolizes->symbolizes-->
-    <li>symbolizes-&gt;象征</li>
+    <li>symbolizes-&gt;代表着</li>
     <!--EN: symbolizes->seems to symbolize-->
     <li>symbolizes-&gt;似乎象征着</li>
     <!--EN: symbolizes->represents-->
-    <li>symbolizes-&gt;代表</li>
+    <li>symbolizes-&gt;体现着</li>
     <!--EN: symbolizes->seems to represent-->
-    <li>symbolizes-&gt;似乎代表</li>
+    <li>symbolizes-&gt;似乎代表着</li>
     <!--EN: symbolizes->seems to express-->
-    <li>symbolizes-&gt;似乎表达</li>
+    <li>symbolizes-&gt;似乎表达着</li>
     <!--EN: symbolizes->reminds the viewer of-->
     <li>symbolizes-&gt;提醒观看者</li>
     <!--EN: symbolizes->conveys the emotions of-->
-    <li>symbolizes-&gt;传达的情感</li>
+    <li>symbolizes-&gt;传达着</li>
     <!--EN: symbolizes->makes the viewer think of-->
     <li>symbolizes-&gt;让观看者想到</li>
     <!--EN: symbolizes->represents the artist's-->
-    <li>symbolizes-&gt;代表艺术家的</li>
+    <li>symbolizes-&gt;代表着艺术家的</li>
     <!--EN: symbolizes->suggests the concept of-->
-    <li>symbolizes-&gt;提出了以下概念：</li>
+    <li>symbolizes-&gt;提出了</li>
     <!--EN: artstyle_adj->earthy and organic-->
-    <li>artstyle_adj-&gt;朴实有机</li>
+    <li>artstyle_adj-&gt;庸俗但统一的</li>
     <!--EN: artstyle_adj->primitive-->
-    <li>artstyle_adj-&gt;原语</li>
+    <li>artstyle_adj-&gt;原始的</li>
     <!--EN: artstyle_adj->raw and natural-->
-    <li>artstyle_adj-&gt;原始而自然</li>
+    <li>artstyle_adj-&gt;原始且天然的</li>
     <!--EN: artstyle_adj->geometric-->
-    <li>artstyle_adj-&gt;几何</li>
+    <li>artstyle_adj-&gt;几何的</li>
     <!--EN: artstyle_adj->richly textured-->
-    <li>artstyle_adj-&gt;纹理丰富</li>
+    <li>artstyle_adj-&gt;质感丰富的</li>
     <!--EN: artstyle_adj->simple yet profound-->
-    <li>artstyle_adj-&gt;简单而深刻</li>
+    <li>artstyle_adj-&gt;简单而又深奥的</li>
     <!--EN: artstyle_adj->intricate and detailed-->
-    <li>artstyle_adj-&gt;复杂而详细</li>
+    <li>artstyle_adj-&gt;复杂且详细的</li>
     <!--EN: artstyle_adj->filled with swirling patterns-->
-    <li>artstyle_adj-&gt;充满漩涡图案</li>
+    <li>artstyle_adj-&gt;充满了旋动图案的</li>
     <!--EN: artstyle_adj->abstract and symbolic-->
-    <li>artstyle_adj-&gt;抽象和象征</li>
+    <li>artstyle_adj-&gt;抽象与符号化的</li>
     <!--EN: artstyle_adj->vibrant and lively-->
-    <li>artstyle_adj-&gt;充满活力、活泼</li>
+    <li>artstyle_adj-&gt;热烈且鲜艳的</li>
     <!--EN: artstyle_adj->subtle and serene-->
-    <li>artstyle_adj-&gt;微妙而宁静</li>
+    <li>artstyle_adj-&gt;巧妙且平静的</li>
     <!--EN: artstyle_adj->gritty and earthy-->
-    <li>artstyle_adj-&gt;坚韧而朴实</li>
+    <li>artstyle_adj-&gt;真实且粗俗的</li>
     <!--EN: artstyle_adj->bold and dynamic-->
-    <li>artstyle_adj-&gt;大胆而充满活力</li>
+    <li>artstyle_adj-&gt;大胆且动态的</li>
     <!--EN: artstyle_adj->harmonious and balanced-->
-    <li>artstyle_adj-&gt;和谐平衡</li>
+    <li>artstyle_adj-&gt;和谐且均衡的</li>
     <!--EN: artstyle_adj->textured and tactile-->
-    <li>artstyle_adj-&gt;质感和触觉</li>
+    <li>artstyle_adj-&gt;粗糙且有触感的</li>
     <!--EN: artstyle_adj->spiritually resonant-->
-    <li>artstyle_adj-&gt;精神上的共鸣</li>
+    <li>artstyle_adj-&gt;能引起精神共鸣的</li>
     <!--EN: ConceptAny->the cycle of life and death-->
-    <li>ConceptAny-&gt;生与死的循环</li>
+    <li>ConceptAny-&gt;生死循环</li>
     <!--EN: ConceptAny->communion with nature-->
-    <li>ConceptAny-&gt;与自然交流</li>
+    <li>ConceptAny-&gt;与自然交融</li>
     <!--EN: ConceptAny->the spiritual connection between man and the cosmos-->
-    <li>ConceptAny-&gt;人与宇宙的精神联系</li>
+    <li>ConceptAny-&gt;人与宇宙间的灵性关系</li>
     <!--EN: ConceptAny->the harmony of the natural world-->
-    <li>ConceptAny-&gt;自然世界的和谐</li>
+    <li>ConceptAny-&gt;自然界的和谐</li>
     <!--EN: ConceptAny->ancient rituals and ceremonies-->
-    <li>ConceptAny-&gt;古代仪式和仪式</li>
+    <li>ConceptAny-&gt;远古仪式与典礼</li>
     <!--EN: ConceptAny->mythical narratives-->
-    <li>ConceptAny-&gt;神话故事</li>
+    <li>ConceptAny-&gt;神话传说</li>
     <!--EN: ConceptAny->the complexities of human existence-->
     <li>ConceptAny-&gt;人类存在的复杂性</li>
     <!--EN: ConceptAny->the mysticism of ancient civilizations-->
-    <li>ConceptAny-&gt;古代文明的神秘主义</li>
+    <li>ConceptAny-&gt;古老文明的神秘性</li>
     <!--EN: ConceptAny->the mysteries of the cosmos-->
-    <li>ConceptAny-&gt;宇宙的奥秘</li>
+    <li>ConceptAny-&gt;宇宙奥秘</li>
     <!--EN: ConceptAny->the interconnectedness of life-->
-    <li>ConceptAny-&gt;生活的相互联系</li>
+    <li>ConceptAny-&gt;生命之间的相互关联</li>
     <!--EN: ConceptAny->the cycle of seasons-->
-    <li>ConceptAny-&gt;季节的循环</li>
+    <li>ConceptAny-&gt;季节更替</li>
     <!--EN: ConceptAny->ancient storytelling-->
-    <li>ConceptAny-&gt;古代讲故事</li>
+    <li>ConceptAny-&gt;远古叙事</li>
     <!--EN: ConceptAny->the wonders of nature-->
-    <li>ConceptAny-&gt;大自然的奇观</li>
+    <li>ConceptAny-&gt;自然奇迹</li>
     <!--EN: ConceptAny->sacred geometry-->
     <li>ConceptAny-&gt;神圣几何学</li>
     <!--EN: ConceptAny->spiritual awakening-->
-    <li>ConceptAny-&gt;精神觉醒</li>
+    <li>ConceptAny-&gt;灵性觉醒</li>
     <!--EN: activity->a ritual dance-->
     <li>activity-&gt;仪式舞蹈</li>
     <!--EN: activity->a hunting scene-->
     <li>activity-&gt;狩猎场景</li>
     <!--EN: activity->a gathering or celebration-->
-    <li>activity-&gt;聚会或庆祝活动</li>
+    <li>activity-&gt;庆典集会</li>
     <!--EN: activity->agricultural activities-->
     <li>activity-&gt;农业活动</li>
     <!--EN: activity->an ancestral ceremony-->
-    <li>activity-&gt;祭祖仪式</li>
+    <li>activity-&gt;先祖典礼</li>
     <!--EN: activity->a storytelling session-->
-    <li>activity-&gt;讲故事环节</li>
+    <li>activity-&gt;说书环节</li>
     <!--EN: activity->a spiritual ceremony-->
-    <li>activity-&gt;精神仪式</li>
+    <li>activity-&gt;灵性典礼</li>
     <!--EN: activity->a scene of barter or trade-->
-    <li>activity-&gt;以物易物或贸易的场景</li>
+    <li>activity-&gt;贸易场景</li>
     <!--EN: activity->a moment of community bonding-->
-    <li>activity-&gt;a 时刻 社区联系</li>
+    <li>activity-&gt;社群联合时刻</li>
     <!--EN: activity->a group engaged in artistic creation-->
-    <li>activity-&gt;从事艺术创作的团体</li>
+    <li>activity-&gt;艺创群体</li>
     <!--EN: Community->a Neolithic village-->
-    <li>Community-&gt;一个新石器时代的村庄</li>
+    <li>Community-&gt;一座石器时代村庄</li>
     <!--EN: Community->an ancient gathering space-->
-    <li>Community-&gt;古老的聚会空间</li>
+    <li>Community-&gt;一处远古集结地</li>
     <!--EN: Community->a primitive settlement-->
-    <li>Community-&gt;原始聚居地</li>
+    <li>Community-&gt;一个原始定居点</li>
     <!--EN: Community->a bustling marketplace-->
-    <li>Community-&gt;熙熙攘攘的市场</li>
+    <li>Community-&gt;一个人来人往的市场</li>
     <!--EN: Community->a sacred ritual site-->
-    <li>Community-&gt;神圣的仪式场所</li>
+    <li>Community-&gt;一个神圣的仪式场所</li>
     <!--EN: Community->a fertile agricultural land-->
-    <li>Community-&gt;肥沃的农田</li>
+    <li>Community-&gt;一片肥沃的农田</li>
     <!--EN: Community->a vibrant gathering of tribes-->
-    <li>Community-&gt;充满活力的部落聚会</li>
+    <li>Community-&gt;一场活跃的部落集会</li>
     <!--EN: TerrainFeature->a water body-->
-    <li>TerrainFeature-&gt;水体</li>
+    <li>TerrainFeature-&gt;水域</li>
     <!--EN: TerrainFeature->a mountainous backdrop-->
-    <li>TerrainFeature-&gt;山区背景</li>
+    <li>TerrainFeature-&gt;巨大背景</li>
     <!--EN: TerrainFeature->a dense forest-->
-    <li>TerrainFeature-&gt;茂密的森林</li>
+    <li>TerrainFeature-&gt;密林</li>
     <!--EN: TerrainFeature->a field with wild flora-->
-    <li>TerrainFeature-&gt;一片长满野生植物的田野</li>
+    <li>TerrainFeature-&gt;蔓生之地</li>
     <!--EN: TerrainFeature->a sprawling plain-->
-    <li>TerrainFeature-&gt;广阔的平原</li>
+    <li>TerrainFeature-&gt;宽阔平原</li>
     <!--EN: TerrainFeature->a serene riverbank-->
-    <li>TerrainFeature-&gt;宁静的河岸</li>
+    <li>TerrainFeature-&gt;寂静河畔</li>
     <!--EN: TerrainFeature->a vibrant oasis-->
-    <li>TerrainFeature-&gt;充满活力的绿洲</li>
+    <li>TerrainFeature-&gt;盎然绿洲</li>
     <!--EN: TerrainFeature->a sacred grove-->
-    <li>TerrainFeature-&gt;神圣的树林</li>
+    <li>TerrainFeature-&gt;圣洁树林</li>
     <!--EN: Quantity_adjphrase->a plethora of-->
-    <li>Quantity_adjphrase-&gt;大量</li>
+    <li>Quantity_adjphrase-&gt;过多的</li>
     <!--EN: Quantity_adjphrase->a few scattered-->
-    <li>Quantity_adjphrase-&gt;一些零散的</li>
+    <li>Quantity_adjphrase-&gt;几个</li>
     <!--EN: Quantity_adjphrase->numerous intertwined-->
-    <li>Quantity_adjphrase-&gt;无数交织在一起</li>
+    <li>Quantity_adjphrase-&gt;无数紧密相连的</li>
     <!--EN: Quantity_adjphrase->an array of-->
-    <li>Quantity_adjphrase-&gt;数组</li>
+    <li>Quantity_adjphrase-&gt;一群</li>
     <!--EN: Quantity_adjphrase->a harmonious array of-->
-    <li>Quantity_adjphrase-&gt;和谐的阵列</li>
+    <li>Quantity_adjphrase-&gt;一群和谐的</li>
     <!--EN: Quantity_adjphrase->a vibrant collection of-->
-    <li>Quantity_adjphrase-&gt;充满活力的集合</li>
+    <li>Quantity_adjphrase-&gt;一些活跃的</li>
     <!--EN: Quantity_adjphrase->a detailed depiction of several-->
-    <li>Quantity_adjphrase-&gt;几个细节的详细描述</li>
+    <li>Quantity_adjphrase-&gt;几个描绘详细的</li>
     <!--EN: Quantity_adjphrase->an abstract representation of many-->
-    <li>Quantity_adjphrase-&gt;许多的抽象表示</li>
+    <li>Quantity_adjphrase-&gt;许多外表抽象的</li>
   </VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
 </LanguageData>

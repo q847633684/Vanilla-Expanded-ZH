@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: singing shanties-->
-  <VFEP_Speech_Shanties.label>不和谐</VFEP_Speech_Shanties.label>
+  <VFEP_Speech_Shanties.label>水手欢歌</VFEP_Speech_Shanties.label>
   <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].-->
-    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] [target] 的 [PersonalCharacteristic]。</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef][spokeof][speechtopic]。</li>
     <!--EN: speechtopic->searching for [Vegetable]s to avoid scurvy-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] 将 [target] 与 [insultcomparison] 进行比较。</li>
+    <li>speechtopic-&gt;寻找[Vegetable]以避免患上坏血病</li>
     <!--EN: speechtopic->how to be [AdjectiveFriendly] while pillaging your enemies-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] 称为 [target] 和 [insultcomparison]。</li>
+    <li>speechtopic-&gt;如何在劫掠敌人时保持[AdjectiveFriendly]</li>
     <!--EN: speechtopic->using [AnimalBadass]s as a protein source-->
-    <li>target(p=4)-&gt;[RECIPIENT_nameDef]</li>
+    <li>speechtopic-&gt;利用[AnimalBadass]当做蛋白质来源</li>
     <!--EN: speechtopic->how [Game] trains you to act as a crew-->
-    <li>target-&gt;[RECIPIENT_nameDef] 的 [PersonFamily]</li>
+    <li>speechtopic-&gt;[Game]是怎样把你训练成一名船员的</li>
     <!--EN: speechtopic->using [Weapon] in a raid-->
-    <li>insulted(p=3)-&gt;被侮辱</li>
+    <li>speechtopic-&gt;在袭击中使用[Weapon]</li>
     <!--EN: speechtopic->pillaging through [TerrainFeature]s and [TerrainFeature]s-->
-    <li>insulted-&gt;公开侮辱</li>
+    <li>speechtopic-&gt;穿过[TerrainFeature]和[TerrainFeature]以进行掠夺</li>
     <!--EN: speechtopic->how in a crew all are [PersonFamily]s and [PersonFamily]s-->
-    <li>insulted-&gt;大声侮辱</li>
+    <li>speechtopic-&gt;船员们都是[PersonFamily]和[PersonFamily]</li>
     <!--EN: speechtopic->the need for [PersonJob]s in a crew-->
-    <li>insulted-&gt;公然侮辱</li>
+    <li>speechtopic-&gt;船员们对[PersonJob]的需求</li>
     <!--EN: speechtopic->confronting [PersonBadass]s-->
-    <li>insulted-&gt;直接侮辱</li>
+    <li>speechtopic-&gt;面对[PersonBadass]</li>
     <!--EN: speechtopic->defeating [Enemy]s through sticking together-->
-    <li>insulted-&gt;恶意侮辱</li>
+    <li>speechtopic-&gt;团结一心，打败[Enemy]</li>
     <!--EN: speechtopic->relishing [Gore] during combat-->
-    <li>insulted-&gt;公然不尊重</li>
+    <li>speechtopic-&gt;在战斗中享受[Gore]</li>
     <!--EN: speechtopic->the meaning of camaraderie-->
-    <li>insulted-&gt;诽谤</li>
+    <li>speechtopic-&gt;兄弟情谊的意义</li>
     <!--EN: speechtopic->the comradeship of the crew-->
-    <li>insulted-&gt;谩骂</li>
+    <li>speechtopic-&gt;船员们的兄弟情谊</li>
     <!--EN: speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]-->
-    <li>insulted-&gt;嘲笑</li>
+    <li>speechtopic-&gt;如何变得[AdjectiveBadass]而不是[AdjectiveBadass]</li>
     <!--EN: speechtopic->how [AdjectiveBadass] the crew is-->
-    <li>insultcomparison(p=2)-&gt;[Animal]</li>
+    <li>speechtopic-&gt;船员是怎样[AdjectiveBadass]的</li>
     <!--EN: speechtopic->[AdjectiveNatural] [TerrainFeature]s-->
-    <li>insultcomparison-&gt;[Enemy]</li>
+    <li>speechtopic-&gt;[AdjectiveNatural][TerrainFeature]</li>
     <!--EN: speechtopic->the crew's [AdjectiveLarge] potential-->
-    <li>rubbedpart-&gt;脚</li>
+    <li>speechtopic-&gt;船员们[AdjectiveLarge]的潜力</li>
     <!--EN: speechtopic->the [PersonalCharacteristic] of every crewmember-->
-    <li>rubbedpart-&gt;肘部</li>
+    <li>speechtopic-&gt;每名船员的[PersonalCharacteristic]</li>
     <!--EN: speechtopic->the terrible [PersonalCharacteristic] of the crew's enemies-->
-    <li>rubbedpart-&gt;臀部</li>
+    <li>speechtopic-&gt;敌人们可怕的[PersonalCharacteristic]</li>
     <!--EN: speechtopic(p=0.25)->sticking together as group-->
-    <li>rubbedpart-&gt;肩膀</li>
+    <li>speechtopic(p=0.25)-&gt;团结一心</li>
     <!--EN: speechtopic(p=0.25)->the path forward through tragedy, sticking together as a crew-->
-    <li>rubbedpart-&gt;手</li>
+    <li>speechtopic(p=0.25)-&gt;团结一心，砥砺前行</li>
     <!--EN: speechtopic(p=0.25)->the crew and its importance-->
-    <li>rubbedpart-&gt;侧</li>
+    <li>speechtopic(p=0.25)-&gt;船员存在的必要性</li>
     <!--EN: speechtopic(p=0.25)->survival of the strongest-->
-    <li>rubbedpart-&gt;手臂</li>
+    <li>speechtopic(p=0.25)-&gt;适者生存</li>
     <!--EN: speechtopic(p=0.25)->triumph through shared hardship-->
-    <li>animalthings-&gt;激光眼科手术的伦理</li>
+    <li>speechtopic(p=0.25)-&gt;同甘共苦</li>
     <!--EN: speechtopic(p=0.25)->death of your enemies as a motivator-->
-    <li>animalthings-&gt;决策的宗教、神学、精神和道德分析</li>
+    <li>speechtopic(p=0.25)-&gt;敌人的死亡也是一种动力</li>
     <!--EN: speechtopic(p=0.25)->strong hands and hearts, working together-->
-    <li>animalthings-&gt;为什么电话窃听很重要</li>
+    <li>speechtopic(p=0.25)-&gt;团结一心，无惧险阻</li>
     <!--EN: speechtopic(p=0.25)->the right to survive and defeat those who are weaker-->
-    <li>animalthings-&gt;一次涉及积极态度的尴尬经历</li>
+    <li>speechtopic(p=0.25)-&gt;活着并打败弱者的正当性</li>
   </VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
 </LanguageData>

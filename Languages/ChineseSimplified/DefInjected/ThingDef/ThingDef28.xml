@@ -1,65 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A doorway with a gate easy enough to open so that it can be pushed open by animals. It allows animals to pass, but doesn’t insulate the room. Animal gates are often used as barn entrances in warmer climates.-->
-  <VFEArch_AnimalGate.description>带有易于打开的门的门口，动物可以将其推开。它允许动物通过，但不会隔离房间。在温暖的气候下，动物门通常用作谷仓入口。</VFEArch_AnimalGate.description>
+  <VFEArch_AnimalGate.description>一种可以被动物推开的门，它允许动物通过，但不能分隔房间。在气候温暖的地方通常被用作畜棚的门，给圈养的动物提供一个遮蔽的睡眠场所。</VFEArch_AnimalGate.description>
   <!--EN: animal gate-->
   <VFEArch_AnimalGate.label>动物门</VFEArch_AnimalGate.label>
   <!--EN: Divides rooms. Armored doors must be manually opened, which slows people down. Armored doors are nearly entirely blast resistant and barely take damage from breaching methods.-->
-  <VFEArch_ArmoredDoor.description>划分房间。装甲门必须手动打开，这会减慢人们的速度。装甲门几乎完全抗爆炸，几乎不会因破坏方法而损坏。</VFEArch_ArmoredDoor.description>
+  <VFEArch_ArmoredDoor.description>分隔房间。只能手动开关，会减慢人的速度。装甲门几乎完全免疫爆炸伤害与任何种类的破墙武器。</VFEArch_ArmoredDoor.description>
   <!--EN: armored door-->
   <VFEArch_ArmoredDoor.label>装甲门</VFEArch_ArmoredDoor.label>
   <!--EN: An impassable, heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools.-->
-  <VFEArch_ArmoredWall.description>一堵无法逾越的厚墙，有着多层装甲。几乎完全抵抗爆炸物和任何破坏工具。</VFEArch_ArmoredWall.description>
+  <VFEArch_ArmoredWall.description>一面用多重护甲加固过的重墙。几乎完全免疫爆炸伤害与任何种类的破墙武器。</VFEArch_ArmoredWall.description>
   <!--EN: armored wall-->
   <VFEArch_ArmoredWall.label>装甲墙</VFEArch_ArmoredWall.label>
   <!--EN: A brick fence made tall brick pillars and a short fence in between them, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.-->
-  <VFEArch_BrickFence.description>砖栅栏由高大的砖柱组成，柱子之间有一个短栅栏，用于为某些动物建造围栏。有些动物可以越过栅栏。掠食者不会猎杀栅栏另一边的生物，但仍可能在栅栏内徘徊。</VFEArch_BrickFence.description>
+  <VFEArch_BrickFence.description>一种用石砖砌成的栅栏，用于为某些种类的动物建造围栏。有些种类的动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在里面徘徊。</VFEArch_BrickFence.description>
   <!--EN: brick fence-->
-  <VFEArch_BrickFence.label>砖栅栏</VFEArch_BrickFence.label>
+  <VFEArch_BrickFence.label>石砖栅栏</VFEArch_BrickFence.label>
   <!--EN: A slow moving door that separates two rooms. Cell doors cannot be attacked by prisoners.-->
-  <VFEArch_CellDoor.description>一扇缓慢移动的门将两个房间分开。囚犯不能攻击牢房门。</VFEArch_CellDoor.description>
+  <VFEArch_CellDoor.description>分隔房间。只能手动开关，会减慢人的速度。监狱门不会被囚犯攻击。</VFEArch_CellDoor.description>
   <!--EN: cell door-->
-  <VFEArch_CellDoor.label>牢房门</VFEArch_CellDoor.label>
+  <VFEArch_CellDoor.label>监狱门</VFEArch_CellDoor.label>
   <!--EN: An impassable wall consisting of prison bars. Cannot be attacked by prisoners.-->
-  <VFEArch_CellWall.description>由监狱铁栅组成的无法逾越的墙。不能被囚犯攻击。</VFEArch_CellWall.description>
+  <VFEArch_CellWall.description>一面无法通过的监狱墙。监狱墙不会被囚犯攻击。</VFEArch_CellWall.description>
   <!--EN: cell wall-->
-  <VFEArch_CellWall.label>细胞壁</VFEArch_CellWall.label>
+  <VFEArch_CellWall.label>监狱墙</VFEArch_CellWall.label>
   <!--EN: A metal fence made of posts joined by chain link sheets used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.-->
-  <VFEArch_ChainlinkFence.description>由链链接板连接的柱子制成的金属栅栏，用于为某些种类的动物建造围栏。有些动物可以越过栅栏。掠食者不会猎杀栅栏另一边的生物，但仍可能在栅栏内徘徊。</VFEArch_ChainlinkFence.description>
+  <VFEArch_ChainlinkFence.description>一种由柱子和铁丝网连接而成的金属栅栏，用于为某些种类的动物建造围栏。有些种类的动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在里面徘徊。</VFEArch_ChainlinkFence.description>
   <!--EN: chain link fence-->
-  <VFEArch_ChainlinkFence.label>链条链接围栏</VFEArch_ChainlinkFence.label>
+  <VFEArch_ChainlinkFence.label>铁丝网栅栏</VFEArch_ChainlinkFence.label>
   <!--EN: A beautiful, impassable wall. Capable of holding up a roof.-->
-  <VFEArch_FineWall.description>一堵美丽的、无法逾越的墙。能撑起屋顶。</VFEArch_FineWall.description>
+  <VFEArch_FineWall.description>一面无法通过的精致墙。可以支撑起屋顶。</VFEArch_FineWall.description>
   <!--EN: fine wall-->
-  <VFEArch_FineWall.label>细墙</VFEArch_FineWall.label>
+  <VFEArch_FineWall.label>精致墙</VFEArch_FineWall.label>
   <!--EN: An impassable wall made out of fake hedge. Very flammable.-->
-  <VFEArch_HedgeWall.description>一堵由假树篱制成的无法逾越的墙。非常易燃。</VFEArch_HedgeWall.description>
+  <VFEArch_HedgeWall.description>一面无法通过的假篱笆墙。非常易燃。</VFEArch_HedgeWall.description>
   <!--EN: hedge wall-->
-  <VFEArch_HedgeWall.label>树篱墙</VFEArch_HedgeWall.label>
+  <VFEArch_HedgeWall.label>篱笆墙</VFEArch_HedgeWall.label>
   <!--EN: An invisible fence, for players wanting to create their own pens without fences, or to make it so that rivers or trees act as fence barriers. Does not have any path cost - thus not slowing down pawns wanting to traverse through it.-->
-  <VFEArch_InvisibleFence.description>一个隐形栅栏，适合那些想要创建自己的没有栅栏的围栏的玩家，或者让河流或树木充当栅栏屏障的玩家。没有任何路径成本 - 因此不会减慢想要穿过它的棋子。</VFEArch_InvisibleFence.description>
+  <VFEArch_InvisibleFence.description>一种隐形的栅栏，适合想要创建“没有栅栏”的栅栏的玩家，或者让河流或树木充当栅栏屏障的玩家。不会减慢想要越过的殖民者的速度。</VFEArch_InvisibleFence.description>
   <!--EN: invisible fence-->
   <VFEArch_InvisibleFence.label>隐形栅栏</VFEArch_InvisibleFence.label>
   <!--EN: A wall of horizontally placed wooden logs, for this nice, homely feeling. Capable of holding up a roof.-->
-  <VFEArch_LogWall.description>水平放置的原木墙营造出一种美好、温馨的感觉。能撑起屋顶。</VFEArch_LogWall.description>
+  <VFEArch_LogWall.description>一面由水平摆放的原木筑成的墙，营造出一种温馨、如家的感觉。可以支撑起屋顶。</VFEArch_LogWall.description>
   <!--EN: log wall-->
-  <VFEArch_LogWall.label>木墙</VFEArch_LogWall.label>
+  <VFEArch_LogWall.label>原木墙</VFEArch_LogWall.label>
   <!--EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.-->
-  <VFEArch_LowFence.description>由柱子和横杆连接而成的栅栏，用于为某些动物建造围栏。有些动物可以越过栅栏。掠食者不会猎杀栅栏另一边的生物，但仍可能在栅栏内徘徊。</VFEArch_LowFence.description>
+  <VFEArch_LowFence.description>一种由柱子和横杆连接而成的栅栏，用于为某些种类的动物建造围栏。有些种类的动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在里面徘徊。</VFEArch_LowFence.description>
   <!--EN: low fence-->
-  <VFEArch_LowFence.label>低栅栏</VFEArch_LowFence.label>
+  <VFEArch_LowFence.label>矮栅栏</VFEArch_LowFence.label>
   <!--EN: A fence made of posts joined by vertical wooden boards called pickets, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.
 	
 Picket fences are considerably more beautiful than alternatives, and evoke a nice, homely feeling.-->
-  <VFEArch_PicketFence.description>由称为桩的垂直木板连接的柱子制成的栅栏，用于为某些种类的动物建造围栏。有些动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在栅栏内徘徊。
- 
-尖桩篱笆比其他栅栏漂亮得多，并给人一种美好、温馨的感觉。</VFEArch_PicketFence.description>
+  <VFEArch_PicketFence.description>一种由尖桩连接而成的栅栏，用于为某些种类的动物建造围栏。有些种类的动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在里面徘徊。\n\n尖桩栅栏比其他栅栏漂亮得多，并能唤起一种亲切、温馨的感觉。</VFEArch_PicketFence.description>
   <!--EN: picket fence-->
-  <VFEArch_PicketFence.label>尖桩篱栅</VFEArch_PicketFence.label>
+  <VFEArch_PicketFence.label>尖桩栅栏</VFEArch_PicketFence.label>
   <!--EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown does not depend on what the door is made of.-->
-  <VFEArch_SingleDoor.description>划分房间。简单的门必须手动打开，这减慢了人们的速度。减速的程度并不取决于门的材质。</VFEArch_SingleDoor.description>
+  <VFEArch_SingleDoor.description>分隔房间。只能手动开关，会减慢人的速度。到底有多慢取决于门的材质。</VFEArch_SingleDoor.description>
   <!--EN: single door-->
-  <VFEArch_SingleDoor.label>单门</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor.label>单拉门</VFEArch_SingleDoor.label>
   <!--EN: single door (flipped)-->
-  <VFEArch_SingleDoor_Flipped.label>单门（翻转）</VFEArch_SingleDoor_Flipped.label>
+  <VFEArch_SingleDoor_Flipped.label>单拉门（反向）</VFEArch_SingleDoor_Flipped.label>
 </LanguageData>

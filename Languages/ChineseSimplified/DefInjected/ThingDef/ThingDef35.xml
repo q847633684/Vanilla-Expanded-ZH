@@ -17,7 +17,7 @@
   <!--EN: shockmine-->
   <VEFS_TrapShockmine.label>冲击地雷</VEFS_TrapShockmine.label>
   <!--EN: A small ammunition box that improves the reload speed of everyone nearby. Will explode if damaged.-->
-  <VFES_AmmoCrate.description>一个小弹药箱，可以提高附近每个人的装填速度。如果损坏会爆炸。</VFES_AmmoCrate.description>
+  <VFES_AmmoCrate.description>一种用来存放子弹的箱子。提高周围士兵的射击速度。</VFES_AmmoCrate.description>
   <!--EN: ammo box-->
   <VFES_AmmoCrate.label>弹药箱</VFES_AmmoCrate.label>
   <!--EN: Artillery launcher. Lobs bombs over walls. Accurate and long-ranged.-->
@@ -25,23 +25,23 @@
   <!--EN: artillery gun-->
   <VFES_Artillery_ArtilleryGun.label>火炮</VFES_Artillery_ArtilleryGun.label>
   <!--EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants.-->
-  <VFES_Artillery_Catapult.description>一种弹道装置，用于在不借助火药或其他推进剂的情况下将射弹发射很远的距离。</VFES_Artillery_Catapult.description>
+  <VFES_Artillery_Catapult.description>一种无须借助火药就能将石块投射至远处的弹射装置。作为一种战争利器，投石机的使用历史漫长而广泛。</VFES_Artillery_Catapult.description>
   <!--EN: catapult-->
-  <VFES_Artillery_Catapult.label>弹射</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.label>投石机</VFES_Artillery_Catapult.label>
   <!--EN: A razor wire fence consisting of sharp edges and points arranged at intervals. Not only does it slow down movement of enemies, it also inflicts cuts and puncture wounds. Razor wire will block certain kinds of animals the same way that fences do.-->
-  <VFES_BarbedWire.description>由锋利的边缘和间隔排列的点组成的刀片刺网栅栏。它不仅会减慢敌人的移动速度，还会造成割伤和刺伤。刀片刺网会像栅栏一样阻挡某些种类的动物。</VFES_BarbedWire.description>
+  <VFES_BarbedWire.description>一种钢制围栏线，由锋利的边缘和间隔排列的尖刺组成。它不仅可以减缓敌人的行动，而且还会造成割伤和刺伤。</VFES_BarbedWire.description>
   <!--EN: razor wire-->
-  <VFES_BarbedWire.label>刀片刺网</VFES_BarbedWire.label>
+  <VFES_BarbedWire.label>尖刺铁丝网</VFES_BarbedWire.label>
   <!--EN: Two heavy metal jaws held open under tension, connected to a pressure-sensitive trigger. When stepped on, the jaws snap shut with high force, inflicting severe damage. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. When triggered, it can be re-armed.-->
-  <VFES_BearTrap.description>两个沉重的金属钳口在张力下保持打开状态，连接到压力敏感触发器。当被踩到时，钳口会用强大的力量猛地闭合，造成严重的伤害。由于它隐藏在周围地形中，因此不能将其放置在与其他陷阱相邻的位置。触发后，可以重新武装。</VFES_BearTrap.description>
+  <VFES_BearTrap.description>一组被拉紧的尖刺，连接到一个触发装置上。当受害者触发时，尖刺就会弹出来，通常会击中他们的腿或脚。对体积小的动物是无害的，而太大的动物会碾碎这个陷阱。由于它隐藏在周围地形中，因此不能与其他陷阱相邻。</VFES_BearTrap.description>
   <!--EN: bear trap-->
-  <VFES_BearTrap.label>熊陷阱</VFES_BearTrap.label>
+  <VFES_BearTrap.label>捕熊陷阱</VFES_BearTrap.label>
   <!--EN: ballista bolt-->
-  <VFES_Bullet_Ballista.label>弩炮</VFES_Bullet_Ballista.label>
+  <VFES_Bullet_Ballista.label>弩箭</VFES_Bullet_Ballista.label>
   <!--EN: massive boulder-->
   <VFES_Bullet_Catapult.label>巨大的巨石</VFES_Bullet_Catapult.label>
   <!--EN: charge shot-->
-  <VFES_Bullet_ChargeComplex.label>冲锋</VFES_Bullet_ChargeComplex.label>
+  <VFES_Bullet_ChargeComplex.label>电荷弹</VFES_Bullet_ChargeComplex.label>
   <!--EN: charge railgun shot-->
   <VFES_Bullet_ChargeRailgunShot.label>充电轨道炮射击</VFES_Bullet_ChargeRailgunShot.label>
   <!--EN: charge shot-->
@@ -51,9 +51,9 @@
   <!--EN: HMG bullet-->
   <VFES_Bullet_HMG.label>重机枪子弹</VFES_Bullet_HMG.label>
   <!--EN: A row of sharpened spikes laid low across the ground. Designed to maim or cripple those who attempt to charge through, especially fast-moving animals or mounted units. Can be placed next to other cavalry spikes. Upon being triggered, cavalry spikes will need to be rebuilt.-->
-  <VFES_CavalrySpikes.description>一排锋利的尖刺低低地铺在地面上。旨在使那些试图冲锋的人致残或瘫痪，尤其是快速移动的动物或骑乘单位。可以放置在其他骑兵尖刺旁边。一旦被触发，骑兵尖刺将需要重建。</VFES_CavalrySpikes.description>
+  <VFES_CavalrySpikes.description>排成一排的木桩，是一种防御工事。建造起来既便宜又快捷，提供了基本的掩护，并对试图穿越它们的人造成伤害。</VFES_CavalrySpikes.description>
   <!--EN: cavalry spikes-->
-  <VFES_CavalrySpikes.label>骑兵尖刺</VFES_CavalrySpikes.label>
+  <VFES_CavalrySpikes.label>拒马</VFES_CavalrySpikes.label>
   <!--EN: A self-loading minigun designed to be attached to a turret.-->
   <VFES_ComplexCharge_Top.description>设计用于安装在炮塔上的自动装填转轮机枪。</VFES_ComplexCharge_Top.description>
   <!--EN: minigun-->
@@ -91,13 +91,13 @@
   <!--EN: military turret gun-->
   <VFES_Gun_ArmoredTurret.label>军事炮塔炮</VFES_Gun_ArmoredTurret.label>
   <!--EN: An ancient military siege engine in a form of a crossbow mounted on a wooden construct.-->
-  <VFES_Gun_BallistaTurret.description>一种古老的军事攻城器械，其形式为安装在木制结构上的十字弓。</VFES_Gun_BallistaTurret.description>
+  <VFES_Gun_BallistaTurret.description>弩炮所使用的弩箭。</VFES_Gun_BallistaTurret.description>
   <!--EN: ballista-->
-  <VFES_Gun_BallistaTurret.label>弩炮</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.label>弩箭</VFES_Gun_BallistaTurret.label>
   <!--EN: A charge rifle made to be mounted on a turret.-->
-  <VFES_Gun_ChargeTurret.description>一种安装在炮塔上的冲锋步枪。</VFES_Gun_ChargeTurret.description>
+  <VFES_Gun_ChargeTurret.description>安装在炮塔上的电荷枪。</VFES_Gun_ChargeTurret.description>
   <!--EN: charged turret gun-->
-  <VFES_Gun_ChargeTurret.label>带电炮塔炮</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.label>电荷枪</VFES_Gun_ChargeTurret.label>
   <!--EN: A simple automatic gun made to be mounted on a turret.-->
   <VFES_Gun_ConcealedTurret.description>一种安装在炮塔上的简单自动枪。</VFES_Gun_ConcealedTurret.description>
   <!--EN: concealed turret gun-->
@@ -105,21 +105,21 @@
   <!--EN: A flamethrower made to be mounted on a turret.-->
   <VFES_Gun_FlameTurret.description>安装在炮塔上的火焰喷射器。</VFES_Gun_FlameTurret.description>
   <!--EN: flame turret gun-->
-  <VFES_Gun_FlameTurret.label>火焰炮塔炮</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.label>火焰喷射器</VFES_Gun_FlameTurret.label>
   <!--EN: A refined automatic gun made to be mounted on a turret.-->
-  <VFES_Gun_MilitaryTurret.description>一种精制的自动枪，安装在炮塔上。</VFES_Gun_MilitaryTurret.description>
+  <VFES_Gun_MilitaryTurret.description>安装在炮塔上的简易双管自动机枪。</VFES_Gun_MilitaryTurret.description>
   <!--EN: military turret gun-->
-  <VFES_Gun_MilitaryTurret.label>军事炮塔炮</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.label>军用双管机枪</VFES_Gun_MilitaryTurret.label>
   <!--EN: A rapid-fire gun for point-defense applications.-->
   <VFES_Gun_PointDefense.description>用于点防御应用的速射枪。</VFES_Gun_PointDefense.description>
   <!--EN: point defense gun-->
   <VFES_Gun_PointDefense.label>点防御枪</VFES_Gun_PointDefense.label>
   <!--EN: An advanced railgun designed to launch electromagnetically accelerated projectiles.-->
-  <VFES_Gun_RailgunTurret.description>一种先进的轨道炮，旨在发射电磁加速弹丸。</VFES_Gun_RailgunTurret.description>
+  <VFES_Gun_RailgunTurret.description>安装在炮塔上的电荷轨道炮。</VFES_Gun_RailgunTurret.description>
   <!--EN: charged turret gun-->
-  <VFES_Gun_RailgunTurret.label>带电炮塔炮</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.label>电荷轨道炮</VFES_Gun_RailgunTurret.label>
   <!--EN: A searchlight for a turret.-->
-  <VFES_Gun_Searchlight.description>炮塔的探照灯。</VFES_Gun_Searchlight.description>
+  <VFES_Gun_Searchlight.description>安装在炮塔上的探照灯。</VFES_Gun_Searchlight.description>
   <!--EN: searchlight-->
   <VFES_Gun_Searchlight.label>探照灯</VFES_Gun_Searchlight.label>
   <!--EN: An automatic shotgun made to be mounted on a turret.-->
@@ -135,7 +135,7 @@
   <!--EN: large repulsor-->
   <VFES_LargeRepulsor.label>大斥力</VFES_LargeRepulsor.label>
   <!--EN: A long, narrow platform. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People on the platform receive a bonus to weapon range, but suffer from lower cover.-->
-  <VFES_Platform.description>一个又长又窄的平台。穿越它需要爬上爬下，因此会显着减慢移动速度。平台上的人会获得武器射程加成，但掩护程度较低。</VFES_Platform.description>
+  <VFES_Platform.description>一个狭长的木制平台。穿越它需要上下攀爬，因此会显着降低移动速度。平台顶部的士兵会获得显着的武器射程加成，但也会因暴露而受到掩护惩罚。</VFES_Platform.description>
   <!--EN: platform-->
   <VFES_Platform.label>平台</VFES_Platform.label>
   <!--EN: An ultratech device that projects a potent energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nRepulsors only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time.-->
@@ -147,13 +147,13 @@
   <!--EN: small repulsor-->
   <VFES_SmallRepulsor.label>小斥力</VFES_SmallRepulsor.label>
   <!--EN: A long, damage-resistant reinforced trench. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. People inside the trench suffer a weapon range penalty, but gain significant cover and protection from explosive damage.-->
-  <VFES_Trench.description>一条长的、抗损坏的加固壕沟。穿越它需要爬上爬下，因此会显着减慢移动速度。战壕内的人们会受到武器射程的影响，但会获得显着的掩护和免受爆炸伤害的保护。</VFES_Trench.description>
+  <VFES_Trench.description>在地上挖的一条又长又窄的沟。穿越时需要上下爬升，因此会明显减慢移动速度。战壕内的士兵遭受武器射程惩罚，但获得了明显的掩护效果。</VFES_Trench.description>
   <!--EN: trench-->
-  <VFES_Trench.label>沟</VFES_Trench.label>
+  <VFES_Trench.label>战壕</VFES_Trench.label>
   <!--EN: A self-loading large-bore double cannon designed to be attached to a turret.-->
-  <VFES_TurretDoubleAutocannon_Top.description>一种自装式大口径双管大炮，设计用于安装在炮塔上。</VFES_TurretDoubleAutocannon_Top.description>
+  <VFES_TurretDoubleAutocannon_Top.description>安装在炮塔上的带有自动供弹机的大口径双管自动加农炮。</VFES_TurretDoubleAutocannon_Top.description>
   <!--EN: double autocannon-->
-  <VFES_TurretDoubleAutocannon_Top.label>双自动炮</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.label>双管自动加农炮</VFES_TurretDoubleAutocannon_Top.label>
   <!--EN: A self-loading minigun designed to be attached to a turret.-->
   <VFES_TurretMinigun_Top.description>设计用于安装在炮塔上的自动装填转轮机枪。</VFES_TurretMinigun_Top.description>
   <!--EN: minigun-->
@@ -167,51 +167,51 @@
   <!--EN: armored turret-->
   <VFES_Turret_ArmoredTurret.label>装甲炮塔</VFES_Turret_ArmoredTurret.label>
   <!--EN: A powerful, manned artillery cannon designed for long-range bombardment. Though it fires slower than a mortar, its improved targeting systems allow for far greater accuracy, making it ideal for precise strikes against enemy structures or high-value targets. Can be crewed by two people to double its firing speed. Capable of providing fire support across the world map, but only on revealed locations.-->
-  <VFES_Turret_Artillery.description>一种强大的有人驾驶火炮大炮，专为远程轰炸而设计。虽然它的发射速度比迫击炮慢，但其改进的瞄准系统可以提供更高的精度，使其成为精确打击敌方建筑物或高价值目标的理想选择。可由两人驾驶，使其射击速度加倍。能够在世界地图上提供火力支援，但仅限于已公开的地点。</VFES_Turret_Artillery.description>
+  <VFES_Turret_Artillery.description>一个发射所有种类炮弹的火炮。这种火炮能够对敌军和建筑物造成毁灭性的破坏，擅长为战场上的士兵提供火力支援。必须有人操纵。受损严重时可能会爆炸。\n\n能够在大地图上轰炸中等距离的目标。</VFES_Turret_Artillery.description>
   <!--EN: artillery-->
-  <VFES_Turret_Artillery.label>炮兵</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.label>火炮</VFES_Turret_Artillery.label>
   <!--EN: A twin-barreled variant of the autocannon turret. While less accurate and slightly shorter-ranged than its single-barreled cousin, it compensates with a high volume of fire. It cannot fire at close-up targets, and may explode when damaged.-->
-  <VFES_Turret_AutocannonDouble.description>自动炮炮塔的双管变体。虽然它的精度不如其单管同类产品，射程也稍短，但它以高火力弥补了这一点。它无法向近距离目标开火，并且损坏后可能会爆炸。</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.description>一种重型双管自动炮塔。它的大口径炮弹能够在可观的攻击范围内对目标造成重创，但它的炮管在使用后必须进行翻新。它不能向近距离的目标开火，并且在损坏时可能会爆炸。</VFES_Turret_AutocannonDouble.description>
   <!--EN: double autocannon turret-->
-  <VFES_Turret_AutocannonDouble.label>双自动炮炮塔</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.label>双管自动加农炮塔</VFES_Turret_AutocannonDouble.label>
   <!--EN: An automated mortar that launches high-explosive shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. Due to a delicate firing mechanism, it's only calibrated to fire high-explosive shells.-->
   <VFES_Turret_AutomatedMortar.description>发射高爆弹炮弹的自动迫击炮。虽然它可以造成毁灭性的伤害，但迫击炮固有的不精确性使其更适合攻击大型防御工事，而不是战场上的敌人群体。由于发射机制精密，它仅被校准为发射高爆弹炮弹。</VFES_Turret_AutomatedMortar.description>
   <!--EN: automated mortar-->
   <VFES_Turret_AutomatedMortar.label>自动化砂浆</VFES_Turret_AutomatedMortar.label>
   <!--EN: An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. Needs to be manned in order to fire.-->
-  <VFES_Turret_Ballista.description>一种古老的军事攻城器械，其形式为安装在木制结构上的弩。从这台机器发射的螺栓在撞击时会爆炸成碎片。需要有人操作才能开火。</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista.description>一种安装在木制结构上的十字弩形的古代军事围攻机械，从这台机器上射出的弩箭撞击目标后会爆炸成碎片。</VFES_Turret_Ballista.description>
   <!--EN: ballista-->
   <VFES_Turret_Ballista.label>弩炮</VFES_Turret_Ballista.label>
   <!--EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare.-->
-  <VFES_Turret_Catapult.description>一种弹道装置，用于在不借助火药或其他推进剂的情况下将射弹发射很远的距离。自古以来使用的弹射器已被证明是战争中最持久有效的机制之一。</VFES_Turret_Catapult.description>
+  <VFES_Turret_Catapult.description>一种无须借助火药就能将石块投射至远处的弹射装置。作为一种战争利器，投石机的使用历史漫长而广泛。</VFES_Turret_Catapult.description>
   <!--EN: catapult-->
-  <VFES_Turret_Catapult.label>弹射</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.label>投石机</VFES_Turret_Catapult.label>
   <!--EN: A cutting-edge, pulse-charged, rail-assisted weapon system that fires a short burst of high-velocity projectiles, energized with unstable plasma as they leave the rail. The resulting shots pierce armor and bodies alike, but the turret requires new plasteel barrel after use. It cannot fire at close range, and may explode when damaged.-->
   <VFES_Turret_ChargeRailgun.description>一种先进的脉冲充电轨道辅助武器系统，可发射短时爆发的高速射弹，当它们离开轨道时，会被不稳定的等离子体所激发。由此产生的子弹会穿透装甲和身体，但炮塔在使用后需要新的塑料枪管。它无法近距离射击，损坏后可能会爆炸。</VFES_Turret_ChargeRailgun.description>
   <!--EN: charge railgun-->
   <VFES_Turret_ChargeRailgun.label>充电磁轨炮</VFES_Turret_ChargeRailgun.label>
   <!--EN: A portable automatic charged-shot turret. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.-->
-  <VFES_Turret_ChargeTurret.description>便携式自动蓄能炮塔。脉冲充电技术在每次射击离开枪管时为其注入不稳定的能量。大量使用后需要塑钢翻新其枪管。损坏时可能会爆炸。它的愚蠢的人工智能大脑无法直接控制，所以要小心友军火力。</VFES_Turret_ChargeTurret.description>
+  <VFES_Turret_ChargeTurret.description>装载先进电荷枪的自动炮塔，利用先进的传感器进行高精度瞄准。长期使用后需要大量的玻璃钢维护炮管。受损严重时可能会爆炸。</VFES_Turret_ChargeTurret.description>
   <!--EN: charge turret-->
-  <VFES_Turret_ChargeTurret.label>充电炮塔</VFES_Turret_ChargeTurret.label>
+  <VFES_Turret_ChargeTurret.label>电荷炮塔</VFES_Turret_ChargeTurret.label>
   <!--EN: A compact automatic turret equipped with retractable armor plating and a submersion mechanism. It is capable of submerging into the ground, becoming impossible to target. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.-->
   <VFES_Turret_Concealed.description>配备可伸缩装甲板和浸没机构的紧凑型自动炮塔。它能够潜入地下，变得无法瞄准。大量使用后需要钢材来翻新其枪管。损坏时可能会爆炸。它的愚蠢的人工智能大脑无法直接控制，所以要小心友军火力。</VFES_Turret_Concealed.description>
   <!--EN: concealed turret-->
   <VFES_Turret_Concealed.label>隐蔽炮塔</VFES_Turret_Concealed.label>
   <!--EN: A portable flamethrower turret, capable of spewing a cone of flame that engulfs enemies and terrain. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.-->
-  <VFES_Turret_Flame.description>便携式火焰喷射器炮塔，能够喷出锥形火焰，吞噬敌人和地形。损坏时可能会爆炸。它的愚蠢的人工智能大脑无法直接控制，所以要小心友军火力。</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.description>便携式喷火炮塔。长期使用后需要大量的钢铁维护炮管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_Flame.description>
   <!--EN: flamer turret-->
-  <VFES_Turret_Flame.label>火焰炮塔</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.label>火舌炮塔</VFES_Turret_Flame.label>
   <!--EN: A refined turret with military-grade stabilization, targeting routines, and hardened casing. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.-->
-  <VFES_Turret_MilitaryTurret.description>精致的炮塔具有军用级稳定性、瞄准程序和硬化外壳。大量使用后需要钢材来翻新其枪管。损坏时可能会爆炸。它的愚蠢的人工智能大脑无法直接控制，所以要小心友军火力。</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.description>军用双管自动机枪塔。长期使用后需要大量的钢铁维护枪管。受损严重时可能会爆炸。由于是人工智能来运行无法被直接控制，所以要小心友军误伤。</VFES_Turret_MilitaryTurret.description>
   <!--EN: military turret-->
-  <VFES_Turret_MilitaryTurret.label>军事炮塔</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.label>军用自动机枪塔</VFES_Turret_MilitaryTurret.label>
   <!--EN: A heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. Requires steel to refurbish its barrels after heavy use.-->
   <VFES_Turret_Minigun.description>重型自动炮塔。其多管装置可高速发射持续火力，在中距离粉碎轻装甲目标。损坏时可能会爆炸。在大量使用后需要钢材来翻新其枪管。</VFES_Turret_Minigun.description>
   <!--EN: minigun turret-->
   <VFES_Turret_Minigun.label>炮塔转机枪</VFES_Turret_Minigun.label>
   <!--EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets.-->
-  <VFES_Turret_Searchlight.description>一种结合了极其明亮的灯和镜面抛物面反射器的装置，可用于照亮和眩目目标。</VFES_Turret_Searchlight.description>
+  <VFES_Turret_Searchlight.description>配备强光源和反射镜的探照灯，可以照亮目标并使其眩晕。</VFES_Turret_Searchlight.description>
   <!--EN: searchlight-->
   <VFES_Turret_Searchlight.label>探照灯</VFES_Turret_Searchlight.label>
   <!--EN: A compact automatic turret fitted with a semi-automatic shotgun. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.-->

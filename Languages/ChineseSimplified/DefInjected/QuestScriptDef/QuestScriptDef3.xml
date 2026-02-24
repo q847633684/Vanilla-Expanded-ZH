@@ -2,7 +2,7 @@
 <LanguageData>
   <VFEE_ArtExhibit.questContentRules.rulesStrings>
     <!--EN: decidedToLeave->Are leaving immediately, and will not remember this event fondly!-->
-    <li>decidedToLeave-&gt;立即离开，不会深切地记住这一事件！</li>
+    <li>decidedToLeave-&gt;立即离开，不会深切地记住这次活动！</li>
     <!--EN: oneOfThe->one of the nobles you invited to the art exhibit-->
     <li>oneOfThe-&gt;您邀请参加艺术展的贵族之一</li>
     <!--EN: questOver->The quest '[resolvedQuestName]' is over.-->
@@ -10,69 +10,55 @@
     <!--EN: CeremonyFailedLetterLabel->Art Exhibit failed-->
     <li>CeremonyFailedLetterLabel-&gt;艺术展览失败</li>
     <!--EN: CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable exhibit. [asker_pronoun] is leaving with [asker_possessive] guests-->
-    <li>CeremonyFailedLetterText-&gt;[asker_nameFull]对您未能举办一次令人愉快的展览感到失望。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开</li>
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能举办一次令人愉快的展览感到失望。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开</li>
     <!--EN: CeremonyTimeoutLetterLabel->Art Exhibit failed-->
     <li>CeremonyTimeoutLetterLabel-&gt;艺术展览失败</li>
     <!--EN: CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the exhibit. [asker_pronoun] is leaving with [asker_possessive] guests.-->
-    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始展览。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开。</li>
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始展览。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开。</li>
     <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
-    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}、[oneOfThe]。</li>
+    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}，[oneOfThe]。</li>
     <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested-->
-    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel]被捕</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕</li>
     <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
-    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]
-
-[decidedToLeave]</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
-    <li>letterIntroDeath-&gt;{SUBJECT_definite}、[oneOfThe] 已死亡。</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</li>
     <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
     <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</li>
     <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
-    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]
-
-[decidedToLeave]</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
-    <li>letterIntroViolated-&gt;{SUBJECT_definite}、[oneOfThe] 因手术而受到侵犯。</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
     <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
-    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]
-
-[decidedToLeave]</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
-    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}、[oneOfThe]被绑架。</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架了。</li>
     <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
-    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 绑架：出发</li>
     <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
-    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]
-
-[decidedToLeave]</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
-    <li>letterIntroBanished-&gt;{SUBJECT_definite}、[oneOfThe]已被放逐。</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</li>
     <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
     <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</li>
     <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
-    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]
-
-[decidedToLeave]</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
     <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
-    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被摧毁</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</li>
     <!--EN: ShuttleDestroyedLabel->Shuttle destroyed: Art Exhibt Cancelled-->
     <li>ShuttleDestroyedLabel-&gt;航天飞机被毁：艺术展览取消</li>
     <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
-    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]
-
-[decidedToLeave]</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
     <!--EN: raidArrivedLetterLabel->Deserter assasination attempt-->
     <li>raidArrivedLetterLabel-&gt;逃兵暗杀企图</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the art exhibit and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the exhibit continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".-->
-    <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱艺术展览并暗杀皇室成员
-
-[asker_nameFull]不顾威胁并要求展览继续！  [asker_possessive] 希望你也能保证他们的安全并对付“农民”。</li>
+    <li>raidArrivedLetterText-&gt;一群逃兵已经抵达，试图扰乱艺术展览并刺杀皇室\n\n[asker_nameFull] 不关心威胁并要求展览继续！  [asker_possessive] 希望你也保证他们的安全并与“农民”打交道。</li>
     <!--EN: ArtExhibitSuccessLetterLabel->Exhibit Success-->
     <li>ArtExhibitSuccessLetterLabel-&gt;展览成功</li>
     <!--EN: ArtExhibitSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.-->
-    <li>ArtExhibitSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 位客人出发。总体来说，这次活动非常成功，大家都安全返回。</li>
+    <li>ArtExhibitSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 客人出发。总体而言，活动取得了成功，每个人都安全返回。</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the art exhibit and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the exhibit continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".-->
     <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱艺术展览并暗杀皇室成员
 
@@ -92,114 +78,88 @@
     <!--EN: lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]-->
     <li>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
     <!--EN: joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]-->
-    <li>joinerEnding-&gt;您将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
+    <li>joinerEnding-&gt;你将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
     <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
-    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>他们的HisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
     <!--EN: theirHisHer(nobleCount>=2)->their-->
-    <li>theirHisHer(nobleCount&gt;=2)-&gt;他们的</li>
+    <li>他们的HisHer(nobleCount&gt;=2)-&gt;他们的</li>
     <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
     <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
     <!--EN: lodgersPronoun(nobleCount>=2)->they-->
     <li>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</li>
     <!--EN: lodgersWasWere(nobleCount==1)->was-->
-    <li>lodgersWasWere(nobleCount==1)-&gt;是</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;原为</li>
     <!--EN: lodgersWasWere(nobleCount>=2)->were-->
     <li>lodgersWasWere(nobleCount&gt;=2)-&gt;是</li>
     <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
-    <li>appreciateAppreciates(nobleCount==1)-&gt;赞赏</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;欣赏</li>
     <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
     <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</li>
     <!--EN: questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to come over with a few other noble people and gaze upon the works of art in your gallery. [asker_pronoun] requests [colonyHost_nameFull] hosts the occasion. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a gallery present in your colony. If at any point the gallery is destroyed, the art exhibition will be called off.\n[asker_nameFull] has forwarded you a list of nobility that was invited to the exhibit and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the exhibition. If anything happens to any of the guests, the art exhibition will be cancelled.\nDeserters might use this opportunity to launch an assassination attempt.-->
-    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name]的[asker_royalTitleInCurrentFaction]想和其他几位贵族一起过来欣赏你们画廊里的艺术品。 [asker_pronoun] 请求 [colonyHost_nameFull] 主办该活动。这是贵族八卦以及与帝国贵族其他成员建立关系的绝佳机会。
-您的殖民地需要有一个画廊。如果画廊在任何时候被毁，艺术展览将被取消。
-[asker_nameFull]已向您转发了受邀参加展览的贵族名单，并将乘坐班车抵达：
-[noblesDetailList]
-
-您需要确保客人在展览期间安全舒适。如果任何客人发生任何意外，艺术展将被取消。
-逃兵可能会利用这个机会发动暗杀。</li>
+    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要和其他一些贵族一起过来欣赏你们画廊中的艺术品。 [asker_pronoun] 请求 [colonyHost_nameFull] 主持该活动。这是一个传播贵族八卦以及与帝国贵族其他成员建立关系的绝佳机会。\n你的殖民地需要有一个画廊。如果画廊在任何时候被摧毁，艺术展览将被取消。\n[asker_nameFull] 已向您转发受邀参加展览的贵族名单，并将乘坐航天飞机到达：\n[noblesDetailList]\n\ n您需要确保客人在展览期间安全舒适。如果任何客人发生任何意外，艺术展将被取消。\n逃兵可能会利用这个机会发动暗杀。</li>
   </VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
   <VFEE_ArtExhibit.questNameRules.rulesStrings>
     <!--EN: questName->[lodgerIndef] desires an Art Exhibit-->
-    <li>questName-&gt;[lodgerIndef] 想要举办艺术展览</li>
+    <li>questName-&gt;[lodgerIndef] 想要一个艺术展览</li>
     <!--EN: lodgerIndef->a royal-->
-    <li>lodgerIndef-&gt;皇室成员</li>
+    <li>lodgerIndef-&gt;皇家</li>
     <!--EN: lodgerIndef->a noble-->
     <li>lodgerIndef-&gt;贵族</li>
   </VFEE_ArtExhibit.questNameRules.rulesStrings>
   <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
     <!--EN: rewardLetterLabel->Noble's Gift-->
-    <li>rewardLetterLabel-&gt;贵族的礼物</li>
+    <li>rewardLetterLabel-&gt;Noble's Gift</li>
     <!--EN: rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]-->
-    <li>rewardLetterText-&gt;[rewardGiver_nameDef]已与您联系。 [rewardDelayTicks_duration]之前，您为[rewardGiver_possessive]
-
-举办了一场[outcome]艺术展，从那以后，[rewardGiver_pronoun]已经安全回家，并且非常感激[rewardGiver_pronoun]想送您一份个人礼物。 [rewardGiver_pronoun] 通过投放舱向您发送以下内容：
-
-[listOfRewards]</li>
+    <li>rewardLetterText-&gt;[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
   </VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
   <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
     <!--EN: questDescription->a delayed reward for art exhibit quest-->
-    <li>questDescription-&gt;艺术展览任务的延迟奖励</li>
+    <li>questDescription-&gt;a delayed reward for art exhibit quest</li>
   </VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
   <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
     <!--EN: questName->Art Exhibit delayed reward-->
-    <li>questName-&gt;艺术展览延迟奖励</li>
+    <li>questName-&gt;Art Exhibit delayed reward</li>
   </VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
   <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
     <!--EN: rewardLetterLabel->Noble's Gift-->
-    <li>rewardLetterLabel-&gt;贵族的礼物</li>
+    <li>rewardLetterLabel-&gt;Noble's Gift</li>
     <!--EN: rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]-->
-    <li>rewardLetterText-&gt;[rewardGiver_nameDef]已与您联系。 [rewardDelayTicks_duration]之前，您为[rewardGiver_possessive]
-
-举办了一场[outcome]盛大舞会，从那以后，[rewardGiver_pronoun]已经安全回家，并且非常感激[rewardGiver_pronoun]想送给您一份个人礼物。 [rewardGiver_pronoun] 通过投放舱向您发送以下内容：
-
-[listOfRewards]</li>
+    <li>rewardLetterText-&gt;[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
   </VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
   <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
     <!--EN: questDescription->a delayed reward for grand ball quest-->
-    <li>questDescription-&gt;盛大舞会任务的延迟奖励</li>
+    <li>questDescription-&gt;a delayed reward for grand ball quest</li>
   </VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
   <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
     <!--EN: questName->Grandball delayed reward-->
-    <li>questName-&gt;Grandball延迟奖励</li>
+    <li>questName-&gt;Grandball delayed reward</li>
   </VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
-  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription-> [asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] has informed us about a deserter hideout near [colonyName].\nDeserters are a group of ex-imperial soldiers and nobility who have decided to split away from the Great Hierarchy and adapt to the new, post-shattering life. They are considered public enemy number one.\nApparently, [siteFaction_pawnsPlural] have been raiding imperial convoys.\n[asker_nameDef] is planning an aerial assault on the hideout, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [requiredPawnCount] soldiers to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTime_duration].\n\n[asker_nameDef] will send [alliesCount] of their personal guards and place them under your command. [asker_pronoun] will not be unhappy if they are killed.-->
-    <li>questDescription-&gt; [asker_nameFull]，[asker_faction_name] 的一个 [asker_royalTitleInCurrentFaction] 告诉我们，[colonyName] 附近有一个逃兵藏身处。
-逃兵是一群前帝国士兵和贵族，他们决定脱离大等级制度并适应新的、破碎后的局面生活。他们被认为是公共场所头号敌人。
-显然，[siteFaction_pawnsPlural]一直在袭击帝国车队。
-[asker_nameDef]正在计划对由[enemiesCount][enemiesLabel]守卫的藏身处进行空中袭击。 [asker_pronoun]希望你提供[requiredPawnCount]名士兵来执行攻击。
-
-[asker_pronoun]将派一架航天飞机来接你的战士，将他们带到攻击地点，然后带他们回家。他们将在途中得到食物和医疗护理。
-
-攻击开始后，你必须击败[timeoutTime_duration]内的所有敌人和炮塔。
-
-[asker_nameDef]将派遣[alliesCount]他们的私人卫队并将他们置于你的指挥之下。如果他们被杀了，[asker_pronoun]也不会不高兴。</li>
-  </VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription-> [asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] has informed us about a deserter hideout near [colonyName].\nDeserters are a group of ex-imperial soldiers and nobility who have decided to split away from the Great Hierarchy and adapt to the new, post-shattering life. They are considered public enemy number one.\nApparently, [siteFaction_pawnsPlural] have been raiding imperial convoys.\n[asker_nameDef] is planning an aerial assault on the hideout, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [requiredPawnCount] soldiers to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTime_duration].\n\n[asker_nameDef] will send [alliesCount] of their personal guards and place them under your command. [asker_pronoun] will not be unhappy if they are killed.--><li>questDescription-&gt; [asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 告诉我们 [colonyName] 附近有一个逃兵藏身处。\n逃兵是一群前帝国士兵和贵族，他们决定脱离大等级制度，适应破碎后的新生活。他们被视为头号公敌。\n显然，[siteFaction_pawnsPlural] 一直在袭击帝国车队。\n[asker_nameDef] 正计划对由 [enemiesCount] [enemiesLabel] 守卫的藏身处发动空袭。 [asker_pronoun] 希望你提供 [requiredPawnCount] 名士兵来执行攻击。\n\n[asker_pronoun] 将派一架航天飞机来接你的战士，将他们带到攻击地点，然后带他们回家。他们将在途中得到食物和医疗护理。\n\n攻击开始后，你必须在 [timeoutTime_duration] 内击败所有敌人和炮塔。\n\n[asker_nameDef] 将派遣 [alliesCount] 名私人卫兵并安置他们在你的指挥下。 [asker_pronoun] 如果他们被杀了也不会不高兴。</li></VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
   <VFEE_DeserterHideout.questNameRules.rulesStrings>
     <!--EN: questName->The [bandit] [camp]-->
-    <li>questName-&gt;[bandit] [camp]</li>
+    <li>questName-&gt;[强盗][营地]</li>
     <!--EN: questName->[bandit] [camp]-->
-    <li>questName-&gt;[bandit] [camp]</li>
+    <li>questName-&gt;[强盗] [营地]</li>
     <!--EN: questName->[asker_nameDef] and the [camp]-->
     <li>questName-&gt;[asker_nameDef] 和 [camp]</li>
     <!--EN: camp->Camp-->
-    <li>camp-&gt;营地</li>
+    <li>camp-&gt;营</li>
     <!--EN: camp->Outpost-->
-    <li>camp-&gt;前哨站</li>
+    <li>camp-&gt;前哨</li>
     <!--EN: camp->Lair-->
     <li>camp-&gt;巢穴</li>
     <!--EN: camp->Encampment-->
     <li>camp-&gt;营地</li>
     <!--EN: bandit->Bandit-->
-    <li>bandit-&gt;强盗</li>
+    <li>bandit-&gt;土匪</li>
     <!--EN: bandit->Raider-->
     <li>bandit-&gt;袭击者</li>
     <!--EN: bandit->Outlaw-->
-    <li>bandit-&gt;不法之徒</li>
+    <li>bandit-&gt;取缔</li>
     <!--EN: bandit->Desperado-->
     <li>bandit-&gt;亡命之徒</li>
     <!--EN: bandit->Fugitive-->
-    <li>bandit-&gt;逃犯</li>
+    <li>bandit-&gt;逃亡者</li>
     <!--EN: bandit->Marauder-->
     <li>bandit-&gt;掠夺者</li>
     <!--EN: bandit->Robber-->
@@ -217,89 +177,73 @@
     <!--EN: lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]-->
     <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
     <!--EN: decidedToLeave->Are leaving immediately, and will not remember this event fondly!-->
-    <li>decidedToLeave-&gt;立即离开，不会深切地记住这一事件！</li>
+    <li>decidedToLeave-&gt;立即离开，并且不会深切地记住此事件！</li>
     <!--EN: oneOfThe->one of the nobles you invited to the grand ball-->
     <li>oneOfThe-&gt;您邀请参加盛大舞会的贵族之一</li>
     <!--EN: questOver->The quest '[resolvedQuestName]' is over.-->
     <li>questOver-&gt;任务“[resolvedQuestName]”已结束。</li>
     <!--EN: CeremonyFailedLetterLabel->GrandBall failed-->
-    <li>CeremonyFailedLetterLabel-&gt;盛大球失败</li>
+    <li>CeremonyFailedLetterLabel-&gt;GrandBall 失败</li>
     <!--EN: CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Ball. [asker_pronoun] is leaving with [asker_possessive] guests-->
-    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能举办一场令人愉快的舞会感到失望。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开</li>
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能举办一场愉快的舞会感到失望。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开</li>
     <!--EN: CeremonyTimeoutLetterLabel->GrandBall failed-->
-    <li>CeremonyTimeoutLetterLabel-&gt;盛大球失败</li>
+    <li>CeremonyTimeoutLetterLabel-&gt;GrandBall 失败</li>
     <!--EN: CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the ball. [asker_pronoun] is leaving with [asker_possessive] guests.-->
-    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始球。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开。</li>
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始舞会。 [asker_pronoun] 将与 [asker_possessive] 位客人一起离开。</li>
     <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
-    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}、[oneOfThe]。</li>
+    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}，[oneOfThe]。</li>
     <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested-->
-    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel]被捕</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕</li>
     <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
-    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]
-
-[decidedToLeave]</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
-    <li>letterIntroDeath-&gt;{SUBJECT_definite}、[oneOfThe] 已死亡。</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</li>
     <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
     <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</li>
     <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
-    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]
-
-[decidedToLeave]</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
-    <li>letterIntroViolated-&gt;{SUBJECT_definite}、[oneOfThe] 因手术而受到侵犯。</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
     <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
-    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]
-
-[decidedToLeave]</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
-    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}、[oneOfThe]被绑架。</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架了。</li>
     <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
     <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</li>
     <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
-    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]
-
-[decidedToLeave]</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
-    <li>letterIntroBanished-&gt;{SUBJECT_definite}、[oneOfThe]已被放逐。</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</li>
     <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
     <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</li>
     <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
-    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]
-
-[decidedToLeave]</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
     <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
-    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被摧毁</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</li>
     <!--EN: ShuttleDestroyedLabel->Shuttle destroyed: Ball Cancelled-->
-    <li>ShuttleDestroyedLabel-&gt;航天飞机被毁：球被取消</li>
+    <li>ShuttleDestroyedLabel-&gt;航天飞机已损坏：球已取消</li>
     <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
-    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]
-
-[decidedToLeave]</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
     <!--EN: raidArrivedLetterLabel->Deserter assasination attempt-->
     <li>raidArrivedLetterLabel-&gt;逃兵暗杀企图</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".-->
-    <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱盛大的舞会并刺杀皇室成员
-
-[asker_nameFull]不顾威胁并要求舞会继续进行！  [asker_possessive] 希望你也能保证他们的安全并对付“农民”。</li>
+    <li>raidArrivedLetterText-&gt;一群逃兵已抵达，试图扰乱盛大舞会并刺杀皇室成员\n\n[asker_nameFull] 不关心威胁并要求舞会继续进行！  [asker_possessive] 希望你也保证他们的安全并对付“农民”。</li>
     <!--EN: BallSuccessLetterLetterLabel->GrandBall Success-->
-    <li>BallSuccessLetterLetterLabel-&gt;盛大舞会成功</li>
+    <li>BallSuccessLetterLetterLabel-&gt;GrandBall 成功</li>
     <!--EN: BallSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.-->
-    <li>BallSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 位客人出发。总体来说，这次活动非常成功，大家都安全返回。</li>
+    <li>BallSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 客人出发。总体而言，活动取得了成功，每个人都安全返回。</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the grand ball and assasinate the royals\n\n[asker_nameFull] does not care for the threat and demands the ball continues!  [asker_possessive] wants you too keep them safe and deal with the "peasants".-->
-    <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱盛大的舞会并刺杀皇室成员
-
-[asker_nameFull]不顾威胁并要求舞会继续进行！  [asker_possessive] 希望你也能保证他们的安全并对付“农民”。</li>
+    <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] 保持健康</li>
     <!--EN: BallSuccessLetterLetterLabel->GrandBall Success-->
-    <li>BallSuccessLetterLetterLabel-&gt;盛大舞会成功</li>
+    <li>lodgersLeavingLetterText-&gt;[asker_nameFull] 感谢您邀请他们在 [map_definite] 住宿 [questDurationTicks_duration]。</li>
     <!--EN: BallSuccessLetterText->The shuttle has departed with [asker_nameFull] and [asker_possessive] guests. Overall the event was a success and everyone made it back safe.-->
     <li>BallSuccessLetterText-&gt;班车已载着 [asker_nameFull] 和 [asker_possessive] 位客人出发。总体来说，这次活动非常成功，大家都安全返回。</li>
   </VFEE_GrandBall.questContentRules.rulesStrings>
   <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
     <!--EN: lodgersLabel->noble-->
-    <li>lodgersLabel-&gt;高贵</li>
+    <li>lodgersLabel-&gt;贵族</li>
     <!--EN: lodgersLabelPlural->nobles-->
     <li>lodgersLabelPlural-&gt;贵族</li>
     <!--EN: lodgersDef(nobleCount==1)->[lodgers0_nameDef]-->
@@ -307,37 +251,31 @@
     <!--EN: lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]-->
     <li>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
     <!--EN: joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]-->
-    <li>joinerEnding-&gt;您将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
+    <li>joinerEnding-&gt;你将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
     <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
-    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>他们的HisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
     <!--EN: theirHisHer(nobleCount>=2)->their-->
-    <li>theirHisHer(nobleCount&gt;=2)-&gt;他们的</li>
+    <li>他们的HisHer(nobleCount&gt;=2)-&gt;他们的</li>
     <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
     <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
     <!--EN: lodgersPronoun(nobleCount>=2)->they-->
     <li>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</li>
     <!--EN: lodgersWasWere(nobleCount==1)->was-->
-    <li>lodgersWasWere(nobleCount==1)-&gt;是</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;原为</li>
     <!--EN: lodgersWasWere(nobleCount>=2)->were-->
     <li>lodgersWasWere(nobleCount&gt;=2)-&gt;是</li>
     <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
-    <li>appreciateAppreciates(nobleCount==1)-&gt;赞赏</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;欣赏</li>
     <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
     <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</li>
     <!--EN: questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like you to organise a grand ball. This is a great opportunity for noble gossip and to build relations with other members of the imperial nobility.\nYou are required to have a ballroom present in your colony. If at any point the ballroom is destroyed or the instruments in it become unusable, the grand ball will be called off\n[asker_nameFull] has forwarded you a list of nobility that was invited to the ball and will arrive in the shuttle:\n[noblesDetailList]\n\nYou will need to make sure the guests are safe and comfortable during the ball. If anything happens to any of the guests, the grand ball will be cancelled. \nDeserters might use this opportunity to launch an assassination attempt.-->
-    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 希望您组织一场盛大的舞会。这是传播贵族八卦以及与帝国贵族其他成员建立关系的绝佳机会。
-您的殖民地需要有一个舞厅。如果舞厅被毁或其中的乐器无法使用，盛大舞会将被取消
-[asker_nameFull]已向您转发了受邀参加舞会的贵族名单，并将乘坐班车到达：
-[noblesDetailList]
-
-您需要确保客人在舞会期间安全舒适球。如果任何客人发生任何意外，盛大的舞会将被取消。 
-逃兵可能会利用这个机会发动暗杀企图。</li>
+    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 希望您组织一场盛大的舞会。这是一个传播贵族八卦以及与帝国贵族其他成员建立关系的绝佳机会。\n你的殖民地需要有一个舞厅。如果舞厅在任何时候被摧毁或其中的乐器无法使用，盛大舞会将被取消\n[asker_nameFull]已向您转发受邀参加舞会的贵族名单，并将乘坐航天飞机抵达：\n [noblesDetailList]\n\n您需要确保客人在舞会期间安全舒适。如果任何客人发生任何意外，盛大的舞会将被取消。 \n逃兵可能会利用这个机会发动暗杀企图。</li>
   </VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings>
   <VFEE_GrandBall.questNameRules.rulesStrings>
     <!--EN: questName->[lodgerIndef] desires a grand ball-->
-    <li>questName-&gt;[lodgerIndef] 想要一场盛大的舞会</li>
+    <li>questName-&gt;[lodgerIndef] 想要一个盛大的球</li>
     <!--EN: lodgerIndef->a royal-->
-    <li>lodgerIndef-&gt;皇室成员</li>
+    <li>lodgerIndef-&gt;皇家</li>
     <!--EN: lodgerIndef->a noble-->
     <li>lodgerIndef-&gt;贵族</li>
   </VFEE_GrandBall.questNameRules.rulesStrings>
@@ -351,73 +289,59 @@
     <!--EN: lodgersLabelSingularOrPlural(nobleCount>=2)->[lodgersLabelPlural]-->
     <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
     <!--EN: decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.-->
-    <li>decidedToLeave-&gt;[othersWillNotAccept]和{PAWNSALIVECOUNT_multiple ? have : has }决定离开。</li>
+    <li>decidedToLeave-&gt;[othersWillNotAccept] 和 {PAWNSALIVECOUNT_multiple ？有：已}决定离开。</li>
     <!--EN: othersWillNotAccept->The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this-->
-    <li>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is}不愿意接受这一点</li>
+    <li>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ？其他人是：最后[lodgersLabel]是}不愿意接受这个</li>
     <!--EN: oneOfThe->one of the nobles you invited to stay with you-->
     <li>oneOfThe-&gt;您邀请与您同住的贵族之一</li>
     <!--EN: questOver->The quest '[resolvedQuestName]' is over.-->
     <li>questOver-&gt;任务“[resolvedQuestName]”已结束。</li>
     <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
-    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}、[oneOfThe]。</li>
+    <li>letterIntroArrested-&gt;你逮捕了 {SUBJECT_definite}，[oneOfThe]。</li>
     <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested: Departure-->
-    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel]被捕：出发</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕：出发</li>
     <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
-    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]
-
-[decidedToLeave]</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
-    <li>letterIntroDeath-&gt;{SUBJECT_definite}、[oneOfThe] 已死亡。</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</li>
     <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
     <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</li>
     <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
-    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]
-
-[decidedToLeave]</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
-    <li>letterIntroViolated-&gt;{SUBJECT_definite}、[oneOfThe] 因手术而受到侵犯。</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
     <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
-    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]
-
-[decidedToLeave]</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
-    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}、[oneOfThe]被绑架。</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架。</li>
     <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
     <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</li>
     <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
-    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]
-
-[decidedToLeave]</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
-    <li>letterIntroBanished-&gt;{SUBJECT_definite}、[oneOfThe]已被放逐。</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</li>
     <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
     <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</li>
     <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
-    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]
-
-[decidedToLeave]</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
     <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
-    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被摧毁</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</li>
     <!--EN: ShuttleDestroyedLabel->[lodgersLabel] Shuttle destroyed: Departure-->
-    <li>ShuttleDestroyedLabel-&gt;[lodgersLabel] 航天飞机被摧毁：出发</li>
+    <li>ShuttleDestroyedLabel-&gt;[lodgersLabel] 班车损坏：出发</li>
     <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
-    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]
-
-[decidedToLeave]</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroBadMood->{SUBJECT_definite}, [oneOfThe], who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long.-->
-    <li>您负责保护并保持快乐的letterIntroBadMood-&gt;{SUBJECT_definite}、[oneOfThe]已经低于[lodgersMoodThreshold]最低情绪太久。</li>
+    <li>letterIntroBadMood-&gt;{SUBJECT_definite}，您负责保护并保持快乐的 [oneOfThe]，已经长时间低于 [lodgersMoodThreshold] 的最低情绪。</li>
     <!--EN: nobleUnhappyLetterLabel->[lodgersLabel] unhappy-->
-    <li>nobleUnhappyLetterLabel-&gt;[lodgersLabel]不高兴</li>
+    <li>nobleUnhappyLetterLabel-&gt;[lodgersLabel] 不高兴</li>
     <!--EN: nobleUnhappyLetterText->[letterIntroBadMood]\n\n[decidedToLeave]-->
-    <li>nobleUnhappyLetterText-&gt;[letterIntroBadMood]
-
-[decidedToLeave]</li>
+    <li>nobleUnhappyLetterText-&gt;[letterIntroBadMood]\n\n[decidedToLeave]</li>
     <!--EN: lodgerLeftNotAllHealthyLetterLabel->[lodgersLabel] : untreated-->
     <li>lodgerLeftNotAllHealthyLetterLabel-&gt;[lodgersLabel]：未经处理</li>
     <!--EN: lodgerLeftNotAllHealthyLetterText->[lodgersLabel] left the map with injuries and wll not have fond memories of their visit-->
-    <li>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel]带着受伤离开了地图，并且不会对他们的访问留下美好的回忆</li>
+    <li>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel] 带着受伤离开了地图，并且不会为他们的访问留下美好的回忆</li>
     <!--EN: LetterLabelShuttleArrived->Shuttle arrived-->
     <li>LetterLabelShuttleArrived-&gt;班车到达</li>
     <!--EN: LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court-->
@@ -425,7 +349,7 @@
     <!--EN: lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy-->
     <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] 保持健康</li>
     <!--EN: lodgersLeavingLetterText->[asker_nameFull] thanks you for inviting them to stay at [map_definite] for these [questDurationTicks_duration].-->
-    <li>lodgersLeavingLetterText-&gt;[asker_nameFull]感谢您邀请他们为了这些[questDurationTicks_duration]入住[map_definite]。</li>
+    <li>lodgersLeavingLetterText-&gt;[asker_nameFull] 感谢您邀请他们在 [map_definite] 住宿 [questDurationTicks_duration]。</li>
     <!--EN: LetterTextShuttleArrived->The shuttle has arrived to collect [asker_nameFull] and their court-->
     <li>LetterTextShuttleArrived-&gt;航天飞机已抵达接载 [asker_nameFull] 和他们的球场</li>
     <!--EN: lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] left healthy-->
@@ -435,7 +359,7 @@
   </VFEE_NobleVisit.questContentRules.rulesStrings>
   <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
     <!--EN: lodgersLabel->noble-->
-    <li>lodgersLabel-&gt;高贵</li>
+    <li>lodgersLabel-&gt;贵族</li>
     <!--EN: lodgersLabelPlural->nobles-->
     <li>lodgersLabelPlural-&gt;贵族</li>
     <!--EN: lodgersDef(nobleCount==1)->[lodgers0_nameDef]-->
@@ -443,21 +367,21 @@
     <!--EN: lodgersDef(nobleCount>=2)->the [lodgersLabelPlural]-->
     <li>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
     <!--EN: joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]-->
-    <li>joinerEnding-&gt;您将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
+    <li>joinerEnding-&gt;你将能够像指挥自己的殖民者一样指挥[lodgersDef]。[specialNeedsExplanation]</li>
     <!--EN: specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.-->
     <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-&gt; 您需要满足 [lodgersLabelPlural] 可能有的任何特殊皇室需求。</li>
     <!--EN: specialNeedsExplanation->-->
     <li>specialNeedsExplanation-&gt;</li>
     <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
-    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>他们的HisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
     <!--EN: theirHisHer(nobleCount>=2)->their-->
-    <li>theirHisHer(nobleCount&gt;=2)-&gt;他们的</li>
+    <li>他们的HisHer(nobleCount&gt;=2)-&gt;他们的</li>
     <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
     <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
     <!--EN: lodgersPronoun(nobleCount>=2)->they-->
     <li>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</li>
     <!--EN: lodgersWasWere(nobleCount==1)->was-->
-    <li>lodgersWasWere(nobleCount==1)-&gt;是</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;原为</li>
     <!--EN: lodgersWasWere(nobleCount>=2)->were-->
     <li>lodgersWasWere(nobleCount&gt;=2)-&gt;是</li>
     <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
@@ -465,31 +389,27 @@
     <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
     <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</li>
     <!--EN: questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], satisfy [asker_possessive] royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_royalTitleInCurrentFaction] will bring two of [asker_possessive] personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.-->
-    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要进行例行访问。邀请[asker_possessive]，满足[shuttleDelayTicks_duration]的[asker_possessive]皇室需求，您将获得大量荣誉。在他们访问期间，您必须保持他们的情绪高于 [lodgersMoodThreshold_percent]。这意味着提供皇家津贴，例如豪华卧室。
-[asker_royalTitleInCurrentFaction]将带来两名[asker_possessive]私人卫兵并将他们置于您的指挥之下。您必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。
-您必须将访客留在 [map_definite]，不要将他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</li>
+    <li>questDescription-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要进行例行访问。邀请[asker_possessive]，满足[asker_possessive]皇室需求[shuttleDelayTicks_duration]，你将获得大量荣誉。在他们访问期间，您必须将他们的情绪保持在 [lodgersMoodThreshold_percent] 以上。这意味着提供皇家津贴，比如豪华的卧室。\n[asker_royalTitleInCurrentFaction] 将带来两名 [asker_possessive] 私人警卫并将他们置于你的指挥之下。你必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。\n你必须将访客留在 [map_definite]，而不是把他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</li>
     <!--EN: questDescription(nobleCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] would like to perform a customary visit. Invite [asker_possessive], and [asker_possessive] royal court of [nobleCountLessOne] nobles and satisfy their royal needs for [shuttleDelayTicks_duration], and you will gain a large amount of honor. During their visit, you must keep their mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.\nThe [asker_nameFull] will bring two of his personal guards and place them under your command. You must house these guards, but the [asker_royalTitleInCurrentFaction] will not complain if they are killed or unhappy.\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, your relations with [asker_nameFull] will degrade and you will lose honor.-->
-    <li>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要进行例行访问。邀请[asker_possessive]和[nobleCountLessOne]贵族的[asker_possessive]宫廷，满足他们对[shuttleDelayTicks_duration]的皇室需求，你将获得大量荣誉。在他们访问期间，您必须保持他们的情绪高于 [lodgersMoodThreshold_percent]。这意味着提供皇家津贴，例如豪华的卧室。
-[asker_nameFull]将带来他的两名私人卫兵并将他们置于您的指挥之下。您必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。
-您必须将访客留在 [map_definite]，不要将他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</li>
+    <li>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull]，[asker_faction_name] 的 [asker_royalTitleInCurrentFaction] 想要执行例行访问。邀请[asker_possessive]和[nobleCountLessOne]贵族的[asker_possessive]宫廷，并在[shuttleDelayTicks_duration]内满足他们的皇室需求，你将获得大量荣誉。在他们访问期间，您必须将他们的情绪保持在 [lodgersMoodThreshold_percent] 以上。这意味着提供皇家津贴，比如豪华的卧室。\n[asker_nameFull] 将带来他的两名私人卫兵，并将他们置于你的指挥之下。你必须安置这些守卫，但如果他们被杀或不高兴，[asker_royalTitleInCurrentFaction] 不会抱怨。\n你必须将访客留在 [map_definite]，而不是把他们送到其他地方。如果您失败了此任务或迁移，您与 [asker_nameFull] 的关系将会恶化，并且您将失去荣誉。</li>
     <!--EN: allyAllies(lodgersCountMinusOne==1)->ally-->
-    <li>allyAllies(lodgersCountMinusOne==1)-&gt;盟友</li>
+    <li>allyAllies(lodgersCountMinusOne==1)-&gt;ally</li>
     <!--EN: allyAllies(lodgersCountMinusOne>=2)->allies-->
     <li>allyAllies(lodgersCountMinusOne&gt;=2)-&gt;盟友</li>
   </VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
   <VFEE_NobleVisit.questNameRules.rulesStrings>
     <!--EN: questName(sameQuestsCount==0)->[asker_nameDef]’s visit-->
-    <li>questName(sameQuestsCount==0)-&gt;[asker_nameDef] 的访问</li>
+    <li>questName(sameQuestsCount==0)-&gt;[asker_nameDef] 访问</li>
     <!--EN: questName->hosting [lodgerIndef]-->
-    <li>questName-&gt;主持[lodgerIndef]</li>
+    <li>questName-&gt;托管 [lodgerIndef]</li>
     <!--EN: questName->[lodgerIndef] visit-->
-    <li>questName-&gt;[lodgerIndef]访问</li>
+    <li>questName-&gt;[lodgerIndef] 访问</li>
     <!--EN: lodgerIndef(nobleCount==1)->a royal-->
-    <li>lodgerIndef(nobleCount==1)-&gt;皇室成员</li>
+    <li>lodgerIndef(nobleCount==1)-&gt;皇家</li>
     <!--EN: lodgerIndef(nobleCount==1)->a noble-->
     <li>lodgerIndef(nobleCount==1)-&gt;贵族</li>
     <!--EN: lodgerIndef(nobleCount>=2)->royals-->
-    <li>lodgerIndef(nobleCount&gt;=2)-&gt;皇室成员</li>
+    <li>lodgerIndef(nobleCount&gt;=2)-&gt;皇家</li>
     <!--EN: lodgerIndef(nobleCount>=2)->nobles-->
     <li>lodgerIndef(nobleCount&gt;=2)-&gt;贵族</li>
   </VFEE_NobleVisit.questNameRules.rulesStrings>
@@ -511,75 +431,59 @@
     <!--EN: CeremonyFailedLetterLabel->Parade failed-->
     <li>CeremonyFailedLetterLabel-&gt;游行失败</li>
     <!--EN: CeremonyFailedLetterText->[asker_nameFull] is disappointed by your failure to make for an enjoyable Parade. [asker_pronoun] is leaving with [asker_possessive] guests-->
-    <li>CeremonyFailedLetterText-&gt;[asker_nameFull]对您未能举办一次愉快的游行感到失望。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开</li>
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] 对您未能打造一次愉快的游行感到失望。 [asker_pronoun] 将与 [asker_possessive] 客人一起离开</li>
     <!--EN: CeremonyTimeoutLetterLabel->Parade failed-->
     <li>CeremonyTimeoutLetterLabel-&gt;游行失败</li>
     <!--EN: CeremonyTimeoutLetterText->[asker_nameFull] has grown tired of waiting for you to start the Parade. [asker_pronoun] is leaving with [asker_possessive] guests.-->
-    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始游行。 [asker_pronoun] 即将与 [asker_possessive] 位客人离开。</li>
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] 已经厌倦了等待您开始游行。 [asker_pronoun] 将与 [asker_possessive] 位客人一起离开。</li>
     <!--EN: letterIntroArrested->You arrested {SUBJECT_definite}, [oneOfThe].-->
-    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}、[oneOfThe]。</li>
+    <li>letterIntroArrested-&gt;你逮捕了{SUBJECT_definite}，[oneOfThe]。</li>
     <!--EN: lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] arrested-->
-    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel]被捕</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] 被捕</li>
     <!--EN: lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]-->
-    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]
-
-[decidedToLeave]</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.-->
-    <li>letterIntroDeath-&gt;{SUBJECT_definite}、[oneOfThe] 已死亡。</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}，[oneOfThe] 已死亡。</li>
     <!--EN: lodgerDiedLeaveMapLetterLabel->[lodgersLabel] died: Departure-->
     <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] 死亡：出发</li>
     <!--EN: lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]-->
-    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]
-
-[decidedToLeave]</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroViolated->{SUBJECT_definite}, [oneOfThe], was violated by surgery.-->
-    <li>letterIntroViolated-&gt;{SUBJECT_definite}、[oneOfThe] 因手术而受到侵犯。</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}，[oneOfThe]，因手术违规。</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterLabel->[lodgersLabel] Surgery: Departure-->
     <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] 手术：出发</li>
     <!--EN: lodgerSurgeryVioLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]-->
-    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]
-
-[decidedToLeave]</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroKidnapped->{SUBJECT_definite}, [oneOfThe], was kidnapped.-->
-    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}、[oneOfThe]被绑架。</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}，[oneOfThe]，被绑架了。</li>
     <!--EN: lodgerKidnappedLeaveMapLetterLabel->[lodgersLabel] Kidnapped: Departure-->
-    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 被绑架：出发</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] 绑架：出发</li>
     <!--EN: lodgerKidnappedLeaveMapLetterText->[letterIntroKidnapped]\n\n[decidedToLeave]-->
-    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]
-
-[decidedToLeave]</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
     <!--EN: letterIntroBanished->{SUBJECT_definite}, [oneOfThe], was banished.-->
-    <li>letterIntroBanished-&gt;{SUBJECT_definite}、[oneOfThe]已被放逐。</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}，[oneOfThe]，已被驱逐。</li>
     <!--EN: lodgerBanishedLeaveMapLetterLabel->[lodgersLabel] Banished: Departure-->
-    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 放逐：出发</li>
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] 驱逐：出发</li>
     <!--EN: lodgerBanishedLeaveMapLetterText->[letterIntroBanished]\n\n[decidedToLeave]-->
-    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]
-
-[decidedToLeave]</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
     <!--EN: ShuttleDestroyedIntro->{SUBJECT_definite}, has been destroyed-->
-    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被摧毁</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}，已被销毁</li>
     <!--EN: ShuttleDestroyedLabel->Shuttle destroyed: Parade Failed-->
     <li>ShuttleDestroyedLabel-&gt;航天飞机被毁：游行失败</li>
     <!--EN: ShuttleDestroyedText->[ShuttleDestroyedIntro]\n\n[decidedToLeave]-->
-    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]
-
-[decidedToLeave]</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
     <!--EN: raidArrivedLetterLabel->Deserter assasination attempt-->
     <li>raidArrivedLetterLabel-&gt;逃兵暗杀企图</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!-->
-    <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱游行并暗杀[stellarch_nameFull]
-
-游行不得以任何理由中断！</li>
+    <li>raidArrivedLetterText-&gt;一群逃兵已抵达，试图扰乱游行并刺杀[stellarch_nameFull]\n\n游行不得以任何理由中断！</li>
     <!--EN: ParadeSuccessLetterLetterLabel->Parade Success-->
     <li>ParadeSuccessLetterLetterLabel-&gt;游行成功</li>
     <!--EN: ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!-->
-    <li>ParadeSuccessLetterText-&gt;航天飞机已准备好与所有乘坐 [stellarch_nameFull] 上升的乘客一起出发。它将按照您的命令出发！</li>
+    <li>ParadeSuccessLetterText-&gt;航天飞机已准备好与所有以 [stellarch_nameFull] 上升的乘客一起出发。它将按照您的命令出发！</li>
     <!--EN: raidArrivedLetterText->A group of deserters have arrived to attempt to disrupt the parade and assasinate the [stellarch_nameFull]\n\nThe parade must not be interrupted for any reason!-->
-    <li>raidArrivedLetterText-&gt;一群逃兵抵达，试图扰乱游行并暗杀[stellarch_nameFull]
-
-游行不得以任何理由中断！</li>
+    <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] 保持健康</li>
     <!--EN: ParadeSuccessLetterLetterLabel->Parade Success-->
-    <li>ParadeSuccessLetterLetterLabel-&gt;游行成功</li>
+    <li>lodgersLeavingLetterText-&gt;[asker_nameFull] 感谢您邀请他们在 [map_definite] 住宿 [questDurationTicks_duration]。</li>
     <!--EN: ParadeSuccessLetterText->The shuttle is ready to depart with all those ascending with [stellarch_nameFull]. It will depart upon your command!-->
     <li>ParadeSuccessLetterText-&gt;航天飞机已准备好与所有乘坐 [stellarch_nameFull] 上升的乘客一起出发。它将按照您的命令出发！</li>
   </VFEE_Parade.questContentRules.rulesStrings>
@@ -595,35 +499,31 @@
     <!--EN: theirHisHer(nobleCount==1)->[lodgers0_possessive]-->
     <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
     <!--EN: theirHisHer(nobleCount>=2)->their-->
-    <li>theirHisHer(nobleCount&gt;=2)-&gt;他们的</li>
+    <li>他们的他她(nobleCount&gt;=2)-&gt;他们的</li>
     <!--EN: lodgersPronoun(nobleCount==1)->[lodgers0_pronoun]-->
     <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
     <!--EN: lodgersPronoun(nobleCount>=2)->they-->
     <li>lodgersPronoun(nobleCount&gt;=2)-&gt;他们</li>
     <!--EN: lodgersWasWere(nobleCount==1)->was-->
-    <li>lodgersWasWere(nobleCount==1)-&gt;是</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;原为</li>
     <!--EN: lodgersWasWere(nobleCount>=2)->were-->
     <li>lodgersWasWere(nobleCount&gt;=2)-&gt;是</li>
     <!--EN: appreciateAppreciates(nobleCount==1)->appreciates-->
-    <li>appreciateAppreciates(nobleCount==1)-&gt;赞赏</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;欣赏</li>
     <!--EN: appreciateAppreciates(nobleCount>=2)->appreciate-->
     <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;欣赏</li>
     <!--EN: questDescription->[stellarch_nameFull] has reached the peak of what they can achieve from a surface of the rim world. In order to progress further in the grand hierarchy and become the right hand of Emperor [emperor_nameFull], [stellarch_nameFull] needs to partake in a traditional ascension parade, after which they will depart on a shuttle and join the Emperor.\nParade of this magnitude is bound to draw the attention of deserters.\nOnce you accept this quest, you will have 5 days to prepare for the parade. Consider improving your defenses and working out contingency plans, as it is difficult to say which way the parade will move. At all times you will have to keep the parade safe from harm.\nKeep an eye on any rivals or enemies of [stellarch_nameFull], as they might decide it’s a good time to make a move and claim the power for themselves.\nThe shuttle will arrive bringing the highest ranking nobility to the parade. You will be responsible for providing the security for the event. After the parade starts, it will slowly move through the map for 12 hours, after which everyone, including [stellarch_nameFull], will board the shuttle and depart.-->
-    <li>questDescription-&gt;[stellarch_nameFull]已经达到了他们在边缘世界表面所能达到的顶峰。为了在宏伟的等级制度中进一步进步并成为皇帝的左膀右臂[emperor_nameFull]，[stellarch_nameFull]需要参加传统的升天游行，之后他们将乘坐航天飞机出发并与皇帝会合。
-如此规模的游行是为了引起逃兵的注意。
-一旦接受此任务，你将有5天的时间为游行做准备。考虑加强防御并制定应急计划，因为很难说游行队伍将向哪个方向移动。在任何时候，你都必须保证游行队伍的安全，使其免受伤害。
-留意[stellarch_nameFull]的任何竞争对手或敌人，因为他们可能会认为现在是采取行动并为自己夺取权力的好时机。
-航天飞机将抵达，将最高级别的贵族带到游行队伍中。您将负责为活动提供安全保障。游行开始后，它将在地图上缓慢移动12小时，之后包括[stellarch_nameFull]在内的所有人将登上航天飞机并出发。</li>
+    <li>questDescription-&gt;[stellarch_nameFull] 已经达到了他们从边缘世界表面所能达到的顶峰。为了在宏伟的等级制度中取得进一步的进步并成为皇帝 [emperor_nameFull] 的左膀右臂，[stellarch_nameFull] 需要参加传统的升天游行，之后他们将乘坐航天飞机出发并加入皇帝的行列。\n如此规模的游行势必会引起逃兵的注意。\n接受此任务后，你将有5天的时间准备阅兵。考虑加强防御并制定应急计划，因为很难说游行队伍将向哪个方向移动。无论何时，你都必须确保游行队伍免受伤害。\n留意 [stellarch_nameFull] 的任何竞争对手或敌人，因为他们可能会认为现在是采取行动并为自己夺取权力的好时机。\n航天飞机将带着最高级别的贵族参加游行。您将负责为活动提供安全保障。游行开始后，它将在地图上缓慢移动12小时，之后包括[stellarch_nameFull]在内的所有人将登上航天飞机并出发。</li>
   </VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
   <VFEE_Parade.questNameRules.rulesStrings>
     <!--EN: questName->High Stellarch Ascension-->
-    <li>questName-&gt;高级群星提升</li>
+    <li>questName-&gt;群星飞升</li>
   </VFEE_Parade.questNameRules.rulesStrings>
   <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
     <!--EN: questName->Absolver-->
-    <li>questName-&gt;赦免者</li>
+    <li>任务名称-&gt;开脱</li>
     <!--EN: questDescription->-->
-    <li>questDescription-&gt;</li>
+    <li>任务描述-&gt;</li>
   </VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
   <!--EN: Absolver died: {SUBJECT_definite}-->
   <VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.label>赦免者死亡：{SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.label>

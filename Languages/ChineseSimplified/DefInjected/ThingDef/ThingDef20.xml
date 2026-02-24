@@ -1,99 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: An ultra-long range sniper rifle which fires fin-stabilized flechettes with acidifier injectors. Due to their lethality and danger of falling into enemy hands, they are always biocoded and will self-destruct if their owner either dies or is disarmed. Lethal to organics and almost useless against non-organics, such as mechanoids.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. The acid will rampage through the target’s body and usually results in vital organs being dissolved, however lethality isn’t guaranteed.-->
-  <VEE_Gun_Fletcher.description>一种超远程狙击步枪，可发射带有酸化剂注射器的尾翼稳定箭弹。由于它们的杀伤力和落入敌人手中的危险，它们总是被生物编码，如果它们的主人死亡或被解除武装，它们就会自毁。对有机生物致命，对机械生物等非有机生物几乎毫无用处。
-
-被这些箭弹击中的目标将遭受一种不稳定的酸化剂液体变体，旨在从内部溶解目标而不是摧毁其设备。酸会在目标体内肆虐，通常会导致重要器官被溶解，但并不能保证致命。</VEE_Gun_Fletcher.description>
+  <VEE_Gun_Fletcher.description>一种超远程狙击步枪，可发射带有酸化剂注射器的尾翼稳定箭弹。由于它们的杀伤力和落入敌人手中的危险，它们总是被生物编码，如果它们的主人死亡或被解除武装，它们就会自毁。对有机物致命，对机械生物等无机物几乎无用。\n\n被这些箭弹击中的目标将受到一种不稳定的酸化液变体的影响，这种酸化液的设计目的是从内部溶解目标而不是破坏其设备。酸液会在目标体内肆虐，通常会导致重要器官被溶解，但不能保证致命性。</VEE_Gun_Fletcher.description>
   <!--EN: fletcher-->
   <VEE_Gun_Fletcher.label>弗莱彻</VEE_Gun_Fletcher.label>
   <!--EN: barrel-->
-  <VEE_Gun_Fletcher.tools.0.label>桶</VEE_Gun_Fletcher.tools.0.label>
+  <VEE_Gun_Fletcher.tools.0.label>枪管</VEE_Gun_Fletcher.tools.0.label>
   <!--EN: A non-alcoholic, pleasantly light, citrusy and slightly bitter aperitif that owes its flavors and aromas to sweet and bitter oranges, rhubarb, and imperial craftsmanship. Drinking it induces heavy but painless vomiting, completely clearing the stomach and taste buds. Aperitif recipe is kept secret by the Hospitality guilds of the Empire, and noone was quite able to recreate this fine delicacy on the rimworld surface.\n\nImperial nobility loves aperitif for its ability to clear out food from the digestive system, allowing them to consume even more of the finest imperial food.-->
-  <VFEE_Aperitif.description>一款不含酒精、清淡宜人、带有柑橘味和微苦味的开胃酒，其风味和香气源自甜橙、苦橙、大黄和皇家工艺。饮用它会引起剧烈但无痛的呕吐，彻底清理胃和味蕾。开胃酒的配方被帝国的酒店行会保密，没有人能够在边缘世界的表面重现这种美味佳肴。
-
-帝国贵族喜爱开胃酒，因为它能够清除消化系统中的食物，使他们能够消耗更多最好的帝国食物。</VFEE_Aperitif.description>
+  <VFEE_Aperitif.description>一款不含酒精、清淡宜人、带有柑橘味和微苦味的开胃酒，其风味和香气源自甜橙、苦橙、大黄和皇家工艺。饮用它会引起剧烈但无痛的呕吐，彻底清理胃和味蕾。开胃酒的配方被帝国的酒店行会保密，没有人能够在边缘世界的表面重现这种美味佳肴。\n\n帝国贵族喜爱开胃酒，因为它能够清除消化系统中的食物，使他们能够享用更多最好的皇家食品。</VFEE_Aperitif.description>
   <!--EN: Drink {0}-->
-  <VFEE_Aperitif.ingestible.ingestCommandString>喝{0}</VFEE_Aperitif.ingestible.ingestCommandString>
+  <VFEE_Aperitif.ingestible.ingestCommandString>饮料 {0}</VFEE_Aperitif.ingestible.ingestCommandString>
   <!--EN: Drinking {0}.-->
-  <VFEE_Aperitif.ingestible.ingestReportString>饮酒 {0}。</VFEE_Aperitif.ingestible.ingestReportString>
+  <VFEE_Aperitif.ingestible.ingestReportString>喝{0}。</VFEE_Aperitif.ingestible.ingestReportString>
   <!--EN: aperitif-->
   <VFEE_Aperitif.label>开胃酒</VFEE_Aperitif.label>
   <!--EN: A high-tech helmet with a solid plasteel-weave shell and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while feeding firing solutions using real-time strategic information. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.-->
-  <VFEE_Apparel_AbsolverHelmet.description>一款高科技头盔，配有坚固的塑料编织 贝壳 和多光谱传感器，可向用户和外部 贝壳 提供遥测数据。虽然它提供了出色的保护，但其主要目的是通过使用复杂的光学伪装系统来隐藏用户，同时使用实时战略信息提供射击解决方案。由于产量有限，这样的铠甲只有索菲亚帝国的精英刺客才能使用。</VFEE_Apparel_AbsolverHelmet.description>
+  <VFEE_Apparel_AbsolverHelmet.description>一款高科技头盔，具有坚固的塑料编织外壳和多光谱传感器，可向用户和外壳提供遥测数据。虽然它提供了出色的保护，但其主要目的是通过使用复杂的光学伪装系统来隐藏用户，同时使用实时战略信息提供射击解决方案。由于产量有限，这种铠甲只有索菲亚帝国的精英刺客才能使用。</VFEE_Apparel_AbsolverHelmet.description>
   <!--EN: absolver helmet-->
-  <VFEE_Apparel_AbsolverHelmet.label>赦免者头盔</VFEE_Apparel_AbsolverHelmet.label>
+  <VFEE_Apparel_AbsolverHelmet.label>赦免头盔</VFEE_Apparel_AbsolverHelmet.label>
   <!--EN: A high-tech suit of powered armor with layered plasteel-weave plates and multi-spectrum sensors, which both feed telemetry data to the user and exterior shell. While it provides excellent protection, its primary purpose is to hide the user by using an intricate optical camouflage system while adjusting and assisting their movement. Armor like this is only available to the Sophian Empire’s elite assassins due to limited production.-->
-  <VFEE_Apparel_ArmorAbsolver.description>一套高科技动力装甲，配有分层塑料编织板和多光谱传感器，可向用户和外部外壳提供遥测数据。虽然它提供了出色的保护，但其主要目的是通过使用复杂的光学伪装系统来隐藏用户，同时调整和协助他们的移动。由于产量有限，这样的铠甲只有索菲亚帝国的精英刺客才能使用。</VFEE_Apparel_ArmorAbsolver.description>
+  <VFEE_Apparel_ArmorAbsolver.description>一套高科技动力装甲，配有分层塑钢编织板和多光谱传感器，可向用户和外壳提供遥测数据。虽然它提供了出色的保护，但其主要目的是通过使用复杂的光学伪装系统来隐藏用户，同时调整和协助他们的移动。由于产量有限，这样的铠甲只有索菲亚帝国的精英刺客才能使用。</VFEE_Apparel_ArmorAbsolver.description>
   <!--EN: absolver armor-->
-  <VFEE_Apparel_ArmorAbsolver.label>免除护甲</VFEE_Apparel_ArmorAbsolver.label>
+  <VFEE_Apparel_ArmorAbsolver.label>赦免者盔甲</VFEE_Apparel_ArmorAbsolver.label>
   <!--EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nOriginally an elaborate suit of prestige armor, this has been modified to make greater use of eltex weave in order to improve the performance of psycasters. This comes at a cost of removing interfering armor plating, but enhances psychic sensitivity and neural heat dissipation.-->
-  <VFEE_Apparel_ArmorDeserter.description>一套重型动力装甲，旨在以牺牲机动性为代价提供最大程度的保护。带有固体烧蚀涂层的厚层塑料编织板停止几乎都是最有针对性或最强大的攻击。神经模因辅助装置可以防止套装的巨大重量完全固定穿着者，但套装仍然相当笨重。
-
-最初是一套精致的威望盔甲套装，经过修改，更多地使用eltex编织物，以提高灵能者的表现。这是以去除干扰装甲为代价的，但增强了心灵敏感性和神经散热。</VFEE_Apparel_ArmorDeserter.description>
+  <VFEE_Apparel_ArmorDeserter.description>一套重型动力装甲，旨在以牺牲移动性为代价提供最大程度的保护。带有固体烧蚀涂层的厚重层状塑料编织板可以阻止除最精准或最强大的攻击之外的所有攻击。神经模因辅助装置可以防止套装的巨大重量使穿戴者完全动弹不得，但套装仍然相当笨重。\n\n最初是一套精致的威望盔甲套装，经过修改，更多地使用了 eltex 编织物，以改善心灵施法者的表现。这是以去除干扰装甲板为代价的，但增强了心灵敏感性和神经散热。</VFEE_Apparel_ArmorDeserter.description>
   <!--EN: deserter armor-->
   <VFEE_Apparel_ArmorDeserter.label>逃兵盔甲</VFEE_Apparel_ArmorDeserter.label>
   <!--EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nOriginally a standard cataphract helmet, this has been modified to include a gunlink at the cost of removing the faceplate, sacrificing defense to improve offensive capabilities.-->
-  <VFEE_Apparel_DeserterHelmet.description>一种重装甲高科技头盔，具有坚固的塑料编织外壳和非正面视角的间接视觉系统。它可以防御除最强大或幸运瞄准之外的所有射击。
-
-最初是标准的装甲头盔，经过修改以包括枪连杆，但代价是移除面板，牺牲防御以提高进攻能力。</VFEE_Apparel_DeserterHelmet.description>
+  <VFEE_Apparel_DeserterHelmet.description>一款重装甲高科技头盔，具有坚固的塑料编织外壳和非正面视角的间接视觉系统。它可以防御除最强大或幸运瞄准之外的所有射击。\n\n最初是标准的装甲头盔，经过修改以包括枪连杆，但代价是移除面板，牺牲防御以提高进攻能力。</VFEE_Apparel_DeserterHelmet.description>
   <!--EN: deserter helmet-->
   <VFEE_Apparel_DeserterHelmet.label>沙漠头盔</VFEE_Apparel_DeserterHelmet.label>
   <!--EN: A set of pauldrons and neck guard that extends down the wearer’s chest made from layered plasteel-weave plates. While it offers high protection for those areas, it is more of a status symbol and is intended to be worn over clothing and under armor without affecting mobility.-->
-  <VFEE_Apparel_JanissaryCuirass.description>一组由分层塑料编织板制成的肩甲和护颈，向下延伸到佩戴者的胸部。虽然它为这些区域提供了高度保护，但它更多的是一种身份象征，旨在穿在衣服和盔甲内而不影响行动能力。</VFEE_Apparel_JanissaryCuirass.description>
+  <VFEE_Apparel_JanissaryCuirass.description>一组肩甲和护颈，由分层的塑料编织板制成，向下延伸到佩戴者的胸部。虽然它为这些区域提供了高度保护，但它更多的是一种身份象征，旨在穿在衣服和盔甲内而不影响行动能力。</VFEE_Apparel_JanissaryCuirass.description>
   <!--EN: janissary cuirass-->
-  <VFEE_Apparel_JanissaryCuirass.label>禁卫军 胸甲</VFEE_Apparel_JanissaryCuirass.label>
+  <VFEE_Apparel_JanissaryCuirass.label>禁卫军胸甲</VFEE_Apparel_JanissaryCuirass.label>
   <!--EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nIncludes a plasteel-plated gas mask that offers full protection against gas-related attacks, such as toxic environments.-->
-  <VFEE_Apparel_JanissaryHelmet.description>高科技装甲头盔，配有内置状态计算机和防护性塑料编织板。
-
-包括一个塑料镀层覆盖脸部的塑料面罩，包括呼吸管或过滤器。，可针对与气体相关的攻击（例如有毒环境）提供全面保护。</VFEE_Apparel_JanissaryHelmet.description>
+  <VFEE_Apparel_JanissaryHelmet.description>高科技装甲头盔，配有内置状态计算机和防护性塑料编织板。\n\n包括一个塑料镀层防毒面具，可提供全面保护，防止与气体相关的攻击，例如有毒环境.</VFEE_Apparel_JanissaryHelmet.description>
   <!--EN: janissary helmet-->
   <VFEE_Apparel_JanissaryHelmet.label>禁卫军头盔</VFEE_Apparel_JanissaryHelmet.label>
   <!--EN: An exceedingly complex facemask fitted with advanced technology that is only known to high-ranking Sophian techpriests. Designed to be worn by designated researchers so that they can advance the empire’s needs without rest.\n\nThe inlaid techprint will synchronize and stimulate the wearer’s brain when they are performing research, effectively doubling research speed as well as restoring their needs for rest and recreation.-->
-  <VFEE_Apparel_TechfriarCrown.description>极其复杂的面罩，配备了只有高级索菲亚技术祭司才知道的先进技术。专为指定研究人员佩戴而设计，以便他们无需休息即可满足帝国的需求。
-
-镶嵌的科技印刷品将在佩戴者进行研究时同步并刺激他们的大脑，有效地使研究速度加倍，并恢复他们的休息和娱乐需求。</VFEE_Apparel_TechfriarCrown.description>
+  <VFEE_Apparel_TechfriarCrown.description>极其复杂的面罩，配备了只有高级索菲安技术牧师才知道的先进技术。专为指定研究人员佩戴而设计，以便他们无需休息即可推进帝国的需求。\n\n镶嵌的科技印刷品将在佩戴者进行研究时同步并刺激他们的大脑，有效地使研究速度加倍，并恢复他们对休息和休息的需求。娱乐。</VFEE_Apparel_TechfriarCrown.description>
   <!--EN: techfriar crown-->
-  <VFEE_Apparel_TechfriarCrown.label>技术修道士皇冠</VFEE_Apparel_TechfriarCrown.label>
+  <VFEE_Apparel_TechfriarCrown.label>技术修士皇冠</VFEE_Apparel_TechfriarCrown.label>
   <!--EN: A small, makeshift bomb. Can be easily defused if found on time.-->
-  <VFEE_Bomb.description>一个小型的临时炸弹。如果及时发现，可以轻松解除。</VFEE_Bomb.description>
+  <VFEE_Bomb.description>一枚小型临时炸弹。如果及时发现，可以轻松拆除。</VFEE_Bomb.description>
   <!--EN: bomb-->
   <VFEE_Bomb.label>炸弹</VFEE_Bomb.label>
   <!--EN: thump charge-->
-  <VFEE_Bullet_ChargeThumper.label>重击冲锋</VFEE_Bullet_ChargeThumper.label>
+  <VFEE_Bullet_ChargeThumper.label>重击充电</VFEE_Bullet_ChargeThumper.label>
   <!--EN: fletcher dart-->
   <VFEE_Bullet_FletcherDart.label>箭镖</VFEE_Bullet_FletcherDart.label>
   <!--EN: An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed.-->
-  <VFEE_Candelabra.description>一款精致、艺术的电动立灯，可以照亮一个区域。人们需要光来全速移动和工作。</VFEE_Candelabra.description>
+  <VFEE_Candelabra.description>精致、艺术的电子立灯，照亮一个区域。人们需要光才能全速移动和工作。</VFEE_Candelabra.description>
   <!--EN: candelabra-->
   <VFEE_Candelabra.label>烛台</VFEE_Candelabra.label>
   <!--EN: drop pod (incoming)-->
-  <VFEE_DropPodIncoming_Building.label>空投舱（传入）</VFEE_DropPodIncoming_Building.label>
+  <VFEE_DropPodIncoming_Building.label>投放容器（传入）</VFEE_DropPodIncoming_Building.label>
   <!--EN: A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere.-->
   <VFEE_GrandChair.description>一把舒适而优雅的椅子，它本身就是一件艺术品。可在桌子、工作站和其他地方使用。</VFEE_GrandChair.description>
   <!--EN: grand chair-->
-  <VFEE_GrandChair.label>大椅子</VFEE_GrandChair.label>
+  <VFEE_GrandChair.label>大椅</VFEE_GrandChair.label>
   <!--EN: A majestic rug with an imperial-style pattern, for decorating a floor.-->
   <VFEE_GrandRoyalRug.description>带有帝国风格图案的华丽地毯，用于装饰地板。</VFEE_GrandRoyalRug.description>
   <!--EN: grand royal rug-->
-  <VFEE_GrandRoyalRug.label>宏伟的皇家地毯</VFEE_GrandRoyalRug.label>
+  <VFEE_GrandRoyalRug.label>豪华皇家地毯</VFEE_GrandRoyalRug.label>
   <!--EN: A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them.-->
-  <VFEE_GrandTable.description>奢华、美丽的镶金桌子适合贵族，它本身就是一件艺术品。当椅子面向他们放置时，人们在桌子上吃饭。</VFEE_GrandTable.description>
+  <VFEE_GrandTable.description>奢华、美丽的镶金桌子，适合名门望族，它本身就是一件艺术品。当椅子面向人们放置时，人们会在桌子上吃饭。</VFEE_GrandTable.description>
   <!--EN: grand table-->
-  <VFEE_GrandTable.label>大桌</VFEE_GrandTable.label>
+  <VFEE_GrandTable.label>大表</VFEE_GrandTable.label>
   <!--EN: A modified charged-shot assault shotgun that incorporates mechanoid technology. Recovered thump cannons have been reversed engineered to produce a portable ranged weapon capable of firing blunt projectiles. Quite powerful but short ranged, with high performance against structures and heavily armored targets.-->
-  <VFEE_Gun_ChargeThumper.description>一种改进的带电射击突击霰弹枪，融合了机械技术。回收的重击炮经过逆向设计，生产出一种能够发射钝弹丸的便携式远程武器。威力相当强大，但射程较短，对建筑物和重装甲目标具有高性能。</VFEE_Gun_ChargeThumper.description>
+  <VFEE_Gun_ChargeThumper.description>一种改进的蓄电射击突击霰弹枪，融合了机械技术。回收的重击炮经过逆向设计，生产出一种能够发射钝弹丸的便携式远程武器。威力相当强大，但射程较短，对建筑物和重装甲目标具有高性能。</VFEE_Gun_ChargeThumper.description>
   <!--EN: charge thumper-->
   <VFEE_Gun_ChargeThumper.label>充电重击器</VFEE_Gun_ChargeThumper.label>
   <!--EN: stock-->
   <VFEE_Gun_ChargeThumper.tools.0.label>库存</VFEE_Gun_ChargeThumper.tools.0.label>
   <!--EN: barrel-->
-  <VFEE_Gun_ChargeThumper.tools.1.label>桶</VFEE_Gun_ChargeThumper.tools.1.label>
+  <VFEE_Gun_ChargeThumper.tools.1.label>枪管</VFEE_Gun_ChargeThumper.tools.1.label>
   <!--EN: A powerful turret mounted on the striker drop pod.-->
   <VFEE_Gun_StrikerTurret.description>安装在前锋空投舱上的强大炮塔。</VFEE_Gun_StrikerTurret.description>
   <!--EN: striker gun-->
   <VFEE_Gun_StrikerTurret.label>前锋枪</VFEE_Gun_StrikerTurret.label>
   <!--EN: A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms.-->
-  <VFEE_ImperialBanner.description>悬挂在垂直木框架上的装饰布条。适合皇家房间。</VFEE_ImperialBanner.description>
+  <VFEE_ImperialBanner.description>悬挂在垂直木框上的装饰布条。适用于皇家房间。</VFEE_ImperialBanner.description>
   <!--EN: imperial banner-->
   <VFEE_ImperialBanner.label>帝国旗帜</VFEE_ImperialBanner.label>
   <!--EN: A stoney bas relief of imperial imagery for decorating a floor.-->
@@ -103,39 +91,39 @@
   <!--EN: An intricate rug with an imperial-style pattern, for decorating a floor.-->
   <VFEE_LargeRoyalRug.description>带有帝国风格图案的复杂地毯，用于装饰地板。</VFEE_LargeRoyalRug.description>
   <!--EN: large royal rug-->
-  <VFEE_LargeRoyalRug.label>大皇家地毯</VFEE_LargeRoyalRug.label>
+  <VFEE_LargeRoyalRug.label>大型皇家地毯</VFEE_LargeRoyalRug.label>
   <!--EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.-->
-  <VFEE_MeleeWeapon_Toxblade.description>一种防御性近战角色武器，通常分配给每位自耕农或以上级别的帝国贵族。虽然装甲穿透与塑料刀片相当，但主要功能是在造成割伤时散发酸液和有毒蒸气。由于武器尺寸有限，该效果仅持续几秒钟，并且大约有一半的时间会造成。</VFEE_MeleeWeapon_Toxblade.description>
+  <VFEE_MeleeWeapon_Toxblade.description>一种防御性近战角色武器，通常分配给每位自耕农或以上级别的帝国贵族。虽然装甲穿透力与塑料刀片相当，但主要功能是在造成割伤时散发酸化剂液体和有毒蒸气。该效果仅持续几秒，并且由于武器尺寸有限，大约一半的时间会造成效果。</VFEE_MeleeWeapon_Toxblade.description>
   <!--EN: toxblade-->
   <VFEE_MeleeWeapon_Toxblade.label>毒刃</VFEE_MeleeWeapon_Toxblade.label>
   <!--EN: handle-->
-  <VFEE_MeleeWeapon_Toxblade.tools.0.label>处理</VFEE_MeleeWeapon_Toxblade.tools.0.label>
+  <VFEE_MeleeWeapon_Toxblade.tools.0.label>手柄</VFEE_MeleeWeapon_Toxblade.tools.0.label>
   <!--EN: point-->
-  <VFEE_MeleeWeapon_Toxblade.tools.1.label>观点</VFEE_MeleeWeapon_Toxblade.tools.1.label>
+  <VFEE_MeleeWeapon_Toxblade.tools.1.label>点</VFEE_MeleeWeapon_Toxblade.tools.1.label>
   <!--EN: edge-->
   <VFEE_MeleeWeapon_Toxblade.tools.2.label>边缘</VFEE_MeleeWeapon_Toxblade.tools.2.label>
   <!--EN: A defensive melee persona weapon usually assigned to every Imperial noble of rank Yeoman or above. While armor penetration is comparable to plasteel blades, the primary function is to dispense acidifer fluids and toxic vapors upon inflicted cuts. The effect only lasts a few seconds and is inflicted roughly half of the time due to the limited size of the weapon.-->
-  <VFEE_MeleeWeapon_ToxbladeBladelink.description>一种防御性近战角色武器，通常分配给每位自耕农或以上级别的帝国贵族。虽然装甲穿透与塑料刀片相当，但主要功能是在造成割伤时散发酸液和有毒蒸气。由于武器尺寸有限，该效果仅持续几秒钟，并且大约有一半的时间会造成。</VFEE_MeleeWeapon_ToxbladeBladelink.description>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.description>一种防御性近战角色武器，通常分配给每一位自耕农或以上级别的帝国贵族。虽然装甲穿透力与塑料刀片相当，但主要功能是在造成割伤时散发酸化剂液体和有毒蒸气。该效果仅持续几秒，并且由于武器尺寸有限，大约一半的时间会造成效果。</VFEE_MeleeWeapon_ToxbladeBladelink.description>
   <!--EN: persona toxblade-->
   <VFEE_MeleeWeapon_ToxbladeBladelink.label>角色毒刃</VFEE_MeleeWeapon_ToxbladeBladelink.label>
   <!--EN: handle-->
-  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>处理</VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>手柄</VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>
   <!--EN: point-->
-  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>观点</VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>点</VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>
   <!--EN: edge-->
   <VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>边缘</VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>
   <!--EN: orbital slicer-->
-  <VFEE_OrbitalSlicer.label>轨道切片机</VFEE_OrbitalSlicer.label>
+  <VFEE_OrbitalSlicer.label>轨道切片器</VFEE_OrbitalSlicer.label>
   <!--EN: An exceedingly complex stationary musical instrument crafted at a smithy. A series of tuned pipes are played from the keyboard which releases pressurized air to produce the desired pitch, which lasts as long as the key is pressed. The complex and intricate design, along with the unique sound it produces, make it an ideal apparatus for instigating concerts of the nobility as its music reaches far and wide.-->
-  <VFEE_PipeOrgan.description>在铁匠铺制作的极其复杂的固定乐器。通过键盘演奏一系列调音管，释放压缩空气以产生所需的音高，只要按下琴键，音高就会持续。其复杂精密的设计，加上其所发出的独特声音，使其成为举办贵族音乐会的理想器具，其音乐传播广泛。</VFEE_PipeOrgan.description>
+  <VFEE_PipeOrgan.description>一种在铁匠铺制作的极其复杂的固定乐器。通过键盘演奏一系列调音管，释放压缩空气以产生所需的音高，只要按下琴键，音高就会持续。其复杂精妙的设计，加上其所发出的独特声音，使其成为举办贵族音乐会的理想乐器，其音乐传播广泛。</VFEE_PipeOrgan.description>
   <!--EN: organ-->
-  <VFEE_PipeOrgan.label>器官</VFEE_PipeOrgan.label>
+  <VFEE_PipeOrgan.label>风琴</VFEE_PipeOrgan.label>
   <!--EN: text_todo-->
-  <VFEE_Poison.description>文本待办事项</VFEE_Poison.description>
+  <VFEE_Poison.description>毒药</VFEE_Poison.description>
   <!--EN: poison-->
-  <VFEE_Poison.label>毒</VFEE_Poison.label>
+  <VFEE_Poison.label>毒药</VFEE_Poison.label>
   <!--EN: A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect.-->
-  <VFEE_RoyalMirror.description>一面美丽而优雅的镜子。为附近的所有床位带来一点舒适感。在同一张床附近放置多于一面镜子没有任何效果。</VFEE_RoyalMirror.description>
+  <VFEE_RoyalMirror.description>美丽优雅的镜子。为附近的所有床位带来一点舒适感。在同一张床附近放置多于一面镜子没有效果。</VFEE_RoyalMirror.description>
   <!--EN: royal mirror-->
   <VFEE_RoyalMirror.label>皇家镜子</VFEE_RoyalMirror.label>
   <!--EN: A huge sculpture sized to dominate a room.-->
@@ -143,41 +131,41 @@
   <!--EN: grand imperial sculpture-->
   <VFEE_RoyalSculptureGrand.label>宏伟的皇家雕塑</VFEE_RoyalSculptureGrand.label>
   <!--EN: A person-sized piece of material sculpted into an artistic form.-->
-  <VFEE_RoyalSculptureLarge.description>一块人大小的材料被雕刻成艺术形式。</VFEE_RoyalSculptureLarge.description>
+  <VFEE_RoyalSculptureLarge.description>雕刻成艺术形式的人体大小的材料。</VFEE_RoyalSculptureLarge.description>
   <!--EN: large imperial sculpture-->
   <VFEE_RoyalSculptureLarge.label>大型皇家雕塑</VFEE_RoyalSculptureLarge.label>
   <!--EN: A torso-sized piece of material sculpted into an artistic form.-->
-  <VFEE_RoyalSculptureSmall.description>一块躯干大小的材料被雕刻成艺术形式。</VFEE_RoyalSculptureSmall.description>
+  <VFEE_RoyalSculptureSmall.description>躯干大小的材料被雕刻成艺术形式。</VFEE_RoyalSculptureSmall.description>
   <!--EN: small imperial sculpture-->
   <VFEE_RoyalSculptureSmall.label>小型皇家雕塑</VFEE_RoyalSculptureSmall.label>
   <!--EN: A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere.-->
-  <VFEE_RoyalStool.description>适合贵族的奢华镶金凳子。可在桌子、工作站和其他地方使用。</VFEE_RoyalStool.description>
+  <VFEE_RoyalStool.description>适合贵族的豪华镶金凳子。可在桌子、工作站和其他地方使用。</VFEE_RoyalStool.description>
   <!--EN: royal stool-->
-  <VFEE_RoyalStool.label>皇家凳子</VFEE_RoyalStool.label>
+  <VFEE_RoyalStool.label>皇家凳</VFEE_RoyalStool.label>
   <!--EN: A slender, modest slab with limited engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events.-->
   <VFEE_SteleSmall.description>一块细长、朴素的石板，侧面有有限的雕刻。自古以来，石碑就被用来纪念个人、战斗和其他重要事件。</VFEE_SteleSmall.description>
   <!--EN: small stele-->
-  <VFEE_SteleSmall.label>small stele</VFEE_SteleSmall.label>
+  <VFEE_SteleSmall.label>小石碑</VFEE_SteleSmall.label>
   <!--EN: A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged.-->
-  <VFEE_Turret_StrikerTurret.description>重新设计的货舱，旨在在撞击时隐藏稳定腿并部署强大的炮塔。电池和弹药库有限，如果耗尽或严重损坏，就会自毁。</VFEE_Turret_StrikerTurret.description>
+  <VFEE_Turret_StrikerTurret.description>重新设计的货舱，旨在在撞击时隐藏稳定腿并部署强大的炮塔。电池和弹药池有限，如果耗尽或严重损坏，将会自毁。</VFEE_Turret_StrikerTurret.description>
   <!--EN: striker turret-->
-  <VFEE_Turret_StrikerTurret.label>撞击炮塔</VFEE_Turret_StrikerTurret.label>
+  <VFEE_Turret_StrikerTurret.label>前锋炮塔</VFEE_Turret_StrikerTurret.label>
   <!--EN: An unfinished organ.-->
-  <VFEE_UnfinishedOrgan.description>一个未完成的器官。</VFEE_UnfinishedOrgan.description>
+  <VFEE_UnfinishedOrgan.description>未完成的器官。</VFEE_UnfinishedOrgan.description>
   <!--EN: unfinished organ-->
   <VFEE_UnfinishedOrgan.label>未完成的器官</VFEE_UnfinishedOrgan.label>
   <!--EN: A spacer-tech imperial gunship designed for transit between surface and orbit, or between moons of a planetary system. Equipped with a twin-linked autocannon for ground support, these armored shuttles often land in the middle of the battlefield to extract stranded troops.-->
-  <VFEI_ArmoredShuttle.description>一种太空技术帝国武装直升机，设计用于在地表和轨道之间或行星系统的卫星之间运输。这些装甲穿梭机配备了双联自动炮用于地面支援，通常降落在战场中央以解救受困部队。</VFEI_ArmoredShuttle.description>
+  <VFEI_ArmoredShuttle.description>一种太空技术帝国武装直升机，设计用于在地表和轨道之间或行星系统的卫星之间运输。这些装甲航天飞机配备了用于地面支援的双连自动炮，经常降落在战场中央以营救受困部队。</VFEI_ArmoredShuttle.description>
   <!--EN: armored shuttle-->
-  <VFEI_ArmoredShuttle.label>装甲梭</VFEI_ArmoredShuttle.label>
+  <VFEI_ArmoredShuttle.label>装甲航天飞机</VFEI_ArmoredShuttle.label>
   <!--EN: armored shuttle (incoming)-->
   <VFEI_ArmoredShuttleIncoming.label>装甲穿梭机（来港）</VFEI_ArmoredShuttleIncoming.label>
   <!--EN: armored shuttle (leaving)-->
-  <VFEI_ArmoredShuttleLeaving.label>装甲穿梭机（出发）</VFEI_ArmoredShuttleLeaving.label>
+  <VFEI_ArmoredShuttleLeaving.label>装甲穿梭机（离开）</VFEI_ArmoredShuttleLeaving.label>
   <!--EN: A powerful, twin-linked autocannon.-->
-  <VFEI_TurretArmoredShuttle.description>强大的双联自动炮。</VFEI_TurretArmoredShuttle.description>
+  <VFEI_TurretArmoredShuttle.description>一门强大的双连自动炮。</VFEI_TurretArmoredShuttle.description>
   <!--EN: double autocannon-->
-  <VFEI_TurretArmoredShuttle.label>双自动炮</VFEI_TurretArmoredShuttle.label>
+  <VFEI_TurretArmoredShuttle.label>双机炮</VFEI_TurretArmoredShuttle.label>
   <!--EN: A glorious, long and flowing robe embroidered with intricately complex decorative designs.-->
   <VFE_Apparel_StellicRobe.description>华丽、长而飘逸的长袍，绣有错综复杂的装饰图案。</VFE_Apparel_StellicRobe.description>
   <!--EN: stellic robe-->

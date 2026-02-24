@@ -2,58 +2,49 @@
 <LanguageData>
   <VRE_WolfmenTransport.questContentRules.rulesStrings>
     <!--EN: wolfmanShuttleCrashedLetterLabel->Crashed shuttle-->
-    <li>wolfmanShuttleCrashedLetterLabel-&gt;坠毁的航天飞机</li>
+    <li>wolfmanShuttleCrashedLetterLabel-&gt;穿梭机坠毁</li>
     <!--EN: wolfmanShuttleCrashedLetterText->A shuttle containing a wolfman leader and [WolfmenCount] wolfmen refugees has crashed nearby. They will exit the crashed craft and prepare to venture on.-->
-    <li>wolfmanShuttleCrashedLetterText-&gt;一架载有狼人首领和 [WolfmenCount] 狼人难民的航天飞机在附近坠毁。他们将离开坠毁的飞船并准备继续冒险。</li>
+    <li>wolfmanShuttleCrashedLetterText-&gt;一艘载有1位化狼种领袖和[WolfmenCount]名化狼种难民的穿梭机坠毁在了附近。他们将于此处稍作休整，准备再次踏上冒险旅途。</li>
     <!--EN: reinforcementsArrivedLetterLabel->Wolfmen reinforcements-->
-    <li>reinforcementsArrivedLetterLabel-&gt;狼人增援</li>
+    <li>reinforcementsArrivedLetterLabel-&gt;化狼种增援</li>
     <!--EN: reinforcementsArrivedLetterText->Wolfmen are arriving in drop pods to reinforce the crashed refugees.-->
-    <li>reinforcementsArrivedLetterText-&gt;狼人乘坐空投舱抵达，以增援坠毁的难民。</li>
+    <li>reinforcementsArrivedLetterText-&gt;化狼种难民已呼叫了空投增援部队。</li>
     <!--EN: letterLabelBeggarsBetrayed->Betrayed refugees-->
-    <li>letterLabelBeggarsBetrayed-&gt;被背叛的难民</li>
+    <li>letterLabelBeggarsBetrayed-&gt;难民被背叛</li>
     <!--EN: letterTextBeggarsBetrayed->The wolfmen refugees are betrayed by your actions and will try to defend themselves.-->
-    <li>letterTextBeggarsBetrayed-&gt;狼人难民被你的行为背叛了，他们会试图保卫自己。</li>
+    <li>letterTextBeggarsBetrayed-&gt;你的行为背叛了化狼种难民，他们现在会诉诸武力以保护自己。</li>
   </VRE_WolfmenTransport.questContentRules.rulesStrings>
-  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
-    <!--EN: questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]-->
-    <li>questDescription-&gt;您已截获求救信号！一架载有一群狼人难民的航天飞机在空中飞行时遇到了困难。他们的领袖和其他 [WolfmenCount] 难民一起恳求您允许他们在 [map_definite] 附近坠毁。 
-
-一旦船只坠毁，狼人就会尝试重新集结并继续冒险。如果你允许他们在你附近坠毁，他们会提出将你的一名殖民者变成狼人。您也可以利用这个机会打击或逮捕他们。如果您能捕获其中任何一个，您就可以强迫他们将您的一名殖民者变成狼人。
-
-[wolfmenInfo]</li>
-    <!--EN: wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)-->
-    <li>wolfmenInfo-&gt;(*灰色)关于狼人：狼人在整个殖民空间中畅通无阻地传播，以争夺领土主权并建立群体或更大的氏族。他们的狼人形态削弱了夜间活动能力，用许多优势换取了能够与他人分享异种能力。另一方面，它们的狼人形态具有夜间活动的优势，提高了近距离战斗力，超自然的速度和再生能力，以及令人振奋的、阻碍言语的嚎叫声，随着更多狼群成员的加入，这种嚎叫声会进一步改善。（/格雷）</li>
-  </VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings>[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向我们透露了一条消息。看起来，旅途中的[siteFaction_pawnsPlural]与他们的驮运动物正在我们附近的某处停歇。\n[asker_nameDef]告诉了我们这支商队的落脚处，或许可以打他们一个措手不及。<!--EN: questDescription->You have intercepted a distress signal! A shuttle carrying a group of wolfmen refugees is having trouble with staying airborne. Their leader, alongside [WolfmenCount] other refugees is begging you to allow them to crash near [map_definite]. \n\nOnce the ship has crashed, wolfmen will try to regroup and venture on. They offer to transform one of your colonists into a wolfman if you allow them to crash near you. You can also use this opportunity to fight or arrest them. If you can capture any of them, you can force them to turn one of your colonists into a wolfman.\n\n[wolfmenInfo]--><li>questDescription-&gt;我们收到了一个求救信号！一艘载有1位化狼种领袖和[WolfmenCount]名化狼种难民的穿梭机在航行时出现故障。他们请求你允许他们迫降在[map_definite]附近。\n\n一旦飞船成功迫降，这些化狼种难民将会于原地稍作休整，随后继续踏上冒险旅途。当然，你也可以趁机背叛这些化狼种并攻击他们。如果你能抓住他们中的一员，就可以迫使其将你的一个殖民者变成化狼种。\n\n[wolfmenInfo]</li><!--EN: wolfmenInfo->(*Gray)About wolfmen: Wolfmen have propagated unimpeded throughout colonized space to stake territorial claims and establish packs or larger clans. Their wolfman form has diminished nocturnal abilities, trading many advantages in exchange for being able to share their xenogerm with others. Their lycan form, on the other hand, has nocturnal advantages, improved close combat effectiveness, supernatural speed and regeneration, and an invigorating howl that impedes speech which improves further as more pack members join in.(/Gray)--><li>wolfmenInfo-&gt;(*Gray)关于化狼种：\n有关化狼种的起源可谓众说纷纭，时至今日尚未有一个确切的定论。踪迹遍布各个殖民世界的他们在缺少制约因素的情况下肆意繁衍生息，并为扩张壮大族群而争抢地盘。化狼种的肉体会因昼夜更替而发生变化，处于人形态（白天）的他们与智人种几乎无异，但可以同他人分享自己的系谱胚芽。而处于狼形态（晚上）的他们不仅拥有更出色的近战能力、自愈能力与移动速度，还能使用战嚎来激励附近的同伴，不过代价则是会失去语言能力。激励战嚎的效果可通过多次叠加变得越来越强。(/Gray)</li></VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
   <VRE_WolfmenTransport.questNameRules.rulesStrings>
     <!--EN: questName->[shipAdjective] [shipNoun]-->
-    <li>questName-&gt;[shipAdjective] [shipNoun]</li>
+    <li>questName-&gt;[shipAdjective][shipNoun]</li>
     <!--EN: shipAdjective->wolfmen-->
-    <li>shipAdjective-&gt;狼人</li>
+    <li>shipAdjective-&gt;化狼</li>
     <!--EN: shipAdjective->wolf-->
-    <li>shipAdjective-&gt;狼</li>
+    <li>shipAdjective-&gt;狼人</li>
     <!--EN: shipAdjective->lycan-->
-    <li>shipAdjective-&gt;狼人</li>
+    <li>shipAdjective-&gt;化狼种</li>
     <!--EN: shipAdjective->werewolf-->
-    <li>shipAdjective-&gt;狼人</li>
+    <li>shipAdjective-&gt;群狼</li>
     <!--EN: shipAdjective->nocturnal-->
-    <li>shipAdjective-&gt;夜间</li>
+    <li>shipAdjective-&gt;夜行</li>
     <!--EN: shipAdjective->howling-->
     <li>shipAdjective-&gt;嚎叫</li>
     <!--EN: shipAdjective->furry-->
-    <li>shipAdjective-&gt;拟人化的动物角色，具有人的个性与特点。的</li>
+    <li>shipAdjective-&gt;勇狼</li>
     <!--EN: shipAdjective->canine-->
-    <li>shipAdjective-&gt;犬科动物</li>
+    <li>shipAdjective-&gt;犬狼</li>
     <!--EN: shipNoun->ship-->
-    <li>shipNoun-&gt;船</li>
+    <li>shipNoun-&gt;飞船</li>
     <!--EN: shipNoun->shuttle-->
-    <li>shipNoun-&gt;班车</li>
+    <li>shipNoun-&gt;穿梭机</li>
     <!--EN: shipNoun->craft-->
-    <li>shipNoun-&gt;工艺</li>
+    <li>shipNoun-&gt;飞行器</li>
     <!--EN: shipNoun->hulk-->
-    <li>shipNoun-&gt;绿巨人</li>
+    <li>shipNoun-&gt;坠毁</li>
     <!--EN: shipNoun->crash-->
-    <li>shipNoun-&gt;崩溃</li>
+    <li>shipNoun-&gt;迫降</li>
     <!--EN: shipNoun->wreck-->
-    <li>shipNoun-&gt;沉船</li>
+    <li>shipNoun-&gt;残骸</li>
   </VRE_WolfmenTransport.questNameRules.rulesStrings>
 </LanguageData>

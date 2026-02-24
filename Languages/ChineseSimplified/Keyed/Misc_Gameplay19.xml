@@ -1,21 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Amount of Memes changed during Schism:-->
-  <VIESAS.AmountOfMemesChangedDuringSchism>分裂期间模因的数量发生了变化：</VIESAS.AmountOfMemesChangedDuringSchism>
+  <VIESAS.AmountOfMemesChangedDuringSchism>在分裂时改变的模因数量：</VIESAS.AmountOfMemesChangedDuringSchism>
   <!--EN: Ideology split: {0}-->
-  <VIESAS.IdeoSplit>意识形态分裂：{0}</VIESAS.IdeoSplit>
+  <VIESAS.IdeoSplit>文化分裂：{0}</VIESAS.IdeoSplit>
   <!--EN: As with all big communities, certain traditions in your colony developed in a different way. Some people began to see the old ways as no longer valid in the times you're in, and they decided that the future requires your ideology to adapt. As such, {0} has been found.
 
 {1}
 
 Following people decided to join the new ideology:
 {2}-->
-  <VIESAS.IdeoSplitDesc>与所有大型社区一样，您所在殖民地的某些传统以不同的方式发展。有些人开始认为旧的方式在你所处的时代不再有效，他们认为未来需要你的意识形态来适应。因此，已找到 {0}。
+  <VIESAS.IdeoSplitDesc>随着人数不断增多，你殖民地里的某些传统开始朝着不同的方向发展。有些人不再认同旧有的理论，并认为你的文化需要改革以适应未来。因此，{0}被建立了。
 
 {1}
 
-以下人员决定加入新意识形态：
-{2}</VIESAS.IdeoSplitDesc>
+以下这些人决定加入新的文化：
+{2}
+
+这次分裂带来了更多的挑战，你需要管理殖民地里的两种不同的文化，直到其中一种压制住了另一种。</VIESAS.IdeoSplitDesc>
   <!--EN: With a schism come new challenges. You will now have to take care of two unique ideologies in your colony, until one of them dominates the other.
 
 Select an option below to decide what to do further with the new ideology. You can configure it or accept the ideology as is and close the window.-->
@@ -23,25 +25,25 @@ Select an option below to decide what to do further with the new ideology. You c
 
 选择下面的一个选项来决定如何进一步处理新的意识形态。您可以配置它或按原样接受意识形态并关闭窗口。</VIESAS.IdeoSplitDescOptions>
   <!--EN: Ideology conversion day interval check:-->
-  <VIESAS.IdeologyConversionCheckDaysInterval>意识形态转换日间隔检查：</VIESAS.IdeologyConversionCheckDaysInterval>
+  <VIESAS.IdeologyConversionCheckDaysInterval>文化转变判定的天数间隔：</VIESAS.IdeologyConversionCheckDaysInterval>
   <!--EN: Meme changed-->
-  <VIESAS.MemeChanged>模因改变了</VIESAS.MemeChanged>
+  <VIESAS.MemeChanged>改变的模因：</VIESAS.MemeChanged>
   <!--EN: Minimum amount of Colonists in one Ideology for Schism to Occur:-->
-  <VIESAS.MinimumColonistCountForSchismToOccur>一种意识形态中发生分裂的最低殖民者数量：</VIESAS.MinimumColonistCountForSchismToOccur>
+  <VIESAS.MinimumColonistCountForSchismToOccur>加入新文化的最少殖民者百分比：</VIESAS.MinimumColonistCountForSchismToOccur>
   <!--EN: New meme-->
-  <VIESAS.NewMeme>新模因</VIESAS.NewMeme>
+  <VIESAS.NewMeme>新的模因：</VIESAS.NewMeme>
   <!--EN: Percentage odds of Schism occuring:-->
-  <VIESAS.OddsOfSchismToOccur>发生分裂的百分比几率：</VIESAS.OddsOfSchismToOccur>
+  <VIESAS.OddsOfSchismToOccur>分裂发生的可能性百分比：</VIESAS.OddsOfSchismToOccur>
   <!--EN: {0} forgotten-->
-  <VIESAS.OldIdeoForgotten>{0} 忘记了</VIESAS.OldIdeoForgotten>
+  <VIESAS.OldIdeoForgotten>{0}已被遗忘</VIESAS.OldIdeoForgotten>
   <!--EN: {0} has been forgotten. Nobody on this planet remembers the old ways, and the traditions, culture and creed of that ideology have been lost to progress.
 
 Ideology has vanished due to lack of followers.-->
-  <VIESAS.OldIdeoForgottenDesc>{0} 已被遗忘。这个星球上没有人记得旧的方式，这种意识形态的传统、文化和信条已经随着进步而消失。
-
-意识形态因缺乏追随者而消失。</VIESAS.OldIdeoForgottenDesc>
+  <VIESAS.OldIdeoForgottenDesc>{0}已被彻底遗忘，这颗星球上不再有人还留有这种陈旧传统的记忆。所有与之相关的教条，传统和理念都已被遗弃。
+  
+由于缺乏追随者，该文化已经消失了。</VIESAS.OldIdeoForgottenDesc>
   <!--EN: Max percentage of low certainty colonists to form new ideo:-->
-  <VIESAS.PctOfColonistsToTurnToNewIdeology>低确定性殖民者形成新想法的最大百分比：</VIESAS.PctOfColonistsToTurnToNewIdeology>
+  <VIESAS.PctOfColonistsToTurnToNewIdeology>加入新文化的最大殖民者百分比：</VIESAS.PctOfColonistsToTurnToNewIdeology>
   <!--EN: Threshold of certainty of Colonists to join new ideo:-->
   <VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>殖民者加入新想法的确定性门槛：</VIESAS.ThresholdOfColonistCertaintyToTurnToNewIdeology>
 </LanguageData>

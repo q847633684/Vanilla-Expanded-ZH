@@ -1,100 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: All-->
-  <VPE.All>全部</VPE.All>
+  <VPE.All>所有</VPE.All>
   <!--EN: Already knows {0}-->
-  <VPE.AlreadyHasPsycast>已经知道 {0}</VPE.AlreadyHasPsycast>
+  <VPE.AlreadyHasPsycast>已有{0}</VPE.AlreadyHasPsycast>
   <!--EN: Already wearing a psyring-->
-  <VPE.AlreadyPsyring>已经佩戴了西林</VPE.AlreadyPsyring>
+  <VPE.AlreadyPsyring>已经佩戴一个智环</VPE.AlreadyPsyring>
   <!--EN: Already researched-->
-  <VPE.AlreadyResearch>已经研究过了</VPE.AlreadyResearch>
+  <VPE.AlreadyResearch>已有研究</VPE.AlreadyResearch>
   <!--EN: Currently channeling {0}-->
-  <VPE.CurrentChanneling>当前正在引导 {0}</VPE.CurrentChanneling>
+  <VPE.CurrentChanneling>正在传输{0}</VPE.CurrentChanneling>
   <!--EN: {0} other pawns nearby-->
-  <VPE.GroupFocus>{0} 附近的其他棋子</VPE.GroupFocus>
+  <VPE.GroupFocus>有其它{0}人在附近</VPE.GroupFocus>
   <!--EN: Maximum quality: {0}-->
-  <VPE.MaxQuality>最高质量：{0}</VPE.MaxQuality>
+  <VPE.MaxQuality>最高品质：{0}</VPE.MaxQuality>
   <!--EN: Target must be in the same faction.-->
-  <VPE.MustBeAlly>目标必须属于同一阵营。</VPE.MustBeAlly>
+  <VPE.MustBeAlly>目标必须属于同一派系</VPE.MustBeAlly>
   <!--EN: Target must be ally or neutral.-->
-  <VPE.MustBeAllyOrNeutral>目标必须是盟友或中立的。</VPE.MustBeAllyOrNeutral>
+  <VPE.MustBeAllyOrNeutral>目标必须是友方或是中立</VPE.MustBeAllyOrNeutral>
   <!--EN: Target must be corpse.-->
-  <VPE.MustBeCorpse>目标必须是尸体。</VPE.MustBeCorpse>
+  <VPE.MustBeCorpse>目标必须是尸体</VPE.MustBeCorpse>
   <!--EN: Corpse must be humanlike.-->
-  <VPE.MustBeCorpseHumanlike>尸体必须是人形的。</VPE.MustBeCorpseHumanlike>
+  <VPE.MustBeCorpseHumanlike>尸体必须属于人形生物。</VPE.MustBeCorpseHumanlike>
   <!--EN: Target must be damaged-->
-  <VPE.MustBeDamaged>目标必须被损坏</VPE.MustBeDamaged>
+  <VPE.MustBeDamaged>目标必须受到伤害</VPE.MustBeDamaged>
   <!--EN: Target must be downed.-->
-  <VPE.MustBeDowned>目标必须被击落。</VPE.MustBeDowned>
+  <VPE.MustBeDowned>目标必须已经倒地</VPE.MustBeDowned>
   <!--EN: Target must in the dark-->
-  <VPE.MustBeInDark>目标必须在黑暗中</VPE.MustBeInDark>
+  <VPE.MustBeInDark>目标必须身处暗处</VPE.MustBeInDark>
   <!--EN: Must be a psycaster-->
-  <VPE.MustBePsycaster>一定是心理师</VPE.MustBePsycaster>
+  <VPE.MustBePsycaster>必须是灵能者</VPE.MustBePsycaster>
   <!--EN: Target steel slag-->
-  <VPE.MustBeSteelSlag>目标钢渣</VPE.MustBeSteelSlag>
+  <VPE.MustBeSteelSlag>选择一个钢渣</VPE.MustBeSteelSlag>
   <!--EN: Target a stone chunk-->
-  <VPE.MustBeStoneChunk>瞄准一块石头</VPE.MustBeStoneChunk>
+  <VPE.MustBeStoneChunk>选择一个石块</VPE.MustBeStoneChunk>
   <!--EN: Must consume power.-->
-  <VPE.MustConsumePower>必须消耗电力。</VPE.MustConsumePower>
+  <VPE.MustConsumePower>必须消耗能量。</VPE.MustConsumePower>
   <!--EN: Must target eltex-->
-  <VPE.MustEltex>必须针对 eltex</VPE.MustEltex>
+  <VPE.MustEltex>必须选定灵质</VPE.MustEltex>
   <!--EN: Target's equipment must be damaged.-->
-  <VPE.MustHaveDamagedEquipment>目标的设备必须被损坏。</VPE.MustHaveDamagedEquipment>
+  <VPE.MustHaveDamagedEquipment>目标的装备耐久不能是满的</VPE.MustHaveDamagedEquipment>
   <!--EN: Must have at least {0} neural heat.-->
-  <VPE.MustHaveHeatAmount>必须至少具有 {0} 神经热度。</VPE.MustHaveHeatAmount>
+  <VPE.MustHaveHeatAmount>必须拥有至少{0}点心灵熵。</VPE.MustHaveHeatAmount>
   <!--EN: {PAWN_nameDef} must have living family members.-->
-  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef} 必须有在世的家庭成员。</VPE.MustHaveLivingFamilyMembers>
+  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef}必须拥有尚在人世的家人。</VPE.MustHaveLivingFamilyMembers>
   <!--EN: Target must have at least one psycaster level.-->
-  <VPE.MustHavePsychicLevel>目标必须至少具有一级心灵施法者等级。</VPE.MustHavePsychicLevel>
+  <VPE.MustHavePsychicLevel>目标必须拥有至少一级灵能等级。</VPE.MustHavePsychicLevel>
   <!--EN: Target must have quality-->
-  <VPE.MustHaveQuality>目标必须有品质</VPE.MustHaveQuality>
+  <VPE.MustHaveQuality>目标必须拥有品质</VPE.MustHaveQuality>
   <!--EN: Must target a battery or fiendly mechanoid-->
-  <VPE.MustTargetBattery>必须瞄准电池或凶猛的机械体</VPE.MustTargetBattery>
+  <VPE.MustTargetBattery>必须选定一个电池</VPE.MustTargetBattery>
   <!--EN: Nearby-->
   <VPE.Nearby>附近</VPE.Nearby>
   <!--EN: Cannot target animals-->
   <VPE.NoAnimals>不能以动物为目标</VPE.NoAnimals>
   <!--EN: No available fingers.-->
-  <VPE.NoAvailableFingers>没有可用的手指。</VPE.NoAvailableFingers>
+  <VPE.NoAvailableFingers>剩余手指不足</VPE.NoAvailableFingers>
   <!--EN: No nearby chunks-->
-  <VPE.NoChunks>附近没有块</VPE.NoChunks>
+  <VPE.NoChunks>附近没有块堆</VPE.NoChunks>
   <!--EN: Not enough neural heat available.-->
-  <VPE.NotEnoughHeat>没有足够的神经热量。</VPE.NotEnoughHeat>
+  <VPE.NotEnoughHeat>剩余心灵熵不足</VPE.NotEnoughHeat>
   <!--EN: Not a psycaster-->
-  <VPE.NotPsycaster>不是心灵施法者</VPE.NotPsycaster>
+  <VPE.NotPsycaster>不是灵能者</VPE.NotPsycaster>
   <!--EN: Pack Summoned!-->
-  <VPE.PackSummon>包被召唤了！</VPE.PackSummon>
+  <VPE.PackSummon>兽群来临！</VPE.PackSummon>
   <!--EN: A pack of wild animals have been summoned by {0} to defend the colony.-->
-  <VPE.PackSummon.Desc>{0} 召唤了一群野生动物来保卫殖民地。</VPE.PackSummon.Desc>
+  <VPE.PackSummon.Desc>一群野生动物受{0}的召唤前来保护殖民地。</VPE.PackSummon.Desc>
   <!--EN: Move to the next PsySet. Right click to choose a specific one.\nCurrent: {0}, Next: {1}-->
-  <VPE.PsySetDesc>移至下一个 PsySet。右键单击以选择特定的一个。
-当前：{0}，下一个：{1}</VPE.PsySetDesc>
+  <VPE.PsySetDesc>切换到下一个技能组。右击选择特定一个。\n当前：{0}，下一个：{1}</VPE.PsySetDesc>
   <!--EN: Next PsySet-->
-  <VPE.PsySetNext>下一个 PsySet</VPE.PsySetNext>
+  <VPE.PsySetNext>下一个技能组</VPE.PsySetNext>
   <!--EN: Previous PsySet-->
-  <VPE.PsySetPrev>以前的 PsySet</VPE.PsySetPrev>
+  <VPE.PsySetPrev>上一个技能组</VPE.PsySetPrev>
   <!--EN: Psylink level gained: {0}-->
-  <VPE.PsylinkGained>获得的心理链接等级：{0}</VPE.PsylinkGained>
+  <VPE.PsylinkGained>获得启灵等级：{0}</VPE.PsylinkGained>
   <!--EN: {0} has gained a new level of psylink. Upon reaching that level, {1} raised psycasting-related stats slightly. {1} can now also allocate a point to either learn a new psycast, improve psycasting stats further or unlock a new meditation focus.\n\nPsycasting experience needed for next level is: {2}.-->
-  <VPE.PsylinkGained.Desc>{0} 的 psylink 达到了新的水平。达到该水平后，{1} 略微提高了与 psycasting 相关的统计数据。 {1}现在还可以分配一个点来学习新的心灵广播、进一步提高心灵广播统计数据或解锁新的冥想焦点。
-
-下一级别所需的心灵广播经验是：{2}。</VPE.PsylinkGained.Desc>
+  <VPE.PsylinkGained.Desc>{0}获得了新的启灵等级，{1}的灵能属性略微提升了。{1}可以将技能点分配给学习新能力，强化灵能属性或是解锁新灵媒。\n\n晋升到下一等级所需的灵能经验：{2}。</VPE.PsylinkGained.Desc>
   <!--EN: Target quality too high, must be lower than {0}.-->
   <VPE.QualityTooHigh>目标质量太高，必须低于 {0}。</VPE.QualityTooHigh>
   <!--EN: Must be researchable-->
-  <VPE.Research>必须是可研究的</VPE.Research>
+  <VPE.Research>必须可被研究</VPE.Research>
   <!--EN: Stop Hurricane-->
-  <VPE.StopHurricane>阻止飓风</VPE.StopHurricane>
+  <VPE.StopHurricane>停止飓风</VPE.StopHurricane>
   <!--EN: {0} things at level {1}-->
-  <VPE.ThingsOfLevel>{0} 级别 {1} 的事物</VPE.ThingsOfLevel>
+  <VPE.ThingsOfLevel>{0}件在{1}级的物品</VPE.ThingsOfLevel>
   <!--EN: Not enough value, must be worth at least $1 per item.-->
-  <VPE.TooCheap>价值不够，每件商品必须至少价值 1 美元。</VPE.TooCheap>
+  <VPE.TooCheap>价值过低，须至少单个物品价值$1。</VPE.TooCheap>
   <!--EN: Unlocked via Psycaster points-->
-  <VPE.UnlockedByPoints>通过 Psycaster 点解锁</VPE.UnlockedByPoints>
+  <VPE.UnlockedByPoints>用技能点解锁</VPE.UnlockedByPoints>
   <!--EN: {0} wealth nearby out of {1} total wealth-->
-  <VPE.WealthNearby>{0} 附近的财富占 {1} 总财富</VPE.WealthNearby>
+  <VPE.WealthNearby>殖民地总财富{1}中有{0}在附近</VPE.WealthNearby>
   <!--EN: Break Link-->
-  <VPE_BreakLink>断开链接</VPE_BreakLink>
+  <VPE_BreakLink>中止连接</VPE_BreakLink>
   <!--EN: Break the link and immediately kill this construct-->
-  <VPE_BreakLinkDesc>断开链接并立即终止此构造</VPE_BreakLinkDesc>
+  <VPE_BreakLinkDesc>中止连接并立刻杀死该构装体</VPE_BreakLinkDesc>
 </LanguageData>
